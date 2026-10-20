@@ -1,0 +1,886 @@
+{
+  "id": "sk-zilina-obce",
+  "name": "Obce v okrese Žilina",
+  "title": "Obce v okrese Žilina",
+  "description": "Všetky obce (municipality) v okrese Žilina, Žilinský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 35,
+      "fullname": "Babkov",
+      "shortname": "Babkov",
+      "zip": "013 11",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 105,
+      "fullname": "Belá",
+      "shortname": "Belá",
+      "zip": "013 05",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 165,
+      "fullname": "Bitarová",
+      "shortname": "Bitarová",
+      "zip": "010 04",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 277,
+      "fullname": "Brezany",
+      "shortname": "Brezany",
+      "zip": "010 04",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 299,
+      "fullname": "Brodno",
+      "shortname": "Brodno",
+      "zip": "010 14",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 321,
+      "fullname": "Budatín",
+      "shortname": "Budatín",
+      "zip": "010 03",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 369,
+      "fullname": "Bytčica",
+      "shortname": "Bytčica",
+      "zip": "010 09",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 68,
+      "fullname": "Bánová",
+      "shortname": "Bánová",
+      "zip": "010 04",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 383,
+      "fullname": "Celulózka",
+      "shortname": "Celulózka",
+      "zip": "010 01",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 557,
+      "fullname": "Divina",
+      "shortname": "Divina",
+      "zip": "013 31",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 558,
+      "fullname": "Divinka",
+      "shortname": "Divinka",
+      "zip": "013 31",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 569,
+      "fullname": "Dlhé Pole",
+      "shortname": "Dlhé Pole",
+      "zip": "013 32",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 615,
+      "fullname": "Dolná Tižina",
+      "shortname": "Dolná Tižina",
+      "zip": "013 04",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 657,
+      "fullname": "Dolný Hričov",
+      "shortname": "Dolný Hričov",
+      "zip": "013 41",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 778,
+      "fullname": "Fačkov",
+      "shortname": "Fačkov",
+      "zip": "013 15",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 797,
+      "fullname": "Forbaky - Klukany",
+      "shortname": "Forbaky - Klukany",
+      "zip": "013 32",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 816,
+      "fullname": "Gbeľany",
+      "shortname": "Gbeľany",
+      "zip": "013 02",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 990,
+      "fullname": "Horná Tižina",
+      "shortname": "Horná Tižina",
+      "zip": "013 06",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1039,
+      "fullname": "Horný Hričov",
+      "shortname": "Horný Hričov",
+      "zip": "013 42",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1102,
+      "fullname": "Hričovské Podhradie",
+      "shortname": "Hričovské Podhradie",
+      "zip": "013 41",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1069,
+      "fullname": "Hôrky",
+      "shortname": "Hôrky",
+      "zip": "010 04",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1297,
+      "fullname": "Jasenové",
+      "shortname": "Jasenové",
+      "zip": "013 19",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1376,
+      "fullname": "Kamenná Poruba",
+      "shortname": "Kamenná Poruba",
+      "zip": "013 14",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1407,
+      "fullname": "Keblov - Zárieč",
+      "shortname": "Keblov - Zárieč",
+      "zip": "013 32",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1518,
+      "fullname": "Konská",
+      "shortname": "Konská",
+      "zip": "013 13",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1602,
+      "fullname": "Kotrčiná Lúčka",
+      "shortname": "Kotrčiná Lúčka",
+      "zip": "013 02",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1651,
+      "fullname": "Krasňany",
+      "shortname": "Krasňany",
+      "zip": "013 03",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1663,
+      "fullname": "Kravárska",
+      "shortname": "Kravárska",
+      "zip": "013 32",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1713,
+      "fullname": "Kubíková",
+      "shortname": "Kubíková",
+      "zip": "013 05",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1724,
+      "fullname": "Kunerad",
+      "shortname": "Kunerad",
+      "zip": "013 13",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1430,
+      "fullname": "Kľače",
+      "shortname": "Kľače",
+      "zip": "013 19",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1779,
+      "fullname": "Lalinok",
+      "shortname": "Lalinok",
+      "zip": "013 31",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1852,
+      "fullname": "Lietava",
+      "shortname": "Lietava",
+      "zip": "013 18",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1853,
+      "fullname": "Lietavská Lúčka",
+      "shortname": "Lietavská Lúčka",
+      "zip": "013 11",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1854,
+      "fullname": "Lietavská Svinná",
+      "shortname": "Lietavská Svinná",
+      "zip": "013 11",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1855,
+      "fullname": "Lietavská Závadka",
+      "shortname": "Lietavská Závadka",
+      "zip": "013 18",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1982,
+      "fullname": "Lutiše",
+      "shortname": "Lutiše",
+      "zip": "013 05",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1989,
+      "fullname": "Lysica",
+      "shortname": "Lysica",
+      "zip": "013 05",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1974,
+      "fullname": "Lúky",
+      "shortname": "Lúky",
+      "zip": "013 31",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2020,
+      "fullname": "Malá Čierna",
+      "shortname": "Malá Čierna",
+      "zip": "015 01",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2111,
+      "fullname": "Marček",
+      "shortname": "Marček",
+      "zip": "013 32",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2239,
+      "fullname": "Mojš",
+      "shortname": "Mojš",
+      "zip": "010 01",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2240,
+      "fullname": "Mojšová Lúčka",
+      "shortname": "Mojšová Lúčka",
+      "zip": "010 01",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2305,
+      "fullname": "Nededza",
+      "shortname": "Nededza",
+      "zip": "013 02",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2330,
+      "fullname": "Nezbudská Lúčka",
+      "shortname": "Nezbudská Lúčka",
+      "zip": "013 24",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2367,
+      "fullname": "Nižné Kamence",
+      "shortname": "Nižné Kamence",
+      "zip": "013 06",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2555,
+      "fullname": "Ovčiarsko",
+      "shortname": "Ovčiarsko",
+      "zip": "010 04",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2593,
+      "fullname": "Paština Závada",
+      "shortname": "Paština Závada",
+      "zip": "013 41",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2615,
+      "fullname": "Peklina",
+      "shortname": "Peklina",
+      "zip": "013 41",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2692,
+      "fullname": "Podhorie",
+      "shortname": "Podhorie",
+      "zip": "013 18",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2756,
+      "fullname": "Poluvsie",
+      "shortname": "Poluvsie",
+      "zip": "013 13",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2772,
+      "fullname": "Porúbka",
+      "shortname": "Porúbka",
+      "zip": "013 11",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2793,
+      "fullname": "Považský Chlmec",
+      "shortname": "Považský Chlmec",
+      "zip": "010 03",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2903,
+      "fullname": "Rajec",
+      "shortname": "Rajec",
+      "zip": "015 01",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2904,
+      "fullname": "Rajecká Lesná",
+      "shortname": "Rajecká Lesná",
+      "zip": "013 15",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2905,
+      "fullname": "Rajecké Teplice",
+      "shortname": "Rajecké Teplice",
+      "zip": "013 13",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2996,
+      "fullname": "Rosina",
+      "shortname": "Rosina",
+      "zip": "013 22",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3285,
+      "fullname": "Stolečné",
+      "shortname": "Stolečné",
+      "zip": "013 32",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3303,
+      "fullname": "Strečno",
+      "shortname": "Strečno",
+      "zip": "013 24",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3294,
+      "fullname": "Stránske",
+      "shortname": "Stránske",
+      "zip": "013 13",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3291,
+      "fullname": "Stráňavy",
+      "shortname": "Stráňavy",
+      "zip": "013 25",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3296,
+      "fullname": "Stráža",
+      "shortname": "Stráža",
+      "zip": "013 04",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3301,
+      "fullname": "Strážov",
+      "shortname": "Strážov",
+      "zip": "010 01",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3359,
+      "fullname": "Svederník",
+      "shortname": "Svederník",
+      "zip": "013 32",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3527,
+      "fullname": "Teplička nad Váhom",
+      "shortname": "Teplička nad Váhom",
+      "zip": "013 01",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3531,
+      "fullname": "Terchová",
+      "shortname": "Terchová",
+      "zip": "013 06",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3604,
+      "fullname": "Trnové",
+      "shortname": "Trnové",
+      "zip": "010 01",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3645,
+      "fullname": "Turie",
+      "shortname": "Turie",
+      "zip": "013 12",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3723,
+      "fullname": "Varín",
+      "shortname": "Varín",
+      "zip": "013 03",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3747,
+      "fullname": "Veľká Čierna",
+      "shortname": "Veľká Čierna",
+      "zip": "015 01",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3880,
+      "fullname": "Višňové",
+      "shortname": "Višňové",
+      "zip": "013 23",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3931,
+      "fullname": "Vranie",
+      "shortname": "Vranie",
+      "zip": "010 14",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4101,
+      "fullname": "Zbyňov",
+      "shortname": "Zbyňov",
+      "zip": "013 19",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4040,
+      "fullname": "Zádubnie",
+      "shortname": "Zádubnie",
+      "zip": "010 03",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4063,
+      "fullname": "Zárieč - Keblov",
+      "shortname": "Zárieč - Keblov",
+      "zip": "013 32",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4067,
+      "fullname": "Zástranie",
+      "shortname": "Zástranie",
+      "zip": "010 03",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4085,
+      "fullname": "Závodie",
+      "shortname": "Závodie",
+      "zip": "010 04",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 482,
+      "fullname": "Čičmany",
+      "shortname": "Čičmany",
+      "zip": "013 15",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 755,
+      "fullname": "Ďurčiná",
+      "shortname": "Ďurčiná",
+      "zip": "015 01",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3479,
+      "fullname": "Šuja",
+      "shortname": "Šuja",
+      "zip": "015 01",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4194,
+      "fullname": "Žilina",
+      "shortname": "Žilina",
+      "zip": 0,
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4195,
+      "fullname": "Žilinská Lehota",
+      "shortname": "Žilinská Lehota",
+      "zip": "010 01",
+      "district_id": 79,
+      "okres": "Žilina",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Žilina - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Žilina, Žilinský kraj — s PSČ a kódom okresu. Obsahuje 82 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Žilina | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Žilina — 82 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 82 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

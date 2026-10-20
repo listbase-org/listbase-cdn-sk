@@ -1,0 +1,97 @@
+{
+  "id": "sk-merne-jednotky-force",
+  "name": "Merné jednotky — kategória 'force' (4)",
+  "title": "Merné jednotky — kategória 'force' (4)",
+  "description": "Merné jednotky kategórie 'force' z locale sk v CLDR, s názvami v slovenčine.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "skratka",
+      "label": "Skratka",
+      "type": "string"
+    },
+    {
+      "key": "uzky_tvar",
+      "label": "Uzky Tvar",
+      "type": "string"
+    },
+    {
+      "key": "vzor",
+      "label": "Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "force-kilogram-force",
+      "kategoria": "force",
+      "nazov": "kilopondy",
+      "skratka": "kp",
+      "uzky_tvar": "kp",
+      "vzor": "{0} kilopondov"
+    },
+    {
+      "id": 2,
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "kategoria": "force",
+      "nazov": "kilowatthodiny na 100 kilometrov",
+      "skratka": "kWh/100 km",
+      "uzky_tvar": "kWh/100 km",
+      "vzor": "{0} kilowatthodín na 100 kilometrov"
+    },
+    {
+      "id": 3,
+      "unit_code": "force-newton",
+      "kategoria": "force",
+      "nazov": "newtony",
+      "skratka": "N",
+      "uzky_tvar": "N",
+      "vzor": "{0} newtonov"
+    },
+    {
+      "id": 4,
+      "unit_code": "force-pound-force",
+      "kategoria": "force",
+      "nazov": "libry sily",
+      "skratka": "lbf",
+      "uzky_tvar": "lbf",
+      "vzor": "{0} libier sily"
+    }
+  ],
+  "meta": {
+    "title": "Merné jednotky — kategória 'force' (4) - Bezplatné stiahnutie",
+    "description": "Merné jednotky kategórie 'force' z locale sk v CLDR, s názvami v slovenčine. Obsahuje 4 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Merné jednotky — kategória 'force' (4) | ListBase",
+    "seo_description": "Stiahnuť Merné jednotky — kategória 'force' (4) — 4 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 4 záznamov / 7 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

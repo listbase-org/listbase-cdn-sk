@@ -1,0 +1,1016 @@
+{
+  "id": "sk-hrady",
+  "name": "Hrady a zámky",
+  "title": "Hrady a zámky",
+  "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (historic=castle). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 195,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Hrad Ilava",
+      "latitude": 48.998521,
+      "longitude": 18.231986
+    },
+    {
+      "name": "Súča",
+      "latitude": 48.960474,
+      "longitude": 18.014639
+    },
+    {
+      "name": "Hrad Hričov",
+      "latitude": 49.211688,
+      "longitude": 18.619956
+    },
+    {
+      "name": "Budatínsky zámok",
+      "latitude": 49.236246,
+      "longitude": 18.734776
+    },
+    {
+      "name": "Starý hrad",
+      "latitude": 49.177897,
+      "longitude": 18.890663
+    },
+    {
+      "name": "Strečno",
+      "latitude": 49.174617,
+      "longitude": 18.862195
+    },
+    {
+      "name": "Považský hrad",
+      "latitude": 49.145493,
+      "longitude": 18.457903
+    },
+    {
+      "name": "Košeca",
+      "latitude": 48.976007,
+      "longitude": 18.307425
+    },
+    {
+      "name": "Zniev",
+      "latitude": 48.968359,
+      "longitude": 18.772829
+    },
+    {
+      "name": "Blatnica",
+      "latitude": 48.94718,
+      "longitude": 18.947077
+    },
+    {
+      "name": "Sklabiňa",
+      "latitude": 49.054612,
+      "longitude": 19.018975
+    },
+    {
+      "name": "Veratín",
+      "latitude": 49.042236,
+      "longitude": 19.659805
+    },
+    {
+      "name": "Radnica",
+      "latitude": 49.256588,
+      "longitude": 20.532736
+    },
+    {
+      "name": "Panské sídlo Holumnica",
+      "latitude": 49.233118,
+      "longitude": 20.526997
+    },
+    {
+      "name": "Plaveč",
+      "latitude": 49.25534,
+      "longitude": 20.847683
+    },
+    {
+      "name": "Brazovica",
+      "latitude": 49.146743,
+      "longitude": 20.849959
+    },
+    {
+      "name": "Lipovce",
+      "latitude": 49.057283,
+      "longitude": 20.935392
+    },
+    {
+      "name": "Hrad Svidník",
+      "latitude": 49.282624,
+      "longitude": 21.587795
+    },
+    {
+      "name": "Šarišský hrad",
+      "latitude": 49.05233,
+      "longitude": 21.176149
+    },
+    {
+      "name": "Kapušiansky hrad",
+      "latitude": 49.054872,
+      "longitude": 21.320526
+    },
+    {
+      "name": "Medziansky hrádok",
+      "latitude": 49.039446,
+      "longitude": 21.484988
+    },
+    {
+      "name": "Rákocziho palác",
+      "latitude": 48.998134,
+      "longitude": 21.240661
+    },
+    {
+      "name": "Švajčiarsky konzulát",
+      "latitude": 48.994686,
+      "longitude": 21.247232
+    },
+    {
+      "name": "Ruský dom",
+      "latitude": 48.996994,
+      "longitude": 21.241602
+    },
+    {
+      "name": "Sedria",
+      "latitude": 48.997771,
+      "longitude": 21.241073
+    },
+    {
+      "name": "Weberov dom",
+      "latitude": 49.000419,
+      "longitude": 21.242816
+    },
+    {
+      "name": "Dom rodiny Kriegerovcov",
+      "latitude": 48.997719,
+      "longitude": 21.241398
+    },
+    {
+      "name": "Justičný palác",
+      "latitude": 48.992761,
+      "longitude": 21.245632
+    },
+    {
+      "name": "Župný palác",
+      "latitude": 48.998438,
+      "longitude": 21.242505
+    },
+    {
+      "name": "Neologická židovská škola",
+      "latitude": 48.999381,
+      "longitude": 21.243399
+    },
+    {
+      "name": "Palác Szentandrássyiovcov",
+      "latitude": 48.996098,
+      "longitude": 21.240977
+    },
+    {
+      "name": "Palác baróna Wécseya",
+      "latitude": 48.996258,
+      "longitude": 21.240757
+    },
+    {
+      "name": "Hutterov dom",
+      "latitude": 48.997109,
+      "longitude": 21.239826
+    },
+    {
+      "name": "Gréckokatolícky biskupský palác",
+      "latitude": 48.993832,
+      "longitude": 21.243175
+    },
+    {
+      "name": "De Rossiho dom",
+      "latitude": 48.994564,
+      "longitude": 21.242464
+    },
+    {
+      "name": "Gotický dom",
+      "latitude": 48.996804,
+      "longitude": 21.24014
+    },
+    {
+      "name": "Bosákova banka",
+      "latitude": 49.00148,
+      "longitude": 21.238821
+    },
+    {
+      "name": "Tauthov dom",
+      "latitude": 48.996628,
+      "longitude": 21.240219
+    },
+    {
+      "name": "Palác Klobušických",
+      "latitude": 48.995097,
+      "longitude": 21.243368
+    },
+    {
+      "name": "Hôtel Berger Szálloda",
+      "latitude": 48.995345,
+      "longitude": 21.242752
+    },
+    {
+      "name": "Evanjelické kolégium",
+      "latitude": 48.99893,
+      "longitude": 21.239459
+    },
+    {
+      "name": "Palác Pulských",
+      "latitude": 48.997597,
+      "longitude": 21.237876
+    },
+    {
+      "name": "Wierdtov dom",
+      "latitude": 48.999662,
+      "longitude": 21.23879
+    },
+    {
+      "name": "Historická mestská radnica",
+      "latitude": 48.997228,
+      "longitude": 21.239712
+    },
+    {
+      "name": "Šebeš",
+      "latitude": 49.001594,
+      "longitude": 21.356251
+    },
+    {
+      "name": "Castrum Salis - Soľný hrad",
+      "latitude": 48.975045,
+      "longitude": 21.267634
+    },
+    {
+      "name": "Zbojnícky hrad",
+      "latitude": 48.974714,
+      "longitude": 21.346516
+    },
+    {
+      "name": "Bodoň",
+      "latitude": 48.936933,
+      "longitude": 21.400257
+    },
+    {
+      "name": "Kaštieľ v Humennom",
+      "latitude": 48.938939,
+      "longitude": 21.907351
+    },
+    {
+      "name": "Branč",
+      "latitude": 48.733295,
+      "longitude": 17.467134
+    },
+    {
+      "name": "Trenčiansky hrad",
+      "latitude": 48.894614,
+      "longitude": 18.045065
+    },
+    {
+      "name": "Maršovského palác",
+      "latitude": 48.896108,
+      "longitude": 18.042087
+    },
+    {
+      "name": "Beckov",
+      "latitude": 48.790683,
+      "longitude": 17.898283
+    },
+    {
+      "name": "Čachtický hrad",
+      "latitude": 48.724936,
+      "longitude": 17.761202
+    },
+    {
+      "name": "Korlátka",
+      "latitude": 48.575335,
+      "longitude": 17.386062
+    },
+    {
+      "name": "Dobrá voda",
+      "latitude": 48.609362,
+      "longitude": 17.528939
+    },
+    {
+      "name": "Ostrý Kameň",
+      "latitude": 48.522258,
+      "longitude": 17.372501
+    },
+    {
+      "name": "Plavecký hrad",
+      "latitude": 48.493781,
+      "longitude": 17.26868
+    },
+    {
+      "name": "Tematín",
+      "latitude": 48.677258,
+      "longitude": 17.929116
+    },
+    {
+      "name": "Topoľčiansky hrad",
+      "latitude": 48.658236,
+      "longitude": 18.049004
+    },
+    {
+      "name": "Uhrovec",
+      "latitude": 48.754252,
+      "longitude": 18.391354
+    },
+    {
+      "name": "Hradisko Hradec",
+      "latitude": 48.759181,
+      "longitude": 18.68357
+    },
+    {
+      "name": "Ľupčiansky hrad",
+      "latitude": 48.772417,
+      "longitude": 19.280947
+    },
+    {
+      "name": "Barbakan",
+      "latitude": 48.736721,
+      "longitude": 19.146458
+    },
+    {
+      "name": "Banská Bystrica",
+      "latitude": 48.73729,
+      "longitude": 19.146526
+    },
+    {
+      "name": "Vodný hrad Šimonovany",
+      "latitude": 48.63111,
+      "longitude": 18.390976
+    },
+    {
+      "name": "Sivý Kameň",
+      "latitude": 48.685774,
+      "longitude": 18.639169
+    },
+    {
+      "name": "Zabaštie",
+      "latitude": 48.577532,
+      "longitude": 18.902401
+    },
+    {
+      "name": "Šášov",
+      "latitude": 48.579081,
+      "longitude": 18.899855
+    },
+    {
+      "name": "Michalov hrad",
+      "latitude": 48.560808,
+      "longitude": 18.409347
+    },
+    {
+      "name": "Čierny hrad",
+      "latitude": 48.473633,
+      "longitude": 18.292512
+    },
+    {
+      "name": "Hrušov",
+      "latitude": 48.478662,
+      "longitude": 18.426052
+    },
+    {
+      "name": "Pustý hrad",
+      "latitude": 48.532998,
+      "longitude": 18.847353
+    },
+    {
+      "name": "Hrad Marcus",
+      "latitude": 48.500845,
+      "longitude": 18.842747
+    },
+    {
+      "name": "Starý zámok",
+      "latitude": 48.459585,
+      "longitude": 18.891087
+    },
+    {
+      "name": "Pustý (horný) hrad",
+      "latitude": 48.557055,
+      "longitude": 19.109189
+    },
+    {
+      "name": "Pustý (Dolný) hrad",
+      "latitude": 48.56137,
+      "longitude": 19.114692
+    },
+    {
+      "name": "Zámok Vígľaš",
+      "latitude": 48.555267,
+      "longitude": 19.299901
+    },
+    {
+      "name": "Dobrá Niva",
+      "latitude": 48.503135,
+      "longitude": 19.10371
+    },
+    {
+      "name": "Ozdín",
+      "latitude": 48.484022,
+      "longitude": 19.673326
+    },
+    {
+      "name": "Kuchyňa",
+      "latitude": 48.421234,
+      "longitude": 17.197314
+    },
+    {
+      "name": "Červený Kameň",
+      "latitude": 48.39158,
+      "longitude": 17.335522
+    },
+    {
+      "name": "Dračí hrádok",
+      "latitude": 48.254856,
+      "longitude": 17.111237
+    },
+    {
+      "name": "Biely Kameň",
+      "latitude": 48.261157,
+      "longitude": 17.196664
+    },
+    {
+      "name": "Šimák Zámok Pezinok",
+      "latitude": 48.290913,
+      "longitude": 17.268277
+    },
+    {
+      "name": "Oponický hrad",
+      "latitude": 48.448338,
+      "longitude": 18.15631
+    },
+    {
+      "name": "Gýmeš",
+      "latitude": 48.411458,
+      "longitude": 18.222582
+    },
+    {
+      "name": "Nitriansky hrad",
+      "latitude": 48.318138,
+      "longitude": 18.086758
+    },
+    {
+      "name": "Župný dom",
+      "latitude": 48.315902,
+      "longitude": 18.085574
+    },
+    {
+      "name": "Biskupský palác",
+      "latitude": 48.318343,
+      "longitude": 18.08658
+    },
+    {
+      "name": "Horný hrad",
+      "latitude": 48.174253,
+      "longitude": 16.977303
+    },
+    {
+      "name": "Palác pánov z Gary",
+      "latitude": 48.173181,
+      "longitude": 16.978336
+    },
+    {
+      "name": "Stredný hrad",
+      "latitude": 48.173387,
+      "longitude": 16.978296
+    },
+    {
+      "name": "Devín",
+      "latitude": 48.173436,
+      "longitude": 16.979374
+    },
+    {
+      "name": "Kráľovský palác na Bratislavskom hrade",
+      "latitude": 48.14223,
+      "longitude": 17.100083
+    },
+    {
+      "name": "Pálffyho palác",
+      "latitude": 48.142077,
+      "longitude": 17.107186
+    },
+    {
+      "name": "Balašov palác",
+      "latitude": 48.142341,
+      "longitude": 17.107668
+    },
+    {
+      "name": "Keglevičov palác",
+      "latitude": 48.14178,
+      "longitude": 17.106486
+    },
+    {
+      "name": "Maldeghemov palác",
+      "latitude": 48.14117,
+      "longitude": 17.105647
+    },
+    {
+      "name": "Prepoštský palác",
+      "latitude": 48.142401,
+      "longitude": 17.105539
+    },
+    {
+      "name": "Jesenákov palác",
+      "latitude": 48.143169,
+      "longitude": 17.108562
+    },
+    {
+      "name": "Palugyaiho palác",
+      "latitude": 48.143149,
+      "longitude": 17.107771
+    },
+    {
+      "name": "Palác Uhorskej eskontnej a zmenárenskej banky",
+      "latitude": 48.143008,
+      "longitude": 17.107953
+    },
+    {
+      "name": "Palác Motešických",
+      "latitude": 48.143092,
+      "longitude": 17.110371
+    },
+    {
+      "name": "Čákiho palác",
+      "latitude": 48.141383,
+      "longitude": 17.105856
+    },
+    {
+      "name": "Primaciálny palác",
+      "latitude": 48.143866,
+      "longitude": 17.109706
+    },
+    {
+      "name": "Zichyho palác",
+      "latitude": 48.143063,
+      "longitude": 17.106086
+    },
+    {
+      "name": "Illésházyho palác",
+      "latitude": 48.142882,
+      "longitude": 17.106127
+    },
+    {
+      "name": "Pálffyho palác",
+      "latitude": 48.142734,
+      "longitude": 17.106776
+    },
+    {
+      "name": "Péterffiho palác",
+      "latitude": 48.143312,
+      "longitude": 17.106711
+    },
+    {
+      "name": "Miestodržiteľský palác",
+      "latitude": 48.143739,
+      "longitude": 17.107821
+    },
+    {
+      "name": "Kutscherfeldov palác",
+      "latitude": 48.143737,
+      "longitude": 17.107601
+    },
+    {
+      "name": "Mirbachov palác",
+      "latitude": 48.144883,
+      "longitude": 17.107533
+    },
+    {
+      "name": "Jesenákov palác",
+      "latitude": 48.144263,
+      "longitude": 17.106172
+    },
+    {
+      "name": "Csákyho Palác",
+      "latitude": 48.142016,
+      "longitude": 17.114686
+    },
+    {
+      "name": "Nesterov palác",
+      "latitude": 48.140816,
+      "longitude": 17.106725
+    },
+    {
+      "name": "Dessewffyho palác",
+      "latitude": 48.140475,
+      "longitude": 17.109338
+    },
+    {
+      "name": "Pálfiho palác",
+      "latitude": 48.145022,
+      "longitude": 17.100786
+    },
+    {
+      "name": "Georgievitsov palác",
+      "latitude": 48.14795,
+      "longitude": 17.102798
+    },
+    {
+      "name": "Csomov palác",
+      "latitude": 48.141011,
+      "longitude": 17.107422
+    },
+    {
+      "name": "Esterházyho palác",
+      "latitude": 48.140209,
+      "longitude": 17.10934
+    },
+    {
+      "name": "Aspremontov letný palác",
+      "latitude": 48.150399,
+      "longitude": 17.118018
+    },
+    {
+      "name": "Pisztoryho palác",
+      "latitude": 48.152263,
+      "longitude": 17.106287
+    },
+    {
+      "name": "Karácsonyiho palác",
+      "latitude": 48.151274,
+      "longitude": 17.107123
+    },
+    {
+      "name": "Erdődyho palác",
+      "latitude": 48.142082,
+      "longitude": 17.106039
+    },
+    {
+      "name": "Habermayerov palác",
+      "latitude": 48.148123,
+      "longitude": 17.104053
+    },
+    {
+      "name": "Apponyiho palác",
+      "latitude": 48.143419,
+      "longitude": 17.109188
+    },
+    {
+      "name": "Eszterházyho palác",
+      "latitude": 48.143615,
+      "longitude": 17.104436
+    },
+    {
+      "name": "Palác Leopolda de Pauliho",
+      "latitude": 48.143499,
+      "longitude": 17.106194
+    },
+    {
+      "name": "Paluďaiho palác",
+      "latitude": 48.15528,
+      "longitude": 17.105185
+    },
+    {
+      "name": "Eszterházyho palác",
+      "latitude": 48.142284,
+      "longitude": 17.108062
+    },
+    {
+      "name": "Palác Uhorskej kráľovskej komory",
+      "latitude": 48.143957,
+      "longitude": 17.106343
+    },
+    {
+      "name": "Čeklís",
+      "latitude": 48.199939,
+      "longitude": 17.288165
+    },
+    {
+      "name": "Zámok Topoľčianky",
+      "latitude": 48.421582,
+      "longitude": 18.41288
+    },
+    {
+      "name": "Breznický hrad",
+      "latitude": 48.378505,
+      "longitude": 18.626862
+    },
+    {
+      "name": "Hrad Rudno",
+      "latitude": 48.421997,
+      "longitude": 18.695449
+    },
+    {
+      "name": "Sitno",
+      "latitude": 48.401584,
+      "longitude": 18.886976
+    },
+    {
+      "name": "Hrad Divín",
+      "latitude": 48.448101,
+      "longitude": 19.533253
+    },
+    {
+      "name": "Haličský zámok",
+      "latitude": 48.356776,
+      "longitude": 19.575305
+    },
+    {
+      "name": "Čabraď",
+      "latitude": 48.24402,
+      "longitude": 19.106147
+    },
+    {
+      "name": "Litava (Cerovo)",
+      "latitude": 48.230451,
+      "longitude": 19.132921
+    },
+    {
+      "name": "Modrý Kameň",
+      "latitude": 48.243506,
+      "longitude": 19.333279
+    },
+    {
+      "name": "Levický hrad",
+      "latitude": 48.221662,
+      "longitude": 18.601456
+    },
+    {
+      "name": "Muráň",
+      "latitude": 48.75888,
+      "longitude": 20.057795
+    },
+    {
+      "name": "Markušovský hrad",
+      "latitude": 48.915801,
+      "longitude": 20.620335
+    },
+    {
+      "name": "Gelnica",
+      "latitude": 48.850429,
+      "longitude": 20.931007
+    },
+    {
+      "name": "Tisovec",
+      "latitude": 48.681812,
+      "longitude": 19.924568
+    },
+    {
+      "name": "Rákoš",
+      "latitude": 48.611163,
+      "longitude": 20.144401
+    },
+    {
+      "name": "Starý Jelšavský hrad",
+      "latitude": 48.630167,
+      "longitude": 20.200479
+    },
+    {
+      "name": "Drienok",
+      "latitude": 48.527811,
+      "longitude": 20.097272
+    },
+    {
+      "name": "Krásna Hôrka",
+      "latitude": 48.658453,
+      "longitude": 20.600421
+    },
+    {
+      "name": "Jasov",
+      "latitude": 48.677627,
+      "longitude": 20.974812
+    },
+    {
+      "name": "Plešivský hrad",
+      "latitude": 48.547202,
+      "longitude": 20.401846
+    },
+    {
+      "name": "Sokolí kameň",
+      "latitude": 48.545871,
+      "longitude": 20.565913
+    },
+    {
+      "name": "Obišovský hrad",
+      "latitude": 48.872015,
+      "longitude": 21.226956
+    },
+    {
+      "name": "Kysacký hrad",
+      "latitude": 48.859224,
+      "longitude": 21.206319
+    },
+    {
+      "name": "Čičva",
+      "latitude": 48.914418,
+      "longitude": 21.738375
+    },
+    {
+      "name": "Lipovec",
+      "latitude": 48.837349,
+      "longitude": 21.462328
+    },
+    {
+      "name": "Košický hrad",
+      "latitude": 48.761994,
+      "longitude": 21.2365
+    },
+    {
+      "name": "Jakabov palác",
+      "latitude": 48.721935,
+      "longitude": 21.262769
+    },
+    {
+      "name": "Tostov palác",
+      "latitude": 48.724096,
+      "longitude": 21.251839
+    },
+    {
+      "name": "Hadik-Barkóciho palác",
+      "latitude": 48.721128,
+      "longitude": 21.256638
+    },
+    {
+      "name": "Palác Spišskej komory",
+      "latitude": 48.722581,
+      "longitude": 21.25619
+    },
+    {
+      "name": "Čákiho-Dezőfiho palác",
+      "latitude": 48.723007,
+      "longitude": 21.256093
+    },
+    {
+      "name": "Palác hornouhorského generálneho kapitanátu",
+      "latitude": 48.724096,
+      "longitude": 21.255762
+    },
+    {
+      "name": "Andrášiho palác",
+      "latitude": 48.723522,
+      "longitude": 21.257152
+    },
+    {
+      "name": "Jeneyho palác",
+      "latitude": 48.722131,
+      "longitude": 21.261992
+    },
+    {
+      "name": "Bukovecký hrad",
+      "latitude": 48.715371,
+      "longitude": 21.128396
+    },
+    {
+      "name": "Pongrácovsko-forgáčovský palác",
+      "latitude": 48.718432,
+      "longitude": 21.258506
+    },
+    {
+      "name": "Péchyho palác",
+      "latitude": 48.719568,
+      "longitude": 21.255948
+    },
+    {
+      "name": "Arcibiskupský palác",
+      "latitude": 48.719727,
+      "longitude": 21.257305
+    },
+    {
+      "name": "Braničev",
+      "latitude": 48.782153,
+      "longitude": 21.562938
+    },
+    {
+      "name": "Brekov",
+      "latitude": 48.902312,
+      "longitude": 21.832102
+    },
+    {
+      "name": "Jasenov",
+      "latitude": 48.890947,
+      "longitude": 21.910761
+    },
+    {
+      "name": "Viniansky hrad",
+      "latitude": 48.820027,
+      "longitude": 21.950022
+    },
+    {
+      "name": "Tibava",
+      "latitude": 48.821751,
+      "longitude": 22.303703
+    },
+    {
+      "name": "Hrádok Choňkovce",
+      "latitude": 48.796162,
+      "longitude": 22.268154
+    },
+    {
+      "name": "Skároš",
+      "latitude": 48.582458,
+      "longitude": 21.401545
+    },
+    {
+      "name": "Lászlótanya",
+      "latitude": 48.57732,
+      "longitude": 21.434163
+    },
+    {
+      "name": "Slanec",
+      "latitude": 48.637234,
+      "longitude": 21.470955
+    },
+    {
+      "name": "Zemplínska Teplica",
+      "latitude": 48.653768,
+      "longitude": 21.549633
+    },
+    {
+      "name": "Parič",
+      "latitude": 48.621336,
+      "longitude": 21.727495
+    },
+    {
+      "name": "Kazimír",
+      "latitude": 48.525098,
+      "longitude": 21.582674
+    },
+    {
+      "name": "Gemerský hrad",
+      "latitude": 48.454569,
+      "longitude": 20.314679
+    },
+    {
+      "name": "Fiľakovský hrad",
+      "latitude": 48.271544,
+      "longitude": 19.825057
+    },
+    {
+      "name": "Šomoška",
+      "latitude": 48.171469,
+      "longitude": 19.857003
+    },
+    {
+      "name": "Hajnáčka",
+      "latitude": 48.218329,
+      "longitude": 19.955424
+    },
+    {
+      "name": "Čonkavár",
+      "latitude": 48.424023,
+      "longitude": 21.974701
+    },
+    {
+      "name": "Veľký Kamenec",
+      "latitude": 48.358736,
+      "longitude": 21.808054
+    },
+    {
+      "name": "Dunai Bástya",
+      "latitude": 47.752654,
+      "longitude": 18.095073
+    },
+    {
+      "name": "Csillagerőd",
+      "latitude": 47.745139,
+      "longitude": 18.138321
+    },
+    {
+      "name": "Nová pevnosť",
+      "latitude": 47.753954,
+      "longitude": 18.135982
+    },
+    {
+      "name": "Protiturecká pevnosť",
+      "latitude": 47.753342,
+      "longitude": 18.136905
+    },
+    {
+      "name": "Damásdi vár",
+      "latitude": 47.846013,
+      "longitude": 18.824285
+    },
+    {
+      "name": "Esztergomi vár",
+      "latitude": 47.799836,
+      "longitude": 18.735178
+    }
+  ],
+  "meta": {
+    "title": "Hrady a zámky - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (historic=castle). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84. Obsahuje 195 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Hrady a zámky | ListBase",
+    "seo_description": "Stiahnuť Hrady a zámky — 195 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 195 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

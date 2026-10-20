@@ -1,0 +1,3661 @@
+{
+  "id": "sk-kastiele",
+  "name": "Kaštiele",
+  "title": "Kaštiele",
+  "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (historic=manor). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 724,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Kaštieľ Oščadnica",
+      "latitude": 49.42279,
+      "longitude": 18.841017
+    },
+    {
+      "name": "Kaštieľ Horovce",
+      "latitude": 49.049095,
+      "longitude": 18.259507
+    },
+    {
+      "name": "Kaštieľ Antonstál",
+      "latitude": 49.008696,
+      "longitude": 18.023343
+    },
+    {
+      "name": "Kaštieľ Bohunice",
+      "latitude": 49.019204,
+      "longitude": 18.19828
+    },
+    {
+      "name": "Kaštieľ Pruské",
+      "latitude": 49.02835,
+      "longitude": 18.209006
+    },
+    {
+      "name": "Kaštieľ Bolešov",
+      "latitude": 48.984347,
+      "longitude": 18.152532
+    },
+    {
+      "name": "Kaštieľ Klobušice",
+      "latitude": 48.989824,
+      "longitude": 18.219526
+    },
+    {
+      "name": "Kaštieľ Kľúčové",
+      "latitude": 48.947945,
+      "longitude": 18.09237
+    },
+    {
+      "name": "Kaštieľ Borčice",
+      "latitude": 48.977273,
+      "longitude": 18.13524
+    },
+    {
+      "name": "Kaštieľ Château Mignon",
+      "latitude": 48.962045,
+      "longitude": 18.164599
+    },
+    {
+      "name": "Dubnický kaštieľ",
+      "latitude": 48.96285,
+      "longitude": 18.16883
+    },
+    {
+      "name": "Kaštieľ Radoľa",
+      "latitude": 49.295424,
+      "longitude": 18.788165
+    },
+    {
+      "name": "Kaštieľ Kotešová",
+      "latitude": 49.240893,
+      "longitude": 18.597974
+    },
+    {
+      "name": "Kaštieľ Dolný Hričov",
+      "latitude": 49.232665,
+      "longitude": 18.629536
+    },
+    {
+      "name": "Kaštieľ v Bytči",
+      "latitude": 49.220334,
+      "longitude": 18.559259
+    },
+    {
+      "name": "Kaštieľ Jasenica",
+      "latitude": 49.178477,
+      "longitude": 18.446936
+    },
+    {
+      "name": "Kaštieľ Maršovských",
+      "latitude": 49.184828,
+      "longitude": 18.525314
+    },
+    {
+      "name": "Kaštieľ Predmier",
+      "latitude": 49.198734,
+      "longitude": 18.531915
+    },
+    {
+      "name": "Malý kaštieľ",
+      "latitude": 49.164656,
+      "longitude": 18.589412
+    },
+    {
+      "name": "Kaštieľ v Divinke",
+      "latitude": 49.252678,
+      "longitude": 18.697733
+    },
+    {
+      "name": "Kráľovská colnica",
+      "latitude": 49.21728,
+      "longitude": 18.769753
+    },
+    {
+      "name": "Kaštieľ Teplička nad Váhom",
+      "latitude": 49.223167,
+      "longitude": 18.801821
+    },
+    {
+      "name": "Kaštieľ Gbeľany",
+      "latitude": 49.211327,
+      "longitude": 18.848595
+    },
+    {
+      "name": "Kaštieľ Nededza",
+      "latitude": 49.219844,
+      "longitude": 18.835437
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.220684,
+      "longitude": 18.835881
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.224958,
+      "longitude": 18.839015
+    },
+    {
+      "name": "Château Gbeľany",
+      "latitude": 49.213823,
+      "longitude": 18.84767
+    },
+    {
+      "name": "Kaštieľ Krasňany",
+      "latitude": 49.212355,
+      "longitude": 18.889546
+    },
+    {
+      "name": "Kaštieľ Bytčica",
+      "latitude": 49.184896,
+      "longitude": 18.731279
+    },
+    {
+      "name": "Kaštieľ Bytčica",
+      "latitude": 49.185797,
+      "longitude": 18.732983
+    },
+    {
+      "name": "Kaštieľ Bánová",
+      "latitude": 49.202286,
+      "longitude": 18.721046
+    },
+    {
+      "name": "Kúria - rodinný dom",
+      "latitude": 49.198396,
+      "longitude": 18.820625
+    },
+    {
+      "name": "Wilcsekova kúria",
+      "latitude": 49.359278,
+      "longitude": 19.606252
+    },
+    {
+      "name": "Kúria rodiny Medveckých",
+      "latitude": 49.332665,
+      "longitude": 19.550914
+    },
+    {
+      "name": "Kaštieľ Istebné",
+      "latitude": 49.211873,
+      "longitude": 19.222767
+    },
+    {
+      "name": "Kaštieľ Mokraď",
+      "latitude": 49.23577,
+      "longitude": 19.306027
+    },
+    {
+      "name": "Kaštieľ Veličná",
+      "latitude": 49.205324,
+      "longitude": 19.245582
+    },
+    {
+      "name": "Kubínyiovský kaštieľ",
+      "latitude": 49.18461,
+      "longitude": 19.315175
+    },
+    {
+      "name": "Kúria vyšnokubínskeho komposesorátu",
+      "latitude": 49.182499,
+      "longitude": 19.315751
+    },
+    {
+      "name": "Kubínyiovský kaštieľ",
+      "latitude": 49.185279,
+      "longitude": 19.307602
+    },
+    {
+      "name": "Dobákovský kaštieľ",
+      "latitude": 49.176879,
+      "longitude": 19.292995
+    },
+    {
+      "name": "Kúria Jána Bencúra",
+      "latitude": 49.176103,
+      "longitude": 19.295059
+    },
+    {
+      "name": "Kaštieľ Abaffyovcov",
+      "latitude": 49.253256,
+      "longitude": 19.402866
+    },
+    {
+      "name": "Kaštieľ Abaffyovcov",
+      "latitude": 49.256283,
+      "longitude": 19.394884
+    },
+    {
+      "name": "Danielov kaštieľ",
+      "latitude": 49.18864,
+      "longitude": 19.352536
+    },
+    {
+      "name": "Moricov kaštieľ",
+      "latitude": 49.190175,
+      "longitude": 19.34886
+    },
+    {
+      "name": "Kúria Alexa Zmeškala",
+      "latitude": 49.190279,
+      "longitude": 19.347577
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.16857,
+      "longitude": 19.542345
+    },
+    {
+      "name": "Kaštieľ Orlové",
+      "latitude": 49.130803,
+      "longitude": 18.424611
+    },
+    {
+      "name": "Burg",
+      "latitude": 49.143526,
+      "longitude": 18.459351
+    },
+    {
+      "name": "Száparayovský kaštieľ",
+      "latitude": 49.144078,
+      "longitude": 18.460508
+    },
+    {
+      "name": "Kaštieľ Lednické Rovne",
+      "latitude": 49.067279,
+      "longitude": 18.287396
+    },
+    {
+      "name": "Kaštieľ Lednické Rovné",
+      "latitude": 49.069531,
+      "longitude": 18.289781
+    },
+    {
+      "name": "Kaštieľ Medné",
+      "latitude": 49.083615,
+      "longitude": 18.288437
+    },
+    {
+      "name": "Kaštieľ Dolný Lieskov",
+      "latitude": 49.053786,
+      "longitude": 18.417873
+    },
+    {
+      "name": "Kaštieľ Domaniža",
+      "latitude": 49.049549,
+      "longitude": 18.558641
+    },
+    {
+      "name": "Kuneradský zámok",
+      "latitude": 49.084858,
+      "longitude": 18.739286
+    },
+    {
+      "name": "Kaštieľ Záturčie",
+      "latitude": 49.088605,
+      "longitude": 18.915966
+    },
+    {
+      "name": "Dávidovská kúria",
+      "latitude": 49.085015,
+      "longitude": 18.917521
+    },
+    {
+      "name": "Kúria Záthureckých",
+      "latitude": 49.090239,
+      "longitude": 18.916181
+    },
+    {
+      "name": "Kaštieľ Ladce",
+      "latitude": 49.036543,
+      "longitude": 18.284302
+    },
+    {
+      "name": "Kaštieľ Čičmany",
+      "latitude": 48.954165,
+      "longitude": 18.514575
+    },
+    {
+      "name": "Kúria Révaiovcov",
+      "latitude": 49.024453,
+      "longitude": 18.862306
+    },
+    {
+      "name": "Révayovský kaštieľ",
+      "latitude": 49.024964,
+      "longitude": 18.864903
+    },
+    {
+      "name": "Kaštieľ Turčiansky Peter",
+      "latitude": 49.030696,
+      "longitude": 18.887609
+    },
+    {
+      "name": "Kaštieľ Košťany nad Turcom",
+      "latitude": 49.027987,
+      "longitude": 18.900476
+    },
+    {
+      "name": "Kaštieľ Benice",
+      "latitude": 48.994965,
+      "longitude": 18.873205
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.00254,
+      "longitude": 18.886174
+    },
+    {
+      "name": "Modrý kaštieľ",
+      "latitude": 48.985334,
+      "longitude": 18.967377
+    },
+    {
+      "name": "Juštovský kaštieľ",
+      "latitude": 48.985985,
+      "longitude": 18.968654
+    },
+    {
+      "name": "Justhovský kaštieľ",
+      "latitude": 48.989178,
+      "longitude": 18.965099
+    },
+    {
+      "name": "Franklinovský kaštieľ",
+      "latitude": 48.985171,
+      "longitude": 18.971577
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.979213,
+      "longitude": 18.796227
+    },
+    {
+      "name": "Kúria - rodinný dom",
+      "latitude": 48.925359,
+      "longitude": 18.807411
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.92615,
+      "longitude": 18.828684
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.942913,
+      "longitude": 18.828957
+    },
+    {
+      "name": "Révayovský kaštieľ",
+      "latitude": 48.938055,
+      "longitude": 18.926799
+    },
+    {
+      "name": "Prónayovská kúria",
+      "latitude": 48.937817,
+      "longitude": 18.926926
+    },
+    {
+      "name": "Kaštieľ Turčianska Štiavnička",
+      "latitude": 49.08121,
+      "longitude": 19.020682
+    },
+    {
+      "name": "Marcelovsky kaštieľ",
+      "latitude": 49.145469,
+      "longitude": 19.502529
+    },
+    {
+      "name": "Kaštieľ Liptovská Teplá",
+      "latitude": 49.102826,
+      "longitude": 19.408695
+    },
+    {
+      "name": "Kaštieľ Turík;Kaštieľ v Turíku",
+      "latitude": 49.108613,
+      "longitude": 19.380555
+    },
+    {
+      "name": "Kaštieľ Madočany",
+      "latitude": 49.107968,
+      "longitude": 19.407916
+    },
+    {
+      "name": "Kaštieľ Bešeňová",
+      "latitude": 49.100049,
+      "longitude": 19.433097
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.096905,
+      "longitude": 19.588492
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.097487,
+      "longitude": 19.58869
+    },
+    {
+      "name": "Kúria Pongrácovcov",
+      "latitude": 49.097606,
+      "longitude": 19.591671
+    },
+    {
+      "name": "Pongráczovská kúria",
+      "latitude": 49.09778,
+      "longitude": 19.592049
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.099556,
+      "longitude": 19.589869
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.118384,
+      "longitude": 19.648957
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.121116,
+      "longitude": 19.650259
+    },
+    {
+      "name": "Kaštieľ Ivachnová",
+      "latitude": 49.095338,
+      "longitude": 19.4141
+    },
+    {
+      "name": "Kaštieľ rodiny Kubíni",
+      "latitude": 49.093746,
+      "longitude": 19.474826
+    },
+    {
+      "name": "Čomborov kaštiel",
+      "latitude": 49.051425,
+      "longitude": 19.354596
+    },
+    {
+      "name": "Kaštieľ Partizánska Ľupča",
+      "latitude": 49.063848,
+      "longitude": 19.436971
+    },
+    {
+      "name": "Kaštieľ Vranovo",
+      "latitude": 49.084176,
+      "longitude": 19.593239
+    },
+    {
+      "name": "Kaštieľ Bocian",
+      "latitude": 49.08429,
+      "longitude": 19.592175
+    },
+    {
+      "name": "Pongrácovská kúria",
+      "latitude": 49.083286,
+      "longitude": 19.611811
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.072794,
+      "longitude": 19.649366
+    },
+    {
+      "name": "Kaštieľ Okoličné",
+      "latitude": 49.074486,
+      "longitude": 19.650421
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.073012,
+      "longitude": 19.654608
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.074484,
+      "longitude": 19.679768
+    },
+    {
+      "name": "Szentiványiovský kaštieľ",
+      "latitude": 49.045411,
+      "longitude": 19.676786
+    },
+    {
+      "name": "Jonášovská kúria",
+      "latitude": 49.045822,
+      "longitude": 19.677094
+    },
+    {
+      "name": "Kazimírovský kaštieľ",
+      "latitude": 49.043981,
+      "longitude": 19.677862
+    },
+    {
+      "name": "Bohumírovský kaštieľ",
+      "latitude": 49.046288,
+      "longitude": 19.677633
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.047044,
+      "longitude": 19.677635
+    },
+    {
+      "name": "Tomášovský kaštieľ",
+      "latitude": 49.049127,
+      "longitude": 19.677923
+    },
+    {
+      "name": "Nyárovský kaštieľ",
+      "latitude": 49.049438,
+      "longitude": 19.678499
+    },
+    {
+      "name": "Šándorovský kaštieľ",
+      "latitude": 49.050041,
+      "longitude": 19.678776
+    },
+    {
+      "name": "Marcovský kaštieľ",
+      "latitude": 49.052871,
+      "longitude": 19.67916
+    },
+    {
+      "name": "Marcovský kaštieľ - Eduard",
+      "latitude": 49.052123,
+      "longitude": 19.679269
+    },
+    {
+      "name": "Gáborovský kaštieľ",
+      "latitude": 49.048935,
+      "longitude": 19.680364
+    },
+    {
+      "name": "Balcovská kúria",
+      "latitude": 49.051376,
+      "longitude": 19.680425
+    },
+    {
+      "name": "Liečebný dom",
+      "latitude": 49.047988,
+      "longitude": 19.681202
+    },
+    {
+      "name": "Pištovský kaštieľ",
+      "latitude": 49.048025,
+      "longitude": 19.678067
+    },
+    {
+      "name": "Oravcovská kúria",
+      "latitude": 49.04731,
+      "longitude": 19.680014
+    },
+    {
+      "name": "Szentiványiovský kaštieľ",
+      "latitude": 49.047919,
+      "longitude": 19.681461
+    },
+    {
+      "name": "Nemešovský-Barnovský kaštieľ",
+      "latitude": 49.050346,
+      "longitude": 19.679124
+    },
+    {
+      "name": "Rutkajovský kaštieľ",
+      "latitude": 49.048726,
+      "longitude": 19.678177
+    },
+    {
+      "name": "Kaštieľ Kasíno",
+      "latitude": 49.046516,
+      "longitude": 19.679073
+    },
+    {
+      "name": "Palovský kaštieľ",
+      "latitude": 49.044452,
+      "longitude": 19.677289
+    },
+    {
+      "name": "Pálovský kaštieľ",
+      "latitude": 49.044383,
+      "longitude": 19.677308
+    },
+    {
+      "name": "Lovecký zámoček Hohenlohe",
+      "latitude": 49.274119,
+      "longitude": 20.141859
+    },
+    {
+      "name": "Kaštieľ Görgeiovcov",
+      "latitude": 49.265118,
+      "longitude": 20.492818
+    },
+    {
+      "name": "Kaštieľ Görgeiovcov",
+      "latitude": 49.266325,
+      "longitude": 20.490395
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.217534,
+      "longitude": 20.48892
+    },
+    {
+      "name": "Görgeyovský kaštieľ",
+      "latitude": 49.23525,
+      "longitude": 20.522775
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.171715,
+      "longitude": 20.908382
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.171315,
+      "longitude": 20.908957
+    },
+    {
+      "name": "Kaštieľ Krivany",
+      "latitude": 49.16998,
+      "longitude": 20.913906
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.170369,
+      "longitude": 20.913747
+    },
+    {
+      "name": "Kaštieľ Šarišské Dravce",
+      "latitude": 49.175696,
+      "longitude": 20.859852
+    },
+    {
+      "name": "Kúria rodiny Andreánskych",
+      "latitude": 49.102594,
+      "longitude": 19.711927
+    },
+    {
+      "name": "Parížovský kaštieľ",
+      "latitude": 49.107465,
+      "longitude": 19.803768
+    },
+    {
+      "name": "Liptovský Hrádok",
+      "latitude": 49.045821,
+      "longitude": 19.732878
+    },
+    {
+      "name": "Kúria Vranovo",
+      "latitude": 49.054175,
+      "longitude": 19.692584
+    },
+    {
+      "name": "Kúria rodu Potturnyay",
+      "latitude": 49.052979,
+      "longitude": 19.694003
+    },
+    {
+      "name": "Kaštieľ Pálovské",
+      "latitude": 49.053257,
+      "longitude": 19.692423
+    },
+    {
+      "name": "Dolný kaštieľ",
+      "latitude": 49.111215,
+      "longitude": 20.361773
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.116685,
+      "longitude": 20.379225
+    },
+    {
+      "name": "Kaštieľ Mariássyovcov",
+      "latitude": 49.074699,
+      "longitude": 20.186392
+    },
+    {
+      "name": "Kaštieľ Lučivná",
+      "latitude": 49.051802,
+      "longitude": 20.141483
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.021098,
+      "longitude": 19.7947
+    },
+    {
+      "name": "Kaštieľ Jána Lehotského",
+      "latitude": 49.020876,
+      "longitude": 19.793721
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.020602,
+      "longitude": 19.795843
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.02042,
+      "longitude": 19.796486
+    },
+    {
+      "name": "Klasicistická kúria",
+      "latitude": 49.029198,
+      "longitude": 20.324876
+    },
+    {
+      "name": "Kaštieľ Spišský Štiavnik",
+      "latitude": 48.988853,
+      "longitude": 20.380451
+    },
+    {
+      "name": "Kaštieľ rodiny Wieland",
+      "latitude": 49.058328,
+      "longitude": 20.432328
+    },
+    {
+      "name": "Kaštieľ Vlková",
+      "latitude": 49.058061,
+      "longitude": 20.433591
+    },
+    {
+      "name": "Kaštieľ rodu Berzevici",
+      "latitude": 49.143198,
+      "longitude": 20.851981
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.145438,
+      "longitude": 20.849946
+    },
+    {
+      "name": "Kúria rodu Berzevici",
+      "latitude": 49.145202,
+      "longitude": 20.838655
+    },
+    {
+      "name": "Kaštieľ Dubovica",
+      "latitude": 49.138357,
+      "longitude": 20.953992
+    },
+    {
+      "name": "Kaštieľ Rožkovany",
+      "latitude": 49.137782,
+      "longitude": 20.988986
+    },
+    {
+      "name": "Szirmayovský kaštieľ",
+      "latitude": 49.133287,
+      "longitude": 21.024908
+    },
+    {
+      "name": "Ringov kaštieľ",
+      "latitude": 49.128053,
+      "longitude": 21.041768
+    },
+    {
+      "name": "Kaštieľ Kornheizer",
+      "latitude": 49.124664,
+      "longitude": 21.046832
+    },
+    {
+      "name": "Kaštieľ Bornemisza",
+      "latitude": 49.123002,
+      "longitude": 21.042209
+    },
+    {
+      "name": "Mariássyovský kaštieľ",
+      "latitude": 49.121491,
+      "longitude": 21.041607
+    },
+    {
+      "name": "Kaštieľ Ražňany",
+      "latitude": 49.080349,
+      "longitude": 21.083385
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 49.09165,
+      "longitude": 21.059828
+    },
+    {
+      "name": "Kaštieľ Uzovský Šalgov",
+      "latitude": 49.09187,
+      "longitude": 21.060722
+    },
+    {
+      "name": "Kaštieľ Jarovnice",
+      "latitude": 49.05612,
+      "longitude": 21.061069
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.055824,
+      "longitude": 21.063597
+    },
+    {
+      "name": "Winklerov kaštieľ",
+      "latitude": 49.047218,
+      "longitude": 21.016412
+    },
+    {
+      "name": "Lovecký dom",
+      "latitude": 49.044525,
+      "longitude": 21.019354
+    },
+    {
+      "name": "Kaštieľ Péchy",
+      "latitude": 49.045026,
+      "longitude": 21.01918
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.980909,
+      "longitude": 20.390898
+    },
+    {
+      "name": "Thurzovský kaštieľ",
+      "latitude": 48.980951,
+      "longitude": 20.39154
+    },
+    {
+      "name": "Kaštieľ Betlanovce",
+      "latitude": 48.980706,
+      "longitude": 20.391764
+    },
+    {
+      "name": "Kaštieľ Spišský Hrhov",
+      "latitude": 48.999781,
+      "longitude": 20.641586
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.976571,
+      "longitude": 20.411542
+    },
+    {
+      "name": "Kaštieľ Smižany",
+      "latitude": 48.956062,
+      "longitude": 20.515964
+    },
+    {
+      "name": "Kaštieľ Odorín",
+      "latitude": 48.934025,
+      "longitude": 20.631588
+    },
+    {
+      "name": "Kaštieľ Spišský Hrušov",
+      "latitude": 48.949261,
+      "longitude": 20.705631
+    },
+    {
+      "name": "Kaštieľ Bijacovce",
+      "latitude": 49.021233,
+      "longitude": 20.793105
+    },
+    {
+      "name": "Kaštieľ Hodkovce",
+      "latitude": 48.988768,
+      "longitude": 20.783055
+    },
+    {
+      "name": "Kaštieľ Fričovce",
+      "latitude": 49.01682,
+      "longitude": 20.974078
+    },
+    {
+      "name": "Kaštieľ Hendrichovce",
+      "latitude": 49.021666,
+      "longitude": 21.000255
+    },
+    {
+      "name": "Kaštieľ Szinyeovcov",
+      "latitude": 49.002265,
+      "longitude": 21.079187
+    },
+    {
+      "name": "Kaštieľ Spišské Vlachy",
+      "latitude": 48.953463,
+      "longitude": 20.792814
+    },
+    {
+      "name": "Kaštieľ Žipov",
+      "latitude": 48.966449,
+      "longitude": 21.086647
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.966285,
+      "longitude": 21.08648
+    },
+    {
+      "name": "Kaštieľ Šerédiovcov",
+      "latitude": 49.366893,
+      "longitude": 21.307889
+    },
+    {
+      "name": "Kaštieľ Svidník",
+      "latitude": 49.304356,
+      "longitude": 21.579209
+    },
+    {
+      "name": "Kaštieľ Hertník",
+      "latitude": 49.207047,
+      "longitude": 21.236307
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.155349,
+      "longitude": 21.395726
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.157028,
+      "longitude": 21.397785
+    },
+    {
+      "name": "Kaštiel Kurima",
+      "latitude": 49.227008,
+      "longitude": 21.452875
+    },
+    {
+      "name": "Kaštieľ Marhaň",
+      "latitude": 49.168147,
+      "longitude": 21.451248
+    },
+    {
+      "name": "Stropkovský hrad",
+      "latitude": 49.201701,
+      "longitude": 21.65374
+    },
+    {
+      "name": "Kaštieľ Terňa",
+      "latitude": 49.110973,
+      "longitude": 21.238278
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.111897,
+      "longitude": 21.241754
+    },
+    {
+      "name": "Dolný kaštieľ Raslavice",
+      "latitude": 49.149118,
+      "longitude": 21.32414
+    },
+    {
+      "name": "Horný kaštieľ Raslavice",
+      "latitude": 49.149508,
+      "longitude": 21.325981
+    },
+    {
+      "name": "Semseyov kaštieľ",
+      "latitude": 49.106119,
+      "longitude": 21.314162
+    },
+    {
+      "name": "Kaštieľ Hámoš",
+      "latitude": 49.106466,
+      "longitude": 21.310167
+    },
+    {
+      "name": "Kaštieľ Želmanovce",
+      "latitude": 49.119567,
+      "longitude": 21.426627
+    },
+    {
+      "name": "Kaštieľ Uzovce",
+      "latitude": 49.091401,
+      "longitude": 21.181629
+    },
+    {
+      "name": "Darholcovský kaštieľ",
+      "latitude": 49.068416,
+      "longitude": 21.132922
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.063108,
+      "longitude": 21.117854
+    },
+    {
+      "name": "Kaštieľ Ostrovany",
+      "latitude": 49.064338,
+      "longitude": 21.120463
+    },
+    {
+      "name": "Kaštieľ Tulčík",
+      "latitude": 49.089742,
+      "longitude": 21.311452
+    },
+    {
+      "name": "Kaštieľ Chmeľov",
+      "latitude": 49.070356,
+      "longitude": 21.441872
+    },
+    {
+      "name": "Dessewffyovský kaštieľ",
+      "latitude": 49.052154,
+      "longitude": 21.28484
+    },
+    {
+      "name": "Kaštieľ Kalnište",
+      "latitude": 49.129339,
+      "longitude": 21.480066
+    },
+    {
+      "name": "Bánoovský kaštieľ",
+      "latitude": 49.111534,
+      "longitude": 21.516306
+    },
+    {
+      "name": "Kaštieľ Giraltovce",
+      "latitude": 49.112927,
+      "longitude": 21.516493
+    },
+    {
+      "name": "Kaštieľ rodiny Banó",
+      "latitude": 49.110109,
+      "longitude": 21.453529
+    },
+    {
+      "name": "Kúria Kračúnovce",
+      "latitude": 49.092566,
+      "longitude": 21.485978
+    },
+    {
+      "name": "Kaštieľ Župčany",
+      "latitude": 49.014355,
+      "longitude": 21.155604
+    },
+    {
+      "name": "Kaštieľ Svinia",
+      "latitude": 49.011139,
+      "longitude": 21.124206
+    },
+    {
+      "name": "Szirmayova kúria",
+      "latitude": 48.990339,
+      "longitude": 21.245688
+    },
+    {
+      "name": "Péchyovský kaštieľ",
+      "latitude": 49.010299,
+      "longitude": 21.274777
+    },
+    {
+      "name": "Barnov kaštieľ",
+      "latitude": 49.019741,
+      "longitude": 21.27642
+    },
+    {
+      "name": "Kaštieľ Nižná Šebastová",
+      "latitude": 49.01993,
+      "longitude": 21.28007
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.957612,
+      "longitude": 21.243804
+    },
+    {
+      "name": "Hrabeczyho kaštieľ",
+      "latitude": 48.925926,
+      "longitude": 21.243069
+    },
+    {
+      "name": "Szakmaryho kúria",
+      "latitude": 48.926679,
+      "longitude": 21.240627
+    },
+    {
+      "name": "Kaštieľ Radatice",
+      "latitude": 48.931884,
+      "longitude": 21.189139
+    },
+    {
+      "name": "Kaštieľ Záborské",
+      "latitude": 48.94379,
+      "longitude": 21.289246
+    },
+    {
+      "name": "Šoóšovský kaštieľ",
+      "latitude": 49.026572,
+      "longitude": 21.500977
+    },
+    {
+      "name": "Kaštieľ Hanušovce nad Topľou",
+      "latitude": 49.025943,
+      "longitude": 21.49925
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.006562,
+      "longitude": 21.57954
+    },
+    {
+      "name": "Kaštieľ Vyšný Žipov",
+      "latitude": 48.988089,
+      "longitude": 21.589119
+    },
+    {
+      "name": "Kaštieľ Jabloň",
+      "latitude": 49.065208,
+      "longitude": 21.981357
+    },
+    {
+      "name": "Bývalý poľovnícky kaštieľ",
+      "latitude": 48.994257,
+      "longitude": 22.056263
+    },
+    {
+      "name": "Sninský kaštieľ",
+      "latitude": 48.984981,
+      "longitude": 22.14675
+    },
+    {
+      "name": "Malý kaštieľ",
+      "latitude": 48.985007,
+      "longitude": 22.147358
+    },
+    {
+      "name": "Kaštieľ Kamenica nad Cirochou",
+      "latitude": 48.935075,
+      "longitude": 22.002126
+    },
+    {
+      "name": "Kaštieľ Stakčín",
+      "latitude": 49.000953,
+      "longitude": 22.230645
+    },
+    {
+      "name": "Holíčsky zámok",
+      "latitude": 48.808651,
+      "longitude": 17.156651
+    },
+    {
+      "name": "Kaštieľ Rohov",
+      "latitude": 48.727086,
+      "longitude": 17.345913
+    },
+    {
+      "name": "Kaštieľ Sobotište",
+      "latitude": 48.731322,
+      "longitude": 17.405845
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.727904,
+      "longitude": 17.403495
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.729114,
+      "longitude": 17.403639
+    },
+    {
+      "name": "Malý kaštieľ",
+      "latitude": 48.730681,
+      "longitude": 17.40395
+    },
+    {
+      "name": "Kaštieľ Zemianske Podhradie",
+      "latitude": 48.840087,
+      "longitude": 17.833785
+    },
+    {
+      "name": "Kaštieľ Zemianske Lieskové",
+      "latitude": 48.843906,
+      "longitude": 17.913705
+    },
+    {
+      "name": "Kaštieľ Žambokrétyovcov",
+      "latitude": 48.84771,
+      "longitude": 17.917591
+    },
+    {
+      "name": "Kaštieľ Borčických",
+      "latitude": 48.895589,
+      "longitude": 17.955159
+    },
+    {
+      "name": "Kaštieľ Záblatie",
+      "latitude": 48.896547,
+      "longitude": 17.998254
+    },
+    {
+      "name": "Frimlovec",
+      "latitude": 48.908126,
+      "longitude": 18.049181
+    },
+    {
+      "name": "Kaštiel Zamarovce",
+      "latitude": 48.909929,
+      "longitude": 18.050593
+    },
+    {
+      "name": "Kaštieľ Chorinských",
+      "latitude": 48.891709,
+      "longitude": 17.961346
+    },
+    {
+      "name": "Biskupský kaštiel",
+      "latitude": 48.877529,
+      "longitude": 17.972967
+    },
+    {
+      "name": "Kaštieľ Trenčianske Teplice",
+      "latitude": 48.908585,
+      "longitude": 18.171627
+    },
+    {
+      "name": "Kaštieľ Adamovské Kochanovce",
+      "latitude": 48.849914,
+      "longitude": 17.932555
+    },
+    {
+      "name": "Kaštieľ Horné Motešice",
+      "latitude": 48.831503,
+      "longitude": 18.185232
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.830398,
+      "longitude": 18.18415
+    },
+    {
+      "name": "Kaštieľ Madocsanyiovcov",
+      "latitude": 48.810235,
+      "longitude": 18.111788
+    },
+    {
+      "name": "Kúria Dubnických",
+      "latitude": 48.789881,
+      "longitude": 17.896666
+    },
+    {
+      "name": "Kúria Ambrovec",
+      "latitude": 48.792108,
+      "longitude": 17.89691
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.757423,
+      "longitude": 17.828262
+    },
+    {
+      "name": "Kaštieľ Rakoľuby",
+      "latitude": 48.762242,
+      "longitude": 17.887656
+    },
+    {
+      "name": "Kaštieľ Kočovce",
+      "latitude": 48.741913,
+      "longitude": 17.886573
+    },
+    {
+      "name": "Kúria Drugetovcov",
+      "latitude": 48.711879,
+      "longitude": 17.786949
+    },
+    {
+      "name": "Drugetovská kúria",
+      "latitude": 48.716362,
+      "longitude": 17.785207
+    },
+    {
+      "name": "Draškovičov kaštieľ",
+      "latitude": 48.715258,
+      "longitude": 17.785649
+    },
+    {
+      "name": "Kaštieľ rodiny Szokolóczi",
+      "latitude": 48.713069,
+      "longitude": 17.901768
+    },
+    {
+      "name": "Kaštieľ Podlužany",
+      "latitude": 48.76618,
+      "longitude": 18.240804
+    },
+    {
+      "name": "Kaštieľ Dolné Ozorovce",
+      "latitude": 48.727564,
+      "longitude": 18.242683
+    },
+    {
+      "name": "Kaštieľ Horné Ozorovce",
+      "latitude": 48.737823,
+      "longitude": 18.236211
+    },
+    {
+      "name": "Kaštieľ Dvorec",
+      "latitude": 48.707777,
+      "longitude": 18.223741
+    },
+    {
+      "name": "Kaštieľ Moravský Svätý Ján",
+      "latitude": 48.59226,
+      "longitude": 17.003649
+    },
+    {
+      "name": "Kaštieľ Senica",
+      "latitude": 48.68364,
+      "longitude": 17.36894
+    },
+    {
+      "name": "Kaštieľ Cerová",
+      "latitude": 48.582944,
+      "longitude": 17.3721
+    },
+    {
+      "name": "Kaštieľ Jablonica",
+      "latitude": 48.61383,
+      "longitude": 17.420227
+    },
+    {
+      "name": "Kaštieľ Veľké Leváre",
+      "latitude": 48.500826,
+      "longitude": 17.005383
+    },
+    {
+      "name": "Planinka",
+      "latitude": 48.567492,
+      "longitude": 17.54909
+    },
+    {
+      "name": "Kaštieľ Trstín",
+      "latitude": 48.529157,
+      "longitude": 17.460741
+    },
+    {
+      "name": "Kaštieľ Alfonz",
+      "latitude": 48.526268,
+      "longitude": 17.464497
+    },
+    {
+      "name": "Mon Repos",
+      "latitude": 48.487999,
+      "longitude": 17.325665
+    },
+    {
+      "name": "Kaštieľ Plavecké Podhradie",
+      "latitude": 48.483099,
+      "longitude": 17.258647
+    },
+    {
+      "name": "Kaštieľ Častkovce",
+      "latitude": 48.68787,
+      "longitude": 17.782061
+    },
+    {
+      "name": "Kaštieľ Brunovce",
+      "latitude": 48.672484,
+      "longitude": 17.853716
+    },
+    {
+      "name": "Kaštieľ Lúka",
+      "latitude": 48.658627,
+      "longitude": 17.88033
+    },
+    {
+      "name": "Kúria M. A. Beňovského",
+      "latitude": 48.620615,
+      "longitude": 17.72442
+    },
+    {
+      "name": "Chateau Krakovany",
+      "latitude": 48.612131,
+      "longitude": 17.749129
+    },
+    {
+      "name": "Kaštieľ Moravany nad Váhom",
+      "latitude": 48.604136,
+      "longitude": 17.861756
+    },
+    {
+      "name": "Kaštieľ Duchonka",
+      "latitude": 48.673492,
+      "longitude": 18.086787
+    },
+    {
+      "name": "Leidenfrostov kaštieľ",
+      "latitude": 48.655514,
+      "longitude": 18.183462
+    },
+    {
+      "name": "Kaštieľ Ostratice",
+      "latitude": 48.651678,
+      "longitude": 18.272132
+    },
+    {
+      "name": "Kaštieľ Tesáre",
+      "latitude": 48.594655,
+      "longitude": 18.077356
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.609555,
+      "longitude": 18.274312
+    },
+    {
+      "name": "Kaštieľ Bošániovcov",
+      "latitude": 48.579472,
+      "longitude": 18.249699
+    },
+    {
+      "name": "Kaštieľ Krušovce",
+      "latitude": 48.592472,
+      "longitude": 18.205963
+    },
+    {
+      "name": "Kaštieľ Bošániovcov",
+      "latitude": 48.580864,
+      "longitude": 18.248393
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.569073,
+      "longitude": 17.623058
+    },
+    {
+      "name": "Kaštieľ Chtelnica",
+      "latitude": 48.567815,
+      "longitude": 17.622539
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.572978,
+      "longitude": 17.745322
+    },
+    {
+      "name": "Kaštieľ Rakovice",
+      "latitude": 48.56142,
+      "longitude": 17.740402
+    },
+    {
+      "name": "Kaštieľ Sokolovce",
+      "latitude": 48.535906,
+      "longitude": 17.844493
+    },
+    {
+      "name": "Kaštieľ Šalgovce",
+      "latitude": 48.524123,
+      "longitude": 17.898604
+    },
+    {
+      "name": "Kaštieľ Jaslovské Bohunice",
+      "latitude": 48.482312,
+      "longitude": 17.643091
+    },
+    {
+      "name": "Kaštieľ Pečeňady",
+      "latitude": 48.479419,
+      "longitude": 17.719327
+    },
+    {
+      "name": "Kaštieľ Horné Otrokovce",
+      "latitude": 48.492373,
+      "longitude": 17.875089
+    },
+    {
+      "name": "Frídeský kaštieľ",
+      "latitude": 48.476067,
+      "longitude": 17.807337
+    },
+    {
+      "name": "Kaštieľ Horné Trhovište",
+      "latitude": 48.470498,
+      "longitude": 17.867669
+    },
+    {
+      "name": "Kaštieľ Nitrianska Blatnica",
+      "latitude": 48.557266,
+      "longitude": 17.966477
+    },
+    {
+      "name": "Biskupský kaštieľ",
+      "latitude": 48.549983,
+      "longitude": 17.932983
+    },
+    {
+      "name": "Kaštieľ Vítkovce",
+      "latitude": 48.573113,
+      "longitude": 18.099535
+    },
+    {
+      "name": "Kaštieľ Hajná Nová Ves",
+      "latitude": 48.534367,
+      "longitude": 18.031955
+    },
+    {
+      "name": "Kaštieľ Tovarníky",
+      "latitude": 48.567607,
+      "longitude": 18.148903
+    },
+    {
+      "name": "Kaštieľ Odescalchiovcov",
+      "latitude": 48.521292,
+      "longitude": 18.175279
+    },
+    {
+      "name": "Zerdahelyiovský kaštieľ",
+      "latitude": 48.526224,
+      "longitude": 18.176227
+    },
+    {
+      "name": "Kaštieľ Solčany",
+      "latitude": 48.536586,
+      "longitude": 18.198518
+    },
+    {
+      "name": "Kaštieľ Horné Obdokovce",
+      "latitude": 48.495869,
+      "longitude": 18.049351
+    },
+    {
+      "name": "Kaštieľ Kamanová",
+      "latitude": 48.471337,
+      "longitude": 18.100292
+    },
+    {
+      "name": "Kaštieľ Kovarce",
+      "latitude": 48.498424,
+      "longitude": 18.149893
+    },
+    {
+      "name": "Kaštieľ Kovarce",
+      "latitude": 48.497364,
+      "longitude": 18.157719
+    },
+    {
+      "name": "Chateau Appony",
+      "latitude": 48.463964,
+      "longitude": 18.148278
+    },
+    {
+      "name": "Marczibányiovský kaštieľ",
+      "latitude": 48.470537,
+      "longitude": 18.145492
+    },
+    {
+      "name": "Kaštieľ Slovenské Pravno",
+      "latitude": 48.906528,
+      "longitude": 18.761139
+    },
+    {
+      "name": "Országovská kúria",
+      "latitude": 48.911985,
+      "longitude": 18.760542
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.889479,
+      "longitude": 18.776478
+    },
+    {
+      "name": "Platthyovský kaštieľ",
+      "latitude": 48.879795,
+      "longitude": 18.851727
+    },
+    {
+      "name": "Tarnóczyovský kaštieľ",
+      "latitude": 48.881916,
+      "longitude": 18.853432
+    },
+    {
+      "name": "Kaštieľ Pravenec",
+      "latitude": 48.853624,
+      "longitude": 18.648481
+    },
+    {
+      "name": "Kaštieľ Uhrovec",
+      "latitude": 48.744945,
+      "longitude": 18.33545
+    },
+    {
+      "name": "Kaštieľ Látkovce",
+      "latitude": 48.709503,
+      "longitude": 18.35913
+    },
+    {
+      "name": "Kaštieľ Diviacka Nová Ves",
+      "latitude": 48.748348,
+      "longitude": 18.498888
+    },
+    {
+      "name": "Kaštiel Diviacka Nová Ves",
+      "latitude": 48.748021,
+      "longitude": 18.490545
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.717474,
+      "longitude": 18.53937
+    },
+    {
+      "name": "Bárczyovský kaštieľ",
+      "latitude": 48.722384,
+      "longitude": 19.130606
+    },
+    {
+      "name": "Kaštieľ Radvanských",
+      "latitude": 48.721697,
+      "longitude": 19.13453
+    },
+    {
+      "name": "Tihányiovský kaštieľ",
+      "latitude": 48.719107,
+      "longitude": 19.136846
+    },
+    {
+      "name": "Kaštieľ Vysočany",
+      "latitude": 48.678736,
+      "longitude": 18.317974
+    },
+    {
+      "name": "Kaštieľ Chalmová",
+      "latitude": 48.66537,
+      "longitude": 18.481811
+    },
+    {
+      "name": "Karolkin kaštieľ",
+      "latitude": 48.687167,
+      "longitude": 18.525095
+    },
+    {
+      "name": "Kišasonkin kaštieľ",
+      "latitude": 48.687159,
+      "longitude": 18.523469
+    },
+    {
+      "name": "Kaštieľ Kosztolányiovcov",
+      "latitude": 48.686441,
+      "longitude": 18.525401
+    },
+    {
+      "name": "Kúria Kosztolányiovcov",
+      "latitude": 48.687613,
+      "longitude": 18.523547
+    },
+    {
+      "name": "Kaštieľ Čereňany",
+      "latitude": 48.641951,
+      "longitude": 18.484771
+    },
+    {
+      "name": "Letohrádok Babylon",
+      "latitude": 48.604701,
+      "longitude": 18.342505
+    },
+    {
+      "name": "Brodziansky kaštieľ",
+      "latitude": 48.608377,
+      "longitude": 18.343717
+    },
+    {
+      "name": "Hrádok Žabokreky nad Nitrou",
+      "latitude": 48.621858,
+      "longitude": 18.303767
+    },
+    {
+      "name": "Kaštieľ Veľké Uherce",
+      "latitude": 48.611949,
+      "longitude": 18.43519
+    },
+    {
+      "name": "Kaštieľ Ladomerská Vieska",
+      "latitude": 48.578019,
+      "longitude": 18.875405
+    },
+    {
+      "name": "Biskupský kaštieľ",
+      "latitude": 48.585167,
+      "longitude": 18.863333
+    },
+    {
+      "name": "Kaštieľ Klátova Nová Ves",
+      "latitude": 48.564832,
+      "longitude": 18.306234
+    },
+    {
+      "name": "Kaštieľ Janova Ves",
+      "latitude": 48.558084,
+      "longitude": 18.320083
+    },
+    {
+      "name": "Kaštieľ Klátova Nová Ves",
+      "latitude": 48.563587,
+      "longitude": 18.305076
+    },
+    {
+      "name": "Kaštieľ Skýcov",
+      "latitude": 48.502917,
+      "longitude": 18.420419
+    },
+    {
+      "name": "Kaštieľ Hliník nad Hronom",
+      "latitude": 48.542901,
+      "longitude": 18.782693
+    },
+    {
+      "name": "Kaštieľ Žarnovica",
+      "latitude": 48.483701,
+      "longitude": 18.719007
+    },
+    {
+      "name": "Kaštieľ Sielnica",
+      "latitude": 48.634672,
+      "longitude": 19.109611
+    },
+    {
+      "name": "Sóosovsko-Géczyovský kaštieľ",
+      "latitude": 48.650117,
+      "longitude": 19.156367
+    },
+    {
+      "name": "Kaštieľ Dolná Mičiná",
+      "latitude": 48.672258,
+      "longitude": 19.22372
+    },
+    {
+      "name": "Finkova kúria",
+      "latitude": 48.579532,
+      "longitude": 19.125378
+    },
+    {
+      "name": "Kaštieľ Zolná",
+      "latitude": 48.60102,
+      "longitude": 19.225027
+    },
+    {
+      "name": "Forgáčovský kaštieľ",
+      "latitude": 48.650208,
+      "longitude": 19.678827
+    },
+    {
+      "name": "Kaštieľ Ostrá Lúka",
+      "latitude": 48.543738,
+      "longitude": 19.050602
+    },
+    {
+      "name": "Pálffyovský kaštieľ",
+      "latitude": 48.439857,
+      "longitude": 17.031045
+    },
+    {
+      "name": "Poľovnícky kaštieľ Solírov",
+      "latitude": 48.445507,
+      "longitude": 17.354286
+    },
+    {
+      "name": "Kaštieľ Budmerice",
+      "latitude": 48.363289,
+      "longitude": 17.396094
+    },
+    {
+      "name": "Kaštieľ Stupava",
+      "latitude": 48.274234,
+      "longitude": 17.033165
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.253976,
+      "longitude": 17.210438
+    },
+    {
+      "name": "Pálffyovský kaštieľ",
+      "latitude": 48.255748,
+      "longitude": 17.209015
+    },
+    {
+      "name": "Pálffyho kaštieľ",
+      "latitude": 48.315456,
+      "longitude": 17.294881
+    },
+    {
+      "name": "Kaštieľ v Modre",
+      "latitude": 48.341003,
+      "longitude": 17.311151
+    },
+    {
+      "name": "Malý kaštieľ",
+      "latitude": 48.312933,
+      "longitude": 17.492051
+    },
+    {
+      "name": "Veľký kaštieľ",
+      "latitude": 48.312455,
+      "longitude": 17.499023
+    },
+    {
+      "name": "Hodossyovská zemianska kúria",
+      "latitude": 48.27089,
+      "longitude": 17.249346
+    },
+    {
+      "name": "Smylovsko-pálfiovská kúria",
+      "latitude": 48.276426,
+      "longitude": 17.247465
+    },
+    {
+      "name": "Kaštieľ Čierna Voda",
+      "latitude": 48.224869,
+      "longitude": 17.231845
+    },
+    {
+      "name": "Kaštieľ Voderady",
+      "latitude": 48.276833,
+      "longitude": 17.557926
+    },
+    {
+      "name": "Kaštieľ Veľký Grob",
+      "latitude": 48.25389,
+      "longitude": 17.497027
+    },
+    {
+      "name": "Kaštieľ Pusté Úľany",
+      "latitude": 48.232796,
+      "longitude": 17.567274
+    },
+    {
+      "name": "Očkayovský kaštieľ",
+      "latitude": 48.421654,
+      "longitude": 17.698072
+    },
+    {
+      "name": "Zayovská kúria",
+      "latitude": 48.420597,
+      "longitude": 17.699561
+    },
+    {
+      "name": "Nyariovská kúria",
+      "latitude": 48.419845,
+      "longitude": 17.700237
+    },
+    {
+      "name": "Kaštieľ Dolné Trhovište",
+      "latitude": 48.440505,
+      "longitude": 17.887643
+    },
+    {
+      "name": "Hlohovecký kaštieľ",
+      "latitude": 48.419317,
+      "longitude": 17.787509
+    },
+    {
+      "name": "Kaštieľ Brestovany",
+      "latitude": 48.382338,
+      "longitude": 17.683194
+    },
+    {
+      "name": "Kaštieľ Zavar",
+      "latitude": 48.35129,
+      "longitude": 17.673204
+    },
+    {
+      "name": "Kaštieľ Sasinkovo",
+      "latitude": 48.372898,
+      "longitude": 17.847603
+    },
+    {
+      "name": "Kaštieľ Rišňovce",
+      "latitude": 48.3686,
+      "longitude": 17.898642
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.453719,
+      "longitude": 18.023789
+    },
+    {
+      "name": "Kaštieľ Hruboňovo",
+      "latitude": 48.452378,
+      "longitude": 18.02283
+    },
+    {
+      "name": "Kúria Widderovcov",
+      "latitude": 48.453603,
+      "longitude": 18.022317
+    },
+    {
+      "name": "Kaštieľ Nové Sady",
+      "latitude": 48.41662,
+      "longitude": 17.980745
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.426073,
+      "longitude": 18.095007
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.419779,
+      "longitude": 18.143545
+    },
+    {
+      "name": "Kaštieľ Horné Lefantovce",
+      "latitude": 48.422685,
+      "longitude": 18.141378
+    },
+    {
+      "name": "Kaštieľ Edelsheimovcov-Gyulaiovcov",
+      "latitude": 48.424233,
+      "longitude": 18.166189
+    },
+    {
+      "name": "Malý kaštieľ",
+      "latitude": 48.423853,
+      "longitude": 18.14349
+    },
+    {
+      "name": "Kaštieľ Jazerniczkych",
+      "latitude": 48.42149,
+      "longitude": 18.148349
+    },
+    {
+      "name": "Kaštieľ Lukáčovce",
+      "latitude": 48.397539,
+      "longitude": 17.933274
+    },
+    {
+      "name": "Vila Katscherovcov",
+      "latitude": 48.386512,
+      "longitude": 18.107961
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.387483,
+      "longitude": 18.110119
+    },
+    {
+      "name": "Kaštieľ Forgachovcov",
+      "latitude": 48.375774,
+      "longitude": 18.230124
+    },
+    {
+      "name": "Kaštieľ Beladice",
+      "latitude": 48.342104,
+      "longitude": 18.278909
+    },
+    {
+      "name": "Kaštieľ Neverice",
+      "latitude": 48.365541,
+      "longitude": 18.272467
+    },
+    {
+      "name": "Kaštieľ Majcichov",
+      "latitude": 48.286858,
+      "longitude": 17.628078
+    },
+    {
+      "name": "Seredský kaštieľ",
+      "latitude": 48.287697,
+      "longitude": 17.744614
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.33327,
+      "longitude": 17.813882
+    },
+    {
+      "name": "Kaštieľ Rumanová",
+      "latitude": 48.328568,
+      "longitude": 17.871663
+    },
+    {
+      "name": "Kaštieľ Báb",
+      "latitude": 48.30105,
+      "longitude": 17.891283
+    },
+    {
+      "name": "Kaštieľ Abrahám",
+      "latitude": 48.243675,
+      "longitude": 17.637686
+    },
+    {
+      "name": "Zemianska kúria",
+      "latitude": 48.231212,
+      "longitude": 17.718895
+    },
+    {
+      "name": "Kaštieľ Močenok",
+      "latitude": 48.231329,
+      "longitude": 17.927767
+    },
+    {
+      "name": "Kaštieľ Kynek",
+      "latitude": 48.31431,
+      "longitude": 18.03655
+    },
+    {
+      "name": "Kaštieľ Veľké Zálužie",
+      "latitude": 48.30223,
+      "longitude": 17.942123
+    },
+    {
+      "name": "Kaštieľ Párovské Háje",
+      "latitude": 48.296368,
+      "longitude": 18.044368
+    },
+    {
+      "name": "Kaštieľ Malanta",
+      "latitude": 48.320549,
+      "longitude": 18.147366
+    },
+    {
+      "name": "Kaštieľ Wagnerovcov",
+      "latitude": 48.24457,
+      "longitude": 18.025013
+    },
+    {
+      "name": "Kaštieľ Klasov",
+      "latitude": 48.276055,
+      "longitude": 18.262137
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.236867,
+      "longitude": 18.122422
+    },
+    {
+      "name": "Markhotovská kúria",
+      "latitude": 48.23907,
+      "longitude": 18.119239
+    },
+    {
+      "name": "Renesančný kaštieľ",
+      "latitude": 48.173271,
+      "longitude": 16.984591
+    },
+    {
+      "name": "Neskorogotický kaštieľ",
+      "latitude": 48.173115,
+      "longitude": 16.987165
+    },
+    {
+      "name": "Vila St. Genois",
+      "latitude": 48.159669,
+      "longitude": 17.09252
+    },
+    {
+      "name": "Kaštieľ v Prievoze",
+      "latitude": 48.144891,
+      "longitude": 17.166866
+    },
+    {
+      "name": "Kaštieľ Podunajské Biskupice",
+      "latitude": 48.125836,
+      "longitude": 17.2089
+    },
+    {
+      "name": "Kúria Juraja Alberta",
+      "latitude": 48.128992,
+      "longitude": 17.204705
+    },
+    {
+      "name": "Kaštieľ Veľký Biel",
+      "latitude": 48.215874,
+      "longitude": 17.360972
+    },
+    {
+      "name": "Turecký dom",
+      "latitude": 48.220773,
+      "longitude": 17.399706
+    },
+    {
+      "name": "Kaštieľ Ivanka pri Dunaji",
+      "latitude": 48.190606,
+      "longitude": 17.258643
+    },
+    {
+      "name": "Eberhard",
+      "latitude": 48.15287,
+      "longitude": 17.297572
+    },
+    {
+      "name": "Kaštieľ v Tomášove",
+      "latitude": 48.13818,
+      "longitude": 17.323086
+    },
+    {
+      "name": "Bitter House",
+      "latitude": 48.130348,
+      "longitude": 17.296895
+    },
+    {
+      "name": "Szelepcsényiho kaštieľ Čakany",
+      "latitude": 48.115321,
+      "longitude": 17.361303
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.143841,
+      "longitude": 17.497596
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.149051,
+      "longitude": 17.517287
+    },
+    {
+      "name": "Kaštieľ Tonkovce",
+      "latitude": 48.115908,
+      "longitude": 17.442764
+    },
+    {
+      "name": "Kaštieľ Lieskovec",
+      "latitude": 48.100442,
+      "longitude": 17.198118
+    },
+    {
+      "name": "Rusovský kaštieľ",
+      "latitude": 48.052365,
+      "longitude": 17.150993
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.057695,
+      "longitude": 17.140654
+    },
+    {
+      "name": "Kaštieľ Čunovo",
+      "latitude": 48.026018,
+      "longitude": 17.196875
+    },
+    {
+      "name": "Veľký kaštieľ v Hubiciach",
+      "latitude": 48.097593,
+      "longitude": 17.397696
+    },
+    {
+      "name": "Malý kaštieľ v Hubiciach",
+      "latitude": 48.097163,
+      "longitude": 17.397066
+    },
+    {
+      "name": "Kúria Pállfyovcov",
+      "latitude": 48.098203,
+      "longitude": 17.464303
+    },
+    {
+      "name": "Kaštiel r. Beňovských",
+      "latitude": 48.050616,
+      "longitude": 17.454536
+    },
+    {
+      "name": "Kaštieľ Báč",
+      "latitude": 48.002692,
+      "longitude": 17.369218
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.006249,
+      "longitude": 17.440728
+    },
+    {
+      "name": "Kúria rodiny Bittóovcov",
+      "latitude": 48.005476,
+      "longitude": 17.44077
+    },
+    {
+      "name": "Kaštiel Vermesovcov",
+      "latitude": 47.99046,
+      "longitude": 17.4613
+    },
+    {
+      "name": "Kaštieľ Rohovce",
+      "latitude": 47.998759,
+      "longitude": 17.406568
+    },
+    {
+      "name": "Kaštieľ Kráľovičove Kračany",
+      "latitude": 47.990313,
+      "longitude": 17.554404
+    },
+    {
+      "name": "Kuffnerovský kaštieľ",
+      "latitude": 48.206116,
+      "longitude": 17.646056
+    },
+    {
+      "name": "Kaštieľ Hody",
+      "latitude": 48.203213,
+      "longitude": 17.710285
+    },
+    {
+      "name": "Kaštieľ Nebojsa",
+      "latitude": 48.219473,
+      "longitude": 17.727636
+    },
+    {
+      "name": "Kaštieľ Košúty",
+      "latitude": 48.173695,
+      "longitude": 17.664347
+    },
+    {
+      "name": "Kúria rodu Fekete",
+      "latitude": 48.169153,
+      "longitude": 17.65876
+    },
+    {
+      "name": "Kúria Ábrahámffyovcov",
+      "latitude": 48.172332,
+      "longitude": 17.658594
+    },
+    {
+      "name": "Kaštieľ Štrkovec",
+      "latitude": 48.203833,
+      "longitude": 17.845499
+    },
+    {
+      "name": "Kaštieľ Šaľa",
+      "latitude": 48.152329,
+      "longitude": 17.877093
+    },
+    {
+      "name": "Kaštieľ Hetméň",
+      "latitude": 48.120728,
+      "longitude": 17.907025
+    },
+    {
+      "name": "Kaštieľ Pereš",
+      "latitude": 48.213574,
+      "longitude": 17.994384
+    },
+    {
+      "name": "Kaštieľ Mojmírovce",
+      "latitude": 48.206527,
+      "longitude": 18.061119
+    },
+    {
+      "name": "Kúria Aldobrandiniho",
+      "latitude": 48.208069,
+      "longitude": 18.058505
+    },
+    {
+      "name": "Kúria Takácsovcov",
+      "latitude": 48.206137,
+      "longitude": 18.064143
+    },
+    {
+      "name": "Kúria Bábothyovcov",
+      "latitude": 48.206897,
+      "longitude": 18.063255
+    },
+    {
+      "name": "Kaštieľ Lipová",
+      "latitude": 48.10775,
+      "longitude": 18.188219
+    },
+    {
+      "name": "Kaštieľ Ondrochov",
+      "latitude": 48.127732,
+      "longitude": 18.182511
+    },
+    {
+      "name": "Kaštieľ Tomášikovo",
+      "latitude": 48.084229,
+      "longitude": 17.694588
+    },
+    {
+      "name": "Žltý kaštieľ",
+      "latitude": 47.994321,
+      "longitude": 17.621746
+    },
+    {
+      "name": "Renesančný kaštieľ",
+      "latitude": 48.092012,
+      "longitude": 18.070949
+    },
+    {
+      "name": "Kaštieľ Motešických",
+      "latitude": 48.103222,
+      "longitude": 18.266168
+    },
+    {
+      "name": "Kaštiel Baerovcov",
+      "latitude": 48.053602,
+      "longitude": 18.198101
+    },
+    {
+      "name": "Poľovnícky kaštieľ Palárikovo",
+      "latitude": 48.038756,
+      "longitude": 18.069397
+    },
+    {
+      "name": "Poľovnícky zámoček",
+      "latitude": 48.421433,
+      "longitude": 18.414921
+    },
+    {
+      "name": "Kaštieľ Szentiványiovcov",
+      "latitude": 48.341993,
+      "longitude": 18.293782
+    },
+    {
+      "name": "Kaštieľ Svätý Anton",
+      "latitude": 48.421247,
+      "longitude": 18.94282
+    },
+    {
+      "name": "Sirániovský kaštieľ",
+      "latitude": 48.338931,
+      "longitude": 18.298826
+    },
+    {
+      "name": "Kaštieľ Tesárske Mlyňany",
+      "latitude": 48.319688,
+      "longitude": 18.36886
+    },
+    {
+      "name": "Kaštieľ Klobušických",
+      "latitude": 48.291166,
+      "longitude": 18.327164
+    },
+    {
+      "name": "Kaštieľ Berchtoldovcov",
+      "latitude": 48.289436,
+      "longitude": 18.323045
+    },
+    {
+      "name": "Kaštieľ rodiny Szörényi a Szlávy",
+      "latitude": 48.289088,
+      "longitude": 18.326116
+    },
+    {
+      "name": "Bacskádyovský kaštieľ",
+      "latitude": 48.30879,
+      "longitude": 18.39995
+    },
+    {
+      "name": "Botkovský kaštieľ",
+      "latitude": 48.309499,
+      "longitude": 18.413371
+    },
+    {
+      "name": "Kaštieľ Taynaiovcov",
+      "latitude": 48.267701,
+      "longitude": 18.364101
+    },
+    {
+      "name": "Kaštieľ Schickovcov",
+      "latitude": 48.240485,
+      "longitude": 18.307828
+    },
+    {
+      "name": "Kaštieľ Vráble",
+      "latitude": 48.240406,
+      "longitude": 18.30295
+    },
+    {
+      "name": "Starý kaštieľ",
+      "latitude": 48.336393,
+      "longitude": 18.749381
+    },
+    {
+      "name": "Nový kaštieľ",
+      "latitude": 48.336046,
+      "longitude": 18.749718
+    },
+    {
+      "name": "Kaštieľ Pečenice",
+      "latitude": 48.298775,
+      "longitude": 18.773923
+    },
+    {
+      "name": "Kaštieľ Žemberiovcov",
+      "latitude": 48.257336,
+      "longitude": 18.737885
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.268154,
+      "longitude": 18.741745
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.260755,
+      "longitude": 18.741209
+    },
+    {
+      "name": "Kaštieľ Podrečany",
+      "latitude": 48.402302,
+      "longitude": 19.597894
+    },
+    {
+      "name": "Kaštieľ LODOMERIA",
+      "latitude": 48.354997,
+      "longitude": 19.572313
+    },
+    {
+      "name": "Kaštieľ Opatová",
+      "latitude": 48.343979,
+      "longitude": 19.678972
+    },
+    {
+      "name": "Kaštieľ Prónayovcov",
+      "latitude": 48.341669,
+      "longitude": 19.680641
+    },
+    {
+      "name": "Kaštieľ Vidiná",
+      "latitude": 48.358903,
+      "longitude": 19.652202
+    },
+    {
+      "name": "Szillasyho kaštieľ",
+      "latitude": 48.325519,
+      "longitude": 19.672791
+    },
+    {
+      "name": "Malovesský kaštieľ",
+      "latitude": 48.334525,
+      "longitude": 19.683665
+    },
+    {
+      "name": "Kaštieľ Slatinka",
+      "latitude": 48.236683,
+      "longitude": 19.407841
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.272406,
+      "longitude": 19.681712
+    },
+    {
+      "name": "Kaštieľ Žitavce",
+      "latitude": 48.204536,
+      "longitude": 18.298757
+    },
+    {
+      "name": "Kaštieľ Vajka nad Žitavou",
+      "latitude": 48.21576,
+      "longitude": 18.291429
+    },
+    {
+      "name": "Kaštieľ Michal nad Žitavou",
+      "latitude": 48.185614,
+      "longitude": 18.286441
+    },
+    {
+      "name": "Dobóovský kaštieľ",
+      "latitude": 48.221289,
+      "longitude": 18.60175
+    },
+    {
+      "name": "Kaštieľ Esterházyovcov",
+      "latitude": 48.216982,
+      "longitude": 18.604628
+    },
+    {
+      "name": "Kaštieľ Veľká Maňa",
+      "latitude": 48.150121,
+      "longitude": 18.284842
+    },
+    {
+      "name": "Kaštieľ Baloghovcov",
+      "latitude": 48.142385,
+      "longitude": 18.340118
+    },
+    {
+      "name": "Kaštieľ Rudnyianszkych",
+      "latitude": 48.136198,
+      "longitude": 18.33449
+    },
+    {
+      "name": "Kaštieľ Barlanghiho",
+      "latitude": 48.136347,
+      "longitude": 18.330599
+    },
+    {
+      "name": "Kaštieľ Bardoňovo",
+      "latitude": 48.111278,
+      "longitude": 18.425914
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.215001,
+      "longitude": 18.677201
+    },
+    {
+      "name": "Kaštieľ Kalinčiakovo",
+      "latitude": 48.199114,
+      "longitude": 18.657182
+    },
+    {
+      "name": "Kaštieľ Brhlovce",
+      "latitude": 48.21809,
+      "longitude": 18.739213
+    },
+    {
+      "name": "Kaštieľ Osvaldovcov",
+      "latitude": 48.181168,
+      "longitude": 18.752283
+    },
+    {
+      "name": "Kaštieľ Súdovce",
+      "latitude": 48.207463,
+      "longitude": 18.835071
+    },
+    {
+      "name": "Kaštieľ Hontianske Moravce",
+      "latitude": 48.185974,
+      "longitude": 18.853002
+    },
+    {
+      "name": "Kaštieľ Terany",
+      "latitude": 48.186931,
+      "longitude": 18.901007
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.125571,
+      "longitude": 18.783705
+    },
+    {
+      "name": "Kúria Majthényiovcov",
+      "latitude": 48.12342,
+      "longitude": 18.78493
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.15511,
+      "longitude": 18.874259
+    },
+    {
+      "name": "Kaštieľ Hokovce",
+      "latitude": 48.151287,
+      "longitude": 18.869296
+    },
+    {
+      "name": "Kúria Ivánkovcov",
+      "latitude": 48.15883,
+      "longitude": 18.977002
+    },
+    {
+      "name": "Kaštieľ Palásthyovcov",
+      "latitude": 48.160734,
+      "longitude": 18.976572
+    },
+    {
+      "name": "Kúria Zmeskalovcov",
+      "latitude": 48.160251,
+      "longitude": 18.980575
+    },
+    {
+      "name": "Kúria Nedeczkých",
+      "latitude": 48.159856,
+      "longitude": 18.981191
+    },
+    {
+      "name": "Wilczekovský kaštieľ",
+      "latitude": 48.128002,
+      "longitude": 18.8829
+    },
+    {
+      "name": "Kúria Nedeczkých",
+      "latitude": 48.126179,
+      "longitude": 18.945452
+    },
+    {
+      "name": "Kaštieľ Horné Turovce",
+      "latitude": 48.12488,
+      "longitude": 18.943612
+    },
+    {
+      "name": "Kúria Alexandra Pongráca",
+      "latitude": 48.125597,
+      "longitude": 18.94485
+    },
+    {
+      "name": "Mésárošovský kaštieľ",
+      "latitude": 48.019688,
+      "longitude": 18.414333
+    },
+    {
+      "name": "Kúria rodiny Jaross",
+      "latitude": 48.018048,
+      "longitude": 18.41157
+    },
+    {
+      "name": "Kürthyho kúria",
+      "latitude": 48.018994,
+      "longitude": 18.414217
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.091054,
+      "longitude": 18.697386
+    },
+    {
+      "name": "Kaštieľ Vyškovce nad Ipľom",
+      "latitude": 48.055115,
+      "longitude": 18.867345
+    },
+    {
+      "name": "Kaštieľ Želiezovce",
+      "latitude": 48.046412,
+      "longitude": 18.65726
+    },
+    {
+      "name": "Kaštieľ Príbelce",
+      "latitude": 48.196364,
+      "longitude": 19.252383
+    },
+    {
+      "name": "Kúria Ambrózyovcov",
+      "latitude": 48.210998,
+      "longitude": 19.341463
+    },
+    {
+      "name": "Kaštieľ Prónayovcov",
+      "latitude": 48.172543,
+      "longitude": 19.500624
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.180359,
+      "longitude": 19.443779
+    },
+    {
+      "name": "Prónayovský kaštieľ",
+      "latitude": 48.180365,
+      "longitude": 19.443188
+    },
+    {
+      "name": "Kaštieľ Jankovicsovcov",
+      "latitude": 48.154923,
+      "longitude": 19.458596
+    },
+    {
+      "name": "Kaštieľ Prónayovcov",
+      "latitude": 48.142085,
+      "longitude": 19.490789
+    },
+    {
+      "name": "Keglevichov kaštieľ",
+      "latitude": 48.117337,
+      "longitude": 19.489474
+    },
+    {
+      "name": "Kaštieľ Sečianky",
+      "latitude": 48.097614,
+      "longitude": 19.074367
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.094279,
+      "longitude": 19.455142
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.101721,
+      "longitude": 19.484579
+    },
+    {
+      "name": "Kúria - pohostinstvo",
+      "latitude": 48.786642,
+      "longitude": 20.317429
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.915082,
+      "longitude": 20.617497
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.915487,
+      "longitude": 20.620084
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.915509,
+      "longitude": 20.621954
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.915686,
+      "longitude": 20.623226
+    },
+    {
+      "name": "Mariássyovský kaštieľ",
+      "latitude": 48.915632,
+      "longitude": 20.624106
+    },
+    {
+      "name": "Letohrádok Dardanely",
+      "latitude": 48.917261,
+      "longitude": 20.624678
+    },
+    {
+      "name": "Kaštieľ Markušovce",
+      "latitude": 48.915616,
+      "longitude": 20.625047
+    },
+    {
+      "name": "Kaštieľ Bocian",
+      "latitude": 48.915519,
+      "longitude": 20.626147
+    },
+    {
+      "name": "Kúria Mariássyovcov",
+      "latitude": 48.915105,
+      "longitude": 20.627976
+    },
+    {
+      "name": "Kúria Mariássyovcov",
+      "latitude": 48.914912,
+      "longitude": 20.628666
+    },
+    {
+      "name": "Kúria Mariássyovcov",
+      "latitude": 48.915557,
+      "longitude": 20.625445
+    },
+    {
+      "name": "Kaštieľ Krompachy",
+      "latitude": 48.909853,
+      "longitude": 20.871778
+    },
+    {
+      "name": "Kaštieľ Kľuknava",
+      "latitude": 48.920405,
+      "longitude": 20.938765
+    },
+    {
+      "name": "Poľovnícky kaštieľ rodiny Csákyovcov",
+      "latitude": 48.87529,
+      "longitude": 20.997778
+    },
+    {
+      "name": "Kaštieľ Csákyovcov",
+      "latitude": 48.825815,
+      "longitude": 20.863733
+    },
+    {
+      "name": "Kaštieľ Andrášiovcov",
+      "latitude": 48.771812,
+      "longitude": 20.411749
+    },
+    {
+      "name": "Kaštieľ Betliar",
+      "latitude": 48.70627,
+      "longitude": 20.510353
+    },
+    {
+      "name": "Dom meštiansky",
+      "latitude": 48.660033,
+      "longitude": 20.36365
+    },
+    {
+      "name": "Sebőkova kúria",
+      "latitude": 48.659916,
+      "longitude": 20.363992
+    },
+    {
+      "name": "Vodný hrad Štítnik",
+      "latitude": 48.656575,
+      "longitude": 20.365146
+    },
+    {
+      "name": "Kolenérovský kaštieľ",
+      "latitude": 48.554366,
+      "longitude": 19.690348
+    },
+    {
+      "name": "Kaštieľ Kokava nad Rimavicou",
+      "latitude": 48.573857,
+      "longitude": 19.840493
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.507611,
+      "longitude": 19.740914
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.471372,
+      "longitude": 19.748838
+    },
+    {
+      "name": "Kaštieľ Hrachovo",
+      "latitude": 48.466999,
+      "longitude": 19.949964
+    },
+    {
+      "name": "Kaštieľ Hucín",
+      "latitude": 48.562498,
+      "longitude": 20.300737
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.488331,
+      "longitude": 20.341251
+    },
+    {
+      "name": "Kúria Kovácsovcov",
+      "latitude": 48.47135,
+      "longitude": 20.344803
+    },
+    {
+      "name": "Kúria Kubínyiovcov",
+      "latitude": 48.474225,
+      "longitude": 20.350952
+    },
+    {
+      "name": "Kaštieľ Andrássyovcov",
+      "latitude": 48.638561,
+      "longitude": 20.653962
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.629951,
+      "longitude": 20.495663
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.630301,
+      "longitude": 20.496115
+    },
+    {
+      "name": "Kaštieľ baróna Hámosiho",
+      "latitude": 48.632501,
+      "longitude": 20.498387
+    },
+    {
+      "name": "Kaštieľ Mariášiovcov",
+      "latitude": 48.630724,
+      "longitude": 20.498859
+    },
+    {
+      "name": "Biely kaštieľ",
+      "latitude": 48.631117,
+      "longitude": 20.497583
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.631845,
+      "longitude": 20.548031
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.60201,
+      "longitude": 20.476522
+    },
+    {
+      "name": "Kaštieľ Bôrka",
+      "latitude": 48.63025,
+      "longitude": 20.763302
+    },
+    {
+      "name": "Kaštieľ Drienovec",
+      "latitude": 48.606976,
+      "longitude": 20.958388
+    },
+    {
+      "name": "Kaštieľ Žarnov",
+      "latitude": 48.586519,
+      "longitude": 20.921212
+    },
+    {
+      "name": "Kaštieľ Sirmaiovcov",
+      "latitude": 48.597527,
+      "longitude": 21.061873
+    },
+    {
+      "name": "Kúria Andrášiovcov",
+      "latitude": 48.568371,
+      "longitude": 20.465047
+    },
+    {
+      "name": "Kaštieľ Ruské Pekľany",
+      "latitude": 48.902361,
+      "longitude": 21.186588
+    },
+    {
+      "name": "Kaštieľ Ličartovce",
+      "latitude": 48.874285,
+      "longitude": 21.243637
+    },
+    {
+      "name": "Kaštieľ Obišovce",
+      "latitude": 48.862296,
+      "longitude": 21.242729
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.850137,
+      "longitude": 21.269506
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.846695,
+      "longitude": 21.266635
+    },
+    {
+      "name": "Kaštieľ Šarišské Bohdanovce",
+      "latitude": 48.851386,
+      "longitude": 21.315693
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.848894,
+      "longitude": 21.270307
+    },
+    {
+      "name": "Kaštieľ Chabžany",
+      "latitude": 48.845062,
+      "longitude": 21.280666
+    },
+    {
+      "name": "Kaštieľ Opiná",
+      "latitude": 48.853349,
+      "longitude": 21.429383
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.82729,
+      "longitude": 21.293383
+    },
+    {
+      "name": "Kaštieľ Ploské",
+      "latitude": 48.813689,
+      "longitude": 21.321634
+    },
+    {
+      "name": "Kaštieľ Ploské",
+      "latitude": 48.813473,
+      "longitude": 21.320226
+    },
+    {
+      "name": "Dolný kaštieľ",
+      "latitude": 48.828821,
+      "longitude": 21.415621
+    },
+    {
+      "name": "Horný kaštieľ",
+      "latitude": 48.829311,
+      "longitude": 21.416148
+    },
+    {
+      "name": "Kaštieľ Nižný Hrabovec",
+      "latitude": 48.852596,
+      "longitude": 21.751781
+    },
+    {
+      "name": "Malá kúria",
+      "latitude": 48.852094,
+      "longitude": 21.752719
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.853278,
+      "longitude": 21.754491
+    },
+    {
+      "name": "Kaštieľ Nižný Hrušov",
+      "latitude": 48.807912,
+      "longitude": 21.773847
+    },
+    {
+      "name": "Starý kaštieľ",
+      "latitude": 48.797921,
+      "longitude": 21.308533
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.797643,
+      "longitude": 21.308057
+    },
+    {
+      "name": "Budimírsky kaštieľ",
+      "latitude": 48.795568,
+      "longitude": 21.306829
+    },
+    {
+      "name": "Kúria Baltazára Egerera",
+      "latitude": 48.803147,
+      "longitude": 21.429057
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.75133,
+      "longitude": 21.343367
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.75111,
+      "longitude": 21.340496
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.749842,
+      "longitude": 21.344215
+    },
+    {
+      "name": "Kaštieľ grófky Klobusitzkej",
+      "latitude": 48.728378,
+      "longitude": 21.261641
+    },
+    {
+      "name": "Kaštieľ Forgáčovcov",
+      "latitude": 48.759169,
+      "longitude": 21.478203
+    },
+    {
+      "name": "Domov sociálnych služieb (DSS)",
+      "latitude": 48.776895,
+      "longitude": 21.786991
+    },
+    {
+      "name": "Kaštieľ Sirmaiovcov",
+      "latitude": 48.773863,
+      "longitude": 21.783583
+    },
+    {
+      "name": "Kaštieľ Strážske",
+      "latitude": 48.874119,
+      "longitude": 21.84419
+    },
+    {
+      "name": "Stáraiovský kaštieľ",
+      "latitude": 48.861989,
+      "longitude": 21.873751
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.820657,
+      "longitude": 21.928659
+    },
+    {
+      "name": "Kaštieľ Vinné",
+      "latitude": 48.808516,
+      "longitude": 21.967042
+    },
+    {
+      "name": "Kaštieľ Vercseniovcov",
+      "latitude": 48.876583,
+      "longitude": 22.358665
+    },
+    {
+      "name": "Kaštielik",
+      "latitude": 48.844497,
+      "longitude": 22.181172
+    },
+    {
+      "name": "Zotavovňa",
+      "latitude": 48.845304,
+      "longitude": 22.181851
+    },
+    {
+      "name": "Vila",
+      "latitude": 48.842681,
+      "longitude": 22.182166
+    },
+    {
+      "name": "Sztárayovský kaštieľ",
+      "latitude": 48.757919,
+      "longitude": 21.927524
+    },
+    {
+      "name": "Kaštieľ Sztárayovcov",
+      "latitude": 48.757867,
+      "longitude": 21.924701
+    },
+    {
+      "name": "Kaštieľ Sirmaiovcov",
+      "latitude": 48.725101,
+      "longitude": 21.853853
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.726537,
+      "longitude": 21.853825
+    },
+    {
+      "name": "Kaštieľ Šemšejovcov",
+      "latitude": 48.679317,
+      "longitude": 21.11264
+    },
+    {
+      "name": "Kaštieľ Barczayovcov",
+      "latitude": 48.677143,
+      "longitude": 21.266252
+    },
+    {
+      "name": "Berzeviczyho kúria",
+      "latitude": 48.674195,
+      "longitude": 21.264871
+    },
+    {
+      "name": "Zičiho kaštieľ",
+      "latitude": 48.67846,
+      "longitude": 21.264763
+    },
+    {
+      "name": "Rokokový kaštieľ Šaca",
+      "latitude": 48.636136,
+      "longitude": 21.164007
+    },
+    {
+      "name": "Kaštieľ Krásna",
+      "latitude": 48.670624,
+      "longitude": 21.31828
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.671733,
+      "longitude": 21.315907
+    },
+    {
+      "name": "Kaštieľ Buzinka",
+      "latitude": 48.63151,
+      "longitude": 21.16505
+    },
+    {
+      "name": "Kaštieľ Sokoľany",
+      "latitude": 48.610251,
+      "longitude": 21.233343
+    },
+    {
+      "name": "Panské sídlo",
+      "latitude": 48.598313,
+      "longitude": 21.166559
+    },
+    {
+      "name": "Stará zemianska kúria",
+      "latitude": 48.627409,
+      "longitude": 21.308267
+    },
+    {
+      "name": "Kúria Feketeových",
+      "latitude": 48.589922,
+      "longitude": 21.375433
+    },
+    {
+      "name": "Kaštieľ Trebišov",
+      "latitude": 48.619751,
+      "longitude": 21.721013
+    },
+    {
+      "name": "Kaštieľ Lastovce",
+      "latitude": 48.539565,
+      "longitude": 21.6259
+    },
+    {
+      "name": "Kaštieľ Hraň",
+      "latitude": 48.532208,
+      "longitude": 21.780978
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.679163,
+      "longitude": 21.814303
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.67762,
+      "longitude": 21.882349
+    },
+    {
+      "name": "Kaštieľ Budkovce",
+      "latitude": 48.63425,
+      "longitude": 21.930944
+    },
+    {
+      "name": "Kaštieľ Senné",
+      "latitude": 48.666377,
+      "longitude": 22.032475
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.579155,
+      "longitude": 21.85103
+    },
+    {
+      "name": "Kaštieľ Drahňov",
+      "latitude": 48.59084,
+      "longitude": 21.969431
+    },
+    {
+      "name": "Kúria Berzeviczyovcov",
+      "latitude": 48.600559,
+      "longitude": 22.109436
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.654367,
+      "longitude": 22.209165
+    },
+    {
+      "name": "Kaštieľ Vojka",
+      "latitude": 48.462339,
+      "longitude": 21.915343
+    },
+    {
+      "name": "Kúria - rodinný dom",
+      "latitude": 48.449177,
+      "longitude": 19.74076
+    },
+    {
+      "name": "Jánokyho kúria",
+      "latitude": 48.430506,
+      "longitude": 19.860471
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.406332,
+      "longitude": 19.991104
+    },
+    {
+      "name": "Kaštieľ Dolná Slatinka",
+      "latitude": 48.345965,
+      "longitude": 19.690714
+    },
+    {
+      "name": "Horkovicsova kúria",
+      "latitude": 48.349782,
+      "longitude": 19.83614
+    },
+    {
+      "name": "Kaštieľ Ožďany",
+      "latitude": 48.379308,
+      "longitude": 19.896063
+    },
+    {
+      "name": "Kaštieľ Rimavská Sobota",
+      "latitude": 48.375239,
+      "longitude": 20.005371
+    },
+    {
+      "name": "Kaštieľ Veľký Blh",
+      "latitude": 48.450576,
+      "longitude": 20.11387
+    },
+    {
+      "name": "Kaštieľ Valice",
+      "latitude": 48.447593,
+      "longitude": 20.198923
+    },
+    {
+      "name": "Kaštieľ Uzovská Panica",
+      "latitude": 48.418911,
+      "longitude": 20.142109
+    },
+    {
+      "name": "Kaštieľ Gemer",
+      "latitude": 48.450774,
+      "longitude": 20.316783
+    },
+    {
+      "name": "Kaštieľ Szentivanyi",
+      "latitude": 48.422389,
+      "longitude": 20.294458
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.420818,
+      "longitude": 20.221474
+    },
+    {
+      "name": "Klasicistická kúria",
+      "latitude": 48.403901,
+      "longitude": 20.281234
+    },
+    {
+      "name": "Kaštieľ Bátka",
+      "latitude": 48.379734,
+      "longitude": 20.166398
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.381797,
+      "longitude": 20.168357
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.345686,
+      "longitude": 20.058689
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.34336,
+      "longitude": 20.061108
+    },
+    {
+      "name": "Törökovská kúria",
+      "latitude": 48.342408,
+      "longitude": 20.061023
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.343212,
+      "longitude": 20.20698
+    },
+    {
+      "name": "Kaštieľ Žíp",
+      "latitude": 48.36229,
+      "longitude": 20.205173
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.396466,
+      "longitude": 20.252752
+    },
+    {
+      "name": "Kaštieľ Lenka",
+      "latitude": 48.385986,
+      "longitude": 20.347819
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.366652,
+      "longitude": 20.28697
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.342528,
+      "longitude": 20.300275
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.356936,
+      "longitude": 20.32357
+    },
+    {
+      "name": "Stojkovičov kaštieľ",
+      "latitude": 48.300129,
+      "longitude": 19.987466
+    },
+    {
+      "name": "Kúria Kubínyiovcov",
+      "latitude": 48.30138,
+      "longitude": 19.988036
+    },
+    {
+      "name": "Kaštieľ Berchtoldovcov",
+      "latitude": 48.270038,
+      "longitude": 19.826491
+    },
+    {
+      "name": "Kúria Cebriánovcov",
+      "latitude": 48.272226,
+      "longitude": 19.818127
+    },
+    {
+      "name": "Koháryho kúria",
+      "latitude": 48.2708,
+      "longitude": 19.817303
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.339426,
+      "longitude": 20.065361
+    },
+    {
+      "name": "Vályiho kúria",
+      "latitude": 48.339056,
+      "longitude": 20.06582
+    },
+    {
+      "name": "Kúria - rodinný dom",
+      "latitude": 48.307646,
+      "longitude": 20.073478
+    },
+    {
+      "name": "Kúria - rodinný dom",
+      "latitude": 48.308403,
+      "longitude": 20.073999
+    },
+    {
+      "name": "Kaštieľ Širkovce",
+      "latitude": 48.292039,
+      "longitude": 20.085314
+    },
+    {
+      "name": "Kaštieľ Abafiovcov",
+      "latitude": 48.318708,
+      "longitude": 20.33568
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.318518,
+      "longitude": 20.335155
+    },
+    {
+      "name": "Kaštieľ Kráľ",
+      "latitude": 48.328104,
+      "longitude": 20.343333
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.277265,
+      "longitude": 20.114148
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.240436,
+      "longitude": 20.062439
+    },
+    {
+      "name": "Ebeczkého kúria",
+      "latitude": 48.216395,
+      "longitude": 19.958133
+    },
+    {
+      "name": "Kaštieľ Rákóczi",
+      "latitude": 48.389195,
+      "longitude": 21.705743
+    },
+    {
+      "name": "Orosovský kaštieľ",
+      "latitude": 48.376813,
+      "longitude": 21.752751
+    },
+    {
+      "name": "Maillot-kúria",
+      "latitude": 48.368758,
+      "longitude": 21.753822
+    },
+    {
+      "name": "Kaštieľ Vécseyovcov",
+      "latitude": 48.369911,
+      "longitude": 21.753052
+    },
+    {
+      "name": "Kaštieľ Zuzany Lorántfiovej",
+      "latitude": 48.423975,
+      "longitude": 21.97622
+    },
+    {
+      "name": "Šeneiovský kaštieľ",
+      "latitude": 48.403494,
+      "longitude": 22.056728
+    },
+    {
+      "name": "Fischer-Kaštieľ",
+      "latitude": 48.358543,
+      "longitude": 21.807248
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.359796,
+      "longitude": 21.806678
+    },
+    {
+      "name": "Kaštieľ Majláthovcov",
+      "latitude": 48.390306,
+      "longitude": 22.005918
+    },
+    {
+      "name": "Soľný úrad",
+      "latitude": 48.388082,
+      "longitude": 22.095341
+    },
+    {
+      "name": "Kaštieľ Veľká Lúč",
+      "latitude": 47.976018,
+      "longitude": 17.523086
+    },
+    {
+      "name": "Pálfiovský kaštieľ",
+      "latitude": 47.973607,
+      "longitude": 17.502033
+    },
+    {
+      "name": "Neskororenesančný kaštieľ",
+      "latitude": 47.952292,
+      "longitude": 17.441096
+    },
+    {
+      "name": "Kaštieľ Vrakúň",
+      "latitude": 47.938122,
+      "longitude": 17.603293
+    },
+    {
+      "name": "Amadeovský kaštieľ",
+      "latitude": 47.894373,
+      "longitude": 17.582805
+    },
+    {
+      "name": "Kaštieľ Steinerovcov",
+      "latitude": 47.873255,
+      "longitude": 18.192222
+    },
+    {
+      "name": "Schwarzov kaštieľ",
+      "latitude": 47.875505,
+      "longitude": 18.192663
+    },
+    {
+      "name": "Kúria Vollnerovcov",
+      "latitude": 47.875695,
+      "longitude": 18.200922
+    },
+    {
+      "name": "Kúria Ordódyovcov",
+      "latitude": 47.891609,
+      "longitude": 18.202435
+    },
+    {
+      "name": "Kúria Ordódyovcov",
+      "latitude": 47.88353,
+      "longitude": 18.198819
+    },
+    {
+      "name": "Kúria",
+      "latitude": 47.863532,
+      "longitude": 17.823274
+    },
+    {
+      "name": "Kaštieľ Amadéovcov",
+      "latitude": 47.85395,
+      "longitude": 17.82751
+    },
+    {
+      "name": "Kaštieľ Číčov",
+      "latitude": 47.772934,
+      "longitude": 17.768741
+    },
+    {
+      "name": "Kúria rodu Javor",
+      "latitude": 47.870124,
+      "longitude": 18.189989
+    },
+    {
+      "name": "Kaštieľ Fesztyovcov",
+      "latitude": 47.867146,
+      "longitude": 18.187615
+    },
+    {
+      "name": "Kaštieľ Zichyovcov",
+      "latitude": 47.848242,
+      "longitude": 18.264122
+    },
+    {
+      "name": "Zičiovský kaštieľ",
+      "latitude": 47.783997,
+      "longitude": 17.950736
+    },
+    {
+      "name": "Kúria Zámoryovcov",
+      "latitude": 47.750547,
+      "longitude": 17.820142
+    },
+    {
+      "name": "Csúzyovská kúria",
+      "latitude": 47.960948,
+      "longitude": 18.410594
+    },
+    {
+      "name": "Kaštieľ ölveckých",
+      "latitude": 47.958481,
+      "longitude": 18.407624
+    },
+    {
+      "name": "Kaštieľ Rúbaň",
+      "latitude": 47.933437,
+      "longitude": 18.392414
+    },
+    {
+      "name": "Kaštieľ Belá",
+      "latitude": 47.830911,
+      "longitude": 18.596641
+    },
+    {
+      "name": "Kaštieľ Sarvašiovcov",
+      "latitude": 47.762329,
+      "longitude": 18.478815
+    },
+    {
+      "name": "Kaštieľ Lángovcov",
+      "latitude": 47.760089,
+      "longitude": 18.484323
+    },
+    {
+      "name": "Kaštieľ Nána",
+      "latitude": 47.813651,
+      "longitude": 18.70406
+    },
+    {
+      "name": "Pyberovský kaštieľ",
+      "latitude": 47.75134,
+      "longitude": 18.320203
+    }
+  ],
+  "meta": {
+    "title": "Kaštiele - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (historic=manor). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84. Obsahuje 724 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Kaštiele | ListBase",
+    "seo_description": "Stiahnuť Kaštiele — 724 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 724 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

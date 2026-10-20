@@ -1,0 +1,216 @@
+{
+  "id": "sk-krstne-mena",
+  "name": "Najčastejšie krstné mená na Slovensku (Popular Slovak Forenames)",
+  "title": "Najčastejšie krstné mená na Slovensku (Popular Slovak Forenames)",
+  "description": "Najpopulárnejšie krstné mená dievčat a chlapcov na Slovensku v roku 2022 podľa štatistík Ministerstva vnútra SR; po jednotlivých rodoch.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "gender",
+      "label": "Gender",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "N-SK-1-F-1",
+      "gender": "F",
+      "rank": 1,
+      "localized": "Sofia",
+      "romanized": "Sofia",
+      "year": 2022
+    },
+    {
+      "name_group": "N-SK-1-F-2",
+      "gender": "F",
+      "rank": 2,
+      "localized": "Eliška",
+      "romanized": "Eliška",
+      "year": 2022
+    },
+    {
+      "name_group": "N-SK-1-F-3",
+      "gender": "F",
+      "rank": 3,
+      "localized": "Nina",
+      "romanized": "Nina",
+      "year": 2022
+    },
+    {
+      "name_group": "N-SK-1-F-4",
+      "gender": "F",
+      "rank": 4,
+      "localized": "Ema",
+      "romanized": "Ema",
+      "year": 2022
+    },
+    {
+      "name_group": "N-SK-1-F-5",
+      "gender": "F",
+      "rank": 5,
+      "localized": "Viktória",
+      "romanized": "Viktória",
+      "year": 2022
+    },
+    {
+      "name_group": "N-SK-1-F-6",
+      "gender": "F",
+      "rank": 6,
+      "localized": "Natália",
+      "romanized": "Natália",
+      "year": 2022
+    },
+    {
+      "name_group": "N-SK-1-F-7",
+      "gender": "F",
+      "rank": 7,
+      "localized": "Nela",
+      "romanized": "Nela",
+      "year": 2022
+    },
+    {
+      "name_group": "N-SK-1-F-8",
+      "gender": "F",
+      "rank": 8,
+      "localized": "Sára",
+      "romanized": "Sára",
+      "year": 2022
+    },
+    {
+      "name_group": "N-SK-1-F-9",
+      "gender": "F",
+      "rank": 9,
+      "localized": "Mia",
+      "romanized": "Mia",
+      "year": 2022
+    },
+    {
+      "name_group": "N-SK-1-F-10",
+      "gender": "F",
+      "rank": 10,
+      "localized": "Olivia",
+      "romanized": "Olivia",
+      "year": 2022
+    },
+    {
+      "name_group": "N-SK-1-M-1",
+      "gender": "M",
+      "rank": 1,
+      "localized": "Jakub",
+      "romanized": "Jakub",
+      "year": 2022
+    },
+    {
+      "name_group": "N-SK-1-M-2",
+      "gender": "M",
+      "rank": 2,
+      "localized": "Samuel",
+      "romanized": "Samuel",
+      "year": 2022
+    },
+    {
+      "name_group": "N-SK-1-M-3",
+      "gender": "M",
+      "rank": 3,
+      "localized": "Adam",
+      "romanized": "Adam",
+      "year": 2022
+    },
+    {
+      "name_group": "N-SK-1-M-4",
+      "gender": "M",
+      "rank": 4,
+      "localized": "Michal",
+      "romanized": "Michal",
+      "year": 2022
+    },
+    {
+      "name_group": "N-SK-1-M-5",
+      "gender": "M",
+      "rank": 5,
+      "localized": "Oliver",
+      "romanized": "Oliver",
+      "year": 2022
+    },
+    {
+      "name_group": "N-SK-1-M-6",
+      "gender": "M",
+      "rank": 6,
+      "localized": "Filip",
+      "romanized": "Filip",
+      "year": 2022
+    },
+    {
+      "name_group": "N-SK-1-M-7",
+      "gender": "M",
+      "rank": 7,
+      "localized": "Tomáš",
+      "romanized": "Tomáš",
+      "year": 2022
+    },
+    {
+      "name_group": "N-SK-1-M-8",
+      "gender": "M",
+      "rank": 8,
+      "localized": "Martin",
+      "romanized": "Martin",
+      "year": 2022
+    },
+    {
+      "name_group": "N-SK-1-M-9",
+      "gender": "M",
+      "rank": 9,
+      "localized": "Matej",
+      "romanized": "Matej",
+      "year": 2022
+    },
+    {
+      "name_group": "N-SK-1-M-10",
+      "gender": "M",
+      "rank": 10,
+      "localized": "Richard",
+      "romanized": "Richard",
+      "year": 2022
+    }
+  ],
+  "meta": {
+    "title": "Najčastejšie krstné mená na Slovensku (Popular Slovak Forenames) - Bezplatné stiahnutie",
+    "description": "Najpopulárnejšie krstné mená dievčat a chlapcov na Slovensku v roku 2022 podľa štatistík Ministerstva vnútra SR; po jednotlivých rodoch. Obsahuje 20 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Najčastejšie krstné mená na Slovensku (Popular Slovak Forenames) | ListBase",
+    "seo_description": "Stiahnuť Najčastejšie krstné mená na Slovensku (Popular Slovak Forenames) — 20 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 20 záznamov / 6 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

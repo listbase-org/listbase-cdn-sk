@@ -1,0 +1,536 @@
+{
+  "id": "sk-senica-obce",
+  "name": "Obce v okrese Senica",
+  "title": "Obce v okrese Senica",
+  "description": "Všetky obce (municipality) v okrese Senica, Trnavský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 226,
+      "fullname": "Borský Mikuláš",
+      "shortname": "Borský Mikuláš",
+      "zip": "908 77",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 227,
+      "fullname": "Borský Peter",
+      "shortname": "Borský Peter",
+      "zip": "908 77",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 228,
+      "fullname": "Borský Svätý Jur",
+      "shortname": "Borský Svätý Jur",
+      "zip": "908 79",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 157,
+      "fullname": "Bílkove Humence",
+      "shortname": "Bílkove Humence",
+      "zip": "908 77",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 386,
+      "fullname": "Cerová",
+      "shortname": "Cerová",
+      "zip": "906 33",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 591,
+      "fullname": "Dojč",
+      "shortname": "Dojč",
+      "zip": "906 02",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 906,
+      "fullname": "Havran",
+      "shortname": "Havran",
+      "zip": "906 04",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 932,
+      "fullname": "Hlboké",
+      "shortname": "Hlboké",
+      "zip": "906 31",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 973,
+      "fullname": "Horná Dolina",
+      "shortname": "Horná Dolina",
+      "zip": "906 05",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1087,
+      "fullname": "Hradište pod Vrátnom",
+      "shortname": "Hradište pod Vrátnom",
+      "zip": "906 12",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1241,
+      "fullname": "Jablonica",
+      "shortname": "Jablonica",
+      "zip": "906 32",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1312,
+      "fullname": "Javorec",
+      "shortname": "Javorec",
+      "zip": "906 05",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1607,
+      "fullname": "Koválov",
+      "shortname": "Koválov",
+      "zip": "906 03",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1721,
+      "fullname": "Kuklov",
+      "shortname": "Kuklov",
+      "zip": "908 78",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1726,
+      "fullname": "Kunov",
+      "shortname": "Kunov",
+      "zip": "905 01",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1737,
+      "fullname": "Kúty",
+      "shortname": "Kúty",
+      "zip": "908 01",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1778,
+      "fullname": "Lakšárska Nová Ves",
+      "shortname": "Lakšárska Nová Ves",
+      "zip": "908 76",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1846,
+      "fullname": "Lieskové",
+      "shortname": "Lieskové",
+      "zip": "906 33",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2009,
+      "fullname": "Majeríčky",
+      "shortname": "Majeríčky",
+      "zip": "906 05",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2188,
+      "fullname": "Mikulášov",
+      "shortname": "Mikulášov",
+      "zip": "908 76",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2253,
+      "fullname": "Moravský Svätý Ján",
+      "shortname": "Moravský Svätý Ján",
+      "zip": "908 71",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2549,
+      "fullname": "Osuské",
+      "shortname": "Osuské",
+      "zip": "906 12",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2662,
+      "fullname": "Plavecký Peter",
+      "shortname": "Plavecký Peter",
+      "zip": "906 35",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2683,
+      "fullname": "Podbranč",
+      "shortname": "Podbranč",
+      "zip": "906 05",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2695,
+      "fullname": "Podhorie",
+      "shortname": "Podhorie",
+      "zip": "906 11",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2729,
+      "fullname": "Podzámok",
+      "shortname": "Podzámok",
+      "zip": "906 05",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2836,
+      "fullname": "Prietrž",
+      "shortname": "Prietrž",
+      "zip": "906 11",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2838,
+      "fullname": "Prievaly",
+      "shortname": "Prievaly",
+      "zip": "906 34",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2985,
+      "fullname": "Rohov",
+      "shortname": "Rohov",
+      "zip": "906 04",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3000,
+      "fullname": "Rovensko",
+      "shortname": "Rovensko",
+      "zip": "905 01",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3007,
+      "fullname": "Rozbehy",
+      "shortname": "Rozbehy",
+      "zip": "906 33",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3060,
+      "fullname": "Rybky",
+      "shortname": "Rybky",
+      "zip": "906 04",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3099,
+      "fullname": "Sekule",
+      "shortname": "Sekule",
+      "zip": "908 80",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3113,
+      "fullname": "Senica",
+      "shortname": "Senica",
+      "zip": "905 01",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3204,
+      "fullname": "Smolinské",
+      "shortname": "Smolinské",
+      "zip": "908 42",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3207,
+      "fullname": "Smrdáky",
+      "shortname": "Smrdáky",
+      "zip": "906 03",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3215,
+      "fullname": "Sobotište",
+      "shortname": "Sobotište",
+      "zip": "906 05",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3238,
+      "fullname": "Sotina",
+      "shortname": "Sotina",
+      "zip": "905 01",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3297,
+      "fullname": "Stráže nad Myjavou",
+      "shortname": "Stráže nad Myjavou",
+      "zip": "908 41",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 426,
+      "fullname": "Častkov",
+      "shortname": "Častkov",
+      "zip": "906 04",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 423,
+      "fullname": "Čáry",
+      "shortname": "Čáry",
+      "zip": "908 43",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 404,
+      "fullname": "Čáčov",
+      "shortname": "Čáčov",
+      "zip": "905 01",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3378,
+      "fullname": "Šajdíkove Humence",
+      "shortname": "Šajdíkove Humence",
+      "zip": "906 07",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3411,
+      "fullname": "Šaštín",
+      "shortname": "Šaštín",
+      "zip": "908 41",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3412,
+      "fullname": "Šaštín - Stráže",
+      "shortname": "Šaštín - Stráže",
+      "zip": "908 41",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3449,
+      "fullname": "Štefanov",
+      "shortname": "Štefanov",
+      "zip": "906 45",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3495,
+      "fullname": "Švrčkov Jarok",
+      "shortname": "Švrčkov Jarok",
+      "zip": "906 05",
+      "district_id": 58,
+      "okres": "Senica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Senica - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Senica, Trnavský kraj — s PSČ a kódom okresu. Obsahuje 47 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Senica | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Senica — 47 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 47 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "id": "sk-systemy-pisma",
+  "name": "Systémy písma sveta (ISO 15924 / CLDR slovenčina)",
+  "title": "Systémy písma sveta (ISO 15924 / CLDR slovenčina)",
+  "description": "Kódy ISO 15924 systémov písma a ich názvy v slovenčine z locale sk v CLDR.",
+  "category": "language",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 71,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "Adlm",
+      "nazov": "adlam"
+    },
+    {
+      "id": 2,
+      "code": "Arab",
+      "nazov": "arabské"
+    },
+    {
+      "id": 3,
+      "code": "Arab-alt-variant",
+      "nazov": "perzsko-arabské"
+    },
+    {
+      "id": 4,
+      "code": "Aran",
+      "nazov": "nastaliq"
+    },
+    {
+      "id": 5,
+      "code": "Armn",
+      "nazov": "arménske"
+    },
+    {
+      "id": 6,
+      "code": "Bali",
+      "nazov": "balijský"
+    },
+    {
+      "id": 7,
+      "code": "Beng",
+      "nazov": "bengálske"
+    },
+    {
+      "id": 8,
+      "code": "Bopo",
+      "nazov": "bopomofo"
+    },
+    {
+      "id": 9,
+      "code": "Brai",
+      "nazov": "braillovo"
+    },
+    {
+      "id": 10,
+      "code": "Cakm",
+      "nazov": "čakma"
+    },
+    {
+      "id": 11,
+      "code": "Cans",
+      "nazov": "zjednotené kanadské domorodé slabiky"
+    },
+    {
+      "id": 12,
+      "code": "Cher",
+      "nazov": "čerokézčina"
+    },
+    {
+      "id": 13,
+      "code": "Cyrl",
+      "nazov": "cyrilika"
+    },
+    {
+      "id": 14,
+      "code": "Deva",
+      "nazov": "dévanágarí"
+    },
+    {
+      "id": 15,
+      "code": "Egyp",
+      "nazov": "egyptské hieroglyfy"
+    },
+    {
+      "id": 16,
+      "code": "Ethi",
+      "nazov": "etiópske"
+    },
+    {
+      "id": 17,
+      "code": "Geor",
+      "nazov": "gruzínske"
+    },
+    {
+      "id": 18,
+      "code": "Glag",
+      "nazov": "hlaholika"
+    },
+    {
+      "id": 19,
+      "code": "Goth",
+      "nazov": "gotický"
+    },
+    {
+      "id": 20,
+      "code": "Grek",
+      "nazov": "grécke"
+    },
+    {
+      "id": 21,
+      "code": "Gujr",
+      "nazov": "gudžarátí"
+    },
+    {
+      "id": 22,
+      "code": "Guru",
+      "nazov": "gurmukhi"
+    },
+    {
+      "id": 23,
+      "code": "Hanb",
+      "nazov": "čínske a bopomofo"
+    },
+    {
+      "id": 24,
+      "code": "Hang",
+      "nazov": "hangul"
+    },
+    {
+      "id": 25,
+      "code": "Hani",
+      "nazov": "čínske"
+    },
+    {
+      "id": 26,
+      "code": "Hans",
+      "nazov": "zjednodušené"
+    },
+    {
+      "id": 27,
+      "code": "Hans-alt-stand-alone",
+      "nazov": "čínske zjednodušené"
+    },
+    {
+      "id": 28,
+      "code": "Hant",
+      "nazov": "tradičné"
+    },
+    {
+      "id": 29,
+      "code": "Hant-alt-stand-alone",
+      "nazov": "čínske tradičné"
+    },
+    {
+      "id": 30,
+      "code": "Hebr",
+      "nazov": "hebrejské"
+    },
+    {
+      "id": 31,
+      "code": "Hira",
+      "nazov": "hiragana"
+    },
+    {
+      "id": 32,
+      "code": "Hrkt",
+      "nazov": "kana"
+    },
+    {
+      "id": 33,
+      "code": "Jamo",
+      "nazov": "jamo"
+    },
+    {
+      "id": 34,
+      "code": "Jpan",
+      "nazov": "japonské"
+    },
+    {
+      "id": 35,
+      "code": "Kana",
+      "nazov": "katakana"
+    },
+    {
+      "id": 36,
+      "code": "Khmr",
+      "nazov": "khmérske"
+    },
+    {
+      "id": 37,
+      "code": "Knda",
+      "nazov": "kannadské"
+    },
+    {
+      "id": 38,
+      "code": "Kore",
+      "nazov": "kórejské"
+    },
+    {
+      "id": 39,
+      "code": "Laoo",
+      "nazov": "laoské"
+    },
+    {
+      "id": 40,
+      "code": "Latn",
+      "nazov": "latinka"
+    },
+    {
+      "id": 41,
+      "code": "Lina",
+      "nazov": "lineárna A"
+    },
+    {
+      "id": 42,
+      "code": "Linb",
+      "nazov": "lineárna B"
+    },
+    {
+      "id": 43,
+      "code": "Maya",
+      "nazov": "mayské hieroglyfy"
+    },
+    {
+      "id": 44,
+      "code": "Mlym",
+      "nazov": "malajálamske"
+    },
+    {
+      "id": 45,
+      "code": "Mong",
+      "nazov": "mongolské"
+    },
+    {
+      "id": 46,
+      "code": "Mtei",
+      "nazov": "mejtej majek (manipurské)"
+    },
+    {
+      "id": 47,
+      "code": "Mymr",
+      "nazov": "barmské"
+    },
+    {
+      "id": 48,
+      "code": "Nkoo",
+      "nazov": "bambarčina"
+    },
+    {
+      "id": 49,
+      "code": "Olck",
+      "nazov": "santálske (ol chiki)"
+    },
+    {
+      "id": 50,
+      "code": "Orya",
+      "nazov": "uríjske"
+    },
+    {
+      "id": 51,
+      "code": "Osma",
+      "nazov": "osmanský"
+    },
+    {
+      "id": 52,
+      "code": "Qaag",
+      "nazov": "zawgyi"
+    },
+    {
+      "id": 53,
+      "code": "Rohg",
+      "nazov": "hanifi"
+    },
+    {
+      "id": 54,
+      "code": "Runr",
+      "nazov": "Runové písmo"
+    },
+    {
+      "id": 55,
+      "code": "Sinh",
+      "nazov": "sinhálske"
+    },
+    {
+      "id": 56,
+      "code": "Sund",
+      "nazov": "sundčina"
+    },
+    {
+      "id": 57,
+      "code": "Syrc",
+      "nazov": "sýrčina"
+    },
+    {
+      "id": 58,
+      "code": "Taml",
+      "nazov": "tamilské"
+    },
+    {
+      "id": 59,
+      "code": "Telu",
+      "nazov": "telugské"
+    },
+    {
+      "id": 60,
+      "code": "Tfng",
+      "nazov": "tifinagh"
+    },
+    {
+      "id": 61,
+      "code": "Thaa",
+      "nazov": "tána"
+    },
+    {
+      "id": 62,
+      "code": "Thai",
+      "nazov": "thajské"
+    },
+    {
+      "id": 63,
+      "code": "Tibt",
+      "nazov": "tibetské"
+    },
+    {
+      "id": 64,
+      "code": "Vaii",
+      "nazov": "vai"
+    },
+    {
+      "id": 65,
+      "code": "Yiii",
+      "nazov": "yi"
+    },
+    {
+      "id": 66,
+      "code": "Zmth",
+      "nazov": "matematický zápis"
+    },
+    {
+      "id": 67,
+      "code": "Zsye",
+      "nazov": "emodži"
+    },
+    {
+      "id": 68,
+      "code": "Zsym",
+      "nazov": "symboly"
+    },
+    {
+      "id": 69,
+      "code": "Zxxx",
+      "nazov": "bez zápisu"
+    },
+    {
+      "id": 70,
+      "code": "Zyyy",
+      "nazov": "všeobecné"
+    },
+    {
+      "id": 71,
+      "code": "Zzzz",
+      "nazov": "neznáme písmo"
+    }
+  ],
+  "meta": {
+    "title": "Systémy písma sveta (ISO 15924 / CLDR slovenčina) - Bezplatné stiahnutie",
+    "description": "Kódy ISO 15924 systémov písma a ich názvy v slovenčine z locale sk v CLDR. Obsahuje 71 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Systémy písma sveta (ISO 15924 / CLDR slovenčina) | ListBase",
+    "seo_description": "Stiahnuť Systémy písma sveta (ISO 15924 / CLDR slovenčina) — 71 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 71 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

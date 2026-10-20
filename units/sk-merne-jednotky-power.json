@@ -1,0 +1,115 @@
+{
+  "id": "sk-merne-jednotky-power",
+  "name": "Merné jednotky — kategória 'power' (6)",
+  "title": "Merné jednotky — kategória 'power' (6)",
+  "description": "Merné jednotky kategórie 'power' z locale sk v CLDR, s názvami v slovenčine.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "skratka",
+      "label": "Skratka",
+      "type": "string"
+    },
+    {
+      "key": "uzky_tvar",
+      "label": "Uzky Tvar",
+      "type": "string"
+    },
+    {
+      "key": "vzor",
+      "label": "Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "power-gigawatt",
+      "kategoria": "power",
+      "nazov": "gigawatty",
+      "skratka": "GW",
+      "uzky_tvar": "GW",
+      "vzor": "{0} gigawattov"
+    },
+    {
+      "id": 2,
+      "unit_code": "power-horsepower",
+      "kategoria": "power",
+      "nazov": "konské sily",
+      "skratka": "hp",
+      "uzky_tvar": "hp",
+      "vzor": "{0} konských síl"
+    },
+    {
+      "id": 3,
+      "unit_code": "power-kilowatt",
+      "kategoria": "power",
+      "nazov": "kilowatty",
+      "skratka": "kW",
+      "uzky_tvar": "kW",
+      "vzor": "{0} kilowattov"
+    },
+    {
+      "id": 4,
+      "unit_code": "power-megawatt",
+      "kategoria": "power",
+      "nazov": "megawatty",
+      "skratka": "MW",
+      "uzky_tvar": "MW",
+      "vzor": "{0} megawattov"
+    },
+    {
+      "id": 5,
+      "unit_code": "power-milliwatt",
+      "kategoria": "power",
+      "nazov": "milliwatty",
+      "skratka": "mW",
+      "uzky_tvar": "mW",
+      "vzor": "{0} milliwattov"
+    },
+    {
+      "id": 6,
+      "unit_code": "power-watt",
+      "kategoria": "power",
+      "nazov": "watty",
+      "skratka": "W",
+      "uzky_tvar": "W",
+      "vzor": "{0} wattov"
+    }
+  ],
+  "meta": {
+    "title": "Merné jednotky — kategória 'power' (6) - Bezplatné stiahnutie",
+    "description": "Merné jednotky kategórie 'power' z locale sk v CLDR, s názvami v slovenčine. Obsahuje 6 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Merné jednotky — kategória 'power' (6) | ListBase",
+    "seo_description": "Stiahnuť Merné jednotky — kategória 'power' (6) — 6 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 6 záznamov / 7 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

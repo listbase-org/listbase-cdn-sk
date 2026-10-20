@@ -1,0 +1,566 @@
+{
+  "id": "sk-detva-obce",
+  "name": "Obce v okrese Detva",
+  "title": "Obce v okrese Detva",
+  "description": "Všetky obce (municipality) v okrese Detva, Banskobystrický kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 260,
+      "fullname": "Bratkovica",
+      "shortname": "Bratkovica",
+      "zip": "962 05",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 346,
+      "fullname": "Bukovinka",
+      "shortname": "Bukovinka",
+      "zip": "985 51",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 542,
+      "fullname": "Detva",
+      "shortname": "Detva",
+      "zip": "962 12",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 543,
+      "fullname": "Detva - sídlisko",
+      "shortname": "Detva - sídlisko",
+      "zip": "962 12",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 544,
+      "fullname": "Detvianska Huta",
+      "shortname": "Detvianska Huta",
+      "zip": "962 05",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 601,
+      "fullname": "Dolná Bzová",
+      "shortname": "Dolná Bzová",
+      "zip": "985 51",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 673,
+      "fullname": "Dolný Tisovník",
+      "shortname": "Dolný Tisovník",
+      "zip": "962 75",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 738,
+      "fullname": "Dúbravy",
+      "shortname": "Dúbravy",
+      "zip": "962 12",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 974,
+      "fullname": "Horná Hriňová",
+      "shortname": "Horná Hriňová",
+      "zip": "962 05",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1050,
+      "fullname": "Horný Tisovník",
+      "shortname": "Horný Tisovník",
+      "zip": "962 75",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1103,
+      "fullname": "Hriňová",
+      "shortname": "Hriňová",
+      "zip": "962 05",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1230,
+      "fullname": "Ivanišovo",
+      "shortname": "Ivanišovo",
+      "zip": "985 51",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1234,
+      "fullname": "Iviny",
+      "shortname": "Iviny",
+      "zip": "962 12",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1299,
+      "fullname": "Jasenovo",
+      "shortname": "Jasenovo",
+      "zip": "962 05",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1310,
+      "fullname": "Jašov Vrch",
+      "shortname": "Jašov Vrch",
+      "zip": "962 25",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1351,
+      "fullname": "Kalinka",
+      "shortname": "Kalinka",
+      "zip": "962 25",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1453,
+      "fullname": "Klokoč",
+      "shortname": "Klokoč",
+      "zip": "962 25",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1506,
+      "fullname": "Komárno",
+      "shortname": "Komárno",
+      "zip": "962 05",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1536,
+      "fullname": "Korytárky",
+      "shortname": "Korytárky",
+      "zip": "962 04",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1549,
+      "fullname": "Kostolná",
+      "shortname": "Kostolná",
+      "zip": "962 12",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1677,
+      "fullname": "Krivec I",
+      "shortname": "Krivec I",
+      "zip": "962 05",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1678,
+      "fullname": "Krivec II",
+      "shortname": "Krivec II",
+      "zip": "962 05",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1674,
+      "fullname": "Kriváň",
+      "shortname": "Kriváň",
+      "zip": "962 04",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1694,
+      "fullname": "Krné",
+      "shortname": "Krné",
+      "zip": "962 12",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1790,
+      "fullname": "Látky",
+      "shortname": "Látky",
+      "zip": "985 45",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2108,
+      "fullname": "Mangútovo",
+      "shortname": "Mangútovo",
+      "zip": "962 05",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2206,
+      "fullname": "Mláky",
+      "shortname": "Mláky",
+      "zip": "985 45",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2445,
+      "fullname": "Nový Svet",
+      "shortname": "Nový Svet",
+      "zip": "985 45",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2587,
+      "fullname": "Paseky",
+      "shortname": "Paseky",
+      "zip": "985 45",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2641,
+      "fullname": "Piešť I",
+      "shortname": "Piešť I (časť)",
+      "zip": "962 12",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2642,
+      "fullname": "Piešť II",
+      "shortname": "Piešť II",
+      "zip": "962 12",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2707,
+      "fullname": "Podkriváň",
+      "shortname": "Podkriváň",
+      "zip": "985 51",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2744,
+      "fullname": "Polianky",
+      "shortname": "Polianky",
+      "zip": "985 45",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2865,
+      "fullname": "Pstruša",
+      "shortname": "Pstruša",
+      "zip": "962 12",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3152,
+      "fullname": "Skliarovo",
+      "shortname": "Skliarovo",
+      "zip": "962 12",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3160,
+      "fullname": "Slanec",
+      "shortname": "Slanec",
+      "zip": "962 05",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3169,
+      "fullname": "Slatinské Lazy",
+      "shortname": "Slatinské Lazy",
+      "zip": "962 25",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3180,
+      "fullname": "Sliačska Podpoľana",
+      "shortname": "Sliačska Podpoľana",
+      "zip": "962 25",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3212,
+      "fullname": "Snohy",
+      "shortname": "Snohy",
+      "zip": "962 05",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3265,
+      "fullname": "Stará Huta",
+      "shortname": "Stará Huta",
+      "zip": "962 25",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3289,
+      "fullname": "Stožok",
+      "shortname": "Stožok",
+      "zip": "962 12",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3944,
+      "fullname": "Vrchdobroč",
+      "shortname": "Vrchdobroč",
+      "zip": "962 05",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3862,
+      "fullname": "Vígľaš",
+      "shortname": "Vígľaš",
+      "zip": "962 02",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3863,
+      "fullname": "Vígľašská Huta",
+      "shortname": "Vígľašská Huta",
+      "zip": "962 25",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4062,
+      "fullname": "Zapriechody",
+      "shortname": "Zapriechody",
+      "zip": "962 12",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4151,
+      "fullname": "Zubria",
+      "shortname": "Zubria",
+      "zip": "985 51",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 435,
+      "fullname": "Čechánky",
+      "shortname": "Čechánky",
+      "zip": "985 45",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3466,
+      "fullname": "Štoliansko",
+      "shortname": "Štoliansko",
+      "zip": "962 05",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4157,
+      "fullname": "Žabica",
+      "shortname": "Žabica",
+      "zip": "962 05",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4182,
+      "fullname": "Želobudza",
+      "shortname": "Želobudza",
+      "zip": "962 12",
+      "district_id": 13,
+      "okres": "Detva",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Detva - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Detva, Banskobystrický kraj — s PSČ a kódom okresu. Obsahuje 50 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Detva | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Detva — 50 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 50 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

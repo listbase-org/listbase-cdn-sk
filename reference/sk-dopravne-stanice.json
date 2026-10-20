@@ -1,0 +1,1626 @@
+{
+  "id": "sk-dopravne-stanice",
+  "name": "Dopravné stanice",
+  "title": "Dopravné stanice",
+  "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (public_transport=station). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 317,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Skalité",
+      "latitude": 49.498177,
+      "longitude": 18.889641
+    },
+    {
+      "name": "Skalité-Serafínov",
+      "latitude": 49.501525,
+      "longitude": 18.964073
+    },
+    {
+      "name": "Turzovka zastávka",
+      "latitude": 49.382463,
+      "longitude": 18.593473
+    },
+    {
+      "name": "Turzovka",
+      "latitude": 49.40363,
+      "longitude": 18.628033
+    },
+    {
+      "name": "Svrčinovec",
+      "latitude": 49.480281,
+      "longitude": 18.79312
+    },
+    {
+      "name": "Raková",
+      "latitude": 49.446924,
+      "longitude": 18.736923
+    },
+    {
+      "name": "Čadca",
+      "latitude": 49.445246,
+      "longitude": 18.78694
+    },
+    {
+      "name": "Čadca (Makovské nástupište)",
+      "latitude": 49.443199,
+      "longitude": 18.787999
+    },
+    {
+      "name": "Čierne pri Čadci",
+      "latitude": 49.495325,
+      "longitude": 18.81961
+    },
+    {
+      "name": "Staškov",
+      "latitude": 49.423583,
+      "longitude": 18.690138
+    },
+    {
+      "name": "Podvysoká",
+      "latitude": 49.413647,
+      "longitude": 18.671291
+    },
+    {
+      "name": "Staškov zastávka",
+      "latitude": 49.432629,
+      "longitude": 18.706901
+    },
+    {
+      "name": "Čadca zastávka",
+      "latitude": 49.439106,
+      "longitude": 18.779433
+    },
+    {
+      "name": "Vlárský průsmyk",
+      "latitude": 49.033053,
+      "longitude": 18.053031
+    },
+    {
+      "name": "Ilava",
+      "latitude": 49.002036,
+      "longitude": 18.236182
+    },
+    {
+      "name": "Dubnica nad Váhom",
+      "latitude": 48.966446,
+      "longitude": 18.168071
+    },
+    {
+      "name": "Nemšová",
+      "latitude": 48.967635,
+      "longitude": 18.121951
+    },
+    {
+      "name": "Nižný Kelčov",
+      "latitude": 49.376932,
+      "longitude": 18.50712
+    },
+    {
+      "name": "Vysoká nad Kysucou",
+      "latitude": 49.379543,
+      "longitude": 18.548847
+    },
+    {
+      "name": "Krásno nad Kysucou",
+      "latitude": 49.378611,
+      "longitude": 18.835801
+    },
+    {
+      "name": "Kysucké Nové Mesto",
+      "latitude": 49.305892,
+      "longitude": 18.783797
+    },
+    {
+      "name": "Rudina",
+      "latitude": 49.280316,
+      "longitude": 18.757545
+    },
+    {
+      "name": "Predmier",
+      "latitude": 49.197536,
+      "longitude": 18.535867
+    },
+    {
+      "name": "Bytča",
+      "latitude": 49.207086,
+      "longitude": 18.552564
+    },
+    {
+      "name": "Dolný Hričov",
+      "latitude": 49.240969,
+      "longitude": 18.643529
+    },
+    {
+      "name": "Brodno",
+      "latitude": 49.266247,
+      "longitude": 18.752518
+    },
+    {
+      "name": "Žilina predmestie",
+      "latitude": 49.232086,
+      "longitude": 18.714354
+    },
+    {
+      "name": "Žilina",
+      "latitude": 49.227093,
+      "longitude": 18.746825
+    },
+    {
+      "name": "Varín",
+      "latitude": 49.201791,
+      "longitude": 18.847033
+    },
+    {
+      "name": "Žilina-Teplička",
+      "latitude": 49.206019,
+      "longitude": 18.828702
+    },
+    {
+      "name": "Trstená",
+      "latitude": 49.360845,
+      "longitude": 19.61928
+    },
+    {
+      "name": "Tvrdošín",
+      "latitude": 49.337111,
+      "longitude": 19.563115
+    },
+    {
+      "name": "Podbiel",
+      "latitude": 49.303952,
+      "longitude": 19.478467
+    },
+    {
+      "name": "Nižná",
+      "latitude": 49.310224,
+      "longitude": 19.528561
+    },
+    {
+      "name": "Dzuríkovo",
+      "latitude": 49.261714,
+      "longitude": 19.260078
+    },
+    {
+      "name": "Dzuríkovo",
+      "latitude": 49.261038,
+      "longitude": 19.261365
+    },
+    {
+      "name": "Dolný Kubín",
+      "latitude": 49.216951,
+      "longitude": 19.296924
+    },
+    {
+      "name": "Kraľovany",
+      "latitude": 49.153024,
+      "longitude": 19.130232
+    },
+    {
+      "name": "Párnica",
+      "latitude": 49.192947,
+      "longitude": 19.19695
+    },
+    {
+      "name": "Oravský Podzámok",
+      "latitude": 49.26111,
+      "longitude": 19.363852
+    },
+    {
+      "name": "Medzibrodie nad Oravou",
+      "latitude": 49.234003,
+      "longitude": 19.345777
+    },
+    {
+      "name": "Púchov",
+      "latitude": 49.113726,
+      "longitude": 18.327306
+    },
+    {
+      "name": "Považská Bystrica",
+      "latitude": 49.123284,
+      "longitude": 18.430238
+    },
+    {
+      "name": "Krížava",
+      "latitude": 49.095834,
+      "longitude": 18.826872
+    },
+    {
+      "name": "Vrútky nákladná stanica",
+      "latitude": 49.108961,
+      "longitude": 18.94681
+    },
+    {
+      "name": "Vrútky",
+      "latitude": 49.114721,
+      "longitude": 18.925324
+    },
+    {
+      "name": "Rajec",
+      "latitude": 49.090298,
+      "longitude": 18.643921
+    },
+    {
+      "name": "Martin",
+      "latitude": 49.064932,
+      "longitude": 18.915504
+    },
+    {
+      "name": "Príbovce-Rakovo",
+      "latitude": 48.993721,
+      "longitude": 18.879615
+    },
+    {
+      "name": "Stankovany",
+      "latitude": 49.143653,
+      "longitude": 19.172948
+    },
+    {
+      "name": "Ružomberok",
+      "latitude": 49.083499,
+      "longitude": 19.30923
+    },
+    {
+      "name": "Ružomberok-Rybárpole",
+      "latitude": 49.086059,
+      "longitude": 19.281431
+    },
+    {
+      "name": "Ružomberok - Hlavná stanica",
+      "latitude": 49.082258,
+      "longitude": 19.309896
+    },
+    {
+      "name": "Ružomberok - Malé nádražie",
+      "latitude": 49.066343,
+      "longitude": 19.305676
+    },
+    {
+      "name": "Ružomberok - Stanica Zápalkáreň",
+      "latitude": 49.058331,
+      "longitude": 19.305443
+    },
+    {
+      "name": "Liptovská Teplá",
+      "latitude": 49.099743,
+      "longitude": 19.416591
+    },
+    {
+      "name": "Lisková zastávka",
+      "latitude": 49.087373,
+      "longitude": 19.353791
+    },
+    {
+      "name": "Okoličné",
+      "latitude": 49.07663,
+      "longitude": 19.651797
+    },
+    {
+      "name": "Liptovský Mikuláš",
+      "latitude": 49.092232,
+      "longitude": 19.605126
+    },
+    {
+      "name": "Žiarce",
+      "latitude": 49.022531,
+      "longitude": 19.559239
+    },
+    {
+      "name": "Pavčina Lehota",
+      "latitude": 49.025808,
+      "longitude": 19.562423
+    },
+    {
+      "name": "Koliesko",
+      "latitude": 48.963682,
+      "longitude": 19.585217
+    },
+    {
+      "name": "Záhradky",
+      "latitude": 48.971936,
+      "longitude": 19.59805
+    },
+    {
+      "name": "Rovná Hoľa",
+      "latitude": 48.957031,
+      "longitude": 19.597059
+    },
+    {
+      "name": "Koliesko",
+      "latitude": 48.963264,
+      "longitude": 19.584396
+    },
+    {
+      "name": "Zrkadlo",
+      "latitude": 48.961314,
+      "longitude": 19.583363
+    },
+    {
+      "name": "Priehyba",
+      "latitude": 48.960972,
+      "longitude": 19.590621
+    },
+    {
+      "name": "Priehyba",
+      "latitude": 48.962718,
+      "longitude": 19.589018
+    },
+    {
+      "name": "Biela Púť",
+      "latitude": 48.970844,
+      "longitude": 19.584744
+    },
+    {
+      "name": "Priehyba",
+      "latitude": 48.96309,
+      "longitude": 19.589622
+    },
+    {
+      "name": "Vyhliadka",
+      "latitude": 48.96479,
+      "longitude": 19.604939
+    },
+    {
+      "name": "Kosodrevina",
+      "latitude": 48.932411,
+      "longitude": 19.597078
+    },
+    {
+      "name": "Konský Grúň",
+      "latitude": 48.948975,
+      "longitude": 19.590715
+    },
+    {
+      "name": "Zadné Dereše",
+      "latitude": 48.939857,
+      "longitude": 19.5745
+    },
+    {
+      "name": "Srdiečko",
+      "latitude": 48.92424,
+      "longitude": 19.602175
+    },
+    {
+      "name": "Oravice Meanderpark Ski",
+      "latitude": 49.301012,
+      "longitude": 19.749072
+    },
+    {
+      "name": "Górna stacja kolei linowej Kasprowy Wierch",
+      "latitude": 49.232909,
+      "longitude": 19.982822
+    },
+    {
+      "name": "Lomnický štít",
+      "latitude": 49.195149,
+      "longitude": 20.213471
+    },
+    {
+      "name": "Skalnaté pleso",
+      "latitude": 49.187675,
+      "longitude": 20.233066
+    },
+    {
+      "name": "Tatranská Lomnica",
+      "latitude": 49.164637,
+      "longitude": 20.279467
+    },
+    {
+      "name": "Hrebienok",
+      "latitude": 49.158105,
+      "longitude": 20.224602
+    },
+    {
+      "name": "Żegiestów",
+      "latitude": 49.367563,
+      "longitude": 20.785264
+    },
+    {
+      "name": "Andrzejówka",
+      "latitude": 49.340606,
+      "longitude": 20.820993
+    },
+    {
+      "name": "Podolínec",
+      "latitude": 49.255148,
+      "longitude": 20.526436
+    },
+    {
+      "name": "Spišská Belá zastávka",
+      "latitude": 49.184292,
+      "longitude": 20.471598
+    },
+    {
+      "name": "Spišská Belá",
+      "latitude": 49.186717,
+      "longitude": 20.451458
+    },
+    {
+      "name": "Pusté Pole",
+      "latitude": 49.213693,
+      "longitude": 20.914876
+    },
+    {
+      "name": "Liptovský Hrádok",
+      "latitude": 49.038002,
+      "longitude": 19.721399
+    },
+    {
+      "name": "Podtureň",
+      "latitude": 49.059182,
+      "longitude": 19.695301
+    },
+    {
+      "name": "Štrbské Pleso",
+      "latitude": 49.118372,
+      "longitude": 20.063581
+    },
+    {
+      "name": "Štrbské Pleso OŽ",
+      "latitude": 49.118219,
+      "longitude": 20.063801
+    },
+    {
+      "name": "Starý Smokovec",
+      "latitude": 49.139092,
+      "longitude": 20.222628
+    },
+    {
+      "name": "Starý Smokovec",
+      "latitude": 49.141562,
+      "longitude": 20.220425
+    },
+    {
+      "name": "Studený Potok",
+      "latitude": 49.108955,
+      "longitude": 20.354624
+    },
+    {
+      "name": "Štrba",
+      "latitude": 49.083925,
+      "longitude": 20.064785
+    },
+    {
+      "name": "Štrba OŽ",
+      "latitude": 49.083996,
+      "longitude": 20.06624
+    },
+    {
+      "name": "Štrba zastávka",
+      "latitude": 49.062674,
+      "longitude": 20.082365
+    },
+    {
+      "name": "Svit",
+      "latitude": 49.060899,
+      "longitude": 20.198
+    },
+    {
+      "name": "Veľký Slavkov",
+      "latitude": 49.09121,
+      "longitude": 20.277472
+    },
+    {
+      "name": "Matejovce pri Poprade",
+      "latitude": 49.081522,
+      "longitude": 20.333997
+    },
+    {
+      "name": "Poprad-Tatry TEŽ",
+      "latitude": 49.060887,
+      "longitude": 20.295395
+    },
+    {
+      "name": "Poprad-Tatry",
+      "latitude": 49.060091,
+      "longitude": 20.294941
+    },
+    {
+      "name": "Kežmarok",
+      "latitude": 49.139268,
+      "longitude": 20.423206
+    },
+    {
+      "name": "Lipany",
+      "latitude": 49.151834,
+      "longitude": 20.960479
+    },
+    {
+      "name": "Sabinov",
+      "latitude": 49.103313,
+      "longitude": 21.088414
+    },
+    {
+      "name": "Medzilaborce",
+      "latitude": 49.261352,
+      "longitude": 21.905421
+    },
+    {
+      "name": "Balnica",
+      "latitude": 49.185357,
+      "longitude": 22.215473
+    },
+    {
+      "name": "Šarišské Lúky",
+      "latitude": 49.016412,
+      "longitude": 21.267118
+    },
+    {
+      "name": "Prešov",
+      "latitude": 48.983176,
+      "longitude": 21.248984
+    },
+    {
+      "name": "Koškovce",
+      "latitude": 49.051439,
+      "longitude": 21.954665
+    },
+    {
+      "name": "Humenné",
+      "latitude": 48.930023,
+      "longitude": 21.900892
+    },
+    {
+      "name": "Dlhé nad Cirochou",
+      "latitude": 48.954901,
+      "longitude": 22.055183
+    },
+    {
+      "name": "Kamenica nad Cirochou",
+      "latitude": 48.934027,
+      "longitude": 21.991254
+    },
+    {
+      "name": "Snina mesto",
+      "latitude": 48.990444,
+      "longitude": 22.15593
+    },
+    {
+      "name": "Snina",
+      "latitude": 48.983781,
+      "longitude": 22.173202
+    },
+    {
+      "name": "Stakčín",
+      "latitude": 48.996182,
+      "longitude": 22.21798
+    },
+    {
+      "name": "Záhorská Ves",
+      "latitude": 48.377465,
+      "longitude": 16.844663
+    },
+    {
+      "name": "Skalica na Slovensku",
+      "latitude": 48.849968,
+      "longitude": 17.218369
+    },
+    {
+      "name": "Kátov",
+      "latitude": 48.828329,
+      "longitude": 17.177644
+    },
+    {
+      "name": "Holíč nad Moravou",
+      "latitude": 48.814655,
+      "longitude": 17.150034
+    },
+    {
+      "name": "Vrbovce",
+      "latitude": 48.824387,
+      "longitude": 17.516296
+    },
+    {
+      "name": "Kopčany",
+      "latitude": 48.771652,
+      "longitude": 17.121309
+    },
+    {
+      "name": "Brodské",
+      "latitude": 48.69269,
+      "longitude": 17.023027
+    },
+    {
+      "name": "Gbely",
+      "latitude": 48.723493,
+      "longitude": 17.091087
+    },
+    {
+      "name": "Gbely zastávka",
+      "latitude": 48.71034,
+      "longitude": 17.082235
+    },
+    {
+      "name": "Myjava",
+      "latitude": 48.763767,
+      "longitude": 17.570901
+    },
+    {
+      "name": "Trenčín",
+      "latitude": 48.896633,
+      "longitude": 18.052188
+    },
+    {
+      "name": "Trenčín-Zlatovce",
+      "latitude": 48.900645,
+      "longitude": 18.022745
+    },
+    {
+      "name": "Trenčianska Turná",
+      "latitude": 48.858858,
+      "longitude": 18.019456
+    },
+    {
+      "name": "Mníchova Lehota",
+      "latitude": 48.813003,
+      "longitude": 18.087549
+    },
+    {
+      "name": "Vaďovce",
+      "latitude": 48.731131,
+      "longitude": 17.72472
+    },
+    {
+      "name": "Trenčianske Jastrabie",
+      "latitude": 48.800908,
+      "longitude": 18.119115
+    },
+    {
+      "name": "Kúty",
+      "latitude": 48.661951,
+      "longitude": 17.047464
+    },
+    {
+      "name": "Kuklov",
+      "latitude": 48.649366,
+      "longitude": 17.069678
+    },
+    {
+      "name": "Šaštín-Stráže",
+      "latitude": 48.634026,
+      "longitude": 17.142153
+    },
+    {
+      "name": "Borský Mikuláš",
+      "latitude": 48.642311,
+      "longitude": 17.191568
+    },
+    {
+      "name": "Sekule",
+      "latitude": 48.607722,
+      "longitude": 17.018998
+    },
+    {
+      "name": "Moravský Svätý Ján",
+      "latitude": 48.587383,
+      "longitude": 17.009065
+    },
+    {
+      "name": "Senica",
+      "latitude": 48.66597,
+      "longitude": 17.334205
+    },
+    {
+      "name": "Šajdíkove Humence",
+      "latitude": 48.659932,
+      "longitude": 17.262563
+    },
+    {
+      "name": "Brezová pod Bradlom",
+      "latitude": 48.651787,
+      "longitude": 17.530694
+    },
+    {
+      "name": "Jablonica",
+      "latitude": 48.606281,
+      "longitude": 17.40981
+    },
+    {
+      "name": "Závod",
+      "latitude": 48.539214,
+      "longitude": 17.007648
+    },
+    {
+      "name": "Veľké Leváre",
+      "latitude": 48.5091,
+      "longitude": 17.018643
+    },
+    {
+      "name": "Sološnica",
+      "latitude": 48.471155,
+      "longitude": 17.22635
+    },
+    {
+      "name": "Plavecký Mikuláš",
+      "latitude": 48.519106,
+      "longitude": 17.283038
+    },
+    {
+      "name": "Buková",
+      "latitude": 48.551732,
+      "longitude": 17.450809
+    },
+    {
+      "name": "Smolenice",
+      "latitude": 48.520458,
+      "longitude": 17.455326
+    },
+    {
+      "name": "Plavecké Podhradie",
+      "latitude": 48.482936,
+      "longitude": 17.250836
+    },
+    {
+      "name": "Boleráz",
+      "latitude": 48.470224,
+      "longitude": 17.49847
+    },
+    {
+      "name": "Rybany",
+      "latitude": 48.669063,
+      "longitude": 18.261748
+    },
+    {
+      "name": "Veľké Kostoľany",
+      "latitude": 48.507221,
+      "longitude": 17.774218
+    },
+    {
+      "name": "Topoľčany",
+      "latitude": 48.562398,
+      "longitude": 18.169423
+    },
+    {
+      "name": "Ludanice",
+      "latitude": 48.504312,
+      "longitude": 18.118829
+    },
+    {
+      "name": "Diviaky",
+      "latitude": 48.875928,
+      "longitude": 18.850513
+    },
+    {
+      "name": "Prievidza",
+      "latitude": 48.774744,
+      "longitude": 18.616673
+    },
+    {
+      "name": "Remäta",
+      "latitude": 48.753103,
+      "longitude": 18.805091
+    },
+    {
+      "name": "Horná Štubňa",
+      "latitude": 48.792795,
+      "longitude": 18.881809
+    },
+    {
+      "name": "Mišúty",
+      "latitude": 48.87846,
+      "longitude": 19.235432
+    },
+    {
+      "name": "Mišúty",
+      "latitude": 48.881341,
+      "longitude": 19.233502
+    },
+    {
+      "name": "Telemix Nová hoľa",
+      "latitude": 48.878111,
+      "longitude": 19.235792
+    },
+    {
+      "name": "Nová hoľa",
+      "latitude": 48.888729,
+      "longitude": 19.231184
+    },
+    {
+      "name": "Triangel P4",
+      "latitude": 48.873867,
+      "longitude": 19.224014
+    },
+    {
+      "name": "Patočiny",
+      "latitude": 48.890095,
+      "longitude": 19.241757
+    },
+    {
+      "name": "Patočiny",
+      "latitude": 48.888647,
+      "longitude": 19.231762
+    },
+    {
+      "name": "Krupová",
+      "latitude": 48.922106,
+      "longitude": 19.597635
+    },
+    {
+      "name": "Dubová",
+      "latitude": 48.813711,
+      "longitude": 19.439543
+    },
+    {
+      "name": "Mýto pod Ďumbierom",
+      "latitude": 48.845413,
+      "longitude": 19.620664
+    },
+    {
+      "name": "Kostiviarska",
+      "latitude": 48.757416,
+      "longitude": 19.145068
+    },
+    {
+      "name": "Hlobišov",
+      "latitude": 48.779843,
+      "longitude": 19.582848
+    },
+    {
+      "name": "Hronec",
+      "latitude": 48.800433,
+      "longitude": 19.5759
+    },
+    {
+      "name": "Valaská, Obec",
+      "latitude": 48.805268,
+      "longitude": 19.569063
+    },
+    {
+      "name": "Čierny Balog",
+      "latitude": 48.746232,
+      "longitude": 19.657106
+    },
+    {
+      "name": "Veľké Bielice",
+      "latitude": 48.624686,
+      "longitude": 18.349706
+    },
+    {
+      "name": "Partizánske",
+      "latitude": 48.6272,
+      "longitude": 18.369685
+    },
+    {
+      "name": "Partizánske zastávka",
+      "latitude": 48.627106,
+      "longitude": 18.393538
+    },
+    {
+      "name": "Veľké Uherce",
+      "latitude": 48.625473,
+      "longitude": 18.424763
+    },
+    {
+      "name": "Žiar nad Hronom",
+      "latitude": 48.578579,
+      "longitude": 18.870545
+    },
+    {
+      "name": "Žarnovica",
+      "latitude": 48.485709,
+      "longitude": 18.728025
+    },
+    {
+      "name": "Hronská Dúbrava",
+      "latitude": 48.576267,
+      "longitude": 18.989919
+    },
+    {
+      "name": "Zvolen mesto",
+      "latitude": 48.577155,
+      "longitude": 19.132065
+    },
+    {
+      "name": "Zvolen osobná stanica",
+      "latitude": 48.569499,
+      "longitude": 19.120749
+    },
+    {
+      "name": "Zvolen nákladná stanica",
+      "latitude": 48.572776,
+      "longitude": 19.144113
+    },
+    {
+      "name": "Vígľaš",
+      "latitude": 48.554134,
+      "longitude": 19.282773
+    },
+    {
+      "name": "Kriváň",
+      "latitude": 48.528483,
+      "longitude": 19.44563
+    },
+    {
+      "name": "Podkriváň",
+      "latitude": 48.516471,
+      "longitude": 19.466938
+    },
+    {
+      "name": "Mýtna",
+      "latitude": 48.465805,
+      "longitude": 19.547744
+    },
+    {
+      "name": "Malacky",
+      "latitude": 48.432486,
+      "longitude": 17.023098
+    },
+    {
+      "name": "Rohožník",
+      "latitude": 48.452466,
+      "longitude": 17.171133
+    },
+    {
+      "name": "Kuchyňa",
+      "latitude": 48.411392,
+      "longitude": 17.137055
+    },
+    {
+      "name": "Plavecký Štvrtok",
+      "latitude": 48.37329,
+      "longitude": 17.007808
+    },
+    {
+      "name": "Pernek pri Zohore",
+      "latitude": 48.379697,
+      "longitude": 17.122494
+    },
+    {
+      "name": "Jablonové",
+      "latitude": 48.353477,
+      "longitude": 17.089198
+    },
+    {
+      "name": "Šelpice",
+      "latitude": 48.42789,
+      "longitude": 17.537402
+    },
+    {
+      "name": "Vysoká pri Morave",
+      "latitude": 48.333703,
+      "longitude": 16.913911
+    },
+    {
+      "name": "Zohor",
+      "latitude": 48.325753,
+      "longitude": 16.991373
+    },
+    {
+      "name": "Lozorno",
+      "latitude": 48.337213,
+      "longitude": 17.042238
+    },
+    {
+      "name": "Devínske Jazero",
+      "latitude": 48.250489,
+      "longitude": 16.961039
+    },
+    {
+      "name": "Svätý Jur",
+      "latitude": 48.247417,
+      "longitude": 17.21749
+    },
+    {
+      "name": "Šenkvice",
+      "latitude": 48.301749,
+      "longitude": 17.346169
+    },
+    {
+      "name": "Cífer",
+      "latitude": 48.323045,
+      "longitude": 17.486712
+    },
+    {
+      "name": "Báhoň",
+      "latitude": 48.305657,
+      "longitude": 17.4505
+    },
+    {
+      "name": "Pezinok",
+      "latitude": 48.282462,
+      "longitude": 17.270383
+    },
+    {
+      "name": "Pezinok-Grinava",
+      "latitude": 48.267328,
+      "longitude": 17.246512
+    },
+    {
+      "name": "Hlohovec",
+      "latitude": 48.433355,
+      "longitude": 17.807019
+    },
+    {
+      "name": "Trnava",
+      "latitude": 48.36972,
+      "longitude": 17.584915
+    },
+    {
+      "name": "Kapince",
+      "latitude": 48.447398,
+      "longitude": 17.981368
+    },
+    {
+      "name": "Zbehy",
+      "latitude": 48.382051,
+      "longitude": 17.999953
+    },
+    {
+      "name": "Andač",
+      "latitude": 48.381113,
+      "longitude": 17.967245
+    },
+    {
+      "name": "Čakajovce",
+      "latitude": 48.372566,
+      "longitude": 18.036161
+    },
+    {
+      "name": "Jelšovce",
+      "latitude": 48.38366,
+      "longitude": 18.052712
+    },
+    {
+      "name": "Alekšince",
+      "latitude": 48.363648,
+      "longitude": 17.942893
+    },
+    {
+      "name": "Lužianky",
+      "latitude": 48.351971,
+      "longitude": 18.023774
+    },
+    {
+      "name": "Sereď",
+      "latitude": 48.290368,
+      "longitude": 17.726964
+    },
+    {
+      "name": "Gáň",
+      "latitude": 48.233671,
+      "longitude": 17.723317
+    },
+    {
+      "name": "Nitra zastávka",
+      "latitude": 48.311707,
+      "longitude": 18.056871
+    },
+    {
+      "name": "Nitra",
+      "latitude": 48.301521,
+      "longitude": 18.07922
+    },
+    {
+      "name": "Brána",
+      "latitude": 48.307968,
+      "longitude": 18.104562
+    },
+    {
+      "name": "Skanzen",
+      "latitude": 48.301533,
+      "longitude": 18.111671
+    },
+    {
+      "name": "Devínska Nová Ves",
+      "latitude": 48.219078,
+      "longitude": 16.976362
+    },
+    {
+      "name": "Bratislava-Rača",
+      "latitude": 48.209108,
+      "longitude": 17.161029
+    },
+    {
+      "name": "Bratislava predmestie",
+      "latitude": 48.18522,
+      "longitude": 17.135154
+    },
+    {
+      "name": "Bratislava-Vinohrady",
+      "latitude": 48.186806,
+      "longitude": 17.133578
+    },
+    {
+      "name": "Bratislava-Železná studienka",
+      "latitude": 48.174597,
+      "longitude": 17.072783
+    },
+    {
+      "name": "Bratislava-Lamač",
+      "latitude": 48.184637,
+      "longitude": 17.051061
+    },
+    {
+      "name": "Bratislava-Nové Mesto",
+      "latitude": 48.171922,
+      "longitude": 17.1467
+    },
+    {
+      "name": "Bratislava-Vajnory",
+      "latitude": 48.194765,
+      "longitude": 17.206913
+    },
+    {
+      "name": "Bratislava hlavná stanica",
+      "latitude": 48.15903,
+      "longitude": 17.106468
+    },
+    {
+      "name": "Bratislava-Petržalka",
+      "latitude": 48.121482,
+      "longitude": 17.099466
+    },
+    {
+      "name": "Podunajské Biskupice",
+      "latitude": 48.131282,
+      "longitude": 17.220864
+    },
+    {
+      "name": "Bernolákovo",
+      "latitude": 48.19786,
+      "longitude": 17.305941
+    },
+    {
+      "name": "Veľký Biel",
+      "latitude": 48.206031,
+      "longitude": 17.361993
+    },
+    {
+      "name": "Ivanka pri Dunaji",
+      "latitude": 48.194771,
+      "longitude": 17.259606
+    },
+    {
+      "name": "Senec",
+      "latitude": 48.213591,
+      "longitude": 17.414223
+    },
+    {
+      "name": "Reca",
+      "latitude": 48.219289,
+      "longitude": 17.455427
+    },
+    {
+      "name": "Pusté Úľany",
+      "latitude": 48.208157,
+      "longitude": 17.543075
+    },
+    {
+      "name": "Kittsee",
+      "latitude": 48.081512,
+      "longitude": 17.071558
+    },
+    {
+      "name": "Rusovce",
+      "latitude": 48.046766,
+      "longitude": 17.150783
+    },
+    {
+      "name": "Lehnice",
+      "latitude": 48.031774,
+      "longitude": 17.452044
+    },
+    {
+      "name": "Sládkovičovo",
+      "latitude": 48.195552,
+      "longitude": 17.629694
+    },
+    {
+      "name": "Galanta",
+      "latitude": 48.185083,
+      "longitude": 17.721845
+    },
+    {
+      "name": "Šaľa",
+      "latitude": 48.147053,
+      "longitude": 17.861944
+    },
+    {
+      "name": "Trnovec nad Váhom",
+      "latitude": 48.152598,
+      "longitude": 17.929036
+    },
+    {
+      "name": "Veľký Kýr",
+      "latitude": 48.18353,
+      "longitude": 18.150716
+    },
+    {
+      "name": "Žihárec",
+      "latitude": 48.079007,
+      "longitude": 17.881415
+    },
+    {
+      "name": "Dunajská Streda",
+      "latitude": 47.993218,
+      "longitude": 17.608337
+    },
+    {
+      "name": "Tvrdošovce",
+      "latitude": 48.092584,
+      "longitude": 18.040641
+    },
+    {
+      "name": "Šurany",
+      "latitude": 48.085232,
+      "longitude": 18.172727
+    },
+    {
+      "name": "Hul",
+      "latitude": 48.097933,
+      "longitude": 18.265609
+    },
+    {
+      "name": "Úľany nad Žitavou",
+      "latitude": 48.09785,
+      "longitude": 18.233009
+    },
+    {
+      "name": "Nové Zámky",
+      "latitude": 47.99555,
+      "longitude": 18.173424
+    },
+    {
+      "name": "Zlaté Moravce",
+      "latitude": 48.385886,
+      "longitude": 18.376434
+    },
+    {
+      "name": "Tesárske Mlyňany",
+      "latitude": 48.343127,
+      "longitude": 18.359458
+    },
+    {
+      "name": "Nová Baňa",
+      "latitude": 48.413308,
+      "longitude": 18.647984
+    },
+    {
+      "name": "Banská Štiavnica",
+      "latitude": 48.443957,
+      "longitude": 18.915519
+    },
+    {
+      "name": "Tlmače",
+      "latitude": 48.290338,
+      "longitude": 18.540821
+    },
+    {
+      "name": "Vráble",
+      "latitude": 48.254648,
+      "longitude": 18.300707
+    },
+    {
+      "name": "Veľké Kozmálovce",
+      "latitude": 48.280526,
+      "longitude": 18.549201
+    },
+    {
+      "name": "Krupina",
+      "latitude": 48.346428,
+      "longitude": 19.068651
+    },
+    {
+      "name": "Tomášovce",
+      "latitude": 48.369227,
+      "longitude": 19.626913
+    },
+    {
+      "name": "Lučenec",
+      "latitude": 48.335989,
+      "longitude": 19.667633
+    },
+    {
+      "name": "Kalná nad Hronom",
+      "latitude": 48.204114,
+      "longitude": 18.51677
+    },
+    {
+      "name": "Levice",
+      "latitude": 48.211346,
+      "longitude": 18.592648
+    },
+    {
+      "name": "Lok",
+      "latitude": 48.185375,
+      "longitude": 18.472856
+    },
+    {
+      "name": "Beša",
+      "latitude": 48.1384,
+      "longitude": 18.402161
+    },
+    {
+      "name": "Horný Pial",
+      "latitude": 48.159621,
+      "longitude": 18.449637
+    },
+    {
+      "name": "Pozba",
+      "latitude": 48.115354,
+      "longitude": 18.387748
+    },
+    {
+      "name": "Podhájska",
+      "latitude": 48.102733,
+      "longitude": 18.344271
+    },
+    {
+      "name": "Tekovské Lužany",
+      "latitude": 48.100302,
+      "longitude": 18.563469
+    },
+    {
+      "name": "Šahy",
+      "latitude": 48.059218,
+      "longitude": 18.956737
+    },
+    {
+      "name": "Želiezovce",
+      "latitude": 48.044295,
+      "longitude": 18.645702
+    },
+    {
+      "name": "Ipeľský Sokolec",
+      "latitude": 48.023763,
+      "longitude": 18.802523
+    },
+    {
+      "name": "Slavošovce",
+      "latitude": 48.719294,
+      "longitude": 20.269875
+    },
+    {
+      "name": "Jaklovce",
+      "latitude": 48.874038,
+      "longitude": 20.979999
+    },
+    {
+      "name": "Gelnica",
+      "latitude": 48.858384,
+      "longitude": 20.947485
+    },
+    {
+      "name": "Lubeník",
+      "latitude": 48.652764,
+      "longitude": 20.195032
+    },
+    {
+      "name": "Hucín",
+      "latitude": 48.564315,
+      "longitude": 20.295368
+    },
+    {
+      "name": "Rožňava",
+      "latitude": 48.635222,
+      "longitude": 20.514134
+    },
+    {
+      "name": "Plešivec",
+      "latitude": 48.553464,
+      "longitude": 20.412723
+    },
+    {
+      "name": "Obišovce",
+      "latitude": 48.862192,
+      "longitude": 21.238663
+    },
+    {
+      "name": "Kysak",
+      "latitude": 48.852402,
+      "longitude": 21.223937
+    },
+    {
+      "name": "Čermeľ",
+      "latitude": 48.749862,
+      "longitude": 21.228108
+    },
+    {
+      "name": "Vpred",
+      "latitude": 48.751793,
+      "longitude": 21.203517
+    },
+    {
+      "name": "Alpinka",
+      "latitude": 48.759843,
+      "longitude": 21.183404
+    },
+    {
+      "name": "Košice",
+      "latitude": 48.72202,
+      "longitude": 21.269212
+    },
+    {
+      "name": "Strážske",
+      "latitude": 48.867538,
+      "longitude": 21.824836
+    },
+    {
+      "name": "Petrovce nad Laborcom",
+      "latitude": 48.797855,
+      "longitude": 21.86012
+    },
+    {
+      "name": "Michalovce",
+      "latitude": 48.750735,
+      "longitude": 21.898541
+    },
+    {
+      "name": "Krásna nad Hornádom",
+      "latitude": 48.6703,
+      "longitude": 21.29536
+    },
+    {
+      "name": "Barca",
+      "latitude": 48.679261,
+      "longitude": 21.276338
+    },
+    {
+      "name": "Haniska pri Košiciach",
+      "latitude": 48.631471,
+      "longitude": 21.248613
+    },
+    {
+      "name": "Čaňa",
+      "latitude": 48.609689,
+      "longitude": 21.309611
+    },
+    {
+      "name": "Павлове",
+      "latitude": 48.564859,
+      "longitude": 22.17634
+    },
+    {
+      "name": "Breznička",
+      "latitude": 48.423198,
+      "longitude": 19.739834
+    },
+    {
+      "name": "Tornaľa",
+      "latitude": 48.422651,
+      "longitude": 20.330913
+    },
+    {
+      "name": "Prša",
+      "latitude": 48.297041,
+      "longitude": 19.79117
+    },
+    {
+      "name": "Fiľakovo",
+      "latitude": 48.266244,
+      "longitude": 19.832523
+    },
+    {
+      "name": "Hajnáčka",
+      "latitude": 48.235063,
+      "longitude": 19.932304
+    },
+    {
+      "name": "Slovenské Nové Mesto",
+      "latitude": 48.403883,
+      "longitude": 21.667275
+    },
+    {
+      "name": "Čierna nad Tisou",
+      "latitude": 48.419511,
+      "longitude": 22.085142
+    },
+    {
+      "name": "Dolný Štál",
+      "latitude": 47.951273,
+      "longitude": 17.743576
+    },
+    {
+      "name": "Dvory nad Žitavou",
+      "latitude": 47.968558,
+      "longitude": 18.249504
+    },
+    {
+      "name": "Bajč",
+      "latitude": 47.926428,
+      "longitude": 18.211546
+    },
+    {
+      "name": "Veľký Meder",
+      "latitude": 47.861241,
+      "longitude": 17.781979
+    },
+    {
+      "name": "Zemianska Olča",
+      "latitude": 47.8079,
+      "longitude": 17.8524
+    },
+    {
+      "name": "Chotín",
+      "latitude": 47.808856,
+      "longitude": 18.189905
+    },
+    {
+      "name": "Komárno",
+      "latitude": 47.769268,
+      "longitude": 18.125896
+    },
+    {
+      "name": "Komárom",
+      "latitude": 47.749582,
+      "longitude": 18.113889
+    },
+    {
+      "name": "Pribeta",
+      "latitude": 47.938085,
+      "longitude": 18.316305
+    },
+    {
+      "name": "Čata",
+      "latitude": 47.956243,
+      "longitude": 18.648673
+    },
+    {
+      "name": "Gbelce",
+      "latitude": 47.849453,
+      "longitude": 18.506953
+    },
+    {
+      "name": "Mužla",
+      "latitude": 47.812962,
+      "longitude": 18.595529
+    },
+    {
+      "name": "Nyergesújfalu",
+      "latitude": 47.76109,
+      "longitude": 18.561481
+    },
+    {
+      "name": "Szob",
+      "latitude": 47.821707,
+      "longitude": 18.860638
+    },
+    {
+      "name": "Chľaba zastávka",
+      "latitude": 47.824807,
+      "longitude": 18.828361
+    },
+    {
+      "name": "Štúrovo",
+      "latitude": 47.799903,
+      "longitude": 18.67911
+    },
+    {
+      "name": "Dunaalmás",
+      "latitude": 47.732982,
+      "longitude": 18.326306
+    }
+  ],
+  "meta": {
+    "title": "Dopravné stanice - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (public_transport=station). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84. Obsahuje 317 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Dopravné stanice | ListBase",
+    "seo_description": "Stiahnuť Dopravné stanice — 317 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 317 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

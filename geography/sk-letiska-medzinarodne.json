@@ -1,0 +1,250 @@
+{
+  "id": "sk-letiska-medzinarodne",
+  "name": "Medzinárodné a komerčné letiská na Slovensku",
+  "title": "Medzinárodné a komerčné letiská na Slovensku",
+  "description": "Letiská na Slovensku s prideleným IATA kódom -- typicky komerčné / medzinárodné letiská a väčšie vojenské letecké základne. Obsahuje letisko M. R. Štefánika v Bratislave (BTS/LZIB), Letisko Košice (KSC/LZKZ), Letisko Poprad-Tatry (TAT/LZTT), Letisko Piešťany (PZY/LZPP), Letisko Sliač (SLD/LZSL), Letisko Žilina (ILZ/LZZI), Letisko Lučenec (LUE/LZLU) a Prešov Air Base (POV/LZPW). (Slovak airports with assigned IATA codes -- typically commercial / international airports and major air bases. Subset of sk-letiska filtered to has_iata=true.)",
+  "category": "geography",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_source",
+      "label": "Kraj Source",
+      "type": "string"
+    },
+    {
+      "key": "kraj_slug",
+      "label": "Kraj Slug",
+      "type": "string"
+    },
+    {
+      "key": "kraj_en",
+      "label": "Kraj En",
+      "type": "string"
+    },
+    {
+      "key": "kraj_inferred_from_city",
+      "label": "Kraj Inferred From City",
+      "type": "boolean"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LZIB",
+      "iata": "BTS",
+      "name": "M. R. Stefanik Airport",
+      "name_slug": "m-r-stefanik-airport",
+      "city": "Bratislava",
+      "kraj": "Bratislavský kraj",
+      "kraj_source": "Bratislavsky",
+      "kraj_slug": "bratislavsky",
+      "kraj_en": "Bratislava Region",
+      "kraj_inferred_from_city": false,
+      "country": "SK",
+      "elevation_ft": 436,
+      "lat": 48.1702003479,
+      "lon": 17.2126998901,
+      "timezone": "Europe/Bratislava",
+      "has_iata": true
+    },
+    {
+      "icao": "LZKZ",
+      "iata": "KSC",
+      "name": "Kosice Airport",
+      "name_slug": "kosice-airport",
+      "city": "Kosice",
+      "kraj": "Košický kraj",
+      "kraj_source": "Kosicky",
+      "kraj_slug": "kosicky",
+      "kraj_en": "Kosice Region",
+      "kraj_inferred_from_city": false,
+      "country": "SK",
+      "elevation_ft": 755,
+      "lat": 48.6631011963,
+      "lon": 21.2411003113,
+      "timezone": "Europe/Bratislava",
+      "has_iata": true
+    },
+    {
+      "icao": "LZLU",
+      "iata": "LUE",
+      "name": "Lucenec Airport",
+      "name_slug": "lucenec-airport",
+      "city": "Lucenec",
+      "kraj": "Banskobystrický kraj",
+      "kraj_source": "Banskobystricky",
+      "kraj_slug": "banskobystricky",
+      "kraj_en": "Banska Bystrica Region",
+      "kraj_inferred_from_city": false,
+      "country": "SK",
+      "elevation_ft": 0,
+      "lat": 48.3394012451,
+      "lon": 19.7357997894,
+      "timezone": "Europe/Bratislava",
+      "has_iata": true
+    },
+    {
+      "icao": "LZPP",
+      "iata": "PZY",
+      "name": "Piestany Airport",
+      "name_slug": "piestany-airport",
+      "city": "Piestany",
+      "kraj": "Trnavský kraj",
+      "kraj_source": "",
+      "kraj_slug": "trnavsky",
+      "kraj_en": "Trnava Region",
+      "kraj_inferred_from_city": true,
+      "country": "SK",
+      "elevation_ft": 545,
+      "lat": 48.6251983643,
+      "lon": 17.8283996582,
+      "timezone": "Europe/Bratislava",
+      "has_iata": true
+    },
+    {
+      "icao": "LZPW",
+      "iata": "POV",
+      "name": "Presov Air Base",
+      "name_slug": "presov-air-base",
+      "city": "Presov",
+      "kraj": "Prešovský kraj",
+      "kraj_source": "Presovsky",
+      "kraj_slug": "presovsky",
+      "kraj_en": "Presov Region",
+      "kraj_inferred_from_city": false,
+      "country": "SK",
+      "elevation_ft": 1060,
+      "lat": 49.0297012329,
+      "lon": 21.3155994415,
+      "timezone": "Europe/Bratislava",
+      "has_iata": true
+    },
+    {
+      "icao": "LZSL",
+      "iata": "SLD",
+      "name": "Sliac Airport",
+      "name_slug": "sliac-airport",
+      "city": "Sliac",
+      "kraj": "Banskobystrický kraj",
+      "kraj_source": "Banskobystricky",
+      "kraj_slug": "banskobystricky",
+      "kraj_en": "Banska Bystrica Region",
+      "kraj_inferred_from_city": false,
+      "country": "SK",
+      "elevation_ft": 1043,
+      "lat": 48.6377983093,
+      "lon": 19.1340999603,
+      "timezone": "Europe/Bratislava",
+      "has_iata": true
+    },
+    {
+      "icao": "LZTT",
+      "iata": "TAT",
+      "name": "Poprad-Tatry Airport",
+      "name_slug": "poprad-tatry-airport",
+      "city": "Poprad",
+      "kraj": "Prešovský kraj",
+      "kraj_source": "Presovsky",
+      "kraj_slug": "presovsky",
+      "kraj_en": "Presov Region",
+      "kraj_inferred_from_city": false,
+      "country": "SK",
+      "elevation_ft": 2356,
+      "lat": 49.073600769,
+      "lon": 20.2411003113,
+      "timezone": "Europe/Bratislava",
+      "has_iata": true
+    },
+    {
+      "icao": "LZZI",
+      "iata": "ILZ",
+      "name": "Zilina Airport",
+      "name_slug": "zilina-airport",
+      "city": "Zilina",
+      "kraj": "Žilinský kraj",
+      "kraj_source": "Zilinsky",
+      "kraj_slug": "zilinsky",
+      "kraj_en": "Zilina Region",
+      "kraj_inferred_from_city": false,
+      "country": "SK",
+      "elevation_ft": 1020,
+      "lat": 49.2314987183,
+      "lon": 18.6135005951,
+      "timezone": "Europe/Bratislava",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Medzinárodné a komerčné letiská na Slovensku - Bezplatné stiahnutie",
+    "description": "Letiská na Slovensku s prideleným IATA kódom -- typicky komerčné / medzinárodné letiská a väčšie vojenské letecké základne. Obsahuje letisko M. R. Štefánika v Bratislave (BTS/LZIB), Letisko Košice (KSC/LZKZ), Letisko Poprad-Tatry (TAT/LZTT), Letisko Piešťany (PZY/LZPP), Letisko Sliač (SLD/LZSL), Letisko Žilina (ILZ/LZZI), Letisko Lučenec (LUE/LZLU) a Prešov Air Base (POV/LZPW). (Slovak airports with assigned IATA codes -- typically commercial / international airports and major air bases. Subset of sk-letiska filtered to has_iata=true.) Obsahuje 8 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Medzinárodné a komerčné letiská na Slovensku | ListBase",
+    "seo_description": "Stiahnuť Medzinárodné a komerčné letiská na Slovensku — 8 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 8 záznamov / 16 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: https://github.com/mwgg/Airports"
+    ]
+  }
+}

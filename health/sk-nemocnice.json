@@ -1,0 +1,641 @@
+{
+  "id": "sk-nemocnice",
+  "name": "Nemocnice na Slovensku – OpenStreetMap (Hospitals in Slovakia, OSM)",
+  "title": "Nemocnice na Slovensku – OpenStreetMap (Hospitals in Slovakia, OSM)",
+  "description": "Zoznam 120 nemocníc na Slovensku z OpenStreetMap (amenity=hospital) — názov a súradnice (WGS84).",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 120,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "AGEL Chronicare",
+      "latitude": 48.155168,
+      "longitude": 17.1553
+    },
+    {
+      "name": "Ambulancia pevnej APS pre dospelých Revúca",
+      "latitude": 48.682068,
+      "longitude": 20.110716
+    },
+    {
+      "name": "Chirurgický monoblok",
+      "latitude": 48.997737,
+      "longitude": 21.254357
+    },
+    {
+      "name": "Detská fakultná nemocnica Košice",
+      "latitude": 48.721446,
+      "longitude": 21.23941
+    },
+    {
+      "name": "Detská fakultná nemocnica s poliklinikou Banská Bystrica",
+      "latitude": 48.743003,
+      "longitude": 19.118555
+    },
+    {
+      "name": "Detská nemocnica",
+      "latitude": 48.99954,
+      "longitude": 21.252435
+    },
+    {
+      "name": "Detská psychiatrická liečebňa n.o. Hraň",
+      "latitude": 48.532143,
+      "longitude": 21.780754
+    },
+    {
+      "name": "Diabetologické centrum",
+      "latitude": 49.119214,
+      "longitude": 19.166001
+    },
+    {
+      "name": "Diagnostické, preventívne a výskumné centrum VÚSCH",
+      "latitude": 48.721284,
+      "longitude": 21.241142
+    },
+    {
+      "name": "Dolnooravská nemocnica s poliklinikou MUDr. L. N. Jégého Dolný Kubín",
+      "latitude": 49.213534,
+      "longitude": 19.302018
+    },
+    {
+      "name": "Endokrinologické centrum",
+      "latitude": 49.119942,
+      "longitude": 19.167773
+    },
+    {
+      "name": "Fakultná nemocnica AGEL Košice-Šaca",
+      "latitude": 48.642227,
+      "longitude": 21.171775
+    },
+    {
+      "name": "Fakultná nemocnica Agel Skalica",
+      "latitude": 48.843549,
+      "longitude": 17.228494
+    },
+    {
+      "name": "Fakultná nemocnica Nitra",
+      "latitude": 48.299913,
+      "longitude": 18.085254
+    },
+    {
+      "name": "Fakultná nemocnica s poliklinikou F.D. Roosevelta",
+      "latitude": 48.743856,
+      "longitude": 19.116063
+    },
+    {
+      "name": "Fakultná nemocnica s poliklinikou J. A. Reimana Prešov",
+      "latitude": 48.997934,
+      "longitude": 21.255211
+    },
+    {
+      "name": "Fakultná nemocnica s poliklinikou Nové Zámky",
+      "latitude": 47.989305,
+      "longitude": 18.152629
+    },
+    {
+      "name": "Fakultná nemocnica s poliklinikou Žilina",
+      "latitude": 49.217654,
+      "longitude": 18.747344
+    },
+    {
+      "name": "Fakultná nemocnica Trenčín",
+      "latitude": 48.884266,
+      "longitude": 18.030975
+    },
+    {
+      "name": "Fakultná nemocnica Trnava",
+      "latitude": 48.368689,
+      "longitude": 17.587352
+    },
+    {
+      "name": "Hornooravská nemocnica s poliklinikou Trstená",
+      "latitude": 49.357998,
+      "longitude": 19.601757
+    },
+    {
+      "name": "Internistický monoblok",
+      "latitude": 48.99839,
+      "longitude": 21.254052
+    },
+    {
+      "name": "Kysucká nemocnica s poliklinikou Čadca",
+      "latitude": 49.43826,
+      "longitude": 18.77331
+    },
+    {
+      "name": "Liečebňa pre dlhodobo chorých Štiavnička",
+      "latitude": 49.074375,
+      "longitude": 19.343705
+    },
+    {
+      "name": "Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu",
+      "latitude": 49.083678,
+      "longitude": 19.597873
+    },
+    {
+      "name": "Mammacentrum sv. Agáty",
+      "latitude": 48.733695,
+      "longitude": 19.133766
+    },
+    {
+      "name": "Medicentrum",
+      "latitude": 48.593751,
+      "longitude": 17.833974
+    },
+    {
+      "name": "Medissimo",
+      "latitude": 48.102204,
+      "longitude": 17.109798
+    },
+    {
+      "name": "Nemocnica A. Leňa Humenné, a.s.",
+      "latitude": 48.93365,
+      "longitude": 21.897964
+    },
+    {
+      "name": "Nemocnica AGEL",
+      "latitude": 48.169775,
+      "longitude": 17.080636
+    },
+    {
+      "name": "Nemocnica AGEL Handlová s.r.o.",
+      "latitude": 48.729191,
+      "longitude": 18.757036
+    },
+    {
+      "name": "Nemocnica AGEL Levice",
+      "latitude": 48.22204,
+      "longitude": 18.613499
+    },
+    {
+      "name": "Nemocnica Agel Žiari nad Hronom",
+      "latitude": 48.590532,
+      "longitude": 18.842981
+    },
+    {
+      "name": "Nemocnica Alexandra Wintera, n.o.",
+      "latitude": 48.588144,
+      "longitude": 17.838112
+    },
+    {
+      "name": "Nemocnica arm. generála L. Svobodu Svidník, a.s.",
+      "latitude": 49.312675,
+      "longitude": 21.570476
+    },
+    {
+      "name": "Nemocnica Bory",
+      "latitude": 48.208109,
+      "longitude": 17.031691
+    },
+    {
+      "name": "Nemocnica Bánovce - 3. súkromná nemocnica, s.r.o.",
+      "latitude": 48.720157,
+      "longitude": 18.25826
+    },
+    {
+      "name": "Nemocnica Dr. V. Alexandra",
+      "latitude": 49.132417,
+      "longitude": 20.427827
+    },
+    {
+      "name": "Nemocnica Dr. Vojtecha Alexandra v Kežmarku n. o.",
+      "latitude": 49.131849,
+      "longitude": 20.421646
+    },
+    {
+      "name": "Nemocnica Krompachy spol. s r.o.",
+      "latitude": 48.904388,
+      "longitude": 20.87155
+    },
+    {
+      "name": "Nemocnica Krupina",
+      "latitude": 48.352793,
+      "longitude": 19.063924
+    },
+    {
+      "name": "Nemocnica Malacky",
+      "latitude": 48.44074,
+      "longitude": 17.033774
+    },
+    {
+      "name": "Nemocnica Modra n.o.",
+      "latitude": 48.333499,
+      "longitude": 17.306545
+    },
+    {
+      "name": "Nemocnica Partizánske",
+      "latitude": 48.634235,
+      "longitude": 18.403068
+    },
+    {
+      "name": "Nemocnica Poprad, a. s.",
+      "latitude": 49.051839,
+      "longitude": 20.30213
+    },
+    {
+      "name": "Nemocnica pre obvinených a odsúdených",
+      "latitude": 48.889539,
+      "longitude": 18.0343
+    },
+    {
+      "name": "Nemocnica s poliklinikou",
+      "latitude": 48.210807,
+      "longitude": 19.350236
+    },
+    {
+      "name": "Nemocnica s poliklinikou Brezno, n.o.",
+      "latitude": 48.808857,
+      "longitude": 19.622943
+    },
+    {
+      "name": "Nemocnica s poliklinikou Dunajská Streda",
+      "latitude": 47.997893,
+      "longitude": 17.609327
+    },
+    {
+      "name": "Nemocnica s Poliklinikou Hlohovec, s. r. o.",
+      "latitude": 48.42478,
+      "longitude": 17.789028
+    },
+    {
+      "name": "Nemocnica s poliklinikou Hnúšťa",
+      "latitude": 48.564803,
+      "longitude": 19.956081
+    },
+    {
+      "name": "Nemocnica s poliklinikou Ilava",
+      "latitude": 48.994168,
+      "longitude": 18.232068
+    },
+    {
+      "name": "Nemocnica s poliklinikou Myjava",
+      "latitude": 48.762909,
+      "longitude": 17.561625
+    },
+    {
+      "name": "Nemocnica s poliklinikou n.o. Kráľovský Chlmec",
+      "latitude": 48.418795,
+      "longitude": 21.976599
+    },
+    {
+      "name": "Nemocnica s poliklinikou Považská Bystrica",
+      "latitude": 49.105588,
+      "longitude": 18.458776
+    },
+    {
+      "name": "Nemocnica s poliklinikou Prievidza so sídlom v Bojniciach",
+      "latitude": 48.786008,
+      "longitude": 18.588124
+    },
+    {
+      "name": "Nemocnica s poliklinikou Revúca",
+      "latitude": 48.692028,
+      "longitude": 20.120629
+    },
+    {
+      "name": "Nemocnica s poliklinikou Spišská Nová Ves, a.s.",
+      "latitude": 48.956442,
+      "longitude": 20.567496
+    },
+    {
+      "name": "Nemocnica s poliklinikou sv. Barbory Rožňava, a.s.",
+      "latitude": 48.665821,
+      "longitude": 20.533878
+    },
+    {
+      "name": "Nemocnica s poliklinikou Sv. Jakuba, n.o., Bardejov",
+      "latitude": 49.286516,
+      "longitude": 21.272909
+    },
+    {
+      "name": "Nemocnica s poliklinikou Sv. Lukáša Galanta",
+      "latitude": 48.195486,
+      "longitude": 17.720993
+    },
+    {
+      "name": "Nemocnica s poliklinikou Trebišov, a.s.",
+      "latitude": 48.618785,
+      "longitude": 21.716046
+    },
+    {
+      "name": "Nemocnica s poliklinikou Štefana Kukuru Michalovce, a.s.",
+      "latitude": 48.753444,
+      "longitude": 21.915372
+    },
+    {
+      "name": "Nemocnica s poliklinikou, Nové Mesto nad Váhom, n. o.",
+      "latitude": 48.753585,
+      "longitude": 17.831145
+    },
+    {
+      "name": "Nemocnica s poliklinikou, Šahy",
+      "latitude": 48.063004,
+      "longitude": 18.954445
+    },
+    {
+      "name": "Nemocnica Stropkov",
+      "latitude": 49.198686,
+      "longitude": 21.655125
+    },
+    {
+      "name": "Nemocnica Zlaté Moravce a.s.",
+      "latitude": 48.382967,
+      "longitude": 18.398768
+    },
+    {
+      "name": "Nemocnica Zvolen a. s.",
+      "latitude": 48.580892,
+      "longitude": 19.132977
+    },
+    {
+      "name": "Národný onkologický ústav",
+      "latitude": 48.172216,
+      "longitude": 17.090038
+    },
+    {
+      "name": "Národný ústav detskej tuberkulózy a respiračných chorôb",
+      "latitude": 49.132697,
+      "longitude": 20.237958
+    },
+    {
+      "name": "Národný ústav detských chorôb",
+      "latitude": 48.166686,
+      "longitude": 17.091007
+    },
+    {
+      "name": "Národný ústav srdcových a cievnych chorôb",
+      "latitude": 48.170304,
+      "longitude": 17.086116
+    },
+    {
+      "name": "Národný ústav tuberkulózy, pľúcnych chorôb a hrudníkovej chirurgie Vyšné Hágy",
+      "latitude": 49.120039,
+      "longitude": 20.12463
+    },
+    {
+      "name": "Odborný liečebný ústav psychiatrický, n. o. Predná Hora",
+      "latitude": 48.771753,
+      "longitude": 20.111064
+    },
+    {
+      "name": "Oddelenie radiačnej a klinickej onkológie",
+      "latitude": 48.300688,
+      "longitude": 18.084803
+    },
+    {
+      "name": "Onkologický ústav sv. Alžbety, s.r.o.",
+      "latitude": 48.146551,
+      "longitude": 17.113607
+    },
+    {
+      "name": "Pohotovostná služba",
+      "latitude": 48.265108,
+      "longitude": 19.82408
+    },
+    {
+      "name": "Poliklinika ProCare Sekčov",
+      "latitude": 48.994458,
+      "longitude": 21.267222
+    },
+    {
+      "name": "Pro Vitae",
+      "latitude": 48.856345,
+      "longitude": 20.933565
+    },
+    {
+      "name": "Psychiatrická nemocnica Hronovce",
+      "latitude": 48.001861,
+      "longitude": 18.658499
+    },
+    {
+      "name": "Psychiatrická nemocnica Michalovce, n.o.",
+      "latitude": 48.755491,
+      "longitude": 21.939046
+    },
+    {
+      "name": "Psychiatrická nemocnica Philippa Pinela Pezinok",
+      "latitude": 48.315805,
+      "longitude": 17.254013
+    },
+    {
+      "name": "Psychiatrická nemocnica Prof. Matulaya",
+      "latitude": 48.696477,
+      "longitude": 18.928499
+    },
+    {
+      "name": "Psychiatrická nemocnica Veľké Zálužie",
+      "latitude": 48.30206,
+      "longitude": 17.941895
+    },
+    {
+      "name": "Regionálna nemocnica Sobrance, n.o.",
+      "latitude": 48.74512,
+      "longitude": 22.185717
+    },
+    {
+      "name": "Snina, s.r.o.",
+      "latitude": 48.983907,
+      "longitude": 22.148544
+    },
+    {
+      "name": "Stará nemocnica",
+      "latitude": 47.986793,
+      "longitude": 18.173537
+    },
+    {
+      "name": "Stredoslovenský ústav srdcových a cievnych chorôb, a.s.",
+      "latitude": 48.742085,
+      "longitude": 19.160986
+    },
+    {
+      "name": "Svet zdravia Nemocnica Topoľčany, a.s.",
+      "latitude": 48.552333,
+      "longitude": 18.166946
+    },
+    {
+      "name": "TETIS s.r.o.",
+      "latitude": 48.081499,
+      "longitude": 17.268519
+    },
+    {
+      "name": "Univerzitná nemocnica - Nemocnica sv. Michala, pracovisko Košice",
+      "latitude": 48.717708,
+      "longitude": 21.25589
+    },
+    {
+      "name": "Univerzitná nemocnica - Nemocnica svätého Michala, a.s.,",
+      "latitude": 48.146263,
+      "longitude": 17.118326
+    },
+    {
+      "name": "Univerzitná nemocnica Bratislava - Nemocnica akademika L. Dérera - Kramáre",
+      "latitude": 48.166442,
+      "longitude": 17.086119
+    },
+    {
+      "name": "Univerzitná nemocnica Bratislava - Nemocnica Staré Mesto",
+      "latitude": 48.151207,
+      "longitude": 17.117122
+    },
+    {
+      "name": "Univerzitná nemocnica Bratislava - Nemocnica sv. Cyrila a Metoda",
+      "latitude": 48.101303,
+      "longitude": 17.11893
+    },
+    {
+      "name": "Univerzitná nemocnica Bratislava – Nemocnica Ružinov",
+      "latitude": 48.154505,
+      "longitude": 17.152168
+    },
+    {
+      "name": "Univerzitná nemocnica Bratislava – Špecializovaná geriatrická nemocnica",
+      "latitude": 48.124672,
+      "longitude": 17.208267
+    },
+    {
+      "name": "Univerzitná nemocnica L. Pasteura",
+      "latitude": 48.707308,
+      "longitude": 21.255094
+    },
+    {
+      "name": "Univerzitná nemocnica Louisa Pasteura",
+      "latitude": 48.72221,
+      "longitude": 21.239264
+    },
+    {
+      "name": "Univerzitná nemocnica Martin",
+      "latitude": 49.059973,
+      "longitude": 18.916881
+    },
+    {
+      "name": "Univerzitná nemocnica s poliklinikou Milosrdní bratia",
+      "latitude": 48.145866,
+      "longitude": 17.110969
+    },
+    {
+      "name": "Vojenská nemocnica",
+      "latitude": 48.988849,
+      "longitude": 21.250712
+    },
+    {
+      "name": "Vranovská nemocnica, a.s.",
+      "latitude": 48.887023,
+      "longitude": 21.691423
+    },
+    {
+      "name": "Vysokošpecializovaný odborný ústav geriatrický sv. Lukáša v Košiciach n. o.",
+      "latitude": 48.727061,
+      "longitude": 21.249957
+    },
+    {
+      "name": "Východoslovenský onkologický ústav, a. s.",
+      "latitude": 48.709796,
+      "longitude": 21.254801
+    },
+    {
+      "name": "Východoslovenský ústav srdcových a cievnych chorôb",
+      "latitude": 48.721375,
+      "longitude": 21.240717
+    },
+    {
+      "name": "Všeobecná nemocnica Banská Štiavnica",
+      "latitude": 48.454265,
+      "longitude": 18.917593
+    },
+    {
+      "name": "Všeobecná nemocnica Komárno",
+      "latitude": 47.765019,
+      "longitude": 18.127533
+    },
+    {
+      "name": "Všeobecná nemocnica Rimavská Sobota",
+      "latitude": 48.383876,
+      "longitude": 20.024589
+    },
+    {
+      "name": "Všeobecná nemocnica s poliklinikou Levoča, a.s.",
+      "latitude": 49.025004,
+      "longitude": 20.593705
+    },
+    {
+      "name": "Všeobecná nemocnica s poliklinikou Lučenec, n.o.",
+      "latitude": 48.327844,
+      "longitude": 19.659653
+    },
+    {
+      "name": "Zelený Sen",
+      "latitude": 48.741265,
+      "longitude": 19.163512
+    },
+    {
+      "name": "Ústredná vojenská nemocnica SNP Ružomberok - FN",
+      "latitude": 49.074684,
+      "longitude": 19.311168
+    },
+    {
+      "name": "Ústredná vojenská nemocnica SNP Ružomberok - FN",
+      "latitude": 49.086307,
+      "longitude": 19.300491
+    },
+    {
+      "name": "Ľubovnianska nemocnica, n.o.",
+      "latitude": 49.296893,
+      "longitude": 20.688638
+    },
+    {
+      "name": "Špecializovaná nemocnica Oáza",
+      "latitude": 48.99879,
+      "longitude": 21.220445
+    },
+    {
+      "name": "Špecializovaná nemocnica pre ortopedickú protetiku Bratislava, n. o.",
+      "latitude": 48.15384,
+      "longitude": 17.129907
+    },
+    {
+      "name": "Špecializovaná nemocnica respiračných chorób",
+      "latitude": 49.018616,
+      "longitude": 20.280509
+    },
+    {
+      "name": "Špecializovaná nemocnica sv. Svorada",
+      "latitude": 48.345615,
+      "longitude": 18.091709
+    },
+    {
+      "name": "Železničná nemocnica AGEL Košice",
+      "latitude": 48.727625,
+      "longitude": 21.259897
+    }
+  ],
+  "meta": {
+    "title": "Nemocnice na Slovensku – OpenStreetMap (Hospitals in Slovakia, OSM) - Bezplatné stiahnutie",
+    "description": "Zoznam 120 nemocníc na Slovensku z OpenStreetMap (amenity=hospital) — názov a súradnice (WGS84). Obsahuje 120 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Nemocnice na Slovensku – OpenStreetMap (Hospitals in Slovakia, OSM) | ListBase",
+    "seo_description": "Stiahnuť Nemocnice na Slovensku – OpenStreetMap (Hospitals in Slovakia, OSM) — 120 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 120 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

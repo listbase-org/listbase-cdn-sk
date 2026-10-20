@@ -1,0 +1,206 @@
+{
+  "id": "sk-medzinarodne-letiska",
+  "name": "Medzinárodné letiská na Slovensku (International Airports of Slovakia)",
+  "title": "Medzinárodné letiská na Slovensku (International Airports of Slovakia)",
+  "description": "The 5 facilities classified as international airports for SK in the aero-db open airport database, with ICAO/IATA codes and coordinates.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "facility_type",
+      "label": "Facility Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "is_private",
+      "label": "Is Private",
+      "type": "boolean"
+    },
+    {
+      "key": "is_military",
+      "label": "Is Military",
+      "type": "boolean"
+    },
+    {
+      "key": "is_civilian",
+      "label": "Is Civilian",
+      "type": "boolean"
+    },
+    {
+      "key": "is_closed",
+      "label": "Is Closed",
+      "type": "boolean"
+    },
+    {
+      "key": "is_vfr",
+      "label": "Is Vfr",
+      "type": "boolean"
+    },
+    {
+      "key": "is_ifr",
+      "label": "Is Ifr",
+      "type": "boolean"
+    },
+    {
+      "key": "ppr_required",
+      "label": "Ppr Required",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "name": "BRATISLAVA - M. R. STEFANIK",
+      "icao_code": "LZIB",
+      "iata_code": "BTS",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 48.17,
+      "longitude": 17.212778,
+      "elevation_ft": 133,
+      "country_code": "SK",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "JASNA",
+      "icao_code": "LZJS",
+      "iata_code": "",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 49.048055555556,
+      "longitude": 19.506944444444,
+      "elevation_ft": 641,
+      "country_code": "SK",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "PIESTANY",
+      "icao_code": "LZPP",
+      "iata_code": "PZY",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 48.625,
+      "longitude": 17.828611,
+      "elevation_ft": 166,
+      "country_code": "SK",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "POPRAD TATRY",
+      "icao_code": "LZTT",
+      "iata_code": "TAT",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 49.073611,
+      "longitude": 20.241111,
+      "elevation_ft": 703,
+      "country_code": "SK",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "ZILINA",
+      "icao_code": "LZZI",
+      "iata_code": "ILZ",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 49.23330555555555,
+      "longitude": 18.61319444444445,
+      "elevation_ft": 304,
+      "country_code": "SK",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    }
+  ],
+  "meta": {
+    "title": "Medzinárodné letiská na Slovensku (International Airports of Slovakia) - Bezplatné stiahnutie",
+    "description": "The 5 facilities classified as international airports for SK in the aero-db open airport database, with ICAO/IATA codes and coordinates. Obsahuje 5 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Medzinárodné letiská na Slovensku (International Airports of Slovakia) | ListBase",
+    "seo_description": "Stiahnuť Medzinárodné letiská na Slovensku (International Airports of Slovakia) — 5 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 5 záznamov / 17 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

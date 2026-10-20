@@ -1,0 +1,2906 @@
+{
+  "id": "sk-pozicovne-bicyklov",
+  "name": "Slovenské požičovne bicyklov",
+  "title": "Slovenské požičovne bicyklov",
+  "description": "Zoznam pomenovaných požičovní bicyklov na Slovensku (amenity=bicycle_rental) z OpenStreetMap.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 573,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alejová - Gymnázium",
+      "latitude": 48.703605,
+      "longitude": 21.247166
+    },
+    {
+      "name": "Alejová - SOŠ Automobilová",
+      "latitude": 48.704772,
+      "longitude": 21.244429
+    },
+    {
+      "name": "Alejová Gymnázium",
+      "latitude": 48.703136,
+      "longitude": 21.246667
+    },
+    {
+      "name": "Alejová x Gemerská",
+      "latitude": 48.700239,
+      "longitude": 21.252198
+    },
+    {
+      "name": "Alpinka areál",
+      "latitude": 48.760773,
+      "longitude": 21.180379
+    },
+    {
+      "name": "Alpinka Golfové ihrisko",
+      "latitude": 48.765966,
+      "longitude": 21.175632
+    },
+    {
+      "name": "Americká trieda - nadjazd",
+      "latitude": 48.758047,
+      "longitude": 21.262588
+    },
+    {
+      "name": "Americká trieda 21",
+      "latitude": 48.755552,
+      "longitude": 21.26669
+    },
+    {
+      "name": "Americká trieda 23",
+      "latitude": 48.756982,
+      "longitude": 21.264186
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.727317,
+      "longitude": 21.240178
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.727832,
+      "longitude": 21.240694
+    },
+    {
+      "name": "Anička",
+      "latitude": 48.745348,
+      "longitude": 21.254161
+    },
+    {
+      "name": "Antik Rack",
+      "latitude": 48.71866,
+      "longitude": 21.291621
+    },
+    {
+      "name": "ANTIK SmartWay",
+      "latitude": 48.672644,
+      "longitude": 21.168166
+    },
+    {
+      "name": "ANTIK SmartWay",
+      "latitude": 48.676152,
+      "longitude": 21.167081
+    },
+    {
+      "name": "ANTIK SmartWay",
+      "latitude": 48.676949,
+      "longitude": 21.170123
+    },
+    {
+      "name": "ANTIK SmartWay Bikesharing",
+      "latitude": 49.378625,
+      "longitude": 18.836302
+    },
+    {
+      "name": "ANTIK SmartWay Bikesharing",
+      "latitude": 49.38887,
+      "longitude": 18.831936
+    },
+    {
+      "name": "ANTIK SmartWay Bikesharing",
+      "latitude": 49.394792,
+      "longitude": 18.830125
+    },
+    {
+      "name": "ANTIK SmartWay Bikesharing",
+      "latitude": 49.397359,
+      "longitude": 18.83636
+    },
+    {
+      "name": "ANTIK SmartWay Bikesharing",
+      "latitude": 49.397634,
+      "longitude": 18.852296
+    },
+    {
+      "name": "ANTIK SmartWay Bikesharing - Hlavná ul., Severný park",
+      "latitude": 48.999211,
+      "longitude": 21.239456
+    },
+    {
+      "name": "ANTIK SmartWay Bikesharing - Košická ul., autobusová stanica",
+      "latitude": 48.983748,
+      "longitude": 21.250103
+    },
+    {
+      "name": "ANTIK SmartWay Bikesharing - Masarykova ul.",
+      "latitude": 48.991121,
+      "longitude": 21.245916
+    },
+    {
+      "name": "ANTIK SmartWay Bikesharing - Nám. legionárov",
+      "latitude": 48.993219,
+      "longitude": 21.244393
+    },
+    {
+      "name": "Antik SmartWay Bikesharing - OC Eperia",
+      "latitude": 48.98882,
+      "longitude": 21.26385
+    },
+    {
+      "name": "ANTIK SmartWay Bikesharing - Prešovská univerzita",
+      "latitude": 48.989765,
+      "longitude": 21.23562
+    },
+    {
+      "name": "ANTIK SmartWay Bikesharing - Sekčov, Exnárova ul.",
+      "latitude": 48.995989,
+      "longitude": 21.270126
+    },
+    {
+      "name": "ANTIK SmartWay Bikesharing - Sídlisko II, OC Centrál",
+      "latitude": 48.998671,
+      "longitude": 21.224855
+    },
+    {
+      "name": "ANTIK SmartWay Bikesharing - Sídlisko III, OC Centrum",
+      "latitude": 49.01674,
+      "longitude": 21.223689
+    },
+    {
+      "name": "ANTIK SmartWay Bikesharing - Sídlisko III, OD Jednota",
+      "latitude": 49.0011,
+      "longitude": 21.227414
+    },
+    {
+      "name": "ANTIK SmartWay Bikesharing - Šváby, Švábska ul.",
+      "latitude": 48.974242,
+      "longitude": 21.262527
+    },
+    {
+      "name": "Antik Telecom",
+      "latitude": 48.737957,
+      "longitude": 21.254401
+    },
+    {
+      "name": "Antolská",
+      "latitude": 48.099266,
+      "longitude": 17.114855
+    },
+    {
+      "name": "Arch. ústav SAV",
+      "latitude": 48.715181,
+      "longitude": 21.228324
+    },
+    {
+      "name": "Areál Jazero",
+      "latitude": 48.695537,
+      "longitude": 21.284818
+    },
+    {
+      "name": "Areál Čičky",
+      "latitude": 48.722965,
+      "longitude": 21.217591
+    },
+    {
+      "name": "Aténska",
+      "latitude": 48.758318,
+      "longitude": 21.262288
+    },
+    {
+      "name": "Atómová",
+      "latitude": 48.385061,
+      "longitude": 17.59564
+    },
+    {
+      "name": "Aupark",
+      "latitude": 48.717163,
+      "longitude": 21.260933
+    },
+    {
+      "name": "Aupark",
+      "latitude": 48.718264,
+      "longitude": 21.264846
+    },
+    {
+      "name": "Aupark",
+      "latitude": 49.221499,
+      "longitude": 18.740721
+    },
+    {
+      "name": "Austrálska x Americká trieda",
+      "latitude": 48.759805,
+      "longitude": 21.260228
+    },
+    {
+      "name": "Auto Gabriel - Vozárova",
+      "latitude": 48.682586,
+      "longitude": 21.267306
+    },
+    {
+      "name": "Autobusová stanica",
+      "latitude": 48.632209,
+      "longitude": 21.714179
+    },
+    {
+      "name": "Autobusová zastávka oproti Golfu",
+      "latitude": 48.36649,
+      "longitude": 17.542563
+    },
+    {
+      "name": "Bajkalská",
+      "latitude": 48.153961,
+      "longitude": 17.147339
+    },
+    {
+      "name": "Bajkovisko",
+      "latitude": 48.188734,
+      "longitude": 17.127544
+    },
+    {
+      "name": "Bajkservis",
+      "latitude": 48.27968,
+      "longitude": 17.048642
+    },
+    {
+      "name": "Bajzova / Prešovská",
+      "latitude": 48.158428,
+      "longitude": 17.139701
+    },
+    {
+      "name": "Barca - Miestny úrad",
+      "latitude": 48.678094,
+      "longitude": 21.265011
+    },
+    {
+      "name": "Barónka",
+      "latitude": 48.208428,
+      "longitude": 17.150359
+    },
+    {
+      "name": "BC Cassovar",
+      "latitude": 48.719069,
+      "longitude": 21.246254
+    },
+    {
+      "name": "BC Einsteinova",
+      "latitude": 48.132266,
+      "longitude": 17.115822
+    },
+    {
+      "name": "BC Rozvojová",
+      "latitude": 48.693348,
+      "longitude": 21.252354
+    },
+    {
+      "name": "Belehradská",
+      "latitude": 48.756874,
+      "longitude": 21.273869
+    },
+    {
+      "name": "Belehradská 1",
+      "latitude": 48.755334,
+      "longitude": 21.274713
+    },
+    {
+      "name": "Belehradská 21",
+      "latitude": 48.756799,
+      "longitude": 21.270284
+    },
+    {
+      "name": "Belehradská 25",
+      "latitude": 48.758168,
+      "longitude": 21.271864
+    },
+    {
+      "name": "Bernolákova",
+      "latitude": 48.709525,
+      "longitude": 21.236846
+    },
+    {
+      "name": "best bikes",
+      "latitude": 48.59214,
+      "longitude": 18.848194
+    },
+    {
+      "name": "Bicycle Rental",
+      "latitude": 48.587967,
+      "longitude": 17.836617
+    },
+    {
+      "name": "Bielocerkevská 1",
+      "latitude": 48.731926,
+      "longitude": 21.281532
+    },
+    {
+      "name": "Biely kríž",
+      "latitude": 48.182321,
+      "longitude": 17.129627
+    },
+    {
+      "name": "Bike Rent Michal",
+      "latitude": 49.217765,
+      "longitude": 20.938666
+    },
+    {
+      "name": "Bike Rental&Guiding",
+      "latitude": 49.195859,
+      "longitude": 20.437326
+    },
+    {
+      "name": "Bike Service",
+      "latitude": 48.505533,
+      "longitude": 17.431699
+    },
+    {
+      "name": "Bikeroom",
+      "latitude": 48.779166,
+      "longitude": 18.62785
+    },
+    {
+      "name": "bikey",
+      "latitude": 48.967175,
+      "longitude": 20.388025
+    },
+    {
+      "name": "Blumentál / Americké nám.",
+      "latitude": 48.151302,
+      "longitude": 17.118859
+    },
+    {
+      "name": "Boge - Strojárenská",
+      "latitude": 48.357876,
+      "longitude": 17.571586
+    },
+    {
+      "name": "Boge od Basy",
+      "latitude": 48.354743,
+      "longitude": 17.565706
+    },
+    {
+      "name": "Borová",
+      "latitude": 49.199291,
+      "longitude": 18.738566
+    },
+    {
+      "name": "Borská",
+      "latitude": 48.162203,
+      "longitude": 17.049005
+    },
+    {
+      "name": "Botanická",
+      "latitude": 48.148097,
+      "longitude": 17.065915
+    },
+    {
+      "name": "Botanická záhrada",
+      "latitude": 48.734493,
+      "longitude": 21.240732
+    },
+    {
+      "name": "Botanická záhrada",
+      "latitude": 48.735419,
+      "longitude": 21.23868
+    },
+    {
+      "name": "Bratislavská",
+      "latitude": 48.708719,
+      "longitude": 21.223783
+    },
+    {
+      "name": "Bratská",
+      "latitude": 48.11072,
+      "longitude": 17.100539
+    },
+    {
+      "name": "BS-Rent",
+      "latitude": 48.454245,
+      "longitude": 18.902646
+    },
+    {
+      "name": "Budapeštianska",
+      "latitude": 48.752286,
+      "longitude": 21.270695
+    },
+    {
+      "name": "Budatín - Dolná",
+      "latitude": 49.234893,
+      "longitude": 18.737827
+    },
+    {
+      "name": "Budatínska / Šintavská",
+      "latitude": 48.106702,
+      "longitude": 17.098511
+    },
+    {
+      "name": "Budulov",
+      "latitude": 48.587711,
+      "longitude": 20.99302
+    },
+    {
+      "name": "Bulvár",
+      "latitude": 49.218867,
+      "longitude": 18.740907
+    },
+    {
+      "name": "Business Centre",
+      "latitude": 48.716882,
+      "longitude": 21.250566
+    },
+    {
+      "name": "Business Centre Moldavská",
+      "latitude": 48.708094,
+      "longitude": 21.245867
+    },
+    {
+      "name": "BUZGÓ bike",
+      "latitude": 48.62527,
+      "longitude": 20.579208
+    },
+    {
+      "name": "Bučinová",
+      "latitude": 48.144444,
+      "longitude": 17.206894
+    },
+    {
+      "name": "Béžová",
+      "latitude": 48.089326,
+      "longitude": 17.126572
+    },
+    {
+      "name": "Central Shopping",
+      "latitude": 48.754835,
+      "longitude": 21.267143
+    },
+    {
+      "name": "Cintorín Kamenná cesta",
+      "latitude": 48.374466,
+      "longitude": 17.563183
+    },
+    {
+      "name": "Coop - Polomská",
+      "latitude": 49.206924,
+      "longitude": 18.768052
+    },
+    {
+      "name": "COOP Jednota Hajdóczyho",
+      "latitude": 48.389511,
+      "longitude": 17.585974
+    },
+    {
+      "name": "Coop Jednota Mozartova",
+      "latitude": 48.365799,
+      "longitude": 17.569714
+    },
+    {
+      "name": "Cottbuská 1",
+      "latitude": 48.712457,
+      "longitude": 21.217466
+    },
+    {
+      "name": "Cottbuská 2",
+      "latitude": 48.712267,
+      "longitude": 21.218414
+    },
+    {
+      "name": "CycloToursSpiš",
+      "latitude": 48.93427,
+      "longitude": 20.383345
+    },
+    {
+      "name": "CykloTourSpiš",
+      "latitude": 48.942949,
+      "longitude": 20.421993
+    },
+    {
+      "name": "Cyklošport",
+      "latitude": 49.397195,
+      "longitude": 18.830943
+    },
+    {
+      "name": "Datelinová",
+      "latitude": 48.152296,
+      "longitude": 17.160405
+    },
+    {
+      "name": "Daxnerova - Jednota",
+      "latitude": 49.216742,
+      "longitude": 18.734275
+    },
+    {
+      "name": "Detvianska",
+      "latitude": 48.210524,
+      "longitude": 17.156823
+    },
+    {
+      "name": "Diamantová 1",
+      "latitude": 48.713066,
+      "longitude": 21.22172
+    },
+    {
+      "name": "Diamantová 2",
+      "latitude": 48.712819,
+      "longitude": 21.222126
+    },
+    {
+      "name": "Dneperská",
+      "latitude": 48.686659,
+      "longitude": 21.284694
+    },
+    {
+      "name": "Dneperská",
+      "latitude": 48.686791,
+      "longitude": 21.288791
+    },
+    {
+      "name": "Dolnozemská",
+      "latitude": 48.116132,
+      "longitude": 17.132311
+    },
+    {
+      "name": "Dom umenia",
+      "latitude": 48.717267,
+      "longitude": 21.25337
+    },
+    {
+      "name": "Domček Ťahanovce",
+      "latitude": 48.752905,
+      "longitude": 21.274159
+    },
+    {
+      "name": "Double Tree Hilton",
+      "latitude": 48.718088,
+      "longitude": 21.260581
+    },
+    {
+      "name": "DPMK Bardejovská",
+      "latitude": 48.704602,
+      "longitude": 21.23667
+    },
+    {
+      "name": "DPMŽ Kvačalova",
+      "latitude": 49.222723,
+      "longitude": 18.719786
+    },
+    {
+      "name": "Dr. Vladimíra Clementisa",
+      "latitude": 48.161106,
+      "longitude": 17.165312
+    },
+    {
+      "name": "Dulovo námestie",
+      "latitude": 48.149979,
+      "longitude": 17.134021
+    },
+    {
+      "name": "Dunajská",
+      "latitude": 48.145505,
+      "longitude": 17.118412
+    },
+    {
+      "name": "Dvoranka",
+      "latitude": 49.13425,
+      "longitude": 19.39831
+    },
+    {
+      "name": "DXC Technology",
+      "latitude": 48.165478,
+      "longitude": 17.176957
+    },
+    {
+      "name": "E-bike Muráň",
+      "latitude": 48.74062,
+      "longitude": 20.047283
+    },
+    {
+      "name": "E-bike Rental",
+      "latitude": 48.806946,
+      "longitude": 19.642474
+    },
+    {
+      "name": "E-bike Silica",
+      "latitude": 48.552852,
+      "longitude": 20.518368
+    },
+    {
+      "name": "E-bike Strachan",
+      "latitude": 49.273117,
+      "longitude": 20.229005
+    },
+    {
+      "name": "E-biky pod Kráľovou hoľou",
+      "latitude": 48.84133,
+      "longitude": 20.129574
+    },
+    {
+      "name": "E-biky Telgárt",
+      "latitude": 48.850571,
+      "longitude": 20.203691
+    },
+    {
+      "name": "Ebiky Šumiac",
+      "latitude": 48.84072,
+      "longitude": 20.128957
+    },
+    {
+      "name": "Ekocentrum a Turistická informačná kancelária",
+      "latitude": 48.210273,
+      "longitude": 16.972716
+    },
+    {
+      "name": "Ekonomická univerzita",
+      "latitude": 48.126114,
+      "longitude": 17.131554
+    },
+    {
+      "name": "Elektro bicykle Čingov",
+      "latitude": 48.945087,
+      "longitude": 20.484928
+    },
+    {
+      "name": "ESMO Rosinská cesta",
+      "latitude": 49.198214,
+      "longitude": 18.768204
+    },
+    {
+      "name": "FRI",
+      "latitude": 49.201758,
+      "longitude": 18.760899
+    },
+    {
+      "name": "FTVŠ - Nábr. Arm. Gen. Ludvíka Svobodu",
+      "latitude": 48.144704,
+      "longitude": 17.078795
+    },
+    {
+      "name": "Furdekova / Šustekova",
+      "latitude": 48.126247,
+      "longitude": 17.123681
+    },
+    {
+      "name": "Fábryho",
+      "latitude": 48.742468,
+      "longitude": 21.280538
+    },
+    {
+      "name": "Fő utca",
+      "latitude": 47.799487,
+      "longitude": 18.714372
+    },
+    {
+      "name": "GBC3",
+      "latitude": 48.163979,
+      "longitude": 17.176704
+    },
+    {
+      "name": "GBC4",
+      "latitude": 48.163533,
+      "longitude": 17.178092
+    },
+    {
+      "name": "GEOTOP Južná Trieda",
+      "latitude": 48.682293,
+      "longitude": 21.26845
+    },
+    {
+      "name": "Gettingova / Mamateyova",
+      "latitude": 48.124113,
+      "longitude": 17.129414
+    },
+    {
+      "name": "Golianova",
+      "latitude": 48.6724,
+      "longitude": 21.303393
+    },
+    {
+      "name": "Gothal e-bike",
+      "latitude": 48.948319,
+      "longitude": 19.277794
+    },
+    {
+      "name": "Gymnázium sv. Edity Steinovej",
+      "latitude": 48.735376,
+      "longitude": 21.290401
+    },
+    {
+      "name": "Hlavná stanica",
+      "latitude": 48.15793,
+      "longitude": 17.105757
+    },
+    {
+      "name": "Hlavná x Pribinova",
+      "latitude": 48.717902,
+      "longitude": 21.259506
+    },
+    {
+      "name": "Hlinkova Mier",
+      "latitude": 48.739456,
+      "longitude": 21.253381
+    },
+    {
+      "name": "Hlinská",
+      "latitude": 49.209823,
+      "longitude": 18.734995
+    },
+    {
+      "name": "Hodžovo námestie",
+      "latitude": 48.14865,
+      "longitude": 17.108078
+    },
+    {
+      "name": "Holíčska / Šintavská",
+      "latitude": 48.10733,
+      "longitude": 17.103049
+    },
+    {
+      "name": "Horný Bankov",
+      "latitude": 48.744964,
+      "longitude": 21.210596
+    },
+    {
+      "name": "Hostinec Splav",
+      "latitude": 48.687317,
+      "longitude": 21.291831
+    },
+    {
+      "name": "Hotel Dália",
+      "latitude": 48.726645,
+      "longitude": 21.264185
+    },
+    {
+      "name": "Hotel Roca",
+      "latitude": 48.697697,
+      "longitude": 21.263578
+    },
+    {
+      "name": "House of Bike",
+      "latitude": 48.895839,
+      "longitude": 18.042925
+    },
+    {
+      "name": "Hronská",
+      "latitude": 48.135655,
+      "longitude": 17.209315
+    },
+    {
+      "name": "Hronská",
+      "latitude": 48.718666,
+      "longitude": 21.226376
+    },
+    {
+      "name": "Hurbanova",
+      "latitude": 49.225191,
+      "longitude": 18.738103
+    },
+    {
+      "name": "Hurbanovo námestie",
+      "latitude": 48.146129,
+      "longitude": 17.107478
+    },
+    {
+      "name": "Hviezdoslavova 2",
+      "latitude": 48.727143,
+      "longitude": 21.255176
+    },
+    {
+      "name": "Hállova",
+      "latitude": 48.122461,
+      "longitude": 17.106872
+    },
+    {
+      "name": "IKEA",
+      "latitude": 48.168194,
+      "longitude": 17.18231
+    },
+    {
+      "name": "Informačné centrum",
+      "latitude": 48.782667,
+      "longitude": 17.104278
+    },
+    {
+      "name": "Internát Bottova",
+      "latitude": 48.37241,
+      "longitude": 17.574791
+    },
+    {
+      "name": "Internát veteriny – križovatka",
+      "latitude": 48.743888,
+      "longitude": 21.246313
+    },
+    {
+      "name": "Internáty Hliny",
+      "latitude": 49.211937,
+      "longitude": 18.737795
+    },
+    {
+      "name": "Internáty Veľký diel",
+      "latitude": 49.209632,
+      "longitude": 18.759429
+    },
+    {
+      "name": "InterSport",
+      "latitude": 49.13957,
+      "longitude": 20.23337
+    },
+    {
+      "name": "Ipeľská",
+      "latitude": 48.721817,
+      "longitude": 21.234605
+    },
+    {
+      "name": "J. Bottu - ZŠ",
+      "latitude": 48.373978,
+      "longitude": 17.574206
+    },
+    {
+      "name": "Jakabov palác",
+      "latitude": 48.72182,
+      "longitude": 21.262878
+    },
+    {
+      "name": "Jantárová cesta",
+      "latitude": 48.126984,
+      "longitude": 17.115994
+    },
+    {
+      "name": "Jantárová – Ryba",
+      "latitude": 48.704816,
+      "longitude": 21.262365
+    },
+    {
+      "name": "Jazdiareň UVLF",
+      "latitude": 48.722755,
+      "longitude": 21.224136
+    },
+    {
+      "name": "Jericho Bike",
+      "latitude": 48.433304,
+      "longitude": 17.032046
+    },
+    {
+      "name": "Jiráskova - Linčianska",
+      "latitude": 48.357479,
+      "longitude": 17.577831
+    },
+    {
+      "name": "Južná trieda – most VSS",
+      "latitude": 48.687894,
+      "longitude": 21.266636
+    },
+    {
+      "name": "Jána Hlubíka",
+      "latitude": 48.39192,
+      "longitude": 17.594068
+    },
+    {
+      "name": "Jána Pavla II.",
+      "latitude": 48.71928,
+      "longitude": 21.210447
+    },
+    {
+      "name": "Kalinovská",
+      "latitude": 48.743713,
+      "longitude": 21.277112
+    },
+    {
+      "name": "Kamenné námestie",
+      "latitude": 48.144605,
+      "longitude": 17.11322
+    },
+    {
+      "name": "Kapucínska - Župné námestie",
+      "latitude": 48.145606,
+      "longitude": 17.105866
+    },
+    {
+      "name": "Kasárenské námestie",
+      "latitude": 48.725718,
+      "longitude": 21.257273
+    },
+    {
+      "name": "KD Kopánka",
+      "latitude": 48.393855,
+      "longitude": 17.59457
+    },
+    {
+      "name": "KD Modranka",
+      "latitude": 48.348402,
+      "longitude": 17.612597
+    },
+    {
+      "name": "Kemp",
+      "latitude": 48.687573,
+      "longitude": 21.256206
+    },
+    {
+      "name": "Kerimax",
+      "latitude": 48.704665,
+      "longitude": 21.259974
+    },
+    {
+      "name": "Klimkovičova",
+      "latitude": 48.712536,
+      "longitude": 21.208408
+    },
+    {
+      "name": "Klimkovičova",
+      "latitude": 48.716501,
+      "longitude": 21.206239
+    },
+    {
+      "name": "Kollárovo námestie",
+      "latitude": 48.149354,
+      "longitude": 17.113463
+    },
+    {
+      "name": "Korytnická Podunajské Biskupice",
+      "latitude": 48.131618,
+      "longitude": 17.208655
+    },
+    {
+      "name": "Kostra bike",
+      "latitude": 49.43597,
+      "longitude": 18.788026
+    },
+    {
+      "name": "Košická - Tesco",
+      "latitude": 49.219599,
+      "longitude": 18.757951
+    },
+    {
+      "name": "KPS Gratax",
+      "latitude": 48.694513,
+      "longitude": 21.265643
+    },
+    {
+      "name": "Križovatka Trnavská / Bajkalská",
+      "latitude": 48.161942,
+      "longitude": 17.141675
+    },
+    {
+      "name": "Kruhový objazd – Moldavská",
+      "latitude": 48.705309,
+      "longitude": 21.24389
+    },
+    {
+      "name": "Krupinská",
+      "latitude": 48.72845,
+      "longitude": 21.232053
+    },
+    {
+      "name": "Krásna - Ihrisko",
+      "latitude": 48.676961,
+      "longitude": 21.317022
+    },
+    {
+      "name": "Krásna - Kašieľ",
+      "latitude": 48.670572,
+      "longitude": 21.317945
+    },
+    {
+      "name": "Krásna otočka autobusov",
+      "latitude": 48.665465,
+      "longitude": 21.329432
+    },
+    {
+      "name": "Krásna Pod Orechom",
+      "latitude": 48.666799,
+      "longitude": 21.322297
+    },
+    {
+      "name": "Kukučínova - Obchodná akadémia",
+      "latitude": 48.388229,
+      "longitude": 17.591151
+    },
+    {
+      "name": "Kulturpark",
+      "latitude": 48.714419,
+      "longitude": 21.254516
+    },
+    {
+      "name": "Kunsthalle",
+      "latitude": 48.725333,
+      "longitude": 21.261201
+    },
+    {
+      "name": "Kuzmányho 3",
+      "latitude": 48.726227,
+      "longitude": 21.249639
+    },
+    {
+      "name": "Kuzmányho x Poštová",
+      "latitude": 48.721989,
+      "longitude": 21.248839
+    },
+    {
+      "name": "Kúpalisko Delfín",
+      "latitude": 48.149928,
+      "longitude": 17.142558
+    },
+    {
+      "name": "Lachova / Furdekova - zástavka MHD",
+      "latitude": 48.12431,
+      "longitude": 17.120113
+    },
+    {
+      "name": "Ladožská",
+      "latitude": 48.682898,
+      "longitude": 21.289861
+    },
+    {
+      "name": "Landererova/Dostojevského rad",
+      "latitude": 48.143252,
+      "longitude": 17.122424
+    },
+    {
+      "name": "Lanové centrum - Slávia",
+      "latitude": 48.384689,
+      "longitude": 17.589078
+    },
+    {
+      "name": "Legionárska / Krížna",
+      "latitude": 48.155644,
+      "longitude": 17.124474
+    },
+    {
+      "name": "Lesopark",
+      "latitude": 49.200425,
+      "longitude": 18.75604
+    },
+    {
+      "name": "Letisko Košice",
+      "latitude": 48.672676,
+      "longitude": 21.236772
+    },
+    {
+      "name": "Levočská",
+      "latitude": 48.690552,
+      "longitude": 21.280065
+    },
+    {
+      "name": "Lietavská",
+      "latitude": 48.100446,
+      "longitude": 17.105876
+    },
+    {
+      "name": "Lingov",
+      "latitude": 48.732187,
+      "longitude": 21.291952
+    },
+    {
+      "name": "Linčianska - VetClinic",
+      "latitude": 48.358085,
+      "longitude": 17.583566
+    },
+    {
+      "name": "M+M servis",
+      "latitude": 48.964563,
+      "longitude": 20.385464
+    },
+    {
+      "name": "Magistrát mesta Košice",
+      "latitude": 48.713526,
+      "longitude": 21.236775
+    },
+    {
+      "name": "Masarykova x Tyršovo nábrežie",
+      "latitude": 48.727997,
+      "longitude": 21.257698
+    },
+    {
+      "name": "MAX",
+      "latitude": 48.36996,
+      "longitude": 17.579129
+    },
+    {
+      "name": "Mestské kúpalisko",
+      "latitude": 48.624084,
+      "longitude": 21.722773
+    },
+    {
+      "name": "Mestský bicykel",
+      "latitude": 48.89593,
+      "longitude": 18.04163
+    },
+    {
+      "name": "Mestský bicykel",
+      "latitude": 48.896192,
+      "longitude": 18.052641
+    },
+    {
+      "name": "Mestský priemyselný park",
+      "latitude": 48.359812,
+      "longitude": 17.593948
+    },
+    {
+      "name": "Mestský úrad",
+      "latitude": 49.221242,
+      "longitude": 18.742068
+    },
+    {
+      "name": "Metropol",
+      "latitude": 48.715984,
+      "longitude": 21.254381
+    },
+    {
+      "name": "Mierová - miestny úrad Ružinov",
+      "latitude": 48.149253,
+      "longitude": 17.164004
+    },
+    {
+      "name": "Miestny úrad KVP",
+      "latitude": 48.717083,
+      "longitude": 21.214583
+    },
+    {
+      "name": "Miletičova / Trenčianska",
+      "latitude": 48.151067,
+      "longitude": 17.139014
+    },
+    {
+      "name": "Miletičova / Záhradnícka",
+      "latitude": 48.154436,
+      "longitude": 17.134533
+    },
+    {
+      "name": "Miškovecká",
+      "latitude": 48.702408,
+      "longitude": 21.253933
+    },
+    {
+      "name": "Mlynská Bašta",
+      "latitude": 48.728432,
+      "longitude": 21.256795
+    },
+    {
+      "name": "Mlynské nivy - východ",
+      "latitude": 48.144508,
+      "longitude": 17.142415
+    },
+    {
+      "name": "Modrý most",
+      "latitude": 48.144247,
+      "longitude": 17.199593
+    },
+    {
+      "name": "Moldavská cesta – servis Citroën",
+      "latitude": 48.697167,
+      "longitude": 21.236482
+    },
+    {
+      "name": "Molecova",
+      "latitude": 48.150122,
+      "longitude": 17.063425
+    },
+    {
+      "name": "Moskovská",
+      "latitude": 48.711563,
+      "longitude": 21.213688
+    },
+    {
+      "name": "Moskovská trieda",
+      "latitude": 48.711469,
+      "longitude": 21.212872
+    },
+    {
+      "name": "Most SNP",
+      "latitude": 48.139994,
+      "longitude": 17.104443
+    },
+    {
+      "name": "Motor Car Košice",
+      "latitude": 48.74409,
+      "longitude": 21.268984
+    },
+    {
+      "name": "Moyezsova x Poštová",
+      "latitude": 48.722328,
+      "longitude": 21.252117
+    },
+    {
+      "name": "MsÚ",
+      "latitude": 48.619344,
+      "longitude": 21.719581
+    },
+    {
+      "name": "MTM elektrobicykle",
+      "latitude": 48.840333,
+      "longitude": 20.128613
+    },
+    {
+      "name": "Muškátova",
+      "latitude": 48.712205,
+      "longitude": 21.238795
+    },
+    {
+      "name": "MVbike Poliklinika",
+      "latitude": 47.789676,
+      "longitude": 18.717229
+    },
+    {
+      "name": "Mýtna - Slovenský rozhlas",
+      "latitude": 48.153206,
+      "longitude": 17.114127
+    },
+    {
+      "name": "MČ Milhostov",
+      "latitude": 48.66552,
+      "longitude": 21.720397
+    },
+    {
+      "name": "MČ Paričov",
+      "latitude": 48.615818,
+      "longitude": 21.732855
+    },
+    {
+      "name": "Na poci pri kríži",
+      "latitude": 48.612287,
+      "longitude": 20.990953
+    },
+    {
+      "name": "Nad Jazerom - Miestny úrad",
+      "latitude": 48.682664,
+      "longitude": 21.2966
+    },
+    {
+      "name": "NBS",
+      "latitude": 49.214143,
+      "longitude": 18.741344
+    },
+    {
+      "name": "Nobelovo námestie",
+      "latitude": 48.129716,
+      "longitude": 17.099655
+    },
+    {
+      "name": "Nákupné centrum Trstínska",
+      "latitude": 48.386016,
+      "longitude": 17.572755
+    },
+    {
+      "name": "Nám. Š.B. Romana",
+      "latitude": 48.62875,
+      "longitude": 21.720024
+    },
+    {
+      "name": "Námestie A. Hlinku",
+      "latitude": 49.224691,
+      "longitude": 18.74232
+    },
+    {
+      "name": "Námestie Mieru 1",
+      "latitude": 48.61776,
+      "longitude": 20.99767
+    },
+    {
+      "name": "Námestie mladosti",
+      "latitude": 49.212697,
+      "longitude": 18.710669
+    },
+    {
+      "name": "Námestie osloboditeľov",
+      "latitude": 48.716334,
+      "longitude": 21.261364
+    },
+    {
+      "name": "Námestie slobody",
+      "latitude": 48.151478,
+      "longitude": 17.111766
+    },
+    {
+      "name": "Námestie SNP",
+      "latitude": 48.145571,
+      "longitude": 17.110468
+    },
+    {
+      "name": "Národná banka",
+      "latitude": 48.731681,
+      "longitude": 21.25318
+    },
+    {
+      "name": "Obchodná akadémia",
+      "latitude": 48.730308,
+      "longitude": 21.239553
+    },
+    {
+      "name": "OC Astória",
+      "latitude": 48.711006,
+      "longitude": 21.260191
+    },
+    {
+      "name": "OC Bodva",
+      "latitude": 48.741077,
+      "longitude": 21.285191
+    },
+    {
+      "name": "OC Dubeň",
+      "latitude": 49.212344,
+      "longitude": 18.752384
+    },
+    {
+      "name": "OC Fresh",
+      "latitude": 48.739791,
+      "longitude": 21.278341
+    },
+    {
+      "name": "OC FRESH - Bukovecká",
+      "latitude": 48.696344,
+      "longitude": 21.281497
+    },
+    {
+      "name": "OC Fresh - Šaca",
+      "latitude": 48.629119,
+      "longitude": 21.173277
+    },
+    {
+      "name": "OC Galéria",
+      "latitude": 48.714615,
+      "longitude": 21.237424
+    },
+    {
+      "name": "OC Grunt",
+      "latitude": 48.715537,
+      "longitude": 21.21242
+    },
+    {
+      "name": "OC Hnilec",
+      "latitude": 48.737766,
+      "longitude": 21.287772
+    },
+    {
+      "name": "OC Hornád",
+      "latitude": 48.733004,
+      "longitude": 21.289319
+    },
+    {
+      "name": "OC Idea",
+      "latitude": 49.203375,
+      "longitude": 18.727254
+    },
+    {
+      "name": "OC Kaufland",
+      "latitude": 48.628819,
+      "longitude": 21.715791
+    },
+    {
+      "name": "OC Klas - Lingov",
+      "latitude": 48.731833,
+      "longitude": 21.293025
+    },
+    {
+      "name": "OC Laborec",
+      "latitude": 48.728819,
+      "longitude": 21.28889
+    },
+    {
+      "name": "OC Max",
+      "latitude": 49.196545,
+      "longitude": 18.744438
+    },
+    {
+      "name": "OC Merkúr",
+      "latitude": 48.730729,
+      "longitude": 21.2436
+    },
+    {
+      "name": "OC Mier",
+      "latitude": 48.73916,
+      "longitude": 21.251739
+    },
+    {
+      "name": "OC Optima",
+      "latitude": 48.695916,
+      "longitude": 21.236051
+    },
+    {
+      "name": "OC Tip-Top",
+      "latitude": 48.725918,
+      "longitude": 21.24582
+    },
+    {
+      "name": "Okružné námestie",
+      "latitude": 48.378939,
+      "longitude": 17.571836
+    },
+    {
+      "name": "Olympijská / Veterná",
+      "latitude": 48.390059,
+      "longitude": 17.603367
+    },
+    {
+      "name": "Opátska 13",
+      "latitude": 48.672423,
+      "longitude": 21.31208
+    },
+    {
+      "name": "Opátska 18",
+      "latitude": 48.672461,
+      "longitude": 21.313663
+    },
+    {
+      "name": "Oravská",
+      "latitude": 49.203703,
+      "longitude": 18.743579
+    },
+    {
+      "name": "Ostrovského 1",
+      "latitude": 48.70319,
+      "longitude": 21.24879
+    },
+    {
+      "name": "Osuského / Hrobákova",
+      "latitude": 48.118896,
+      "longitude": 17.115357
+    },
+    {
+      "name": "Ovsište / námestie",
+      "latitude": 48.119976,
+      "longitude": 17.130698
+    },
+    {
+      "name": "Palackého 1",
+      "latitude": 48.718485,
+      "longitude": 21.268985
+    },
+    {
+      "name": "Palackého 2",
+      "latitude": 48.718661,
+      "longitude": 21.268407
+    },
+    {
+      "name": "Palackého x Jantárová",
+      "latitude": 48.718247,
+      "longitude": 21.265689
+    },
+    {
+      "name": "Park pri Kamenáči",
+      "latitude": 48.367208,
+      "longitude": 17.550435
+    },
+    {
+      "name": "Pekná cesta",
+      "latitude": 48.19536,
+      "longitude": 17.143339
+    },
+    {
+      "name": "Pereš - Miestny úrad",
+      "latitude": 48.688544,
+      "longitude": 21.211546
+    },
+    {
+      "name": "Petőfi utca",
+      "latitude": 47.792779,
+      "longitude": 18.71955
+    },
+    {
+      "name": "Planckova",
+      "latitude": 48.129807,
+      "longitude": 17.096698
+    },
+    {
+      "name": "Plaváreň",
+      "latitude": 49.213554,
+      "longitude": 18.7484
+    },
+    {
+      "name": "Plaváreň Zátvor",
+      "latitude": 48.390742,
+      "longitude": 17.598296
+    },
+    {
+      "name": "Pneuservis Myslava",
+      "latitude": 48.709963,
+      "longitude": 21.204359
+    },
+    {
+      "name": "Podhradová",
+      "latitude": 48.746957,
+      "longitude": 21.241955
+    },
+    {
+      "name": "Podhradová",
+      "latitude": 48.750041,
+      "longitude": 21.243672
+    },
+    {
+      "name": "Podhradová Klas",
+      "latitude": 48.747678,
+      "longitude": 21.246388
+    },
+    {
+      "name": "Poliklinika KVP",
+      "latitude": 48.713699,
+      "longitude": 21.215218
+    },
+    {
+      "name": "Poliklinika Sever",
+      "latitude": 48.732859,
+      "longitude": 21.251455
+    },
+    {
+      "name": "Poliklinika Východ Furča",
+      "latitude": 48.738339,
+      "longitude": 21.282318
+    },
+    {
+      "name": "Polárna 1",
+      "latitude": 48.683066,
+      "longitude": 21.294983
+    },
+    {
+      "name": "Popradská x Toryská",
+      "latitude": 48.713533,
+      "longitude": 21.226899
+    },
+    {
+      "name": "Popradská x Trieda KVP",
+      "latitude": 48.721533,
+      "longitude": 21.225881
+    },
+    {
+      "name": "Postupimská",
+      "latitude": 48.73236,
+      "longitude": 21.289206
+    },
+    {
+      "name": "Potraviny Dedinská",
+      "latitude": 48.34608,
+      "longitude": 17.612657
+    },
+    {
+      "name": "Považský Chlmec KD",
+      "latitude": 49.239226,
+      "longitude": 18.72545
+    },
+    {
+      "name": "Pošta 22",
+      "latitude": 48.736031,
+      "longitude": 21.28442
+    },
+    {
+      "name": "Požičaj ebike",
+      "latitude": 48.383045,
+      "longitude": 20.029831
+    },
+    {
+      "name": "Požičovňa bicyklov",
+      "latitude": 48.727638,
+      "longitude": 17.030734
+    },
+    {
+      "name": "Požičovňa bicyklov Stano Macík",
+      "latitude": 49.062151,
+      "longitude": 19.585354
+    },
+    {
+      "name": "Požičovňa E-bike Zlatno",
+      "latitude": 48.465837,
+      "longitude": 18.3119
+    },
+    {
+      "name": "Požičovňa ebajkov - poloniny.bike",
+      "latitude": 48.974513,
+      "longitude": 22.188127
+    },
+    {
+      "name": "Požičovňa športových potrieb a informačná kancelária",
+      "latitude": 48.858864,
+      "longitude": 20.372156
+    },
+    {
+      "name": "Predmestská",
+      "latitude": 49.220128,
+      "longitude": 18.749344
+    },
+    {
+      "name": "Pri kostole",
+      "latitude": 48.682775,
+      "longitude": 21.290733
+    },
+    {
+      "name": "Pri Pemine / Dedinská",
+      "latitude": 48.349935,
+      "longitude": 17.607203
+    },
+    {
+      "name": "Pri potoku / Modranka",
+      "latitude": 48.35381,
+      "longitude": 17.599027
+    },
+    {
+      "name": "Pri splave",
+      "latitude": 48.687809,
+      "longitude": 21.291978
+    },
+    {
+      "name": "Pribinova",
+      "latitude": 48.141202,
+      "longitude": 17.118795
+    },
+    {
+      "name": "Prievozská / Bajkalská",
+      "latitude": 48.148705,
+      "longitude": 17.147446
+    },
+    {
+      "name": "Prievozská / Miletičova",
+      "latitude": 48.147548,
+      "longitude": 17.141545
+    },
+    {
+      "name": "Promenáda PKO",
+      "latitude": 48.142181,
+      "longitude": 17.08465
+    },
+    {
+      "name": "Promenáda Riverpark",
+      "latitude": 48.140551,
+      "longitude": 17.092989
+    },
+    {
+      "name": "Prístavná Nivy",
+      "latitude": 48.142294,
+      "longitude": 17.134383
+    },
+    {
+      "name": "Prístavný most",
+      "latitude": 48.140919,
+      "longitude": 17.148342
+    },
+    {
+      "name": "Radnica Starého mesta",
+      "latitude": 48.726193,
+      "longitude": 21.250262
+    },
+    {
+      "name": "Rastislavova",
+      "latitude": 48.706517,
+      "longitude": 21.25809
+    },
+    {
+      "name": "Račianske Mýto",
+      "latitude": 48.157985,
+      "longitude": 17.11934
+    },
+    {
+      "name": "Račkov park Komenského",
+      "latitude": 48.731218,
+      "longitude": 21.249711
+    },
+    {
+      "name": "Recykel",
+      "latitude": 49.227482,
+      "longitude": 18.738125
+    },
+    {
+      "name": "Reinoo",
+      "latitude": 49.213687,
+      "longitude": 18.756883
+    },
+    {
+      "name": "RENTeBIKE.sk",
+      "latitude": 48.062043,
+      "longitude": 17.250418
+    },
+    {
+      "name": "Repro Centrum",
+      "latitude": 48.740933,
+      "longitude": 21.255584
+    },
+    {
+      "name": "Rideon",
+      "latitude": 48.839221,
+      "longitude": 20.129067
+    },
+    {
+      "name": "ROLAND",
+      "latitude": 48.143165,
+      "longitude": 17.108193
+    },
+    {
+      "name": "Romanova / Kutlíkova",
+      "latitude": 48.110949,
+      "longitude": 17.112335
+    },
+    {
+      "name": "Romanova ulica",
+      "latitude": 48.117478,
+      "longitude": 17.110007
+    },
+    {
+      "name": "Rudiny II",
+      "latitude": 49.203116,
+      "longitude": 18.737863
+    },
+    {
+      "name": "Rumanova 2",
+      "latitude": 48.725118,
+      "longitude": 21.260556
+    },
+    {
+      "name": "Rustaveliho",
+      "latitude": 48.214076,
+      "longitude": 17.157407
+    },
+    {
+      "name": "Rušňové depo",
+      "latitude": 48.713437,
+      "longitude": 21.265915
+    },
+    {
+      "name": "Ružinovská - Štrkovec",
+      "latitude": 48.156743,
+      "longitude": 17.149841
+    },
+    {
+      "name": "Ružinovská koniec - zast. Astronomická",
+      "latitude": 48.15872,
+      "longitude": 17.176553
+    },
+    {
+      "name": "Ružinovská/Herlianska",
+      "latitude": 48.157362,
+      "longitude": 17.156318
+    },
+    {
+      "name": "Ružová",
+      "latitude": 48.712841,
+      "longitude": 21.243071
+    },
+    {
+      "name": "Rybníková - Mestská športová hala",
+      "latitude": 48.38228,
+      "longitude": 17.586444
+    },
+    {
+      "name": "Rímskokatolícky kostol",
+      "latitude": 48.622062,
+      "longitude": 21.720481
+    },
+    {
+      "name": "Sabinovská / Drieňová",
+      "latitude": 48.160103,
+      "longitude": 17.149291
+    },
+    {
+      "name": "Sad Janka Kráľa",
+      "latitude": 48.133572,
+      "longitude": 17.108641
+    },
+    {
+      "name": "Saleziánska - Veterná",
+      "latitude": 48.387857,
+      "longitude": 17.598548
+    },
+    {
+      "name": "Seberíniho",
+      "latitude": 48.153737,
+      "longitude": 17.17134
+    },
+    {
+      "name": "Sereďská / Hraničná - Modranka",
+      "latitude": 48.354878,
+      "longitude": 17.607842
+    },
+    {
+      "name": "Sereďská na konci",
+      "latitude": 48.338498,
+      "longitude": 17.625898
+    },
+    {
+      "name": "Severovýchodná veža - Parkovisko",
+      "latitude": 48.382332,
+      "longitude": 17.590916
+    },
+    {
+      "name": "Skladová - Fakulta masmediálnej komunikácie UCM",
+      "latitude": 48.389988,
+      "longitude": 17.571936
+    },
+    {
+      "name": "Slnečná / Ustianska",
+      "latitude": 48.394078,
+      "longitude": 17.591108
+    },
+    {
+      "name": "Slovenská",
+      "latitude": 48.737892,
+      "longitude": 21.259898
+    },
+    {
+      "name": "Slovnaft hlavný vchod",
+      "latitude": 48.128456,
+      "longitude": 17.176432
+    },
+    {
+      "name": "SOŠ Elektrotechnická",
+      "latitude": 48.391935,
+      "longitude": 17.605079
+    },
+    {
+      "name": "SOŠ technická",
+      "latitude": 48.713763,
+      "longitude": 21.251092
+    },
+    {
+      "name": "Spanyolova - nemocnica",
+      "latitude": 49.217291,
+      "longitude": 18.745066
+    },
+    {
+      "name": "Speleocamping Malužiná",
+      "latitude": 48.981639,
+      "longitude": 19.76782
+    },
+    {
+      "name": "Spišské námestie",
+      "latitude": 48.689195,
+      "longitude": 21.28399
+    },
+    {
+      "name": "Stanica Žilina - Záriečie",
+      "latitude": 49.218837,
+      "longitude": 18.730756
+    },
+    {
+      "name": "Staničná - železničná/autobusová stanica",
+      "latitude": 48.370422,
+      "longitude": 17.583358
+    },
+    {
+      "name": "Staničné námestie 2",
+      "latitude": 48.722176,
+      "longitude": 21.267778
+    },
+    {
+      "name": "Starohájska / Dudova",
+      "latitude": 48.116735,
+      "longitude": 17.120866
+    },
+    {
+      "name": "Starohájska / Osuského",
+      "latitude": 48.119878,
+      "longitude": 17.118093
+    },
+    {
+      "name": "Starozágorská",
+      "latitude": 48.719892,
+      "longitude": 21.215403
+    },
+    {
+      "name": "Stavbárska",
+      "latitude": 48.139502,
+      "longitude": 17.202167
+    },
+    {
+      "name": "Stierova",
+      "latitude": 48.708768,
+      "longitude": 21.214882
+    },
+    {
+      "name": "Strojárenská autobusová zastávka",
+      "latitude": 48.354261,
+      "longitude": 17.574179
+    },
+    {
+      "name": "Sv. Cyrila a Metoda",
+      "latitude": 49.214441,
+      "longitude": 18.76255
+    },
+    {
+      "name": "Svet elektrobicyklov - ebajk",
+      "latitude": 48.172025,
+      "longitude": 17.126756
+    },
+    {
+      "name": "Sídlisko Juh",
+      "latitude": 48.614961,
+      "longitude": 21.717878
+    },
+    {
+      "name": "Sídlisko Sever",
+      "latitude": 48.632635,
+      "longitude": 21.720914
+    },
+    {
+      "name": "Súmračná - Astronomická / Tomášikova",
+      "latitude": 48.15816,
+      "longitude": 17.168265
+    },
+    {
+      "name": "T. Vansovej - Merkur",
+      "latitude": 48.382437,
+      "longitude": 17.578245
+    },
+    {
+      "name": "Tajovského - Cassalle",
+      "latitude": 48.369951,
+      "longitude": 17.568759
+    },
+    {
+      "name": "Tatranská, Trieda SNP",
+      "latitude": 48.727164,
+      "longitude": 21.241551
+    },
+    {
+      "name": "Technická univerzita B. Nemcovej",
+      "latitude": 48.729998,
+      "longitude": 21.24517
+    },
+    {
+      "name": "Technická univerzita Letná",
+      "latitude": 48.729789,
+      "longitude": 21.244636
+    },
+    {
+      "name": "TEHO 1053 Idanská",
+      "latitude": 48.712258,
+      "longitude": 21.244772
+    },
+    {
+      "name": "TEHO 1105 Branisková",
+      "latitude": 48.726017,
+      "longitude": 21.243437
+    },
+    {
+      "name": "TEHO 1122 Čapajevova",
+      "latitude": 48.721004,
+      "longitude": 21.231024
+    },
+    {
+      "name": "TEHO 1129 Inžinierska",
+      "latitude": 48.716657,
+      "longitude": 21.239426
+    },
+    {
+      "name": "TEHO 1222 Karpatská",
+      "latitude": 48.721495,
+      "longitude": 21.245336
+    },
+    {
+      "name": "TEHO 1709",
+      "latitude": 48.731504,
+      "longitude": 21.257127
+    },
+    {
+      "name": "TEHO 2112",
+      "latitude": 48.74225,
+      "longitude": 21.274923
+    },
+    {
+      "name": "TEHO 2121",
+      "latitude": 48.740989,
+      "longitude": 21.279622
+    },
+    {
+      "name": "TEHO 2142",
+      "latitude": 48.732009,
+      "longitude": 21.283305
+    },
+    {
+      "name": "TEHO 2152",
+      "latitude": 48.728368,
+      "longitude": 21.289342
+    },
+    {
+      "name": "TEHO 2173",
+      "latitude": 48.741829,
+      "longitude": 21.282489
+    },
+    {
+      "name": "TEHO 2212",
+      "latitude": 48.754528,
+      "longitude": 21.270699
+    },
+    {
+      "name": "TEHO 2215",
+      "latitude": 48.755293,
+      "longitude": 21.269645
+    },
+    {
+      "name": "TEHO 2216",
+      "latitude": 48.755544,
+      "longitude": 21.271048
+    },
+    {
+      "name": "TEHO 2223",
+      "latitude": 48.75815,
+      "longitude": 21.271372
+    },
+    {
+      "name": "TEHO 2224",
+      "latitude": 48.758856,
+      "longitude": 21.272428
+    },
+    {
+      "name": "TEHO 2231",
+      "latitude": 48.758033,
+      "longitude": 21.265524
+    },
+    {
+      "name": "TEHO 2612 Dénešova",
+      "latitude": 48.709266,
+      "longitude": 21.216638
+    },
+    {
+      "name": "TEHO 2614 Dénešova",
+      "latitude": 48.710582,
+      "longitude": 21.212209
+    },
+    {
+      "name": "TEHO 2621",
+      "latitude": 48.71315,
+      "longitude": 21.213131
+    },
+    {
+      "name": "TEHO 2623",
+      "latitude": 48.714493,
+      "longitude": 21.208517
+    },
+    {
+      "name": "TEHO 2631",
+      "latitude": 48.716447,
+      "longitude": 21.212435
+    },
+    {
+      "name": "TEHO 2632 Húskova",
+      "latitude": 48.718997,
+      "longitude": 21.209942
+    },
+    {
+      "name": "TEHO 2633",
+      "latitude": 48.716638,
+      "longitude": 21.210084
+    },
+    {
+      "name": "TEHO 2641",
+      "latitude": 48.713703,
+      "longitude": 21.216724
+    },
+    {
+      "name": "TEHO 2773 Humenská",
+      "latitude": 48.708039,
+      "longitude": 21.23522
+    },
+    {
+      "name": "TEHO 2779 Rožňavská",
+      "latitude": 48.707149,
+      "longitude": 21.231687
+    },
+    {
+      "name": "TEHO 2781 Petzvalova",
+      "latitude": 48.700344,
+      "longitude": 21.233005
+    },
+    {
+      "name": "TEHO 2783 Petzvalova",
+      "latitude": 48.698268,
+      "longitude": 21.230902
+    },
+    {
+      "name": "TEHO 527 Lomonosova",
+      "latitude": 48.704722,
+      "longitude": 21.250658
+    },
+    {
+      "name": "TEHO 541 Šafárikova",
+      "latitude": 48.710487,
+      "longitude": 21.234534
+    },
+    {
+      "name": "TEHO 542 Kežmarská",
+      "latitude": 48.709424,
+      "longitude": 21.231946
+    },
+    {
+      "name": "TEHO 544 Markušova",
+      "latitude": 48.711707,
+      "longitude": 21.230434
+    },
+    {
+      "name": "TEHO 555 Matuškova",
+      "latitude": 48.711008,
+      "longitude": 21.240739
+    },
+    {
+      "name": "TEHO 561 Narcisová",
+      "latitude": 48.70914,
+      "longitude": 21.240473
+    },
+    {
+      "name": "TEHO 564 Trieda SNP",
+      "latitude": 48.706268,
+      "longitude": 21.242201
+    },
+    {
+      "name": "TEHO 565 Tri Hôrky",
+      "latitude": 48.708612,
+      "longitude": 21.242949
+    },
+    {
+      "name": "TEHO 802 Južná trieda",
+      "latitude": 48.709587,
+      "longitude": 21.260167
+    },
+    {
+      "name": "TEHO 910",
+      "latitude": 48.714814,
+      "longitude": 21.258975
+    },
+    {
+      "name": "Teplička",
+      "latitude": 48.964925,
+      "longitude": 20.0837
+    },
+    {
+      "name": "Teraszok II",
+      "latitude": 47.793977,
+      "longitude": 18.710479
+    },
+    {
+      "name": "Titusa Zemana Kopánka",
+      "latitude": 48.39795,
+      "longitude": 17.585415
+    },
+    {
+      "name": "Tomášikova",
+      "latitude": 48.164389,
+      "longitude": 17.151817
+    },
+    {
+      "name": "Tomášikova / Trnavská",
+      "latitude": 48.165147,
+      "longitude": 17.149407
+    },
+    {
+      "name": "Topoľová / Modranka",
+      "latitude": 48.342885,
+      "longitude": 17.616982
+    },
+    {
+      "name": "Toryská",
+      "latitude": 48.136426,
+      "longitude": 17.205455
+    },
+    {
+      "name": "Toryská",
+      "latitude": 48.713149,
+      "longitude": 21.235366
+    },
+    {
+      "name": "TRAX",
+      "latitude": 48.332123,
+      "longitude": 17.308051
+    },
+    {
+      "name": "Trenčianska / Priemyselná",
+      "latitude": 48.153416,
+      "longitude": 17.143957
+    },
+    {
+      "name": "Tribo šport",
+      "latitude": 48.382658,
+      "longitude": 18.393514
+    },
+    {
+      "name": "Trieda KVP",
+      "latitude": 48.716378,
+      "longitude": 21.214921
+    },
+    {
+      "name": "Trieda KVP, Zdravotné stredisko",
+      "latitude": 48.713956,
+      "longitude": 21.215772
+    },
+    {
+      "name": "Trnavská cesta / Max. Hella",
+      "latitude": 48.164839,
+      "longitude": 17.162352
+    },
+    {
+      "name": "Trnavské mýto",
+      "latitude": 48.15777,
+      "longitude": 17.126959
+    },
+    {
+      "name": "Trojičné námesite",
+      "latitude": 48.125579,
+      "longitude": 17.210024
+    },
+    {
+      "name": "TUKE, Aula Maxima",
+      "latitude": 48.730773,
+      "longitude": 21.246682
+    },
+    {
+      "name": "TUKE, Deliusov pavilón",
+      "latitude": 48.729863,
+      "longitude": 21.251843
+    },
+    {
+      "name": "TUKE, Hlavná budova",
+      "latitude": 48.730438,
+      "longitude": 21.245665
+    },
+    {
+      "name": "TUKE, internáty",
+      "latitude": 48.698236,
+      "longitude": 21.233611
+    },
+    {
+      "name": "TUKE, jedáleň",
+      "latitude": 48.731399,
+      "longitude": 21.244021
+    },
+    {
+      "name": "TUKE, Komenského park",
+      "latitude": 48.728282,
+      "longitude": 21.252775
+    },
+    {
+      "name": "TUKE, Letecká fakulta",
+      "latitude": 48.735447,
+      "longitude": 21.27195
+    },
+    {
+      "name": "TUKE, Univerzitná knižnica",
+      "latitude": 48.731511,
+      "longitude": 21.244684
+    },
+    {
+      "name": "Tulipán - Sedliacky dvor",
+      "latitude": 48.641467,
+      "longitude": 20.659224
+    },
+    {
+      "name": "Tulská - Pačino",
+      "latitude": 49.211313,
+      "longitude": 18.765535
+    },
+    {
+      "name": "TuriecBike",
+      "latitude": 49.127086,
+      "longitude": 19.091781
+    },
+    {
+      "name": "UCM",
+      "latitude": 48.383443,
+      "longitude": 17.589072
+    },
+    {
+      "name": "Ul. 17. novembra",
+      "latitude": 48.626115,
+      "longitude": 21.712613
+    },
+    {
+      "name": "Ul. Alvinczyho",
+      "latitude": 48.728669,
+      "longitude": 21.26041
+    },
+    {
+      "name": "Ul. Hlavná",
+      "latitude": 48.613157,
+      "longitude": 21.000791
+    },
+    {
+      "name": "Ul. M.R. Štefánika",
+      "latitude": 48.630221,
+      "longitude": 21.718988
+    },
+    {
+      "name": "Ul. svätého Ladislava",
+      "latitude": 48.734497,
+      "longitude": 21.296562
+    },
+    {
+      "name": "Ul. Vodná",
+      "latitude": 48.612017,
+      "longitude": 20.998836
+    },
+    {
+      "name": "UNIZA",
+      "latitude": 49.204772,
+      "longitude": 18.755651
+    },
+    {
+      "name": "UPJŠ Lekárska fakulta",
+      "latitude": 48.723157,
+      "longitude": 21.236777
+    },
+    {
+      "name": "Ural",
+      "latitude": 48.684264,
+      "longitude": 21.289682
+    },
+    {
+      "name": "Urbánkova",
+      "latitude": 48.740297,
+      "longitude": 21.240533
+    },
+    {
+      "name": "Ursínyho",
+      "latitude": 48.162269,
+      "longitude": 17.124894
+    },
+    {
+      "name": "UVLF",
+      "latitude": 48.738522,
+      "longitude": 21.245619
+    },
+    {
+      "name": "UVLF areál",
+      "latitude": 48.73813,
+      "longitude": 21.246932
+    },
+    {
+      "name": "Vajnorská / Jarošova",
+      "latitude": 48.165727,
+      "longitude": 17.135818
+    },
+    {
+      "name": "Vajnorská / Tehelná",
+      "latitude": 48.162329,
+      "longitude": 17.131906
+    },
+    {
+      "name": "Važec",
+      "latitude": 48.676487,
+      "longitude": 21.299457
+    },
+    {
+      "name": "VeloCity",
+      "latitude": 48.171624,
+      "longitude": 17.07436
+    },
+    {
+      "name": "Veľká Okružná",
+      "latitude": 49.220763,
+      "longitude": 18.735461
+    },
+    {
+      "name": "Viedenská - pod mostom SNP",
+      "latitude": 48.13691,
+      "longitude": 17.105044
+    },
+    {
+      "name": "Viktoríniho nám.",
+      "latitude": 48.393386,
+      "longitude": 17.599353
+    },
+    {
+      "name": "Villa Košice",
+      "latitude": 48.752346,
+      "longitude": 21.239387
+    },
+    {
+      "name": "VIVO! Junácka",
+      "latitude": 48.16757,
+      "longitude": 17.140823
+    },
+    {
+      "name": "Vodné dielo",
+      "latitude": 49.214493,
+      "longitude": 18.77566
+    },
+    {
+      "name": "Vodárenská",
+      "latitude": 48.741078,
+      "longitude": 21.24904
+    },
+    {
+      "name": "Városháza, Párkány",
+      "latitude": 47.797869,
+      "longitude": 18.725122
+    },
+    {
+      "name": "WhiteBikes",
+      "latitude": 48.135832,
+      "longitude": 17.115878
+    },
+    {
+      "name": "WhiteBikes - ALZBETKA",
+      "latitude": 48.149441,
+      "longitude": 17.113969
+    },
+    {
+      "name": "WhiteBikes - ATRIAKY",
+      "latitude": 48.159612,
+      "longitude": 17.067971
+    },
+    {
+      "name": "WhiteBikes - AUPARK",
+      "latitude": 48.132035,
+      "longitude": 17.109514
+    },
+    {
+      "name": "WhiteBikes - AUPARKTOWER",
+      "latitude": 48.134025,
+      "longitude": 17.105366
+    },
+    {
+      "name": "WhiteBikes - BERNARD",
+      "latitude": 48.147523,
+      "longitude": 17.106304
+    },
+    {
+      "name": "WhiteBikes - BINARIUM",
+      "latitude": 48.155609,
+      "longitude": 17.072853
+    },
+    {
+      "name": "WhiteBikes - BOHROVA",
+      "latitude": 48.13036,
+      "longitude": 17.098784
+    },
+    {
+      "name": "WhiteBikes - CENTRAL",
+      "latitude": 48.15772,
+      "longitude": 17.13079
+    },
+    {
+      "name": "WhiteBikes - CULTUS",
+      "latitude": 48.156826,
+      "longitude": 17.164324
+    },
+    {
+      "name": "WhiteBikes - DANUBIA",
+      "latitude": 48.107052,
+      "longitude": 17.094549
+    },
+    {
+      "name": "WhiteBikes - DREAM",
+      "latitude": 48.145614,
+      "longitude": 17.103405
+    },
+    {
+      "name": "WhiteBikes - DULOVO",
+      "latitude": 48.149722,
+      "longitude": 17.134212
+    },
+    {
+      "name": "WhiteBikes - FIGARO",
+      "latitude": 48.173091,
+      "longitude": 17.127379
+    },
+    {
+      "name": "WhiteBikes - FURDEKOVA",
+      "latitude": 48.126132,
+      "longitude": 17.12246
+    },
+    {
+      "name": "WhiteBikes - GARDA",
+      "latitude": 48.17736,
+      "longitude": 17.126827
+    },
+    {
+      "name": "WhiteBikes - GAVLOVICOVA",
+      "latitude": 48.175303,
+      "longitude": 17.136434
+    },
+    {
+      "name": "WhiteBikes - HERLIANSKA",
+      "latitude": 48.156801,
+      "longitude": 17.155459
+    },
+    {
+      "name": "WhiteBikes - HLAVNA",
+      "latitude": 48.158333,
+      "longitude": 17.106599
+    },
+    {
+      "name": "WhiteBikes - HRANICIAROV",
+      "latitude": 48.123366,
+      "longitude": 17.116329
+    },
+    {
+      "name": "WhiteBikes - HURBANOVO",
+      "latitude": 48.146129,
+      "longitude": 17.107421
+    },
+    {
+      "name": "WhiteBikes - ISTROPOLIS",
+      "latitude": 48.158397,
+      "longitude": 17.127501
+    },
+    {
+      "name": "WhiteBikes - JASOVSKA",
+      "latitude": 48.096993,
+      "longitude": 17.111445
+    },
+    {
+      "name": "WhiteBikes - KAMENNE",
+      "latitude": 48.14489,
+      "longitude": 17.113884
+    },
+    {
+      "name": "WhiteBikes - KOLLARKO",
+      "latitude": 48.150133,
+      "longitude": 17.111607
+    },
+    {
+      "name": "WhiteBikes - KORVINA",
+      "latitude": 48.156517,
+      "longitude": 17.118739
+    },
+    {
+      "name": "WhiteBikes - MAJKOVA",
+      "latitude": 48.15239,
+      "longitude": 17.118915
+    },
+    {
+      "name": "WhiteBikes - MANDERLAK",
+      "latitude": 48.144721,
+      "longitude": 17.112203
+    },
+    {
+      "name": "WhiteBikes - MATFYZ",
+      "latitude": 48.151135,
+      "longitude": 17.069897
+    },
+    {
+      "name": "WhiteBikes - MIEROVA",
+      "latitude": 48.14944,
+      "longitude": 17.164321
+    },
+    {
+      "name": "WhiteBikes - MOSKOVSKA",
+      "latitude": 48.15171,
+      "longitude": 17.120768
+    },
+    {
+      "name": "WhiteBikes - NOVEMESTO",
+      "latitude": 48.171339,
+      "longitude": 17.146303
+    },
+    {
+      "name": "WhiteBikes - PEKNA",
+      "latitude": 48.196349,
+      "longitude": 17.141401
+    },
+    {
+      "name": "WhiteBikes - PLYNARENSKA",
+      "latitude": 48.145318,
+      "longitude": 17.142501
+    },
+    {
+      "name": "WhiteBikes - POLARNA",
+      "latitude": 48.159119,
+      "longitude": 17.173484
+    },
+    {
+      "name": "WhiteBikes - POSTOVA",
+      "latitude": 48.146656,
+      "longitude": 17.109596
+    },
+    {
+      "name": "WhiteBikes - PRISTAV",
+      "latitude": 48.140165,
+      "longitude": 17.112859
+    },
+    {
+      "name": "WhiteBikes - PYRAMIDA",
+      "latitude": 48.153081,
+      "longitude": 17.113958
+    },
+    {
+      "name": "WhiteBikes - RACKO",
+      "latitude": 48.158044,
+      "longitude": 17.119207
+    },
+    {
+      "name": "WhiteBikes - REDUTA",
+      "latitude": 48.141717,
+      "longitude": 17.109531
+    },
+    {
+      "name": "WhiteBikes - RIVER",
+      "latitude": 48.141111,
+      "longitude": 17.089586
+    },
+    {
+      "name": "WhiteBikes - SABINOVSKA",
+      "latitude": 48.163405,
+      "longitude": 17.144798
+    },
+    {
+      "name": "WhiteBikes - SASINKOVA",
+      "latitude": 48.149449,
+      "longitude": 17.122388
+    },
+    {
+      "name": "WhiteBikes - SATINSKEHO",
+      "latitude": 48.145396,
+      "longitude": 17.117844
+    },
+    {
+      "name": "WhiteBikes - SHERLOCK",
+      "latitude": 48.147329,
+      "longitude": 17.141248
+    },
+    {
+      "name": "WhiteBikes - SPITALSKA",
+      "latitude": 48.146852,
+      "longitude": 17.115999
+    },
+    {
+      "name": "WhiteBikes - SUNAVCOVA",
+      "latitude": 48.1632,
+      "longitude": 17.1245
+    },
+    {
+      "name": "WhiteBikes - SUSTEKOVA",
+      "latitude": 48.128356,
+      "longitude": 17.124253
+    },
+    {
+      "name": "WhiteBikes - TECHNOPOL",
+      "latitude": 48.11133,
+      "longitude": 17.111109
+    },
+    {
+      "name": "WhiteBikes - TOVARENSKA",
+      "latitude": 48.144294,
+      "longitude": 17.122941
+    },
+    {
+      "name": "WhiteBikes - TRENCIANSKA",
+      "latitude": 48.153957,
+      "longitude": 17.14399
+    },
+    {
+      "name": "WhiteBikes - TUPOLEVOVA",
+      "latitude": 48.115914,
+      "longitude": 17.103471
+    },
+    {
+      "name": "WhiteBikes - VAZOVOVA",
+      "latitude": 48.154375,
+      "longitude": 17.119835
+    },
+    {
+      "name": "WhiteBikes - VINOHRADY",
+      "latitude": 48.186344,
+      "longitude": 17.133916
+    },
+    {
+      "name": "WhiteBikes - VLASTENECKE",
+      "latitude": 48.124042,
+      "longitude": 17.111283
+    },
+    {
+      "name": "WhiteBikes - ZAHRADNICKA",
+      "latitude": 48.1539,
+      "longitude": 17.127268
+    },
+    {
+      "name": "WhiteBikes - ZELINARSKA",
+      "latitude": 48.1551,
+      "longitude": 17.1402
+    },
+    {
+      "name": "WhiteBikes - ZIMAK",
+      "latitude": 48.159954,
+      "longitude": 17.136917
+    },
+    {
+      "name": "WhiteBikes - ZUPA",
+      "latitude": 48.160884,
+      "longitude": 17.148002
+    },
+    {
+      "name": "Zariadenie pre seniorov",
+      "latitude": 48.380726,
+      "longitude": 17.574857
+    },
+    {
+      "name": "Zelený Bicykel",
+      "latitude": 48.506358,
+      "longitude": 17.430367
+    },
+    {
+      "name": "Zelený bicykel",
+      "latitude": 48.510697,
+      "longitude": 17.431852
+    },
+    {
+      "name": "Zelený Bicykel",
+      "latitude": 48.520621,
+      "longitude": 17.455468
+    },
+    {
+      "name": "Zelený Kríčok",
+      "latitude": 48.381349,
+      "longitude": 17.583346
+    },
+    {
+      "name": "Zimný Štadión",
+      "latitude": 48.160164,
+      "longitude": 17.134626
+    },
+    {
+      "name": "Zombova",
+      "latitude": 48.715725,
+      "longitude": 21.21175
+    },
+    {
+      "name": "ZSE Ružindolská",
+      "latitude": 48.384451,
+      "longitude": 17.57069
+    },
+    {
+      "name": "Zupkova",
+      "latitude": 48.733737,
+      "longitude": 21.285365
+    },
+    {
+      "name": "Zuzany Chalupovej",
+      "latitude": 48.092772,
+      "longitude": 17.118564
+    },
+    {
+      "name": "Záhradnícka - Justičný palác",
+      "latitude": 48.152243,
+      "longitude": 17.12172
+    },
+    {
+      "name": "Záhradnícka / Karadžičova - križovatka",
+      "latitude": 48.153749,
+      "longitude": 17.125046
+    },
+    {
+      "name": "Záhradnícka / Svätoplukova",
+      "latitude": 48.154239,
+      "longitude": 17.12913
+    },
+    {
+      "name": "ZŠ Abovská",
+      "latitude": 48.679293,
+      "longitude": 21.263365
+    },
+    {
+      "name": "ZŠ Drábova",
+      "latitude": 48.707774,
+      "longitude": 21.216282
+    },
+    {
+      "name": "ZŠ K. Mahra",
+      "latitude": 48.368093,
+      "longitude": 17.573249
+    },
+    {
+      "name": "ZŠ Trebišovská",
+      "latitude": 48.705704,
+      "longitude": 21.231911
+    },
+    {
+      "name": "Átriová / Pavla Mudroňa",
+      "latitude": 48.394204,
+      "longitude": 17.585903
+    },
+    {
+      "name": "Úrad práce",
+      "latitude": 48.368975,
+      "longitude": 17.577127
+    },
+    {
+      "name": "Čermeľ",
+      "latitude": 48.74959,
+      "longitude": 21.231502
+    },
+    {
+      "name": "ČS Slovnaft Jazero",
+      "latitude": 48.69099,
+      "longitude": 21.280035
+    },
+    {
+      "name": "Šafárikova trieda",
+      "latitude": 48.70989,
+      "longitude": 21.236106
+    },
+    {
+      "name": "Šafárikovo námestie",
+      "latitude": 48.141859,
+      "longitude": 17.115612
+    },
+    {
+      "name": "Šancová/Štefanovičova",
+      "latitude": 48.155201,
+      "longitude": 17.108506
+    },
+    {
+      "name": "Ševčenkova",
+      "latitude": 48.120261,
+      "longitude": 17.10191
+    },
+    {
+      "name": "Šintavská / Jantárova cesta",
+      "latitude": 48.106588,
+      "longitude": 17.10559
+    },
+    {
+      "name": "Štatistický úrad",
+      "latitude": 48.383338,
+      "longitude": 17.574589
+    },
+    {
+      "name": "Štefánikovo námestie",
+      "latitude": 49.223136,
+      "longitude": 18.747353
+    },
+    {
+      "name": "Štúrová x Žižková",
+      "latitude": 48.716377,
+      "longitude": 21.250948
+    },
+    {
+      "name": "Železničná stanica - lávka",
+      "latitude": 48.370428,
+      "longitude": 17.585366
+    },
+    {
+      "name": "Železničná stanica Štúrovo",
+      "latitude": 47.799483,
+      "longitude": 18.679537
+    },
+    {
+      "name": "Železníky",
+      "latitude": 48.702148,
+      "longitude": 21.253331
+    },
+    {
+      "name": "Žilinská",
+      "latitude": 48.708479,
+      "longitude": 21.228912
+    },
+    {
+      "name": "Žilpo",
+      "latitude": 49.21118,
+      "longitude": 18.757325
+    },
+    {
+      "name": "Župné námestie",
+      "latitude": 48.31527,
+      "longitude": 18.085936
+    }
+  ],
+  "meta": {
+    "title": "Slovenské požičovne bicyklov - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných požičovní bicyklov na Slovensku (amenity=bicycle_rental) z OpenStreetMap. Obsahuje 573 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Slovenské požičovne bicyklov | ListBase",
+    "seo_description": "Stiahnuť Slovenské požičovne bicyklov — 573 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 573 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

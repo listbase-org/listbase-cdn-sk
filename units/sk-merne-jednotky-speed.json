@@ -1,0 +1,115 @@
+{
+  "id": "sk-merne-jednotky-speed",
+  "name": "Merné jednotky — kategória 'speed' (6)",
+  "title": "Merné jednotky — kategória 'speed' (6)",
+  "description": "Merné jednotky kategórie 'speed' z locale sk v CLDR, s názvami v slovenčine.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "skratka",
+      "label": "Skratka",
+      "type": "string"
+    },
+    {
+      "key": "uzky_tvar",
+      "label": "Uzky Tvar",
+      "type": "string"
+    },
+    {
+      "key": "vzor",
+      "label": "Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "speed-beaufort",
+      "kategoria": "speed",
+      "nazov": "stupeň Beaufortovej stupnice",
+      "skratka": "Bft",
+      "uzky_tvar": "Bft",
+      "vzor": "{0} stupňov Beaufortovej stupnice"
+    },
+    {
+      "id": 2,
+      "unit_code": "speed-kilometer-per-hour",
+      "kategoria": "speed",
+      "nazov": "kilometre za hodinu",
+      "skratka": "km/h",
+      "uzky_tvar": "km/h",
+      "vzor": "{0} kilometrov za hodinu"
+    },
+    {
+      "id": 3,
+      "unit_code": "speed-knot",
+      "kategoria": "speed",
+      "nazov": "uzly",
+      "skratka": "kn",
+      "uzky_tvar": "kn",
+      "vzor": "{0} uzlov"
+    },
+    {
+      "id": 4,
+      "unit_code": "speed-light-speed",
+      "kategoria": "speed",
+      "nazov": "light",
+      "skratka": "light",
+      "uzky_tvar": "light",
+      "vzor": "{0} light"
+    },
+    {
+      "id": 5,
+      "unit_code": "speed-meter-per-second",
+      "kategoria": "speed",
+      "nazov": "metre za sekundu",
+      "skratka": "m/s",
+      "uzky_tvar": "m/s",
+      "vzor": "{0} metrov za sekundu"
+    },
+    {
+      "id": 6,
+      "unit_code": "speed-mile-per-hour",
+      "kategoria": "speed",
+      "nazov": "míle za hodinu",
+      "skratka": "mi/h",
+      "uzky_tvar": "mi/h",
+      "vzor": "{0} míľ za hodinu"
+    }
+  ],
+  "meta": {
+    "title": "Merné jednotky — kategória 'speed' (6) - Bezplatné stiahnutie",
+    "description": "Merné jednotky kategórie 'speed' z locale sk v CLDR, s názvami v slovenčine. Obsahuje 6 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Merné jednotky — kategória 'speed' (6) | ListBase",
+    "seo_description": "Stiahnuť Merné jednotky — kategória 'speed' (6) — 6 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 6 záznamov / 7 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

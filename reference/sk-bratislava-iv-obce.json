@@ -1,0 +1,126 @@
+{
+  "id": "sk-bratislava-iv-obce",
+  "name": "Obce v okrese Bratislava IV",
+  "title": "Obce v okrese Bratislava IV",
+  "description": "Všetky obce (municipality) v okrese Bratislava IV, Bratislavský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 244,
+      "fullname": "Bratislava - Devín",
+      "shortname": "Devín",
+      "zip": "841 10",
+      "district_id": 8,
+      "okres": "Bratislava IV",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 245,
+      "fullname": "Bratislava - Devínska Nová Ves",
+      "shortname": "Devínska Nová Ves",
+      "zip": 0,
+      "district_id": 8,
+      "okres": "Bratislava IV",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 246,
+      "fullname": "Bratislava - Dúbravka",
+      "shortname": "Dúbravka",
+      "zip": 0,
+      "district_id": 8,
+      "okres": "Bratislava IV",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 248,
+      "fullname": "Bratislava - Karlova Ves",
+      "shortname": "Karlova Ves",
+      "zip": 0,
+      "district_id": 8,
+      "okres": "Bratislava IV",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 249,
+      "fullname": "Bratislava - Lamač",
+      "shortname": "Lamač",
+      "zip": "841 03",
+      "district_id": 8,
+      "okres": "Bratislava IV",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 259,
+      "fullname": "Bratislava - Záhorská Bystrica",
+      "shortname": "Záhorská Bystrica",
+      "zip": "841 06",
+      "district_id": 8,
+      "okres": "Bratislava IV",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Bratislava IV - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Bratislava IV, Bratislavský kraj — s PSČ a kódom okresu. Obsahuje 6 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Bratislava IV | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Bratislava IV — 6 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 6 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

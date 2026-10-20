@@ -1,0 +1,648 @@
+{
+  "id": "sk-mesiace-kalendara",
+  "name": "Názvy mesiacov podľa kalendára (CLDR slovenčina)",
+  "title": "Názvy mesiacov podľa kalendára (CLDR slovenčina)",
+  "description": "Názvy mesiacov zo šiestich kalendárov (gregoriánsky, budhistický, čínsky, dangi, hebrejský, islamský) — v locale sk v CLDR.",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 74,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "kalendar",
+      "label": "Kalendar",
+      "type": "string"
+    },
+    {
+      "key": "mesiac_kod",
+      "label": "Mesiac Kod",
+      "type": "number"
+    },
+    {
+      "key": "mesiac_num",
+      "label": "Mesiac Num",
+      "type": "number"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "skratka",
+      "label": "Skratka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "kalendar": "gregorian",
+      "mesiac_kod": "1",
+      "mesiac_num": 1,
+      "nazov": "januára",
+      "skratka": "jan"
+    },
+    {
+      "id": 2,
+      "kalendar": "gregorian",
+      "mesiac_kod": "2",
+      "mesiac_num": 2,
+      "nazov": "februára",
+      "skratka": "feb"
+    },
+    {
+      "id": 3,
+      "kalendar": "gregorian",
+      "mesiac_kod": "3",
+      "mesiac_num": 3,
+      "nazov": "marca",
+      "skratka": "mar"
+    },
+    {
+      "id": 4,
+      "kalendar": "gregorian",
+      "mesiac_kod": "4",
+      "mesiac_num": 4,
+      "nazov": "apríla",
+      "skratka": "apr"
+    },
+    {
+      "id": 5,
+      "kalendar": "gregorian",
+      "mesiac_kod": "5",
+      "mesiac_num": 5,
+      "nazov": "mája",
+      "skratka": "máj"
+    },
+    {
+      "id": 6,
+      "kalendar": "gregorian",
+      "mesiac_kod": "6",
+      "mesiac_num": 6,
+      "nazov": "júna",
+      "skratka": "jún"
+    },
+    {
+      "id": 7,
+      "kalendar": "gregorian",
+      "mesiac_kod": "7",
+      "mesiac_num": 7,
+      "nazov": "júla",
+      "skratka": "júl"
+    },
+    {
+      "id": 8,
+      "kalendar": "gregorian",
+      "mesiac_kod": "8",
+      "mesiac_num": 8,
+      "nazov": "augusta",
+      "skratka": "aug"
+    },
+    {
+      "id": 9,
+      "kalendar": "gregorian",
+      "mesiac_kod": "9",
+      "mesiac_num": 9,
+      "nazov": "septembra",
+      "skratka": "sep"
+    },
+    {
+      "id": 10,
+      "kalendar": "gregorian",
+      "mesiac_kod": "10",
+      "mesiac_num": 10,
+      "nazov": "októbra",
+      "skratka": "okt"
+    },
+    {
+      "id": 11,
+      "kalendar": "gregorian",
+      "mesiac_kod": "11",
+      "mesiac_num": 11,
+      "nazov": "novembra",
+      "skratka": "nov"
+    },
+    {
+      "id": 12,
+      "kalendar": "gregorian",
+      "mesiac_kod": "12",
+      "mesiac_num": 12,
+      "nazov": "decembra",
+      "skratka": "dec"
+    },
+    {
+      "id": 13,
+      "kalendar": "buddhist",
+      "mesiac_kod": "1",
+      "mesiac_num": 1,
+      "nazov": "januára",
+      "skratka": "jan"
+    },
+    {
+      "id": 14,
+      "kalendar": "buddhist",
+      "mesiac_kod": "2",
+      "mesiac_num": 2,
+      "nazov": "februára",
+      "skratka": "feb"
+    },
+    {
+      "id": 15,
+      "kalendar": "buddhist",
+      "mesiac_kod": "3",
+      "mesiac_num": 3,
+      "nazov": "marca",
+      "skratka": "mar"
+    },
+    {
+      "id": 16,
+      "kalendar": "buddhist",
+      "mesiac_kod": "4",
+      "mesiac_num": 4,
+      "nazov": "apríla",
+      "skratka": "apr"
+    },
+    {
+      "id": 17,
+      "kalendar": "buddhist",
+      "mesiac_kod": "5",
+      "mesiac_num": 5,
+      "nazov": "mája",
+      "skratka": "máj"
+    },
+    {
+      "id": 18,
+      "kalendar": "buddhist",
+      "mesiac_kod": "6",
+      "mesiac_num": 6,
+      "nazov": "júna",
+      "skratka": "jún"
+    },
+    {
+      "id": 19,
+      "kalendar": "buddhist",
+      "mesiac_kod": "7",
+      "mesiac_num": 7,
+      "nazov": "júla",
+      "skratka": "júl"
+    },
+    {
+      "id": 20,
+      "kalendar": "buddhist",
+      "mesiac_kod": "8",
+      "mesiac_num": 8,
+      "nazov": "augusta",
+      "skratka": "aug"
+    },
+    {
+      "id": 21,
+      "kalendar": "buddhist",
+      "mesiac_kod": "9",
+      "mesiac_num": 9,
+      "nazov": "septembra",
+      "skratka": "sep"
+    },
+    {
+      "id": 22,
+      "kalendar": "buddhist",
+      "mesiac_kod": "10",
+      "mesiac_num": 10,
+      "nazov": "októbra",
+      "skratka": "okt"
+    },
+    {
+      "id": 23,
+      "kalendar": "buddhist",
+      "mesiac_kod": "11",
+      "mesiac_num": 11,
+      "nazov": "novembra",
+      "skratka": "nov"
+    },
+    {
+      "id": 24,
+      "kalendar": "buddhist",
+      "mesiac_kod": "12",
+      "mesiac_num": 12,
+      "nazov": "decembra",
+      "skratka": "dec"
+    },
+    {
+      "id": 25,
+      "kalendar": "chinese",
+      "mesiac_kod": "1",
+      "mesiac_num": 1,
+      "nazov": "M01",
+      "skratka": "M01"
+    },
+    {
+      "id": 26,
+      "kalendar": "chinese",
+      "mesiac_kod": "2",
+      "mesiac_num": 2,
+      "nazov": "M02",
+      "skratka": "M02"
+    },
+    {
+      "id": 27,
+      "kalendar": "chinese",
+      "mesiac_kod": "3",
+      "mesiac_num": 3,
+      "nazov": "M03",
+      "skratka": "M03"
+    },
+    {
+      "id": 28,
+      "kalendar": "chinese",
+      "mesiac_kod": "4",
+      "mesiac_num": 4,
+      "nazov": "M04",
+      "skratka": "M04"
+    },
+    {
+      "id": 29,
+      "kalendar": "chinese",
+      "mesiac_kod": "5",
+      "mesiac_num": 5,
+      "nazov": "M05",
+      "skratka": "M05"
+    },
+    {
+      "id": 30,
+      "kalendar": "chinese",
+      "mesiac_kod": "6",
+      "mesiac_num": 6,
+      "nazov": "M06",
+      "skratka": "M06"
+    },
+    {
+      "id": 31,
+      "kalendar": "chinese",
+      "mesiac_kod": "7",
+      "mesiac_num": 7,
+      "nazov": "M07",
+      "skratka": "M07"
+    },
+    {
+      "id": 32,
+      "kalendar": "chinese",
+      "mesiac_kod": "8",
+      "mesiac_num": 8,
+      "nazov": "M08",
+      "skratka": "M08"
+    },
+    {
+      "id": 33,
+      "kalendar": "chinese",
+      "mesiac_kod": "9",
+      "mesiac_num": 9,
+      "nazov": "M09",
+      "skratka": "M09"
+    },
+    {
+      "id": 34,
+      "kalendar": "chinese",
+      "mesiac_kod": "10",
+      "mesiac_num": 10,
+      "nazov": "M10",
+      "skratka": "M10"
+    },
+    {
+      "id": 35,
+      "kalendar": "chinese",
+      "mesiac_kod": "11",
+      "mesiac_num": 11,
+      "nazov": "M11",
+      "skratka": "M11"
+    },
+    {
+      "id": 36,
+      "kalendar": "chinese",
+      "mesiac_kod": "12",
+      "mesiac_num": 12,
+      "nazov": "M12",
+      "skratka": "M12"
+    },
+    {
+      "id": 37,
+      "kalendar": "dangi",
+      "mesiac_kod": "1",
+      "mesiac_num": 1,
+      "nazov": "M01",
+      "skratka": "M01"
+    },
+    {
+      "id": 38,
+      "kalendar": "dangi",
+      "mesiac_kod": "2",
+      "mesiac_num": 2,
+      "nazov": "M02",
+      "skratka": "M02"
+    },
+    {
+      "id": 39,
+      "kalendar": "dangi",
+      "mesiac_kod": "3",
+      "mesiac_num": 3,
+      "nazov": "M03",
+      "skratka": "M03"
+    },
+    {
+      "id": 40,
+      "kalendar": "dangi",
+      "mesiac_kod": "4",
+      "mesiac_num": 4,
+      "nazov": "M04",
+      "skratka": "M04"
+    },
+    {
+      "id": 41,
+      "kalendar": "dangi",
+      "mesiac_kod": "5",
+      "mesiac_num": 5,
+      "nazov": "M05",
+      "skratka": "M05"
+    },
+    {
+      "id": 42,
+      "kalendar": "dangi",
+      "mesiac_kod": "6",
+      "mesiac_num": 6,
+      "nazov": "M06",
+      "skratka": "M06"
+    },
+    {
+      "id": 43,
+      "kalendar": "dangi",
+      "mesiac_kod": "7",
+      "mesiac_num": 7,
+      "nazov": "M07",
+      "skratka": "M07"
+    },
+    {
+      "id": 44,
+      "kalendar": "dangi",
+      "mesiac_kod": "8",
+      "mesiac_num": 8,
+      "nazov": "M08",
+      "skratka": "M08"
+    },
+    {
+      "id": 45,
+      "kalendar": "dangi",
+      "mesiac_kod": "9",
+      "mesiac_num": 9,
+      "nazov": "M09",
+      "skratka": "M09"
+    },
+    {
+      "id": 46,
+      "kalendar": "dangi",
+      "mesiac_kod": "10",
+      "mesiac_num": 10,
+      "nazov": "M10",
+      "skratka": "M10"
+    },
+    {
+      "id": 47,
+      "kalendar": "dangi",
+      "mesiac_kod": "11",
+      "mesiac_num": 11,
+      "nazov": "M11",
+      "skratka": "M11"
+    },
+    {
+      "id": 48,
+      "kalendar": "dangi",
+      "mesiac_kod": "12",
+      "mesiac_num": 12,
+      "nazov": "M12",
+      "skratka": "M12"
+    },
+    {
+      "id": 49,
+      "kalendar": "hebrew",
+      "mesiac_kod": "1",
+      "mesiac_num": 1,
+      "nazov": "tišri",
+      "skratka": "tišri"
+    },
+    {
+      "id": 50,
+      "kalendar": "hebrew",
+      "mesiac_kod": "2",
+      "mesiac_num": 2,
+      "nazov": "chešvan",
+      "skratka": "chešvan"
+    },
+    {
+      "id": 51,
+      "kalendar": "hebrew",
+      "mesiac_kod": "3",
+      "mesiac_num": 3,
+      "nazov": "kislev",
+      "skratka": "kislev"
+    },
+    {
+      "id": 52,
+      "kalendar": "hebrew",
+      "mesiac_kod": "4",
+      "mesiac_num": 4,
+      "nazov": "tevet",
+      "skratka": "tevet"
+    },
+    {
+      "id": 53,
+      "kalendar": "hebrew",
+      "mesiac_kod": "5",
+      "mesiac_num": 5,
+      "nazov": "ševat",
+      "skratka": "ševat"
+    },
+    {
+      "id": 54,
+      "kalendar": "hebrew",
+      "mesiac_kod": "6",
+      "mesiac_num": 6,
+      "nazov": "adar I",
+      "skratka": "adar I"
+    },
+    {
+      "id": 55,
+      "kalendar": "hebrew",
+      "mesiac_kod": "7",
+      "mesiac_num": 7,
+      "nazov": "adar",
+      "skratka": "adar"
+    },
+    {
+      "id": 56,
+      "kalendar": "hebrew",
+      "mesiac_kod": "7-yeartype-leap",
+      "mesiac_num": "",
+      "nazov": "adar II",
+      "skratka": "adar II"
+    },
+    {
+      "id": 57,
+      "kalendar": "hebrew",
+      "mesiac_kod": "8",
+      "mesiac_num": 8,
+      "nazov": "nisan",
+      "skratka": "nisan"
+    },
+    {
+      "id": 58,
+      "kalendar": "hebrew",
+      "mesiac_kod": "9",
+      "mesiac_num": 9,
+      "nazov": "ijar",
+      "skratka": "ijar"
+    },
+    {
+      "id": 59,
+      "kalendar": "hebrew",
+      "mesiac_kod": "10",
+      "mesiac_num": 10,
+      "nazov": "sivan",
+      "skratka": "sivan"
+    },
+    {
+      "id": 60,
+      "kalendar": "hebrew",
+      "mesiac_kod": "11",
+      "mesiac_num": 11,
+      "nazov": "tamuz",
+      "skratka": "tamuz"
+    },
+    {
+      "id": 61,
+      "kalendar": "hebrew",
+      "mesiac_kod": "12",
+      "mesiac_num": 12,
+      "nazov": "av",
+      "skratka": "av"
+    },
+    {
+      "id": 62,
+      "kalendar": "hebrew",
+      "mesiac_kod": "13",
+      "mesiac_num": 13,
+      "nazov": "elul",
+      "skratka": "elul"
+    },
+    {
+      "id": 63,
+      "kalendar": "islamic",
+      "mesiac_kod": "1",
+      "mesiac_num": 1,
+      "nazov": "al-muharram",
+      "skratka": "muh."
+    },
+    {
+      "id": 64,
+      "kalendar": "islamic",
+      "mesiac_kod": "2",
+      "mesiac_num": 2,
+      "nazov": "safar",
+      "skratka": "saf."
+    },
+    {
+      "id": 65,
+      "kalendar": "islamic",
+      "mesiac_kod": "3",
+      "mesiac_num": 3,
+      "nazov": "rabí´ al-avval",
+      "skratka": "rab. I"
+    },
+    {
+      "id": 66,
+      "kalendar": "islamic",
+      "mesiac_kod": "4",
+      "mesiac_num": 4,
+      "nazov": "rabí´ath-thání",
+      "skratka": "rab. II"
+    },
+    {
+      "id": 67,
+      "kalendar": "islamic",
+      "mesiac_kod": "5",
+      "mesiac_num": 5,
+      "nazov": "džumádá l-úlá",
+      "skratka": "džum. I"
+    },
+    {
+      "id": 68,
+      "kalendar": "islamic",
+      "mesiac_kod": "6",
+      "mesiac_num": 6,
+      "nazov": "džumádá l-áchira",
+      "skratka": "džum. II"
+    },
+    {
+      "id": 69,
+      "kalendar": "islamic",
+      "mesiac_kod": "7",
+      "mesiac_num": 7,
+      "nazov": "radžab",
+      "skratka": "rad."
+    },
+    {
+      "id": 70,
+      "kalendar": "islamic",
+      "mesiac_kod": "8",
+      "mesiac_num": 8,
+      "nazov": "ša´ bán",
+      "skratka": "ša."
+    },
+    {
+      "id": 71,
+      "kalendar": "islamic",
+      "mesiac_kod": "9",
+      "mesiac_num": 9,
+      "nazov": "ramadán",
+      "skratka": "ram."
+    },
+    {
+      "id": 72,
+      "kalendar": "islamic",
+      "mesiac_kod": "10",
+      "mesiac_num": 10,
+      "nazov": "šauvál",
+      "skratka": "šau."
+    },
+    {
+      "id": 73,
+      "kalendar": "islamic",
+      "mesiac_kod": "11",
+      "mesiac_num": 11,
+      "nazov": "dhú l-ka´ da",
+      "skratka": "dhú l-k."
+    },
+    {
+      "id": 74,
+      "kalendar": "islamic",
+      "mesiac_kod": "12",
+      "mesiac_num": 12,
+      "nazov": "dhú l-hidždža",
+      "skratka": "dhú l-h."
+    }
+  ],
+  "meta": {
+    "title": "Názvy mesiacov podľa kalendára (CLDR slovenčina) - Bezplatné stiahnutie",
+    "description": "Názvy mesiacov zo šiestich kalendárov (gregoriánsky, budhistický, čínsky, dangi, hebrejský, islamský) — v locale sk v CLDR. Obsahuje 74 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Názvy mesiacov podľa kalendára (CLDR slovenčina) | ListBase",
+    "seo_description": "Stiahnuť Názvy mesiacov podľa kalendára (CLDR slovenčina) — 74 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 74 záznamov / 6 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

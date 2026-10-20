@@ -1,0 +1,205 @@
+{
+  "id": "sk-kosice-mestske-casti",
+  "name": "Mestské časti Košíc (Košice city districts)",
+  "title": "Mestské časti Košíc (Košice city districts)",
+  "description": "Zoznam mestských častí Košíc so súradnicami ich stredu (WGS84) a počtom registrovaných voličov v roku 2014.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "long",
+      "label": "Long",
+      "type": "number"
+    },
+    {
+      "key": "registered_voters_2014",
+      "label": "Registered Voters 2014",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "598224",
+      "name": "Košice-Západ",
+      "lat": 48.7143063,
+      "long": 21.2345873,
+      "registered_voters_2014": 67372
+    },
+    {
+      "id": "598682",
+      "name": "Košice-Dargovských hrdinov",
+      "lat": 48.7442344,
+      "long": 21.2771429,
+      "registered_voters_2014": 45957
+    },
+    {
+      "id": "599786",
+      "name": "Košice-Šebastovce",
+      "lat": 48.6549691,
+      "long": 21.2703882,
+      "registered_voters_2014": 41413
+    },
+    {
+      "id": "599816",
+      "name": "Košice-Nad jazerom",
+      "lat": 48.6893403,
+      "long": 21.2844607,
+      "registered_voters_2014": 40658
+    },
+    {
+      "id": "599824",
+      "name": "Košice-Juh",
+      "lat": 48.7092508,
+      "long": 21.2570841,
+      "registered_voters_2014": 38679
+    },
+    {
+      "id": "598151",
+      "name": "Košice-Sever",
+      "lat": 48.7366124,
+      "long": 21.2461837,
+      "registered_voters_2014": 36779
+    },
+    {
+      "id": "599883",
+      "name": "Košice-Sídlisko KVP",
+      "lat": 48.7164151,
+      "long": 21.2148908,
+      "registered_voters_2014": 36149
+    },
+    {
+      "id": "599841",
+      "name": "Košice-Šaca",
+      "lat": 48.6370535,
+      "long": 21.1713844,
+      "registered_voters_2014": 33789
+    },
+    {
+      "id": "599875",
+      "name": "Košice-Sídlisko Ťahanovce",
+      "lat": 48.7539765,
+      "long": 21.2676675,
+      "registered_voters_2014": 9716
+    },
+    {
+      "id": "599972",
+      "name": "Košice-Luník IX",
+      "lat": 48.6972038,
+      "long": 21.2224101,
+      "registered_voters_2014": 7648
+    },
+    {
+      "id": "599794",
+      "name": "Košice-Krásna",
+      "lat": 48.6726061,
+      "long": 21.3188165,
+      "registered_voters_2014": 6804
+    },
+    {
+      "id": "599093",
+      "name": "Košice-Barca",
+      "lat": 48.663056,
+      "long": 21.241111,
+      "registered_voters_2014": 5779
+    },
+    {
+      "id": "599018",
+      "name": "Košice-Košická Nová Ves",
+      "lat": 48.7334389,
+      "long": 21.2977631,
+      "registered_voters_2014": 4186
+    },
+    {
+      "id": "598127",
+      "name": "Košice-Ťahanovce",
+      "lat": 48.757492,
+      "long": 21.2551353,
+      "registered_voters_2014": 3442
+    },
+    {
+      "id": "598216",
+      "name": "Košice-Myslava",
+      "lat": 48.7091002,
+      "long": 21.2045831,
+      "registered_voters_2014": 3436
+    },
+    {
+      "id": "599913",
+      "name": "Košice-Vyšné Opátske",
+      "lat": 48.7164117,
+      "long": 21.2799977,
+      "registered_voters_2014": 3209
+    },
+    {
+      "id": "598208",
+      "name": "Košice-Pereš",
+      "lat": 48.6888583,
+      "long": 21.211786,
+      "registered_voters_2014": 2746
+    },
+    {
+      "id": "598119",
+      "name": "Košice-Kavečany",
+      "lat": 48.7754061,
+      "long": 21.2058674,
+      "registered_voters_2014": 2029
+    },
+    {
+      "id": "599859",
+      "name": "Košice-Poľov",
+      "lat": 48.6648877,
+      "long": 21.1935779,
+      "registered_voters_2014": 1802
+    },
+    {
+      "id": "598186",
+      "name": "Košice-Staré Mesto",
+      "lat": 48.7223734,
+      "long": 21.2570032,
+      "registered_voters_2014": 1086
+    },
+    {
+      "id": "599891",
+      "name": "Košice-Džungľa",
+      "lat": 48.7372364,
+      "long": 21.268109,
+      "registered_voters_2014": 978
+    },
+    {
+      "id": "598194",
+      "name": "Košice-Lorinčík",
+      "lat": 48.6879213,
+      "long": 21.1952577,
+      "registered_voters_2014": 845
+    }
+  ],
+  "meta": {
+    "title": "Mestské časti Košíc (Košice city districts) - Bezplatné stiahnutie",
+    "description": "Zoznam mestských častí Košíc so súradnicami ich stredu (WGS84) a počtom registrovaných voličov v roku 2014. Obsahuje 22 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Mestské časti Košíc (Košice city districts) | ListBase",
+    "seo_description": "Stiahnuť Mestské časti Košíc (Košice city districts) — 22 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 22 záznamov / 5 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

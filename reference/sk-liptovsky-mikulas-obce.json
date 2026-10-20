@@ -1,0 +1,906 @@
+{
+  "id": "sk-liptovsky-mikulas-obce",
+  "name": "Obce v okrese Liptovský Mikuláš",
+  "title": "Obce v okrese Liptovský Mikuláš",
+  "description": "Všetky obce (municipality) v okrese Liptovský Mikuláš, Žilinský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 84,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 18,
+      "fullname": "Andice",
+      "shortname": "Andice",
+      "zip": "031 01",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 126,
+      "fullname": "Benice",
+      "shortname": "Benice",
+      "zip": "031 01",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 121,
+      "fullname": "Beňadiková",
+      "shortname": "Beňadiková",
+      "zip": "032 04",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 133,
+      "fullname": "Beňušovce",
+      "shortname": "Beňušovce",
+      "zip": "031 01",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 183,
+      "fullname": "Bobrovec",
+      "shortname": "Bobrovec",
+      "zip": "032 21",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 184,
+      "fullname": "Bobrovník",
+      "shortname": "Bobrovník",
+      "zip": "032 23",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 182,
+      "fullname": "Bobrovček",
+      "shortname": "Bobrovček",
+      "zip": "032 21",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 186,
+      "fullname": "Bodice",
+      "shortname": "Bodice",
+      "zip": "031 01",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 298,
+      "fullname": "Brnice",
+      "shortname": "Brnice",
+      "zip": "032 23",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 342,
+      "fullname": "Bukovina",
+      "shortname": "Bukovina",
+      "zip": "032 23",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 537,
+      "fullname": "Demänovská Dolina",
+      "shortname": "Demänovská Dolina",
+      "zip": "031 01",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 536,
+      "fullname": "Demänová",
+      "shortname": "Demänová",
+      "zip": "031 01",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 561,
+      "fullname": "Dlhá Lúka",
+      "shortname": "Dlhá Lúka",
+      "zip": "032 23",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 685,
+      "fullname": "Dovalovo",
+      "shortname": "Dovalovo",
+      "zip": "033 01",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 730,
+      "fullname": "Dúbrava",
+      "shortname": "Dúbrava",
+      "zip": "032 12",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 785,
+      "fullname": "Fiačice",
+      "shortname": "Fiačice",
+      "zip": "032 14",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 810,
+      "fullname": "Galovany",
+      "shortname": "Galovany",
+      "zip": "032 11",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 849,
+      "fullname": "Gôtovany",
+      "shortname": "Gôtovany",
+      "zip": "032 14",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 935,
+      "fullname": "Hliník",
+      "shortname": "Hliník",
+      "zip": "032 23",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1156,
+      "fullname": "Huty",
+      "shortname": "Huty",
+      "zip": "027 32",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1159,
+      "fullname": "Hybe",
+      "shortname": "Hybe",
+      "zip": "032 31",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1208,
+      "fullname": "Iľanovo",
+      "shortname": "Iľanovo",
+      "zip": "031 01",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1236,
+      "fullname": "Ižipovce",
+      "shortname": "Ižipovce",
+      "zip": "032 23",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1258,
+      "fullname": "Jakubovany",
+      "shortname": "Jakubovany",
+      "zip": "032 04",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1264,
+      "fullname": "Jalovec",
+      "shortname": "Jalovec",
+      "zip": "032 21",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1268,
+      "fullname": "Jamník",
+      "shortname": "Jamník",
+      "zip": "033 01",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1519,
+      "fullname": "Konská",
+      "shortname": "Konská",
+      "zip": "032 04",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1691,
+      "fullname": "Krmeš",
+      "shortname": "Krmeš",
+      "zip": "032 13",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1633,
+      "fullname": "Kráľova Lehota",
+      "shortname": "Kráľova Lehota",
+      "zip": "032 33",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1741,
+      "fullname": "Kvačany",
+      "shortname": "Kvačany",
+      "zip": "032 23",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1793,
+      "fullname": "Lazisko",
+      "shortname": "Lazisko",
+      "zip": "032 11",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1874,
+      "fullname": "Liptovská Anna",
+      "shortname": "Liptovská Anna",
+      "zip": "032 23",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1875,
+      "fullname": "Liptovská Kokava",
+      "shortname": "Liptovská Kokava",
+      "zip": "032 44",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1877,
+      "fullname": "Liptovská Ondrašová",
+      "shortname": "Liptovská Ondrašová",
+      "zip": "031 05",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1879,
+      "fullname": "Liptovská Porúbka",
+      "shortname": "Liptovská Porúbka",
+      "zip": "033 01",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1880,
+      "fullname": "Liptovská Sielnica",
+      "shortname": "Liptovská Sielnica",
+      "zip": "032 23",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1884,
+      "fullname": "Liptovské Beharovce",
+      "shortname": "Liptovské Beharovce",
+      "zip": "032 21",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1885,
+      "fullname": "Liptovské Kľačany",
+      "shortname": "Liptovské Kľačany",
+      "zip": "032 14",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1886,
+      "fullname": "Liptovské Matiašovce",
+      "shortname": "Liptovské Matiašovce",
+      "zip": "032 23",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1889,
+      "fullname": "Liptovský Hrádok",
+      "shortname": "Liptovský Hrádok",
+      "zip": "033 01",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1890,
+      "fullname": "Liptovský Ján",
+      "shortname": "Liptovský Ján",
+      "zip": "032 03",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1892,
+      "fullname": "Liptovský Mikuláš",
+      "shortname": "Liptovský Mikuláš",
+      "zip": 0,
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1893,
+      "fullname": "Liptovský Ondrej",
+      "shortname": "Liptovský Ondrej",
+      "zip": "032 04",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1894,
+      "fullname": "Liptovský Peter",
+      "shortname": "Liptovský Peter",
+      "zip": "033 01",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1895,
+      "fullname": "Liptovský Trnovec",
+      "shortname": "Liptovský Trnovec",
+      "zip": "031 01",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2000,
+      "fullname": "Magurka",
+      "shortname": "Magurka",
+      "zip": "032 15",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2044,
+      "fullname": "Malatíny",
+      "shortname": "Malatíny",
+      "zip": "032 15",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2084,
+      "fullname": "Malužiná",
+      "shortname": "Malužiná",
+      "zip": "032 34",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2051,
+      "fullname": "Malé Borové",
+      "shortname": "Malé Borové",
+      "zip": "027 32",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2347,
+      "fullname": "Nižná Boca",
+      "shortname": "Nižná Boca",
+      "zip": "032 34",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2369,
+      "fullname": "Nižné Matiašovce",
+      "shortname": "Nižné Matiašovce",
+      "zip": "032 23",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2469,
+      "fullname": "Okoličné",
+      "shortname": "Okoličné",
+      "zip": "031 04",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2572,
+      "fullname": "Palúdzka",
+      "shortname": "Palúdzka",
+      "zip": "031 01",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2584,
+      "fullname": "Partizánska Ľupča",
+      "shortname": "Partizánska Ľupča",
+      "zip": "032 15",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2602,
+      "fullname": "Pavlova Ves",
+      "shortname": "Pavlova Ves",
+      "zip": "032 21",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2597,
+      "fullname": "Pavčina Lehota",
+      "shortname": "Pavčina Lehota",
+      "zip": "031 01",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2674,
+      "fullname": "Ploštín",
+      "shortname": "Ploštín",
+      "zip": "031 01",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2681,
+      "fullname": "Podbanské",
+      "shortname": "Podbanské",
+      "zip": "032 42",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2722,
+      "fullname": "Podtureň",
+      "shortname": "Podtureň",
+      "zip": "033 01",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2830,
+      "fullname": "Pribylina",
+      "shortname": "Pribylina",
+      "zip": "032 42",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2855,
+      "fullname": "Prosiek",
+      "shortname": "Prosiek",
+      "zip": "032 23",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3208,
+      "fullname": "Smrečany",
+      "shortname": "Smrečany",
+      "zip": "032 05",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3287,
+      "fullname": "Stošice",
+      "shortname": "Stošice",
+      "zip": "031 04",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3348,
+      "fullname": "Svarín",
+      "shortname": "Svarín",
+      "zip": "032 33",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3356,
+      "fullname": "Svätý Kríž",
+      "shortname": "Svätý Kríž",
+      "zip": "032 11",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3615,
+      "fullname": "Trstené",
+      "shortname": "Trstené",
+      "zip": "032 21",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3655,
+      "fullname": "Tvarožná",
+      "shortname": "Tvarožná",
+      "zip": "032 23",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3676,
+      "fullname": "Uhorská Ves",
+      "shortname": "Uhorská Ves",
+      "zip": "032 03",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3728,
+      "fullname": "Vavrišovo",
+      "shortname": "Vavrišovo",
+      "zip": "032 42",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3729,
+      "fullname": "Važec",
+      "shortname": "Važec",
+      "zip": "032 61",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3848,
+      "fullname": "Veterná Poruba",
+      "shortname": "Veterná Poruba",
+      "zip": "031 04",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3774,
+      "fullname": "Veľké Borové",
+      "shortname": "Veľké Borové",
+      "zip": "027 32",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3885,
+      "fullname": "Vitálišovce",
+      "shortname": "Vitálišovce",
+      "zip": "031 04",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3893,
+      "fullname": "Vlachy",
+      "shortname": "Vlachy",
+      "zip": "032 13",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3894,
+      "fullname": "Vlašky",
+      "shortname": "Vlašky",
+      "zip": "032 13",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3981,
+      "fullname": "Vyšná Boca",
+      "shortname": "Vyšná Boca",
+      "zip": "032 34",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4002,
+      "fullname": "Vyšné Matiašovce",
+      "shortname": "Vyšné Matiašovce",
+      "zip": "032 23",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3966,
+      "fullname": "Východná",
+      "shortname": "Východná",
+      "zip": "032 32",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4036,
+      "fullname": "Zádiel",
+      "shortname": "Zádiel",
+      "zip": "032 23",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4083,
+      "fullname": "Závažná Poruba",
+      "shortname": "Závažná Poruba",
+      "zip": "032 02",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 500,
+      "fullname": "Čierny Váh",
+      "shortname": "Čierny Váh",
+      "zip": "032 33",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1929,
+      "fullname": "Ľubeľa",
+      "shortname": "Ľubeľa",
+      "zip": "032 14",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4179,
+      "fullname": "Železnô",
+      "shortname": "Železnô",
+      "zip": "032 15",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4186,
+      "fullname": "Žiar",
+      "shortname": "Žiar",
+      "zip": "032 05",
+      "district_id": 32,
+      "okres": "Liptovský Mikuláš",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Liptovský Mikuláš - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Liptovský Mikuláš, Žilinský kraj — s PSČ a kódom okresu. Obsahuje 84 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Liptovský Mikuláš | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Liptovský Mikuláš — 84 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 84 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

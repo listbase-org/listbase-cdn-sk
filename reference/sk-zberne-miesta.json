@@ -1,0 +1,1466 @@
+{
+  "id": "sk-zberne-miesta",
+  "name": "Zberné miesta",
+  "title": "Zberné miesta",
+  "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (amenity=recycling). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 285,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Zberný dvor",
+      "latitude": 49.502411,
+      "longitude": 18.836832
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 49.462802,
+      "longitude": 18.778651
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 49.496092,
+      "longitude": 18.898422
+    },
+    {
+      "name": "Lomax",
+      "latitude": 49.430044,
+      "longitude": 18.798417
+    },
+    {
+      "name": "Zberné miesto odpadov obce Horné Srnie na triedený odpad",
+      "latitude": 48.992746,
+      "longitude": 18.098377
+    },
+    {
+      "name": "Technické služby",
+      "latitude": 49.000081,
+      "longitude": 18.234793
+    },
+    {
+      "name": "Stredisko triedeného zberu - prevádzka mestského kompostoviska",
+      "latitude": 48.960516,
+      "longitude": 18.158783
+    },
+    {
+      "name": "Regionálne centrum zhodnocovania biologicky rozložiteľných odpadov",
+      "latitude": 48.957251,
+      "longitude": 18.111442
+    },
+    {
+      "name": "Zberný dvor odpadov",
+      "latitude": 48.955045,
+      "longitude": 18.110464
+    },
+    {
+      "name": "Stredisko triedeného zberu - prevádzka zberného dvora",
+      "latitude": 48.970505,
+      "longitude": 18.18123
+    },
+    {
+      "name": "Malá kompostáreň obce Trenčianska Teplá",
+      "latitude": 48.935457,
+      "longitude": 18.106047
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 49.382106,
+      "longitude": 18.83883
+    },
+    {
+      "name": "Dvor separovaného zberu",
+      "latitude": 49.348438,
+      "longitude": 18.908162
+    },
+    {
+      "name": "Zberný dvor obce Štiavnik",
+      "latitude": 49.252153,
+      "longitude": 18.471763
+    },
+    {
+      "name": "JÁGRIK Metal s.r.o.",
+      "latitude": 49.217159,
+      "longitude": 18.567291
+    },
+    {
+      "name": "Zberňa odpadov Dolný Hričov",
+      "latitude": 49.244062,
+      "longitude": 18.641956
+    },
+    {
+      "name": "Zberňa odpadov Žilina - Považský Chlmec",
+      "latitude": 49.237344,
+      "longitude": 18.709672
+    },
+    {
+      "name": "Zberné suroviny a.s.",
+      "latitude": 49.227325,
+      "longitude": 18.724947
+    },
+    {
+      "name": "Zberňa odpadov Žilina",
+      "latitude": 49.227735,
+      "longitude": 18.730511
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 49.211851,
+      "longitude": 18.77143
+    },
+    {
+      "name": "Zberný dvor Lietavská Lúčka",
+      "latitude": 49.18053,
+      "longitude": 18.723012
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 49.3793,
+      "longitude": 19.222983
+    },
+    {
+      "name": "Zberné miesto Milochov",
+      "latitude": 49.134856,
+      "longitude": 18.387733
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 49.106051,
+      "longitude": 18.304706
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 49.064449,
+      "longitude": 18.329841
+    },
+    {
+      "name": "Zberný dvor Brantner Fatra",
+      "latitude": 49.062629,
+      "longitude": 18.904184
+    },
+    {
+      "name": "Výkup kovov",
+      "latitude": 49.072267,
+      "longitude": 19.317045
+    },
+    {
+      "name": "Výkup kovov",
+      "latitude": 49.068568,
+      "longitude": 19.315005
+    },
+    {
+      "name": "Drusur",
+      "latitude": 49.077627,
+      "longitude": 19.307173
+    },
+    {
+      "name": "Kovot",
+      "latitude": 49.072206,
+      "longitude": 19.316883
+    },
+    {
+      "name": "Kompostáreň",
+      "latitude": 49.051446,
+      "longitude": 19.311526
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 49.062774,
+      "longitude": 19.389025
+    },
+    {
+      "name": "Zberné suroviny",
+      "latitude": 49.088777,
+      "longitude": 19.584159
+    },
+    {
+      "name": "Obecné Kompostovisko",
+      "latitude": 49.300618,
+      "longitude": 20.557538
+    },
+    {
+      "name": "Zberné miesto Hliník",
+      "latitude": 49.19047,
+      "longitude": 20.957214
+    },
+    {
+      "name": "Kompostovisko DREVINY",
+      "latitude": 49.119263,
+      "longitude": 19.734863
+    },
+    {
+      "name": "Brantner zberný dvor",
+      "latitude": 49.05968,
+      "longitude": 20.284124
+    },
+    {
+      "name": "Brantner",
+      "latitude": 49.04455,
+      "longitude": 20.304815
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 49.131702,
+      "longitude": 20.393511
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 49.112477,
+      "longitude": 21.081005
+    },
+    {
+      "name": "ROMAKO, s.r.o.",
+      "latitude": 49.105047,
+      "longitude": 21.084796
+    },
+    {
+      "name": "Plasty, sklo",
+      "latitude": 49.04511,
+      "longitude": 21.356436
+    },
+    {
+      "name": "Plasty, sklo",
+      "latitude": 49.044329,
+      "longitude": 21.364595
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 49.114902,
+      "longitude": 21.522872
+    },
+    {
+      "name": "Zberný dvor Bajkalská",
+      "latitude": 49.021532,
+      "longitude": 21.23228
+    },
+    {
+      "name": "Zberné suroviny Žilina a.s., závod Prešov",
+      "latitude": 49.010595,
+      "longitude": 21.259442
+    },
+    {
+      "name": "Ekocharita Centrum - Kontajner na šatstvo",
+      "latitude": 49.017109,
+      "longitude": 21.223785
+    },
+    {
+      "name": "A.N.T. Prešov, spol. s r. o.",
+      "latitude": 49.018425,
+      "longitude": 21.259791
+    },
+    {
+      "name": "Komunitné kompostovisko A. Prídavku",
+      "latitude": 49.014335,
+      "longitude": 21.228023
+    },
+    {
+      "name": "Zber použitého kuchynského oleja",
+      "latitude": 49.001043,
+      "longitude": 21.228777
+    },
+    {
+      "name": "Ekocharita Centrál",
+      "latitude": 48.998561,
+      "longitude": 21.224872
+    },
+    {
+      "name": "Aurex, s.r.o. Prešov",
+      "latitude": 48.987341,
+      "longitude": 21.245177
+    },
+    {
+      "name": "Komunitné kompostovisko Pavlovičovo námestie",
+      "latitude": 48.988724,
+      "longitude": 21.243263
+    },
+    {
+      "name": "Komunitné kompostovisko Zápotockého 5",
+      "latitude": 48.994402,
+      "longitude": 21.234863
+    },
+    {
+      "name": "Komunitné kompostovisko Pavlovičovo námestie",
+      "latitude": 48.989319,
+      "longitude": 21.240955
+    },
+    {
+      "name": "Ekocharita",
+      "latitude": 48.991357,
+      "longitude": 21.271002
+    },
+    {
+      "name": "Ekocharita",
+      "latitude": 48.996374,
+      "longitude": 21.270287
+    },
+    {
+      "name": "Technické služby mesta Prešov - Zberný dvor Jesenná",
+      "latitude": 48.968245,
+      "longitude": 21.255018
+    },
+    {
+      "name": "Snap - výkup a zber druhotných surovín",
+      "latitude": 48.979577,
+      "longitude": 21.259687
+    },
+    {
+      "name": "Eco-pack a.s.",
+      "latitude": 48.978578,
+      "longitude": 21.244685
+    },
+    {
+      "name": "Fecupral, spol. s r.o.",
+      "latitude": 48.977217,
+      "longitude": 21.248304
+    },
+    {
+      "name": "compost",
+      "latitude": 48.936475,
+      "longitude": 21.906516
+    },
+    {
+      "name": "home appliances",
+      "latitude": 48.93952,
+      "longitude": 21.905271
+    },
+    {
+      "name": "plastic",
+      "latitude": 48.929773,
+      "longitude": 21.893759
+    },
+    {
+      "name": "paper",
+      "latitude": 48.933931,
+      "longitude": 21.888985
+    },
+    {
+      "name": "Zberné suroviny",
+      "latitude": 48.993699,
+      "longitude": 22.15183
+    },
+    {
+      "name": "Zberný dvor odpadov",
+      "latitude": 48.842224,
+      "longitude": 17.215745
+    },
+    {
+      "name": "Výkup druhotných surovín",
+      "latitude": 48.842446,
+      "longitude": 17.21561
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.835198,
+      "longitude": 17.175252
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.781301,
+      "longitude": 17.110526
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.798234,
+      "longitude": 17.164842
+    },
+    {
+      "name": "Kovošrot",
+      "latitude": 48.800112,
+      "longitude": 17.161199
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.724532,
+      "longitude": 17.105701
+    },
+    {
+      "name": "Cihelna Gbely",
+      "latitude": 48.708711,
+      "longitude": 17.123137
+    },
+    {
+      "name": "Kovošrot Vašin",
+      "latitude": 48.708204,
+      "longitude": 17.124794
+    },
+    {
+      "name": "Zberné suroviny",
+      "latitude": 48.844372,
+      "longitude": 17.827095
+    },
+    {
+      "name": "Zberný dvor/malá kopostáreň obce Zamarovce",
+      "latitude": 48.912492,
+      "longitude": 18.056893
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.893017,
+      "longitude": 18.01605
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.888122,
+      "longitude": 17.961912
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.870184,
+      "longitude": 17.948623
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.876448,
+      "longitude": 17.968977
+    },
+    {
+      "name": "Kompostáreň BRO Marius Pedersen",
+      "latitude": 48.884415,
+      "longitude": 18.004399
+    },
+    {
+      "name": "Sklo",
+      "latitude": 48.882367,
+      "longitude": 18.035572
+    },
+    {
+      "name": "Zberné suroviny",
+      "latitude": 48.891789,
+      "longitude": 18.021512
+    },
+    {
+      "name": "Recyklačný dvor Soblahovská",
+      "latitude": 48.867812,
+      "longitude": 18.037928
+    },
+    {
+      "name": "Zberný dvor - Sever",
+      "latitude": 48.893126,
+      "longitude": 18.071676
+    },
+    {
+      "name": "Erson",
+      "latitude": 48.850212,
+      "longitude": 17.96488
+    },
+    {
+      "name": "Smetný dvorček",
+      "latitude": 48.86004,
+      "longitude": 17.96622
+    },
+    {
+      "name": "Zberný dvor Trenčianska Turná",
+      "latitude": 48.845924,
+      "longitude": 18.031074
+    },
+    {
+      "name": "ZDS",
+      "latitude": 48.75493,
+      "longitude": 17.836549
+    },
+    {
+      "name": "Zberné suroviny Žilina, a. s., prevádzka Nové Mesto nad Váhom",
+      "latitude": 48.748317,
+      "longitude": 17.840596
+    },
+    {
+      "name": "Zberný dvor Pastierňa",
+      "latitude": 48.708166,
+      "longitude": 17.79115
+    },
+    {
+      "name": "Recyklačné stredisko",
+      "latitude": 48.782745,
+      "longitude": 18.176274
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.723371,
+      "longitude": 18.266158
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.657108,
+      "longitude": 17.021773
+    },
+    {
+      "name": "Zberný dvor Štefanov",
+      "latitude": 48.670898,
+      "longitude": 17.21028
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.658862,
+      "longitude": 17.096767
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.597659,
+      "longitude": 17.003549
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.588766,
+      "longitude": 16.992243
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.630208,
+      "longitude": 17.153613
+    },
+    {
+      "name": "Zariadenie na zhodnocovanie odpadov - KPaEH pri ČOV Senica",
+      "latitude": 48.671572,
+      "longitude": 17.336447
+    },
+    {
+      "name": "Kompostáreň bioodpadov",
+      "latitude": 48.676573,
+      "longitude": 17.322717
+    },
+    {
+      "name": "Zberné suroviny a.s.",
+      "latitude": 48.670153,
+      "longitude": 17.338901
+    },
+    {
+      "name": "Centrálny zberný dvor",
+      "latitude": 48.671802,
+      "longitude": 17.345969
+    },
+    {
+      "name": "Ferosam",
+      "latitude": 48.671851,
+      "longitude": 17.345399
+    },
+    {
+      "name": "Výkup železa a farebných kovov",
+      "latitude": 48.509947,
+      "longitude": 16.996453
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.509479,
+      "longitude": 17.015951
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.625275,
+      "longitude": 17.723223
+    },
+    {
+      "name": "Korekt Metal",
+      "latitude": 48.618398,
+      "longitude": 17.732804
+    },
+    {
+      "name": "Zberné stredisko",
+      "latitude": 48.607977,
+      "longitude": 17.833423
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.620444,
+      "longitude": 17.792813
+    },
+    {
+      "name": "Výkup druhotných surovín",
+      "latitude": 48.587302,
+      "longitude": 18.207129
+    },
+    {
+      "name": "Zberný dvor Chtelnica",
+      "latitude": 48.569852,
+      "longitude": 17.611435
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.528791,
+      "longitude": 17.6109
+    },
+    {
+      "name": "SCHWARZ-EKO",
+      "latitude": 48.557269,
+      "longitude": 18.151732
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.810394,
+      "longitude": 18.65007
+    },
+    {
+      "name": "Dopamija",
+      "latitude": 48.762674,
+      "longitude": 18.621672
+    },
+    {
+      "name": "Technické služby Bojnice",
+      "latitude": 48.776727,
+      "longitude": 18.584857
+    },
+    {
+      "name": "T+T",
+      "latitude": 48.764572,
+      "longitude": 18.609055
+    },
+    {
+      "name": "ŽP Eko Qelet",
+      "latitude": 48.764836,
+      "longitude": 18.619169
+    },
+    {
+      "name": "Stredisko separovaného zberu",
+      "latitude": 48.704179,
+      "longitude": 18.448004
+    },
+    {
+      "name": "Mestské kompostovisko",
+      "latitude": 48.698334,
+      "longitude": 18.92527
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.876812,
+      "longitude": 19.235898
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.851616,
+      "longitude": 19.631975
+    },
+    {
+      "name": "ELEKTRO RECYCLING, s.r.o.",
+      "latitude": 48.755254,
+      "longitude": 19.244639
+    },
+    {
+      "name": "Zberný dvor - Zberňa triedeného odpadu Dechetteries v Radvani",
+      "latitude": 48.715215,
+      "longitude": 19.140062
+    },
+    {
+      "name": "Detox s.r.o.",
+      "latitude": 48.702672,
+      "longitude": 19.137646
+    },
+    {
+      "name": "Alba Waste s.r.o",
+      "latitude": 48.742736,
+      "longitude": 19.199341
+    },
+    {
+      "name": "IFE linka Alba Waste s.r o",
+      "latitude": 48.742878,
+      "longitude": 19.199256
+    },
+    {
+      "name": "Falcup kovošrot",
+      "latitude": 48.689783,
+      "longitude": 18.596861
+    },
+    {
+      "name": "Koveko",
+      "latitude": 48.625377,
+      "longitude": 18.348229
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.625735,
+      "longitude": 18.395717
+    },
+    {
+      "name": "Kovošrot",
+      "latitude": 48.62829,
+      "longitude": 18.398359
+    },
+    {
+      "name": "Bio",
+      "latitude": 48.47492,
+      "longitude": 18.493786
+    },
+    {
+      "name": "Biologický zberný dvor Jedľové Kostoľany",
+      "latitude": 48.467914,
+      "longitude": 18.486733
+    },
+    {
+      "name": "Marius Pedersen, a.s.",
+      "latitude": 48.577006,
+      "longitude": 19.170164
+    },
+    {
+      "name": "Výkup železa a farebných kovov",
+      "latitude": 48.443775,
+      "longitude": 17.00109
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.450303,
+      "longitude": 16.98758
+    },
+    {
+      "name": "Tekos zberný dvor",
+      "latitude": 48.448782,
+      "longitude": 17.039147
+    },
+    {
+      "name": "Tekos",
+      "latitude": 48.435737,
+      "longitude": 17.023149
+    },
+    {
+      "name": "Kompostáreň",
+      "latitude": 48.416222,
+      "longitude": 17.013777
+    },
+    {
+      "name": "Obecná skládka",
+      "latitude": 48.458071,
+      "longitude": 17.180921
+    },
+    {
+      "name": "Zber oblečenia",
+      "latitude": 48.431279,
+      "longitude": 17.531143
+    },
+    {
+      "name": "Zberný dvor Bohdanovce nad Trnavou",
+      "latitude": 48.433074,
+      "longitude": 17.541639
+    },
+    {
+      "name": "EKO centrum",
+      "latitude": 48.241257,
+      "longitude": 17.028051
+    },
+    {
+      "name": "Kovohuty SK, s.r.o.",
+      "latitude": 48.240788,
+      "longitude": 17.02859
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.324736,
+      "longitude": 17.311781
+    },
+    {
+      "name": "Technický a skladový areál MPS",
+      "latitude": 48.290018,
+      "longitude": 17.249316
+    },
+    {
+      "name": "Tenarry Slovakia s.r.o.",
+      "latitude": 48.297419,
+      "longitude": 17.296049
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.295739,
+      "longitude": 17.359133
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.311094,
+      "longitude": 17.438509
+    },
+    {
+      "name": "Kompostáreň Svätý Jur",
+      "latitude": 48.256954,
+      "longitude": 17.235191
+    },
+    {
+      "name": "ŽP Eko Qelet",
+      "latitude": 48.228809,
+      "longitude": 17.445423
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.435168,
+      "longitude": 17.618981
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.453885,
+      "longitude": 17.684354
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.440908,
+      "longitude": 17.705039
+    },
+    {
+      "name": "Zberný dvor II.",
+      "latitude": 48.444062,
+      "longitude": 17.801075
+    },
+    {
+      "name": "Zberný dvor I.",
+      "latitude": 48.426706,
+      "longitude": 17.779495
+    },
+    {
+      "name": "Zberný dvor Cukrová ulica",
+      "latitude": 48.388765,
+      "longitude": 17.584555
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.395585,
+      "longitude": 17.598424
+    },
+    {
+      "name": "Autovraky",
+      "latitude": 48.360455,
+      "longitude": 17.604926
+    },
+    {
+      "name": "Výkup paliet",
+      "latitude": 48.374309,
+      "longitude": 18.043891
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.372186,
+      "longitude": 18.040939
+    },
+    {
+      "name": "Biologický zberný dvor",
+      "latitude": 48.382828,
+      "longitude": 18.069254
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.323977,
+      "longitude": 17.656677
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.326297,
+      "longitude": 17.599916
+    },
+    {
+      "name": "Tráva, listy, konáre, ...",
+      "latitude": 48.321827,
+      "longitude": 17.661444
+    },
+    {
+      "name": "Kontainer - Sklo",
+      "latitude": 48.311757,
+      "longitude": 17.867598
+    },
+    {
+      "name": "Zberný dvor Dolná Streda",
+      "latitude": 48.269494,
+      "longitude": 17.749568
+    },
+    {
+      "name": "Zberný dvor mesta Sereď",
+      "latitude": 48.276851,
+      "longitude": 17.743305
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.248959,
+      "longitude": 17.623292
+    },
+    {
+      "name": "Zberný dvor v areáli Zoborských kasární",
+      "latitude": 48.323084,
+      "longitude": 18.10354
+    },
+    {
+      "name": "Zberný dvor Braneckého ul.",
+      "latitude": 48.307761,
+      "longitude": 18.071665
+    },
+    {
+      "name": "Zberný dvor Mestské služby",
+      "latitude": 48.29177,
+      "longitude": 18.075012
+    },
+    {
+      "name": "Zberný dvor NKS",
+      "latitude": 48.300598,
+      "longitude": 18.096108
+    },
+    {
+      "name": "ŽP EKO QELET",
+      "latitude": 48.294961,
+      "longitude": 18.080099
+    },
+    {
+      "name": "Kovošrot Kasalova",
+      "latitude": 48.302131,
+      "longitude": 18.119477
+    },
+    {
+      "name": "Zberný dvor Rabčekova ul.",
+      "latitude": 48.284461,
+      "longitude": 18.144748
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.307493,
+      "longitude": 18.179251
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.275324,
+      "longitude": 17.954568
+    },
+    {
+      "name": "Ignác Tóth - výkup surovín",
+      "latitude": 48.267234,
+      "longitude": 18.090714
+    },
+    {
+      "name": "Zberný dvor Cabaj - Čápor",
+      "latitude": 48.244911,
+      "longitude": 18.020339
+    },
+    {
+      "name": "Zberný dvor v areáli kompostárne",
+      "latitude": 48.272775,
+      "longitude": 18.111799
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.254902,
+      "longitude": 18.156466
+    },
+    {
+      "name": "Zberný dvor obce",
+      "latitude": 48.239693,
+      "longitude": 18.174267
+    },
+    {
+      "name": "MIKA-ŠROT",
+      "latitude": 48.20541,
+      "longitude": 17.041071
+    },
+    {
+      "name": "VDS Group",
+      "latitude": 48.180214,
+      "longitude": 17.057973
+    },
+    {
+      "name": "Cvik",
+      "latitude": 48.172191,
+      "longitude": 17.175105
+    },
+    {
+      "name": "WIP autovrakovisko",
+      "latitude": 48.17327,
+      "longitude": 17.177582
+    },
+    {
+      "name": "Zberný dvor OLO, a.s.",
+      "latitude": 48.171237,
+      "longitude": 17.179535
+    },
+    {
+      "name": "P+K",
+      "latitude": 48.175087,
+      "longitude": 17.142677
+    },
+    {
+      "name": "Kovošrot P+K",
+      "latitude": 48.173085,
+      "longitude": 17.155708
+    },
+    {
+      "name": "Majkov",
+      "latitude": 48.143801,
+      "longitude": 17.184553
+    },
+    {
+      "name": "Palkov",
+      "latitude": 48.144047,
+      "longitude": 17.144654
+    },
+    {
+      "name": "Zberný dvor Bratislava – Vrakuňa",
+      "latitude": 48.16031,
+      "longitude": 17.217335
+    },
+    {
+      "name": "Tasta",
+      "latitude": 48.118852,
+      "longitude": 17.096366
+    },
+    {
+      "name": "Výkup paliet",
+      "latitude": 48.118415,
+      "longitude": 17.086308
+    },
+    {
+      "name": "Komunitné kompostovisko Romanova",
+      "latitude": 48.114092,
+      "longitude": 17.110274
+    },
+    {
+      "name": "Zberný dvor BUČINA EKO Depo Bratislava",
+      "latitude": 48.132099,
+      "longitude": 17.123007
+    },
+    {
+      "name": "Zberný dvor Petržalka",
+      "latitude": 48.114242,
+      "longitude": 17.098408
+    },
+    {
+      "name": "ZP EKO QELET",
+      "latitude": 48.115716,
+      "longitude": 17.093854
+    },
+    {
+      "name": "Palkov",
+      "latitude": 48.132685,
+      "longitude": 17.225834
+    },
+    {
+      "name": "Kompostáreň Bernolákovo",
+      "latitude": 48.205244,
+      "longitude": 17.303572
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.216508,
+      "longitude": 17.239887
+    },
+    {
+      "name": "Kompostáreň Nová Dedinka",
+      "latitude": 48.199075,
+      "longitude": 17.369376
+    },
+    {
+      "name": "Hard Plastic Recycling s.r.o.",
+      "latitude": 48.212863,
+      "longitude": 17.414985
+    },
+    {
+      "name": "Ingemar",
+      "latitude": 48.21288,
+      "longitude": 17.414564
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.160247,
+      "longitude": 17.273729
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.111643,
+      "longitude": 17.447451
+    },
+    {
+      "name": "PN recykling",
+      "latitude": 48.104797,
+      "longitude": 17.255295
+    },
+    {
+      "name": "Zberný dvor Rovinka",
+      "latitude": 48.09974,
+      "longitude": 17.240893
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.094885,
+      "longitude": 17.299705
+    },
+    {
+      "name": "Zberný dvor Kalinkovo",
+      "latitude": 48.064456,
+      "longitude": 17.248071
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.064459,
+      "longitude": 17.367372
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.042578,
+      "longitude": 17.248486
+    },
+    {
+      "name": "Zberné suroviny",
+      "latitude": 48.191823,
+      "longitude": 17.746655
+    },
+    {
+      "name": "ŠROTSERVIS",
+      "latitude": 48.183349,
+      "longitude": 17.726381
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.183141,
+      "longitude": 17.778732
+    },
+    {
+      "name": "Kompostáreň Šaľa",
+      "latitude": 48.173231,
+      "longitude": 17.889544
+    },
+    {
+      "name": "Zberný dvor pre občanov mesta Šaľa-Veča",
+      "latitude": 48.162166,
+      "longitude": 17.895277
+    },
+    {
+      "name": "Výkup kovov - KBZ spol. s r.o.",
+      "latitude": 48.145614,
+      "longitude": 17.860636
+    },
+    {
+      "name": "Výkup kovov - Unimet spol. s r.o.",
+      "latitude": 48.145749,
+      "longitude": 17.864416
+    },
+    {
+      "name": "Zber nebezpečného odpadu - Speko",
+      "latitude": 48.144159,
+      "longitude": 17.863245
+    },
+    {
+      "name": "Zberný dvor Šaľa",
+      "latitude": 48.16216,
+      "longitude": 17.895258
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.184573,
+      "longitude": 18.205299
+    },
+    {
+      "name": "ŽP EKO QELET",
+      "latitude": 48.082815,
+      "longitude": 18.180264
+    },
+    {
+      "name": "Recyklačné stredisko",
+      "latitude": 48.104061,
+      "longitude": 18.233439
+    },
+    {
+      "name": "Miestna výkupňa Šurany",
+      "latitude": 48.077452,
+      "longitude": 18.17776
+    },
+    {
+      "name": "MS KOV",
+      "latitude": 48.384762,
+      "longitude": 18.376659
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.434489,
+      "longitude": 18.635107
+    },
+    {
+      "name": "Zberné suroviny",
+      "latitude": 48.448277,
+      "longitude": 18.907888
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.446461,
+      "longitude": 18.913061
+    },
+    {
+      "name": "Zberné suroviny",
+      "latitude": 48.348632,
+      "longitude": 18.724471
+    },
+    {
+      "name": "Zberné suroviny a.s.",
+      "latitude": 48.225748,
+      "longitude": 18.603952
+    },
+    {
+      "name": "Zber stavebného odpadu",
+      "latitude": 48.323517,
+      "longitude": 19.063281
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.288126,
+      "longitude": 18.987954
+    },
+    {
+      "name": "Malá kompostáreň",
+      "latitude": 48.287639,
+      "longitude": 18.992882
+    },
+    {
+      "name": "Zberný dvor Levice",
+      "latitude": 48.19623,
+      "longitude": 18.599242
+    },
+    {
+      "name": "Zberné suroviny a.s.",
+      "latitude": 48.196821,
+      "longitude": 18.594757
+    },
+    {
+      "name": "ŽP eko quelet",
+      "latitude": 48.197699,
+      "longitude": 18.595939
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.13558,
+      "longitude": 18.332697
+    },
+    {
+      "name": "Zberný dvor triedeného odpadu",
+      "latitude": 48.080226,
+      "longitude": 18.953832
+    },
+    {
+      "name": "Zberné suroviny a.s., MV Veľký Krtíš",
+      "latitude": 48.214667,
+      "longitude": 19.338496
+    },
+    {
+      "name": "HUMANA",
+      "latitude": 48.205732,
+      "longitude": 19.344038
+    },
+    {
+      "name": "Zberný dvor obce Slavošovce",
+      "latitude": 48.713943,
+      "longitude": 20.277108
+    },
+    {
+      "name": "CHMET",
+      "latitude": 48.921129,
+      "longitude": 20.878206
+    },
+    {
+      "name": "Zberný dvor Gemerská Poloma",
+      "latitude": 48.711055,
+      "longitude": 20.479095
+    },
+    {
+      "name": "Kompostáreň Gemerská Poloma",
+      "latitude": 48.707545,
+      "longitude": 20.49196
+    },
+    {
+      "name": "Zberný dvor Betliar",
+      "latitude": 48.7015,
+      "longitude": 20.516342
+    },
+    {
+      "name": "Mestské kompostovisko",
+      "latitude": 48.710611,
+      "longitude": 20.867817
+    },
+    {
+      "name": "Kovozber",
+      "latitude": 48.650301,
+      "longitude": 20.523976
+    },
+    {
+      "name": "Zberný dvor na odpady v meste Rožňava",
+      "latitude": 48.658017,
+      "longitude": 20.518892
+    },
+    {
+      "name": "Fe-markt",
+      "latitude": 48.597997,
+      "longitude": 20.887505
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.75323,
+      "longitude": 21.257928
+    },
+    {
+      "name": "Srdce",
+      "latitude": 48.754747,
+      "longitude": 21.268252
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.75054,
+      "longitude": 21.261269
+    },
+    {
+      "name": "Výkup druhotných surovín",
+      "latitude": 48.726009,
+      "longitude": 21.236141
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.721396,
+      "longitude": 21.226736
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.712405,
+      "longitude": 21.268886
+    },
+    {
+      "name": "Srdce",
+      "latitude": 48.711486,
+      "longitude": 21.213097
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.707961,
+      "longitude": 21.269444
+    },
+    {
+      "name": "Zberný dvor Ďurkov",
+      "latitude": 48.710895,
+      "longitude": 21.449107
+    },
+    {
+      "name": "Zberný dvor Tušice",
+      "latitude": 48.724466,
+      "longitude": 21.735349
+    },
+    {
+      "name": "Malá obecná kompostáreň Tušice",
+      "latitude": 48.723303,
+      "longitude": 21.727392
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.765374,
+      "longitude": 21.928998
+    },
+    {
+      "name": "Stafer",
+      "latitude": 48.750072,
+      "longitude": 21.888816
+    },
+    {
+      "name": "Zber a výkup druhotných surovín",
+      "latitude": 48.743098,
+      "longitude": 21.897999
+    },
+    {
+      "name": "Zberné suroviny Žilina a.s.",
+      "latitude": 48.746029,
+      "longitude": 21.889971
+    },
+    {
+      "name": "Metablex",
+      "latitude": 48.739845,
+      "longitude": 21.900866
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.738529,
+      "longitude": 21.923789
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.749896,
+      "longitude": 22.168614
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.685893,
+      "longitude": 21.282043
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.672328,
+      "longitude": 21.271801
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.67949,
+      "longitude": 21.288726
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.671118,
+      "longitude": 21.304328
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.626399,
+      "longitude": 21.172018
+    },
+    {
+      "name": "Zberko",
+      "latitude": 48.632253,
+      "longitude": 21.212824
+    },
+    {
+      "name": "Kovoinvest",
+      "latitude": 48.631577,
+      "longitude": 21.213489
+    },
+    {
+      "name": "Marius Pedersen",
+      "latitude": 48.579999,
+      "longitude": 21.221276
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 47.929412,
+      "longitude": 17.705675
+    },
+    {
+      "name": "VPS Nesvady s.r.o.",
+      "latitude": 47.923626,
+      "longitude": 18.112472
+    },
+    {
+      "name": "Ekodvor Imeľ",
+      "latitude": 47.897901,
+      "longitude": 18.15797
+    },
+    {
+      "name": "Ekodvor Imeľ",
+      "latitude": 47.897814,
+      "longitude": 18.157281
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 47.89446,
+      "longitude": 18.308138
+    },
+    {
+      "name": "KSOH - Komunálne služby a odpadové hospodárstvo Štúrovo",
+      "latitude": 47.800004,
+      "longitude": 18.711517
+    }
+  ],
+  "meta": {
+    "title": "Zberné miesta - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (amenity=recycling). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84. Obsahuje 285 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Zberné miesta | ListBase",
+    "seo_description": "Stiahnuť Zberné miesta — 285 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 285 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

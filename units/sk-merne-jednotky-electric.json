@@ -1,0 +1,133 @@
+{
+  "id": "sk-merne-jednotky-electric",
+  "name": "Merné jednotky — kategória 'electric' (8)",
+  "title": "Merné jednotky — kategória 'electric' (8)",
+  "description": "Merné jednotky kategórie 'electric' z locale sk v CLDR, s názvami v slovenčine.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "skratka",
+      "label": "Skratka",
+      "type": "string"
+    },
+    {
+      "key": "uzky_tvar",
+      "label": "Uzky Tvar",
+      "type": "string"
+    },
+    {
+      "key": "vzor",
+      "label": "Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "electric-ampere",
+      "kategoria": "electric",
+      "nazov": "ampéry",
+      "skratka": "A",
+      "uzky_tvar": "A",
+      "vzor": "{0} ampérov"
+    },
+    {
+      "id": 2,
+      "unit_code": "electric-coulomb",
+      "kategoria": "electric",
+      "nazov": "coulomby",
+      "skratka": "C",
+      "uzky_tvar": "C",
+      "vzor": "{0} coulombov"
+    },
+    {
+      "id": 3,
+      "unit_code": "electric-farad",
+      "kategoria": "electric",
+      "nazov": "farady",
+      "skratka": "F",
+      "uzky_tvar": "F",
+      "vzor": "{0} faradov"
+    },
+    {
+      "id": 4,
+      "unit_code": "electric-henry",
+      "kategoria": "electric",
+      "nazov": "henry",
+      "skratka": "H",
+      "uzky_tvar": "H",
+      "vzor": "{0} henry"
+    },
+    {
+      "id": 5,
+      "unit_code": "electric-milliampere",
+      "kategoria": "electric",
+      "nazov": "miliampéry",
+      "skratka": "mA",
+      "uzky_tvar": "mA",
+      "vzor": "{0} miliampérov"
+    },
+    {
+      "id": 6,
+      "unit_code": "electric-ohm",
+      "kategoria": "electric",
+      "nazov": "ohmy",
+      "skratka": "Ω",
+      "uzky_tvar": "Ω",
+      "vzor": "{0} ohmov"
+    },
+    {
+      "id": 7,
+      "unit_code": "electric-siemens",
+      "kategoria": "electric",
+      "nazov": "siemensy",
+      "skratka": "S",
+      "uzky_tvar": "S",
+      "vzor": "{0} siemensov"
+    },
+    {
+      "id": 8,
+      "unit_code": "electric-volt",
+      "kategoria": "electric",
+      "nazov": "volty",
+      "skratka": "V",
+      "uzky_tvar": "V",
+      "vzor": "{0} voltov"
+    }
+  ],
+  "meta": {
+    "title": "Merné jednotky — kategória 'electric' (8) - Bezplatné stiahnutie",
+    "description": "Merné jednotky kategórie 'electric' z locale sk v CLDR, s názvami v slovenčine. Obsahuje 8 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Merné jednotky — kategória 'electric' (8) | ListBase",
+    "seo_description": "Stiahnuť Merné jednotky — kategória 'electric' (8) — 8 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 8 záznamov / 7 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

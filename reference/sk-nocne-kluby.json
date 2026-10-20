@@ -1,0 +1,666 @@
+{
+  "id": "sk-nocne-kluby",
+  "name": "Slovenské nočné kluby",
+  "title": "Slovenské nočné kluby",
+  "description": "Zoznam pomenovaných nočných klubov na Slovensku (amenity=nightclub) z OpenStreetMap.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 125,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "263 Pub",
+      "latitude": 48.997118,
+      "longitude": 21.242009
+    },
+    {
+      "name": "Admiral",
+      "latitude": 49.026603,
+      "longitude": 20.590402
+    },
+    {
+      "name": "Admiral",
+      "latitude": 49.084696,
+      "longitude": 19.609891
+    },
+    {
+      "name": "Admiral",
+      "latitude": 49.402177,
+      "longitude": 18.624896
+    },
+    {
+      "name": "Admiral Club & VIP Café",
+      "latitude": 49.002293,
+      "longitude": 21.238689
+    },
+    {
+      "name": "Alcatraz",
+      "latitude": 48.757768,
+      "longitude": 21.919142
+    },
+    {
+      "name": "Apollon Gay Club",
+      "latitude": 48.147826,
+      "longitude": 17.104205
+    },
+    {
+      "name": "Archa Pub",
+      "latitude": 48.995291,
+      "longitude": 21.241918
+    },
+    {
+      "name": "ARENA",
+      "latitude": 48.028755,
+      "longitude": 17.313528
+    },
+    {
+      "name": "AS Club",
+      "latitude": 49.08291,
+      "longitude": 19.30149
+    },
+    {
+      "name": "Bakatu",
+      "latitude": 48.661644,
+      "longitude": 20.533633
+    },
+    {
+      "name": "Bar Cowboy",
+      "latitude": 47.991532,
+      "longitude": 18.270226
+    },
+    {
+      "name": "Bar Kalambur",
+      "latitude": 49.068202,
+      "longitude": 19.386331
+    },
+    {
+      "name": "Baracuda disco bar",
+      "latitude": 48.130772,
+      "longitude": 17.180749
+    },
+    {
+      "name": "Barracuda",
+      "latitude": 48.315345,
+      "longitude": 18.090011
+    },
+    {
+      "name": "Be happy club",
+      "latitude": 48.148852,
+      "longitude": 17.110875
+    },
+    {
+      "name": "Biliard",
+      "latitude": 48.218513,
+      "longitude": 18.604402
+    },
+    {
+      "name": "Boba Bar",
+      "latitude": 48.715477,
+      "longitude": 21.262133
+    },
+    {
+      "name": "Café Club Caracas",
+      "latitude": 49.084104,
+      "longitude": 19.300971
+    },
+    {
+      "name": "Casey",
+      "latitude": 48.147993,
+      "longitude": 17.068149
+    },
+    {
+      "name": "Casino",
+      "latitude": 48.588854,
+      "longitude": 17.837245
+    },
+    {
+      "name": "Casino",
+      "latitude": 48.915646,
+      "longitude": 20.87326
+    },
+    {
+      "name": "Casting Club",
+      "latitude": 48.991533,
+      "longitude": 21.24509
+    },
+    {
+      "name": "Centauri",
+      "latitude": 49.222681,
+      "longitude": 18.740731
+    },
+    {
+      "name": "CITY music club",
+      "latitude": 48.991212,
+      "longitude": 21.246216
+    },
+    {
+      "name": "Clip Bar",
+      "latitude": 49.438049,
+      "longitude": 18.785194
+    },
+    {
+      "name": "Club 333",
+      "latitude": 48.77742,
+      "longitude": 18.603508
+    },
+    {
+      "name": "Club History",
+      "latitude": 48.362105,
+      "longitude": 16.971086
+    },
+    {
+      "name": "Club Krym",
+      "latitude": 48.909851,
+      "longitude": 18.170014
+    },
+    {
+      "name": "Collosseum",
+      "latitude": 48.72018,
+      "longitude": 21.253563
+    },
+    {
+      "name": "Continental Club",
+      "latitude": 48.999772,
+      "longitude": 21.239906
+    },
+    {
+      "name": "Crystal Gentleman night club",
+      "latitude": 48.71865,
+      "longitude": 21.256657
+    },
+    {
+      "name": "Devil's Pub",
+      "latitude": 48.31514,
+      "longitude": 18.090426
+    },
+    {
+      "name": "Disco club Perla",
+      "latitude": 48.533427,
+      "longitude": 17.322121
+    },
+    {
+      "name": "Downtown",
+      "latitude": 48.943707,
+      "longitude": 20.566381
+    },
+    {
+      "name": "Encore Lounge Bar",
+      "latitude": 49.002072,
+      "longitude": 21.238542
+    },
+    {
+      "name": "ENCORE the Club",
+      "latitude": 49.002132,
+      "longitude": 21.238678
+    },
+    {
+      "name": "ENCORE the Game Club",
+      "latitude": 49.002053,
+      "longitude": 21.23866
+    },
+    {
+      "name": "Enjoy Music Club",
+      "latitude": 48.185831,
+      "longitude": 17.252638
+    },
+    {
+      "name": "EnjoyClub",
+      "latitude": 49.223857,
+      "longitude": 18.739816
+    },
+    {
+      "name": "Eros Night Club",
+      "latitude": 49.057409,
+      "longitude": 20.295181
+    },
+    {
+      "name": "Erotic Nigh Club efekt",
+      "latitude": 49.141038,
+      "longitude": 20.298443
+    },
+    {
+      "name": "Erotický salón Hrašné",
+      "latitude": 48.75059,
+      "longitude": 17.663642
+    },
+    {
+      "name": "Fuga",
+      "latitude": 48.144469,
+      "longitude": 17.112043
+    },
+    {
+      "name": "Galaxy Club",
+      "latitude": 48.993313,
+      "longitude": 21.267842
+    },
+    {
+      "name": "GREAT",
+      "latitude": 48.147117,
+      "longitude": 17.106696
+    },
+    {
+      "name": "Groove club",
+      "latitude": 49.066351,
+      "longitude": 18.922938
+    },
+    {
+      "name": "Hangár",
+      "latitude": 48.445985,
+      "longitude": 19.556759
+    },
+    {
+      "name": "Harlem",
+      "latitude": 47.856779,
+      "longitude": 17.774691
+    },
+    {
+      "name": "Herňa",
+      "latitude": 47.992886,
+      "longitude": 18.26426
+    },
+    {
+      "name": "Herňa Admiral café",
+      "latitude": 47.756357,
+      "longitude": 18.125651
+    },
+    {
+      "name": "Herňa FP club",
+      "latitude": 48.595808,
+      "longitude": 17.816108
+    },
+    {
+      "name": "Herňa Vabank",
+      "latitude": 47.761817,
+      "longitude": 18.126698
+    },
+    {
+      "name": "Icon Club",
+      "latitude": 48.753327,
+      "longitude": 21.900112
+    },
+    {
+      "name": "Ihrisko",
+      "latitude": 48.997846,
+      "longitude": 20.36345
+    },
+    {
+      "name": "Ilúzia Klub",
+      "latitude": 49.207657,
+      "longitude": 19.29598
+    },
+    {
+      "name": "Infinity Bar - Live poker & Billiard",
+      "latitude": 48.993505,
+      "longitude": 21.244096
+    },
+    {
+      "name": "Infinity club",
+      "latitude": 48.625973,
+      "longitude": 18.373102
+    },
+    {
+      "name": "Ipon",
+      "latitude": 48.679404,
+      "longitude": 17.360446
+    },
+    {
+      "name": "Jamajka",
+      "latitude": 48.998347,
+      "longitude": 20.362586
+    },
+    {
+      "name": "JN Club",
+      "latitude": 48.78103,
+      "longitude": 18.62188
+    },
+    {
+      "name": "Joker",
+      "latitude": 47.758283,
+      "longitude": 18.124041
+    },
+    {
+      "name": "Jolly club",
+      "latitude": 47.758395,
+      "longitude": 18.125925
+    },
+    {
+      "name": "Jordan",
+      "latitude": 48.75013,
+      "longitude": 21.262744
+    },
+    {
+      "name": "K2",
+      "latitude": 49.211801,
+      "longitude": 18.737911
+    },
+    {
+      "name": "Klub 39",
+      "latitude": 48.158061,
+      "longitude": 17.066567
+    },
+    {
+      "name": "Klub 89",
+      "latitude": 48.216045,
+      "longitude": 18.604778
+    },
+    {
+      "name": "Klub Lúč - otvorený kultúrny priestor",
+      "latitude": 48.89428,
+      "longitude": 18.036865
+    },
+    {
+      "name": "Kotva",
+      "latitude": 49.065096,
+      "longitude": 21.660701
+    },
+    {
+      "name": "Kriváň",
+      "latitude": 49.116088,
+      "longitude": 19.036285
+    },
+    {
+      "name": "Kulturák klub",
+      "latitude": 48.154463,
+      "longitude": 17.105956
+    },
+    {
+      "name": "Kumelka",
+      "latitude": 48.140954,
+      "longitude": 17.117265
+    },
+    {
+      "name": "Ladanza",
+      "latitude": 48.933856,
+      "longitude": 20.631244
+    },
+    {
+      "name": "Laguna",
+      "latitude": 48.758532,
+      "longitude": 21.917911
+    },
+    {
+      "name": "Lagúna",
+      "latitude": 48.010323,
+      "longitude": 17.307959
+    },
+    {
+      "name": "LaStriga",
+      "latitude": 48.691088,
+      "longitude": 18.529828
+    },
+    {
+      "name": "Life",
+      "latitude": 49.119562,
+      "longitude": 18.441656
+    },
+    {
+      "name": "Life Music Club",
+      "latitude": 49.22687,
+      "longitude": 18.744407
+    },
+    {
+      "name": "Live Club",
+      "latitude": 48.719789,
+      "longitude": 21.256176
+    },
+    {
+      "name": "Luna",
+      "latitude": 48.315148,
+      "longitude": 18.090786
+    },
+    {
+      "name": "Luna bar",
+      "latitude": 48.146108,
+      "longitude": 17.114851
+    },
+    {
+      "name": "Magic club",
+      "latitude": 48.627757,
+      "longitude": 18.371161
+    },
+    {
+      "name": "MANGO Music Club & Lounge Bar",
+      "latitude": 48.591746,
+      "longitude": 17.827144
+    },
+    {
+      "name": "Maňana pub - nalíváreň",
+      "latitude": 48.380329,
+      "longitude": 17.584426
+    },
+    {
+      "name": "Meduza Prešov - Shisha & Fun Bar",
+      "latitude": 48.990184,
+      "longitude": 21.23585
+    },
+    {
+      "name": "Metropola",
+      "latitude": 49.080491,
+      "longitude": 19.304194
+    },
+    {
+      "name": "Mexiko",
+      "latitude": 48.312774,
+      "longitude": 18.087833
+    },
+    {
+      "name": "Ministry of Fun",
+      "latitude": 48.729563,
+      "longitude": 19.135072
+    },
+    {
+      "name": "MMC",
+      "latitude": 48.156956,
+      "longitude": 17.113715
+    },
+    {
+      "name": "Moment club",
+      "latitude": 48.812631,
+      "longitude": 18.582775
+    },
+    {
+      "name": "Monkey Club",
+      "latitude": 48.376642,
+      "longitude": 17.584436
+    },
+    {
+      "name": "Mysterium club",
+      "latitude": 49.298871,
+      "longitude": 20.698275
+    },
+    {
+      "name": "Paris Night Club",
+      "latitude": 48.738023,
+      "longitude": 21.260012
+    },
+    {
+      "name": "Ponorka Disco Bar",
+      "latitude": 48.384727,
+      "longitude": 18.390816
+    },
+    {
+      "name": "Ponorka Music Pub",
+      "latitude": 48.994663,
+      "longitude": 21.242236
+    },
+    {
+      "name": "R2 Music Club",
+      "latitude": 49.000819,
+      "longitude": 21.238978
+    },
+    {
+      "name": "Radosť",
+      "latitude": 48.147879,
+      "longitude": 17.111335
+    },
+    {
+      "name": "Relax",
+      "latitude": 48.382716,
+      "longitude": 17.585283
+    },
+    {
+      "name": "Retro bar",
+      "latitude": 48.967757,
+      "longitude": 19.576189
+    },
+    {
+      "name": "Rio",
+      "latitude": 48.315286,
+      "longitude": 18.089875
+    },
+    {
+      "name": "Riverside",
+      "latitude": 48.642113,
+      "longitude": 17.144208
+    },
+    {
+      "name": "Royal herňa",
+      "latitude": 48.594669,
+      "longitude": 17.821138
+    },
+    {
+      "name": "RR Club",
+      "latitude": 48.715844,
+      "longitude": 21.262221
+    },
+    {
+      "name": "Sabrina",
+      "latitude": 49.116523,
+      "longitude": 18.445684
+    },
+    {
+      "name": "Salsa by Norika",
+      "latitude": 48.164838,
+      "longitude": 17.153608
+    },
+    {
+      "name": "SECRET NIGHT CLUB",
+      "latitude": 48.994676,
+      "longitude": 21.241188
+    },
+    {
+      "name": "Slopper",
+      "latitude": 48.429533,
+      "longitude": 17.80134
+    },
+    {
+      "name": "Stará ponorka",
+      "latitude": 48.73819,
+      "longitude": 19.149536
+    },
+    {
+      "name": "Steps club",
+      "latitude": 48.8941,
+      "longitude": 18.03995
+    },
+    {
+      "name": "Subway club",
+      "latitude": 49.116803,
+      "longitude": 18.451082
+    },
+    {
+      "name": "Surprise",
+      "latitude": 49.05696,
+      "longitude": 20.302287
+    },
+    {
+      "name": "SWAY",
+      "latitude": 49.190359,
+      "longitude": 18.508535
+    },
+    {
+      "name": "The Club",
+      "latitude": 48.140531,
+      "longitude": 17.105993
+    },
+    {
+      "name": "The Plaza Club Bratislava",
+      "latitude": 48.147583,
+      "longitude": 17.108551
+    },
+    {
+      "name": "Times",
+      "latitude": 48.661246,
+      "longitude": 20.53198
+    },
+    {
+      "name": "trafo.",
+      "latitude": 48.142101,
+      "longitude": 17.106092
+    },
+    {
+      "name": "UniK Mlyny",
+      "latitude": 48.160274,
+      "longitude": 17.066605
+    },
+    {
+      "name": "V-Klub",
+      "latitude": 48.697881,
+      "longitude": 21.233717
+    },
+    {
+      "name": "Visteria club",
+      "latitude": 48.727693,
+      "longitude": 21.264736
+    },
+    {
+      "name": "Vix",
+      "latitude": 49.209092,
+      "longitude": 18.760879
+    },
+    {
+      "name": "W Club",
+      "latitude": 47.987183,
+      "longitude": 18.165767
+    },
+    {
+      "name": "WAX2",
+      "latitude": 48.143532,
+      "longitude": 17.113315
+    },
+    {
+      "name": "we_Ganek",
+      "latitude": 48.995876,
+      "longitude": 21.241466
+    },
+    {
+      "name": "Áčko",
+      "latitude": 48.943803,
+      "longitude": 20.566095
+    },
+    {
+      "name": "ŠAFKO",
+      "latitude": 48.141697,
+      "longitude": 17.115414
+    }
+  ],
+  "meta": {
+    "title": "Slovenské nočné kluby - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných nočných klubov na Slovensku (amenity=nightclub) z OpenStreetMap. Obsahuje 125 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Slovenské nočné kluby | ListBase",
+    "seo_description": "Stiahnuť Slovenské nočné kluby — 125 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 125 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

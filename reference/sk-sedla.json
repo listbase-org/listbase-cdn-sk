@@ -1,0 +1,3481 @@
+{
+  "id": "sk-sedla",
+  "name": "Sedlá",
+  "title": "Sedlá",
+  "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (natural=saddle). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 688,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bumbálka",
+      "latitude": 49.399128,
+      "longitude": 18.409771
+    },
+    {
+      "name": "Makovský průsmyk",
+      "latitude": 49.382984,
+      "longitude": 18.410702
+    },
+    {
+      "name": "Príslop",
+      "latitude": 49.413367,
+      "longitude": 18.488827
+    },
+    {
+      "name": "Sedlo Letník",
+      "latitude": 49.408003,
+      "longitude": 18.497999
+    },
+    {
+      "name": "Sedlo Vrchpoľana",
+      "latitude": 49.398794,
+      "longitude": 18.507709
+    },
+    {
+      "name": "Vreščovské sedlo / Przełęcz Graniczne",
+      "latitude": 49.481196,
+      "longitude": 18.9636
+    },
+    {
+      "name": "Vojtovské sedlo",
+      "latitude": 49.38726,
+      "longitude": 18.785327
+    },
+    {
+      "name": "Sedlo pod Orlom",
+      "latitude": 49.398765,
+      "longitude": 18.975204
+    },
+    {
+      "name": "Przełęcz Cudzichowa",
+      "latitude": 49.534181,
+      "longitude": 19.289687
+    },
+    {
+      "name": "Przełęcz Bory Orawskie",
+      "latitude": 49.515042,
+      "longitude": 19.240745
+    },
+    {
+      "name": "Przełęcz Jałowiecka Północna",
+      "latitude": 49.603449,
+      "longitude": 19.474856
+    },
+    {
+      "name": "Głuchaczki",
+      "latitude": 49.596771,
+      "longitude": 19.435606
+    },
+    {
+      "name": "Przełęcz Jałowiecka Południowa",
+      "latitude": 49.595231,
+      "longitude": 19.470315
+    },
+    {
+      "name": "Brána / Przełęcz Brona",
+      "latitude": 49.581403,
+      "longitude": 19.510124
+    },
+    {
+      "name": "Przełęcz Lodowa",
+      "latitude": 49.573029,
+      "longitude": 19.519854
+    },
+    {
+      "name": "Piarzysty Żleb",
+      "latitude": 49.572272,
+      "longitude": 19.522034
+    },
+    {
+      "name": "Hliny / Przełęcz Glinne",
+      "latitude": 49.544971,
+      "longitude": 19.368643
+    },
+    {
+      "name": "Stańcowe Siodło",
+      "latitude": 49.545237,
+      "longitude": 19.529415
+    },
+    {
+      "name": "Przełęcz Stachurowska",
+      "latitude": 49.530435,
+      "longitude": 19.535856
+    },
+    {
+      "name": "Hlinka",
+      "latitude": 49.457395,
+      "longitude": 19.22662
+    },
+    {
+      "name": "Przełęcz Halna",
+      "latitude": 49.419025,
+      "longitude": 19.094779
+    },
+    {
+      "name": "Przełęcz Pod Banią",
+      "latitude": 49.40707,
+      "longitude": 19.048131
+    },
+    {
+      "name": "Przełęcz Śrubita",
+      "latitude": 49.398063,
+      "longitude": 18.996136
+    },
+    {
+      "name": "sedlo Beskyd",
+      "latitude": 49.38972,
+      "longitude": 19.126387
+    },
+    {
+      "name": "Papajské sedlo",
+      "latitude": 49.277451,
+      "longitude": 18.184502
+    },
+    {
+      "name": "Sedlo pod Bučovcom",
+      "latitude": 49.261481,
+      "longitude": 18.262489
+    },
+    {
+      "name": "pod Stratencom",
+      "latitude": 49.314791,
+      "longitude": 18.329235
+    },
+    {
+      "name": "Bukovina",
+      "latitude": 49.312349,
+      "longitude": 18.323447
+    },
+    {
+      "name": "Frňovské sedlo",
+      "latitude": 49.303463,
+      "longitude": 18.282718
+    },
+    {
+      "name": "Butorky",
+      "latitude": 49.323489,
+      "longitude": 18.387286
+    },
+    {
+      "name": "Roháčske sedlo",
+      "latitude": 49.18,
+      "longitude": 18.610556
+    },
+    {
+      "name": "Žiarce",
+      "latitude": 49.245107,
+      "longitude": 18.878066
+    },
+    {
+      "name": "Priehyb",
+      "latitude": 49.18298,
+      "longitude": 18.978517
+    },
+    {
+      "name": "Brestov",
+      "latitude": 49.187275,
+      "longitude": 18.9202
+    },
+    {
+      "name": "Rakytie",
+      "latitude": 49.160825,
+      "longitude": 18.86602
+    },
+    {
+      "name": "pod Suchým",
+      "latitude": 49.168144,
+      "longitude": 18.956322
+    },
+    {
+      "name": "Vráta",
+      "latitude": 49.177569,
+      "longitude": 18.966034
+    },
+    {
+      "name": "Krušetnická priehyba",
+      "latitude": 49.331966,
+      "longitude": 19.210259
+    },
+    {
+      "name": "Lutiška",
+      "latitude": 49.278535,
+      "longitude": 18.994707
+    },
+    {
+      "name": "Bôrická mláka",
+      "latitude": 49.268466,
+      "longitude": 19.143113
+    },
+    {
+      "name": "Príslop",
+      "latitude": 49.303496,
+      "longitude": 19.354034
+    },
+    {
+      "name": "Medzirozsutce",
+      "latitude": 49.24297,
+      "longitude": 19.107091
+    },
+    {
+      "name": "Vrchpodžiar",
+      "latitude": 49.240625,
+      "longitude": 19.073033
+    },
+    {
+      "name": "Sedlo Zákres",
+      "latitude": 49.246518,
+      "longitude": 19.104482
+    },
+    {
+      "name": "Rovná hora",
+      "latitude": 49.264167,
+      "longitude": 19.104722
+    },
+    {
+      "name": "Príslop",
+      "latitude": 49.230802,
+      "longitude": 19.010226
+    },
+    {
+      "name": "Malé sedlo",
+      "latitude": 49.220095,
+      "longitude": 19.014641
+    },
+    {
+      "name": "Medziholie",
+      "latitude": 49.224725,
+      "longitude": 19.104313
+    },
+    {
+      "name": "Stohove sedlo",
+      "latitude": 49.218192,
+      "longitude": 19.083401
+    },
+    {
+      "name": "Snilovské sedlo",
+      "latitude": 49.191535,
+      "longitude": 19.038191
+    },
+    {
+      "name": "Hromové sedlo",
+      "latitude": 49.189307,
+      "longitude": 19.054169
+    },
+    {
+      "name": "V Stenách",
+      "latitude": 49.200141,
+      "longitude": 19.065136
+    },
+    {
+      "name": "za Kraviarskym",
+      "latitude": 49.203853,
+      "longitude": 19.015553
+    },
+    {
+      "name": "Bublen",
+      "latitude": 49.193126,
+      "longitude": 19.013772
+    },
+    {
+      "name": "na Koni",
+      "latitude": 49.204266,
+      "longitude": 18.99688
+    },
+    {
+      "name": "Žaškovské sedlo",
+      "latitude": 49.154836,
+      "longitude": 19.201033
+    },
+    {
+      "name": "Prieková",
+      "latitude": 49.248909,
+      "longitude": 19.571387
+    },
+    {
+      "name": "Nižné Hutianske sedlo",
+      "latitude": 49.231667,
+      "longitude": 19.586177
+    },
+    {
+      "name": "Prostredné Hutianské sedlo",
+      "latitude": 49.223695,
+      "longitude": 19.592782
+    },
+    {
+      "name": "Parichvost",
+      "latitude": 49.219721,
+      "longitude": 19.681479
+    },
+    {
+      "name": "Hutianske sedlo",
+      "latitude": 49.214945,
+      "longitude": 19.600248
+    },
+    {
+      "name": "Pálenica",
+      "latitude": 49.221795,
+      "longitude": 19.657744
+    },
+    {
+      "name": "Biele sedlo",
+      "latitude": 49.216432,
+      "longitude": 19.611242
+    },
+    {
+      "name": "Vrchvarta",
+      "latitude": 49.174009,
+      "longitude": 19.377104
+    },
+    {
+      "name": "900",
+      "latitude": 49.177951,
+      "longitude": 19.418871
+    },
+    {
+      "name": "Rovné",
+      "latitude": 49.171253,
+      "longitude": 19.456304
+    },
+    {
+      "name": "Prietržná",
+      "latitude": 49.161923,
+      "longitude": 19.454775
+    },
+    {
+      "name": "Predná poľana",
+      "latitude": 49.154205,
+      "longitude": 19.428763
+    },
+    {
+      "name": "Urbársky priechod",
+      "latitude": 49.176489,
+      "longitude": 19.478006
+    },
+    {
+      "name": "Ostruky",
+      "latitude": 49.18218,
+      "longitude": 19.522705
+    },
+    {
+      "name": "Holica",
+      "latitude": 49.191749,
+      "longitude": 19.56024
+    },
+    {
+      "name": "Hrtany",
+      "latitude": 49.186441,
+      "longitude": 19.63265
+    },
+    {
+      "name": "Prislop",
+      "latitude": 49.203545,
+      "longitude": 19.640615
+    },
+    {
+      "name": "Suchá priehyba",
+      "latitude": 49.203763,
+      "longitude": 19.621032
+    },
+    {
+      "name": "Priehyba",
+      "latitude": 49.206769,
+      "longitude": 19.642047
+    },
+    {
+      "name": "Predúvratie",
+      "latitude": 49.194125,
+      "longitude": 19.637989
+    },
+    {
+      "name": "Vráta",
+      "latitude": 49.193727,
+      "longitude": 19.630755
+    },
+    {
+      "name": "Sedielko",
+      "latitude": 49.190627,
+      "longitude": 19.633998
+    },
+    {
+      "name": "Babková priehyba",
+      "latitude": 49.185301,
+      "longitude": 19.630793
+    },
+    {
+      "name": "Sedlisko",
+      "latitude": 49.203704,
+      "longitude": 19.672042
+    },
+    {
+      "name": "Brána",
+      "latitude": 49.169201,
+      "longitude": 19.593523
+    },
+    {
+      "name": "Trnovecké sedlo",
+      "latitude": 49.177943,
+      "longitude": 19.608179
+    },
+    {
+      "name": "Sokol",
+      "latitude": 49.174686,
+      "longitude": 19.637546
+    },
+    {
+      "name": "Veľká priehyba",
+      "latitude": 49.169983,
+      "longitude": 19.670886
+    },
+    {
+      "name": "Malá priehyba",
+      "latitude": 49.167545,
+      "longitude": 19.664842
+    },
+    {
+      "name": "Priehyba nad Zámčiskom",
+      "latitude": 49.16611,
+      "longitude": 19.660478
+    },
+    {
+      "name": "Paromovisko",
+      "latitude": 49.168398,
+      "longitude": 19.683286
+    },
+    {
+      "name": "Patúch",
+      "latitude": 49.134585,
+      "longitude": 18.612048
+    },
+    {
+      "name": "Okopy",
+      "latitude": 49.12546,
+      "longitude": 18.833111
+    },
+    {
+      "name": "Javorina",
+      "latitude": 49.150393,
+      "longitude": 18.84367
+    },
+    {
+      "name": "Príslop",
+      "latitude": 49.152005,
+      "longitude": 18.937136
+    },
+    {
+      "name": "za Hradišťom",
+      "latitude": 49.107225,
+      "longitude": 18.869732
+    },
+    {
+      "name": "Prašivé",
+      "latitude": 49.119743,
+      "longitude": 18.828196
+    },
+    {
+      "name": "sedlo Maríková",
+      "latitude": 49.0579,
+      "longitude": 18.760577
+    },
+    {
+      "name": "Majbíková",
+      "latitude": 49.057029,
+      "longitude": 18.755536
+    },
+    {
+      "name": "Turatínske sedlo",
+      "latitude": 49.046153,
+      "longitude": 18.814403
+    },
+    {
+      "name": "Fačkovské sedlo",
+      "latitude": 48.963687,
+      "longitude": 18.61119
+    },
+    {
+      "name": "Vajnár",
+      "latitude": 49.019008,
+      "longitude": 18.659582
+    },
+    {
+      "name": "pod Hnilickou Kýčerou",
+      "latitude": 49.023548,
+      "longitude": 18.734227
+    },
+    {
+      "name": "pod Úplazom",
+      "latitude": 49.016134,
+      "longitude": 18.72632
+    },
+    {
+      "name": "Vríčanské sedlo",
+      "latitude": 48.99823,
+      "longitude": 18.669205
+    },
+    {
+      "name": "Vrícke sedlo",
+      "latitude": 48.950914,
+      "longitude": 18.704591
+    },
+    {
+      "name": "Ľubochnianske sedlo",
+      "latitude": 49.111792,
+      "longitude": 19.12154
+    },
+    {
+      "name": "pod Ostrým",
+      "latitude": 49.139137,
+      "longitude": 19.204853
+    },
+    {
+      "name": "Brestová",
+      "latitude": 49.15115,
+      "longitude": 19.285789
+    },
+    {
+      "name": "Predná poľana",
+      "latitude": 49.145405,
+      "longitude": 19.329028
+    },
+    {
+      "name": "Zadná poľana",
+      "latitude": 49.139572,
+      "longitude": 19.33127
+    },
+    {
+      "name": "Medzi Poklakovom",
+      "latitude": 49.096866,
+      "longitude": 19.220246
+    },
+    {
+      "name": "Medzičebrať",
+      "latitude": 49.096859,
+      "longitude": 19.284774
+    },
+    {
+      "name": "Dubovské lúky",
+      "latitude": 49.10804,
+      "longitude": 19.271951
+    },
+    {
+      "name": "Sedlo Príslop",
+      "latitude": 49.068993,
+      "longitude": 19.120839
+    },
+    {
+      "name": "Privala",
+      "latitude": 49.061913,
+      "longitude": 19.052809
+    },
+    {
+      "name": "Poľana",
+      "latitude": 49.091557,
+      "longitude": 19.190878
+    },
+    {
+      "name": "Sedlo pod Grúňom",
+      "latitude": 49.083794,
+      "longitude": 19.191712
+    },
+    {
+      "name": "Kalvária",
+      "latitude": 49.07473,
+      "longitude": 19.284289
+    },
+    {
+      "name": "pod Vtáčnikom",
+      "latitude": 49.042911,
+      "longitude": 19.239732
+    },
+    {
+      "name": "Maďarovo",
+      "latitude": 49.041937,
+      "longitude": 19.216155
+    },
+    {
+      "name": "Kalisko",
+      "latitude": 49.063667,
+      "longitude": 19.219012
+    },
+    {
+      "name": "Príslop",
+      "latitude": 49.049867,
+      "longitude": 19.178277
+    },
+    {
+      "name": "Biela púť",
+      "latitude": 49.050143,
+      "longitude": 19.316613
+    },
+    {
+      "name": "Vrchkraj",
+      "latitude": 49.041173,
+      "longitude": 19.285941
+    },
+    {
+      "name": "Príslop",
+      "latitude": 49.043014,
+      "longitude": 19.257542
+    },
+    {
+      "name": "Vrchlúky",
+      "latitude": 49.045996,
+      "longitude": 19.272069
+    },
+    {
+      "name": "Za skálím",
+      "latitude": 49.063976,
+      "longitude": 19.252912
+    },
+    {
+      "name": "Seč",
+      "latitude": 49.05316,
+      "longitude": 19.262493
+    },
+    {
+      "name": "Spuštiak",
+      "latitude": 49.12667,
+      "longitude": 19.34125
+    },
+    {
+      "name": "sedlo Vráca",
+      "latitude": 49.146959,
+      "longitude": 19.344834
+    },
+    {
+      "name": "Žimerová",
+      "latitude": 49.134324,
+      "longitude": 19.36142
+    },
+    {
+      "name": "Konské",
+      "latitude": 49.143622,
+      "longitude": 19.404849
+    },
+    {
+      "name": "Sedlo pod Kráľovou",
+      "latitude": 49.139986,
+      "longitude": 19.432433
+    },
+    {
+      "name": "Ondrejkov",
+      "latitude": 49.120721,
+      "longitude": 19.351245
+    },
+    {
+      "name": "Stráňa",
+      "latitude": 49.105799,
+      "longitude": 19.451959
+    },
+    {
+      "name": "Široké",
+      "latitude": 49.023697,
+      "longitude": 19.112359
+    },
+    {
+      "name": "za Kečkou",
+      "latitude": 49.010402,
+      "longitude": 19.095483
+    },
+    {
+      "name": "Svrčnícke sedlo",
+      "latitude": 49.036827,
+      "longitude": 19.112898
+    },
+    {
+      "name": "sedlo pod Kopou",
+      "latitude": 49.00114,
+      "longitude": 19.106008
+    },
+    {
+      "name": "Žlebiny",
+      "latitude": 48.992121,
+      "longitude": 19.088992
+    },
+    {
+      "name": "Vyšné Šiprúnske sedlo",
+      "latitude": 49.027707,
+      "longitude": 19.225189
+    },
+    {
+      "name": "Nižné Šiprúnske sedlo",
+      "latitude": 49.030827,
+      "longitude": 19.220538
+    },
+    {
+      "name": "sedlo Teplice",
+      "latitude": 49.020084,
+      "longitude": 19.311366
+    },
+    {
+      "name": "Brdisko",
+      "latitude": 49.037641,
+      "longitude": 19.316526
+    },
+    {
+      "name": "Príslop",
+      "latitude": 49.01782,
+      "longitude": 19.262725
+    },
+    {
+      "name": "Príslopec",
+      "latitude": 49.024886,
+      "longitude": 19.258025
+    },
+    {
+      "name": "Jama",
+      "latitude": 48.998247,
+      "longitude": 19.311272
+    },
+    {
+      "name": "Štefanovské sedlo",
+      "latitude": 48.96922,
+      "longitude": 19.108073
+    },
+    {
+      "name": "sedlo Chyžky",
+      "latitude": 48.924604,
+      "longitude": 19.102022
+    },
+    {
+      "name": "sedlo Ploskej",
+      "latitude": 48.93044,
+      "longitude": 19.130987
+    },
+    {
+      "name": "Sedlo pod Čiernym kameňom",
+      "latitude": 48.940741,
+      "longitude": 19.148655
+    },
+    {
+      "name": "Južné rakytovské sedlo",
+      "latitude": 48.955812,
+      "longitude": 19.171937
+    },
+    {
+      "name": "Severné rakytovské sedlo",
+      "latitude": 48.964956,
+      "longitude": 19.183073
+    },
+    {
+      "name": "Prievalček",
+      "latitude": 48.969636,
+      "longitude": 19.319819
+    },
+    {
+      "name": "Novina",
+      "latitude": 48.952078,
+      "longitude": 19.298534
+    },
+    {
+      "name": "Červená",
+      "latitude": 48.959923,
+      "longitude": 19.308627
+    },
+    {
+      "name": "Homôlka",
+      "latitude": 48.95503,
+      "longitude": 19.302678
+    },
+    {
+      "name": "Prievlač",
+      "latitude": 48.943077,
+      "longitude": 19.205287
+    },
+    {
+      "name": "Drozvová",
+      "latitude": 48.925397,
+      "longitude": 19.270304
+    },
+    {
+      "name": "Hedeš",
+      "latitude": 48.927998,
+      "longitude": 19.291799
+    },
+    {
+      "name": "pod Kohútom",
+      "latitude": 49.022955,
+      "longitude": 19.345486
+    },
+    {
+      "name": "Bohúňovo",
+      "latitude": 49.009987,
+      "longitude": 19.34279
+    },
+    {
+      "name": "981",
+      "latitude": 49.010632,
+      "longitude": 19.495717
+    },
+    {
+      "name": "951",
+      "latitude": 49.013169,
+      "longitude": 19.491393
+    },
+    {
+      "name": "Hluché",
+      "latitude": 48.99245,
+      "longitude": 19.490304
+    },
+    {
+      "name": "Sedlo pod Vysokou",
+      "latitude": 48.984648,
+      "longitude": 19.456853
+    },
+    {
+      "name": "Sedlo Sinej",
+      "latitude": 48.991727,
+      "longitude": 19.557189
+    },
+    {
+      "name": "Kováčovské sedlo",
+      "latitude": 48.994953,
+      "longitude": 19.528
+    },
+    {
+      "name": "Iľanovské sedlo",
+      "latitude": 49.003255,
+      "longitude": 19.611054
+    },
+    {
+      "name": "Predné",
+      "latitude": 48.987526,
+      "longitude": 19.642128
+    },
+    {
+      "name": "pod Kúpeľom",
+      "latitude": 49.003398,
+      "longitude": 19.635471
+    },
+    {
+      "name": "Machnaté",
+      "latitude": 48.997482,
+      "longitude": 19.617657
+    },
+    {
+      "name": "Ráztocké sedlo",
+      "latitude": 48.970904,
+      "longitude": 19.363725
+    },
+    {
+      "name": "sedlo Latiborskej hole",
+      "latitude": 48.927088,
+      "longitude": 19.419944
+    },
+    {
+      "name": "Turánske",
+      "latitude": 48.933383,
+      "longitude": 19.393769
+    },
+    {
+      "name": "Prievalec",
+      "latitude": 48.945932,
+      "longitude": 19.387504
+    },
+    {
+      "name": "Sedlo Ďurkovej",
+      "latitude": 48.93303,
+      "longitude": 19.462484
+    },
+    {
+      "name": "sedlo Zámostskej hole",
+      "latitude": 48.92682,
+      "longitude": 19.432309
+    },
+    {
+      "name": "Sedielko",
+      "latitude": 48.95124,
+      "longitude": 19.425041
+    },
+    {
+      "name": "Biela Púť",
+      "latitude": 48.971513,
+      "longitude": 19.585136
+    },
+    {
+      "name": "Javorie",
+      "latitude": 48.973208,
+      "longitude": 19.632845
+    },
+    {
+      "name": "Sedlo Poľany",
+      "latitude": 48.942909,
+      "longitude": 19.543929
+    },
+    {
+      "name": "Krížske sedlo",
+      "latitude": 48.944063,
+      "longitude": 19.528488
+    },
+    {
+      "name": "Krúpovo sedlo",
+      "latitude": 48.93878,
+      "longitude": 19.630982
+    },
+    {
+      "name": "Demänovské sedlo",
+      "latitude": 48.939996,
+      "longitude": 19.619438
+    },
+    {
+      "name": "Ďumbierske sedlo",
+      "latitude": 48.926607,
+      "longitude": 19.650387
+    },
+    {
+      "name": "Ostré sedlo",
+      "latitude": 48.936678,
+      "longitude": 19.648581
+    },
+    {
+      "name": "Kamzíčie sedlo",
+      "latitude": 48.941212,
+      "longitude": 19.639919
+    },
+    {
+      "name": "Przełęcz pod Szafranówką",
+      "latitude": 49.416032,
+      "longitude": 20.464409
+    },
+    {
+      "name": "Przełęcz Maćkówki",
+      "latitude": 49.416378,
+      "longitude": 20.476902
+    },
+    {
+      "name": "Przełęcz Sosnów",
+      "latitude": 49.419395,
+      "longitude": 20.439301
+    },
+    {
+      "name": "Wyżny Łazek",
+      "latitude": 49.411801,
+      "longitude": 20.42195
+    },
+    {
+      "name": "Stachurówki",
+      "latitude": 49.383845,
+      "longitude": 20.54958
+    },
+    {
+      "name": "Przełęcz Rozdziela / Rozdiel",
+      "latitude": 49.390165,
+      "longitude": 20.601479
+    },
+    {
+      "name": "Beskid",
+      "latitude": 49.425412,
+      "longitude": 21.074846
+    },
+    {
+      "name": "Przełęcz Regetowska/Regetovská voda",
+      "latitude": 49.439778,
+      "longitude": 21.248265
+    },
+    {
+      "name": "Dujava",
+      "latitude": 49.449057,
+      "longitude": 21.312722
+    },
+    {
+      "name": "Przełęcz Pułaskiego",
+      "latitude": 49.432126,
+      "longitude": 21.118243
+    },
+    {
+      "name": "Przełęcz Wysowska / Sedlo Blechnarka",
+      "latitude": 49.411839,
+      "longitude": 21.21826
+    },
+    {
+      "name": "Przełęcz Beskid",
+      "latitude": 49.416088,
+      "longitude": 21.426699
+    },
+    {
+      "name": "Nad Beskidem",
+      "latitude": 49.445629,
+      "longitude": 21.618202
+    },
+    {
+      "name": "Przełęcz Kuchtowska/Kuchtovské Sedlo",
+      "latitude": 49.419921,
+      "longitude": 21.481208
+    },
+    {
+      "name": "Tepajec",
+      "latitude": 49.432057,
+      "longitude": 21.525382
+    },
+    {
+      "name": "Mazgalica",
+      "latitude": 49.437046,
+      "longitude": 21.555572
+    },
+    {
+      "name": "Przełęcz Dukielska",
+      "latitude": 49.417011,
+      "longitude": 21.694803
+    },
+    {
+      "name": "Svidnícke sedlo",
+      "latitude": 49.412891,
+      "longitude": 21.698744
+    },
+    {
+      "name": "Bredonne",
+      "latitude": 49.383088,
+      "longitude": 21.813379
+    },
+    {
+      "name": "Bôrik",
+      "latitude": 49.281671,
+      "longitude": 19.705095
+    },
+    {
+      "name": "Przełęcz nad Łapszanką",
+      "latitude": 49.344202,
+      "longitude": 20.197708
+    },
+    {
+      "name": "Pod Príslopom",
+      "latitude": 49.277801,
+      "longitude": 20.206792
+    },
+    {
+      "name": "Podspádske sedlo",
+      "latitude": 49.270969,
+      "longitude": 20.206497
+    },
+    {
+      "name": "Malé sedlo",
+      "latitude": 49.268211,
+      "longitude": 20.179224
+    },
+    {
+      "name": "Medzisteny",
+      "latitude": 49.268435,
+      "longitude": 20.171521
+    },
+    {
+      "name": "Blatné sedlo",
+      "latitude": 49.268354,
+      "longitude": 20.205966
+    },
+    {
+      "name": "Pod Osobitou",
+      "latitude": 49.258472,
+      "longitude": 19.721897
+    },
+    {
+      "name": "Bobrowiecka Przełęcz / Bobrovecké sedlo",
+      "latitude": 49.242149,
+      "longitude": 19.776218
+    },
+    {
+      "name": "Juraniowa Przełęcz / Príslop",
+      "latitude": 49.252532,
+      "longitude": 19.788466
+    },
+    {
+      "name": "Przełęcz pod Furkaską",
+      "latitude": 49.260648,
+      "longitude": 19.789639
+    },
+    {
+      "name": "Zawracie",
+      "latitude": 49.21473,
+      "longitude": 19.758802
+    },
+    {
+      "name": "Łuczniańska Przełęcz/Lúčne sedlo",
+      "latitude": 49.23329,
+      "longitude": 19.767182
+    },
+    {
+      "name": "Zábrať",
+      "latitude": 49.221157,
+      "longitude": 19.750073
+    },
+    {
+      "name": "Upalone",
+      "latitude": 49.23605,
+      "longitude": 19.777606
+    },
+    {
+      "name": "Dudowa Przełęcz",
+      "latitude": 49.210864,
+      "longitude": 19.807319
+    },
+    {
+      "name": "Kondracka Przełęcz",
+      "latitude": 49.2462,
+      "longitude": 19.932333
+    },
+    {
+      "name": "Wyżnia Kondracka Przełęcz",
+      "latitude": 49.248856,
+      "longitude": 19.933743
+    },
+    {
+      "name": "Chuda Przełączka",
+      "latitude": 49.238033,
+      "longitude": 19.895609
+    },
+    {
+      "name": "Szerokie Siodło",
+      "latitude": 49.233952,
+      "longitude": 19.900667
+    },
+    {
+      "name": "Tomanovské sedlo / Tomanowa Przełęcz",
+      "latitude": 49.219669,
+      "longitude": 19.904728
+    },
+    {
+      "name": "Malolučniacke sedlo / Małołącka Przełęcz",
+      "latitude": 49.235313,
+      "longitude": 19.928369
+    },
+    {
+      "name": "Mułowa Przełęcz",
+      "latitude": 49.23096,
+      "longitude": 19.905768
+    },
+    {
+      "name": "Litvorové sedlo / Litworowa Przełęcz",
+      "latitude": 49.233377,
+      "longitude": 19.914745
+    },
+    {
+      "name": "Przełęcz pod Kopą Kondracką / Kondracké sedlo",
+      "latitude": 49.234262,
+      "longitude": 19.938761
+    },
+    {
+      "name": "Rozpadlé sedlo",
+      "latitude": 49.228175,
+      "longitude": 19.915307
+    },
+    {
+      "name": "Mała Przełączka",
+      "latitude": 49.226756,
+      "longitude": 19.903686
+    },
+    {
+      "name": "Gładki Przechód",
+      "latitude": 49.233246,
+      "longitude": 19.946449
+    },
+    {
+      "name": "Skryte Wrótka",
+      "latitude": 49.232626,
+      "longitude": 19.948955
+    },
+    {
+      "name": "Wyżnia Mała Przełączka",
+      "latitude": 49.228616,
+      "longitude": 19.904047
+    },
+    {
+      "name": "Liliowe / Ľaliové sedlo",
+      "latitude": 49.225551,
+      "longitude": 19.991338
+    },
+    {
+      "name": "Karb",
+      "latitude": 49.228811,
+      "longitude": 20.011708
+    },
+    {
+      "name": "Zawrat",
+      "latitude": 49.219088,
+      "longitude": 20.016392
+    },
+    {
+      "name": "Goryczkowa Przełęcz Świńska / Horičkovo sedlo Svinické",
+      "latitude": 49.231471,
+      "longitude": 19.961693
+    },
+    {
+      "name": "Sucha Przełęcz / Suché sedlo",
+      "latitude": 49.23099,
+      "longitude": 19.983038
+    },
+    {
+      "name": "Nad Zakosy / Východné Goričkovo sedlo",
+      "latitude": 49.230369,
+      "longitude": 19.969244
+    },
+    {
+      "name": "Świnicka Przełęcz / Svinické sedlo",
+      "latitude": 49.220805,
+      "longitude": 20.003863
+    },
+    {
+      "name": "Skrajna Przełęcz / Krajné sedlo",
+      "latitude": 49.222301,
+      "longitude": 19.999216
+    },
+    {
+      "name": "Walentkowa Przełęcz",
+      "latitude": 49.216031,
+      "longitude": 20.009035
+    },
+    {
+      "name": "Niskie Wrótka",
+      "latitude": 49.232255,
+      "longitude": 19.951494
+    },
+    {
+      "name": "Wyżnie Kasprowe Siodło",
+      "latitude": 49.238219,
+      "longitude": 19.98983
+    },
+    {
+      "name": "Niebieska Przełęcz",
+      "latitude": 49.219523,
+      "longitude": 20.014024
+    },
+    {
+      "name": "Niebieska Przełączka Wyżnia",
+      "latitude": 49.2196,
+      "longitude": 20.013286
+    },
+    {
+      "name": "Gąsienicowa Przełączka",
+      "latitude": 49.219364,
+      "longitude": 20.011054
+    },
+    {
+      "name": "Świnicka Szczerbina Wyżnia",
+      "latitude": 49.219352,
+      "longitude": 20.009491
+    },
+    {
+      "name": "Świnicka Szczerbina Niżnia / Nižná svinicová štrbina",
+      "latitude": 49.219866,
+      "longitude": 20.008879
+    },
+    {
+      "name": "Wyżnie Liliowe",
+      "latitude": 49.22696,
+      "longitude": 19.989379
+    },
+    {
+      "name": "Vyšná Valentkova štrbina / Wyżnia Walentkowa Szczerbina",
+      "latitude": 49.213853,
+      "longitude": 20.007257
+    },
+    {
+      "name": "Niżnia Walentkowa Szczerbina",
+      "latitude": 49.214132,
+      "longitude": 20.007253
+    },
+    {
+      "name": "Wyżnie Walentkowe Wrótka / Vyšné Valentkove vrátka",
+      "latitude": 49.214758,
+      "longitude": 20.0081
+    },
+    {
+      "name": "Pośrednie Walentkowe Wrótka / Prostredné Valentkove vrátka",
+      "latitude": 49.215136,
+      "longitude": 20.008486
+    },
+    {
+      "name": "Nižné Valentkove vrátka / Niżnie Walentkowe Wrótka",
+      "latitude": 49.215727,
+      "longitude": 20.00894
+    },
+    {
+      "name": "Świnicki Przechód",
+      "latitude": 49.218459,
+      "longitude": 20.008921
+    },
+    {
+      "name": "Kondratowy Przechód",
+      "latitude": 49.23471,
+      "longitude": 19.957297
+    },
+    {
+      "name": "Wysokie Wrótka",
+      "latitude": 49.232232,
+      "longitude": 19.954542
+    },
+    {
+      "name": "Žiarske sedlo",
+      "latitude": 49.193236,
+      "longitude": 19.75051
+    },
+    {
+      "name": "Smutné sedlo",
+      "latitude": 49.197535,
+      "longitude": 19.73427
+    },
+    {
+      "name": "Dziurawa Przełęcz/Deravá",
+      "latitude": 49.205542,
+      "longitude": 19.773309
+    },
+    {
+      "name": "Baníkovské sedlo",
+      "latitude": 49.199483,
+      "longitude": 19.705716
+    },
+    {
+      "name": "Jamnícke sedlo",
+      "latitude": 49.20359,
+      "longitude": 19.75934
+    },
+    {
+      "name": "Jalovecké sedlo",
+      "latitude": 49.187042,
+      "longitude": 19.702008
+    },
+    {
+      "name": "Lúčne sedlo",
+      "latitude": 49.199969,
+      "longitude": 19.718308
+    },
+    {
+      "name": "Pastierske sedlo",
+      "latitude": 49.183302,
+      "longitude": 19.697499
+    },
+    {
+      "name": "Spálené sedlo",
+      "latitude": 49.202989,
+      "longitude": 19.704632
+    },
+    {
+      "name": "Sedlo Skriniarok",
+      "latitude": 49.208896,
+      "longitude": 19.697292
+    },
+    {
+      "name": "Hrubá priehyba",
+      "latitude": 49.20014,
+      "longitude": 19.724901
+    },
+    {
+      "name": "Pyszniańska Przełęcz / Pyšné sedlo",
+      "latitude": 49.196272,
+      "longitude": 19.8563
+    },
+    {
+      "name": "Banista Przełączka",
+      "latitude": 49.196307,
+      "longitude": 19.836945
+    },
+    {
+      "name": "Bystry Karb / Bystré sedlo",
+      "latitude": 49.195963,
+      "longitude": 19.839641
+    },
+    {
+      "name": "Gaborowa Przełęcz / Gáborovo sedlo",
+      "latitude": 49.201315,
+      "longitude": 19.826638
+    },
+    {
+      "name": "Starobociańska Przełęcz / Račkovo sedlo",
+      "latitude": 49.204217,
+      "longitude": 19.810816
+    },
+    {
+      "name": "Jarząbcza Przełęcz",
+      "latitude": 49.204604,
+      "longitude": 19.803696
+    },
+    {
+      "name": "Niska Przełęcz / Sedlo pod Hrubým vrchom",
+      "latitude": 49.199188,
+      "longitude": 19.787145
+    },
+    {
+      "name": "Siwa Przełęcz",
+      "latitude": 49.205012,
+      "longitude": 19.833388
+    },
+    {
+      "name": "Kotłowe Siodło",
+      "latitude": 49.209772,
+      "longitude": 19.835649
+    },
+    {
+      "name": "Gáborovo sedlo",
+      "latitude": 49.201341,
+      "longitude": 19.826666
+    },
+    {
+      "name": "Račkovo sedlo",
+      "latitude": 49.204268,
+      "longitude": 19.810624
+    },
+    {
+      "name": "Jamina",
+      "latitude": 49.17988,
+      "longitude": 19.742914
+    },
+    {
+      "name": "Nižné sedlo",
+      "latitude": 49.164348,
+      "longitude": 19.700761
+    },
+    {
+      "name": "Vyšné sedlo",
+      "latitude": 49.169184,
+      "longitude": 19.698339
+    },
+    {
+      "name": "Hlińska Przełęcz / Hlinské sedlo",
+      "latitude": 49.201175,
+      "longitude": 19.874597
+    },
+    {
+      "name": "Smreczyńska Przełęcz / Smrečinské sedlo",
+      "latitude": 49.210383,
+      "longitude": 19.892755
+    },
+    {
+      "name": "Brdárov priechod",
+      "latitude": 49.197748,
+      "longitude": 19.94955
+    },
+    {
+      "name": "Hladké sedlo / Gładka Przełęcz",
+      "latitude": 49.207944,
+      "longitude": 20.012562
+    },
+    {
+      "name": "Wyżnia Liptowska Ławka",
+      "latitude": 49.198628,
+      "longitude": 20.034475
+    },
+    {
+      "name": "Niżnia Liptowska Ławka / Nižná liptovská lávka",
+      "latitude": 49.199363,
+      "longitude": 20.032865
+    },
+    {
+      "name": "Czarna Ławka",
+      "latitude": 49.199797,
+      "longitude": 20.029517
+    },
+    {
+      "name": "Gładka Ławka / Hladká lávka",
+      "latitude": 49.204057,
+      "longitude": 20.017558
+    },
+    {
+      "name": "Závory",
+      "latitude": 49.204666,
+      "longitude": 20.007597
+    },
+    {
+      "name": "Nižné kôprovické sedlo",
+      "latitude": 49.184367,
+      "longitude": 19.964324
+    },
+    {
+      "name": "Vyšný Licierov závrat",
+      "latitude": 49.203793,
+      "longitude": 19.972012
+    },
+    {
+      "name": "Tiché sedlo",
+      "latitude": 49.199616,
+      "longitude": 20.001725
+    },
+    {
+      "name": "Vyšné kôprovické sedlo",
+      "latitude": 49.191298,
+      "longitude": 19.970312
+    },
+    {
+      "name": "Turkovo sedlo",
+      "latitude": 49.196857,
+      "longitude": 19.969107
+    },
+    {
+      "name": "Čierna lávka",
+      "latitude": 49.20073,
+      "longitude": 20.023286
+    },
+    {
+      "name": "Pod Krížnou",
+      "latitude": 49.18602,
+      "longitude": 19.965436
+    },
+    {
+      "name": "Turkovo sedlo",
+      "latitude": 49.204575,
+      "longitude": 19.98338
+    },
+    {
+      "name": "Nižné pribylinské sedlo",
+      "latitude": 49.189236,
+      "longitude": 20.024297
+    },
+    {
+      "name": "Vyšné pribylinské sedlo",
+      "latitude": 49.185368,
+      "longitude": 20.033038
+    },
+    {
+      "name": "Bystré sedlo",
+      "latitude": 49.168155,
+      "longitude": 20.027383
+    },
+    {
+      "name": "Bystrá lávka",
+      "latitude": 49.166931,
+      "longitude": 20.029527
+    },
+    {
+      "name": "Nefcerské sedlo",
+      "latitude": 49.163112,
+      "longitude": 20.018254
+    },
+    {
+      "name": "Daxnerovo sedlo",
+      "latitude": 49.159452,
+      "longitude": 20.001323
+    },
+    {
+      "name": "Furkotské sedlo",
+      "latitude": 49.167535,
+      "longitude": 20.025212
+    },
+    {
+      "name": "Špára",
+      "latitude": 49.163817,
+      "longitude": 20.008122
+    },
+    {
+      "name": "Vyšná Krátka štrbina",
+      "latitude": 49.161623,
+      "longitude": 20.012397
+    },
+    {
+      "name": "Jamské sedlo",
+      "latitude": 49.156214,
+      "longitude": 20.011979
+    },
+    {
+      "name": "Krátka štrbina",
+      "latitude": 49.160818,
+      "longitude": 20.012456
+    },
+    {
+      "name": "Sedlo nad Kotlinami",
+      "latitude": 49.16441,
+      "longitude": 19.992065
+    },
+    {
+      "name": "Škaredé sedielko",
+      "latitude": 49.163859,
+      "longitude": 19.993798
+    },
+    {
+      "name": "Zadná Garajova lávka",
+      "latitude": 49.17732,
+      "longitude": 20.007659
+    },
+    {
+      "name": "Predná Garajova lávka",
+      "latitude": 49.179214,
+      "longitude": 20.005589
+    },
+    {
+      "name": "Zadná Bednárova lávka",
+      "latitude": 49.174595,
+      "longitude": 20.014595
+    },
+    {
+      "name": "Predná Bednárova lávka",
+      "latitude": 49.176019,
+      "longitude": 20.01061
+    },
+    {
+      "name": "Predná Valova lávka",
+      "latitude": 49.173185,
+      "longitude": 20.019891
+    },
+    {
+      "name": "Predná Nefcerská štrbina",
+      "latitude": 49.172292,
+      "longitude": 20.022031
+    },
+    {
+      "name": "Prostredná Bednárova lávka",
+      "latitude": 49.175048,
+      "longitude": 20.012911
+    },
+    {
+      "name": "Predná Terianska štrbina",
+      "latitude": 49.173666,
+      "longitude": 20.01857
+    },
+    {
+      "name": "Nižné Terianske sedlo",
+      "latitude": 49.173757,
+      "longitude": 20.016843
+    },
+    {
+      "name": "Zadná Valova lávka",
+      "latitude": 49.172635,
+      "longitude": 20.021102
+    },
+    {
+      "name": "Prostredná Valova lávka",
+      "latitude": 49.172971,
+      "longitude": 20.020555
+    },
+    {
+      "name": "Zadná Nefcerská štrbina",
+      "latitude": 49.171854,
+      "longitude": 20.023347
+    },
+    {
+      "name": "Prostredná Nefcerská štrbina",
+      "latitude": 49.172035,
+      "longitude": 20.022967
+    },
+    {
+      "name": "Vyšné Terianske sedlo",
+      "latitude": 49.171554,
+      "longitude": 20.024945
+    },
+    {
+      "name": "Zadná Terianska štrbina",
+      "latitude": 49.171202,
+      "longitude": 20.025839
+    },
+    {
+      "name": "Prostredná Garajova lávka",
+      "latitude": 49.178351,
+      "longitude": 20.006863
+    },
+    {
+      "name": "Krivánsky priechod",
+      "latitude": 49.166067,
+      "longitude": 19.988756
+    },
+    {
+      "name": "Nad Priehybami",
+      "latitude": 49.15839,
+      "longitude": 19.988044
+    },
+    {
+      "name": "Havranie sedlo",
+      "latitude": 49.248266,
+      "longitude": 20.191422
+    },
+    {
+      "name": "Nové Sedlo",
+      "latitude": 49.249284,
+      "longitude": 20.18102
+    },
+    {
+      "name": "Tristarske Sedlo",
+      "latitude": 49.245976,
+      "longitude": 20.201878
+    },
+    {
+      "name": "Jelenie sedlo",
+      "latitude": 49.260644,
+      "longitude": 20.191737
+    },
+    {
+      "name": "Nižné Havranie sedlo",
+      "latitude": 49.255562,
+      "longitude": 20.193348
+    },
+    {
+      "name": "Malé vráta",
+      "latitude": 49.266247,
+      "longitude": 20.175533
+    },
+    {
+      "name": "Nový zárez",
+      "latitude": 49.249638,
+      "longitude": 20.188113
+    },
+    {
+      "name": "Prostredná nová štrbina",
+      "latitude": 49.251488,
+      "longitude": 20.186774
+    },
+    {
+      "name": "Nové sedlo",
+      "latitude": 49.256791,
+      "longitude": 20.184452
+    },
+    {
+      "name": "Staré sedlo",
+      "latitude": 49.259354,
+      "longitude": 20.204448
+    },
+    {
+      "name": "Nižné Havranské",
+      "latitude": 49.256754,
+      "longitude": 20.192007
+    },
+    {
+      "name": "Nižná Havrania lávka",
+      "latitude": 49.257957,
+      "longitude": 20.190755
+    },
+    {
+      "name": "Vyšná Havrania lávka",
+      "latitude": 49.257171,
+      "longitude": 20.191356
+    },
+    {
+      "name": "Plačlivá priehyba",
+      "latitude": 49.245082,
+      "longitude": 20.205316
+    },
+    {
+      "name": "Janove",
+      "latitude": 49.2438,
+      "longitude": 20.193161
+    },
+    {
+      "name": "Stefanove",
+      "latitude": 49.244014,
+      "longitude": 20.186557
+    },
+    {
+      "name": "Prostredné Muránske sedlo",
+      "latitude": 49.254865,
+      "longitude": 20.162264
+    },
+    {
+      "name": "Zadné Muránske sedlo",
+      "latitude": 49.254359,
+      "longitude": 20.163579
+    },
+    {
+      "name": "Muránske sedlo",
+      "latitude": 49.255699,
+      "longitude": 20.160025
+    },
+    {
+      "name": "Rogová",
+      "latitude": 49.257404,
+      "longitude": 20.154269
+    },
+    {
+      "name": "Horné Havranie",
+      "latitude": 49.247955,
+      "longitude": 20.196522
+    },
+    {
+      "name": "Zadné Plačlivé",
+      "latitude": 49.241642,
+      "longitude": 20.210928
+    },
+    {
+      "name": "Roztockie Siodło",
+      "latitude": 49.227589,
+      "longitude": 20.090432
+    },
+    {
+      "name": "Limbowa Przełęcz",
+      "latitude": 49.22264,
+      "longitude": 20.079207
+    },
+    {
+      "name": "Kolové sedlo",
+      "latitude": 49.2173,
+      "longitude": 20.205969
+    },
+    {
+      "name": "Široké sedlo",
+      "latitude": 49.238106,
+      "longitude": 20.212991
+    },
+    {
+      "name": "Východná Kozia štrbina",
+      "latitude": 49.217198,
+      "longitude": 20.214063
+    },
+    {
+      "name": "Jastrabie sedlo",
+      "latitude": 49.211834,
+      "longitude": 20.208793
+    },
+    {
+      "name": "Kolová štrbina",
+      "latitude": 49.211871,
+      "longitude": 20.200781
+    },
+    {
+      "name": "Zmrzlé sedlo",
+      "latitude": 49.21241,
+      "longitude": 20.201583
+    },
+    {
+      "name": "Pod Košiarom",
+      "latitude": 49.233783,
+      "longitude": 20.152225
+    },
+    {
+      "name": "Zadná Sklenená štrbina",
+      "latitude": 49.212469,
+      "longitude": 20.204835
+    },
+    {
+      "name": "Hlúpa štrbina",
+      "latitude": 49.247435,
+      "longitude": 20.231677
+    },
+    {
+      "name": "Hlasné vráta",
+      "latitude": 49.248629,
+      "longitude": 20.222445
+    },
+    {
+      "name": "Hlasné sedlo",
+      "latitude": 49.247239,
+      "longitude": 20.217636
+    },
+    {
+      "name": "Vyšné Žlebínske sedlo",
+      "latitude": 49.248387,
+      "longitude": 20.218535
+    },
+    {
+      "name": "Vtáčie sedlo",
+      "latitude": 49.258906,
+      "longitude": 20.225793
+    },
+    {
+      "name": "Žlebínske sedlo",
+      "latitude": 49.258451,
+      "longitude": 20.21825
+    },
+    {
+      "name": "Žlebínske sedlo",
+      "latitude": 49.253486,
+      "longitude": 20.220106
+    },
+    {
+      "name": "Javorinské sedlo",
+      "latitude": 49.257229,
+      "longitude": 20.247883
+    },
+    {
+      "name": "Opálené sedlo",
+      "latitude": 49.251406,
+      "longitude": 20.232128
+    },
+    {
+      "name": "1040",
+      "latitude": 49.254284,
+      "longitude": 20.274491
+    },
+    {
+      "name": "Vyšné Kardolínske sedlo",
+      "latitude": 49.244665,
+      "longitude": 20.285861
+    },
+    {
+      "name": "Kardolinske sedlo",
+      "latitude": 49.244917,
+      "longitude": 20.293685
+    },
+    {
+      "name": "Sedlo pod Gafľovkou",
+      "latitude": 49.249565,
+      "longitude": 20.242789
+    },
+    {
+      "name": "Sedlo nad Šikou",
+      "latitude": 49.244605,
+      "longitude": 20.242859
+    },
+    {
+      "name": "Kopské sedlo",
+      "latitude": 49.229359,
+      "longitude": 20.22016
+    },
+    {
+      "name": "Vyšné Kopské sedlo",
+      "latitude": 49.234421,
+      "longitude": 20.218545
+    },
+    {
+      "name": "Zadné Žeruchové sedlo",
+      "latitude": 49.216731,
+      "longitude": 20.216106
+    },
+    {
+      "name": "Predné Žeruchové sedlo",
+      "latitude": 49.216435,
+      "longitude": 20.217204
+    },
+    {
+      "name": "Žeruchová priehyba",
+      "latitude": 49.217885,
+      "longitude": 20.225244
+    },
+    {
+      "name": "Bujačie Sedlo",
+      "latitude": 49.230462,
+      "longitude": 20.259118
+    },
+    {
+      "name": "Predné Kopské sedlo",
+      "latitude": 49.226639,
+      "longitude": 20.221806
+    },
+    {
+      "name": "Hlúpe sedlo",
+      "latitude": 49.238897,
+      "longitude": 20.227792
+    },
+    {
+      "name": "sedlo Veľkého Košiara",
+      "latitude": 49.234991,
+      "longitude": 20.244772
+    },
+    {
+      "name": "sedlo Malého Košiara",
+      "latitude": 49.231685,
+      "longitude": 20.250651
+    },
+    {
+      "name": "Kuracie",
+      "latitude": 49.232862,
+      "longitude": 20.273718
+    },
+    {
+      "name": "Faixove",
+      "latitude": 49.225967,
+      "longitude": 20.294082
+    },
+    {
+      "name": "Kobylie sedlo",
+      "latitude": 49.224203,
+      "longitude": 20.307762
+    },
+    {
+      "name": "Mengusovské sedlo / Mięguszowiecka Przełęcz pod Chłopkiem",
+      "latitude": 49.183705,
+      "longitude": 20.065128
+    },
+    {
+      "name": "Marchwiczna Przełęcz",
+      "latitude": 49.206078,
+      "longitude": 20.05651
+    },
+    {
+      "name": "Vráta Chałubińského / Wrota Chałubińskiego",
+      "latitude": 49.191758,
+      "longitude": 20.044994
+    },
+    {
+      "name": "Przełączka pod Zadnim Mnichem / Štrbina za Druhým Mníchom",
+      "latitude": 49.189411,
+      "longitude": 20.050461
+    },
+    {
+      "name": "Szczerbina nad Wrotami / Štrbina nad Chałubińského bránou",
+      "latitude": 49.190847,
+      "longitude": 20.04675
+    },
+    {
+      "name": "Ciemnosmreczyńska Przełączka / Piargová štrbina",
+      "latitude": 49.189473,
+      "longitude": 20.049557
+    },
+    {
+      "name": "Wyżnia Białczańska Przełęcz",
+      "latitude": 49.189107,
+      "longitude": 20.086516
+    },
+    {
+      "name": "Wyżnia Spadowa Przełączka",
+      "latitude": 49.187659,
+      "longitude": 20.088979
+    },
+    {
+      "name": "Ciężka Przełączka/Ťažká štrbina",
+      "latitude": 49.18665,
+      "longitude": 20.087916
+    },
+    {
+      "name": "Niżnia Tomkowa Przełączka",
+      "latitude": 49.18402,
+      "longitude": 20.083702
+    },
+    {
+      "name": "Wyżnia Tomkowa Przełączka",
+      "latitude": 49.183764,
+      "longitude": 20.084071
+    },
+    {
+      "name": "Przełęcz pod Rysami",
+      "latitude": 49.181839,
+      "longitude": 20.08796
+    },
+    {
+      "name": "Vyšné Mengusovské sedlo / Mięguszowiecka Przełęcz Wyżnia",
+      "latitude": 49.185488,
+      "longitude": 20.061134
+    },
+    {
+      "name": "Hincovo sedlo / Hińczowa Przełęcz",
+      "latitude": 49.187706,
+      "longitude": 20.055245
+    },
+    {
+      "name": "Głaźne Wrótka / Krivé sedlo",
+      "latitude": 49.193132,
+      "longitude": 20.042698
+    },
+    {
+      "name": "Przełączka pod Żabią Czubą",
+      "latitude": 49.197293,
+      "longitude": 20.086022
+    },
+    {
+      "name": "Marusarzowa Przełączka",
+      "latitude": 49.195379,
+      "longitude": 20.084459
+    },
+    {
+      "name": "Owcza Przełęcz",
+      "latitude": 49.194507,
+      "longitude": 20.084663
+    },
+    {
+      "name": "Białczańska Przelęcz",
+      "latitude": 49.192774,
+      "longitude": 20.084861
+    },
+    {
+      "name": "Żabie Wrótka",
+      "latitude": 49.19035,
+      "longitude": 20.086066
+    },
+    {
+      "name": "pod Čubrinkou",
+      "latitude": 49.186028,
+      "longitude": 20.052786
+    },
+    {
+      "name": "Temnosmrečinské sedlo",
+      "latitude": 49.184647,
+      "longitude": 20.051243
+    },
+    {
+      "name": "Niżnie Szpiglasowe Wrótka / Východná deravá štrbina",
+      "latitude": 49.195008,
+      "longitude": 20.04071
+    },
+    {
+      "name": "Szpiglasowa Szczerbina / Hrubá štrbina",
+      "latitude": 49.195182,
+      "longitude": 20.040624
+    },
+    {
+      "name": "Pośrednie Szpiglasowe Wrótka / Západná deravá štrbina",
+      "latitude": 49.195225,
+      "longitude": 20.040517
+    },
+    {
+      "name": "Wyżnie Szpiglasowe Wrótka / Hrubá štrbina",
+      "latitude": 49.196199,
+      "longitude": 20.04
+    },
+    {
+      "name": "Przełęcz nad Wrotami / Sedlo nad Chałubińského bránou",
+      "latitude": 49.19055,
+      "longitude": 20.047069
+    },
+    {
+      "name": "Wyżni Czarnostawiański Przechód",
+      "latitude": 49.183923,
+      "longitude": 20.07026
+    },
+    {
+      "name": "Siodło za Kazalnicą",
+      "latitude": 49.184997,
+      "longitude": 20.069633
+    },
+    {
+      "name": "Szczerbina nad Igłami",
+      "latitude": 49.185303,
+      "longitude": 20.061425
+    },
+    {
+      "name": "Štrbina v ihlách / Szczerbina między Igłami",
+      "latitude": 49.185331,
+      "longitude": 20.061358
+    },
+    {
+      "name": "Mięguszowiecka Szczerbinka",
+      "latitude": 49.186593,
+      "longitude": 20.060384
+    },
+    {
+      "name": "Mięguszowiecki Przechód",
+      "latitude": 49.187637,
+      "longitude": 20.057224
+    },
+    {
+      "name": "Szpiglasowa Przełęcz",
+      "latitude": 49.197854,
+      "longitude": 20.042199
+    },
+    {
+      "name": "Kamzíčia štrbina",
+      "latitude": 49.18369,
+      "longitude": 20.093286
+    },
+    {
+      "name": "Kôprovská lávka",
+      "latitude": 49.182542,
+      "longitude": 20.046926
+    },
+    {
+      "name": "Štrbina pod Palcom",
+      "latitude": 49.183794,
+      "longitude": 20.040173
+    },
+    {
+      "name": "Štrbina za Palcom",
+      "latitude": 49.183695,
+      "longitude": 20.040294
+    },
+    {
+      "name": "Przełączka za Turnią Zwornikową",
+      "latitude": 49.191111,
+      "longitude": 20.057778
+    },
+    {
+      "name": "Mięguszowiecka Szczerba",
+      "latitude": 49.187112,
+      "longitude": 20.059854
+    },
+    {
+      "name": "Mlynárovo sedlo",
+      "latitude": 49.189487,
+      "longitude": 20.098658
+    },
+    {
+      "name": "Priečne sedlo",
+      "latitude": 49.188781,
+      "longitude": 20.184916
+    },
+    {
+      "name": "Sedielko",
+      "latitude": 49.19328,
+      "longitude": 20.181559
+    },
+    {
+      "name": "Malý Závrat",
+      "latitude": 49.187287,
+      "longitude": 20.160734
+    },
+    {
+      "name": "Ľadová štrbina",
+      "latitude": 49.196755,
+      "longitude": 20.182589
+    },
+    {
+      "name": "Baranie sedlo",
+      "latitude": 49.200045,
+      "longitude": 20.19986
+    },
+    {
+      "name": "Ľadová priehyba",
+      "latitude": 49.200854,
+      "longitude": 20.184214
+    },
+    {
+      "name": "Široké sedlo",
+      "latitude": 49.206483,
+      "longitude": 20.13732
+    },
+    {
+      "name": "Bránička",
+      "latitude": 49.182785,
+      "longitude": 20.197515
+    },
+    {
+      "name": "pod Prostredným",
+      "latitude": 49.183022,
+      "longitude": 20.19624
+    },
+    {
+      "name": "Jordánová štrbina",
+      "latitude": 49.196157,
+      "longitude": 20.20934
+    },
+    {
+      "name": "Sedlo pod Lomnickým",
+      "latitude": 49.195877,
+      "longitude": 20.21082
+    },
+    {
+      "name": "Posledná štrbina",
+      "latitude": 49.195904,
+      "longitude": 20.210348
+    },
+    {
+      "name": "Javorové sedlo",
+      "latitude": 49.188467,
+      "longitude": 20.172207
+    },
+    {
+      "name": "Žltá lávka",
+      "latitude": 49.186462,
+      "longitude": 20.189808
+    },
+    {
+      "name": "Štrbina za Prostredným",
+      "latitude": 49.185605,
+      "longitude": 20.192335
+    },
+    {
+      "name": "Štrbina v Prostrednom hrote",
+      "latitude": 49.185137,
+      "longitude": 20.193859
+    },
+    {
+      "name": "Javorová štrbina",
+      "latitude": 49.187072,
+      "longitude": 20.168833
+    },
+    {
+      "name": "Čierne sedlo",
+      "latitude": 49.207395,
+      "longitude": 20.199864
+    },
+    {
+      "name": "Zbojnické sedlo",
+      "latitude": 49.190018,
+      "longitude": 20.181423
+    },
+    {
+      "name": "Velká Zbojnická štrbina",
+      "latitude": 49.189966,
+      "longitude": 20.180596
+    },
+    {
+      "name": "Malá Zbojnická štrbina",
+      "latitude": 49.189777,
+      "longitude": 20.180311
+    },
+    {
+      "name": "Biela lávka",
+      "latitude": 49.189255,
+      "longitude": 20.178763
+    },
+    {
+      "name": "Pod Zámkami",
+      "latitude": 49.209958,
+      "longitude": 20.13073
+    },
+    {
+      "name": "Bachledova štrbina",
+      "latitude": 49.196586,
+      "longitude": 20.208329
+    },
+    {
+      "name": "Ľadové sedlo",
+      "latitude": 49.202719,
+      "longitude": 20.190039
+    },
+    {
+      "name": "Vyšné Kôprovské sedlo",
+      "latitude": 49.177425,
+      "longitude": 20.052762
+    },
+    {
+      "name": "Lúčne sedlo",
+      "latitude": 49.158018,
+      "longitude": 20.106319
+    },
+    {
+      "name": "Mała Rogata Szczerbina / Malá Rohatá štrbina",
+      "latitude": 49.18003,
+      "longitude": 20.072575
+    },
+    {
+      "name": "Wielka Wołowa Szczerbina / Veľká volia štrbina",
+      "latitude": 49.179147,
+      "longitude": 20.074672
+    },
+    {
+      "name": "Żabia Przełęcz Mięguszowiecka / Východná volia štrbina",
+      "latitude": 49.178642,
+      "longitude": 20.076249
+    },
+    {
+      "name": "Wyżnia Żabia Przełęcz / Vyšné Žabie sedlo",
+      "latitude": 49.178509,
+      "longitude": 20.078627
+    },
+    {
+      "name": "Żabia Przełęcz / Žabie sedlo",
+      "latitude": 49.178912,
+      "longitude": 20.080581
+    },
+    {
+      "name": "Mała Wołowa Szczerbina / Západná volia štrbina",
+      "latitude": 49.180259,
+      "longitude": 20.071354
+    },
+    {
+      "name": "Wielka Rogata Szczerbina / Veľká Rohatá štrbina",
+      "latitude": 49.179532,
+      "longitude": 20.073773
+    },
+    {
+      "name": "Czarnostawiańska Przełęcz / Východné Mengusovské sedlo",
+      "latitude": 49.181412,
+      "longitude": 20.068601
+    },
+    {
+      "name": "Pasternákova priehyba",
+      "latitude": 49.164105,
+      "longitude": 20.12588
+    },
+    {
+      "name": "Sedlo pod Galériou",
+      "latitude": 49.177658,
+      "longitude": 20.105426
+    },
+    {
+      "name": "Rumanove sedlo",
+      "latitude": 49.173967,
+      "longitude": 20.098599
+    },
+    {
+      "name": "Zlomisková bránka",
+      "latitude": 49.164003,
+      "longitude": 20.095072
+    },
+    {
+      "name": "Dračia brána",
+      "latitude": 49.172361,
+      "longitude": 20.08713
+    },
+    {
+      "name": "Dračie sedlo",
+      "latitude": 49.168875,
+      "longitude": 20.093756
+    },
+    {
+      "name": "sedlo Končistá",
+      "latitude": 49.159541,
+      "longitude": 20.114164
+    },
+    {
+      "name": "Vyšná Kahul. štrbina",
+      "latitude": 49.161699,
+      "longitude": 20.114175
+    },
+    {
+      "name": "Pod Drúkom",
+      "latitude": 49.164906,
+      "longitude": 20.114709
+    },
+    {
+      "name": "Nižné Kačacie sedlo",
+      "latitude": 49.165685,
+      "longitude": 20.121076
+    },
+    {
+      "name": "Vyšné Kačacie sedlo",
+      "latitude": 49.166223,
+      "longitude": 20.117851
+    },
+    {
+      "name": "Východná železná brána",
+      "latitude": 49.16769,
+      "longitude": 20.11342
+    },
+    {
+      "name": "Strážne sedlo",
+      "latitude": 49.166953,
+      "longitude": 20.108194
+    },
+    {
+      "name": "Rumanova štrbina",
+      "latitude": 49.170971,
+      "longitude": 20.106788
+    },
+    {
+      "name": "Sedlo nad Skokom",
+      "latitude": 49.153361,
+      "longitude": 20.058227
+    },
+    {
+      "name": "Nad Širokým žľabom",
+      "latitude": 49.15732,
+      "longitude": 20.05482
+    },
+    {
+      "name": "Sedlo nad Červeným žlabom",
+      "latitude": 49.160684,
+      "longitude": 20.054117
+    },
+    {
+      "name": "Baštové sedlo",
+      "latitude": 49.170199,
+      "longitude": 20.048238
+    },
+    {
+      "name": "Mlynické sedlo",
+      "latitude": 49.171015,
+      "longitude": 20.044098
+    },
+    {
+      "name": "Nižné Kôprovské sedlo",
+      "latitude": 49.173427,
+      "longitude": 20.051201
+    },
+    {
+      "name": "Volovcovo sedlo",
+      "latitude": 49.177603,
+      "longitude": 20.068266
+    },
+    {
+      "name": "Diablovo sedlo",
+      "latitude": 49.166074,
+      "longitude": 20.050735
+    },
+    {
+      "name": "Satanovo sedlo",
+      "latitude": 49.164043,
+      "longitude": 20.051041
+    },
+    {
+      "name": "Gánková štrbina",
+      "latitude": 49.173286,
+      "longitude": 20.105083
+    },
+    {
+      "name": "Nižná zlobná štrbina",
+      "latitude": 49.169018,
+      "longitude": 20.109251
+    },
+    {
+      "name": "Zlomisková štrbina",
+      "latitude": 49.166751,
+      "longitude": 20.11429
+    },
+    {
+      "name": "Západná železná brána",
+      "latitude": 49.168643,
+      "longitude": 20.111074
+    },
+    {
+      "name": "Štrbina pod Kohútikom",
+      "latitude": 49.173587,
+      "longitude": 20.090478
+    },
+    {
+      "name": "Zlatinská štrbina",
+      "latitude": 49.165386,
+      "longitude": 20.051215
+    },
+    {
+      "name": "Capia štrbina",
+      "latitude": 49.168919,
+      "longitude": 20.049216
+    },
+    {
+      "name": "Vyšné Baštové sedlo",
+      "latitude": 49.168173,
+      "longitude": 20.04963
+    },
+    {
+      "name": "Pekelníkova štrbina",
+      "latitude": 49.164606,
+      "longitude": 20.05088
+    },
+    {
+      "name": "sedlo Váha",
+      "latitude": 49.176017,
+      "longitude": 20.089868
+    },
+    {
+      "name": "Štrbina pod Ťažkým štítom",
+      "latitude": 49.173353,
+      "longitude": 20.092194
+    },
+    {
+      "name": "Západné Batizovské sedlo",
+      "latitude": 49.165813,
+      "longitude": 20.126551
+    },
+    {
+      "name": "Pustá Lávka",
+      "latitude": 49.178926,
+      "longitude": 20.104117
+    },
+    {
+      "name": "Malá Ganková štrbina",
+      "latitude": 49.174686,
+      "longitude": 20.103209
+    },
+    {
+      "name": "Prostredná Ganková štrbina",
+      "latitude": 49.174395,
+      "longitude": 20.103617
+    },
+    {
+      "name": "2174",
+      "latitude": 49.17744,
+      "longitude": 20.105189
+    },
+    {
+      "name": "Prostredná lávka v Kôpkach",
+      "latitude": 49.169827,
+      "longitude": 20.083383
+    },
+    {
+      "name": "Predná lávka v Kôpkach",
+      "latitude": 49.169263,
+      "longitude": 20.083056
+    },
+    {
+      "name": "Štrbina pod Kôpkami",
+      "latitude": 49.171979,
+      "longitude": 20.086251
+    },
+    {
+      "name": "Zadná lávka v Kôpkach",
+      "latitude": 49.170665,
+      "longitude": 20.084035
+    },
+    {
+      "name": "Prielom",
+      "latitude": 49.176954,
+      "longitude": 20.144774
+    },
+    {
+      "name": "Poľský hrebeň",
+      "latitude": 49.173486,
+      "longitude": 20.140294
+    },
+    {
+      "name": "Slavkovské sedlo",
+      "latitude": 49.169302,
+      "longitude": 20.167621
+    },
+    {
+      "name": "Gerlachovské sedlo",
+      "latitude": 49.165301,
+      "longitude": 20.132103
+    },
+    {
+      "name": "Priehyba nad Slavkovskou jamou",
+      "latitude": 49.167181,
+      "longitude": 20.180111
+    },
+    {
+      "name": "Varešková priehyba",
+      "latitude": 49.167573,
+      "longitude": 20.175072
+    },
+    {
+      "name": "Vareškové sedlo",
+      "latitude": 49.167477,
+      "longitude": 20.171837
+    },
+    {
+      "name": "Batizovská priehyba",
+      "latitude": 49.163806,
+      "longitude": 20.134737
+    },
+    {
+      "name": "Lavínová lávka",
+      "latitude": 49.16136,
+      "longitude": 20.137332
+    },
+    {
+      "name": "Litvorové sedlo",
+      "latitude": 49.170632,
+      "longitude": 20.130223
+    },
+    {
+      "name": "Za Nosom",
+      "latitude": 49.16521,
+      "longitude": 20.190143
+    },
+    {
+      "name": "Pod Kupolou",
+      "latitude": 49.172617,
+      "longitude": 20.149398
+    },
+    {
+      "name": "Sedlo pod Svišťovkou",
+      "latitude": 49.204363,
+      "longitude": 20.2358
+    },
+    {
+      "name": "Lomnické sedlo",
+      "latitude": 49.189404,
+      "longitude": 20.216539
+    },
+    {
+      "name": "Huncovské sedlo",
+      "latitude": 49.198367,
+      "longitude": 20.224567
+    },
+    {
+      "name": "Sedlo pod Malou Svišťovkou",
+      "latitude": 49.199716,
+      "longitude": 20.253512
+    },
+    {
+      "name": "Lieviková štrbina",
+      "latitude": 49.198842,
+      "longitude": 20.217143
+    },
+    {
+      "name": "Nižné sedlo pod Svišťovkou",
+      "latitude": 49.20352,
+      "longitude": 20.232879
+    },
+    {
+      "name": "Kapralowa Wysoka",
+      "latitude": 49.38195,
+      "longitude": 20.552206
+    },
+    {
+      "name": "Stráňanské sedlo",
+      "latitude": 49.362279,
+      "longitude": 20.56378
+    },
+    {
+      "name": "Vabec",
+      "latitude": 49.350544,
+      "longitude": 20.672716
+    },
+    {
+      "name": "Toporecké sedlo",
+      "latitude": 49.298702,
+      "longitude": 20.445105
+    },
+    {
+      "name": "Magurské sedlo",
+      "latitude": 49.290256,
+      "longitude": 20.42775
+    },
+    {
+      "name": "Pusté pole",
+      "latitude": 49.210554,
+      "longitude": 20.92166
+    },
+    {
+      "name": "Priehyby",
+      "latitude": 49.214649,
+      "longitude": 21.085183
+    },
+    {
+      "name": "Sedielkový priechod",
+      "latitude": 49.152849,
+      "longitude": 20.021119
+    },
+    {
+      "name": "pod Kopou",
+      "latitude": 49.152531,
+      "longitude": 19.982224
+    },
+    {
+      "name": "Pod Ostrvou",
+      "latitude": 49.15027,
+      "longitude": 20.091328
+    },
+    {
+      "name": "Tupá priehyba",
+      "latitude": 49.150542,
+      "longitude": 20.103264
+    },
+    {
+      "name": "Štrbské sedlo",
+      "latitude": 49.085468,
+      "longitude": 20.057972
+    },
+    {
+      "name": "Michalovské sedlo",
+      "latitude": 48.988856,
+      "longitude": 19.703679
+    },
+    {
+      "name": "Stanišovské sedlo",
+      "latitude": 49.002273,
+      "longitude": 19.703829
+    },
+    {
+      "name": "Príslop",
+      "latitude": 48.992595,
+      "longitude": 19.792664
+    },
+    {
+      "name": "Muránsko",
+      "latitude": 49.03494,
+      "longitude": 19.931176
+    },
+    {
+      "name": "Svidovské sedlo",
+      "latitude": 48.968049,
+      "longitude": 19.709596
+    },
+    {
+      "name": "Črchla",
+      "latitude": 48.953117,
+      "longitude": 19.737475
+    },
+    {
+      "name": "Pod Ohnišťom",
+      "latitude": 48.97965,
+      "longitude": 19.71109
+    },
+    {
+      "name": "Bocianske sedlo",
+      "latitude": 48.926798,
+      "longitude": 19.690491
+    },
+    {
+      "name": "Nemecká",
+      "latitude": 48.951698,
+      "longitude": 19.912387
+    },
+    {
+      "name": "Sedlo pod Veľkým Bokom",
+      "latitude": 48.927988,
+      "longitude": 19.877465
+    },
+    {
+      "name": "Žliabky",
+      "latitude": 48.934028,
+      "longitude": 20.383288
+    },
+    {
+      "name": "Zavartov",
+      "latitude": 49.120586,
+      "longitude": 20.681301
+    },
+    {
+      "name": "Prašivá",
+      "latitude": 49.050319,
+      "longitude": 20.824936
+    },
+    {
+      "name": "Przełęcz Tylicka/Kurovské sedlo",
+      "latitude": 49.374765,
+      "longitude": 21.102592
+    },
+    {
+      "name": "Przełęcz Beskid nad Czeremchą",
+      "latitude": 49.371409,
+      "longitude": 21.790393
+    },
+    {
+      "name": "Grob",
+      "latitude": 49.278644,
+      "longitude": 21.529121
+    },
+    {
+      "name": "Šibské sedlo",
+      "latitude": 49.226917,
+      "longitude": 21.253298
+    },
+    {
+      "name": "Przełęcz Radoszycka/Laborecký priesmyk",
+      "latitude": 49.287126,
+      "longitude": 22.019064
+    },
+    {
+      "name": "Przełęcz Łupkowska",
+      "latitude": 49.251328,
+      "longitude": 22.040206
+    },
+    {
+      "name": "Lupkovský priesmyk",
+      "latitude": 49.250664,
+      "longitude": 22.038412
+    },
+    {
+      "name": "Przełęcz nad Roztokami Górnymi / Ruské sedlo",
+      "latitude": 49.144289,
+      "longitude": 22.330158
+    },
+    {
+      "name": "Przełęcz pod Borsukiem",
+      "latitude": 49.092707,
+      "longitude": 22.479579
+    },
+    {
+      "name": "Sedlo Prislopec",
+      "latitude": 49.047686,
+      "longitude": 22.417024
+    },
+    {
+      "name": "Stakčínske sedlo",
+      "latitude": 48.9839,
+      "longitude": 22.276872
+    },
+    {
+      "name": "Kolonické sedlo",
+      "latitude": 48.941138,
+      "longitude": 22.272608
+    },
+    {
+      "name": "Przełęcz pod Czerteżem/Sedlo pod Čierťažou",
+      "latitude": 49.08769,
+      "longitude": 22.501096
+    },
+    {
+      "name": "Sedlo Trubárka",
+      "latitude": 48.877219,
+      "longitude": 18.153238
+    },
+    {
+      "name": "Sedlo Baské",
+      "latitude": 48.882165,
+      "longitude": 18.251844
+    },
+    {
+      "name": "Jastrabské sedlo",
+      "latitude": 48.811667,
+      "longitude": 18.087778
+    },
+    {
+      "name": "Sedlo Lúčky",
+      "latitude": 48.857103,
+      "longitude": 18.135663
+    },
+    {
+      "name": "Sedlo Mely",
+      "latitude": 48.827506,
+      "longitude": 18.25741
+    },
+    {
+      "name": "Žľaby",
+      "latitude": 48.806605,
+      "longitude": 18.257824
+    },
+    {
+      "name": "Priehyba",
+      "latitude": 48.459298,
+      "longitude": 17.367411
+    },
+    {
+      "name": "Marhát",
+      "latitude": 48.598536,
+      "longitude": 17.971809
+    },
+    {
+      "name": "Havran",
+      "latitude": 48.565588,
+      "longitude": 17.876934
+    },
+    {
+      "name": "Trojchotár",
+      "latitude": 48.487633,
+      "longitude": 18.274576
+    },
+    {
+      "name": "Sedlo pod Čiernou horou",
+      "latitude": 48.877837,
+      "longitude": 18.363656
+    },
+    {
+      "name": "Sedlo pod Hrádkom",
+      "latitude": 48.8781,
+      "longitude": 18.328114
+    },
+    {
+      "name": "Sedlo nad Krištofovci",
+      "latitude": 48.869854,
+      "longitude": 18.362982
+    },
+    {
+      "name": "Trebichavské sedlo",
+      "latitude": 48.807243,
+      "longitude": 18.290795
+    },
+    {
+      "name": "Sedlo pod Čiernym vrchom",
+      "latitude": 48.825185,
+      "longitude": 18.410428
+    },
+    {
+      "name": "Vyšehradské sedlo",
+      "latitude": 48.884439,
+      "longitude": 18.7062
+    },
+    {
+      "name": "Ostrá",
+      "latitude": 48.918923,
+      "longitude": 18.968109
+    },
+    {
+      "name": "Čremošnianske sedlo",
+      "latitude": 48.8446,
+      "longitude": 18.909555
+    },
+    {
+      "name": "Sedlo FLochovej",
+      "latitude": 48.805451,
+      "longitude": 18.984295
+    },
+    {
+      "name": "Dirhabské sedlo",
+      "latitude": 48.756564,
+      "longitude": 18.97841
+    },
+    {
+      "name": "Sedlo Šúchaly",
+      "latitude": 48.712582,
+      "longitude": 18.715484
+    },
+    {
+      "name": "Vetrové sedlo",
+      "latitude": 48.71242,
+      "longitude": 18.715892
+    },
+    {
+      "name": "Slobodné",
+      "latitude": 48.704337,
+      "longitude": 18.971012
+    },
+    {
+      "name": "Koniarky",
+      "latitude": 48.918655,
+      "longitude": 19.092787
+    },
+    {
+      "name": "pod Smrekovom",
+      "latitude": 48.88378,
+      "longitude": 19.023781
+    },
+    {
+      "name": "Východné Prašnické sedlo",
+      "latitude": 48.881775,
+      "longitude": 19.142295
+    },
+    {
+      "name": "Prašnické sedlo",
+      "latitude": 48.879448,
+      "longitude": 19.127509
+    },
+    {
+      "name": "Rybovské sedlo",
+      "latitude": 48.877172,
+      "longitude": 19.09012
+    },
+    {
+      "name": "Bogoška",
+      "latitude": 48.920503,
+      "longitude": 19.31647
+    },
+    {
+      "name": "Príslop",
+      "latitude": 48.898573,
+      "longitude": 19.299439
+    },
+    {
+      "name": "Prieval",
+      "latitude": 48.917081,
+      "longitude": 19.301624
+    },
+    {
+      "name": "Veľký Šturec",
+      "latitude": 48.884162,
+      "longitude": 19.167176
+    },
+    {
+      "name": "Prípor",
+      "latitude": 48.889046,
+      "longitude": 19.208396
+    },
+    {
+      "name": "Horské sedlo",
+      "latitude": 48.877904,
+      "longitude": 19.29329
+    },
+    {
+      "name": "Malý Šturec",
+      "latitude": 48.838643,
+      "longitude": 18.998736
+    },
+    {
+      "name": "Dolný Šturec",
+      "latitude": 48.816229,
+      "longitude": 19.144798
+    },
+    {
+      "name": "Hiadeľské sedlo",
+      "latitude": 48.862288,
+      "longitude": 19.304362
+    },
+    {
+      "name": "Zubová",
+      "latitude": 48.853132,
+      "longitude": 19.292936
+    },
+    {
+      "name": "Pod Skalkou",
+      "latitude": 48.916006,
+      "longitude": 19.370044
+    },
+    {
+      "name": "sedlo pod Žiarom",
+      "latitude": 48.90014,
+      "longitude": 19.499359
+    },
+    {
+      "name": "Struhárske sedlo",
+      "latitude": 48.915118,
+      "longitude": 19.464024
+    },
+    {
+      "name": "Králička",
+      "latitude": 48.919018,
+      "longitude": 19.670504
+    },
+    {
+      "name": "Sedlo",
+      "latitude": 48.875424,
+      "longitude": 19.618036
+    },
+    {
+      "name": "Tabla",
+      "latitude": 48.792298,
+      "longitude": 19.011758
+    },
+    {
+      "name": "Tunel",
+      "latitude": 48.74959,
+      "longitude": 18.999068
+    },
+    {
+      "name": "Králické sedlo",
+      "latitude": 48.728396,
+      "longitude": 19.002483
+    },
+    {
+      "name": "Bystrické sedlo",
+      "latitude": 48.734633,
+      "longitude": 19.001531
+    },
+    {
+      "name": "Tri kríže",
+      "latitude": 48.70559,
+      "longitude": 19.008257
+    },
+    {
+      "name": "Sedlo Pod Drienkom",
+      "latitude": 48.711497,
+      "longitude": 19.250557
+    },
+    {
+      "name": "Sedlo pod Hrbom",
+      "latitude": 48.736667,
+      "longitude": 19.454722
+    },
+    {
+      "name": "Prochotský priechod",
+      "latitude": 48.671888,
+      "longitude": 18.70557
+    },
+    {
+      "name": "Handlovské sedlo",
+      "latitude": 48.685193,
+      "longitude": 18.737976
+    },
+    {
+      "name": "Medzi Klapami",
+      "latitude": 48.644002,
+      "longitude": 18.870497
+    },
+    {
+      "name": "Závoz",
+      "latitude": 48.636389,
+      "longitude": 18.868216
+    },
+    {
+      "name": "Blatá",
+      "latitude": 48.612206,
+      "longitude": 18.86661
+    },
+    {
+      "name": "Podskalka",
+      "latitude": 48.625218,
+      "longitude": 18.867213
+    },
+    {
+      "name": "Biskupské sedlo",
+      "latitude": 48.631811,
+      "longitude": 18.867338
+    },
+    {
+      "name": "Trubianske sedlo",
+      "latitude": 48.544473,
+      "longitude": 18.514972
+    },
+    {
+      "name": "Sedlo Červená studňa",
+      "latitude": 48.469079,
+      "longitude": 18.882559
+    },
+    {
+      "name": "Sedlo Hájik",
+      "latitude": 48.467385,
+      "longitude": 18.903201
+    },
+    {
+      "name": "Jasenová",
+      "latitude": 48.679341,
+      "longitude": 19.469898
+    },
+    {
+      "name": "Tlstý javor",
+      "latitude": 48.68454,
+      "longitude": 19.648345
+    },
+    {
+      "name": "Priehybina",
+      "latitude": 48.636603,
+      "longitude": 19.586332
+    },
+    {
+      "name": "Prašivá",
+      "latitude": 48.601667,
+      "longitude": 19.660556
+    },
+    {
+      "name": "Priehyba",
+      "latitude": 48.467199,
+      "longitude": 19.29731
+    },
+    {
+      "name": "Kliešňová",
+      "latitude": 48.549967,
+      "longitude": 19.363012
+    },
+    {
+      "name": "Podkriváň",
+      "latitude": 48.513683,
+      "longitude": 19.487933
+    },
+    {
+      "name": "Nad Ráztokami",
+      "latitude": 48.491774,
+      "longitude": 19.642675
+    },
+    {
+      "name": "Baba",
+      "latitude": 48.350323,
+      "longitude": 17.189391
+    },
+    {
+      "name": "Inovecké sedlo",
+      "latitude": 48.413611,
+      "longitude": 18.535
+    },
+    {
+      "name": "Luchtovo sedlo",
+      "latitude": 48.347518,
+      "longitude": 18.625581
+    },
+    {
+      "name": "Lachtriská",
+      "latitude": 48.409522,
+      "longitude": 18.755265
+    },
+    {
+      "name": "Pleso",
+      "latitude": 48.436313,
+      "longitude": 18.845186
+    },
+    {
+      "name": "Peciny",
+      "latitude": 48.42994,
+      "longitude": 18.851125
+    },
+    {
+      "name": "Biela cesta",
+      "latitude": 48.413996,
+      "longitude": 18.896783
+    },
+    {
+      "name": "Krížny buk",
+      "latitude": 48.376978,
+      "longitude": 18.711952
+    },
+    {
+      "name": "Súdenica",
+      "latitude": 48.396196,
+      "longitude": 18.742304
+    },
+    {
+      "name": "Pod Veľkým Veterníkom",
+      "latitude": 48.388758,
+      "longitude": 18.726367
+    },
+    {
+      "name": "Pod Valhišom",
+      "latitude": 48.298205,
+      "longitude": 18.79674
+    },
+    {
+      "name": "Pliešovské sedlo",
+      "latitude": 48.405467,
+      "longitude": 19.170665
+    },
+    {
+      "name": "Čertovica",
+      "latitude": 48.905507,
+      "longitude": 19.735906
+    },
+    {
+      "name": "Bacúšske sedlo",
+      "latitude": 48.904769,
+      "longitude": 19.769399
+    },
+    {
+      "name": "Kumštové sedlo",
+      "latitude": 48.922186,
+      "longitude": 19.698485
+    },
+    {
+      "name": "Priehyba",
+      "latitude": 48.907362,
+      "longitude": 19.955588
+    },
+    {
+      "name": "Pod Košariskami",
+      "latitude": 48.901575,
+      "longitude": 20.013746
+    },
+    {
+      "name": "Vandrovo sedlo",
+      "latitude": 48.815575,
+      "longitude": 20.004779
+    },
+    {
+      "name": "Sedlo Gindury",
+      "latitude": 48.833502,
+      "longitude": 20.023624
+    },
+    {
+      "name": "Ždiarske sedlo",
+      "latitude": 48.897701,
+      "longitude": 20.052095
+    },
+    {
+      "name": "Smrečinské sedlo",
+      "latitude": 48.912878,
+      "longitude": 20.186489
+    },
+    {
+      "name": "Kopanec",
+      "latitude": 48.900626,
+      "longitude": 20.295396
+    },
+    {
+      "name": "Vernárske sedlo",
+      "latitude": 48.895636,
+      "longitude": 20.248125
+    },
+    {
+      "name": "Kopanec",
+      "latitude": 48.900327,
+      "longitude": 20.294661
+    },
+    {
+      "name": "Predné sedlo",
+      "latitude": 48.864039,
+      "longitude": 20.134219
+    },
+    {
+      "name": "Prehybka",
+      "latitude": 48.818807,
+      "longitude": 20.19628
+    },
+    {
+      "name": "Besník",
+      "latitude": 48.861803,
+      "longitude": 20.226444
+    },
+    {
+      "name": "Nižná Kľaková",
+      "latitude": 48.767,
+      "longitude": 19.963
+    },
+    {
+      "name": "Zbojská",
+      "latitude": 48.743571,
+      "longitude": 19.850893
+    },
+    {
+      "name": "Bánovo",
+      "latitude": 48.708577,
+      "longitude": 19.825999
+    },
+    {
+      "name": "Dielik",
+      "latitude": 48.700714,
+      "longitude": 19.984403
+    },
+    {
+      "name": "Javorinka",
+      "latitude": 48.795835,
+      "longitude": 20.13585
+    },
+    {
+      "name": "Šumiacka priehybka",
+      "latitude": 48.785021,
+      "longitude": 20.153327
+    },
+    {
+      "name": "sedlo Severná lúka",
+      "latitude": 48.793962,
+      "longitude": 20.17239
+    },
+    {
+      "name": "Slanské sedlo",
+      "latitude": 48.785318,
+      "longitude": 20.198703
+    },
+    {
+      "name": "Predná hora",
+      "latitude": 48.772496,
+      "longitude": 20.103659
+    },
+    {
+      "name": "Tomášikova jama",
+      "latitude": 48.748695,
+      "longitude": 20.263401
+    },
+    {
+      "name": "Filipka",
+      "latitude": 48.715532,
+      "longitude": 20.381047
+    },
+    {
+      "name": "Grajnár",
+      "latitude": 48.857531,
+      "longitude": 20.514933
+    },
+    {
+      "name": "Súľová",
+      "latitude": 48.81274,
+      "longitude": 20.480509
+    },
+    {
+      "name": "Pri založenej studni",
+      "latitude": 48.812459,
+      "longitude": 20.755293
+    },
+    {
+      "name": "Veľké sedlo",
+      "latitude": 48.755427,
+      "longitude": 20.603659
+    },
+    {
+      "name": "Úhornianske sedlo",
+      "latitude": 48.702166,
+      "longitude": 20.649544
+    },
+    {
+      "name": "Vlčková",
+      "latitude": 48.788093,
+      "longitude": 20.872285
+    },
+    {
+      "name": "Jedľovec",
+      "latitude": 48.751603,
+      "longitude": 20.840685
+    },
+    {
+      "name": "Idčianske sedlo",
+      "latitude": 48.762281,
+      "longitude": 21.03307
+    },
+    {
+      "name": "Štóske sedlo",
+      "latitude": 48.722322,
+      "longitude": 20.761781
+    },
+    {
+      "name": "Chorepa",
+      "latitude": 48.594576,
+      "longitude": 19.86004
+    },
+    {
+      "name": "Strieborné",
+      "latitude": 48.618779,
+      "longitude": 20.299042
+    },
+    {
+      "name": "Herlianske sedlo",
+      "latitude": 48.812213,
+      "longitude": 21.528175
+    },
+    {
+      "name": "Dargovský priesmyk",
+      "latitude": 48.739065,
+      "longitude": 21.535333
+    },
+    {
+      "name": "Tri tably",
+      "latitude": 48.920549,
+      "longitude": 22.18422
+    },
+    {
+      "name": "Slanské sedlo",
+      "latitude": 48.633217,
+      "longitude": 21.45433
+    },
+    {
+      "name": "Garád",
+      "latitude": 48.191064,
+      "longitude": 19.909367
+    }
+  ],
+  "meta": {
+    "title": "Sedlá - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (natural=saddle). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84. Obsahuje 688 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Sedlá | ListBase",
+    "seo_description": "Stiahnuť Sedlá — 688 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 688 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

@@ -1,0 +1,1736 @@
+{
+  "id": "sk-skaly",
+  "name": "Skaly",
+  "title": "Skaly",
+  "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (natural=rock). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 339,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Medvedia skala",
+      "latitude": 49.499876,
+      "longitude": 18.690005
+    },
+    {
+      "name": "Kamenné gule Megonky",
+      "latitude": 49.496838,
+      "longitude": 18.722505
+    },
+    {
+      "name": "Mrazový srub",
+      "latitude": 49.491097,
+      "longitude": 18.535812
+    },
+    {
+      "name": "Czarny Dziób",
+      "latitude": 49.575012,
+      "longitude": 19.526042
+    },
+    {
+      "name": "Vetrná veža",
+      "latitude": 49.263183,
+      "longitude": 18.192778
+    },
+    {
+      "name": "Čertova skala",
+      "latitude": 49.151421,
+      "longitude": 18.251648
+    },
+    {
+      "name": "Vieska",
+      "latitude": 49.133604,
+      "longitude": 18.2812
+    },
+    {
+      "name": "Kozie rohy",
+      "latitude": 49.042432,
+      "longitude": 18.12401
+    },
+    {
+      "name": "Kojšovský budzogáň",
+      "latitude": 49.167703,
+      "longitude": 18.846763
+    },
+    {
+      "name": "Borsučie skaly",
+      "latitude": 49.315623,
+      "longitude": 19.171772
+    },
+    {
+      "name": "Skalka",
+      "latitude": 49.32808,
+      "longitude": 19.53654
+    },
+    {
+      "name": "Markova skala",
+      "latitude": 49.269643,
+      "longitude": 19.378595
+    },
+    {
+      "name": "Veľká Sokolia veža",
+      "latitude": 49.245982,
+      "longitude": 19.021878
+    },
+    {
+      "name": "Skalná veža Benka",
+      "latitude": 49.232729,
+      "longitude": 19.088174
+    },
+    {
+      "name": "Katka",
+      "latitude": 49.188692,
+      "longitude": 19.080741
+    },
+    {
+      "name": "Odtrhnutá skalná veža",
+      "latitude": 49.164545,
+      "longitude": 19.16037
+    },
+    {
+      "name": "Nemec",
+      "latitude": 49.211825,
+      "longitude": 19.639374
+    },
+    {
+      "name": "Supovica",
+      "latitude": 49.215853,
+      "longitude": 19.657825
+    },
+    {
+      "name": "Ihla v Kalamickej",
+      "latitude": 49.16419,
+      "longitude": 19.408692
+    },
+    {
+      "name": "Havrania",
+      "latitude": 49.164209,
+      "longitude": 19.407766
+    },
+    {
+      "name": "ihla",
+      "latitude": 49.17143,
+      "longitude": 19.494086
+    },
+    {
+      "name": "Čierna stena",
+      "latitude": 49.175554,
+      "longitude": 19.489336
+    },
+    {
+      "name": "Čierna stena",
+      "latitude": 49.175214,
+      "longitude": 19.488306
+    },
+    {
+      "name": "Skalné mesto Prosiecka dolina",
+      "latitude": 49.17457,
+      "longitude": 19.484363
+    },
+    {
+      "name": "ZUB",
+      "latitude": 49.190943,
+      "longitude": 19.544085
+    },
+    {
+      "name": "Mníšek",
+      "latitude": 49.18833,
+      "longitude": 19.591866
+    },
+    {
+      "name": "Mních",
+      "latitude": 49.186646,
+      "longitude": 19.590018
+    },
+    {
+      "name": "1936",
+      "latitude": 49.19654,
+      "longitude": 19.535857
+    },
+    {
+      "name": "Zbojník",
+      "latitude": 49.203154,
+      "longitude": 19.54984
+    },
+    {
+      "name": "Kozub",
+      "latitude": 49.201715,
+      "longitude": 19.607846
+    },
+    {
+      "name": "Pachoľa",
+      "latitude": 49.186432,
+      "longitude": 19.636659
+    },
+    {
+      "name": "Rapkastá skala",
+      "latitude": 49.189138,
+      "longitude": 19.67079
+    },
+    {
+      "name": "Koč",
+      "latitude": 49.203088,
+      "longitude": 19.674636
+    },
+    {
+      "name": "Túreň",
+      "latitude": 49.192186,
+      "longitude": 19.673814
+    },
+    {
+      "name": "Babky",
+      "latitude": 49.182333,
+      "longitude": 19.628215
+    },
+    {
+      "name": "Skalka",
+      "latitude": 49.16913,
+      "longitude": 19.594033
+    },
+    {
+      "name": "Behárska skala",
+      "latitude": 49.173769,
+      "longitude": 19.589204
+    },
+    {
+      "name": "Vysoká skala",
+      "latitude": 49.173424,
+      "longitude": 19.583471
+    },
+    {
+      "name": "Ostrá skala",
+      "latitude": 49.178308,
+      "longitude": 19.592704
+    },
+    {
+      "name": "Jánošíkov krpec",
+      "latitude": 49.173668,
+      "longitude": 19.592463
+    },
+    {
+      "name": "Jánošíkov stôl",
+      "latitude": 49.173559,
+      "longitude": 19.593043
+    },
+    {
+      "name": "Skamenelá Mária",
+      "latitude": 49.178944,
+      "longitude": 19.645069
+    },
+    {
+      "name": "Ihla",
+      "latitude": 49.178351,
+      "longitude": 19.644246
+    },
+    {
+      "name": "Babka",
+      "latitude": 49.179903,
+      "longitude": 19.625675
+    },
+    {
+      "name": "Skok",
+      "latitude": 49.169264,
+      "longitude": 19.617264
+    },
+    {
+      "name": "Biela skala",
+      "latitude": 49.166987,
+      "longitude": 19.684784
+    },
+    {
+      "name": "Kostolce",
+      "latitude": 49.170537,
+      "longitude": 19.676224
+    },
+    {
+      "name": "Bedrovica",
+      "latitude": 49.164605,
+      "longitude": 19.64787
+    },
+    {
+      "name": "Supova skala",
+      "latitude": 49.174621,
+      "longitude": 19.666656
+    },
+    {
+      "name": "Skalky",
+      "latitude": 49.169726,
+      "longitude": 19.657589
+    },
+    {
+      "name": "Skalky",
+      "latitude": 49.173179,
+      "longitude": 19.663269
+    },
+    {
+      "name": "Kostolce",
+      "latitude": 49.170288,
+      "longitude": 19.675446
+    },
+    {
+      "name": "Kostolce",
+      "latitude": 49.170253,
+      "longitude": 19.674486
+    },
+    {
+      "name": "Kostolce",
+      "latitude": 49.17015,
+      "longitude": 19.673734
+    },
+    {
+      "name": "Kostolce",
+      "latitude": 49.170032,
+      "longitude": 19.671519
+    },
+    {
+      "name": "Kostolce",
+      "latitude": 49.170217,
+      "longitude": 19.672399
+    },
+    {
+      "name": "Babky",
+      "latitude": 49.181424,
+      "longitude": 19.627454
+    },
+    {
+      "name": "Tri babky",
+      "latitude": 49.17993,
+      "longitude": 19.625537
+    },
+    {
+      "name": "Marošova skala",
+      "latitude": 49.174749,
+      "longitude": 19.608898
+    },
+    {
+      "name": "Skalky",
+      "latitude": 49.170625,
+      "longitude": 19.659479
+    },
+    {
+      "name": "Skalky",
+      "latitude": 49.170164,
+      "longitude": 19.658406
+    },
+    {
+      "name": "Biela skala",
+      "latitude": 49.142639,
+      "longitude": 18.336568
+    },
+    {
+      "name": "Čierna skala",
+      "latitude": 49.1404,
+      "longitude": 18.334556
+    },
+    {
+      "name": "Stratený Budzogáň",
+      "latitude": 49.12794,
+      "longitude": 18.619996
+    },
+    {
+      "name": "Malý Budzogáň",
+      "latitude": 49.138554,
+      "longitude": 18.617934
+    },
+    {
+      "name": "Zbyňovská skalná ihla",
+      "latitude": 49.12823,
+      "longitude": 18.62833
+    },
+    {
+      "name": "Fľak",
+      "latitude": 49.114139,
+      "longitude": 18.625317
+    },
+    {
+      "name": "Jánošíkove skalky",
+      "latitude": 49.059904,
+      "longitude": 18.576648
+    },
+    {
+      "name": "Skalný hríb",
+      "latitude": 49.043067,
+      "longitude": 18.586482
+    },
+    {
+      "name": "Poluvsianská skalná ihla",
+      "latitude": 49.133475,
+      "longitude": 18.703614
+    },
+    {
+      "name": "Skalná ihla",
+      "latitude": 49.142351,
+      "longitude": 18.684429
+    },
+    {
+      "name": "Pavúčia skala",
+      "latitude": 49.145108,
+      "longitude": 18.773395
+    },
+    {
+      "name": "Dedošova skala",
+      "latitude": 49.130522,
+      "longitude": 18.782989
+    },
+    {
+      "name": "Gendé skala",
+      "latitude": 48.982152,
+      "longitude": 18.972756
+    },
+    {
+      "name": "Havrania skala",
+      "latitude": 48.973048,
+      "longitude": 18.967086
+    },
+    {
+      "name": "Kaškova veža",
+      "latitude": 48.926098,
+      "longitude": 18.937501
+    },
+    {
+      "name": "Ihla v Solisku",
+      "latitude": 49.150309,
+      "longitude": 19.307167
+    },
+    {
+      "name": "Kostoly",
+      "latitude": 49.140072,
+      "longitude": 19.25909
+    },
+    {
+      "name": "Hlavačka",
+      "latitude": 49.143223,
+      "longitude": 19.258896
+    },
+    {
+      "name": "ihla",
+      "latitude": 49.121304,
+      "longitude": 19.267873
+    },
+    {
+      "name": "ihla",
+      "latitude": 49.121908,
+      "longitude": 19.271774
+    },
+    {
+      "name": "Tonkova skala",
+      "latitude": 49.074235,
+      "longitude": 19.137932
+    },
+    {
+      "name": "Raková Biela skala",
+      "latitude": 49.047142,
+      "longitude": 19.12452
+    },
+    {
+      "name": "Jánošíkova päsť",
+      "latitude": 49.086403,
+      "longitude": 19.335106
+    },
+    {
+      "name": "Ihla Malé Tatry",
+      "latitude": 49.089441,
+      "longitude": 19.284381
+    },
+    {
+      "name": "Hríb",
+      "latitude": 49.085808,
+      "longitude": 19.318421
+    },
+    {
+      "name": "Salatín",
+      "latitude": 49.052174,
+      "longitude": 19.193201
+    },
+    {
+      "name": "Krkavá skala",
+      "latitude": 49.04677,
+      "longitude": 19.287341
+    },
+    {
+      "name": "Ihla",
+      "latitude": 49.05079,
+      "longitude": 19.283456
+    },
+    {
+      "name": "Belanská skalka",
+      "latitude": 49.043603,
+      "longitude": 19.306573
+    },
+    {
+      "name": "Hroncova skala",
+      "latitude": 49.062736,
+      "longitude": 19.297505
+    },
+    {
+      "name": "Veľká skala",
+      "latitude": 49.059259,
+      "longitude": 19.278506
+    },
+    {
+      "name": "Široká skala",
+      "latitude": 49.045504,
+      "longitude": 19.275768
+    },
+    {
+      "name": "Gerecká skala",
+      "latitude": 49.047571,
+      "longitude": 19.27312
+    },
+    {
+      "name": "Hodiny",
+      "latitude": 49.04637,
+      "longitude": 19.275016
+    },
+    {
+      "name": "Pecekova skala",
+      "latitude": 49.045478,
+      "longitude": 19.28301
+    },
+    {
+      "name": "Krkavský previs",
+      "latitude": 49.047031,
+      "longitude": 19.289631
+    },
+    {
+      "name": "Medvedia skala",
+      "latitude": 49.056631,
+      "longitude": 19.289338
+    },
+    {
+      "name": "Krauzov zub",
+      "latitude": 49.152035,
+      "longitude": 19.344354
+    },
+    {
+      "name": "Travertínová veža v Bešeňovej",
+      "latitude": 49.107144,
+      "longitude": 19.434555
+    },
+    {
+      "name": "Ihla",
+      "latitude": 49.028748,
+      "longitude": 19.326807
+    },
+    {
+      "name": "Mravička",
+      "latitude": 49.027148,
+      "longitude": 19.286628
+    },
+    {
+      "name": "Vlčia skala",
+      "latitude": 49.02973,
+      "longitude": 19.273952
+    },
+    {
+      "name": "Dogerské skaly",
+      "latitude": 49.027766,
+      "longitude": 19.289607
+    },
+    {
+      "name": "Travertínový hríb",
+      "latitude": 49.010848,
+      "longitude": 19.285252
+    },
+    {
+      "name": "Múdra Hana",
+      "latitude": 48.973649,
+      "longitude": 19.011752
+    },
+    {
+      "name": "Jánošíkova skala",
+      "latitude": 48.96996,
+      "longitude": 19.008821
+    },
+    {
+      "name": "Čertova skala",
+      "latitude": 49.034016,
+      "longitude": 19.649678
+    },
+    {
+      "name": "Vráta",
+      "latitude": 48.987857,
+      "longitude": 19.596854
+    },
+    {
+      "name": "Ihla",
+      "latitude": 48.975629,
+      "longitude": 19.336402
+    },
+    {
+      "name": "Ihla",
+      "latitude": 48.93616,
+      "longitude": 19.642077
+    },
+    {
+      "name": "Štajnerova vežička",
+      "latitude": 48.936501,
+      "longitude": 19.653254
+    },
+    {
+      "name": "Kozia kopa",
+      "latitude": 48.935541,
+      "longitude": 19.643718
+    },
+    {
+      "name": "Hukowa Skała",
+      "latitude": 49.417451,
+      "longitude": 20.448835
+    },
+    {
+      "name": "Świnia Skała",
+      "latitude": 49.401528,
+      "longitude": 20.429232
+    },
+    {
+      "name": "Stolček Panny Márie",
+      "latitude": 49.408028,
+      "longitude": 21.343369
+    },
+    {
+      "name": "Kamień",
+      "latitude": 49.239899,
+      "longitude": 19.941581
+    },
+    {
+      "name": "Biela skala",
+      "latitude": 49.190602,
+      "longitude": 19.741115
+    },
+    {
+      "name": "Mesárova skala",
+      "latitude": 49.173829,
+      "longitude": 19.697904
+    },
+    {
+      "name": "Ihla republiky",
+      "latitude": 49.182767,
+      "longitude": 20.199739
+    },
+    {
+      "name": "Plačekova ihla",
+      "latitude": 49.182851,
+      "longitude": 20.199784
+    },
+    {
+      "name": "Loktibrada",
+      "latitude": 49.198214,
+      "longitude": 20.207089
+    },
+    {
+      "name": "Zbojnícka skala",
+      "latitude": 49.157106,
+      "longitude": 20.239759
+    },
+    {
+      "name": "Čertova skala",
+      "latitude": 49.357443,
+      "longitude": 20.654546
+    },
+    {
+      "name": "Lysá skala",
+      "latitude": 49.348227,
+      "longitude": 20.652418
+    },
+    {
+      "name": "Puknutá skala",
+      "latitude": 49.344183,
+      "longitude": 20.671876
+    },
+    {
+      "name": "Skala na Poliankach",
+      "latitude": 49.350901,
+      "longitude": 20.658446
+    },
+    {
+      "name": "Sovia skala",
+      "latitude": 49.303696,
+      "longitude": 20.513309
+    },
+    {
+      "name": "Sokolova skala",
+      "latitude": 49.213978,
+      "longitude": 20.958831
+    },
+    {
+      "name": "Nosová skala",
+      "latitude": 49.210643,
+      "longitude": 20.936179
+    },
+    {
+      "name": "Spiaci mních",
+      "latitude": 49.209713,
+      "longitude": 20.93214
+    },
+    {
+      "name": "Golem",
+      "latitude": 49.209497,
+      "longitude": 20.933606
+    },
+    {
+      "name": "Skalka",
+      "latitude": 49.19504,
+      "longitude": 20.964266
+    },
+    {
+      "name": "Balentova skalka",
+      "latitude": 49.196187,
+      "longitude": 20.958021
+    },
+    {
+      "name": "Veža nad Skokom",
+      "latitude": 49.15072,
+      "longitude": 20.050263
+    },
+    {
+      "name": "Ihla v Patrii",
+      "latitude": 49.147865,
+      "longitude": 20.064971
+    },
+    {
+      "name": "Travertinová kopa Biely kameň",
+      "latitude": 49.027533,
+      "longitude": 20.336872
+    },
+    {
+      "name": "Tunelová brána",
+      "latitude": 49.059308,
+      "longitude": 20.879934
+    },
+    {
+      "name": "Mojžišov stĺp",
+      "latitude": 49.060181,
+      "longitude": 20.929068
+    },
+    {
+      "name": "Lištan",
+      "latitude": 49.041624,
+      "longitude": 20.933295
+    },
+    {
+      "name": "Marta",
+      "latitude": 48.987894,
+      "longitude": 20.775145
+    },
+    {
+      "name": "Vyšná Hodkovská veža",
+      "latitude": 48.986696,
+      "longitude": 20.776124
+    },
+    {
+      "name": "Veľký mních",
+      "latitude": 48.986352,
+      "longitude": 20.776029
+    },
+    {
+      "name": "Malá veža",
+      "latitude": 48.986269,
+      "longitude": 20.776471
+    },
+    {
+      "name": "Dvojitá vežička",
+      "latitude": 48.987008,
+      "longitude": 20.77553
+    },
+    {
+      "name": "Okrajová veža",
+      "latitude": 48.988478,
+      "longitude": 20.774503
+    },
+    {
+      "name": "Červená veža",
+      "latitude": 48.988304,
+      "longitude": 20.775222
+    },
+    {
+      "name": "Južné rameno",
+      "latitude": 48.987681,
+      "longitude": 20.775213
+    },
+    {
+      "name": "Skif",
+      "latitude": 48.98805,
+      "longitude": 20.775281
+    },
+    {
+      "name": "Pirát",
+      "latitude": 48.987966,
+      "longitude": 20.775527
+    },
+    {
+      "name": "Hodkovský hrebeň",
+      "latitude": 48.98769,
+      "longitude": 20.77557
+    },
+    {
+      "name": "Blázon",
+      "latitude": 48.985222,
+      "longitude": 20.776485
+    },
+    {
+      "name": "Cvičná vežička",
+      "latitude": 48.988427,
+      "longitude": 20.775079
+    },
+    {
+      "name": "Veterná veža",
+      "latitude": 48.985655,
+      "longitude": 20.776131
+    },
+    {
+      "name": "Vyhliadka",
+      "latitude": 48.985769,
+      "longitude": 20.776147
+    },
+    {
+      "name": "Veža nad sedielkom",
+      "latitude": 48.986168,
+      "longitude": 20.776281
+    },
+    {
+      "name": "Čertova veža",
+      "latitude": 48.985839,
+      "longitude": 20.776273
+    },
+    {
+      "name": "Mesačná veža",
+      "latitude": 48.986605,
+      "longitude": 20.775758
+    },
+    {
+      "name": "Mesačná vežička",
+      "latitude": 48.986725,
+      "longitude": 20.775834
+    },
+    {
+      "name": "Hodkovská veža",
+      "latitude": 48.986668,
+      "longitude": 20.776257
+    },
+    {
+      "name": "Malý mních",
+      "latitude": 48.986373,
+      "longitude": 20.776117
+    },
+    {
+      "name": "Vstupná veža",
+      "latitude": 48.988217,
+      "longitude": 20.774766
+    },
+    {
+      "name": "Platňa",
+      "latitude": 48.988217,
+      "longitude": 20.77458
+    },
+    {
+      "name": "Malá bariéra",
+      "latitude": 48.987706,
+      "longitude": 20.774992
+    },
+    {
+      "name": "Východný múr",
+      "latitude": 48.987469,
+      "longitude": 20.775112
+    },
+    {
+      "name": "Centrálna veža",
+      "latitude": 48.987864,
+      "longitude": 20.775159
+    },
+    {
+      "name": "Jazvečia skala 1",
+      "latitude": 48.998555,
+      "longitude": 20.87485
+    },
+    {
+      "name": "Jazvečia skala 2",
+      "latitude": 48.995091,
+      "longitude": 20.877221
+    },
+    {
+      "name": "podobizeň medveďa",
+      "latitude": 48.994313,
+      "longitude": 20.871924
+    },
+    {
+      "name": "Červené previsy",
+      "latitude": 48.979794,
+      "longitude": 20.781069
+    },
+    {
+      "name": "Čierna Hora",
+      "latitude": 48.927425,
+      "longitude": 21.004836
+    },
+    {
+      "name": "Oltár Kameň",
+      "latitude": 49.162997,
+      "longitude": 21.145989
+    },
+    {
+      "name": "Čertov kameň",
+      "latitude": 49.252707,
+      "longitude": 21.904021
+    },
+    {
+      "name": "Mohylky",
+      "latitude": 49.006753,
+      "longitude": 21.398294
+    },
+    {
+      "name": "Šarišské Moai",
+      "latitude": 48.980798,
+      "longitude": 21.426255
+    },
+    {
+      "name": "Džad",
+      "latitude": 49.004734,
+      "longitude": 21.381379
+    },
+    {
+      "name": "Gibovské skalné ihly",
+      "latitude": 48.990913,
+      "longitude": 21.372938
+    },
+    {
+      "name": "Tri Oltáre",
+      "latitude": 48.977755,
+      "longitude": 21.374782
+    },
+    {
+      "name": "Bodoň",
+      "latitude": 48.936926,
+      "longitude": 21.400379
+    },
+    {
+      "name": "Sokolie skaly",
+      "latitude": 48.967318,
+      "longitude": 21.484293
+    },
+    {
+      "name": "Viducké skaly",
+      "latitude": 48.927829,
+      "longitude": 22.239722
+    },
+    {
+      "name": "Stanova skala",
+      "latitude": 48.79977,
+      "longitude": 18.029936
+    },
+    {
+      "name": "Dedinská skala",
+      "latitude": 48.758629,
+      "longitude": 17.978675
+    },
+    {
+      "name": "Včelie skalky",
+      "latitude": 48.617438,
+      "longitude": 17.563174
+    },
+    {
+      "name": "skala kôň",
+      "latitude": 48.528882,
+      "longitude": 17.393617
+    },
+    {
+      "name": "Skalné Súihlie",
+      "latitude": 48.530413,
+      "longitude": 17.396666
+    },
+    {
+      "name": "Dívčí sen",
+      "latitude": 48.528037,
+      "longitude": 17.396636
+    },
+    {
+      "name": "Ovčia hlava",
+      "latitude": 48.527279,
+      "longitude": 17.396127
+    },
+    {
+      "name": "Jánošíkova skala",
+      "latitude": 48.540653,
+      "longitude": 17.402163
+    },
+    {
+      "name": "Okno na Šidlovej",
+      "latitude": 48.573001,
+      "longitude": 17.565328
+    },
+    {
+      "name": "Jelenia skala",
+      "latitude": 48.496349,
+      "longitude": 17.307245
+    },
+    {
+      "name": "Horštúnske skaly",
+      "latitude": 48.501512,
+      "longitude": 17.396581
+    },
+    {
+      "name": "skalná ihla Kajka",
+      "latitude": 48.468231,
+      "longitude": 17.269706
+    },
+    {
+      "name": "Orlia skala",
+      "latitude": 48.467523,
+      "longitude": 17.26812
+    },
+    {
+      "name": "skala Pes",
+      "latitude": 48.46792,
+      "longitude": 17.269185
+    },
+    {
+      "name": "Skalné bralá Hrdovická",
+      "latitude": 48.501736,
+      "longitude": 18.200272
+    },
+    {
+      "name": "Janova skalka",
+      "latitude": 48.494611,
+      "longitude": 18.257057
+    },
+    {
+      "name": "Dračie zuby",
+      "latitude": 48.695316,
+      "longitude": 18.780887
+    },
+    {
+      "name": "Bralo pod Vysokou",
+      "latitude": 48.691024,
+      "longitude": 18.780822
+    },
+    {
+      "name": "Marková skala",
+      "latitude": 48.885756,
+      "longitude": 19.038603
+    },
+    {
+      "name": "Ihla PRAČLOVEK",
+      "latitude": 48.913808,
+      "longitude": 19.1659
+    },
+    {
+      "name": "Ihla",
+      "latitude": 48.910161,
+      "longitude": 19.257288
+    },
+    {
+      "name": "ihla",
+      "latitude": 48.884731,
+      "longitude": 19.276595
+    },
+    {
+      "name": "Driekyňská skala",
+      "latitude": 48.756017,
+      "longitude": 19.274442
+    },
+    {
+      "name": "Ľupčiansky skalný hríb",
+      "latitude": 48.770828,
+      "longitude": 19.259933
+    },
+    {
+      "name": "Ostrá skala",
+      "latitude": 48.721244,
+      "longitude": 19.090883
+    },
+    {
+      "name": "Čertova hlava",
+      "latitude": 48.699273,
+      "longitude": 19.066974
+    },
+    {
+      "name": "Líščia skala",
+      "latitude": 48.696222,
+      "longitude": 19.111435
+    },
+    {
+      "name": "Končitá",
+      "latitude": 48.646911,
+      "longitude": 18.585621
+    },
+    {
+      "name": "Čertové chodníky",
+      "latitude": 48.645027,
+      "longitude": 18.589517
+    },
+    {
+      "name": "Žaba",
+      "latitude": 48.618038,
+      "longitude": 18.360737
+    },
+    {
+      "name": "Kamenná brána",
+      "latitude": 48.579099,
+      "longitude": 18.375748
+    },
+    {
+      "name": "Kláštorská skala",
+      "latitude": 48.614802,
+      "longitude": 18.627404
+    },
+    {
+      "name": "Huponska skala",
+      "latitude": 48.675183,
+      "longitude": 18.778356
+    },
+    {
+      "name": "Skala pod Skalkou",
+      "latitude": 48.665619,
+      "longitude": 18.773304
+    },
+    {
+      "name": "Čertova skala",
+      "latitude": 48.674841,
+      "longitude": 18.786043
+    },
+    {
+      "name": "Skaliská",
+      "latitude": 48.637397,
+      "longitude": 18.69939
+    },
+    {
+      "name": "Prochotský skalný hríb",
+      "latitude": 48.620281,
+      "longitude": 18.682884
+    },
+    {
+      "name": "Komory",
+      "latitude": 48.623879,
+      "longitude": 18.690572
+    },
+    {
+      "name": "Skalné okno",
+      "latitude": 48.573114,
+      "longitude": 18.389418
+    },
+    {
+      "name": "Skalný vrchol hrebeňa, vyhliadka",
+      "latitude": 48.524804,
+      "longitude": 18.721086
+    },
+    {
+      "name": "Vyhnište",
+      "latitude": 48.520128,
+      "longitude": 18.763683
+    },
+    {
+      "name": "Markuška",
+      "latitude": 48.553061,
+      "longitude": 18.932865
+    },
+    {
+      "name": "Teplické travertíny",
+      "latitude": 48.526913,
+      "longitude": 18.86493
+    },
+    {
+      "name": "Amáliina skala",
+      "latitude": 48.504776,
+      "longitude": 18.781943
+    },
+    {
+      "name": "Hajská skala",
+      "latitude": 48.498796,
+      "longitude": 18.792672
+    },
+    {
+      "name": "Mäsiarka",
+      "latitude": 48.495896,
+      "longitude": 18.758394
+    },
+    {
+      "name": "Magdovská skala",
+      "latitude": 48.476923,
+      "longitude": 18.746873
+    },
+    {
+      "name": "Náhonný jarok vytesaný do skaly",
+      "latitude": 48.460753,
+      "longitude": 18.748966
+    },
+    {
+      "name": "Skalný zárez na Hornom láfe",
+      "latitude": 48.499585,
+      "longitude": 18.823904
+    },
+    {
+      "name": "Jelenia skala",
+      "latitude": 48.491457,
+      "longitude": 18.825215
+    },
+    {
+      "name": "Havrania skala",
+      "latitude": 48.472423,
+      "longitude": 18.843901
+    },
+    {
+      "name": "Bimbíz",
+      "latitude": 48.466794,
+      "longitude": 18.832083
+    },
+    {
+      "name": "Glanzenberg, povrchové dobývky na žile Špitaler",
+      "latitude": 48.462137,
+      "longitude": 18.895473
+    },
+    {
+      "name": "Prepadlisko na žile Terézia",
+      "latitude": 48.459848,
+      "longitude": 18.882673
+    },
+    {
+      "name": "Povrchové dobývky na žile Rabenstein",
+      "latitude": 48.472216,
+      "longitude": 18.841843
+    },
+    {
+      "name": "Povrchové dobývky na žile Rabenstein",
+      "latitude": 48.471383,
+      "longitude": 18.840794
+    },
+    {
+      "name": "Scharffenberg",
+      "latitude": 48.46181,
+      "longitude": 18.914991
+    },
+    {
+      "name": "Skala",
+      "latitude": 48.688063,
+      "longitude": 18.988502
+    },
+    {
+      "name": "Bátovský balvan",
+      "latitude": 48.658464,
+      "longitude": 19.378871
+    },
+    {
+      "name": "Malčekova skala",
+      "latitude": 48.592219,
+      "longitude": 19.471487
+    },
+    {
+      "name": "Javorinka - Kešovka",
+      "latitude": 48.602909,
+      "longitude": 19.501772
+    },
+    {
+      "name": "Čertova Skala",
+      "latitude": 48.566521,
+      "longitude": 19.022176
+    },
+    {
+      "name": "Kamenné vráta",
+      "latitude": 48.465645,
+      "longitude": 19.464267
+    },
+    {
+      "name": "Kamenné vráta",
+      "latitude": 48.466028,
+      "longitude": 19.464812
+    },
+    {
+      "name": "Vallova Skala",
+      "latitude": 48.437853,
+      "longitude": 17.257462
+    },
+    {
+      "name": "Ostroh pod Marušou",
+      "latitude": 48.452195,
+      "longitude": 17.411787
+    },
+    {
+      "name": "Medené Hamre",
+      "latitude": 48.264333,
+      "longitude": 17.117325
+    },
+    {
+      "name": "Krvilačná srna",
+      "latitude": 48.232892,
+      "longitude": 17.182267
+    },
+    {
+      "name": "Pupkoši",
+      "latitude": 48.224842,
+      "longitude": 17.146771
+    },
+    {
+      "name": "Kamenné tváre",
+      "latitude": 48.210801,
+      "longitude": 17.126043
+    },
+    {
+      "name": "Kamenná sviňa",
+      "latitude": 48.22328,
+      "longitude": 17.147975
+    },
+    {
+      "name": "Skalný nos",
+      "latitude": 48.141322,
+      "longitude": 17.094742
+    },
+    {
+      "name": "Kadiška, skala",
+      "latitude": 48.430346,
+      "longitude": 18.517914
+    },
+    {
+      "name": "Skalná bránka na Mlynárovom vrchu",
+      "latitude": 48.432892,
+      "longitude": 18.569853
+    },
+    {
+      "name": "Skalné mesto Benát",
+      "latitude": 48.400551,
+      "longitude": 18.471515
+    },
+    {
+      "name": "Vráblikova skala",
+      "latitude": 48.422218,
+      "longitude": 18.601967
+    },
+    {
+      "name": "Skalné mesto Človečí vrch",
+      "latitude": 48.395546,
+      "longitude": 18.479767
+    },
+    {
+      "name": "Skalné mesto Krivá",
+      "latitude": 48.398024,
+      "longitude": 18.482491
+    },
+    {
+      "name": "Skalné mesto Kamenné vráta",
+      "latitude": 48.397481,
+      "longitude": 18.468433
+    },
+    {
+      "name": "Povrchové dobývky na žile Moder",
+      "latitude": 48.431882,
+      "longitude": 18.805649
+    },
+    {
+      "name": "Skalná stienka",
+      "latitude": 48.402135,
+      "longitude": 18.68348
+    },
+    {
+      "name": "Rudnianska skala",
+      "latitude": 48.41534,
+      "longitude": 18.742122
+    },
+    {
+      "name": "Drieňov",
+      "latitude": 48.406995,
+      "longitude": 18.74618
+    },
+    {
+      "name": "Pyroxénický andezitový porfýr",
+      "latitude": 48.440573,
+      "longitude": 18.861901
+    },
+    {
+      "name": "Výchoz žily Terézia",
+      "latitude": 48.457432,
+      "longitude": 18.880008
+    },
+    {
+      "name": "Dobývky na žile Terézia",
+      "latitude": 48.45431,
+      "longitude": 18.875207
+    },
+    {
+      "name": "Skálie",
+      "latitude": 48.454608,
+      "longitude": 18.956778
+    },
+    {
+      "name": "Barlangy",
+      "latitude": 48.457805,
+      "longitude": 18.951061
+    },
+    {
+      "name": "Zbojnícka kuchyňa",
+      "latitude": 48.403866,
+      "longitude": 18.878805
+    },
+    {
+      "name": "Traja jazdci",
+      "latitude": 48.404147,
+      "longitude": 18.879097
+    },
+    {
+      "name": "Téryho veža",
+      "latitude": 48.403606,
+      "longitude": 18.875874
+    },
+    {
+      "name": "Bralce",
+      "latitude": 48.414824,
+      "longitude": 18.926447
+    },
+    {
+      "name": "Dudy",
+      "latitude": 48.423422,
+      "longitude": 18.931368
+    },
+    {
+      "name": "Biela skala",
+      "latitude": 48.399313,
+      "longitude": 18.679043
+    },
+    {
+      "name": "Povrchové dobývky na žile Filip",
+      "latitude": 48.398014,
+      "longitude": 18.689402
+    },
+    {
+      "name": "Povrchové dobývky na Priečnej žile",
+      "latitude": 48.398261,
+      "longitude": 18.685907
+    },
+    {
+      "name": "Skalný zárez na náhonnom jarku",
+      "latitude": 48.391096,
+      "longitude": 18.775117
+    },
+    {
+      "name": "Výchoz žily Viktória",
+      "latitude": 48.364495,
+      "longitude": 18.691058
+    },
+    {
+      "name": "Pakhaus",
+      "latitude": 48.387854,
+      "longitude": 18.917768
+    },
+    {
+      "name": "Stankov rígeľ",
+      "latitude": 48.373563,
+      "longitude": 18.98394
+    },
+    {
+      "name": "Bralo",
+      "latitude": 48.350605,
+      "longitude": 18.81674
+    },
+    {
+      "name": "Kamenný vrch",
+      "latitude": 48.370189,
+      "longitude": 18.89903
+    },
+    {
+      "name": "Kamenná žaba",
+      "latitude": 48.32322,
+      "longitude": 18.62585
+    },
+    {
+      "name": "Kňažná skala",
+      "latitude": 48.338684,
+      "longitude": 18.581781
+    },
+    {
+      "name": "Črepy",
+      "latitude": 48.294137,
+      "longitude": 18.792059
+    },
+    {
+      "name": "Havranka",
+      "latitude": 48.325736,
+      "longitude": 18.85244
+    },
+    {
+      "name": "Kosatiny",
+      "latitude": 48.314032,
+      "longitude": 18.825658
+    },
+    {
+      "name": "Havrania skala",
+      "latitude": 48.312488,
+      "longitude": 18.977347
+    },
+    {
+      "name": "Hrdá",
+      "latitude": 48.296096,
+      "longitude": 18.838011
+    },
+    {
+      "name": "Petrova skala",
+      "latitude": 48.310084,
+      "longitude": 18.874388
+    },
+    {
+      "name": "Michalovské",
+      "latitude": 48.311768,
+      "longitude": 18.84313
+    },
+    {
+      "name": "Pod Kalnou",
+      "latitude": 48.305501,
+      "longitude": 18.840442
+    },
+    {
+      "name": "Hajbovské steny",
+      "latitude": 48.304978,
+      "longitude": 18.83266
+    },
+    {
+      "name": "Jankova skala",
+      "latitude": 48.236412,
+      "longitude": 18.688293
+    },
+    {
+      "name": "Dolné skaly",
+      "latitude": 48.233778,
+      "longitude": 18.687056
+    },
+    {
+      "name": "Horné skaly",
+      "latitude": 48.23903,
+      "longitude": 18.700672
+    },
+    {
+      "name": "Horné skaly",
+      "latitude": 48.24029,
+      "longitude": 18.701912
+    },
+    {
+      "name": "Zhorenice",
+      "latitude": 48.274239,
+      "longitude": 18.818499
+    },
+    {
+      "name": "Bralo",
+      "latitude": 48.268289,
+      "longitude": 18.974164
+    },
+    {
+      "name": "Žarnovské skálie",
+      "latitude": 48.239825,
+      "longitude": 18.818003
+    },
+    {
+      "name": "Žarnovské skálie",
+      "latitude": 48.237299,
+      "longitude": 18.821683
+    },
+    {
+      "name": "Kernstein",
+      "latitude": 48.414734,
+      "longitude": 19.010473
+    },
+    {
+      "name": "Štangarígel",
+      "latitude": 48.376232,
+      "longitude": 18.989483
+    },
+    {
+      "name": "Gubáň",
+      "latitude": 48.386121,
+      "longitude": 19.001968
+    },
+    {
+      "name": "Veľký Vtáčnik",
+      "latitude": 48.396343,
+      "longitude": 19.021363
+    },
+    {
+      "name": "Veľký Vtáčnik",
+      "latitude": 48.395021,
+      "longitude": 19.026145
+    },
+    {
+      "name": "Stĺpovitá odlučnosť pyroxenických andezitov",
+      "latitude": 48.378172,
+      "longitude": 19.015099
+    },
+    {
+      "name": "Bralce",
+      "latitude": 48.350415,
+      "longitude": 18.997294
+    },
+    {
+      "name": "Havran",
+      "latitude": 48.367964,
+      "longitude": 18.994287
+    },
+    {
+      "name": "Chlm",
+      "latitude": 48.329609,
+      "longitude": 19.009698
+    },
+    {
+      "name": "Kaplička",
+      "latitude": 48.884603,
+      "longitude": 20.131497
+    },
+    {
+      "name": "Kráľov stôl",
+      "latitude": 48.871157,
+      "longitude": 20.16472
+    },
+    {
+      "name": "Nižné Skalky",
+      "latitude": 48.919052,
+      "longitude": 20.264889
+    },
+    {
+      "name": "Jánošíkova skala",
+      "latitude": 48.775449,
+      "longitude": 20.213245
+    },
+    {
+      "name": "skalné ihly",
+      "latitude": 48.877243,
+      "longitude": 21.039529
+    },
+    {
+      "name": "Bremetínska skala",
+      "latitude": 48.662953,
+      "longitude": 20.271638
+    },
+    {
+      "name": "Rysia skala",
+      "latitude": 48.610725,
+      "longitude": 20.338756
+    },
+    {
+      "name": "Opičia skala",
+      "latitude": 48.671383,
+      "longitude": 20.505425
+    },
+    {
+      "name": "Čertova skala",
+      "latitude": 48.682817,
+      "longitude": 20.567219
+    },
+    {
+      "name": "Holubia skala",
+      "latitude": 48.609297,
+      "longitude": 20.726949
+    },
+    {
+      "name": "Čertova skala",
+      "latitude": 48.673177,
+      "longitude": 20.988158
+    },
+    {
+      "name": "Kapsova skala",
+      "latitude": 48.615803,
+      "longitude": 20.797964
+    },
+    {
+      "name": "Zbojnícka miska",
+      "latitude": 48.917684,
+      "longitude": 21.521878
+    },
+    {
+      "name": "Kamenný hríb",
+      "latitude": 48.839918,
+      "longitude": 21.513865
+    },
+    {
+      "name": "Obria skala",
+      "latitude": 48.837695,
+      "longitude": 21.510861
+    },
+    {
+      "name": "Zajačí kameň",
+      "latitude": 48.840193,
+      "longitude": 21.502283
+    },
+    {
+      "name": "Ježibaba",
+      "latitude": 48.841935,
+      "longitude": 21.599695
+    },
+    {
+      "name": "Prokopova skala",
+      "latitude": 48.822477,
+      "longitude": 21.577693
+    },
+    {
+      "name": "Bačkovská sfinga",
+      "latitude": 48.770402,
+      "longitude": 21.593294
+    },
+    {
+      "name": "Sokol",
+      "latitude": 48.766694,
+      "longitude": 21.56421
+    },
+    {
+      "name": "Kamenná miska",
+      "latitude": 48.700981,
+      "longitude": 21.552621
+    },
+    {
+      "name": "Capova skala",
+      "latitude": 48.902714,
+      "longitude": 21.946814
+    },
+    {
+      "name": "Sokolia skala",
+      "latitude": 48.898334,
+      "longitude": 22.064415
+    },
+    {
+      "name": "Janíčkova skala",
+      "latitude": 48.921809,
+      "longitude": 22.177723
+    },
+    {
+      "name": "Kresaná skala",
+      "latitude": 48.588475,
+      "longitude": 21.453308
+    },
+    {
+      "name": "Skaly pod Garabošom",
+      "latitude": 48.585639,
+      "longitude": 21.491237
+    },
+    {
+      "name": "Čertova hlava",
+      "latitude": 48.580097,
+      "longitude": 21.504053
+    },
+    {
+      "name": "Kamenný Janko",
+      "latitude": 48.430405,
+      "longitude": 20.028886
+    }
+  ],
+  "meta": {
+    "title": "Skaly - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (natural=rock). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84. Obsahuje 339 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Skaly | ListBase",
+    "seo_description": "Stiahnuť Skaly — 339 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 339 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

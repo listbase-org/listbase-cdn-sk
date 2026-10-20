@@ -1,0 +1,426 @@
+{
+  "id": "sk-ilava-obce",
+  "name": "Obce v okrese Ilava",
+  "title": "Obce v okrese Ilava",
+  "description": "Všetky obce (municipality) v okrese Ilava, Trenčiansky kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 202,
+      "fullname": "Bohunice",
+      "shortname": "Bohunice",
+      "zip": "018 52",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 215,
+      "fullname": "Bolešov",
+      "shortname": "Bolešov",
+      "zip": "018 53",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 220,
+      "fullname": "Borčice",
+      "shortname": "Borčice",
+      "zip": "018 53",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 715,
+      "fullname": "Dubnica nad Váhom",
+      "shortname": "Dubnica nad Váhom",
+      "zip": "018 41",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 744,
+      "fullname": "Dulov",
+      "shortname": "Dulov",
+      "zip": "018 52",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 982,
+      "fullname": "Horná Poruba",
+      "shortname": "Horná Poruba",
+      "zip": "018 35",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1209,
+      "fullname": "Ilava",
+      "shortname": "Ilava",
+      "zip": "019 01",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1213,
+      "fullname": "Iliavka",
+      "shortname": "Iliavka",
+      "zip": "019 01",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1373,
+      "fullname": "Kameničany",
+      "shortname": "Kameničany",
+      "zip": "018 54",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1452,
+      "fullname": "Klobušice",
+      "shortname": "Klobušice",
+      "zip": "019 01",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1525,
+      "fullname": "Kopec",
+      "shortname": "Kopec",
+      "zip": "018 31",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1562,
+      "fullname": "Košeca",
+      "shortname": "Košeca",
+      "zip": "018 64",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1563,
+      "fullname": "Košecké Podhradie",
+      "shortname": "Košecké Podhradie",
+      "zip": "018 31",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1564,
+      "fullname": "Košecké Rovné",
+      "shortname": "Košecké Rovné",
+      "zip": "018 32",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1679,
+      "fullname": "Krivoklát",
+      "shortname": "Krivoklát",
+      "zip": "018 52",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1769,
+      "fullname": "Ladce",
+      "shortname": "Ladce",
+      "zip": "018 63",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2058,
+      "fullname": "Malé Košecké Podhradie",
+      "shortname": "Malé Košec.Podhradie",
+      "zip": "018 31",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2094,
+      "fullname": "Malý Kolačín",
+      "shortname": "Malý Kolačín",
+      "zip": "018 51",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2191,
+      "fullname": "Mikušovce",
+      "shortname": "Mikušovce",
+      "zip": "018 57",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2401,
+      "fullname": "Nová Dubnica",
+      "shortname": "Nová Dubnica",
+      "zip": "018 51",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2448,
+      "fullname": "Nozdrovice",
+      "shortname": "Nozdrovice",
+      "zip": "018 64",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2693,
+      "fullname": "Podhorie",
+      "shortname": "Podhorie",
+      "zip": "018 54",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2724,
+      "fullname": "Podvažie",
+      "shortname": "Podvažie",
+      "zip": "018 52",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2817,
+      "fullname": "Prejta",
+      "shortname": "Prejta",
+      "zip": "018 41",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2860,
+      "fullname": "Pruské",
+      "shortname": "Pruské",
+      "zip": "018 52",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3083,
+      "fullname": "Savčina",
+      "shortname": "Savčina",
+      "zip": "018 52",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3097,
+      "fullname": "Sedmerovec",
+      "shortname": "Sedmerovec",
+      "zip": "018 54",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3173,
+      "fullname": "Slavnica",
+      "shortname": "Slavnica",
+      "zip": "018 54",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3547,
+      "fullname": "Tlstá Hora",
+      "shortname": "Tlstá Hora",
+      "zip": "018 54",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3623,
+      "fullname": "Tuchyňa",
+      "shortname": "Tuchyňa",
+      "zip": "018 55",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3625,
+      "fullname": "Tunežice",
+      "shortname": "Tunežice",
+      "zip": "018 63",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3786,
+      "fullname": "Veľké Košecké Podhradie",
+      "shortname": "Veľké Košecké Podhra",
+      "zip": "018 31",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3828,
+      "fullname": "Veľký Kolačín",
+      "shortname": "Veľký Kolačín",
+      "zip": "018 51",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3950,
+      "fullname": "Vršatské Podhradie",
+      "shortname": "Vršatské Podhradie",
+      "zip": "018 52",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 4143,
+      "fullname": "Zliechov",
+      "shortname": "Zliechov",
+      "zip": "018 32",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 474,
+      "fullname": "Červený Kameň",
+      "shortname": "Červený Kameň",
+      "zip": "018 56",
+      "district_id": 20,
+      "okres": "Ilava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Ilava - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Ilava, Trenčiansky kraj — s PSČ a kódom okresu. Obsahuje 36 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Ilava | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Ilava — 36 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 36 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

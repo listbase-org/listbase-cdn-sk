@@ -1,0 +1,3086 @@
+{
+  "id": "sk-jazyky",
+  "name": "Jazyky sveta",
+  "title": "Jazyky sveta",
+  "description": "Zoznam 609 jazykov sveta s názvami v slovenčine a angličtine. ISO 639 kód pre každý jazyk.",
+  "category": "language",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 609,
+  "columns": [
+    {
+      "key": "iso_639",
+      "label": "Iso 639",
+      "type": "string"
+    },
+    {
+      "key": "nazov_sk",
+      "label": "Nazov Sk",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_639": "aa",
+      "nazov_sk": "afarčina",
+      "name_en": "Afar"
+    },
+    {
+      "iso_639": "ab",
+      "nazov_sk": "abcházčina",
+      "name_en": "Abkhazian"
+    },
+    {
+      "iso_639": "ace",
+      "nazov_sk": "acehčina",
+      "name_en": "Achinese"
+    },
+    {
+      "iso_639": "ach",
+      "nazov_sk": "ačoli",
+      "name_en": "Acoli"
+    },
+    {
+      "iso_639": "ada",
+      "nazov_sk": "adangme",
+      "name_en": "Adangme"
+    },
+    {
+      "iso_639": "ady",
+      "nazov_sk": "adygčina",
+      "name_en": "Adyghe"
+    },
+    {
+      "iso_639": "ae",
+      "nazov_sk": "avestčina",
+      "name_en": "Avestan"
+    },
+    {
+      "iso_639": "aeb",
+      "nazov_sk": "Tunisian Arabic",
+      "name_en": "Tunisian Arabic"
+    },
+    {
+      "iso_639": "af",
+      "nazov_sk": "afrikánčina",
+      "name_en": "Afrikaans"
+    },
+    {
+      "iso_639": "afh",
+      "nazov_sk": "afrihili",
+      "name_en": "Afrihili"
+    },
+    {
+      "iso_639": "agq",
+      "nazov_sk": "aghem",
+      "name_en": "Aghem"
+    },
+    {
+      "iso_639": "ain",
+      "nazov_sk": "ainčina",
+      "name_en": "Ainu"
+    },
+    {
+      "iso_639": "ak",
+      "nazov_sk": "akančina",
+      "name_en": "Akan"
+    },
+    {
+      "iso_639": "akk",
+      "nazov_sk": "akkadčina",
+      "name_en": "Akkadian"
+    },
+    {
+      "iso_639": "akz",
+      "nazov_sk": "Alabama",
+      "name_en": "Alabama"
+    },
+    {
+      "iso_639": "ale",
+      "nazov_sk": "aleutčina",
+      "name_en": "Aleut"
+    },
+    {
+      "iso_639": "aln",
+      "nazov_sk": "Gheg Albanian",
+      "name_en": "Gheg Albanian"
+    },
+    {
+      "iso_639": "alt",
+      "nazov_sk": "južná altajčina",
+      "name_en": "Southern Altai"
+    },
+    {
+      "iso_639": "am",
+      "nazov_sk": "amharčina",
+      "name_en": "Amharic"
+    },
+    {
+      "iso_639": "an",
+      "nazov_sk": "aragónčina",
+      "name_en": "Aragonese"
+    },
+    {
+      "iso_639": "ang",
+      "nazov_sk": "stará angličtina",
+      "name_en": "Old English"
+    },
+    {
+      "iso_639": "anp",
+      "nazov_sk": "angika",
+      "name_en": "Angika"
+    },
+    {
+      "iso_639": "ar",
+      "nazov_sk": "arabčina",
+      "name_en": "Arabic"
+    },
+    {
+      "iso_639": "ar_001",
+      "nazov_sk": "arabčina (moderná štandardná)",
+      "name_en": "Modern Standard Arabic"
+    },
+    {
+      "iso_639": "arc",
+      "nazov_sk": "aramejčina",
+      "name_en": "Aramaic"
+    },
+    {
+      "iso_639": "arn",
+      "nazov_sk": "araukánčina",
+      "name_en": "Mapuche"
+    },
+    {
+      "iso_639": "aro",
+      "nazov_sk": "Araona",
+      "name_en": "Araona"
+    },
+    {
+      "iso_639": "arp",
+      "nazov_sk": "arapaho",
+      "name_en": "Arapaho"
+    },
+    {
+      "iso_639": "arq",
+      "nazov_sk": "Algerian Arabic",
+      "name_en": "Algerian Arabic"
+    },
+    {
+      "iso_639": "arw",
+      "nazov_sk": "arawačtina",
+      "name_en": "Arawak"
+    },
+    {
+      "iso_639": "ary",
+      "nazov_sk": "Moroccan Arabic",
+      "name_en": "Moroccan Arabic"
+    },
+    {
+      "iso_639": "arz",
+      "nazov_sk": "Egyptian Arabic",
+      "name_en": "Egyptian Arabic"
+    },
+    {
+      "iso_639": "as",
+      "nazov_sk": "ásamčina",
+      "name_en": "Assamese"
+    },
+    {
+      "iso_639": "asa",
+      "nazov_sk": "asu",
+      "name_en": "Asu"
+    },
+    {
+      "iso_639": "ase",
+      "nazov_sk": "American Sign Language",
+      "name_en": "American Sign Language"
+    },
+    {
+      "iso_639": "ast",
+      "nazov_sk": "astúrčina",
+      "name_en": "Asturian"
+    },
+    {
+      "iso_639": "av",
+      "nazov_sk": "avarčina",
+      "name_en": "Avaric"
+    },
+    {
+      "iso_639": "avk",
+      "nazov_sk": "Kotava",
+      "name_en": "Kotava"
+    },
+    {
+      "iso_639": "awa",
+      "nazov_sk": "avadhčina",
+      "name_en": "Awadhi"
+    },
+    {
+      "iso_639": "ay",
+      "nazov_sk": "aymarčina",
+      "name_en": "Aymara"
+    },
+    {
+      "iso_639": "az",
+      "nazov_sk": "azerbajdžančina",
+      "name_en": "Azerbaijani"
+    },
+    {
+      "iso_639": "azb",
+      "nazov_sk": "South Azerbaijani",
+      "name_en": "South Azerbaijani"
+    },
+    {
+      "iso_639": "ba",
+      "nazov_sk": "baškirčina",
+      "name_en": "Bashkir"
+    },
+    {
+      "iso_639": "bal",
+      "nazov_sk": "balúčtina",
+      "name_en": "Baluchi"
+    },
+    {
+      "iso_639": "ban",
+      "nazov_sk": "balijčina",
+      "name_en": "Balinese"
+    },
+    {
+      "iso_639": "bar",
+      "nazov_sk": "Bavarian",
+      "name_en": "Bavarian"
+    },
+    {
+      "iso_639": "bas",
+      "nazov_sk": "basa",
+      "name_en": "Basaa"
+    },
+    {
+      "iso_639": "bax",
+      "nazov_sk": "bamun",
+      "name_en": "Bamun"
+    },
+    {
+      "iso_639": "bbc",
+      "nazov_sk": "Batak Toba",
+      "name_en": "Batak Toba"
+    },
+    {
+      "iso_639": "bbj",
+      "nazov_sk": "ghomala",
+      "name_en": "Ghomala"
+    },
+    {
+      "iso_639": "be",
+      "nazov_sk": "bieloruština",
+      "name_en": "Belarusian"
+    },
+    {
+      "iso_639": "bej",
+      "nazov_sk": "bedža",
+      "name_en": "Beja"
+    },
+    {
+      "iso_639": "bem",
+      "nazov_sk": "bemba",
+      "name_en": "Bemba"
+    },
+    {
+      "iso_639": "bew",
+      "nazov_sk": "Betawi",
+      "name_en": "Betawi"
+    },
+    {
+      "iso_639": "bez",
+      "nazov_sk": "bena",
+      "name_en": "Bena"
+    },
+    {
+      "iso_639": "bfd",
+      "nazov_sk": "bafut",
+      "name_en": "Bafut"
+    },
+    {
+      "iso_639": "bfq",
+      "nazov_sk": "Badaga",
+      "name_en": "Badaga"
+    },
+    {
+      "iso_639": "bg",
+      "nazov_sk": "bulharčina",
+      "name_en": "Bulgarian"
+    },
+    {
+      "iso_639": "bho",
+      "nazov_sk": "bhódžpurčina",
+      "name_en": "Bhojpuri"
+    },
+    {
+      "iso_639": "bi",
+      "nazov_sk": "bislama",
+      "name_en": "Bislama"
+    },
+    {
+      "iso_639": "bik",
+      "nazov_sk": "bikol",
+      "name_en": "Bikol"
+    },
+    {
+      "iso_639": "bin",
+      "nazov_sk": "bini",
+      "name_en": "Bini"
+    },
+    {
+      "iso_639": "bjn",
+      "nazov_sk": "Banjar",
+      "name_en": "Banjar"
+    },
+    {
+      "iso_639": "bkm",
+      "nazov_sk": "kom",
+      "name_en": "Kom"
+    },
+    {
+      "iso_639": "bla",
+      "nazov_sk": "siksika",
+      "name_en": "Siksika"
+    },
+    {
+      "iso_639": "bm",
+      "nazov_sk": "bambarčina",
+      "name_en": "Bambara"
+    },
+    {
+      "iso_639": "bn",
+      "nazov_sk": "bengálčina",
+      "name_en": "Bengali"
+    },
+    {
+      "iso_639": "bo",
+      "nazov_sk": "tibetčina",
+      "name_en": "Tibetan"
+    },
+    {
+      "iso_639": "bpy",
+      "nazov_sk": "Bishnupriya",
+      "name_en": "Bishnupriya"
+    },
+    {
+      "iso_639": "bqi",
+      "nazov_sk": "Bakhtiari",
+      "name_en": "Bakhtiari"
+    },
+    {
+      "iso_639": "br",
+      "nazov_sk": "bretónčina",
+      "name_en": "Breton"
+    },
+    {
+      "iso_639": "bra",
+      "nazov_sk": "bradžčina",
+      "name_en": "Braj"
+    },
+    {
+      "iso_639": "brh",
+      "nazov_sk": "Brahui",
+      "name_en": "Brahui"
+    },
+    {
+      "iso_639": "brx",
+      "nazov_sk": "bodo",
+      "name_en": "Bodo"
+    },
+    {
+      "iso_639": "bs",
+      "nazov_sk": "bosniačtina",
+      "name_en": "Bosnian"
+    },
+    {
+      "iso_639": "bss",
+      "nazov_sk": "akoose",
+      "name_en": "Akoose"
+    },
+    {
+      "iso_639": "bua",
+      "nazov_sk": "buriatčina",
+      "name_en": "Buriat"
+    },
+    {
+      "iso_639": "bug",
+      "nazov_sk": "bugiština",
+      "name_en": "Buginese"
+    },
+    {
+      "iso_639": "bum",
+      "nazov_sk": "bulu",
+      "name_en": "Bulu"
+    },
+    {
+      "iso_639": "byn",
+      "nazov_sk": "blin",
+      "name_en": "Blin"
+    },
+    {
+      "iso_639": "byv",
+      "nazov_sk": "medumba",
+      "name_en": "Medumba"
+    },
+    {
+      "iso_639": "ca",
+      "nazov_sk": "katalánčina",
+      "name_en": "Catalan"
+    },
+    {
+      "iso_639": "cad",
+      "nazov_sk": "kaddo",
+      "name_en": "Caddo"
+    },
+    {
+      "iso_639": "car",
+      "nazov_sk": "karibský",
+      "name_en": "Carib"
+    },
+    {
+      "iso_639": "cay",
+      "nazov_sk": "cayuga",
+      "name_en": "Cayuga"
+    },
+    {
+      "iso_639": "cch",
+      "nazov_sk": "atsam",
+      "name_en": "Atsam"
+    },
+    {
+      "iso_639": "ce",
+      "nazov_sk": "čečenčina",
+      "name_en": "Chechen"
+    },
+    {
+      "iso_639": "ceb",
+      "nazov_sk": "cebuánčina",
+      "name_en": "Cebuano"
+    },
+    {
+      "iso_639": "cgg",
+      "nazov_sk": "kiga",
+      "name_en": "Chiga"
+    },
+    {
+      "iso_639": "ch",
+      "nazov_sk": "čamorčina",
+      "name_en": "Chamorro"
+    },
+    {
+      "iso_639": "chb",
+      "nazov_sk": "čibča",
+      "name_en": "Chibcha"
+    },
+    {
+      "iso_639": "chg",
+      "nazov_sk": "čagatajčina",
+      "name_en": "Chagatai"
+    },
+    {
+      "iso_639": "chk",
+      "nazov_sk": "truk",
+      "name_en": "Chuukese"
+    },
+    {
+      "iso_639": "chm",
+      "nazov_sk": "marijčina",
+      "name_en": "Mari"
+    },
+    {
+      "iso_639": "chn",
+      "nazov_sk": "činucký žargón",
+      "name_en": "Chinook Jargon"
+    },
+    {
+      "iso_639": "cho",
+      "nazov_sk": "čoktavčina",
+      "name_en": "Choctaw"
+    },
+    {
+      "iso_639": "chp",
+      "nazov_sk": "čipevajčina",
+      "name_en": "Chipewyan"
+    },
+    {
+      "iso_639": "chr",
+      "nazov_sk": "čerokí",
+      "name_en": "Cherokee"
+    },
+    {
+      "iso_639": "chy",
+      "nazov_sk": "čejenčina",
+      "name_en": "Cheyenne"
+    },
+    {
+      "iso_639": "ckb",
+      "nazov_sk": "kurdčina (sorání)",
+      "name_en": "Central Kurdish"
+    },
+    {
+      "iso_639": "co",
+      "nazov_sk": "korzičtina",
+      "name_en": "Corsican"
+    },
+    {
+      "iso_639": "cop",
+      "nazov_sk": "koptčina",
+      "name_en": "Coptic"
+    },
+    {
+      "iso_639": "cps",
+      "nazov_sk": "Capiznon",
+      "name_en": "Capiznon"
+    },
+    {
+      "iso_639": "cr",
+      "nazov_sk": "krí",
+      "name_en": "Cree"
+    },
+    {
+      "iso_639": "crh",
+      "nazov_sk": "krymská turečtina",
+      "name_en": "Crimean Turkish"
+    },
+    {
+      "iso_639": "cs",
+      "nazov_sk": "čeština",
+      "name_en": "Czech"
+    },
+    {
+      "iso_639": "csb",
+      "nazov_sk": "kašubčina",
+      "name_en": "Kashubian"
+    },
+    {
+      "iso_639": "cu",
+      "nazov_sk": "cirkevná slovančina",
+      "name_en": "Church Slavic"
+    },
+    {
+      "iso_639": "cv",
+      "nazov_sk": "čuvaština",
+      "name_en": "Chuvash"
+    },
+    {
+      "iso_639": "cy",
+      "nazov_sk": "waleština",
+      "name_en": "Welsh"
+    },
+    {
+      "iso_639": "da",
+      "nazov_sk": "dánčina",
+      "name_en": "Danish"
+    },
+    {
+      "iso_639": "dak",
+      "nazov_sk": "dakotčina",
+      "name_en": "Dakota"
+    },
+    {
+      "iso_639": "dar",
+      "nazov_sk": "darginčina",
+      "name_en": "Dargwa"
+    },
+    {
+      "iso_639": "dav",
+      "nazov_sk": "taita",
+      "name_en": "Taita"
+    },
+    {
+      "iso_639": "de",
+      "nazov_sk": "nemčina",
+      "name_en": "German"
+    },
+    {
+      "iso_639": "de_AT",
+      "nazov_sk": "nemčina (rakúska)",
+      "name_en": "Austrian German"
+    },
+    {
+      "iso_639": "de_CH",
+      "nazov_sk": "nemčina (švajčiarska spisovná)",
+      "name_en": "Swiss High German"
+    },
+    {
+      "iso_639": "del",
+      "nazov_sk": "delawarčina",
+      "name_en": "Delaware"
+    },
+    {
+      "iso_639": "den",
+      "nazov_sk": "slovančina",
+      "name_en": "Slave"
+    },
+    {
+      "iso_639": "dgr",
+      "nazov_sk": "dogribčina",
+      "name_en": "Dogrib"
+    },
+    {
+      "iso_639": "din",
+      "nazov_sk": "dinka",
+      "name_en": "Dinka"
+    },
+    {
+      "iso_639": "dje",
+      "nazov_sk": "zarma",
+      "name_en": "Zarma"
+    },
+    {
+      "iso_639": "doi",
+      "nazov_sk": "dógrí",
+      "name_en": "Dogri"
+    },
+    {
+      "iso_639": "dsb",
+      "nazov_sk": "dolnolužická srbčina",
+      "name_en": "Lower Sorbian"
+    },
+    {
+      "iso_639": "dtp",
+      "nazov_sk": "Central Dusun",
+      "name_en": "Central Dusun"
+    },
+    {
+      "iso_639": "dua",
+      "nazov_sk": "duala",
+      "name_en": "Duala"
+    },
+    {
+      "iso_639": "dum",
+      "nazov_sk": "stredná holandčina",
+      "name_en": "Middle Dutch"
+    },
+    {
+      "iso_639": "dv",
+      "nazov_sk": "divehi",
+      "name_en": "Divehi"
+    },
+    {
+      "iso_639": "dyo",
+      "nazov_sk": "jola-fonyi",
+      "name_en": "Jola-Fonyi"
+    },
+    {
+      "iso_639": "dyu",
+      "nazov_sk": "ďula",
+      "name_en": "Dyula"
+    },
+    {
+      "iso_639": "dz",
+      "nazov_sk": "dzongkä",
+      "name_en": "Dzongkha"
+    },
+    {
+      "iso_639": "dzg",
+      "nazov_sk": "dazaga",
+      "name_en": "Dazaga"
+    },
+    {
+      "iso_639": "ebu",
+      "nazov_sk": "embu",
+      "name_en": "Embu"
+    },
+    {
+      "iso_639": "ee",
+      "nazov_sk": "ewe",
+      "name_en": "Ewe"
+    },
+    {
+      "iso_639": "efi",
+      "nazov_sk": "efik",
+      "name_en": "Efik"
+    },
+    {
+      "iso_639": "egl",
+      "nazov_sk": "Emilian",
+      "name_en": "Emilian"
+    },
+    {
+      "iso_639": "egy",
+      "nazov_sk": "staroegyptský",
+      "name_en": "Ancient Egyptian"
+    },
+    {
+      "iso_639": "eka",
+      "nazov_sk": "ekadžuk",
+      "name_en": "Ekajuk"
+    },
+    {
+      "iso_639": "el",
+      "nazov_sk": "gréčtina",
+      "name_en": "Greek"
+    },
+    {
+      "iso_639": "elx",
+      "nazov_sk": "elamčina",
+      "name_en": "Elamite"
+    },
+    {
+      "iso_639": "en",
+      "nazov_sk": "angličtina",
+      "name_en": "English"
+    },
+    {
+      "iso_639": "en_AU",
+      "nazov_sk": "angličtina (austrálska)",
+      "name_en": "Australian English"
+    },
+    {
+      "iso_639": "en_CA",
+      "nazov_sk": "angličtina (kanadská)",
+      "name_en": "Canadian English"
+    },
+    {
+      "iso_639": "en_GB",
+      "nazov_sk": "angličtina (britská)",
+      "name_en": "British English"
+    },
+    {
+      "iso_639": "en_US",
+      "nazov_sk": "angličtina (americká)",
+      "name_en": "American English"
+    },
+    {
+      "iso_639": "enm",
+      "nazov_sk": "stredná angličtina",
+      "name_en": "Middle English"
+    },
+    {
+      "iso_639": "eo",
+      "nazov_sk": "esperanto",
+      "name_en": "Esperanto"
+    },
+    {
+      "iso_639": "es",
+      "nazov_sk": "španielčina",
+      "name_en": "Spanish"
+    },
+    {
+      "iso_639": "es_419",
+      "nazov_sk": "španielčina (latinskoamerická)",
+      "name_en": "Latin American Spanish"
+    },
+    {
+      "iso_639": "es_ES",
+      "nazov_sk": "španielčina (európska)",
+      "name_en": "European Spanish"
+    },
+    {
+      "iso_639": "es_MX",
+      "nazov_sk": "španielčina (mexická)",
+      "name_en": "Mexican Spanish"
+    },
+    {
+      "iso_639": "esu",
+      "nazov_sk": "Central Yupik",
+      "name_en": "Central Yupik"
+    },
+    {
+      "iso_639": "et",
+      "nazov_sk": "estónčina",
+      "name_en": "Estonian"
+    },
+    {
+      "iso_639": "eu",
+      "nazov_sk": "baskičtina",
+      "name_en": "Basque"
+    },
+    {
+      "iso_639": "ewo",
+      "nazov_sk": "ewondo",
+      "name_en": "Ewondo"
+    },
+    {
+      "iso_639": "ext",
+      "nazov_sk": "Extremaduran",
+      "name_en": "Extremaduran"
+    },
+    {
+      "iso_639": "fa",
+      "nazov_sk": "perzština",
+      "name_en": "Persian"
+    },
+    {
+      "iso_639": "fan",
+      "nazov_sk": "fangčina",
+      "name_en": "Fang"
+    },
+    {
+      "iso_639": "fat",
+      "nazov_sk": "fanti",
+      "name_en": "Fanti"
+    },
+    {
+      "iso_639": "ff",
+      "nazov_sk": "fulbčina",
+      "name_en": "Fulah"
+    },
+    {
+      "iso_639": "fi",
+      "nazov_sk": "fínčina",
+      "name_en": "Finnish"
+    },
+    {
+      "iso_639": "fil",
+      "nazov_sk": "filipínčina",
+      "name_en": "Filipino"
+    },
+    {
+      "iso_639": "fit",
+      "nazov_sk": "Tornedalen Finnish",
+      "name_en": "Tornedalen Finnish"
+    },
+    {
+      "iso_639": "fj",
+      "nazov_sk": "fidžijčina",
+      "name_en": "Fijian"
+    },
+    {
+      "iso_639": "fo",
+      "nazov_sk": "faerčina",
+      "name_en": "Faroese"
+    },
+    {
+      "iso_639": "fon",
+      "nazov_sk": "fončina",
+      "name_en": "Fon"
+    },
+    {
+      "iso_639": "fr",
+      "nazov_sk": "francúzština",
+      "name_en": "French"
+    },
+    {
+      "iso_639": "fr_CA",
+      "nazov_sk": "francúzština (kanadská)",
+      "name_en": "Canadian French"
+    },
+    {
+      "iso_639": "fr_CH",
+      "nazov_sk": "francúzština (švajčiarska)",
+      "name_en": "Swiss French"
+    },
+    {
+      "iso_639": "frc",
+      "nazov_sk": "Cajun French",
+      "name_en": "Cajun French"
+    },
+    {
+      "iso_639": "frm",
+      "nazov_sk": "stredná francúzština",
+      "name_en": "Middle French"
+    },
+    {
+      "iso_639": "fro",
+      "nazov_sk": "stará francúzština",
+      "name_en": "Old French"
+    },
+    {
+      "iso_639": "frp",
+      "nazov_sk": "Arpitan",
+      "name_en": "Arpitan"
+    },
+    {
+      "iso_639": "frr",
+      "nazov_sk": "severná frízština",
+      "name_en": "Northern Frisian"
+    },
+    {
+      "iso_639": "frs",
+      "nazov_sk": "východná frízština",
+      "name_en": "Eastern Frisian"
+    },
+    {
+      "iso_639": "fur",
+      "nazov_sk": "friulčina",
+      "name_en": "Friulian"
+    },
+    {
+      "iso_639": "fy",
+      "nazov_sk": "západná frízština",
+      "name_en": "Western Frisian"
+    },
+    {
+      "iso_639": "ga",
+      "nazov_sk": "írčina",
+      "name_en": "Irish"
+    },
+    {
+      "iso_639": "gaa",
+      "nazov_sk": "ga",
+      "name_en": "Ga"
+    },
+    {
+      "iso_639": "gag",
+      "nazov_sk": "gagauzština",
+      "name_en": "Gagauz"
+    },
+    {
+      "iso_639": "gan",
+      "nazov_sk": "Gan Chinese",
+      "name_en": "Gan Chinese"
+    },
+    {
+      "iso_639": "gay",
+      "nazov_sk": "gayo",
+      "name_en": "Gayo"
+    },
+    {
+      "iso_639": "gba",
+      "nazov_sk": "gbaja",
+      "name_en": "Gbaya"
+    },
+    {
+      "iso_639": "gbz",
+      "nazov_sk": "Zoroastrian Dari",
+      "name_en": "Zoroastrian Dari"
+    },
+    {
+      "iso_639": "gd",
+      "nazov_sk": "škótska gaelčina",
+      "name_en": "Scottish Gaelic"
+    },
+    {
+      "iso_639": "gez",
+      "nazov_sk": "etiópčina",
+      "name_en": "Geez"
+    },
+    {
+      "iso_639": "gil",
+      "nazov_sk": "kiribatčina",
+      "name_en": "Gilbertese"
+    },
+    {
+      "iso_639": "gl",
+      "nazov_sk": "galícijčina",
+      "name_en": "Galician"
+    },
+    {
+      "iso_639": "glk",
+      "nazov_sk": "Gilaki",
+      "name_en": "Gilaki"
+    },
+    {
+      "iso_639": "gmh",
+      "nazov_sk": "stredná horná nemčina",
+      "name_en": "Middle High German"
+    },
+    {
+      "iso_639": "gn",
+      "nazov_sk": "guaraní",
+      "name_en": "Guarani"
+    },
+    {
+      "iso_639": "goh",
+      "nazov_sk": "stará horná nemčina",
+      "name_en": "Old High German"
+    },
+    {
+      "iso_639": "gom",
+      "nazov_sk": "Goan Konkani",
+      "name_en": "Goan Konkani"
+    },
+    {
+      "iso_639": "gon",
+      "nazov_sk": "góndčina",
+      "name_en": "Gondi"
+    },
+    {
+      "iso_639": "gor",
+      "nazov_sk": "gorontalo",
+      "name_en": "Gorontalo"
+    },
+    {
+      "iso_639": "got",
+      "nazov_sk": "gótčina",
+      "name_en": "Gothic"
+    },
+    {
+      "iso_639": "grb",
+      "nazov_sk": "grebo",
+      "name_en": "Grebo"
+    },
+    {
+      "iso_639": "grc",
+      "nazov_sk": "starogréčtina",
+      "name_en": "Ancient Greek"
+    },
+    {
+      "iso_639": "gsw",
+      "nazov_sk": "nemčina (švajčiarska)",
+      "name_en": "Swiss German"
+    },
+    {
+      "iso_639": "gu",
+      "nazov_sk": "gudžarátčina",
+      "name_en": "Gujarati"
+    },
+    {
+      "iso_639": "guc",
+      "nazov_sk": "Wayuu",
+      "name_en": "Wayuu"
+    },
+    {
+      "iso_639": "gur",
+      "nazov_sk": "Frafra",
+      "name_en": "Frafra"
+    },
+    {
+      "iso_639": "guz",
+      "nazov_sk": "gusii",
+      "name_en": "Gusii"
+    },
+    {
+      "iso_639": "gv",
+      "nazov_sk": "mančina",
+      "name_en": "Manx"
+    },
+    {
+      "iso_639": "gwi",
+      "nazov_sk": "gwichʼin",
+      "name_en": "Gwichʼin"
+    },
+    {
+      "iso_639": "ha",
+      "nazov_sk": "hauština",
+      "name_en": "Hausa"
+    },
+    {
+      "iso_639": "hai",
+      "nazov_sk": "haida",
+      "name_en": "Haida"
+    },
+    {
+      "iso_639": "hak",
+      "nazov_sk": "Hakka Chinese",
+      "name_en": "Hakka Chinese"
+    },
+    {
+      "iso_639": "haw",
+      "nazov_sk": "havajčina",
+      "name_en": "Hawaiian"
+    },
+    {
+      "iso_639": "he",
+      "nazov_sk": "hebrejčina",
+      "name_en": "Hebrew"
+    },
+    {
+      "iso_639": "hi",
+      "nazov_sk": "hindčina",
+      "name_en": "Hindi"
+    },
+    {
+      "iso_639": "hif",
+      "nazov_sk": "Fiji Hindi",
+      "name_en": "Fiji Hindi"
+    },
+    {
+      "iso_639": "hil",
+      "nazov_sk": "hiligajnončina",
+      "name_en": "Hiligaynon"
+    },
+    {
+      "iso_639": "hit",
+      "nazov_sk": "chetitčina",
+      "name_en": "Hittite"
+    },
+    {
+      "iso_639": "hmn",
+      "nazov_sk": "hmong",
+      "name_en": "Hmong"
+    },
+    {
+      "iso_639": "ho",
+      "nazov_sk": "hiri motu",
+      "name_en": "Hiri Motu"
+    },
+    {
+      "iso_639": "hr",
+      "nazov_sk": "chorvátčina",
+      "name_en": "Croatian"
+    },
+    {
+      "iso_639": "hsb",
+      "nazov_sk": "hornolužická srbčina",
+      "name_en": "Upper Sorbian"
+    },
+    {
+      "iso_639": "hsn",
+      "nazov_sk": "Xiang Chinese",
+      "name_en": "Xiang Chinese"
+    },
+    {
+      "iso_639": "ht",
+      "nazov_sk": "haitčina",
+      "name_en": "Haitian"
+    },
+    {
+      "iso_639": "hu",
+      "nazov_sk": "maďarčina",
+      "name_en": "Hungarian"
+    },
+    {
+      "iso_639": "hup",
+      "nazov_sk": "hupčina",
+      "name_en": "Hupa"
+    },
+    {
+      "iso_639": "hy",
+      "nazov_sk": "arménčina",
+      "name_en": "Armenian"
+    },
+    {
+      "iso_639": "hz",
+      "nazov_sk": "herero",
+      "name_en": "Herero"
+    },
+    {
+      "iso_639": "ia",
+      "nazov_sk": "interlingua",
+      "name_en": "Interlingua"
+    },
+    {
+      "iso_639": "iba",
+      "nazov_sk": "ibančina",
+      "name_en": "Iban"
+    },
+    {
+      "iso_639": "ibb",
+      "nazov_sk": "ibibio",
+      "name_en": "Ibibio"
+    },
+    {
+      "iso_639": "id",
+      "nazov_sk": "indonézština",
+      "name_en": "Indonesian"
+    },
+    {
+      "iso_639": "ie",
+      "nazov_sk": "interlingue",
+      "name_en": "Interlingue"
+    },
+    {
+      "iso_639": "ig",
+      "nazov_sk": "igboština",
+      "name_en": "Igbo"
+    },
+    {
+      "iso_639": "ii",
+      "nazov_sk": "s’čchuanská ioština",
+      "name_en": "Sichuan Yi"
+    },
+    {
+      "iso_639": "ik",
+      "nazov_sk": "inupiaq",
+      "name_en": "Inupiaq"
+    },
+    {
+      "iso_639": "ilo",
+      "nazov_sk": "ilokánčina",
+      "name_en": "Iloko"
+    },
+    {
+      "iso_639": "inh",
+      "nazov_sk": "inguština",
+      "name_en": "Ingush"
+    },
+    {
+      "iso_639": "io",
+      "nazov_sk": "ido",
+      "name_en": "Ido"
+    },
+    {
+      "iso_639": "is",
+      "nazov_sk": "islandčina",
+      "name_en": "Icelandic"
+    },
+    {
+      "iso_639": "it",
+      "nazov_sk": "taliančina",
+      "name_en": "Italian"
+    },
+    {
+      "iso_639": "iu",
+      "nazov_sk": "inuktitut",
+      "name_en": "Inuktitut"
+    },
+    {
+      "iso_639": "izh",
+      "nazov_sk": "Ingrian",
+      "name_en": "Ingrian"
+    },
+    {
+      "iso_639": "ja",
+      "nazov_sk": "japončina",
+      "name_en": "Japanese"
+    },
+    {
+      "iso_639": "jam",
+      "nazov_sk": "Jamaican Creole English",
+      "name_en": "Jamaican Creole English"
+    },
+    {
+      "iso_639": "jbo",
+      "nazov_sk": "lojban",
+      "name_en": "Lojban"
+    },
+    {
+      "iso_639": "jgo",
+      "nazov_sk": "ngomba",
+      "name_en": "Ngomba"
+    },
+    {
+      "iso_639": "jmc",
+      "nazov_sk": "mašame",
+      "name_en": "Machame"
+    },
+    {
+      "iso_639": "jpr",
+      "nazov_sk": "židovská perzština",
+      "name_en": "Judeo-Persian"
+    },
+    {
+      "iso_639": "jrb",
+      "nazov_sk": "židovská arabčina",
+      "name_en": "Judeo-Arabic"
+    },
+    {
+      "iso_639": "jut",
+      "nazov_sk": "Jutish",
+      "name_en": "Jutish"
+    },
+    {
+      "iso_639": "jv",
+      "nazov_sk": "jávčina",
+      "name_en": "Javanese"
+    },
+    {
+      "iso_639": "ka",
+      "nazov_sk": "gruzínčina",
+      "name_en": "Georgian"
+    },
+    {
+      "iso_639": "kaa",
+      "nazov_sk": "karakalpačtina",
+      "name_en": "Kara-Kalpak"
+    },
+    {
+      "iso_639": "kab",
+      "nazov_sk": "kabylčina",
+      "name_en": "Kabyle"
+    },
+    {
+      "iso_639": "kac",
+      "nazov_sk": "kačjinčina",
+      "name_en": "Kachin"
+    },
+    {
+      "iso_639": "kaj",
+      "nazov_sk": "jju",
+      "name_en": "Jju"
+    },
+    {
+      "iso_639": "kam",
+      "nazov_sk": "kamba",
+      "name_en": "Kamba"
+    },
+    {
+      "iso_639": "kaw",
+      "nazov_sk": "kawi",
+      "name_en": "Kawi"
+    },
+    {
+      "iso_639": "kbd",
+      "nazov_sk": "kabardčina",
+      "name_en": "Kabardian"
+    },
+    {
+      "iso_639": "kbl",
+      "nazov_sk": "kanembu",
+      "name_en": "Kanembu"
+    },
+    {
+      "iso_639": "kcg",
+      "nazov_sk": "tyap",
+      "name_en": "Tyap"
+    },
+    {
+      "iso_639": "kde",
+      "nazov_sk": "makonde",
+      "name_en": "Makonde"
+    },
+    {
+      "iso_639": "kea",
+      "nazov_sk": "kapverdčina",
+      "name_en": "Kabuverdianu"
+    },
+    {
+      "iso_639": "ken",
+      "nazov_sk": "Kenyang",
+      "name_en": "Kenyang"
+    },
+    {
+      "iso_639": "kfo",
+      "nazov_sk": "koro",
+      "name_en": "Koro"
+    },
+    {
+      "iso_639": "kg",
+      "nazov_sk": "kongčina",
+      "name_en": "Kongo"
+    },
+    {
+      "iso_639": "kgp",
+      "nazov_sk": "Kaingang",
+      "name_en": "Kaingang"
+    },
+    {
+      "iso_639": "kha",
+      "nazov_sk": "khasijčina",
+      "name_en": "Khasi"
+    },
+    {
+      "iso_639": "kho",
+      "nazov_sk": "chotančina",
+      "name_en": "Khotanese"
+    },
+    {
+      "iso_639": "khq",
+      "nazov_sk": "západná songhajčina",
+      "name_en": "Koyra Chiini"
+    },
+    {
+      "iso_639": "khw",
+      "nazov_sk": "Khowar",
+      "name_en": "Khowar"
+    },
+    {
+      "iso_639": "ki",
+      "nazov_sk": "kikujčina",
+      "name_en": "Kikuyu"
+    },
+    {
+      "iso_639": "kiu",
+      "nazov_sk": "Kirmanjki",
+      "name_en": "Kirmanjki"
+    },
+    {
+      "iso_639": "kj",
+      "nazov_sk": "kuaňama",
+      "name_en": "Kuanyama"
+    },
+    {
+      "iso_639": "kk",
+      "nazov_sk": "kazaština",
+      "name_en": "Kazakh"
+    },
+    {
+      "iso_639": "kkj",
+      "nazov_sk": "kako",
+      "name_en": "Kako"
+    },
+    {
+      "iso_639": "kl",
+      "nazov_sk": "grónčina",
+      "name_en": "Kalaallisut"
+    },
+    {
+      "iso_639": "kln",
+      "nazov_sk": "kalendžin",
+      "name_en": "Kalenjin"
+    },
+    {
+      "iso_639": "km",
+      "nazov_sk": "khmérčina",
+      "name_en": "Khmer"
+    },
+    {
+      "iso_639": "kmb",
+      "nazov_sk": "kimbundu",
+      "name_en": "Kimbundu"
+    },
+    {
+      "iso_639": "kn",
+      "nazov_sk": "kannadčina",
+      "name_en": "Kannada"
+    },
+    {
+      "iso_639": "ko",
+      "nazov_sk": "kórejčina",
+      "name_en": "Korean"
+    },
+    {
+      "iso_639": "koi",
+      "nazov_sk": "komi-permiačtina",
+      "name_en": "Komi-Permyak"
+    },
+    {
+      "iso_639": "kok",
+      "nazov_sk": "konkánčina",
+      "name_en": "Konkani"
+    },
+    {
+      "iso_639": "kos",
+      "nazov_sk": "kusaie",
+      "name_en": "Kosraean"
+    },
+    {
+      "iso_639": "kpe",
+      "nazov_sk": "kpelle",
+      "name_en": "Kpelle"
+    },
+    {
+      "iso_639": "kr",
+      "nazov_sk": "kanurijčina",
+      "name_en": "Kanuri"
+    },
+    {
+      "iso_639": "krc",
+      "nazov_sk": "karačajevsko-balkarský jazyk",
+      "name_en": "Karachay-Balkar"
+    },
+    {
+      "iso_639": "kri",
+      "nazov_sk": "Krio",
+      "name_en": "Krio"
+    },
+    {
+      "iso_639": "krj",
+      "nazov_sk": "Kinaray-a",
+      "name_en": "Kinaray-a"
+    },
+    {
+      "iso_639": "krl",
+      "nazov_sk": "karelčina",
+      "name_en": "Karelian"
+    },
+    {
+      "iso_639": "kru",
+      "nazov_sk": "kurukhčina",
+      "name_en": "Kurukh"
+    },
+    {
+      "iso_639": "ks",
+      "nazov_sk": "kašmírčina",
+      "name_en": "Kashmiri"
+    },
+    {
+      "iso_639": "ksb",
+      "nazov_sk": "šambala",
+      "name_en": "Shambala"
+    },
+    {
+      "iso_639": "ksf",
+      "nazov_sk": "bafia",
+      "name_en": "Bafia"
+    },
+    {
+      "iso_639": "ksh",
+      "nazov_sk": "kolínčina",
+      "name_en": "Colognian"
+    },
+    {
+      "iso_639": "ku",
+      "nazov_sk": "kurdčina",
+      "name_en": "Kurdish"
+    },
+    {
+      "iso_639": "kum",
+      "nazov_sk": "kumyčtina",
+      "name_en": "Kumyk"
+    },
+    {
+      "iso_639": "kut",
+      "nazov_sk": "kutenajčina",
+      "name_en": "Kutenai"
+    },
+    {
+      "iso_639": "kv",
+      "nazov_sk": "komijčina",
+      "name_en": "Komi"
+    },
+    {
+      "iso_639": "kw",
+      "nazov_sk": "kornčina",
+      "name_en": "Cornish"
+    },
+    {
+      "iso_639": "ky",
+      "nazov_sk": "kirgizština",
+      "name_en": "Kyrgyz"
+    },
+    {
+      "iso_639": "la",
+      "nazov_sk": "latinčina",
+      "name_en": "Latin"
+    },
+    {
+      "iso_639": "lad",
+      "nazov_sk": "židovská španielčina",
+      "name_en": "Ladino"
+    },
+    {
+      "iso_639": "lag",
+      "nazov_sk": "langi",
+      "name_en": "Langi"
+    },
+    {
+      "iso_639": "lah",
+      "nazov_sk": "lahandčina",
+      "name_en": "Lahnda"
+    },
+    {
+      "iso_639": "lam",
+      "nazov_sk": "lamba",
+      "name_en": "Lamba"
+    },
+    {
+      "iso_639": "lb",
+      "nazov_sk": "luxemburčina",
+      "name_en": "Luxembourgish"
+    },
+    {
+      "iso_639": "lez",
+      "nazov_sk": "lezginčina",
+      "name_en": "Lezghian"
+    },
+    {
+      "iso_639": "lfn",
+      "nazov_sk": "Lingua Franca Nova",
+      "name_en": "Lingua Franca Nova"
+    },
+    {
+      "iso_639": "lg",
+      "nazov_sk": "gandčina",
+      "name_en": "Ganda"
+    },
+    {
+      "iso_639": "li",
+      "nazov_sk": "limburčina",
+      "name_en": "Limburgish"
+    },
+    {
+      "iso_639": "lij",
+      "nazov_sk": "Ligurian",
+      "name_en": "Ligurian"
+    },
+    {
+      "iso_639": "liv",
+      "nazov_sk": "Livonian",
+      "name_en": "Livonian"
+    },
+    {
+      "iso_639": "lkt",
+      "nazov_sk": "lakotčina",
+      "name_en": "Lakota"
+    },
+    {
+      "iso_639": "lmo",
+      "nazov_sk": "Lombard",
+      "name_en": "Lombard"
+    },
+    {
+      "iso_639": "ln",
+      "nazov_sk": "lingalčina",
+      "name_en": "Lingala"
+    },
+    {
+      "iso_639": "lo",
+      "nazov_sk": "laoština",
+      "name_en": "Lao"
+    },
+    {
+      "iso_639": "lol",
+      "nazov_sk": "mongo",
+      "name_en": "Mongo"
+    },
+    {
+      "iso_639": "loz",
+      "nazov_sk": "lozi",
+      "name_en": "Lozi"
+    },
+    {
+      "iso_639": "lt",
+      "nazov_sk": "litovčina",
+      "name_en": "Lithuanian"
+    },
+    {
+      "iso_639": "ltg",
+      "nazov_sk": "Latgalian",
+      "name_en": "Latgalian"
+    },
+    {
+      "iso_639": "lu",
+      "nazov_sk": "luba-katanga",
+      "name_en": "Luba-Katanga"
+    },
+    {
+      "iso_639": "lua",
+      "nazov_sk": "luba-luluánčina",
+      "name_en": "Luba-Lulua"
+    },
+    {
+      "iso_639": "lui",
+      "nazov_sk": "luiseňo",
+      "name_en": "Luiseno"
+    },
+    {
+      "iso_639": "lun",
+      "nazov_sk": "lunda",
+      "name_en": "Lunda"
+    },
+    {
+      "iso_639": "luo",
+      "nazov_sk": "luo",
+      "name_en": "Luo"
+    },
+    {
+      "iso_639": "lus",
+      "nazov_sk": "mizorámčina",
+      "name_en": "Mizo"
+    },
+    {
+      "iso_639": "luy",
+      "nazov_sk": "luhja",
+      "name_en": "Luyia"
+    },
+    {
+      "iso_639": "lv",
+      "nazov_sk": "lotyština",
+      "name_en": "Latvian"
+    },
+    {
+      "iso_639": "lzh",
+      "nazov_sk": "Literary Chinese",
+      "name_en": "Literary Chinese"
+    },
+    {
+      "iso_639": "lzz",
+      "nazov_sk": "Laz",
+      "name_en": "Laz"
+    },
+    {
+      "iso_639": "mad",
+      "nazov_sk": "madurčina",
+      "name_en": "Madurese"
+    },
+    {
+      "iso_639": "maf",
+      "nazov_sk": "mafa",
+      "name_en": "Mafa"
+    },
+    {
+      "iso_639": "mag",
+      "nazov_sk": "magadhčina",
+      "name_en": "Magahi"
+    },
+    {
+      "iso_639": "mai",
+      "nazov_sk": "maithilčina",
+      "name_en": "Maithili"
+    },
+    {
+      "iso_639": "mak",
+      "nazov_sk": "makasarčina",
+      "name_en": "Makasar"
+    },
+    {
+      "iso_639": "man",
+      "nazov_sk": "mandingo",
+      "name_en": "Mandingo"
+    },
+    {
+      "iso_639": "mas",
+      "nazov_sk": "masajčina",
+      "name_en": "Masai"
+    },
+    {
+      "iso_639": "mde",
+      "nazov_sk": "maba",
+      "name_en": "Maba"
+    },
+    {
+      "iso_639": "mdf",
+      "nazov_sk": "mokšiančina",
+      "name_en": "Moksha"
+    },
+    {
+      "iso_639": "mdr",
+      "nazov_sk": "mandarčina",
+      "name_en": "Mandar"
+    },
+    {
+      "iso_639": "men",
+      "nazov_sk": "mendi",
+      "name_en": "Mende"
+    },
+    {
+      "iso_639": "mer",
+      "nazov_sk": "meru",
+      "name_en": "Meru"
+    },
+    {
+      "iso_639": "mfe",
+      "nazov_sk": "maurícijská kreolčina",
+      "name_en": "Morisyen"
+    },
+    {
+      "iso_639": "mg",
+      "nazov_sk": "malgaština",
+      "name_en": "Malagasy"
+    },
+    {
+      "iso_639": "mga",
+      "nazov_sk": "stredná írčina",
+      "name_en": "Middle Irish"
+    },
+    {
+      "iso_639": "mgh",
+      "nazov_sk": "makua-meetto",
+      "name_en": "Makhuwa-Meetto"
+    },
+    {
+      "iso_639": "mgo",
+      "nazov_sk": "meta’",
+      "name_en": "Metaʼ"
+    },
+    {
+      "iso_639": "mh",
+      "nazov_sk": "kajin-majol",
+      "name_en": "Marshallese"
+    },
+    {
+      "iso_639": "mi",
+      "nazov_sk": "maorijčina",
+      "name_en": "Maori"
+    },
+    {
+      "iso_639": "mic",
+      "nazov_sk": "mikmakčina",
+      "name_en": "Micmac"
+    },
+    {
+      "iso_639": "min",
+      "nazov_sk": "minangkabaučina",
+      "name_en": "Minangkabau"
+    },
+    {
+      "iso_639": "mk",
+      "nazov_sk": "macedónčina",
+      "name_en": "Macedonian"
+    },
+    {
+      "iso_639": "ml",
+      "nazov_sk": "malajálamčina",
+      "name_en": "Malayalam"
+    },
+    {
+      "iso_639": "mn",
+      "nazov_sk": "mongolčina",
+      "name_en": "Mongolian"
+    },
+    {
+      "iso_639": "mnc",
+      "nazov_sk": "mandžuština",
+      "name_en": "Manchu"
+    },
+    {
+      "iso_639": "mni",
+      "nazov_sk": "manípurčina",
+      "name_en": "Manipuri"
+    },
+    {
+      "iso_639": "moh",
+      "nazov_sk": "mohawkčina",
+      "name_en": "Mohawk"
+    },
+    {
+      "iso_639": "mos",
+      "nazov_sk": "mossi",
+      "name_en": "Mossi"
+    },
+    {
+      "iso_639": "mr",
+      "nazov_sk": "maráthčina",
+      "name_en": "Marathi"
+    },
+    {
+      "iso_639": "mrj",
+      "nazov_sk": "Western Mari",
+      "name_en": "Western Mari"
+    },
+    {
+      "iso_639": "ms",
+      "nazov_sk": "malajčina",
+      "name_en": "Malay"
+    },
+    {
+      "iso_639": "mt",
+      "nazov_sk": "maltčina",
+      "name_en": "Maltese"
+    },
+    {
+      "iso_639": "mua",
+      "nazov_sk": "mundang",
+      "name_en": "Mundang"
+    },
+    {
+      "iso_639": "mul",
+      "nazov_sk": "viaceré jazyky",
+      "name_en": "Multiple Languages"
+    },
+    {
+      "iso_639": "mus",
+      "nazov_sk": "kríkčina",
+      "name_en": "Creek"
+    },
+    {
+      "iso_639": "mwl",
+      "nazov_sk": "mirandčina",
+      "name_en": "Mirandese"
+    },
+    {
+      "iso_639": "mwr",
+      "nazov_sk": "marawari",
+      "name_en": "Marwari"
+    },
+    {
+      "iso_639": "mwv",
+      "nazov_sk": "Mentawai",
+      "name_en": "Mentawai"
+    },
+    {
+      "iso_639": "my",
+      "nazov_sk": "barmčina",
+      "name_en": "Burmese"
+    },
+    {
+      "iso_639": "mye",
+      "nazov_sk": "myene",
+      "name_en": "Myene"
+    },
+    {
+      "iso_639": "myv",
+      "nazov_sk": "erzjančina",
+      "name_en": "Erzya"
+    },
+    {
+      "iso_639": "mzn",
+      "nazov_sk": "Mazanderani",
+      "name_en": "Mazanderani"
+    },
+    {
+      "iso_639": "na",
+      "nazov_sk": "nauru",
+      "name_en": "Nauru"
+    },
+    {
+      "iso_639": "nan",
+      "nazov_sk": "Min Nan Chinese",
+      "name_en": "Min Nan Chinese"
+    },
+    {
+      "iso_639": "nap",
+      "nazov_sk": "neapolčina",
+      "name_en": "Neapolitan"
+    },
+    {
+      "iso_639": "naq",
+      "nazov_sk": "nama",
+      "name_en": "Nama"
+    },
+    {
+      "iso_639": "nb",
+      "nazov_sk": "nórsky bokmål",
+      "name_en": "Norwegian Bokmål"
+    },
+    {
+      "iso_639": "nd",
+      "nazov_sk": "severné ndebele",
+      "name_en": "North Ndebele"
+    },
+    {
+      "iso_639": "nds",
+      "nazov_sk": "dolná nemčina",
+      "name_en": "Low German"
+    },
+    {
+      "iso_639": "ne",
+      "nazov_sk": "nepálčina",
+      "name_en": "Nepali"
+    },
+    {
+      "iso_639": "new",
+      "nazov_sk": "nevárčina",
+      "name_en": "Newari"
+    },
+    {
+      "iso_639": "ng",
+      "nazov_sk": "ndonga",
+      "name_en": "Ndonga"
+    },
+    {
+      "iso_639": "nia",
+      "nazov_sk": "niasánčina",
+      "name_en": "Nias"
+    },
+    {
+      "iso_639": "niu",
+      "nazov_sk": "niueština",
+      "name_en": "Niuean"
+    },
+    {
+      "iso_639": "njo",
+      "nazov_sk": "Ao Naga",
+      "name_en": "Ao Naga"
+    },
+    {
+      "iso_639": "nl",
+      "nazov_sk": "holandčina",
+      "name_en": "Dutch"
+    },
+    {
+      "iso_639": "nl_BE",
+      "nazov_sk": "flámčina",
+      "name_en": "Flemish"
+    },
+    {
+      "iso_639": "nmg",
+      "nazov_sk": "kwasio",
+      "name_en": "Kwasio"
+    },
+    {
+      "iso_639": "nn",
+      "nazov_sk": "nórsky nynorsk",
+      "name_en": "Norwegian Nynorsk"
+    },
+    {
+      "iso_639": "nnh",
+      "nazov_sk": "ngiemboon",
+      "name_en": "Ngiemboon"
+    },
+    {
+      "iso_639": "no",
+      "nazov_sk": "nórčina",
+      "name_en": "Norwegian"
+    },
+    {
+      "iso_639": "nog",
+      "nazov_sk": "nogajčina",
+      "name_en": "Nogai"
+    },
+    {
+      "iso_639": "non",
+      "nazov_sk": "stará nórčina",
+      "name_en": "Old Norse"
+    },
+    {
+      "iso_639": "nov",
+      "nazov_sk": "Novial",
+      "name_en": "Novial"
+    },
+    {
+      "iso_639": "nqo",
+      "nazov_sk": "n’ko",
+      "name_en": "NʼKo"
+    },
+    {
+      "iso_639": "nr",
+      "nazov_sk": "južná ndebelčina",
+      "name_en": "South Ndebele"
+    },
+    {
+      "iso_639": "nso",
+      "nazov_sk": "severná sothčina",
+      "name_en": "Northern Sotho"
+    },
+    {
+      "iso_639": "nus",
+      "nazov_sk": "nuer",
+      "name_en": "Nuer"
+    },
+    {
+      "iso_639": "nv",
+      "nazov_sk": "navajo",
+      "name_en": "Navajo"
+    },
+    {
+      "iso_639": "nwc",
+      "nazov_sk": "klasická nevárčina",
+      "name_en": "Classical Newari"
+    },
+    {
+      "iso_639": "ny",
+      "nazov_sk": "čewa",
+      "name_en": "Nyanja"
+    },
+    {
+      "iso_639": "nym",
+      "nazov_sk": "ňamwezi",
+      "name_en": "Nyamwezi"
+    },
+    {
+      "iso_639": "nyn",
+      "nazov_sk": "ňankole",
+      "name_en": "Nyankole"
+    },
+    {
+      "iso_639": "nyo",
+      "nazov_sk": "ňoro",
+      "name_en": "Nyoro"
+    },
+    {
+      "iso_639": "nzi",
+      "nazov_sk": "nzima",
+      "name_en": "Nzima"
+    },
+    {
+      "iso_639": "oc",
+      "nazov_sk": "okcitánčina",
+      "name_en": "Occitan"
+    },
+    {
+      "iso_639": "oj",
+      "nazov_sk": "odžibva",
+      "name_en": "Ojibwa"
+    },
+    {
+      "iso_639": "om",
+      "nazov_sk": "oromčina",
+      "name_en": "Oromo"
+    },
+    {
+      "iso_639": "or",
+      "nazov_sk": "uríjčina",
+      "name_en": "Oriya"
+    },
+    {
+      "iso_639": "os",
+      "nazov_sk": "osetčina",
+      "name_en": "Ossetic"
+    },
+    {
+      "iso_639": "osa",
+      "nazov_sk": "osagčina",
+      "name_en": "Osage"
+    },
+    {
+      "iso_639": "ota",
+      "nazov_sk": "osmanská turečtina",
+      "name_en": "Ottoman Turkish"
+    },
+    {
+      "iso_639": "pa",
+      "nazov_sk": "pandžábčina",
+      "name_en": "Punjabi"
+    },
+    {
+      "iso_639": "pag",
+      "nazov_sk": "pangasinančina",
+      "name_en": "Pangasinan"
+    },
+    {
+      "iso_639": "pal",
+      "nazov_sk": "pahlaví",
+      "name_en": "Pahlavi"
+    },
+    {
+      "iso_639": "pam",
+      "nazov_sk": "pampanga",
+      "name_en": "Pampanga"
+    },
+    {
+      "iso_639": "pap",
+      "nazov_sk": "papiamento",
+      "name_en": "Papiamento"
+    },
+    {
+      "iso_639": "pau",
+      "nazov_sk": "palaučina",
+      "name_en": "Palauan"
+    },
+    {
+      "iso_639": "pcd",
+      "nazov_sk": "Picard",
+      "name_en": "Picard"
+    },
+    {
+      "iso_639": "pdc",
+      "nazov_sk": "Pennsylvania German",
+      "name_en": "Pennsylvania German"
+    },
+    {
+      "iso_639": "pdt",
+      "nazov_sk": "Plautdietsch",
+      "name_en": "Plautdietsch"
+    },
+    {
+      "iso_639": "peo",
+      "nazov_sk": "stará perzština",
+      "name_en": "Old Persian"
+    },
+    {
+      "iso_639": "pfl",
+      "nazov_sk": "Palatine German",
+      "name_en": "Palatine German"
+    },
+    {
+      "iso_639": "phn",
+      "nazov_sk": "feničtina",
+      "name_en": "Phoenician"
+    },
+    {
+      "iso_639": "pi",
+      "nazov_sk": "pálí",
+      "name_en": "Pali"
+    },
+    {
+      "iso_639": "pl",
+      "nazov_sk": "poľština",
+      "name_en": "Polish"
+    },
+    {
+      "iso_639": "pms",
+      "nazov_sk": "Piedmontese",
+      "name_en": "Piedmontese"
+    },
+    {
+      "iso_639": "pnt",
+      "nazov_sk": "Pontic",
+      "name_en": "Pontic"
+    },
+    {
+      "iso_639": "pon",
+      "nazov_sk": "pohnpeičina",
+      "name_en": "Pohnpeian"
+    },
+    {
+      "iso_639": "prg",
+      "nazov_sk": "Prussian",
+      "name_en": "Prussian"
+    },
+    {
+      "iso_639": "pro",
+      "nazov_sk": "stará okcitánčina",
+      "name_en": "Old Provençal"
+    },
+    {
+      "iso_639": "ps",
+      "nazov_sk": "paštčina",
+      "name_en": "Pashto"
+    },
+    {
+      "iso_639": "pt",
+      "nazov_sk": "portugalčina",
+      "name_en": "Portuguese"
+    },
+    {
+      "iso_639": "pt_BR",
+      "nazov_sk": "portugalčina (brazílska)",
+      "name_en": "Brazilian Portuguese"
+    },
+    {
+      "iso_639": "pt_PT",
+      "nazov_sk": "portugalčina (európska)",
+      "name_en": "European Portuguese"
+    },
+    {
+      "iso_639": "qu",
+      "nazov_sk": "kečuánčina",
+      "name_en": "Quechua"
+    },
+    {
+      "iso_639": "quc",
+      "nazov_sk": "kʼicheʼ",
+      "name_en": "Kʼicheʼ"
+    },
+    {
+      "iso_639": "qug",
+      "nazov_sk": "Chimborazo Highland Quichua",
+      "name_en": "Chimborazo Highland Quichua"
+    },
+    {
+      "iso_639": "raj",
+      "nazov_sk": "radžastančina",
+      "name_en": "Rajasthani"
+    },
+    {
+      "iso_639": "rap",
+      "nazov_sk": "rapanujčina",
+      "name_en": "Rapanui"
+    },
+    {
+      "iso_639": "rar",
+      "nazov_sk": "rarotongan",
+      "name_en": "Rarotongan"
+    },
+    {
+      "iso_639": "rgn",
+      "nazov_sk": "Romagnol",
+      "name_en": "Romagnol"
+    },
+    {
+      "iso_639": "rif",
+      "nazov_sk": "Riffian",
+      "name_en": "Riffian"
+    },
+    {
+      "iso_639": "rm",
+      "nazov_sk": "rétorománčina",
+      "name_en": "Romansh"
+    },
+    {
+      "iso_639": "rn",
+      "nazov_sk": "kirundčina",
+      "name_en": "Rundi"
+    },
+    {
+      "iso_639": "ro",
+      "nazov_sk": "rumunčina",
+      "name_en": "Romanian"
+    },
+    {
+      "iso_639": "ro_MD",
+      "nazov_sk": "moldavčina",
+      "name_en": "Moldavian"
+    },
+    {
+      "iso_639": "rof",
+      "nazov_sk": "rombo",
+      "name_en": "Rombo"
+    },
+    {
+      "iso_639": "rom",
+      "nazov_sk": "rómčina",
+      "name_en": "Romany"
+    },
+    {
+      "iso_639": "root",
+      "nazov_sk": "koreň",
+      "name_en": "Root"
+    },
+    {
+      "iso_639": "rtm",
+      "nazov_sk": "Rotuman",
+      "name_en": "Rotuman"
+    },
+    {
+      "iso_639": "ru",
+      "nazov_sk": "ruština",
+      "name_en": "Russian"
+    },
+    {
+      "iso_639": "rue",
+      "nazov_sk": "Rusyn",
+      "name_en": "Rusyn"
+    },
+    {
+      "iso_639": "rug",
+      "nazov_sk": "Roviana",
+      "name_en": "Roviana"
+    },
+    {
+      "iso_639": "rup",
+      "nazov_sk": "arumunčina",
+      "name_en": "Aromanian"
+    },
+    {
+      "iso_639": "rw",
+      "nazov_sk": "kiňarwanda",
+      "name_en": "Kinyarwanda"
+    },
+    {
+      "iso_639": "rwk",
+      "nazov_sk": "rwa",
+      "name_en": "Rwa"
+    },
+    {
+      "iso_639": "sa",
+      "nazov_sk": "sanskrit",
+      "name_en": "Sanskrit"
+    },
+    {
+      "iso_639": "sad",
+      "nazov_sk": "sandawe",
+      "name_en": "Sandawe"
+    },
+    {
+      "iso_639": "sah",
+      "nazov_sk": "jakutčina",
+      "name_en": "Sakha"
+    },
+    {
+      "iso_639": "sam",
+      "nazov_sk": "samaritánska aramejčina",
+      "name_en": "Samaritan Aramaic"
+    },
+    {
+      "iso_639": "saq",
+      "nazov_sk": "samburu",
+      "name_en": "Samburu"
+    },
+    {
+      "iso_639": "sas",
+      "nazov_sk": "sasačtina",
+      "name_en": "Sasak"
+    },
+    {
+      "iso_639": "sat",
+      "nazov_sk": "santalčina",
+      "name_en": "Santali"
+    },
+    {
+      "iso_639": "saz",
+      "nazov_sk": "Saurashtra",
+      "name_en": "Saurashtra"
+    },
+    {
+      "iso_639": "sba",
+      "nazov_sk": "ngambay",
+      "name_en": "Ngambay"
+    },
+    {
+      "iso_639": "sbp",
+      "nazov_sk": "sangu",
+      "name_en": "Sangu"
+    },
+    {
+      "iso_639": "sc",
+      "nazov_sk": "sardínčina",
+      "name_en": "Sardinian"
+    },
+    {
+      "iso_639": "scn",
+      "nazov_sk": "sicílčina",
+      "name_en": "Sicilian"
+    },
+    {
+      "iso_639": "sco",
+      "nazov_sk": "škótčina",
+      "name_en": "Scots"
+    },
+    {
+      "iso_639": "sd",
+      "nazov_sk": "sindhčina",
+      "name_en": "Sindhi"
+    },
+    {
+      "iso_639": "sdc",
+      "nazov_sk": "Sassarese Sardinian",
+      "name_en": "Sassarese Sardinian"
+    },
+    {
+      "iso_639": "se",
+      "nazov_sk": "severné sami",
+      "name_en": "Northern Sami"
+    },
+    {
+      "iso_639": "see",
+      "nazov_sk": "seneca",
+      "name_en": "Seneca"
+    },
+    {
+      "iso_639": "seh",
+      "nazov_sk": "sena",
+      "name_en": "Sena"
+    },
+    {
+      "iso_639": "sei",
+      "nazov_sk": "Seri",
+      "name_en": "Seri"
+    },
+    {
+      "iso_639": "sel",
+      "nazov_sk": "selkupčina",
+      "name_en": "Selkup"
+    },
+    {
+      "iso_639": "ses",
+      "nazov_sk": "koyraboro senni",
+      "name_en": "Koyraboro Senni"
+    },
+    {
+      "iso_639": "sg",
+      "nazov_sk": "sango",
+      "name_en": "Sango"
+    },
+    {
+      "iso_639": "sga",
+      "nazov_sk": "stará írčina",
+      "name_en": "Old Irish"
+    },
+    {
+      "iso_639": "sgs",
+      "nazov_sk": "Samogitian",
+      "name_en": "Samogitian"
+    },
+    {
+      "iso_639": "sh",
+      "nazov_sk": "srbochorvátčina",
+      "name_en": "Serbo-Croatian"
+    },
+    {
+      "iso_639": "shi",
+      "nazov_sk": "tachelhit",
+      "name_en": "Tachelhit"
+    },
+    {
+      "iso_639": "shn",
+      "nazov_sk": "šančina",
+      "name_en": "Shan"
+    },
+    {
+      "iso_639": "shu",
+      "nazov_sk": "čadská arabčina",
+      "name_en": "Chadian Arabic"
+    },
+    {
+      "iso_639": "si",
+      "nazov_sk": "sinhalčina",
+      "name_en": "Sinhala"
+    },
+    {
+      "iso_639": "sid",
+      "nazov_sk": "sidamo",
+      "name_en": "Sidamo"
+    },
+    {
+      "iso_639": "sk",
+      "nazov_sk": "slovenčina",
+      "name_en": "Slovak"
+    },
+    {
+      "iso_639": "sl",
+      "nazov_sk": "slovinčina",
+      "name_en": "Slovenian"
+    },
+    {
+      "iso_639": "sli",
+      "nazov_sk": "Lower Silesian",
+      "name_en": "Lower Silesian"
+    },
+    {
+      "iso_639": "sly",
+      "nazov_sk": "Selayar",
+      "name_en": "Selayar"
+    },
+    {
+      "iso_639": "sm",
+      "nazov_sk": "samojčina",
+      "name_en": "Samoan"
+    },
+    {
+      "iso_639": "sma",
+      "nazov_sk": "južné sami",
+      "name_en": "Southern Sami"
+    },
+    {
+      "iso_639": "smj",
+      "nazov_sk": "sami (lule)",
+      "name_en": "Lule Sami"
+    },
+    {
+      "iso_639": "smn",
+      "nazov_sk": "sami (inari)",
+      "name_en": "Inari Sami"
+    },
+    {
+      "iso_639": "sms",
+      "nazov_sk": "sami (skolt)",
+      "name_en": "Skolt Sami"
+    },
+    {
+      "iso_639": "sn",
+      "nazov_sk": "šončina",
+      "name_en": "Shona"
+    },
+    {
+      "iso_639": "snk",
+      "nazov_sk": "soninke",
+      "name_en": "Soninke"
+    },
+    {
+      "iso_639": "so",
+      "nazov_sk": "somálčina",
+      "name_en": "Somali"
+    },
+    {
+      "iso_639": "sog",
+      "nazov_sk": "sogdijčina",
+      "name_en": "Sogdien"
+    },
+    {
+      "iso_639": "sq",
+      "nazov_sk": "albánčina",
+      "name_en": "Albanian"
+    },
+    {
+      "iso_639": "sr",
+      "nazov_sk": "srbčina",
+      "name_en": "Serbian"
+    },
+    {
+      "iso_639": "srn",
+      "nazov_sk": "sranan",
+      "name_en": "Sranan Tongo"
+    },
+    {
+      "iso_639": "srr",
+      "nazov_sk": "serer",
+      "name_en": "Serer"
+    },
+    {
+      "iso_639": "ss",
+      "nazov_sk": "svazijčina",
+      "name_en": "Swati"
+    },
+    {
+      "iso_639": "ssy",
+      "nazov_sk": "saho",
+      "name_en": "Saho"
+    },
+    {
+      "iso_639": "st",
+      "nazov_sk": "južná sothčina",
+      "name_en": "Southern Sotho"
+    },
+    {
+      "iso_639": "stq",
+      "nazov_sk": "Saterland Frisian",
+      "name_en": "Saterland Frisian"
+    },
+    {
+      "iso_639": "su",
+      "nazov_sk": "sundčina",
+      "name_en": "Sundanese"
+    },
+    {
+      "iso_639": "suk",
+      "nazov_sk": "sukuma",
+      "name_en": "Sukuma"
+    },
+    {
+      "iso_639": "sus",
+      "nazov_sk": "susu",
+      "name_en": "Susu"
+    },
+    {
+      "iso_639": "sux",
+      "nazov_sk": "sumerčina",
+      "name_en": "Sumerian"
+    },
+    {
+      "iso_639": "sv",
+      "nazov_sk": "švédčina",
+      "name_en": "Swedish"
+    },
+    {
+      "iso_639": "sw",
+      "nazov_sk": "svahilčina",
+      "name_en": "Swahili"
+    },
+    {
+      "iso_639": "swb",
+      "nazov_sk": "komorčina",
+      "name_en": "Comorian"
+    },
+    {
+      "iso_639": "swc",
+      "nazov_sk": "svahilčina (konžská)",
+      "name_en": "Congo Swahili"
+    },
+    {
+      "iso_639": "syc",
+      "nazov_sk": "klasická sýrčina",
+      "name_en": "Classical Syriac"
+    },
+    {
+      "iso_639": "syr",
+      "nazov_sk": "sýrčina",
+      "name_en": "Syriac"
+    },
+    {
+      "iso_639": "szl",
+      "nazov_sk": "Silesian",
+      "name_en": "Silesian"
+    },
+    {
+      "iso_639": "ta",
+      "nazov_sk": "tamilčina",
+      "name_en": "Tamil"
+    },
+    {
+      "iso_639": "tcy",
+      "nazov_sk": "Tulu",
+      "name_en": "Tulu"
+    },
+    {
+      "iso_639": "te",
+      "nazov_sk": "telugčina",
+      "name_en": "Telugu"
+    },
+    {
+      "iso_639": "tem",
+      "nazov_sk": "temne",
+      "name_en": "Timne"
+    },
+    {
+      "iso_639": "teo",
+      "nazov_sk": "teso",
+      "name_en": "Teso"
+    },
+    {
+      "iso_639": "ter",
+      "nazov_sk": "tereno",
+      "name_en": "Tereno"
+    },
+    {
+      "iso_639": "tet",
+      "nazov_sk": "tetum",
+      "name_en": "Tetum"
+    },
+    {
+      "iso_639": "tg",
+      "nazov_sk": "tadžičtina",
+      "name_en": "Tajik"
+    },
+    {
+      "iso_639": "th",
+      "nazov_sk": "thajčina",
+      "name_en": "Thai"
+    },
+    {
+      "iso_639": "ti",
+      "nazov_sk": "tigriňa",
+      "name_en": "Tigrinya"
+    },
+    {
+      "iso_639": "tig",
+      "nazov_sk": "tigrejčina",
+      "name_en": "Tigre"
+    },
+    {
+      "iso_639": "tiv",
+      "nazov_sk": "tiv",
+      "name_en": "Tiv"
+    },
+    {
+      "iso_639": "tk",
+      "nazov_sk": "turkménčina",
+      "name_en": "Turkmen"
+    },
+    {
+      "iso_639": "tkl",
+      "nazov_sk": "tokelaučina",
+      "name_en": "Tokelau"
+    },
+    {
+      "iso_639": "tkr",
+      "nazov_sk": "Tsakhur",
+      "name_en": "Tsakhur"
+    },
+    {
+      "iso_639": "tl",
+      "nazov_sk": "tagalčina",
+      "name_en": "Tagalog"
+    },
+    {
+      "iso_639": "tlh",
+      "nazov_sk": "klingónčina",
+      "name_en": "Klingon"
+    },
+    {
+      "iso_639": "tli",
+      "nazov_sk": "tlingitčina",
+      "name_en": "Tlingit"
+    },
+    {
+      "iso_639": "tly",
+      "nazov_sk": "Talysh",
+      "name_en": "Talysh"
+    },
+    {
+      "iso_639": "tmh",
+      "nazov_sk": "tamašek",
+      "name_en": "Tamashek"
+    },
+    {
+      "iso_639": "tn",
+      "nazov_sk": "tswančina",
+      "name_en": "Tswana"
+    },
+    {
+      "iso_639": "to",
+      "nazov_sk": "tongčina",
+      "name_en": "Tongan"
+    },
+    {
+      "iso_639": "tog",
+      "nazov_sk": "ňasa tonga",
+      "name_en": "Nyasa Tonga"
+    },
+    {
+      "iso_639": "tpi",
+      "nazov_sk": "tok pisin",
+      "name_en": "Tok Pisin"
+    },
+    {
+      "iso_639": "tr",
+      "nazov_sk": "turečtina",
+      "name_en": "Turkish"
+    },
+    {
+      "iso_639": "tru",
+      "nazov_sk": "Turoyo",
+      "name_en": "Turoyo"
+    },
+    {
+      "iso_639": "trv",
+      "nazov_sk": "taroko",
+      "name_en": "Taroko"
+    },
+    {
+      "iso_639": "ts",
+      "nazov_sk": "tsonga",
+      "name_en": "Tsonga"
+    },
+    {
+      "iso_639": "tsd",
+      "nazov_sk": "Tsakonian",
+      "name_en": "Tsakonian"
+    },
+    {
+      "iso_639": "tsi",
+      "nazov_sk": "tsimshijské jazyky",
+      "name_en": "Tsimshian"
+    },
+    {
+      "iso_639": "tt",
+      "nazov_sk": "tatárčina",
+      "name_en": "Tatar"
+    },
+    {
+      "iso_639": "ttt",
+      "nazov_sk": "Muslim Tat",
+      "name_en": "Muslim Tat"
+    },
+    {
+      "iso_639": "tum",
+      "nazov_sk": "tumbuka",
+      "name_en": "Tumbuka"
+    },
+    {
+      "iso_639": "tvl",
+      "nazov_sk": "tuvalčina",
+      "name_en": "Tuvalu"
+    },
+    {
+      "iso_639": "tw",
+      "nazov_sk": "twi",
+      "name_en": "Twi"
+    },
+    {
+      "iso_639": "twq",
+      "nazov_sk": "tasawaq",
+      "name_en": "Tasawaq"
+    },
+    {
+      "iso_639": "ty",
+      "nazov_sk": "tahitčina",
+      "name_en": "Tahitian"
+    },
+    {
+      "iso_639": "tyv",
+      "nazov_sk": "tuviančina",
+      "name_en": "Tuvinian"
+    },
+    {
+      "iso_639": "tzm",
+      "nazov_sk": "tamašek (stredomarocký)",
+      "name_en": "Central Atlas Tamazight"
+    },
+    {
+      "iso_639": "udm",
+      "nazov_sk": "udmurtčina",
+      "name_en": "Udmurt"
+    },
+    {
+      "iso_639": "ug",
+      "nazov_sk": "ujgurčina",
+      "name_en": "Uyghur"
+    },
+    {
+      "iso_639": "uga",
+      "nazov_sk": "ugaritčina",
+      "name_en": "Ugaritic"
+    },
+    {
+      "iso_639": "uk",
+      "nazov_sk": "ukrajinčina",
+      "name_en": "Ukrainian"
+    },
+    {
+      "iso_639": "umb",
+      "nazov_sk": "umbundu",
+      "name_en": "Umbundu"
+    },
+    {
+      "iso_639": "und",
+      "nazov_sk": "neznámy jazyk",
+      "name_en": "Unknown Language"
+    },
+    {
+      "iso_639": "ur",
+      "nazov_sk": "urdčina",
+      "name_en": "Urdu"
+    },
+    {
+      "iso_639": "uz",
+      "nazov_sk": "uzbečtina",
+      "name_en": "Uzbek"
+    },
+    {
+      "iso_639": "vai",
+      "nazov_sk": "vai",
+      "name_en": "Vai"
+    },
+    {
+      "iso_639": "ve",
+      "nazov_sk": "vendčina",
+      "name_en": "Venda"
+    },
+    {
+      "iso_639": "vec",
+      "nazov_sk": "Venetian",
+      "name_en": "Venetian"
+    },
+    {
+      "iso_639": "vep",
+      "nazov_sk": "Veps",
+      "name_en": "Veps"
+    },
+    {
+      "iso_639": "vi",
+      "nazov_sk": "vietnamčina",
+      "name_en": "Vietnamese"
+    },
+    {
+      "iso_639": "vls",
+      "nazov_sk": "West Flemish",
+      "name_en": "West Flemish"
+    },
+    {
+      "iso_639": "vmf",
+      "nazov_sk": "Main-Franconian",
+      "name_en": "Main-Franconian"
+    },
+    {
+      "iso_639": "vo",
+      "nazov_sk": "volapük",
+      "name_en": "Volapük"
+    },
+    {
+      "iso_639": "vot",
+      "nazov_sk": "vodčina",
+      "name_en": "Votic"
+    },
+    {
+      "iso_639": "vro",
+      "nazov_sk": "Võro",
+      "name_en": "Võro"
+    },
+    {
+      "iso_639": "vun",
+      "nazov_sk": "vunjo",
+      "name_en": "Vunjo"
+    },
+    {
+      "iso_639": "wa",
+      "nazov_sk": "valónčina",
+      "name_en": "Walloon"
+    },
+    {
+      "iso_639": "wae",
+      "nazov_sk": "walserčina",
+      "name_en": "Walser"
+    },
+    {
+      "iso_639": "wal",
+      "nazov_sk": "walamo",
+      "name_en": "Wolaytta"
+    },
+    {
+      "iso_639": "war",
+      "nazov_sk": "waray",
+      "name_en": "Waray"
+    },
+    {
+      "iso_639": "was",
+      "nazov_sk": "washo",
+      "name_en": "Washo"
+    },
+    {
+      "iso_639": "wbp",
+      "nazov_sk": "Warlpiri",
+      "name_en": "Warlpiri"
+    },
+    {
+      "iso_639": "wo",
+      "nazov_sk": "wolof",
+      "name_en": "Wolof"
+    },
+    {
+      "iso_639": "wuu",
+      "nazov_sk": "Wu Chinese",
+      "name_en": "Wu Chinese"
+    },
+    {
+      "iso_639": "xal",
+      "nazov_sk": "kalmyčtina",
+      "name_en": "Kalmyk"
+    },
+    {
+      "iso_639": "xh",
+      "nazov_sk": "xhosa",
+      "name_en": "Xhosa"
+    },
+    {
+      "iso_639": "xmf",
+      "nazov_sk": "Mingrelian",
+      "name_en": "Mingrelian"
+    },
+    {
+      "iso_639": "xog",
+      "nazov_sk": "soga",
+      "name_en": "Soga"
+    },
+    {
+      "iso_639": "yao",
+      "nazov_sk": "jao",
+      "name_en": "Yao"
+    },
+    {
+      "iso_639": "yap",
+      "nazov_sk": "japčina",
+      "name_en": "Yapese"
+    },
+    {
+      "iso_639": "yav",
+      "nazov_sk": "jangben",
+      "name_en": "Yangben"
+    },
+    {
+      "iso_639": "ybb",
+      "nazov_sk": "yemba",
+      "name_en": "Yemba"
+    },
+    {
+      "iso_639": "yi",
+      "nazov_sk": "jidiš",
+      "name_en": "Yiddish"
+    },
+    {
+      "iso_639": "yo",
+      "nazov_sk": "jorubčina",
+      "name_en": "Yoruba"
+    },
+    {
+      "iso_639": "yrl",
+      "nazov_sk": "Nheengatu",
+      "name_en": "Nheengatu"
+    },
+    {
+      "iso_639": "yue",
+      "nazov_sk": "kantončina",
+      "name_en": "Cantonese"
+    },
+    {
+      "iso_639": "za",
+      "nazov_sk": "čuangčina",
+      "name_en": "Zhuang"
+    },
+    {
+      "iso_639": "zap",
+      "nazov_sk": "zapotéčtina",
+      "name_en": "Zapotec"
+    },
+    {
+      "iso_639": "zbl",
+      "nazov_sk": "systém Bliss",
+      "name_en": "Blissymbols"
+    },
+    {
+      "iso_639": "zea",
+      "nazov_sk": "Zeelandic",
+      "name_en": "Zeelandic"
+    },
+    {
+      "iso_639": "zen",
+      "nazov_sk": "zenaga",
+      "name_en": "Zenaga"
+    },
+    {
+      "iso_639": "zgh",
+      "nazov_sk": "tamašek (štandardný marocký)",
+      "name_en": "Standard Moroccan Tamazight"
+    },
+    {
+      "iso_639": "zh",
+      "nazov_sk": "čínština",
+      "name_en": "Chinese"
+    },
+    {
+      "iso_639": "zh_Hans",
+      "nazov_sk": "čínština (zjednodušená)",
+      "name_en": "Simplified Chinese"
+    },
+    {
+      "iso_639": "zh_Hant",
+      "nazov_sk": "čínština (tradičná)",
+      "name_en": "Traditional Chinese"
+    },
+    {
+      "iso_639": "zu",
+      "nazov_sk": "zuluština",
+      "name_en": "Zulu"
+    },
+    {
+      "iso_639": "zun",
+      "nazov_sk": "zuniština",
+      "name_en": "Zuni"
+    },
+    {
+      "iso_639": "zxx",
+      "nazov_sk": "bez jazykového obsahu",
+      "name_en": "No linguistic content"
+    },
+    {
+      "iso_639": "zza",
+      "nazov_sk": "zázá",
+      "name_en": "Zaza"
+    }
+  ],
+  "meta": {
+    "title": "Jazyky sveta - Bezplatné stiahnutie",
+    "description": "Zoznam 609 jazykov sveta s názvami v slovenčine a angličtine. ISO 639 kód pre každý jazyk. Obsahuje 609 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Jazyky sveta | ListBase",
+    "seo_description": "Stiahnuť Jazyky sveta — 609 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 609 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

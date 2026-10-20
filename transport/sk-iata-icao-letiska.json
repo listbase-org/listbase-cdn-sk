@@ -1,0 +1,133 @@
+{
+  "id": "sk-iata-icao-letiska",
+  "name": "IATA/ICAO kódy letísk Slovenska",
+  "title": "IATA/ICAO kódy letísk Slovenska",
+  "description": "Zoznam slovenských letísk s kódmi IATA (3 znaky) a ICAO (4 znaky) podľa databázy IP2Location.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "airport",
+      "label": "Airport",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "country_code": "SK",
+      "region_name": "Banskobystricky kraj",
+      "iata": "LUE",
+      "icao": "LZLU",
+      "airport": "Bolkovce Airport",
+      "latitude": 48.3394,
+      "longitude": 19.7358
+    },
+    {
+      "country_code": "SK",
+      "region_name": "Banskobystricky kraj",
+      "iata": "SLD",
+      "icao": "LZSL",
+      "airport": "Sliac Airport",
+      "latitude": 48.6378,
+      "longitude": 19.1341
+    },
+    {
+      "country_code": "SK",
+      "region_name": "Bratislavsky kraj",
+      "iata": "BTS",
+      "icao": "LZIB",
+      "airport": "M. R. Stefanik Airport",
+      "latitude": 48.1702,
+      "longitude": 17.2127
+    },
+    {
+      "country_code": "SK",
+      "region_name": "Kosicky kraj",
+      "iata": "KSC",
+      "icao": "LZKZ",
+      "airport": "Kosice International Airport",
+      "latitude": 48.6631,
+      "longitude": 21.2411
+    },
+    {
+      "country_code": "SK",
+      "region_name": "Presovsky kraj",
+      "iata": "POV",
+      "icao": "LZPW",
+      "airport": "Presov Air Base",
+      "latitude": 49.0297,
+      "longitude": 21.3156
+    },
+    {
+      "country_code": "SK",
+      "region_name": "Presovsky kraj",
+      "iata": "TAT",
+      "icao": "LZTT",
+      "airport": "Poprad-Tatry Airport",
+      "latitude": 49.0736,
+      "longitude": 20.2411
+    },
+    {
+      "country_code": "SK",
+      "region_name": "Trnavsky kraj",
+      "iata": "PZY",
+      "icao": "LZPP",
+      "airport": "Piestany Airport",
+      "latitude": 48.6252,
+      "longitude": 17.8284
+    },
+    {
+      "country_code": "SK",
+      "region_name": "Zilinsky kraj",
+      "iata": "ILZ",
+      "icao": "LZZI",
+      "airport": "Zilina Airport",
+      "latitude": 49.2315,
+      "longitude": 18.6135
+    }
+  ],
+  "meta": {
+    "title": "IATA/ICAO kódy letísk Slovenska - Bezplatné stiahnutie",
+    "description": "Zoznam slovenských letísk s kódmi IATA (3 znaky) a ICAO (4 znaky) podľa databázy IP2Location. Obsahuje 8 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "IATA/ICAO kódy letísk Slovenska | ListBase",
+    "seo_description": "Stiahnuť IATA/ICAO kódy letísk Slovenska — 8 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 8 záznamov / 7 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

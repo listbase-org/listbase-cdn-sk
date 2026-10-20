@@ -1,0 +1,486 @@
+{
+  "id": "sk-senec-obce",
+  "name": "Obce v okrese Senec",
+  "title": "Obce v okrese Senec",
+  "description": "Všetky obce (municipality) v okrese Senec, Bratislavský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 13,
+      "fullname": "Alžbetin Dvor",
+      "shortname": "Alžbetin Dvor",
+      "zip": "900 42",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 135,
+      "fullname": "Bernolákovo",
+      "shortname": "Bernolákovo",
+      "zip": "900 27",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 169,
+      "fullname": "Blatné",
+      "shortname": "Blatné",
+      "zip": "900 82",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 191,
+      "fullname": "Bodov",
+      "shortname": "Bodov",
+      "zip": "903 01",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 213,
+      "fullname": "Boldog",
+      "shortname": "Boldog",
+      "zip": "925 26",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 1178,
+      "fullname": "Chorvátsky Grob",
+      "shortname": "Chorvátsky Grob",
+      "zip": "900 25",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 529,
+      "fullname": "Dedinka pri Dunaji",
+      "shortname": "Dedinka pri Dunaji",
+      "zip": "900 29",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 677,
+      "fullname": "Doma",
+      "shortname": "Doma",
+      "zip": "900 44",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 751,
+      "fullname": "Dunajská Lužná",
+      "shortname": "Dunajská Lužná",
+      "zip": "900 42",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 887,
+      "fullname": "Hamuliakovo",
+      "shortname": "Hamuliakovo",
+      "zip": "900 43",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 1123,
+      "fullname": "Hrubá Borša",
+      "shortname": "Hrubá Borša",
+      "zip": "925 23",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 1128,
+      "fullname": "Hrubý Šúr",
+      "shortname": "Hrubý Šúr",
+      "zip": "903 01",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 1149,
+      "fullname": "Hurbanova Ves",
+      "shortname": "Hurbanova Ves",
+      "zip": "903 01",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 1204,
+      "fullname": "Igram",
+      "shortname": "Igram",
+      "zip": "900 84",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 1231,
+      "fullname": "Ivanka pri Dunaji",
+      "shortname": "Ivanka pri Dunaji",
+      "zip": "900 28",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 1275,
+      "fullname": "Jánošíková",
+      "shortname": "Jánošíková",
+      "zip": "900 42",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 1352,
+      "fullname": "Kalinkovo",
+      "shortname": "Kalinkovo",
+      "zip": "900 43",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 1388,
+      "fullname": "Kaplna",
+      "shortname": "Kaplna",
+      "zip": "900 84",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 1552,
+      "fullname": "Kostolná pri Dunaji",
+      "shortname": "Kostolná pri Dunaji",
+      "zip": "903 01",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 1635,
+      "fullname": "Kráľová pri Senci",
+      "shortname": "Kráľová pri Senci",
+      "zip": "900 50",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2082,
+      "fullname": "Malinovo",
+      "shortname": "Malinovo",
+      "zip": "900 45",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2086,
+      "fullname": "Malý Biel",
+      "shortname": "Malý Biel",
+      "zip": "900 24",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2099,
+      "fullname": "Malý Madaras",
+      "shortname": "Malý Madaras",
+      "zip": "900 44",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2197,
+      "fullname": "Miloslavov",
+      "shortname": "Miloslavov",
+      "zip": "900 42",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2255,
+      "fullname": "Most pri Bratislave",
+      "shortname": "Most pri Bratislave",
+      "zip": "900 46",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2400,
+      "fullname": "Nová Dedinka",
+      "shortname": "Nová Dedinka",
+      "zip": "900 29",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2406,
+      "fullname": "Nová Lipnica",
+      "shortname": "Nová Lipnica",
+      "zip": "900 42",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2420,
+      "fullname": "Nová Ves pri Dunaji",
+      "shortname": "Nová Ves pri Dunaji",
+      "zip": "900 29",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2427,
+      "fullname": "Nové Košariská",
+      "shortname": "Nové Košariská",
+      "zip": "900 42",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2444,
+      "fullname": "Nový Svet",
+      "shortname": "Nový Svet",
+      "zip": "903 01",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2949,
+      "fullname": "Reca (ostatné čísla)",
+      "shortname": "Reca (ostatné čísla)",
+      "zip": "925 26",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2948,
+      "fullname": "Reca (č. 380,381,383,384))",
+      "shortname": "Reca (č. 380,381,383",
+      "zip": "903 01",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 3001,
+      "fullname": "Rovinka",
+      "shortname": "Rovinka",
+      "zip": "900 41",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 3111,
+      "fullname": "Senec",
+      "shortname": "Senec",
+      "zip": "903 01",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 3321,
+      "fullname": "Studené",
+      "shortname": "Studené",
+      "zip": "900 46",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2120,
+      "fullname": "Svätý Martin",
+      "shortname": "Svätý Martin",
+      "zip": "903 01",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 3552,
+      "fullname": "Tomášov",
+      "shortname": "Tomášov",
+      "zip": "900 44",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 3643,
+      "fullname": "Tureň",
+      "shortname": "Tureň",
+      "zip": "903 01",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 3815,
+      "fullname": "Veľký Biel",
+      "shortname": "Veľký Biel",
+      "zip": "900 24",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 3908,
+      "fullname": "Vlky",
+      "shortname": "Vlky",
+      "zip": "900 44",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 4057,
+      "fullname": "Zálesie",
+      "shortname": "Zálesie",
+      "zip": "900 28",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 429,
+      "fullname": "Čataj",
+      "shortname": "Čataj",
+      "zip": "900 83",
+      "district_id": 57,
+      "okres": "Senec",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Senec - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Senec, Bratislavský kraj — s PSČ a kódom okresu. Obsahuje 42 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Senec | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Senec — 42 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 42 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

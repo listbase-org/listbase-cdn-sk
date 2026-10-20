@@ -1,0 +1,1626 @@
+{
+  "id": "sk-hrebene",
+  "name": "Hrebene",
+  "title": "Hrebene",
+  "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (natural=ridge). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 317,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Radové skaly",
+      "latitude": 49.212067,
+      "longitude": 19.635881
+    },
+    {
+      "name": "Poludnica",
+      "latitude": 49.216613,
+      "longitude": 19.607166
+    },
+    {
+      "name": "Komorovskô",
+      "latitude": 49.21642,
+      "longitude": 19.649638
+    },
+    {
+      "name": "Veľký bok",
+      "latitude": 49.215098,
+      "longitude": 19.661751
+    },
+    {
+      "name": "Príslop",
+      "latitude": 49.226217,
+      "longitude": 19.670302
+    },
+    {
+      "name": "Príslop",
+      "latitude": 49.22529,
+      "longitude": 19.663353
+    },
+    {
+      "name": "Holáne",
+      "latitude": 49.225671,
+      "longitude": 19.676297
+    },
+    {
+      "name": "Brezovček",
+      "latitude": 49.210611,
+      "longitude": 19.664284
+    },
+    {
+      "name": "Grúnik",
+      "latitude": 49.18595,
+      "longitude": 19.476312
+    },
+    {
+      "name": "Grúnik",
+      "latitude": 49.188705,
+      "longitude": 19.477502
+    },
+    {
+      "name": "Hrbáče",
+      "latitude": 49.162961,
+      "longitude": 19.497591
+    },
+    {
+      "name": "Brehučná",
+      "latitude": 49.159424,
+      "longitude": 19.494401
+    },
+    {
+      "name": "Košútová",
+      "latitude": 49.172138,
+      "longitude": 19.495296
+    },
+    {
+      "name": "Sokol",
+      "latitude": 49.175486,
+      "longitude": 19.494642
+    },
+    {
+      "name": "Grúň Dobošovo",
+      "latitude": 49.182897,
+      "longitude": 19.591934
+    },
+    {
+      "name": "Kamenný grúň",
+      "latitude": 49.186043,
+      "longitude": 19.592955
+    },
+    {
+      "name": "Suchý grúň",
+      "latitude": 49.198859,
+      "longitude": 19.611429
+    },
+    {
+      "name": "Klin",
+      "latitude": 49.193314,
+      "longitude": 19.626173
+    },
+    {
+      "name": "Kozub",
+      "latitude": 49.20224,
+      "longitude": 19.610523
+    },
+    {
+      "name": "Prostredný grúň",
+      "latitude": 49.198915,
+      "longitude": 19.617103
+    },
+    {
+      "name": "Veľký bok",
+      "latitude": 49.21017,
+      "longitude": 19.620967
+    },
+    {
+      "name": "Homôlka",
+      "latitude": 49.205673,
+      "longitude": 19.613969
+    },
+    {
+      "name": "Lučívník grúň",
+      "latitude": 49.202408,
+      "longitude": 19.617276
+    },
+    {
+      "name": "Paroh",
+      "latitude": 49.202132,
+      "longitude": 19.622853
+    },
+    {
+      "name": "Pod Parohom",
+      "latitude": 49.201103,
+      "longitude": 19.612029
+    },
+    {
+      "name": "Ľadový briežok",
+      "latitude": 49.210043,
+      "longitude": 19.604898
+    },
+    {
+      "name": "Grúň Jamešovec",
+      "latitude": 49.186444,
+      "longitude": 19.609301
+    },
+    {
+      "name": "Mládzovie úplaz",
+      "latitude": 49.187946,
+      "longitude": 19.605103
+    },
+    {
+      "name": "Dlhý grúň",
+      "latitude": 49.195839,
+      "longitude": 19.622197
+    },
+    {
+      "name": "Grúň vo Vrátoch",
+      "latitude": 49.190131,
+      "longitude": 19.630619
+    },
+    {
+      "name": "Rovne",
+      "latitude": 49.18826,
+      "longitude": 19.620257
+    },
+    {
+      "name": "Kozí chrbát",
+      "latitude": 49.190966,
+      "longitude": 19.610769
+    },
+    {
+      "name": "Rígeľ",
+      "latitude": 49.18458,
+      "longitude": 19.636732
+    },
+    {
+      "name": "Nárožie",
+      "latitude": 49.188192,
+      "longitude": 19.64602
+    },
+    {
+      "name": "Razstocha",
+      "latitude": 49.208136,
+      "longitude": 19.655755
+    },
+    {
+      "name": "Lysec",
+      "latitude": 49.208134,
+      "longitude": 19.678755
+    },
+    {
+      "name": "Klin",
+      "latitude": 49.202714,
+      "longitude": 19.666331
+    },
+    {
+      "name": "Bučkový žľab",
+      "latitude": 49.184854,
+      "longitude": 19.665146
+    },
+    {
+      "name": "Hrubô",
+      "latitude": 49.184499,
+      "longitude": 19.668945
+    },
+    {
+      "name": "Prašivá",
+      "latitude": 49.186721,
+      "longitude": 19.671176
+    },
+    {
+      "name": "Parichost",
+      "latitude": 49.193628,
+      "longitude": 19.682998
+    },
+    {
+      "name": "Grúnik",
+      "latitude": 49.191612,
+      "longitude": 19.676867
+    },
+    {
+      "name": "Nemce",
+      "latitude": 49.190162,
+      "longitude": 19.63739
+    },
+    {
+      "name": "Žiarce",
+      "latitude": 49.172865,
+      "longitude": 19.58233
+    },
+    {
+      "name": "Pálenica",
+      "latitude": 49.174285,
+      "longitude": 19.599399
+    },
+    {
+      "name": "Hrachovisko",
+      "latitude": 49.169143,
+      "longitude": 19.59818
+    },
+    {
+      "name": "Pálenica",
+      "latitude": 49.177389,
+      "longitude": 19.600741
+    },
+    {
+      "name": "Sedlo",
+      "latitude": 49.179083,
+      "longitude": 19.609651
+    },
+    {
+      "name": "Grúň Máleník",
+      "latitude": 49.181355,
+      "longitude": 19.607174
+    },
+    {
+      "name": "Hlaholec",
+      "latitude": 49.169876,
+      "longitude": 19.60399
+    },
+    {
+      "name": "Straz",
+      "latitude": 49.179926,
+      "longitude": 19.622093
+    },
+    {
+      "name": "Rígeľ",
+      "latitude": 49.170548,
+      "longitude": 19.645127
+    },
+    {
+      "name": "Boroviny",
+      "latitude": 49.169988,
+      "longitude": 19.62334
+    },
+    {
+      "name": "Holý bok",
+      "latitude": 49.179899,
+      "longitude": 19.629967
+    },
+    {
+      "name": "Na grúni",
+      "latitude": 49.165132,
+      "longitude": 19.651753
+    },
+    {
+      "name": "Na grúni",
+      "latitude": 49.174061,
+      "longitude": 19.665076
+    },
+    {
+      "name": "Volkovisko",
+      "latitude": 49.180524,
+      "longitude": 19.669241
+    },
+    {
+      "name": "Kliny",
+      "latitude": 49.179368,
+      "longitude": 19.663907
+    },
+    {
+      "name": "Kliny",
+      "latitude": 49.178957,
+      "longitude": 19.667369
+    },
+    {
+      "name": "Kamenný grúň",
+      "latitude": 49.17634,
+      "longitude": 19.676046
+    },
+    {
+      "name": "Rázochy",
+      "latitude": 49.174506,
+      "longitude": 19.67737
+    },
+    {
+      "name": "Hoľa",
+      "latitude": 49.180252,
+      "longitude": 19.685919
+    },
+    {
+      "name": "Grúň",
+      "latitude": 49.169305,
+      "longitude": 19.670279
+    },
+    {
+      "name": "Grúň",
+      "latitude": 49.167269,
+      "longitude": 19.663362
+    },
+    {
+      "name": "Máleník",
+      "latitude": 49.168099,
+      "longitude": 19.661255
+    },
+    {
+      "name": "Zapač",
+      "latitude": 49.169019,
+      "longitude": 19.680149
+    },
+    {
+      "name": "Piesky",
+      "latitude": 49.167124,
+      "longitude": 19.680865
+    },
+    {
+      "name": "Piesky",
+      "latitude": 49.165751,
+      "longitude": 19.676036
+    },
+    {
+      "name": "Piesky",
+      "latitude": 49.165438,
+      "longitude": 19.669226
+    },
+    {
+      "name": "Trstan grúň",
+      "latitude": 49.161707,
+      "longitude": 19.673193
+    },
+    {
+      "name": "Šmykovnica",
+      "latitude": 49.163592,
+      "longitude": 19.669031
+    },
+    {
+      "name": "Grúnik",
+      "latitude": 49.160475,
+      "longitude": 19.68226
+    },
+    {
+      "name": "Smrekovec",
+      "latitude": 49.160124,
+      "longitude": 19.674647
+    },
+    {
+      "name": "Pálenica",
+      "latitude": 49.154035,
+      "longitude": 19.685791
+    },
+    {
+      "name": "Dolnanské skálie",
+      "latitude": 49.071617,
+      "longitude": 18.546032
+    },
+    {
+      "name": "Richtárske skálie",
+      "latitude": 49.077039,
+      "longitude": 18.554002
+    },
+    {
+      "name": "Šaračníky",
+      "latitude": 49.147592,
+      "longitude": 18.853589
+    },
+    {
+      "name": "Havran",
+      "latitude": 49.135836,
+      "longitude": 19.19307
+    },
+    {
+      "name": "Poločná stráňa",
+      "latitude": 49.108864,
+      "longitude": 19.2246
+    },
+    {
+      "name": "Starý grúň",
+      "latitude": 49.11077,
+      "longitude": 19.222906
+    },
+    {
+      "name": "Čulý grúň",
+      "latitude": 49.113256,
+      "longitude": 19.265192
+    },
+    {
+      "name": "Kozie chrbty",
+      "latitude": 49.122473,
+      "longitude": 19.29991
+    },
+    {
+      "name": "Milané grúň",
+      "latitude": 49.072845,
+      "longitude": 19.116216
+    },
+    {
+      "name": "grúň",
+      "latitude": 49.084492,
+      "longitude": 19.214294
+    },
+    {
+      "name": "Červený grúň",
+      "latitude": 49.077471,
+      "longitude": 19.187311
+    },
+    {
+      "name": "Stupecký grúň",
+      "latitude": 49.079527,
+      "longitude": 19.179419
+    },
+    {
+      "name": "Mních",
+      "latitude": 49.086156,
+      "longitude": 19.323688
+    },
+    {
+      "name": "Bobčovisko",
+      "latitude": 49.039293,
+      "longitude": 19.247206
+    },
+    {
+      "name": "Magura",
+      "latitude": 49.065715,
+      "longitude": 19.204994
+    },
+    {
+      "name": "Príkro",
+      "latitude": 49.042279,
+      "longitude": 19.29194
+    },
+    {
+      "name": "Počtalovo",
+      "latitude": 49.040487,
+      "longitude": 19.252707
+    },
+    {
+      "name": "Suroviny",
+      "latitude": 49.045501,
+      "longitude": 19.252817
+    },
+    {
+      "name": "Stanovie grúň",
+      "latitude": 49.059411,
+      "longitude": 19.256222
+    },
+    {
+      "name": "Brdo",
+      "latitude": 49.055012,
+      "longitude": 19.25082
+    },
+    {
+      "name": "Jastrabia Magura",
+      "latitude": 49.13741,
+      "longitude": 19.364865
+    },
+    {
+      "name": "Zbidov",
+      "latitude": 49.14524,
+      "longitude": 19.411947
+    },
+    {
+      "name": "Stanikov grúň",
+      "latitude": 49.146964,
+      "longitude": 19.423911
+    },
+    {
+      "name": "Konislav",
+      "latitude": 49.106238,
+      "longitude": 19.349965
+    },
+    {
+      "name": "Háje",
+      "latitude": 49.068501,
+      "longitude": 19.517381
+    },
+    {
+      "name": "Stráňa",
+      "latitude": 49.042745,
+      "longitude": 19.600991
+    },
+    {
+      "name": "Starý háj",
+      "latitude": 49.038918,
+      "longitude": 19.647453
+    },
+    {
+      "name": "Dlhý grúň",
+      "latitude": 49.011099,
+      "longitude": 19.118738
+    },
+    {
+      "name": "Ostredkový grúň",
+      "latitude": 48.998384,
+      "longitude": 19.106303
+    },
+    {
+      "name": "Pitvorec",
+      "latitude": 49.033968,
+      "longitude": 19.234526
+    },
+    {
+      "name": "Mikušov grúň",
+      "latitude": 49.034869,
+      "longitude": 19.24763
+    },
+    {
+      "name": "Papiernička",
+      "latitude": 49.019416,
+      "longitude": 19.268996
+    },
+    {
+      "name": "Ziemky",
+      "latitude": 49.03344,
+      "longitude": 19.279549
+    },
+    {
+      "name": "Zásac",
+      "latitude": 49.035997,
+      "longitude": 19.273391
+    },
+    {
+      "name": "Nad Dieravskou",
+      "latitude": 49.034072,
+      "longitude": 19.256616
+    },
+    {
+      "name": "Pulčíkovo",
+      "latitude": 49.009665,
+      "longitude": 19.25683
+    },
+    {
+      "name": "Pulčíkovo",
+      "latitude": 49.016322,
+      "longitude": 19.248136
+    },
+    {
+      "name": "Rovný Diel",
+      "latitude": 49.030672,
+      "longitude": 19.286848
+    },
+    {
+      "name": "Prostredný grúň",
+      "latitude": 48.994378,
+      "longitude": 19.237125
+    },
+    {
+      "name": "Perušín",
+      "latitude": 49.00879,
+      "longitude": 19.173186
+    },
+    {
+      "name": "Dvoriská",
+      "latitude": 48.985875,
+      "longitude": 19.177016
+    },
+    {
+      "name": "Grúň",
+      "latitude": 48.988187,
+      "longitude": 19.328027
+    },
+    {
+      "name": "Čierny kameň",
+      "latitude": 48.9338,
+      "longitude": 19.141716
+    },
+    {
+      "name": "Hrubý grúň",
+      "latitude": 48.949065,
+      "longitude": 19.145689
+    },
+    {
+      "name": "Krátky grúň",
+      "latitude": 48.943369,
+      "longitude": 19.146654
+    },
+    {
+      "name": "Studený úplaz",
+      "latitude": 48.934778,
+      "longitude": 19.102277
+    },
+    {
+      "name": "Tomčíková",
+      "latitude": 48.942867,
+      "longitude": 19.130878
+    },
+    {
+      "name": "Červený grúň",
+      "latitude": 48.939599,
+      "longitude": 19.109281
+    },
+    {
+      "name": "Grúň",
+      "latitude": 48.939688,
+      "longitude": 19.16013
+    },
+    {
+      "name": "Horanov grúň",
+      "latitude": 48.978664,
+      "longitude": 19.234062
+    },
+    {
+      "name": "Žiare",
+      "latitude": 48.952253,
+      "longitude": 19.166706
+    },
+    {
+      "name": "Tichô",
+      "latitude": 48.975703,
+      "longitude": 19.290281
+    },
+    {
+      "name": "Magura",
+      "latitude": 48.976517,
+      "longitude": 19.335133
+    },
+    {
+      "name": "Prostredný grúň",
+      "latitude": 49.012677,
+      "longitude": 19.36105
+    },
+    {
+      "name": "Brdo",
+      "latitude": 48.986545,
+      "longitude": 19.340154
+    },
+    {
+      "name": "Uplazy",
+      "latitude": 48.996381,
+      "longitude": 19.357968
+    },
+    {
+      "name": "Slošiar",
+      "latitude": 48.996867,
+      "longitude": 19.38759
+    },
+    {
+      "name": "HREBEŇ",
+      "latitude": 48.995687,
+      "longitude": 19.502267
+    },
+    {
+      "name": "HREBEŇ",
+      "latitude": 48.992463,
+      "longitude": 19.496863
+    },
+    {
+      "name": "Malý Sokol",
+      "latitude": 49.011239,
+      "longitude": 19.578538
+    },
+    {
+      "name": "Veľký Sokol",
+      "latitude": 49.00936,
+      "longitude": 19.576142
+    },
+    {
+      "name": "Úplazy",
+      "latitude": 49.011587,
+      "longitude": 19.541512
+    },
+    {
+      "name": "Orkúhla",
+      "latitude": 49.024521,
+      "longitude": 19.640515
+    },
+    {
+      "name": "Starý háj",
+      "latitude": 49.032837,
+      "longitude": 19.639335
+    },
+    {
+      "name": "Prašivý grúň",
+      "latitude": 49.037026,
+      "longitude": 19.654452
+    },
+    {
+      "name": "Kostolce",
+      "latitude": 48.994444,
+      "longitude": 19.576625
+    },
+    {
+      "name": "Rad",
+      "latitude": 48.999611,
+      "longitude": 19.575209
+    },
+    {
+      "name": "Repiská",
+      "latitude": 48.986813,
+      "longitude": 19.56462
+    },
+    {
+      "name": "Podošva",
+      "latitude": 49.002993,
+      "longitude": 19.549306
+    },
+    {
+      "name": "Rad",
+      "latitude": 49.001089,
+      "longitude": 19.569044
+    },
+    {
+      "name": "Pusté",
+      "latitude": 48.997011,
+      "longitude": 19.606128
+    },
+    {
+      "name": "Magura",
+      "latitude": 48.976189,
+      "longitude": 19.343576
+    },
+    {
+      "name": "Rakytinový grúň",
+      "latitude": 48.965439,
+      "longitude": 19.339592
+    },
+    {
+      "name": "Končiarisko",
+      "latitude": 48.972699,
+      "longitude": 19.376973
+    },
+    {
+      "name": "Úplaz",
+      "latitude": 48.977052,
+      "longitude": 19.505624
+    },
+    {
+      "name": "Brchlia",
+      "latitude": 48.97494,
+      "longitude": 19.503196
+    },
+    {
+      "name": "Kochlaté",
+      "latitude": 48.972506,
+      "longitude": 19.498929
+    },
+    {
+      "name": "Kozí chrbát",
+      "latitude": 48.970582,
+      "longitude": 19.474011
+    },
+    {
+      "name": "Matúšov Grúň",
+      "latitude": 48.965912,
+      "longitude": 19.504597
+    },
+    {
+      "name": "Holárny grúň",
+      "latitude": 48.944158,
+      "longitude": 19.412842
+    },
+    {
+      "name": "Kapustisko",
+      "latitude": 48.933944,
+      "longitude": 19.415306
+    },
+    {
+      "name": "Rovný grúň",
+      "latitude": 48.934377,
+      "longitude": 19.421916
+    },
+    {
+      "name": "Rovný grúň",
+      "latitude": 48.926825,
+      "longitude": 19.418339
+    },
+    {
+      "name": "Hrubý grúň",
+      "latitude": 48.931297,
+      "longitude": 19.337346
+    },
+    {
+      "name": "Ostredok",
+      "latitude": 48.949323,
+      "longitude": 19.509108
+    },
+    {
+      "name": "Klinček",
+      "latitude": 48.936023,
+      "longitude": 19.42626
+    },
+    {
+      "name": "Striebornica",
+      "latitude": 48.938394,
+      "longitude": 19.431696
+    },
+    {
+      "name": "Jelení grúň",
+      "latitude": 48.970937,
+      "longitude": 19.591513
+    },
+    {
+      "name": "Zadná",
+      "latitude": 48.980086,
+      "longitude": 19.560778
+    },
+    {
+      "name": "Roh",
+      "latitude": 48.97474,
+      "longitude": 19.622358
+    },
+    {
+      "name": "Krivý grúň",
+      "latitude": 48.964167,
+      "longitude": 19.622451
+    },
+    {
+      "name": "Salašky",
+      "latitude": 48.950707,
+      "longitude": 19.675738
+    },
+    {
+      "name": "Široká",
+      "latitude": 48.947919,
+      "longitude": 19.613857
+    },
+    {
+      "name": "Kozie chrbty",
+      "latitude": 48.926112,
+      "longitude": 19.640207
+    },
+    {
+      "name": "Lavý pilier",
+      "latitude": 48.936724,
+      "longitude": 19.64264
+    },
+    {
+      "name": "Pravý pilier",
+      "latitude": 48.936861,
+      "longitude": 19.64187
+    },
+    {
+      "name": "Kobyla",
+      "latitude": 48.937274,
+      "longitude": 19.6488
+    },
+    {
+      "name": "Hlava",
+      "latitude": 48.937323,
+      "longitude": 19.653301
+    },
+    {
+      "name": "Baníkov pilier",
+      "latitude": 48.936973,
+      "longitude": 19.648488
+    },
+    {
+      "name": "Ľudárov hrebeň",
+      "latitude": 48.939211,
+      "longitude": 19.638575
+    },
+    {
+      "name": "Cigárky",
+      "latitude": 49.383464,
+      "longitude": 21.092149
+    },
+    {
+      "name": "Ondavské hrbky",
+      "latitude": 49.442408,
+      "longitude": 21.325876
+    },
+    {
+      "name": "Priehyba",
+      "latitude": 49.418735,
+      "longitude": 21.130629
+    },
+    {
+      "name": "Dlhy Diel",
+      "latitude": 49.430302,
+      "longitude": 21.138969
+    },
+    {
+      "name": "Płaziny",
+      "latitude": 49.403879,
+      "longitude": 21.204888
+    },
+    {
+      "name": "Zajči vrch",
+      "latitude": 49.429665,
+      "longitude": 21.374638
+    },
+    {
+      "name": "Varadska Hora",
+      "latitude": 49.410972,
+      "longitude": 21.369006
+    },
+    {
+      "name": "Czeremcha",
+      "latitude": 49.414492,
+      "longitude": 21.462506
+    },
+    {
+      "name": "Radové skaly",
+      "latitude": 49.272976,
+      "longitude": 19.71478
+    },
+    {
+      "name": "Ždiarsky vrch",
+      "latitude": 49.268954,
+      "longitude": 20.21813
+    },
+    {
+      "name": "Predná Spálená",
+      "latitude": 49.21275,
+      "longitude": 19.711891
+    },
+    {
+      "name": "Zadný Salatín",
+      "latitude": 49.21527,
+      "longitude": 19.697372
+    },
+    {
+      "name": "Długi Upłaz",
+      "latitude": 49.225076,
+      "longitude": 19.767155
+    },
+    {
+      "name": "Czerwony Grzbiet",
+      "latitude": 49.239766,
+      "longitude": 19.916941
+    },
+    {
+      "name": "Twardy Grzbiet",
+      "latitude": 49.235219,
+      "longitude": 19.899263
+    },
+    {
+      "name": "Czerwone Wierchy / Červené vrchy",
+      "latitude": 49.233209,
+      "longitude": 19.915355
+    },
+    {
+      "name": "Rozpadlý grúň",
+      "latitude": 49.227732,
+      "longitude": 19.920821
+    },
+    {
+      "name": "Javorový hrebeň",
+      "latitude": 49.231169,
+      "longitude": 19.939824
+    },
+    {
+      "name": "Łopata",
+      "latitude": 49.234141,
+      "longitude": 19.940706
+    },
+    {
+      "name": "Łopata",
+      "latitude": 49.237955,
+      "longitude": 19.945736
+    },
+    {
+      "name": "Suche Czuby Kondrackie",
+      "latitude": 49.232669,
+      "longitude": 19.950177
+    },
+    {
+      "name": "Kozi Grzbiet",
+      "latitude": 49.234674,
+      "longitude": 19.909387
+    },
+    {
+      "name": "Wysoki Grzbiet",
+      "latitude": 49.231999,
+      "longitude": 19.895592
+    },
+    {
+      "name": "Tomanowe Stoły",
+      "latitude": 49.22501,
+      "longitude": 19.904545
+    },
+    {
+      "name": "Jaferowy Grzbiet",
+      "latitude": 49.21443,
+      "longitude": 19.868062
+    },
+    {
+      "name": "Pośredni Smreczyński Grzbiet",
+      "latitude": 49.212737,
+      "longitude": 19.88373
+    },
+    {
+      "name": "Zadni Smreczyński Grzbiet",
+      "latitude": 49.216692,
+      "longitude": 19.889419
+    },
+    {
+      "name": "Kondratowy Wierch",
+      "latitude": 49.237674,
+      "longitude": 19.958806
+    },
+    {
+      "name": "Pólnocny filar",
+      "latitude": 49.221121,
+      "longitude": 20.007652
+    },
+    {
+      "name": "Prostredný grúň",
+      "latitude": 49.192916,
+      "longitude": 19.733411
+    },
+    {
+      "name": "Jazerný vrch",
+      "latitude": 49.201056,
+      "longitude": 19.766014
+    },
+    {
+      "name": "Nohavice",
+      "latitude": 49.193604,
+      "longitude": 19.740508
+    },
+    {
+      "name": "Kozie chrbty",
+      "latitude": 49.183083,
+      "longitude": 19.697739
+    },
+    {
+      "name": "Do Stien",
+      "latitude": 49.187683,
+      "longitude": 19.746107
+    },
+    {
+      "name": "Príkre",
+      "latitude": 49.190474,
+      "longitude": 19.714961
+    },
+    {
+      "name": "Skiniarky",
+      "latitude": 49.208531,
+      "longitude": 19.699826
+    },
+    {
+      "name": "Zadna Spálená",
+      "latitude": 49.209244,
+      "longitude": 19.713992
+    },
+    {
+      "name": "Závrtatček",
+      "latitude": 49.198149,
+      "longitude": 19.699686
+    },
+    {
+      "name": "Kopy",
+      "latitude": 49.198677,
+      "longitude": 19.692281
+    },
+    {
+      "name": "Medzi vodami",
+      "latitude": 49.18399,
+      "longitude": 19.724667
+    },
+    {
+      "name": "Tri Roháče",
+      "latitude": 49.200004,
+      "longitude": 19.727783
+    },
+    {
+      "name": "Nohavice",
+      "latitude": 49.1965,
+      "longitude": 19.73905
+    },
+    {
+      "name": "Holička",
+      "latitude": 49.196924,
+      "longitude": 19.745084
+    },
+    {
+      "name": "Babi Grzbiet",
+      "latitude": 49.199485,
+      "longitude": 19.858834
+    },
+    {
+      "name": "Otrhance",
+      "latitude": 49.188899,
+      "longitude": 19.796578
+    },
+    {
+      "name": "Lakeť",
+      "latitude": 49.165437,
+      "longitude": 19.71861
+    },
+    {
+      "name": "Trsťan grúň",
+      "latitude": 49.170672,
+      "longitude": 19.69149
+    },
+    {
+      "name": "Širokô",
+      "latitude": 49.178457,
+      "longitude": 19.694282
+    },
+    {
+      "name": "Štít",
+      "latitude": 49.154975,
+      "longitude": 19.694158
+    },
+    {
+      "name": "Kečka",
+      "latitude": 49.170445,
+      "longitude": 19.697884
+    },
+    {
+      "name": "Záhradová",
+      "latitude": 49.153013,
+      "longitude": 19.701211
+    },
+    {
+      "name": "Vŕšok",
+      "latitude": 49.180943,
+      "longitude": 19.718452
+    },
+    {
+      "name": "Kečky",
+      "latitude": 49.162211,
+      "longitude": 19.728179
+    },
+    {
+      "name": "Láclav",
+      "latitude": 49.156242,
+      "longitude": 19.723565
+    },
+    {
+      "name": "Bystrô",
+      "latitude": 49.174084,
+      "longitude": 19.731168
+    },
+    {
+      "name": "Hrebeň Hlina",
+      "latitude": 49.185531,
+      "longitude": 19.877645
+    },
+    {
+      "name": "Dolinczański Grzbiet",
+      "latitude": 49.205591,
+      "longitude": 19.864988
+    },
+    {
+      "name": "Hlinský hrebeň",
+      "latitude": 49.196041,
+      "longitude": 19.904984
+    },
+    {
+      "name": "Skrajny Smreczyński Grzbiet",
+      "latitude": 49.207993,
+      "longitude": 19.878359
+    },
+    {
+      "name": "Prostredný chrbát",
+      "latitude": 49.18569,
+      "longitude": 20.034706
+    },
+    {
+      "name": "Liptovské kopy",
+      "latitude": 49.19699,
+      "longitude": 19.984345
+    },
+    {
+      "name": "Liptovské múry / Liptowskie Mury",
+      "latitude": 49.198488,
+      "longitude": 20.035442
+    },
+    {
+      "name": "Kotolnica / Kotelnica",
+      "latitude": 49.202715,
+      "longitude": 20.020691
+    },
+    {
+      "name": "Magura",
+      "latitude": 49.204633,
+      "longitude": 19.969044
+    },
+    {
+      "name": "Hrubé",
+      "latitude": 49.174216,
+      "longitude": 20.016853
+    },
+    {
+      "name": "Kozí chrbát",
+      "latitude": 49.15532,
+      "longitude": 20.021392
+    },
+    {
+      "name": "Zadný handel",
+      "latitude": 49.155599,
+      "longitude": 20.000968
+    },
+    {
+      "name": "Predný handel",
+      "latitude": 49.155969,
+      "longitude": 19.996701
+    },
+    {
+      "name": "Štefanov predel",
+      "latitude": 49.241791,
+      "longitude": 20.176835
+    },
+    {
+      "name": "Rogová",
+      "latitude": 49.260073,
+      "longitude": 20.149821
+    },
+    {
+      "name": "Úplazky",
+      "latitude": 49.217782,
+      "longitude": 20.110705
+    },
+    {
+      "name": "Opalone",
+      "latitude": 49.217311,
+      "longitude": 20.07092
+    },
+    {
+      "name": "Hrebeň Sviniariek",
+      "latitude": 49.211696,
+      "longitude": 20.195754
+    },
+    {
+      "name": "hrebeň Jahnecov",
+      "latitude": 49.224868,
+      "longitude": 20.196777
+    },
+    {
+      "name": "Hrebeň Sviniariek",
+      "latitude": 49.213835,
+      "longitude": 20.188584
+    },
+    {
+      "name": "Karbunkulový hrebeň",
+      "latitude": 49.21223,
+      "longitude": 20.206387
+    },
+    {
+      "name": "Kopiniarky",
+      "latitude": 49.212391,
+      "longitude": 20.205735
+    },
+    {
+      "name": "Tokáreň",
+      "latitude": 49.257487,
+      "longitude": 20.282654
+    },
+    {
+      "name": "Hlúpy klin",
+      "latitude": 49.2401,
+      "longitude": 20.220822
+    },
+    {
+      "name": "Kozí klin",
+      "latitude": 49.242755,
+      "longitude": 20.23042
+    },
+    {
+      "name": "Grúň",
+      "latitude": 49.2524,
+      "longitude": 20.244219
+    },
+    {
+      "name": "Bednársky Regiel",
+      "latitude": 49.257791,
+      "longitude": 20.235894
+    },
+    {
+      "name": "Dlhý vrch",
+      "latitude": 49.239117,
+      "longitude": 20.288332
+    },
+    {
+      "name": "Kozí chrbát",
+      "latitude": 49.226124,
+      "longitude": 20.285459
+    },
+    {
+      "name": "Margica",
+      "latitude": 49.233801,
+      "longitude": 20.274593
+    },
+    {
+      "name": "Neslov grúň",
+      "latitude": 49.220718,
+      "longitude": 20.29601
+    },
+    {
+      "name": "Apoštoly",
+      "latitude": 49.23021,
+      "longitude": 20.262757
+    },
+    {
+      "name": "Piargový chrbát",
+      "latitude": 49.185426,
+      "longitude": 20.052039
+    },
+    {
+      "name": "Sedem Granatov",
+      "latitude": 49.204033,
+      "longitude": 20.08691
+    },
+    {
+      "name": "Miedziane",
+      "latitude": 49.201376,
+      "longitude": 20.049123
+    },
+    {
+      "name": "Ľadový hrebeň",
+      "latitude": 49.19484,
+      "longitude": 20.185908
+    },
+    {
+      "name": "Ľadový hrebeň",
+      "latitude": 49.191396,
+      "longitude": 20.190757
+    },
+    {
+      "name": "hrebeň Svišťových veží",
+      "latitude": 49.186121,
+      "longitude": 20.137415
+    },
+    {
+      "name": "Suchý hrebeň",
+      "latitude": 49.198265,
+      "longitude": 20.17677
+    },
+    {
+      "name": "Pyšný hrebeň",
+      "latitude": 49.19564,
+      "longitude": 20.206236
+    },
+    {
+      "name": "Hrebeň Javorových veží",
+      "latitude": 49.191426,
+      "longitude": 20.15392
+    },
+    {
+      "name": "Hrebeň Snehových veží",
+      "latitude": 49.206894,
+      "longitude": 20.184117
+    },
+    {
+      "name": "Žltá stena",
+      "latitude": 49.187435,
+      "longitude": 20.197444
+    },
+    {
+      "name": "Popradský hrebeň",
+      "latitude": 49.16504,
+      "longitude": 20.083845
+    },
+    {
+      "name": "Ošarpance",
+      "latitude": 49.169162,
+      "longitude": 20.09737
+    },
+    {
+      "name": "7 Popradských mníchov",
+      "latitude": 49.167434,
+      "longitude": 20.08031
+    },
+    {
+      "name": "Kôprovský chrbát",
+      "latitude": 49.175509,
+      "longitude": 20.052284
+    },
+    {
+      "name": "Gerlachovské spády",
+      "latitude": 49.171031,
+      "longitude": 20.11933
+    },
+    {
+      "name": "Hrebeň litvorových mníchov",
+      "latitude": 49.173238,
+      "longitude": 20.126502
+    },
+    {
+      "name": "Dračí hrebeň",
+      "latitude": 49.167907,
+      "longitude": 20.094059
+    },
+    {
+      "name": "Hrebeň bášt",
+      "latitude": 49.16016,
+      "longitude": 20.054333
+    },
+    {
+      "name": "Hlavná os juhozápadného hrebeňa Ťažkého štítu",
+      "latitude": 49.171345,
+      "longitude": 20.085752
+    },
+    {
+      "name": "Vareškový hrebeň",
+      "latitude": 49.167899,
+      "longitude": 20.172905
+    },
+    {
+      "name": "Svišťový chrbát",
+      "latitude": 49.180259,
+      "longitude": 20.150561
+    },
+    {
+      "name": "Vareškový pilier",
+      "latitude": 49.170828,
+      "longitude": 20.179934
+    },
+    {
+      "name": "Groszov pilier",
+      "latitude": 49.170116,
+      "longitude": 20.188067
+    },
+    {
+      "name": "Oštepy",
+      "latitude": 49.175992,
+      "longitude": 20.212237
+    },
+    {
+      "name": "Prostredný hrebeň",
+      "latitude": 49.181245,
+      "longitude": 20.199859
+    },
+    {
+      "name": "Dromedárov chrbát",
+      "latitude": 49.159462,
+      "longitude": 20.135663
+    },
+    {
+      "name": "Čertov chrbát",
+      "latitude": 49.159558,
+      "longitude": 20.141548
+    },
+    {
+      "name": "Štrbavý hrebeň",
+      "latitude": 49.164236,
+      "longitude": 20.202406
+    },
+    {
+      "name": "Granátový hrebeň",
+      "latitude": 49.168539,
+      "longitude": 20.157296
+    },
+    {
+      "name": "Birkenmajerov pilier",
+      "latitude": 49.167691,
+      "longitude": 20.197276
+    },
+    {
+      "name": "Slavkovský pilier",
+      "latitude": 49.16892,
+      "longitude": 20.193968
+    },
+    {
+      "name": "Folmarský hrebeň",
+      "latitude": 49.208831,
+      "longitude": 20.243708
+    },
+    {
+      "name": "Sedlo",
+      "latitude": 49.150337,
+      "longitude": 19.724319
+    },
+    {
+      "name": "Nad Bytom",
+      "latitude": 49.147904,
+      "longitude": 19.966715
+    },
+    {
+      "name": "Krámce",
+      "latitude": 49.145965,
+      "longitude": 19.989073
+    },
+    {
+      "name": "Pavlov Chrbát",
+      "latitude": 49.144359,
+      "longitude": 20.000242
+    },
+    {
+      "name": "Trigan",
+      "latitude": 49.13313,
+      "longitude": 20.067029
+    },
+    {
+      "name": "Minkowy Grzbiet",
+      "latitude": 49.145474,
+      "longitude": 22.281774
+    },
+    {
+      "name": "Masyw Czoła",
+      "latitude": 49.106693,
+      "longitude": 22.47947
+    },
+    {
+      "name": "Mogury",
+      "latitude": 48.917147,
+      "longitude": 19.148807
+    },
+    {
+      "name": "Ostré Brdá",
+      "latitude": 48.89749,
+      "longitude": 19.119793
+    },
+    {
+      "name": "Dlhý grúň",
+      "latitude": 48.888219,
+      "longitude": 19.093678
+    },
+    {
+      "name": "Nožštek",
+      "latitude": 48.89283,
+      "longitude": 19.090793
+    },
+    {
+      "name": "Bielo",
+      "latitude": 48.908527,
+      "longitude": 19.23711
+    },
+    {
+      "name": "Fukasov grúň",
+      "latitude": 48.90093,
+      "longitude": 19.259816
+    },
+    {
+      "name": "Brezový grúň",
+      "latitude": 48.921611,
+      "longitude": 19.342353
+    },
+    {
+      "name": "Hrubý grúň",
+      "latitude": 48.909498,
+      "longitude": 19.34098
+    },
+    {
+      "name": "Lackov grúň",
+      "latitude": 48.764021,
+      "longitude": 19.101188
+    },
+    {
+      "name": "Tisové skaly",
+      "latitude": 48.37509,
+      "longitude": 17.275715
+    },
+    {
+      "name": "Skerešov",
+      "latitude": 48.43201,
+      "longitude": 18.475078
+    },
+    {
+      "name": "Balvátor Salvátor",
+      "latitude": 48.919811,
+      "longitude": 19.753718
+    },
+    {
+      "name": "Bajerovský grúň",
+      "latitude": 48.913733,
+      "longitude": 19.739231
+    },
+    {
+      "name": "Trojička",
+      "latitude": 48.910293,
+      "longitude": 19.749062
+    },
+    {
+      "name": "Cesta Orlov (Pravy pilier)",
+      "latitude": 48.621134,
+      "longitude": 20.835467
+    },
+    {
+      "name": "Széles-bérc",
+      "latitude": 47.862886,
+      "longitude": 18.815249
+    }
+  ],
+  "meta": {
+    "title": "Hrebene - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (natural=ridge). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84. Obsahuje 317 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Hrebene | ListBase",
+    "seo_description": "Stiahnuť Hrebene — 317 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 317 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

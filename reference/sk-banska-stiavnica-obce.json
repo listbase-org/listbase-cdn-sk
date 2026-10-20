@@ -1,0 +1,306 @@
+{
+  "id": "sk-banska-stiavnica-obce",
+  "name": "Obce v okrese Banská Štiavnica",
+  "title": "Obce v okrese Banská Štiavnica",
+  "description": "Všetky obce (municipality) v okrese Banská Štiavnica, Banskobystrický kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 65,
+      "fullname": "Banky",
+      "shortname": "Banky",
+      "zip": "969 01",
+      "district_id": 3,
+      "okres": "Banská Štiavnica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 72,
+      "fullname": "Banská Belá",
+      "shortname": "Banská Belá",
+      "zip": "966 15",
+      "district_id": 3,
+      "okres": "Banská Štiavnica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 75,
+      "fullname": "Banská Štiavnica",
+      "shortname": "Banská Štiavnica",
+      "zip": 0,
+      "district_id": 3,
+      "okres": "Banská Štiavnica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 77,
+      "fullname": "Banský Studenec",
+      "shortname": "Banský Studenec",
+      "zip": "969 01",
+      "district_id": 3,
+      "okres": "Banská Štiavnica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 45,
+      "fullname": "Baďan",
+      "shortname": "Baďan",
+      "zip": "969 01",
+      "district_id": 3,
+      "okres": "Banská Štiavnica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 118,
+      "fullname": "Beluj",
+      "shortname": "Beluj",
+      "zip": "969 01",
+      "district_id": 3,
+      "okres": "Banská Štiavnica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 532,
+      "fullname": "Dekýš",
+      "shortname": "Dekýš",
+      "zip": "969 01",
+      "district_id": 3,
+      "okres": "Banská Štiavnica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1214,
+      "fullname": "Ilija",
+      "shortname": "Ilija",
+      "zip": "969 01",
+      "district_id": 3,
+      "okres": "Banská Štiavnica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1436,
+      "fullname": "Klastava",
+      "shortname": "Klastava",
+      "zip": "969 01",
+      "district_id": 3,
+      "okres": "Banská Štiavnica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1612,
+      "fullname": "Kozelník",
+      "shortname": "Kozelník",
+      "zip": "966 15",
+      "district_id": 3,
+      "okres": "Banská Štiavnica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1756,
+      "fullname": "Kysihýbel",
+      "shortname": "Kysihýbel",
+      "zip": "969 01",
+      "district_id": 3,
+      "okres": "Banská Štiavnica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2224,
+      "fullname": "Močiar",
+      "shortname": "Močiar",
+      "zip": "969 82",
+      "district_id": 3,
+      "okres": "Banská Štiavnica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2696,
+      "fullname": "Podhorie",
+      "shortname": "Podhorie",
+      "zip": "969 82",
+      "district_id": 3,
+      "okres": "Banská Štiavnica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2677,
+      "fullname": "Počúvadlianske Jazero",
+      "shortname": "Počúvadl.Jazero",
+      "zip": "969 01",
+      "district_id": 3,
+      "okres": "Banská Štiavnica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2678,
+      "fullname": "Počúvadlo",
+      "shortname": "Počúvadlo",
+      "zip": "969 01",
+      "district_id": 3,
+      "okres": "Banská Štiavnica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2818,
+      "fullname": "Prenčov",
+      "shortname": "Prenčov",
+      "zip": "969 73",
+      "district_id": 3,
+      "okres": "Banská Štiavnica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3064,
+      "fullname": "Rychňava",
+      "shortname": "Rychňava",
+      "zip": "969 01",
+      "district_id": 3,
+      "okres": "Banská Štiavnica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3135,
+      "fullname": "Sitnianska",
+      "shortname": "Sitnianska",
+      "zip": "969 01",
+      "district_id": 3,
+      "okres": "Banská Štiavnica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3354,
+      "fullname": "Svätý Anton",
+      "shortname": "Svätý Anton",
+      "zip": "969 72",
+      "district_id": 3,
+      "okres": "Banská Štiavnica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3524,
+      "fullname": "Teplá",
+      "shortname": "Teplá",
+      "zip": "969 82",
+      "district_id": 3,
+      "okres": "Banská Štiavnica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3973,
+      "fullname": "Vysoká",
+      "shortname": "Vysoká",
+      "zip": "969 01",
+      "district_id": 3,
+      "okres": "Banská Štiavnica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3456,
+      "fullname": "Štefultov",
+      "shortname": "Štefultov",
+      "zip": "969 01",
+      "district_id": 3,
+      "okres": "Banská Štiavnica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3459,
+      "fullname": "Štiavnické Bane",
+      "shortname": "Štiavnické Bane",
+      "zip": "969 81",
+      "district_id": 3,
+      "okres": "Banská Štiavnica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4163,
+      "fullname": "Žakýl",
+      "shortname": "Žakýl",
+      "zip": "969 82",
+      "district_id": 3,
+      "okres": "Banská Štiavnica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Banská Štiavnica - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Banská Štiavnica, Banskobystrický kraj — s PSČ a kódom okresu. Obsahuje 24 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Banská Štiavnica | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Banská Štiavnica — 24 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 24 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

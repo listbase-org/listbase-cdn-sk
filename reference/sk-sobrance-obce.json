@@ -1,0 +1,586 @@
+{
+  "id": "sk-sobrance-obce",
+  "name": "Obce v okrese Sobrance",
+  "title": "Obce v okrese Sobrance",
+  "description": "Všetky obce (municipality) v okrese Sobrance, Košický kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 89,
+      "fullname": "Baškovce",
+      "shortname": "Baškovce",
+      "zip": "073 01",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 124,
+      "fullname": "Beňatina",
+      "shortname": "Beňatina",
+      "zip": "072 64",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 146,
+      "fullname": "Bežovce",
+      "shortname": "Bežovce",
+      "zip": "072 53",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 168,
+      "fullname": "Blatná Polianka",
+      "shortname": "Blatná Polianka",
+      "zip": "072 44",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 170,
+      "fullname": "Blatné Remety",
+      "shortname": "Blatné Remety",
+      "zip": "072 44",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 171,
+      "fullname": "Blatné Revištia",
+      "shortname": "Blatné Revištia",
+      "zip": "072 43",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 350,
+      "fullname": "Bunkovce",
+      "shortname": "Bunkovce",
+      "zip": "072 44",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1176,
+      "fullname": "Choňkovce",
+      "shortname": "Choňkovce",
+      "zip": "072 63",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 784,
+      "fullname": "Fekišovce",
+      "shortname": "Fekišovce",
+      "zip": "072 33",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 808,
+      "fullname": "Gajdoš",
+      "shortname": "Gajdoš",
+      "zip": "072 43",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 940,
+      "fullname": "Hlivištia",
+      "shortname": "Hlivištia",
+      "zip": "073 01",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 971,
+      "fullname": "Horňa",
+      "shortname": "Horňa",
+      "zip": "073 01",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1152,
+      "fullname": "Husák",
+      "shortname": "Husák",
+      "zip": "072 51",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1219,
+      "fullname": "Inovce",
+      "shortname": "Inovce",
+      "zip": "072 64",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1294,
+      "fullname": "Jasenov",
+      "shortname": "Jasenov",
+      "zip": "072 42",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1328,
+      "fullname": "Jenkovce",
+      "shortname": "Jenkovce",
+      "zip": "072 52",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1494,
+      "fullname": "Kolibabovce",
+      "shortname": "Kolibabovce",
+      "zip": "072 61",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1509,
+      "fullname": "Komárovce",
+      "shortname": "Komárovce",
+      "zip": "073 01",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1534,
+      "fullname": "Koromľa",
+      "shortname": "Koromľa",
+      "zip": "072 62",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1521,
+      "fullname": "Koňuš",
+      "shortname": "Koňuš",
+      "zip": "072 63",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1669,
+      "fullname": "Kristy",
+      "shortname": "Kristy",
+      "zip": "072 55",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1664,
+      "fullname": "Krčava",
+      "shortname": "Krčava",
+      "zip": "072 51",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1809,
+      "fullname": "Lekárovce",
+      "shortname": "Lekárovce",
+      "zip": "072 54",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2226,
+      "fullname": "Močidlá",
+      "shortname": "Močidlá",
+      "zip": "072 51",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2360,
+      "fullname": "Nižná Rybnica",
+      "shortname": "Nižná Rybnica",
+      "zip": "073 01",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2370,
+      "fullname": "Nižné Nemecké",
+      "shortname": "Nižné Nemecké",
+      "zip": "072 52",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2522,
+      "fullname": "Orechová",
+      "shortname": "Orechová",
+      "zip": "072 51",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2544,
+      "fullname": "Ostrov",
+      "shortname": "Ostrov",
+      "zip": "072 55",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2629,
+      "fullname": "Petrovce",
+      "shortname": "Petrovce",
+      "zip": "072 62",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2652,
+      "fullname": "Pinkovce",
+      "shortname": "Pinkovce",
+      "zip": "072 54",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2697,
+      "fullname": "Podhoroď",
+      "shortname": "Podhoroď",
+      "zip": "072 64",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2769,
+      "fullname": "Porostov",
+      "shortname": "Porostov",
+      "zip": "072 55",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2774,
+      "fullname": "Porúbka",
+      "shortname": "Porúbka",
+      "zip": "072 61",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2833,
+      "fullname": "Priekopa",
+      "shortname": "Priekopa",
+      "zip": "072 61",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2955,
+      "fullname": "Remetské Hámre",
+      "shortname": "Remetské Hámre",
+      "zip": "072 41",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3046,
+      "fullname": "Ruskovce",
+      "shortname": "Ruskovce",
+      "zip": "072 42",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3037,
+      "fullname": "Ruská Bystrá",
+      "shortname": "Ruská Bystrá",
+      "zip": "072 64",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3048,
+      "fullname": "Ruský Hrabovec",
+      "shortname": "Ruský Hrabovec",
+      "zip": "072 64",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3098,
+      "fullname": "Sejkov",
+      "shortname": "Sejkov",
+      "zip": "072 51",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3217,
+      "fullname": "Sobrance",
+      "shortname": "Sobrance",
+      "zip": "073 01",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3218,
+      "fullname": "Sobranecké Kúpele",
+      "shortname": "Sobranecké Kúpele",
+      "zip": "073 01",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3351,
+      "fullname": "Svätuš",
+      "shortname": "Svätuš",
+      "zip": "072 55",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3505,
+      "fullname": "Tašuľa",
+      "shortname": "Tašuľa",
+      "zip": "072 52",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3540,
+      "fullname": "Tibava",
+      "shortname": "Tibava",
+      "zip": "073 01",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3798,
+      "fullname": "Veľké Revištia",
+      "shortname": "Veľké Revištia",
+      "zip": "072 43",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3917,
+      "fullname": "Vojnatina",
+      "shortname": "Vojnatina",
+      "zip": "072 61",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3994,
+      "fullname": "Vyšná Rybnica",
+      "shortname": "Vyšná Rybnica",
+      "zip": "072 41",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4004,
+      "fullname": "Vyšné Nemecké",
+      "shortname": "Vyšné Nemecké",
+      "zip": "072 51",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4006,
+      "fullname": "Vyšné Remety",
+      "shortname": "Vyšné Remety",
+      "zip": "072 41",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4008,
+      "fullname": "Vyšné Revištia",
+      "shortname": "Vyšné Revištia",
+      "zip": "072 43",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4042,
+      "fullname": "Záhor",
+      "shortname": "Záhor",
+      "zip": "072 53",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3668,
+      "fullname": "Úbrež",
+      "shortname": "Úbrež",
+      "zip": "072 42",
+      "district_id": 61,
+      "okres": "Sobrance",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Sobrance - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Sobrance, Košický kraj — s PSČ a kódom okresu. Obsahuje 52 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Sobrance | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Sobrance — 52 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 52 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

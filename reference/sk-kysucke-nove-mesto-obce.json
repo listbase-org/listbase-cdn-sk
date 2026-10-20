@@ -1,0 +1,266 @@
+{
+  "id": "sk-kysucke-nove-mesto-obce",
+  "name": "Obce v okrese Kysucké Nové Mesto",
+  "title": "Obce v okrese Kysucké Nové Mesto",
+  "description": "Všetky obce (municipality) v okrese Kysucké Nové Mesto, Žilinský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 322,
+      "fullname": "Budatínska Lehota",
+      "shortname": "Budatínska Lehota",
+      "zip": "023 36",
+      "district_id": 29,
+      "okres": "Kysucké Nové Mesto",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 675,
+      "fullname": "Dolný Vadičov",
+      "shortname": "Dolný Vadičov",
+      "zip": "023 45",
+      "district_id": 29,
+      "okres": "Kysucké Nové Mesto",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 710,
+      "fullname": "Dubie",
+      "shortname": "Dubie",
+      "zip": "024 01",
+      "district_id": 29,
+      "okres": "Kysucké Nové Mesto",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1052,
+      "fullname": "Horný Vadičov",
+      "shortname": "Horný Vadičov",
+      "zip": "023 45",
+      "district_id": 29,
+      "okres": "Kysucké Nové Mesto",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1759,
+      "fullname": "Kysucké Nové Mesto",
+      "shortname": "Kysucké Nové Mesto",
+      "zip": 0,
+      "district_id": 29,
+      "okres": "Kysucké Nové Mesto",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1760,
+      "fullname": "Kysucký Lieskovec",
+      "shortname": "Kysucký Lieskovec",
+      "zip": "023 34",
+      "district_id": 29,
+      "okres": "Kysucké Nové Mesto",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1904,
+      "fullname": "Lodno",
+      "shortname": "Lodno",
+      "zip": "023 34",
+      "district_id": 29,
+      "okres": "Kysucké Nové Mesto",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1917,
+      "fullname": "Lopušná",
+      "shortname": "Lopušná",
+      "zip": "023 36",
+      "district_id": 29,
+      "okres": "Kysucké Nové Mesto",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1918,
+      "fullname": "Lopušné Pažite - Lopušná",
+      "shortname": "Lopuš.Pažite-Lopušná",
+      "zip": "023 36",
+      "district_id": 29,
+      "okres": "Kysucké Nové Mesto",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1919,
+      "fullname": "Lopušné Pažite - Pažite",
+      "shortname": "Lopuš.Pažite-Pažite",
+      "zip": "023 36",
+      "district_id": 29,
+      "okres": "Kysucké Nové Mesto",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2324,
+      "fullname": "Nesluša",
+      "shortname": "Nesluša",
+      "zip": "023 41",
+      "district_id": 29,
+      "okres": "Kysucké Nové Mesto",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2464,
+      "fullname": "Ochodnica",
+      "shortname": "Ochodnica",
+      "zip": "023 35",
+      "district_id": 29,
+      "okres": "Kysucké Nové Mesto",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2552,
+      "fullname": "Oškerda",
+      "shortname": "Oškerda",
+      "zip": "023 32",
+      "district_id": 29,
+      "okres": "Kysucké Nové Mesto",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2608,
+      "fullname": "Pažite",
+      "shortname": "Pažite",
+      "zip": "023 36",
+      "district_id": 29,
+      "okres": "Kysucké Nové Mesto",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2794,
+      "fullname": "Povina",
+      "shortname": "Povina",
+      "zip": "023 33",
+      "district_id": 29,
+      "okres": "Kysucké Nové Mesto",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2890,
+      "fullname": "Radoľa",
+      "shortname": "Radoľa",
+      "zip": "023 36",
+      "district_id": 29,
+      "okres": "Kysucké Nové Mesto",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3021,
+      "fullname": "Rudina",
+      "shortname": "Rudina",
+      "zip": "023 31",
+      "district_id": 29,
+      "okres": "Kysucké Nové Mesto",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3022,
+      "fullname": "Rudinka",
+      "shortname": "Rudinka",
+      "zip": "023 31",
+      "district_id": 29,
+      "okres": "Kysucké Nové Mesto",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3023,
+      "fullname": "Rudinská",
+      "shortname": "Rudinská",
+      "zip": "023 31",
+      "district_id": 29,
+      "okres": "Kysucké Nové Mesto",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3210,
+      "fullname": "Snežnica",
+      "shortname": "Snežnica",
+      "zip": "023 32",
+      "district_id": 29,
+      "okres": "Kysucké Nové Mesto",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Kysucké Nové Mesto - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Kysucké Nové Mesto, Žilinský kraj — s PSČ a kódom okresu. Obsahuje 20 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Kysucké Nové Mesto | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Kysucké Nové Mesto — 20 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 20 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

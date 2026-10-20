@@ -1,0 +1,1426 @@
+{
+  "id": "sk-rimavska-sobota-obce",
+  "name": "Obce v okrese Rimavská Sobota",
+  "title": "Obce v okrese Rimavská Sobota",
+  "description": "Všetky obce (municipality) v okrese Rimavská Sobota, Banskobystrický kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 136,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 2,
+      "fullname": "Abovce",
+      "shortname": "Abovce",
+      "zip": "980 44",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 33,
+      "fullname": "Babinec",
+      "shortname": "Babinec",
+      "zip": "980 26",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 56,
+      "fullname": "Bakta",
+      "shortname": "Bakta",
+      "zip": "979 01",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 79,
+      "fullname": "Barca",
+      "shortname": "Barca",
+      "zip": "982 51",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 113,
+      "fullname": "Belín",
+      "shortname": "Belín",
+      "zip": "980 01",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 178,
+      "fullname": "Blhovce",
+      "shortname": "Blhovce",
+      "zip": "980 32",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 235,
+      "fullname": "Bottovo",
+      "shortname": "Bottovo",
+      "zip": "980 41",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 239,
+      "fullname": "Brádno",
+      "shortname": "Brádno",
+      "zip": "982 67",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 325,
+      "fullname": "Budikovany",
+      "shortname": "Budikovany",
+      "zip": "980 23",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 93,
+      "fullname": "Bátka",
+      "shortname": "Bátka",
+      "zip": "980 21",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 381,
+      "fullname": "Cakov",
+      "shortname": "Cakov",
+      "zip": "980 42",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1162,
+      "fullname": "Chanava",
+      "shortname": "Chanava",
+      "zip": "980 44",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1184,
+      "fullname": "Chrámec",
+      "shortname": "Chrámec",
+      "zip": "980 42",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 651,
+      "fullname": "Dolné Zahorany",
+      "shortname": "Dolné Zahorany",
+      "zip": "985 42",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 691,
+      "fullname": "Dražice",
+      "shortname": "Dražice",
+      "zip": "980 23",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 696,
+      "fullname": "Drienčany",
+      "shortname": "Drienčany",
+      "zip": "980 23",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 703,
+      "fullname": "Drňa",
+      "shortname": "Drňa",
+      "zip": "980 03",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 719,
+      "fullname": "Dubno",
+      "shortname": "Dubno",
+      "zip": "980 35",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 728,
+      "fullname": "Dubovec",
+      "shortname": "Dubovec",
+      "zip": "980 41",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 749,
+      "fullname": "Dulovo",
+      "shortname": "Dulovo",
+      "zip": "980 21",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 762,
+      "fullname": "Dúžava",
+      "shortname": "Dúžava",
+      "zip": "979 01",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 786,
+      "fullname": "Figa",
+      "shortname": "Figa",
+      "zip": "982 51",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 828,
+      "fullname": "Gemerské Dechtáre",
+      "shortname": "Gemerské Dechtáre",
+      "zip": "980 04",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 829,
+      "fullname": "Gemerské Michalovce",
+      "shortname": "Gemerské Michalovce",
+      "zip": "982 52",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 831,
+      "fullname": "Gemerský Jablonec",
+      "shortname": "Gemerský Jablonec",
+      "zip": "980 35",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 823,
+      "fullname": "Gemerček",
+      "shortname": "Gemerček",
+      "zip": "980 31",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 848,
+      "fullname": "Gortva",
+      "shortname": "Gortva",
+      "zip": "980 02",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 874,
+      "fullname": "Hajnáčka",
+      "shortname": "Hajnáčka",
+      "zip": "980 33",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 864,
+      "fullname": "Hačava",
+      "shortname": "Hačava",
+      "zip": "981 01",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 947,
+      "fullname": "Hnúšťa",
+      "shortname": "Hnúšťa",
+      "zip": "981 01",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 948,
+      "fullname": "Hodejov",
+      "shortname": "Hodejov",
+      "zip": "980 31",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 949,
+      "fullname": "Hodejovec",
+      "shortname": "Hodejovec",
+      "zip": "980 02",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1033,
+      "fullname": "Horné Zahorany",
+      "shortname": "Horné Zahorany",
+      "zip": "980 26",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1058,
+      "fullname": "Hostice",
+      "shortname": "Hostice",
+      "zip": "980 04",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1060,
+      "fullname": "Hostišovce",
+      "shortname": "Hostišovce",
+      "zip": "980 23",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1092,
+      "fullname": "Hrachovo",
+      "shortname": "Hrachovo",
+      "zip": "980 52",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1105,
+      "fullname": "Hrkáč",
+      "shortname": "Hrkáč",
+      "zip": "982 62",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1134,
+      "fullname": "Hrušovo",
+      "shortname": "Hrušovo",
+      "zip": "980 25",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1140,
+      "fullname": "Hubovo",
+      "shortname": "Hubovo",
+      "zip": "980 50",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1154,
+      "fullname": "Husiná",
+      "shortname": "Husiná",
+      "zip": "985 42",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1229,
+      "fullname": "Ivanice",
+      "shortname": "Ivanice",
+      "zip": "980 42",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1270,
+      "fullname": "Janice",
+      "shortname": "Janice",
+      "zip": "980 42",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1331,
+      "fullname": "Jesenské",
+      "shortname": "Jesenské",
+      "zip": "980 02",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1332,
+      "fullname": "Jestice",
+      "shortname": "Jestice",
+      "zip": "980 04",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1363,
+      "fullname": "Kaloša",
+      "shortname": "Kaloša",
+      "zip": "982 52",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1418,
+      "fullname": "Kesovce",
+      "shortname": "Kesovce",
+      "zip": "980 45",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1444,
+      "fullname": "Klenovec",
+      "shortname": "Klenovec",
+      "zip": "980 55",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1472,
+      "fullname": "Kociha",
+      "shortname": "Kociha",
+      "zip": "980 52",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1517,
+      "fullname": "Konrádovce",
+      "shortname": "Konrádovce",
+      "zip": "980 32",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1645,
+      "fullname": "Kraskovo",
+      "shortname": "Kraskovo",
+      "zip": "980 26",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1696,
+      "fullname": "Krokava",
+      "shortname": "Krokava",
+      "zip": "982 67",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1710,
+      "fullname": "Kružno",
+      "shortname": "Kružno",
+      "zip": "979 01",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1646,
+      "fullname": "Krásna",
+      "shortname": "Krásna",
+      "zip": "980 51",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1626,
+      "fullname": "Kráľ",
+      "shortname": "Kráľ",
+      "zip": "980 45",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1732,
+      "fullname": "Kurinec",
+      "shortname": "Kurinec",
+      "zip": "979 01",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1748,
+      "fullname": "Kyjatice",
+      "shortname": "Kyjatice",
+      "zip": "980 54",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1803,
+      "fullname": "Lehota nad Rimavicou",
+      "shortname": "Lehota nad Rimavicou",
+      "zip": "980 53",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1814,
+      "fullname": "Lenartovce",
+      "shortname": "Lenartovce",
+      "zip": "980 44",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1816,
+      "fullname": "Lenka",
+      "shortname": "Lenka",
+      "zip": "980 50",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1857,
+      "fullname": "Likier",
+      "shortname": "Likier",
+      "zip": "981 01",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1871,
+      "fullname": "Lipovec",
+      "shortname": "Lipovec",
+      "zip": "980 23",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1973,
+      "fullname": "Lukovištia",
+      "shortname": "Lukovištia",
+      "zip": "980 26",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2072,
+      "fullname": "Malé Teriakovce",
+      "shortname": "Malé Teriakovce",
+      "zip": "980 51",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2124,
+      "fullname": "Martinová",
+      "shortname": "Martinová",
+      "zip": "980 41",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2237,
+      "fullname": "Mojín",
+      "shortname": "Mojín",
+      "zip": "979 01",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2322,
+      "fullname": "Neporadza",
+      "shortname": "Neporadza",
+      "zip": "980 45",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2351,
+      "fullname": "Nižná Kaloša",
+      "shortname": "Nižná Kaloša",
+      "zip": "982 52",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2357,
+      "fullname": "Nižná Pokoradz",
+      "shortname": "Nižná Pokoradz",
+      "zip": "979 01",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2374,
+      "fullname": "Nižné Valice",
+      "shortname": "Nižné Valice",
+      "zip": "982 52",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2387,
+      "fullname": "Nižný Skálnik",
+      "shortname": "Nižný Skálnik",
+      "zip": "980 52",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2396,
+      "fullname": "Nová Bašta",
+      "shortname": "Nová Bašta",
+      "zip": "980 34",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2513,
+      "fullname": "Orávka",
+      "shortname": "Orávka",
+      "zip": "980 42",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2542,
+      "fullname": "Ostrany",
+      "shortname": "Ostrany",
+      "zip": "980 26",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2558,
+      "fullname": "Ožďany",
+      "shortname": "Ožďany",
+      "zip": "980 11",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2563,
+      "fullname": "Padarovce",
+      "shortname": "Padarovce",
+      "zip": "980 23",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2576,
+      "fullname": "Papča",
+      "shortname": "Papča",
+      "zip": "980 23",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2604,
+      "fullname": "Pavlovce",
+      "shortname": "Pavlovce",
+      "zip": "980 01",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2631,
+      "fullname": "Petrovce",
+      "shortname": "Petrovce",
+      "zip": "980 35",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2751,
+      "fullname": "Polom",
+      "shortname": "Polom",
+      "zip": "981 01",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2765,
+      "fullname": "Poproč",
+      "shortname": "Poproč",
+      "zip": "982 67",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2782,
+      "fullname": "Potok",
+      "shortname": "Potok",
+      "zip": "982 67",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2888,
+      "fullname": "Radnovce",
+      "shortname": "Radnovce",
+      "zip": "980 42",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2921,
+      "fullname": "Rakytník",
+      "shortname": "Rakytník",
+      "zip": "980 21",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2935,
+      "fullname": "Ratkovská Lehota",
+      "shortname": "Ratkovská Lehota",
+      "zip": "982 65",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2936,
+      "fullname": "Ratkovská Suchá",
+      "shortname": "Ratkovská Suchá",
+      "zip": "982 67",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2937,
+      "fullname": "Ratkovská Zdychava",
+      "shortname": "Ratkovská Zdychava",
+      "zip": "982 67",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2971,
+      "fullname": "Riečka",
+      "shortname": "Riečka",
+      "zip": "980 45",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2977,
+      "fullname": "Rimavská Baňa",
+      "shortname": "Rimavská Baňa",
+      "zip": "980 53",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2978,
+      "fullname": "Rimavská Píla",
+      "shortname": "Rimavská Píla",
+      "zip": "980 61",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2979,
+      "fullname": "Rimavská Seč",
+      "shortname": "Rimavská Seč",
+      "zip": "980 42",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2980,
+      "fullname": "Rimavská Sobota",
+      "shortname": "Rimavská Sobota",
+      "zip": "979 01",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2981,
+      "fullname": "Rimavské Brezovo",
+      "shortname": "Rimavské Brezovo",
+      "zip": "980 54",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2982,
+      "fullname": "Rimavské Janovce",
+      "shortname": "Rimavské Janovce",
+      "zip": "980 01",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2983,
+      "fullname": "Rimavské Zalužany",
+      "shortname": "Rimavské Zalužany",
+      "zip": "980 53",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3006,
+      "fullname": "Rovné",
+      "shortname": "Rovné",
+      "zip": "982 67",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3034,
+      "fullname": "Rumince",
+      "shortname": "Rumince",
+      "zip": "980 50",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3067,
+      "fullname": "Sabová",
+      "shortname": "Sabová",
+      "zip": "979 01",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3183,
+      "fullname": "Slizké",
+      "shortname": "Slizké",
+      "zip": "980 23",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3216,
+      "fullname": "Sobôtka",
+      "shortname": "Sobôtka",
+      "zip": "979 01",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3261,
+      "fullname": "Stará Bašta",
+      "shortname": "Stará Bašta",
+      "zip": "980 34",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3311,
+      "fullname": "Strelnice",
+      "shortname": "Strelnice",
+      "zip": "982 62",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3316,
+      "fullname": "Striežovce",
+      "shortname": "Striežovce",
+      "zip": "980 25",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3293,
+      "fullname": "Stránska",
+      "shortname": "Stránska",
+      "zip": "982 51",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3320,
+      "fullname": "Studená",
+      "shortname": "Studená",
+      "zip": "980 34",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3362,
+      "fullname": "Svetlá",
+      "shortname": "Svetlá",
+      "zip": "980 52",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3347,
+      "fullname": "Sútor",
+      "shortname": "Sútor",
+      "zip": "980 01",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3497,
+      "fullname": "Tachty",
+      "shortname": "Tachty",
+      "zip": "980 34",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3529,
+      "fullname": "Teplý Vrch",
+      "shortname": "Teplý Vrch",
+      "zip": "980 23",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3545,
+      "fullname": "Tisovec",
+      "shortname": "Tisovec",
+      "zip": "980 61",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3553,
+      "fullname": "Tomášovce",
+      "shortname": "Tomášovce",
+      "zip": "980 21",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3695,
+      "fullname": "Uzovská Panica",
+      "shortname": "Uzovská Panica",
+      "zip": "980 22",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3713,
+      "fullname": "Valice",
+      "shortname": "Valice",
+      "zip": "982 52",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3734,
+      "fullname": "Večelkov",
+      "shortname": "Večelkov",
+      "zip": "980 34",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3804,
+      "fullname": "Veľké Teriakovce",
+      "shortname": "Veľké Teriakovce",
+      "zip": "980 51",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3816,
+      "fullname": "Veľký Blh",
+      "shortname": "Veľký Blh",
+      "zip": "980 22",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3860,
+      "fullname": "Vieska nad Blhom",
+      "shortname": "Vieska nad Blhom",
+      "zip": "980 21",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3866,
+      "fullname": "Vinice",
+      "shortname": "Vinice",
+      "zip": "979 01",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3909,
+      "fullname": "Vlkyňa",
+      "shortname": "Vlkyňa",
+      "zip": "980 44",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3940,
+      "fullname": "Vrbovce nad Rimavou",
+      "shortname": "Vrbovce nad Rimavou",
+      "zip": "980 52",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3985,
+      "fullname": "Vyšná Kaloša",
+      "shortname": "Vyšná Kaloša",
+      "zip": "982 52",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3991,
+      "fullname": "Vyšná Pokoradz",
+      "shortname": "Vyšná Pokoradz",
+      "zip": "979 01",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4010,
+      "fullname": "Vyšné Valice",
+      "shortname": "Vyšné Valice",
+      "zip": "982 52",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4025,
+      "fullname": "Vyšný Skálnik",
+      "shortname": "Vyšný Skálnik",
+      "zip": "980 52",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3731,
+      "fullname": "Včelince",
+      "shortname": "Včelince",
+      "zip": "980 50",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3732,
+      "fullname": "Včelinec",
+      "shortname": "Včelinec",
+      "zip": "979 01",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4050,
+      "fullname": "Zacharovce",
+      "shortname": "Zacharovce",
+      "zip": "979 01",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4039,
+      "fullname": "Zádor",
+      "shortname": "Zádor",
+      "zip": "980 42",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 452,
+      "fullname": "Čerenčany",
+      "shortname": "Čerenčany",
+      "zip": "979 01",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 499,
+      "fullname": "Čierny Potok",
+      "shortname": "Čierny Potok",
+      "zip": "980 31",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 507,
+      "fullname": "Číž",
+      "shortname": "Číž",
+      "zip": "980 43",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 508,
+      "fullname": "Číž - kúpele",
+      "shortname": "Číž - kúpele",
+      "zip": "980 43",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3422,
+      "fullname": "Šimonovce",
+      "shortname": "Šimonovce",
+      "zip": "980 03",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3430,
+      "fullname": "Širkovce",
+      "shortname": "Širkovce",
+      "zip": "980 02",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3445,
+      "fullname": "Španie Pole",
+      "shortname": "Španie Pole",
+      "zip": "980 23",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3473,
+      "fullname": "Štrkovec",
+      "shortname": "Štrkovec",
+      "zip": "980 45",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4196,
+      "fullname": "Žíp",
+      "shortname": "Žíp",
+      "zip": "980 21",
+      "district_id": 53,
+      "okres": "Rimavská Sobota",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Rimavská Sobota - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Rimavská Sobota, Banskobystrický kraj — s PSČ a kódom okresu. Obsahuje 136 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Rimavská Sobota | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Rimavská Sobota — 136 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 136 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

@@ -1,0 +1,504 @@
+{
+  "id": "sk-casove-pasma-asia",
+  "name": "Časové pásma — Asia (56)",
+  "title": "Časové pásma — Asia (56)",
+  "description": "Časové pásma, ktorých identifikátor IANA sa začína 'Asia/', s názvami v slovenčine.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "mesto",
+      "label": "Mesto",
+      "type": "string"
+    },
+    {
+      "key": "standardny_nazov",
+      "label": "Standardny Nazov",
+      "type": "string"
+    },
+    {
+      "key": "letny_nazov",
+      "label": "Letny Nazov",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Asia/Almaty",
+      "oblast": "Asia",
+      "mesto": "Alma‑Ata",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Asia/Amman",
+      "oblast": "Asia",
+      "mesto": "Ammán",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Asia/Aqtau",
+      "oblast": "Asia",
+      "mesto": "Aktau",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Asia/Aqtobe",
+      "oblast": "Asia",
+      "mesto": "Aktobe",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Asia/Ashgabat",
+      "oblast": "Asia",
+      "mesto": "Ašchabad",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Asia/Baghdad",
+      "oblast": "Asia",
+      "mesto": "Bagdad",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Asia/Bahrain",
+      "oblast": "Asia",
+      "mesto": "Bahrajn",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Asia/Beirut",
+      "oblast": "Asia",
+      "mesto": "Bejrút",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Asia/Bishkek",
+      "oblast": "Asia",
+      "mesto": "Biškek",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Asia/Brunei",
+      "oblast": "Asia",
+      "mesto": "Brunej",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Asia/Calcutta",
+      "oblast": "Asia",
+      "mesto": "Kalkata",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Asia/Chita",
+      "oblast": "Asia",
+      "mesto": "Čita",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Asia/Colombo",
+      "oblast": "Asia",
+      "mesto": "Kolombo",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Asia/Damascus",
+      "oblast": "Asia",
+      "mesto": "Damask",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Asia/Dhaka",
+      "oblast": "Asia",
+      "mesto": "Dháka",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Asia/Dubai",
+      "oblast": "Asia",
+      "mesto": "Dubaj",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Asia/Dushanbe",
+      "oblast": "Asia",
+      "mesto": "Dušanbe",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Asia/Hong_Kong",
+      "oblast": "Asia",
+      "mesto": "Hongkong",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Asia/Hovd",
+      "oblast": "Asia",
+      "mesto": "Chovd",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Asia/Jerusalem",
+      "oblast": "Asia",
+      "mesto": "Jeruzalem",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Asia/Kabul",
+      "oblast": "Asia",
+      "mesto": "Kábul",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Asia/Kamchatka",
+      "oblast": "Asia",
+      "mesto": "Kamčatka",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Asia/Karachi",
+      "oblast": "Asia",
+      "mesto": "Karáči",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Asia/Katmandu",
+      "oblast": "Asia",
+      "mesto": "Káthmandu",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Asia/Khandyga",
+      "oblast": "Asia",
+      "mesto": "Chandyga",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "Asia/Krasnoyarsk",
+      "oblast": "Asia",
+      "mesto": "Krasnojarsk",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "Asia/Kuching",
+      "oblast": "Asia",
+      "mesto": "Kučing",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "Asia/Kuwait",
+      "oblast": "Asia",
+      "mesto": "Kuvajt",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "Asia/Macau",
+      "oblast": "Asia",
+      "mesto": "Macao",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "Asia/Muscat",
+      "oblast": "Asia",
+      "mesto": "Maskat",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "Asia/Nicosia",
+      "oblast": "Asia",
+      "mesto": "Nikózia",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "Asia/Novokuznetsk",
+      "oblast": "Asia",
+      "mesto": "Novokuzneck",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "Asia/Oral",
+      "oblast": "Asia",
+      "mesto": "Uraľsk",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "Asia/Phnom_Penh",
+      "oblast": "Asia",
+      "mesto": "Phnom Pénh",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "Asia/Pyongyang",
+      "oblast": "Asia",
+      "mesto": "Pchjongjang",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "Asia/Qatar",
+      "oblast": "Asia",
+      "mesto": "Katar",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "Asia/Qostanay",
+      "oblast": "Asia",
+      "mesto": "Kostanaj",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "Asia/Qyzylorda",
+      "oblast": "Asia",
+      "mesto": "Kyzylorda",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "Asia/Rangoon",
+      "oblast": "Asia",
+      "mesto": "Rangún",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "Asia/Riyadh",
+      "oblast": "Asia",
+      "mesto": "Rijád",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "Asia/Saigon",
+      "oblast": "Asia",
+      "mesto": "Hočiminovo Mesto",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "Asia/Sakhalin",
+      "oblast": "Asia",
+      "mesto": "Sachalin",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "Asia/Seoul",
+      "oblast": "Asia",
+      "mesto": "Soul",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "Asia/Shanghai",
+      "oblast": "Asia",
+      "mesto": "Šanghaj",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "Asia/Singapore",
+      "oblast": "Asia",
+      "mesto": "Singapur",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "Asia/Taipei",
+      "oblast": "Asia",
+      "mesto": "Tchaj-pej",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "Asia/Tashkent",
+      "oblast": "Asia",
+      "mesto": "Taškent",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "Asia/Tehran",
+      "oblast": "Asia",
+      "mesto": "Teherán",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "Asia/Tokyo",
+      "oblast": "Asia",
+      "mesto": "Tokio",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "Asia/Ulaanbaatar",
+      "oblast": "Asia",
+      "mesto": "Ulanbátar",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "Asia/Urumqi",
+      "oblast": "Asia",
+      "mesto": "Urumči",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 52,
+      "tz_id": "Asia/Ust-Nera",
+      "oblast": "Asia",
+      "mesto": "Usť-Nera",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 53,
+      "tz_id": "Asia/Vientiane",
+      "oblast": "Asia",
+      "mesto": "Vientian",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 54,
+      "tz_id": "Asia/Yakutsk",
+      "oblast": "Asia",
+      "mesto": "Jakutsk",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 55,
+      "tz_id": "Asia/Yekaterinburg",
+      "oblast": "Asia",
+      "mesto": "Jekaterinburg",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 56,
+      "tz_id": "Asia/Yerevan",
+      "oblast": "Asia",
+      "mesto": "Jerevan",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    }
+  ],
+  "meta": {
+    "title": "Časové pásma — Asia (56) - Bezplatné stiahnutie",
+    "description": "Časové pásma, ktorých identifikátor IANA sa začína 'Asia/', s názvami v slovenčine. Obsahuje 56 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Časové pásma — Asia (56) | ListBase",
+    "seo_description": "Stiahnuť Časové pásma — Asia (56) — 56 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 56 záznamov / 6 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

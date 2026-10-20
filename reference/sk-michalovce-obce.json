@@ -1,0 +1,1116 @@
+{
+  "id": "sk-michalovce-obce",
+  "name": "Obce v okrese Michalovce",
+  "title": "Obce v okrese Michalovce",
+  "description": "Všetky obce (municipality) v okrese Michalovce, Košický kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 105,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 49,
+      "fullname": "Bajany",
+      "shortname": "Bajany",
+      "zip": "072 54",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 143,
+      "fullname": "Betlenovce",
+      "shortname": "Betlenovce",
+      "zip": "071 01",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 138,
+      "fullname": "Beša",
+      "shortname": "Beša",
+      "zip": "076 72",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 238,
+      "fullname": "Bracovce",
+      "shortname": "Bracovce",
+      "zip": "072 05",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 328,
+      "fullname": "Budince",
+      "shortname": "Budince",
+      "zip": "076 77",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 330,
+      "fullname": "Budkovce",
+      "shortname": "Budkovce",
+      "zip": "072 15",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 70,
+      "fullname": "Bánovce nad Ondavou",
+      "shortname": "Bánovce nad Ondavou",
+      "zip": "072 04",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 664,
+      "fullname": "Dolný Les",
+      "shortname": "Dolný Les",
+      "zip": "072 13",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 687,
+      "fullname": "Drahňov",
+      "shortname": "Drahňov",
+      "zip": "076 74",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 737,
+      "fullname": "Dúbravka",
+      "shortname": "Dúbravka",
+      "zip": "072 15",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 780,
+      "fullname": "Falkušovce",
+      "shortname": "Falkušovce",
+      "zip": "072 05",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 902,
+      "fullname": "Hatalov",
+      "shortname": "Hatalov",
+      "zip": "072 16",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 910,
+      "fullname": "Hažín",
+      "shortname": "Hažín",
+      "zip": "072 34",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 946,
+      "fullname": "Hnojné",
+      "shortname": "Hnojné",
+      "zip": "072 33",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1055,
+      "fullname": "Horovce",
+      "shortname": "Horovce",
+      "zip": "072 02",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1088,
+      "fullname": "Hradištská Moľva",
+      "shortname": "Hradištská Moľva",
+      "zip": "072 06",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1218,
+      "fullname": "Iňačovce",
+      "shortname": "Iňačovce",
+      "zip": "072 11",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1237,
+      "fullname": "Ižkovce",
+      "shortname": "Ižkovce",
+      "zip": "076 72",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1307,
+      "fullname": "Jastrabie pri Michalovciach",
+      "shortname": "Jastrabie pri Michal",
+      "zip": "072 11",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1337,
+      "fullname": "Jovsa",
+      "shortname": "Jovsa",
+      "zip": "072 32",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1365,
+      "fullname": "Kaluža",
+      "shortname": "Kaluža",
+      "zip": "072 36",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1391,
+      "fullname": "Kapušianske Kľačany",
+      "shortname": "Kapušianske Kľačany",
+      "zip": "079 01",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1392,
+      "fullname": "Kapušianske Vojkovce",
+      "shortname": "Kapušianske Vojkovce",
+      "zip": "079 01",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1344,
+      "fullname": "Kačanov",
+      "shortname": "Kačanov",
+      "zip": "072 05",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1456,
+      "fullname": "Klokočov",
+      "shortname": "Klokočov",
+      "zip": "072 36",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1503,
+      "fullname": "Komanica",
+      "shortname": "Komanica",
+      "zip": "072 15",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1681,
+      "fullname": "Krivošťany",
+      "shortname": "Krivošťany",
+      "zip": "072 22",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1671,
+      "fullname": "Krišovská Liesková",
+      "shortname": "Krišovská Liesková",
+      "zip": "079 01",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1656,
+      "fullname": "Krásnovce",
+      "shortname": "Krásnovce",
+      "zip": "072 01",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1683,
+      "fullname": "Krížany",
+      "shortname": "Krížany",
+      "zip": "079 01",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1717,
+      "fullname": "Kucany",
+      "shortname": "Kucany",
+      "zip": "076 75",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1735,
+      "fullname": "Kusín",
+      "shortname": "Kusín",
+      "zip": "072 32",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1786,
+      "fullname": "Lastomír",
+      "shortname": "Lastomír",
+      "zip": "072 37",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1788,
+      "fullname": "Laškovce",
+      "shortname": "Laškovce",
+      "zip": "072 01",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1821,
+      "fullname": "Lesné",
+      "shortname": "Lesné",
+      "zip": "071 01",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1844,
+      "fullname": "Liesková",
+      "shortname": "Liesková",
+      "zip": "079 01",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1927,
+      "fullname": "Ložín",
+      "shortname": "Ložín",
+      "zip": "072 05",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1953,
+      "fullname": "Lučkovce",
+      "shortname": "Lučkovce",
+      "zip": "072 03",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1955,
+      "fullname": "Lúčky",
+      "shortname": "Lúčky",
+      "zip": "072 34",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2068,
+      "fullname": "Malé Raškovce",
+      "shortname": "Malé Raškovce",
+      "zip": "072 17",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2076,
+      "fullname": "Malé Zalužice",
+      "shortname": "Malé Zalužice",
+      "zip": "072 34",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2046,
+      "fullname": "Malčice",
+      "shortname": "Malčice",
+      "zip": "072 06",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2115,
+      "fullname": "Markovce",
+      "shortname": "Markovce",
+      "zip": "072 06",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2139,
+      "fullname": "Maťovské Vojkovce",
+      "shortname": "Maťovské Vojkovce",
+      "zip": "079 01",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2146,
+      "fullname": "Meďov",
+      "shortname": "Meďov",
+      "zip": "071 01",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2182,
+      "fullname": "Michalovce",
+      "shortname": "Michalovce",
+      "zip": "071 01",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2199,
+      "fullname": "Milovaná",
+      "shortname": "Milovaná",
+      "zip": "071 01",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2249,
+      "fullname": "Moravany",
+      "shortname": "Moravany",
+      "zip": "072 03",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2221,
+      "fullname": "Močarany",
+      "shortname": "Močarany",
+      "zip": "071 01",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2289,
+      "fullname": "Nacina Ves",
+      "shortname": "Nacina Ves",
+      "zip": "072 21",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2454,
+      "fullname": "Oborín",
+      "shortname": "Oborín",
+      "zip": "076 75",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2526,
+      "fullname": "Oreské",
+      "shortname": "Oreské",
+      "zip": "072 23",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2534,
+      "fullname": "Ortov",
+      "shortname": "Ortov",
+      "zip": "072 14",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2569,
+      "fullname": "Palín",
+      "shortname": "Palín",
+      "zip": "072 13",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2605,
+      "fullname": "Pavlovce nad Uhom",
+      "shortname": "Pavlovce nad Uhom",
+      "zip": "072 14",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2623,
+      "fullname": "Petrikovce",
+      "shortname": "Petrikovce",
+      "zip": "072 06",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2632,
+      "fullname": "Petrovce nad Laborcom",
+      "shortname": "Petrovce n/Laborcom",
+      "zip": "071 01",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2638,
+      "fullname": "Piesky",
+      "shortname": "Piesky",
+      "zip": "072 04",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2657,
+      "fullname": "Pláne",
+      "shortname": "Pláne",
+      "zip": "072 22",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2771,
+      "fullname": "Poruba pod Vihorlatom",
+      "shortname": "Poruba p/Vihorlatom",
+      "zip": "072 32",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2798,
+      "fullname": "Pozdišovce",
+      "shortname": "Pozdišovce",
+      "zip": "072 01",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2868,
+      "fullname": "Ptrukša",
+      "shortname": "Ptrukša",
+      "zip": "076 77",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2874,
+      "fullname": "Pusté Čemerné",
+      "shortname": "Pusté Čemerné",
+      "zip": "072 22",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2915,
+      "fullname": "Rakovec nad Ondavou",
+      "shortname": "Rakovec nad Ondavou",
+      "zip": "072 03",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2968,
+      "fullname": "Ridzina",
+      "shortname": "Ridzina",
+      "zip": "072 16",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3036,
+      "fullname": "Ruská",
+      "shortname": "Ruská",
+      "zip": "076 77",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3115,
+      "fullname": "Senné",
+      "shortname": "Senné",
+      "zip": "072 13",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3172,
+      "fullname": "Slavkovce",
+      "shortname": "Slavkovce",
+      "zip": "072 17",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3181,
+      "fullname": "Sliepkovce",
+      "shortname": "Sliepkovce",
+      "zip": "072 37",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3259,
+      "fullname": "Stankovce",
+      "shortname": "Stankovce",
+      "zip": "072 21",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3274,
+      "fullname": "Staré",
+      "shortname": "Staré",
+      "zip": "072 23",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3313,
+      "fullname": "Stretava",
+      "shortname": "Stretava",
+      "zip": "072 13",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3314,
+      "fullname": "Stretavka",
+      "shortname": "Stretavka",
+      "zip": "072 13",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3302,
+      "fullname": "Strážske",
+      "shortname": "Strážske",
+      "zip": "072 22",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3337,
+      "fullname": "Suché",
+      "shortname": "Suché",
+      "zip": "071 01",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3558,
+      "fullname": "Topoľany",
+      "shortname": "Topoľany",
+      "zip": "071 01",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3594,
+      "fullname": "Trhovište",
+      "shortname": "Trhovište",
+      "zip": "072 04",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3598,
+      "fullname": "Trnava pri Laborci",
+      "shortname": "Trnava pri Laborci",
+      "zip": "072 31",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3652,
+      "fullname": "Tušice",
+      "shortname": "Tušice",
+      "zip": "072 02",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3653,
+      "fullname": "Tušická Nová Ves",
+      "shortname": "Tušická Nová Ves",
+      "zip": "072 02",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3783,
+      "fullname": "Veľké Kapušany",
+      "shortname": "Veľké Kapušany",
+      "zip": "079 01",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3797,
+      "fullname": "Veľké Raškovce",
+      "shortname": "Veľké Raškovce",
+      "zip": "076 75",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3801,
+      "fullname": "Veľké Slemence",
+      "shortname": "Veľké Slemence",
+      "zip": "076 77",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3810,
+      "fullname": "Veľké Zalužice",
+      "shortname": "Veľké Zalužice",
+      "zip": "072 34",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3869,
+      "fullname": "Vinné",
+      "shortname": "Vinné",
+      "zip": "072 31",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3911,
+      "fullname": "Vojany",
+      "shortname": "Vojany",
+      "zip": "076 72",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3921,
+      "fullname": "Voľa",
+      "shortname": "Voľa",
+      "zip": "072 21",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3936,
+      "fullname": "Vrbnica",
+      "shortname": "Vrbnica",
+      "zip": "072 16",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3956,
+      "fullname": "Vybúchanec",
+      "shortname": "Vybúchanec",
+      "zip": "071 01",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3970,
+      "fullname": "Vysocký Dvor",
+      "shortname": "Vysocký Dvor",
+      "zip": "072 14",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3975,
+      "fullname": "Vysoká nad Uhom",
+      "shortname": "Vysoká nad Uhom",
+      "zip": "072 14",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3942,
+      "fullname": "Vŕbovec",
+      "shortname": "Vŕbovec",
+      "zip": "071 01",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4058,
+      "fullname": "Zalužice",
+      "shortname": "Zalužice",
+      "zip": "072 34",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4100,
+      "fullname": "Zbudza",
+      "shortname": "Zbudza",
+      "zip": "072 23",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4120,
+      "fullname": "Zemplínska Široká",
+      "shortname": "Zemplínska Široká",
+      "zip": "072 13",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4119,
+      "fullname": "Zemplínska Šírava",
+      "shortname": "Zemplínska Šírava",
+      "zip": "072 36",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4125,
+      "fullname": "Zemplínske Kopčany",
+      "shortname": "Zemplínske Kopčany",
+      "zip": "072 17",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4079,
+      "fullname": "Závadka",
+      "shortname": "Závadka",
+      "zip": "072 33",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 432,
+      "fullname": "Čečehov",
+      "shortname": "Čečehov",
+      "zip": "072 11",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 495,
+      "fullname": "Čierne Pole",
+      "shortname": "Čierne Pole",
+      "zip": "079 01",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 480,
+      "fullname": "Čičarovce",
+      "shortname": "Čičarovce",
+      "zip": "076 71",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3388,
+      "fullname": "Šamudovce",
+      "shortname": "Šamudovce",
+      "zip": "072 01",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3496,
+      "fullname": "Ťahyňa",
+      "shortname": "Ťahyňa",
+      "zip": "072 14",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4156,
+      "fullname": "Žabany",
+      "shortname": "Žabany",
+      "zip": "071 01",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4171,
+      "fullname": "Žbince",
+      "shortname": "Žbince",
+      "zip": "072 16",
+      "district_id": 37,
+      "okres": "Michalovce",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Michalovce - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Michalovce, Košický kraj — s PSČ a kódom okresu. Obsahuje 105 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Michalovce | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Michalovce — 105 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 105 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

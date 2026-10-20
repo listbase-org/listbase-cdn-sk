@@ -1,0 +1,406 @@
+{
+  "id": "sk-partizanske-obce",
+  "name": "Obce v okrese Partizánske",
+  "title": "Obce v okrese Partizánske",
+  "description": "Všetky obce (municipality) v okrese Partizánske, Trenčiansky kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 91,
+      "fullname": "Baštín",
+      "shortname": "Baštín",
+      "zip": "956 18",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 232,
+      "fullname": "Bošany",
+      "shortname": "Bošany",
+      "zip": "956 18",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 301,
+      "fullname": "Brodzany",
+      "shortname": "Brodzany",
+      "zip": "958 42",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1201,
+      "fullname": "Chynorany",
+      "shortname": "Chynorany",
+      "zip": "956 33",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1085,
+      "fullname": "Hradište",
+      "shortname": "Hradište",
+      "zip": "958 54",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1280,
+      "fullname": "Janova Ves",
+      "shortname": "Janova Ves",
+      "zip": "958 44",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1333,
+      "fullname": "Ješkova Ves",
+      "shortname": "Ješkova Ves",
+      "zip": "958 45",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1438,
+      "fullname": "Klátova Nová Ves",
+      "shortname": "Klátova Nová Ves",
+      "zip": "958 44",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1449,
+      "fullname": "Klíž",
+      "shortname": "Klíž",
+      "zip": "958 45",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1451,
+      "fullname": "Klížske Hradište",
+      "shortname": "Klížske Hradište",
+      "zip": "958 45",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1488,
+      "fullname": "Kolačno",
+      "shortname": "Kolačno",
+      "zip": "958 41",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1652,
+      "fullname": "Krásno",
+      "shortname": "Krásno",
+      "zip": "958 43",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1900,
+      "fullname": "Livina",
+      "shortname": "Livina",
+      "zip": "956 32",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1901,
+      "fullname": "Livinské Opatovce",
+      "shortname": "Livinské Opatovce",
+      "zip": "956 32",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2048,
+      "fullname": "Malé Bielice",
+      "shortname": "Malé Bielice",
+      "zip": "958 04",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2061,
+      "fullname": "Malé Kršteňany",
+      "shortname": "Malé Kršteňany",
+      "zip": "958 03",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2066,
+      "fullname": "Malé Ostratice",
+      "shortname": "Malé Ostratice",
+      "zip": "956 34",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2074,
+      "fullname": "Malé Uherce",
+      "shortname": "Malé Uherce",
+      "zip": "958 03",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2291,
+      "fullname": "Nadlice",
+      "shortname": "Nadlice",
+      "zip": "956 32",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2302,
+      "fullname": "Nedanovce",
+      "shortname": "Nedanovce",
+      "zip": "958 43",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2299,
+      "fullname": "Návojovce",
+      "shortname": "Návojovce",
+      "zip": "958 04",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2543,
+      "fullname": "Ostratice",
+      "shortname": "Ostratice",
+      "zip": "956 34",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2585,
+      "fullname": "Partizánske",
+      "shortname": "Partizánske",
+      "zip": 0,
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2586,
+      "fullname": "Partizánske - Šípok",
+      "shortname": "Partizánske - Šípok",
+      "zip": 0,
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2607,
+      "fullname": "Pažiť",
+      "shortname": "Pažiť",
+      "zip": "958 03",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3138,
+      "fullname": "Skačany",
+      "shortname": "Skačany",
+      "zip": "958 53",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3070,
+      "fullname": "Sádok",
+      "shortname": "Sádok",
+      "zip": "958 44",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3633,
+      "fullname": "Turčianky",
+      "shortname": "Turčianky",
+      "zip": "958 44",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3771,
+      "fullname": "Veľké Bielice",
+      "shortname": "Veľké Bielice",
+      "zip": "958 04",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3789,
+      "fullname": "Veľké Kršteňany",
+      "shortname": "Veľké Kršteňany",
+      "zip": "958 03",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3794,
+      "fullname": "Veľké Ostratice",
+      "shortname": "Veľké Ostratice",
+      "zip": "956 34",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3807,
+      "fullname": "Veľké Uherce",
+      "shortname": "Veľké Uherce",
+      "zip": "958 41",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3827,
+      "fullname": "Veľký Klíž",
+      "shortname": "Veľký Klíž",
+      "zip": "958 45",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 4159,
+      "fullname": "Žabokreky nad Nitrou",
+      "shortname": "Žabokreky nad Nitrou",
+      "zip": "958 52",
+      "district_id": 43,
+      "okres": "Partizánske",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Partizánske - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Partizánske, Trenčiansky kraj — s PSČ a kódom okresu. Obsahuje 34 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Partizánske | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Partizánske — 34 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 34 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

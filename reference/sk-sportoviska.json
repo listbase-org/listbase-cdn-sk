@@ -1,0 +1,2731 @@
+{
+  "id": "sk-sportoviska",
+  "name": "Športoviská",
+  "title": "Športoviská",
+  "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (leisure=pitch). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 538,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "ŠK Čierne",
+      "latitude": 49.505389,
+      "longitude": 18.84374
+    },
+    {
+      "name": "Tréningová plocha",
+      "latitude": 49.50562,
+      "longitude": 18.844526
+    },
+    {
+      "name": "TJ Slovan Skalité",
+      "latitude": 49.499027,
+      "longitude": 18.89787
+    },
+    {
+      "name": "FK Tatran",
+      "latitude": 49.39859,
+      "longitude": 18.615789
+    },
+    {
+      "name": "TJ Beskyd Svrčinovec",
+      "latitude": 49.479916,
+      "longitude": 18.795179
+    },
+    {
+      "name": "Športové ihrisko pri ZŠ Milošová",
+      "latitude": 49.479526,
+      "longitude": 18.736078
+    },
+    {
+      "name": "Cross Fit ihrisko",
+      "latitude": 49.447122,
+      "longitude": 18.743831
+    },
+    {
+      "name": "Mestské hokejbalové ihrisko",
+      "latitude": 49.440119,
+      "longitude": 18.774423
+    },
+    {
+      "name": "FK Čadca juniori",
+      "latitude": 49.44002,
+      "longitude": 18.779226
+    },
+    {
+      "name": "Pump track",
+      "latitude": 49.446909,
+      "longitude": 18.745219
+    },
+    {
+      "name": "Pumptrack Čadca",
+      "latitude": 49.441223,
+      "longitude": 18.775054
+    },
+    {
+      "name": "Hokejbalové ihrisko",
+      "latitude": 49.466955,
+      "longitude": 18.852695
+    },
+    {
+      "name": "FK Slávia Staškov",
+      "latitude": 49.420362,
+      "longitude": 18.681402
+    },
+    {
+      "name": "Bowling centrum",
+      "latitude": 49.391667,
+      "longitude": 18.830272
+    },
+    {
+      "name": "Futbalové ihrisko Rabčice",
+      "latitude": 49.508812,
+      "longitude": 19.516959
+    },
+    {
+      "name": "Boisko do \"Siatkówki Górskiej\"",
+      "latitude": 49.418833,
+      "longitude": 19.097076
+    },
+    {
+      "name": "TJ Tatran Oravské Veselé",
+      "latitude": 49.471668,
+      "longitude": 19.380319
+    },
+    {
+      "name": "Oravan Oravská Jasenica",
+      "latitude": 49.385958,
+      "longitude": 19.439593
+    },
+    {
+      "name": "Workoutové ihrisko",
+      "latitude": 49.224679,
+      "longitude": 18.212796
+    },
+    {
+      "name": "TJ Považan Pruské",
+      "latitude": 49.023567,
+      "longitude": 18.205728
+    },
+    {
+      "name": "TJ Tunežice",
+      "latitude": 49.028792,
+      "longitude": 18.27018
+    },
+    {
+      "name": "TJ Kameničany",
+      "latitude": 48.988107,
+      "longitude": 18.173107
+    },
+    {
+      "name": "Pumptrack Kameničany",
+      "latitude": 48.988214,
+      "longitude": 18.17159
+    },
+    {
+      "name": "Mestské futbalové ihrisko",
+      "latitude": 49.003353,
+      "longitude": 18.233378
+    },
+    {
+      "name": "Paintball klub Dolná Súča",
+      "latitude": 48.957949,
+      "longitude": 18.021658
+    },
+    {
+      "name": "Ihrisko nad Cigáňom",
+      "latitude": 48.961682,
+      "longitude": 18.101042
+    },
+    {
+      "name": "Futbalový štadión Petra Fabuša",
+      "latitude": 48.976928,
+      "longitude": 18.13995
+    },
+    {
+      "name": "Fitness zóna Nemšová",
+      "latitude": 48.965506,
+      "longitude": 18.115235
+    },
+    {
+      "name": "Modelárske letisko RLMK Dubnica",
+      "latitude": 48.946226,
+      "longitude": 18.149169
+    },
+    {
+      "name": "Novodubnický Skatepark",
+      "latitude": 48.939307,
+      "longitude": 18.14385
+    },
+    {
+      "name": "FK Klubina",
+      "latitude": 49.361336,
+      "longitude": 18.895602
+    },
+    {
+      "name": "Ping Pong",
+      "latitude": 49.309305,
+      "longitude": 18.793972
+    },
+    {
+      "name": "Ihrisko gymnázia",
+      "latitude": 49.307774,
+      "longitude": 18.790195
+    },
+    {
+      "name": "cvičné Ihrisko",
+      "latitude": 49.301516,
+      "longitude": 18.776067
+    },
+    {
+      "name": "TJ Žiar Papradno",
+      "latitude": 49.222858,
+      "longitude": 18.417033
+    },
+    {
+      "name": "Futbalové ihrisko Petrovice",
+      "latitude": 49.254146,
+      "longitude": 18.541568
+    },
+    {
+      "name": "Hlboké nad Váhom",
+      "latitude": 49.210621,
+      "longitude": 18.592092
+    },
+    {
+      "name": "Letecko modelársky areál Plevník",
+      "latitude": 49.173635,
+      "longitude": 18.484797
+    },
+    {
+      "name": "Pumptrack Horný Hričov",
+      "latitude": 49.25918,
+      "longitude": 18.662497
+    },
+    {
+      "name": "MŠK Žilina",
+      "latitude": 49.237503,
+      "longitude": 18.700691
+    },
+    {
+      "name": "Stará Menza",
+      "latitude": 49.211988,
+      "longitude": 18.738213
+    },
+    {
+      "name": "Karting Zone Žilina",
+      "latitude": 49.220681,
+      "longitude": 18.75589
+    },
+    {
+      "name": "Strelnica Riviéra",
+      "latitude": 49.233805,
+      "longitude": 18.724142
+    },
+    {
+      "name": "Pumptrack Žilina",
+      "latitude": 49.212179,
+      "longitude": 18.779245
+    },
+    {
+      "name": "TJ Iskra Lietavská Svinná",
+      "latitude": 49.153356,
+      "longitude": 18.687441
+    },
+    {
+      "name": "Hokejbalové ihrisko",
+      "latitude": 49.17953,
+      "longitude": 18.765048
+    },
+    {
+      "name": "TJ Fatran Varín",
+      "latitude": 49.197478,
+      "longitude": 18.867925
+    },
+    {
+      "name": "TJ Oravská Lesná",
+      "latitude": 49.364761,
+      "longitude": 19.180562
+    },
+    {
+      "name": "Štadión SNP",
+      "latitude": 49.309815,
+      "longitude": 19.517348
+    },
+    {
+      "name": "paintball",
+      "latitude": 49.178345,
+      "longitude": 19.342793
+    },
+    {
+      "name": "Skatepark pri hrádzi",
+      "latitude": 49.12778,
+      "longitude": 18.332053
+    },
+    {
+      "name": "Športový areál ZŠ Mládežnícka",
+      "latitude": 49.128608,
+      "longitude": 18.329023
+    },
+    {
+      "name": "Workoutové ihrisko",
+      "latitude": 49.124209,
+      "longitude": 18.328342
+    },
+    {
+      "name": "Rajšula",
+      "latitude": 49.071414,
+      "longitude": 18.32732
+    },
+    {
+      "name": "NKC Sverepec",
+      "latitude": 49.070107,
+      "longitude": 18.403984
+    },
+    {
+      "name": "Pumptrack Beluša",
+      "latitude": 49.048647,
+      "longitude": 18.305676
+    },
+    {
+      "name": "Stránske",
+      "latitude": 49.106677,
+      "longitude": 18.710673
+    },
+    {
+      "name": "Ihrisko s umelou trávou",
+      "latitude": 49.115601,
+      "longitude": 18.681835
+    },
+    {
+      "name": "ATTACK Vrútky",
+      "latitude": 49.111431,
+      "longitude": 18.915512
+    },
+    {
+      "name": "Mestský hádzanársky štadión",
+      "latitude": 49.071867,
+      "longitude": 18.925981
+    },
+    {
+      "name": "Basketbalove - Hokejove ihrisko",
+      "latitude": 49.085762,
+      "longitude": 18.936133
+    },
+    {
+      "name": "Verejné viacúčelové ihrisko Podháj",
+      "latitude": 49.082287,
+      "longitude": 18.898555
+    },
+    {
+      "name": "Výcvikové ihrisko pre HaZZ",
+      "latitude": 49.080553,
+      "longitude": 18.905416
+    },
+    {
+      "name": "Pumptrack Pltníky",
+      "latitude": 49.089312,
+      "longitude": 18.923437
+    },
+    {
+      "name": "Skatepark Martin",
+      "latitude": 49.088961,
+      "longitude": 18.923641
+    },
+    {
+      "name": "Športová strelnica",
+      "latitude": 49.051596,
+      "longitude": 18.918709
+    },
+    {
+      "name": "Futbalové ihrisko Dražkovce/TJ Družstevník Dražkovce",
+      "latitude": 49.05139,
+      "longitude": 18.952784
+    },
+    {
+      "name": "TJ Strážov Pružina",
+      "latitude": 49.010862,
+      "longitude": 18.480495
+    },
+    {
+      "name": "Ihrisko",
+      "latitude": 49.139425,
+      "longitude": 19.28886
+    },
+    {
+      "name": "TJ Havran",
+      "latitude": 49.116186,
+      "longitude": 19.16161
+    },
+    {
+      "name": "Multifunkčné ihrisko",
+      "latitude": 49.04299,
+      "longitude": 18.996339
+    },
+    {
+      "name": "Tarzania",
+      "latitude": 49.070733,
+      "longitude": 19.273569
+    },
+    {
+      "name": "Tarzania",
+      "latitude": 49.073108,
+      "longitude": 19.271709
+    },
+    {
+      "name": "Umelá tráva",
+      "latitude": 49.082179,
+      "longitude": 19.282306
+    },
+    {
+      "name": "treningové fotbalové ihrisko",
+      "latitude": 49.091362,
+      "longitude": 19.312213
+    },
+    {
+      "name": "Tenis klub",
+      "latitude": 49.068317,
+      "longitude": 19.303813
+    },
+    {
+      "name": "Skatepark - Ružomberok",
+      "latitude": 49.083948,
+      "longitude": 19.273186
+    },
+    {
+      "name": "Beachvolleyball club Ružomberok",
+      "latitude": 49.082986,
+      "longitude": 19.274908
+    },
+    {
+      "name": "Multifunkčné inhrisko Hrabovská dolina",
+      "latitude": 49.07351,
+      "longitude": 19.274327
+    },
+    {
+      "name": "Štadión Lúčky",
+      "latitude": 49.138813,
+      "longitude": 19.394758
+    },
+    {
+      "name": "FC Kalameny",
+      "latitude": 49.129174,
+      "longitude": 19.416935
+    },
+    {
+      "name": "Motoklub Choč Lisková",
+      "latitude": 49.104374,
+      "longitude": 19.372131
+    },
+    {
+      "name": "Volejbal",
+      "latitude": 49.100884,
+      "longitude": 19.44665
+    },
+    {
+      "name": "TJ Žiar - Likvidácia",
+      "latitude": 49.140229,
+      "longitude": 19.678383
+    },
+    {
+      "name": "Strelnica LIPTOV",
+      "latitude": 49.097987,
+      "longitude": 19.632264
+    },
+    {
+      "name": "OŠK Ivachnová",
+      "latitude": 49.093735,
+      "longitude": 19.401984
+    },
+    {
+      "name": "Futbalové ihrisko 1.OFC",
+      "latitude": 49.058314,
+      "longitude": 19.38598
+    },
+    {
+      "name": "Tenisový Klub Liptovské Sliače",
+      "latitude": 49.060811,
+      "longitude": 19.384083
+    },
+    {
+      "name": "Umelá plocha",
+      "latitude": 49.059546,
+      "longitude": 19.38622
+    },
+    {
+      "name": "Laser Game",
+      "latitude": 49.093049,
+      "longitude": 19.593492
+    },
+    {
+      "name": "Tenisova hala",
+      "latitude": 49.08148,
+      "longitude": 19.607286
+    },
+    {
+      "name": "Tenisové kurty",
+      "latitude": 49.081126,
+      "longitude": 19.607996
+    },
+    {
+      "name": "Skate park",
+      "latitude": 49.081151,
+      "longitude": 19.607338
+    },
+    {
+      "name": "Beach volleyball",
+      "latitude": 49.08138,
+      "longitude": 19.609011
+    },
+    {
+      "name": "Monaco Grand Prix - Motokárová Hala",
+      "latitude": 49.065868,
+      "longitude": 19.653812
+    },
+    {
+      "name": "Multifunkčné ihrisko",
+      "latitude": 49.03029,
+      "longitude": 18.985482
+    },
+    {
+      "name": "Strelnica Smrekovica",
+      "latitude": 48.99895,
+      "longitude": 19.201324
+    },
+    {
+      "name": "Strelnica Jasná",
+      "latitude": 49.022412,
+      "longitude": 19.545849
+    },
+    {
+      "name": "v zime klzisko",
+      "latitude": 48.953653,
+      "longitude": 19.393957
+    },
+    {
+      "name": "LKS Spływ",
+      "latitude": 49.402361,
+      "longitude": 20.339384
+    },
+    {
+      "name": "Galéria Ganku",
+      "latitude": 49.176268,
+      "longitude": 20.10129
+    },
+    {
+      "name": "Futbalové ihrisko s umelou trávou v Tatranskej Lomnici",
+      "latitude": 49.165426,
+      "longitude": 20.288754
+    },
+    {
+      "name": "Horse Area Vysoké Tatry",
+      "latitude": 49.165536,
+      "longitude": 20.291864
+    },
+    {
+      "name": "Štvorkolkový areál",
+      "latitude": 49.167291,
+      "longitude": 20.282514
+    },
+    {
+      "name": "Motokros Hniezdne",
+      "latitude": 49.296282,
+      "longitude": 20.632654
+    },
+    {
+      "name": "MSK Slavoj Spišská Belá",
+      "latitude": 49.182358,
+      "longitude": 20.457075
+    },
+    {
+      "name": "Pumptrack Spišská Belá",
+      "latitude": 49.196012,
+      "longitude": 20.437985
+    },
+    {
+      "name": "Pumptrack Kežmarok",
+      "latitude": 49.160332,
+      "longitude": 20.447777
+    },
+    {
+      "name": "Strelnica v Pribyline",
+      "latitude": 49.110923,
+      "longitude": 19.78784
+    },
+    {
+      "name": "FC Jamník 1921",
+      "latitude": 49.070132,
+      "longitude": 19.706022
+    },
+    {
+      "name": "TJ Liptovská Kokava",
+      "latitude": 49.08801,
+      "longitude": 19.810255
+    },
+    {
+      "name": "High Tatras Padel club",
+      "latitude": 49.121065,
+      "longitude": 20.060539
+    },
+    {
+      "name": "Súkromné modelárske letisko Spišská Teplica",
+      "latitude": 49.05121,
+      "longitude": 20.266503
+    },
+    {
+      "name": "Strelnica - Strednej lesníckej školy. Liptovský Hrádok",
+      "latitude": 49.036992,
+      "longitude": 19.776943
+    },
+    {
+      "name": "Strelnica Červený kút Dovalovo",
+      "latitude": 49.037637,
+      "longitude": 19.776239
+    },
+    {
+      "name": "OFK Kravany",
+      "latitude": 48.993923,
+      "longitude": 20.201593
+    },
+    {
+      "name": "TJ Družstevník Spišské Bystré",
+      "latitude": 48.997082,
+      "longitude": 20.240742
+    },
+    {
+      "name": "FK Hranovnica",
+      "latitude": 48.979813,
+      "longitude": 20.302097
+    },
+    {
+      "name": "Legenda",
+      "latitude": 49.132765,
+      "longitude": 20.431425
+    },
+    {
+      "name": "štadión Alojza Cveka",
+      "latitude": 49.119426,
+      "longitude": 20.453153
+    },
+    {
+      "name": "futbalové ihrisko pri ZŠ",
+      "latitude": 48.957048,
+      "longitude": 20.525981
+    },
+    {
+      "name": "Sokol",
+      "latitude": 48.924303,
+      "longitude": 20.706395
+    },
+    {
+      "name": "Strelnica ZTŠČ",
+      "latitude": 49.008304,
+      "longitude": 20.915626
+    },
+    {
+      "name": "TJ ŽPSV Olcnava",
+      "latitude": 48.927828,
+      "longitude": 20.746113
+    },
+    {
+      "name": "TJ Sokol Hrabkov",
+      "latitude": 48.95971,
+      "longitude": 21.005768
+    },
+    {
+      "name": "TJ - Žipov",
+      "latitude": 48.965025,
+      "longitude": 21.092531
+    },
+    {
+      "name": "Strelnica pod Roháčkou",
+      "latitude": 48.927882,
+      "longitude": 21.032962
+    },
+    {
+      "name": "TJ Busov Gaboltov",
+      "latitude": 49.362335,
+      "longitude": 21.147029
+    },
+    {
+      "name": "TJ Gerlachov",
+      "latitude": 49.319269,
+      "longitude": 21.10341
+    },
+    {
+      "name": "Spodné ihrisko",
+      "latitude": 49.205694,
+      "longitude": 21.237479
+    },
+    {
+      "name": "Dva duby",
+      "latitude": 49.247038,
+      "longitude": 21.614708
+    },
+    {
+      "name": "Lukostreľba",
+      "latitude": 49.053258,
+      "longitude": 21.175519
+    },
+    {
+      "name": "Michaľanské ihrisko",
+      "latitude": 49.063903,
+      "longitude": 21.141531
+    },
+    {
+      "name": "SM Skatepark",
+      "latitude": 49.064542,
+      "longitude": 21.141531
+    },
+    {
+      "name": "Motokáry Šariš",
+      "latitude": 49.047728,
+      "longitude": 21.205019
+    },
+    {
+      "name": "Šariš ranč",
+      "latitude": 49.040407,
+      "longitude": 21.214284
+    },
+    {
+      "name": "Biliardový klub PKO",
+      "latitude": 49.017076,
+      "longitude": 21.225377
+    },
+    {
+      "name": "FC Tatran Prešov",
+      "latitude": 49.011914,
+      "longitude": 21.227728
+    },
+    {
+      "name": "Parkúr Team Slavoj Prešov",
+      "latitude": 49.012246,
+      "longitude": 21.230384
+    },
+    {
+      "name": "Jazdecká aréna Parkúr team Slavoj",
+      "latitude": 49.013042,
+      "longitude": 21.230302
+    },
+    {
+      "name": "Hokejbalové ihrisko",
+      "latitude": 49.020968,
+      "longitude": 21.227244
+    },
+    {
+      "name": "Skateboardový park Sídlisko III",
+      "latitude": 49.009266,
+      "longitude": 21.229767
+    },
+    {
+      "name": "Rodeo aréna",
+      "latitude": 49.022785,
+      "longitude": 21.253665
+    },
+    {
+      "name": "Ranč Pohoda - jazdecká aréna",
+      "latitude": 49.022519,
+      "longitude": 21.252947
+    },
+    {
+      "name": "Multifunkčný športový kurt",
+      "latitude": 49.018987,
+      "longitude": 21.227368
+    },
+    {
+      "name": "Multifunkčné ihrisko ZŠ Bajkalská",
+      "latitude": 49.020348,
+      "longitude": 21.229349
+    },
+    {
+      "name": "Jazdecká aréna Park prírody",
+      "latitude": 49.012936,
+      "longitude": 21.264688
+    },
+    {
+      "name": "Tréningové ihrisko FK Safi",
+      "latitude": 49.009255,
+      "longitude": 21.227878
+    },
+    {
+      "name": "Tenisový klub Lukáš Kasák",
+      "latitude": 49.009529,
+      "longitude": 21.227189
+    },
+    {
+      "name": "Futbalová akadémia FC Tatran Prešov",
+      "latitude": 49.012549,
+      "longitude": 21.226373
+    },
+    {
+      "name": "Dráha na steeplechase",
+      "latitude": 49.022142,
+      "longitude": 21.25405
+    },
+    {
+      "name": "Pumptrack Veľký Šariš",
+      "latitude": 49.034988,
+      "longitude": 21.201914
+    },
+    {
+      "name": "Prvý prešovský športový strelecký klub",
+      "latitude": 49.028792,
+      "longitude": 21.213657
+    },
+    {
+      "name": "Strelnica Combat Club Condor",
+      "latitude": 48.995605,
+      "longitude": 21.180425
+    },
+    {
+      "name": "Jazdecký areál Harmónia",
+      "latitude": 48.983226,
+      "longitude": 21.173355
+    },
+    {
+      "name": "Borego Arena - Paintball / Airsoft / Laser tag",
+      "latitude": 48.994664,
+      "longitude": 21.180689
+    },
+    {
+      "name": "Krytá strelnica",
+      "latitude": 48.984856,
+      "longitude": 21.24982
+    },
+    {
+      "name": "Šľapacie káry Prešov",
+      "latitude": 48.990056,
+      "longitude": 21.225955
+    },
+    {
+      "name": "Bežkárska trať Ortáše-Kvašná voda-Stádlo-Malkovská hôrka-Ortáše",
+      "latitude": 48.98116,
+      "longitude": 21.18991
+    },
+    {
+      "name": "Teqball",
+      "latitude": 48.995798,
+      "longitude": 21.235229
+    },
+    {
+      "name": "LOX Park A. Dubčeka, Prešov - YourLOX požičaj si športové pomôcky",
+      "latitude": 49.00211,
+      "longitude": 21.221621
+    },
+    {
+      "name": "FK Safi Prešov - futbalový areál Petra Ržoncu",
+      "latitude": 49.008731,
+      "longitude": 21.227459
+    },
+    {
+      "name": "Multifunkčné ihrisko Lesík delostrelcov",
+      "latitude": 48.992651,
+      "longitude": 21.249121
+    },
+    {
+      "name": "Skatepark Koloseum",
+      "latitude": 48.997765,
+      "longitude": 21.236218
+    },
+    {
+      "name": "Futbalové ihrisko SPŠ Strojníckej",
+      "latitude": 49.004974,
+      "longitude": 21.240545
+    },
+    {
+      "name": "Beach Club Prešov",
+      "latitude": 48.999574,
+      "longitude": 21.234878
+    },
+    {
+      "name": "Kocúr aréna",
+      "latitude": 49.00242,
+      "longitude": 21.230521
+    },
+    {
+      "name": "Pumptrack",
+      "latitude": 48.990567,
+      "longitude": 21.260476
+    },
+    {
+      "name": "Multifunkčné ihrisko PaSA",
+      "latitude": 49.000032,
+      "longitude": 21.24376
+    },
+    {
+      "name": "Lukostrelecký klub X-Focus, Archery Compound Academy",
+      "latitude": 48.991346,
+      "longitude": 21.227859
+    },
+    {
+      "name": "Viacúčelové multifunkčné ihrisko SPŠE",
+      "latitude": 48.991466,
+      "longitude": 21.247137
+    },
+    {
+      "name": "Čausabau minirampa",
+      "latitude": 48.993342,
+      "longitude": 21.25584
+    },
+    {
+      "name": "Paintballový a strelecký klub Prešov",
+      "latitude": 48.993246,
+      "longitude": 21.186066
+    },
+    {
+      "name": "Multišportová zóna",
+      "latitude": 48.998003,
+      "longitude": 21.235966
+    },
+    {
+      "name": "Teqball",
+      "latitude": 48.989237,
+      "longitude": 21.272452
+    },
+    {
+      "name": "Multifunkčné ihrisko Májové námestie",
+      "latitude": 48.985567,
+      "longitude": 21.271504
+    },
+    {
+      "name": "Multifunkčné ihrisko Nám. Krista Kráľa",
+      "latitude": 48.993588,
+      "longitude": 21.271778
+    },
+    {
+      "name": "Retro ihrisko Smreková",
+      "latitude": 48.989349,
+      "longitude": 21.272249
+    },
+    {
+      "name": "Ihrisko pre pozemný hokej",
+      "latitude": 48.986338,
+      "longitude": 21.271649
+    },
+    {
+      "name": "Ihrisko pre pozemný hokej",
+      "latitude": 48.999952,
+      "longitude": 21.277223
+    },
+    {
+      "name": "Multifunkčné ihrisko",
+      "latitude": 48.981884,
+      "longitude": 21.271465
+    },
+    {
+      "name": "Jazdecký klub Acer Prešov",
+      "latitude": 49.002192,
+      "longitude": 21.328409
+    },
+    {
+      "name": "Teqball",
+      "latitude": 48.970508,
+      "longitude": 21.260855
+    },
+    {
+      "name": "Teqball",
+      "latitude": 48.961002,
+      "longitude": 21.262149
+    },
+    {
+      "name": "Trionfo Sport Club - squashový a tenisový kurt",
+      "latitude": 48.976999,
+      "longitude": 21.258419
+    },
+    {
+      "name": "Skatepark",
+      "latitude": 48.92776,
+      "longitude": 21.907665
+    },
+    {
+      "name": "Pumptrack Humenné",
+      "latitude": 48.937689,
+      "longitude": 21.913696
+    },
+    {
+      "name": "Hasičské cvičisko",
+      "latitude": 48.964981,
+      "longitude": 22.063088
+    },
+    {
+      "name": "Tenisová stena",
+      "latitude": 48.990042,
+      "longitude": 22.159755
+    },
+    {
+      "name": "MFK Snina",
+      "latitude": 48.999185,
+      "longitude": 22.159325
+    },
+    {
+      "name": "Betoňak",
+      "latitude": 48.985172,
+      "longitude": 22.159065
+    },
+    {
+      "name": "Športové ihrisko",
+      "latitude": 48.988979,
+      "longitude": 22.149801
+    },
+    {
+      "name": "Športové ihrisko",
+      "latitude": 48.991019,
+      "longitude": 22.151188
+    },
+    {
+      "name": "Basketbalové mini ihrisko",
+      "latitude": 48.99442,
+      "longitude": 22.159466
+    },
+    {
+      "name": "Futbalové ihrisko",
+      "latitude": 48.994876,
+      "longitude": 22.163029
+    },
+    {
+      "name": "MTC Snina",
+      "latitude": 48.990556,
+      "longitude": 22.159968
+    },
+    {
+      "name": "Skate park Snina",
+      "latitude": 48.988309,
+      "longitude": 22.160471
+    },
+    {
+      "name": "Futbalový štadión",
+      "latitude": 48.999124,
+      "longitude": 22.263201
+    },
+    {
+      "name": "FK Ulič Ihrisko",
+      "latitude": 48.965567,
+      "longitude": 22.422029
+    },
+    {
+      "name": "Strelnica Apač",
+      "latitude": 48.843132,
+      "longitude": 17.272788
+    },
+    {
+      "name": "Tenisový kurt",
+      "latitude": 48.828733,
+      "longitude": 17.292682
+    },
+    {
+      "name": "Tenisový kurt",
+      "latitude": 48.826631,
+      "longitude": 17.300412
+    },
+    {
+      "name": "Strelnica",
+      "latitude": 48.800251,
+      "longitude": 17.17006
+    },
+    {
+      "name": "Pumptrack Gbely",
+      "latitude": 48.754965,
+      "longitude": 17.112487
+    },
+    {
+      "name": "Beachvolleyball",
+      "latitude": 48.808867,
+      "longitude": 17.593877
+    },
+    {
+      "name": "Multifunkčné ihrisko",
+      "latitude": 48.859533,
+      "longitude": 17.821228
+    },
+    {
+      "name": "Pumptrack Ivanovce",
+      "latitude": 48.827932,
+      "longitude": 17.910134
+    },
+    {
+      "name": "Telocvičňa",
+      "latitude": 48.865424,
+      "longitude": 18.073889
+    },
+    {
+      "name": "DM Army",
+      "latitude": 48.880355,
+      "longitude": 18.021132
+    },
+    {
+      "name": "Motokárová hala",
+      "latitude": 48.892627,
+      "longitude": 18.019052
+    },
+    {
+      "name": "Lukostrelba",
+      "latitude": 48.884478,
+      "longitude": 18.046392
+    },
+    {
+      "name": "Fúkačka",
+      "latitude": 48.88436,
+      "longitude": 18.046187
+    },
+    {
+      "name": "OŠK Soblahov",
+      "latitude": 48.864963,
+      "longitude": 18.072473
+    },
+    {
+      "name": "Skate Park",
+      "latitude": 48.881017,
+      "longitude": 18.017684
+    },
+    {
+      "name": "Tarzania",
+      "latitude": 48.884209,
+      "longitude": 18.046521
+    },
+    {
+      "name": "Futbalový štadión OŠK TS",
+      "latitude": 48.836436,
+      "longitude": 17.971587
+    },
+    {
+      "name": "TJ Slovan Trenčianska Turná",
+      "latitude": 48.847416,
+      "longitude": 18.009503
+    },
+    {
+      "name": "OŠK Trenčianske Stankovce",
+      "latitude": 48.843028,
+      "longitude": 17.984466
+    },
+    {
+      "name": "TJ Družstevník Mníchova Lehota",
+      "latitude": 48.833258,
+      "longitude": 18.062755
+    },
+    {
+      "name": "ŠK Podhoran Krásna Ves",
+      "latitude": 48.839711,
+      "longitude": 18.22782
+    },
+    {
+      "name": "TJ Slovan Neporadza",
+      "latitude": 48.817645,
+      "longitude": 18.159155
+    },
+    {
+      "name": "TJ Dynamo Motešice",
+      "latitude": 48.832386,
+      "longitude": 18.184846
+    },
+    {
+      "name": "TJ Spartak Timoradza",
+      "latitude": 48.813314,
+      "longitude": 18.236524
+    },
+    {
+      "name": "FK Stará Turá",
+      "latitude": 48.78068,
+      "longitude": 17.679692
+    },
+    {
+      "name": "Jogová izbička",
+      "latitude": 48.756259,
+      "longitude": 17.83037
+    },
+    {
+      "name": "U rampa",
+      "latitude": 48.744421,
+      "longitude": 17.828816
+    },
+    {
+      "name": "Kameňolom",
+      "latitude": 48.729325,
+      "longitude": 17.79988
+    },
+    {
+      "name": "TJ Hrádok",
+      "latitude": 48.695156,
+      "longitude": 17.882724
+    },
+    {
+      "name": "TJ Zavažan Kalnica",
+      "latitude": 48.76009,
+      "longitude": 17.933115
+    },
+    {
+      "name": "TJ Štart Svinná",
+      "latitude": 48.789108,
+      "longitude": 18.155108
+    },
+    {
+      "name": "TJ Slovan Horňany",
+      "latitude": 48.781566,
+      "longitude": 18.198331
+    },
+    {
+      "name": "TJ Tatran Bobot",
+      "latitude": 48.806381,
+      "longitude": 18.1953
+    },
+    {
+      "name": "Obecný futbalový klub Veľká Hradná",
+      "latitude": 48.768714,
+      "longitude": 18.131607
+    },
+    {
+      "name": "TJ Malá Hradná",
+      "latitude": 48.75992,
+      "longitude": 18.157791
+    },
+    {
+      "name": "TJ Družstevník Dubodiel",
+      "latitude": 48.759127,
+      "longitude": 18.114423
+    },
+    {
+      "name": "TJ OFK Dežerice",
+      "latitude": 48.765099,
+      "longitude": 18.210636
+    },
+    {
+      "name": "FK 956 52 Podlužany",
+      "latitude": 48.7704,
+      "longitude": 18.23609
+    },
+    {
+      "name": "TJ Družstevník Ruskovce",
+      "latitude": 48.744577,
+      "longitude": 18.186792
+    },
+    {
+      "name": "TJ Sokol Zlatníky",
+      "latitude": 48.712393,
+      "longitude": 18.118077
+    },
+    {
+      "name": "TJ Malé Hoste",
+      "latitude": 48.699054,
+      "longitude": 18.13414
+    },
+    {
+      "name": "FK Spartak Bánovce nad Bebravou",
+      "latitude": 48.715749,
+      "longitude": 18.259145
+    },
+    {
+      "name": "TJ pri ŠM Dvorec",
+      "latitude": 48.707291,
+      "longitude": 18.219169
+    },
+    {
+      "name": "TJ Sokol Biskupice",
+      "latitude": 48.707843,
+      "longitude": 18.240823
+    },
+    {
+      "name": "TJ Družstevník Dolné Naštice",
+      "latitude": 48.691212,
+      "longitude": 18.246467
+    },
+    {
+      "name": "TJ Baník Haláčovce-Otrhánky",
+      "latitude": 48.702074,
+      "longitude": 18.195482
+    },
+    {
+      "name": "Charon Team",
+      "latitude": 48.633585,
+      "longitude": 16.990575
+    },
+    {
+      "name": "TJ Družstevník Dojč 1928",
+      "latitude": 48.679259,
+      "longitude": 17.249244
+    },
+    {
+      "name": "FK Senica",
+      "latitude": 48.684206,
+      "longitude": 17.376589
+    },
+    {
+      "name": "Tenisová nafukovacia hala",
+      "latitude": 48.681631,
+      "longitude": 17.365172
+    },
+    {
+      "name": "Krytá nafukovacia hala",
+      "latitude": 48.684775,
+      "longitude": 17.379358
+    },
+    {
+      "name": "Skateboard park",
+      "latitude": 48.664863,
+      "longitude": 17.543467
+    },
+    {
+      "name": "Kúpalisko Mariáš",
+      "latitude": 48.601266,
+      "longitude": 17.522885
+    },
+    {
+      "name": "Strelnica - PZ Závod",
+      "latitude": 48.544776,
+      "longitude": 17.073086
+    },
+    {
+      "name": "Ihrisko FK Prievaly",
+      "latitude": 48.564082,
+      "longitude": 17.343303
+    },
+    {
+      "name": "Mestský štadión Jozefa Adamca",
+      "latitude": 48.627099,
+      "longitude": 17.723846
+    },
+    {
+      "name": "Airsoft Chtelnica",
+      "latitude": 48.584545,
+      "longitude": 17.612252
+    },
+    {
+      "name": "Obecný futbalový klub Trebatice",
+      "latitude": 48.589608,
+      "longitude": 17.753426
+    },
+    {
+      "name": "Futbalový štadión",
+      "latitude": 48.622532,
+      "longitude": 17.878559
+    },
+    {
+      "name": "Squash",
+      "latitude": 48.576895,
+      "longitude": 17.817413
+    },
+    {
+      "name": "Minifutbal",
+      "latitude": 48.59371,
+      "longitude": 17.856769
+    },
+    {
+      "name": "Strelnica Nová Lehota",
+      "latitude": 48.654624,
+      "longitude": 17.986943
+    },
+    {
+      "name": "OŠK Pečeňany",
+      "latitude": 48.672006,
+      "longitude": 18.23102
+    },
+    {
+      "name": "TJ Rybany",
+      "latitude": 48.670288,
+      "longitude": 18.2536
+    },
+    {
+      "name": "TJ Družstevník Norovce",
+      "latitude": 48.634655,
+      "longitude": 18.179687
+    },
+    {
+      "name": "TJ Sokol Šišov",
+      "latitude": 48.658044,
+      "longitude": 18.187203
+    },
+    {
+      "name": "TJ Ostratice",
+      "latitude": 48.647021,
+      "longitude": 18.273967
+    },
+    {
+      "name": "Malé ihrisko",
+      "latitude": 48.596819,
+      "longitude": 18.04709
+    },
+    {
+      "name": "Workout park",
+      "latitude": 48.60983,
+      "longitude": 18.276032
+    },
+    {
+      "name": "OFK Bošany",
+      "latitude": 48.582651,
+      "longitude": 18.240165
+    },
+    {
+      "name": "FC Kátlovce",
+      "latitude": 48.526658,
+      "longitude": 17.607654
+    },
+    {
+      "name": "OŠK Dubovany",
+      "latitude": 48.521572,
+      "longitude": 17.733554
+    },
+    {
+      "name": "Strelnica PZ Bebrava",
+      "latitude": 48.558686,
+      "longitude": 18.145443
+    },
+    {
+      "name": "TJ Družstevník Kšinná",
+      "latitude": 48.815025,
+      "longitude": 18.361035
+    },
+    {
+      "name": "Vietcong Vyšehradné",
+      "latitude": 48.890818,
+      "longitude": 18.686215
+    },
+    {
+      "name": "Gymnastické centrum Prievidza",
+      "latitude": 48.782661,
+      "longitude": 18.624555
+    },
+    {
+      "name": "Proarms shooting club",
+      "latitude": 48.773477,
+      "longitude": 18.623208
+    },
+    {
+      "name": "Downtown aréna Prievidza",
+      "latitude": 48.754735,
+      "longitude": 18.624445
+    },
+    {
+      "name": "Akuservis",
+      "latitude": 48.771115,
+      "longitude": 18.59077
+    },
+    {
+      "name": "TJ Tatran Uhrovec",
+      "latitude": 48.742255,
+      "longitude": 18.341573
+    },
+    {
+      "name": "OFK Horné Naštice",
+      "latitude": 48.738628,
+      "longitude": 18.303885
+    },
+    {
+      "name": "TJ Partizán Brezolupy",
+      "latitude": 48.702569,
+      "longitude": 18.302562
+    },
+    {
+      "name": "TJ Partizán Miezgovce",
+      "latitude": 48.719654,
+      "longitude": 18.305318
+    },
+    {
+      "name": "TJ VPS Hradec",
+      "latitude": 48.761449,
+      "longitude": 18.688401
+    },
+    {
+      "name": "Vežička",
+      "latitude": 48.722222,
+      "longitude": 18.756875
+    },
+    {
+      "name": "Skatepark Handlova",
+      "latitude": 48.729726,
+      "longitude": 18.755839
+    },
+    {
+      "name": "FC Vodár",
+      "latitude": 48.890473,
+      "longitude": 19.150238
+    },
+    {
+      "name": "TJ Slovan Tajov",
+      "latitude": 48.755328,
+      "longitude": 19.058027
+    },
+    {
+      "name": "Skokanský areál Selce Dubiny",
+      "latitude": 48.778674,
+      "longitude": 19.209827
+    },
+    {
+      "name": "Skokanský areál Selce Dubiny",
+      "latitude": 48.778816,
+      "longitude": 19.209164
+    },
+    {
+      "name": "Tenisoví nadšenci Tatranská",
+      "latitude": 48.760579,
+      "longitude": 19.169477
+    },
+    {
+      "name": "Tami aréna",
+      "latitude": 48.75836,
+      "longitude": 19.170978
+    },
+    {
+      "name": "Lyžarský bežecký štadión Rudolfa Čillíka",
+      "latitude": 48.738425,
+      "longitude": 18.991219
+    },
+    {
+      "name": "Skatepark BB",
+      "latitude": 48.739235,
+      "longitude": 19.127082
+    },
+    {
+      "name": "Hokejbalové ihrisko",
+      "latitude": 48.738936,
+      "longitude": 19.126782
+    },
+    {
+      "name": "Tenisová akadémia Edmund Pavlík",
+      "latitude": 48.739948,
+      "longitude": 19.120413
+    },
+    {
+      "name": "Jupi Podlavice",
+      "latitude": 48.742693,
+      "longitude": 19.111545
+    },
+    {
+      "name": "Ihrisko StreetFit",
+      "latitude": 48.742816,
+      "longitude": 19.105725
+    },
+    {
+      "name": "Futbalové ihrisko SNP 20",
+      "latitude": 48.736504,
+      "longitude": 19.159735
+    },
+    {
+      "name": "Kurt č. 4",
+      "latitude": 48.735616,
+      "longitude": 19.137956
+    },
+    {
+      "name": "Kurt č. 3",
+      "latitude": 48.735699,
+      "longitude": 19.137777
+    },
+    {
+      "name": "Kurt č. 2",
+      "latitude": 48.735782,
+      "longitude": 19.137596
+    },
+    {
+      "name": "Kurt č. 1",
+      "latitude": 48.735865,
+      "longitude": 19.137416
+    },
+    {
+      "name": "Kurt č. 5",
+      "latitude": 48.735533,
+      "longitude": 19.138137
+    },
+    {
+      "name": "Kurt č. 6",
+      "latitude": 48.735452,
+      "longitude": 19.138313
+    },
+    {
+      "name": "Ping pong table Sídlisko",
+      "latitude": 48.73947,
+      "longitude": 19.163136
+    },
+    {
+      "name": "Ihrisko ŠK OPL",
+      "latitude": 48.704167,
+      "longitude": 19.291252
+    },
+    {
+      "name": "TJ Hronec",
+      "latitude": 48.798476,
+      "longitude": 19.580998
+    },
+    {
+      "name": "TJ Nedašovce",
+      "latitude": 48.673693,
+      "longitude": 18.307696
+    },
+    {
+      "name": "TJ Sokol Pravotice",
+      "latitude": 48.678384,
+      "longitude": 18.294296
+    },
+    {
+      "name": "Motoršport aréna",
+      "latitude": 48.619238,
+      "longitude": 18.476462
+    },
+    {
+      "name": "Strelnica",
+      "latitude": 48.586341,
+      "longitude": 18.505303
+    },
+    {
+      "name": "Enduro Koperbent",
+      "latitude": 48.663425,
+      "longitude": 18.871217
+    },
+    {
+      "name": "Ihrisko",
+      "latitude": 48.468537,
+      "longitude": 18.309124
+    },
+    {
+      "name": "Pumptrack Bikepark Žarnovica",
+      "latitude": 48.489264,
+      "longitude": 18.694467
+    },
+    {
+      "name": "Futbalové ihrisko Banská Belá",
+      "latitude": 48.47193,
+      "longitude": 18.946185
+    },
+    {
+      "name": "Hucul klub",
+      "latitude": 48.660223,
+      "longitude": 19.646213
+    },
+    {
+      "name": "strelnica",
+      "latitude": 48.550306,
+      "longitude": 19.263692
+    },
+    {
+      "name": "OŠK Dobrá Niva",
+      "latitude": 48.477155,
+      "longitude": 19.100268
+    },
+    {
+      "name": "Pohybovňa",
+      "latitude": 48.438015,
+      "longitude": 17.022673
+    },
+    {
+      "name": "Strelnica",
+      "latitude": 48.447641,
+      "longitude": 17.035759
+    },
+    {
+      "name": "Skate park",
+      "latitude": 48.438161,
+      "longitude": 17.023426
+    },
+    {
+      "name": "Šťuvík",
+      "latitude": 48.446432,
+      "longitude": 17.041349
+    },
+    {
+      "name": "Pumptrack",
+      "latitude": 48.438336,
+      "longitude": 17.023117
+    },
+    {
+      "name": "Airsoft Jablonové",
+      "latitude": 48.35003,
+      "longitude": 17.112992
+    },
+    {
+      "name": "TJ Vinohradník",
+      "latitude": 48.413185,
+      "longitude": 17.487446
+    },
+    {
+      "name": "Pumptrack Zochova Chata",
+      "latitude": 48.382088,
+      "longitude": 17.275879
+    },
+    {
+      "name": "Tréningové ihrisko",
+      "latitude": 48.366844,
+      "longitude": 17.345311
+    },
+    {
+      "name": "Trnavský Pumptrack",
+      "latitude": 48.374395,
+      "longitude": 17.567004
+    },
+    {
+      "name": "Strelnica lozorno",
+      "latitude": 48.334979,
+      "longitude": 17.029454
+    },
+    {
+      "name": "Strelecký areál Zohor",
+      "latitude": 48.30684,
+      "longitude": 16.961863
+    },
+    {
+      "name": "Strelecký areál Zohor",
+      "latitude": 48.307252,
+      "longitude": 16.96158
+    },
+    {
+      "name": "TJ Záhorák",
+      "latitude": 48.244313,
+      "longitude": 17.038529
+    },
+    {
+      "name": "Areál RC Šport Model Klub",
+      "latitude": 48.240286,
+      "longitude": 17.203151
+    },
+    {
+      "name": "Pumptrack Svätý Jur",
+      "latitude": 48.246929,
+      "longitude": 17.218063
+    },
+    {
+      "name": "Strelnica Hájiček",
+      "latitude": 48.314394,
+      "longitude": 17.401563
+    },
+    {
+      "name": "Futbalový štadión - Pezinok",
+      "latitude": 48.285589,
+      "longitude": 17.257181
+    },
+    {
+      "name": "Motocross Šenkvice",
+      "latitude": 48.300135,
+      "longitude": 17.355947
+    },
+    {
+      "name": "Strelnica",
+      "latitude": 48.299727,
+      "longitude": 17.353298
+    },
+    {
+      "name": "Strelnica Gazdovsky dvor",
+      "latitude": 48.303248,
+      "longitude": 17.321584
+    },
+    {
+      "name": "Športový klub Báhoň",
+      "latitude": 48.302942,
+      "longitude": 17.446086
+    },
+    {
+      "name": "TJ Družstevník Špačince",
+      "latitude": 48.434499,
+      "longitude": 17.611191
+    },
+    {
+      "name": "Hala",
+      "latitude": 48.445533,
+      "longitude": 17.772153
+    },
+    {
+      "name": "Motokros Lukáčovce",
+      "latitude": 48.407253,
+      "longitude": 17.927192
+    },
+    {
+      "name": "Admiral bowling billiard club",
+      "latitude": 48.374094,
+      "longitude": 17.593926
+    },
+    {
+      "name": "Lanové centrum Trnava",
+      "latitude": 48.384858,
+      "longitude": 17.588676
+    },
+    {
+      "name": "Football tennis field Slávia",
+      "latitude": 48.385189,
+      "longitude": 17.588364
+    },
+    {
+      "name": "Strelnica Poľovníckej spoločnosti v Rišňovciach",
+      "latitude": 48.363536,
+      "longitude": 17.88358
+    },
+    {
+      "name": "Strelnica",
+      "latitude": 48.445945,
+      "longitude": 18.030123
+    },
+    {
+      "name": "TJ Družstevník Dolné Lefantovce",
+      "latitude": 48.42592,
+      "longitude": 18.114556
+    },
+    {
+      "name": "Strelnica Jelšovce",
+      "latitude": 48.386558,
+      "longitude": 18.075002
+    },
+    {
+      "name": "Vonkajšia Strelnica v Dražovciach - Grísová baňa",
+      "latitude": 48.361487,
+      "longitude": 18.063393
+    },
+    {
+      "name": "Štadión Adama Nagya",
+      "latitude": 48.387728,
+      "longitude": 18.212518
+    },
+    {
+      "name": "Vinohradský motokross",
+      "latitude": 48.302262,
+      "longitude": 17.756889
+    },
+    {
+      "name": "Strelnica",
+      "latitude": 48.265892,
+      "longitude": 17.618183
+    },
+    {
+      "name": "RC Klub Abrahám",
+      "latitude": 48.250085,
+      "longitude": 17.599891
+    },
+    {
+      "name": "Airsoftové ihrisko Báb",
+      "latitude": 48.27924,
+      "longitude": 17.914136
+    },
+    {
+      "name": "Motokáry Nitra",
+      "latitude": 48.318258,
+      "longitude": 18.039392
+    },
+    {
+      "name": "Cyklopark",
+      "latitude": 48.303007,
+      "longitude": 17.937484
+    },
+    {
+      "name": "Multifunkčné ihrisko",
+      "latitude": 48.304416,
+      "longitude": 18.082604
+    },
+    {
+      "name": "Prima areál Chrenová",
+      "latitude": 48.306333,
+      "longitude": 18.115382
+    },
+    {
+      "name": "Multifunkčné ihrisko Ždiarska",
+      "latitude": 48.306304,
+      "longitude": 18.115223
+    },
+    {
+      "name": "FK Babindol",
+      "latitude": 48.289309,
+      "longitude": 18.244233
+    },
+    {
+      "name": "FC31 Jarok",
+      "latitude": 48.277996,
+      "longitude": 17.945053
+    },
+    {
+      "name": "T&T",
+      "latitude": 48.202871,
+      "longitude": 17.027936
+    },
+    {
+      "name": "Bowl",
+      "latitude": 48.204567,
+      "longitude": 16.981129
+    },
+    {
+      "name": "Pumptrack Dúbravka",
+      "latitude": 48.181968,
+      "longitude": 17.036322
+    },
+    {
+      "name": "Strelnica ministerstva vnútra - Rača",
+      "latitude": 48.202256,
+      "longitude": 17.172437
+    },
+    {
+      "name": "FK Rača",
+      "latitude": 48.201521,
+      "longitude": 17.147498
+    },
+    {
+      "name": "Národný štadión Ing. Pavla Rosu",
+      "latitude": 48.211586,
+      "longitude": 17.149608
+    },
+    {
+      "name": "Modelárske letisko",
+      "latitude": 48.19795,
+      "longitude": 17.187677
+    },
+    {
+      "name": "Airsoft Pri starom Letisku",
+      "latitude": 48.197626,
+      "longitude": 17.191829
+    },
+    {
+      "name": "Strelnica Chicago",
+      "latitude": 48.176286,
+      "longitude": 17.13105
+    },
+    {
+      "name": "Športové ihrisko Hálkova",
+      "latitude": 48.1733,
+      "longitude": 17.133926
+    },
+    {
+      "name": "Hero Factory No Limits",
+      "latitude": 48.173841,
+      "longitude": 17.149167
+    },
+    {
+      "name": "Lezecká stena VISA",
+      "latitude": 48.168337,
+      "longitude": 17.142651
+    },
+    {
+      "name": "Ihrisko Valdocco",
+      "latitude": 48.166543,
+      "longitude": 17.165356
+    },
+    {
+      "name": "Hero Factory",
+      "latitude": 48.177513,
+      "longitude": 17.150532
+    },
+    {
+      "name": "Púpavka",
+      "latitude": 48.162915,
+      "longitude": 17.050391
+    },
+    {
+      "name": "Urampa",
+      "latitude": 48.155501,
+      "longitude": 17.047161
+    },
+    {
+      "name": "Colt Club",
+      "latitude": 48.140643,
+      "longitude": 17.100846
+    },
+    {
+      "name": "Hokejbal - Doprastav",
+      "latitude": 48.164672,
+      "longitude": 17.101219
+    },
+    {
+      "name": "Športové ihrisko Budovateľská",
+      "latitude": 48.148974,
+      "longitude": 17.126056
+    },
+    {
+      "name": "Billiard Club Lavos",
+      "latitude": 48.143355,
+      "longitude": 17.141997
+    },
+    {
+      "name": "Rugby Klub Bratislava",
+      "latitude": 48.164198,
+      "longitude": 17.14255
+    },
+    {
+      "name": "Detské ihrisko Raketová",
+      "latitude": 48.16127,
+      "longitude": 17.175443
+    },
+    {
+      "name": "Pumptrack Vrakuňa OZ Pedal",
+      "latitude": 48.147901,
+      "longitude": 17.204007
+    },
+    {
+      "name": "StaGe Park na Drieňovej",
+      "latitude": 48.16273,
+      "longitude": 17.169426
+    },
+    {
+      "name": "KASPIAN PARK",
+      "latitude": 48.115756,
+      "longitude": 17.1061
+    },
+    {
+      "name": "PumpPark Petržalka",
+      "latitude": 48.121745,
+      "longitude": 17.125495
+    },
+    {
+      "name": "Boulderingová stena",
+      "latitude": 48.220883,
+      "longitude": 17.237384
+    },
+    {
+      "name": "Skatepark",
+      "latitude": 48.200316,
+      "longitude": 17.300071
+    },
+    {
+      "name": "Cyklo PumpTracková dráha \"Kopec zábavy\"",
+      "latitude": 48.223456,
+      "longitude": 17.24578
+    },
+    {
+      "name": "Jama",
+      "latitude": 48.193633,
+      "longitude": 17.314639
+    },
+    {
+      "name": "Petangové ihrisko Vyšehradská 27",
+      "latitude": 48.096287,
+      "longitude": 17.104816
+    },
+    {
+      "name": "FC Jarovce",
+      "latitude": 48.064792,
+      "longitude": 17.118921
+    },
+    {
+      "name": "ŠKO Miloslavov",
+      "latitude": 48.089829,
+      "longitude": 17.312565
+    },
+    {
+      "name": "Off-road ring",
+      "latitude": 48.060833,
+      "longitude": 17.57401
+    },
+    {
+      "name": "MSK Šamorín",
+      "latitude": 48.043229,
+      "longitude": 17.298851
+    },
+    {
+      "name": "Viacúčelové ihrisko",
+      "latitude": 48.041877,
+      "longitude": 17.401181
+    },
+    {
+      "name": "Strelnica",
+      "latitude": 48.168569,
+      "longitude": 17.797536
+    },
+    {
+      "name": "Štadión Veča",
+      "latitude": 48.169552,
+      "longitude": 17.892985
+    },
+    {
+      "name": "Multifunkčné ihrisko",
+      "latitude": 48.157145,
+      "longitude": 17.871594
+    },
+    {
+      "name": "Štadión Diakovce",
+      "latitude": 48.137654,
+      "longitude": 17.849777
+    },
+    {
+      "name": "Strelnica STASA",
+      "latitude": 48.219445,
+      "longitude": 18.274183
+    },
+    {
+      "name": "Ihrisko TJ Družstevník Michal nad Žitavou",
+      "latitude": 48.189695,
+      "longitude": 18.280717
+    },
+    {
+      "name": "Airsoft Rastislavice",
+      "latitude": 48.145517,
+      "longitude": 18.11727
+    },
+    {
+      "name": "Ihrisko ŠK Vlkas",
+      "latitude": 48.124406,
+      "longitude": 18.274968
+    },
+    {
+      "name": "Futbalový štadión",
+      "latitude": 47.994154,
+      "longitude": 18.157153
+    },
+    {
+      "name": "FK Hosťovce",
+      "latitude": 48.417665,
+      "longitude": 18.365382
+    },
+    {
+      "name": "TJ Velčice",
+      "latitude": 48.417343,
+      "longitude": 18.309844
+    },
+    {
+      "name": "Bouldrovka Zlaté Moravce",
+      "latitude": 48.383196,
+      "longitude": 18.390673
+    },
+    {
+      "name": "Veľká stena v Sokolovni",
+      "latitude": 48.384345,
+      "longitude": 18.400257
+    },
+    {
+      "name": "Strelnica",
+      "latitude": 48.369195,
+      "longitude": 18.367537
+    },
+    {
+      "name": "Tenisový kurt",
+      "latitude": 48.356695,
+      "longitude": 18.531485
+    },
+    {
+      "name": "Strelnica Rudno nad Hronom, Jaminá",
+      "latitude": 48.427367,
+      "longitude": 18.688466
+    },
+    {
+      "name": "Bowling",
+      "latitude": 48.456051,
+      "longitude": 18.902845
+    },
+    {
+      "name": "Strelnica Drieňová",
+      "latitude": 48.446203,
+      "longitude": 18.93967
+    },
+    {
+      "name": "Krytá strelnica - TIDLY SECURITY",
+      "latitude": 48.4454,
+      "longitude": 18.914412
+    },
+    {
+      "name": "Ihrisko",
+      "latitude": 48.287772,
+      "longitude": 18.532262
+    },
+    {
+      "name": "Workout ihrisko",
+      "latitude": 48.294053,
+      "longitude": 18.517083
+    },
+    {
+      "name": "Workout ihrisko",
+      "latitude": 48.291475,
+      "longitude": 18.531651
+    },
+    {
+      "name": "TJ Horný Ohaj",
+      "latitude": 48.255832,
+      "longitude": 18.315242
+    },
+    {
+      "name": "ESD Bikepark Vráble",
+      "latitude": 48.250258,
+      "longitude": 18.309148
+    },
+    {
+      "name": "Motokros Čifáre",
+      "latitude": 48.241419,
+      "longitude": 18.428629
+    },
+    {
+      "name": "Strelnica Beňov vrch",
+      "latitude": 48.30066,
+      "longitude": 18.652708
+    },
+    {
+      "name": "Berinka",
+      "latitude": 48.308124,
+      "longitude": 18.682845
+    },
+    {
+      "name": "ŠK Bátovce",
+      "latitude": 48.285631,
+      "longitude": 18.746214
+    },
+    {
+      "name": "Motocross Suchý Potok",
+      "latitude": 48.283723,
+      "longitude": 18.96562
+    },
+    {
+      "name": "Futbalové ihrisko Sebechleby",
+      "latitude": 48.27453,
+      "longitude": 18.946211
+    },
+    {
+      "name": "strelnica",
+      "latitude": 48.343315,
+      "longitude": 19.616577
+    },
+    {
+      "name": "Pumptrack",
+      "latitude": 48.330007,
+      "longitude": 19.642959
+    },
+    {
+      "name": "Tenisové kurty",
+      "latitude": 48.328753,
+      "longitude": 19.681065
+    },
+    {
+      "name": "Plážový volejbal",
+      "latitude": 48.328665,
+      "longitude": 19.681828
+    },
+    {
+      "name": "K Park",
+      "latitude": 48.331611,
+      "longitude": 19.65398
+    },
+    {
+      "name": "Školské ihrisko",
+      "latitude": 48.215007,
+      "longitude": 18.617647
+    },
+    {
+      "name": "Školské ihrisko",
+      "latitude": 48.216915,
+      "longitude": 18.617449
+    },
+    {
+      "name": "Školské ihrisko",
+      "latitude": 48.219942,
+      "longitude": 18.602918
+    },
+    {
+      "name": "Školské ihrisko",
+      "latitude": 48.215489,
+      "longitude": 18.59889
+    },
+    {
+      "name": "K-Park",
+      "latitude": 48.218221,
+      "longitude": 18.594868
+    },
+    {
+      "name": "Človeče, nehnevaj sa!",
+      "latitude": 48.15421,
+      "longitude": 18.770485
+    },
+    {
+      "name": "Strelnica",
+      "latitude": 48.20264,
+      "longitude": 19.25091
+    },
+    {
+      "name": "Ihrisko pri skole",
+      "latitude": 48.15286,
+      "longitude": 19.090914
+    },
+    {
+      "name": "Lázok",
+      "latitude": 48.153397,
+      "longitude": 19.080614
+    },
+    {
+      "name": "ONV Paintball",
+      "latitude": 48.113913,
+      "longitude": 19.261948
+    },
+    {
+      "name": "Bike Trial Park",
+      "latitude": 48.212723,
+      "longitude": 19.337746
+    },
+    {
+      "name": "Futbalový štadión",
+      "latitude": 48.089863,
+      "longitude": 19.154399
+    },
+    {
+      "name": "Futbalový štadión",
+      "latitude": 48.089177,
+      "longitude": 19.287742
+    },
+    {
+      "name": "Műfüves pálya",
+      "latitude": 48.080905,
+      "longitude": 19.288469
+    },
+    {
+      "name": "Štadión Polomka",
+      "latitude": 48.849399,
+      "longitude": 19.847858
+    },
+    {
+      "name": "Spartak Závadka nad Hronom",
+      "latitude": 48.848885,
+      "longitude": 19.90175
+    },
+    {
+      "name": "TJ LOK CHZ. Dedinky",
+      "latitude": 48.86701,
+      "longitude": 20.378498
+    },
+    {
+      "name": "Multifunkčný areál Schulerloch",
+      "latitude": 48.919407,
+      "longitude": 20.55415
+    },
+    {
+      "name": "Kynologický areál",
+      "latitude": 48.88142,
+      "longitude": 20.856941
+    },
+    {
+      "name": "OŠK Jaklovce",
+      "latitude": 48.874197,
+      "longitude": 20.989227
+    },
+    {
+      "name": "AŠK Maria-Huta",
+      "latitude": 48.867931,
+      "longitude": 20.966105
+    },
+    {
+      "name": "Futbal trening",
+      "latitude": 48.867227,
+      "longitude": 20.967747
+    },
+    {
+      "name": "MFK Gelnica",
+      "latitude": 48.858188,
+      "longitude": 20.943708
+    },
+    {
+      "name": "FK Slovan Veľký Folkmar",
+      "latitude": 48.861533,
+      "longitude": 21.011156
+    },
+    {
+      "name": "FK Slovan Veľký Folkmar \"B\"",
+      "latitude": 48.82508,
+      "longitude": 20.989894
+    },
+    {
+      "name": "Strelnica",
+      "latitude": 48.63341,
+      "longitude": 20.25025
+    },
+    {
+      "name": "FK Sklár Zlatno",
+      "latitude": 48.513951,
+      "longitude": 19.818375
+    },
+    {
+      "name": "Strelnica Hodkovce",
+      "latitude": 48.685568,
+      "longitude": 21.089128
+    },
+    {
+      "name": "FK Bodva",
+      "latitude": 48.608103,
+      "longitude": 20.996327
+    },
+    {
+      "name": "JK Lodina",
+      "latitude": 48.859612,
+      "longitude": 21.155592
+    },
+    {
+      "name": "Futbalové ihrisko",
+      "latitude": 48.856802,
+      "longitude": 21.218489
+    },
+    {
+      "name": "4",
+      "latitude": 48.774553,
+      "longitude": 21.167991
+    },
+    {
+      "name": "5",
+      "latitude": 48.772015,
+      "longitude": 21.169696
+    },
+    {
+      "name": "3",
+      "latitude": 48.771702,
+      "longitude": 21.169868
+    },
+    {
+      "name": "2",
+      "latitude": 48.771497,
+      "longitude": 21.170571
+    },
+    {
+      "name": "7",
+      "latitude": 48.766145,
+      "longitude": 21.176133
+    },
+    {
+      "name": "6",
+      "latitude": 48.769439,
+      "longitude": 21.172562
+    },
+    {
+      "name": "1",
+      "latitude": 48.76914,
+      "longitude": 21.17291
+    },
+    {
+      "name": "9",
+      "latitude": 48.766934,
+      "longitude": 21.172652
+    },
+    {
+      "name": "10",
+      "latitude": 48.767012,
+      "longitude": 21.17426
+    },
+    {
+      "name": "8",
+      "latitude": 48.765991,
+      "longitude": 21.174254
+    },
+    {
+      "name": "Paintball",
+      "latitude": 48.767024,
+      "longitude": 21.170515
+    },
+    {
+      "name": "Multifunkčné ihrisko Bruselská - Európska Trieda",
+      "latitude": 48.757498,
+      "longitude": 21.267058
+    },
+    {
+      "name": "Asfaltová plocha Berlínska",
+      "latitude": 48.755948,
+      "longitude": 21.268346
+    },
+    {
+      "name": "Mini futbalové ihrisko",
+      "latitude": 48.759096,
+      "longitude": 21.264103
+    },
+    {
+      "name": "Basketbalové ihrisko Helsinská - Aténska",
+      "latitude": 48.758733,
+      "longitude": 21.266667
+    },
+    {
+      "name": "Mini futbalové ihrisko Havanská",
+      "latitude": 48.7615,
+      "longitude": 21.269305
+    },
+    {
+      "name": "Športový areál Bruselská",
+      "latitude": 48.757072,
+      "longitude": 21.266844
+    },
+    {
+      "name": "Mini-futbalové ihrisko Bruselská",
+      "latitude": 48.757313,
+      "longitude": 21.265247
+    },
+    {
+      "name": "Multifunkčné ihrisko Olympia",
+      "latitude": 48.75707,
+      "longitude": 21.276244
+    },
+    {
+      "name": "Tenisové kurty Olympia",
+      "latitude": 48.757374,
+      "longitude": 21.276012
+    },
+    {
+      "name": "Športový areál ZŠ Belehradská 21",
+      "latitude": 48.755997,
+      "longitude": 21.271452
+    },
+    {
+      "name": "Multifunkčné ihrisko",
+      "latitude": 48.755726,
+      "longitude": 21.271724
+    },
+    {
+      "name": "Basketbalové ihrisko Sofijská - Varšavská",
+      "latitude": 48.753605,
+      "longitude": 21.272767
+    },
+    {
+      "name": "Asfaltová plocha Juhoslovanská",
+      "latitude": 48.754577,
+      "longitude": 21.271924
+    },
+    {
+      "name": "Asfaltová plocha Pekinská",
+      "latitude": 48.758505,
+      "longitude": 21.273328
+    },
+    {
+      "name": "Petangové ihrisko Olympia",
+      "latitude": 48.757379,
+      "longitude": 21.276646
+    },
+    {
+      "name": "Baseballové ihrisko TUKE",
+      "latitude": 48.733883,
+      "longitude": 21.243882
+    },
+    {
+      "name": "Tenisová hala",
+      "latitude": 48.743506,
+      "longitude": 21.251416
+    },
+    {
+      "name": "Playko",
+      "latitude": 48.724514,
+      "longitude": 21.262078
+    },
+    {
+      "name": "Skatepark KVP",
+      "latitude": 48.712671,
+      "longitude": 21.220343
+    },
+    {
+      "name": "Školská hala pre loptové športy",
+      "latitude": 48.710367,
+      "longitude": 21.241753
+    },
+    {
+      "name": "Skatepark Alejová",
+      "latitude": 48.699834,
+      "longitude": 21.248591
+    },
+    {
+      "name": "OCTAGO",
+      "latitude": 48.714711,
+      "longitude": 21.209532
+    },
+    {
+      "name": "Futbalové ihrisko Čordákova",
+      "latitude": 48.715481,
+      "longitude": 21.207148
+    },
+    {
+      "name": "Dirtpark Drábova",
+      "latitude": 48.706246,
+      "longitude": 21.216763
+    },
+    {
+      "name": "KSK Pumptrack",
+      "latitude": 48.700702,
+      "longitude": 21.24245
+    },
+    {
+      "name": "Mini Octago",
+      "latitude": 48.713321,
+      "longitude": 21.217697
+    },
+    {
+      "name": "Ihrisko Košické Oľšany",
+      "latitude": 48.728862,
+      "longitude": 21.338606
+    },
+    {
+      "name": "Cassovia Badminton Spot",
+      "latitude": 48.70818,
+      "longitude": 21.280093
+    },
+    {
+      "name": "Paintball Opátske",
+      "latitude": 48.7036,
+      "longitude": 21.27794
+    },
+    {
+      "name": "ŠK Ďurkov",
+      "latitude": 48.711518,
+      "longitude": 21.439698
+    },
+    {
+      "name": "Volejbalové ihrisko Albinov",
+      "latitude": 48.73081,
+      "longitude": 21.666631
+    },
+    {
+      "name": "Minifutbalové ihrisko Albinov",
+      "latitude": 48.731066,
+      "longitude": 21.666357
+    },
+    {
+      "name": "TJ Jasenov",
+      "latitude": 48.918073,
+      "longitude": 21.902149
+    },
+    {
+      "name": "Futbalové ihrisko",
+      "latitude": 48.902548,
+      "longitude": 21.960045
+    },
+    {
+      "name": "Okresná strelnica OK.O. SPZ",
+      "latitude": 48.786158,
+      "longitude": 21.88465
+    },
+    {
+      "name": "strelnica",
+      "latitude": 48.770438,
+      "longitude": 21.901505
+    },
+    {
+      "name": "TJ Sokol Močarany",
+      "latitude": 48.732979,
+      "longitude": 21.879511
+    },
+    {
+      "name": "Ribana",
+      "latitude": 48.735549,
+      "longitude": 21.852972
+    },
+    {
+      "name": "Tenisová hala",
+      "latitude": 48.67846,
+      "longitude": 21.172836
+    },
+    {
+      "name": "Psia športová akadémia - Agility",
+      "latitude": 48.644642,
+      "longitude": 21.145661
+    },
+    {
+      "name": "Štadión FK Košice-Barca",
+      "latitude": 48.677368,
+      "longitude": 21.2714
+    },
+    {
+      "name": "FK Krásna",
+      "latitude": 48.672436,
+      "longitude": 21.298212
+    },
+    {
+      "name": "Modelárske letisko Grajciar",
+      "latitude": 48.586207,
+      "longitude": 21.254992
+    },
+    {
+      "name": "Š. Nadzama",
+      "latitude": 48.640964,
+      "longitude": 21.927558
+    },
+    {
+      "name": "Tenisový kurt",
+      "latitude": 48.553491,
+      "longitude": 22.079336
+    },
+    {
+      "name": "Plážový volejbalový klub Mustang",
+      "latitude": 48.557074,
+      "longitude": 22.076148
+    },
+    {
+      "name": "Hedron",
+      "latitude": 48.499878,
+      "longitude": 21.813968
+    },
+    {
+      "name": "TJ Sklotatran Poltár",
+      "latitude": 48.43661,
+      "longitude": 19.796058
+    },
+    {
+      "name": "atletická dráha",
+      "latitude": 48.382754,
+      "longitude": 20.001985
+    },
+    {
+      "name": "FTC Fiľakovo",
+      "latitude": 48.26359,
+      "longitude": 19.825697
+    },
+    {
+      "name": "Cisársko-kráľovská historická Jazdiareň",
+      "latitude": 47.982677,
+      "longitude": 18.164646
+    },
+    {
+      "name": "Štadión na Sihoti",
+      "latitude": 47.989469,
+      "longitude": 18.176949
+    },
+    {
+      "name": "Školské ihrisko",
+      "latitude": 47.988446,
+      "longitude": 18.173182
+    },
+    {
+      "name": "KVSE lőtér",
+      "latitude": 47.735679,
+      "longitude": 18.197805
+    },
+    {
+      "name": "strelnica Harčáš",
+      "latitude": 47.745783,
+      "longitude": 18.201826
+    },
+    {
+      "name": "KVSE tenisz",
+      "latitude": 47.735565,
+      "longitude": 18.198732
+    },
+    {
+      "name": "Salakpalya",
+      "latitude": 47.811029,
+      "longitude": 18.443912
+    },
+    {
+      "name": "Strelnica",
+      "latitude": 47.798995,
+      "longitude": 18.445941
+    },
+    {
+      "name": "Lanová dráha",
+      "latitude": 47.804868,
+      "longitude": 18.715438
+    },
+    {
+      "name": "Esztergomi Városi Tenisz Klub - Teniszcentrum",
+      "latitude": 47.785759,
+      "longitude": 18.730599
+    },
+    {
+      "name": "Esztergomi Városi Tenisz Klub - Teniszcentrum",
+      "latitude": 47.786064,
+      "longitude": 18.729986
+    },
+    {
+      "name": "Franka (Ferences)-pálya",
+      "latitude": 47.78691,
+      "longitude": 18.731253
+    }
+  ],
+  "meta": {
+    "title": "Športoviská - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (leisure=pitch). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84. Obsahuje 538 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Športoviská | ListBase",
+    "seo_description": "Stiahnuť Športoviská — 538 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 538 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

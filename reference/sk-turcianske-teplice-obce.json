@@ -1,0 +1,426 @@
+{
+  "id": "sk-turcianske-teplice-obce",
+  "name": "Obce v okrese Turčianske Teplice",
+  "title": "Obce v okrese Turčianske Teplice",
+  "description": "Všetky obce (municipality) v okrese Turčianske Teplice, Žilinský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 6,
+      "fullname": "Abramová",
+      "shortname": "Abramová",
+      "zip": "038 22",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 176,
+      "fullname": "Blažovce",
+      "shortname": "Blažovce",
+      "zip": "038 44",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 190,
+      "fullname": "Bodorová",
+      "shortname": "Bodorová",
+      "zip": "038 45",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 218,
+      "fullname": "Borcová",
+      "shortname": "Borcová",
+      "zip": "038 44",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 296,
+      "fullname": "Brieštie",
+      "shortname": "Brieštie",
+      "zip": "038 22",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 329,
+      "fullname": "Budiš",
+      "shortname": "Budiš",
+      "zip": "038 23",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 554,
+      "fullname": "Diviaky",
+      "shortname": "Diviaky",
+      "zip": "039 01",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 614,
+      "fullname": "Dolná Štubňa",
+      "shortname": "Dolná Štubňa",
+      "zip": "039 01",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 674,
+      "fullname": "Dolný Turček",
+      "shortname": "Dolný Turček",
+      "zip": "038 48",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 726,
+      "fullname": "Dubové",
+      "shortname": "Dubové",
+      "zip": "038 23",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 765,
+      "fullname": "Dvorec",
+      "shortname": "Dvorec",
+      "zip": "038 45",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 868,
+      "fullname": "Hadviga",
+      "shortname": "Hadviga",
+      "zip": "038 22",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 989,
+      "fullname": "Horná Štubňa",
+      "shortname": "Horná Štubňa",
+      "zip": "038 46",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1051,
+      "fullname": "Horný Turček",
+      "shortname": "Horný Turček",
+      "zip": "038 48",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 870,
+      "fullname": "Háj",
+      "shortname": "Háj",
+      "zip": "039 01",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1228,
+      "fullname": "Ivančiná",
+      "shortname": "Ivančiná",
+      "zip": "038 45",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1298,
+      "fullname": "Jasenovo",
+      "shortname": "Jasenovo",
+      "zip": "038 22",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1317,
+      "fullname": "Jazernica",
+      "shortname": "Jazernica",
+      "zip": "038 44",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1347,
+      "fullname": "Kaľamenová",
+      "shortname": "Kaľamenová",
+      "zip": "038 22",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1420,
+      "fullname": "Kevice",
+      "shortname": "Kevice",
+      "zip": "038 45",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1766,
+      "fullname": "Laclavá",
+      "shortname": "Laclavá",
+      "zip": "038 22",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1850,
+      "fullname": "Liešno",
+      "shortname": "Liešno",
+      "zip": "038 22",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2089,
+      "fullname": "Malý Čepčín",
+      "shortname": "Malý Čepčín",
+      "zip": "038 45",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2258,
+      "fullname": "Moškovec",
+      "shortname": "Moškovec",
+      "zip": "038 44",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2259,
+      "fullname": "Mošovce",
+      "shortname": "Mošovce",
+      "zip": "038 21",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2492,
+      "fullname": "Ondrašová",
+      "shortname": "Ondrašová",
+      "zip": "038 22",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2741,
+      "fullname": "Polerieka",
+      "shortname": "Polerieka",
+      "zip": "038 22",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2919,
+      "fullname": "Rakša",
+      "shortname": "Rakša",
+      "zip": "039 01",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3031,
+      "fullname": "Rudno",
+      "shortname": "Rudno",
+      "zip": "038 22",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3150,
+      "fullname": "Sklené",
+      "shortname": "Sklené",
+      "zip": "038 47",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3197,
+      "fullname": "Slovenské Pravno",
+      "shortname": "Slovenské Pravno",
+      "zip": "038 22",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3632,
+      "fullname": "Turček",
+      "shortname": "Turček",
+      "zip": "038 48",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3637,
+      "fullname": "Turčianske Teplice",
+      "shortname": "Turčianske Teplice",
+      "zip": "039 01",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3639,
+      "fullname": "Turčiansky Michal",
+      "shortname": "Turčiansky Michal",
+      "zip": "039 01",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3819,
+      "fullname": "Veľký Čepčín",
+      "shortname": "Veľký Čepčín",
+      "zip": "038 45",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 511,
+      "fullname": "Čremošné",
+      "shortname": "Čremošné",
+      "zip": "039 01",
+      "district_id": 71,
+      "okres": "Turčianske Teplice",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Turčianske Teplice - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Turčianske Teplice, Žilinský kraj — s PSČ a kódom okresu. Obsahuje 36 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Turčianske Teplice | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Turčianske Teplice — 36 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 36 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

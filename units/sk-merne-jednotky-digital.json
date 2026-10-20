@@ -1,0 +1,160 @@
+{
+  "id": "sk-merne-jednotky-digital",
+  "name": "Merné jednotky — kategória 'digital' (11)",
+  "title": "Merné jednotky — kategória 'digital' (11)",
+  "description": "Merné jednotky kategórie 'digital' z locale sk v CLDR, s názvami v slovenčine.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "skratka",
+      "label": "Skratka",
+      "type": "string"
+    },
+    {
+      "key": "uzky_tvar",
+      "label": "Uzky Tvar",
+      "type": "string"
+    },
+    {
+      "key": "vzor",
+      "label": "Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "digital-bit",
+      "kategoria": "digital",
+      "nazov": "bity",
+      "skratka": "bit",
+      "uzky_tvar": "bit",
+      "vzor": "{0} bitov"
+    },
+    {
+      "id": 2,
+      "unit_code": "digital-byte",
+      "kategoria": "digital",
+      "nazov": "bajty",
+      "skratka": "bajt",
+      "uzky_tvar": "B",
+      "vzor": "{0} bajtov"
+    },
+    {
+      "id": 3,
+      "unit_code": "digital-gigabit",
+      "kategoria": "digital",
+      "nazov": "gigabity",
+      "skratka": "Gb",
+      "uzky_tvar": "Gb",
+      "vzor": "{0} gigabitov"
+    },
+    {
+      "id": 4,
+      "unit_code": "digital-gigabyte",
+      "kategoria": "digital",
+      "nazov": "gigabajty",
+      "skratka": "GB",
+      "uzky_tvar": "GB",
+      "vzor": "{0} gigabajtov"
+    },
+    {
+      "id": 5,
+      "unit_code": "digital-kilobit",
+      "kategoria": "digital",
+      "nazov": "kilobity",
+      "skratka": "kb",
+      "uzky_tvar": "kb",
+      "vzor": "{0} kilobitov"
+    },
+    {
+      "id": 6,
+      "unit_code": "digital-kilobyte",
+      "kategoria": "digital",
+      "nazov": "kilobajty",
+      "skratka": "kB",
+      "uzky_tvar": "kB",
+      "vzor": "{0} kilobajtov"
+    },
+    {
+      "id": 7,
+      "unit_code": "digital-megabit",
+      "kategoria": "digital",
+      "nazov": "megabity",
+      "skratka": "Mb",
+      "uzky_tvar": "Mb",
+      "vzor": "{0} megabitov"
+    },
+    {
+      "id": 8,
+      "unit_code": "digital-megabyte",
+      "kategoria": "digital",
+      "nazov": "megabajty",
+      "skratka": "MB",
+      "uzky_tvar": "MB",
+      "vzor": "{0} megabajtov"
+    },
+    {
+      "id": 9,
+      "unit_code": "digital-petabyte",
+      "kategoria": "digital",
+      "nazov": "petabajty",
+      "skratka": "PB",
+      "uzky_tvar": "PB",
+      "vzor": "{0} petabajtov"
+    },
+    {
+      "id": 10,
+      "unit_code": "digital-terabit",
+      "kategoria": "digital",
+      "nazov": "terabity",
+      "skratka": "Tb",
+      "uzky_tvar": "Tb",
+      "vzor": "{0} terabitov"
+    },
+    {
+      "id": 11,
+      "unit_code": "digital-terabyte",
+      "kategoria": "digital",
+      "nazov": "terabajty",
+      "skratka": "TB",
+      "uzky_tvar": "TB",
+      "vzor": "{0} terabajtov"
+    }
+  ],
+  "meta": {
+    "title": "Merné jednotky — kategória 'digital' (11) - Bezplatné stiahnutie",
+    "description": "Merné jednotky kategórie 'digital' z locale sk v CLDR, s názvami v slovenčine. Obsahuje 11 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Merné jednotky — kategória 'digital' (11) | ListBase",
+    "seo_description": "Stiahnuť Merné jednotky — kategória 'digital' (11) — 11 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 11 záznamov / 7 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

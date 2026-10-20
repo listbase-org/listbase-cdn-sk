@@ -1,0 +1,326 @@
+{
+  "id": "sk-medzilaborce-obce",
+  "name": "Obce v okrese Medzilaborce",
+  "title": "Obce v okrese Medzilaborce",
+  "description": "Všetky obce (municipality) v okrese Medzilaborce, Prešovský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 223,
+      "fullname": "Borov",
+      "shortname": "Borov",
+      "zip": "068 01",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 269,
+      "fullname": "Brestov nad Laborcom",
+      "shortname": "Brestov nad Laborcom",
+      "zip": "067 01",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 862,
+      "fullname": "Habura",
+      "shortname": "Habura",
+      "zip": "067 52",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1354,
+      "fullname": "Kalinov",
+      "shortname": "Kalinov",
+      "zip": "068 01",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1673,
+      "fullname": "Krivá Oľka",
+      "shortname": "Krivá Oľka",
+      "zip": "067 04",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1657,
+      "fullname": "Krásny Brod",
+      "shortname": "Krásny Brod",
+      "zip": "068 01",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2160,
+      "fullname": "Medzilaborce",
+      "shortname": "Medzilaborce",
+      "zip": "068 01",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2477,
+      "fullname": "Oľka",
+      "shortname": "Oľka",
+      "zip": "067 04",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2484,
+      "fullname": "Oľšinkov",
+      "shortname": "Oľšinkov",
+      "zip": "067 16",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2570,
+      "fullname": "Palota",
+      "shortname": "Palota",
+      "zip": "068 01",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2898,
+      "fullname": "Radvaň nad Laborcom",
+      "shortname": "Radvaň nad Laborcom",
+      "zip": "067 01",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2958,
+      "fullname": "Repejov",
+      "shortname": "Repejov",
+      "zip": "067 04",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2995,
+      "fullname": "Rokytovce",
+      "shortname": "Rokytovce",
+      "zip": "068 01",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2998,
+      "fullname": "Roškovce",
+      "shortname": "Roškovce",
+      "zip": "067 02",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3340,
+      "fullname": "Sukov",
+      "shortname": "Sukov",
+      "zip": "067 02",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3363,
+      "fullname": "Svetlice",
+      "shortname": "Svetlice",
+      "zip": "067 16",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3712,
+      "fullname": "Valentovce",
+      "shortname": "Valentovce",
+      "zip": "067 01",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3922,
+      "fullname": "Volica",
+      "shortname": "Volica",
+      "zip": "067 01",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3959,
+      "fullname": "Vydraň",
+      "shortname": "Vydraň",
+      "zip": "068 01",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3968,
+      "fullname": "Výrava",
+      "shortname": "Výrava",
+      "zip": "067 16",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4093,
+      "fullname": "Zbojné",
+      "shortname": "Zbojné",
+      "zip": "067 13",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4098,
+      "fullname": "Zbudská Belá",
+      "shortname": "Zbudská Belá",
+      "zip": "067 01",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 400,
+      "fullname": "Čabalovce",
+      "shortname": "Čabalovce",
+      "zip": "067 16",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 401,
+      "fullname": "Čabiny",
+      "shortname": "Čabiny",
+      "zip": "067 02",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 464,
+      "fullname": "Čertižné",
+      "shortname": "Čertižné",
+      "zip": "067 52",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2292,
+      "fullname": "Ňagov",
+      "shortname": "Ňagov",
+      "zip": "068 01",
+      "district_id": 36,
+      "okres": "Medzilaborce",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Medzilaborce - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Medzilaborce, Prešovský kraj — s PSČ a kódom okresu. Obsahuje 26 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Medzilaborce | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Medzilaborce — 26 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 26 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

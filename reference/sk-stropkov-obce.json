@@ -1,0 +1,556 @@
+{
+  "id": "sk-stropkov-obce",
+  "name": "Obce v okrese Stropkov",
+  "title": "Obce v okrese Stropkov",
+  "description": "Všetky obce (municipality) v okrese Stropkov, Prešovský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 62,
+      "fullname": "Baňa",
+      "shortname": "Baňa",
+      "zip": "091 01",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 211,
+      "fullname": "Bokša",
+      "shortname": "Bokša",
+      "zip": "091 01",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 281,
+      "fullname": "Breznica",
+      "shortname": "Breznica",
+      "zip": "091 01",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 282,
+      "fullname": "Breznička",
+      "shortname": "Breznička",
+      "zip": "091 01",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 305,
+      "fullname": "Brusnica",
+      "shortname": "Brusnica",
+      "zip": "090 31",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 338,
+      "fullname": "Bukovce",
+      "shortname": "Bukovce",
+      "zip": "090 22",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 359,
+      "fullname": "Bystrá",
+      "shortname": "Bystrá",
+      "zip": "090 23",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 377,
+      "fullname": "Bžany",
+      "shortname": "Bžany",
+      "zip": "090 33",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1181,
+      "fullname": "Chotča",
+      "shortname": "Chotča",
+      "zip": "090 21",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 695,
+      "fullname": "Driečna",
+      "shortname": "Driečna",
+      "zip": "090 23",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 754,
+      "fullname": "Duplín",
+      "shortname": "Duplín",
+      "zip": "091 01",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 855,
+      "fullname": "Gribov",
+      "shortname": "Gribov",
+      "zip": "090 22",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 904,
+      "fullname": "Havaj",
+      "shortname": "Havaj",
+      "zip": "090 23",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1260,
+      "fullname": "Jakušovce",
+      "shortname": "Jakušovce",
+      "zip": "090 31",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1493,
+      "fullname": "Kolbovce",
+      "shortname": "Kolbovce",
+      "zip": "090 31",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1535,
+      "fullname": "Korunková",
+      "shortname": "Korunková",
+      "zip": "090 31",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1617,
+      "fullname": "Kožuchovce",
+      "shortname": "Kožuchovce",
+      "zip": "090 22",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1670,
+      "fullname": "Krišľovce",
+      "shortname": "Krišľovce",
+      "zip": "090 31",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1701,
+      "fullname": "Kručov",
+      "shortname": "Kručov",
+      "zip": "090 32",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1704,
+      "fullname": "Krušinec",
+      "shortname": "Krušinec",
+      "zip": "091 01",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1909,
+      "fullname": "Lomné",
+      "shortname": "Lomné",
+      "zip": "090 33",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2013,
+      "fullname": "Makovce",
+      "shortname": "Makovce",
+      "zip": "090 23",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2036,
+      "fullname": "Malá Poľana",
+      "shortname": "Malá Poľana",
+      "zip": "090 24",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2185,
+      "fullname": "Miková",
+      "shortname": "Miková",
+      "zip": "090 24",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2201,
+      "fullname": "Miňovce",
+      "shortname": "Miňovce",
+      "zip": "090 32",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2267,
+      "fullname": "Mrázovce",
+      "shortname": "Mrázovce",
+      "zip": "090 34",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2355,
+      "fullname": "Nižná Olšava",
+      "shortname": "Nižná Olšava",
+      "zip": "090 32",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2365,
+      "fullname": "Nižná Vladiča",
+      "shortname": "Nižná Vladiča",
+      "zip": "090 23",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2482,
+      "fullname": "Oľšavka",
+      "shortname": "Oľšavka",
+      "zip": "090 22",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2785,
+      "fullname": "Potoky",
+      "shortname": "Potoky",
+      "zip": "091 01",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2786,
+      "fullname": "Potôčky",
+      "shortname": "Potôčky",
+      "zip": "091 01",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3137,
+      "fullname": "Sitník",
+      "shortname": "Sitník",
+      "zip": "091 01",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3233,
+      "fullname": "Soľník",
+      "shortname": "Soľník",
+      "zip": "090 31",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3282,
+      "fullname": "Staškovce",
+      "shortname": "Staškovce",
+      "zip": "090 23",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3319,
+      "fullname": "Stropkov",
+      "shortname": "Stropkov",
+      "zip": "091 01",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3332,
+      "fullname": "Suchá",
+      "shortname": "Suchá",
+      "zip": "090 23",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3544,
+      "fullname": "Tisinec",
+      "shortname": "Tisinec",
+      "zip": "091 01",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3550,
+      "fullname": "Tokajík",
+      "shortname": "Tokajík",
+      "zip": "090 34",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3630,
+      "fullname": "Turany nad Ondavou",
+      "shortname": "Turany nad Ondavou",
+      "zip": "090 33",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3721,
+      "fullname": "Varechovce",
+      "shortname": "Varechovce",
+      "zip": "090 23",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3813,
+      "fullname": "Veľkrop",
+      "shortname": "Veľkrop",
+      "zip": "091 01",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3877,
+      "fullname": "Vislava",
+      "shortname": "Vislava",
+      "zip": "090 21",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3891,
+      "fullname": "Vladiča",
+      "shortname": "Vladiča",
+      "zip": "090 23",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3919,
+      "fullname": "Vojtovce",
+      "shortname": "Vojtovce",
+      "zip": "091 01",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3979,
+      "fullname": "Vyškovce",
+      "shortname": "Vyškovce",
+      "zip": "090 21",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3989,
+      "fullname": "Vyšná Olšava",
+      "shortname": "Vyšná Olšava",
+      "zip": "090 32",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3998,
+      "fullname": "Vyšná Vladiča",
+      "shortname": "Vyšná Vladiča",
+      "zip": "090 23",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4012,
+      "fullname": "Vyšný Hrabovec",
+      "shortname": "Vyšný Hrabovec",
+      "zip": "090 34",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3390,
+      "fullname": "Šandal",
+      "shortname": "Šandal",
+      "zip": "091 01",
+      "district_id": 64,
+      "okres": "Stropkov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Stropkov - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Stropkov, Prešovský kraj — s PSČ a kódom okresu. Obsahuje 49 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Stropkov | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Stropkov — 49 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 49 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

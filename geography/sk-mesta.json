@@ -1,0 +1,1424 @@
+{
+  "id": "sk-mesta",
+  "name": "Mestá a sídla Slovenska",
+  "title": "Mestá a sídla Slovenska",
+  "description": "Slovenské mestá a obývané sídla s počtom obyvateľov (> 500), okresom a zemepisnými súradnicami. Zdroj GeoNames (cities500).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 171,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "alternate_names",
+      "label": "Alternate Names",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bratislava",
+      "okres": "Bratislava",
+      "population": 423737,
+      "latitude": 48.1482,
+      "longitude": 17.1067,
+      "alternate_names": "An Bhrataslaiv, An Bhratasláiv, BTS, Baratislawa, Bracislava, Bratislav, Bratislava, Bratislava osh, Bratislavae, Bratislavo, Bratislawa, Bratisllava, Bratisława, Bratyslawa, Bratysława, Bratîslava, Mpratislaba, Posonium, Pozsony, Presburg, Presporok, Prespurk, Pressburg, Preszburg, Preßburg, Prešporok, Prešpurk, beulatiseullaba, bra ti sla wa, bratisalava, bratislabha, bratislava, bratislavha, bratslawa, bratsylava, bratyslafa, bratyslava, bratyslaw, bratyslawa, bu la di si la fa, burachisuravu~a, pirattislava, Μπρατισλάβα, Братислав, Братиславæ, Братислава, Братислава ош, Братіслава, Братїслава, Браціслава, Բրատիսլավա, בראטיסלאווא, ברטיסלאבה, براتسلاوا, براتسیلاڤا, براتىسلاۋا, براتيسلافا, براتیسلاو, براتیسلاوا, براٹیسلاوا, ܒܪܛܝܣܠܐܒܐ, ब्रातिस्लाभा, ब्रातिस्लाव्हा, ব্রাতিস্লাভা, ਬ੍ਰਾਤਿਸਲਾਵਾ, பிராத்திஸ்லாவா, ಬ್ರಾಟಿಸ್ಲಾವಾ, ബ്രാട്ടിസ്‌ലാവ, บราติสลาวา, བ་ར་ཏིསི་ལ་བ།, ბრატისლავა, ብራቲስላቫ, ブラチスラヴァ, 布拉迪斯拉发, 布拉迪斯拉發, 브라티슬라바"
+    },
+    {
+      "name": "Košice",
+      "okres": "Košický kraj",
+      "population": 236563,
+      "latitude": 48.7139,
+      "longitude": 21.2581,
+      "alternate_names": "Cassovia, KSC, Kaschau, Kassa, Koesice, Koshice, Koshici, Koshycy, Kosice, Kositse, Koszyce, Koşitse, Košice, Košicė, Kösice, ke xi ce, koshitsu~e, kosiche, kositsa, kwshytsh, qwsyzh, Κόσιτσε, Кошице, Кошыцы, Кошіцї, קושיצה, كوشيتسه, کوشیتسه, کوشیسہ, کوشیسے, कोशित्सा, კოშიცე, コシツェ, 科希策, 코시체"
+    },
+    {
+      "name": "Prešov",
+      "okres": "Okres Prešov",
+      "population": 94718,
+      "latitude": 48.9984,
+      "longitude": 21.2339,
+      "alternate_names": "Eperjes, POV, Prasiv, Preshov, Presov, Presova, Preszow, Preszów, Prešov, Prešova, Prjashev, prswb, Прешов, Пряшев, Пряшів, פרשוב"
+    },
+    {
+      "name": "Nitra",
+      "okres": "Okres Nitra",
+      "population": 86329,
+      "latitude": 48.3076,
+      "longitude": 18.0845,
+      "alternate_names": "Neutra, Nitra, Njitra, Nyitra, ni te la, niteula, nitora, nytra, nytrh, Њитра, Нитра, Нітра, ניטרה, נייטרא, نيترا, نیترا, ნიტრა, ニトラ, 尼特拉, 니트라"
+    },
+    {
+      "name": "Žilina",
+      "okres": "Okres Žilina",
+      "population": 85985,
+      "latitude": 49.2231,
+      "longitude": 18.7394,
+      "alternate_names": "ILZ, Jilina, Silina, Sillein, Solna, Zhilina, Zhilinae, Zhylina, Zilina, Zsolna, Zylina, jillina, jirina, jylyna, ri li na, zhilina, zhylyna, zylyna, zylynh, Żylina, Žilina, Жилинæ, Жилина, Жиліна, Жыліна, זילינה, جيلينا, زیلینا, ژیلینا, ჟილინა, ジリナ, 日利納, 질리나"
+    },
+    {
+      "name": "Banská Bystrica",
+      "okres": "Okres Banská Bystrica",
+      "population": 82336,
+      "latitude": 48.7395,
+      "longitude": 19.1535,
+      "alternate_names": "Bans'ka Bistricja, Banska Bistrica, Banska Bistritsa, Banska Bistryca, Banska Bystrica, Banska Bystrzyca, Banska-Bistrica, Banská Bystrica, Bańska Bystrzyca, Besztercebanya, Besztercebánya, Beszterczebanya, Beszterczebánya, Neosolium, Neusohl, ban si ka-bi si te li cha, ban ska bi stri t sa, banseukabiseuteulicha, banska bystrytsa, Банска Бистрица, Банска Бістрыца, Банска-Бистрица, Банська Бистриця, באנסקה ביסטריצה, بانسكا بيستريتسا, บันสกาบิสตรีตซา, バンスカー・ビストリツァ, 班斯卡-比斯特里察, 반스카비스트리차"
+    },
+    {
+      "name": "Trnava",
+      "okres": "Okres Trnava",
+      "population": 69785,
+      "latitude": 48.3774,
+      "longitude": 17.5872,
+      "alternate_names": "Nagyszombat, Trnava, Trnawa, Turnava, Tyrnau, te er na wa, teuleunaba, texr nawa, torunavu~a, trnafa, trnbh, Трнава, Търнава, טרנבה, ترنافا, เตอร์นาวา, トルナヴァ, 特爾納瓦, 트르나바"
+    },
+    {
+      "name": "Trenčín",
+      "okres": "Okres Trenčín",
+      "population": 58278,
+      "latitude": 48.8945,
+      "longitude": 18.0444,
+      "alternate_names": "Trenchin, Trencin, Trencsen, Trencsén, Trenczyn, Trentschin, Trentsen, Trenčin, Trenčín, Тренчин"
+    },
+    {
+      "name": "Poprad",
+      "okres": "Okres Poprad",
+      "population": 57431,
+      "latitude": 49.0614,
+      "longitude": 20.298,
+      "alternate_names": "Deutschendorf, Poprad, Poprád, TAT, Попрад"
+    },
+    {
+      "name": "Martin",
+      "okres": "Okres Martin",
+      "population": 54618,
+      "latitude": 49.0665,
+      "longitude": 18.924,
+      "alternate_names": "Marcin, Martin, Martin i Slovakia, Martina, Martinas, Mаrtin, Turciansky Svaty Martin, Turocszentmarton, Turz-Sankt Martin, Turz-St. Martin, Turócszentmárton, Turčiansky Svätý Martin, ma ding, maleutin, martn, maruchin, Мартин, Мартін, Марцін, مارتن, マルチン, 马丁, 마르틴"
+    },
+    {
+      "name": "Prievidza",
+      "okres": "Okres Prievidza",
+      "population": 52987,
+      "latitude": 48.7745,
+      "longitude": 18.6275,
+      "alternate_names": "Pr'evidza, Previdza, Prievidza, Privigye, Priеvidzа, Prjevidza, bryfydza, peuliebideuja, pu lie wei zha, purievu~idoza, Превідза, Приевидза, Прьевидза, Прєвідза, Прјевидза, بريفيدزا, پریه‌ویدزا, プリエヴィドザ, 普列維扎, 프리에비드자"
+    },
+    {
+      "name": "Zvolen",
+      "okres": "Okres Zvolen",
+      "population": 44502,
+      "latitude": 48.5744,
+      "longitude": 19.1532,
+      "alternate_names": "Altsohl, Zolyom, Zvolen, Zwolen, Zwoleń, Zólyom, zvolen, Зволен"
+    },
+    {
+      "name": "Považská Bystrica",
+      "okres": "Okres Považská Bystrica",
+      "population": 43936,
+      "latitude": 49.1215,
+      "longitude": 18.4217,
+      "alternate_names": "Bystrica, Pavazhska-Bistryca, Povajska Bistritsa, Povashka Bistrica, Povaska Bistrica, Povazhs'ka Bistricja, Povazhska-Bistrica, Povazska Bistrica, Povazska Bystrica, Povazske Bystraica, Povaška Bistrica, Považska Bistrica, Považská Bystrica, Powaska Bystrzyca, Vagbeszterce, Vágbeszterce, Waagbistritz, bwfajska bystrytsa, pobasyuseukabiseuteulicha, pwazhska bystrytsa, wa he he pan bi si te li cha, Паважска-Бістрыца, Поважска-Бистрица, Поважська Бистриця, Повашка Бистрица, بوفاجسكا بيستريتسا, پواژسکا بیستریتسا, 瓦赫河畔比斯特里察, 포바슈스카비스트리차"
+    },
+    {
+      "name": "Nové Zámky",
+      "okres": "Okres Nové Zámky",
+      "population": 42044,
+      "latitude": 47.9854,
+      "longitude": 18.162,
+      "alternate_names": "Ersekujvar, Neuhaeusel, Neuhaus, Neuhäusel, Nove Zamky, Nove-Zamki, Nové Zámky, Uyvar, awywar, Érsekújvár, Нове-Замки, اویوار"
+    },
+    {
+      "name": "Michalovce",
+      "okres": "Okres Michalovce",
+      "population": 40360,
+      "latitude": 48.7543,
+      "longitude": 21.9195,
+      "alternate_names": "Grossmichel, Großmichel, Michalovce, Michalovcė, Mihalovce, Mikhajlivci, Mikhajlovce, Mikhalaucy, Mikhalovce, Mixalovtse, Nagymihaly, Nagymihály, mi ha luo fu cai, mihallopeuche, miharofutsu~e, mykhalwftsy, mykhalwtsh, Михайловце, Михайлівці, Михаловце, Міхалаўцы, ميخالوفتسى, میخالوتسه, ミハロフツェ, 米哈洛夫采, 미할로프체"
+    },
+    {
+      "name": "Spišská Nová Ves",
+      "okres": "Okres Spišská Nová Ves",
+      "population": 39195,
+      "latitude": 48.9446,
+      "longitude": 20.5615,
+      "alternate_names": "Iglo, Igló, Neudorf, Spishska Nova Ves, Spiska Nowa Wies, Spiska Nowa Wieś, Spisska, Spisska Nova Ves, Spišská, Spišská Nová Ves, Спишска Нова Вес"
+    },
+    {
+      "name": "Levice",
+      "okres": "Okres Levice",
+      "population": 37574,
+      "latitude": 48.2156,
+      "longitude": 18.6071,
+      "alternate_names": "Leua, Leva, Levice, Leviceh, Levicė, Levitse, Ljevice, Léva, Lеvitsе, lai wei cai, lwh, lyfytsa, Љевице, Левице, Левіцэ, لوه, ليفيتسا, 萊維采"
+    },
+    {
+      "name": "Komárno",
+      "okres": "Okres Komárno",
+      "population": 36279,
+      "latitude": 47.7636,
+      "longitude": 18.1226,
+      "alternate_names": "Eszak-Komarom, Komarna, Komarnas, Komarno, Komarnom, Komarom, Komoran, Komorn, Komárno, Komárom, Komārno, Revkomarom, Révkomárom, ke ma er nuo, komaleuno, komaruno, kwmarnw, Észak-Komárom, Комарна, Комарно, Коморан, كومارنو, コマールノ, 科马尔诺, 코마르노"
+    },
+    {
+      "name": "Humenné",
+      "okres": "Okres Humenné",
+      "population": 35367,
+      "latitude": 48.9371,
+      "longitude": 21.9163,
+      "alternate_names": "Gumenne, Homenau, Homonna, Humenne, Humenné, Гуменне"
+    },
+    {
+      "name": "Bardejov",
+      "okres": "Okres Bardejov",
+      "population": 33060,
+      "latitude": 49.2918,
+      "longitude": 21.2727,
+      "alternate_names": "Bardejov, Bardejova, Bardejovas, Bardeyov, Bardiiv, Bardiow, Bardiów, Bardjejov, Bardzejou, Bartfa, Bartfeld, Bártfa, ba er dai yue fu, baleudeyopeu, bardeiovi, bardyw, barudeyofu, brdywb, brdywf, Бардейов, Бардеёв, Бардзеёў, Бардіїв, Бардјејов, Բարդեյով, ברדיוב, باردیو, برديوف, ბარდეიოვი, バルデヨフ, 巴爾代約夫, 바르데요프"
+    },
+    {
+      "name": "Liptovský Mikuláš",
+      "okres": "Okres Liptovský Mikuláš",
+      "population": 31194,
+      "latitude": 49.0806,
+      "longitude": 19.6222,
+      "alternate_names": "Liptau-Sankt-Nikolaus, Liptoszentmiklos, Liptovski-Mikulash, Liptovsky Mikulas, Liptovsky Svaty Mikulas, Liptovský Mikuláš, Liptovský Svätý Mikuláš, Liptowski Mikulasz, Liptószentmiklós, Липтовски-Микулаш"
+    },
+    {
+      "name": "Ružomberok",
+      "okres": "Okres Ružomberok",
+      "population": 30806,
+      "latitude": 49.0748,
+      "longitude": 19.3075,
+      "alternate_names": "Rosenberg, Rozahegy, Rozsahegy, Roźahegy, Rujomberok, Ruzhamberak, Ruzhomberok, Ruzomberk, Ruzomberok, Ruzomberoka, Ruzomberokas, Rużomberk, Ružomberok, Ružomberoka, Ružomberokas, Rózsahegy, lu rong bei luo ke, lujombelokeu, rujomuberoku, rwjwmbyrwk, rwzhmbrk, Ружамберак, Ружомберок, روجومبيروك, روژمبرک, ルジョムベロク, 鲁容贝罗克, 루좀베로크"
+    },
+    {
+      "name": "Piešťany",
+      "okres": "Okres Piešťany",
+      "population": 30000,
+      "latitude": 48.5948,
+      "longitude": 17.8259,
+      "alternate_names": "P'eshtjani, PZY, Peshcjany, Peshtjani, Pieshhjani, Piest'anoch, Piest'any, Piestany, Pieszczany, Piešťanoch, Piešťany, Pjeshtjani, Pjestjani, Pještjani, Poestyen, Pöstyén, byyshtany, pi ye shen jia ni, pieshuchani, piesyutani, Пешцяны, Пиещяни, Пьештяни, Пєштяни, Пјештјани, بييشتاني, پیه‌شتانی, ピエシュチャニ, 皮耶什佳尼, 피에슈타니"
+    },
+    {
+      "name": "Lučenec",
+      "okres": "Okres Lučenec",
+      "population": 28159,
+      "latitude": 48.3325,
+      "longitude": 19.6671,
+      "alternate_names": "LUE, Losonc, Losoncz, Lucenec, Luchenec, Lučenec, Лученец"
+    },
+    {
+      "name": "Dubnica nad Váhom",
+      "okres": "Okres Ilava",
+      "population": 26617,
+      "latitude": 48.9598,
+      "longitude": 18.1663,
+      "alternate_names": "Dubnica na Vakhu, Dubnica nad Vahom, Dubnica nad Váhom, Dubnica pie Vahas, Dubnica pie Vāhas, Dubnica prie Vaho, Dubnica-nad-Vagam, Dubnica-nad-Vagom, Dubnitsa nad Vahom, Dubnjica na Vahu, Mariatoelgyes, Máriatölgyes, dubeunichanateubahom, dwbnytsa nad fahwm, dwbnytsa nad wahm, wa he he pan du bu ni cha, Дубница-над-Вагом, Дубніца-над-Вагам, Дубњица на Ваху, دوبنيتسا ناد فاهوم, دوبنیتسا ناد واهم, 瓦赫河畔杜布尼察, 두브니차나트바홈"
+    },
+    {
+      "name": "Rimavská Sobota",
+      "okres": "Okres Rimavská Sobota",
+      "population": 25235,
+      "latitude": 48.3828,
+      "longitude": 20.0224,
+      "alternate_names": "Rima-Szombat, Rimaszombat, Rimavska Sobota, Rimavská Sobota, Sobota Rimavska, Sobota Rimavská, Римавска Собота"
+    },
+    {
+      "name": "Čadca",
+      "okres": "Okres Čadca",
+      "population": 24670,
+      "latitude": 49.435,
+      "longitude": 18.7889,
+      "alternate_names": "Cadca, Chadca, Csaca, Csacza, Czaca, Čadca, Чадца"
+    },
+    {
+      "name": "Šaľa",
+      "okres": "Okres Šaľa",
+      "population": 24513,
+      "latitude": 48.1513,
+      "longitude": 17.8806,
+      "alternate_names": "Sal'a, Sala, Sala nad Vahom, Sellye, Shalja, Vagsellye, Vágsellye, Šala nad Váhom, Šaľa, Шаля"
+    },
+    {
+      "name": "Partizánske",
+      "okres": "Okres Partizánske",
+      "population": 24370,
+      "latitude": 48.6286,
+      "longitude": 18.3846,
+      "alternate_names": "Bat'ovany, Baťovany, Partizans'ke, Partizanske, Partizánske, Partizānske, Partyzanske, Partyzánske, Simonovany, Simony, bartyzansky, pa di zan si ke, partyzanskh, Šimonovany, Παρτίζανσκε, Партизанске, Партизанське, بارتيزانسكى, پارتیزانسکه, 帕蒂贊斯克"
+    },
+    {
+      "name": "Hlohovec",
+      "okres": "Okres Hlohovec",
+      "population": 23930,
+      "latitude": 48.4317,
+      "longitude": 17.8031,
+      "alternate_names": "Galgoc, Galgóc, Hlohovec, glogovec, Глоговец"
+    },
+    {
+      "name": "Dunajská Streda",
+      "okres": "Okres Dunajská Streda",
+      "population": 23639,
+      "latitude": 47.9927,
+      "longitude": 17.6121,
+      "alternate_names": "Duna-Szerdahely, Dunaiska Streda, Dunajska Streda, Dunajska-Streda, Dunajska-Strehda, Dunajská Streda, Dunaszerdahely, Dunayska Streda, dunaiseukaseuteuleda, duo nao si te lei da, dwnyska stryda, Дунайска-Стреда, Дунайска-Стрэда, Дунајска Стреда, דונאיסקה סטרדה, دونيسكا ستريدا, ドゥナイスカー・ストレダ, 多瑙斯特雷達, 두나이스카스트레다"
+    },
+    {
+      "name": "Vranov nad Topľou",
+      "okres": "Okres Vranov nad Topľou",
+      "population": 23246,
+      "latitude": 48.8884,
+      "longitude": 21.6848,
+      "alternate_names": "Varanno, Varannó, Voroniv nad Topljov, Vranov, Vranov na Toploj, Vranov nad Topl'ou, Vranov nad Toplou, Vranov nad Toplyou, Vranov nad Topľou, Vranov-nad-Topl'ou, Vranov-nad-Topljou, Vranova pie Toplas, Vranova pie Topļas, Vranovas prie Toplios, franwf nad twblwa, tuo pu la he pan fu la nuo fu, wranw nad tplyw, Воронів над Топлёв, Вранов на Топлој, Вранов-над-Топльоу, Вранов-над-Топлёу, فرانوف ناد توبلوا, ورانو ناد تپلیو, 托普拉河畔弗拉諾夫"
+    },
+    {
+      "name": "Trebišov",
+      "okres": "Okres Trebišov",
+      "population": 22947,
+      "latitude": 48.6286,
+      "longitude": 21.7195,
+      "alternate_names": "Toketerebes, Trebishov, Trebisov, Trebisova, Trebisovas, Trebişov, Trebišov, Trebišova, Trebišovas, Tőketerebes, te lei bi shao fu, teulebisyopeu, trbyshw, trybyshwf, Требишов, Требішов, تربیشو, تريبيشوف, 特雷比紹夫, 트레비쇼프"
+    },
+    {
+      "name": "Snina",
+      "okres": "Okres Snina",
+      "population": 22221,
+      "latitude": 48.9886,
+      "longitude": 22.151,
+      "alternate_names": "Snina, Snjina, Szinna, si ni na, snyna, Снина, Сњина, سنينا, سنینا, 斯尼納"
+    },
+    {
+      "name": "Senica",
+      "okres": "Okres Senica",
+      "population": 21741,
+      "latitude": 48.6792,
+      "longitude": 17.367,
+      "alternate_names": "Senica, Senjica, Szenice, sai ni cha, senicha, snytsa, synytsa, Сеница, Сеніца, Сењица, سنیتسا, سينيتسا, 塞尼察, 세니차"
+    },
+    {
+      "name": "Nové Mesto nad Váhom",
+      "okres": "Okres Nové Mesto nad Váhom",
+      "population": 21527,
+      "latitude": 48.7576,
+      "longitude": 17.8309,
+      "alternate_names": "Nove Mesto nad Vagom, Nove Mesto nad Vahom, Nove-Mesto-nad-Vagom, Nové Mesto nad Váhom, Otura, Vagujhely, Vágújhely, Ótura, Нове Место над Вагом, Нове-Место-над-Вагом"
+    },
+    {
+      "name": "Pezinok",
+      "okres": "Okres Pezinok",
+      "population": 21343,
+      "latitude": 48.2899,
+      "longitude": 17.2666,
+      "alternate_names": "Bazin, Boesing, Bösing, Pezinak, Pezinok, Pеzinоk, byzynwk, pei ji nuo ke, pejinoku, pzynk, pzynwk, Пезинок, Пезінак, بيزينوك, پزینوک, پزینک, ペジノク, 佩濟諾克"
+    },
+    {
+      "name": "Brezno",
+      "okres": "Okres Brezno",
+      "population": 21331,
+      "latitude": 48.8043,
+      "longitude": 19.6363,
+      "alternate_names": "Brezno, Brezno nad Hronom, Breznobanya, Breznon, Breznóbánya, Bries, Брезно"
+    },
+    {
+      "name": "Žiar nad Hronom",
+      "okres": "Okres Žiar nad Hronom",
+      "population": 19392,
+      "latitude": 48.5918,
+      "longitude": 18.8496,
+      "alternate_names": "Svaty Kriz nad Hronom, Svätý Kríž nad Hronom, Ziar nad Hronom, Žiar nad Hronom"
+    },
+    {
+      "name": "Rožňava",
+      "okres": "Okres Rožňava",
+      "population": 19261,
+      "latitude": 48.6601,
+      "longitude": 20.5376,
+      "alternate_names": "Rosenau, Rozhnjava, Roznava, Rozsnyo, Rozsnyó, Rožňava, Рожнява"
+    },
+    {
+      "name": "Dolný Kubín",
+      "okres": "Okres Dolný Kubín",
+      "population": 18995,
+      "latitude": 49.2098,
+      "longitude": 19.3034,
+      "alternate_names": "Alsokubin, Alsókubin, Dol'nij Kubin, Dol'ny-Kubin, Dolni Kubin, Dolni Kubina, Dolni Kubīna, Dolny Kubin, Dolny Kubynas, Dolní Kubín, Dolný Kubín, Dolnı Kubin, Unterkubin, dlny kwbyn, dolnikubin, dwlny kwbyn, dwlny qwbyn, xia ku bin, Долни Кубин, Дольний Кубін, Дольны-Кубин, דולני קובין, دلنی کوبین, دولني كوبين, ڈlnے kywbyn, ڈلنے کیوبین, 下庫賓, 돌니쿠빈"
+    },
+    {
+      "name": "Bánovce nad Bebravou",
+      "okres": "Okres Bánovce nad Bebravou",
+      "population": 18933,
+      "latitude": 48.7213,
+      "longitude": 18.2575,
+      "alternate_names": "Ban, Banovce, Banovce na Bebravi, Banovce nad Bebravou, Banovce pie Bebravas, Banovce-nad-Bebravou, Banovtse nad Bebravou, Bán, Bánovce nad Bebravou, Bānovce pie Bebravas, banovtse-nad-bebravou, banwfts nad bybrafw, banwtsh nad bbraww, bei bu la wa he pan ba nuo wei cai, Бановце на Бебрави, Бановце-над-Бебравоу, بانوتسه ناد ببراوو, بانوفتس ناد بيبرافو, ბანოვცე-ნად-ბებრავოუ, 貝布拉瓦河畔巴諾維采"
+    },
+    {
+      "name": "Púchov",
+      "okres": "Okres Púchov",
+      "population": 18833,
+      "latitude": 49.1249,
+      "longitude": 18.326,
+      "alternate_names": "Pucho, Puchov, Puchovas, Puho, Puhov, Puhova, Puhó, Pukhov, Puxov, Púchov, Pūchovas, Pūhova, bwkhwf, pu huo fu, puhopeu, pwkhw, Пухов, بوخوف, پوخو, 普霍夫, 푸호프"
+    },
+    {
+      "name": "Handlová",
+      "okres": "Okres Prievidza",
+      "population": 18018,
+      "latitude": 48.7276,
+      "longitude": 18.7601,
+      "alternate_names": "Gandlava, Gandlova, Handlova, Handlová, Khandlova, Mercatoria, Nyitrabanya, Nyitrabánya, han de luo wa, handlwa, handlwfa, Гандлава, Гандлова, Хандлова, هاندلوا, هاندلوفا, ہینڈلووا, 漢德洛瓦"
+    },
+    {
+      "name": "Malacky",
+      "okres": "Okres Malacky",
+      "population": 17773,
+      "latitude": 48.436,
+      "longitude": 17.0219,
+      "alternate_names": "Malacka, Malacke, Malacki, Malacky, Malaczka, Malatski, Malczka, Mаlаtski, ma la ci ji, malatsky, Малацки, Малацкі, مالاتسكي, مالاتسکی, 馬拉茨基"
+    },
+    {
+      "name": "Kysucké Nové Mesto",
+      "okres": "Okres Kysucké Nové Mesto",
+      "population": 16558,
+      "latitude": 49.3,
+      "longitude": 18.7833,
+      "alternate_names": "Kisucke Nove Mesto, Kisucke-Nove-Mesto, Kisutske Nove Mesto, Kiszucaujhely, Kiszucaújhely, Kysucke Nove Mesto, Kysucké Nové Mesto, ku shu ji xin mei si tuo, kyswtskh nwh mstw, kyswtsky nwfy mystw, Кисуцке Нове Место, Кисуцке-Нове-Место, كيسوتسكى نوفى ميستو, کیسوتسکه نوه مستو, 庫舒基新梅斯托"
+    },
+    {
+      "name": "Kežmarok",
+      "okres": "Okres Kežmarok",
+      "population": 16381,
+      "latitude": 49.1357,
+      "longitude": 20.4335,
+      "alternate_names": "Kaesmark, Kasmark, Kejmarok, Kesmark, Kezhmarak, Kezhmarok, Kezmarok, Kezmaroka, Kezmarokas, Kežmarok, Kežmaroka, Kežmarokas, Kiezmark, Kieżmark, Käsmark, Késmárk, kai ri ma luo ke, kejumalokeu, kejumaroku, kyjmarwk, kzhmark, Кежмарак, Кежмарок, קעזמארק, كيجماروك, کژمارک, ケジュマロク, 凱日馬羅克, 케주마로크"
+    },
+    {
+      "name": "Galanta",
+      "okres": "Okres Galanta",
+      "population": 16365,
+      "latitude": 48.19,
+      "longitude": 17.7275,
+      "alternate_names": "Galanta, Galánta, Галанта"
+    },
+    {
+      "name": "Stará Ľubovňa",
+      "okres": "Okres Stará Ĺubovňa",
+      "population": 16000,
+      "latitude": 49.2986,
+      "longitude": 20.6862,
+      "alternate_names": "Lubowla, Olublo, Stara L'ubovna, Stara LJubovna, Stara Liubovnia, Stara Ljubovnja, Stara Lubovna, Stara Lyubovnya, Stara Ļubovņa, Stará Ľubovňa, jiu liu bo fu ni ya, stara lwbwfna, Ólubló, Стара Љубовња, Стара Любовня, ستارا لوبوفنا, 舊柳博夫尼亞"
+    },
+    {
+      "name": "Zlaté Moravce",
+      "okres": "Okres Zlaté Moravce",
+      "population": 15618,
+      "latitude": 48.3855,
+      "longitude": 18.4006,
+      "alternate_names": "Aranyosmarot, Aranyosmarót, Zlata-Moraucy, Zlate Moravce, Zlate Moravcė, Zlate Moravtse, Zlate-Moravce, Zlaté Moravce, zi la te mo la fu cai, zlath mrawtsh, zlaty mwraftsy, Злата-Мораўцы, Злате Моравце, Злате-Моравце, زلاته مراوتسه, زلاتى مورافتسى, 茲拉特莫拉夫采"
+    },
+    {
+      "name": "Detva",
+      "okres": "Okres Detva",
+      "population": 15020,
+      "latitude": 48.5608,
+      "longitude": 19.4195,
+      "alternate_names": "Detva, Djetva, Gyetva, dai te wa, dtwa, dytfa, Детва, Дјетва, دتوا, ديتفا, 代特瓦"
+    },
+    {
+      "name": "Skalica",
+      "okres": "Okres Skalica",
+      "population": 15013,
+      "latitude": 48.8449,
+      "longitude": 17.2264,
+      "alternate_names": "Skalica"
+    },
+    {
+      "name": "Senec",
+      "okres": "Okres Senec",
+      "population": 14673,
+      "latitude": 48.2195,
+      "longitude": 17.4004,
+      "alternate_names": "Senec, Senecas, Senets, Senjec, Szenc, sai nei ci, senecheu, snts  aslwaky, snz, synts, Сенец, Сењец, סנץ, سنتس، اسلواکی, سينتس, 塞内茨, 세네츠"
+    },
+    {
+      "name": "Levoča",
+      "okres": "Okres Levoča",
+      "population": 14511,
+      "latitude": 49.0217,
+      "longitude": 20.5921,
+      "alternate_names": "Leutschau, Levacha, Levoca, Levocha, Levoça, Levoča, Lewocza, Ljevocha, Locse, Löcse, Lőcse, lai wo qia, lbwzh, lebocha, levocha, lwcha, lyfwtsha, revu~ocha, Љевоча, Левача, Левоча, לבוצה, لوچا, ليفوتشا, ლევოჩა, レヴォチャ, 萊沃恰, 레보차"
+    },
+    {
+      "name": "Revúca",
+      "okres": "Okres Revúca",
+      "population": 13466,
+      "latitude": 48.6835,
+      "longitude": 20.1173,
+      "alternate_names": "Nagyroce, Nagyrőce, Revuca, Revúca, Revūca, lebucha, lei wu cha, rwfytsa, rwwtsa, Ревуца, روفيتسا, رووتسا, 雷武察, 레부차"
+    },
+    {
+      "name": "Myjava",
+      "okres": "Okres Myjava",
+      "population": 13142,
+      "latitude": 48.7588,
+      "longitude": 17.5687,
+      "alternate_names": "Miava, Myjava"
+    },
+    {
+      "name": "Veľký Krtíš",
+      "okres": "Okres Veľký Krtíš",
+      "population": 12608,
+      "latitude": 48.2106,
+      "longitude": 19.3504,
+      "alternate_names": "Krtis, Krtíš, Nagykuertoes, Nagykürtös, Vel'ki Krcish, Vel'ki Krtish, Vel'ki-Krtish, Vel'ky Krtis, Veljki Krtis, Veljki Krtiš, Velki Krtis, Velki Krtisa, Velki Krtish, Velki Krtiş, Veļki Krtīša, Veľký Krtíš, da ke er ji shen, fylky krtysh, wlky krtysh, Вельки Кртиш, Вельки-Кртиш, Велькі Крціш, Вељки Кртиш, فيلكي كرتيش, ولکی کرتیش, 大克爾季什"
+    },
+    {
+      "name": "Svidník",
+      "okres": "Okres Svidník",
+      "population": 12428,
+      "latitude": 49.3082,
+      "longitude": 21.5703,
+      "alternate_names": "Felsovizkoez, Felsővízköz, Svidnik, Svidník, Vysnyj Svidnik, Vyšnyj Svidnik, Свидник"
+    },
+    {
+      "name": "Nová Dubnica",
+      "okres": "Okres Ilava",
+      "population": 12358,
+      "latitude": 48.9348,
+      "longitude": 18.1463,
+      "alternate_names": "Kiskelecseny, Kiskelecsény, Nova Dubnica, Nová Dubnica, Ujtoelgyes, Újtölgyes"
+    },
+    {
+      "name": "Sabinov",
+      "okres": "Okres Sabinov",
+      "population": 12290,
+      "latitude": 49.1031,
+      "longitude": 21.0988,
+      "alternate_names": "Kisseben, Kisszeben, Sabinau, Sabiniv, Sabinov, Sabinova, Sabinovas, Zeben, sa bi nuo fu, sabynw, sabynwf, Сабинов, Сабинів, Сабінаў, سابينوف, سابینو, 薩比諾夫"
+    },
+    {
+      "name": "Šamorín",
+      "okres": "Okres Dunajská Streda",
+      "population": 12143,
+      "latitude": 48.0301,
+      "longitude": 17.3097,
+      "alternate_names": "Samorin, Shamorin, Somorja, sha mo lin, shamryn, shamwryn, smwryn, Şamorin, Šamorin, Šamorín, Шаморин, שמורין, شامرین, شامورين, 沙莫林"
+    },
+    {
+      "name": "Štúrovo",
+      "okres": "Okres Nové Zámky",
+      "population": 11708,
+      "latitude": 47.795,
+      "longitude": 18.7175,
+      "alternate_names": "Parkan, Parkany, Párkány, Shturava, Shturovo, Sturovo, shen tu luo wo, shtwrwfw, shtwrww, Šturovo, Štúrovo, Štūrovo, Штурава, Штурово, شتوروفو, شتوروو, 什圖羅沃"
+    },
+    {
+      "name": "Holíč",
+      "okres": "Okres Skalica",
+      "population": 11416,
+      "latitude": 48.8111,
+      "longitude": 17.1624,
+      "alternate_names": "Golich, Holic, Holics, Holič, Holíč, Kholich, hlych, hlytsh, huo li qi, Голич, Холич, هليتش, هلیچ, ہولیچ, 霍利奇"
+    },
+    {
+      "name": "Bytča",
+      "okres": "Okres Bytča",
+      "population": 11279,
+      "latitude": 49.224,
+      "longitude": 18.5588,
+      "alternate_names": "Bitca, Bitcha, Bitča, Bytca, Bytča, Nagybiccse, bi te qia, bytcha, byttsha, bytzh, Битча, ביטצה, بيتتشا, بیتچا, ბიტჩა, 比特恰"
+    },
+    {
+      "name": "Stropkov",
+      "okres": "Okres Stropkov",
+      "population": 10874,
+      "latitude": 49.2021,
+      "longitude": 21.6522,
+      "alternate_names": "Stropkov, Stropkova, Stropkovas, Sztropko, Sztropkó, si te luo pu ke fu, strwbkwf, strwpkw, Стропков, סטראפקאוו, ستروبكوف, ستروپکو, 斯特羅普科夫"
+    },
+    {
+      "name": "Kolárovo",
+      "okres": "Okres Komárno",
+      "population": 10823,
+      "latitude": 47.9229,
+      "longitude": 17.9847,
+      "alternate_names": "Guta, Gutta, Gúta, Kolarovo, Kolárovo, Kolārovo, ke la luo wo, klarwfw, klarww, Коларово, كلاروفو, کلاروو, 科拉羅沃"
+    },
+    {
+      "name": "Šurany",
+      "okres": "Okres Nové Zámky",
+      "population": 10491,
+      "latitude": 48.0861,
+      "longitude": 18.1845,
+      "alternate_names": "Nagysurany, Nagysurány, Shurani, Shurany, Suran, Surani, Surany, Surány, shu la ni, shurani, shwran, Şuran, Šurani, Šurany, Шурани, Шураны, شوران, シュラニ, 舒拉尼"
+    },
+    {
+      "name": "Stará Turá",
+      "okres": "Okres Nové Mesto nad Váhom",
+      "population": 10291,
+      "latitude": 48.7772,
+      "longitude": 17.6943,
+      "alternate_names": "Otura, Stara, Stara Tura, Stará, Stará Turá, Ótura"
+    },
+    {
+      "name": "Fiľakovo",
+      "okres": "Okres Lučenec",
+      "population": 10198,
+      "latitude": 48.2676,
+      "longitude": 19.8247,
+      "alternate_names": "Fil'akovo, Filakovo, Filek, Filjakovo, Fiļakovo, Fiľakovo, Fuelek, Fulek, Fülek, fei la ke wo, fylakwfw, fylakww, fylk, Филяково, Фиљаково, فيلاكوفو, فیلاکوو, فیلک, 菲拉科沃"
+    },
+    {
+      "name": "Banská Štiavnica",
+      "okres": "Okres Banská Štiavnica",
+      "population": 10191,
+      "latitude": 48.4486,
+      "longitude": 18.91,
+      "alternate_names": "Bans'ka Shtjavnicja, Banska Shhjavnica, Banska Shtjavnica, Banska Stiavnica, Banska Stiavnica a Banska Bela, Banska Stjavnica, Banska Szczawnica, Banska Štiavnica, Banska Štjavnica, Banska-Shc'jaunica, Banska-Sht'javnica, Banská Štiavnica, Banská Štiavnica a Banská Belá, Bańska Szczawnica, Schemnitz, Selmecbanya, Selmecbánya, Selmeczbanya, Selmeczbánya, ban si ka shen jia fu ni cha, banseukasyutiabeunicha, banska shtyawyntsa, banska shtyfnytsa, Банска Штјавњица, Банска Щявница, Банска-Штьявница, Банска-Шцьяўніца, Банська Штявниця, באנסקה שטיאווניצה, بانسكا شتيفنيتسا, بانسکا شتیاوینتسا, ბანსკა-შტიავნიცა, バンスカー・シュチャヴニツァ, 班斯卡什佳夫尼察, 반스카슈티아브니차"
+    },
+    {
+      "name": "Tvrdošín",
+      "okres": "Okres Tvrdošín",
+      "population": 9544,
+      "latitude": 49.337,
+      "longitude": 19.556,
+      "alternate_names": "Turdossin, Tvrdoshin, Tvrdoshyn, Tvrdosin, Tvrdosina, Tvrdošin, Tvrdošín, Tvrdošīna, Twardoszyn, te fu er duo xin, tfrdwshyn, twrdshyn, Тврдошин, Тврдошын, تفردوشين, توردشین, 特夫爾多辛"
+    },
+    {
+      "name": "Moldava nad Bodvou",
+      "okres": "Okres Kosice-okolie",
+      "population": 9525,
+      "latitude": 48.6143,
+      "longitude": 20.9996,
+      "alternate_names": "Moldava na Bodvi, Moldava nad Bodvou, Moldava nad Bodvu, Moldava pie Bodvas, Moldava-nad-Bodvou, Szepsi, bo de wa he pan mo er da wa, mldawa nad bdww, mwldwfa nad bwdfwa, Молдава на Бодви, Молдава-над-Бодвоу, ملداوا ناد بدوو, مولدوفا ناد بودفوا, 博德瓦河畔摩爾達瓦"
+    },
+    {
+      "name": "Vráble",
+      "okres": "Okres Nitra",
+      "population": 9493,
+      "latitude": 48.2437,
+      "longitude": 18.3085,
+      "alternate_names": "Verebely, Verebély"
+    },
+    {
+      "name": "Veľký Meder",
+      "okres": "Okres Dunajská Streda",
+      "population": 9113,
+      "latitude": 47.858,
+      "longitude": 17.7688,
+      "alternate_names": "Calovo, Nagy Meder, Nagymegyer, Vel'ki-Meder, Veljki Medjer, Velki Medjer, da mei jie er, fylky mydar, wlky mdr, Čalovo, Вельки-Медер, Вељки Медјер, فيلكي ميدار, ولکی مدر, 大梅傑爾"
+    },
+    {
+      "name": "Krompachy",
+      "okres": "Okres Spišská Nová Ves",
+      "population": 8812,
+      "latitude": 48.9145,
+      "longitude": 20.8751,
+      "alternate_names": "Korompa, Krompachi, Krompachy, Krompahi, Krompakhi, ke long pa xi, krmbakhy, krmpakhy, qrwmpky, Кромпахи, קרומפכי, كرمباخي, کرمپاخی, 克龍帕希"
+    },
+    {
+      "name": "Modra",
+      "okres": "Okres Pezinok",
+      "population": 8536,
+      "latitude": 48.334,
+      "longitude": 17.3071,
+      "alternate_names": "Modern, Modor, Modra, mdra, mo de la, mwdra, Модра, Մոդրա, مدرا, مودرا, 莫德拉"
+    },
+    {
+      "name": "Hriňová",
+      "okres": "Okres Detva",
+      "population": 8289,
+      "latitude": 48.5779,
+      "longitude": 19.5257,
+      "alternate_names": "Grinjova, Herencsvoelgy, Herencsvölgy, Hrinjova, Hrinova, Hriņova, Hriňová, Khrinova, he li ni ao wa, hrynwa, hrynwfa, Гринёва, Хрињова, هرينوفا, هرینوا, ہرینووا, 赫里尼奧瓦"
+    },
+    {
+      "name": "Hurbanovo",
+      "okres": "Okres Komárno",
+      "population": 8153,
+      "latitude": 47.8698,
+      "longitude": 18.1923,
+      "alternate_names": "Altdala, Gurbanovo, Khurbanovo, Ogyalla, Stara d'ala, Stará ďala, hu er ba nuo wo, hwrbanwfw, hwrbanww, Ógyalla, Гурбаново, Хурбаново, هوربانوفو, هوربانوو, ہربانووو, 胡爾巴諾沃"
+    },
+    {
+      "name": "Námestovo",
+      "okres": "Okres Namestovo",
+      "population": 8135,
+      "latitude": 49.4079,
+      "longitude": 19.4803,
+      "alternate_names": "Namestovo, Nameszto, Namiestow, Namiestów, Námestovo, Námesztó, Nāmestovo, na mei si tuo wo, namstww, namystwfw, Наместово, نامستوو, ناميستوفو, 納梅斯托沃"
+    },
+    {
+      "name": "Stupava",
+      "okres": "Okres Malacky",
+      "population": 8063,
+      "latitude": 48.2747,
+      "longitude": 17.0317,
+      "alternate_names": "Stampfen, Stomfa, Stupava, si tu pa wa, stwbafa, stwpawa  nahyh malatsky, Ступава, ستوبافا, ستوپاوا، ناحیه مالاتسکی, 斯圖帕瓦"
+    },
+    {
+      "name": "Šahy",
+      "okres": "Okres Levice",
+      "population": 8061,
+      "latitude": 48.0741,
+      "longitude": 18.9495,
+      "alternate_names": "Ipoly Sagh, Ipoly Ságh, Ipolysag, Ipolyság, Sag, Sahi, Sahy, Shagi, Shakhi, Ság, sha xi, shahy, shahy  aslwaky, shy, Šahi, Šahy, Шаги, Шахи, סהי, شاهي, شاهی، اسلواکی, 沙希"
+    },
+    {
+      "name": "Chlmec",
+      "okres": "Okres Humenné",
+      "population": 8031,
+      "latitude": 48.8863,
+      "longitude": 21.9393,
+      "alternate_names": "Chlmec, Chlumec"
+    },
+    {
+      "name": "Krupina",
+      "okres": "Okres Krupina",
+      "population": 7991,
+      "latitude": 48.3554,
+      "longitude": 19.0647,
+      "alternate_names": "Korpona, Krupina, ke lu pi na, keulupina, krwbyna, krwpyna, Крупина, Крупіна, كروبينا, کروپینا, 克魯皮納, 크루피나"
+    },
+    {
+      "name": "Turzovka",
+      "okres": "Okres Čadca",
+      "population": 7854,
+      "latitude": 49.4043,
+      "longitude": 18.6226,
+      "alternate_names": "Turzofalva, Turzovka, Turzowka, Turzófalva, Turzówka, tu er zuo fu ka, twrzwfka, twrzwka, Турзовка, تورزوفكا, تورزوکا, 圖爾佐夫卡"
+    },
+    {
+      "name": "Sečovce",
+      "okres": "Okres Trebišov",
+      "population": 7819,
+      "latitude": 48.7007,
+      "longitude": 21.661,
+      "alternate_names": "Galszecs, Gálszécs, Sechovce, Secovce, Sečovce, sai qiao fu cai, schwts, sytswfs, Сечовце, سيتسوفس, سچوتس, 塞喬夫采"
+    },
+    {
+      "name": "Liptovský Hrádok",
+      "okres": "Okres Liptovský Mikuláš",
+      "population": 7572,
+      "latitude": 49.0396,
+      "longitude": 19.7233,
+      "alternate_names": "Liptoujvar, Liptovski Hradok, Liptovski Hradoka, Liptovski Hrādoka, Liptovski Khradok, Liptovski-Gradok, Liptovsky Hradok, Liptovský Hrádok, Liptowski Grodek, Liptowski Gródek, Liptóújvár, Neuhaeusel in der Liptau, Neuhäusel in der Liptau, li pu tuo fu bao, lybtwfsky hradwk, lyptwsky hradk, Липтовски Храдок, Липтовски-Градок, ليبتوفسكي هرادوك, لیپتوسکی هرادک, 利普托夫堡"
+    },
+    {
+      "name": "Želiezovce",
+      "okres": "Okres Levice",
+      "population": 7522,
+      "latitude": 48.0508,
+      "longitude": 18.6542,
+      "alternate_names": "Zeliezovce, Zeljezovce, Zhel'ezovce, Zhelezovce, Zseliz, Zselíz, jylyzwftsy, re lie zuo fu cai, Želiezovce, Željezovce, Жельезовце, Жељезовце, جيليزوفتسي, ژلیه‌زوتسه, 热列佐夫采"
+    },
+    {
+      "name": "Nová Baňa",
+      "okres": "Okres Žarnovica",
+      "population": 7505,
+      "latitude": 48.4231,
+      "longitude": 18.6404,
+      "alternate_names": "Konigsberg, Königsberg, Nova Bana, Nova Banja, Nova Baņa, Nova-Banja, Nová Baňa, Ujbanya, nwa bana, nwfa bana, xin ba ni ya, Újbánya, Нова Бања, Нова-Баня, نوا بانا, نوفا بانا, 新巴尼亞"
+    },
+    {
+      "name": "Trstená",
+      "okres": "Okres Tvrdošín",
+      "population": 7461,
+      "latitude": 49.361,
+      "longitude": 19.6125,
+      "alternate_names": "Trstena, Trstená, Trsztena, Trzciana, te er si tai na, trstna, trystyna, Трстена, ترستنا, تريستينا, 特爾斯泰納"
+    },
+    {
+      "name": "Svit",
+      "okres": "Okres Poprad",
+      "population": 7445,
+      "latitude": 49.0601,
+      "longitude": 20.2069,
+      "alternate_names": "Svit, Swit, Szvit, Świt, Свит"
+    },
+    {
+      "name": "Vrútky",
+      "okres": "Okres Martin",
+      "population": 7298,
+      "latitude": 49.1133,
+      "longitude": 18.9171,
+      "alternate_names": "Ruttka, Vrutkai, Vrutki, Vrutky, Vrútky, Vrūtkai, Vrūtki, fu lu te ji, fwrtky, wrwtky, Врутки, فورتكي, وروتکی, 弗魯特基"
+    },
+    {
+      "name": "Medzilaborce",
+      "okres": "Okres Medzilaborce",
+      "population": 6741,
+      "latitude": 49.2719,
+      "longitude": 21.9007,
+      "alternate_names": "Boro, Boró, Medzhilabirci, Medzilaborce, Medzilaborcė, Mezolaborc, Mezolaborcz, Mezőlaborc, Mezőlaborcz, Midzhilabirci, mdzylabrtsh, mei ji la bo er cai, mydzylabwrtsy, Меджилабірці, Медзилаборце, Міджілабірцї, מעזשילאבריץ, مدزیلابرتسه, ميدزيلابورتسى, 梅濟拉博爾采"
+    },
+    {
+      "name": "Žarnovica",
+      "okres": "Okres Žarnovica",
+      "population": 6596,
+      "latitude": 48.4812,
+      "longitude": 18.7157,
+      "alternate_names": "Zarnovica, Zarovnica, Zharnovica, Zsarnoca, Zsarnóca, jarnwfytsa, zha er nuo wei cha, zharnwytsa, Žarnovica, Žarovnica, Жарновица, جارنوفيتسا, ژارنویتسا, 扎爾諾維察"
+    },
+    {
+      "name": "Gelnica",
+      "okres": "Okres Gelnica",
+      "population": 6404,
+      "latitude": 48.8558,
+      "longitude": 20.9371,
+      "alternate_names": "Gelnica, Gelnicja, Gelnjica, Goelnicbanya, Gollnitz, Gölnicbánya, gai er ni cha, ghylnytsa, glyntsa, Гелница, Гелњица, Ґелниця, غيلنيتسا, گلینتسا, 蓋爾尼察"
+    },
+    {
+      "name": "Rajec",
+      "okres": "Okres Žilina",
+      "population": 6400,
+      "latitude": 49.089,
+      "longitude": 18.6401,
+      "alternate_names": "Rajec"
+    },
+    {
+      "name": "Sobrance",
+      "okres": "Okres Sobrance",
+      "population": 6262,
+      "latitude": 48.7445,
+      "longitude": 22.1814,
+      "alternate_names": "Sobrance, Sobranci, Szobranc, Szobránc, sbrantsh, sobeulanche, suo bu lan cai, swbrantsy, Собранце, Собранці, Собранцї, سبرانتسه, سوبرانتسى, 索布蘭采, 소브란체"
+    },
+    {
+      "name": "Vrbové",
+      "okres": "Okres Piešťany",
+      "population": 6249,
+      "latitude": 48.6197,
+      "longitude": 17.7226,
+      "alternate_names": "Verbo, Verbó, Vrbove, Vrbovje, Vrbové, fu er bo wei, fwrbwf, wrbwbh, wrbwh, Врбове, Врбовје, ורבובה, فوربوف, وربوه, 弗爾博韋"
+    },
+    {
+      "name": "Ivanka pri Dunaji",
+      "okres": "Okres Senec",
+      "population": 6245,
+      "latitude": 48.1868,
+      "longitude": 17.2554,
+      "alternate_names": "Ivanka, Pozsonyivanka, Pozsonyivánka"
+    },
+    {
+      "name": "Nemšová",
+      "okres": "Okres Trenčín",
+      "population": 6136,
+      "latitude": 48.967,
+      "longitude": 18.1189,
+      "alternate_names": "Nemsova, Nemšová"
+    },
+    {
+      "name": "Spišská Belá",
+      "okres": "Okres Kežmarok",
+      "population": 6136,
+      "latitude": 49.1872,
+      "longitude": 20.4595,
+      "alternate_names": "Biala Spiska, Biała Spiska, Spis'ka Bela, Spishka Bela, Spishska-Bela, Spiska Bela, Spisska Bela, Spiška Bela, Spišska Bela, Spišská Belá, Szepesbela, Szepesbéla, sbyshska byla, si pi shen si ka bei la, spyshska bla, Списька Бела, Спишка Бела, Спишска-Бела, Спіська Бела, سبيشسكا بيلا, سپیشسکا بلا, 斯皮什斯卡貝拉"
+    },
+    {
+      "name": "Lipany",
+      "okres": "Okres Sabinov",
+      "population": 6130,
+      "latitude": 49.1538,
+      "longitude": 20.9638,
+      "alternate_names": "Hethars, Héthárs, Lipani, Lipany, Lipiany, li pa ni, lybany, lypany, Липани, Липаны, ليباني, لیپانی, 利帕尼"
+    },
+    {
+      "name": "Poltár",
+      "okres": "Okres Poltár",
+      "population": 6099,
+      "latitude": 48.4309,
+      "longitude": 19.7941,
+      "alternate_names": "Poltar, Poltara, Poltár, Poltāra, bo er ta er, bwltar, pltar, pwltar, Полтар, بولتار, پلتار, پولتار, 波爾塔爾"
+    },
+    {
+      "name": "Sládkovičovo",
+      "okres": "Okres Galanta",
+      "population": 6078,
+      "latitude": 48.2014,
+      "longitude": 17.6385,
+      "alternate_names": "Diosek, Dioszeg, Diószeg, Kis-Dioszeg, Kis-Diószeg, Maly Diosek, Malý Diosek, Nagy-Dioszeg, Nagy-Diószeg, Sladkovicovo, Sládkovičovo, Vel'ky Diosek, Veldiosek, Veľký Diosek"
+    },
+    {
+      "name": "Brezová pod Bradlom",
+      "okres": "Okres Myjava",
+      "population": 5567,
+      "latitude": 48.6635,
+      "longitude": 17.539,
+      "alternate_names": "Berezo, Berezó, Brezova pod Bradlom, Brezová pod Bradlom"
+    },
+    {
+      "name": "Bratislava - Vajnory",
+      "okres": "Okres Bratislava III",
+      "population": 5484,
+      "latitude": 48.2056,
+      "longitude": 17.2076,
+      "alternate_names": "Pozsonyszolos, Pozsonyszőlős, Pracsa, Prácsa, Vajnory, Weinern"
+    },
+    {
+      "name": "Ilava",
+      "okres": "Okres Ilava",
+      "population": 5411,
+      "latitude": 48.9977,
+      "longitude": 18.2353,
+      "alternate_names": "Hava, Ilava, Illava, alawa, aylafa, aylawa, yi la wa, Илава, الاوا, ايلافا, ایلاوا, 伊拉瓦"
+    },
+    {
+      "name": "Kremnica",
+      "okres": "Okres Žiar nad Hronom",
+      "population": 5356,
+      "latitude": 48.7052,
+      "longitude": 18.9183,
+      "alternate_names": "Cremnicium, Koermoecbanya, Kormoczbanya, Krehmnica, Kremnica, Kremnicja, Kremnitz, Kremnjica, Körmöcbánya, Körmöczbánya, ke lei mu ni cha, keulemnicha, krmnytsa, krymnyka, kuremunitsu~a, Кремница, Кремниця, Кремњица, Крэмніца, كرمنيتسا, کرمنیتسا, کریمنیکا, クレムニツァ, 克雷姆尼察, 크렘니차"
+    },
+    {
+      "name": "Gabčíkovo",
+      "okres": "Okres Dunajská Streda",
+      "population": 5343,
+      "latitude": 47.8921,
+      "longitude": 17.5788,
+      "alternate_names": "Bes, Beš, Bos, Bös, Gabcikovo, Gabčíkovo"
+    },
+    {
+      "name": "Čierny Balog",
+      "okres": "Okres Brezno",
+      "population": 5234,
+      "latitude": 48.7472,
+      "longitude": 19.6513,
+      "alternate_names": "Cierny Balog, Cierny Balok, Cierny Blh, Čierny Balog, Čierny Balok, Čierny Blh"
+    },
+    {
+      "name": "Gbely",
+      "okres": "Okres Skalica",
+      "population": 5223,
+      "latitude": 48.718,
+      "longitude": 17.1163,
+      "alternate_names": "Egbell, Gbely"
+    },
+    {
+      "name": "Bojnice",
+      "okres": "Okres Prievidza",
+      "population": 4934,
+      "latitude": 48.7851,
+      "longitude": 18.5864,
+      "alternate_names": "Bajmoc, Bajmóc, Bojnice, Bojnicy, Bojnjice, Weinitz, bo yi ni cai, boiniche, bwynytsy, bynytsh, Бойнице, Бойніцы, Бојњице, بوينيتسى, بینیتسه, 博伊尼采, 보이니체"
+    },
+    {
+      "name": "Dobšiná",
+      "okres": "Okres Rožňava",
+      "population": 4896,
+      "latitude": 48.8207,
+      "longitude": 20.3699,
+      "alternate_names": "Dobschau, Dobshina, Dobsina, Dobszyna, Dobšina, Dobšiná, dbshyna, duo bu xi na, Добшина, دبشينا, دبشینا, 多布希納"
+    },
+    {
+      "name": "Vysoké Tatry",
+      "okres": "Okres Poprad",
+      "population": 4700,
+      "latitude": 49.1364,
+      "longitude": 20.2439,
+      "alternate_names": "Smokovec, Vysoke Tatry, Vysokie Tatry, Vysoké Tatry, Высокие Татры"
+    },
+    {
+      "name": "Čierna nad Tisou",
+      "okres": "Okres Trebišov",
+      "population": 4645,
+      "latitude": 48.417,
+      "longitude": 22.0887,
+      "alternate_names": "Agcsernyo, Cerna, Cherna, Cierna, Cierna nad Tisou, Cserno, Csernő, Černá, Čierna, Čierna nad Tisou"
+    },
+    {
+      "name": "Svätý Jur",
+      "okres": "Okres Pezinok",
+      "population": 4614,
+      "latitude": 48.2522,
+      "longitude": 17.2154,
+      "alternate_names": "Jur pri Bratislave, Sanct Georgius, Sankt Georgen, Svaety Jur, Svaty Jur, Sveti Jur, Sveti-Jur, Svety-Jur, Svätý Jur, Szentgyoergy, Szentgyörgy, sfaty jwr, sheng qiao zhi, swty ywr, Свети Јур, Свети-Юр, Светы-Юр, سفاتي جور, سوتی یور, 聖喬治"
+    },
+    {
+      "name": "Dunajská Lužná",
+      "okres": "Okres Senec",
+      "population": 4482,
+      "latitude": 48.0835,
+      "longitude": 17.2607,
+      "alternate_names": "Dunajska Luzna, Dunajskaja Luzhnja, Dunajská Lužná, Дунайская Лужня"
+    },
+    {
+      "name": "Strážske",
+      "okres": "Okres Michalovce",
+      "population": 4474,
+      "latitude": 48.8735,
+      "longitude": 21.8367,
+      "alternate_names": "Ormezo, Strashke, Straske, Strazhs'ke, Strazhske, Strazske, Straške, Strážske, Strāžske, si te la ri si kai, strajskh, strazhskh, Őrmező, Стражске, Стражське, Страшке, ستراجسكه, ستراژسکه, 斯特拉日斯凱"
+    },
+    {
+      "name": "Trenčianske Teplice",
+      "okres": "Okres Trenčín",
+      "population": 4438,
+      "latitude": 48.9106,
+      "longitude": 18.1669,
+      "alternate_names": "Trencanske Teplice, Trench'janske Teplice, Trench'janske-Teplice, Trenchinske Tjeplice, Trencianske Teplice, Trencinske Tjeplice, Trencsenteplic, Trencsénteplic, Trenczynskie Cieplice, Trenczyńskie Cieplice, Trenčanske Teplice, Trenčianske Teplice, Trenčinske Tjeplice, te lun qin wen quan zhen, trnchyanskh tplytsh, tryntshyasky tyblysy, Тренчинске Тјеплице, Тренчьянске Теплице, Тренчьянске-Теплице, ترنچیانسکه تپلیتسه, ترينتشياسكي تيبليسي, 特倫欽溫泉鎮"
+    },
+    {
+      "name": "Nováky",
+      "okres": "Okres Prievidza",
+      "population": 4402,
+      "latitude": 48.7111,
+      "longitude": 18.5339,
+      "alternate_names": "Navaky, Novaky, Nováky"
+    },
+    {
+      "name": "Tlmače",
+      "okres": "Okres Levice",
+      "population": 4305,
+      "latitude": 48.2893,
+      "longitude": 18.5315,
+      "alternate_names": "Garamtolmacs, Garamtolmács, Timac, Timace, Timač, Timače, Tlmace, Tlmače"
+    },
+    {
+      "name": "Tisovec",
+      "okres": "Okres Rimavská Sobota",
+      "population": 4215,
+      "latitude": 48.6774,
+      "longitude": 19.9436,
+      "alternate_names": "Theissholz, Tisovec, Tisoveca, Tiszolc, Tiszolcz, ji suo wei ci, tyswfyts, tyswts, Тисовец, تيسوفيتس, تیسوتس, 季索韋茨"
+    },
+    {
+      "name": "Giraltovce",
+      "okres": "Okres Svidník",
+      "population": 4189,
+      "latitude": 49.114,
+      "longitude": 21.5173,
+      "alternate_names": "Giralt, Giraltivci, Giraltovce, Girált, Oiraltovce, ghyraltwtsy, gyraltwtsh, ji la er tuo fu cai, Гиралтовце, Ґіралтовце, Ґіралтівцї, غيرالتوتسي, گیرالتوتسه, 吉拉爾托夫采"
+    },
+    {
+      "name": "Terchová",
+      "okres": "Okres Žilina",
+      "population": 4073,
+      "latitude": 49.2589,
+      "longitude": 19.0294,
+      "alternate_names": "Terhova"
+    },
+    {
+      "name": "Nižná",
+      "okres": "Okres Tvrdošín",
+      "population": 4020,
+      "latitude": 49.3105,
+      "longitude": 19.5243,
+      "alternate_names": "Nizna, Niznia, Nižnia, Nižná"
+    },
+    {
+      "name": "Ľubica",
+      "okres": "Okres Kežmarok",
+      "population": 4000,
+      "latitude": 49.1167,
+      "longitude": 20.45,
+      "alternate_names": "Leibitz"
+    },
+    {
+      "name": "Leopoldov",
+      "okres": "Okres Hlohovec",
+      "population": 3999,
+      "latitude": 48.4457,
+      "longitude": 17.7646,
+      "alternate_names": "Leopoldov, Mestecko, Mestečko, Ujvaroska, Újvároska, Леополдов"
+    },
+    {
+      "name": "Lehota pod Vtáčnikom",
+      "okres": "Okres Prievidza",
+      "population": 3929,
+      "latitude": 48.6914,
+      "longitude": 18.5994,
+      "alternate_names": "Lehota pod Vtacnikom, Lehota pod Vtáčnikom"
+    },
+    {
+      "name": "Spišské Podhradie",
+      "okres": "Okres Levoča",
+      "population": 3780,
+      "latitude": 49.0009,
+      "longitude": 20.7531,
+      "alternate_names": "Spis'ke Podgrade, Spishke Podkhradje, Spishske-Podgrad'e, Spishske-Podgraddze, Spiskie Podgrodzie, Spiskie Podhradie, Spisske Podhradie, Spisske Podhradje, Spiśkie Podhradie, Spišske Podhradje, Spišské Podhradie, Szepesvaralja, Szepesváralja, sbyshskh bwdhraydh, si pi shen si kai bo de he la jie, spyshskh pdhradyh, spyssqh pwdhrdyyh, Спиське Подградє, Спишке Подхрадје, Спишске-Подградье, Спішске-Подграддзе, ספישסקה פודהרדייה, سبيشسكه بودهرايده, سپیشسکه پدهرادیه, 斯皮什斯凱波德赫拉傑"
+    },
+    {
+      "name": "Medzev",
+      "okres": "Okres Kosice-okolie",
+      "population": 3667,
+      "latitude": 48.7004,
+      "longitude": 20.8937,
+      "alternate_names": "Mecenzef, Mecenzéf, Medzev, Medzeva, Nizni Medzev, Nizny Medzev, Nižní Medzev, Nižný Medzev, Unter-Metzenseifen, mdzb, mdzw, mei ze fu, Медзев, מדזב, مدزو, 梅澤夫"
+    },
+    {
+      "name": "Čachtice",
+      "okres": "Okres Nové Mesto nad Váhom",
+      "population": 3626,
+      "latitude": 48.7123,
+      "longitude": 17.787,
+      "alternate_names": "Chakhtice, Чахтице"
+    },
+    {
+      "name": "Štrba",
+      "okres": "Okres Poprad",
+      "population": 3600,
+      "latitude": 49.0591,
+      "longitude": 20.0798,
+      "alternate_names": "Shtrba, Strba, Штрба"
+    },
+    {
+      "name": "Oravská Lesná",
+      "okres": "Okres Namestovo",
+      "population": 3500,
+      "latitude": 49.3667,
+      "longitude": 19.1809,
+      "alternate_names": "Erdudka, Erdutka, Erdúdka, Erdútka, Lesna"
+    },
+    {
+      "name": "Smolenice",
+      "okres": "Okres Trnava",
+      "population": 3287,
+      "latitude": 48.5048,
+      "longitude": 17.4307,
+      "alternate_names": "Smolenice, Смоленице"
+    },
+    {
+      "name": "Podolínec",
+      "okres": "Okres Stará Ĺubovňa",
+      "population": 3173,
+      "latitude": 49.2587,
+      "longitude": 20.536,
+      "alternate_names": "Podolin, Podolinec, Podolinec', Podolineca, Podoliniec, Podolinjec, Podolínec, Podolīneca, bo duo li nei ci, bwdwlynyts, pdlynts, Подолинец, Подолинець, Подолињец, بودولينيتس, پدلینتس, 波多利內茨"
+    },
+    {
+      "name": "Svodín",
+      "okres": "Okres Nové Zámky",
+      "population": 2649,
+      "latitude": 47.9105,
+      "longitude": 18.4997,
+      "alternate_names": "Seldin, Seldín, Svodin, Svodín, Szogyen, Szolgyen, Szölgyén, Szőgyén"
+    },
+    {
+      "name": "Žehra",
+      "okres": "Okres Spišská Nová Ves",
+      "population": 2360,
+      "latitude": 48.9796,
+      "longitude": 20.7917,
+      "alternate_names": "Schigra, Sygura, Zehra, Zhegra, Zhehgra, Zhekhra, Zsegra, Zsigra, z'hrh, Żehra, Žehra, Жегра, Жехра, Жэгра, ז'הרה"
+    },
+    {
+      "name": "Lúčky",
+      "okres": "Okres Ružomberok",
+      "population": 1787,
+      "latitude": 49.1294,
+      "longitude": 19.4023,
+      "alternate_names": "Luchki, Lucki, Lucky, Lucski, Lučki, Lúčky, Лучки"
+    },
+    {
+      "name": "Marianka",
+      "okres": "Okres Malacky",
+      "population": 1700,
+      "latitude": 48.249,
+      "longitude": 17.064,
+      "alternate_names": "Mariatal, Mariavoelgy, Máriavölgy"
+    },
+    {
+      "name": "Vinné",
+      "okres": "Okres Michalovce",
+      "population": 1608,
+      "latitude": 48.8096,
+      "longitude": 21.9676,
+      "alternate_names": "Vinna, Vinne, Vinná, Vinné, Винне"
+    },
+    {
+      "name": "Kováčová",
+      "okres": "Okres Zvolen",
+      "population": 1552,
+      "latitude": 48.6015,
+      "longitude": 19.1025,
+      "alternate_names": "Kovachova, Kovacova, Kovacsfalva, Kovačova, Kovácsfalva, Kováčová, Ковачова"
+    },
+    {
+      "name": "Hybe",
+      "okres": "Okres Liptovský Mikuláš",
+      "population": 1548,
+      "latitude": 49.0444,
+      "longitude": 19.8289,
+      "alternate_names": "Hybe"
+    },
+    {
+      "name": "Nová Lesná",
+      "okres": "Okres Poprad",
+      "population": 1520,
+      "latitude": 49.1225,
+      "longitude": 20.2674,
+      "alternate_names": "Neu-Walddorf, Nova-Lesna, Нова-Лесна"
+    },
+    {
+      "name": "Dudince",
+      "okres": "Okres Krupina",
+      "population": 1503,
+      "latitude": 48.1713,
+      "longitude": 18.8878,
+      "alternate_names": "Dudince, Dudzincy, Dugince, Duđince, Gyugy, Gyűgy, do~udintsu~e, du ding xi, dwdynts, Дудзінцы, Дудинце, Дудінце, دودينتس, دودینتس, ڈوڈینس, ドゥディンツェ, 杜丁西"
+    },
+    {
+      "name": "Hrochoť",
+      "okres": "Okres Banská Bystrica",
+      "population": 1500,
+      "latitude": 48.6557,
+      "longitude": 19.3128,
+      "alternate_names": "Horhat, Horhát, Hrochot', Hrochoť"
+    },
+    {
+      "name": "Vrbov",
+      "okres": "Okres Kežmarok",
+      "population": 1455,
+      "latitude": 49.0876,
+      "longitude": 20.4253,
+      "alternate_names": "Menhardsdorf, Vrbov, Врбов"
+    },
+    {
+      "name": "Pribylina",
+      "okres": "Okres Liptovský Mikuláš",
+      "population": 1360,
+      "latitude": 49.0995,
+      "longitude": 19.7943,
+      "alternate_names": "Pribylina, Прибылина"
+    },
+    {
+      "name": "Ždiar",
+      "okres": "Okres Poprad",
+      "population": 1330,
+      "latitude": 49.271,
+      "longitude": 20.2624,
+      "alternate_names": "Zar, Zdjar, Zdziar, Zhd'jar, Zhdjar, Zhdujar, Zár, Ždjar, Ждъяр, Ждьяр, Ждяр, Ждјар"
+    },
+    {
+      "name": "Oravský Podzámok",
+      "okres": "Okres Dolný Kubín",
+      "population": 1319,
+      "latitude": 49.2594,
+      "longitude": 19.3569,
+      "alternate_names": "Arvavaralja, Arwaburg, Oravski Podzamok, Oravsky Podzamok, Oravský Podzámok, Orawskie Zamki, Árvaváralja, Оравски Подзамок"
+    },
+    {
+      "name": "Vinosady",
+      "okres": "Okres Pezinok",
+      "population": 1300,
+      "latitude": 48.3114,
+      "longitude": 17.2904,
+      "alternate_names": ""
+    },
+    {
+      "name": "Vyšné Ružbachy",
+      "okres": "Okres Stará Ĺubovňa",
+      "population": 1296,
+      "latitude": 49.3039,
+      "longitude": 20.5656,
+      "alternate_names": "Druzbaki Wyzny, Druzbaki Wyżny, Vyshne Ruzhbakhi, Vysne Ruzbachy, Vysnie Ruzbachy, Vyšnie Ružbachy, Vyšné Ružbachy, Вышне Ружбахи"
+    },
+    {
+      "name": "Kavečany",
+      "okres": "Košice I",
+      "population": 1287,
+      "latitude": 48.7759,
+      "longitude": 21.2059,
+      "alternate_names": "Kavecani, Kavecany, Kavechani, Kavechany, Kavečani, Kavečany, Kavocsan, Kavocsán, Кавечани, Кавечаны"
+    },
+    {
+      "name": "Krasňany",
+      "okres": "Okres Žilina",
+      "population": 1231,
+      "latitude": 49.2149,
+      "longitude": 18.8872,
+      "alternate_names": "Krasnany, Krasňany"
+    },
+    {
+      "name": "Svätý Anton",
+      "okres": "Okres Banská Štiavnica",
+      "population": 1172,
+      "latitude": 48.4192,
+      "longitude": 18.9401,
+      "alternate_names": "Svaty Antol, Svaty Anton, Svätý Antol, Svätý Anton, Szentantal"
+    },
+    {
+      "name": "Starý Smokovec",
+      "okres": "Okres Poprad",
+      "population": 1000,
+      "latitude": 49.139,
+      "longitude": 20.2203,
+      "alternate_names": "Alt Schmecks, Altschmecks, Bad Schmecks, Stary Smokovec, Stary Szmeks, Staryj Smokovec, Tatra-Fured, Tátra-Füred, Старый Смоковец"
+    },
+    {
+      "name": "Bijacovce",
+      "okres": "Okres Levoča",
+      "population": 955,
+      "latitude": 49.0238,
+      "longitude": 20.7994,
+      "alternate_names": "Betendorf, Biazowitz, Bijacovce, Szepes-mindszent, Бияцовце, Біяцовце"
+    },
+    {
+      "name": "Betliar",
+      "okres": "Okres Rožňava",
+      "population": 938,
+      "latitude": 48.7028,
+      "longitude": 20.5081,
+      "alternate_names": "Betliar"
+    },
+    {
+      "name": "Krušetnica",
+      "okres": "Okres Namestovo",
+      "population": 930,
+      "latitude": 49.3752,
+      "longitude": 19.3388,
+      "alternate_names": "Krusetnica, Krushetnica, Krušetnica, Крушетница"
+    },
+    {
+      "name": "Svätý Kríž",
+      "okres": "Okres Liptovský Mikuláš",
+      "population": 811,
+      "latitude": 49.05,
+      "longitude": 19.5333,
+      "alternate_names": "S'vjaty Kryzh, Svaety Kriz, Svaty Kriz, Sveti Kriz, Sveti Krizh, Sveti Križ, Svjati Krizh, Svätý Kríž, Swiety Krzyz, Szentkereszt, Święty Krzyż, Свети Криж, Святи Криж, Сьвяты Крыж"
+    },
+    {
+      "name": "Párnica",
+      "okres": "Okres Dolný Kubín",
+      "population": 807,
+      "latitude": 49.1942,
+      "longitude": 19.1976,
+      "alternate_names": "Parnica, Párnica"
+    },
+    {
+      "name": "Tatranská Lomnica",
+      "okres": "Okres Poprad",
+      "population": 800,
+      "latitude": 49.1662,
+      "longitude": 20.2813,
+      "alternate_names": "Tatranska Lomnica, Tatranská Lomnica, Татранска Ломница"
+    },
+    {
+      "name": "Bešeňová",
+      "okres": "Okres Ružomberok",
+      "population": 667,
+      "latitude": 49.1002,
+      "longitude": 19.4347,
+      "alternate_names": "Besenjova, Besenova, Besenyofalu, Besenyőfalu, Beshenjova, Beshenova, Beszeniowa, Bešenjova, Bešeňová, beshenova, Бешенёва, Бешењова, ბეშენოვა"
+    },
+    {
+      "name": "Stráža",
+      "okres": "Okres Žilina",
+      "population": 657,
+      "latitude": 49.2258,
+      "longitude": 18.9078,
+      "alternate_names": "Straza, Stráža"
+    },
+    {
+      "name": "Voznica",
+      "okres": "Okres Žarnovica",
+      "population": 650,
+      "latitude": 48.4605,
+      "longitude": 18.6992,
+      "alternate_names": "Hvozdnica, Voznica"
+    },
+    {
+      "name": "Liptovská Sielnica",
+      "okres": "Okres Liptovský Mikuláš",
+      "population": 602,
+      "latitude": 49.1431,
+      "longitude": 19.5142,
+      "alternate_names": "Liptovska-Sel'nica, Sielnica, Липтовска-Сельница"
+    },
+    {
+      "name": "Vágfüzes",
+      "okres": "Okres Komárno",
+      "population": 563,
+      "latitude": 47.8514,
+      "longitude": 18.052,
+      "alternate_names": "Keszegfalusi Sziget, Sziget, Vrbova nad Vahom, Vrbová nad Váhom"
+    },
+    {
+      "name": "Devínska Nová Ves",
+      "okres": "Okres Bratislava IV",
+      "population": 550,
+      "latitude": 48.2071,
+      "longitude": 16.9786,
+      "alternate_names": "Devenyujfalu, Devinska Nova Ves, Devinskanova Vesmlyl, Devínska Nová Ves, Dévényújfalu, Theben-Neudorf"
+    },
+    {
+      "name": "Liptovský Trnovec",
+      "okres": "Okres Liptovský Mikuláš",
+      "population": 550,
+      "latitude": 49.1204,
+      "longitude": 19.5471,
+      "alternate_names": "Liptovsky Trnovec, Liptovský Trnovec"
+    },
+    {
+      "name": "Mýto pod Ďumbierom",
+      "okres": "Okres Brezno",
+      "population": 542,
+      "latitude": 48.8517,
+      "longitude": 19.6325,
+      "alternate_names": "Myto pod DZumbierom, Mýto pod Ďumbierom"
+    },
+    {
+      "name": "Komárno",
+      "okres": "Okres Nové Zámky",
+      "population": 0,
+      "latitude": 48.1167,
+      "longitude": 18.3167,
+      "alternate_names": "Dvor Komarno, Dvor Komárno, Komarno, Komárno"
+    },
+    {
+      "name": "Topoľčany",
+      "okres": "Okres Topoľčany",
+      "population": 0,
+      "latitude": 48.5636,
+      "longitude": 18.1671,
+      "alternate_names": "Nagy Tapolcsan, Nagy Tapolcsán, Nagytapolcsany, Nagytapolcsány, Topal'chany, Topol'cany, Topol'chani, Topolcani, Topolcany, Topolchani, Topolczany, Topoljcani, Topoljčani, Topoltschan, Topolçanı, Topoļčani, Topoľčany, tplchany, tuo bo er qia ni, twbwltshany, Топальчаны, Тополчани, Топольчани, Топољчани, טאפלישאן, טופולצאני, توبولتشاني, تپلچانی, 托波爾恰尼"
+    },
+    {
+      "name": "Turčianske Teplice",
+      "okres": "Okres Turčianske Teplice",
+      "population": 0,
+      "latitude": 48.8623,
+      "longitude": 18.8605,
+      "alternate_names": "Stubnianske Teplice, Stubnyafuerdo, Stubnyafürdő, Turcanske Teplice, Turch'janske-Teplice, Turchjanske Tjeplice, Turcianske Teplice, Turcjanske Tjeplice, Turčanske Teplice, Turčianske Teplice, Turčjanske Tjeplice, tu er qian si kai te pu li cai, twrchyanskh tplytsh, twrtshynsky tyblytsy, Štubnianske Teplice, Турчьянске-Теплице, Турчјанске Тјеплице, تورتشينسكى تيبليتسى, تورچیانسکه تپلیتسه, 圖爾錢斯凱特普利采"
+    }
+  ],
+  "meta": {
+    "title": "Mestá a sídla Slovenska - Bezplatné stiahnutie",
+    "description": "Slovenské mestá a obývané sídla s počtom obyvateľov (> 500), okresom a zemepisnými súradnicami. Zdroj GeoNames (cities500). Obsahuje 171 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Mestá a sídla Slovenska | ListBase",
+    "seo_description": "Stiahnuť Mestá a sídla Slovenska — 171 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 171 záznamov / 6 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

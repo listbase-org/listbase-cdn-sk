@@ -1,0 +1,846 @@
+{
+  "id": "sk-lucenec-obce",
+  "name": "Obce v okrese Lučenec",
+  "title": "Obce v okrese Lučenec",
+  "description": "Všetky obce (municipality) v okrese Lučenec, Banskobystrický kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 78,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 114,
+      "fullname": "Belina",
+      "shortname": "Belina",
+      "zip": "986 01",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 163,
+      "fullname": "Biskupice",
+      "shortname": "Biskupice",
+      "zip": "986 01",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 217,
+      "fullname": "Boľkovce",
+      "shortname": "Boľkovce",
+      "zip": "984 01",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 266,
+      "fullname": "Brestina",
+      "shortname": "Brestina",
+      "zip": "985 53",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 327,
+      "fullname": "Budiná",
+      "shortname": "Budiná",
+      "zip": "985 12",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 347,
+      "fullname": "Bulhary",
+      "shortname": "Bulhary",
+      "zip": "986 01",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 357,
+      "fullname": "Buzitka",
+      "shortname": "Buzitka",
+      "zip": "985 41",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 551,
+      "fullname": "Diel",
+      "shortname": "Diel",
+      "zip": "985 53",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 556,
+      "fullname": "Divín",
+      "shortname": "Divín",
+      "zip": "985 52",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 559,
+      "fullname": "Divínske Lazy",
+      "shortname": "Divínske Lazy",
+      "zip": "985 52",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 582,
+      "fullname": "Dobroč",
+      "shortname": "Dobroč",
+      "zip": "985 53",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 684,
+      "fullname": "Dora",
+      "shortname": "Dora",
+      "zip": "985 41",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 788,
+      "fullname": "Fiľakovo",
+      "shortname": "Fiľakovo",
+      "zip": "986 01",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 790,
+      "fullname": "Fiľakovské Kováče",
+      "shortname": "Fiľakovské Kováče",
+      "zip": "986 01",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 789,
+      "fullname": "Fiľakovské Kľačany",
+      "shortname": "Fiľakovské Kľačany",
+      "zip": "986 01",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 852,
+      "fullname": "Gregorova Vieska",
+      "shortname": "Gregorova Vieska",
+      "zip": "985 56",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 879,
+      "fullname": "Halič",
+      "shortname": "Halič",
+      "zip": "985 11",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 921,
+      "fullname": "Herman",
+      "shortname": "Herman",
+      "zip": "985 53",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 960,
+      "fullname": "Holiša",
+      "shortname": "Holiša",
+      "zip": "985 57",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1221,
+      "fullname": "Ipeľka",
+      "shortname": "Ipeľka",
+      "zip": "985 41",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1327,
+      "fullname": "Jelšovec",
+      "shortname": "Jelšovec",
+      "zip": "985 32",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1362,
+      "fullname": "Kalonda",
+      "shortname": "Kalonda",
+      "zip": "985 31",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1601,
+      "fullname": "Kotmanová",
+      "shortname": "Kotmanová",
+      "zip": "985 53",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1647,
+      "fullname": "Krásna",
+      "shortname": "Krásna",
+      "zip": "985 41",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1734,
+      "fullname": "Kurtáň",
+      "shortname": "Kurtáň",
+      "zip": "986 01",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1806,
+      "fullname": "Lehôtka",
+      "shortname": "Lehôtka",
+      "zip": "985 11",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1817,
+      "fullname": "Lentvora",
+      "shortname": "Lentvora",
+      "zip": "985 13",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1866,
+      "fullname": "Lipovany",
+      "shortname": "Lipovany",
+      "zip": "985 31",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1925,
+      "fullname": "Lovinobaňa",
+      "shortname": "Lovinobaňa",
+      "zip": "985 54",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1978,
+      "fullname": "Lupoč",
+      "shortname": "Lupoč",
+      "zip": "985 11",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1946,
+      "fullname": "Lučenec",
+      "shortname": "Lučenec",
+      "zip": 0,
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1994,
+      "fullname": "Madačka",
+      "shortname": "Madačka",
+      "zip": "985 13",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2021,
+      "fullname": "Malá Dolina",
+      "shortname": "Malá Dolina",
+      "zip": "985 53",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2038,
+      "fullname": "Malá Ves",
+      "shortname": "Malá Ves",
+      "zip": "984 01",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2130,
+      "fullname": "Mašková",
+      "shortname": "Mašková",
+      "zip": "985 11",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2192,
+      "fullname": "Mikušovce",
+      "shortname": "Mikušovce",
+      "zip": "984 01",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2269,
+      "fullname": "Mučín",
+      "shortname": "Mučín",
+      "zip": "985 31",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2273,
+      "fullname": "Muľka",
+      "shortname": "Muľka",
+      "zip": "985 31",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2285,
+      "fullname": "Mýtna",
+      "shortname": "Mýtna",
+      "zip": "985 53",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2306,
+      "fullname": "Nedelište",
+      "shortname": "Nedelište",
+      "zip": "985 13",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2335,
+      "fullname": "Nitra nad Ipľom",
+      "shortname": "Nitra nad Ipľom",
+      "zip": "985 57",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2426,
+      "fullname": "Nové Hony",
+      "shortname": "Nové Hony",
+      "zip": "985 42",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2441,
+      "fullname": "Nový Sad",
+      "shortname": "Nový Sad",
+      "zip": "985 41",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2455,
+      "fullname": "Obručná",
+      "shortname": "Obručná",
+      "zip": "985 58",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2501,
+      "fullname": "Opatová",
+      "shortname": "Opatová",
+      "zip": "984 01",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2574,
+      "fullname": "Panické Dravce",
+      "shortname": "Panické Dravce",
+      "zip": "985 32",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2651,
+      "fullname": "Pinciná",
+      "shortname": "Pinciná",
+      "zip": "984 01",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2667,
+      "fullname": "Pleš",
+      "shortname": "Pleš",
+      "zip": "985 31",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2718,
+      "fullname": "Podrečany",
+      "shortname": "Podrečany",
+      "zip": "985 54",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2745,
+      "fullname": "Polichno",
+      "shortname": "Polichno",
+      "zip": "985 13",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2801,
+      "fullname": "Praha",
+      "shortname": "Praha",
+      "zip": "985 11",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2859,
+      "fullname": "Prša",
+      "shortname": "Prša",
+      "zip": "985 41",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2648,
+      "fullname": "Píla",
+      "shortname": "Píla",
+      "zip": "985 53",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2900,
+      "fullname": "Radzovce",
+      "shortname": "Radzovce",
+      "zip": "985 58",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2924,
+      "fullname": "Rapovce",
+      "shortname": "Rapovce",
+      "zip": "985 31",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2931,
+      "fullname": "Ratka",
+      "shortname": "Ratka",
+      "zip": "986 01",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3051,
+      "fullname": "Ružiná",
+      "shortname": "Ružiná",
+      "zip": "985 52",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3264,
+      "fullname": "Stará Halič",
+      "shortname": "Stará Halič",
+      "zip": "985 11",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3554,
+      "fullname": "Tomášovce",
+      "shortname": "Tomášovce",
+      "zip": "985 56",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3549,
+      "fullname": "Točnica",
+      "shortname": "Točnica",
+      "zip": "985 22",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3578,
+      "fullname": "Trebeľovce",
+      "shortname": "Trebeľovce",
+      "zip": "985 31",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3583,
+      "fullname": "Trenč",
+      "shortname": "Trenč",
+      "zip": "985 32",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3621,
+      "fullname": "Tuhár",
+      "shortname": "Tuhár",
+      "zip": "985 12",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3670,
+      "fullname": "Uderiná",
+      "shortname": "Uderiná",
+      "zip": "985 54",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3749,
+      "fullname": "Veľká Dolina",
+      "shortname": "Veľká Dolina",
+      "zip": "985 53",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3763,
+      "fullname": "Veľká nad Ipľom",
+      "shortname": "Veľká nad Ipľom",
+      "zip": "985 32",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3776,
+      "fullname": "Veľké Dravce",
+      "shortname": "Veľké Dravce",
+      "zip": "985 42",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3775,
+      "fullname": "Veľké Dálovce",
+      "shortname": "Veľké Dálovce",
+      "zip": "985 32",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3849,
+      "fullname": "Vidiná",
+      "shortname": "Vidiná",
+      "zip": "985 59",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1,
+      "fullname": "Ábelová",
+      "shortname": "Ábelová",
+      "zip": "985 13",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 414,
+      "fullname": "Čakanovce",
+      "shortname": "Čakanovce",
+      "zip": "985 58",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 418,
+      "fullname": "Čamovce",
+      "shortname": "Čamovce",
+      "zip": "986 01",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1939,
+      "fullname": "Ľuboreč",
+      "shortname": "Ľuboreč",
+      "zip": "985 11",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3419,
+      "fullname": "Šiatorská Bukovinka",
+      "shortname": "Šiatorská Bukovinka",
+      "zip": "985 58",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3487,
+      "fullname": "Šurice",
+      "shortname": "Šurice",
+      "zip": "980 33",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3394,
+      "fullname": "Šára",
+      "shortname": "Šára",
+      "zip": "985 32",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3413,
+      "fullname": "Šávoľ",
+      "shortname": "Šávoľ",
+      "zip": "985 41",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3421,
+      "fullname": "Šíd",
+      "shortname": "Šíd",
+      "zip": "986 01",
+      "district_id": 33,
+      "okres": "Lučenec",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Lučenec - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Lučenec, Banskobystrický kraj — s PSČ a kódom okresu. Obsahuje 78 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Lučenec | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Lučenec — 78 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 78 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

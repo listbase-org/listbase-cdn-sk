@@ -1,0 +1,616 @@
+{
+  "id": "sk-martin-obce",
+  "name": "Obce v okrese Martin",
+  "title": "Obce v okrese Martin",
+  "description": "Všetky obce (municipality) v okrese Martin, Žilinský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 107,
+      "fullname": "Belá - Dulice",
+      "shortname": "Belá - Dulice",
+      "zip": "038 11",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 127,
+      "fullname": "Benice",
+      "shortname": "Benice",
+      "zip": "038 42",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 172,
+      "fullname": "Blatnica",
+      "shortname": "Blatnica",
+      "zip": "038 15",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 364,
+      "fullname": "Bystrička",
+      "shortname": "Bystrička",
+      "zip": "038 04",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 548,
+      "fullname": "Diaková",
+      "shortname": "Diaková",
+      "zip": "038 02",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 626,
+      "fullname": "Dolné Jaseno",
+      "shortname": "Dolné Jaseno",
+      "zip": "038 02",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 662,
+      "fullname": "Dolný Kalník",
+      "shortname": "Dolný Kalník",
+      "zip": "038 02",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 692,
+      "fullname": "Dražkovce",
+      "shortname": "Dražkovce",
+      "zip": "038 02",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 743,
+      "fullname": "Dulice",
+      "shortname": "Dulice",
+      "zip": "038 11",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 796,
+      "fullname": "Folkušová",
+      "shortname": "Folkušová",
+      "zip": "038 42",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1004,
+      "fullname": "Horné Jaseno",
+      "shortname": "Horné Jaseno",
+      "zip": "038 02",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1043,
+      "fullname": "Horný Kalník",
+      "shortname": "Horný Kalník",
+      "zip": "038 02",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1251,
+      "fullname": "Jahodníky",
+      "shortname": "Jahodníky",
+      "zip": "036 01",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1395,
+      "fullname": "Karlová",
+      "shortname": "Karlová",
+      "zip": "038 15",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1437,
+      "fullname": "Kláštor pod Znievom",
+      "shortname": "Kláštor pod Znievom",
+      "zip": "038 43",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1520,
+      "fullname": "Konské",
+      "shortname": "Konské",
+      "zip": "038 52",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1597,
+      "fullname": "Košúty",
+      "shortname": "Košúty",
+      "zip": "036 01",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1596,
+      "fullname": "Košťany nad Turcom",
+      "shortname": "Košťany nad Turcom",
+      "zip": "038 41",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1698,
+      "fullname": "Krpeľany",
+      "shortname": "Krpeľany",
+      "zip": "038 54",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1784,
+      "fullname": "Laskár",
+      "shortname": "Laskár",
+      "zip": "038 43",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1791,
+      "fullname": "Lazany",
+      "shortname": "Lazany",
+      "zip": "038 43",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1834,
+      "fullname": "Ležiachov",
+      "shortname": "Ležiachov",
+      "zip": "038 42",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1870,
+      "fullname": "Lipovec",
+      "shortname": "Lipovec",
+      "zip": "038 61",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2119,
+      "fullname": "Martin",
+      "shortname": "Martin",
+      "zip": "036 01",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2301,
+      "fullname": "Necpaly",
+      "shortname": "Necpaly",
+      "zip": "038 12",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2392,
+      "fullname": "Nolčovo",
+      "shortname": "Nolčovo",
+      "zip": "038 54",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2699,
+      "fullname": "Podhradie",
+      "shortname": "Podhradie",
+      "zip": "038 52",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2686,
+      "fullname": "Podháj",
+      "shortname": "Podháj",
+      "zip": "036 01",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2832,
+      "fullname": "Priekopa",
+      "shortname": "Priekopa",
+      "zip": "038 61",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2829,
+      "fullname": "Príbovce",
+      "shortname": "Príbovce",
+      "zip": "038 42",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2918,
+      "fullname": "Rakovo",
+      "shortname": "Rakovo",
+      "zip": "038 42",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2934,
+      "fullname": "Ratkovo",
+      "shortname": "Ratkovo",
+      "zip": "038 54",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3149,
+      "fullname": "Sklabinský Podzámok",
+      "shortname": "Sklabinský Podzámok",
+      "zip": "038 03",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3148,
+      "fullname": "Sklabiňa",
+      "shortname": "Sklabiňa",
+      "zip": "038 03",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3186,
+      "fullname": "Slovany",
+      "shortname": "Slovany",
+      "zip": "038 43",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3219,
+      "fullname": "Socovce",
+      "shortname": "Socovce",
+      "zip": "038 43",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3329,
+      "fullname": "Sučany",
+      "shortname": "Sučany",
+      "zip": "038 52",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3555,
+      "fullname": "Tomčany",
+      "shortname": "Tomčany",
+      "zip": "036 01",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3581,
+      "fullname": "Trebostovo",
+      "shortname": "Trebostovo",
+      "zip": "038 41",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3607,
+      "fullname": "Trnovo",
+      "shortname": "Trnovo",
+      "zip": "038 41",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3629,
+      "fullname": "Turany",
+      "shortname": "Turany",
+      "zip": "038 53",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3634,
+      "fullname": "Turčianska Štiavnička",
+      "shortname": "Turč.Štiavnička",
+      "zip": "038 51",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3635,
+      "fullname": "Turčianske Jaseno",
+      "shortname": "Turčianske Jaseno",
+      "zip": "038 02",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3636,
+      "fullname": "Turčianske Kľačany",
+      "shortname": "Turčianske Kľačany",
+      "zip": "038 61",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3640,
+      "fullname": "Turčiansky Peter",
+      "shortname": "Turčiansky Peter",
+      "zip": "038 41",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3638,
+      "fullname": "Turčiansky Ďur",
+      "shortname": "Turčiansky Ďur",
+      "zip": "038 43",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3710,
+      "fullname": "Valentová",
+      "shortname": "Valentová",
+      "zip": "038 43",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3709,
+      "fullname": "Valča",
+      "shortname": "Valča",
+      "zip": "038 35",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3949,
+      "fullname": "Vrícko",
+      "shortname": "Vrícko",
+      "zip": "038 31",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3952,
+      "fullname": "Vrútky",
+      "shortname": "Vrútky",
+      "zip": "038 61",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4032,
+      "fullname": "Záborie",
+      "shortname": "Záborie",
+      "zip": "038 03",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4070,
+      "fullname": "Záturčie",
+      "shortname": "Záturčie",
+      "zip": "036 01",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 521,
+      "fullname": "Ďanová",
+      "shortname": "Ďanová",
+      "zip": "038 42",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3490,
+      "fullname": "Šútovo",
+      "shortname": "Šútovo",
+      "zip": "038 54",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4158,
+      "fullname": "Žabokreky",
+      "shortname": "Žabokreky",
+      "zip": "038 40",
+      "district_id": 35,
+      "okres": "Martin",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Martin - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Martin, Žilinský kraj — s PSČ a kódom okresu. Obsahuje 55 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Martin | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Martin — 55 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 55 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

@@ -1,0 +1,628 @@
+{
+  "id": "sk-lyziarske-strediska",
+  "name": "Lyžiarske strediská na Slovensku",
+  "title": "Lyžiarske strediská na Slovensku",
+  "description": "Zoznam 97 lyžiarskych stredísk na Slovensku s názvom, zemepisnými súradnicami (lat/lng) a oficiálnou webovou stránkou strediska. Údaje pochádzajú z otvoreného repozitára rokija/ski-resorts (agregát európskych lyžiarskych stredísk).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 97,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lng",
+      "label": "Lng",
+      "type": "number"
+    },
+    {
+      "key": "homepage",
+      "label": "Homepage",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bezovec",
+      "lat": 48.66,
+      "lng": 17.96,
+      "homepage": "http://www.skibezovec.sk/"
+    },
+    {
+      "name": "Chopok",
+      "lat": 48.92,
+      "lng": 19.6,
+      "homepage": "http://www.jasna.sk/resort/chopok-south"
+    },
+    {
+      "name": "Dačov Lom - Lomník",
+      "lat": 48.32,
+      "lng": 19.25,
+      "homepage": "http://www.asdlom.sk/"
+    },
+    {
+      "name": "Demänovská Dolina -Jasná",
+      "lat": 49.02,
+      "lng": 19.58,
+      "homepage": "http://www.liptov.sk/demanovska"
+    },
+    {
+      "name": "Donovaly",
+      "lat": 48.88,
+      "lng": 19.23,
+      "homepage": "http://www.parksnow.sk/donovaly"
+    },
+    {
+      "name": "Drienica - Lysa Hora",
+      "lat": 49.15,
+      "lng": 21.12,
+      "homepage": ""
+    },
+    {
+      "name": "Drozdovo",
+      "lat": 48.43,
+      "lng": 18.55,
+      "homepage": "http://www.penziondrozdovo.sk/"
+    },
+    {
+      "name": "Fačkovské Sedlo - Klak",
+      "lat": 48.96,
+      "lng": 18.6,
+      "homepage": "http://www.skiarena-fackovskesedlo.sk/skiarena_SITE4_SKIARENA.php"
+    },
+    {
+      "name": "Fričkovce",
+      "lat": 49.18,
+      "lng": 21.24,
+      "homepage": "http://www.lyziarske-stredisko-frickovce.webnode.sk"
+    },
+    {
+      "name": "Hrinova/Kosutka",
+      "lat": 48.56,
+      "lng": 19.53,
+      "homepage": "http://kosutka.sk/"
+    },
+    {
+      "name": "Hruštín",
+      "lat": 49.29,
+      "lng": 19.25,
+      "homepage": "http://www.zima.skizabava.sk"
+    },
+    {
+      "name": "Jahodná",
+      "lat": 48.78,
+      "lng": 21.2,
+      "homepage": "http://www.jahodna.sk/"
+    },
+    {
+      "name": "Jasenská Dolina",
+      "lat": 49,
+      "lng": 19.03,
+      "homepage": "http://www.jasenskadolina.sk"
+    },
+    {
+      "name": "Jasná - Chopok",
+      "lat": 48.96,
+      "lng": 19.62,
+      "homepage": "http://www.jasna.sk/en/"
+    },
+    {
+      "name": "Jánská Dolina - Javorovica",
+      "lat": 49.08,
+      "lng": 19.62,
+      "homepage": "http://www.liptovskyjan.sk"
+    },
+    {
+      "name": "Kavečany",
+      "lat": 48.78,
+      "lng": 21.2,
+      "homepage": "http://www.kavecany.sk/"
+    },
+    {
+      "name": "Kojšovsků hoľu/Skipark Erika",
+      "lat": 48.77,
+      "lng": 20.99,
+      "homepage": ""
+    },
+    {
+      "name": "Kokava - línia",
+      "lat": 49.09,
+      "lng": 19.83,
+      "homepage": ""
+    },
+    {
+      "name": "Kordíky",
+      "lat": 48.77,
+      "lng": 19.02,
+      "homepage": "http://www.skikordiky.sk/"
+    },
+    {
+      "name": "Krahule - Skalka",
+      "lat": 48.73,
+      "lng": 18.93,
+      "homepage": "http://www.skalky.sk"
+    },
+    {
+      "name": "Krpáčovo",
+      "lat": 48.87,
+      "lng": 19.55,
+      "homepage": "http://www.nizketatry.sk/"
+    },
+    {
+      "name": "Krušetnica",
+      "lat": 49.38,
+      "lng": 19.34,
+      "homepage": "http://www.pohodakrusetnica.sk/"
+    },
+    {
+      "name": "Králiky",
+      "lat": 48.73,
+      "lng": 19.04,
+      "homepage": "http://www.skikraliky.sk/sk/home"
+    },
+    {
+      "name": "Kráľová pri Zvolene",
+      "lat": 48.51,
+      "lng": 19.18,
+      "homepage": "http://www.hotelkralova.sk/"
+    },
+    {
+      "name": "Kubašok - Spišské Bystré",
+      "lat": 49.12,
+      "lng": 20.35,
+      "homepage": "http://www.kubasok.sk/"
+    },
+    {
+      "name": "Kubinska Hola",
+      "lat": 49.28,
+      "lng": 19.28,
+      "homepage": "http://www.skikubinskahola.sk/"
+    },
+    {
+      "name": "Kuzmínovo",
+      "lat": 49.2,
+      "lng": 19.29,
+      "homepage": "http://www.sunsoft.sk/kuzminovo"
+    },
+    {
+      "name": "Kálnica",
+      "lat": 48.76,
+      "lng": 17.92,
+      "homepage": "http://www.skicentrumkalnica.sk/zima/"
+    },
+    {
+      "name": "Kľačno",
+      "lat": 49.08,
+      "lng": 19.27,
+      "homepage": "http://www.skiklacno.sk/"
+    },
+    {
+      "name": "Levoča - Závada",
+      "lat": 49.03,
+      "lng": 20.6,
+      "homepage": "http://suz.levoca.sk/"
+    },
+    {
+      "name": "Liptovská Teplčika",
+      "lat": 48.97,
+      "lng": 20.09,
+      "homepage": ""
+    },
+    {
+      "name": "Liptovské Revúce",
+      "lat": 48.93,
+      "lng": 19.2,
+      "homepage": "http://liptovskerevuce.host.sk/lyzovanie2.html"
+    },
+    {
+      "name": "Litmanová",
+      "lat": 49.37,
+      "lng": 20.62,
+      "homepage": "http://www.skilitmanova.sk/"
+    },
+    {
+      "name": "Látky - Hotel Royal",
+      "lat": 48.6,
+      "lng": 19.66,
+      "homepage": "http://www.hotelroyal.sk/"
+    },
+    {
+      "name": "Makov",
+      "lat": 49.34,
+      "lng": 18.47,
+      "homepage": "http://www.skimakov.sk/Default.aspx?jazyk=sk&strana=domov"
+    },
+    {
+      "name": "Makovica - Nižná Polianka",
+      "lat": 49.4,
+      "lng": 21.39,
+      "homepage": "http://makovica.sk/"
+    },
+    {
+      "name": "Mala Lucivna",
+      "lat": 49.2,
+      "lng": 20.61,
+      "homepage": "http://www.hutnikmlucivna.sk/l_sk/default.php"
+    },
+    {
+      "name": "Martinky",
+      "lat": 49.09,
+      "lng": 18.83,
+      "homepage": "http://www.martinky.com/"
+    },
+    {
+      "name": "Mlynky - Dedinky",
+      "lat": 48.86,
+      "lng": 20.43,
+      "homepage": "http://www.mlynky-dedinky.eu"
+    },
+    {
+      "name": "Mojtín",
+      "lat": 48.98,
+      "lng": 18.4,
+      "homepage": "http://www.skimojtin.sk/"
+    },
+    {
+      "name": "Mraznica - Hnilčík",
+      "lat": 48.87,
+      "lng": 20.56,
+      "homepage": "http://www.scm.sk/"
+    },
+    {
+      "name": "Mýto pod Ďumbierom",
+      "lat": 48.84,
+      "lng": 19.62,
+      "homepage": ""
+    },
+    {
+      "name": "Nižná Uhliská",
+      "lat": 49.31,
+      "lng": 19.52,
+      "homepage": "http://www.skinizna.sk"
+    },
+    {
+      "name": "Opalisko - Závažná Poruba",
+      "lat": 49.07,
+      "lng": 19.65,
+      "homepage": "http://www.zavaznaporuba.sk/opalisko/"
+    },
+    {
+      "name": "Oravská Lesná",
+      "lat": 49.38,
+      "lng": 19.18,
+      "homepage": "http://www.oravasnow.sk"
+    },
+    {
+      "name": "Ostrý Grúň Kollárová",
+      "lat": 48.6,
+      "lng": 18.65,
+      "homepage": "http://www.blanc-ski.szm.sk"
+    },
+    {
+      "name": "Oščadnica",
+      "lat": 49.44,
+      "lng": 18.88,
+      "homepage": "http://www.sportcentrum.gajuz.sk/"
+    },
+    {
+      "name": "Pezinská Baba",
+      "lat": 48.38,
+      "lng": 17.25,
+      "homepage": "http://www.lkbaba.sk"
+    },
+    {
+      "name": "Plejsy",
+      "lat": 48.9,
+      "lng": 20.89,
+      "homepage": "http://www.plejsy.sk/"
+    },
+    {
+      "name": "Pod Lesom - Dolný Smokovec",
+      "lat": 49.13,
+      "lng": 20.25,
+      "homepage": "http://www.greguskaski.lodge.sk/"
+    },
+    {
+      "name": "Podjavorník",
+      "lat": 49.11,
+      "lng": 18.44,
+      "homepage": "http://www.podjavornik.eu"
+    },
+    {
+      "name": "Podkonice - Pleše",
+      "lat": 48.8,
+      "lng": 19.26,
+      "homepage": "http://www.nasepodkonice.sk/"
+    },
+    {
+      "name": "Polana",
+      "lat": 48.58,
+      "lng": 19.53,
+      "homepage": "http://www.polana.sk"
+    },
+    {
+      "name": "Polomka-Bučník",
+      "lat": 48.85,
+      "lng": 19.85,
+      "homepage": "http://www.polomka.sk"
+    },
+    {
+      "name": "Poracska dolina",
+      "lat": 48.88,
+      "lng": 20.74,
+      "homepage": ""
+    },
+    {
+      "name": "Racibor - Oravský Podzámok",
+      "lat": 49.26,
+      "lng": 19.34,
+      "homepage": "http://www.racibor.eu/skipark/"
+    },
+    {
+      "name": "Rajecká Lesná - Kosariska",
+      "lat": 49.05,
+      "lng": 18.65,
+      "homepage": "http://www.rajecka.host.sk"
+    },
+    {
+      "name": "Regetovka",
+      "lat": 49.42,
+      "lng": 21.27,
+      "homepage": "http://www.regetovka.sk/"
+    },
+    {
+      "name": "Renčišov - Búče",
+      "lat": 49.04,
+      "lng": 21.2,
+      "homepage": "http://www.skibuce.sk/"
+    },
+    {
+      "name": "Roháče - Zverovka/Spálená dolina",
+      "lat": 49.24,
+      "lng": 19.71,
+      "homepage": "http://www.tatrawestsro.sk"
+    },
+    {
+      "name": "Ružomberok - Malino Brdo",
+      "lat": 49.08,
+      "lng": 19.32,
+      "homepage": "http://www.skipark.sk"
+    },
+    {
+      "name": "Salamandra",
+      "lat": 48.43,
+      "lng": 18.87,
+      "homepage": "http://www.salamandra.sk/sk"
+    },
+    {
+      "name": "Skalka pri Kremnici",
+      "lat": 48.73,
+      "lng": 18.94,
+      "homepage": "http://www.skalky.sk"
+    },
+    {
+      "name": "Ski Centrum Brezovica (Slovakia)",
+      "lat": 49.33,
+      "lng": 19.67,
+      "homepage": "https://www.oravskyhaj.sk/skicentrum/"
+    },
+    {
+      "name": "Ski TMG Remata",
+      "lat": 48.75,
+      "lng": 18.77,
+      "homepage": "http://www.skitmg.sk"
+    },
+    {
+      "name": "Stará Myjava",
+      "lat": 48.79,
+      "lng": 17.59,
+      "homepage": "http://www.skiland.sk/"
+    },
+    {
+      "name": "Starý Smokovec",
+      "lat": 49.15,
+      "lng": 20.23,
+      "homepage": "http://www.tanap.sk/ski.html"
+    },
+    {
+      "name": "Stebnícka Huta",
+      "lat": 49.42,
+      "lng": 21.25,
+      "homepage": "http://www.transunit.sk/lyzstr.html"
+    },
+    {
+      "name": "Strednica - Ždiar",
+      "lat": 49.27,
+      "lng": 20.27,
+      "homepage": "http://www.strednica.sk/"
+    },
+    {
+      "name": "Strelníky",
+      "lat": 48.72,
+      "lng": 19.4,
+      "homepage": "http://www.skistrelniky.sk/"
+    },
+    {
+      "name": "Tajov",
+      "lat": 48.75,
+      "lng": 19.07,
+      "homepage": "http://www.skicentrumtajov.sk/"
+    },
+    {
+      "name": "Tatranská Lomnica",
+      "lat": 49.17,
+      "lng": 20.28,
+      "homepage": "http://www.tldtatry.sk"
+    },
+    {
+      "name": "Telgárt",
+      "lat": 48.86,
+      "lng": 20.19,
+      "homepage": "http://www.skitelgart.sk/"
+    },
+    {
+      "name": "Turecka/Krizna",
+      "lat": 48.85,
+      "lng": 19.09,
+      "homepage": "http://www.skiturecka.sk/"
+    },
+    {
+      "name": "Tále",
+      "lat": 48.87,
+      "lng": 19.6,
+      "homepage": "http://www.tale.sk"
+    },
+    {
+      "name": "Vadičov",
+      "lat": 49.27,
+      "lng": 18.88,
+      "homepage": "http://www.snowsun.sk/"
+    },
+    {
+      "name": "Valčianska dolina",
+      "lat": 49.1,
+      "lng": 18.9,
+      "homepage": "http://www.snowland.sk/"
+    },
+    {
+      "name": "Vernár - Studničky",
+      "lat": 48.92,
+      "lng": 20.27,
+      "homepage": "http://www.vernar-studnicky.com/"
+    },
+    {
+      "name": "Veľká Rača - Oščadnica",
+      "lat": 49.43,
+      "lng": 18.88,
+      "homepage": "http://www.velkaraca.sk/index.php"
+    },
+    {
+      "name": "Veľké Ostré",
+      "lat": 49.31,
+      "lng": 18.77,
+      "homepage": "http://www.velkeostre.sk/"
+    },
+    {
+      "name": "Vratna Dolina",
+      "lat": 49.22,
+      "lng": 19.03,
+      "homepage": "http://www.vratna.sk/zima"
+    },
+    {
+      "name": "Vyšná Boca - Bačova roveň",
+      "lat": 48.93,
+      "lng": 19.75,
+      "homepage": "http://www.hotelbarbora.sk/sk/ski-centrum-bacova-roven"
+    },
+    {
+      "name": "Vyšná Slaná - Július",
+      "lat": 48.79,
+      "lng": 20.32,
+      "homepage": "http://www.julius.sk/"
+    },
+    {
+      "name": "Vyšné Ružbachy",
+      "lat": 49.3,
+      "lng": 20.57,
+      "homepage": "http://www.skiparkvruzbachy.sk/"
+    },
+    {
+      "name": "Zbojská",
+      "lat": 48.75,
+      "lng": 19.85,
+      "homepage": "http://zbojska.csmtisovec.sk/"
+    },
+    {
+      "name": "Zochova chata - Piesok",
+      "lat": 48.29,
+      "lng": 17.27,
+      "homepage": "http://www.lkbaba.sk/"
+    },
+    {
+      "name": "Zuberec Milotín - Janovky",
+      "lat": 49.27,
+      "lng": 19.62,
+      "homepage": "http://www.rohace.sk/"
+    },
+    {
+      "name": "Zuberec/Janovky",
+      "lat": 49.28,
+      "lng": 19.61,
+      "homepage": "http://www.janovky.sk/"
+    },
+    {
+      "name": "Čachovo - Selce",
+      "lat": 48.76,
+      "lng": 19.19,
+      "homepage": "http://www.selce-cachovo.sk"
+    },
+    {
+      "name": "Čertov - Lazy pod Makytou",
+      "lat": 49.28,
+      "lng": 18.22,
+      "homepage": "http://www.skicertov.sk/"
+    },
+    {
+      "name": "Čertovica",
+      "lat": 48.91,
+      "lng": 19.74,
+      "homepage": ""
+    },
+    {
+      "name": "Čičmany",
+      "lat": 48.95,
+      "lng": 18.53,
+      "homepage": "http://www.cicmany-ski.sk"
+    },
+    {
+      "name": "Šachtičky",
+      "lat": 48.83,
+      "lng": 19.2,
+      "homepage": "http://www.sachtickyas.sk"
+    },
+    {
+      "name": "Štrbské Pleso",
+      "lat": 49.12,
+      "lng": 20.05,
+      "homepage": "http://www.1tatranska.sk"
+    },
+    {
+      "name": "Ždiar - Bachledova Dolina",
+      "lat": 49.27,
+      "lng": 20.27,
+      "homepage": "http://www.1tatranska.sk/"
+    },
+    {
+      "name": "Žiar - Dolinky",
+      "lat": 49.13,
+      "lng": 19.66,
+      "homepage": "http://www.dolinky.szm.com/"
+    },
+    {
+      "name": "Žiarce - Pavčina Lehota",
+      "lat": 49.03,
+      "lng": 19.58,
+      "homepage": "http://ziarce.sk/"
+    }
+  ],
+  "meta": {
+    "title": "Lyžiarske strediská na Slovensku - Bezplatné stiahnutie",
+    "description": "Zoznam 97 lyžiarskych stredísk na Slovensku s názvom, zemepisnými súradnicami (lat/lng) a oficiálnou webovou stránkou strediska. Údaje pochádzajú z otvoreného repozitára rokija/ski-resorts (agregát európskych lyžiarskych stredísk). Obsahuje 97 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Lyžiarske strediská na Slovensku | ListBase",
+    "seo_description": "Stiahnuť Lyžiarske strediská na Slovensku — 97 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 97 záznamov / 4 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

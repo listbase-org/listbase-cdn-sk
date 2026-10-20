@@ -1,0 +1,133 @@
+{
+  "id": "sk-merne-jednotky-graphics",
+  "name": "Merné jednotky — kategória 'graphics' (8)",
+  "title": "Merné jednotky — kategória 'graphics' (8)",
+  "description": "Merné jednotky kategórie 'graphics' z locale sk v CLDR, s názvami v slovenčine.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "skratka",
+      "label": "Skratka",
+      "type": "string"
+    },
+    {
+      "key": "uzky_tvar",
+      "label": "Uzky Tvar",
+      "type": "string"
+    },
+    {
+      "key": "vzor",
+      "label": "Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "graphics-dot",
+      "kategoria": "graphics",
+      "nazov": "body",
+      "skratka": "body",
+      "uzky_tvar": "bod",
+      "vzor": "{0} bodov"
+    },
+    {
+      "id": 2,
+      "unit_code": "graphics-dot-per-centimeter",
+      "kategoria": "graphics",
+      "nazov": "body na centimeter",
+      "skratka": "dpcm",
+      "uzky_tvar": "dpcm",
+      "vzor": "{0} bodov na centimeter"
+    },
+    {
+      "id": 3,
+      "unit_code": "graphics-dot-per-inch",
+      "kategoria": "graphics",
+      "nazov": "body na palec",
+      "skratka": "dpi",
+      "uzky_tvar": "dpi",
+      "vzor": "{0} bodov na palec"
+    },
+    {
+      "id": 4,
+      "unit_code": "graphics-em",
+      "kategoria": "graphics",
+      "nazov": "em",
+      "skratka": "em",
+      "uzky_tvar": "em",
+      "vzor": "{0} em"
+    },
+    {
+      "id": 5,
+      "unit_code": "graphics-megapixel",
+      "kategoria": "graphics",
+      "nazov": "megapixely",
+      "skratka": "Mpx",
+      "uzky_tvar": "Mpx",
+      "vzor": "{0} megapixelov"
+    },
+    {
+      "id": 6,
+      "unit_code": "graphics-pixel",
+      "kategoria": "graphics",
+      "nazov": "pixely",
+      "skratka": "px",
+      "uzky_tvar": "px",
+      "vzor": "{0} pixelov"
+    },
+    {
+      "id": 7,
+      "unit_code": "graphics-pixel-per-centimeter",
+      "kategoria": "graphics",
+      "nazov": "pixely na centimeter",
+      "skratka": "ppcm",
+      "uzky_tvar": "ppcm",
+      "vzor": "{0} pixelov na centimeter"
+    },
+    {
+      "id": 8,
+      "unit_code": "graphics-pixel-per-inch",
+      "kategoria": "graphics",
+      "nazov": "pixely na palec",
+      "skratka": "ppi",
+      "uzky_tvar": "ppi",
+      "vzor": "{0} pixelov na palec"
+    }
+  ],
+  "meta": {
+    "title": "Merné jednotky — kategória 'graphics' (8) - Bezplatné stiahnutie",
+    "description": "Merné jednotky kategórie 'graphics' z locale sk v CLDR, s názvami v slovenčine. Obsahuje 8 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Merné jednotky — kategória 'graphics' (8) | ListBase",
+    "seo_description": "Stiahnuť Merné jednotky — kategória 'graphics' (8) — 8 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 8 záznamov / 7 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

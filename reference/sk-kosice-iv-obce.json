@@ -1,0 +1,126 @@
+{
+  "id": "sk-kosice-iv-obce",
+  "name": "Obce v okrese Košice IV",
+  "title": "Obce v okrese Košice IV",
+  "description": "Všetky obce (municipality) v okrese Košice IV, Košický kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1566,
+      "fullname": "Košice - Barca",
+      "shortname": "Barca",
+      "zip": "040 17",
+      "district_id": 26,
+      "okres": "Košice IV",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1569,
+      "fullname": "Košice - Juh",
+      "shortname": "Juh",
+      "zip": 0,
+      "district_id": 26,
+      "okres": "Košice IV",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1572,
+      "fullname": "Košice - Krásna",
+      "shortname": "Krásna",
+      "zip": "040 18",
+      "district_id": 26,
+      "okres": "Košice IV",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1576,
+      "fullname": "Košice - Nad Jazerom",
+      "shortname": "Nad Jazerom",
+      "zip": 0,
+      "district_id": 26,
+      "okres": "Košice IV",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1586,
+      "fullname": "Košice - Vyšné Opátske",
+      "shortname": "Vyšné Opátske",
+      "zip": "040 01",
+      "district_id": 26,
+      "okres": "Košice IV",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1584,
+      "fullname": "Košice - Šebastovce",
+      "shortname": "Šebastovce",
+      "zip": "040 17",
+      "district_id": 26,
+      "okres": "Košice IV",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Košice IV - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Košice IV, Košický kraj — s PSČ a kódom okresu. Obsahuje 6 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Košice IV | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Košice IV — 6 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 6 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

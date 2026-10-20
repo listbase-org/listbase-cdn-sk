@@ -1,0 +1,86 @@
+{
+  "id": "sk-kosice-iii-obce",
+  "name": "Obce v okrese Košice III",
+  "title": "Obce v okrese Košice III",
+  "description": "Všetky obce (municipality) v okrese Košice III, Košický kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1567,
+      "fullname": "Košice - Dargovských Hrdinov",
+      "shortname": "Dargovských Hrdinov",
+      "zip": 0,
+      "district_id": 25,
+      "okres": "Košice III",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1571,
+      "fullname": "Košice - Košická Nová Ves",
+      "shortname": "Košická Nová Ves",
+      "zip": "040 14",
+      "district_id": 25,
+      "okres": "Košice III",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Košice III - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Košice III, Košický kraj — s PSČ a kódom okresu. Obsahuje 2 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Košice III | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Košice III — 2 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 2 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

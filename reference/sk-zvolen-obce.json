@@ -1,0 +1,546 @@
+{
+  "id": "sk-zvolen-obce",
+  "name": "Obce v okrese Zvolen",
+  "title": "Obce v okrese Zvolen",
+  "description": "Všetky obce (municipality) v okrese Zvolen, Banskobystrický kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 31,
+      "fullname": "Babiná",
+      "shortname": "Babiná",
+      "zip": "962 61",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 38,
+      "fullname": "Bacúrov",
+      "shortname": "Bacúrov",
+      "zip": "962 61",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 280,
+      "fullname": "Breziny",
+      "shortname": "Breziny",
+      "zip": "962 61",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 324,
+      "fullname": "Budička",
+      "shortname": "Budička",
+      "zip": "962 34",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 323,
+      "fullname": "Budča",
+      "shortname": "Budča",
+      "zip": "962 33",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 376,
+      "fullname": "Bzovská Lehôtka",
+      "shortname": "Bzovská Lehôtka",
+      "zip": "962 62",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 577,
+      "fullname": "Dobrá Niva",
+      "shortname": "Dobrá Niva",
+      "zip": "962 61",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 599,
+      "fullname": "Dolinky",
+      "shortname": "Dolinky",
+      "zip": "962 63",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 620,
+      "fullname": "Dolné Breziny",
+      "shortname": "Dolné Breziny",
+      "zip": "962 61",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 727,
+      "fullname": "Dubové",
+      "shortname": "Dubové",
+      "zip": "962 61",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 998,
+      "fullname": "Horné Breziny",
+      "shortname": "Horné Breziny",
+      "zip": "962 61",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1118,
+      "fullname": "Hronská Breznica",
+      "shortname": "Hronská Breznica",
+      "zip": "966 11",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 875,
+      "fullname": "Hájniky",
+      "shortname": "Hájniky",
+      "zip": "962 31",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1399,
+      "fullname": "Kašova Lehôtka",
+      "shortname": "Kašova Lehôtka",
+      "zip": "962 34",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1605,
+      "fullname": "Kováčová",
+      "shortname": "Kováčová",
+      "zip": "962 37",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1631,
+      "fullname": "Kráľová",
+      "shortname": "Kráľová",
+      "zip": "960 01",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1796,
+      "fullname": "Lažteky",
+      "shortname": "Lažteky",
+      "zip": "962 63",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1824,
+      "fullname": "Lešť",
+      "shortname": "Lešť",
+      "zip": "962 63",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1849,
+      "fullname": "Lieskovec",
+      "shortname": "Lieskovec",
+      "zip": "962 21",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1912,
+      "fullname": "Lonec",
+      "shortname": "Lonec",
+      "zip": "962 63",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1969,
+      "fullname": "Lukavica",
+      "shortname": "Lukavica",
+      "zip": "962 31",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1972,
+      "fullname": "Lukové",
+      "shortname": "Lukové",
+      "zip": "962 21",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2179,
+      "fullname": "Michalková",
+      "shortname": "Michalková",
+      "zip": "962 61",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2266,
+      "fullname": "Môťová",
+      "shortname": "Môťová",
+      "zip": "960 01",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2323,
+      "fullname": "Neresnica",
+      "shortname": "Neresnica",
+      "zip": "960 01",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2541,
+      "fullname": "Ostrá Lúka",
+      "shortname": "Ostrá Lúka",
+      "zip": "962 61",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2460,
+      "fullname": "Očová",
+      "shortname": "Očová",
+      "zip": "962 23",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2671,
+      "fullname": "Pliešovce",
+      "shortname": "Pliešovce",
+      "zip": "962 63",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2703,
+      "fullname": "Podjavorie (pri Lešti)",
+      "shortname": "Podjavorie",
+      "zip": "962 63",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2704,
+      "fullname": "Podjavorie (pri Pliešovci)",
+      "shortname": "Podjavorie",
+      "zip": "962 63",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2727,
+      "fullname": "Podzámčok",
+      "shortname": "Podzámčok",
+      "zip": "962 61",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2754,
+      "fullname": "Polomy",
+      "shortname": "Polomy",
+      "zip": "962 63",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3057,
+      "fullname": "Rybáre",
+      "shortname": "Rybáre",
+      "zip": "962 31",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3075,
+      "fullname": "Sampor",
+      "shortname": "Sampor",
+      "zip": "962 31",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3121,
+      "fullname": "Sielnica",
+      "shortname": "Sielnica",
+      "zip": "962 31",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3167,
+      "fullname": "Slatinka",
+      "shortname": "Slatinka",
+      "zip": "962 01",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3178,
+      "fullname": "Sliač",
+      "shortname": "Sliač",
+      "zip": "962 31",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3179,
+      "fullname": "Sliač - kúpele",
+      "shortname": "Sliač - kúpele",
+      "zip": "962 31",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3079,
+      "fullname": "Sása",
+      "shortname": "Sása",
+      "zip": "962 62",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3650,
+      "fullname": "Turová",
+      "shortname": "Turová",
+      "zip": "962 34",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3602,
+      "fullname": "Tŕnie",
+      "shortname": "Tŕnie",
+      "zip": "962 34",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3760,
+      "fullname": "Veľká Lúka",
+      "shortname": "Veľká Lúka",
+      "zip": "962 31",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3850,
+      "fullname": "Vidov Vrch",
+      "shortname": "Vidov Vrch",
+      "zip": "962 63",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4051,
+      "fullname": "Zaježová",
+      "shortname": "Zaježová",
+      "zip": "962 63",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4146,
+      "fullname": "Zolná",
+      "shortname": "Zolná",
+      "zip": "962 21",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4153,
+      "fullname": "Zvolen",
+      "shortname": "Zvolen",
+      "zip": 0,
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4154,
+      "fullname": "Zvolenská Slatina",
+      "shortname": "Zvolenská Slatina",
+      "zip": "962 01",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4176,
+      "fullname": "Železná Breznica",
+      "shortname": "Železná Breznica",
+      "zip": "962 34",
+      "district_id": 76,
+      "okres": "Zvolen",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Zvolen - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Zvolen, Banskobystrický kraj — s PSČ a kódom okresu. Obsahuje 48 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Zvolen | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Zvolen — 48 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 48 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

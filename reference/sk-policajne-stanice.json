@@ -1,0 +1,1531 @@
+{
+  "id": "sk-policajne-stanice",
+  "name": "Slovenské policajné stanice",
+  "title": "Slovenské policajné stanice",
+  "description": "Zoznam pomenovaných policajných staníc na Slovensku (amenity=police) z OpenStreetMap.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 298,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Cudzinecká polícia",
+      "latitude": 48.715122,
+      "longitude": 21.235714
+    },
+    {
+      "name": "Diaľničná polícia",
+      "latitude": 49.068694,
+      "longitude": 19.590011
+    },
+    {
+      "name": "Dopravná polícia",
+      "latitude": 48.213905,
+      "longitude": 18.598007
+    },
+    {
+      "name": "Dopravná polícia",
+      "latitude": 48.679935,
+      "longitude": 17.36054
+    },
+    {
+      "name": "Dopravná polícia - Oddelenie mýtnej polície Trenčín",
+      "latitude": 48.911934,
+      "longitude": 18.011016
+    },
+    {
+      "name": "Dopravný inšpektorát",
+      "latitude": 48.878136,
+      "longitude": 18.031516
+    },
+    {
+      "name": "Dopravný inšpektorát OR PZ",
+      "latitude": 48.754733,
+      "longitude": 21.925474
+    },
+    {
+      "name": "Dopravný inšpektorát OR PZ Žilina",
+      "latitude": 49.221337,
+      "longitude": 18.735874
+    },
+    {
+      "name": "Dopravný inšpektorát Prešov",
+      "latitude": 48.994845,
+      "longitude": 21.246599
+    },
+    {
+      "name": "Generálne riaditeľstvo Železničnej polície",
+      "latitude": 48.15563,
+      "longitude": 17.106528
+    },
+    {
+      "name": "Klientské Centrum",
+      "latitude": 48.733686,
+      "longitude": 19.149847
+    },
+    {
+      "name": "Krajská prokuratúra Nitra",
+      "latitude": 48.307857,
+      "longitude": 18.084055
+    },
+    {
+      "name": "Krajské riaditeľstvo Policajného zboru SR",
+      "latitude": 48.986639,
+      "longitude": 21.244436
+    },
+    {
+      "name": "Krajské riaditeľstvo Policajného zboru v Bratislave",
+      "latitude": 48.14833,
+      "longitude": 17.117111
+    },
+    {
+      "name": "Krajské riaditeľstvo policajného zboru v Trenčíne",
+      "latitude": 48.888754,
+      "longitude": 18.034862
+    },
+    {
+      "name": "Krajské riaditeľstvo Policajného Zboru Žilina",
+      "latitude": 49.22186,
+      "longitude": 18.737011
+    },
+    {
+      "name": "Krajské riaditeľstvo PZ v Banskej Bystrici",
+      "latitude": 48.732023,
+      "longitude": 19.15196
+    },
+    {
+      "name": "Krajské riaditeľstvo PZ v Trnave",
+      "latitude": 48.371375,
+      "longitude": 17.588649
+    },
+    {
+      "name": "Krajský dopravný inšpektorát",
+      "latitude": 48.986535,
+      "longitude": 21.24407
+    },
+    {
+      "name": "Kriminálne oddelenie OR PZ",
+      "latitude": 49.054046,
+      "longitude": 20.286456
+    },
+    {
+      "name": "Mestka Policia",
+      "latitude": 48.209023,
+      "longitude": 19.349313
+    },
+    {
+      "name": "Mestská políca Bánovce nad Bebravou",
+      "latitude": 48.719488,
+      "longitude": 18.259634
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 47.769335,
+      "longitude": 18.109951
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 47.854967,
+      "longitude": 17.769618
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 47.926429,
+      "longitude": 18.1198
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.146963,
+      "longitude": 17.171343
+    },
+    {
+      "name": "Mestská Polícia",
+      "latitude": 48.173235,
+      "longitude": 17.134702
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.187942,
+      "longitude": 17.719606
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.19986,
+      "longitude": 17.032461
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.216936,
+      "longitude": 18.610841
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.285845,
+      "longitude": 17.269952
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.289196,
+      "longitude": 17.730093
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.307688,
+      "longitude": 18.081947
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.335414,
+      "longitude": 17.311581
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.381577,
+      "longitude": 18.396419
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.385958,
+      "longitude": 20.017821
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.458835,
+      "longitude": 18.892586
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.460339,
+      "longitude": 18.891902
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.578385,
+      "longitude": 19.123014
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.592017,
+      "longitude": 17.826596
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.625125,
+      "longitude": 18.372114
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.657401,
+      "longitude": 20.531629
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.699814,
+      "longitude": 20.890461
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.700154,
+      "longitude": 18.91564
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.721659,
+      "longitude": 21.258221
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.727161,
+      "longitude": 18.760123
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.755502,
+      "longitude": 21.914084
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.75696,
+      "longitude": 17.832025
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.776302,
+      "longitude": 18.642601
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.778486,
+      "longitude": 17.696803
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.80564,
+      "longitude": 19.645917
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.807273,
+      "longitude": 17.162474
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.851984,
+      "longitude": 20.933395
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.861927,
+      "longitude": 18.860278
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.894741,
+      "longitude": 18.038993
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.933129,
+      "longitude": 21.905979
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.991026,
+      "longitude": 21.271219
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 48.996363,
+      "longitude": 21.239496
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 49.006843,
+      "longitude": 21.223247
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 49.057871,
+      "longitude": 20.203859
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 49.115569,
+      "longitude": 21.52105
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 49.115798,
+      "longitude": 18.447333
+    },
+    {
+      "name": "Mestská polícia",
+      "latitude": 49.305527,
+      "longitude": 18.788018
+    },
+    {
+      "name": "Mestská polícia Bojnice",
+      "latitude": 48.781154,
+      "longitude": 18.584
+    },
+    {
+      "name": "Mestská polícia Bratislava",
+      "latitude": 48.147747,
+      "longitude": 17.110561
+    },
+    {
+      "name": "Mestská polícia Bytča",
+      "latitude": 49.222353,
+      "longitude": 18.557948
+    },
+    {
+      "name": "Mestská polícia Dubnica nad Váhom",
+      "latitude": 48.961136,
+      "longitude": 18.16507
+    },
+    {
+      "name": "Mestská polícia Ilava",
+      "latitude": 48.99503,
+      "longitude": 18.234271
+    },
+    {
+      "name": "Mestská polícia Kežmarok",
+      "latitude": 49.135913,
+      "longitude": 20.429487
+    },
+    {
+      "name": "Mestská polícia Komárno",
+      "latitude": 47.755627,
+      "longitude": 18.132486
+    },
+    {
+      "name": "Mestská polícia Košice",
+      "latitude": 48.724987,
+      "longitude": 21.24387
+    },
+    {
+      "name": "Mestská polícia Košice - Odťahová služba",
+      "latitude": 48.709835,
+      "longitude": 21.266934
+    },
+    {
+      "name": "Mestská polícia Košice - stanica Juh",
+      "latitude": 48.709623,
+      "longitude": 21.267052
+    },
+    {
+      "name": "Mestská polícia Košice - stanica Sever",
+      "latitude": 48.73946,
+      "longitude": 21.251155
+    },
+    {
+      "name": "Mestská polícia Krompachy",
+      "latitude": 48.920105,
+      "longitude": 20.885803
+    },
+    {
+      "name": "Mestská Polícia Martin",
+      "latitude": 49.053507,
+      "longitude": 18.924523
+    },
+    {
+      "name": "Mestská polícia Nová Dubnica",
+      "latitude": 48.939963,
+      "longitude": 18.146749
+    },
+    {
+      "name": "Mestská polícia Nováky",
+      "latitude": 48.717947,
+      "longitude": 18.543509
+    },
+    {
+      "name": "Mestská polícia Nové Zámky",
+      "latitude": 47.987307,
+      "longitude": 18.157978
+    },
+    {
+      "name": "Mestská polícia Púchov",
+      "latitude": 49.123148,
+      "longitude": 18.325847
+    },
+    {
+      "name": "Mestská polícia Rajec",
+      "latitude": 49.089088,
+      "longitude": 18.635424
+    },
+    {
+      "name": "Mestská polícia Senec",
+      "latitude": 48.215247,
+      "longitude": 17.389937
+    },
+    {
+      "name": "Mestská polícia Snina",
+      "latitude": 48.987984,
+      "longitude": 22.151414
+    },
+    {
+      "name": "Mestská polícia Trnava",
+      "latitude": 48.376321,
+      "longitude": 17.58738
+    },
+    {
+      "name": "Mestská polícia Čadca",
+      "latitude": 49.436895,
+      "longitude": 18.786495
+    },
+    {
+      "name": "Mestská polícia Šamorín",
+      "latitude": 48.027749,
+      "longitude": 17.296849
+    },
+    {
+      "name": "Mestská polícia Šaľa",
+      "latitude": 48.163429,
+      "longitude": 17.88616
+    },
+    {
+      "name": "Mestská polícia Šurany",
+      "latitude": 48.086992,
+      "longitude": 18.188533
+    },
+    {
+      "name": "Mestská polícia Žilina",
+      "latitude": 49.211842,
+      "longitude": 18.70945
+    },
+    {
+      "name": "Mestá polícia Ružomberok",
+      "latitude": 49.085145,
+      "longitude": 19.29712
+    },
+    {
+      "name": "MsP Košice, Stanica KVP",
+      "latitude": 48.715661,
+      "longitude": 21.216672
+    },
+    {
+      "name": "MsP Košice, Stanica Luník IX",
+      "latitude": 48.697205,
+      "longitude": 21.221716
+    },
+    {
+      "name": "MsP Košice, Stanica Nad jazerom",
+      "latitude": 48.682501,
+      "longitude": 21.29615
+    },
+    {
+      "name": "MsP Košice, Stanica Stred",
+      "latitude": 48.718233,
+      "longitude": 21.254441
+    },
+    {
+      "name": "MsP Košice, Stanica Východ",
+      "latitude": 48.726899,
+      "longitude": 21.290084
+    },
+    {
+      "name": "MsP Košice, Stanica Západ",
+      "latitude": 48.71504,
+      "longitude": 21.235746
+    },
+    {
+      "name": "MsP Košice, Stanica Šaca",
+      "latitude": 48.634044,
+      "longitude": 21.171222
+    },
+    {
+      "name": "MsP Košice, Stanica Ťahanovce",
+      "latitude": 48.754925,
+      "longitude": 21.271019
+    },
+    {
+      "name": "Mýtna polícia",
+      "latitude": 49.068997,
+      "longitude": 19.590224
+    },
+    {
+      "name": "Mýtna polícia Prešov",
+      "latitude": 48.968708,
+      "longitude": 21.261704
+    },
+    {
+      "name": "Obecná polícia",
+      "latitude": 47.983064,
+      "longitude": 18.264894
+    },
+    {
+      "name": "Obecná polícia",
+      "latitude": 47.993529,
+      "longitude": 18.265906
+    },
+    {
+      "name": "Obecná polícia",
+      "latitude": 48.095095,
+      "longitude": 18.064956
+    },
+    {
+      "name": "Obecná polícia",
+      "latitude": 48.205294,
+      "longitude": 17.285045
+    },
+    {
+      "name": "Obecná polícia",
+      "latitude": 48.314253,
+      "longitude": 16.981745
+    },
+    {
+      "name": "Obecná polícia",
+      "latitude": 48.81288,
+      "longitude": 18.58335
+    },
+    {
+      "name": "Obecná polícia",
+      "latitude": 48.9588,
+      "longitude": 20.522277
+    },
+    {
+      "name": "Obecná polícia",
+      "latitude": 49.114429,
+      "longitude": 20.354799
+    },
+    {
+      "name": "Oblastná správa Železničnej polície",
+      "latitude": 48.727565,
+      "longitude": 21.262977
+    },
+    {
+      "name": "Obvodné odd. PZ",
+      "latitude": 48.943211,
+      "longitude": 20.562116
+    },
+    {
+      "name": "Obvodné oddelenie policajného zboru",
+      "latitude": 48.617429,
+      "longitude": 19.146495
+    },
+    {
+      "name": "Obvodné oddelenie policajného zboru",
+      "latitude": 48.762747,
+      "longitude": 17.826354
+    },
+    {
+      "name": "Obvodné oddelenie Policajného zboru",
+      "latitude": 49.019991,
+      "longitude": 20.589987
+    },
+    {
+      "name": "Obvodné oddelenie policajného zboru",
+      "latitude": 49.038689,
+      "longitude": 19.722475
+    },
+    {
+      "name": "Obvodné oddelenie Policajného zboru Bratislava Rusovce",
+      "latitude": 48.046396,
+      "longitude": 17.126053
+    },
+    {
+      "name": "Obvodné oddelenie policajného zboru Dubnica nad Váhom",
+      "latitude": 48.954878,
+      "longitude": 18.163703
+    },
+    {
+      "name": "Obvodné oddelenie policajného zboru Dvory nad Žitavou",
+      "latitude": 47.991674,
+      "longitude": 18.268689
+    },
+    {
+      "name": "Obvodné oddelenie Policajného zboru Dúbravka",
+      "latitude": 48.193607,
+      "longitude": 17.035017
+    },
+    {
+      "name": "Obvodné oddelenie policajného zboru Ilava",
+      "latitude": 48.999944,
+      "longitude": 18.234277
+    },
+    {
+      "name": "Obvodné oddelenie Policajného zboru Martin-západ",
+      "latitude": 49.078109,
+      "longitude": 18.913516
+    },
+    {
+      "name": "Obvodné oddelenie policajného zboru Miloslavov",
+      "latitude": 48.098048,
+      "longitude": 17.301589
+    },
+    {
+      "name": "Obvodné oddelenie policajného zboru Nitrianske Rudno",
+      "latitude": 48.797285,
+      "longitude": 18.478824
+    },
+    {
+      "name": "Obvodné oddelenie Policajného zboru Nové Mesto - Západ",
+      "latitude": 48.165572,
+      "longitude": 17.089729
+    },
+    {
+      "name": "Obvodné oddelenie Policajného zboru Petržalka - juh",
+      "latitude": 48.107997,
+      "longitude": 17.105779
+    },
+    {
+      "name": "Obvodné oddelenie Policajného zboru Petržalka - Sever",
+      "latitude": 48.130508,
+      "longitude": 17.098729
+    },
+    {
+      "name": "Obvodné oddelenie Policajného zboru Petržalka - stred",
+      "latitude": 48.123619,
+      "longitude": 17.116388
+    },
+    {
+      "name": "Obvodné oddelenie Policajného zboru Podunajské Biskupice",
+      "latitude": 48.130372,
+      "longitude": 17.211861
+    },
+    {
+      "name": "Obvodné oddelenie policajného zboru Prievidza",
+      "latitude": 48.770811,
+      "longitude": 18.620382
+    },
+    {
+      "name": "Obvodné oddelenie Policajného zboru Ružinov - Východ",
+      "latitude": 48.150345,
+      "longitude": 17.1774
+    },
+    {
+      "name": "Obvodné oddelenie Policajného zboru Ružinov - Západ",
+      "latitude": 48.151287,
+      "longitude": 17.133251
+    },
+    {
+      "name": "Obvodné oddelenie Policajného zboru Ružomberok",
+      "latitude": 49.079986,
+      "longitude": 19.298554
+    },
+    {
+      "name": "Obvodné oddelenie Policajného zboru Spišské Podhradie",
+      "latitude": 48.999732,
+      "longitude": 20.74915
+    },
+    {
+      "name": "Obvodné oddelenie Policajného zboru SR - Prešov sever",
+      "latitude": 49.017262,
+      "longitude": 21.222006
+    },
+    {
+      "name": "Obvodné oddelenie policajného zboru Stará Bystrica",
+      "latitude": 49.345974,
+      "longitude": 18.936348
+    },
+    {
+      "name": "Obvodné oddelenie Policajného zboru Staré mesto - stred",
+      "latitude": 48.142271,
+      "longitude": 17.115032
+    },
+    {
+      "name": "Obvodné oddelenie Policajného zboru Staré Mesto - východ",
+      "latitude": 48.149656,
+      "longitude": 17.123105
+    },
+    {
+      "name": "Obvodné oddelenie policajného zboru Staré Mesto - Západ",
+      "latitude": 48.150403,
+      "longitude": 17.106664
+    },
+    {
+      "name": "Obvodné oddelenie Policajného zboru Svit",
+      "latitude": 49.056308,
+      "longitude": 20.201704
+    },
+    {
+      "name": "Obvodné oddelenie Policajného zboru Trnávka",
+      "latitude": 48.169371,
+      "longitude": 17.170382
+    },
+    {
+      "name": "Obvodné oddelenie Policajného zboru v Senici",
+      "latitude": 48.678268,
+      "longitude": 17.369036
+    },
+    {
+      "name": "Obvodné oddelenie policajného zboru Veľký Meder",
+      "latitude": 47.858577,
+      "longitude": 17.770622
+    },
+    {
+      "name": "Obvodné oddelenie Policajného zboru Vrakuňa",
+      "latitude": 48.145881,
+      "longitude": 17.206295
+    },
+    {
+      "name": "Obvodné oddelenie PZ",
+      "latitude": 48.287375,
+      "longitude": 17.273174
+    },
+    {
+      "name": "Obvodné oddelenie PZ Devínska Nová Ves",
+      "latitude": 48.207462,
+      "longitude": 16.977463
+    },
+    {
+      "name": "Obvodné oddelenie PZ Drienov",
+      "latitude": 48.868663,
+      "longitude": 21.281226
+    },
+    {
+      "name": "Obvodné oddelenie PZ Karlova Ves",
+      "latitude": 48.151305,
+      "longitude": 17.04927
+    },
+    {
+      "name": "Obvodné oddelenie PZ Krásno nad Kysucou",
+      "latitude": 49.396497,
+      "longitude": 18.832384
+    },
+    {
+      "name": "Obvodné oddelenie PZ Kysucké Nové Mesto",
+      "latitude": 49.299936,
+      "longitude": 18.78398
+    },
+    {
+      "name": "Obvodné oddelenie PZ Liptovská Teplá",
+      "latitude": 49.09846,
+      "longitude": 19.412559
+    },
+    {
+      "name": "Obvodné oddelenie PZ Liptovský Mikuláš",
+      "latitude": 49.081984,
+      "longitude": 19.617024
+    },
+    {
+      "name": "Obvodné oddelenie PZ Modra",
+      "latitude": 48.332998,
+      "longitude": 17.311373
+    },
+    {
+      "name": "Obvodné oddelenie PZ Nitrianska Blatnica",
+      "latitude": 48.553826,
+      "longitude": 17.970152
+    },
+    {
+      "name": "Obvodné oddelenie PZ Nováky",
+      "latitude": 48.714197,
+      "longitude": 18.538157
+    },
+    {
+      "name": "Obvodné oddelenie PZ Prešov-juh",
+      "latitude": 48.994632,
+      "longitude": 21.246702
+    },
+    {
+      "name": "Obvodné oddelenie PZ Senec",
+      "latitude": 48.219628,
+      "longitude": 17.39997
+    },
+    {
+      "name": "Obvodné oddelenie PZ SR",
+      "latitude": 48.303572,
+      "longitude": 20.074984
+    },
+    {
+      "name": "Obvodné oddelenie PZ Stupava",
+      "latitude": 48.277936,
+      "longitude": 17.044771
+    },
+    {
+      "name": "Odbor kriminálnej polície KR PZ Prešov",
+      "latitude": 48.995471,
+      "longitude": 21.228137
+    },
+    {
+      "name": "Odbor kriminálnej polície Okresného riaditeľstva Policajného zboru v Ružomberku",
+      "latitude": 49.083685,
+      "longitude": 19.300444
+    },
+    {
+      "name": "Oddelenie cudzineckej polície Policajného zboru Ružomberok",
+      "latitude": 49.078881,
+      "longitude": 19.297215
+    },
+    {
+      "name": "Oddelenie cudzineckej polície PZ Bratislava",
+      "latitude": 48.209901,
+      "longitude": 17.190615
+    },
+    {
+      "name": "Oddelenie cudzineckej polície PZ Dunajská Streda",
+      "latitude": 47.989967,
+      "longitude": 17.627849
+    },
+    {
+      "name": "Oddelenie cudzineckej polície PZ Prešov",
+      "latitude": 49.016386,
+      "longitude": 21.261845
+    },
+    {
+      "name": "Oddelenie cudzineckej polície PZ Trenčín",
+      "latitude": 48.888148,
+      "longitude": 18.033635
+    },
+    {
+      "name": "Oddelenie cudzineckej polície PZ Trnava",
+      "latitude": 48.376531,
+      "longitude": 17.588316
+    },
+    {
+      "name": "Oddelenie cudzineckej polície PZ Žilina",
+      "latitude": 49.303713,
+      "longitude": 18.784075
+    },
+    {
+      "name": "Oddelenie hraničnej kontroly policajného zboru Nová Bašta",
+      "latitude": 48.170569,
+      "longitude": 19.950265
+    },
+    {
+      "name": "Oddelenie hraničnej polície",
+      "latitude": 48.810698,
+      "longitude": 22.294141
+    },
+    {
+      "name": "Oddelenie železničnej polície",
+      "latitude": 48.570229,
+      "longitude": 19.120252
+    },
+    {
+      "name": "Oddelenie Železničnej polície policajného zboru Trenčín",
+      "latitude": 48.769778,
+      "longitude": 18.616693
+    },
+    {
+      "name": "Okresné riaditeľstvo policajného zboru",
+      "latitude": 48.559753,
+      "longitude": 18.170362
+    },
+    {
+      "name": "Okresné riaditeľstvo policajného zboru",
+      "latitude": 48.597583,
+      "longitude": 18.846939
+    },
+    {
+      "name": "Okresné riaditeľstvo policajného zboru",
+      "latitude": 48.797886,
+      "longitude": 19.633699
+    },
+    {
+      "name": "Okresné riaditeľstvo Policajného zboru BA I",
+      "latitude": 48.149587,
+      "longitude": 17.122756
+    },
+    {
+      "name": "Okresné riaditeľstvo Policajného zboru BA II",
+      "latitude": 48.150082,
+      "longitude": 17.175664
+    },
+    {
+      "name": "Okresné riaditeľstvo Policajného zboru Bratislava I.",
+      "latitude": 48.166791,
+      "longitude": 17.152226
+    },
+    {
+      "name": "Okresné riaditeľstvo Policajného zboru Bratislava III.",
+      "latitude": 48.166741,
+      "longitude": 17.152281
+    },
+    {
+      "name": "Okresné riaditeľstvo policajného zboru Nitra",
+      "latitude": 48.300569,
+      "longitude": 18.089333
+    },
+    {
+      "name": "Okresné riaditeľstvo policajného zboru Nitra",
+      "latitude": 48.317683,
+      "longitude": 18.097059
+    },
+    {
+      "name": "Okresné riaditeľstvo Policajného zboru Prešov",
+      "latitude": 48.994703,
+      "longitude": 21.246649
+    },
+    {
+      "name": "Okresné riaditeľstvo policajného zboru Prievidza",
+      "latitude": 48.768146,
+      "longitude": 18.618783
+    },
+    {
+      "name": "Okresné riaditeľstvo policajného zboru Prievidza",
+      "latitude": 48.770672,
+      "longitude": 18.621109
+    },
+    {
+      "name": "Okresné riaditeľstvo Policajného zboru Ružinov - Východ",
+      "latitude": 48.162435,
+      "longitude": 17.169606
+    },
+    {
+      "name": "Okresné riaditeľstvo Policajného zboru Ružomberok",
+      "latitude": 49.083153,
+      "longitude": 19.298473
+    },
+    {
+      "name": "Okresné riaditeľstvo Policajného zboru SR",
+      "latitude": 48.372504,
+      "longitude": 17.586469
+    },
+    {
+      "name": "Okresné riaditeľstvo Policajného zboru v Bratislave III",
+      "latitude": 48.162567,
+      "longitude": 17.131763
+    },
+    {
+      "name": "Okresné riaditeľstvo Policajného zboru v Bratislave V",
+      "latitude": 48.123559,
+      "longitude": 17.11646
+    },
+    {
+      "name": "Okresné riaditeľstvo Policajného zboru v Humennom",
+      "latitude": 48.935346,
+      "longitude": 21.897885
+    },
+    {
+      "name": "Okresné riaditeľstvo Policajného zboru v Martine",
+      "latitude": 49.070234,
+      "longitude": 18.930978
+    },
+    {
+      "name": "Okresné riaditeľstvo Policajného Zboru v Martine",
+      "latitude": 49.07347,
+      "longitude": 18.921383
+    },
+    {
+      "name": "Okresné riaditeľstvo policajného zboru v Novom Meste nad Váhom, odbor kriminálnej polície",
+      "latitude": 48.754917,
+      "longitude": 17.834859
+    },
+    {
+      "name": "Okresné riaditeľstvo Policajného zboru v Senici",
+      "latitude": 48.678275,
+      "longitude": 17.369083
+    },
+    {
+      "name": "Okresné riaditeľstvo Policajného zboru v Skalici",
+      "latitude": 48.847693,
+      "longitude": 17.234805
+    },
+    {
+      "name": "Okresné riaditeľstvo Policajného zboru v Skalici",
+      "latitude": 48.85024,
+      "longitude": 17.219611
+    },
+    {
+      "name": "Okresné riaditeľstvo Policajného Zboru Žilina",
+      "latitude": 49.221948,
+      "longitude": 18.73706
+    },
+    {
+      "name": "Okresné riaditeľstvo PZ",
+      "latitude": 48.660519,
+      "longitude": 20.529981
+    },
+    {
+      "name": "Okresné riaditeľstvo PZ",
+      "latitude": 49.055674,
+      "longitude": 20.293827
+    },
+    {
+      "name": "Okresné riaditeľstvo PZ",
+      "latitude": 49.118151,
+      "longitude": 18.437545
+    },
+    {
+      "name": "Okresné riaditeľstvo PZ",
+      "latitude": 49.292883,
+      "longitude": 21.265664
+    },
+    {
+      "name": "Okresné riaditeľstvo PZ Galanta",
+      "latitude": 48.191278,
+      "longitude": 17.728982
+    },
+    {
+      "name": "Okresné riaditeľstvo PZ Malacky",
+      "latitude": 48.437386,
+      "longitude": 17.021452
+    },
+    {
+      "name": "Okresné riaditeľstvo PZ SR Dolný Kubín",
+      "latitude": 49.212794,
+      "longitude": 19.287833
+    },
+    {
+      "name": "Okresné riaditeľstvo PZ v Komárne",
+      "latitude": 47.762271,
+      "longitude": 18.127728
+    },
+    {
+      "name": "Okresné riaditeľstvo PZ v Košiciach",
+      "latitude": 48.733733,
+      "longitude": 21.270582
+    },
+    {
+      "name": "Okresné riaditeľstvo PZ v Partizánskom",
+      "latitude": 48.623069,
+      "longitude": 18.371428
+    },
+    {
+      "name": "Okresné riaditeľstvo PZ v Šali",
+      "latitude": 48.148782,
+      "longitude": 17.86001
+    },
+    {
+      "name": "Okresné riaditeľstvo PZ Čadca",
+      "latitude": 49.437155,
+      "longitude": 18.783505
+    },
+    {
+      "name": "Okresný dopravný inšpektorát",
+      "latitude": 48.68271,
+      "longitude": 20.111407
+    },
+    {
+      "name": "Okresný dopravný inšpektorát Okresného riaditeľstva Policajného zboru vo Zvolene",
+      "latitude": 48.579763,
+      "longitude": 19.130588
+    },
+    {
+      "name": "Okresný dopravný inšpektorát v Bratislave I",
+      "latitude": 48.15045,
+      "longitude": 17.106445
+    },
+    {
+      "name": "Okrsková stanica mestskej polície hlavného mesta SR Bratislavy - Staré Mesto",
+      "latitude": 48.14065,
+      "longitude": 17.110912
+    },
+    {
+      "name": "OO PZ Brodské",
+      "latitude": 48.692138,
+      "longitude": 17.016242
+    },
+    {
+      "name": "OO PZ Cífer",
+      "latitude": 48.313898,
+      "longitude": 17.487542
+    },
+    {
+      "name": "OO PZ Hlohovec",
+      "latitude": 48.426358,
+      "longitude": 17.799109
+    },
+    {
+      "name": "OO PZ Hranovnica",
+      "latitude": 48.986495,
+      "longitude": 20.30938
+    },
+    {
+      "name": "OO PZ Jablonica",
+      "latitude": 48.606854,
+      "longitude": 17.422049
+    },
+    {
+      "name": "OO PZ Leopoldov",
+      "latitude": 48.44262,
+      "longitude": 17.759489
+    },
+    {
+      "name": "OO PZ Mojmírovce",
+      "latitude": 48.207978,
+      "longitude": 18.065163
+    },
+    {
+      "name": "OO PZ Močenok",
+      "latitude": 48.227938,
+      "longitude": 17.927473
+    },
+    {
+      "name": "OO PZ Nitra - západ",
+      "latitude": 48.31101,
+      "longitude": 18.062525
+    },
+    {
+      "name": "OO PZ Piešťany",
+      "latitude": 48.587964,
+      "longitude": 17.820673
+    },
+    {
+      "name": "OO PZ Párnica",
+      "latitude": 49.193668,
+      "longitude": 19.197101
+    },
+    {
+      "name": "OO PZ Sereď",
+      "latitude": 48.287567,
+      "longitude": 17.737645
+    },
+    {
+      "name": "OO PZ Topoľčany",
+      "latitude": 48.560066,
+      "longitude": 18.170582
+    },
+    {
+      "name": "OO PZ Trnava",
+      "latitude": 48.379992,
+      "longitude": 17.596282
+    },
+    {
+      "name": "OO PZ Trstice",
+      "latitude": 48.009979,
+      "longitude": 17.802213
+    },
+    {
+      "name": "OO PZ Trstín",
+      "latitude": 48.52585,
+      "longitude": 17.464883
+    },
+    {
+      "name": "OO PZ Veľké Zálužie",
+      "latitude": 48.305558,
+      "longitude": 17.938079
+    },
+    {
+      "name": "OO PZ Vrbové",
+      "latitude": 48.621443,
+      "longitude": 17.723839
+    },
+    {
+      "name": "OO PZ Vráble",
+      "latitude": 48.242039,
+      "longitude": 18.304649
+    },
+    {
+      "name": "OO PZ Zavar",
+      "latitude": 48.354536,
+      "longitude": 17.676728
+    },
+    {
+      "name": "OO PZ Zlaté Moravce",
+      "latitude": 48.377132,
+      "longitude": 18.391486
+    },
+    {
+      "name": "OO PZ Šaľa",
+      "latitude": 48.151605,
+      "longitude": 17.867921
+    },
+    {
+      "name": "OO PZ Šaštín - Stráže",
+      "latitude": 48.637964,
+      "longitude": 17.142395
+    },
+    {
+      "name": "OO PZ Šoporňa",
+      "latitude": 48.253759,
+      "longitude": 17.813992
+    },
+    {
+      "name": "OO PZ Žilina - okolie",
+      "latitude": 49.231687,
+      "longitude": 18.739806
+    },
+    {
+      "name": "OR PZ Bratislava V - Úsek občianskych preukazov, vodičských preukazov, cestovných dokladov, Úsek zbraní a streliva",
+      "latitude": 48.125669,
+      "longitude": 17.097708
+    },
+    {
+      "name": "OR PZ Liptovský Mikuláš",
+      "latitude": 49.088434,
+      "longitude": 19.604642
+    },
+    {
+      "name": "OR PZ Snina",
+      "latitude": 48.993303,
+      "longitude": 22.158391
+    },
+    {
+      "name": "OR PZ v Pezinku",
+      "latitude": 48.292173,
+      "longitude": 17.282256
+    },
+    {
+      "name": "OS MsP Petržalka",
+      "latitude": 48.120066,
+      "longitude": 17.121447
+    },
+    {
+      "name": "Pohotovostná motorizovaná jednotka",
+      "latitude": 48.717382,
+      "longitude": 21.252522
+    },
+    {
+      "name": "Policajna stanica",
+      "latitude": 49.113801,
+      "longitude": 21.515405
+    },
+    {
+      "name": "policajná stanica",
+      "latitude": 48.456478,
+      "longitude": 17.166181
+    },
+    {
+      "name": "Policajná stanica",
+      "latitude": 48.85975,
+      "longitude": 18.862914
+    },
+    {
+      "name": "Policajná stanica",
+      "latitude": 49.103845,
+      "longitude": 21.094655
+    },
+    {
+      "name": "Policajná stanica 2",
+      "latitude": 47.988581,
+      "longitude": 18.156398
+    },
+    {
+      "name": "Policajná stanica Bernolákovo",
+      "latitude": 48.191448,
+      "longitude": 17.288689
+    },
+    {
+      "name": "Policajná Stanica Vlčince",
+      "latitude": 49.211041,
+      "longitude": 18.758618
+    },
+    {
+      "name": "Policajná stanica Čierny Balog",
+      "latitude": 48.744249,
+      "longitude": 19.665068
+    },
+    {
+      "name": "Policajné odelenie v Novej Bani",
+      "latitude": 48.415946,
+      "longitude": 18.64184
+    },
+    {
+      "name": "Policajný zbor - klientské centrum",
+      "latitude": 48.437395,
+      "longitude": 17.021567
+    },
+    {
+      "name": "Policajný zbor Dúbravka",
+      "latitude": 48.175685,
+      "longitude": 17.046827
+    },
+    {
+      "name": "Policia",
+      "latitude": 48.598978,
+      "longitude": 21.16819
+    },
+    {
+      "name": "Polícia",
+      "latitude": 48.380404,
+      "longitude": 20.021877
+    },
+    {
+      "name": "Polícia",
+      "latitude": 48.388614,
+      "longitude": 20.016582
+    },
+    {
+      "name": "Polícia",
+      "latitude": 48.581727,
+      "longitude": 19.954035
+    },
+    {
+      "name": "Polícia",
+      "latitude": 48.683063,
+      "longitude": 20.111758
+    },
+    {
+      "name": "Polícia - Obvodné oddelenie Kežmarok",
+      "latitude": 49.127958,
+      "longitude": 20.428844
+    },
+    {
+      "name": "Polícia Nové Zámky",
+      "latitude": 47.984319,
+      "longitude": 18.164324
+    },
+    {
+      "name": "Polícia SL",
+      "latitude": 49.296204,
+      "longitude": 20.683882
+    },
+    {
+      "name": "Polícia SR",
+      "latitude": 48.620146,
+      "longitude": 21.718088
+    },
+    {
+      "name": "Polícia SR",
+      "latitude": 48.621106,
+      "longitude": 21.71931
+    },
+    {
+      "name": "Polícia SR",
+      "latitude": 48.744315,
+      "longitude": 22.179437
+    },
+    {
+      "name": "Polícia SR - Dopravný inšpektorát Púchov",
+      "latitude": 49.117772,
+      "longitude": 18.309821
+    },
+    {
+      "name": "Polícia SR - Obvodné oddelenie Holíč",
+      "latitude": 48.80567,
+      "longitude": 17.161625
+    },
+    {
+      "name": "Polícia SR - Obvodné oddelenie PZ Liptovská Osada",
+      "latitude": 48.947133,
+      "longitude": 19.261974
+    },
+    {
+      "name": "Polícia SR - Obvodné oddelenie PZ Michaľany",
+      "latitude": 48.517585,
+      "longitude": 21.623775
+    },
+    {
+      "name": "Polícia SR - Obvodné oddelenie Vysoké Tatry",
+      "latitude": 49.14095,
+      "longitude": 20.218623
+    },
+    {
+      "name": "Polícia SR - OO PZ",
+      "latitude": 48.756891,
+      "longitude": 21.925151
+    },
+    {
+      "name": "Polícia SR - OO PZ Jaslovské Bohunice",
+      "latitude": 48.483823,
+      "longitude": 17.643704
+    },
+    {
+      "name": "Polícia SR - OR PZ",
+      "latitude": 48.754443,
+      "longitude": 21.925568
+    },
+    {
+      "name": "Polícia SR Kolárovo",
+      "latitude": 47.919137,
+      "longitude": 17.991219
+    },
+    {
+      "name": "Polícia SR – Obvodné oddelenie PZ Bytča",
+      "latitude": 49.222157,
+      "longitude": 18.556392
+    },
+    {
+      "name": "Polícia Vranov nad Topľou",
+      "latitude": 48.872751,
+      "longitude": 21.707871
+    },
+    {
+      "name": "PZ Nemšová",
+      "latitude": 48.963124,
+      "longitude": 18.121052
+    },
+    {
+      "name": "PZ SR, Krajské riaditeľstvo policajného zboru v Kosiciach, Krajský dopravný inšpektorát v Košiciach, Oddelenie evidencie vozidiel",
+      "latitude": 48.73625,
+      "longitude": 21.245716
+    },
+    {
+      "name": "PZ SR, Krajské riaditeľstvo v Košiciach",
+      "latitude": 48.717313,
+      "longitude": 21.251475
+    },
+    {
+      "name": "PZ SR, Obvodné oddelenie Bidovce",
+      "latitude": 48.735197,
+      "longitude": 21.439517
+    },
+    {
+      "name": "PZ SR, Obvodné oddelenie Bohdanovce",
+      "latitude": 48.657362,
+      "longitude": 21.40398
+    },
+    {
+      "name": "PZ SR, Obvodné oddelenie Košice - Dargovských hrdinov",
+      "latitude": 48.736785,
+      "longitude": 21.284988
+    },
+    {
+      "name": "PZ SR, Obvodné oddelenie Košice - Juh",
+      "latitude": 48.699612,
+      "longitude": 21.264179
+    },
+    {
+      "name": "PZ SR, Obvodné oddelenie Košice - KVP",
+      "latitude": 48.710298,
+      "longitude": 21.2148
+    },
+    {
+      "name": "PZ SR, Obvodné oddelenie Košice - Nad Jazerom",
+      "latitude": 48.682807,
+      "longitude": 21.292626
+    },
+    {
+      "name": "PZ SR, Obvodné oddelenie Košice - Sever",
+      "latitude": 48.735506,
+      "longitude": 21.25103
+    },
+    {
+      "name": "PZ SR, Obvodné oddelenie Košice - Staré mesto",
+      "latitude": 48.71731,
+      "longitude": 21.25832
+    },
+    {
+      "name": "PZ SR, Obvodné oddelenie Košice - Západ",
+      "latitude": 48.716796,
+      "longitude": 21.240007
+    },
+    {
+      "name": "PZ SR, Obvodné oddelenie Košice - Šaca",
+      "latitude": 48.634014,
+      "longitude": 21.170517
+    },
+    {
+      "name": "PZ SR, Obvodné oddelenie Košice - Ťahanovce",
+      "latitude": 48.754785,
+      "longitude": 21.270535
+    },
+    {
+      "name": "PZ SR, Okresné riaditeľstvo Košice - okolie",
+      "latitude": 48.714958,
+      "longitude": 21.235773
+    },
+    {
+      "name": "PZ SR, Okresné riaditeľstvo v Košiciach, Oddelenie dokladov a úsek zbraní a streliva",
+      "latitude": 48.735983,
+      "longitude": 21.245984
+    },
+    {
+      "name": "Rendőrség",
+      "latitude": 47.761389,
+      "longitude": 18.541018
+    },
+    {
+      "name": "Riaditeľstvo hraničnej a cudzineckej polície PZ Prešov",
+      "latitude": 48.995006,
+      "longitude": 21.240638
+    },
+    {
+      "name": "Ústredný sklad Zboru väzenskej a justičnej stráže",
+      "latitude": 49.056875,
+      "longitude": 19.344978
+    },
+    {
+      "name": "Útvar zásahovej jednotky a kynológie",
+      "latitude": 48.172785,
+      "longitude": 17.080352
+    },
+    {
+      "name": "Železničná polícia",
+      "latitude": 48.662035,
+      "longitude": 17.046995
+    },
+    {
+      "name": "Železničná polícia KR PZ Prešov",
+      "latitude": 48.985233,
+      "longitude": 21.24734
+    },
+    {
+      "name": "Železničná polícia Trnava",
+      "latitude": 48.369248,
+      "longitude": 17.582634
+    }
+  ],
+  "meta": {
+    "title": "Slovenské policajné stanice - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných policajných staníc na Slovensku (amenity=police) z OpenStreetMap. Obsahuje 298 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Slovenské policajné stanice | ListBase",
+    "seo_description": "Stiahnuť Slovenské policajné stanice — 298 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 298 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

@@ -1,0 +1,1496 @@
+{
+  "id": "sk-levice-obce",
+  "name": "Obce v okrese Levice",
+  "title": "Obce v okrese Levice",
+  "description": "Všetky obce (municipality) v okrese Levice, Nitriansky kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 143,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 25,
+      "fullname": "Arma",
+      "shortname": "Arma",
+      "zip": "935 41",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 53,
+      "fullname": "Bajka",
+      "shortname": "Bajka",
+      "zip": "935 51",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 139,
+      "fullname": "Beša",
+      "shortname": "Beša",
+      "zip": "935 36",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 153,
+      "fullname": "Bielovce",
+      "shortname": "Bielovce",
+      "zip": "935 74",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 204,
+      "fullname": "Bohunice",
+      "shortname": "Bohunice",
+      "zip": "935 05",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 230,
+      "fullname": "Bory",
+      "shortname": "Bory",
+      "zip": "935 87",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 294,
+      "fullname": "Brhlovce",
+      "shortname": "Brhlovce",
+      "zip": "935 02",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 96,
+      "fullname": "Bátovce",
+      "shortname": "Bátovce",
+      "zip": "935 03",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1177,
+      "fullname": "Chorvatice",
+      "shortname": "Chorvatice",
+      "zip": "935 84",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 534,
+      "fullname": "Demandice",
+      "shortname": "Demandice",
+      "zip": "935 85",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 545,
+      "fullname": "Devičany",
+      "shortname": "Devičany",
+      "zip": "935 04",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 573,
+      "fullname": "Dobogov",
+      "shortname": "Dobogov",
+      "zip": "935 56",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 610,
+      "fullname": "Dolná Seč",
+      "shortname": "Dolná Seč",
+      "zip": "935 31",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 644,
+      "fullname": "Dolné Semerovce",
+      "shortname": "Dolné Semerovce",
+      "zip": "935 85",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 649,
+      "fullname": "Dolné Turovce",
+      "shortname": "Dolné Turovce",
+      "zip": "935 81",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 669,
+      "fullname": "Dolný Pial",
+      "shortname": "Dolný Pial",
+      "zip": "935 37",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 655,
+      "fullname": "Dolný Ďur",
+      "shortname": "Dolný Ďur",
+      "zip": "935 34",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 678,
+      "fullname": "Domadice",
+      "shortname": "Domadice",
+      "zip": "935 87",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 682,
+      "fullname": "Domaša",
+      "shortname": "Domaša",
+      "zip": "935 61",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 707,
+      "fullname": "Drženice",
+      "shortname": "Drženice",
+      "zip": "935 03",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 782,
+      "fullname": "Farná",
+      "shortname": "Farná",
+      "zip": "935 66",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 846,
+      "fullname": "Gondovo",
+      "shortname": "Gondovo",
+      "zip": "935 25",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 834,
+      "fullname": "Géňa",
+      "shortname": "Géňa",
+      "zip": "934 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 954,
+      "fullname": "Hokovce",
+      "shortname": "Hokovce",
+      "zip": "935 84",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 964,
+      "fullname": "Hontianska Vrbica",
+      "shortname": "Hontianska Vrbica",
+      "zip": "935 55",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 968,
+      "fullname": "Hontianske Trsťany",
+      "shortname": "Hontianske Trsťany",
+      "zip": "935 86",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 985,
+      "fullname": "Horná Seč",
+      "shortname": "Horná Seč",
+      "zip": "935 31",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1025,
+      "fullname": "Horné Semerovce",
+      "shortname": "Horné Semerovce",
+      "zip": "935 84",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1031,
+      "fullname": "Horné Turovce",
+      "shortname": "Horné Turovce",
+      "zip": "935 81",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1047,
+      "fullname": "Horný Pial",
+      "shortname": "Horný Pial",
+      "zip": "935 37",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1038,
+      "fullname": "Horný Ďur",
+      "shortname": "Horný Ďur",
+      "zip": "935 34",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1056,
+      "fullname": "Horša",
+      "shortname": "Horša",
+      "zip": "934 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1106,
+      "fullname": "Hrkovce",
+      "shortname": "Hrkovce",
+      "zip": "936 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1116,
+      "fullname": "Hronovce",
+      "shortname": "Hronovce",
+      "zip": "935 61",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1121,
+      "fullname": "Hronské Kosihy",
+      "shortname": "Hronské Kosihy",
+      "zip": "935 27",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1120,
+      "fullname": "Hronské Kľačany",
+      "shortname": "Hronské Kľačany",
+      "zip": "935 29",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1223,
+      "fullname": "Ipeľské Úľany",
+      "shortname": "Ipeľské Úľany",
+      "zip": "935 82",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1224,
+      "fullname": "Ipeľský Sokolec",
+      "shortname": "Ipeľský Sokolec",
+      "zip": "935 75",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1217,
+      "fullname": "Iňa",
+      "shortname": "Iňa",
+      "zip": "935 35",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1245,
+      "fullname": "Jabloňovce",
+      "shortname": "Jabloňovce",
+      "zip": "935 06",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1261,
+      "fullname": "Jalakšová",
+      "shortname": "Jalakšová",
+      "zip": "935 03",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1288,
+      "fullname": "Jarok",
+      "shortname": "Jarok",
+      "zip": "937 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1330,
+      "fullname": "Jesenské",
+      "shortname": "Jesenské",
+      "zip": "935 36",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1338,
+      "fullname": "Jur nad Hronom",
+      "shortname": "Jur nad Hronom",
+      "zip": "935 57",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1350,
+      "fullname": "Kalinčiakovo",
+      "shortname": "Kalinčiakovo",
+      "zip": "934 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1360,
+      "fullname": "Kalnica",
+      "shortname": "Kalnica",
+      "zip": "935 32",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1356,
+      "fullname": "Kalná",
+      "shortname": "Kalná",
+      "zip": "935 32",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1357,
+      "fullname": "Kalná nad Hronom",
+      "shortname": "Kalná nad Hronom",
+      "zip": "935 32",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1368,
+      "fullname": "Kamenec",
+      "shortname": "Kamenec",
+      "zip": "934 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1379,
+      "fullname": "Kamenný Chotár",
+      "shortname": "Kamenný Chotár",
+      "zip": "935 02",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1397,
+      "fullname": "Karolína",
+      "shortname": "Karolína",
+      "zip": "937 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1419,
+      "fullname": "Keť",
+      "shortname": "Keť",
+      "zip": "935 64",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1465,
+      "fullname": "Kmeťovce",
+      "shortname": "Kmeťovce",
+      "zip": "935 03",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1610,
+      "fullname": "Kozárovce",
+      "shortname": "Kozárovce",
+      "zip": "935 22",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1641,
+      "fullname": "Kráľovičová",
+      "shortname": "Kráľovičová",
+      "zip": "935 84",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1685,
+      "fullname": "Krížny Vrch",
+      "shortname": "Krížny Vrch",
+      "zip": "934 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1699,
+      "fullname": "Krškany",
+      "shortname": "Krškany",
+      "zip": "934 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1712,
+      "fullname": "Kubáňovo",
+      "shortname": "Kubáňovo",
+      "zip": "935 75",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1723,
+      "fullname": "Kukučínov",
+      "shortname": "Kukučínov",
+      "zip": "937 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1728,
+      "fullname": "Kuraľany",
+      "shortname": "Kuraľany",
+      "zip": "935 64",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1771,
+      "fullname": "Ladislavov Dvor",
+      "shortname": "Ladislavov Dvor",
+      "zip": "934 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1829,
+      "fullname": "Levice",
+      "shortname": "Levice",
+      "zip": 0,
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1860,
+      "fullname": "Lipník",
+      "shortname": "Lipník",
+      "zip": "935 21",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1905,
+      "fullname": "Lok",
+      "shortname": "Lok",
+      "zip": "935 38",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1913,
+      "fullname": "Lontov",
+      "shortname": "Lontov",
+      "zip": "935 75",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1977,
+      "fullname": "Lula",
+      "shortname": "Lula",
+      "zip": "935 35",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2008,
+      "fullname": "Majere",
+      "shortname": "Majere",
+      "zip": "935 05",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2081,
+      "fullname": "Malinovec",
+      "shortname": "Malinovec",
+      "zip": "935 87",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2015,
+      "fullname": "Malá Baračka",
+      "shortname": "Malá Baračka",
+      "zip": "935 36",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2059,
+      "fullname": "Malé Kozmálovce",
+      "shortname": "Malé Kozmálovce",
+      "zip": "935 21",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2060,
+      "fullname": "Malé Krškany",
+      "shortname": "Malé Krškany",
+      "zip": "934 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2064,
+      "fullname": "Malé Ludince",
+      "shortname": "Malé Ludince",
+      "zip": "937 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2093,
+      "fullname": "Malý Kiar",
+      "shortname": "Malý Kiar",
+      "zip": "934 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2101,
+      "fullname": "Malý Pesek",
+      "shortname": "Malý Pesek",
+      "zip": "937 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2126,
+      "fullname": "Marušová",
+      "shortname": "Marušová",
+      "zip": "935 33",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2148,
+      "fullname": "Medvecké",
+      "shortname": "Medvecké",
+      "zip": "935 41",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2187,
+      "fullname": "Mikula",
+      "shortname": "Mikula",
+      "zip": "937 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2236,
+      "fullname": "Mochovce elektráreň",
+      "shortname": "Mochovce - elektráreň",
+      "zip": "935 39",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2042,
+      "fullname": "Málaš",
+      "shortname": "Málaš",
+      "zip": "935 67",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2287,
+      "fullname": "Mýtne Ludany",
+      "shortname": "Mýtne Ludany",
+      "zip": "935 56",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2344,
+      "fullname": "Nixbrod",
+      "shortname": "Nixbrod",
+      "zip": "934 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2399,
+      "fullname": "Nová Dedina",
+      "shortname": "Nová Dedina",
+      "zip": "935 25",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2437,
+      "fullname": "Nový Dvor",
+      "shortname": "Nový Dvor",
+      "zip": "935 77",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2446,
+      "fullname": "Nový Tekov",
+      "shortname": "Nový Tekov",
+      "zip": "935 33",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2449,
+      "fullname": "Nýrovce",
+      "shortname": "Nýrovce",
+      "zip": "935 67",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2496,
+      "fullname": "Ondrejovce",
+      "shortname": "Ondrejovce",
+      "zip": "935 51",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2500,
+      "fullname": "Opatová",
+      "shortname": "Opatová",
+      "zip": "935 25",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2589,
+      "fullname": "Pastovce",
+      "shortname": "Pastovce",
+      "zip": "935 74",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2612,
+      "fullname": "Pečenice",
+      "shortname": "Pečenice",
+      "zip": "935 03",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2637,
+      "fullname": "Pežerňa",
+      "shortname": "Pežerňa",
+      "zip": "935 55",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2659,
+      "fullname": "Plavé Vozokany",
+      "shortname": "Plavé Vozokany",
+      "zip": "935 69",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2658,
+      "fullname": "Plášťovce",
+      "shortname": "Plášťovce",
+      "zip": "935 82",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2711,
+      "fullname": "Podlužany",
+      "shortname": "Podlužany",
+      "zip": "935 27",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2736,
+      "fullname": "Pohronský Ruskov",
+      "shortname": "Pohronský Ruskov",
+      "zip": "935 62",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2820,
+      "fullname": "Preseľany nad Ipľom",
+      "shortname": "Preseľany nad Ipľom",
+      "zip": "936 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2871,
+      "fullname": "Pukanec",
+      "shortname": "Pukanec",
+      "zip": "935 05",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2987,
+      "fullname": "Rohožnica",
+      "shortname": "Rohožnica",
+      "zip": "935 34",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3009,
+      "fullname": "Rozina",
+      "shortname": "Rozina",
+      "zip": "937 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3061,
+      "fullname": "Rybník",
+      "shortname": "Rybník",
+      "zip": "935 23",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3076,
+      "fullname": "Santovka",
+      "shortname": "Santovka",
+      "zip": "935 87",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3084,
+      "fullname": "Sazdice",
+      "shortname": "Sazdice",
+      "zip": "935 85",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3126,
+      "fullname": "Sikenica",
+      "shortname": "Sikenica",
+      "zip": "937 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3165,
+      "fullname": "Slatina",
+      "shortname": "Slatina",
+      "zip": "935 84",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3278,
+      "fullname": "Starý Hrádok",
+      "shortname": "Starý Hrádok",
+      "zip": "935 56",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3280,
+      "fullname": "Starý Tekov",
+      "shortname": "Starý Tekov",
+      "zip": "935 26",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3307,
+      "fullname": "Stredné Turovce",
+      "shortname": "Stredné Turovce",
+      "zip": "935 81",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3372,
+      "fullname": "Svodov",
+      "shortname": "Svodov",
+      "zip": "937 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3357,
+      "fullname": "Svätý Kríž",
+      "shortname": "Svätý Kríž",
+      "zip": "935 25",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3514,
+      "fullname": "Tehla",
+      "shortname": "Tehla",
+      "zip": "935 35",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3517,
+      "fullname": "Tekovská Nová Ves",
+      "shortname": "Tekovská Nová Ves",
+      "zip": "935 25",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3518,
+      "fullname": "Tekovské Lužany",
+      "shortname": "Tekovské Lužany",
+      "zip": "935 41",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3520,
+      "fullname": "Tekovský Hrádok",
+      "shortname": "Tekovský Hrádok",
+      "zip": "935 51",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3538,
+      "fullname": "Tešmák",
+      "shortname": "Tešmák",
+      "zip": "936 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3546,
+      "fullname": "Tlmače",
+      "shortname": "Tlmače",
+      "zip": "935 21",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3595,
+      "fullname": "Trhyňa",
+      "shortname": "Trhyňa",
+      "zip": "937 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3626,
+      "fullname": "Tupá",
+      "shortname": "Tupá",
+      "zip": "935 84",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3627,
+      "fullname": "Turá",
+      "shortname": "Turá",
+      "zip": "935 51",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3674,
+      "fullname": "Uhliská",
+      "shortname": "Uhliská",
+      "zip": "935 05",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3846,
+      "fullname": "Veselá",
+      "shortname": "Veselá",
+      "zip": "935 52",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3787,
+      "fullname": "Veľké Kozmálovce",
+      "shortname": "Veľké Kozmálovce",
+      "zip": "935 21",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3788,
+      "fullname": "Veľké Krškany",
+      "shortname": "Veľké Krškany",
+      "zip": "934 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3792,
+      "fullname": "Veľké Ludince",
+      "shortname": "Veľké Ludince",
+      "zip": "935 65",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3806,
+      "fullname": "Veľké Turovce",
+      "shortname": "Veľké Turovce",
+      "zip": "935 81",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3821,
+      "fullname": "Veľký Dvor",
+      "shortname": "Veľký Dvor",
+      "zip": "937 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3838,
+      "fullname": "Veľký Pesek",
+      "shortname": "Veľký Pesek",
+      "zip": "937 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3820,
+      "fullname": "Veľký Ďur",
+      "shortname": "Veľký Ďur",
+      "zip": "935 34",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3927,
+      "fullname": "Vozokany nad Hronom",
+      "shortname": "Vozokany nad Hronom",
+      "zip": "935 61",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3980,
+      "fullname": "Vyškovce nad Ipľom",
+      "shortname": "Vyškovce nad Ipľom",
+      "zip": "935 77",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 4003,
+      "fullname": "Vyšné nad Hronom",
+      "shortname": "Vyšné nad Hronom",
+      "zip": "935 31",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 4055,
+      "fullname": "Zalaba",
+      "shortname": "Zalaba",
+      "zip": "937 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 4097,
+      "fullname": "Zbrojníky",
+      "shortname": "Zbrojníky",
+      "zip": "935 55",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 409,
+      "fullname": "Čajakovo",
+      "shortname": "Čajakovo",
+      "zip": "935 61",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 410,
+      "fullname": "Čajkov",
+      "shortname": "Čajkov",
+      "zip": "935 24",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 411,
+      "fullname": "Čaka",
+      "shortname": "Čaka",
+      "zip": "935 68",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 420,
+      "fullname": "Čankov",
+      "shortname": "Čankov",
+      "zip": "934 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 428,
+      "fullname": "Čata",
+      "shortname": "Čata",
+      "zip": "935 63",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3376,
+      "fullname": "Šahy",
+      "shortname": "Šahy",
+      "zip": "936 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3384,
+      "fullname": "Šalov",
+      "shortname": "Šalov",
+      "zip": "935 71",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3408,
+      "fullname": "Šarovce",
+      "shortname": "Šarovce",
+      "zip": "935 52",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3391,
+      "fullname": "Šándorhalma",
+      "shortname": "Šándorhalma",
+      "zip": "935 33",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 4180,
+      "fullname": "Želiezovce",
+      "shortname": "Želiezovce",
+      "zip": "937 01",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 4184,
+      "fullname": "Žemberovce",
+      "shortname": "Žemberovce",
+      "zip": "935 02",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 4185,
+      "fullname": "Žemliare",
+      "shortname": "Žemliare",
+      "zip": "935 57",
+      "district_id": 30,
+      "okres": "Levice",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Levice - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Levice, Nitriansky kraj — s PSČ a kódom okresu. Obsahuje 143 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Levice | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Levice — 143 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 143 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

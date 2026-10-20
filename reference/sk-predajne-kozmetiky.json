@@ -1,0 +1,666 @@
+{
+  "id": "sk-predajne-kozmetiky",
+  "name": "Slovenské predajne kozmetiky",
+  "title": "Slovenské predajne kozmetiky",
+  "description": "Zoznam pomenovaných predajní kozmetiky na Slovensku (shop=cosmetics) z OpenStreetMap.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 125,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "101 Drogerie",
+      "latitude": 48.912052,
+      "longitude": 18.163718
+    },
+    {
+      "name": "A original",
+      "latitude": 48.771699,
+      "longitude": 18.62245
+    },
+    {
+      "name": "Apoteka",
+      "latitude": 48.133443,
+      "longitude": 17.10661
+    },
+    {
+      "name": "Arnika",
+      "latitude": 48.909251,
+      "longitude": 18.167878
+    },
+    {
+      "name": "Avon",
+      "latitude": 48.771022,
+      "longitude": 18.620896
+    },
+    {
+      "name": "Avon",
+      "latitude": 49.083393,
+      "longitude": 19.303367
+    },
+    {
+      "name": "Beauty Centrum A&B",
+      "latitude": 48.146752,
+      "longitude": 17.121746
+    },
+    {
+      "name": "BeautySkin & BodyRelax",
+      "latitude": 48.163459,
+      "longitude": 17.172101
+    },
+    {
+      "name": "Biokrása",
+      "latitude": 48.151927,
+      "longitude": 17.129596
+    },
+    {
+      "name": "Biomaris",
+      "latitude": 48.153251,
+      "longitude": 17.166754
+    },
+    {
+      "name": "Bonita",
+      "latitude": 48.186459,
+      "longitude": 17.726343
+    },
+    {
+      "name": "Casallia",
+      "latitude": 49.226427,
+      "longitude": 18.745881
+    },
+    {
+      "name": "Centrum krásy Strečno",
+      "latitude": 49.182078,
+      "longitude": 18.863665
+    },
+    {
+      "name": "Dermacol",
+      "latitude": 48.320382,
+      "longitude": 18.092238
+    },
+    {
+      "name": "Dermacol",
+      "latitude": 48.696022,
+      "longitude": 21.237561
+    },
+    {
+      "name": "Dermacol",
+      "latitude": 48.992711,
+      "longitude": 21.241646
+    },
+    {
+      "name": "Dermocentrum.sk",
+      "latitude": 49.003701,
+      "longitude": 21.235945
+    },
+    {
+      "name": "Dior Institut",
+      "latitude": 48.144608,
+      "longitude": 17.106608
+    },
+    {
+      "name": "Dr. Feelgood",
+      "latitude": 48.145854,
+      "longitude": 17.108599
+    },
+    {
+      "name": "Dr. Nona",
+      "latitude": 48.14884,
+      "longitude": 17.16224
+    },
+    {
+      "name": "FOREVER LIVING PRODUCTS SLOVAK REPUBLIC",
+      "latitude": 48.154536,
+      "longitude": 17.143284
+    },
+    {
+      "name": "Golden Rose",
+      "latitude": 48.71719,
+      "longitude": 21.258508
+    },
+    {
+      "name": "Grüne Natur",
+      "latitude": 48.37503,
+      "longitude": 17.586882
+    },
+    {
+      "name": "Havlíkova apotéka",
+      "latitude": 48.717501,
+      "longitude": 21.262055
+    },
+    {
+      "name": "HAVLÍKOVA PRÍRODNÁ APOTÉKA",
+      "latitude": 48.133536,
+      "longitude": 17.106466
+    },
+    {
+      "name": "HERBAVIT",
+      "latitude": 48.218242,
+      "longitude": 18.607013
+    },
+    {
+      "name": "ibeca",
+      "latitude": 48.128322,
+      "longitude": 17.120774
+    },
+    {
+      "name": "ibio",
+      "latitude": 48.128383,
+      "longitude": 17.12078
+    },
+    {
+      "name": "Institute Esthederm Art",
+      "latitude": 48.143462,
+      "longitude": 17.14184
+    },
+    {
+      "name": "J.J. Cosmetics salon",
+      "latitude": 48.716152,
+      "longitude": 21.259603
+    },
+    {
+      "name": "Kiehl's",
+      "latitude": 48.132677,
+      "longitude": 17.107387
+    },
+    {
+      "name": "Kocos",
+      "latitude": 48.319946,
+      "longitude": 18.092996
+    },
+    {
+      "name": "Kozmetický salón INÁ",
+      "latitude": 48.99899,
+      "longitude": 21.232514
+    },
+    {
+      "name": "Kozmetický salón Kvet Mladosti",
+      "latitude": 48.15654,
+      "longitude": 17.1404
+    },
+    {
+      "name": "Kozmetický salón Lussyl",
+      "latitude": 49.440666,
+      "longitude": 18.787438
+    },
+    {
+      "name": "Kozmetický salón Mrs. Perfect",
+      "latitude": 48.999735,
+      "longitude": 21.242702
+    },
+    {
+      "name": "Kozmetický salón Simonka Bucková",
+      "latitude": 48.986398,
+      "longitude": 21.265082
+    },
+    {
+      "name": "Kozmetika",
+      "latitude": 48.705249,
+      "longitude": 18.451239
+    },
+    {
+      "name": "Kozmetika",
+      "latitude": 49.068704,
+      "longitude": 18.922739
+    },
+    {
+      "name": "Kozmetika - A. Levayová/J. Reissová",
+      "latitude": 48.989731,
+      "longitude": 21.24721
+    },
+    {
+      "name": "Kozmetika 18",
+      "latitude": 48.99459,
+      "longitude": 21.243401
+    },
+    {
+      "name": "Kozmetika Bibi",
+      "latitude": 48.328921,
+      "longitude": 16.90905
+    },
+    {
+      "name": "Kozmetika Janka",
+      "latitude": 49.000398,
+      "longitude": 21.235901
+    },
+    {
+      "name": "Kozmetika Lussy",
+      "latitude": 48.314769,
+      "longitude": 18.085437
+    },
+    {
+      "name": "Kozmetika Lýdia",
+      "latitude": 48.376576,
+      "longitude": 17.587291
+    },
+    {
+      "name": "Kozmetika Milena",
+      "latitude": 49.015381,
+      "longitude": 21.227676
+    },
+    {
+      "name": "Kozmetika Nina",
+      "latitude": 48.949776,
+      "longitude": 20.557123
+    },
+    {
+      "name": "Kozmetika, solárium, kaderníctvo",
+      "latitude": 48.311408,
+      "longitude": 18.068988
+    },
+    {
+      "name": "Ksisters",
+      "latitude": 48.147411,
+      "longitude": 17.126936
+    },
+    {
+      "name": "L'Occitane",
+      "latitude": 48.132742,
+      "longitude": 17.107649
+    },
+    {
+      "name": "L'Occitane",
+      "latitude": 48.146621,
+      "longitude": 17.129086
+    },
+    {
+      "name": "L'Occitane",
+      "latitude": 48.72181,
+      "longitude": 21.256718
+    },
+    {
+      "name": "Le Rêve",
+      "latitude": 48.723692,
+      "longitude": 21.259232
+    },
+    {
+      "name": "Loret",
+      "latitude": 48.877487,
+      "longitude": 18.022682
+    },
+    {
+      "name": "MAC Cosmetics",
+      "latitude": 48.132564,
+      "longitude": 17.108031
+    },
+    {
+      "name": "Malinna",
+      "latitude": 48.145192,
+      "longitude": 17.117733
+    },
+    {
+      "name": "Manufaktura",
+      "latitude": 48.132605,
+      "longitude": 17.107476
+    },
+    {
+      "name": "Manufaktura",
+      "latitude": 48.140435,
+      "longitude": 17.121219
+    },
+    {
+      "name": "Manufaktura",
+      "latitude": 48.166337,
+      "longitude": 17.18055
+    },
+    {
+      "name": "Manufaktura",
+      "latitude": 48.717849,
+      "longitude": 21.262989
+    },
+    {
+      "name": "Manufaktura",
+      "latitude": 48.865048,
+      "longitude": 18.024464
+    },
+    {
+      "name": "Manufaktura",
+      "latitude": 49.219681,
+      "longitude": 18.740747
+    },
+    {
+      "name": "Martina Style",
+      "latitude": 48.168356,
+      "longitude": 17.14929
+    },
+    {
+      "name": "Maya beauty",
+      "latitude": 49.218901,
+      "longitude": 18.741049
+    },
+    {
+      "name": "Medik8care",
+      "latitude": 48.378679,
+      "longitude": 17.587327
+    },
+    {
+      "name": "Naturalia",
+      "latitude": 48.895416,
+      "longitude": 18.043066
+    },
+    {
+      "name": "Nouveau Contour",
+      "latitude": 48.994806,
+      "longitude": 21.24093
+    },
+    {
+      "name": "Oriflame",
+      "latitude": 48.709005,
+      "longitude": 21.236
+    },
+    {
+      "name": "Oriflame",
+      "latitude": 48.998338,
+      "longitude": 21.236185
+    },
+    {
+      "name": "Oriflame",
+      "latitude": 48.998694,
+      "longitude": 21.237559
+    },
+    {
+      "name": "Oriflame",
+      "latitude": 49.082766,
+      "longitude": 19.302874
+    },
+    {
+      "name": "Oxyland",
+      "latitude": 48.718359,
+      "longitude": 21.246176
+    },
+    {
+      "name": "Pa Bella",
+      "latitude": 48.576354,
+      "longitude": 19.129782
+    },
+    {
+      "name": "Perfect Nails Loriel",
+      "latitude": 48.150686,
+      "longitude": 17.874189
+    },
+    {
+      "name": "Perm Beauty",
+      "latitude": 48.994845,
+      "longitude": 21.241023
+    },
+    {
+      "name": "Pinky Club",
+      "latitude": 49.301344,
+      "longitude": 21.283345
+    },
+    {
+      "name": "Primavera Andorrana",
+      "latitude": 48.998128,
+      "longitude": 21.241808
+    },
+    {
+      "name": "professionail",
+      "latitude": 47.799251,
+      "longitude": 18.716931
+    },
+    {
+      "name": "Profimarket u Pauli",
+      "latitude": 47.987327,
+      "longitude": 18.165113
+    },
+    {
+      "name": "Profinails",
+      "latitude": 48.730822,
+      "longitude": 21.242005
+    },
+    {
+      "name": "PUPA",
+      "latitude": 48.132764,
+      "longitude": 17.107561
+    },
+    {
+      "name": "PUPA Milano",
+      "latitude": 48.146493,
+      "longitude": 17.128217
+    },
+    {
+      "name": "PUPA Milano",
+      "latitude": 48.165888,
+      "longitude": 17.180892
+    },
+    {
+      "name": "PUPA Milano",
+      "latitude": 48.71745,
+      "longitude": 21.262531
+    },
+    {
+      "name": "PUPA Milano",
+      "latitude": 48.992764,
+      "longitude": 21.242454
+    },
+    {
+      "name": "PUPA Milano",
+      "latitude": 49.053724,
+      "longitude": 20.298251
+    },
+    {
+      "name": "PUPA Milano",
+      "latitude": 49.220089,
+      "longitude": 18.740888
+    },
+    {
+      "name": "ReVital",
+      "latitude": 48.204335,
+      "longitude": 17.641365
+    },
+    {
+      "name": "Rituals",
+      "latitude": 48.132664,
+      "longitude": 17.108038
+    },
+    {
+      "name": "Rituals",
+      "latitude": 48.167568,
+      "longitude": 17.180173
+    },
+    {
+      "name": "Rituals",
+      "latitude": 49.220286,
+      "longitude": 18.740866
+    },
+    {
+      "name": "Rosemont",
+      "latitude": 49.223255,
+      "longitude": 18.741474
+    },
+    {
+      "name": "Rozália",
+      "latitude": 49.221819,
+      "longitude": 18.558974
+    },
+    {
+      "name": "RYOR",
+      "latitude": 48.147737,
+      "longitude": 17.113761
+    },
+    {
+      "name": "S&M Salon - kadernícke a kozmetické potreby",
+      "latitude": 49.015715,
+      "longitude": 21.22242
+    },
+    {
+      "name": "Salón krásy SAVOY",
+      "latitude": 48.996502,
+      "longitude": 21.241776
+    },
+    {
+      "name": "Salón Time",
+      "latitude": 49.001544,
+      "longitude": 21.237483
+    },
+    {
+      "name": "Salón Viera",
+      "latitude": 48.989658,
+      "longitude": 21.247211
+    },
+    {
+      "name": "Savoneria - prírodná drogéria",
+      "latitude": 49.053328,
+      "longitude": 20.301025
+    },
+    {
+      "name": "Sibirka",
+      "latitude": 48.771577,
+      "longitude": 18.621547
+    },
+    {
+      "name": "SIMI vlasová kozmetika",
+      "latitude": 48.991993,
+      "longitude": 21.244623
+    },
+    {
+      "name": "Slowianka",
+      "latitude": 48.999036,
+      "longitude": 21.237513
+    },
+    {
+      "name": "Soaphoria",
+      "latitude": 48.694532,
+      "longitude": 21.239368
+    },
+    {
+      "name": "Spa Ceylon",
+      "latitude": 48.205136,
+      "longitude": 17.034242
+    },
+    {
+      "name": "Studio 7",
+      "latitude": 48.714747,
+      "longitude": 21.25556
+    },
+    {
+      "name": "temperance",
+      "latitude": 48.132841,
+      "longitude": 17.115909
+    },
+    {
+      "name": "tianDe",
+      "latitude": 48.376555,
+      "longitude": 17.586505
+    },
+    {
+      "name": "URANCE & INTERIOR BY FLAMANT",
+      "latitude": 48.320255,
+      "longitude": 18.092132
+    },
+    {
+      "name": "Vlasová Kozmetika In",
+      "latitude": 48.996017,
+      "longitude": 21.242979
+    },
+    {
+      "name": "Yves Rocher",
+      "latitude": 48.132399,
+      "longitude": 17.108183
+    },
+    {
+      "name": "Yves Rocher",
+      "latitude": 48.140434,
+      "longitude": 17.121258
+    },
+    {
+      "name": "Yves Rocher",
+      "latitude": 48.146885,
+      "longitude": 17.129093
+    },
+    {
+      "name": "Yves Rocher",
+      "latitude": 48.165127,
+      "longitude": 17.181499
+    },
+    {
+      "name": "Yves Rocher",
+      "latitude": 48.205253,
+      "longitude": 17.033962
+    },
+    {
+      "name": "Yves Rocher",
+      "latitude": 48.714493,
+      "longitude": 21.238725
+    },
+    {
+      "name": "Yves Rocher",
+      "latitude": 48.717484,
+      "longitude": 21.262602
+    },
+    {
+      "name": "Yves Rocher",
+      "latitude": 48.86386,
+      "longitude": 18.023824
+    },
+    {
+      "name": "Yves Rocher",
+      "latitude": 48.988451,
+      "longitude": 21.263295
+    },
+    {
+      "name": "Yves Rocher",
+      "latitude": 48.992386,
+      "longitude": 21.241472
+    },
+    {
+      "name": "Yves Rocher",
+      "latitude": 49.05377,
+      "longitude": 20.298208
+    },
+    {
+      "name": "Yves Rocher",
+      "latitude": 49.062361,
+      "longitude": 18.919845
+    },
+    {
+      "name": "Yves Rocher",
+      "latitude": 49.211809,
+      "longitude": 18.752349
+    },
+    {
+      "name": "Zdravie a krása so Sisi",
+      "latitude": 48.997101,
+      "longitude": 21.275689
+    },
+    {
+      "name": "Zdravší život - EKO BIO čapovaná drogéria, kozmetika",
+      "latitude": 48.890155,
+      "longitude": 18.034896
+    },
+    {
+      "name": "Ziaja",
+      "latitude": 48.717267,
+      "longitude": 21.261973
+    }
+  ],
+  "meta": {
+    "title": "Slovenské predajne kozmetiky - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných predajní kozmetiky na Slovensku (shop=cosmetics) z OpenStreetMap. Obsahuje 125 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Slovenské predajne kozmetiky | ListBase",
+    "seo_description": "Stiahnuť Slovenské predajne kozmetiky — 125 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 125 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

@@ -1,0 +1,456 @@
+{
+  "id": "sk-namestovo-obce",
+  "name": "Obce v okrese Námestovo",
+  "title": "Obce v okrese Námestovo",
+  "description": "Všetky obce (municipality) v okrese Námestovo, Žilinský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 29,
+      "fullname": "Babín",
+      "shortname": "Babín",
+      "zip": "029 52",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 123,
+      "fullname": "Beňadovo",
+      "shortname": "Beňadovo",
+      "zip": "029 63",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 181,
+      "fullname": "Bobrov",
+      "shortname": "Bobrov",
+      "zip": "029 42",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 276,
+      "fullname": "Breza",
+      "shortname": "Breza",
+      "zip": "029 53",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 297,
+      "fullname": "Brišovka",
+      "shortname": "Brišovka",
+      "zip": "029 57",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 318,
+      "fullname": "Bučina",
+      "shortname": "Bučina",
+      "zip": "029 57",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 535,
+      "fullname": "Demänová",
+      "shortname": "Demänová",
+      "zip": "029 57",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 745,
+      "fullname": "Duľov",
+      "shortname": "Duľov",
+      "zip": "029 63",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 795,
+      "fullname": "Flajšová",
+      "shortname": "Flajšová",
+      "zip": "029 57",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1135,
+      "fullname": "Hruštín",
+      "shortname": "Hruštín",
+      "zip": "029 52",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1300,
+      "fullname": "Jasenovská",
+      "shortname": "Jasenovská",
+      "zip": "029 57",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1447,
+      "fullname": "Klin",
+      "shortname": "Klin",
+      "zip": "029 41",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1703,
+      "fullname": "Krušetnica",
+      "shortname": "Krušetnica",
+      "zip": "029 54",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1714,
+      "fullname": "Kubínska",
+      "shortname": "Kubínska",
+      "zip": "029 57",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1805,
+      "fullname": "Lehotská",
+      "shortname": "Lehotská",
+      "zip": "029 57",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1906,
+      "fullname": "Lokca",
+      "shortname": "Lokca",
+      "zip": "029 51",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1908,
+      "fullname": "Lomná",
+      "shortname": "Lomná",
+      "zip": "029 54",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2268,
+      "fullname": "Mrzáčka",
+      "shortname": "Mrzáčka",
+      "zip": "029 57",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2280,
+      "fullname": "Mútne",
+      "shortname": "Mútne",
+      "zip": "029 63",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2279,
+      "fullname": "Mútňanská Píla",
+      "shortname": "Mútňanská Píla",
+      "zip": "029 63",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2434,
+      "fullname": "Novotský Duľov",
+      "shortname": "Novotský Duľov",
+      "zip": "029 63",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2433,
+      "fullname": "Novoť",
+      "shortname": "Novoť",
+      "zip": "029 55",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2295,
+      "fullname": "Námestovo",
+      "shortname": "Námestovo",
+      "zip": "029 01",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2514,
+      "fullname": "Oravská Jasenica",
+      "shortname": "Oravská Jasenica",
+      "zip": "029 64",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2515,
+      "fullname": "Oravská Lesná",
+      "shortname": "Oravská Lesná",
+      "zip": "029 57",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2516,
+      "fullname": "Oravská Polhora",
+      "shortname": "Oravská Polhora",
+      "zip": "029 47",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2518,
+      "fullname": "Oravské Veselé",
+      "shortname": "Oravské Veselé",
+      "zip": "029 62",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2827,
+      "fullname": "Pribišská",
+      "shortname": "Pribišská",
+      "zip": "029 57",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2880,
+      "fullname": "Rabča",
+      "shortname": "Rabča",
+      "zip": "029 44",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2881,
+      "fullname": "Rabčice",
+      "shortname": "Rabčice",
+      "zip": "029 45",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3123,
+      "fullname": "Sihelné",
+      "shortname": "Sihelné",
+      "zip": "029 46",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3161,
+      "fullname": "Slanická Osada",
+      "shortname": "Slanická Osada",
+      "zip": "029 01",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3501,
+      "fullname": "Tanečník",
+      "shortname": "Tanečník",
+      "zip": "029 57",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3725,
+      "fullname": "Vasiľov",
+      "shortname": "Vasiľov",
+      "zip": "029 51",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3726,
+      "fullname": "Vavrečka",
+      "shortname": "Vavrečka",
+      "zip": "029 01",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3718,
+      "fullname": "Vaňovka",
+      "shortname": "Vaňovka",
+      "zip": "029 52",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4152,
+      "fullname": "Zubrohlava",
+      "shortname": "Zubrohlava",
+      "zip": "029 43",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4052,
+      "fullname": "Zákamenné",
+      "shortname": "Zákamenné",
+      "zip": "029 56",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3502,
+      "fullname": "Ťapešovo",
+      "shortname": "Ťapešovo",
+      "zip": "029 51",
+      "district_id": 39,
+      "okres": "Námestovo",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Námestovo - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Námestovo, Žilinský kraj — s PSČ a kódom okresu. Obsahuje 39 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Námestovo | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Námestovo — 39 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 39 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

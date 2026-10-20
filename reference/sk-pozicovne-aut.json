@@ -1,0 +1,291 @@
+{
+  "id": "sk-pozicovne-aut",
+  "name": "Slovenské požičovne áut",
+  "title": "Slovenské požičovne áut",
+  "description": "Zoznam pomenovaných požičovní áut na Slovensku (amenity=car_rental) z OpenStreetMap.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "AGAMA autopožičovňa",
+      "latitude": 48.542707,
+      "longitude": 19.413335
+    },
+    {
+      "name": "Alamo",
+      "latitude": 48.170086,
+      "longitude": 17.199982
+    },
+    {
+      "name": "AUTOKRES SK s.r.o.",
+      "latitude": 48.940066,
+      "longitude": 20.593298
+    },
+    {
+      "name": "Autopožičovňa Abrix",
+      "latitude": 48.175156,
+      "longitude": 17.180132
+    },
+    {
+      "name": "Autopožičovňa RENT CARS",
+      "latitude": 49.005104,
+      "longitude": 21.222473
+    },
+    {
+      "name": "Avis",
+      "latitude": 48.672737,
+      "longitude": 21.236996
+    },
+    {
+      "name": "Avis",
+      "latitude": 48.69712,
+      "longitude": 21.249691
+    },
+    {
+      "name": "Avis",
+      "latitude": 48.735735,
+      "longitude": 21.275098
+    },
+    {
+      "name": "Avis",
+      "latitude": 48.985001,
+      "longitude": 21.25289
+    },
+    {
+      "name": "Bros.international",
+      "latitude": 48.312469,
+      "longitude": 17.720508
+    },
+    {
+      "name": "Buchbinder",
+      "latitude": 48.672793,
+      "longitude": 21.2371
+    },
+    {
+      "name": "Budget",
+      "latitude": 48.170114,
+      "longitude": 17.200117
+    },
+    {
+      "name": "Budget",
+      "latitude": 48.672852,
+      "longitude": 21.237193
+    },
+    {
+      "name": "CARDOT",
+      "latitude": 48.725453,
+      "longitude": 21.274881
+    },
+    {
+      "name": "Carwiz",
+      "latitude": 48.170107,
+      "longitude": 17.200136
+    },
+    {
+      "name": "DK Auto - Autopožičovňa",
+      "latitude": 48.99214,
+      "longitude": 21.196282
+    },
+    {
+      "name": "Dodo Cars",
+      "latitude": 48.213059,
+      "longitude": 17.382837
+    },
+    {
+      "name": "East Cars",
+      "latitude": 48.983667,
+      "longitude": 21.251947
+    },
+    {
+      "name": "Empark",
+      "latitude": 48.342722,
+      "longitude": 17.619875
+    },
+    {
+      "name": "Enterprise",
+      "latitude": 48.170095,
+      "longitude": 17.199994
+    },
+    {
+      "name": "Enterprise",
+      "latitude": 48.673181,
+      "longitude": 21.237473
+    },
+    {
+      "name": "ERPA Autopožičovňa",
+      "latitude": 48.266739,
+      "longitude": 18.589386
+    },
+    {
+      "name": "Europcar",
+      "latitude": 48.170069,
+      "longitude": 17.200141
+    },
+    {
+      "name": "Europcar",
+      "latitude": 48.672989,
+      "longitude": 21.237353
+    },
+    {
+      "name": "FARMTECHNIK s.r.o.",
+      "latitude": 48.267388,
+      "longitude": 18.594656
+    },
+    {
+      "name": "FlexiCars",
+      "latitude": 48.743759,
+      "longitude": 21.899372
+    },
+    {
+      "name": "GeminiCars",
+      "latitude": 48.653293,
+      "longitude": 20.528694
+    },
+    {
+      "name": "greeen motor",
+      "latitude": 48.170145,
+      "longitude": 17.200074
+    },
+    {
+      "name": "Hertz",
+      "latitude": 48.170135,
+      "longitude": 17.200053
+    },
+    {
+      "name": "Hertz",
+      "latitude": 48.673055,
+      "longitude": 21.237411
+    },
+    {
+      "name": "HRB Finance",
+      "latitude": 47.761844,
+      "longitude": 18.126944
+    },
+    {
+      "name": "J&D Car",
+      "latitude": 48.756419,
+      "longitude": 17.826679
+    },
+    {
+      "name": "Karavan365",
+      "latitude": 49.218785,
+      "longitude": 18.755099
+    },
+    {
+      "name": "KVL Auto",
+      "latitude": 48.982045,
+      "longitude": 21.265334
+    },
+    {
+      "name": "Leafcar",
+      "latitude": 48.764559,
+      "longitude": 17.838137
+    },
+    {
+      "name": "Lumma Car Rental",
+      "latitude": 48.995675,
+      "longitude": 21.242714
+    },
+    {
+      "name": "LUNYCAR",
+      "latitude": 49.057257,
+      "longitude": 20.27402
+    },
+    {
+      "name": "MT rental",
+      "latitude": 48.141976,
+      "longitude": 17.11195
+    },
+    {
+      "name": "National",
+      "latitude": 48.170105,
+      "longitude": 17.200011
+    },
+    {
+      "name": "Opel",
+      "latitude": 48.338757,
+      "longitude": 19.679911
+    },
+    {
+      "name": "PRIVA",
+      "latitude": 48.123272,
+      "longitude": 17.103202
+    },
+    {
+      "name": "RealCars",
+      "latitude": 48.701844,
+      "longitude": 21.261907
+    },
+    {
+      "name": "RK autoservis",
+      "latitude": 48.765419,
+      "longitude": 18.592846
+    },
+    {
+      "name": "RS Europe",
+      "latitude": 49.221675,
+      "longitude": 18.757264
+    },
+    {
+      "name": "Sixt",
+      "latitude": 48.1533,
+      "longitude": 17.14634
+    },
+    {
+      "name": "SIXT",
+      "latitude": 48.170126,
+      "longitude": 17.200094
+    },
+    {
+      "name": "Sixt",
+      "latitude": 48.673118,
+      "longitude": 21.237454
+    },
+    {
+      "name": "TT-Cars Autopožičovňa Prešov",
+      "latitude": 49.023236,
+      "longitude": 21.272198
+    },
+    {
+      "name": "wheego",
+      "latitude": 48.170114,
+      "longitude": 17.200029
+    },
+    {
+      "name": "ZOBOR RENT",
+      "latitude": 48.309714,
+      "longitude": 18.06911
+    }
+  ],
+  "meta": {
+    "title": "Slovenské požičovne áut - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných požičovní áut na Slovensku (amenity=car_rental) z OpenStreetMap. Obsahuje 50 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Slovenské požičovne áut | ListBase",
+    "seo_description": "Stiahnuť Slovenské požičovne áut — 50 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 50 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

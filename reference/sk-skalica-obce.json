@@ -1,0 +1,316 @@
+{
+  "id": "sk-skalica-obce",
+  "name": "Obce v okrese Skalica",
+  "title": "Obce v okrese Skalica",
+  "description": "Všetky obce (municipality) v okrese Skalica, Trnavský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 300,
+      "fullname": "Brodské",
+      "shortname": "Brodské",
+      "zip": "908 85",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1192,
+      "fullname": "Chropov",
+      "shortname": "Chropov",
+      "zip": "908 64",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 398,
+      "fullname": "Cunín",
+      "shortname": "Cunín",
+      "zip": "908 48",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 725,
+      "fullname": "Dubovce",
+      "shortname": "Dubovce",
+      "zip": "908 62",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 818,
+      "fullname": "Gbely",
+      "shortname": "Gbely",
+      "zip": "908 45",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 959,
+      "fullname": "Holíč",
+      "shortname": "Holíč",
+      "zip": "908 51",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1524,
+      "fullname": "Kopčany",
+      "shortname": "Kopčany",
+      "zip": "908 48",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1608,
+      "fullname": "Koválovec",
+      "shortname": "Koválovec",
+      "zip": "908 63",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1403,
+      "fullname": "Kátov",
+      "shortname": "Kátov",
+      "zip": "908 49",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1827,
+      "fullname": "Letničie",
+      "shortname": "Letničie",
+      "zip": "908 44",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1914,
+      "fullname": "Lopašov",
+      "shortname": "Lopašov",
+      "zip": "908 63",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2247,
+      "fullname": "Mokrý Háj",
+      "shortname": "Mokrý Háj",
+      "zip": "908 65",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2527,
+      "fullname": "Oreské",
+      "shortname": "Oreské",
+      "zip": "908 63",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2627,
+      "fullname": "Petrova Ves",
+      "shortname": "Petrova Ves",
+      "zip": "908 44",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2766,
+      "fullname": "Popudinské Močidľany",
+      "shortname": "Popudinské Močidľany",
+      "zip": "908 61",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2837,
+      "fullname": "Prietržka",
+      "shortname": "Prietržka",
+      "zip": "908 49",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2886,
+      "fullname": "Radimov",
+      "shortname": "Radimov",
+      "zip": "908 47",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2893,
+      "fullname": "Radošovce",
+      "shortname": "Radošovce",
+      "zip": "908 63",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3140,
+      "fullname": "Skalica",
+      "shortname": "Skalica",
+      "zip": "909 01",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3605,
+      "fullname": "Trnovec",
+      "shortname": "Trnovec",
+      "zip": "908 51",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3687,
+      "fullname": "Unín",
+      "shortname": "Unín",
+      "zip": "908 46",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3852,
+      "fullname": "Vidovany",
+      "shortname": "Vidovany",
+      "zip": "908 62",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3853,
+      "fullname": "Vieska",
+      "shortname": "Vieska",
+      "zip": "908 63",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3897,
+      "fullname": "Vlčkovany",
+      "shortname": "Vlčkovany",
+      "zip": "908 62",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3929,
+      "fullname": "Vrádište",
+      "shortname": "Vrádište",
+      "zip": "908 49",
+      "district_id": 59,
+      "okres": "Skalica",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Skalica - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Skalica, Trnavský kraj — s PSČ a kódom okresu. Obsahuje 25 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Skalica | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Skalica — 25 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 25 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

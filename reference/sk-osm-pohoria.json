@@ -1,0 +1,1441 @@
+{
+  "id": "sk-osm-pohoria",
+  "name": "Pohoria (OSM)",
+  "title": "Pohoria (OSM)",
+  "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (natural=mountain_range). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 280,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Jablunkovské medzihorie",
+      "latitude": 49.504341,
+      "longitude": 18.892091
+    },
+    {
+      "name": "Moravsko-sliezske Beskydy",
+      "latitude": 49.487976,
+      "longitude": 18.62165
+    },
+    {
+      "name": "Zadné vrchy",
+      "latitude": 49.413591,
+      "longitude": 18.548142
+    },
+    {
+      "name": "Turzovská vrchovina",
+      "latitude": 49.424716,
+      "longitude": 18.622303
+    },
+    {
+      "name": "Predné vrchy",
+      "latitude": 49.455587,
+      "longitude": 18.707562
+    },
+    {
+      "name": "Javorský Beskyd",
+      "latitude": 49.472782,
+      "longitude": 18.89378
+    },
+    {
+      "name": "Kysucké Beskydy",
+      "latitude": 49.429489,
+      "longitude": 18.951038
+    },
+    {
+      "name": "Pilsko",
+      "latitude": 49.501339,
+      "longitude": 19.298826
+    },
+    {
+      "name": "Polhoranská vrchovina",
+      "latitude": 49.567686,
+      "longitude": 19.422771
+    },
+    {
+      "name": "Babia hora",
+      "latitude": 49.567928,
+      "longitude": 19.497763
+    },
+    {
+      "name": "Rača",
+      "latitude": 49.402335,
+      "longitude": 18.984982
+    },
+    {
+      "name": "Ošust",
+      "latitude": 49.415358,
+      "longitude": 19.179768
+    },
+    {
+      "name": "Oravské Beskydy",
+      "latitude": 49.415358,
+      "longitude": 19.179768
+    },
+    {
+      "name": "Podbeskydská vrchovina",
+      "latitude": 49.411739,
+      "longitude": 19.358361
+    },
+    {
+      "name": "Hladké vrchy",
+      "latitude": 49.137063,
+      "longitude": 18.240386
+    },
+    {
+      "name": "Vysoké Vršatce",
+      "latitude": 49.069649,
+      "longitude": 18.149295
+    },
+    {
+      "name": "Vršatské predhorie",
+      "latitude": 49.061816,
+      "longitude": 18.202317
+    },
+    {
+      "name": "Biele Karpaty",
+      "latitude": 48.927083,
+      "longitude": 17.830913
+    },
+    {
+      "name": "Holázne",
+      "latitude": 48.930422,
+      "longitude": 18.260872
+    },
+    {
+      "name": "Vysoké Javorníky",
+      "latitude": 49.322005,
+      "longitude": 18.55592
+    },
+    {
+      "name": "Javorníky",
+      "latitude": 49.301491,
+      "longitude": 18.585628
+    },
+    {
+      "name": "Nízke Javorníky",
+      "latitude": 49.269066,
+      "longitude": 18.595934
+    },
+    {
+      "name": "Ochodnická vrchovina",
+      "latitude": 49.354376,
+      "longitude": 18.795977
+    },
+    {
+      "name": "Bystrická brázda",
+      "latitude": 49.354137,
+      "longitude": 18.969202
+    },
+    {
+      "name": "Vojenné",
+      "latitude": 49.341878,
+      "longitude": 18.973595
+    },
+    {
+      "name": "Rovnianska vrchovina",
+      "latitude": 49.272459,
+      "longitude": 18.638429
+    },
+    {
+      "name": "Kysucká vrchovina",
+      "latitude": 49.323995,
+      "longitude": 18.977903
+    },
+    {
+      "name": "Púchovská vrchovina",
+      "latitude": 49.174275,
+      "longitude": 18.416833
+    },
+    {
+      "name": "Manínska vrchovina",
+      "latitude": 49.191466,
+      "longitude": 18.587535
+    },
+    {
+      "name": "Žilinská pahorkatina",
+      "latitude": 49.206561,
+      "longitude": 18.751965
+    },
+    {
+      "name": "Paráč",
+      "latitude": 49.331721,
+      "longitude": 19.229155
+    },
+    {
+      "name": "Kysucké bradlá",
+      "latitude": 49.26992,
+      "longitude": 18.997275
+    },
+    {
+      "name": "Kubínska hoľa",
+      "latitude": 49.286649,
+      "longitude": 19.275229
+    },
+    {
+      "name": "Oravská Magura",
+      "latitude": 49.324758,
+      "longitude": 19.343631
+    },
+    {
+      "name": "Skorušina",
+      "latitude": 49.309964,
+      "longitude": 19.618941
+    },
+    {
+      "name": "Skorušinské vrchy",
+      "latitude": 49.291695,
+      "longitude": 19.647737
+    },
+    {
+      "name": "Rozsutce",
+      "latitude": 49.243757,
+      "longitude": 19.058854
+    },
+    {
+      "name": "Osnica",
+      "latitude": 49.229171,
+      "longitude": 19.171813
+    },
+    {
+      "name": "Krivánska Fatra",
+      "latitude": 49.208814,
+      "longitude": 19.058471
+    },
+    {
+      "name": "Krivánske Veterné hole",
+      "latitude": 49.182179,
+      "longitude": 18.993128
+    },
+    {
+      "name": "Oravská vrchovina",
+      "latitude": 49.251421,
+      "longitude": 19.386522
+    },
+    {
+      "name": "Kopec",
+      "latitude": 49.237472,
+      "longitude": 19.495509
+    },
+    {
+      "name": "Roháče",
+      "latitude": 49.232754,
+      "longitude": 19.684563
+    },
+    {
+      "name": "Sivý vrch",
+      "latitude": 49.212494,
+      "longitude": 19.618383
+    },
+    {
+      "name": "Sielnické vrchy",
+      "latitude": 49.160254,
+      "longitude": 19.408579
+    },
+    {
+      "name": "Chočské vrchy",
+      "latitude": 49.161432,
+      "longitude": 19.431101
+    },
+    {
+      "name": "Prosečné",
+      "latitude": 49.179617,
+      "longitude": 19.50975
+    },
+    {
+      "name": "Súľovské vrchy",
+      "latitude": 49.134637,
+      "longitude": 18.586377
+    },
+    {
+      "name": "Súľovské skaly",
+      "latitude": 49.114444,
+      "longitude": 18.56023
+    },
+    {
+      "name": "Slovensko-moravské Karpaty",
+      "latitude": 49.09285,
+      "longitude": 18.295833
+    },
+    {
+      "name": "Podmanínska pahorkatina",
+      "latitude": 49.0931,
+      "longitude": 18.433021
+    },
+    {
+      "name": "Skalky",
+      "latitude": 49.146614,
+      "longitude": 18.677304
+    },
+    {
+      "name": "Malá Fatra",
+      "latitude": 49.140577,
+      "longitude": 18.93256
+    },
+    {
+      "name": "Lúčanské Veterné hole",
+      "latitude": 49.089737,
+      "longitude": 18.794426
+    },
+    {
+      "name": "Kýčery",
+      "latitude": 49.040407,
+      "longitude": 18.731969
+    },
+    {
+      "name": "Lúčanská Fatra",
+      "latitude": 49.049886,
+      "longitude": 18.75806
+    },
+    {
+      "name": "Butkovské bradlá",
+      "latitude": 49.023089,
+      "longitude": 18.332835
+    },
+    {
+      "name": "Strážov",
+      "latitude": 48.983559,
+      "longitude": 18.45217
+    },
+    {
+      "name": "Zliechovská hornatina",
+      "latitude": 48.923142,
+      "longitude": 18.408919
+    },
+    {
+      "name": "Javorinka",
+      "latitude": 48.931336,
+      "longitude": 18.50045
+    },
+    {
+      "name": "Kľak",
+      "latitude": 48.978914,
+      "longitude": 18.690349
+    },
+    {
+      "name": "Sokol",
+      "latitude": 48.960134,
+      "longitude": 18.7577
+    },
+    {
+      "name": "Šípska Fatra",
+      "latitude": 49.124299,
+      "longitude": 19.240311
+    },
+    {
+      "name": "Šiprúň",
+      "latitude": 49.0383,
+      "longitude": 19.217039
+    },
+    {
+      "name": "Choč",
+      "latitude": 49.140874,
+      "longitude": 19.344483
+    },
+    {
+      "name": "Lysec",
+      "latitude": 49.013883,
+      "longitude": 19.067203
+    },
+    {
+      "name": "Veľká Fatra",
+      "latitude": 49.011798,
+      "longitude": 19.128147
+    },
+    {
+      "name": "Hôľna Fatra",
+      "latitude": 48.94518,
+      "longitude": 19.147023
+    },
+    {
+      "name": "Salatíny",
+      "latitude": 48.99316,
+      "longitude": 19.37006
+    },
+    {
+      "name": "Demänovské vrchy",
+      "latitude": 49.015187,
+      "longitude": 19.643243
+    },
+    {
+      "name": "Ďumbierske Tatry",
+      "latitude": 48.967108,
+      "longitude": 19.486149
+    },
+    {
+      "name": "Ďumbier",
+      "latitude": 48.935127,
+      "longitude": 19.569898
+    },
+    {
+      "name": "Busov",
+      "latitude": 49.407262,
+      "longitude": 21.201968
+    },
+    {
+      "name": "Oravická Magura",
+      "latitude": 49.326305,
+      "longitude": 19.793004
+    },
+    {
+      "name": "Spišská Magura",
+      "latitude": 49.338625,
+      "longitude": 20.350699
+    },
+    {
+      "name": "Repisko",
+      "latitude": 49.316678,
+      "longitude": 20.262493
+    },
+    {
+      "name": "Osobitá",
+      "latitude": 49.267471,
+      "longitude": 19.758207
+    },
+    {
+      "name": "Západné Tatry / Tatry Zachodnie",
+      "latitude": 49.227303,
+      "longitude": 19.730181
+    },
+    {
+      "name": "Tatry",
+      "latitude": 49.240165,
+      "longitude": 19.93595
+    },
+    {
+      "name": "Červené vrchy",
+      "latitude": 49.228958,
+      "longitude": 19.936794
+    },
+    {
+      "name": "Tatry",
+      "latitude": 49.224366,
+      "longitude": 19.868216
+    },
+    {
+      "name": "Liptovské Tatry",
+      "latitude": 49.192222,
+      "longitude": 19.808518
+    },
+    {
+      "name": "Liptovské kopy",
+      "latitude": 49.186355,
+      "longitude": 19.961867
+    },
+    {
+      "name": "Belianske Tatry",
+      "latitude": 49.246682,
+      "longitude": 20.236463
+    },
+    {
+      "name": "Vysoké Tatry",
+      "latitude": 49.200656,
+      "longitude": 20.080197
+    },
+    {
+      "name": "Východné Tatry / Tatry Wysokie",
+      "latitude": 49.210397,
+      "longitude": 20.154279
+    },
+    {
+      "name": "Lomnická pahorkatina",
+      "latitude": 49.178242,
+      "longitude": 20.327439
+    },
+    {
+      "name": "Veterný vrch",
+      "latitude": 49.354239,
+      "longitude": 20.433931
+    },
+    {
+      "name": "Ružbašské predhorie",
+      "latitude": 49.292,
+      "longitude": 20.566228
+    },
+    {
+      "name": "Ľubovnianska vrchovina",
+      "latitude": 49.35547,
+      "longitude": 20.791421
+    },
+    {
+      "name": "Levočská vrchovina",
+      "latitude": 49.208001,
+      "longitude": 20.547631
+    },
+    {
+      "name": "Ľubotínska pahorkatina",
+      "latitude": 49.25749,
+      "longitude": 20.896723
+    },
+    {
+      "name": "Čergov",
+      "latitude": 49.250163,
+      "longitude": 21.04302
+    },
+    {
+      "name": "Štrbská pahorkatina",
+      "latitude": 49.060155,
+      "longitude": 20.099908
+    },
+    {
+      "name": "Važecký chrbát",
+      "latitude": 49.023876,
+      "longitude": 19.955389
+    },
+    {
+      "name": "Nízke Tatry",
+      "latitude": 48.945088,
+      "longitude": 19.740019
+    },
+    {
+      "name": "Priehyba",
+      "latitude": 48.926255,
+      "longitude": 19.913524
+    },
+    {
+      "name": "Kozie chrbty",
+      "latitude": 49.026049,
+      "longitude": 20.06209
+    },
+    {
+      "name": "Dúbrava",
+      "latitude": 49.0277,
+      "longitude": 20.216933
+    },
+    {
+      "name": "Predná hoľa",
+      "latitude": 48.951695,
+      "longitude": 20.191104
+    },
+    {
+      "name": "Levočské vrchy",
+      "latitude": 49.125467,
+      "longitude": 20.620013
+    },
+    {
+      "name": "Levočská vysočina",
+      "latitude": 49.146431,
+      "longitude": 20.668015
+    },
+    {
+      "name": "Levočské planiny",
+      "latitude": 49.063161,
+      "longitude": 20.625481
+    },
+    {
+      "name": "Smrekovica",
+      "latitude": 49.046958,
+      "longitude": 20.899651
+    },
+    {
+      "name": "Bachureň",
+      "latitude": 49.091011,
+      "longitude": 20.955715
+    },
+    {
+      "name": "Medvedie chrbty",
+      "latitude": 48.995372,
+      "longitude": 20.641916
+    },
+    {
+      "name": "Branisko",
+      "latitude": 49.018723,
+      "longitude": 20.893333
+    },
+    {
+      "name": "Šarišská vrchovina",
+      "latitude": 48.981365,
+      "longitude": 21.080225
+    },
+    {
+      "name": "Sľubica",
+      "latitude": 48.976192,
+      "longitude": 20.879011
+    },
+    {
+      "name": "Roháčka",
+      "latitude": 48.935031,
+      "longitude": 20.985048
+    },
+    {
+      "name": "Ondavská vrchovina",
+      "latitude": 49.266068,
+      "longitude": 21.456842
+    },
+    {
+      "name": "Laborecká vrchovina",
+      "latitude": 49.265138,
+      "longitude": 21.865673
+    },
+    {
+      "name": "Šarišský vrch",
+      "latitude": 49.05193,
+      "longitude": 21.171838
+    },
+    {
+      "name": "Šimonka",
+      "latitude": 48.929823,
+      "longitude": 21.429686
+    },
+    {
+      "name": "Hanušovská pahorkatina",
+      "latitude": 49.004322,
+      "longitude": 21.505597
+    },
+    {
+      "name": "Mernícka pahorkatina",
+      "latitude": 48.960137,
+      "longitude": 21.6744
+    },
+    {
+      "name": "Vranovská pahorkatina",
+      "latitude": 48.931259,
+      "longitude": 21.66213
+    },
+    {
+      "name": "Bukovce",
+      "latitude": 49.099497,
+      "longitude": 22.335308
+    },
+    {
+      "name": "Bukovské vrchy",
+      "latitude": 49.092237,
+      "longitude": 22.331818
+    },
+    {
+      "name": "Beskydské predhorie",
+      "latitude": 48.961345,
+      "longitude": 21.875077
+    },
+    {
+      "name": "Nastaz",
+      "latitude": 48.993775,
+      "longitude": 22.351791
+    },
+    {
+      "name": "Ublianska pahorkatina",
+      "latitude": 48.926542,
+      "longitude": 22.298839
+    },
+    {
+      "name": "Skalický hájik",
+      "latitude": 48.817625,
+      "longitude": 17.281653
+    },
+    {
+      "name": "Zámčisko",
+      "latitude": 48.735875,
+      "longitude": 17.277554
+    },
+    {
+      "name": "Chvojnická pahorkatina",
+      "latitude": 48.739229,
+      "longitude": 17.28076
+    },
+    {
+      "name": "Teplická vrchovina",
+      "latitude": 48.914735,
+      "longitude": 18.189775
+    },
+    {
+      "name": "Trenčianska vrchovina",
+      "latitude": 48.913624,
+      "longitude": 18.208297
+    },
+    {
+      "name": "Basky",
+      "latitude": 48.870041,
+      "longitude": 18.272461
+    },
+    {
+      "name": "Ostrý",
+      "latitude": 48.839558,
+      "longitude": 18.134266
+    },
+    {
+      "name": "Myjavská pahorkatina",
+      "latitude": 48.7245,
+      "longitude": 17.59892
+    },
+    {
+      "name": "Čachtické karpaty",
+      "latitude": 48.716995,
+      "longitude": 17.760523
+    },
+    {
+      "name": "Vysoký Inovec",
+      "latitude": 48.745432,
+      "longitude": 18.025827
+    },
+    {
+      "name": "Senická pahorkatina",
+      "latitude": 48.673301,
+      "longitude": 17.367092
+    },
+    {
+      "name": "Brezovské Karpaty",
+      "latitude": 48.587517,
+      "longitude": 17.51239
+    },
+    {
+      "name": "Smolenická vrchovina",
+      "latitude": 48.472919,
+      "longitude": 17.369894
+    },
+    {
+      "name": "Plešivec",
+      "latitude": 48.684047,
+      "longitude": 17.735372
+    },
+    {
+      "name": "Nízky Inovec",
+      "latitude": 48.649305,
+      "longitude": 17.989977
+    },
+    {
+      "name": "Považský Inovec",
+      "latitude": 48.650753,
+      "longitude": 17.948871
+    },
+    {
+      "name": "Krahulčie vrchy",
+      "latitude": 48.587817,
+      "longitude": 17.956644
+    },
+    {
+      "name": "Belianska vrchovina",
+      "latitude": 48.895811,
+      "longitude": 18.347578
+    },
+    {
+      "name": "Strážovské vrchy",
+      "latitude": 48.872988,
+      "longitude": 18.352906
+    },
+    {
+      "name": "Temešská vrchovina",
+      "latitude": 48.875245,
+      "longitude": 18.456237
+    },
+    {
+      "name": "Malá Magura",
+      "latitude": 48.872229,
+      "longitude": 18.563491
+    },
+    {
+      "name": "Kňaží stôl",
+      "latitude": 48.819211,
+      "longitude": 18.29844
+    },
+    {
+      "name": "Vyšehrad",
+      "latitude": 48.91287,
+      "longitude": 18.716858
+    },
+    {
+      "name": "Žiar",
+      "latitude": 48.86858,
+      "longitude": 18.744394
+    },
+    {
+      "name": "Bralná Fatra",
+      "latitude": 48.871848,
+      "longitude": 18.977296
+    },
+    {
+      "name": "Horeňovo",
+      "latitude": 48.823604,
+      "longitude": 18.746167
+    },
+    {
+      "name": "Nitrické vrchy",
+      "latitude": 48.764427,
+      "longitude": 18.413658
+    },
+    {
+      "name": "Rovne",
+      "latitude": 48.769738,
+      "longitude": 18.796961
+    },
+    {
+      "name": "Kremnické vrchy",
+      "latitude": 48.695612,
+      "longitude": 18.945377
+    },
+    {
+      "name": "Zvolen",
+      "latitude": 48.899171,
+      "longitude": 19.214251
+    },
+    {
+      "name": "Starohorské vrchy",
+      "latitude": 48.810099,
+      "longitude": 19.143298
+    },
+    {
+      "name": "Prašivá",
+      "latitude": 48.892313,
+      "longitude": 19.36722
+    },
+    {
+      "name": "Flochovský chrbát",
+      "latitude": 48.717125,
+      "longitude": 18.988248
+    },
+    {
+      "name": "Bystrická vrchovina",
+      "latitude": 48.723077,
+      "longitude": 19.245469
+    },
+    {
+      "name": "Čierťaž",
+      "latitude": 48.777899,
+      "longitude": 19.443607
+    },
+    {
+      "name": "Balocké vrchy",
+      "latitude": 48.692842,
+      "longitude": 19.667419
+    },
+    {
+      "name": "Vysoký Vtáčnik",
+      "latitude": 48.656724,
+      "longitude": 18.625972
+    },
+    {
+      "name": "Jastrabská vrchovina",
+      "latitude": 48.647837,
+      "longitude": 18.91995
+    },
+    {
+      "name": "Nízky Vtáčnik",
+      "latitude": 48.577279,
+      "longitude": 18.685286
+    },
+    {
+      "name": "Vtáčnik",
+      "latitude": 48.598572,
+      "longitude": 18.645514
+    },
+    {
+      "name": "Hornianske predhorie",
+      "latitude": 48.520593,
+      "longitude": 18.282395
+    },
+    {
+      "name": "Rázdiel",
+      "latitude": 48.547952,
+      "longitude": 18.460691
+    },
+    {
+      "name": "Veľký Tríbeč",
+      "latitude": 48.49528,
+      "longitude": 18.288759
+    },
+    {
+      "name": "Vysoký Tríbeč",
+      "latitude": 48.485422,
+      "longitude": 18.306362
+    },
+    {
+      "name": "Zlatnianske predhorie",
+      "latitude": 48.462033,
+      "longitude": 18.290521
+    },
+    {
+      "name": "Tribeč",
+      "latitude": 48.48422,
+      "longitude": 18.319781
+    },
+    {
+      "name": "Raj",
+      "latitude": 48.459731,
+      "longitude": 18.668857
+    },
+    {
+      "name": "Ponická vrchovina",
+      "latitude": 48.686372,
+      "longitude": 19.310243
+    },
+    {
+      "name": "Zvolenská pahorkatina",
+      "latitude": 48.640447,
+      "longitude": 19.219004
+    },
+    {
+      "name": "Turovské predhorie",
+      "latitude": 48.617751,
+      "longitude": 19.0551
+    },
+    {
+      "name": "Vysoká Poľana",
+      "latitude": 48.662721,
+      "longitude": 19.462793
+    },
+    {
+      "name": "Detvianske predhorie",
+      "latitude": 48.633972,
+      "longitude": 19.39228
+    },
+    {
+      "name": "Kyslinky",
+      "latitude": 48.655141,
+      "longitude": 19.448627
+    },
+    {
+      "name": "Poľana",
+      "latitude": 48.649746,
+      "longitude": 19.434593
+    },
+    {
+      "name": "Lomnianska vrchovina",
+      "latitude": 48.525609,
+      "longitude": 19.167929
+    },
+    {
+      "name": "Javorie",
+      "latitude": 48.517787,
+      "longitude": 19.196523
+    },
+    {
+      "name": "Javorianska hornatina",
+      "latitude": 48.459096,
+      "longitude": 19.289455
+    },
+    {
+      "name": "Rohy",
+      "latitude": 48.551214,
+      "longitude": 19.365255
+    },
+    {
+      "name": "Plavecké predhorie",
+      "latitude": 48.448364,
+      "longitude": 17.201384
+    },
+    {
+      "name": "Biele hory",
+      "latitude": 48.445911,
+      "longitude": 17.275984
+    },
+    {
+      "name": "Malé Karpaty",
+      "latitude": 48.432848,
+      "longitude": 17.340981
+    },
+    {
+      "name": "Inner Western Carpathians",
+      "latitude": 48.432848,
+      "longitude": 17.340981
+    },
+    {
+      "name": "Podmalokarpatská pahorkatina",
+      "latitude": 48.435914,
+      "longitude": 17.45809
+    },
+    {
+      "name": "Trnavská pahorkatina",
+      "latitude": 48.455298,
+      "longitude": 17.520413
+    },
+    {
+      "name": "Pezinské Karpaty",
+      "latitude": 48.35801,
+      "longitude": 17.229459
+    },
+    {
+      "name": "Stupavské predhorie",
+      "latitude": 48.299445,
+      "longitude": 17.085014
+    },
+    {
+      "name": "Homolské Karpaty",
+      "latitude": 48.303221,
+      "longitude": 17.195274
+    },
+    {
+      "name": "Podunajská pahorkatina",
+      "latitude": 48.411193,
+      "longitude": 18.174402
+    },
+    {
+      "name": "Jelenec",
+      "latitude": 48.420973,
+      "longitude": 18.202208
+    },
+    {
+      "name": "Zobor",
+      "latitude": 48.358198,
+      "longitude": 18.129283
+    },
+    {
+      "name": "Devínske karpaty",
+      "latitude": 48.176423,
+      "longitude": 17.03848
+    },
+    {
+      "name": "Devínska Kobyla",
+      "latitude": 48.194893,
+      "longitude": 16.999839
+    },
+    {
+      "name": "Vojšín",
+      "latitude": 48.454777,
+      "longitude": 18.602774
+    },
+    {
+      "name": "Pohronský Inovec",
+      "latitude": 48.418882,
+      "longitude": 18.535508
+    },
+    {
+      "name": "Žitavská pahorkatina",
+      "latitude": 48.362047,
+      "longitude": 18.290748
+    },
+    {
+      "name": "Veľký Inovec",
+      "latitude": 48.39646,
+      "longitude": 18.533808
+    },
+    {
+      "name": "Hodrušská hornatina",
+      "latitude": 48.423772,
+      "longitude": 18.726959
+    },
+    {
+      "name": "Štiavnické vrchy",
+      "latitude": 48.391686,
+      "longitude": 18.776496
+    },
+    {
+      "name": "Sitnianska vrchovina",
+      "latitude": 48.376476,
+      "longitude": 18.926949
+    },
+    {
+      "name": "Skalka",
+      "latitude": 48.43782,
+      "longitude": 18.996036
+    },
+    {
+      "name": "Závozská vrchovina",
+      "latitude": 48.396504,
+      "longitude": 19.183069
+    },
+    {
+      "name": "Ostrôžky",
+      "latitude": 48.393295,
+      "longitude": 19.466152
+    },
+    {
+      "name": "Bzovícka pahorkatina",
+      "latitude": 48.22879,
+      "longitude": 19.010835
+    },
+    {
+      "name": "Modrokamenské úboče",
+      "latitude": 48.230599,
+      "longitude": 19.214993
+    },
+    {
+      "name": "Jelšovská pahorkatina",
+      "latitude": 48.288776,
+      "longitude": 19.588356
+    },
+    {
+      "name": "Hronská pahorkatina",
+      "latitude": 48.107382,
+      "longitude": 18.459124
+    },
+    {
+      "name": "Kráľovohoľské Tatry",
+      "latitude": 48.921984,
+      "longitude": 19.999538
+    },
+    {
+      "name": "Kráľova hoľa",
+      "latitude": 48.886287,
+      "longitude": 20.11204
+    },
+    {
+      "name": "Havrania skala",
+      "latitude": 48.894481,
+      "longitude": 20.332912
+    },
+    {
+      "name": "Slovenský raj",
+      "latitude": 48.901636,
+      "longitude": 20.331083
+    },
+    {
+      "name": "Duča",
+      "latitude": 48.868272,
+      "longitude": 20.260422
+    },
+    {
+      "name": "Fabova hoľa",
+      "latitude": 48.786173,
+      "longitude": 19.870542
+    },
+    {
+      "name": "Veporské vrchy",
+      "latitude": 48.711289,
+      "longitude": 19.688179
+    },
+    {
+      "name": "Dobšinské predhorie",
+      "latitude": 48.777876,
+      "longitude": 20.349962
+    },
+    {
+      "name": "Stolica",
+      "latitude": 48.748306,
+      "longitude": 20.183404
+    },
+    {
+      "name": "Havranie vrchy",
+      "latitude": 48.865507,
+      "longitude": 20.438159
+    },
+    {
+      "name": "Knola",
+      "latitude": 48.828543,
+      "longitude": 20.495851
+    },
+    {
+      "name": "Galmus",
+      "latitude": 48.906646,
+      "longitude": 20.763044
+    },
+    {
+      "name": "Bujanovské vrchy",
+      "latitude": 48.88242,
+      "longitude": 21.070894
+    },
+    {
+      "name": "Hnilecké vrchy",
+      "latitude": 48.845038,
+      "longitude": 20.762088
+    },
+    {
+      "name": "Zlatý stôl",
+      "latitude": 48.760685,
+      "longitude": 20.588892
+    },
+    {
+      "name": "Volovské vrchy",
+      "latitude": 48.771634,
+      "longitude": 20.764279
+    },
+    {
+      "name": "Kojšovská hoľa",
+      "latitude": 48.781724,
+      "longitude": 20.969436
+    },
+    {
+      "name": "Medzevská pahorkatina",
+      "latitude": 48.692522,
+      "longitude": 21.018053
+    },
+    {
+      "name": "Tŕstie",
+      "latitude": 48.668157,
+      "longitude": 20.024795
+    },
+    {
+      "name": "Stolické vrchy",
+      "latitude": 48.621721,
+      "longitude": 19.920902
+    },
+    {
+      "name": "Klenovské vrchy",
+      "latitude": 48.587588,
+      "longitude": 19.879497
+    },
+    {
+      "name": "Revúcka vrchovina",
+      "latitude": 48.583753,
+      "longitude": 20.07359
+    },
+    {
+      "name": "Jelšavský kras",
+      "latitude": 48.607322,
+      "longitude": 20.252162
+    },
+    {
+      "name": "Málinské vrchy",
+      "latitude": 48.540383,
+      "longitude": 19.707969
+    },
+    {
+      "name": "Licinská pahorkatina",
+      "latitude": 48.535905,
+      "longitude": 20.27736
+    },
+    {
+      "name": "Slovenské rudohorie",
+      "latitude": 48.686629,
+      "longitude": 20.394417
+    },
+    {
+      "name": "Slovenský kras",
+      "latitude": 48.581037,
+      "longitude": 20.593534
+    },
+    {
+      "name": "Pipitka",
+      "latitude": 48.677481,
+      "longitude": 20.764061
+    },
+    {
+      "name": "Silické úbočie",
+      "latitude": 48.572225,
+      "longitude": 20.580474
+    },
+    {
+      "name": "Aggteleki-karszt",
+      "latitude": 48.503783,
+      "longitude": 20.620294
+    },
+    {
+      "name": "Sopotnické vrchy",
+      "latitude": 48.877964,
+      "longitude": 21.17784
+    },
+    {
+      "name": "Čierna hora",
+      "latitude": 48.86944,
+      "longitude": 21.111091
+    },
+    {
+      "name": "Pokryvy",
+      "latitude": 48.837973,
+      "longitude": 21.148346
+    },
+    {
+      "name": "Toryská pahorkatina",
+      "latitude": 48.81249,
+      "longitude": 21.365989
+    },
+    {
+      "name": "Makovica",
+      "latitude": 48.852385,
+      "longitude": 21.53495
+    },
+    {
+      "name": "Holička",
+      "latitude": 48.70169,
+      "longitude": 21.098317
+    },
+    {
+      "name": "Mošník",
+      "latitude": 48.784341,
+      "longitude": 21.566807
+    },
+    {
+      "name": "Slanské vrchy",
+      "latitude": 48.750971,
+      "longitude": 21.486196
+    },
+    {
+      "name": "Bogota",
+      "latitude": 48.691387,
+      "longitude": 21.515833
+    },
+    {
+      "name": "Podslanská pahorkatina",
+      "latitude": 48.708225,
+      "longitude": 21.582643
+    },
+    {
+      "name": "Humenské vrchy",
+      "latitude": 48.895686,
+      "longitude": 21.9006
+    },
+    {
+      "name": "Pozdišovský chrbát",
+      "latitude": 48.826573,
+      "longitude": 21.797913
+    },
+    {
+      "name": "Vihorlat",
+      "latitude": 48.862847,
+      "longitude": 22.111946
+    },
+    {
+      "name": "Vihorlatské vrchy",
+      "latitude": 48.851606,
+      "longitude": 22.107181
+    },
+    {
+      "name": "Vihorlatská hornatina",
+      "latitude": 48.89802,
+      "longitude": 22.170569
+    },
+    {
+      "name": "Jasenovská hornatina",
+      "latitude": 48.839526,
+      "longitude": 22.239413
+    },
+    {
+      "name": "Východoslovenská pahorkatina",
+      "latitude": 48.768862,
+      "longitude": 21.804542
+    },
+    {
+      "name": "Podvihorlatská pahorkatina",
+      "latitude": 48.803046,
+      "longitude": 22.107696
+    },
+    {
+      "name": "Zalužická pahorkatina",
+      "latitude": 48.76509,
+      "longitude": 21.991396
+    },
+    {
+      "name": "Popriečny",
+      "latitude": 48.774496,
+      "longitude": 22.329546
+    },
+    {
+      "name": "Milič",
+      "latitude": 48.587347,
+      "longitude": 21.473007
+    },
+    {
+      "name": "Oždianska pahorkatina",
+      "latitude": 48.361693,
+      "longitude": 19.944094
+    },
+    {
+      "name": "Valická pahorkatina",
+      "latitude": 48.430907,
+      "longitude": 20.130947
+    },
+    {
+      "name": "Bučenská vrchovina",
+      "latitude": 48.301233,
+      "longitude": 19.890835
+    },
+    {
+      "name": "Blhovská vrchovina",
+      "latitude": 48.308373,
+      "longitude": 19.894511
+    },
+    {
+      "name": "Bučeň",
+      "latitude": 48.283052,
+      "longitude": 19.865736
+    },
+    {
+      "name": "Cerová vrchovina",
+      "latitude": 48.240074,
+      "longitude": 19.973835
+    },
+    {
+      "name": "Északi-középhegység",
+      "latitude": 48.292136,
+      "longitude": 20.18916
+    },
+    {
+      "name": "Petrovská vrchovina",
+      "latitude": 48.238516,
+      "longitude": 20.108022
+    },
+    {
+      "name": "Bodvianska pahorkatina",
+      "latitude": 48.448227,
+      "longitude": 20.408849
+    },
+    {
+      "name": "Cserehát",
+      "latitude": 48.441236,
+      "longitude": 21.021455
+    },
+    {
+      "name": "Hajnáčska vrchovina",
+      "latitude": 48.193029,
+      "longitude": 19.893302
+    },
+    {
+      "name": "Heves-Borsodi-dombság",
+      "latitude": 48.145669,
+      "longitude": 20.056518
+    },
+    {
+      "name": "Zempléni-hegység",
+      "latitude": 48.358247,
+      "longitude": 21.435481
+    },
+    {
+      "name": "Zempléni-hegység",
+      "latitude": 48.359868,
+      "longitude": 21.433037
+    },
+    {
+      "name": "Zemplínske vrchy",
+      "latitude": 48.43755,
+      "longitude": 21.686116
+    },
+    {
+      "name": "Börzsöny",
+      "latitude": 47.888906,
+      "longitude": 18.963987
+    },
+    {
+      "name": "Börzsöny",
+      "latitude": 47.891247,
+      "longitude": 18.961918
+    },
+    {
+      "name": "Belianske kopce",
+      "latitude": 47.841988,
+      "longitude": 18.591197
+    },
+    {
+      "name": "Burda",
+      "latitude": 47.838794,
+      "longitude": 18.786323
+    },
+    {
+      "name": "Полонинський хребет",
+      "latitude": 48.623999,
+      "longitude": 23.20594
+    },
+    {
+      "name": "Вигорлат-Гутинський хребет",
+      "latitude": 48.378358,
+      "longitude": 22.917475
+    }
+  ],
+  "meta": {
+    "title": "Pohoria (OSM) - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (natural=mountain_range). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84. Obsahuje 280 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Pohoria (OSM) | ListBase",
+    "seo_description": "Stiahnuť Pohoria (OSM) — 280 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 280 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

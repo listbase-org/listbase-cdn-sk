@@ -1,0 +1,1504 @@
+{
+  "id": "sk-casove-pasma",
+  "name": "Časové pásma sveta (IANA / CLDR slovenčina)",
+  "title": "Časové pásma sveta (IANA / CLDR slovenčina)",
+  "description": "Identifikátory časových pásiem IANA a reprezentatívne názvy miest v slovenčine z locale sk v CLDR. 'oblast' je prvý segment identifikátora.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 181,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "mesto",
+      "label": "Mesto",
+      "type": "string"
+    },
+    {
+      "key": "standardny_nazov",
+      "label": "Standardny Nazov",
+      "type": "string"
+    },
+    {
+      "key": "letny_nazov",
+      "label": "Letny Nazov",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Africa/Accra",
+      "oblast": "Africa",
+      "mesto": "Akkra",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Africa/Addis_Ababa",
+      "oblast": "Africa",
+      "mesto": "Addis Abeba",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Africa/Algiers",
+      "oblast": "Africa",
+      "mesto": "Alžír",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Africa/Asmera",
+      "oblast": "Africa",
+      "mesto": "Asmara",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Africa/Cairo",
+      "oblast": "Africa",
+      "mesto": "Káhira",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Africa/Conakry",
+      "oblast": "Africa",
+      "mesto": "Konakry",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Africa/Djibouti",
+      "oblast": "Africa",
+      "mesto": "Džibuti",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Africa/El_Aaiun",
+      "oblast": "Africa",
+      "mesto": "El-Aaiún",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Africa/Khartoum",
+      "oblast": "Africa",
+      "mesto": "Chartúm",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Africa/Lome",
+      "oblast": "Africa",
+      "mesto": "Lomé",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Africa/Mogadishu",
+      "oblast": "Africa",
+      "mesto": "Mogadišo",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Africa/Ndjamena",
+      "oblast": "Africa",
+      "mesto": "N’Djamena",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Africa/Sao_Tome",
+      "oblast": "Africa",
+      "mesto": "Svätý Tomáš",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Africa/Tripoli",
+      "oblast": "Africa",
+      "mesto": "Tripolis",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "America/Araguaina",
+      "oblast": "America",
+      "mesto": "Araguaína",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "America/Argentina/Rio_Gallegos",
+      "oblast": "America",
+      "mesto": "Río Gallegos",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "America/Argentina/Tucuman",
+      "oblast": "America",
+      "mesto": "Tucumán",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "America/Asuncion",
+      "oblast": "America",
+      "mesto": "Asunción",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "America/Bahia_Banderas",
+      "oblast": "America",
+      "mesto": "Bahia Banderas",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "America/Belem",
+      "oblast": "America",
+      "mesto": "Belém",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "America/Bogota",
+      "oblast": "America",
+      "mesto": "Bogotá",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "America/Cancun",
+      "oblast": "America",
+      "mesto": "Cancún",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "America/Cayman",
+      "oblast": "America",
+      "mesto": "Kajmanie ostrovy",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "America/Ciudad_Juarez",
+      "oblast": "America",
+      "mesto": "Ciudad Juárez",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "America/Coral_Harbour",
+      "oblast": "America",
+      "mesto": "Atikokan",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "America/Cordoba",
+      "oblast": "America",
+      "mesto": "Córdoba",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "America/Costa_Rica",
+      "oblast": "America",
+      "mesto": "Kostarika",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "America/Cuiaba",
+      "oblast": "America",
+      "mesto": "Cuiabá",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "America/Curacao",
+      "oblast": "America",
+      "mesto": "Curaçao",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "America/Dominica",
+      "oblast": "America",
+      "mesto": "Dominika",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "America/Eirunepe",
+      "oblast": "America",
+      "mesto": "Eirunepé",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "America/El_Salvador",
+      "oblast": "America",
+      "mesto": "Salvádor",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "America/Godthab",
+      "oblast": "America",
+      "mesto": "Nuuk",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "America/Indiana/Knox",
+      "oblast": "America",
+      "mesto": "Knox, Indiana",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "America/Indiana/Marengo",
+      "oblast": "America",
+      "mesto": "Marengo, Indiana",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "America/Indiana/Petersburg",
+      "oblast": "America",
+      "mesto": "Petersburg, Indiana",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "America/Indiana/Tell_City",
+      "oblast": "America",
+      "mesto": "Tell City, Indiana",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "America/Indiana/Vevay",
+      "oblast": "America",
+      "mesto": "Vevay, Indiana",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "America/Indiana/Vincennes",
+      "oblast": "America",
+      "mesto": "Vincennes, Indiana",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "America/Indiana/Winamac",
+      "oblast": "America",
+      "mesto": "Winamac, Indiana",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "America/Jamaica",
+      "oblast": "America",
+      "mesto": "Jamajka",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "America/Kentucky/Monticello",
+      "oblast": "America",
+      "mesto": "Monticello, Kentucky",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "America/Lower_Princes",
+      "oblast": "America",
+      "mesto": "Lower Prince’s Quarter",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "America/Maceio",
+      "oblast": "America",
+      "mesto": "Maceió",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "America/Martinique",
+      "oblast": "America",
+      "mesto": "Martinik",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "America/Mazatlan",
+      "oblast": "America",
+      "mesto": "Mazatlán",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "America/Merida",
+      "oblast": "America",
+      "mesto": "Mérida",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "America/Mexico_City",
+      "oblast": "America",
+      "mesto": "México",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "America/Miquelon",
+      "oblast": "America",
+      "mesto": "Saint-Pierre",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "America/Noronha",
+      "oblast": "America",
+      "mesto": "Fernando de Noronha",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "America/North_Dakota/Beulah",
+      "oblast": "America",
+      "mesto": "Beulah, Severná Dakota",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 52,
+      "tz_id": "America/North_Dakota/Center",
+      "oblast": "America",
+      "mesto": "Center, Severná Dakota",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 53,
+      "tz_id": "America/North_Dakota/New_Salem",
+      "oblast": "America",
+      "mesto": "New Salem, Severná Dakota",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 54,
+      "tz_id": "America/Puerto_Rico",
+      "oblast": "America",
+      "mesto": "Portoriko",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 55,
+      "tz_id": "America/Santarem",
+      "oblast": "America",
+      "mesto": "Santarém",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 56,
+      "tz_id": "America/Sao_Paulo",
+      "oblast": "America",
+      "mesto": "São Paulo",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 57,
+      "tz_id": "America/Scoresbysund",
+      "oblast": "America",
+      "mesto": "Ittoqqortoormiit",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 58,
+      "tz_id": "America/St_Barthelemy",
+      "oblast": "America",
+      "mesto": "Svätý Bartolomej",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 59,
+      "tz_id": "America/St_Johns",
+      "oblast": "America",
+      "mesto": "St. John’s",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 60,
+      "tz_id": "America/St_Kitts",
+      "oblast": "America",
+      "mesto": "St. Kitts",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 61,
+      "tz_id": "America/St_Lucia",
+      "oblast": "America",
+      "mesto": "Svätá Lucia",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 62,
+      "tz_id": "America/St_Thomas",
+      "oblast": "America",
+      "mesto": "Sv. Tomáš",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 63,
+      "tz_id": "America/St_Vincent",
+      "oblast": "America",
+      "mesto": "Sv. Vincent",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 64,
+      "tz_id": "Antarctica/DumontDUrville",
+      "oblast": "Antarctica",
+      "mesto": "Dumont-d’Urville",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 65,
+      "tz_id": "Antarctica/Syowa",
+      "oblast": "Antarctica",
+      "mesto": "Šówa",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 66,
+      "tz_id": "Asia/Almaty",
+      "oblast": "Asia",
+      "mesto": "Alma‑Ata",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 67,
+      "tz_id": "Asia/Amman",
+      "oblast": "Asia",
+      "mesto": "Ammán",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 68,
+      "tz_id": "Asia/Aqtau",
+      "oblast": "Asia",
+      "mesto": "Aktau",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 69,
+      "tz_id": "Asia/Aqtobe",
+      "oblast": "Asia",
+      "mesto": "Aktobe",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 70,
+      "tz_id": "Asia/Ashgabat",
+      "oblast": "Asia",
+      "mesto": "Ašchabad",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 71,
+      "tz_id": "Asia/Baghdad",
+      "oblast": "Asia",
+      "mesto": "Bagdad",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 72,
+      "tz_id": "Asia/Bahrain",
+      "oblast": "Asia",
+      "mesto": "Bahrajn",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 73,
+      "tz_id": "Asia/Beirut",
+      "oblast": "Asia",
+      "mesto": "Bejrút",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 74,
+      "tz_id": "Asia/Bishkek",
+      "oblast": "Asia",
+      "mesto": "Biškek",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 75,
+      "tz_id": "Asia/Brunei",
+      "oblast": "Asia",
+      "mesto": "Brunej",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 76,
+      "tz_id": "Asia/Calcutta",
+      "oblast": "Asia",
+      "mesto": "Kalkata",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 77,
+      "tz_id": "Asia/Chita",
+      "oblast": "Asia",
+      "mesto": "Čita",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 78,
+      "tz_id": "Asia/Colombo",
+      "oblast": "Asia",
+      "mesto": "Kolombo",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 79,
+      "tz_id": "Asia/Damascus",
+      "oblast": "Asia",
+      "mesto": "Damask",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 80,
+      "tz_id": "Asia/Dhaka",
+      "oblast": "Asia",
+      "mesto": "Dháka",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 81,
+      "tz_id": "Asia/Dubai",
+      "oblast": "Asia",
+      "mesto": "Dubaj",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 82,
+      "tz_id": "Asia/Dushanbe",
+      "oblast": "Asia",
+      "mesto": "Dušanbe",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 83,
+      "tz_id": "Asia/Hong_Kong",
+      "oblast": "Asia",
+      "mesto": "Hongkong",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 84,
+      "tz_id": "Asia/Hovd",
+      "oblast": "Asia",
+      "mesto": "Chovd",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 85,
+      "tz_id": "Asia/Jerusalem",
+      "oblast": "Asia",
+      "mesto": "Jeruzalem",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 86,
+      "tz_id": "Asia/Kabul",
+      "oblast": "Asia",
+      "mesto": "Kábul",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 87,
+      "tz_id": "Asia/Kamchatka",
+      "oblast": "Asia",
+      "mesto": "Kamčatka",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 88,
+      "tz_id": "Asia/Karachi",
+      "oblast": "Asia",
+      "mesto": "Karáči",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 89,
+      "tz_id": "Asia/Katmandu",
+      "oblast": "Asia",
+      "mesto": "Káthmandu",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 90,
+      "tz_id": "Asia/Khandyga",
+      "oblast": "Asia",
+      "mesto": "Chandyga",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 91,
+      "tz_id": "Asia/Krasnoyarsk",
+      "oblast": "Asia",
+      "mesto": "Krasnojarsk",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 92,
+      "tz_id": "Asia/Kuching",
+      "oblast": "Asia",
+      "mesto": "Kučing",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 93,
+      "tz_id": "Asia/Kuwait",
+      "oblast": "Asia",
+      "mesto": "Kuvajt",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 94,
+      "tz_id": "Asia/Macau",
+      "oblast": "Asia",
+      "mesto": "Macao",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 95,
+      "tz_id": "Asia/Muscat",
+      "oblast": "Asia",
+      "mesto": "Maskat",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 96,
+      "tz_id": "Asia/Nicosia",
+      "oblast": "Asia",
+      "mesto": "Nikózia",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 97,
+      "tz_id": "Asia/Novokuznetsk",
+      "oblast": "Asia",
+      "mesto": "Novokuzneck",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 98,
+      "tz_id": "Asia/Oral",
+      "oblast": "Asia",
+      "mesto": "Uraľsk",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 99,
+      "tz_id": "Asia/Phnom_Penh",
+      "oblast": "Asia",
+      "mesto": "Phnom Pénh",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 100,
+      "tz_id": "Asia/Pyongyang",
+      "oblast": "Asia",
+      "mesto": "Pchjongjang",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 101,
+      "tz_id": "Asia/Qatar",
+      "oblast": "Asia",
+      "mesto": "Katar",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 102,
+      "tz_id": "Asia/Qostanay",
+      "oblast": "Asia",
+      "mesto": "Kostanaj",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 103,
+      "tz_id": "Asia/Qyzylorda",
+      "oblast": "Asia",
+      "mesto": "Kyzylorda",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 104,
+      "tz_id": "Asia/Rangoon",
+      "oblast": "Asia",
+      "mesto": "Rangún",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 105,
+      "tz_id": "Asia/Riyadh",
+      "oblast": "Asia",
+      "mesto": "Rijád",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 106,
+      "tz_id": "Asia/Saigon",
+      "oblast": "Asia",
+      "mesto": "Hočiminovo Mesto",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 107,
+      "tz_id": "Asia/Sakhalin",
+      "oblast": "Asia",
+      "mesto": "Sachalin",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 108,
+      "tz_id": "Asia/Seoul",
+      "oblast": "Asia",
+      "mesto": "Soul",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 109,
+      "tz_id": "Asia/Shanghai",
+      "oblast": "Asia",
+      "mesto": "Šanghaj",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 110,
+      "tz_id": "Asia/Singapore",
+      "oblast": "Asia",
+      "mesto": "Singapur",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 111,
+      "tz_id": "Asia/Taipei",
+      "oblast": "Asia",
+      "mesto": "Tchaj-pej",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 112,
+      "tz_id": "Asia/Tashkent",
+      "oblast": "Asia",
+      "mesto": "Taškent",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 113,
+      "tz_id": "Asia/Tehran",
+      "oblast": "Asia",
+      "mesto": "Teherán",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 114,
+      "tz_id": "Asia/Tokyo",
+      "oblast": "Asia",
+      "mesto": "Tokio",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 115,
+      "tz_id": "Asia/Ulaanbaatar",
+      "oblast": "Asia",
+      "mesto": "Ulanbátar",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 116,
+      "tz_id": "Asia/Urumqi",
+      "oblast": "Asia",
+      "mesto": "Urumči",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 117,
+      "tz_id": "Asia/Ust-Nera",
+      "oblast": "Asia",
+      "mesto": "Usť-Nera",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 118,
+      "tz_id": "Asia/Vientiane",
+      "oblast": "Asia",
+      "mesto": "Vientian",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 119,
+      "tz_id": "Asia/Yakutsk",
+      "oblast": "Asia",
+      "mesto": "Jakutsk",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 120,
+      "tz_id": "Asia/Yekaterinburg",
+      "oblast": "Asia",
+      "mesto": "Jekaterinburg",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 121,
+      "tz_id": "Asia/Yerevan",
+      "oblast": "Asia",
+      "mesto": "Jerevan",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 122,
+      "tz_id": "Atlantic/Azores",
+      "oblast": "Atlantic",
+      "mesto": "Azory",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 123,
+      "tz_id": "Atlantic/Bermuda",
+      "oblast": "Atlantic",
+      "mesto": "Bermudy",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 124,
+      "tz_id": "Atlantic/Canary",
+      "oblast": "Atlantic",
+      "mesto": "Kanárske ostrovy",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 125,
+      "tz_id": "Atlantic/Cape_Verde",
+      "oblast": "Atlantic",
+      "mesto": "Kapverdy",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 126,
+      "tz_id": "Atlantic/Faeroe",
+      "oblast": "Atlantic",
+      "mesto": "Faerské ostrovy",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 127,
+      "tz_id": "Atlantic/Reykjavik",
+      "oblast": "Atlantic",
+      "mesto": "Reykjavík",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 128,
+      "tz_id": "Atlantic/South_Georgia",
+      "oblast": "Atlantic",
+      "mesto": "Južná Georgia",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 129,
+      "tz_id": "Atlantic/St_Helena",
+      "oblast": "Atlantic",
+      "mesto": "Svätá Helena",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 130,
+      "tz_id": "Etc/UTC",
+      "oblast": "Etc",
+      "mesto": "",
+      "standardny_nazov": "koordinovaný svetový čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 131,
+      "tz_id": "Etc/Unknown",
+      "oblast": "Etc",
+      "mesto": "neznáme mesto",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 132,
+      "tz_id": "Europe/Astrakhan",
+      "oblast": "Europe",
+      "mesto": "Astrachán",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 133,
+      "tz_id": "Europe/Athens",
+      "oblast": "Europe",
+      "mesto": "Atény",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 134,
+      "tz_id": "Europe/Belgrade",
+      "oblast": "Europe",
+      "mesto": "Belehrad",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 135,
+      "tz_id": "Europe/Berlin",
+      "oblast": "Europe",
+      "mesto": "Berlín",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 136,
+      "tz_id": "Europe/Brussels",
+      "oblast": "Europe",
+      "mesto": "Brusel",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 137,
+      "tz_id": "Europe/Bucharest",
+      "oblast": "Europe",
+      "mesto": "Bukurešť",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 138,
+      "tz_id": "Europe/Budapest",
+      "oblast": "Europe",
+      "mesto": "Budapešť",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 139,
+      "tz_id": "Europe/Busingen",
+      "oblast": "Europe",
+      "mesto": "Büsingen",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 140,
+      "tz_id": "Europe/Chisinau",
+      "oblast": "Europe",
+      "mesto": "Kišiňov",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 141,
+      "tz_id": "Europe/Copenhagen",
+      "oblast": "Europe",
+      "mesto": "Kodaň",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 142,
+      "tz_id": "Europe/Dublin",
+      "oblast": "Europe",
+      "mesto": "",
+      "standardny_nazov": "",
+      "letny_nazov": "írsky štandardný čas"
+    },
+    {
+      "id": 143,
+      "tz_id": "Europe/Gibraltar",
+      "oblast": "Europe",
+      "mesto": "Gibraltár",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 144,
+      "tz_id": "Europe/Isle_of_Man",
+      "oblast": "Europe",
+      "mesto": "Ostrov Man",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 145,
+      "tz_id": "Europe/Kiev",
+      "oblast": "Europe",
+      "mesto": "Kyjev",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 146,
+      "tz_id": "Europe/Lisbon",
+      "oblast": "Europe",
+      "mesto": "Lisabon",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 147,
+      "tz_id": "Europe/Ljubljana",
+      "oblast": "Europe",
+      "mesto": "Ľubľana",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 148,
+      "tz_id": "Europe/London",
+      "oblast": "Europe",
+      "mesto": "Londýn",
+      "standardny_nazov": "",
+      "letny_nazov": "britský letný čas"
+    },
+    {
+      "id": 149,
+      "tz_id": "Europe/Luxembourg",
+      "oblast": "Europe",
+      "mesto": "Luxembursko",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 150,
+      "tz_id": "Europe/Monaco",
+      "oblast": "Europe",
+      "mesto": "Monako",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 151,
+      "tz_id": "Europe/Moscow",
+      "oblast": "Europe",
+      "mesto": "Moskva",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 152,
+      "tz_id": "Europe/Paris",
+      "oblast": "Europe",
+      "mesto": "Paríž",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 153,
+      "tz_id": "Europe/Prague",
+      "oblast": "Europe",
+      "mesto": "Praha",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 154,
+      "tz_id": "Europe/Rome",
+      "oblast": "Europe",
+      "mesto": "Rím",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 155,
+      "tz_id": "Europe/San_Marino",
+      "oblast": "Europe",
+      "mesto": "San Maríno",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 156,
+      "tz_id": "Europe/Stockholm",
+      "oblast": "Europe",
+      "mesto": "Štokholm",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 157,
+      "tz_id": "Europe/Tirane",
+      "oblast": "Europe",
+      "mesto": "Tirana",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 158,
+      "tz_id": "Europe/Ulyanovsk",
+      "oblast": "Europe",
+      "mesto": "Uľjanovsk",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 159,
+      "tz_id": "Europe/Vatican",
+      "oblast": "Europe",
+      "mesto": "Vatikán",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 160,
+      "tz_id": "Europe/Vienna",
+      "oblast": "Europe",
+      "mesto": "Viedeň",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 161,
+      "tz_id": "Europe/Warsaw",
+      "oblast": "Europe",
+      "mesto": "Varšava",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 162,
+      "tz_id": "Europe/Zagreb",
+      "oblast": "Europe",
+      "mesto": "Záhreb",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 163,
+      "tz_id": "Europe/Zurich",
+      "oblast": "Europe",
+      "mesto": "Zürich",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 164,
+      "tz_id": "Indian/Christmas",
+      "oblast": "Indian",
+      "mesto": "Vianočný ostrov",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 165,
+      "tz_id": "Indian/Cocos",
+      "oblast": "Indian",
+      "mesto": "Kokosové ostrovy",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 166,
+      "tz_id": "Indian/Comoro",
+      "oblast": "Indian",
+      "mesto": "Komory",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 167,
+      "tz_id": "Indian/Kerguelen",
+      "oblast": "Indian",
+      "mesto": "Kergueleny",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 168,
+      "tz_id": "Indian/Mahe",
+      "oblast": "Indian",
+      "mesto": "Mahé",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 169,
+      "tz_id": "Indian/Maldives",
+      "oblast": "Indian",
+      "mesto": "Maldivy",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 170,
+      "tz_id": "Indian/Mauritius",
+      "oblast": "Indian",
+      "mesto": "Maurícius",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 171,
+      "tz_id": "Indian/Reunion",
+      "oblast": "Indian",
+      "mesto": "Réunion",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 172,
+      "tz_id": "Pacific/Easter",
+      "oblast": "Pacific",
+      "mesto": "Veľkonočný ostrov",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 173,
+      "tz_id": "Pacific/Enderbury",
+      "oblast": "Pacific",
+      "mesto": "Canton",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 174,
+      "tz_id": "Pacific/Fiji",
+      "oblast": "Pacific",
+      "mesto": "Fidži",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 175,
+      "tz_id": "Pacific/Galapagos",
+      "oblast": "Pacific",
+      "mesto": "Galapágy",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 176,
+      "tz_id": "Pacific/Honolulu",
+      "oblast": "Pacific",
+      "mesto": "Honolulu",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 177,
+      "tz_id": "Pacific/Marquesas",
+      "oblast": "Pacific",
+      "mesto": "Markézy",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 178,
+      "tz_id": "Pacific/Noumea",
+      "oblast": "Pacific",
+      "mesto": "Nouméa",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 179,
+      "tz_id": "Pacific/Ponape",
+      "oblast": "Pacific",
+      "mesto": "Pohnpei",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 180,
+      "tz_id": "Pacific/Truk",
+      "oblast": "Pacific",
+      "mesto": "Chuuk",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 181,
+      "tz_id": "Pacific/Wallis",
+      "oblast": "Pacific",
+      "mesto": "Wallis & Futuna",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    }
+  ],
+  "meta": {
+    "title": "Časové pásma sveta (IANA / CLDR slovenčina) - Bezplatné stiahnutie",
+    "description": "Identifikátory časových pásiem IANA a reprezentatívne názvy miest v slovenčine z locale sk v CLDR. 'oblast' je prvý segment identifikátora. Obsahuje 181 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Časové pásma sveta (IANA / CLDR slovenčina) | ListBase",
+    "seo_description": "Stiahnuť Časové pásma sveta (IANA / CLDR slovenčina) — 181 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 181 záznamov / 6 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

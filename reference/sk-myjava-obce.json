@@ -1,0 +1,346 @@
+{
+  "id": "sk-myjava-obce",
+  "name": "Obce v okrese Myjava",
+  "title": "Obce v okrese Myjava",
+  "description": "Všetky obce (municipality) v okrese Myjava, Trenčiansky kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 36,
+      "fullname": "Babulicov Vrch",
+      "shortname": "Babulicov Vrch",
+      "zip": "916 13",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 272,
+      "fullname": "Brestovec",
+      "shortname": "Brestovec",
+      "zip": "907 01",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 287,
+      "fullname": "Brezová pod Bradlom",
+      "shortname": "Brezová pod Bradlom",
+      "zip": "906 13",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 340,
+      "fullname": "Bukovec",
+      "shortname": "Bukovec",
+      "zip": "906 14",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1198,
+      "fullname": "Chvojnica",
+      "shortname": "Chvojnica",
+      "zip": "906 06",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 628,
+      "fullname": "Dolné Košariská",
+      "shortname": "Dolné Košariská",
+      "zip": "906 15",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 953,
+      "fullname": "Hodulov Vrch",
+      "shortname": "Hodulov Vrch",
+      "zip": "916 14",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1006,
+      "fullname": "Horné Košariská",
+      "shortname": "Horné Košariská",
+      "zip": "906 15",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1096,
+      "fullname": "Hrašné",
+      "shortname": "Hrašné",
+      "zip": "916 14",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1148,
+      "fullname": "Hurbanova Dolina",
+      "shortname": "Hurbanova Dolina",
+      "zip": "906 13",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1242,
+      "fullname": "Jablonka",
+      "shortname": "Jablonka",
+      "zip": "906 21",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1554,
+      "fullname": "Kostolné",
+      "shortname": "Kostolné",
+      "zip": "916 13",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1560,
+      "fullname": "Košariská",
+      "shortname": "Košariská",
+      "zip": "906 15",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1623,
+      "fullname": "Krajné",
+      "shortname": "Krajné",
+      "zip": "916 16",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1979,
+      "fullname": "Luskovica",
+      "shortname": "Luskovica",
+      "zip": "916 16",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2135,
+      "fullname": "Matejovec",
+      "shortname": "Matejovec",
+      "zip": "916 16",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2282,
+      "fullname": "Myjava",
+      "shortname": "Myjava",
+      "zip": 0,
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2708,
+      "fullname": "Podkylava",
+      "shortname": "Podkylava",
+      "zip": "916 16",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2725,
+      "fullname": "Podvrch",
+      "shortname": "Podvrch",
+      "zip": "916 16",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2743,
+      "fullname": "Polianka",
+      "shortname": "Polianka",
+      "zip": "907 01",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2768,
+      "fullname": "Poriadie",
+      "shortname": "Poriadie",
+      "zip": "906 22",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2835,
+      "fullname": "Priepasné",
+      "shortname": "Priepasné",
+      "zip": "906 15",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3030,
+      "fullname": "Rudník",
+      "shortname": "Rudník",
+      "zip": "906 23",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3271,
+      "fullname": "Stará Myjava",
+      "shortname": "Stará Myjava",
+      "zip": "907 01",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3628,
+      "fullname": "Turá Lúka",
+      "shortname": "Turá Lúka",
+      "zip": "907 03",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3939,
+      "fullname": "Vrbovce",
+      "shortname": "Vrbovce",
+      "zip": "906 06",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 4090,
+      "fullname": "Zbehy",
+      "shortname": "Zbehy",
+      "zip": "916 16",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 4160,
+      "fullname": "Žadovica",
+      "shortname": "Žadovica",
+      "zip": "916 16",
+      "district_id": 38,
+      "okres": "Myjava",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Myjava - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Myjava, Trenčiansky kraj — s PSČ a kódom okresu. Obsahuje 28 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Myjava | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Myjava — 28 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 28 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

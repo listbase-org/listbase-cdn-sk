@@ -1,0 +1,496 @@
+{
+  "id": "sk-ziar-nad-hronom-obce",
+  "name": "Obce v okrese Žiar nad Hronom",
+  "title": "Obce v okrese Žiar nad Hronom",
+  "description": "Všetky obce (municipality) v okrese Žiar nad Hronom, Banskobystrický kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 85,
+      "fullname": "Bartošova Lehôtka",
+      "shortname": "Bartošova Lehôtka",
+      "zip": "967 01",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 343,
+      "fullname": "Bukovina",
+      "shortname": "Bukovina",
+      "zip": "966 01",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 370,
+      "fullname": "Bzenica",
+      "shortname": "Bzenica",
+      "zip": "966 01",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 616,
+      "fullname": "Dolná Trnávka",
+      "shortname": "Dolná Trnávka",
+      "zip": "966 21",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 617,
+      "fullname": "Dolná Ves",
+      "shortname": "Dolná Ves",
+      "zip": "967 01",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 619,
+      "fullname": "Dolná Ždaňa",
+      "shortname": "Dolná Ždaňa",
+      "zip": "966 01",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 937,
+      "fullname": "Hliník nad Hronom",
+      "shortname": "Hliník nad Hronom",
+      "zip": "966 01",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 991,
+      "fullname": "Horná Trnávka",
+      "shortname": "Horná Trnávka",
+      "zip": "966 01",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 992,
+      "fullname": "Horná Ves",
+      "shortname": "Horná Ves",
+      "zip": "967 01",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 996,
+      "fullname": "Horná Ždaňa",
+      "shortname": "Horná Ždaňa",
+      "zip": "966 04",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1119,
+      "fullname": "Hronská Dúbrava",
+      "shortname": "Hronská Dúbrava",
+      "zip": "966 11",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1206,
+      "fullname": "Ihráč",
+      "shortname": "Ihráč",
+      "zip": "967 01",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1262,
+      "fullname": "Jalná",
+      "shortname": "Jalná",
+      "zip": "966 11",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1279,
+      "fullname": "Janova Lehota",
+      "shortname": "Janova Lehota",
+      "zip": "966 24",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1306,
+      "fullname": "Jastrabá",
+      "shortname": "Jastrabá",
+      "zip": "967 01",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1526,
+      "fullname": "Kopernica",
+      "shortname": "Kopernica",
+      "zip": "967 01",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1542,
+      "fullname": "Kosorín",
+      "shortname": "Kosorín",
+      "zip": "966 24",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1619,
+      "fullname": "Krahule",
+      "shortname": "Krahule",
+      "zip": "967 01",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1666,
+      "fullname": "Kremnica",
+      "shortname": "Kremnica",
+      "zip": "967 01",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1667,
+      "fullname": "Kremnické Bane",
+      "shortname": "Kremnické Bane",
+      "zip": "967 01",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1725,
+      "fullname": "Kunešov",
+      "shortname": "Kunešov",
+      "zip": "967 01",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1429,
+      "fullname": "Kľačany",
+      "shortname": "Kľačany",
+      "zip": "966 11",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1773,
+      "fullname": "Ladomerská Vieska",
+      "shortname": "Ladomerská Vieska",
+      "zip": "965 01",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1807,
+      "fullname": "Lehôtka pod Brehmi",
+      "shortname": "Lehôtka pod Brehmi",
+      "zip": "966 01",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1922,
+      "fullname": "Lovča",
+      "shortname": "Lovča",
+      "zip": "966 21",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1923,
+      "fullname": "Lovčica",
+      "shortname": "Lovčica",
+      "zip": "966 23",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1924,
+      "fullname": "Lovčica - Trubín",
+      "shortname": "Lovčica - Trubín",
+      "zip": "966 23",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1980,
+      "fullname": "Lutila",
+      "shortname": "Lutila",
+      "zip": "966 22",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1956,
+      "fullname": "Lúčky",
+      "shortname": "Lúčky",
+      "zip": "967 01",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2329,
+      "fullname": "Nevoľné",
+      "shortname": "Nevoľné",
+      "zip": "967 01",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2655,
+      "fullname": "Pitelová",
+      "shortname": "Pitelová",
+      "zip": "966 11",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2821,
+      "fullname": "Prestavlky",
+      "shortname": "Prestavlky",
+      "zip": "966 01",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2853,
+      "fullname": "Prochot",
+      "shortname": "Prochot",
+      "zip": "966 04",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2959,
+      "fullname": "Repište",
+      "shortname": "Repište",
+      "zip": "966 03",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3151,
+      "fullname": "Sklené Teplice",
+      "shortname": "Sklené Teplice",
+      "zip": "966 03",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3164,
+      "fullname": "Slaská",
+      "shortname": "Slaská",
+      "zip": "966 22",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3267,
+      "fullname": "Stará Kremnička",
+      "shortname": "Stará Kremnička",
+      "zip": "965 01",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3597,
+      "fullname": "Trnavá Hora",
+      "shortname": "Trnavá Hora",
+      "zip": "966 11",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3620,
+      "fullname": "Trubín",
+      "shortname": "Trubín",
+      "zip": "966 23",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3856,
+      "fullname": "Vieska",
+      "shortname": "Vieska",
+      "zip": "965 01",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3965,
+      "fullname": "Vyhne",
+      "shortname": "Vyhne",
+      "zip": "966 02",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3410,
+      "fullname": "Šášovské Podhradie",
+      "shortname": "Šášovské Podhradie",
+      "zip": "965 01",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4188,
+      "fullname": "Žiar nad Hronom",
+      "shortname": "Žiar nad Hronom",
+      "zip": "965 01",
+      "district_id": 78,
+      "okres": "Žiar nad Hronom",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Žiar nad Hronom - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Žiar nad Hronom, Banskobystrický kraj — s PSČ a kódom okresu. Obsahuje 43 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Žiar nad Hronom | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Žiar nad Hronom — 43 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 43 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

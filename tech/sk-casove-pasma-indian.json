@@ -1,0 +1,120 @@
+{
+  "id": "sk-casove-pasma-indian",
+  "name": "Časové pásma — Indian (8)",
+  "title": "Časové pásma — Indian (8)",
+  "description": "Časové pásma, ktorých identifikátor IANA sa začína 'Indian/', s názvami v slovenčine.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "mesto",
+      "label": "Mesto",
+      "type": "string"
+    },
+    {
+      "key": "standardny_nazov",
+      "label": "Standardny Nazov",
+      "type": "string"
+    },
+    {
+      "key": "letny_nazov",
+      "label": "Letny Nazov",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Indian/Christmas",
+      "oblast": "Indian",
+      "mesto": "Vianočný ostrov",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Indian/Cocos",
+      "oblast": "Indian",
+      "mesto": "Kokosové ostrovy",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Indian/Comoro",
+      "oblast": "Indian",
+      "mesto": "Komory",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Indian/Kerguelen",
+      "oblast": "Indian",
+      "mesto": "Kergueleny",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Indian/Mahe",
+      "oblast": "Indian",
+      "mesto": "Mahé",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Indian/Maldives",
+      "oblast": "Indian",
+      "mesto": "Maldivy",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Indian/Mauritius",
+      "oblast": "Indian",
+      "mesto": "Maurícius",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Indian/Reunion",
+      "oblast": "Indian",
+      "mesto": "Réunion",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    }
+  ],
+  "meta": {
+    "title": "Časové pásma — Indian (8) - Bezplatné stiahnutie",
+    "description": "Časové pásma, ktorých identifikátor IANA sa začína 'Indian/', s názvami v slovenčine. Obsahuje 8 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Časové pásma — Indian (8) | ListBase",
+    "seo_description": "Stiahnuť Časové pásma — Indian (8) — 8 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 8 záznamov / 6 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

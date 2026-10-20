@@ -1,0 +1,2126 @@
+{
+  "id": "sk-slovensko-a-ceskoslovensko-ms-supisky",
+  "name": "Súpisky Slovenska a Československa na MS vo futbale 1934–2010 (206)",
+  "title": "Súpisky Slovenska a Československa na MS vo futbale 1934–2010 (206)",
+  "description": "Nominácie hráčov (a tréner) Slovenska a Československa na záverečné turnaje MS vo futbale, 1934, 1938, 1954, 1958, 1962, 1970, 1982, 1990, 2010: číslo dresu, meno, post, dátum narodenia. Mená sú presne podľa zdroja (bez diakritiky, priezvisko veľkými písmenami). post_kod = GK/DF/MF/FW/MG zo zdroja; post = slovenský ekvivalent. Zdroj: more/RRRR_squads.txt z openfootball/worldcup (CC0). Počet hráčov na tím overený voči hlavičke \"# N Players\" zdroja.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 206,
+  "columns": [
+    {
+      "key": "rocnik",
+      "label": "Rocnik",
+      "type": "number"
+    },
+    {
+      "key": "reprezentacia",
+      "label": "Reprezentacia",
+      "type": "string"
+    },
+    {
+      "key": "cislo_dresu",
+      "label": "Cislo Dresu",
+      "type": "number"
+    },
+    {
+      "key": "meno",
+      "label": "Meno",
+      "type": "string"
+    },
+    {
+      "key": "post_kod",
+      "label": "Post Kod",
+      "type": "string"
+    },
+    {
+      "key": "post",
+      "label": "Post",
+      "type": "string"
+    },
+    {
+      "key": "datum_narodenia",
+      "label": "Datum Narodenia",
+      "type": "date"
+    },
+    {
+      "key": "narodnost_trenera",
+      "label": "Narodnost Trenera",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rocnik": 1934,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Cestmir PATZEL",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1914-12-02",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1934,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Frantisek PLANICKA",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1904-06-02",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1934,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Ladislav ZENISEK",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1904-03-07",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1934,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Josef CTYROKY",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1906-09-30",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1934,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Jaroslav BURGR",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1906-03-07",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1934,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Stefan CAMBAL",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1908-12-17",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1934,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Josef KOSTALEK",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1909-08-31",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1934,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Vlastimil KOPECKY",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1912-10-14",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1934,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Rudolf KRCIL",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1906-03-05",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1934,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Antonin VODICKA",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1907-03-01",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1934,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Jaroslav BOUCEK",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1912-11-13",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1934,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Frantisek JUNEK",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1907-01-17",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1934,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Josef SILNY",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1902-01-23",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1934,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Frantisek SVOBODA",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1905-07-05",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1934,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Oldrich NEJEDLY",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1909-12-26",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1934,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Jiri SOBOTKA",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1911-06-06",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1934,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Geza KALOCSAY",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1913-05-30",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1934,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Antonin PUC",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1907-05-16",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1934,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Karel PETRU",
+      "post_kod": "MG",
+      "post": "tréner",
+      "datum_narodenia": "1891-01-24",
+      "narodnost_trenera": "TCH"
+    },
+    {
+      "rocnik": 1938,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Karel BURKERT",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1909-12-01",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1938,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Frantisek PLANICKA",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1904-06-02",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1938,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Ferdinand DAUCIK",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1910-05-31",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1938,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Josef ORTH",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1916-05-20",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1938,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Jaroslav BURGR",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1906-03-07",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1938,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Jaroslav BOUCEK",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1912-11-13",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1938,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Vlastimil KOPECKY",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1912-10-14",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1938,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Josef KOSTALEK",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1909-08-31",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1938,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Otakar NOZIR",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1917-03-12",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1938,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Karel KOLSKY",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1914-09-21",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1938,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Pavel CERNY",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1910-02-01",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1938,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Ladislav SIMUNEK",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1916-10-04",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1938,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Vojtech BRADAC",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1913-10-06",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1938,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Karel SENECKY",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1919-03-17",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1938,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Oldrich RULC",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1911-03-28",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1938,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Jan RIHA",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1915-01-11",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1938,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Josef LUDL",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1916-06-03",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1938,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Arnost KREUZ",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1912-05-09",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1938,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Oldrich NEJEDLY",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1909-12-26",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1938,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Vaclav HORAK",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1912-09-27",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1938,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Antonin PUC",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1907-05-16",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1938,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Josef ZEMAN",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1915-01-23",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1938,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Vaclav MEISSNER",
+      "post_kod": "MG",
+      "post": "tréner",
+      "datum_narodenia": "1893-10-21",
+      "narodnost_trenera": "TCH"
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 1,
+      "meno": "Theodor REIMANN",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1921-02-10",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 21,
+      "meno": "Imrich STACHO",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1931-11-04",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 22,
+      "meno": "Viliam SCHROJF",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1931-08-02",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 2,
+      "meno": "Frantisek SAFRANEK",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1931-01-02",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 4,
+      "meno": "Ladislav NOVAK",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1931-12-05",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 5,
+      "meno": "Jiri TRNKA",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1926-12-02",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 12,
+      "meno": "Anton KRASNOHORSKY",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1925-10-22",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 3,
+      "meno": "Svatopluk PLUSKAL",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1930-10-28",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 6,
+      "meno": "Michal BENEDIKOVIC",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1923-05-31",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 13,
+      "meno": "Jiri HLEDIK",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1929-04-19",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 14,
+      "meno": "Jan HERTL",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1929-01-23",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 16,
+      "meno": "Zdenek PROCHAZKA",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1928-01-12",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 7,
+      "meno": "Vladislav HLAVACEK",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1925-06-26",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 8,
+      "meno": "Otto HEMELE",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1926-01-22",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 9,
+      "meno": "Anton MALATINSKY",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1920-01-15",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 10,
+      "meno": "Emil PAZICKY",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1927-10-14",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 11,
+      "meno": "Jiri PESEK",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1927-06-04",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 15,
+      "meno": "Ladislav KACANI",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1931-04-01",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 17,
+      "meno": "Tadeas KRAUS",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1932-10-22",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 18,
+      "meno": "Josef MAJER",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1925-06-08",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 19,
+      "meno": "Jaroslav KOSNAR",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1930-08-17",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 20,
+      "meno": "Kazimir GAJDOS",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1934-03-28",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Oldrich NEJEDLY",
+      "post_kod": "MG",
+      "post": "tréner",
+      "datum_narodenia": "1909-12-26",
+      "narodnost_trenera": "TCH"
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Josef CEJP",
+      "post_kod": "MG",
+      "post": "tréner",
+      "datum_narodenia": "1924-04-07",
+      "narodnost_trenera": "TCH"
+    },
+    {
+      "rocnik": 1954,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Karol BOHRY",
+      "post_kod": "MG",
+      "post": "tréner",
+      "datum_narodenia": "1912-06-23",
+      "narodnost_trenera": "TCH"
+    },
+    {
+      "rocnik": 1958,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 1,
+      "meno": "Imrich STACHO",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1931-11-04",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1958,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 19,
+      "meno": "Bretislav DOLEJSI",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1928-01-26",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1958,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 22,
+      "meno": "Viliam SCHROJF",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1931-08-02",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1958,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 2,
+      "meno": "Gustav MRAZ",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1934-09-11",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1958,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 4,
+      "meno": "Ladislav NOVAK",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1931-12-05",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1958,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 16,
+      "meno": "Jan POPLUHAR",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1935-08-12",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1958,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 17,
+      "meno": "Titus BUBERNIK",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1933-10-12",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1958,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 21,
+      "meno": "Frantisek SAFRANEK",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1931-01-02",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1958,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 3,
+      "meno": "Jiri CADEK",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1935-12-07",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1958,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 5,
+      "meno": "Josef MASOPUST",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1931-02-09",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1958,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 6,
+      "meno": "Svatopluk PLUSKAL",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1930-10-28",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1958,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 15,
+      "meno": "Jan HERTL",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1929-01-23",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1958,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 20,
+      "meno": "Anton MORAVCIK",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1931-06-03",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1958,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 7,
+      "meno": "Kazimir GAJDOS",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1934-03-28",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1958,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 8,
+      "meno": "Milan DVORAK",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1934-11-19",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1958,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 9,
+      "meno": "Pavol MOLNAR",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1936-02-13",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1958,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 10,
+      "meno": "Jaroslav BOROVICKA",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1931-01-26",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1958,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 11,
+      "meno": "Tadeas KRAUS",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1932-10-22",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1958,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 12,
+      "meno": "Zdenek ZIKAN",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1937-11-10",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1958,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 13,
+      "meno": "Vaclav HOVORKA",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1931-09-19",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1958,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 14,
+      "meno": "Jiri FEUREISL",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1931-10-03",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1958,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 18,
+      "meno": "Adolf SCHERER",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1938-05-05",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1958,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Karel KOLSKY",
+      "post_kod": "MG",
+      "post": "tréner",
+      "datum_narodenia": "1914-09-21",
+      "narodnost_trenera": "TCH"
+    },
+    {
+      "rocnik": 1962,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 1,
+      "meno": "Viliam SCHROJF",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1931-08-02",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1962,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 13,
+      "meno": "Frantisek SCHMUCKER",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1940-01-28",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1962,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 22,
+      "meno": "Pavel KOUBA",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1938-09-01",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1962,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 2,
+      "meno": "Jan LALA",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1936-09-10",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1962,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 3,
+      "meno": "Jan POPLUHAR",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1935-08-12",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1962,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 4,
+      "meno": "Ladislav NOVAK",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1931-12-05",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1962,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 5,
+      "meno": "Svatopluk PLUSKAL",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1930-10-28",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1962,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 12,
+      "meno": "Jiri TICHY",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1933-12-06",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1962,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 21,
+      "meno": "Josef BOMBA",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1939-03-30",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1962,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 6,
+      "meno": "Josef MASOPUST",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1931-02-09",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1962,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 7,
+      "meno": "Josef STIBRANYI",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1940-04-11",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1962,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 16,
+      "meno": "Titus BUBERNIK",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1933-10-12",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1962,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 19,
+      "meno": "Andrej KVASNAK",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1936-05-19",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1962,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 8,
+      "meno": "Adolf SCHERER",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1938-05-05",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1962,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 9,
+      "meno": "Pavol MOLNAR",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1936-02-13",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1962,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 10,
+      "meno": "Jozef ADAMEC",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1942-02-26",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1962,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 11,
+      "meno": "Josef JELINEK",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1942-01-09",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1962,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 14,
+      "meno": "Vaclav MASEK",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1941-03-21",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1962,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 15,
+      "meno": "Vladimir KOS",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1935-08-09",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1962,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 17,
+      "meno": "Tomas POSPICHAL",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1936-06-26",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1962,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 18,
+      "meno": "Josef KADRABA",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1933-09-29",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1962,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 20,
+      "meno": "Jaroslav BOROVICKA",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1931-01-26",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1962,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Rudolf VYTLACIL",
+      "post_kod": "MG",
+      "post": "tréner",
+      "datum_narodenia": "1912-02-09",
+      "narodnost_trenera": "TCH"
+    },
+    {
+      "rocnik": 1970,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 1,
+      "meno": "Ivo VIKTOR",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1942-05-21",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1970,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 13,
+      "meno": "Antonin FLESAR",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1944-05-08",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1970,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 22,
+      "meno": "Alexander VENCEL",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1944-02-08",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1970,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 2,
+      "meno": "Karol DOBIAS",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1947-12-18",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1970,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 3,
+      "meno": "Vaclav MIGAS",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1944-09-16",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1970,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 4,
+      "meno": "Vladimir HAGARA",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1943-11-07",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1970,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 5,
+      "meno": "Alexander HORVATH",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1938-12-28",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1970,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 12,
+      "meno": "Jan PIVARNIK",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1947-11-13",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1970,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 14,
+      "meno": "Vladimir HRIVNAK",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1945-04-23",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1970,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 15,
+      "meno": "Jan ZLOCHA",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1942-03-24",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1970,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 6,
+      "meno": "Andrej KVASNAK",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1936-05-19",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1970,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 7,
+      "meno": "Bohumil VESELY",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1945-06-18",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1970,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 9,
+      "meno": "Ladislav KUNA",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1947-04-03",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1970,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 16,
+      "meno": "Ivan HRDLICKA",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1943-11-20",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1970,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 17,
+      "meno": "Jaroslav POLLAK",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1947-07-11",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1970,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 18,
+      "meno": "Frantisek VESELY",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1943-12-07",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1970,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 8,
+      "meno": "Ladislav PETRAS",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1946-12-01",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1970,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 10,
+      "meno": "Jozef ADAMEC",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1942-02-26",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1970,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 11,
+      "meno": "Karol JOKL",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1945-08-29",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1970,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 19,
+      "meno": "Jozef JURKANIN",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1949-03-05",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1970,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 20,
+      "meno": "Milan ALBRECHT",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1950-07-16",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1970,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 21,
+      "meno": "Jozef CAPKOVIC",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1948-01-11",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1970,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Jozef MARKO",
+      "post_kod": "MG",
+      "post": "tréner",
+      "datum_narodenia": "1923-05-25",
+      "narodnost_trenera": "TCH"
+    },
+    {
+      "rocnik": 1982,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 1,
+      "meno": "Stanislav SEMAN",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1952-08-08",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1982,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 21,
+      "meno": "Zdenek HRUSKA",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1954-07-25",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1982,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 22,
+      "meno": "Karel STROMSIK",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1958-04-12",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1982,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 2,
+      "meno": "Frantisek JAKUBEC",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1956-04-12",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1982,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 3,
+      "meno": "Jan FIALA",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1956-05-19",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1982,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 4,
+      "meno": "Ladislav JURKEMIK",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1953-07-20",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1982,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 5,
+      "meno": "Jozef BARMOS",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1954-08-28",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1982,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 6,
+      "meno": "Rostilav VOJACEK",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1949-02-23",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1982,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 14,
+      "meno": "Libor RADIMEC",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1950-05-22",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1982,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 15,
+      "meno": "Jozef KUKUCKA",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1957-03-13",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1982,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 7,
+      "meno": "Jan KOZAK",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1954-04-17",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1982,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 8,
+      "meno": "Antonin PANENKA",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1948-12-02",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1982,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 12,
+      "meno": "Premysl BICOVSKY",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1950-08-18",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1982,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 13,
+      "meno": "Jan BERGER",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1955-11-27",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1982,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 16,
+      "meno": "Pavel CHALOUPKA",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1959-05-04",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1982,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 17,
+      "meno": "Frantisek STAMBACHER",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1953-02-13",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1982,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 9,
+      "meno": "Ladislav VIZEK",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1955-01-22",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1982,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 10,
+      "meno": "Tomas KRIZ",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1959-03-17",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1982,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 11,
+      "meno": "Zdenek NEHODA",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1952-05-09",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1982,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 18,
+      "meno": "Petr JANECKA",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1957-11-25",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1982,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 19,
+      "meno": "Marian MASNY",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1950-08-13",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1982,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 20,
+      "meno": "Vlastimil PETRZELA",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1953-07-20",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1982,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Jozef VENGLOS",
+      "post_kod": "MG",
+      "post": "tréner",
+      "datum_narodenia": "1936-02-18",
+      "narodnost_trenera": "SVK"
+    },
+    {
+      "rocnik": 1990,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 1,
+      "meno": "Jan STEJSKAL",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1962-01-15",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1990,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 21,
+      "meno": "Ludek MIKLOSKO",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1961-12-09",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1990,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 22,
+      "meno": "Peter PALUCH",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1958-02-17",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1990,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 2,
+      "meno": "Julius BIELIK",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1962-03-08",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1990,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 3,
+      "meno": "Miroslav KADLEC",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1964-06-22",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1990,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 5,
+      "meno": "Jan KOCIAN",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1958-03-13",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1990,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 6,
+      "meno": "Frantisek STRAKA",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1958-05-28",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1990,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 7,
+      "meno": "Michal BILEK",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1965-04-13",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1990,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 12,
+      "meno": "Peter FIEBER",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1964-05-16",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1990,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 15,
+      "meno": "Vladimir KINIER",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1958-04-06",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1990,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 4,
+      "meno": "Ivan HASEK",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1963-09-06",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1990,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 8,
+      "meno": "Jozef CHOVANEC",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1960-03-07",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1990,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 9,
+      "meno": "Lubos KUBIK",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1964-01-20",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1990,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 11,
+      "meno": "Lubomir MORAVCIK",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1965-06-22",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1990,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 13,
+      "meno": "Jiri NEMEC",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1966-05-15",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1990,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 14,
+      "meno": "Vladimir WEISS",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1964-09-22",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1990,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 16,
+      "meno": "Viliam HYRAVY",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1962-11-26",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1990,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 20,
+      "meno": "Vaclav NEMECEK",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1967-01-25",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1990,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 10,
+      "meno": "Tomas SKUHRAVY",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1965-09-07",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1990,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 17,
+      "meno": "Ivo KNOFLICEK",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1962-02-23",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1990,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 18,
+      "meno": "Milan LUHOVY",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1963-01-01",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1990,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": 19,
+      "meno": "Stanislav GRIGA",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1961-11-04",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 1990,
+      "reprezentacia": "Czechoslovakia",
+      "cislo_dresu": "",
+      "meno": "Jozef VENGLOS",
+      "post_kod": "MG",
+      "post": "tréner",
+      "datum_narodenia": "1936-02-18",
+      "narodnost_trenera": "SVK"
+    },
+    {
+      "rocnik": 2010,
+      "reprezentacia": "Slovakia",
+      "cislo_dresu": 1,
+      "meno": "Ján MUCHA",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1982-12-05",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 2010,
+      "reprezentacia": "Slovakia",
+      "cislo_dresu": 12,
+      "meno": "Dusan PERNIS",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1984-11-28",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 2010,
+      "reprezentacia": "Slovakia",
+      "cislo_dresu": 23,
+      "meno": "Dusan KUCIAK",
+      "post_kod": "GK",
+      "post": "brankár",
+      "datum_narodenia": "1985-05-21",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 2010,
+      "reprezentacia": "Slovakia",
+      "cislo_dresu": 2,
+      "meno": "Peter PEKARIK",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1986-10-30",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 2010,
+      "reprezentacia": "Slovakia",
+      "cislo_dresu": 3,
+      "meno": "Martin SKRTEL",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1984-12-15",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 2010,
+      "reprezentacia": "Slovakia",
+      "cislo_dresu": 4,
+      "meno": "Marek CECH",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1983-01-26",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 2010,
+      "reprezentacia": "Slovakia",
+      "cislo_dresu": 5,
+      "meno": "Radoslav ZABAVNIK",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1980-09-16",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 2010,
+      "reprezentacia": "Slovakia",
+      "cislo_dresu": 16,
+      "meno": "Jan DURICA",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1981-12-10",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 2010,
+      "reprezentacia": "Slovakia",
+      "cislo_dresu": 21,
+      "meno": "Kornel SALATA",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1985-01-24",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 2010,
+      "reprezentacia": "Slovakia",
+      "cislo_dresu": 22,
+      "meno": "Martin PETRAS",
+      "post_kod": "DF",
+      "post": "obranca",
+      "datum_narodenia": "1979-11-02",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 2010,
+      "reprezentacia": "Slovakia",
+      "cislo_dresu": 6,
+      "meno": "Zdenko STRBA",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1976-06-09",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 2010,
+      "reprezentacia": "Slovakia",
+      "cislo_dresu": 7,
+      "meno": "Vladimir WEISS",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1989-11-30",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 2010,
+      "reprezentacia": "Slovakia",
+      "cislo_dresu": 8,
+      "meno": "Jan KOZAK",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1980-04-22",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 2010,
+      "reprezentacia": "Slovakia",
+      "cislo_dresu": 10,
+      "meno": "Marek SAPARA",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1982-07-31",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 2010,
+      "reprezentacia": "Slovakia",
+      "cislo_dresu": 15,
+      "meno": "Miroslav STOCH",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1989-10-19",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 2010,
+      "reprezentacia": "Slovakia",
+      "cislo_dresu": 17,
+      "meno": "Marek HAMSIK",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1987-07-27",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 2010,
+      "reprezentacia": "Slovakia",
+      "cislo_dresu": 19,
+      "meno": "Juraj Kucka",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1987-02-26",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 2010,
+      "reprezentacia": "Slovakia",
+      "cislo_dresu": 20,
+      "meno": "Kamil KOPUNEK",
+      "post_kod": "MF",
+      "post": "záložník",
+      "datum_narodenia": "1984-05-18",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 2010,
+      "reprezentacia": "Slovakia",
+      "cislo_dresu": 9,
+      "meno": "Stanislav ŠESTÁK",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1982-12-16",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 2010,
+      "reprezentacia": "Slovakia",
+      "cislo_dresu": 11,
+      "meno": "Róbert VITTEK",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1982-04-01",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 2010,
+      "reprezentacia": "Slovakia",
+      "cislo_dresu": 13,
+      "meno": "Filip HOLOSKO",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1984-01-17",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 2010,
+      "reprezentacia": "Slovakia",
+      "cislo_dresu": 14,
+      "meno": "Martin JAKUBKO",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1980-02-26",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 2010,
+      "reprezentacia": "Slovakia",
+      "cislo_dresu": 18,
+      "meno": "Erik Jendrišek",
+      "post_kod": "FW",
+      "post": "útočník",
+      "datum_narodenia": "1986-10-26",
+      "narodnost_trenera": ""
+    },
+    {
+      "rocnik": 2010,
+      "reprezentacia": "Slovakia",
+      "cislo_dresu": "",
+      "meno": "Vladimir Weiss",
+      "post_kod": "MG",
+      "post": "tréner",
+      "datum_narodenia": "1964-09-22",
+      "narodnost_trenera": "SVK"
+    }
+  ],
+  "meta": {
+    "title": "Súpisky Slovenska a Československa na MS vo futbale 1934–2010 (206) - Bezplatné stiahnutie",
+    "description": "Nominácie hráčov (a tréner) Slovenska a Československa na záverečné turnaje MS vo futbale, 1934, 1938, 1954, 1958, 1962, 1970, 1982, 1990, 2010: číslo dresu, meno, post, dátum narodenia. Mená sú presne podľa zdroja (bez diakritiky, priezvisko veľkými písmenami). post_kod = GK/DF/MF/FW/MG zo zdroja; post = slovenský ekvivalent. Zdroj: more/RRRR_squads.txt z openfootball/worldcup (CC0). Počet hráčov na tím overený voči hlavičke \"# N Players\" zdroja. Obsahuje 206 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Súpisky Slovenska a Československa na MS vo futbale 1934–2010 (206) | ListBase",
+    "seo_description": "Stiahnuť Súpisky Slovenska a Československa na MS vo futbale 1934–2010 (206) — 206 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 206 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

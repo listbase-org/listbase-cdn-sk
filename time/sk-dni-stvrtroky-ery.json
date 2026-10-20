@@ -1,0 +1,219 @@
+{
+  "id": "sk-dni-stvrtroky-ery",
+  "name": "Dni, štvrťroky, časti dňa a éry — názvy v slovenčine (CLDR)",
+  "title": "Dni, štvrťroky, časti dňa a éry — názvy v slovenčine (CLDR)",
+  "description": "Názvy dní, štvrťrokov, častí dňa a ér gregoriánskeho kalendára v slovenčine z locale sk v CLDR.",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "typ",
+      "label": "Typ",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "skratka",
+      "label": "Skratka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "typ": "den",
+      "code": "sun",
+      "nazov": "nedeľa",
+      "skratka": "ne"
+    },
+    {
+      "id": 2,
+      "typ": "den",
+      "code": "mon",
+      "nazov": "pondelok",
+      "skratka": "po"
+    },
+    {
+      "id": 3,
+      "typ": "den",
+      "code": "tue",
+      "nazov": "utorok",
+      "skratka": "ut"
+    },
+    {
+      "id": 4,
+      "typ": "den",
+      "code": "wed",
+      "nazov": "streda",
+      "skratka": "st"
+    },
+    {
+      "id": 5,
+      "typ": "den",
+      "code": "thu",
+      "nazov": "štvrtok",
+      "skratka": "št"
+    },
+    {
+      "id": 6,
+      "typ": "den",
+      "code": "fri",
+      "nazov": "piatok",
+      "skratka": "pi"
+    },
+    {
+      "id": 7,
+      "typ": "den",
+      "code": "sat",
+      "nazov": "sobota",
+      "skratka": "so"
+    },
+    {
+      "id": 8,
+      "typ": "stvrtrok",
+      "code": "1",
+      "nazov": "1. štvrťrok",
+      "skratka": "Q1"
+    },
+    {
+      "id": 9,
+      "typ": "stvrtrok",
+      "code": "2",
+      "nazov": "2. štvrťrok",
+      "skratka": "Q2"
+    },
+    {
+      "id": 10,
+      "typ": "stvrtrok",
+      "code": "3",
+      "nazov": "3. štvrťrok",
+      "skratka": "Q3"
+    },
+    {
+      "id": 11,
+      "typ": "stvrtrok",
+      "code": "4",
+      "nazov": "4. štvrťrok",
+      "skratka": "Q4"
+    },
+    {
+      "id": 12,
+      "typ": "cast_dna",
+      "code": "midnight",
+      "nazov": "o polnoci",
+      "skratka": "o poln."
+    },
+    {
+      "id": 13,
+      "typ": "cast_dna",
+      "code": "am",
+      "nazov": "AM",
+      "skratka": "AM"
+    },
+    {
+      "id": 14,
+      "typ": "cast_dna",
+      "code": "noon",
+      "nazov": "napoludnie",
+      "skratka": "napol."
+    },
+    {
+      "id": 15,
+      "typ": "cast_dna",
+      "code": "pm",
+      "nazov": "PM",
+      "skratka": "PM"
+    },
+    {
+      "id": 16,
+      "typ": "cast_dna",
+      "code": "morning1",
+      "nazov": "ráno",
+      "skratka": "ráno"
+    },
+    {
+      "id": 17,
+      "typ": "cast_dna",
+      "code": "morning2",
+      "nazov": "dopoludnia",
+      "skratka": "dopol."
+    },
+    {
+      "id": 18,
+      "typ": "cast_dna",
+      "code": "afternoon1",
+      "nazov": "popoludní",
+      "skratka": "popol."
+    },
+    {
+      "id": 19,
+      "typ": "cast_dna",
+      "code": "evening1",
+      "nazov": "večer",
+      "skratka": "večer"
+    },
+    {
+      "id": 20,
+      "typ": "cast_dna",
+      "code": "night1",
+      "nazov": "v noci",
+      "skratka": "v noci"
+    },
+    {
+      "id": 21,
+      "typ": "era",
+      "code": "0",
+      "nazov": "pred Kristom",
+      "skratka": "pred Kr."
+    },
+    {
+      "id": 22,
+      "typ": "era",
+      "code": "0-alt-variant",
+      "nazov": "pred naším letopočtom",
+      "skratka": "pred n. l."
+    },
+    {
+      "id": 23,
+      "typ": "era",
+      "code": "1",
+      "nazov": "po Kristovi",
+      "skratka": "po Kr."
+    },
+    {
+      "id": 24,
+      "typ": "era",
+      "code": "1-alt-variant",
+      "nazov": "nášho letopočtu",
+      "skratka": "n. l."
+    }
+  ],
+  "meta": {
+    "title": "Dni, štvrťroky, časti dňa a éry — názvy v slovenčine (CLDR) - Bezplatné stiahnutie",
+    "description": "Názvy dní, štvrťrokov, častí dňa a ér gregoriánskeho kalendára v slovenčine z locale sk v CLDR. Obsahuje 24 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Dni, štvrťroky, časti dňa a éry — názvy v slovenčine (CLDR) | ListBase",
+    "seo_description": "Stiahnuť Dni, štvrťroky, časti dňa a éry — názvy v slovenčine (CLDR) — 24 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 24 záznamov / 5 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

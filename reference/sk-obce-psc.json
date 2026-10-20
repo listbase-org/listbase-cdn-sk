@@ -1,0 +1,5120 @@
+{
+  "id": "sk-obce-psc",
+  "name": "Slovenské obce s PSČ",
+  "title": "Slovenské obce s PSČ",
+  "description": "Slovak municipalities with postal codes",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1271,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "postalCodes",
+      "label": "PostalCodes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Abrahám",
+      "postalCodes": "92545"
+    },
+    {
+      "name": "Alekšince",
+      "postalCodes": "95122"
+    },
+    {
+      "name": "Andovce",
+      "postalCodes": "94123"
+    },
+    {
+      "name": "Badín",
+      "postalCodes": "97632"
+    },
+    {
+      "name": "Bajerov",
+      "postalCodes": "08241"
+    },
+    {
+      "name": "Bajč",
+      "postalCodes": "94654"
+    },
+    {
+      "name": "Baka",
+      "postalCodes": "93004"
+    },
+    {
+      "name": "Balog nad Ipľom",
+      "postalCodes": "99111"
+    },
+    {
+      "name": "Banská Belá",
+      "postalCodes": "96615"
+    },
+    {
+      "name": "Banská Bystrica",
+      "postalCodes": "97405, 97401, 97411, 97404, 97409"
+    },
+    {
+      "name": "Banská Štiavnica",
+      "postalCodes": "96901"
+    },
+    {
+      "name": "Bardejov",
+      "postalCodes": "08501"
+    },
+    {
+      "name": "Bardejovské Kúpele",
+      "postalCodes": "08631"
+    },
+    {
+      "name": "Bardejovské kúpele",
+      "postalCodes": "08631"
+    },
+    {
+      "name": "Bardoňovo",
+      "postalCodes": "94149"
+    },
+    {
+      "name": "Batizovce",
+      "postalCodes": "05935"
+    },
+    {
+      "name": "Bačkov",
+      "postalCodes": "07661"
+    },
+    {
+      "name": "Baškovce",
+      "postalCodes": "06723"
+    },
+    {
+      "name": "Becherov",
+      "postalCodes": "08635"
+    },
+    {
+      "name": "Beckov",
+      "postalCodes": "91638"
+    },
+    {
+      "name": "Beharovce",
+      "postalCodes": "05305"
+    },
+    {
+      "name": "Beladice",
+      "postalCodes": "95175"
+    },
+    {
+      "name": "Beluša",
+      "postalCodes": "01861"
+    },
+    {
+      "name": "Belá",
+      "postalCodes": "01305"
+    },
+    {
+      "name": "Belá nad Cirochou",
+      "postalCodes": "06781"
+    },
+    {
+      "name": "Belá-Dulice",
+      "postalCodes": "03811"
+    },
+    {
+      "name": "Bernolákovo",
+      "postalCodes": "90027"
+    },
+    {
+      "name": "Betliar",
+      "postalCodes": "04921"
+    },
+    {
+      "name": "Beňuš",
+      "postalCodes": "97664"
+    },
+    {
+      "name": "Beša",
+      "postalCodes": "93536"
+    },
+    {
+      "name": "Bešeňov",
+      "postalCodes": "94141"
+    },
+    {
+      "name": "Bežovce",
+      "postalCodes": "07253"
+    },
+    {
+      "name": "Bidovce",
+      "postalCodes": "04445"
+    },
+    {
+      "name": "Biel",
+      "postalCodes": "07641"
+    },
+    {
+      "name": "Biely Kostol",
+      "postalCodes": "91934"
+    },
+    {
+      "name": "Bijacovce",
+      "postalCodes": "05306"
+    },
+    {
+      "name": "Blahová",
+      "postalCodes": "93052"
+    },
+    {
+      "name": "Blatnica",
+      "postalCodes": "03815"
+    },
+    {
+      "name": "Blatná na Ostrove",
+      "postalCodes": "93032"
+    },
+    {
+      "name": "Blatné",
+      "postalCodes": "90082"
+    },
+    {
+      "name": "Blatné Remety",
+      "postalCodes": "07244"
+    },
+    {
+      "name": "Blhovce",
+      "postalCodes": "98032"
+    },
+    {
+      "name": "Bobot",
+      "postalCodes": "91325"
+    },
+    {
+      "name": "Bobrov",
+      "postalCodes": "02942"
+    },
+    {
+      "name": "Bobrovec",
+      "postalCodes": "03221"
+    },
+    {
+      "name": "Bodza",
+      "postalCodes": "94616"
+    },
+    {
+      "name": "Bohdanovce",
+      "postalCodes": "04416"
+    },
+    {
+      "name": "Bohdanovce nad Trnavou",
+      "postalCodes": "91909"
+    },
+    {
+      "name": "Bojnice",
+      "postalCodes": "97201"
+    },
+    {
+      "name": "Bojničky",
+      "postalCodes": "92055"
+    },
+    {
+      "name": "Bojná",
+      "postalCodes": "95601"
+    },
+    {
+      "name": "Boleráz",
+      "postalCodes": "91908"
+    },
+    {
+      "name": "Bolešov",
+      "postalCodes": "01853"
+    },
+    {
+      "name": "Borinka",
+      "postalCodes": "90032"
+    },
+    {
+      "name": "Borovce",
+      "postalCodes": "92209"
+    },
+    {
+      "name": "Borský Mikuláš",
+      "postalCodes": "90877"
+    },
+    {
+      "name": "Borský Svätý Jur",
+      "postalCodes": "90879"
+    },
+    {
+      "name": "Borša",
+      "postalCodes": "07632"
+    },
+    {
+      "name": "Boľ",
+      "postalCodes": "07653"
+    },
+    {
+      "name": "Bošany",
+      "postalCodes": "95618"
+    },
+    {
+      "name": "Bošáca",
+      "postalCodes": "91307"
+    },
+    {
+      "name": "Bracovce",
+      "postalCodes": "07205"
+    },
+    {
+      "name": "Branč",
+      "postalCodes": "95113"
+    },
+    {
+      "name": "Bratislava",
+      "postalCodes": "84107, 81107, 81108, 81109, 82106, 85104, 84105, 84101, 85110, 83102, 83106, 82103, 82105, 82109, 83107, 82107, 85102, 83101, 82104, 81106, 85101, 81105, 85107, 84106, 82102, 82101, 83153, 84110, 82108, 83006, 83104, 84103, 81104, 84104, 81102, 81103, 81101, 85106, 84102, 84108, 85105, 83103, 83152, 83154, 83151, 85103, 84009, 84002, 83000, 85009, 83155, 83005, 83007, 85000, 84008"
+    },
+    {
+      "name": "Brestovany",
+      "postalCodes": "91927"
+    },
+    {
+      "name": "Breza",
+      "postalCodes": "02953"
+    },
+    {
+      "name": "Breznička",
+      "postalCodes": "98502"
+    },
+    {
+      "name": "Brezno",
+      "postalCodes": "97703, 97701"
+    },
+    {
+      "name": "Brezovica nad Torysou",
+      "postalCodes": "08274"
+    },
+    {
+      "name": "Brezová pod Bradlom",
+      "postalCodes": "90613"
+    },
+    {
+      "name": "Brodské",
+      "postalCodes": "90885"
+    },
+    {
+      "name": "Brodzany",
+      "postalCodes": "95842"
+    },
+    {
+      "name": "Brusno",
+      "postalCodes": "97662"
+    },
+    {
+      "name": "Brutovce",
+      "postalCodes": "05373"
+    },
+    {
+      "name": "Bruty",
+      "postalCodes": "94355"
+    },
+    {
+      "name": "Brvnište",
+      "postalCodes": "01812"
+    },
+    {
+      "name": "Brzotín",
+      "postalCodes": "04951"
+    },
+    {
+      "name": "Budimír",
+      "postalCodes": "04443"
+    },
+    {
+      "name": "Budkovce",
+      "postalCodes": "07215"
+    },
+    {
+      "name": "Budmerice",
+      "postalCodes": "90086"
+    },
+    {
+      "name": "Budča",
+      "postalCodes": "96233"
+    },
+    {
+      "name": "Bukovce",
+      "postalCodes": "09022"
+    },
+    {
+      "name": "Bukovec",
+      "postalCodes": "90614"
+    },
+    {
+      "name": "Buková",
+      "postalCodes": "91910"
+    },
+    {
+      "name": "Buzica",
+      "postalCodes": "04473"
+    },
+    {
+      "name": "Bučany",
+      "postalCodes": "91928"
+    },
+    {
+      "name": "Bušince",
+      "postalCodes": "99122"
+    },
+    {
+      "name": "Bušovce",
+      "postalCodes": "05993"
+    },
+    {
+      "name": "Bystrany",
+      "postalCodes": "05362"
+    },
+    {
+      "name": "Bystričany",
+      "postalCodes": "97245"
+    },
+    {
+      "name": "Bystrička",
+      "postalCodes": "03804"
+    },
+    {
+      "name": "Bystré nad Topľou",
+      "postalCodes": "09434"
+    },
+    {
+      "name": "Bytča",
+      "postalCodes": "01401"
+    },
+    {
+      "name": "Bzenov",
+      "postalCodes": "08242"
+    },
+    {
+      "name": "Bzince pod Javorinou",
+      "postalCodes": "91611"
+    },
+    {
+      "name": "Bzovík",
+      "postalCodes": "96241"
+    },
+    {
+      "name": "Báb",
+      "postalCodes": "95134"
+    },
+    {
+      "name": "Báhoň",
+      "postalCodes": "90084"
+    },
+    {
+      "name": "Bánov",
+      "postalCodes": "94101"
+    },
+    {
+      "name": "Bánovce nad Bebravou",
+      "postalCodes": "95701, 95704, 95703"
+    },
+    {
+      "name": "Bátka",
+      "postalCodes": "98021"
+    },
+    {
+      "name": "Bátorove Kosihy",
+      "postalCodes": "94634"
+    },
+    {
+      "name": "Bátovce",
+      "postalCodes": "93503"
+    },
+    {
+      "name": "Bíňa",
+      "postalCodes": "94356"
+    },
+    {
+      "name": "Bíňovce",
+      "postalCodes": "91907"
+    },
+    {
+      "name": "Búč",
+      "postalCodes": "94635"
+    },
+    {
+      "name": "Cabaj-Čápor",
+      "postalCodes": "95117"
+    },
+    {
+      "name": "Cejkov",
+      "postalCodes": "07605"
+    },
+    {
+      "name": "Cernina",
+      "postalCodes": "09016"
+    },
+    {
+      "name": "Cerovo",
+      "postalCodes": "96252"
+    },
+    {
+      "name": "Cerová",
+      "postalCodes": "90633"
+    },
+    {
+      "name": "Chlmec",
+      "postalCodes": "06741"
+    },
+    {
+      "name": "Chmeľov",
+      "postalCodes": "08215"
+    },
+    {
+      "name": "Chminianska Nová Ves",
+      "postalCodes": "08233"
+    },
+    {
+      "name": "Chocholná-Velčice",
+      "postalCodes": "91304"
+    },
+    {
+      "name": "Chorvátsky Grob",
+      "postalCodes": "90025"
+    },
+    {
+      "name": "Chotín",
+      "postalCodes": "94631"
+    },
+    {
+      "name": "Chotča",
+      "postalCodes": "09021"
+    },
+    {
+      "name": "Choňkovce",
+      "postalCodes": "07263"
+    },
+    {
+      "name": "Chrenovec",
+      "postalCodes": "97232"
+    },
+    {
+      "name": "Chropov",
+      "postalCodes": "90864"
+    },
+    {
+      "name": "Chtelnica",
+      "postalCodes": "92205"
+    },
+    {
+      "name": "Chynorany",
+      "postalCodes": "95633"
+    },
+    {
+      "name": "Cinobaňa",
+      "postalCodes": "98522"
+    },
+    {
+      "name": "Cífer",
+      "postalCodes": "91943"
+    },
+    {
+      "name": "Dačov Lom",
+      "postalCodes": "99135"
+    },
+    {
+      "name": "Dechtice",
+      "postalCodes": "91953"
+    },
+    {
+      "name": "Dedinka",
+      "postalCodes": "94150"
+    },
+    {
+      "name": "Dedinky",
+      "postalCodes": "04973"
+    },
+    {
+      "name": "Demandice",
+      "postalCodes": "93585"
+    },
+    {
+      "name": "Detva",
+      "postalCodes": "96212"
+    },
+    {
+      "name": "Diakovce",
+      "postalCodes": "92581"
+    },
+    {
+      "name": "Diviacka Nová Ves",
+      "postalCodes": "97224"
+    },
+    {
+      "name": "Diviaky nad Nitricou",
+      "postalCodes": "97225"
+    },
+    {
+      "name": "Divina",
+      "postalCodes": "01331"
+    },
+    {
+      "name": "Divín",
+      "postalCodes": "98552"
+    },
+    {
+      "name": "Dlhá Ves",
+      "postalCodes": "04955"
+    },
+    {
+      "name": "Dlhá nad Oravou",
+      "postalCodes": "02755"
+    },
+    {
+      "name": "Dlhé Pole",
+      "postalCodes": "01332"
+    },
+    {
+      "name": "Dlhé nad Cirochou",
+      "postalCodes": "06782"
+    },
+    {
+      "name": "Dobrá Niva",
+      "postalCodes": "96261"
+    },
+    {
+      "name": "Dobrá Voda",
+      "postalCodes": "91954"
+    },
+    {
+      "name": "Dobšinská Ľadová Jaskyňa",
+      "postalCodes": "04971"
+    },
+    {
+      "name": "Dobšiná",
+      "postalCodes": "04925"
+    },
+    {
+      "name": "Dohňany",
+      "postalCodes": "02051"
+    },
+    {
+      "name": "Dojč",
+      "postalCodes": "90602"
+    },
+    {
+      "name": "Dolná Krupá",
+      "postalCodes": "91965"
+    },
+    {
+      "name": "Dolná Mariková",
+      "postalCodes": "01802"
+    },
+    {
+      "name": "Dolná Seč",
+      "postalCodes": "93531"
+    },
+    {
+      "name": "Dolná Streda",
+      "postalCodes": "92563"
+    },
+    {
+      "name": "Dolná Strehová",
+      "postalCodes": "99102"
+    },
+    {
+      "name": "Dolná Súča",
+      "postalCodes": "91332"
+    },
+    {
+      "name": "Dolná Tižina",
+      "postalCodes": "01304"
+    },
+    {
+      "name": "Dolné Dubové",
+      "postalCodes": "91952"
+    },
+    {
+      "name": "Dolné Orešany",
+      "postalCodes": "91902"
+    },
+    {
+      "name": "Dolné Plachtince",
+      "postalCodes": "99124"
+    },
+    {
+      "name": "Dolné Saliby",
+      "postalCodes": "92502"
+    },
+    {
+      "name": "Dolné Srnie",
+      "postalCodes": "91641"
+    },
+    {
+      "name": "Dolné Trhovište",
+      "postalCodes": "92061"
+    },
+    {
+      "name": "Dolné Vestenice",
+      "postalCodes": "97223"
+    },
+    {
+      "name": "Dolný Bar",
+      "postalCodes": "93014"
+    },
+    {
+      "name": "Dolný Hričov",
+      "postalCodes": "01341"
+    },
+    {
+      "name": "Dolný Kubín",
+      "postalCodes": "02601"
+    },
+    {
+      "name": "Dolný Lieskov",
+      "postalCodes": "01821"
+    },
+    {
+      "name": "Dolný Lopašov",
+      "postalCodes": "92204"
+    },
+    {
+      "name": "Dolný Ohaj",
+      "postalCodes": "94143"
+    },
+    {
+      "name": "Dolný Pial",
+      "postalCodes": "93537"
+    },
+    {
+      "name": "Dolný Smokovec",
+      "postalCodes": "05981"
+    },
+    {
+      "name": "Dolný Štál",
+      "postalCodes": "93010"
+    },
+    {
+      "name": "Domaniža",
+      "postalCodes": "01816"
+    },
+    {
+      "name": "Donovaly",
+      "postalCodes": "97639"
+    },
+    {
+      "name": "Doľany",
+      "postalCodes": "90088"
+    },
+    {
+      "name": "Drahovce",
+      "postalCodes": "92241"
+    },
+    {
+      "name": "Drahňov",
+      "postalCodes": "07674"
+    },
+    {
+      "name": "Dražkovce",
+      "postalCodes": "03802"
+    },
+    {
+      "name": "Drienov",
+      "postalCodes": "08204"
+    },
+    {
+      "name": "Drienovec",
+      "postalCodes": "04401"
+    },
+    {
+      "name": "Drietoma",
+      "postalCodes": "91303"
+    },
+    {
+      "name": "Drnava",
+      "postalCodes": "04942"
+    },
+    {
+      "name": "Družstevná pri Hornáde",
+      "postalCodes": "04431"
+    },
+    {
+      "name": "Dubnica nad Váhom",
+      "postalCodes": "01841"
+    },
+    {
+      "name": "Dubník",
+      "postalCodes": "94135"
+    },
+    {
+      "name": "Dubovce",
+      "postalCodes": "90862"
+    },
+    {
+      "name": "Dubovec",
+      "postalCodes": "98041"
+    },
+    {
+      "name": "Dubová",
+      "postalCodes": "90090"
+    },
+    {
+      "name": "Dubové",
+      "postalCodes": "03823"
+    },
+    {
+      "name": "Dudince",
+      "postalCodes": "96271"
+    },
+    {
+      "name": "Dulovce",
+      "postalCodes": "94656"
+    },
+    {
+      "name": "Dunajská Lužná",
+      "postalCodes": "90042"
+    },
+    {
+      "name": "Dunajská Streda",
+      "postalCodes": "92901"
+    },
+    {
+      "name": "Dvorníky nad Váhom",
+      "postalCodes": "92056"
+    },
+    {
+      "name": "Dvory nad Žitavou",
+      "postalCodes": "94131"
+    },
+    {
+      "name": "Dúbrava",
+      "postalCodes": "03212"
+    },
+    {
+      "name": "Farná",
+      "postalCodes": "93566"
+    },
+    {
+      "name": "Figa",
+      "postalCodes": "98251"
+    },
+    {
+      "name": "Fintice",
+      "postalCodes": "08216"
+    },
+    {
+      "name": "Fiľakovo",
+      "postalCodes": "98601"
+    },
+    {
+      "name": "Gaboltov",
+      "postalCodes": "08602"
+    },
+    {
+      "name": "Gabčíkovo",
+      "postalCodes": "93005"
+    },
+    {
+      "name": "Gajary",
+      "postalCodes": "90061"
+    },
+    {
+      "name": "Galanta",
+      "postalCodes": "92401"
+    },
+    {
+      "name": "Gbelce",
+      "postalCodes": "94342"
+    },
+    {
+      "name": "Gbely",
+      "postalCodes": "90845"
+    },
+    {
+      "name": "Gbeľany",
+      "postalCodes": "01302"
+    },
+    {
+      "name": "Gelnica",
+      "postalCodes": "05601"
+    },
+    {
+      "name": "Gemerská Hôrka",
+      "postalCodes": "04912"
+    },
+    {
+      "name": "Gemerská Panica",
+      "postalCodes": "98046"
+    },
+    {
+      "name": "Gemerská Poloma",
+      "postalCodes": "04922"
+    },
+    {
+      "name": "Gemerská Ves",
+      "postalCodes": "98262"
+    },
+    {
+      "name": "Gemerský Jablonec",
+      "postalCodes": "98035"
+    },
+    {
+      "name": "Gerlachov",
+      "postalCodes": "05942"
+    },
+    {
+      "name": "Geča",
+      "postalCodes": "04410"
+    },
+    {
+      "name": "Giraltovce",
+      "postalCodes": "08701"
+    },
+    {
+      "name": "Golianovo",
+      "postalCodes": "95108"
+    },
+    {
+      "name": "Habura",
+      "postalCodes": "06752"
+    },
+    {
+      "name": "Hajná Nová Ves",
+      "postalCodes": "95603"
+    },
+    {
+      "name": "Hajnáčka",
+      "postalCodes": "98033"
+    },
+    {
+      "name": "Halič",
+      "postalCodes": "98511"
+    },
+    {
+      "name": "Hamuliakovo",
+      "postalCodes": "90043"
+    },
+    {
+      "name": "Handlová",
+      "postalCodes": "97251"
+    },
+    {
+      "name": "Haniska",
+      "postalCodes": "04457"
+    },
+    {
+      "name": "Hankovce",
+      "postalCodes": "08646"
+    },
+    {
+      "name": "Hanušovce nad Topľou",
+      "postalCodes": "09431"
+    },
+    {
+      "name": "Harichovce",
+      "postalCodes": "05301"
+    },
+    {
+      "name": "Harmanec",
+      "postalCodes": "97603"
+    },
+    {
+      "name": "Hatalov",
+      "postalCodes": "07216"
+    },
+    {
+      "name": "Havaj",
+      "postalCodes": "09023, 09024"
+    },
+    {
+      "name": "Hažlín",
+      "postalCodes": "08614"
+    },
+    {
+      "name": "Helcmanovce",
+      "postalCodes": "05563"
+    },
+    {
+      "name": "Hendrichovce",
+      "postalCodes": "08235"
+    },
+    {
+      "name": "Hertník",
+      "postalCodes": "08642"
+    },
+    {
+      "name": "Heľpa",
+      "postalCodes": "97668"
+    },
+    {
+      "name": "Hlboké",
+      "postalCodes": "90631"
+    },
+    {
+      "name": "Hliník nad Hronom",
+      "postalCodes": "96601"
+    },
+    {
+      "name": "Hlohovec",
+      "postalCodes": "92001, 92003"
+    },
+    {
+      "name": "Hniezdne",
+      "postalCodes": "06501"
+    },
+    {
+      "name": "Hnilec",
+      "postalCodes": "05375"
+    },
+    {
+      "name": "Hnilčík",
+      "postalCodes": "05332"
+    },
+    {
+      "name": "Hnojné",
+      "postalCodes": "07233"
+    },
+    {
+      "name": "Hnúšťa",
+      "postalCodes": "98101"
+    },
+    {
+      "name": "Hodejov",
+      "postalCodes": "98031"
+    },
+    {
+      "name": "Hodruša-Hámre",
+      "postalCodes": "96661"
+    },
+    {
+      "name": "Holice",
+      "postalCodes": "93034"
+    },
+    {
+      "name": "Holiša",
+      "postalCodes": "98557"
+    },
+    {
+      "name": "Holumnica",
+      "postalCodes": "05994"
+    },
+    {
+      "name": "Holíč",
+      "postalCodes": "90851"
+    },
+    {
+      "name": "Holčíkovce",
+      "postalCodes": "09405"
+    },
+    {
+      "name": "Hontianska Vrbica",
+      "postalCodes": "93555"
+    },
+    {
+      "name": "Hontianske Nemce",
+      "postalCodes": "96265"
+    },
+    {
+      "name": "Hontianske Tesáre",
+      "postalCodes": "96268"
+    },
+    {
+      "name": "Hontianske Trsťany",
+      "postalCodes": "93586"
+    },
+    {
+      "name": "Horná Kráľová",
+      "postalCodes": "95132"
+    },
+    {
+      "name": "Horná Mariková",
+      "postalCodes": "01803"
+    },
+    {
+      "name": "Horná Poruba",
+      "postalCodes": "01835"
+    },
+    {
+      "name": "Horná Potôň",
+      "postalCodes": "93036"
+    },
+    {
+      "name": "Horná Streda",
+      "postalCodes": "91624"
+    },
+    {
+      "name": "Horná Súča",
+      "postalCodes": "91333"
+    },
+    {
+      "name": "Horná Ves",
+      "postalCodes": "97248"
+    },
+    {
+      "name": "Horná Štubňa",
+      "postalCodes": "03846"
+    },
+    {
+      "name": "Horná Ždaňa",
+      "postalCodes": "96604"
+    },
+    {
+      "name": "Horné Hámre",
+      "postalCodes": "96678, 96671"
+    },
+    {
+      "name": "Horné Lefantovce",
+      "postalCodes": "95145"
+    },
+    {
+      "name": "Horné Obdokovce",
+      "postalCodes": "95608"
+    },
+    {
+      "name": "Horné Orešany",
+      "postalCodes": "91903"
+    },
+    {
+      "name": "Horné Otrokovce",
+      "postalCodes": "92062"
+    },
+    {
+      "name": "Horné Semerovce",
+      "postalCodes": "93584"
+    },
+    {
+      "name": "Horné Srnie",
+      "postalCodes": "91442"
+    },
+    {
+      "name": "Horné Trhovište",
+      "postalCodes": "92066"
+    },
+    {
+      "name": "Horné Turovce",
+      "postalCodes": "93581"
+    },
+    {
+      "name": "Horný Bar",
+      "postalCodes": "93033"
+    },
+    {
+      "name": "Horný Hričov",
+      "postalCodes": "01342"
+    },
+    {
+      "name": "Horný Tisovník",
+      "postalCodes": "96275"
+    },
+    {
+      "name": "Horný Vadičov",
+      "postalCodes": "02345"
+    },
+    {
+      "name": "Horovce",
+      "postalCodes": "02062"
+    },
+    {
+      "name": "Hostice",
+      "postalCodes": "98004"
+    },
+    {
+      "name": "Hostie",
+      "postalCodes": "95194"
+    },
+    {
+      "name": "Hosťovce",
+      "postalCodes": "95191"
+    },
+    {
+      "name": "Hozelec",
+      "postalCodes": "05911"
+    },
+    {
+      "name": "Hrabovec",
+      "postalCodes": "08611"
+    },
+    {
+      "name": "Hrabušice",
+      "postalCodes": "05315"
+    },
+    {
+      "name": "Hrachovo",
+      "postalCodes": "98052, 98051"
+    },
+    {
+      "name": "Hradište",
+      "postalCodes": "95854"
+    },
+    {
+      "name": "Hradište pod Vrátnom",
+      "postalCodes": "90612"
+    },
+    {
+      "name": "Hranovnica",
+      "postalCodes": "05916"
+    },
+    {
+      "name": "Hraň",
+      "postalCodes": "07603"
+    },
+    {
+      "name": "Hrašné",
+      "postalCodes": "91614"
+    },
+    {
+      "name": "Hrhov",
+      "postalCodes": "04944"
+    },
+    {
+      "name": "Hriňová",
+      "postalCodes": "96205"
+    },
+    {
+      "name": "Hrnčiarovce nad Parnou",
+      "postalCodes": "91935"
+    },
+    {
+      "name": "Hrnčiarska Ves",
+      "postalCodes": "98013"
+    },
+    {
+      "name": "Hrnčiarske Zalužany",
+      "postalCodes": "98012"
+    },
+    {
+      "name": "Hrochoť",
+      "postalCodes": "97637"
+    },
+    {
+      "name": "Hronec",
+      "postalCodes": "97645"
+    },
+    {
+      "name": "Hronovce",
+      "postalCodes": "93561"
+    },
+    {
+      "name": "Hronské Kosihy",
+      "postalCodes": "93527"
+    },
+    {
+      "name": "Hronský Beňadik",
+      "postalCodes": "96653"
+    },
+    {
+      "name": "Hrušov",
+      "postalCodes": "99142"
+    },
+    {
+      "name": "Hrušovo",
+      "postalCodes": "98025"
+    },
+    {
+      "name": "Hruštín",
+      "postalCodes": "02952"
+    },
+    {
+      "name": "Hrádok nad Váhom",
+      "postalCodes": "91633"
+    },
+    {
+      "name": "Hucín",
+      "postalCodes": "04913"
+    },
+    {
+      "name": "Hul",
+      "postalCodes": "94144"
+    },
+    {
+      "name": "Humenné",
+      "postalCodes": "06601"
+    },
+    {
+      "name": "Huncovce",
+      "postalCodes": "05992"
+    },
+    {
+      "name": "Hurbanovo",
+      "postalCodes": "94701, 94703"
+    },
+    {
+      "name": "Hybe",
+      "postalCodes": "03231"
+    },
+    {
+      "name": "Hájske",
+      "postalCodes": "95133"
+    },
+    {
+      "name": "Hôrka",
+      "postalCodes": "05912"
+    },
+    {
+      "name": "Hôrka nad Váhom",
+      "postalCodes": "91632"
+    },
+    {
+      "name": "Ilava",
+      "postalCodes": "01901"
+    },
+    {
+      "name": "Imeľ",
+      "postalCodes": "94652"
+    },
+    {
+      "name": "Ipeľský Sokolec",
+      "postalCodes": "93574, 93575"
+    },
+    {
+      "name": "Istebné nad Oravou",
+      "postalCodes": "02753"
+    },
+    {
+      "name": "Ivanka pri Dunaji",
+      "postalCodes": "90028"
+    },
+    {
+      "name": "Ivanka pri Nitre",
+      "postalCodes": "95112"
+    },
+    {
+      "name": "Iža",
+      "postalCodes": "94639"
+    },
+    {
+      "name": "Jablonica",
+      "postalCodes": "90632"
+    },
+    {
+      "name": "Jablonka",
+      "postalCodes": "90621"
+    },
+    {
+      "name": "Jablonov",
+      "postalCodes": "05303"
+    },
+    {
+      "name": "Jablonov nad Turňou",
+      "postalCodes": "04943"
+    },
+    {
+      "name": "Jablonové",
+      "postalCodes": "90054"
+    },
+    {
+      "name": "Jacovce",
+      "postalCodes": "95621"
+    },
+    {
+      "name": "Jahodná",
+      "postalCodes": "93021"
+    },
+    {
+      "name": "Jaklovce",
+      "postalCodes": "05561"
+    },
+    {
+      "name": "Jakubany",
+      "postalCodes": "06512"
+    },
+    {
+      "name": "Jakubov",
+      "postalCodes": "90063"
+    },
+    {
+      "name": "Janova Lehota",
+      "postalCodes": "96624"
+    },
+    {
+      "name": "Jarabina",
+      "postalCodes": "06531"
+    },
+    {
+      "name": "Jarok",
+      "postalCodes": "95148"
+    },
+    {
+      "name": "Jarovnice",
+      "postalCodes": "08263"
+    },
+    {
+      "name": "Jasenica",
+      "postalCodes": "01817"
+    },
+    {
+      "name": "Jasenie",
+      "postalCodes": "97675"
+    },
+    {
+      "name": "Jaslovské Bohunice",
+      "postalCodes": "91930"
+    },
+    {
+      "name": "Jasov",
+      "postalCodes": "04423"
+    },
+    {
+      "name": "Jasová",
+      "postalCodes": "94134"
+    },
+    {
+      "name": "Javorina",
+      "postalCodes": "05956"
+    },
+    {
+      "name": "Jazernica",
+      "postalCodes": "03844"
+    },
+    {
+      "name": "Jedľové Kostoľany",
+      "postalCodes": "95196"
+    },
+    {
+      "name": "Jelenec",
+      "postalCodes": "95173"
+    },
+    {
+      "name": "Jelka",
+      "postalCodes": "92523"
+    },
+    {
+      "name": "Jelšava",
+      "postalCodes": "04916"
+    },
+    {
+      "name": "Jelšovce",
+      "postalCodes": "95143"
+    },
+    {
+      "name": "Jenkovce",
+      "postalCodes": "07252"
+    },
+    {
+      "name": "Jesenské",
+      "postalCodes": "98002"
+    },
+    {
+      "name": "Jovsa",
+      "postalCodes": "07232"
+    },
+    {
+      "name": "Jur nad Hronom",
+      "postalCodes": "93557"
+    },
+    {
+      "name": "Jánovce",
+      "postalCodes": "05913"
+    },
+    {
+      "name": "Kajal",
+      "postalCodes": "92592"
+    },
+    {
+      "name": "Kalinovo",
+      "postalCodes": "98501"
+    },
+    {
+      "name": "Kalná nad Hronom",
+      "postalCodes": "93532"
+    },
+    {
+      "name": "Kalša",
+      "postalCodes": "04418"
+    },
+    {
+      "name": "Kamenec pod Vtáčnikom",
+      "postalCodes": "97244"
+    },
+    {
+      "name": "Kamenica nad Cirochou",
+      "postalCodes": "06783"
+    },
+    {
+      "name": "Kamenica nad Hronom",
+      "postalCodes": "94365"
+    },
+    {
+      "name": "Kameničná",
+      "postalCodes": "94601"
+    },
+    {
+      "name": "Kamenná Poruba",
+      "postalCodes": "01314"
+    },
+    {
+      "name": "Kamenné Kosihy",
+      "postalCodes": "99127"
+    },
+    {
+      "name": "Kamenný Most",
+      "postalCodes": "94358"
+    },
+    {
+      "name": "Kamenín",
+      "postalCodes": "94357"
+    },
+    {
+      "name": "Kameňany",
+      "postalCodes": "04962"
+    },
+    {
+      "name": "Kamienka",
+      "postalCodes": "06532"
+    },
+    {
+      "name": "Kanianka",
+      "postalCodes": "97217"
+    },
+    {
+      "name": "Kapušany",
+      "postalCodes": "08212"
+    },
+    {
+      "name": "Kazimír",
+      "postalCodes": "07613"
+    },
+    {
+      "name": "Kecerovce",
+      "postalCodes": "04447"
+    },
+    {
+      "name": "Kendice",
+      "postalCodes": "08201"
+    },
+    {
+      "name": "Keť",
+      "postalCodes": "93564"
+    },
+    {
+      "name": "Kežmarok",
+      "postalCodes": "06001"
+    },
+    {
+      "name": "Klasov",
+      "postalCodes": "95153"
+    },
+    {
+      "name": "Klenov",
+      "postalCodes": "08244"
+    },
+    {
+      "name": "Klenovec",
+      "postalCodes": "98055"
+    },
+    {
+      "name": "Klenová",
+      "postalCodes": "06772"
+    },
+    {
+      "name": "Klin",
+      "postalCodes": "02941"
+    },
+    {
+      "name": "Klokočov",
+      "postalCodes": "02322"
+    },
+    {
+      "name": "Kluknava",
+      "postalCodes": "05351"
+    },
+    {
+      "name": "Klátova Nová Ves",
+      "postalCodes": "95844"
+    },
+    {
+      "name": "Kláštor pod Znievom",
+      "postalCodes": "03843"
+    },
+    {
+      "name": "Kmeťovo",
+      "postalCodes": "94162"
+    },
+    {
+      "name": "Kojšov",
+      "postalCodes": "05552"
+    },
+    {
+      "name": "Kokava nad Rimavicou",
+      "postalCodes": "98505"
+    },
+    {
+      "name": "Kokošovce",
+      "postalCodes": "08252"
+    },
+    {
+      "name": "Kolbasov",
+      "postalCodes": "06766"
+    },
+    {
+      "name": "Kolbovce",
+      "postalCodes": "09031"
+    },
+    {
+      "name": "Kolta",
+      "postalCodes": "94133"
+    },
+    {
+      "name": "Kolárovice",
+      "postalCodes": "01354"
+    },
+    {
+      "name": "Kolárovo",
+      "postalCodes": "94603"
+    },
+    {
+      "name": "Kolíňany",
+      "postalCodes": "95178"
+    },
+    {
+      "name": "Komjatice",
+      "postalCodes": "94106"
+    },
+    {
+      "name": "Komoča",
+      "postalCodes": "94121"
+    },
+    {
+      "name": "Komárno",
+      "postalCodes": "94504, 94501, 94505"
+    },
+    {
+      "name": "Koniarovce",
+      "postalCodes": "95613"
+    },
+    {
+      "name": "Koprivnica",
+      "postalCodes": "08643"
+    },
+    {
+      "name": "Kopčany",
+      "postalCodes": "90848"
+    },
+    {
+      "name": "Koromľa",
+      "postalCodes": "07262"
+    },
+    {
+      "name": "Korňa",
+      "postalCodes": "02321"
+    },
+    {
+      "name": "Kostolište",
+      "postalCodes": "90062"
+    },
+    {
+      "name": "Kostolné",
+      "postalCodes": "91613"
+    },
+    {
+      "name": "Kotešová",
+      "postalCodes": "01361"
+    },
+    {
+      "name": "Kovarce",
+      "postalCodes": "95615"
+    },
+    {
+      "name": "Kováčová",
+      "postalCodes": "96237"
+    },
+    {
+      "name": "Kozárovce",
+      "postalCodes": "93522"
+    },
+    {
+      "name": "Kočovce",
+      "postalCodes": "91631"
+    },
+    {
+      "name": "Koš",
+      "postalCodes": "97241"
+    },
+    {
+      "name": "Košariská",
+      "postalCodes": "90615"
+    },
+    {
+      "name": "Košarovce",
+      "postalCodes": "09406"
+    },
+    {
+      "name": "Košeca",
+      "postalCodes": "01864"
+    },
+    {
+      "name": "Košecké Podhradie",
+      "postalCodes": "01831"
+    },
+    {
+      "name": "Košice",
+      "postalCodes": "04018, 04017, 04022, 04014, 04011, 04001, 04013, 04012, 04023, 04015, 04016"
+    },
+    {
+      "name": "Košice-železiarne",
+      "postalCodes": "04454"
+    },
+    {
+      "name": "Košická Belá",
+      "postalCodes": "04465"
+    },
+    {
+      "name": "Koškovce",
+      "postalCodes": "06712"
+    },
+    {
+      "name": "Košťany nad Turcom",
+      "postalCodes": "03841"
+    },
+    {
+      "name": "Krajná Poľana",
+      "postalCodes": "09005"
+    },
+    {
+      "name": "Krajné",
+      "postalCodes": "91616"
+    },
+    {
+      "name": "Krakovany",
+      "postalCodes": "92202"
+    },
+    {
+      "name": "Kravany nad Dunajom",
+      "postalCodes": "94636"
+    },
+    {
+      "name": "Kraľovany",
+      "postalCodes": "02751"
+    },
+    {
+      "name": "Kremnica",
+      "postalCodes": "96701"
+    },
+    {
+      "name": "Kriváň",
+      "postalCodes": "96204"
+    },
+    {
+      "name": "Križovany nad Dudváhom",
+      "postalCodes": "91924"
+    },
+    {
+      "name": "Krnča",
+      "postalCodes": "95619"
+    },
+    {
+      "name": "Krompachy",
+      "postalCodes": "05342"
+    },
+    {
+      "name": "Krpeľany",
+      "postalCodes": "03854"
+    },
+    {
+      "name": "Krupina",
+      "postalCodes": "96301"
+    },
+    {
+      "name": "Krušetnica",
+      "postalCodes": "02954"
+    },
+    {
+      "name": "Krušovce",
+      "postalCodes": "95631"
+    },
+    {
+      "name": "Kružlov",
+      "postalCodes": "08604"
+    },
+    {
+      "name": "Kružlová",
+      "postalCodes": "09002, 09001"
+    },
+    {
+      "name": "Krásno",
+      "postalCodes": "95843"
+    },
+    {
+      "name": "Krásno nad Kysucou",
+      "postalCodes": "02302"
+    },
+    {
+      "name": "Krásnohorská Dlhá Lúka",
+      "postalCodes": "04945"
+    },
+    {
+      "name": "Krásnohorské Podhradie",
+      "postalCodes": "04941"
+    },
+    {
+      "name": "Kráľov Brod",
+      "postalCodes": "92541"
+    },
+    {
+      "name": "Kráľova Lehota",
+      "postalCodes": "03233"
+    },
+    {
+      "name": "Kráľovce",
+      "postalCodes": "04444"
+    },
+    {
+      "name": "Kráľovičove Kračany",
+      "postalCodes": "93003"
+    },
+    {
+      "name": "Kráľovský Chlmec",
+      "postalCodes": "07701"
+    },
+    {
+      "name": "Kráľová nad Váhom",
+      "postalCodes": "92591"
+    },
+    {
+      "name": "Kráľová pri Senci",
+      "postalCodes": "90050"
+    },
+    {
+      "name": "Krčava",
+      "postalCodes": "07251"
+    },
+    {
+      "name": "Kuchyňa",
+      "postalCodes": "90052"
+    },
+    {
+      "name": "Kuklov",
+      "postalCodes": "90878"
+    },
+    {
+      "name": "Kuková",
+      "postalCodes": "08644"
+    },
+    {
+      "name": "Kurima",
+      "postalCodes": "08612"
+    },
+    {
+      "name": "Kuzmice",
+      "postalCodes": "07612"
+    },
+    {
+      "name": "Kvetoslavov",
+      "postalCodes": "93041"
+    },
+    {
+      "name": "Kysak",
+      "postalCodes": "04481"
+    },
+    {
+      "name": "Kysucké Nové Mesto",
+      "postalCodes": "02401, 02404, 02333"
+    },
+    {
+      "name": "Kysucký Lieskovec",
+      "postalCodes": "02334"
+    },
+    {
+      "name": "Kálnica",
+      "postalCodes": "91637"
+    },
+    {
+      "name": "Kátlovce",
+      "postalCodes": "91955"
+    },
+    {
+      "name": "Kúty",
+      "postalCodes": "90801"
+    },
+    {
+      "name": "Kľačany",
+      "postalCodes": "92064"
+    },
+    {
+      "name": "Kľače",
+      "postalCodes": "01319"
+    },
+    {
+      "name": "Kľačno",
+      "postalCodes": "97215"
+    },
+    {
+      "name": "Kľušov",
+      "postalCodes": "08622"
+    },
+    {
+      "name": "Ladce",
+      "postalCodes": "01863"
+    },
+    {
+      "name": "Ladice",
+      "postalCodes": "95177"
+    },
+    {
+      "name": "Ladmovce",
+      "postalCodes": "07634"
+    },
+    {
+      "name": "Ladomirová",
+      "postalCodes": "09003"
+    },
+    {
+      "name": "Lakšárska Nová Ves",
+      "postalCodes": "90876"
+    },
+    {
+      "name": "Lastomír",
+      "postalCodes": "07237"
+    },
+    {
+      "name": "Lazany",
+      "postalCodes": "97211"
+    },
+    {
+      "name": "Lazy pod Makytou",
+      "postalCodes": "02055"
+    },
+    {
+      "name": "Lednica",
+      "postalCodes": "02063"
+    },
+    {
+      "name": "Lednické Rovne",
+      "postalCodes": "02061"
+    },
+    {
+      "name": "Lehota",
+      "postalCodes": "95136"
+    },
+    {
+      "name": "Lehota pod Vtáčnikom",
+      "postalCodes": "97242"
+    },
+    {
+      "name": "Lekárovce",
+      "postalCodes": "07254"
+    },
+    {
+      "name": "Leles",
+      "postalCodes": "07684"
+    },
+    {
+      "name": "Lemešany",
+      "postalCodes": "08203"
+    },
+    {
+      "name": "Lenartovce",
+      "postalCodes": "98044"
+    },
+    {
+      "name": "Lendak",
+      "postalCodes": "05907"
+    },
+    {
+      "name": "Leopoldov",
+      "postalCodes": "92042, 92041"
+    },
+    {
+      "name": "Lesenice",
+      "postalCodes": "99108"
+    },
+    {
+      "name": "Letanovce",
+      "postalCodes": "05313"
+    },
+    {
+      "name": "Levice",
+      "postalCodes": "93401, 93405"
+    },
+    {
+      "name": "Levoča",
+      "postalCodes": "05401"
+    },
+    {
+      "name": "Licince",
+      "postalCodes": "04914"
+    },
+    {
+      "name": "Liesek",
+      "postalCodes": "02712"
+    },
+    {
+      "name": "Lieskovec",
+      "postalCodes": "96221"
+    },
+    {
+      "name": "Lietava",
+      "postalCodes": "01318"
+    },
+    {
+      "name": "Lietavská Lúčka",
+      "postalCodes": "01311"
+    },
+    {
+      "name": "Liešťany",
+      "postalCodes": "97227"
+    },
+    {
+      "name": "Likavka",
+      "postalCodes": "03495"
+    },
+    {
+      "name": "Limbach",
+      "postalCodes": "90091"
+    },
+    {
+      "name": "Lipany nad Torysou",
+      "postalCodes": "08271"
+    },
+    {
+      "name": "Lipovce",
+      "postalCodes": "08236"
+    },
+    {
+      "name": "Lipová",
+      "postalCodes": "94102"
+    },
+    {
+      "name": "Liptovská Kokava",
+      "postalCodes": "03244"
+    },
+    {
+      "name": "Liptovská Lúžna",
+      "postalCodes": "03472"
+    },
+    {
+      "name": "Liptovská Osada",
+      "postalCodes": "03473"
+    },
+    {
+      "name": "Liptovská Sielnica",
+      "postalCodes": "03223"
+    },
+    {
+      "name": "Liptovská Teplička",
+      "postalCodes": "05940"
+    },
+    {
+      "name": "Liptovská Teplá",
+      "postalCodes": "03483"
+    },
+    {
+      "name": "Liptovské Revúce",
+      "postalCodes": "03474"
+    },
+    {
+      "name": "Liptovské Sliače",
+      "postalCodes": "03484"
+    },
+    {
+      "name": "Liptovský Hrádok",
+      "postalCodes": "03301"
+    },
+    {
+      "name": "Liptovský Ján",
+      "postalCodes": "03203"
+    },
+    {
+      "name": "Liptovský Mikuláš",
+      "postalCodes": "03101, 03104, 03105"
+    },
+    {
+      "name": "Liptovský Ondrej",
+      "postalCodes": "03204"
+    },
+    {
+      "name": "Lisková",
+      "postalCodes": "03481"
+    },
+    {
+      "name": "Litava",
+      "postalCodes": "96244"
+    },
+    {
+      "name": "Lok",
+      "postalCodes": "93538"
+    },
+    {
+      "name": "Lokca",
+      "postalCodes": "02951"
+    },
+    {
+      "name": "Lom nad Rimavicou",
+      "postalCodes": "97653"
+    },
+    {
+      "name": "Lopej",
+      "postalCodes": "97698"
+    },
+    {
+      "name": "Lovce",
+      "postalCodes": "95192"
+    },
+    {
+      "name": "Lovinobaňa",
+      "postalCodes": "98554"
+    },
+    {
+      "name": "Lovča",
+      "postalCodes": "96621"
+    },
+    {
+      "name": "Lovčica-Trubín",
+      "postalCodes": "96623"
+    },
+    {
+      "name": "Lozorno",
+      "postalCodes": "90055"
+    },
+    {
+      "name": "Lubeník",
+      "postalCodes": "04918"
+    },
+    {
+      "name": "Lubina",
+      "postalCodes": "91612"
+    },
+    {
+      "name": "Ludanice",
+      "postalCodes": "95611"
+    },
+    {
+      "name": "Ludrová",
+      "postalCodes": "03471"
+    },
+    {
+      "name": "Lukavica",
+      "postalCodes": "08621"
+    },
+    {
+      "name": "Lukačovce",
+      "postalCodes": "06724"
+    },
+    {
+      "name": "Lukov",
+      "postalCodes": "08605"
+    },
+    {
+      "name": "Lukovištia",
+      "postalCodes": "98026"
+    },
+    {
+      "name": "Lukáčovce",
+      "postalCodes": "95123"
+    },
+    {
+      "name": "Lutila",
+      "postalCodes": "96622"
+    },
+    {
+      "name": "Lučatín",
+      "postalCodes": "97661"
+    },
+    {
+      "name": "Lučenec",
+      "postalCodes": "98401, 98403"
+    },
+    {
+      "name": "Lučivná",
+      "postalCodes": "05931"
+    },
+    {
+      "name": "Lužianky",
+      "postalCodes": "95141"
+    },
+    {
+      "name": "Lysá pod Makytou",
+      "postalCodes": "02054"
+    },
+    {
+      "name": "Láb",
+      "postalCodes": "90067"
+    },
+    {
+      "name": "Látky",
+      "postalCodes": "98545"
+    },
+    {
+      "name": "Lúky",
+      "postalCodes": "02053"
+    },
+    {
+      "name": "Lúčky",
+      "postalCodes": "03482"
+    },
+    {
+      "name": "Lúčnica nad Žitavou",
+      "postalCodes": "95188"
+    },
+    {
+      "name": "Madunice",
+      "postalCodes": "92242"
+    },
+    {
+      "name": "Majcichov",
+      "postalCodes": "91922"
+    },
+    {
+      "name": "Makov",
+      "postalCodes": "02356"
+    },
+    {
+      "name": "Malacky",
+      "postalCodes": "90101"
+    },
+    {
+      "name": "Malcov",
+      "postalCodes": "08606"
+    },
+    {
+      "name": "Malinovo",
+      "postalCodes": "90045"
+    },
+    {
+      "name": "Malužiná",
+      "postalCodes": "03234"
+    },
+    {
+      "name": "Malá Ida",
+      "postalCodes": "04420"
+    },
+    {
+      "name": "Malá Lehota",
+      "postalCodes": "96642"
+    },
+    {
+      "name": "Malé Chyndice",
+      "postalCodes": "95154"
+    },
+    {
+      "name": "Malé Leváre",
+      "postalCodes": "90874"
+    },
+    {
+      "name": "Malé Vozokany",
+      "postalCodes": "95182"
+    },
+    {
+      "name": "Malý Lipník",
+      "postalCodes": "06546"
+    },
+    {
+      "name": "Malý Čepčín",
+      "postalCodes": "03845"
+    },
+    {
+      "name": "Malčice",
+      "postalCodes": "07206"
+    },
+    {
+      "name": "Malženice",
+      "postalCodes": "91929"
+    },
+    {
+      "name": "Marcelová",
+      "postalCodes": "94632"
+    },
+    {
+      "name": "Margecany",
+      "postalCodes": "05501"
+    },
+    {
+      "name": "Marhaň",
+      "postalCodes": "08645"
+    },
+    {
+      "name": "Marianka",
+      "postalCodes": "90033"
+    },
+    {
+      "name": "Markuška",
+      "postalCodes": "04934"
+    },
+    {
+      "name": "Markušovce",
+      "postalCodes": "05321"
+    },
+    {
+      "name": "Martin",
+      "postalCodes": "03601"
+    },
+    {
+      "name": "Matejovce",
+      "postalCodes": "05951"
+    },
+    {
+      "name": "Matúškovo",
+      "postalCodes": "92501"
+    },
+    {
+      "name": "Maňa",
+      "postalCodes": "94145"
+    },
+    {
+      "name": "Medveďov",
+      "postalCodes": "93007"
+    },
+    {
+      "name": "Medzev",
+      "postalCodes": "04425"
+    },
+    {
+      "name": "Medzibrod",
+      "postalCodes": "97696"
+    },
+    {
+      "name": "Medzilaborce",
+      "postalCodes": "06801"
+    },
+    {
+      "name": "Melčice-Lieskové",
+      "postalCodes": "91305"
+    },
+    {
+      "name": "Mengusovce",
+      "postalCodes": "05936"
+    },
+    {
+      "name": "Merník",
+      "postalCodes": "09423"
+    },
+    {
+      "name": "Mestečko",
+      "postalCodes": "02052"
+    },
+    {
+      "name": "Mestisko",
+      "postalCodes": "09041"
+    },
+    {
+      "name": "Michal na Ostrove",
+      "postalCodes": "93035"
+    },
+    {
+      "name": "Michalovce",
+      "postalCodes": "07101"
+    },
+    {
+      "name": "Michalová",
+      "postalCodes": "97657"
+    },
+    {
+      "name": "Michaľany",
+      "postalCodes": "07614"
+    },
+    {
+      "name": "Mikušovce",
+      "postalCodes": "01857"
+    },
+    {
+      "name": "Miňovce",
+      "postalCodes": "09032"
+    },
+    {
+      "name": "Mlynky",
+      "postalCodes": "05376"
+    },
+    {
+      "name": "Mlynčeky",
+      "postalCodes": "05976"
+    },
+    {
+      "name": "Mníšek nad Hnilcom",
+      "postalCodes": "05564"
+    },
+    {
+      "name": "Mníšek nad Popradom",
+      "postalCodes": "06522"
+    },
+    {
+      "name": "Mochovce",
+      "postalCodes": "93539"
+    },
+    {
+      "name": "Modra",
+      "postalCodes": "90001"
+    },
+    {
+      "name": "Modrany",
+      "postalCodes": "94633"
+    },
+    {
+      "name": "Modrová",
+      "postalCodes": "91635"
+    },
+    {
+      "name": "Modrý Kameň",
+      "postalCodes": "99201"
+    },
+    {
+      "name": "Mojmírovce",
+      "postalCodes": "95115"
+    },
+    {
+      "name": "Mojtín",
+      "postalCodes": "02072"
+    },
+    {
+      "name": "Mojzesovo",
+      "postalCodes": "94104"
+    },
+    {
+      "name": "Moldava nad Bodvou",
+      "postalCodes": "04501, 04405"
+    },
+    {
+      "name": "Moravany nad Váhom",
+      "postalCodes": "92221"
+    },
+    {
+      "name": "Moravské Lieskové",
+      "postalCodes": "91642"
+    },
+    {
+      "name": "Moravský Svätý Ján",
+      "postalCodes": "90871"
+    },
+    {
+      "name": "Most pri Bratislave",
+      "postalCodes": "90046"
+    },
+    {
+      "name": "Mostová",
+      "postalCodes": "92507"
+    },
+    {
+      "name": "Motešice",
+      "postalCodes": "91326"
+    },
+    {
+      "name": "Moča",
+      "postalCodes": "94637"
+    },
+    {
+      "name": "Močenok",
+      "postalCodes": "95131"
+    },
+    {
+      "name": "Mošovce",
+      "postalCodes": "03821"
+    },
+    {
+      "name": "Muráň",
+      "postalCodes": "04901"
+    },
+    {
+      "name": "Mužla",
+      "postalCodes": "94352"
+    },
+    {
+      "name": "Myjava",
+      "postalCodes": "90701, 90703"
+    },
+    {
+      "name": "Málaš",
+      "postalCodes": "93567"
+    },
+    {
+      "name": "Málinec",
+      "postalCodes": "98526"
+    },
+    {
+      "name": "Mútne",
+      "postalCodes": "02963"
+    },
+    {
+      "name": "Mýtna",
+      "postalCodes": "98553"
+    },
+    {
+      "name": "Mýtne Ludany",
+      "postalCodes": "93556"
+    },
+    {
+      "name": "Mýto pod Ďumbierom",
+      "postalCodes": "97644"
+    },
+    {
+      "name": "Nacina Ves",
+      "postalCodes": "07221"
+    },
+    {
+      "name": "Nadlice",
+      "postalCodes": "95632"
+    },
+    {
+      "name": "Necpaly",
+      "postalCodes": "03812"
+    },
+    {
+      "name": "Nedašovce",
+      "postalCodes": "95635"
+    },
+    {
+      "name": "Neded",
+      "postalCodes": "92585"
+    },
+    {
+      "name": "Nedožery",
+      "postalCodes": "97212"
+    },
+    {
+      "name": "Nemecká nad Hronom",
+      "postalCodes": "97697"
+    },
+    {
+      "name": "Nemčiňany",
+      "postalCodes": "95181"
+    },
+    {
+      "name": "Nemšová",
+      "postalCodes": "91441"
+    },
+    {
+      "name": "Nenince",
+      "postalCodes": "99126"
+    },
+    {
+      "name": "Nesluša",
+      "postalCodes": "02341"
+    },
+    {
+      "name": "Nesvady",
+      "postalCodes": "94651"
+    },
+    {
+      "name": "Neverice",
+      "postalCodes": "95172"
+    },
+    {
+      "name": "Nevidzany",
+      "postalCodes": "95162"
+    },
+    {
+      "name": "Nimnica",
+      "postalCodes": "02071"
+    },
+    {
+      "name": "Nitra",
+      "postalCodes": "94905, 94901, 94911, 94907"
+    },
+    {
+      "name": "Nitrianska Streda",
+      "postalCodes": "95616"
+    },
+    {
+      "name": "Nitrianske Hrnčiarovce",
+      "postalCodes": "95101"
+    },
+    {
+      "name": "Nitrianske Pravno",
+      "postalCodes": "97213"
+    },
+    {
+      "name": "Nitrianske Rudno",
+      "postalCodes": "97226"
+    },
+    {
+      "name": "Nitrianske Sučany",
+      "postalCodes": "97221"
+    },
+    {
+      "name": "Nitrica",
+      "postalCodes": "97222"
+    },
+    {
+      "name": "Nižná",
+      "postalCodes": "92206"
+    },
+    {
+      "name": "Nižná Jablonka",
+      "postalCodes": "06734"
+    },
+    {
+      "name": "Nižná Kaloša",
+      "postalCodes": "98252"
+    },
+    {
+      "name": "Nižná Myšľa",
+      "postalCodes": "04415"
+    },
+    {
+      "name": "Nižná Polianka",
+      "postalCodes": "08636"
+    },
+    {
+      "name": "Nižná Sitnica",
+      "postalCodes": "09407"
+    },
+    {
+      "name": "Nižná Slaná",
+      "postalCodes": "04923"
+    },
+    {
+      "name": "Nižná nad Oravou",
+      "postalCodes": "02743"
+    },
+    {
+      "name": "Nižný Hrabovec",
+      "postalCodes": "09421"
+    },
+    {
+      "name": "Nižný Hrušov",
+      "postalCodes": "09422"
+    },
+    {
+      "name": "Nižný Klátov",
+      "postalCodes": "04412"
+    },
+    {
+      "name": "Nižný Slavkov",
+      "postalCodes": "08275"
+    },
+    {
+      "name": "Nižný Žipov",
+      "postalCodes": "07617"
+    },
+    {
+      "name": "Novosad",
+      "postalCodes": "07602"
+    },
+    {
+      "name": "Novoveská Huta",
+      "postalCodes": "05331"
+    },
+    {
+      "name": "Novoť",
+      "postalCodes": "02955"
+    },
+    {
+      "name": "Nová Baňa",
+      "postalCodes": "96801"
+    },
+    {
+      "name": "Nová Bašta",
+      "postalCodes": "98034"
+    },
+    {
+      "name": "Nová Bošáca",
+      "postalCodes": "91308"
+    },
+    {
+      "name": "Nová Bystrica",
+      "postalCodes": "02305"
+    },
+    {
+      "name": "Nová Dedina",
+      "postalCodes": "93525"
+    },
+    {
+      "name": "Nová Dedinka",
+      "postalCodes": "90029"
+    },
+    {
+      "name": "Nová Dubnica",
+      "postalCodes": "01851"
+    },
+    {
+      "name": "Nová Kelča",
+      "postalCodes": "09404"
+    },
+    {
+      "name": "Nová Lesná",
+      "postalCodes": "05986"
+    },
+    {
+      "name": "Nová Ves nad Žitavou",
+      "postalCodes": "95151"
+    },
+    {
+      "name": "Nová Ľubovňa",
+      "postalCodes": "06511"
+    },
+    {
+      "name": "Nováky",
+      "postalCodes": "97271"
+    },
+    {
+      "name": "Nové Mesto nad Váhom",
+      "postalCodes": "91501"
+    },
+    {
+      "name": "Nové Sady",
+      "postalCodes": "95124, 95125, 95126"
+    },
+    {
+      "name": "Nové Zámky",
+      "postalCodes": "94002"
+    },
+    {
+      "name": "Nový Tekov",
+      "postalCodes": "93533"
+    },
+    {
+      "name": "Nový Život",
+      "postalCodes": "93038"
+    },
+    {
+      "name": "Nálepkovo",
+      "postalCodes": "05333"
+    },
+    {
+      "name": "Námestovo",
+      "postalCodes": "02901"
+    },
+    {
+      "name": "Nána",
+      "postalCodes": "94360"
+    },
+    {
+      "name": "Obid",
+      "postalCodes": "94304"
+    },
+    {
+      "name": "Oborín",
+      "postalCodes": "07675"
+    },
+    {
+      "name": "Obyce",
+      "postalCodes": "95195"
+    },
+    {
+      "name": "Ochodnica",
+      "postalCodes": "02335"
+    },
+    {
+      "name": "Ochtiná",
+      "postalCodes": "04935"
+    },
+    {
+      "name": "Odorín",
+      "postalCodes": "05322"
+    },
+    {
+      "name": "Ohrady",
+      "postalCodes": "93012"
+    },
+    {
+      "name": "Ohradzany",
+      "postalCodes": "06722"
+    },
+    {
+      "name": "Okoličná na Ostrove",
+      "postalCodes": "94613"
+    },
+    {
+      "name": "Okoč",
+      "postalCodes": "93028"
+    },
+    {
+      "name": "Okrúhle",
+      "postalCodes": "09042"
+    },
+    {
+      "name": "Olešná",
+      "postalCodes": "02352"
+    },
+    {
+      "name": "Omšenie",
+      "postalCodes": "91443"
+    },
+    {
+      "name": "Opatovce nad Nitrou",
+      "postalCodes": "97202"
+    },
+    {
+      "name": "Opoj",
+      "postalCodes": "91932"
+    },
+    {
+      "name": "Oponice",
+      "postalCodes": "95614"
+    },
+    {
+      "name": "Oravská Jasenica",
+      "postalCodes": "02964"
+    },
+    {
+      "name": "Oravská Lesná",
+      "postalCodes": "02957"
+    },
+    {
+      "name": "Oravská Polhora",
+      "postalCodes": "02947"
+    },
+    {
+      "name": "Oravské Veselé",
+      "postalCodes": "02962"
+    },
+    {
+      "name": "Oravský Podzámok",
+      "postalCodes": "02741"
+    },
+    {
+      "name": "Orechová Potôň",
+      "postalCodes": "93002"
+    },
+    {
+      "name": "Oslany",
+      "postalCodes": "97247"
+    },
+    {
+      "name": "Ostratice",
+      "postalCodes": "95634"
+    },
+    {
+      "name": "Ostrov",
+      "postalCodes": "92201"
+    },
+    {
+      "name": "Ostrý Grúň",
+      "postalCodes": "96677"
+    },
+    {
+      "name": "Osturňa",
+      "postalCodes": "05979"
+    },
+    {
+      "name": "Očová",
+      "postalCodes": "96223"
+    },
+    {
+      "name": "Oľka",
+      "postalCodes": "06704"
+    },
+    {
+      "name": "Oščadnica",
+      "postalCodes": "02301"
+    },
+    {
+      "name": "Palárikovo",
+      "postalCodes": "94111"
+    },
+    {
+      "name": "Palín",
+      "postalCodes": "07213"
+    },
+    {
+      "name": "Papradno",
+      "postalCodes": "01813"
+    },
+    {
+      "name": "Papín",
+      "postalCodes": "06733"
+    },
+    {
+      "name": "Parchovany",
+      "postalCodes": "07662"
+    },
+    {
+      "name": "Partizánska Ľupča",
+      "postalCodes": "03215"
+    },
+    {
+      "name": "Partizánske",
+      "postalCodes": "95801, 95803, 95804, 95806"
+    },
+    {
+      "name": "Pastuchov",
+      "postalCodes": "92063"
+    },
+    {
+      "name": "Pata",
+      "postalCodes": "92553"
+    },
+    {
+      "name": "Pavlovce nad Uhom",
+      "postalCodes": "07214"
+    },
+    {
+      "name": "Pernek",
+      "postalCodes": "90053"
+    },
+    {
+      "name": "Perín-Chym",
+      "postalCodes": "04474"
+    },
+    {
+      "name": "Petrova Ves",
+      "postalCodes": "90844"
+    },
+    {
+      "name": "Petrovany",
+      "postalCodes": "08253"
+    },
+    {
+      "name": "Petrovice",
+      "postalCodes": "01353"
+    },
+    {
+      "name": "Pezinok",
+      "postalCodes": "90201, 90203"
+    },
+    {
+      "name": "Pečovská Nová Ves",
+      "postalCodes": "08256"
+    },
+    {
+      "name": "Piešťany",
+      "postalCodes": "92101"
+    },
+    {
+      "name": "Plavecké Podhradie",
+      "postalCodes": "90636"
+    },
+    {
+      "name": "Plavecký Mikuláš",
+      "postalCodes": "90635"
+    },
+    {
+      "name": "Plavecký Štvrtok",
+      "postalCodes": "90068"
+    },
+    {
+      "name": "Plaveč nad Popradom",
+      "postalCodes": "06544"
+    },
+    {
+      "name": "Plavnica",
+      "postalCodes": "06545"
+    },
+    {
+      "name": "Plavé Vozokany",
+      "postalCodes": "93569"
+    },
+    {
+      "name": "Plevník-Drienové",
+      "postalCodes": "01826"
+    },
+    {
+      "name": "Plešivec",
+      "postalCodes": "04911"
+    },
+    {
+      "name": "Pliešovce",
+      "postalCodes": "96263"
+    },
+    {
+      "name": "Plášťovce",
+      "postalCodes": "93582"
+    },
+    {
+      "name": "Pobedim",
+      "postalCodes": "91623"
+    },
+    {
+      "name": "Podbiel",
+      "postalCodes": "02742"
+    },
+    {
+      "name": "Podbrezová",
+      "postalCodes": "97681"
+    },
+    {
+      "name": "Podhorany",
+      "postalCodes": "95146"
+    },
+    {
+      "name": "Podhorie",
+      "postalCodes": "96982"
+    },
+    {
+      "name": "Podhoroď",
+      "postalCodes": "07264"
+    },
+    {
+      "name": "Podhájska",
+      "postalCodes": "94148"
+    },
+    {
+      "name": "Podkriváň",
+      "postalCodes": "98551"
+    },
+    {
+      "name": "Podlužany",
+      "postalCodes": "95652"
+    },
+    {
+      "name": "Podolie",
+      "postalCodes": "91622"
+    },
+    {
+      "name": "Podolínec",
+      "postalCodes": "06503"
+    },
+    {
+      "name": "Podvysoká",
+      "postalCodes": "02357"
+    },
+    {
+      "name": "Pohorelá",
+      "postalCodes": "97669"
+    },
+    {
+      "name": "Pohranice",
+      "postalCodes": "95102"
+    },
+    {
+      "name": "Pohronská Polhora",
+      "postalCodes": "97656"
+    },
+    {
+      "name": "Pohronský Ruskov",
+      "postalCodes": "93562"
+    },
+    {
+      "name": "Polomka",
+      "postalCodes": "97666"
+    },
+    {
+      "name": "Poltár",
+      "postalCodes": "98701"
+    },
+    {
+      "name": "Poniky",
+      "postalCodes": "97633"
+    },
+    {
+      "name": "Poprad",
+      "postalCodes": "05801"
+    },
+    {
+      "name": "Poproč",
+      "postalCodes": "04424"
+    },
+    {
+      "name": "Popudinské Močidľany",
+      "postalCodes": "90861"
+    },
+    {
+      "name": "Poriadie",
+      "postalCodes": "90622"
+    },
+    {
+      "name": "Porostov",
+      "postalCodes": "07255"
+    },
+    {
+      "name": "Porúbka",
+      "postalCodes": "07261"
+    },
+    {
+      "name": "Potvorice",
+      "postalCodes": "91625"
+    },
+    {
+      "name": "Považany",
+      "postalCodes": "91626"
+    },
+    {
+      "name": "Považská Bystrica",
+      "postalCodes": "01701, 01707, 01706, 01704, 01705"
+    },
+    {
+      "name": "Pozba",
+      "postalCodes": "94151"
+    },
+    {
+      "name": "Pozdišovce",
+      "postalCodes": "07201"
+    },
+    {
+      "name": "Prakovce",
+      "postalCodes": "05562"
+    },
+    {
+      "name": "Pravenec",
+      "postalCodes": "97216"
+    },
+    {
+      "name": "Prašice",
+      "postalCodes": "95622"
+    },
+    {
+      "name": "Prašník",
+      "postalCodes": "92211"
+    },
+    {
+      "name": "Predajná",
+      "postalCodes": "97663"
+    },
+    {
+      "name": "Predmier",
+      "postalCodes": "01351"
+    },
+    {
+      "name": "Prenčov",
+      "postalCodes": "96973"
+    },
+    {
+      "name": "Preseľany",
+      "postalCodes": "95612"
+    },
+    {
+      "name": "Prečín",
+      "postalCodes": "01815"
+    },
+    {
+      "name": "Prešov",
+      "postalCodes": "08001, 08006, 08005"
+    },
+    {
+      "name": "Pribeník",
+      "postalCodes": "07651"
+    },
+    {
+      "name": "Pribeta",
+      "postalCodes": "94655"
+    },
+    {
+      "name": "Pribylina",
+      "postalCodes": "03242"
+    },
+    {
+      "name": "Prietrž",
+      "postalCodes": "90611"
+    },
+    {
+      "name": "Prievaly",
+      "postalCodes": "90634"
+    },
+    {
+      "name": "Prievidza",
+      "postalCodes": "97101"
+    },
+    {
+      "name": "Pruské",
+      "postalCodes": "01852"
+    },
+    {
+      "name": "Pružina",
+      "postalCodes": "01822"
+    },
+    {
+      "name": "Príbovce",
+      "postalCodes": "03842"
+    },
+    {
+      "name": "Pukanec",
+      "postalCodes": "93505, 93504, 93506"
+    },
+    {
+      "name": "Pusté Úľany",
+      "postalCodes": "92528"
+    },
+    {
+      "name": "Pušovce",
+      "postalCodes": "08214"
+    },
+    {
+      "name": "Pôtor",
+      "postalCodes": "99103"
+    },
+    {
+      "name": "Púchov",
+      "postalCodes": "02001"
+    },
+    {
+      "name": "Pčoliné",
+      "postalCodes": "06735"
+    },
+    {
+      "name": "Rabča",
+      "postalCodes": "02944"
+    },
+    {
+      "name": "Rabčice",
+      "postalCodes": "02945"
+    },
+    {
+      "name": "Rad",
+      "postalCodes": "07637"
+    },
+    {
+      "name": "Radava",
+      "postalCodes": "94147"
+    },
+    {
+      "name": "Radimov",
+      "postalCodes": "90847"
+    },
+    {
+      "name": "Radoľa",
+      "postalCodes": "02336"
+    },
+    {
+      "name": "Radošina",
+      "postalCodes": "95605"
+    },
+    {
+      "name": "Radošovce",
+      "postalCodes": "90863"
+    },
+    {
+      "name": "Radvaň nad Dunajom",
+      "postalCodes": "94638"
+    },
+    {
+      "name": "Radvaň nad Laborcom",
+      "postalCodes": "06701"
+    },
+    {
+      "name": "Radzovce",
+      "postalCodes": "98558"
+    },
+    {
+      "name": "Rajec nad Rajčiankou",
+      "postalCodes": "01501"
+    },
+    {
+      "name": "Rajecká Lesná",
+      "postalCodes": "01315"
+    },
+    {
+      "name": "Rajecké Teplice",
+      "postalCodes": "01313"
+    },
+    {
+      "name": "Rakovec nad Ondavou",
+      "postalCodes": "07203"
+    },
+    {
+      "name": "Raková",
+      "postalCodes": "02351"
+    },
+    {
+      "name": "Rapovce",
+      "postalCodes": "98531"
+    },
+    {
+      "name": "Raslavice",
+      "postalCodes": "08641"
+    },
+    {
+      "name": "Ratkovské Bystré",
+      "postalCodes": "98266"
+    },
+    {
+      "name": "Ratková",
+      "postalCodes": "98265"
+    },
+    {
+      "name": "Ražňany",
+      "postalCodes": "08261"
+    },
+    {
+      "name": "Reca",
+      "postalCodes": "92526"
+    },
+    {
+      "name": "Rejdová",
+      "postalCodes": "04926"
+    },
+    {
+      "name": "Remetské Hámre",
+      "postalCodes": "07241"
+    },
+    {
+      "name": "Revúca",
+      "postalCodes": "05001"
+    },
+    {
+      "name": "Rimavská Baňa",
+      "postalCodes": "98053"
+    },
+    {
+      "name": "Rimavská Seč",
+      "postalCodes": "98042"
+    },
+    {
+      "name": "Rimavská Sobota",
+      "postalCodes": "97901"
+    },
+    {
+      "name": "Rimavské Brezovo",
+      "postalCodes": "98054"
+    },
+    {
+      "name": "Rimavské Janovce",
+      "postalCodes": "98001"
+    },
+    {
+      "name": "Rišňovce",
+      "postalCodes": "95121"
+    },
+    {
+      "name": "Rohov",
+      "postalCodes": "90604"
+    },
+    {
+      "name": "Rohovce",
+      "postalCodes": "93030"
+    },
+    {
+      "name": "Rohožník",
+      "postalCodes": "90638"
+    },
+    {
+      "name": "Rokytov",
+      "postalCodes": "08601"
+    },
+    {
+      "name": "Rosina",
+      "postalCodes": "01322"
+    },
+    {
+      "name": "Rovinka",
+      "postalCodes": "90041"
+    },
+    {
+      "name": "Rovné",
+      "postalCodes": "98267"
+    },
+    {
+      "name": "Rozhanovce",
+      "postalCodes": "04442"
+    },
+    {
+      "name": "Rožňava",
+      "postalCodes": "04801"
+    },
+    {
+      "name": "Rožňavské Bystré",
+      "postalCodes": "04931"
+    },
+    {
+      "name": "Rudina",
+      "postalCodes": "02331"
+    },
+    {
+      "name": "Rudno nad Hronom",
+      "postalCodes": "96651"
+    },
+    {
+      "name": "Rudník",
+      "postalCodes": "90623"
+    },
+    {
+      "name": "Rudňany",
+      "postalCodes": "05323"
+    },
+    {
+      "name": "Rumanová",
+      "postalCodes": "95137"
+    },
+    {
+      "name": "Ruskov",
+      "postalCodes": "04419"
+    },
+    {
+      "name": "Ruská",
+      "postalCodes": "07677"
+    },
+    {
+      "name": "Ruská Poruba",
+      "postalCodes": "09408"
+    },
+    {
+      "name": "Ružindol",
+      "postalCodes": "91961"
+    },
+    {
+      "name": "Ružomberok",
+      "postalCodes": "03406, 03401, 03403"
+    },
+    {
+      "name": "Rybany",
+      "postalCodes": "95636"
+    },
+    {
+      "name": "Rybník nad Hronom",
+      "postalCodes": "93523"
+    },
+    {
+      "name": "Rykynčice",
+      "postalCodes": "96255"
+    },
+    {
+      "name": "Rákoš",
+      "postalCodes": "04961"
+    },
+    {
+      "name": "Ráztočno",
+      "postalCodes": "97231"
+    },
+    {
+      "name": "Rúbaň",
+      "postalCodes": "94136"
+    },
+    {
+      "name": "Sabinov",
+      "postalCodes": "08301"
+    },
+    {
+      "name": "Sady nad Torysou",
+      "postalCodes": "04441"
+    },
+    {
+      "name": "Salka",
+      "postalCodes": "94361"
+    },
+    {
+      "name": "Santovka",
+      "postalCodes": "93587"
+    },
+    {
+      "name": "Sap",
+      "postalCodes": "93006"
+    },
+    {
+      "name": "Sasinkovo",
+      "postalCodes": "92065"
+    },
+    {
+      "name": "Sačurov",
+      "postalCodes": "09413"
+    },
+    {
+      "name": "Sebechleby",
+      "postalCodes": "96266"
+    },
+    {
+      "name": "Sebedražie",
+      "postalCodes": "97205"
+    },
+    {
+      "name": "Sedlice",
+      "postalCodes": "08243"
+    },
+    {
+      "name": "Sedliská",
+      "postalCodes": "09409"
+    },
+    {
+      "name": "Sekule",
+      "postalCodes": "90880"
+    },
+    {
+      "name": "Selce",
+      "postalCodes": "97611"
+    },
+    {
+      "name": "Selec",
+      "postalCodes": "91336"
+    },
+    {
+      "name": "Selice",
+      "postalCodes": "92572"
+    },
+    {
+      "name": "Semerovo",
+      "postalCodes": "94132"
+    },
+    {
+      "name": "Senec",
+      "postalCodes": "90301"
+    },
+    {
+      "name": "Senica",
+      "postalCodes": "90501"
+    },
+    {
+      "name": "Senné",
+      "postalCodes": "99101"
+    },
+    {
+      "name": "Senohrad",
+      "postalCodes": "96243"
+    },
+    {
+      "name": "Sereď",
+      "postalCodes": "92601"
+    },
+    {
+      "name": "Sečovce",
+      "postalCodes": "07801"
+    },
+    {
+      "name": "Sečovská Polianka",
+      "postalCodes": "09414"
+    },
+    {
+      "name": "Seňa",
+      "postalCodes": "04458"
+    },
+    {
+      "name": "Sihelné",
+      "postalCodes": "02946"
+    },
+    {
+      "name": "Sikenička",
+      "postalCodes": "94359"
+    },
+    {
+      "name": "Siladice",
+      "postalCodes": "92052"
+    },
+    {
+      "name": "Silica",
+      "postalCodes": "04952"
+    },
+    {
+      "name": "Sirk",
+      "postalCodes": "04964"
+    },
+    {
+      "name": "Skalica",
+      "postalCodes": "90865, 90901"
+    },
+    {
+      "name": "Skalité",
+      "postalCodes": "02314"
+    },
+    {
+      "name": "Skalka nad Váhom",
+      "postalCodes": "91331"
+    },
+    {
+      "name": "Skačany",
+      "postalCodes": "95853"
+    },
+    {
+      "name": "Sklabiná",
+      "postalCodes": "99105"
+    },
+    {
+      "name": "Sklabiňa",
+      "postalCodes": "03803"
+    },
+    {
+      "name": "Sklené",
+      "postalCodes": "03847"
+    },
+    {
+      "name": "Sklené Teplice",
+      "postalCodes": "96603"
+    },
+    {
+      "name": "Skýcov",
+      "postalCodes": "95185"
+    },
+    {
+      "name": "Slanec",
+      "postalCodes": "04417"
+    },
+    {
+      "name": "Slatina nad Bebravou",
+      "postalCodes": "95653"
+    },
+    {
+      "name": "Slatinské Lazy",
+      "postalCodes": "96225"
+    },
+    {
+      "name": "Slavošovce",
+      "postalCodes": "04936"
+    },
+    {
+      "name": "Slepčany",
+      "postalCodes": "95152"
+    },
+    {
+      "name": "Sliač",
+      "postalCodes": "96231"
+    },
+    {
+      "name": "Slovenská Kajňa",
+      "postalCodes": "09402"
+    },
+    {
+      "name": "Slovenská Ves",
+      "postalCodes": "05902"
+    },
+    {
+      "name": "Slovenská Ľupča",
+      "postalCodes": "97613"
+    },
+    {
+      "name": "Slovenské Nové Mesto",
+      "postalCodes": "07633"
+    },
+    {
+      "name": "Slovenské Pravno",
+      "postalCodes": "03822"
+    },
+    {
+      "name": "Slovenské Ďarmoty",
+      "postalCodes": "99107"
+    },
+    {
+      "name": "Slovenský Grob",
+      "postalCodes": "90026"
+    },
+    {
+      "name": "Slovinky",
+      "postalCodes": "05340"
+    },
+    {
+      "name": "Sládkovičovo",
+      "postalCodes": "92521"
+    },
+    {
+      "name": "Slávnica",
+      "postalCodes": "01854"
+    },
+    {
+      "name": "Smižany",
+      "postalCodes": "05311"
+    },
+    {
+      "name": "Smolenice",
+      "postalCodes": "91904"
+    },
+    {
+      "name": "Smolinské",
+      "postalCodes": "90842"
+    },
+    {
+      "name": "Smolnícka Huta",
+      "postalCodes": "05565"
+    },
+    {
+      "name": "Smolník",
+      "postalCodes": "05566"
+    },
+    {
+      "name": "Smrdáky",
+      "postalCodes": "90603"
+    },
+    {
+      "name": "Smrečany",
+      "postalCodes": "03205"
+    },
+    {
+      "name": "Snežnica",
+      "postalCodes": "02332"
+    },
+    {
+      "name": "Snina",
+      "postalCodes": "06901"
+    },
+    {
+      "name": "Soblahov",
+      "postalCodes": "91338"
+    },
+    {
+      "name": "Sobotište",
+      "postalCodes": "90605"
+    },
+    {
+      "name": "Sobrance",
+      "postalCodes": "07301"
+    },
+    {
+      "name": "Sokolce",
+      "postalCodes": "94617"
+    },
+    {
+      "name": "Sokolovce",
+      "postalCodes": "92231"
+    },
+    {
+      "name": "Sološnica",
+      "postalCodes": "90637"
+    },
+    {
+      "name": "Solčany",
+      "postalCodes": "95617"
+    },
+    {
+      "name": "Somotor",
+      "postalCodes": "07635"
+    },
+    {
+      "name": "Soľ",
+      "postalCodes": "09435"
+    },
+    {
+      "name": "Spišská Belá",
+      "postalCodes": "05901"
+    },
+    {
+      "name": "Spišská Nová Ves",
+      "postalCodes": "05201, 05205"
+    },
+    {
+      "name": "Spišská Stará Ves",
+      "postalCodes": "06101"
+    },
+    {
+      "name": "Spišská Teplica",
+      "postalCodes": "05934"
+    },
+    {
+      "name": "Spišské Bystré",
+      "postalCodes": "05918"
+    },
+    {
+      "name": "Spišské Hanušovce",
+      "postalCodes": "05904"
+    },
+    {
+      "name": "Spišské Podhradie",
+      "postalCodes": "05304"
+    },
+    {
+      "name": "Spišské Vlachy",
+      "postalCodes": "05361"
+    },
+    {
+      "name": "Spišský Hrhov",
+      "postalCodes": "05302"
+    },
+    {
+      "name": "Spišský Hrušov",
+      "postalCodes": "05363"
+    },
+    {
+      "name": "Spišský Štiavnik",
+      "postalCodes": "05914"
+    },
+    {
+      "name": "Spišský Štvrtok",
+      "postalCodes": "05314"
+    },
+    {
+      "name": "Stakčín",
+      "postalCodes": "06761"
+    },
+    {
+      "name": "Stankovany",
+      "postalCodes": "03492"
+    },
+    {
+      "name": "Stará Bystrica",
+      "postalCodes": "02304"
+    },
+    {
+      "name": "Stará Turá",
+      "postalCodes": "91601"
+    },
+    {
+      "name": "Stará Ľubovňa",
+      "postalCodes": "06401"
+    },
+    {
+      "name": "Staré",
+      "postalCodes": "07223"
+    },
+    {
+      "name": "Staré Hory",
+      "postalCodes": "97602"
+    },
+    {
+      "name": "Starý Smokovec",
+      "postalCodes": "06201, 05983"
+    },
+    {
+      "name": "Starý Tekov",
+      "postalCodes": "93526"
+    },
+    {
+      "name": "Streda nad Bodrogom",
+      "postalCodes": "07631"
+    },
+    {
+      "name": "Strekov",
+      "postalCodes": "94137"
+    },
+    {
+      "name": "Strečno",
+      "postalCodes": "01324"
+    },
+    {
+      "name": "Stropkov",
+      "postalCodes": "09101"
+    },
+    {
+      "name": "Stráňavy",
+      "postalCodes": "01325"
+    },
+    {
+      "name": "Strážske",
+      "postalCodes": "07222"
+    },
+    {
+      "name": "Studienka",
+      "postalCodes": "90875"
+    },
+    {
+      "name": "Stupava",
+      "postalCodes": "90031"
+    },
+    {
+      "name": "Suchohrad",
+      "postalCodes": "90064"
+    },
+    {
+      "name": "Suchá Hora",
+      "postalCodes": "02713"
+    },
+    {
+      "name": "Suchá nad Parnou",
+      "postalCodes": "91901"
+    },
+    {
+      "name": "Sučany",
+      "postalCodes": "03852, 03851"
+    },
+    {
+      "name": "Svidník",
+      "postalCodes": "08901"
+    },
+    {
+      "name": "Svinia",
+      "postalCodes": "08232"
+    },
+    {
+      "name": "Svinná",
+      "postalCodes": "91324"
+    },
+    {
+      "name": "Svit",
+      "postalCodes": "05921"
+    },
+    {
+      "name": "Svodín",
+      "postalCodes": "94354"
+    },
+    {
+      "name": "Svrčinovec",
+      "postalCodes": "02312"
+    },
+    {
+      "name": "Svätoplukovo",
+      "postalCodes": "95116"
+    },
+    {
+      "name": "Svätuše",
+      "postalCodes": "07683"
+    },
+    {
+      "name": "Svätý Anton",
+      "postalCodes": "96972"
+    },
+    {
+      "name": "Svätý Jur",
+      "postalCodes": "90021"
+    },
+    {
+      "name": "Svätý Kríž",
+      "postalCodes": "03211"
+    },
+    {
+      "name": "Svätý Peter",
+      "postalCodes": "94657"
+    },
+    {
+      "name": "Sása",
+      "postalCodes": "96262"
+    },
+    {
+      "name": "Súľov",
+      "postalCodes": "01352"
+    },
+    {
+      "name": "Sľažany",
+      "postalCodes": "95171"
+    },
+    {
+      "name": "Tajov",
+      "postalCodes": "97634"
+    },
+    {
+      "name": "Tatranská Kotlina",
+      "postalCodes": "05954"
+    },
+    {
+      "name": "Tatranská Lomnica",
+      "postalCodes": "05960"
+    },
+    {
+      "name": "Tatranská Štrba",
+      "postalCodes": "05941"
+    },
+    {
+      "name": "Tehla",
+      "postalCodes": "93535"
+    },
+    {
+      "name": "Tekovská Breznica",
+      "postalCodes": "96652"
+    },
+    {
+      "name": "Tekovské Lužany",
+      "postalCodes": "93541"
+    },
+    {
+      "name": "Tekovské Nemce",
+      "postalCodes": "96654"
+    },
+    {
+      "name": "Tekovský Hrádok",
+      "postalCodes": "93551"
+    },
+    {
+      "name": "Telgárt",
+      "postalCodes": "97673"
+    },
+    {
+      "name": "Teplička nad Váhom",
+      "postalCodes": "01301"
+    },
+    {
+      "name": "Teplý Vrch",
+      "postalCodes": "98023"
+    },
+    {
+      "name": "Terchová",
+      "postalCodes": "01306"
+    },
+    {
+      "name": "Terňa",
+      "postalCodes": "08267"
+    },
+    {
+      "name": "Tesárske Mlyňany",
+      "postalCodes": "95176"
+    },
+    {
+      "name": "Tešedíkovo",
+      "postalCodes": "92582"
+    },
+    {
+      "name": "Tisovec",
+      "postalCodes": "98061"
+    },
+    {
+      "name": "Tlmače",
+      "postalCodes": "93521"
+    },
+    {
+      "name": "Tomášikovo",
+      "postalCodes": "92504"
+    },
+    {
+      "name": "Tomášov",
+      "postalCodes": "90044"
+    },
+    {
+      "name": "Tomášovce",
+      "postalCodes": "98556"
+    },
+    {
+      "name": "Toporec",
+      "postalCodes": "05995"
+    },
+    {
+      "name": "Topoľa",
+      "postalCodes": "06765"
+    },
+    {
+      "name": "Topoľníky",
+      "postalCodes": "93011"
+    },
+    {
+      "name": "Topoľovka",
+      "postalCodes": "06745"
+    },
+    {
+      "name": "Topoľčany",
+      "postalCodes": "95501, 95503"
+    },
+    {
+      "name": "Topoľčianky",
+      "postalCodes": "95193"
+    },
+    {
+      "name": "Tornaľa",
+      "postalCodes": "98201"
+    },
+    {
+      "name": "Torysa",
+      "postalCodes": "08276"
+    },
+    {
+      "name": "Tovarné",
+      "postalCodes": "09401"
+    },
+    {
+      "name": "Trakovice",
+      "postalCodes": "91933"
+    },
+    {
+      "name": "Trebatice",
+      "postalCodes": "92210"
+    },
+    {
+      "name": "Trebišov",
+      "postalCodes": "07501, 07601"
+    },
+    {
+      "name": "Trenčianska Teplá",
+      "postalCodes": "91401"
+    },
+    {
+      "name": "Trenčianska Turná",
+      "postalCodes": "91321"
+    },
+    {
+      "name": "Trenčianske Jastrabie",
+      "postalCodes": "91323, 91322"
+    },
+    {
+      "name": "Trenčianske Stankovce",
+      "postalCodes": "91311"
+    },
+    {
+      "name": "Trenčianske Teplice",
+      "postalCodes": "91451"
+    },
+    {
+      "name": "Trenčín",
+      "postalCodes": "91101, 91105, 91108, 91106"
+    },
+    {
+      "name": "Trhovište",
+      "postalCodes": "07204"
+    },
+    {
+      "name": "Trhová Hradská",
+      "postalCodes": "93013"
+    },
+    {
+      "name": "Trnava",
+      "postalCodes": "91701, 91708, 91702, 91705"
+    },
+    {
+      "name": "Trnavá Hora",
+      "postalCodes": "96611"
+    },
+    {
+      "name": "Trnovec nad Váhom",
+      "postalCodes": "92571"
+    },
+    {
+      "name": "Trstená",
+      "postalCodes": "02801"
+    },
+    {
+      "name": "Trstice",
+      "postalCodes": "92542"
+    },
+    {
+      "name": "Trstín",
+      "postalCodes": "91905"
+    },
+    {
+      "name": "Trávnica",
+      "postalCodes": "94146"
+    },
+    {
+      "name": "Tuchyňa",
+      "postalCodes": "01855"
+    },
+    {
+      "name": "Tuhrina",
+      "postalCodes": "08207"
+    },
+    {
+      "name": "Tuhár",
+      "postalCodes": "98512"
+    },
+    {
+      "name": "Tulčík",
+      "postalCodes": "08213"
+    },
+    {
+      "name": "Turany nad Ondavou",
+      "postalCodes": "09033, 09034"
+    },
+    {
+      "name": "Turany nad Váhom",
+      "postalCodes": "03853"
+    },
+    {
+      "name": "Turie",
+      "postalCodes": "01312"
+    },
+    {
+      "name": "Turzovka",
+      "postalCodes": "02354"
+    },
+    {
+      "name": "Turček",
+      "postalCodes": "03848"
+    },
+    {
+      "name": "Turčianske Teplice",
+      "postalCodes": "03901"
+    },
+    {
+      "name": "Turňa nad Bodvou",
+      "postalCodes": "04402"
+    },
+    {
+      "name": "Tušická Nová Ves",
+      "postalCodes": "07202"
+    },
+    {
+      "name": "Tužina",
+      "postalCodes": "97214"
+    },
+    {
+      "name": "Tvrdošovce",
+      "postalCodes": "94110"
+    },
+    {
+      "name": "Tvrdošín",
+      "postalCodes": "02744"
+    },
+    {
+      "name": "Tôň",
+      "postalCodes": "94615"
+    },
+    {
+      "name": "Tŕnie",
+      "postalCodes": "96234"
+    },
+    {
+      "name": "Ubľa",
+      "postalCodes": "06773"
+    },
+    {
+      "name": "Udavské",
+      "postalCodes": "06731"
+    },
+    {
+      "name": "Udiča",
+      "postalCodes": "01801"
+    },
+    {
+      "name": "Uhorské",
+      "postalCodes": "98525, 98524"
+    },
+    {
+      "name": "Uhrovec",
+      "postalCodes": "95641"
+    },
+    {
+      "name": "Ulič",
+      "postalCodes": "06767"
+    },
+    {
+      "name": "Unín",
+      "postalCodes": "90846"
+    },
+    {
+      "name": "Urmince",
+      "postalCodes": "95602"
+    },
+    {
+      "name": "Utekáč",
+      "postalCodes": "98506"
+    },
+    {
+      "name": "Uzovce",
+      "postalCodes": "08266"
+    },
+    {
+      "name": "Valaliky",
+      "postalCodes": "04413"
+    },
+    {
+      "name": "Valaská",
+      "postalCodes": "97646"
+    },
+    {
+      "name": "Valaská Belá",
+      "postalCodes": "97228"
+    },
+    {
+      "name": "Valaská Dubová",
+      "postalCodes": "03496"
+    },
+    {
+      "name": "Valča",
+      "postalCodes": "03835"
+    },
+    {
+      "name": "Varín",
+      "postalCodes": "01303"
+    },
+    {
+      "name": "Važec",
+      "postalCodes": "03261"
+    },
+    {
+      "name": "Vechec",
+      "postalCodes": "09412"
+    },
+    {
+      "name": "Veličná",
+      "postalCodes": "02754"
+    },
+    {
+      "name": "Vernár",
+      "postalCodes": "05917"
+    },
+    {
+      "name": "Veselé",
+      "postalCodes": "92208"
+    },
+    {
+      "name": "Veľaty",
+      "postalCodes": "07615"
+    },
+    {
+      "name": "Veľká Franková",
+      "postalCodes": "05978"
+    },
+    {
+      "name": "Veľká Ida",
+      "postalCodes": "04455"
+    },
+    {
+      "name": "Veľká Lehota",
+      "postalCodes": "96641"
+    },
+    {
+      "name": "Veľká Lesná",
+      "postalCodes": "06534"
+    },
+    {
+      "name": "Veľká Lomnica",
+      "postalCodes": "05952"
+    },
+    {
+      "name": "Veľká Mača",
+      "postalCodes": "92532"
+    },
+    {
+      "name": "Veľká Paka",
+      "postalCodes": "93051"
+    },
+    {
+      "name": "Veľká Tŕňa",
+      "postalCodes": "07682"
+    },
+    {
+      "name": "Veľká Ves nad Ipľom",
+      "postalCodes": "99110"
+    },
+    {
+      "name": "Veľká nad Ipľom",
+      "postalCodes": "98532"
+    },
+    {
+      "name": "Veľká Čalomija",
+      "postalCodes": "99109"
+    },
+    {
+      "name": "Veľké Blahovo",
+      "postalCodes": "93001"
+    },
+    {
+      "name": "Veľké Chlievany",
+      "postalCodes": "95655"
+    },
+    {
+      "name": "Veľké Dravce",
+      "postalCodes": "98542"
+    },
+    {
+      "name": "Veľké Držkovce",
+      "postalCodes": "95654"
+    },
+    {
+      "name": "Veľké Kapušany",
+      "postalCodes": "07901"
+    },
+    {
+      "name": "Veľké Kosihy",
+      "postalCodes": "94621"
+    },
+    {
+      "name": "Veľké Kostoľany",
+      "postalCodes": "92207"
+    },
+    {
+      "name": "Veľké Leváre",
+      "postalCodes": "90873"
+    },
+    {
+      "name": "Veľké Lovce",
+      "postalCodes": "94142"
+    },
+    {
+      "name": "Veľké Ludince",
+      "postalCodes": "93565"
+    },
+    {
+      "name": "Veľké Pole",
+      "postalCodes": "96674"
+    },
+    {
+      "name": "Veľké Revištia",
+      "postalCodes": "07243"
+    },
+    {
+      "name": "Veľké Ripňany",
+      "postalCodes": "95607"
+    },
+    {
+      "name": "Veľké Rovné",
+      "postalCodes": "01362"
+    },
+    {
+      "name": "Veľké Trakany",
+      "postalCodes": "07642"
+    },
+    {
+      "name": "Veľké Uherce",
+      "postalCodes": "95841"
+    },
+    {
+      "name": "Veľké Zlievce",
+      "postalCodes": "99123"
+    },
+    {
+      "name": "Veľké Zálužie",
+      "postalCodes": "95135"
+    },
+    {
+      "name": "Veľké Úľany",
+      "postalCodes": "92522"
+    },
+    {
+      "name": "Veľký Biel",
+      "postalCodes": "90024"
+    },
+    {
+      "name": "Veľký Blh",
+      "postalCodes": "98022"
+    },
+    {
+      "name": "Veľký Cetín",
+      "postalCodes": "95105"
+    },
+    {
+      "name": "Veľký Folkmar",
+      "postalCodes": "05551"
+    },
+    {
+      "name": "Veľký Horeš",
+      "postalCodes": "07652"
+    },
+    {
+      "name": "Veľký Kamenec",
+      "postalCodes": "07636"
+    },
+    {
+      "name": "Veľký Klíž",
+      "postalCodes": "95845"
+    },
+    {
+      "name": "Veľký Krtíš",
+      "postalCodes": "99001"
+    },
+    {
+      "name": "Veľký Kýr",
+      "postalCodes": "94107"
+    },
+    {
+      "name": "Veľký Lapáš",
+      "postalCodes": "95104"
+    },
+    {
+      "name": "Veľký Lipník",
+      "postalCodes": "06533"
+    },
+    {
+      "name": "Veľký Meder",
+      "postalCodes": "93201"
+    },
+    {
+      "name": "Veľký Slavkov",
+      "postalCodes": "05991"
+    },
+    {
+      "name": "Veľký Ďur",
+      "postalCodes": "93534"
+    },
+    {
+      "name": "Veľký Šariš",
+      "postalCodes": "08221"
+    },
+    {
+      "name": "Vidiná",
+      "postalCodes": "98559"
+    },
+    {
+      "name": "Vikartovce",
+      "postalCodes": "05919"
+    },
+    {
+      "name": "Vinica",
+      "postalCodes": "99128"
+    },
+    {
+      "name": "Viničné",
+      "postalCodes": "90023"
+    },
+    {
+      "name": "Vinné",
+      "postalCodes": "07236, 07231"
+    },
+    {
+      "name": "Vinodol",
+      "postalCodes": "95106"
+    },
+    {
+      "name": "Vinohrady nad Váhom",
+      "postalCodes": "92555"
+    },
+    {
+      "name": "Vištuk",
+      "postalCodes": "90085"
+    },
+    {
+      "name": "Višňové",
+      "postalCodes": "01323"
+    },
+    {
+      "name": "Vlachovo",
+      "postalCodes": "04924"
+    },
+    {
+      "name": "Vlkanová",
+      "postalCodes": "97631"
+    },
+    {
+      "name": "Vlčany",
+      "postalCodes": "92584"
+    },
+    {
+      "name": "Vlčkovce",
+      "postalCodes": "91923"
+    },
+    {
+      "name": "Voderady",
+      "postalCodes": "91942"
+    },
+    {
+      "name": "Vojany",
+      "postalCodes": "07672"
+    },
+    {
+      "name": "Vojka nad Dunajom",
+      "postalCodes": "93031"
+    },
+    {
+      "name": "Vojčice",
+      "postalCodes": "07622"
+    },
+    {
+      "name": "Volkovce",
+      "postalCodes": "95187"
+    },
+    {
+      "name": "Vozokany",
+      "postalCodes": "92505"
+    },
+    {
+      "name": "Vrakúň",
+      "postalCodes": "93025"
+    },
+    {
+      "name": "Vranov nad Topľou",
+      "postalCodes": "09301, 09303, 09302"
+    },
+    {
+      "name": "Vrbov",
+      "postalCodes": "05972"
+    },
+    {
+      "name": "Vrbovce",
+      "postalCodes": "90606"
+    },
+    {
+      "name": "Vrbové",
+      "postalCodes": "92203"
+    },
+    {
+      "name": "Vráble",
+      "postalCodes": "95201"
+    },
+    {
+      "name": "Vrádište",
+      "postalCodes": "90849"
+    },
+    {
+      "name": "Vrícko",
+      "postalCodes": "03831"
+    },
+    {
+      "name": "Vrútky",
+      "postalCodes": "03861"
+    },
+    {
+      "name": "Vydrany",
+      "postalCodes": "93016"
+    },
+    {
+      "name": "Vyhne",
+      "postalCodes": "96602"
+    },
+    {
+      "name": "Vysoká nad Kysucou",
+      "postalCodes": "02355"
+    },
+    {
+      "name": "Vysoká pri Morave",
+      "postalCodes": "90066"
+    },
+    {
+      "name": "Vyškovce nad Ipľom",
+      "postalCodes": "93577"
+    },
+    {
+      "name": "Vyšné Hágy",
+      "postalCodes": "05984"
+    },
+    {
+      "name": "Vyšné Repaše",
+      "postalCodes": "05371"
+    },
+    {
+      "name": "Vyšné Ružbachy",
+      "postalCodes": "06502"
+    },
+    {
+      "name": "Vyšný Hrušov",
+      "postalCodes": "06732"
+    },
+    {
+      "name": "Vyšný Orlík",
+      "postalCodes": "09011"
+    },
+    {
+      "name": "Vyšný Žipov",
+      "postalCodes": "09433"
+    },
+    {
+      "name": "Váhovce",
+      "postalCodes": "92562"
+    },
+    {
+      "name": "Vígľaš",
+      "postalCodes": "96202"
+    },
+    {
+      "name": "Víťaz",
+      "postalCodes": "08238"
+    },
+    {
+      "name": "Východná",
+      "postalCodes": "03232"
+    },
+    {
+      "name": "Výrava",
+      "postalCodes": "06716"
+    },
+    {
+      "name": "Výčapy-Opatovce",
+      "postalCodes": "95144"
+    },
+    {
+      "name": "Včelince",
+      "postalCodes": "98050"
+    },
+    {
+      "name": "Zalužice",
+      "postalCodes": "07234"
+    },
+    {
+      "name": "Zavar",
+      "postalCodes": "91926"
+    },
+    {
+      "name": "Zbehy",
+      "postalCodes": "95142"
+    },
+    {
+      "name": "Zboj",
+      "postalCodes": "06768"
+    },
+    {
+      "name": "Zborov",
+      "postalCodes": "08633"
+    },
+    {
+      "name": "Zborov nad Bystricou",
+      "postalCodes": "02303"
+    },
+    {
+      "name": "Zeleneč",
+      "postalCodes": "91921"
+    },
+    {
+      "name": "Zemianska Olča",
+      "postalCodes": "94614"
+    },
+    {
+      "name": "Zemianske Kostoľany",
+      "postalCodes": "97243"
+    },
+    {
+      "name": "Zemianske Sady",
+      "postalCodes": "92554"
+    },
+    {
+      "name": "Zemné",
+      "postalCodes": "94122"
+    },
+    {
+      "name": "Zemplínska Teplica",
+      "postalCodes": "07664"
+    },
+    {
+      "name": "Zemplínske Hámre",
+      "postalCodes": "06777"
+    },
+    {
+      "name": "Zemplínske Kopčany",
+      "postalCodes": "07217"
+    },
+    {
+      "name": "Zlatná na Ostrove",
+      "postalCodes": "94612"
+    },
+    {
+      "name": "Zlatníky",
+      "postalCodes": "95637"
+    },
+    {
+      "name": "Zlatá Idka",
+      "postalCodes": "04461"
+    },
+    {
+      "name": "Zlaté Klasy",
+      "postalCodes": "93039"
+    },
+    {
+      "name": "Zlaté Moravce",
+      "postalCodes": "95301, 95305"
+    },
+    {
+      "name": "Zliechov",
+      "postalCodes": "01832"
+    },
+    {
+      "name": "Zohor",
+      "postalCodes": "90051"
+    },
+    {
+      "name": "Zuberec",
+      "postalCodes": "02732"
+    },
+    {
+      "name": "Zubrohlava",
+      "postalCodes": "02943"
+    },
+    {
+      "name": "Zubák",
+      "postalCodes": "02064"
+    },
+    {
+      "name": "Zvolen",
+      "postalCodes": "96001"
+    },
+    {
+      "name": "Zvolenská Slatina",
+      "postalCodes": "96201"
+    },
+    {
+      "name": "Záhorská Ves",
+      "postalCodes": "90065"
+    },
+    {
+      "name": "Zákamenné",
+      "postalCodes": "02956"
+    },
+    {
+      "name": "Zákopčie",
+      "postalCodes": "02311"
+    },
+    {
+      "name": "Zámutov",
+      "postalCodes": "09415"
+    },
+    {
+      "name": "Závada",
+      "postalCodes": "99121"
+    },
+    {
+      "name": "Závadka nad Hronom",
+      "postalCodes": "97667"
+    },
+    {
+      "name": "Závažná Poruba",
+      "postalCodes": "03202"
+    },
+    {
+      "name": "Závod",
+      "postalCodes": "90872"
+    },
+    {
+      "name": "Zázrivá",
+      "postalCodes": "02705"
+    },
+    {
+      "name": "Ábelová",
+      "postalCodes": "98513"
+    },
+    {
+      "name": "Úbrež",
+      "postalCodes": "07242"
+    },
+    {
+      "name": "Úpor",
+      "postalCodes": "07616"
+    },
+    {
+      "name": "Úľany nad Žitavou",
+      "postalCodes": "94103"
+    },
+    {
+      "name": "Čabiny",
+      "postalCodes": "06702"
+    },
+    {
+      "name": "Čabradský Vrbovok",
+      "postalCodes": "96251"
+    },
+    {
+      "name": "Čachtice",
+      "postalCodes": "91621"
+    },
+    {
+      "name": "Čadca",
+      "postalCodes": "02201, 02204"
+    },
+    {
+      "name": "Čajkov",
+      "postalCodes": "93524"
+    },
+    {
+      "name": "Čaka",
+      "postalCodes": "93568"
+    },
+    {
+      "name": "Čalovec",
+      "postalCodes": "94602"
+    },
+    {
+      "name": "Častkovce",
+      "postalCodes": "91627"
+    },
+    {
+      "name": "Častá",
+      "postalCodes": "90089"
+    },
+    {
+      "name": "Čata",
+      "postalCodes": "93563"
+    },
+    {
+      "name": "Čataj",
+      "postalCodes": "90083"
+    },
+    {
+      "name": "Čavoj",
+      "postalCodes": "97229"
+    },
+    {
+      "name": "Čaňa",
+      "postalCodes": "04414"
+    },
+    {
+      "name": "Čebovce",
+      "postalCodes": "99125"
+    },
+    {
+      "name": "Čechynce",
+      "postalCodes": "95107"
+    },
+    {
+      "name": "Čelovce",
+      "postalCodes": "99141"
+    },
+    {
+      "name": "Čereňany",
+      "postalCodes": "97246"
+    },
+    {
+      "name": "Čerhov",
+      "postalCodes": "07681"
+    },
+    {
+      "name": "Černík",
+      "postalCodes": "94105"
+    },
+    {
+      "name": "Červený Kameň",
+      "postalCodes": "01856"
+    },
+    {
+      "name": "Červený Kláštor",
+      "postalCodes": "05906"
+    },
+    {
+      "name": "České Brezovo",
+      "postalCodes": "98503"
+    },
+    {
+      "name": "Čečehov",
+      "postalCodes": "07211"
+    },
+    {
+      "name": "Čečejovce",
+      "postalCodes": "04471"
+    },
+    {
+      "name": "Čeľadice",
+      "postalCodes": "95103"
+    },
+    {
+      "name": "Čierna Voda",
+      "postalCodes": "92506"
+    },
+    {
+      "name": "Čierna nad Tisou",
+      "postalCodes": "07643"
+    },
+    {
+      "name": "Čierne",
+      "postalCodes": "02313"
+    },
+    {
+      "name": "Čierny Balog",
+      "postalCodes": "97652"
+    },
+    {
+      "name": "Čierny Brod",
+      "postalCodes": "92508"
+    },
+    {
+      "name": "Čifáre",
+      "postalCodes": "95161"
+    },
+    {
+      "name": "Čiližská Radvaň",
+      "postalCodes": "93008"
+    },
+    {
+      "name": "Čirč",
+      "postalCodes": "06542"
+    },
+    {
+      "name": "Čičarovce",
+      "postalCodes": "07671"
+    },
+    {
+      "name": "Čáry",
+      "postalCodes": "90843"
+    },
+    {
+      "name": "Číčov",
+      "postalCodes": "94619"
+    },
+    {
+      "name": "Číž",
+      "postalCodes": "98043"
+    },
+    {
+      "name": "Ľubeľa",
+      "postalCodes": "03214, 03213"
+    },
+    {
+      "name": "Ľubica",
+      "postalCodes": "05971"
+    },
+    {
+      "name": "Ľubietová",
+      "postalCodes": "97655"
+    },
+    {
+      "name": "Ľubiša",
+      "postalCodes": "06711"
+    },
+    {
+      "name": "Ľubochňa",
+      "postalCodes": "03491"
+    },
+    {
+      "name": "Ľubotín",
+      "postalCodes": "06543, 06541"
+    },
+    {
+      "name": "Ľubá",
+      "postalCodes": "94353"
+    },
+    {
+      "name": "Ľutina",
+      "postalCodes": "08257"
+    },
+    {
+      "name": "Šahy",
+      "postalCodes": "93601"
+    },
+    {
+      "name": "Šajdíkove Humence",
+      "postalCodes": "90607"
+    },
+    {
+      "name": "Šalgovce",
+      "postalCodes": "95606"
+    },
+    {
+      "name": "Šalov",
+      "postalCodes": "93571"
+    },
+    {
+      "name": "Šamorín",
+      "postalCodes": "93101"
+    },
+    {
+      "name": "Šarišské Bohdanovce",
+      "postalCodes": "08205"
+    },
+    {
+      "name": "Šarišské Dravce",
+      "postalCodes": "08273"
+    },
+    {
+      "name": "Šarišské Jastrabie",
+      "postalCodes": "06548"
+    },
+    {
+      "name": "Šarišské Michaľany",
+      "postalCodes": "08222"
+    },
+    {
+      "name": "Šarišské Čierne",
+      "postalCodes": "08637"
+    },
+    {
+      "name": "Šarovce",
+      "postalCodes": "93552"
+    },
+    {
+      "name": "Šaľa",
+      "postalCodes": "92701, 92705"
+    },
+    {
+      "name": "Šaštín-Stráže",
+      "postalCodes": "90841"
+    },
+    {
+      "name": "Šemša",
+      "postalCodes": "04421"
+    },
+    {
+      "name": "Šenkvice",
+      "postalCodes": "90081"
+    },
+    {
+      "name": "Šimonovce",
+      "postalCodes": "98003"
+    },
+    {
+      "name": "Šintava",
+      "postalCodes": "92551"
+    },
+    {
+      "name": "Široké",
+      "postalCodes": "08237"
+    },
+    {
+      "name": "Šišov",
+      "postalCodes": "95638"
+    },
+    {
+      "name": "Šoltýska",
+      "postalCodes": "98507"
+    },
+    {
+      "name": "Šoporňa",
+      "postalCodes": "92552"
+    },
+    {
+      "name": "Špačince",
+      "postalCodes": "91951"
+    },
+    {
+      "name": "Štefanov",
+      "postalCodes": "90645"
+    },
+    {
+      "name": "Štiavnické Bane",
+      "postalCodes": "96981"
+    },
+    {
+      "name": "Štiavnik",
+      "postalCodes": "01355, 01356"
+    },
+    {
+      "name": "Štrba",
+      "postalCodes": "05938"
+    },
+    {
+      "name": "Štrbské Pleso",
+      "postalCodes": "05985"
+    },
+    {
+      "name": "Štrkovec",
+      "postalCodes": "98045"
+    },
+    {
+      "name": "Štvrtok na Ostrove",
+      "postalCodes": "93040"
+    },
+    {
+      "name": "Štítnik",
+      "postalCodes": "04932"
+    },
+    {
+      "name": "Štós",
+      "postalCodes": "04426"
+    },
+    {
+      "name": "Štôla",
+      "postalCodes": "05937"
+    },
+    {
+      "name": "Štúrovo",
+      "postalCodes": "94301"
+    },
+    {
+      "name": "Šumiac",
+      "postalCodes": "97671"
+    },
+    {
+      "name": "Šurany",
+      "postalCodes": "94201"
+    },
+    {
+      "name": "Šuňava",
+      "postalCodes": "05939"
+    },
+    {
+      "name": "Švedlár",
+      "postalCodes": "05334"
+    },
+    {
+      "name": "Šávoľ",
+      "postalCodes": "98541"
+    },
+    {
+      "name": "Šúrovce",
+      "postalCodes": "91925"
+    },
+    {
+      "name": "Žabokreky",
+      "postalCodes": "03840"
+    },
+    {
+      "name": "Žabokreky nad Nitrou",
+      "postalCodes": "95852"
+    },
+    {
+      "name": "Žakarovce",
+      "postalCodes": "05571"
+    },
+    {
+      "name": "Žakovce",
+      "postalCodes": "05973"
+    },
+    {
+      "name": "Žalobín",
+      "postalCodes": "09403"
+    },
+    {
+      "name": "Žarnovica",
+      "postalCodes": "96681"
+    },
+    {
+      "name": "Žaškov",
+      "postalCodes": "02721"
+    },
+    {
+      "name": "Ždaňa",
+      "postalCodes": "04411"
+    },
+    {
+      "name": "Ždiar",
+      "postalCodes": "05955"
+    },
+    {
+      "name": "Žehňa",
+      "postalCodes": "08206"
+    },
+    {
+      "name": "Želiezovce",
+      "postalCodes": "93701"
+    },
+    {
+      "name": "Želovce",
+      "postalCodes": "99106"
+    },
+    {
+      "name": "Žemberovce",
+      "postalCodes": "93502"
+    },
+    {
+      "name": "Žiar nad Hronom",
+      "postalCodes": "96501"
+    },
+    {
+      "name": "Žihárec",
+      "postalCodes": "92583"
+    },
+    {
+      "name": "Žilina",
+      "postalCodes": "01001, 01004, 01003, 01009, 01008, 01015, 01014, 01007"
+    },
+    {
+      "name": "Žirany",
+      "postalCodes": "95174"
+    },
+    {
+      "name": "Žitavany",
+      "postalCodes": "95197"
+    }
+  ],
+  "meta": {
+    "title": "Slovenské obce s PSČ - Bezplatné stiahnutie",
+    "description": "Slovak municipalities with postal codes Obsahuje 1271 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Slovenské obce s PSČ | ListBase",
+    "seo_description": "Stiahnuť Slovenské obce s PSČ — 1271 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 1271 záznamov / 2 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "id": "sk-trnavsky-letiska",
+  "name": "Letiská — Trnavský kraj",
+  "title": "Letiská — Trnavský kraj",
+  "description": "Zoznam letísk v kraji „Trnavský kraj“ na Slovensku s ICAO/IATA kódmi, mestom, súradnicami (WGS84) a nadmorskou výškou. (Trnava Region -- list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "geography",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_source",
+      "label": "Kraj Source",
+      "type": "string"
+    },
+    {
+      "key": "kraj_slug",
+      "label": "Kraj Slug",
+      "type": "string"
+    },
+    {
+      "key": "kraj_en",
+      "label": "Kraj En",
+      "type": "string"
+    },
+    {
+      "key": "kraj_inferred_from_city",
+      "label": "Kraj Inferred From City",
+      "type": "boolean"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LZHL",
+      "iata": "",
+      "name": "Holic Airport",
+      "name_slug": "holic-airport",
+      "city": "Holic",
+      "kraj": "Trnavský kraj",
+      "kraj_source": "Trnavsky",
+      "kraj_slug": "trnavsky",
+      "kraj_en": "Trnava Region",
+      "kraj_inferred_from_city": false,
+      "country": "SK",
+      "elevation_ft": 520,
+      "lat": 48.8103,
+      "lon": 17.1338,
+      "timezone": "Europe/Bratislava",
+      "has_iata": false
+    },
+    {
+      "icao": "LZPP",
+      "iata": "PZY",
+      "name": "Piestany Airport",
+      "name_slug": "piestany-airport",
+      "city": "Piestany",
+      "kraj": "Trnavský kraj",
+      "kraj_source": "",
+      "kraj_slug": "trnavsky",
+      "kraj_en": "Trnava Region",
+      "kraj_inferred_from_city": true,
+      "country": "SK",
+      "elevation_ft": 545,
+      "lat": 48.6251983643,
+      "lon": 17.8283996582,
+      "timezone": "Europe/Bratislava",
+      "has_iata": true
+    },
+    {
+      "icao": "LZSE",
+      "iata": "",
+      "name": "Senica Airport",
+      "name_slug": "senica-airport",
+      "city": "Senica",
+      "kraj": "Trnavský kraj",
+      "kraj_source": "",
+      "kraj_slug": "trnavsky",
+      "kraj_en": "Trnava Region",
+      "kraj_inferred_from_city": true,
+      "country": "SK",
+      "elevation_ft": 610,
+      "lat": 48.6568984985,
+      "lon": 17.3321990967,
+      "timezone": "Europe/Bratislava",
+      "has_iata": false
+    },
+    {
+      "icao": "LZTR",
+      "iata": "",
+      "name": "Letisko Airport",
+      "name_slug": "letisko-airport",
+      "city": "Boleraz",
+      "kraj": "Trnavský kraj",
+      "kraj_source": "Trnavsky",
+      "kraj_slug": "trnavsky",
+      "kraj_en": "Trnava Region",
+      "kraj_inferred_from_city": false,
+      "country": "SK",
+      "elevation_ft": 666,
+      "lat": 48.4557991028,
+      "lon": 17.5263996124,
+      "timezone": "Europe/Bratislava",
+      "has_iata": false
+    }
+  ],
+  "meta": {
+    "title": "Letiská — Trnavský kraj - Bezplatné stiahnutie",
+    "description": "Zoznam letísk v kraji „Trnavský kraj“ na Slovensku s ICAO/IATA kódmi, mestom, súradnicami (WGS84) a nadmorskou výškou. (Trnava Region -- list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Obsahuje 4 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Letiská — Trnavský kraj | ListBase",
+    "seo_description": "Stiahnuť Letiská — Trnavský kraj — 4 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 4 záznamov / 16 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: https://github.com/mwgg/Airports"
+    ]
+  }
+}

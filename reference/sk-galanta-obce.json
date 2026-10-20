@@ -1,0 +1,516 @@
+{
+  "id": "sk-galanta-obce",
+  "name": "Obce v okrese Galanta",
+  "title": "Obce v okrese Galanta",
+  "description": "Všetky obce (municipality) v okrese Galanta, Trnavský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 3,
+      "fullname": "Abrahám",
+      "shortname": "Abrahám",
+      "zip": "925 45",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 611,
+      "fullname": "Dolná Streda",
+      "shortname": "Dolná Streda",
+      "zip": "925 63",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 643,
+      "fullname": "Dolné Saliby",
+      "shortname": "Dolné Saliby",
+      "zip": "925 02",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 658,
+      "fullname": "Dolný Chotár",
+      "shortname": "Dolný Chotár",
+      "zip": "925 41",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 809,
+      "fullname": "Galanta",
+      "shortname": "Galanta",
+      "zip": "924 01",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 811,
+      "fullname": "Gáň",
+      "shortname": "Gáň",
+      "zip": "924 01",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1023,
+      "fullname": "Horné Saliby",
+      "shortname": "Horné Saliby",
+      "zip": "925 03",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1024,
+      "fullname": "Horné Saliby - časť Hrušov",
+      "shortname": "Horné Saliby - Hrušov",
+      "zip": "925 02",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1037,
+      "fullname": "Horný Čepeň",
+      "shortname": "Horný Čepeň",
+      "zip": "926 01",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1057,
+      "fullname": "Hoste",
+      "shortname": "Hoste",
+      "zip": "925 45",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1315,
+      "fullname": "Javorinka",
+      "shortname": "Javorinka",
+      "zip": "925 01",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1323,
+      "fullname": "Jelka",
+      "shortname": "Jelka",
+      "zip": "925 23",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1283,
+      "fullname": "Jánovce",
+      "shortname": "Jánovce",
+      "zip": "925 22",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1346,
+      "fullname": "Kajal",
+      "shortname": "Kajal",
+      "zip": "925 92",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1598,
+      "fullname": "Košúty",
+      "shortname": "Košúty",
+      "zip": "925 09",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1630,
+      "fullname": "Kráľov Brod",
+      "shortname": "Kráľov Brod",
+      "zip": "925 41",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2031,
+      "fullname": "Malá Mača",
+      "shortname": "Malá Mača",
+      "zip": "925 21",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2141,
+      "fullname": "Matúškovo",
+      "shortname": "Matúškovo",
+      "zip": "925 01",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1991,
+      "fullname": "Mačonáš",
+      "shortname": "Mačonáš",
+      "zip": "925 41",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2257,
+      "fullname": "Mostová",
+      "shortname": "Mostová",
+      "zip": "925 07",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2300,
+      "fullname": "Nebojsa",
+      "shortname": "Nebojsa",
+      "zip": "924 01",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2429,
+      "fullname": "Nové Osady",
+      "shortname": "Nové Osady",
+      "zip": "925 22",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2594,
+      "fullname": "Pata",
+      "shortname": "Pata",
+      "zip": "925 53",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2571,
+      "fullname": "Paľovce",
+      "shortname": "Paľovce",
+      "zip": "925 92",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2876,
+      "fullname": "Pusté Sady",
+      "shortname": "Pusté Sady",
+      "zip": "925 54",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2877,
+      "fullname": "Pusté Úľany",
+      "shortname": "Pusté Úľany",
+      "zip": "925 28",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3118,
+      "fullname": "Sereď",
+      "shortname": "Sereď",
+      "zip": "926 01",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3196,
+      "fullname": "Slovenské Pole",
+      "shortname": "Slovenské Pole",
+      "zip": "925 41",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3156,
+      "fullname": "Sládkovičovo",
+      "shortname": "Sládkovičovo",
+      "zip": "925 21",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3551,
+      "fullname": "Tomášikovo",
+      "shortname": "Tomášikovo",
+      "zip": "925 04",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3562,
+      "fullname": "Topoľnica",
+      "shortname": "Topoľnica",
+      "zip": "925 92",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3617,
+      "fullname": "Trstice",
+      "shortname": "Trstice",
+      "zip": "925 42",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3761,
+      "fullname": "Veľká Mača",
+      "shortname": "Veľká Mača",
+      "zip": "925 32",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3808,
+      "fullname": "Veľké Úľany",
+      "shortname": "Veľké Úľany",
+      "zip": "925 22",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3823,
+      "fullname": "Veľký Grob",
+      "shortname": "Veľký Grob",
+      "zip": "925 27",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3872,
+      "fullname": "Vinohrady nad Váhom",
+      "shortname": "Vinohrady nad Váhom",
+      "zip": "925 55",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3925,
+      "fullname": "Vozokany",
+      "shortname": "Vozokany",
+      "zip": "925 05",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3700,
+      "fullname": "Váhovce",
+      "shortname": "Váhovce",
+      "zip": "925 62",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 4113,
+      "fullname": "Zemianske Sady",
+      "shortname": "Zemianske Sady",
+      "zip": "925 54",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 489,
+      "fullname": "Čierna Voda",
+      "shortname": "Čierna Voda",
+      "zip": "925 06",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 497,
+      "fullname": "Čierny Brod",
+      "shortname": "Čierny Brod",
+      "zip": "925 08",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3380,
+      "fullname": "Šalgočka",
+      "shortname": "Šalgočka",
+      "zip": "925 54",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3424,
+      "fullname": "Šintava",
+      "shortname": "Šintava",
+      "zip": "925 51",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3442,
+      "fullname": "Šoporňa",
+      "shortname": "Šoporňa",
+      "zip": "925 52",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3472,
+      "fullname": "Štrkovec",
+      "shortname": "Štrkovec",
+      "zip": "925 52",
+      "district_id": 16,
+      "okres": "Galanta",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Galanta - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Galanta, Trnavský kraj — s PSČ a kódom okresu. Obsahuje 45 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Galanta | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Galanta — 45 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 45 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

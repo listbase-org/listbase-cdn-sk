@@ -1,0 +1,646 @@
+{
+  "id": "sk-poprad-obce",
+  "name": "Obce v okrese Poprad",
+  "title": "Obce v okrese Poprad",
+  "description": "Všetky obce (municipality) v okrese Poprad, Prešovský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 58,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 92,
+      "fullname": "Batizovce",
+      "shortname": "Batizovce",
+      "zip": "059 35",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 670,
+      "fullname": "Dolný Smokovec",
+      "shortname": "Dolný Smokovec",
+      "zip": "059 81",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 791,
+      "fullname": "Filice",
+      "shortname": "Filice",
+      "zip": "058 01",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 836,
+      "fullname": "Gerlachov",
+      "shortname": "Gerlachov",
+      "zip": "059 42",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 812,
+      "fullname": "Gánovce",
+      "shortname": "Gánovce",
+      "zip": "058 01",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1048,
+      "fullname": "Horný Smokovec",
+      "shortname": "Horný Smokovec",
+      "zip": "062 01",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1066,
+      "fullname": "Hozelec",
+      "shortname": "Hozelec",
+      "zip": "059 11",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1095,
+      "fullname": "Hranovnica",
+      "shortname": "Hranovnica",
+      "zip": "059 16",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1067,
+      "fullname": "Hôrka",
+      "shortname": "Hôrka",
+      "zip": "059 12",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1313,
+      "fullname": "Javorina",
+      "shortname": "Javorina",
+      "zip": "059 56",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1282,
+      "fullname": "Jánovce",
+      "shortname": "Jánovce",
+      "zip": "059 13",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1422,
+      "fullname": "Kežmarské Žľaby",
+      "shortname": "Kežmarské Žľaby",
+      "zip": "059 60",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1426,
+      "fullname": "Kišovce",
+      "shortname": "Kišovce",
+      "zip": "059 12",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1660,
+      "fullname": "Kravany",
+      "shortname": "Kravany",
+      "zip": "059 18",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1745,
+      "fullname": "Kvetnica",
+      "shortname": "Kvetnica",
+      "zip": "058 01",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1883,
+      "fullname": "Liptovská Teplička",
+      "shortname": "Liptovská Teplička",
+      "zip": "059 40",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1948,
+      "fullname": "Lučivná",
+      "shortname": "Lučivná",
+      "zip": "059 31",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2001,
+      "fullname": "Machalovce",
+      "shortname": "Machalovce",
+      "zip": "059 13",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2133,
+      "fullname": "Matejovce",
+      "shortname": "Matejovce",
+      "zip": "059 51",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2165,
+      "fullname": "Mengusovce",
+      "shortname": "Mengusovce",
+      "zip": "059 36",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2213,
+      "fullname": "Mlynica",
+      "shortname": "Mlynica",
+      "zip": "059 91",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2364,
+      "fullname": "Nižná Šuňava",
+      "shortname": "Nižná Šuňava",
+      "zip": "059 39",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2405,
+      "fullname": "Nová Lesná",
+      "shortname": "Nová Lesná",
+      "zip": "059 86",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2412,
+      "fullname": "Nová Polianka",
+      "shortname": "Nová Polianka",
+      "zip": "059 83",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2443,
+      "fullname": "Nový Smokovec",
+      "shortname": "Nový Smokovec",
+      "zip": "062 01",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2494,
+      "fullname": "Ondrej",
+      "shortname": "Ondrej",
+      "zip": "059 12",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2721,
+      "fullname": "Podspády",
+      "shortname": "Podspády",
+      "zip": "059 56",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2763,
+      "fullname": "Poprad",
+      "shortname": "Poprad",
+      "zip": "058 01",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2849,
+      "fullname": "Primovce",
+      "shortname": "Primovce",
+      "zip": "059 12",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3241,
+      "fullname": "Spišská Sobota",
+      "shortname": "Spišská Sobota",
+      "zip": "058 01",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3243,
+      "fullname": "Spišská Teplica",
+      "shortname": "Spišská Teplica",
+      "zip": "059 34",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3244,
+      "fullname": "Spišské Bystré",
+      "shortname": "Spišské Bystré",
+      "zip": "059 18",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3251,
+      "fullname": "Spišský Štiavnik",
+      "shortname": "Spišský Štiavnik",
+      "zip": "059 14",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3279,
+      "fullname": "Starý Smokovec",
+      "shortname": "Starý Smokovec",
+      "zip": "062 01",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3298,
+      "fullname": "Stráže pod Tatrami",
+      "shortname": "Stráže pod Tatrami",
+      "zip": "058 01",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3370,
+      "fullname": "Svit",
+      "shortname": "Svit",
+      "zip": "059 21",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3506,
+      "fullname": "Tatranská Javorina",
+      "shortname": "Tatranská Javorina",
+      "zip": "059 56",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3507,
+      "fullname": "Tatranská Kotlina",
+      "shortname": "Tatranská Kotlina",
+      "zip": "059 54",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3508,
+      "fullname": "Tatranská Lesná",
+      "shortname": "Tatranská Lesná",
+      "zip": "059 60",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3509,
+      "fullname": "Tatranská Lomnica",
+      "shortname": "Tatranská Lomnica",
+      "zip": "059 60",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3510,
+      "fullname": "Tatranská Polianka",
+      "shortname": "Tatranská Polianka",
+      "zip": "062 01",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3511,
+      "fullname": "Tatranská Štrba",
+      "shortname": "Tatranská Štrba",
+      "zip": "059 41",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3512,
+      "fullname": "Tatranské Matliare",
+      "shortname": "Tatranské Matliare",
+      "zip": "059 60",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3513,
+      "fullname": "Tatranské Zruby",
+      "shortname": "Tatranské Zruby",
+      "zip": "062 01",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3845,
+      "fullname": "Vernár",
+      "shortname": "Vernár",
+      "zip": "059 17",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3741,
+      "fullname": "Veľká",
+      "shortname": "Veľká",
+      "zip": "058 01",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3840,
+      "fullname": "Veľký Slavkov",
+      "shortname": "Veľký Slavkov",
+      "zip": "059 91",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3864,
+      "fullname": "Vikartovce",
+      "shortname": "Vikartovce",
+      "zip": "059 19",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3962,
+      "fullname": "Vydrník",
+      "shortname": "Vydrník",
+      "zip": "059 14",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3977,
+      "fullname": "Vysoké Tatry",
+      "shortname": "Vysoké Tatry",
+      "zip": "062 01",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4000,
+      "fullname": "Vyšné Hágy",
+      "shortname": "Vyšné Hágy",
+      "zip": "059 84",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3692,
+      "fullname": "Úsvit",
+      "shortname": "Úsvit",
+      "zip": "059 11",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3470,
+      "fullname": "Štrba",
+      "shortname": "Štrba",
+      "zip": "059 38",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3471,
+      "fullname": "Štrbské Pleso",
+      "shortname": "Štrbské Pleso",
+      "zip": "059 85",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3469,
+      "fullname": "Štôla",
+      "shortname": "Štôla",
+      "zip": "059 37",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3484,
+      "fullname": "Šuňava",
+      "shortname": "Šuňava",
+      "zip": "059 39",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3492,
+      "fullname": "Švábovce",
+      "shortname": "Švábovce",
+      "zip": "059 12",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4173,
+      "fullname": "Ždiar",
+      "shortname": "Ždiar",
+      "zip": "059 55",
+      "district_id": 47,
+      "okres": "Poprad",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Poprad - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Poprad, Prešovský kraj — s PSČ a kódom okresu. Obsahuje 58 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Poprad | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Poprad — 58 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 58 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

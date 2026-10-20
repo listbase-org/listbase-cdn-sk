@@ -1,0 +1,336 @@
+{
+  "id": "sk-malacky-obce",
+  "name": "Obce v okrese Malacky",
+  "title": "Obce v okrese Malacky",
+  "description": "Všetky obce (municipality) v okrese Malacky, Bratislavský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 222,
+      "fullname": "Borinka",
+      "shortname": "Borinka",
+      "zip": "900 32",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 807,
+      "fullname": "Gajary",
+      "shortname": "Gajary",
+      "zip": "900 61",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 1247,
+      "fullname": "Jablonové",
+      "shortname": "Jablonové",
+      "zip": "900 54",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 1256,
+      "fullname": "Jakubov",
+      "shortname": "Jakubov",
+      "zip": "900 63",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 1548,
+      "fullname": "Kostolište",
+      "shortname": "Kostolište",
+      "zip": "900 62",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 1720,
+      "fullname": "Kuchyňa",
+      "shortname": "Kuchyňa",
+      "zip": "900 52",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 1926,
+      "fullname": "Lozorno",
+      "shortname": "Lozorno",
+      "zip": "900 55",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 1762,
+      "fullname": "Láb",
+      "shortname": "Láb",
+      "zip": "900 67",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2040,
+      "fullname": "Malacky",
+      "shortname": "Malacky",
+      "zip": "901 01",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2063,
+      "fullname": "Malé Leváre",
+      "shortname": "Malé Leváre",
+      "zip": "908 74",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2114,
+      "fullname": "Marianka",
+      "shortname": "Marianka",
+      "zip": "900 33",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2619,
+      "fullname": "Pernek",
+      "shortname": "Pernek",
+      "zip": "900 53",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2660,
+      "fullname": "Plavecké Podhradie",
+      "shortname": "Plavecké Podhradie",
+      "zip": "906 36",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2661,
+      "fullname": "Plavecký Mikuláš",
+      "shortname": "Plavecký Mikuláš",
+      "zip": "906 35",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2663,
+      "fullname": "Plavecký Štvrtok",
+      "shortname": "Plavecký Štvrtok",
+      "zip": "900 68",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2989,
+      "fullname": "Rohožník",
+      "shortname": "Rohožník",
+      "zip": "906 38",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 3234,
+      "fullname": "Sološnica",
+      "shortname": "Sološnica",
+      "zip": "906 37",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 3324,
+      "fullname": "Studienka",
+      "shortname": "Studienka",
+      "zip": "908 75",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 3327,
+      "fullname": "Stupava",
+      "shortname": "Stupava",
+      "zip": "900 31",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 3339,
+      "fullname": "Suchohrad",
+      "shortname": "Suchohrad",
+      "zip": "900 64",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 3790,
+      "fullname": "Veľké Leváre",
+      "shortname": "Veľké Leváre",
+      "zip": "908 73",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 3871,
+      "fullname": "Vinohrádok",
+      "shortname": "Vinohrádok",
+      "zip": "901 01",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 3976,
+      "fullname": "Vysoká pri Morave",
+      "shortname": "Vysoká pri Morave",
+      "zip": "900 66",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 4145,
+      "fullname": "Zohor",
+      "shortname": "Zohor",
+      "zip": "900 51",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 4045,
+      "fullname": "Záhorie",
+      "shortname": "Záhorie",
+      "zip": "901 01",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 4046,
+      "fullname": "Záhorská Ves",
+      "shortname": "Záhorská Ves",
+      "zip": "900 65",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 4084,
+      "fullname": "Závod",
+      "shortname": "Závod",
+      "zip": "908 72",
+      "district_id": 34,
+      "okres": "Malacky",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Malacky - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Malacky, Bratislavský kraj — s PSČ a kódom okresu. Obsahuje 27 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Malacky | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Malacky — 27 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 27 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "id": "sk-narodne-parky",
+  "name": "Národné parky Slovenska",
+  "title": "Národné parky Slovenska",
+  "description": "Zoznam národných parkov Slovenskej republiky podľa údajov Wikidata. Obsahuje 9 oficiálne vyhlásených národných parkov (TANAP, NAPANT, NPSR, NPSK, NPMF, NPVF, NPMP, PIENAP, NPP) plus 1 navrhovaný národný park (Podunajsko). Pre každý park: slovenský aj anglický názov, oficiálna skratka, rok vyhlásenia, rozloha v km² a hektároch, IUCN kategória, súradnice, oficiálna webová stránka, obrázok (Commons) a odkazy na Wikipédiu.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "qid",
+      "label": "Qid",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_sk",
+      "label": "Name Sk",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "abbreviation_sk",
+      "label": "Abbreviation Sk",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "established_year",
+      "label": "Established Year",
+      "type": "number"
+    },
+    {
+      "key": "established_date",
+      "label": "Established Date",
+      "type": "date"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "iucn_category",
+      "label": "Iucn Category",
+      "type": "string"
+    },
+    {
+      "key": "iucn_labels_en",
+      "label": "Iucn Labels En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "image_url",
+      "label": "Image Url",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_sk",
+      "label": "Wikipedia Sk",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_en",
+      "label": "Wikipedia En",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    },
+    {
+      "key": "redesignation_year",
+      "label": "Redesignation Year",
+      "type": "number"
+    },
+    {
+      "key": "redesignation_date",
+      "label": "Redesignation Date",
+      "type": "date"
+    },
+    {
+      "key": "iucn_categories_all",
+      "label": "Iucn Categories All",
+      "type": "string"
+    },
+    {
+      "key": "websites_all",
+      "label": "Websites All",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "qid": "Q1080683",
+      "slug": "tatransky-narodny-park",
+      "name_sk": "Tatranský národný park",
+      "name_en": "Tatra National Park",
+      "abbreviation_sk": "TANAP",
+      "status": "official",
+      "established_year": 1949,
+      "established_date": "1949-01-01",
+      "area_km2": 738,
+      "area_ha": 74291.396,
+      "iucn_category": "II",
+      "iucn_labels_en": "IUCN category II: National Park",
+      "latitude": 49.18027778,
+      "longitude": 19.91944444,
+      "website": "http://spravatanap.sk/",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tatra%20mountains%20western%20side%202.jpg",
+      "wikipedia_sk": "https://sk.wikipedia.org/wiki/Tatranský_národný_park",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Tatra_National_Park,_Slovakia",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1080683"
+    },
+    {
+      "qid": "Q1783680",
+      "slug": "pieninsky-narodny-park",
+      "name_sk": "Pieninský národný park",
+      "name_en": "Pieniny National Park",
+      "abbreviation_sk": "PIENAP",
+      "status": "official",
+      "established_year": 1967,
+      "established_date": "1967-01-16",
+      "redesignation_year": 1997,
+      "redesignation_date": "1997-01-01",
+      "area_km2": 37.5,
+      "area_ha": 3711.905,
+      "iucn_category": "II",
+      "iucn_labels_en": "IUCN category II: National Park",
+      "latitude": 49.4,
+      "longitude": 20.456944444,
+      "website": "https://www.pienap.sk/",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dunajec%20and%20Lesnica.jpg",
+      "wikipedia_sk": "https://sk.wikipedia.org/wiki/Pieninský_národný_park",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Pieniny_National_Park_(Slovakia)",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1783680"
+    },
+    {
+      "qid": "Q1767601",
+      "slug": "narodny-park-nizke-tatry",
+      "name_sk": "Národný park Nízke Tatry",
+      "name_en": "Low Tatras National Park",
+      "abbreviation_sk": "NAPANT",
+      "status": "official",
+      "established_year": 1978,
+      "established_date": "1978-00-00",
+      "area_km2": 728.42,
+      "area_ha": 76073.423,
+      "iucn_category": "II",
+      "iucn_categories_all": "II, V",
+      "iucn_labels_en": "IUCN category II: National Park, IUCN category V: Protected Landscape/Seascape",
+      "latitude": 48.92555556,
+      "longitude": 19.6325,
+      "website": "https://www.napant.sk/",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Low%20tatra%20dumbier.jpg",
+      "wikipedia_sk": "https://sk.wikipedia.org/wiki/Národný_park_Nízke_Tatry",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Low_Tatras_National_Park",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1767601"
+    },
+    {
+      "qid": "Q1507799",
+      "slug": "narodny-park-slovensky-raj",
+      "name_sk": "Národný park Slovenský raj",
+      "name_en": "Slovak Paradise National Park",
+      "abbreviation_sk": "NPSR",
+      "status": "official",
+      "established_year": 1988,
+      "established_date": "1988-00-00",
+      "redesignation_year": 2016,
+      "redesignation_date": "2016-01-01",
+      "area_km2": 197.63,
+      "area_ha": 19414.193,
+      "iucn_category": "II",
+      "iucn_labels_en": "IUCN category II: National Park",
+      "latitude": 48.90833333,
+      "longitude": 20.4,
+      "website": "http://npslovenskyraj.sopsr.sk/",
+      "websites_all": "http://npslovenskyraj.sopsr.sk/, https://www.npslovenskyraj.sk",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Slovensky%20raj-Stratenska%20pila.jpg",
+      "wikipedia_sk": "https://sk.wikipedia.org/wiki/Národný_park_Slovenský_raj",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Slovak_Paradise_National_Park",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1507799"
+    },
+    {
+      "qid": "Q1567025",
+      "slug": "narodny-park-mala-fatra",
+      "name_sk": "Národný park Malá Fatra",
+      "name_en": "Malá Fatra National Park",
+      "abbreviation_sk": "NPMF",
+      "status": "official",
+      "established_year": 1988,
+      "established_date": "1988-01-01",
+      "redesignation_year": 1988,
+      "redesignation_date": "1988-04-01",
+      "area_km2": 226.3,
+      "area_ha": 22380.774,
+      "iucn_category": "II",
+      "iucn_labels_en": "IUCN category II: National Park",
+      "latitude": 49.21388889,
+      "longitude": 19.08083333,
+      "website": "https://www.npmalafatra.sk/",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Velky%20Rozsutec.jpg",
+      "wikipedia_sk": "https://sk.wikipedia.org/wiki/Národný_park_Malá_Fatra",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Malá_Fatra_National_Park",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1567025"
+    },
+    {
+      "qid": "Q1968946",
+      "slug": "narodny-park-muranska-planina",
+      "name_sk": "Národný park Muránska planina",
+      "name_en": "Muránska planina National Park",
+      "abbreviation_sk": "NPMP",
+      "status": "official",
+      "established_year": 1997,
+      "established_date": "1997-00-00",
+      "area_km2": 203.18,
+      "area_ha": 20331.373,
+      "iucn_category": "II",
+      "iucn_categories_all": "II, V",
+      "iucn_labels_en": "IUCN category II: National Park, IUCN category V: Protected Landscape/Seascape",
+      "latitude": 48.78333333,
+      "longitude": 20.03333333,
+      "website": "http://www.npmp.sk/",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mur%C3%A1%C5%88sk%C3%A1%20planina%20%282%29.JPG",
+      "wikipedia_sk": "https://sk.wikipedia.org/wiki/Národný_park_Muránska_planina",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Muránska_planina_National_Park",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1968946"
+    },
+    {
+      "qid": "Q607612",
+      "slug": "narodny-park-poloniny",
+      "name_sk": "Národný park Poloniny",
+      "name_en": "Poloniny National Park",
+      "abbreviation_sk": "NPP",
+      "status": "official",
+      "established_year": 1997,
+      "established_date": "1997-00-00",
+      "redesignation_year": 1997,
+      "redesignation_date": "1997-10-01",
+      "area_km2": 109.73,
+      "area_ha": 30749.806,
+      "iucn_category": "V",
+      "iucn_labels_en": "IUCN category V: Protected Landscape/Seascape",
+      "latitude": 49.07138889,
+      "longitude": 22.53361111,
+      "website": "https://www.nppoloniny.sk/",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%C4%8Eurkovec%20%28poh%C4%BEad%20z%20%C4%8Eurkovca%29%20001.jpg",
+      "wikipedia_sk": "https://sk.wikipedia.org/wiki/Národný_park_Poloniny",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Poloniny_National_Park",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q607612"
+    },
+    {
+      "qid": "Q958003",
+      "slug": "narodny-park-velka-fatra",
+      "name_sk": "Národný park Veľká Fatra",
+      "name_en": "Veľká Fatra National Park",
+      "abbreviation_sk": "NPVF",
+      "status": "official",
+      "established_year": 2002,
+      "established_date": "2002-00-00",
+      "area_km2": 403.71,
+      "area_ha": 40874.85,
+      "iucn_category": "II",
+      "iucn_categories_all": "II, V",
+      "iucn_labels_en": "IUCN category II: National Park, IUCN category V: Protected Landscape/Seascape",
+      "latitude": 49.01666667,
+      "longitude": 19.11666667,
+      "website": "https://www.npvelkafatra.sk/",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rakytov%2C%20Ve%C4%BEk%C3%A1%20Fatra%20%28SVK%29%20-%20southern%20side.jpg",
+      "wikipedia_sk": "https://sk.wikipedia.org/wiki/Národný_park_Veľká_Fatra",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Veľká_Fatra_National_Park",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q958003"
+    },
+    {
+      "qid": "Q1351150",
+      "slug": "narodny-park-slovensky-kras",
+      "name_sk": "Národný park Slovenský kras",
+      "name_en": "Slovak Karst National Park",
+      "abbreviation_sk": "NPSK",
+      "status": "official",
+      "established_year": 2002,
+      "established_date": "2002-00-00",
+      "area_km2": 346.11,
+      "area_ha": 34348.094,
+      "iucn_category": "II",
+      "iucn_categories_all": "II, V",
+      "iucn_labels_en": "IUCN category II: National Park, IUCN category V: Protected Landscape/Seascape",
+      "latitude": 48.579,
+      "longitude": 20.544,
+      "website": "https://www.npslovenskykras.sk/",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zadielska%20tiesnava.jpg",
+      "wikipedia_sk": "https://sk.wikipedia.org/wiki/Národný_park_Slovenský_kras",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Slovak_Karst_National_Park",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1351150"
+    },
+    {
+      "qid": "Q30674418",
+      "slug": "narodny-park-podunajsko",
+      "name_sk": "Národný park Podunajsko",
+      "name_en": "National Park Podunajsko",
+      "abbreviation_sk": "",
+      "status": "proposed",
+      "established_year": "",
+      "established_date": "",
+      "area_km2": "",
+      "area_ha": "",
+      "iucn_category": "",
+      "latitude": "",
+      "longitude": "",
+      "website": "",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Morava%20austria%20slovakia.jpg",
+      "wikipedia_sk": "",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/National_Park_Podunajsko",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30674418"
+    }
+  ],
+  "meta": {
+    "title": "Národné parky Slovenska - Bezplatné stiahnutie",
+    "description": "Zoznam národných parkov Slovenskej republiky podľa údajov Wikidata. Obsahuje 9 oficiálne vyhlásených národných parkov (TANAP, NAPANT, NPSR, NPSK, NPMF, NPVF, NPMP, PIENAP, NPP) plus 1 navrhovaný národný park (Podunajsko). Pre každý park: slovenský aj anglický názov, oficiálna skratka, rok vyhlásenia, rozloha v km² a hektároch, IUCN kategória, súradnice, oficiálna webová stránka, obrázok (Commons) a odkazy na Wikipédiu. Obsahuje 10 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Národné parky Slovenska | ListBase",
+    "seo_description": "Stiahnuť Národné parky Slovenska — 10 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 10 záznamov / 23 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

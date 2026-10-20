@@ -1,0 +1,496 @@
+{
+  "id": "sk-ruzomberok-obce",
+  "name": "Obce v okrese Ružomberok",
+  "title": "Obce v okrese Ružomberok",
+  "description": "Všetky obce (municipality) v okrese Ružomberok, Žilinský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 141,
+      "fullname": "Bešeňová",
+      "shortname": "Bešeňová",
+      "zip": "034 83",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 155,
+      "fullname": "Biely Potok",
+      "shortname": "Biely Potok",
+      "zip": "034 03",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1098,
+      "fullname": "Hrboltová",
+      "shortname": "Hrboltová",
+      "zip": "034 01",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1139,
+      "fullname": "Hubová",
+      "shortname": "Hubová",
+      "zip": "034 91",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1227,
+      "fullname": "Ivachnová",
+      "shortname": "Ivachnová",
+      "zip": "034 83",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1348,
+      "fullname": "Kalameny",
+      "shortname": "Kalameny",
+      "zip": "034 82",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1511,
+      "fullname": "Komjatná",
+      "shortname": "Komjatná",
+      "zip": "034 96",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1539,
+      "fullname": "Korytnica - kúpele",
+      "shortname": "Korytnica - kúpele",
+      "zip": "034 73",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1432,
+      "fullname": "Kľačno",
+      "shortname": "Kľačno",
+      "zip": "034 01",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1856,
+      "fullname": "Likavka",
+      "shortname": "Likavka",
+      "zip": "034 95",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1876,
+      "fullname": "Liptovská Lúžna",
+      "shortname": "Liptovská Lúžna",
+      "zip": "034 72",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1878,
+      "fullname": "Liptovská Osada",
+      "shortname": "Liptovská Osada",
+      "zip": "034 73",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1882,
+      "fullname": "Liptovská Teplá",
+      "shortname": "Liptovská Teplá",
+      "zip": "034 83",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1881,
+      "fullname": "Liptovská Štiavnica",
+      "shortname": "Liptovská Štiavnica",
+      "zip": "034 01",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1887,
+      "fullname": "Liptovské Revúce",
+      "shortname": "Liptovské Revúce",
+      "zip": "034 74",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1888,
+      "fullname": "Liptovské Sliače",
+      "shortname": "Liptovské Sliače",
+      "zip": "034 84",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1891,
+      "fullname": "Liptovský Michal",
+      "shortname": "Liptovský Michal",
+      "zip": "034 83",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1896,
+      "fullname": "Lisková",
+      "shortname": "Lisková",
+      "zip": "034 81",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1963,
+      "fullname": "Ludrová",
+      "shortname": "Ludrová",
+      "zip": "034 71",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1954,
+      "fullname": "Lúčky",
+      "shortname": "Lúčky",
+      "zip": "034 82",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1957,
+      "fullname": "Lúčky - kúpele",
+      "shortname": "Lúčky - kúpele",
+      "zip": "034 82",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1996,
+      "fullname": "Madočany",
+      "shortname": "Madočany",
+      "zip": "034 83",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2083,
+      "fullname": "Malinô Brdo",
+      "shortname": "Malinô Brdo",
+      "zip": "034 01",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2122,
+      "fullname": "Martinček",
+      "shortname": "Martinček",
+      "zip": "034 95",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2359,
+      "fullname": "Nižná Revúca",
+      "shortname": "Nižná Revúca",
+      "zip": "034 74",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2389,
+      "fullname": "Nižný Sliač",
+      "shortname": "Nižný Sliač",
+      "zip": "034 84",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2781,
+      "fullname": "Potok",
+      "shortname": "Potok",
+      "zip": "034 83",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2991,
+      "fullname": "Rojkov",
+      "shortname": "Rojkov",
+      "zip": "034 92",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3053,
+      "fullname": "Ružomberok",
+      "shortname": "Ružomberok",
+      "zip": 0,
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3059,
+      "fullname": "Rybárpole",
+      "shortname": "Rybárpole",
+      "zip": "034 01",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3258,
+      "fullname": "Stankovany",
+      "shortname": "Stankovany",
+      "zip": "034 92",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3305,
+      "fullname": "Stredná Revúca",
+      "shortname": "Stredná Revúca",
+      "zip": "034 74",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3308,
+      "fullname": "Stredný Sliač",
+      "shortname": "Stredný Sliač",
+      "zip": "034 84",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3325,
+      "fullname": "Studničná",
+      "shortname": "Studničná",
+      "zip": "034 96",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3646,
+      "fullname": "Turík",
+      "shortname": "Turík",
+      "zip": "034 83",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3707,
+      "fullname": "Valaská Dubová",
+      "shortname": "Valaská Dubová",
+      "zip": "034 96",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3904,
+      "fullname": "Vlkolínec",
+      "shortname": "Vlkolínec",
+      "zip": "034 03",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3993,
+      "fullname": "Vyšná Revúca",
+      "shortname": "Vyšná Revúca",
+      "zip": "034 74",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4027,
+      "fullname": "Vyšný Sliač",
+      "shortname": "Vyšný Sliač",
+      "zip": "034 84",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 463,
+      "fullname": "Černová",
+      "shortname": "Černová",
+      "zip": "034 06",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1937,
+      "fullname": "Ľubochňa",
+      "shortname": "Ľubochňa",
+      "zip": "034 91",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3460,
+      "fullname": "Štiavnička",
+      "shortname": "Štiavnička",
+      "zip": "034 01",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3494,
+      "fullname": "Švošov",
+      "shortname": "Švošov",
+      "zip": "034 91",
+      "district_id": 55,
+      "okres": "Ružomberok",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Ružomberok - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Ružomberok, Žilinský kraj — s PSČ a kódom okresu. Obsahuje 43 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Ružomberok | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Ružomberok — 43 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 43 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

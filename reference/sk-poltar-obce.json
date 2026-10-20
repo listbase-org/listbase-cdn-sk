@@ -1,0 +1,526 @@
+{
+  "id": "sk-poltar-obce",
+  "name": "Obce v okrese Poltár",
+  "title": "Obce v okrese Poltár",
+  "description": "Všetky obce (municipality) v okrese Poltár, Banskobystrický kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 283,
+      "fullname": "Breznička",
+      "shortname": "Breznička",
+      "zip": "985 02",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 366,
+      "fullname": "Bystrička",
+      "shortname": "Bystrička",
+      "zip": "985 24",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1164,
+      "fullname": "Chladná Studňa",
+      "shortname": "Chladná Studňa",
+      "zip": "985 26",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 397,
+      "fullname": "Cinobaňa",
+      "shortname": "Cinobaňa",
+      "zip": "985 22",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 586,
+      "fullname": "Dobrý Potok",
+      "shortname": "Dobrý Potok",
+      "zip": "985 26",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1079,
+      "fullname": "Hrabovo",
+      "shortname": "Hrabovo",
+      "zip": "985 01",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1086,
+      "fullname": "Hradište",
+      "shortname": "Hradište",
+      "zip": "985 25",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1108,
+      "fullname": "Hrnčiarky",
+      "shortname": "Hrnčiarky",
+      "zip": "985 22",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1111,
+      "fullname": "Hrnčiarska Ves",
+      "shortname": "Hrnčiarska Ves",
+      "zip": "980 13",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1112,
+      "fullname": "Hrnčiarske Zalužany",
+      "shortname": "Hrnčiarske Zalužany",
+      "zip": "980 12",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 872,
+      "fullname": "Hájiky - Maky",
+      "shortname": "Hájiky - Maky",
+      "zip": "987 01",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1220,
+      "fullname": "Ipeľ",
+      "shortname": "Ipeľ",
+      "zip": "985 26",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1355,
+      "fullname": "Kalinovo",
+      "shortname": "Kalinovo",
+      "zip": "985 01",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1400,
+      "fullname": "Katarínska Huta",
+      "shortname": "Katarínska Huta",
+      "zip": "985 22",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1484,
+      "fullname": "Kokava nad Rimavicou",
+      "shortname": "Kokava nad Rimavicou",
+      "zip": "985 05",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1692,
+      "fullname": "Krná",
+      "shortname": "Krná",
+      "zip": "985 25",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2129,
+      "fullname": "Maša",
+      "shortname": "Maša",
+      "zip": "985 22",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2132,
+      "fullname": "Maštinec",
+      "shortname": "Maštinec",
+      "zip": "987 01",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2205,
+      "fullname": "Mládzovo",
+      "shortname": "Mládzovo",
+      "zip": "985 02",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2079,
+      "fullname": "Málinec",
+      "shortname": "Málinec",
+      "zip": "985 26",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2557,
+      "fullname": "Ozdín",
+      "shortname": "Ozdín",
+      "zip": "985 24",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2633,
+      "fullname": "Petrovec",
+      "shortname": "Petrovec",
+      "zip": "985 01",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2755,
+      "fullname": "Poltár",
+      "shortname": "Poltár",
+      "zip": "987 01",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2758,
+      "fullname": "Pondelok",
+      "shortname": "Pondelok",
+      "zip": "980 13",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2845,
+      "fullname": "Prievrana",
+      "shortname": "Prievrana",
+      "zip": "987 01",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3002,
+      "fullname": "Rovňany",
+      "shortname": "Rovňany",
+      "zip": "985 24",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3055,
+      "fullname": "Ružová Osada",
+      "shortname": "Ružová Osada",
+      "zip": "985 42",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3072,
+      "fullname": "Salajka",
+      "shortname": "Salajka",
+      "zip": "985 03",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3103,
+      "fullname": "Selce",
+      "shortname": "Selce",
+      "zip": "980 13",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3157,
+      "fullname": "Slaná Lehota",
+      "shortname": "Slaná Lehota",
+      "zip": "987 01",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3346,
+      "fullname": "Sušany",
+      "shortname": "Sušany",
+      "zip": "980 12",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3644,
+      "fullname": "Turíčky",
+      "shortname": "Turíčky",
+      "zip": "985 22",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3677,
+      "fullname": "Uhorské",
+      "shortname": "Uhorské",
+      "zip": "985 25",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3693,
+      "fullname": "Utekáč",
+      "shortname": "Utekáč",
+      "zip": "985 06",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3716,
+      "fullname": "Vaľkovo",
+      "shortname": "Vaľkovo",
+      "zip": "985 03",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3765,
+      "fullname": "Veľká Suchá",
+      "shortname": "Veľká Suchá",
+      "zip": "980 13",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3768,
+      "fullname": "Veľká Ves",
+      "shortname": "Veľká Ves",
+      "zip": "985 01",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3900,
+      "fullname": "Vlčovo",
+      "shortname": "Vlčovo",
+      "zip": "985 26",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4103,
+      "fullname": "Zelené",
+      "shortname": "Zelené",
+      "zip": "987 01",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4141,
+      "fullname": "Zlatno",
+      "shortname": "Zlatno",
+      "zip": "985 03",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 465,
+      "fullname": "Červeň",
+      "shortname": "Červeň",
+      "zip": "985 02",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 478,
+      "fullname": "České Brezovo",
+      "shortname": "České Brezovo",
+      "zip": "985 03",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 709,
+      "fullname": "Ďubákovo",
+      "shortname": "Ďubákovo",
+      "zip": "985 07",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1933,
+      "fullname": "Ľubienka",
+      "shortname": "Ľubienka",
+      "zip": "985 07",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3440,
+      "fullname": "Šoltýska",
+      "shortname": "Šoltýska",
+      "zip": "985 07",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4191,
+      "fullname": "Žihľava",
+      "shortname": "Žihľava",
+      "zip": "985 45",
+      "district_id": 46,
+      "okres": "Poltár",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Poltár - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Poltár, Banskobystrický kraj — s PSČ a kódom okresu. Obsahuje 46 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Poltár | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Poltár — 46 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 46 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

@@ -1,0 +1,541 @@
+{
+  "id": "sk-trhoviska",
+  "name": "Slovenské trhoviská",
+  "title": "Slovenské trhoviská",
+  "description": "Zoznam pomenovaných trhovísk na Slovensku (amenity=marketplace) z OpenStreetMap.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "ARC obchod",
+      "latitude": 48.001065,
+      "longitude": 18.16007
+    },
+    {
+      "name": "Centrálna tržnica",
+      "latitude": 48.710239,
+      "longitude": 21.260302
+    },
+    {
+      "name": "Faxcopy",
+      "latitude": 47.987574,
+      "longitude": 18.16592
+    },
+    {
+      "name": "Faxcopy",
+      "latitude": 48.127642,
+      "longitude": 17.11522
+    },
+    {
+      "name": "Faxcopy",
+      "latitude": 48.132697,
+      "longitude": 17.108577
+    },
+    {
+      "name": "Faxcopy",
+      "latitude": 48.140221,
+      "longitude": 17.122985
+    },
+    {
+      "name": "Faxcopy",
+      "latitude": 48.146632,
+      "longitude": 17.128235
+    },
+    {
+      "name": "Faxcopy",
+      "latitude": 48.149046,
+      "longitude": 17.869969
+    },
+    {
+      "name": "Faxcopy",
+      "latitude": 48.15381,
+      "longitude": 17.165098
+    },
+    {
+      "name": "Faxcopy",
+      "latitude": 48.156793,
+      "longitude": 17.130003
+    },
+    {
+      "name": "Faxcopy",
+      "latitude": 48.164924,
+      "longitude": 17.17611
+    },
+    {
+      "name": "Faxcopy",
+      "latitude": 48.165897,
+      "longitude": 17.180452
+    },
+    {
+      "name": "Faxcopy",
+      "latitude": 48.205851,
+      "longitude": 17.033608
+    },
+    {
+      "name": "Faxcopy",
+      "latitude": 48.331221,
+      "longitude": 19.661409
+    },
+    {
+      "name": "Faxcopy",
+      "latitude": 48.374334,
+      "longitude": 17.594018
+    },
+    {
+      "name": "Faxcopy",
+      "latitude": 48.695667,
+      "longitude": 21.236218
+    },
+    {
+      "name": "Faxcopy",
+      "latitude": 48.717603,
+      "longitude": 21.263282
+    },
+    {
+      "name": "Faxcopy",
+      "latitude": 48.730335,
+      "longitude": 19.136355
+    },
+    {
+      "name": "Faxcopy",
+      "latitude": 48.737006,
+      "longitude": 19.148916
+    },
+    {
+      "name": "Faxcopy",
+      "latitude": 48.896171,
+      "longitude": 18.042807
+    },
+    {
+      "name": "Faxcopy",
+      "latitude": 49.081705,
+      "longitude": 19.616297
+    },
+    {
+      "name": "Fresh Market",
+      "latitude": 48.167488,
+      "longitude": 17.153461
+    },
+    {
+      "name": "Krytá Tržnica",
+      "latitude": 48.217089,
+      "longitude": 18.605734
+    },
+    {
+      "name": "M",
+      "latitude": 48.788666,
+      "longitude": 19.638625
+    },
+    {
+      "name": "Malé trhovisko",
+      "latitude": 49.258032,
+      "longitude": 19.030454
+    },
+    {
+      "name": "Malý trh",
+      "latitude": 47.761165,
+      "longitude": 18.118605
+    },
+    {
+      "name": "Marketplace",
+      "latitude": 48.019056,
+      "longitude": 17.807607
+    },
+    {
+      "name": "Merkúr",
+      "latitude": 48.73097,
+      "longitude": 21.242474
+    },
+    {
+      "name": "Mestská tržnica",
+      "latitude": 48.307664,
+      "longitude": 18.084778
+    },
+    {
+      "name": "Mestská tržnica",
+      "latitude": 48.577242,
+      "longitude": 19.127965
+    },
+    {
+      "name": "Mestská tržnica",
+      "latitude": 48.728906,
+      "longitude": 18.759863
+    },
+    {
+      "name": "Mestská tržnica",
+      "latitude": 48.9363,
+      "longitude": 18.147017
+    },
+    {
+      "name": "Mestská tržnica Turzovka",
+      "latitude": 49.402802,
+      "longitude": 18.625227
+    },
+    {
+      "name": "Mestské trhovisko",
+      "latitude": 48.283403,
+      "longitude": 17.738972
+    },
+    {
+      "name": "Mestské trhovisko",
+      "latitude": 48.586632,
+      "longitude": 17.833385
+    },
+    {
+      "name": "Mestský trh",
+      "latitude": 48.377629,
+      "longitude": 17.585627
+    },
+    {
+      "name": "Nemecký Bazár",
+      "latitude": 48.740483,
+      "longitude": 21.893375
+    },
+    {
+      "name": "Obecná tržnica",
+      "latitude": 48.787603,
+      "longitude": 17.771223
+    },
+    {
+      "name": "Obecné trhovisko",
+      "latitude": 48.934224,
+      "longitude": 18.119523
+    },
+    {
+      "name": "Obecné trhovisko Plášťovce",
+      "latitude": 48.159722,
+      "longitude": 18.978279
+    },
+    {
+      "name": "ovocie a zelenina u Zoliho",
+      "latitude": 48.576367,
+      "longitude": 19.130352
+    },
+    {
+      "name": "Petržalská tržnica",
+      "latitude": 48.111159,
+      "longitude": 17.099361
+    },
+    {
+      "name": "Piac",
+      "latitude": 48.393215,
+      "longitude": 21.663704
+    },
+    {
+      "name": "Piactér- Trhovisko",
+      "latitude": 47.887913,
+      "longitude": 17.81026
+    },
+    {
+      "name": "Plac targowy",
+      "latitude": 49.297467,
+      "longitude": 20.926524
+    },
+    {
+      "name": "Potraviny MIX",
+      "latitude": 48.787285,
+      "longitude": 19.110754
+    },
+    {
+      "name": "Poľské trhy",
+      "latitude": 49.273876,
+      "longitude": 18.762681
+    },
+    {
+      "name": "Račianska tržnica",
+      "latitude": 48.212111,
+      "longitude": 17.154412
+    },
+    {
+      "name": "Samozber jahôd a hrachu",
+      "latitude": 48.869023,
+      "longitude": 18.018955
+    },
+    {
+      "name": "Staromestský trh",
+      "latitude": 48.14904,
+      "longitude": 17.120654
+    },
+    {
+      "name": "Stará tržnica",
+      "latitude": 48.144555,
+      "longitude": 17.111363
+    },
+    {
+      "name": "Trch. Tržnica",
+      "latitude": 48.091989,
+      "longitude": 17.118261
+    },
+    {
+      "name": "Trh Ťahanovce",
+      "latitude": 48.75587,
+      "longitude": 21.266883
+    },
+    {
+      "name": "Trhovisko",
+      "latitude": 47.766738,
+      "longitude": 18.123515
+    },
+    {
+      "name": "Trhovisko",
+      "latitude": 48.114874,
+      "longitude": 18.387981
+    },
+    {
+      "name": "Trhovisko",
+      "latitude": 48.383755,
+      "longitude": 18.391751
+    },
+    {
+      "name": "Trhovisko",
+      "latitude": 48.534227,
+      "longitude": 21.077428
+    },
+    {
+      "name": "Trhovisko",
+      "latitude": 48.679701,
+      "longitude": 21.295374
+    },
+    {
+      "name": "Trhovisko",
+      "latitude": 48.689695,
+      "longitude": 21.283918
+    },
+    {
+      "name": "Trhovisko",
+      "latitude": 48.887351,
+      "longitude": 21.679851
+    },
+    {
+      "name": "Trhovisko Dolný Štál",
+      "latitude": 47.940685,
+      "longitude": 17.717419
+    },
+    {
+      "name": "Trhovisko Družba",
+      "latitude": 48.882517,
+      "longitude": 18.032449
+    },
+    {
+      "name": "Trhovisko Hradbová",
+      "latitude": 48.721804,
+      "longitude": 21.253604
+    },
+    {
+      "name": "Trhovisko Jedlíkova",
+      "latitude": 48.147133,
+      "longitude": 17.110795
+    },
+    {
+      "name": "Trhovisko Miletičova",
+      "latitude": 48.153874,
+      "longitude": 17.136495
+    },
+    {
+      "name": "Trhovisko Mlynarovičova",
+      "latitude": 48.127025,
+      "longitude": 17.12365
+    },
+    {
+      "name": "Trhovisko Modra",
+      "latitude": 48.333874,
+      "longitude": 17.30768
+    },
+    {
+      "name": "Trhovisko na Hrnčírikovej ulici",
+      "latitude": 48.62699,
+      "longitude": 18.372655
+    },
+    {
+      "name": "Trhovisko na Kupeckého ulici",
+      "latitude": 48.292024,
+      "longitude": 17.263767
+    },
+    {
+      "name": "Trhovisko na Radničnom námestí",
+      "latitude": 48.94244,
+      "longitude": 20.572962
+    },
+    {
+      "name": "Trhovisko pri autobusovej stanici",
+      "latitude": 49.225818,
+      "longitude": 18.747467
+    },
+    {
+      "name": "trhovisko Stará Turá",
+      "latitude": 48.779795,
+      "longitude": 17.693038
+    },
+    {
+      "name": "Trhovisko Sídlisko III - Centrum",
+      "latitude": 49.01735,
+      "longitude": 21.224028
+    },
+    {
+      "name": "Trhovisko Západ",
+      "latitude": 48.719572,
+      "longitude": 21.233138
+    },
+    {
+      "name": "Trhovisko Šafárikova",
+      "latitude": 48.220928,
+      "longitude": 17.395936
+    },
+    {
+      "name": "Trhovisko Šváby",
+      "latitude": 48.974416,
+      "longitude": 21.261819
+    },
+    {
+      "name": "Trhovisko Žilina",
+      "latitude": 49.221863,
+      "longitude": 18.738879
+    },
+    {
+      "name": "Trhovisko Žilinská",
+      "latitude": 48.155594,
+      "longitude": 17.111882
+    },
+    {
+      "name": "Trhové miesto",
+      "latitude": 48.801087,
+      "longitude": 18.111807
+    },
+    {
+      "name": "Trhové miesto",
+      "latitude": 48.822586,
+      "longitude": 18.153231
+    },
+    {
+      "name": "Tržnica",
+      "latitude": 48.157456,
+      "longitude": 17.126069
+    },
+    {
+      "name": "Tržnica",
+      "latitude": 48.217256,
+      "longitude": 18.603928
+    },
+    {
+      "name": "Tržnica",
+      "latitude": 48.326463,
+      "longitude": 19.667926
+    },
+    {
+      "name": "Tržnica",
+      "latitude": 48.719044,
+      "longitude": 17.118025
+    },
+    {
+      "name": "Tržnica",
+      "latitude": 48.758034,
+      "longitude": 21.92063
+    },
+    {
+      "name": "Tržnica",
+      "latitude": 48.772807,
+      "longitude": 18.606141
+    },
+    {
+      "name": "Tržnica",
+      "latitude": 48.845895,
+      "longitude": 17.224913
+    },
+    {
+      "name": "Tržnica",
+      "latitude": 49.06098,
+      "longitude": 18.920242
+    },
+    {
+      "name": "Tržnica",
+      "latitude": 49.080183,
+      "longitude": 19.305173
+    },
+    {
+      "name": "Tržnica",
+      "latitude": 49.085933,
+      "longitude": 19.612806
+    },
+    {
+      "name": "Tržnica",
+      "latitude": 49.127228,
+      "longitude": 18.683839
+    },
+    {
+      "name": "Tržnica centrum",
+      "latitude": 48.150009,
+      "longitude": 17.871973
+    },
+    {
+      "name": "Tržnica Detva",
+      "latitude": 48.558735,
+      "longitude": 19.418127
+    },
+    {
+      "name": "Tržnica Hruška",
+      "latitude": 49.006358,
+      "longitude": 21.250808
+    },
+    {
+      "name": "Tržnica pri Heliose",
+      "latitude": 48.159004,
+      "longitude": 17.154939
+    },
+    {
+      "name": "Tržnica Priekopa",
+      "latitude": 49.105356,
+      "longitude": 18.922593
+    },
+    {
+      "name": "Tržnica Snina",
+      "latitude": 48.989501,
+      "longitude": 22.15241
+    },
+    {
+      "name": "Tržnica Šaca",
+      "latitude": 48.633053,
+      "longitude": 21.171556
+    },
+    {
+      "name": "Verejné trhovisko",
+      "latitude": 48.933925,
+      "longitude": 21.91153
+    },
+    {
+      "name": "Veľké trhovisko",
+      "latitude": 49.256838,
+      "longitude": 19.031618
+    }
+  ],
+  "meta": {
+    "title": "Slovenské trhoviská - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných trhovísk na Slovensku (amenity=marketplace) z OpenStreetMap. Obsahuje 100 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Slovenské trhoviská | ListBase",
+    "seo_description": "Stiahnuť Slovenské trhoviská — 100 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 100 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

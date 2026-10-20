@@ -1,0 +1,136 @@
+{
+  "id": "sk-casove-pasma-pacific",
+  "name": "Časové pásma — Pacific (10)",
+  "title": "Časové pásma — Pacific (10)",
+  "description": "Časové pásma, ktorých identifikátor IANA sa začína 'Pacific/', s názvami v slovenčine.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "mesto",
+      "label": "Mesto",
+      "type": "string"
+    },
+    {
+      "key": "standardny_nazov",
+      "label": "Standardny Nazov",
+      "type": "string"
+    },
+    {
+      "key": "letny_nazov",
+      "label": "Letny Nazov",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Pacific/Easter",
+      "oblast": "Pacific",
+      "mesto": "Veľkonočný ostrov",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Pacific/Enderbury",
+      "oblast": "Pacific",
+      "mesto": "Canton",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Pacific/Fiji",
+      "oblast": "Pacific",
+      "mesto": "Fidži",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Pacific/Galapagos",
+      "oblast": "Pacific",
+      "mesto": "Galapágy",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Pacific/Honolulu",
+      "oblast": "Pacific",
+      "mesto": "Honolulu",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Pacific/Marquesas",
+      "oblast": "Pacific",
+      "mesto": "Markézy",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Pacific/Noumea",
+      "oblast": "Pacific",
+      "mesto": "Nouméa",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Pacific/Ponape",
+      "oblast": "Pacific",
+      "mesto": "Pohnpei",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Pacific/Truk",
+      "oblast": "Pacific",
+      "mesto": "Chuuk",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Pacific/Wallis",
+      "oblast": "Pacific",
+      "mesto": "Wallis & Futuna",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    }
+  ],
+  "meta": {
+    "title": "Časové pásma — Pacific (10) - Bezplatné stiahnutie",
+    "description": "Časové pásma, ktorých identifikátor IANA sa začína 'Pacific/', s názvami v slovenčine. Obsahuje 10 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Časové pásma — Pacific (10) | ListBase",
+    "seo_description": "Stiahnuť Časové pásma — Pacific (10) — 10 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 10 záznamov / 6 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

@@ -1,0 +1,1461 @@
+{
+  "id": "sk-nabijacie-stanice",
+  "name": "Slovenské nabíjacie stanice",
+  "title": "Slovenské nabíjacie stanice",
+  "description": "Zoznam pomenovaných nabíjacích staníc pre elektromobily na Slovensku (amenity=charging_station) z OpenStreetMap.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 284,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "ABB",
+      "latitude": 48.1921,
+      "longitude": 17.195001
+    },
+    {
+      "name": "ABB_Terra",
+      "latitude": 48.693585,
+      "longitude": 21.251737
+    },
+    {
+      "name": "AC GW Depo Bratislava",
+      "latitude": 48.190493,
+      "longitude": 17.188651
+    },
+    {
+      "name": "AC Nové Mesto nad Váhom - Dukelská",
+      "latitude": 48.752759,
+      "longitude": 17.834117
+    },
+    {
+      "name": "ACHajik nabijacia stanica",
+      "latitude": 49.215778,
+      "longitude": 18.712428
+    },
+    {
+      "name": "Adventure park Kuchyňa",
+      "latitude": 48.400328,
+      "longitude": 17.166078
+    },
+    {
+      "name": "Amfiteáter Bratislava Rača",
+      "latitude": 48.214035,
+      "longitude": 17.144883
+    },
+    {
+      "name": "Antik",
+      "latitude": 48.737913,
+      "longitude": 21.259892
+    },
+    {
+      "name": "Antik Charging Station",
+      "latitude": 48.738054,
+      "longitude": 21.254507
+    },
+    {
+      "name": "Areál Pálffyho kaštieľa",
+      "latitude": 48.255639,
+      "longitude": 17.209139
+    },
+    {
+      "name": "Areál TJ Malinovo",
+      "latitude": 48.158934,
+      "longitude": 17.303792
+    },
+    {
+      "name": "Aupark Bratislava AC - podzemné parkovisko",
+      "latitude": 48.134172,
+      "longitude": 17.106191
+    },
+    {
+      "name": "Aupark Bratislava DC - parkovací dom",
+      "latitude": 48.132412,
+      "longitude": 17.109902
+    },
+    {
+      "name": "Autobusová stanica Michalovce - ARRIVA MICHALOVCE Slovensko",
+      "latitude": 48.751569,
+      "longitude": 21.898912
+    },
+    {
+      "name": "Autobusová stanica Sobrance - ARRIVA SOBRANCE Slovensko",
+      "latitude": 48.746278,
+      "longitude": 22.176444
+    },
+    {
+      "name": "Autobusová stanica Veľké Kapušany - ARRIVA VEĽKÉ KAPUŠANY Slovensko",
+      "latitude": 48.55481,
+      "longitude": 22.080093
+    },
+    {
+      "name": "Avescentrum Senné - KOCR Košice",
+      "latitude": 48.667133,
+      "longitude": 22.030763
+    },
+    {
+      "name": "Avion #2 Bratislava (podzemné parkovisko)",
+      "latitude": 48.1678,
+      "longitude": 17.1812
+    },
+    {
+      "name": "Bajkservis Stupava - KOCR Bratislava Region Tourism",
+      "latitude": 48.279721,
+      "longitude": 17.048626
+    },
+    {
+      "name": "Barlando",
+      "latitude": 48.211243,
+      "longitude": 16.973608
+    },
+    {
+      "name": "Bauhaus",
+      "latitude": 48.161077,
+      "longitude": 17.187457
+    },
+    {
+      "name": "Bike and ride Senec Bike and ride Senec",
+      "latitude": 48.214047,
+      "longitude": 17.413571
+    },
+    {
+      "name": "Bikepro - Hotel Salamandra",
+      "latitude": 48.457752,
+      "longitude": 18.853337
+    },
+    {
+      "name": "Bratislava Supercharger",
+      "latitude": 48.132179,
+      "longitude": 17.108357
+    },
+    {
+      "name": "Bratislava Supercharger",
+      "latitude": 48.167426,
+      "longitude": 17.17878
+    },
+    {
+      "name": "Bufet K3",
+      "latitude": 48.129548,
+      "longitude": 17.158322
+    },
+    {
+      "name": "Bufet na dobrom mieste - KOCR Bratislava Region Tourism",
+      "latitude": 48.188964,
+      "longitude": 17.127688
+    },
+    {
+      "name": "Café Korzo",
+      "latitude": 48.254108,
+      "longitude": 17.21258
+    },
+    {
+      "name": "Chata AMOR OOCR Záhorie",
+      "latitude": 48.827701,
+      "longitude": 17.297996
+    },
+    {
+      "name": "Chata Korenný vrch",
+      "latitude": 48.347825,
+      "longitude": 17.190945
+    },
+    {
+      "name": "Chata Na Plácku",
+      "latitude": 48.23382,
+      "longitude": 17.05538
+    },
+    {
+      "name": "Chata Zapadnutý Kút - KOCR Bratislava Region Tourism",
+      "latitude": 48.290582,
+      "longitude": 17.125228
+    },
+    {
+      "name": "Citroën",
+      "latitude": 49.213515,
+      "longitude": 18.751013
+    },
+    {
+      "name": "COOP Jednota Brezová pod Bradlom",
+      "latitude": 48.66641,
+      "longitude": 17.539801
+    },
+    {
+      "name": "Cyklo-turistický oddychový priestor - Autobusová zastávka Doľany",
+      "latitude": 48.415992,
+      "longitude": 17.378319
+    },
+    {
+      "name": "Cyklopark Velké Zálužii - Cyklotrial Team",
+      "latitude": 48.302966,
+      "longitude": 17.937846
+    },
+    {
+      "name": "Demänová Supercharger",
+      "latitude": 49.054794,
+      "longitude": 19.579102
+    },
+    {
+      "name": "e power point",
+      "latitude": 49.134222,
+      "longitude": 19.397695
+    },
+    {
+      "name": "ebajkconnect Bufet Kamzík",
+      "latitude": 48.183648,
+      "longitude": 17.098851
+    },
+    {
+      "name": "ebajkconnect Modrá Čajka",
+      "latitude": 48.03311,
+      "longitude": 17.226893
+    },
+    {
+      "name": "ebajkconnect U abela",
+      "latitude": 48.215003,
+      "longitude": 17.15368
+    },
+    {
+      "name": "Ebajkonnect Vyza",
+      "latitude": 48.072777,
+      "longitude": 17.141102
+    },
+    {
+      "name": "eBIKE BOX",
+      "latitude": 48.855124,
+      "longitude": 20.407341
+    },
+    {
+      "name": "eBIKE BOX",
+      "latitude": 48.86673,
+      "longitude": 20.381214
+    },
+    {
+      "name": "eBIKE BOX",
+      "latitude": 48.873784,
+      "longitude": 20.301926
+    },
+    {
+      "name": "eBIKE BOX",
+      "latitude": 48.897519,
+      "longitude": 21.00485
+    },
+    {
+      "name": "eBIKE box",
+      "latitude": 48.944499,
+      "longitude": 20.485623
+    },
+    {
+      "name": "ebike charging station",
+      "latitude": 48.303603,
+      "longitude": 18.178792
+    },
+    {
+      "name": "eBIKE Nabíjacia stanica",
+      "latitude": 48.133621,
+      "longitude": 17.108505
+    },
+    {
+      "name": "eBike port",
+      "latitude": 48.820414,
+      "longitude": 17.619747
+    },
+    {
+      "name": "eBIKE PORT",
+      "latitude": 48.964562,
+      "longitude": 20.385202
+    },
+    {
+      "name": "Ebike Power point",
+      "latitude": 49.084951,
+      "longitude": 19.612113
+    },
+    {
+      "name": "Ebiky pod Kráľovou hoľou",
+      "latitude": 48.841325,
+      "longitude": 20.129542
+    },
+    {
+      "name": "ejoin",
+      "latitude": 48.689251,
+      "longitude": 21.260857
+    },
+    {
+      "name": "ejoin",
+      "latitude": 48.694923,
+      "longitude": 21.235564
+    },
+    {
+      "name": "ejoin",
+      "latitude": 48.697499,
+      "longitude": 21.251363
+    },
+    {
+      "name": "ejoin",
+      "latitude": 48.718186,
+      "longitude": 21.245545
+    },
+    {
+      "name": "ejoin",
+      "latitude": 48.743221,
+      "longitude": 21.268966
+    },
+    {
+      "name": "eJoin",
+      "latitude": 48.96356,
+      "longitude": 18.111414
+    },
+    {
+      "name": "ejoin",
+      "latitude": 49.021391,
+      "longitude": 18.074033
+    },
+    {
+      "name": "ejoin",
+      "latitude": 49.113617,
+      "longitude": 18.920823
+    },
+    {
+      "name": "ejoin",
+      "latitude": 49.265765,
+      "longitude": 19.445157
+    },
+    {
+      "name": "ejoin - Peugeot / CC Trade",
+      "latitude": 48.898965,
+      "longitude": 18.015021
+    },
+    {
+      "name": "ejoin Aupark Bratislava",
+      "latitude": 48.132771,
+      "longitude": 17.110042
+    },
+    {
+      "name": "ejoin Benzinol Banská Bystrica",
+      "latitude": 48.764493,
+      "longitude": 19.138897
+    },
+    {
+      "name": "ejoin Bojnice",
+      "latitude": 48.779569,
+      "longitude": 18.582559
+    },
+    {
+      "name": "ejoin Hosťová",
+      "latitude": 48.338986,
+      "longitude": 18.20722
+    },
+    {
+      "name": "ejoin Hotel Artin BJ",
+      "latitude": 49.296136,
+      "longitude": 21.2711
+    },
+    {
+      "name": "ejoin hotel LUX Banská Bystrica",
+      "latitude": 48.735823,
+      "longitude": 19.15361
+    },
+    {
+      "name": "ejoin Hotel Meridiana",
+      "latitude": 48.778432,
+      "longitude": 18.599584
+    },
+    {
+      "name": "ejoin Hriňová",
+      "latitude": 48.575485,
+      "longitude": 19.523897
+    },
+    {
+      "name": "ejoin Ipeľské Predmostie",
+      "latitude": 48.063321,
+      "longitude": 19.058253
+    },
+    {
+      "name": "ejoin Kežmarok",
+      "latitude": 49.135917,
+      "longitude": 20.429156
+    },
+    {
+      "name": "ejoin Kolárovo",
+      "latitude": 47.917654,
+      "longitude": 17.996361
+    },
+    {
+      "name": "ejoin Košeca",
+      "latitude": 49.007145,
+      "longitude": 18.2577
+    },
+    {
+      "name": "ejoin Krásno nad Kysucou",
+      "latitude": 49.395178,
+      "longitude": 18.829756
+    },
+    {
+      "name": "ejoin Lastovce",
+      "latitude": 48.535858,
+      "longitude": 21.626152
+    },
+    {
+      "name": "ejoin Lúčka",
+      "latitude": 49.026546,
+      "longitude": 20.730096
+    },
+    {
+      "name": "Ejoin nabíjacia stanica",
+      "latitude": 48.828339,
+      "longitude": 19.752651
+    },
+    {
+      "name": "Ejoin nabíjacia stanica",
+      "latitude": 49.034855,
+      "longitude": 18.286299
+    },
+    {
+      "name": "ejoin Nitrianske Pravno",
+      "latitude": 48.871619,
+      "longitude": 18.633926
+    },
+    {
+      "name": "ejoin OC Accept",
+      "latitude": 49.013506,
+      "longitude": 21.258219
+    },
+    {
+      "name": "ejoin OC Idea, Ilava",
+      "latitude": 48.993599,
+      "longitude": 18.229459
+    },
+    {
+      "name": "ejoin OC Makyta, Žilina",
+      "latitude": 49.220746,
+      "longitude": 18.746455
+    },
+    {
+      "name": "ejoin OC Mirage, Žilina",
+      "latitude": 49.225118,
+      "longitude": 18.740063
+    },
+    {
+      "name": "ejoin OC Retro, Bratislava",
+      "latitude": 48.151361,
+      "longitude": 17.157721
+    },
+    {
+      "name": "ejoin Oliva",
+      "latitude": 48.993085,
+      "longitude": 18.231388
+    },
+    {
+      "name": "ejoin Perín-Chym",
+      "latitude": 48.535465,
+      "longitude": 21.188111
+    },
+    {
+      "name": "ejoin Pribilyna",
+      "latitude": 49.097819,
+      "longitude": 19.799196
+    },
+    {
+      "name": "ejoin Rudňany",
+      "latitude": 48.878785,
+      "longitude": 20.684873
+    },
+    {
+      "name": "ejoin Slovenská Ves",
+      "latitude": 49.225172,
+      "longitude": 20.426529
+    },
+    {
+      "name": "ejoin Slovenské Ďarmoty",
+      "latitude": 48.091305,
+      "longitude": 19.289611
+    },
+    {
+      "name": "ejoin Turčianské Teplice",
+      "latitude": 48.861848,
+      "longitude": 18.860755
+    },
+    {
+      "name": "ejoin Veľký Cetín",
+      "latitude": 48.217278,
+      "longitude": 18.18722
+    },
+    {
+      "name": "ejoin Čechynce",
+      "latitude": 48.252644,
+      "longitude": 18.160005
+    },
+    {
+      "name": "Ekocentrum - KOCR Bratislava Region Tourism",
+      "latitude": 48.275818,
+      "longitude": 17.032548
+    },
+    {
+      "name": "ePower point",
+      "latitude": 49.026006,
+      "longitude": 19.783687
+    },
+    {
+      "name": "ePower point",
+      "latitude": 49.107842,
+      "longitude": 19.573776
+    },
+    {
+      "name": "EVlink",
+      "latitude": 48.643826,
+      "longitude": 20.521431
+    },
+    {
+      "name": "EVlink",
+      "latitude": 48.987116,
+      "longitude": 21.237185
+    },
+    {
+      "name": "evmapa SEAS",
+      "latitude": 48.692966,
+      "longitude": 18.531211
+    },
+    {
+      "name": "GAS Lozorno",
+      "latitude": 48.323605,
+      "longitude": 17.031184
+    },
+    {
+      "name": "GreenWay",
+      "latitude": 48.112184,
+      "longitude": 17.089996
+    },
+    {
+      "name": "GreenWay",
+      "latitude": 48.670525,
+      "longitude": 21.271502
+    },
+    {
+      "name": "GreenWay",
+      "latitude": 48.717103,
+      "longitude": 21.261694
+    },
+    {
+      "name": "GreenWay",
+      "latitude": 48.717957,
+      "longitude": 21.260727
+    },
+    {
+      "name": "GreenWay",
+      "latitude": 48.734807,
+      "longitude": 21.274853
+    },
+    {
+      "name": "GreenWay",
+      "latitude": 48.9887,
+      "longitude": 21.2624
+    },
+    {
+      "name": "GreenWay",
+      "latitude": 49.213471,
+      "longitude": 18.75603
+    },
+    {
+      "name": "GreenWay",
+      "latitude": 49.21988,
+      "longitude": 18.757784
+    },
+    {
+      "name": "GreenWay",
+      "latitude": 49.221255,
+      "longitude": 18.753571
+    },
+    {
+      "name": "GreenWay",
+      "latitude": 49.221375,
+      "longitude": 18.758213
+    },
+    {
+      "name": "Grinavská čerpačka",
+      "latitude": 48.273444,
+      "longitude": 17.234259
+    },
+    {
+      "name": "Gumex Bratislava",
+      "latitude": 48.170628,
+      "longitude": 17.176268
+    },
+    {
+      "name": "GW Depo Bratislava #1",
+      "latitude": 48.190362,
+      "longitude": 17.188647
+    },
+    {
+      "name": "Gymnázium F.V. Sasinka",
+      "latitude": 48.846418,
+      "longitude": 17.228673
+    },
+    {
+      "name": "Hi-Ten TENNIS & ACTIVITY CENTER",
+      "latitude": 47.980826,
+      "longitude": 17.607344
+    },
+    {
+      "name": "Horský bufet Montanic",
+      "latitude": 48.657173,
+      "longitude": 19.646682
+    },
+    {
+      "name": "Horský hotel Sliezsky Dom",
+      "latitude": 49.155775,
+      "longitude": 20.156733
+    },
+    {
+      "name": "Hospoda U Sikory",
+      "latitude": 49.519662,
+      "longitude": 18.832301
+    },
+    {
+      "name": "Hostinec u Gazdu - KOCR Bratislava Region Tourism",
+      "latitude": 48.502486,
+      "longitude": 16.970413
+    },
+    {
+      "name": "Hostinec u Klačkov",
+      "latitude": 48.826947,
+      "longitude": 17.705733
+    },
+    {
+      "name": "Ionity Dubnica",
+      "latitude": 48.950957,
+      "longitude": 18.150841
+    },
+    {
+      "name": "IONITY Senec - CCS",
+      "latitude": 48.240709,
+      "longitude": 17.360764
+    },
+    {
+      "name": "IONITY Zvolen",
+      "latitude": 48.583968,
+      "longitude": 19.105391
+    },
+    {
+      "name": "Kaufland Nabíjacia stanica",
+      "latitude": 49.012766,
+      "longitude": 21.25735
+    },
+    {
+      "name": "Klingerka Bratislava",
+      "latitude": 48.142763,
+      "longitude": 17.133229
+    },
+    {
+      "name": "KOCR BRT",
+      "latitude": 48.171171,
+      "longitude": 16.985656
+    },
+    {
+      "name": "Krčma u Kurátka",
+      "latitude": 48.466084,
+      "longitude": 17.402835
+    },
+    {
+      "name": "Kultúrne zariadenia Petržalky - KOCR Bratislava Region Tourism",
+      "latitude": 48.117053,
+      "longitude": 17.110383
+    },
+    {
+      "name": "Lidl Charging Station",
+      "latitude": 48.309361,
+      "longitude": 18.108284
+    },
+    {
+      "name": "Lidl Dunajská Streda",
+      "latitude": 48.004139,
+      "longitude": 17.597482
+    },
+    {
+      "name": "Lidl E-mobility",
+      "latitude": 48.595618,
+      "longitude": 18.849075
+    },
+    {
+      "name": "Lidl Pod Vinbargom BJ",
+      "latitude": 49.301358,
+      "longitude": 21.28096
+    },
+    {
+      "name": "Lidl Senec, Boldocká",
+      "latitude": 48.223185,
+      "longitude": 17.404278
+    },
+    {
+      "name": "Lidl Trenčín, Bratislavská",
+      "latitude": 48.896942,
+      "longitude": 18.010221
+    },
+    {
+      "name": "Lidl Trenčín, Bratislavská II.",
+      "latitude": 48.899597,
+      "longitude": 18.029025
+    },
+    {
+      "name": "Limbach",
+      "latitude": 48.288075,
+      "longitude": 17.223192
+    },
+    {
+      "name": "Lukov",
+      "latitude": 49.290865,
+      "longitude": 21.081678
+    },
+    {
+      "name": "MB Dunajská Streda",
+      "latitude": 47.996802,
+      "longitude": 17.635441
+    },
+    {
+      "name": "MB Panonska | Mercedes-Benz",
+      "latitude": 48.106204,
+      "longitude": 17.096243
+    },
+    {
+      "name": "MB Tuhovská | Mercedes-Benz",
+      "latitude": 48.190153,
+      "longitude": 17.191923
+    },
+    {
+      "name": "Miestny úrad Záhorská Bystrica",
+      "latitude": 48.239088,
+      "longitude": 17.038589
+    },
+    {
+      "name": "MINI SPOT - Beňadiková ebike",
+      "latitude": 49.075594,
+      "longitude": 19.680324
+    },
+    {
+      "name": "Motel M",
+      "latitude": 48.463806,
+      "longitude": 17.03593
+    },
+    {
+      "name": "Motor-car Bratislava Public DC",
+      "latitude": 48.190323,
+      "longitude": 17.193041
+    },
+    {
+      "name": "NabiBajk",
+      "latitude": 48.46396,
+      "longitude": 18.148135
+    },
+    {
+      "name": "NabiBajk",
+      "latitude": 48.747515,
+      "longitude": 17.720454
+    },
+    {
+      "name": "NabiBajk",
+      "latitude": 49.272145,
+      "longitude": 19.607711
+    },
+    {
+      "name": "nabijanie",
+      "latitude": 48.313969,
+      "longitude": 17.255783
+    },
+    {
+      "name": "Nabíjacia stanica",
+      "latitude": 48.716378,
+      "longitude": 21.751779
+    },
+    {
+      "name": "Nabíjacia Stanica Hotel Solisko",
+      "latitude": 49.119688,
+      "longitude": 20.057021
+    },
+    {
+      "name": "nabíjacia stanica Lidl",
+      "latitude": 48.586723,
+      "longitude": 17.815707
+    },
+    {
+      "name": "nabíjacia stanica Pro Patria",
+      "latitude": 48.586641,
+      "longitude": 17.843779
+    },
+    {
+      "name": "nabíjacia stanica Thermia Palace",
+      "latitude": 48.587266,
+      "longitude": 17.840843
+    },
+    {
+      "name": "Nabíjacia stanica VSS",
+      "latitude": 48.308501,
+      "longitude": 18.088817
+    },
+    {
+      "name": "Nabíjecí stanice elektrokol Specialized Fuggerov dvor",
+      "latitude": 48.789015,
+      "longitude": 19.181025
+    },
+    {
+      "name": "Nabíjecí stanice elektrokol Specialized Hostinec Skalnička",
+      "latitude": 48.77432,
+      "longitude": 19.025792
+    },
+    {
+      "name": "Nabíjecí stanice elektrokol Specialized Hrochoťský mlyn",
+      "latitude": 48.649417,
+      "longitude": 19.326984
+    },
+    {
+      "name": "Nabíjecí stanice elektrokol Specialized Koliba pod Vartou",
+      "latitude": 48.717889,
+      "longitude": 19.404377
+    },
+    {
+      "name": "Nabíjecí stanice elektrokol Specialized Penzión Guldiner",
+      "latitude": 48.740037,
+      "longitude": 18.991173
+    },
+    {
+      "name": "Next-e",
+      "latitude": 48.245287,
+      "longitude": 17.03491
+    },
+    {
+      "name": "Nissan",
+      "latitude": 49.213696,
+      "longitude": 18.750496
+    },
+    {
+      "name": "Nové Mesto nad Váhom - Klčové",
+      "latitude": 48.761902,
+      "longitude": 17.830316
+    },
+    {
+      "name": "Národný futbalový štadión Bratislava",
+      "latitude": 48.164035,
+      "longitude": 17.137674
+    },
+    {
+      "name": "Obec Hybe",
+      "latitude": 49.045007,
+      "longitude": 19.83013
+    },
+    {
+      "name": "Obec Kaplna",
+      "latitude": 48.292944,
+      "longitude": 17.457833
+    },
+    {
+      "name": "Obec Kružlov",
+      "latitude": 49.310588,
+      "longitude": 21.133051
+    },
+    {
+      "name": "Obec Malcov",
+      "latitude": 49.305556,
+      "longitude": 21.063333
+    },
+    {
+      "name": "Obec Ulič",
+      "latitude": 48.964861,
+      "longitude": 22.419722
+    },
+    {
+      "name": "Obec Važec",
+      "latitude": 49.058965,
+      "longitude": 19.979864
+    },
+    {
+      "name": "Obecný úrad Veľký Biel",
+      "latitude": 48.212998,
+      "longitude": 17.359966
+    },
+    {
+      "name": "Obecná knižnica - Ivanka pri Dunaji",
+      "latitude": 48.187407,
+      "longitude": 17.256057
+    },
+    {
+      "name": "Obecný úrad Dolná Mariková",
+      "latitude": 49.205551,
+      "longitude": 18.357936
+    },
+    {
+      "name": "Občerstvenie u Kapra OOCR Záhorie",
+      "latitude": 48.841414,
+      "longitude": 17.198386
+    },
+    {
+      "name": "OC Korzo Prievidza",
+      "latitude": 48.780064,
+      "longitude": 18.606522
+    },
+    {
+      "name": "OD Saratov Bratislava",
+      "latitude": 48.193085,
+      "longitude": 17.033967
+    },
+    {
+      "name": "OMV eMotion",
+      "latitude": 48.158655,
+      "longitude": 17.143628
+    },
+    {
+      "name": "OMV eMotion",
+      "latitude": 48.236056,
+      "longitude": 17.035266
+    },
+    {
+      "name": "OMV eMotion",
+      "latitude": 48.700178,
+      "longitude": 21.262214
+    },
+    {
+      "name": "OMV eMotion",
+      "latitude": 48.704939,
+      "longitude": 21.28018
+    },
+    {
+      "name": "OMV eMotion",
+      "latitude": 48.734245,
+      "longitude": 21.275314
+    },
+    {
+      "name": "Openko Dental Clinic",
+      "latitude": 48.172543,
+      "longitude": 17.12517
+    },
+    {
+      "name": "Penzion Tvarožek",
+      "latitude": 48.665288,
+      "longitude": 17.539717
+    },
+    {
+      "name": "Penzión Ivica",
+      "latitude": 48.249155,
+      "longitude": 17.063833
+    },
+    {
+      "name": "Pohostinstvo Raková Korcháň",
+      "latitude": 49.480136,
+      "longitude": 18.692544
+    },
+    {
+      "name": "Požiarna zbrojnica Liptovská Štiavnica",
+      "latitude": 49.052251,
+      "longitude": 19.356472
+    },
+    {
+      "name": "PumpTrack Záhorská Bystrica",
+      "latitude": 48.235977,
+      "longitude": 17.038987
+    },
+    {
+      "name": "Rezidencia Gradus Dunajská Streda",
+      "latitude": 47.992601,
+      "longitude": 17.620294
+    },
+    {
+      "name": "ROC Prievidza",
+      "latitude": 48.771525,
+      "longitude": 18.620546
+    },
+    {
+      "name": "RP Senica",
+      "latitude": 48.685675,
+      "longitude": 17.363869
+    },
+    {
+      "name": "Senica",
+      "latitude": 48.679177,
+      "longitude": 17.35027
+    },
+    {
+      "name": "SHARE'n'GO",
+      "latitude": 48.716061,
+      "longitude": 21.213335
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 48.694079,
+      "longitude": 21.253117
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 48.69776,
+      "longitude": 21.250883
+    },
+    {
+      "name": "Shell recharge",
+      "latitude": 48.776997,
+      "longitude": 18.601402
+    },
+    {
+      "name": "Sky Park Offices",
+      "latitude": 48.143985,
+      "longitude": 17.127049
+    },
+    {
+      "name": "Slovnaft",
+      "latitude": 48.763084,
+      "longitude": 17.854445
+    },
+    {
+      "name": "Smaltovna Mišík",
+      "latitude": 48.800395,
+      "longitude": 17.161026
+    },
+    {
+      "name": "Správní úřad Bernolákovo",
+      "latitude": 48.199325,
+      "longitude": 17.299802
+    },
+    {
+      "name": "Správný úrad Ivanka pri Dunaji",
+      "latitude": 48.190274,
+      "longitude": 17.257254
+    },
+    {
+      "name": "Tesco",
+      "latitude": 48.778285,
+      "longitude": 17.694648
+    },
+    {
+      "name": "Tesco Bánovce nad Bebravou",
+      "latitude": 48.718486,
+      "longitude": 18.259599
+    },
+    {
+      "name": "Tesco Partizánske",
+      "latitude": 48.627765,
+      "longitude": 18.362335
+    },
+    {
+      "name": "Tesco Prievidza",
+      "latitude": 48.778169,
+      "longitude": 18.60764
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 48.690466,
+      "longitude": 21.260088
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 48.706434,
+      "longitude": 21.248275
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 48.717551,
+      "longitude": 21.263372
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 48.718216,
+      "longitude": 21.245668
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 48.721423,
+      "longitude": 21.254404
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 48.726643,
+      "longitude": 21.263868
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 48.835822,
+      "longitude": 17.232723
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 48.984408,
+      "longitude": 21.249295
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 49.11917,
+      "longitude": 20.058665
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 49.169934,
+      "longitude": 20.280368
+    },
+    {
+      "name": "Tesla Destination Charger - W Hotel",
+      "latitude": 48.219353,
+      "longitude": 16.977642
+    },
+    {
+      "name": "Tesla Supercharger",
+      "latitude": 48.695114,
+      "longitude": 21.235599
+    },
+    {
+      "name": "TIP SPOT - Bacúch",
+      "latitude": 48.859872,
+      "longitude": 19.806379
+    },
+    {
+      "name": "TIP SPOT - Demänovská Dolina",
+      "latitude": 49.031766,
+      "longitude": 19.573038
+    },
+    {
+      "name": "Topkolo",
+      "latitude": 49.294771,
+      "longitude": 18.245281
+    },
+    {
+      "name": "Trading-X Bratislava",
+      "latitude": 48.188052,
+      "longitude": 17.038509
+    },
+    {
+      "name": "Trencin Supercharger",
+      "latitude": 48.864268,
+      "longitude": 18.023018
+    },
+    {
+      "name": "Trhovisko Herlianska",
+      "latitude": 48.159198,
+      "longitude": 17.154795
+    },
+    {
+      "name": "Trhovisko Miletičová",
+      "latitude": 48.153067,
+      "longitude": 17.138154
+    },
+    {
+      "name": "U Srnčíka - KOCR Bratislava Region Tourism",
+      "latitude": 48.17107,
+      "longitude": 16.98513
+    },
+    {
+      "name": "U stareho bicykla - KOCR Bratislava Region Tourism",
+      "latitude": 48.259,
+      "longitude": 16.95989
+    },
+    {
+      "name": "Urban Residence Bratislava",
+      "latitude": 48.162047,
+      "longitude": 17.124691
+    },
+    {
+      "name": "USB",
+      "latitude": 49.057701,
+      "longitude": 20.30501
+    },
+    {
+      "name": "USB",
+      "latitude": 49.129669,
+      "longitude": 20.433886
+    },
+    {
+      "name": "USB",
+      "latitude": 49.159796,
+      "longitude": 20.448183
+    },
+    {
+      "name": "V.I.P Bar Vysoká pri Morave",
+      "latitude": 48.329633,
+      "longitude": 16.909954
+    },
+    {
+      "name": "Valaska Dubova Charging",
+      "latitude": 49.140066,
+      "longitude": 19.289222
+    },
+    {
+      "name": "Vinárstvo Carpate Diem",
+      "latitude": 48.300542,
+      "longitude": 17.350465
+    },
+    {
+      "name": "Vivo! Bratislava",
+      "latitude": 48.168091,
+      "longitude": 17.140023
+    },
+    {
+      "name": "Včelín",
+      "latitude": 48.248692,
+      "longitude": 17.143239
+    },
+    {
+      "name": "W Hotel - KOCR Bratislava Region Tourism",
+      "latitude": 48.219363,
+      "longitude": 16.9777
+    },
+    {
+      "name": "Wallb-e box mesto Svit",
+      "latitude": 49.056897,
+      "longitude": 20.203911
+    },
+    {
+      "name": "Westend Plazza",
+      "latitude": 48.169382,
+      "longitude": 17.073756
+    },
+    {
+      "name": "White Eurovalley Golf Park Club Malacky",
+      "latitude": 48.405625,
+      "longitude": 17.027612
+    },
+    {
+      "name": "ZSE Bory Mall",
+      "latitude": 48.203989,
+      "longitude": 17.032711
+    },
+    {
+      "name": "ZSE Bory Mall",
+      "latitude": 48.20721,
+      "longitude": 17.033103
+    },
+    {
+      "name": "ZSE Drive",
+      "latitude": 48.167344,
+      "longitude": 17.138745
+    },
+    {
+      "name": "ZSE Drive",
+      "latitude": 48.181293,
+      "longitude": 17.043144
+    },
+    {
+      "name": "ZSE Drive",
+      "latitude": 48.181778,
+      "longitude": 17.159585
+    },
+    {
+      "name": "ZSE Drive",
+      "latitude": 48.672472,
+      "longitude": 21.236021
+    },
+    {
+      "name": "ZSE Drive",
+      "latitude": 48.684122,
+      "longitude": 21.284271
+    },
+    {
+      "name": "ZSE Drive",
+      "latitude": 48.700359,
+      "longitude": 21.236007
+    },
+    {
+      "name": "ZSE Drive",
+      "latitude": 48.715653,
+      "longitude": 21.238677
+    },
+    {
+      "name": "ZSE Drive",
+      "latitude": 48.716393,
+      "longitude": 21.213741
+    },
+    {
+      "name": "ZSE Drive",
+      "latitude": 48.719231,
+      "longitude": 21.265405
+    },
+    {
+      "name": "ZSE Drive",
+      "latitude": 48.726661,
+      "longitude": 21.293455
+    },
+    {
+      "name": "ZSE Drive",
+      "latitude": 48.733883,
+      "longitude": 21.241483
+    },
+    {
+      "name": "ZSE Drive",
+      "latitude": 48.750477,
+      "longitude": 21.272261
+    },
+    {
+      "name": "ZSE Drive",
+      "latitude": 49.227008,
+      "longitude": 18.73406
+    },
+    {
+      "name": "ZSE Drive",
+      "latitude": 49.228778,
+      "longitude": 18.742207
+    },
+    {
+      "name": "ZSE Drive - Staré Grunty",
+      "latitude": 48.157796,
+      "longitude": 17.068271
+    },
+    {
+      "name": "ZSE Drive Cubicon",
+      "latitude": 48.158037,
+      "longitude": 17.069023
+    },
+    {
+      "name": "ZSE Drive Nabíjacia stanica",
+      "latitude": 48.998403,
+      "longitude": 21.269569
+    },
+    {
+      "name": "ZSE DS McDonald's",
+      "latitude": 47.997505,
+      "longitude": 17.631335
+    },
+    {
+      "name": "ZSE Malavia",
+      "latitude": 48.433228,
+      "longitude": 17.029435
+    },
+    {
+      "name": "ZSE McDonald's",
+      "latitude": 48.175577,
+      "longitude": 17.065751
+    },
+    {
+      "name": "ZSE NR Rezident Poliknika Chrenová",
+      "latitude": 48.308216,
+      "longitude": 18.10809
+    },
+    {
+      "name": "ZSE Partner Roaming DS CAR",
+      "latitude": 47.99765,
+      "longitude": 17.626579
+    },
+    {
+      "name": "ZSE Partner Roaming TN JHservices",
+      "latitude": 48.899963,
+      "longitude": 18.018094
+    },
+    {
+      "name": "ZSE Partner Roaming TT Arboria AC CL 1",
+      "latitude": 48.389132,
+      "longitude": 17.606224
+    },
+    {
+      "name": "ZSE Partner SB Stomark",
+      "latitude": 49.107944,
+      "longitude": 21.084319
+    },
+    {
+      "name": "ZSE PD Kaufland Prievidza",
+      "latitude": 48.776645,
+      "longitude": 18.606988
+    },
+    {
+      "name": "ZSE PD McDonald's Prievidza",
+      "latitude": 48.77708,
+      "longitude": 18.60219
+    },
+    {
+      "name": "ZSE PK KLM Left",
+      "latitude": 48.291249,
+      "longitude": 17.279207
+    },
+    {
+      "name": "ZSE PK KLM Right",
+      "latitude": 48.291115,
+      "longitude": 17.279288
+    },
+    {
+      "name": "ZSE Slovnaft Wolkrova",
+      "latitude": 48.125039,
+      "longitude": 17.105384
+    },
+    {
+      "name": "ZSE TN OC MAX M.R.Štefánika",
+      "latitude": 48.890363,
+      "longitude": 18.057295
+    },
+    {
+      "name": "ZSE TN Rezident Hodžova AC CL 1.1",
+      "latitude": 48.897284,
+      "longitude": 18.053451
+    },
+    {
+      "name": "ZSE TN Rezident Hodžova AC CL 2.1",
+      "latitude": 48.897281,
+      "longitude": 18.053566
+    },
+    {
+      "name": "ZSE TT OC MAX Ferka Urbánka",
+      "latitude": 48.36972,
+      "longitude": 17.579798
+    },
+    {
+      "name": "ZSE TV Kaufland Trebišov Ultra",
+      "latitude": 48.629607,
+      "longitude": 21.714253
+    },
+    {
+      "name": "ZSE TV Studničky Dargov Ultra",
+      "latitude": 48.735117,
+      "longitude": 21.565023
+    },
+    {
+      "name": "ZSE ZH OD Prior",
+      "latitude": 48.595319,
+      "longitude": 18.850641
+    },
+    {
+      "name": "ZSE Železná studnička",
+      "latitude": 48.174926,
+      "longitude": 17.073469
+    },
+    {
+      "name": "Zvolen Supercharger",
+      "latitude": 48.627394,
+      "longitude": 19.103473
+    },
+    {
+      "name": "Základná škola Hrubý Šůr",
+      "latitude": 48.172188,
+      "longitude": 17.418769
+    },
+    {
+      "name": "Šaštín Stráže OOCR Záhorie - Tropic Pizza",
+      "latitude": 48.629375,
+      "longitude": 17.137749
+    },
+    {
+      "name": "Športová hala Malina - KOCR Bratislava Region Tourism",
+      "latitude": 48.4386,
+      "longitude": 17.020605
+    },
+    {
+      "name": "ŽST Petržalka",
+      "latitude": 48.122519,
+      "longitude": 17.099261
+    }
+  ],
+  "meta": {
+    "title": "Slovenské nabíjacie stanice - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných nabíjacích staníc pre elektromobily na Slovensku (amenity=charging_station) z OpenStreetMap. Obsahuje 284 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Slovenské nabíjacie stanice | ListBase",
+    "seo_description": "Stiahnuť Slovenské nabíjacie stanice — 284 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 284 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

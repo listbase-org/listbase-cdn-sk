@@ -1,0 +1,8512 @@
+{
+  "id": "sk-psc-koordinaty",
+  "name": "Slovenské PSČ s koordinátmi",
+  "title": "Slovenské PSČ s koordinátmi",
+  "description": "Slovak postal codes with GPS coordinates and town names",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1411,
+  "columns": [
+    {
+      "key": "psc",
+      "label": "Psc",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "mesto",
+      "label": "Mesto",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "psc": "01001",
+      "lat": "49.2248",
+      "lon": "18.7376",
+      "mesto": "Žilina"
+    },
+    {
+      "psc": "01003",
+      "lat": "49.2405",
+      "lon": "18.7772",
+      "mesto": "Žilina"
+    },
+    {
+      "psc": "01004",
+      "lat": "49.2133",
+      "lon": "18.7207",
+      "mesto": "Žilina"
+    },
+    {
+      "psc": "01007",
+      "lat": "49.1954",
+      "lon": "18.7411",
+      "mesto": "Žilina"
+    },
+    {
+      "psc": "01008",
+      "lat": "49.2083",
+      "lon": "18.7663",
+      "mesto": "Žilina"
+    },
+    {
+      "psc": "01009",
+      "lat": "49.1847",
+      "lon": "18.7323",
+      "mesto": "Žilina"
+    },
+    {
+      "psc": "01014",
+      "lat": "49.2594",
+      "lon": "18.7589",
+      "mesto": "Žilina"
+    },
+    {
+      "psc": "01015",
+      "lat": "49.2136",
+      "lon": "18.7107",
+      "mesto": "Žilina"
+    },
+    {
+      "psc": "01301",
+      "lat": "49.2218",
+      "lon": "18.7949",
+      "mesto": "Teplička nad Váhom"
+    },
+    {
+      "psc": "01302",
+      "lat": "49.2123",
+      "lon": "18.8484",
+      "mesto": "Gbeľany"
+    },
+    {
+      "psc": "01303",
+      "lat": "49.2019",
+      "lon": "18.8698",
+      "mesto": "Varín"
+    },
+    {
+      "psc": "01304",
+      "lat": "49.2148",
+      "lon": "18.9162",
+      "mesto": "Dolná Tižina"
+    },
+    {
+      "psc": "01305",
+      "lat": "49.263",
+      "lon": "18.9551",
+      "mesto": "Belá"
+    },
+    {
+      "psc": "01306",
+      "lat": "49.2577",
+      "lon": "19.0315",
+      "mesto": "Terchová"
+    },
+    {
+      "psc": "01311",
+      "lat": "49.1754",
+      "lon": "18.7226",
+      "mesto": "Lietavská Lúčka"
+    },
+    {
+      "psc": "01312",
+      "lat": "49.1303",
+      "lon": "18.7783",
+      "mesto": "Turie"
+    },
+    {
+      "psc": "01313",
+      "lat": "49.1283",
+      "lon": "18.6827",
+      "mesto": "Rajecké Teplice"
+    },
+    {
+      "psc": "01314",
+      "lat": "49.0809",
+      "lon": "18.6983",
+      "mesto": "Kamenná Poruba"
+    },
+    {
+      "psc": "01315",
+      "lat": "49.0451",
+      "lon": "18.635",
+      "mesto": "Rajecká Lesná"
+    },
+    {
+      "psc": "01318",
+      "lat": "49.1702",
+      "lon": "18.6735",
+      "mesto": "Lietava"
+    },
+    {
+      "psc": "01319",
+      "lat": "49.1072",
+      "lon": "18.6467",
+      "mesto": "Kľače"
+    },
+    {
+      "psc": "01322",
+      "lat": "49.1825",
+      "lon": "18.764",
+      "mesto": "Rosina"
+    },
+    {
+      "psc": "01323",
+      "lat": "49.1635",
+      "lon": "18.7793",
+      "mesto": "Višňové"
+    },
+    {
+      "psc": "01324",
+      "lat": "49.1869",
+      "lon": "18.8631",
+      "mesto": "Strečno"
+    },
+    {
+      "psc": "01325",
+      "lat": "49.1632",
+      "lon": "18.8318",
+      "mesto": "Stráňavy"
+    },
+    {
+      "psc": "01331",
+      "lat": "49.271",
+      "lon": "18.6952",
+      "mesto": "Divina"
+    },
+    {
+      "psc": "01332",
+      "lat": "49.3033",
+      "lon": "18.63",
+      "mesto": "Dlhé Pole"
+    },
+    {
+      "psc": "01341",
+      "lat": "49.2298",
+      "lon": "18.6308",
+      "mesto": "Dolný Hričov"
+    },
+    {
+      "psc": "01342",
+      "lat": "49.2516",
+      "lon": "18.6646",
+      "mesto": "Horný Hričov"
+    },
+    {
+      "psc": "01351",
+      "lat": "49.1978",
+      "lon": "18.5307",
+      "mesto": "Predmier"
+    },
+    {
+      "psc": "01352",
+      "lat": "49.1647",
+      "lon": "18.5881",
+      "mesto": "Súľov"
+    },
+    {
+      "psc": "01353",
+      "lat": "49.2562",
+      "lon": "18.5059",
+      "mesto": "Petrovice"
+    },
+    {
+      "psc": "01354",
+      "lat": "49.2987",
+      "lon": "18.5231",
+      "mesto": "Kolárovice"
+    },
+    {
+      "psc": "01355",
+      "lat": "49.2854",
+      "lon": "18.4448",
+      "mesto": "Štiavnik"
+    },
+    {
+      "psc": "01356",
+      "lat": "49.2116",
+      "lon": "18.4795",
+      "mesto": "Štiavnik"
+    },
+    {
+      "psc": "01361",
+      "lat": "49.2543",
+      "lon": "18.6009",
+      "mesto": "Kotešová"
+    },
+    {
+      "psc": "01362",
+      "lat": "49.3283",
+      "lon": "18.5663",
+      "mesto": "Veľké Rovné"
+    },
+    {
+      "psc": "01401",
+      "lat": "49.2225",
+      "lon": "18.5588",
+      "mesto": "Bytča"
+    },
+    {
+      "psc": "01501",
+      "lat": "49.0883",
+      "lon": "18.6343",
+      "mesto": "Rajec nad Rajčiankou"
+    },
+    {
+      "psc": "01701",
+      "lat": "49.1156",
+      "lon": "18.4422",
+      "mesto": "Považská Bystrica"
+    },
+    {
+      "psc": "01704",
+      "lat": "49.1527",
+      "lon": "18.4552",
+      "mesto": "Považská Bystrica"
+    },
+    {
+      "psc": "01705",
+      "lat": "49.1426",
+      "lon": "18.4748",
+      "mesto": "Považská Bystrica"
+    },
+    {
+      "psc": "01706",
+      "lat": "49.143",
+      "lon": "18.3873",
+      "mesto": "Považská Bystrica"
+    },
+    {
+      "psc": "01707",
+      "lat": "49.1007",
+      "lon": "18.4657",
+      "mesto": "Považská Bystrica"
+    },
+    {
+      "psc": "01801",
+      "lat": "49.1735",
+      "lon": "18.3925",
+      "mesto": "Udiča"
+    },
+    {
+      "psc": "01802",
+      "lat": "49.2075",
+      "lon": "18.3565",
+      "mesto": "Dolná Mariková"
+    },
+    {
+      "psc": "01803",
+      "lat": "49.2659",
+      "lon": "18.3086",
+      "mesto": "Horná Mariková"
+    },
+    {
+      "psc": "01812",
+      "lat": "49.2139",
+      "lon": "18.4268",
+      "mesto": "Brvnište"
+    },
+    {
+      "psc": "01813",
+      "lat": "49.2757",
+      "lon": "18.3766",
+      "mesto": "Papradno"
+    },
+    {
+      "psc": "01815",
+      "lat": "49.0862",
+      "lon": "18.5202",
+      "mesto": "Prečín"
+    },
+    {
+      "psc": "01816",
+      "lat": "49.0448",
+      "lon": "18.553",
+      "mesto": "Domaniža"
+    },
+    {
+      "psc": "01817",
+      "lat": "49.1761",
+      "lon": "18.4402",
+      "mesto": "Jasenica"
+    },
+    {
+      "psc": "01821",
+      "lat": "49.0541",
+      "lon": "18.4194",
+      "mesto": "Dolný Lieskov"
+    },
+    {
+      "psc": "01822",
+      "lat": "49.0169",
+      "lon": "18.4748",
+      "mesto": "Pružina"
+    },
+    {
+      "psc": "01826",
+      "lat": "49.168",
+      "lon": "18.4998",
+      "mesto": "Plevník-Drienové"
+    },
+    {
+      "psc": "01831",
+      "lat": "48.9705",
+      "lon": "18.3251",
+      "mesto": "Košecké Podhradie"
+    },
+    {
+      "psc": "01832",
+      "lat": "48.9524",
+      "lon": "18.4349",
+      "mesto": "Zliechov"
+    },
+    {
+      "psc": "01835",
+      "lat": "48.9387",
+      "lon": "18.2963",
+      "mesto": "Horná Poruba"
+    },
+    {
+      "psc": "01841",
+      "lat": "48.9581",
+      "lon": "18.1664",
+      "mesto": "Dubnica nad Váhom"
+    },
+    {
+      "psc": "01851",
+      "lat": "48.937",
+      "lon": "18.143",
+      "mesto": "Nová Dubnica"
+    },
+    {
+      "psc": "01852",
+      "lat": "49.0261",
+      "lon": "18.2108",
+      "mesto": "Pruské"
+    },
+    {
+      "psc": "01853",
+      "lat": "48.9858",
+      "lon": "18.1572",
+      "mesto": "Bolešov"
+    },
+    {
+      "psc": "01854",
+      "lat": "48.9982",
+      "lon": "18.1774",
+      "mesto": "Slávnica"
+    },
+    {
+      "psc": "01855",
+      "lat": "49.0429",
+      "lon": "18.2172",
+      "mesto": "Tuchyňa"
+    },
+    {
+      "psc": "01856",
+      "lat": "49.1049",
+      "lon": "18.1403",
+      "mesto": "Červený Kameň"
+    },
+    {
+      "psc": "01857",
+      "lat": "49.0691",
+      "lon": "18.2004",
+      "mesto": "Mikušovce"
+    },
+    {
+      "psc": "01861",
+      "lat": "49.0655",
+      "lon": "18.3278",
+      "mesto": "Beluša"
+    },
+    {
+      "psc": "01863",
+      "lat": "49.0323",
+      "lon": "18.2978",
+      "mesto": "Ladce"
+    },
+    {
+      "psc": "01864",
+      "lat": "49.0041",
+      "lon": "18.279",
+      "mesto": "Košeca"
+    },
+    {
+      "psc": "01901",
+      "lat": "48.9839",
+      "lon": "18.2427",
+      "mesto": "Ilava"
+    },
+    {
+      "psc": "02001",
+      "lat": "49.1222",
+      "lon": "18.3257",
+      "mesto": "Púchov"
+    },
+    {
+      "psc": "02051",
+      "lat": "49.1683",
+      "lon": "18.297",
+      "mesto": "Dohňany"
+    },
+    {
+      "psc": "02052",
+      "lat": "49.176",
+      "lon": "18.2588",
+      "mesto": "Mestečko"
+    },
+    {
+      "psc": "02053",
+      "lat": "49.1895",
+      "lon": "18.229",
+      "mesto": "Lúky"
+    },
+    {
+      "psc": "02054",
+      "lat": "49.2038",
+      "lon": "18.1753",
+      "mesto": "Lysá pod Makytou"
+    },
+    {
+      "psc": "02055",
+      "lat": "49.2605",
+      "lon": "18.213",
+      "mesto": "Lazy pod Makytou"
+    },
+    {
+      "psc": "02061",
+      "lat": "49.0688",
+      "lon": "18.2877",
+      "mesto": "Lednické Rovne"
+    },
+    {
+      "psc": "02062",
+      "lat": "49.0508",
+      "lon": "18.2641",
+      "mesto": "Horovce"
+    },
+    {
+      "psc": "02063",
+      "lat": "49.1113",
+      "lon": "18.1979",
+      "mesto": "Lednica"
+    },
+    {
+      "psc": "02064",
+      "lat": "49.1557",
+      "lon": "18.1816",
+      "mesto": "Zubák"
+    },
+    {
+      "psc": "02071",
+      "lat": "49.1446",
+      "lon": "18.3616",
+      "mesto": "Nimnica"
+    },
+    {
+      "psc": "02072",
+      "lat": "48.9838",
+      "lon": "18.4026",
+      "mesto": "Mojtín"
+    },
+    {
+      "psc": "02201",
+      "lat": "49.4373",
+      "lon": "18.7889",
+      "mesto": "Čadca"
+    },
+    {
+      "psc": "02204",
+      "lat": "49.4295",
+      "lon": "18.7633",
+      "mesto": "Čadca"
+    },
+    {
+      "psc": "02301",
+      "lat": "49.4372",
+      "lon": "18.9204",
+      "mesto": "Oščadnica"
+    },
+    {
+      "psc": "02302",
+      "lat": "49.3961",
+      "lon": "18.8324",
+      "mesto": "Krásno nad Kysucou"
+    },
+    {
+      "psc": "02303",
+      "lat": "49.3936",
+      "lon": "18.898",
+      "mesto": "Zborov nad Bystricou"
+    },
+    {
+      "psc": "02304",
+      "lat": "49.3469",
+      "lon": "18.9403",
+      "mesto": "Stará Bystrica"
+    },
+    {
+      "psc": "02305",
+      "lat": "49.3444",
+      "lon": "19.0078",
+      "mesto": "Nová Bystrica"
+    },
+    {
+      "psc": "02311",
+      "lat": "49.3899",
+      "lon": "18.7012",
+      "mesto": "Zákopčie"
+    },
+    {
+      "psc": "02312",
+      "lat": "49.4855",
+      "lon": "18.7902",
+      "mesto": "Svrčinovec"
+    },
+    {
+      "psc": "02313",
+      "lat": "49.4883",
+      "lon": "18.8208",
+      "mesto": "Čierne"
+    },
+    {
+      "psc": "02314",
+      "lat": "49.4985",
+      "lon": "18.9318",
+      "mesto": "Skalité"
+    },
+    {
+      "psc": "02321",
+      "lat": "49.4177",
+      "lon": "18.5342",
+      "mesto": "Korňa"
+    },
+    {
+      "psc": "02322",
+      "lat": "49.442",
+      "lon": "18.5679",
+      "mesto": "Klokočov"
+    },
+    {
+      "psc": "02331",
+      "lat": "49.2871",
+      "lon": "18.7435",
+      "mesto": "Rudina"
+    },
+    {
+      "psc": "02332",
+      "lat": "49.2641",
+      "lon": "18.7931",
+      "mesto": "Snežnica"
+    },
+    {
+      "psc": "02333",
+      "lat": "49.3065",
+      "lon": "18.8533",
+      "mesto": "Kysucké Nové Mesto"
+    },
+    {
+      "psc": "02334",
+      "lat": "49.3375",
+      "lon": "18.8114",
+      "mesto": "Kysucký Lieskovec"
+    },
+    {
+      "psc": "02335",
+      "lat": "49.3629",
+      "lon": "18.768",
+      "mesto": "Ochodnica"
+    },
+    {
+      "psc": "02336",
+      "lat": "49.2907",
+      "lon": "18.7941",
+      "mesto": "Radoľa"
+    },
+    {
+      "psc": "02341",
+      "lat": "49.337",
+      "lon": "18.7347",
+      "mesto": "Nesluša"
+    },
+    {
+      "psc": "02345",
+      "lat": "49.2642",
+      "lon": "18.8782",
+      "mesto": "Horný Vadičov"
+    },
+    {
+      "psc": "02351",
+      "lat": "49.4571",
+      "lon": "18.7084",
+      "mesto": "Raková"
+    },
+    {
+      "psc": "02352",
+      "lat": "49.4408",
+      "lon": "18.6557",
+      "mesto": "Olešná"
+    },
+    {
+      "psc": "02354",
+      "lat": "49.4033",
+      "lon": "18.6249",
+      "mesto": "Turzovka"
+    },
+    {
+      "psc": "02355",
+      "lat": "49.3753",
+      "lon": "18.5364",
+      "mesto": "Vysoká nad Kysucou"
+    },
+    {
+      "psc": "02356",
+      "lat": "49.3715",
+      "lon": "18.4894",
+      "mesto": "Makov"
+    },
+    {
+      "psc": "02357",
+      "lat": "49.4027",
+      "lon": "18.6557",
+      "mesto": "Podvysoká"
+    },
+    {
+      "psc": "02401",
+      "lat": "49.2976",
+      "lon": "18.7636",
+      "mesto": "Kysucké Nové Mesto"
+    },
+    {
+      "psc": "02404",
+      "lat": "49.3141",
+      "lon": "18.7926",
+      "mesto": "Kysucké Nové Mesto"
+    },
+    {
+      "psc": "02601",
+      "lat": "49.2119",
+      "lon": "19.2976",
+      "mesto": "Dolný Kubín"
+    },
+    {
+      "psc": "02705",
+      "lat": "49.2908",
+      "lon": "19.1613",
+      "mesto": "Zázrivá"
+    },
+    {
+      "psc": "02712",
+      "lat": "49.3608",
+      "lon": "19.6763",
+      "mesto": "Liesek"
+    },
+    {
+      "psc": "02713",
+      "lat": "49.3658",
+      "lon": "19.7904",
+      "mesto": "Suchá Hora"
+    },
+    {
+      "psc": "02721",
+      "lat": "49.1721",
+      "lon": "19.2101",
+      "mesto": "Žaškov"
+    },
+    {
+      "psc": "02732",
+      "lat": "49.2605",
+      "lon": "19.6144",
+      "mesto": "Zuberec"
+    },
+    {
+      "psc": "02741",
+      "lat": "49.262",
+      "lon": "19.3568",
+      "mesto": "Oravský Podzámok"
+    },
+    {
+      "psc": "02742",
+      "lat": "49.3069",
+      "lon": "19.4846",
+      "mesto": "Podbiel"
+    },
+    {
+      "psc": "02743",
+      "lat": "49.321",
+      "lon": "19.5035",
+      "mesto": "Nižná nad Oravou"
+    },
+    {
+      "psc": "02744",
+      "lat": "49.3279",
+      "lon": "19.5507",
+      "mesto": "Tvrdošín"
+    },
+    {
+      "psc": "02751",
+      "lat": "49.1677",
+      "lon": "19.1138",
+      "mesto": "Kraľovany"
+    },
+    {
+      "psc": "02753",
+      "lat": "49.2123",
+      "lon": "19.2221",
+      "mesto": "Istebné nad Oravou"
+    },
+    {
+      "psc": "02754",
+      "lat": "49.2053",
+      "lon": "19.2447",
+      "mesto": "Veličná"
+    },
+    {
+      "psc": "02755",
+      "lat": "49.2663",
+      "lon": "19.4469",
+      "mesto": "Dlhá nad Oravou"
+    },
+    {
+      "psc": "02801",
+      "lat": "49.3599",
+      "lon": "19.6106",
+      "mesto": "Trstená"
+    },
+    {
+      "psc": "02901",
+      "lat": "49.4045",
+      "lon": "19.4812",
+      "mesto": "Námestovo"
+    },
+    {
+      "psc": "02941",
+      "lat": "49.4412",
+      "lon": "19.4795",
+      "mesto": "Klin"
+    },
+    {
+      "psc": "02942",
+      "lat": "49.4537",
+      "lon": "19.5594",
+      "mesto": "Bobrov"
+    },
+    {
+      "psc": "02943",
+      "lat": "49.4645",
+      "lon": "19.5277",
+      "mesto": "Zubrohlava"
+    },
+    {
+      "psc": "02944",
+      "lat": "49.4861",
+      "lon": "19.4644",
+      "mesto": "Rabča"
+    },
+    {
+      "psc": "02945",
+      "lat": "49.5094",
+      "lon": "19.5126",
+      "mesto": "Rabčice"
+    },
+    {
+      "psc": "02946",
+      "lat": "49.5053",
+      "lon": "19.4151",
+      "mesto": "Sihelné"
+    },
+    {
+      "psc": "02947",
+      "lat": "49.5464",
+      "lon": "19.4523",
+      "mesto": "Oravská Polhora"
+    },
+    {
+      "psc": "02951",
+      "lat": "49.3662",
+      "lon": "19.4107",
+      "mesto": "Lokca"
+    },
+    {
+      "psc": "02952",
+      "lat": "49.3247",
+      "lon": "19.3488",
+      "mesto": "Hruštín"
+    },
+    {
+      "psc": "02953",
+      "lat": "49.403",
+      "lon": "19.3658",
+      "mesto": "Breza"
+    },
+    {
+      "psc": "02954",
+      "lat": "49.379",
+      "lon": "19.3412",
+      "mesto": "Krušetnica"
+    },
+    {
+      "psc": "02955",
+      "lat": "49.446",
+      "lon": "19.2393",
+      "mesto": "Novoť"
+    },
+    {
+      "psc": "02956",
+      "lat": "49.3998",
+      "lon": "19.2929",
+      "mesto": "Zákamenné"
+    },
+    {
+      "psc": "02957",
+      "lat": "49.3689",
+      "lon": "19.1853",
+      "mesto": "Oravská Lesná"
+    },
+    {
+      "psc": "02962",
+      "lat": "49.4879",
+      "lon": "19.3633",
+      "mesto": "Oravské Veselé"
+    },
+    {
+      "psc": "02963",
+      "lat": "49.4607",
+      "lon": "19.3392",
+      "mesto": "Mútne"
+    },
+    {
+      "psc": "02964",
+      "lat": "49.4204",
+      "lon": "19.4174",
+      "mesto": "Oravská Jasenica"
+    },
+    {
+      "psc": "03101",
+      "lat": "49.0779",
+      "lon": "19.6399",
+      "mesto": "Liptovský Mikuláš"
+    },
+    {
+      "psc": "03104",
+      "lat": "49.1108",
+      "lon": "19.6815",
+      "mesto": "Liptovský Mikuláš"
+    },
+    {
+      "psc": "03105",
+      "lat": "49.095",
+      "lon": "19.5889",
+      "mesto": "Liptovský Mikuláš"
+    },
+    {
+      "psc": "03202",
+      "lat": "49.0363",
+      "lon": "19.6277",
+      "mesto": "Závažná Poruba"
+    },
+    {
+      "psc": "03203",
+      "lat": "49.0476",
+      "lon": "19.6789",
+      "mesto": "Liptovský Ján"
+    },
+    {
+      "psc": "03204",
+      "lat": "49.0973",
+      "lon": "19.7131",
+      "mesto": "Liptovský Ondrej"
+    },
+    {
+      "psc": "03205",
+      "lat": "49.1194",
+      "lon": "19.6518",
+      "mesto": "Smrečany"
+    },
+    {
+      "psc": "03211",
+      "lat": "49.0518",
+      "lon": "19.5347",
+      "mesto": "Svätý Kríž"
+    },
+    {
+      "psc": "03212",
+      "lat": "49.0161",
+      "lon": "19.5041",
+      "mesto": "Dúbrava"
+    },
+    {
+      "psc": "03213",
+      "lat": "49.0935",
+      "lon": "19.4815",
+      "mesto": "Ľubeľa"
+    },
+    {
+      "psc": "03214",
+      "lat": "49.0529",
+      "lon": "19.4795",
+      "mesto": "Ľubeľa"
+    },
+    {
+      "psc": "03215",
+      "lat": "49.0645",
+      "lon": "19.4348",
+      "mesto": "Partizánska Ľupča"
+    },
+    {
+      "psc": "03221",
+      "lat": "49.1193",
+      "lon": "19.6113",
+      "mesto": "Bobrovec"
+    },
+    {
+      "psc": "03223",
+      "lat": "49.145",
+      "lon": "19.5138",
+      "mesto": "Liptovská Sielnica"
+    },
+    {
+      "psc": "03231",
+      "lat": "49.066",
+      "lon": "19.8449",
+      "mesto": "Hybe"
+    },
+    {
+      "psc": "03232",
+      "lat": "49.0746",
+      "lon": "19.914",
+      "mesto": "Východná"
+    },
+    {
+      "psc": "03233",
+      "lat": "49.0259",
+      "lon": "19.7851",
+      "mesto": "Kráľova Lehota"
+    },
+    {
+      "psc": "03234",
+      "lat": "48.9806",
+      "lon": "19.7694",
+      "mesto": "Malužiná"
+    },
+    {
+      "psc": "03242",
+      "lat": "49.0979",
+      "lon": "19.7966",
+      "mesto": "Pribylina"
+    },
+    {
+      "psc": "03244",
+      "lat": "49.1022",
+      "lon": "19.8478",
+      "mesto": "Liptovská Kokava"
+    },
+    {
+      "psc": "03261",
+      "lat": "49.0596",
+      "lon": "19.9973",
+      "mesto": "Važec"
+    },
+    {
+      "psc": "03301",
+      "lat": "49.0461",
+      "lon": "19.7321",
+      "mesto": "Liptovský Hrádok"
+    },
+    {
+      "psc": "03401",
+      "lat": "49.0836",
+      "lon": "19.3017",
+      "mesto": "Ružomberok"
+    },
+    {
+      "psc": "03403",
+      "lat": "48.9997",
+      "lon": "19.2672",
+      "mesto": "Ružomberok"
+    },
+    {
+      "psc": "03406",
+      "lat": "49.0947",
+      "lon": "19.2333",
+      "mesto": "Ružomberok"
+    },
+    {
+      "psc": "03471",
+      "lat": "49.0492",
+      "lon": "19.3293",
+      "mesto": "Ludrová"
+    },
+    {
+      "psc": "03472",
+      "lat": "48.9364",
+      "lon": "19.3309",
+      "mesto": "Liptovská Lúžna"
+    },
+    {
+      "psc": "03473",
+      "lat": "48.9525",
+      "lon": "19.2632",
+      "mesto": "Liptovská Osada"
+    },
+    {
+      "psc": "03474",
+      "lat": "48.9182",
+      "lon": "19.1943",
+      "mesto": "Liptovské Revúce"
+    },
+    {
+      "psc": "03481",
+      "lat": "49.0941",
+      "lon": "19.3573",
+      "mesto": "Lisková"
+    },
+    {
+      "psc": "03482",
+      "lat": "49.1207",
+      "lon": "19.4016",
+      "mesto": "Lúčky"
+    },
+    {
+      "psc": "03483",
+      "lat": "49.1009",
+      "lon": "19.4087",
+      "mesto": "Liptovská Teplá"
+    },
+    {
+      "psc": "03484",
+      "lat": "49.0565",
+      "lon": "19.3928",
+      "mesto": "Liptovské Sliače"
+    },
+    {
+      "psc": "03491",
+      "lat": "49.1202",
+      "lon": "19.1679",
+      "mesto": "Ľubochňa"
+    },
+    {
+      "psc": "03492",
+      "lat": "49.1488",
+      "lon": "19.1626",
+      "mesto": "Stankovany"
+    },
+    {
+      "psc": "03495",
+      "lat": "49.0928",
+      "lon": "19.3117",
+      "mesto": "Likavka"
+    },
+    {
+      "psc": "03496",
+      "lat": "49.1406",
+      "lon": "19.2928",
+      "mesto": "Valaská Dubová"
+    },
+    {
+      "psc": "03601",
+      "lat": "49.0646",
+      "lon": "18.9129",
+      "mesto": "Martin"
+    },
+    {
+      "psc": "03802",
+      "lat": "49.051",
+      "lon": "18.9549",
+      "mesto": "Dražkovce"
+    },
+    {
+      "psc": "03803",
+      "lat": "49.0428",
+      "lon": "19.0054",
+      "mesto": "Sklabiňa"
+    },
+    {
+      "psc": "03804",
+      "lat": "49.0495",
+      "lon": "18.8787",
+      "mesto": "Bystrička"
+    },
+    {
+      "psc": "03811",
+      "lat": "48.9996",
+      "lon": "18.9815",
+      "mesto": "Belá-Dulice"
+    },
+    {
+      "psc": "03812",
+      "lat": "48.9641",
+      "lon": "19.018",
+      "mesto": "Necpaly"
+    },
+    {
+      "psc": "03815",
+      "lat": "48.9453",
+      "lon": "18.9165",
+      "mesto": "Blatnica"
+    },
+    {
+      "psc": "03821",
+      "lat": "48.8649",
+      "lon": "18.9568",
+      "mesto": "Mošovce"
+    },
+    {
+      "psc": "03822",
+      "lat": "48.9089",
+      "lon": "18.7593",
+      "mesto": "Slovenské Pravno"
+    },
+    {
+      "psc": "03823",
+      "lat": "48.8595",
+      "lon": "18.7781",
+      "mesto": "Dubové"
+    },
+    {
+      "psc": "03831",
+      "lat": "48.9721",
+      "lon": "18.693",
+      "mesto": "Vrícko"
+    },
+    {
+      "psc": "03835",
+      "lat": "49.0226",
+      "lon": "18.7967",
+      "mesto": "Valča"
+    },
+    {
+      "psc": "03840",
+      "lat": "49.0282",
+      "lon": "18.9151",
+      "mesto": "Žabokreky"
+    },
+    {
+      "psc": "03841",
+      "lat": "49.028",
+      "lon": "18.905",
+      "mesto": "Košťany nad Turcom"
+    },
+    {
+      "psc": "03842",
+      "lat": "48.9984",
+      "lon": "18.8816",
+      "mesto": "Príbovce"
+    },
+    {
+      "psc": "03843",
+      "lat": "48.973",
+      "lon": "18.8048",
+      "mesto": "Kláštor pod Znievom"
+    },
+    {
+      "psc": "03844",
+      "lat": "48.9275",
+      "lon": "18.8316",
+      "mesto": "Jazernica"
+    },
+    {
+      "psc": "03845",
+      "lat": "48.9028",
+      "lon": "18.8402",
+      "mesto": "Malý Čepčín"
+    },
+    {
+      "psc": "03846",
+      "lat": "48.8136",
+      "lon": "18.8906",
+      "mesto": "Horná Štubňa"
+    },
+    {
+      "psc": "03847",
+      "lat": "48.7809",
+      "lon": "18.8375",
+      "mesto": "Sklené"
+    },
+    {
+      "psc": "03848",
+      "lat": "48.781",
+      "lon": "18.96",
+      "mesto": "Turček"
+    },
+    {
+      "psc": "03851",
+      "lat": "49.0788",
+      "lon": "19.0207",
+      "mesto": "Sučany"
+    },
+    {
+      "psc": "03852",
+      "lat": "49.0985",
+      "lon": "18.9914",
+      "mesto": "Sučany"
+    },
+    {
+      "psc": "03853",
+      "lat": "49.1168",
+      "lon": "19.0357",
+      "mesto": "Turany nad Váhom"
+    },
+    {
+      "psc": "03854",
+      "lat": "49.1237",
+      "lon": "19.0835",
+      "mesto": "Krpeľany"
+    },
+    {
+      "psc": "03861",
+      "lat": "49.1114",
+      "lon": "18.9244",
+      "mesto": "Vrútky"
+    },
+    {
+      "psc": "03901",
+      "lat": "48.8637",
+      "lon": "18.8595",
+      "mesto": "Turčianske Teplice"
+    },
+    {
+      "psc": "04001",
+      "lat": "48.7536",
+      "lon": "21.1898",
+      "mesto": "Košice"
+    },
+    {
+      "psc": "04011",
+      "lat": "48.7077",
+      "lon": "21.2365",
+      "mesto": "Košice"
+    },
+    {
+      "psc": "04012",
+      "lat": "48.6856",
+      "lon": "21.2838",
+      "mesto": "Košice"
+    },
+    {
+      "psc": "04013",
+      "lat": "48.7556",
+      "lon": "21.2669",
+      "mesto": "Košice"
+    },
+    {
+      "psc": "04014",
+      "lat": "48.7335",
+      "lon": "21.2982",
+      "mesto": "Košice"
+    },
+    {
+      "psc": "04015",
+      "lat": "48.6292",
+      "lon": "21.1735",
+      "mesto": "Košice"
+    },
+    {
+      "psc": "04016",
+      "lat": "48.7176",
+      "lon": "21.1856",
+      "mesto": "Košice"
+    },
+    {
+      "psc": "04017",
+      "lat": "48.6665",
+      "lon": "21.272",
+      "mesto": "Košice"
+    },
+    {
+      "psc": "04018",
+      "lat": "48.6615",
+      "lon": "21.3405",
+      "mesto": "Košice"
+    },
+    {
+      "psc": "04022",
+      "lat": "48.7365",
+      "lon": "21.2847",
+      "mesto": "Košice"
+    },
+    {
+      "psc": "04023",
+      "lat": "48.7155",
+      "lon": "21.2175",
+      "mesto": "Košice"
+    },
+    {
+      "psc": "04401",
+      "lat": "48.6103",
+      "lon": "20.9515",
+      "mesto": "Drienovec"
+    },
+    {
+      "psc": "04402",
+      "lat": "48.6004",
+      "lon": "20.8777",
+      "mesto": "Turňa nad Bodvou"
+    },
+    {
+      "psc": "04405",
+      "lat": "48.5451",
+      "lon": "20.9644",
+      "mesto": "Moldava nad Bodvou"
+    },
+    {
+      "psc": "04410",
+      "lat": "48.6235",
+      "lon": "21.3066",
+      "mesto": "Geča"
+    },
+    {
+      "psc": "04411",
+      "lat": "48.6023",
+      "lon": "21.3462",
+      "mesto": "Ždaňa"
+    },
+    {
+      "psc": "04412",
+      "lat": "48.7276",
+      "lon": "21.1421",
+      "mesto": "Nižný Klátov"
+    },
+    {
+      "psc": "04413",
+      "lat": "48.6423",
+      "lon": "21.2919",
+      "mesto": "Valaliky"
+    },
+    {
+      "psc": "04414",
+      "lat": "48.6071",
+      "lon": "21.3249",
+      "mesto": "Čaňa"
+    },
+    {
+      "psc": "04415",
+      "lat": "48.6257",
+      "lon": "21.3636",
+      "mesto": "Nižná Myšľa"
+    },
+    {
+      "psc": "04416",
+      "lat": "48.6601",
+      "lon": "21.4129",
+      "mesto": "Bohdanovce"
+    },
+    {
+      "psc": "04417",
+      "lat": "48.6363",
+      "lon": "21.4782",
+      "mesto": "Slanec"
+    },
+    {
+      "psc": "04418",
+      "lat": "48.613",
+      "lon": "21.5272",
+      "mesto": "Kalša"
+    },
+    {
+      "psc": "04419",
+      "lat": "48.6818",
+      "lon": "21.4323",
+      "mesto": "Ruskov"
+    },
+    {
+      "psc": "04420",
+      "lat": "48.6761",
+      "lon": "21.1667",
+      "mesto": "Malá Ida"
+    },
+    {
+      "psc": "04421",
+      "lat": "48.6748",
+      "lon": "21.1139",
+      "mesto": "Šemša"
+    },
+    {
+      "psc": "04423",
+      "lat": "48.6833",
+      "lon": "20.9742",
+      "mesto": "Jasov"
+    },
+    {
+      "psc": "04424",
+      "lat": "48.7305",
+      "lon": "20.981",
+      "mesto": "Poproč"
+    },
+    {
+      "psc": "04425",
+      "lat": "48.6998",
+      "lon": "20.8924",
+      "mesto": "Medzev"
+    },
+    {
+      "psc": "04426",
+      "lat": "48.7069",
+      "lon": "20.773",
+      "mesto": "Štós"
+    },
+    {
+      "psc": "04431",
+      "lat": "48.8052",
+      "lon": "21.2492",
+      "mesto": "Družstevná pri Hornáde"
+    },
+    {
+      "psc": "04441",
+      "lat": "48.7076",
+      "lon": "21.346",
+      "mesto": "Sady nad Torysou"
+    },
+    {
+      "psc": "04442",
+      "lat": "48.7514",
+      "lon": "21.3439",
+      "mesto": "Rozhanovce"
+    },
+    {
+      "psc": "04443",
+      "lat": "48.7982",
+      "lon": "21.3055",
+      "mesto": "Budimír"
+    },
+    {
+      "psc": "04444",
+      "lat": "48.8097",
+      "lon": "21.3349",
+      "mesto": "Kráľovce"
+    },
+    {
+      "psc": "04445",
+      "lat": "48.7364",
+      "lon": "21.4393",
+      "mesto": "Bidovce"
+    },
+    {
+      "psc": "04447",
+      "lat": "48.8255",
+      "lon": "21.4141",
+      "mesto": "Kecerovce"
+    },
+    {
+      "psc": "04454",
+      "lat": "48.6209",
+      "lon": "21.1966",
+      "mesto": "Košice-železiarne"
+    },
+    {
+      "psc": "04455",
+      "lat": "48.5977",
+      "lon": "21.1674",
+      "mesto": "Veľká Ida"
+    },
+    {
+      "psc": "04457",
+      "lat": "48.6157",
+      "lon": "21.2539",
+      "mesto": "Haniska"
+    },
+    {
+      "psc": "04458",
+      "lat": "48.5589",
+      "lon": "21.2573",
+      "mesto": "Seňa"
+    },
+    {
+      "psc": "04461",
+      "lat": "48.7612",
+      "lon": "21.0128",
+      "mesto": "Zlatá Idka"
+    },
+    {
+      "psc": "04465",
+      "lat": "48.8032",
+      "lon": "21.1096",
+      "mesto": "Košická Belá"
+    },
+    {
+      "psc": "04471",
+      "lat": "48.5982",
+      "lon": "21.0656",
+      "mesto": "Čečejovce"
+    },
+    {
+      "psc": "04473",
+      "lat": "48.5345",
+      "lon": "21.0775",
+      "mesto": "Buzica"
+    },
+    {
+      "psc": "04474",
+      "lat": "48.5447",
+      "lon": "21.1854",
+      "mesto": "Perín-Chym"
+    },
+    {
+      "psc": "04481",
+      "lat": "48.8534",
+      "lon": "21.221",
+      "mesto": "Kysak"
+    },
+    {
+      "psc": "04501",
+      "lat": "48.6129",
+      "lon": "20.9985",
+      "mesto": "Moldava nad Bodvou"
+    },
+    {
+      "psc": "04801",
+      "lat": "48.6568",
+      "lon": "20.5305",
+      "mesto": "Rožňava"
+    },
+    {
+      "psc": "04901",
+      "lat": "48.7404",
+      "lon": "20.0472",
+      "mesto": "Muráň"
+    },
+    {
+      "psc": "04911",
+      "lat": "48.5478",
+      "lon": "20.4051",
+      "mesto": "Plešivec"
+    },
+    {
+      "psc": "04912",
+      "lat": "48.534",
+      "lon": "20.3783",
+      "mesto": "Gemerská Hôrka"
+    },
+    {
+      "psc": "04913",
+      "lat": "48.5645",
+      "lon": "20.2983",
+      "mesto": "Hucín"
+    },
+    {
+      "psc": "04914",
+      "lat": "48.5381",
+      "lon": "20.2982",
+      "mesto": "Licince"
+    },
+    {
+      "psc": "04916",
+      "lat": "48.6273",
+      "lon": "20.2408",
+      "mesto": "Jelšava"
+    },
+    {
+      "psc": "04918",
+      "lat": "48.6551",
+      "lon": "20.1969",
+      "mesto": "Lubeník"
+    },
+    {
+      "psc": "04921",
+      "lat": "48.7174",
+      "lon": "20.5208",
+      "mesto": "Betliar"
+    },
+    {
+      "psc": "04922",
+      "lat": "48.7401",
+      "lon": "20.4829",
+      "mesto": "Gemerská Poloma"
+    },
+    {
+      "psc": "04923",
+      "lat": "48.7245",
+      "lon": "20.4162",
+      "mesto": "Nižná Slaná"
+    },
+    {
+      "psc": "04924",
+      "lat": "48.7732",
+      "lon": "20.4118",
+      "mesto": "Vlachovo"
+    },
+    {
+      "psc": "04925",
+      "lat": "48.831",
+      "lon": "20.331",
+      "mesto": "Dobšiná"
+    },
+    {
+      "psc": "04926",
+      "lat": "48.7904",
+      "lon": "20.2854",
+      "mesto": "Rejdová"
+    },
+    {
+      "psc": "04931",
+      "lat": "48.665",
+      "lon": "20.4406",
+      "mesto": "Rožňavské Bystré"
+    },
+    {
+      "psc": "04932",
+      "lat": "48.6577",
+      "lon": "20.3651",
+      "mesto": "Štítnik"
+    },
+    {
+      "psc": "04934",
+      "lat": "48.7295",
+      "lon": "20.327",
+      "mesto": "Markuška"
+    },
+    {
+      "psc": "04935",
+      "lat": "48.684",
+      "lon": "20.328",
+      "mesto": "Ochtiná"
+    },
+    {
+      "psc": "04936",
+      "lat": "48.7123",
+      "lon": "20.2849",
+      "mesto": "Slavošovce"
+    },
+    {
+      "psc": "04941",
+      "lat": "48.6533",
+      "lon": "20.598",
+      "mesto": "Krásnohorské Podhradie"
+    },
+    {
+      "psc": "04942",
+      "lat": "48.6405",
+      "lon": "20.6563",
+      "mesto": "Drnava"
+    },
+    {
+      "psc": "04943",
+      "lat": "48.5933",
+      "lon": "20.6729",
+      "mesto": "Jablonov nad Turňou"
+    },
+    {
+      "psc": "04944",
+      "lat": "48.605",
+      "lon": "20.7581",
+      "mesto": "Hrhov"
+    },
+    {
+      "psc": "04945",
+      "lat": "48.6271",
+      "lon": "20.5825",
+      "mesto": "Krásnohorská Dlhá Lúka"
+    },
+    {
+      "psc": "04951",
+      "lat": "48.6303",
+      "lon": "20.4974",
+      "mesto": "Brzotín"
+    },
+    {
+      "psc": "04952",
+      "lat": "48.5627",
+      "lon": "20.5375",
+      "mesto": "Silica"
+    },
+    {
+      "psc": "04955",
+      "lat": "48.494",
+      "lon": "20.4382",
+      "mesto": "Dlhá Ves"
+    },
+    {
+      "psc": "04961",
+      "lat": "48.6018",
+      "lon": "20.1496",
+      "mesto": "Rákoš"
+    },
+    {
+      "psc": "04962",
+      "lat": "48.5633",
+      "lon": "20.1943",
+      "mesto": "Kameňany"
+    },
+    {
+      "psc": "04964",
+      "lat": "48.6376",
+      "lon": "20.1013",
+      "mesto": "Sirk"
+    },
+    {
+      "psc": "04971",
+      "lat": "48.8732",
+      "lon": "20.2797",
+      "mesto": "Dobšinská Ľadová Jaskyňa"
+    },
+    {
+      "psc": "04973",
+      "lat": "48.8675",
+      "lon": "20.3818",
+      "mesto": "Dedinky"
+    },
+    {
+      "psc": "05001",
+      "lat": "48.6835",
+      "lon": "20.1138",
+      "mesto": "Revúca"
+    },
+    {
+      "psc": "05201",
+      "lat": "48.9461",
+      "lon": "20.5618",
+      "mesto": "Spišská Nová Ves"
+    },
+    {
+      "psc": "05205",
+      "lat": "48.9471",
+      "lon": "20.5406",
+      "mesto": "Spišská Nová Ves"
+    },
+    {
+      "psc": "05301",
+      "lat": "48.9562",
+      "lon": "20.591",
+      "mesto": "Harichovce"
+    },
+    {
+      "psc": "05302",
+      "lat": "49.0025",
+      "lon": "20.6399",
+      "mesto": "Spišský Hrhov"
+    },
+    {
+      "psc": "05303",
+      "lat": "49.0236",
+      "lon": "20.7183",
+      "mesto": "Jablonov"
+    },
+    {
+      "psc": "05304",
+      "lat": "49.0001",
+      "lon": "20.7517",
+      "mesto": "Spišské Podhradie"
+    },
+    {
+      "psc": "05305",
+      "lat": "49.0042",
+      "lon": "20.8124",
+      "mesto": "Beharovce"
+    },
+    {
+      "psc": "05306",
+      "lat": "49.0244",
+      "lon": "20.7983",
+      "mesto": "Bijacovce"
+    },
+    {
+      "psc": "05311",
+      "lat": "48.956",
+      "lon": "20.5191",
+      "mesto": "Smižany"
+    },
+    {
+      "psc": "05313",
+      "lat": "48.9797",
+      "lon": "20.467",
+      "mesto": "Letanovce"
+    },
+    {
+      "psc": "05314",
+      "lat": "49.002",
+      "lon": "20.4679",
+      "mesto": "Spišský Štvrtok"
+    },
+    {
+      "psc": "05315",
+      "lat": "48.9756",
+      "lon": "20.4088",
+      "mesto": "Hrabušice"
+    },
+    {
+      "psc": "05321",
+      "lat": "48.9158",
+      "lon": "20.6233",
+      "mesto": "Markušovce"
+    },
+    {
+      "psc": "05322",
+      "lat": "48.9339",
+      "lon": "20.6331",
+      "mesto": "Odorín"
+    },
+    {
+      "psc": "05323",
+      "lat": "48.8844",
+      "lon": "20.6777",
+      "mesto": "Rudňany"
+    },
+    {
+      "psc": "05331",
+      "lat": "48.9012",
+      "lon": "20.517",
+      "mesto": "Novoveská Huta"
+    },
+    {
+      "psc": "05332",
+      "lat": "48.8497",
+      "lon": "20.542",
+      "mesto": "Hnilčík"
+    },
+    {
+      "psc": "05333",
+      "lat": "48.8419",
+      "lon": "20.6203",
+      "mesto": "Nálepkovo"
+    },
+    {
+      "psc": "05334",
+      "lat": "48.8128",
+      "lon": "20.712",
+      "mesto": "Švedlár"
+    },
+    {
+      "psc": "05340",
+      "lat": "48.8693",
+      "lon": "20.8024",
+      "mesto": "Slovinky"
+    },
+    {
+      "psc": "05342",
+      "lat": "48.9155",
+      "lon": "20.8734",
+      "mesto": "Krompachy"
+    },
+    {
+      "psc": "05351",
+      "lat": "48.9278",
+      "lon": "20.9418",
+      "mesto": "Kluknava"
+    },
+    {
+      "psc": "05361",
+      "lat": "48.9487",
+      "lon": "20.7936",
+      "mesto": "Spišské Vlachy"
+    },
+    {
+      "psc": "05362",
+      "lat": "48.9488",
+      "lon": "20.7584",
+      "mesto": "Bystrany"
+    },
+    {
+      "psc": "05363",
+      "lat": "48.9457",
+      "lon": "20.707",
+      "mesto": "Spišský Hrušov"
+    },
+    {
+      "psc": "05371",
+      "lat": "49.0672",
+      "lon": "20.6875",
+      "mesto": "Vyšné Repaše"
+    },
+    {
+      "psc": "05373",
+      "lat": "49.0862",
+      "lon": "20.774",
+      "mesto": "Brutovce"
+    },
+    {
+      "psc": "05375",
+      "lat": "48.8272",
+      "lon": "20.4935",
+      "mesto": "Hnilec"
+    },
+    {
+      "psc": "05376",
+      "lat": "48.8526",
+      "lon": "20.4416",
+      "mesto": "Mlynky"
+    },
+    {
+      "psc": "05401",
+      "lat": "49.037",
+      "lon": "20.581",
+      "mesto": "Levoča"
+    },
+    {
+      "psc": "05501",
+      "lat": "48.8988",
+      "lon": "21.008",
+      "mesto": "Margecany"
+    },
+    {
+      "psc": "05551",
+      "lat": "48.8456",
+      "lon": "21.0385",
+      "mesto": "Veľký Folkmar"
+    },
+    {
+      "psc": "05552",
+      "lat": "48.809",
+      "lon": "21.01",
+      "mesto": "Kojšov"
+    },
+    {
+      "psc": "05561",
+      "lat": "48.8686",
+      "lon": "21.0006",
+      "mesto": "Jaklovce"
+    },
+    {
+      "psc": "05562",
+      "lat": "48.8058",
+      "lon": "20.8884",
+      "mesto": "Prakovce"
+    },
+    {
+      "psc": "05563",
+      "lat": "48.832",
+      "lon": "20.861",
+      "mesto": "Helcmanovce"
+    },
+    {
+      "psc": "05564",
+      "lat": "48.809",
+      "lon": "20.7879",
+      "mesto": "Mníšek nad Hnilcom"
+    },
+    {
+      "psc": "05565",
+      "lat": "48.7671",
+      "lon": "20.7874",
+      "mesto": "Smolnícka Huta"
+    },
+    {
+      "psc": "05566",
+      "lat": "48.7301",
+      "lon": "20.7399",
+      "mesto": "Smolník"
+    },
+    {
+      "psc": "05571",
+      "lat": "48.8818",
+      "lon": "20.9311",
+      "mesto": "Žakarovce"
+    },
+    {
+      "psc": "05601",
+      "lat": "48.8431",
+      "lon": "20.941",
+      "mesto": "Gelnica"
+    },
+    {
+      "psc": "05801",
+      "lat": "49.0496",
+      "lon": "20.2983",
+      "mesto": "Poprad"
+    },
+    {
+      "psc": "05901",
+      "lat": "49.1885",
+      "lon": "20.4558",
+      "mesto": "Spišská Belá"
+    },
+    {
+      "psc": "05902",
+      "lat": "49.2265",
+      "lon": "20.423",
+      "mesto": "Slovenská Ves"
+    },
+    {
+      "psc": "05904",
+      "lat": "49.3333",
+      "lon": "20.3433",
+      "mesto": "Spišské Hanušovce"
+    },
+    {
+      "psc": "05906",
+      "lat": "49.3918",
+      "lon": "20.4053",
+      "mesto": "Červený Kláštor"
+    },
+    {
+      "psc": "05907",
+      "lat": "49.2529",
+      "lon": "20.3544",
+      "mesto": "Lendak"
+    },
+    {
+      "psc": "05911",
+      "lat": "49.0344",
+      "lon": "20.3467",
+      "mesto": "Hozelec"
+    },
+    {
+      "psc": "05912",
+      "lat": "49.0155",
+      "lon": "20.3982",
+      "mesto": "Hôrka"
+    },
+    {
+      "psc": "05913",
+      "lat": "49.0118",
+      "lon": "20.421",
+      "mesto": "Jánovce"
+    },
+    {
+      "psc": "05914",
+      "lat": "48.995",
+      "lon": "20.3585",
+      "mesto": "Spišský Štiavnik"
+    },
+    {
+      "psc": "05916",
+      "lat": "48.9856",
+      "lon": "20.289",
+      "mesto": "Hranovnica"
+    },
+    {
+      "psc": "05917",
+      "lat": "48.9066",
+      "lon": "20.2616",
+      "mesto": "Vernár"
+    },
+    {
+      "psc": "05918",
+      "lat": "48.9925",
+      "lon": "20.2426",
+      "mesto": "Spišské Bystré"
+    },
+    {
+      "psc": "05919",
+      "lat": "48.9689",
+      "lon": "20.1505",
+      "mesto": "Vikartovce"
+    },
+    {
+      "psc": "05921",
+      "lat": "49.0589",
+      "lon": "20.1898",
+      "mesto": "Svit"
+    },
+    {
+      "psc": "05931",
+      "lat": "49.0507",
+      "lon": "20.1424",
+      "mesto": "Lučivná"
+    },
+    {
+      "psc": "05934",
+      "lat": "49.0379",
+      "lon": "20.2333",
+      "mesto": "Spišská Teplica"
+    },
+    {
+      "psc": "05935",
+      "lat": "49.0842",
+      "lon": "20.181",
+      "mesto": "Batizovce"
+    },
+    {
+      "psc": "05936",
+      "lat": "49.0707",
+      "lon": "20.1394",
+      "mesto": "Mengusovce"
+    },
+    {
+      "psc": "05937",
+      "lat": "49.0923",
+      "lon": "20.1406",
+      "mesto": "Štôla"
+    },
+    {
+      "psc": "05938",
+      "lat": "49.0462",
+      "lon": "20.0425",
+      "mesto": "Štrba"
+    },
+    {
+      "psc": "05939",
+      "lat": "49.021",
+      "lon": "20.0947",
+      "mesto": "Šuňava"
+    },
+    {
+      "psc": "05940",
+      "lat": "48.9676",
+      "lon": "20.0896",
+      "mesto": "Liptovská Teplička"
+    },
+    {
+      "psc": "05941",
+      "lat": "49.0574",
+      "lon": "20.0716",
+      "mesto": "Tatranská Štrba"
+    },
+    {
+      "psc": "05942",
+      "lat": "49.1002",
+      "lon": "20.2087",
+      "mesto": "Gerlachov"
+    },
+    {
+      "psc": "05951",
+      "lat": "49.0812",
+      "lon": "20.3219",
+      "mesto": "Matejovce"
+    },
+    {
+      "psc": "05952",
+      "lat": "49.1135",
+      "lon": "20.3576",
+      "mesto": "Veľká Lomnica"
+    },
+    {
+      "psc": "05954",
+      "lat": "49.2279",
+      "lon": "20.3197",
+      "mesto": "Tatranská Kotlina"
+    },
+    {
+      "psc": "05955",
+      "lat": "49.2826",
+      "lon": "20.2494",
+      "mesto": "Ždiar"
+    },
+    {
+      "psc": "05956",
+      "lat": "49.2685",
+      "lon": "20.1446",
+      "mesto": "Javorina"
+    },
+    {
+      "psc": "05960",
+      "lat": "49.1645",
+      "lon": "20.2823",
+      "mesto": "Tatranská Lomnica"
+    },
+    {
+      "psc": "05971",
+      "lat": "49.1209",
+      "lon": "20.4483",
+      "mesto": "Ľubica"
+    },
+    {
+      "psc": "05972",
+      "lat": "49.0884",
+      "lon": "20.4227",
+      "mesto": "Vrbov"
+    },
+    {
+      "psc": "05973",
+      "lat": "49.0821",
+      "lon": "20.3971",
+      "mesto": "Žakovce"
+    },
+    {
+      "psc": "05976",
+      "lat": "49.1844",
+      "lon": "20.3825",
+      "mesto": "Mlynčeky"
+    },
+    {
+      "psc": "05978",
+      "lat": "49.3358",
+      "lon": "20.2978",
+      "mesto": "Veľká Franková"
+    },
+    {
+      "psc": "05979",
+      "lat": "49.3148",
+      "lon": "20.2178",
+      "mesto": "Osturňa"
+    },
+    {
+      "psc": "05981",
+      "lat": "49.1293",
+      "lon": "20.2441",
+      "mesto": "Dolný Smokovec"
+    },
+    {
+      "psc": "05983",
+      "lat": "49.139",
+      "lon": "20.2204",
+      "mesto": "Starý Smokovec"
+    },
+    {
+      "psc": "05984",
+      "lat": "49.1185",
+      "lon": "20.1246",
+      "mesto": "Vyšné Hágy"
+    },
+    {
+      "psc": "05985",
+      "lat": "49.1194",
+      "lon": "20.063",
+      "mesto": "Štrbské Pleso"
+    },
+    {
+      "psc": "05986",
+      "lat": "49.1247",
+      "lon": "20.2624",
+      "mesto": "Nová Lesná"
+    },
+    {
+      "psc": "05991",
+      "lat": "49.0958",
+      "lon": "20.2795",
+      "mesto": "Veľký Slavkov"
+    },
+    {
+      "psc": "05992",
+      "lat": "49.1211",
+      "lon": "20.3826",
+      "mesto": "Huncovce"
+    },
+    {
+      "psc": "05993",
+      "lat": "49.2181",
+      "lon": "20.487",
+      "mesto": "Bušovce"
+    },
+    {
+      "psc": "05994",
+      "lat": "49.189",
+      "lon": "20.5291",
+      "mesto": "Holumnica"
+    },
+    {
+      "psc": "05995",
+      "lat": "49.2838",
+      "lon": "20.4733",
+      "mesto": "Toporec"
+    },
+    {
+      "psc": "06001",
+      "lat": "49.1322",
+      "lon": "20.4268",
+      "mesto": "Kežmarok"
+    },
+    {
+      "psc": "06101",
+      "lat": "49.3842",
+      "lon": "20.3604",
+      "mesto": "Spišská Stará Ves"
+    },
+    {
+      "psc": "06201",
+      "lat": "49.139",
+      "lon": "20.2204",
+      "mesto": "Starý Smokovec"
+    },
+    {
+      "psc": "06401",
+      "lat": "49.3011",
+      "lon": "20.6898",
+      "mesto": "Stará Ľubovňa"
+    },
+    {
+      "psc": "06501",
+      "lat": "49.3033",
+      "lon": "20.6308",
+      "mesto": "Hniezdne"
+    },
+    {
+      "psc": "06502",
+      "lat": "49.3032",
+      "lon": "20.5663",
+      "mesto": "Vyšné Ružbachy"
+    },
+    {
+      "psc": "06503",
+      "lat": "49.2709",
+      "lon": "20.5433",
+      "mesto": "Podolínec"
+    },
+    {
+      "psc": "06511",
+      "lat": "49.2761",
+      "lon": "20.6834",
+      "mesto": "Nová Ľubovňa"
+    },
+    {
+      "psc": "06512",
+      "lat": "49.2455",
+      "lon": "20.7079",
+      "mesto": "Jakubany"
+    },
+    {
+      "psc": "06522",
+      "lat": "49.4159",
+      "lon": "20.7189",
+      "mesto": "Mníšek nad Popradom"
+    },
+    {
+      "psc": "06531",
+      "lat": "49.3348",
+      "lon": "20.6561",
+      "mesto": "Jarabina"
+    },
+    {
+      "psc": "06532",
+      "lat": "49.3451",
+      "lon": "20.5996",
+      "mesto": "Kamienka"
+    },
+    {
+      "psc": "06533",
+      "lat": "49.3737",
+      "lon": "20.503",
+      "mesto": "Veľký Lipník"
+    },
+    {
+      "psc": "06534",
+      "lat": "49.3342",
+      "lon": "20.437",
+      "mesto": "Veľká Lesná"
+    },
+    {
+      "psc": "06541",
+      "lat": "49.2621",
+      "lon": "20.8772",
+      "mesto": "Ľubotín"
+    },
+    {
+      "psc": "06542",
+      "lat": "49.2823",
+      "lon": "20.9208",
+      "mesto": "Čirč"
+    },
+    {
+      "psc": "06543",
+      "lat": "49.2985",
+      "lon": "20.8769",
+      "mesto": "Ľubotín"
+    },
+    {
+      "psc": "06544",
+      "lat": "49.2603",
+      "lon": "20.8376",
+      "mesto": "Plaveč nad Popradom"
+    },
+    {
+      "psc": "06545",
+      "lat": "49.2746",
+      "lon": "20.7806",
+      "mesto": "Plavnica"
+    },
+    {
+      "psc": "06546",
+      "lat": "49.328",
+      "lon": "20.7902",
+      "mesto": "Malý Lipník"
+    },
+    {
+      "psc": "06548",
+      "lat": "49.2416",
+      "lon": "20.9093",
+      "mesto": "Šarišské Jastrabie"
+    },
+    {
+      "psc": "06601",
+      "lat": "48.9362",
+      "lon": "21.9087",
+      "mesto": "Humenné"
+    },
+    {
+      "psc": "06701",
+      "lat": "49.1304",
+      "lon": "21.9268",
+      "mesto": "Radvaň nad Laborcom"
+    },
+    {
+      "psc": "06702",
+      "lat": "49.1823",
+      "lon": "21.9008",
+      "mesto": "Čabiny"
+    },
+    {
+      "psc": "06704",
+      "lat": "49.1541",
+      "lon": "21.8426",
+      "mesto": "Oľka"
+    },
+    {
+      "psc": "06711",
+      "lat": "49.0048",
+      "lon": "21.9472",
+      "mesto": "Ľubiša"
+    },
+    {
+      "psc": "06712",
+      "lat": "49.0477",
+      "lon": "21.955",
+      "mesto": "Koškovce"
+    },
+    {
+      "psc": "06713",
+      "lat": "49.1003",
+      "lon": "21.9903",
+      "mesto": ""
+    },
+    {
+      "psc": "06716",
+      "lat": "49.1917",
+      "lon": "22.0056",
+      "mesto": "Výrava"
+    },
+    {
+      "psc": "06722",
+      "lat": "48.9977",
+      "lon": "21.84",
+      "mesto": "Ohradzany"
+    },
+    {
+      "psc": "06723",
+      "lat": "49.0537",
+      "lon": "21.8428",
+      "mesto": "Baškovce"
+    },
+    {
+      "psc": "06724",
+      "lat": "49.0328",
+      "lon": "21.8087",
+      "mesto": "Lukačovce"
+    },
+    {
+      "psc": "06731",
+      "lat": "48.9739",
+      "lon": "21.9656",
+      "mesto": "Udavské"
+    },
+    {
+      "psc": "06732",
+      "lat": "48.9928",
+      "lon": "22.0112",
+      "mesto": "Vyšný Hrušov"
+    },
+    {
+      "psc": "06733",
+      "lat": "49.0919",
+      "lon": "22.0614",
+      "mesto": "Papín"
+    },
+    {
+      "psc": "06734",
+      "lat": "49.128",
+      "lon": "22.086",
+      "mesto": "Nižná Jablonka"
+    },
+    {
+      "psc": "06735",
+      "lat": "49.066",
+      "lon": "22.1712",
+      "mesto": "Pčoliné"
+    },
+    {
+      "psc": "06741",
+      "lat": "48.8873",
+      "lon": "21.9376",
+      "mesto": "Chlmec"
+    },
+    {
+      "psc": "06745",
+      "lat": "48.9238",
+      "lon": "21.8135",
+      "mesto": "Topoľovka"
+    },
+    {
+      "psc": "06752",
+      "lat": "49.3243",
+      "lon": "21.8613",
+      "mesto": "Habura"
+    },
+    {
+      "psc": "06761",
+      "lat": "49.0018",
+      "lon": "22.2291",
+      "mesto": "Stakčín"
+    },
+    {
+      "psc": "06765",
+      "lat": "49.0442",
+      "lon": "22.3557",
+      "mesto": "Topoľa"
+    },
+    {
+      "psc": "06766",
+      "lat": "49.0054",
+      "lon": "22.3838",
+      "mesto": "Kolbasov"
+    },
+    {
+      "psc": "06767",
+      "lat": "48.9632",
+      "lon": "22.4237",
+      "mesto": "Ulič"
+    },
+    {
+      "psc": "06768",
+      "lat": "49.0283",
+      "lon": "22.4814",
+      "mesto": "Zboj"
+    },
+    {
+      "psc": "06772",
+      "lat": "48.9416",
+      "lon": "22.3338",
+      "mesto": "Klenová"
+    },
+    {
+      "psc": "06773",
+      "lat": "48.8992",
+      "lon": "22.3918",
+      "mesto": "Ubľa"
+    },
+    {
+      "psc": "06777",
+      "lat": "48.9449",
+      "lon": "22.173",
+      "mesto": "Zemplínske Hámre"
+    },
+    {
+      "psc": "06781",
+      "lat": "48.9681",
+      "lon": "22.1106",
+      "mesto": "Belá nad Cirochou"
+    },
+    {
+      "psc": "06782",
+      "lat": "48.9624",
+      "lon": "22.0652",
+      "mesto": "Dlhé nad Cirochou"
+    },
+    {
+      "psc": "06783",
+      "lat": "48.9301",
+      "lon": "21.9986",
+      "mesto": "Kamenica nad Cirochou"
+    },
+    {
+      "psc": "06801",
+      "lat": "49.2748",
+      "lon": "21.9065",
+      "mesto": "Medzilaborce"
+    },
+    {
+      "psc": "06901",
+      "lat": "48.9877",
+      "lon": "22.1583",
+      "mesto": "Snina"
+    },
+    {
+      "psc": "07101",
+      "lat": "48.7548",
+      "lon": "21.9134",
+      "mesto": "Michalovce"
+    },
+    {
+      "psc": "07201",
+      "lat": "48.7263",
+      "lon": "21.8593",
+      "mesto": "Pozdišovce"
+    },
+    {
+      "psc": "07202",
+      "lat": "48.7169",
+      "lon": "21.7517",
+      "mesto": "Tušická Nová Ves"
+    },
+    {
+      "psc": "07203",
+      "lat": "48.7703",
+      "lon": "21.783",
+      "mesto": "Rakovec nad Ondavou"
+    },
+    {
+      "psc": "07204",
+      "lat": "48.6994",
+      "lon": "21.8052",
+      "mesto": "Trhovište"
+    },
+    {
+      "psc": "07205",
+      "lat": "48.6446",
+      "lon": "21.838",
+      "mesto": "Bracovce"
+    },
+    {
+      "psc": "07206",
+      "lat": "48.5765",
+      "lon": "21.853",
+      "mesto": "Malčice"
+    },
+    {
+      "psc": "07211",
+      "lat": "48.7267",
+      "lon": "21.9886",
+      "mesto": "Čečehov"
+    },
+    {
+      "psc": "07213",
+      "lat": "48.6577",
+      "lon": "21.9902",
+      "mesto": "Palín"
+    },
+    {
+      "psc": "07214",
+      "lat": "48.6149",
+      "lon": "22.0669",
+      "mesto": "Pavlovce nad Uhom"
+    },
+    {
+      "psc": "07215",
+      "lat": "48.6341",
+      "lon": "21.9293",
+      "mesto": "Budkovce"
+    },
+    {
+      "psc": "07216",
+      "lat": "48.6603",
+      "lon": "21.8878",
+      "mesto": "Hatalov"
+    },
+    {
+      "psc": "07217",
+      "lat": "48.5895",
+      "lon": "21.9224",
+      "mesto": "Zemplínske Kopčany"
+    },
+    {
+      "psc": "07221",
+      "lat": "48.8177",
+      "lon": "21.8583",
+      "mesto": "Nacina Ves"
+    },
+    {
+      "psc": "07222",
+      "lat": "48.8732",
+      "lon": "21.8369",
+      "mesto": "Strážske"
+    },
+    {
+      "psc": "07223",
+      "lat": "48.8603",
+      "lon": "21.8752",
+      "mesto": "Staré"
+    },
+    {
+      "psc": "07231",
+      "lat": "48.8087",
+      "lon": "21.9662",
+      "mesto": "Vinné"
+    },
+    {
+      "psc": "07232",
+      "lat": "48.8192",
+      "lon": "22.0959",
+      "mesto": "Jovsa"
+    },
+    {
+      "psc": "07233",
+      "lat": "48.7784",
+      "lon": "22.0697",
+      "mesto": "Hnojné"
+    },
+    {
+      "psc": "07234",
+      "lat": "48.7608",
+      "lon": "21.9926",
+      "mesto": "Zalužice"
+    },
+    {
+      "psc": "07236",
+      "lat": "48.8231",
+      "lon": "22.0163",
+      "mesto": "Vinné"
+    },
+    {
+      "psc": "07237",
+      "lat": "48.7023",
+      "lon": "21.9248",
+      "mesto": "Lastomír"
+    },
+    {
+      "psc": "07241",
+      "lat": "48.849",
+      "lon": "22.1842",
+      "mesto": "Remetské Hámre"
+    },
+    {
+      "psc": "07242",
+      "lat": "48.787",
+      "lon": "22.1276",
+      "mesto": "Úbrež"
+    },
+    {
+      "psc": "07243",
+      "lat": "48.7456",
+      "lon": "22.093",
+      "mesto": "Veľké Revištia"
+    },
+    {
+      "psc": "07244",
+      "lat": "48.7081",
+      "lon": "22.1045",
+      "mesto": "Blatné Remety"
+    },
+    {
+      "psc": "07251",
+      "lat": "48.679",
+      "lon": "22.2485",
+      "mesto": "Krčava"
+    },
+    {
+      "psc": "07252",
+      "lat": "48.6544",
+      "lon": "22.2083",
+      "mesto": "Jenkovce"
+    },
+    {
+      "psc": "07253",
+      "lat": "48.6316",
+      "lon": "22.1512",
+      "mesto": "Bežovce"
+    },
+    {
+      "psc": "07254",
+      "lat": "48.6026",
+      "lon": "22.1552",
+      "mesto": "Lekárovce"
+    },
+    {
+      "psc": "07255",
+      "lat": "48.6973",
+      "lon": "22.1773",
+      "mesto": "Porostov"
+    },
+    {
+      "psc": "07261",
+      "lat": "48.7296",
+      "lon": "22.2596",
+      "mesto": "Porúbka"
+    },
+    {
+      "psc": "07262",
+      "lat": "48.7149",
+      "lon": "22.2925",
+      "mesto": "Koromľa"
+    },
+    {
+      "psc": "07263",
+      "lat": "48.7793",
+      "lon": "22.2434",
+      "mesto": "Choňkovce"
+    },
+    {
+      "psc": "07264",
+      "lat": "48.8181",
+      "lon": "22.3005",
+      "mesto": "Podhoroď"
+    },
+    {
+      "psc": "07301",
+      "lat": "48.7458",
+      "lon": "22.1795",
+      "mesto": "Sobrance"
+    },
+    {
+      "psc": "07501",
+      "lat": "48.63",
+      "lon": "21.72",
+      "mesto": "Trebišov"
+    },
+    {
+      "psc": "07601",
+      "lat": "48.6285",
+      "lon": "21.7156",
+      "mesto": "Trebišov"
+    },
+    {
+      "psc": "07602",
+      "lat": "48.5253",
+      "lon": "21.7413",
+      "mesto": "Novosad"
+    },
+    {
+      "psc": "07603",
+      "lat": "48.5447",
+      "lon": "21.7885",
+      "mesto": "Hraň"
+    },
+    {
+      "psc": "07605",
+      "lat": "48.468",
+      "lon": "21.7623",
+      "mesto": "Cejkov"
+    },
+    {
+      "psc": "07612",
+      "lat": "48.5788",
+      "lon": "21.5702",
+      "mesto": "Kuzmice"
+    },
+    {
+      "psc": "07613",
+      "lat": "48.5269",
+      "lon": "21.5841",
+      "mesto": "Kazimír"
+    },
+    {
+      "psc": "07614",
+      "lat": "48.512",
+      "lon": "21.6294",
+      "mesto": "Michaľany"
+    },
+    {
+      "psc": "07615",
+      "lat": "48.5213",
+      "lon": "21.6615",
+      "mesto": "Veľaty"
+    },
+    {
+      "psc": "07616",
+      "lat": "48.5801",
+      "lon": "21.6693",
+      "mesto": "Úpor"
+    },
+    {
+      "psc": "07617",
+      "lat": "48.5823",
+      "lon": "21.637",
+      "mesto": "Nižný Žipov"
+    },
+    {
+      "psc": "07622",
+      "lat": "48.6794",
+      "lon": "21.7124",
+      "mesto": "Vojčice"
+    },
+    {
+      "psc": "07631",
+      "lat": "48.3794",
+      "lon": "21.758",
+      "mesto": "Streda nad Bodrogom"
+    },
+    {
+      "psc": "07632",
+      "lat": "48.3954",
+      "lon": "21.7071",
+      "mesto": "Borša"
+    },
+    {
+      "psc": "07633",
+      "lat": "48.4215",
+      "lon": "21.6836",
+      "mesto": "Slovenské Nové Mesto"
+    },
+    {
+      "psc": "07634",
+      "lat": "48.4122",
+      "lon": "21.7811",
+      "mesto": "Ladmovce"
+    },
+    {
+      "psc": "07635",
+      "lat": "48.4037",
+      "lon": "21.811",
+      "mesto": "Somotor"
+    },
+    {
+      "psc": "07636",
+      "lat": "48.3616",
+      "lon": "21.8059",
+      "mesto": "Veľký Kamenec"
+    },
+    {
+      "psc": "07637",
+      "lat": "48.4635",
+      "lon": "21.8575",
+      "mesto": "Rad"
+    },
+    {
+      "psc": "07641",
+      "lat": "48.4077",
+      "lon": "22.0551",
+      "mesto": "Biel"
+    },
+    {
+      "psc": "07642",
+      "lat": "48.3928",
+      "lon": "22.0939",
+      "mesto": "Veľké Trakany"
+    },
+    {
+      "psc": "07643",
+      "lat": "48.4162",
+      "lon": "22.0892",
+      "mesto": "Čierna nad Tisou"
+    },
+    {
+      "psc": "07651",
+      "lat": "48.391",
+      "lon": "21.9944",
+      "mesto": "Pribeník"
+    },
+    {
+      "psc": "07652",
+      "lat": "48.3857",
+      "lon": "21.907",
+      "mesto": "Veľký Horeš"
+    },
+    {
+      "psc": "07653",
+      "lat": "48.4717",
+      "lon": "21.9414",
+      "mesto": "Boľ"
+    },
+    {
+      "psc": "07661",
+      "lat": "48.7391",
+      "lon": "21.6254",
+      "mesto": "Bačkov"
+    },
+    {
+      "psc": "07662",
+      "lat": "48.7522",
+      "lon": "21.7142",
+      "mesto": "Parchovany"
+    },
+    {
+      "psc": "07664",
+      "lat": "48.6542",
+      "lon": "21.5663",
+      "mesto": "Zemplínska Teplica"
+    },
+    {
+      "psc": "07671",
+      "lat": "48.5307",
+      "lon": "22.0039",
+      "mesto": "Čičarovce"
+    },
+    {
+      "psc": "07672",
+      "lat": "48.5702",
+      "lon": "21.9876",
+      "mesto": "Vojany"
+    },
+    {
+      "psc": "07674",
+      "lat": "48.5957",
+      "lon": "21.9683",
+      "mesto": "Drahňov"
+    },
+    {
+      "psc": "07675",
+      "lat": "48.5442",
+      "lon": "21.884",
+      "mesto": "Oborín"
+    },
+    {
+      "psc": "07677",
+      "lat": "48.5282",
+      "lon": "22.1411",
+      "mesto": "Ruská"
+    },
+    {
+      "psc": "07681",
+      "lat": "48.4616",
+      "lon": "21.6406",
+      "mesto": "Čerhov"
+    },
+    {
+      "psc": "07682",
+      "lat": "48.4677",
+      "lon": "21.6786",
+      "mesto": "Veľká Tŕňa"
+    },
+    {
+      "psc": "07683",
+      "lat": "48.4292",
+      "lon": "21.9194",
+      "mesto": "Svätuše"
+    },
+    {
+      "psc": "07684",
+      "lat": "48.4662",
+      "lon": "22.0259",
+      "mesto": "Leles"
+    },
+    {
+      "psc": "07701",
+      "lat": "48.425",
+      "lon": "21.9781",
+      "mesto": "Kráľovský Chlmec"
+    },
+    {
+      "psc": "07801",
+      "lat": "48.7025",
+      "lon": "21.6554",
+      "mesto": "Sečovce"
+    },
+    {
+      "psc": "07901",
+      "lat": "48.5539",
+      "lon": "22.0749",
+      "mesto": "Veľké Kapušany"
+    },
+    {
+      "psc": "08001",
+      "lat": "48.9919",
+      "lon": "21.2455",
+      "mesto": "Prešov"
+    },
+    {
+      "psc": "08005",
+      "lat": "48.9741",
+      "lon": "21.2611",
+      "mesto": "Prešov"
+    },
+    {
+      "psc": "08006",
+      "lat": "49.0189",
+      "lon": "21.2768",
+      "mesto": "Prešov"
+    },
+    {
+      "psc": "08201",
+      "lat": "48.9252",
+      "lon": "21.2416",
+      "mesto": "Kendice"
+    },
+    {
+      "psc": "08203",
+      "lat": "48.8513",
+      "lon": "21.2717",
+      "mesto": "Lemešany"
+    },
+    {
+      "psc": "08204",
+      "lat": "48.8816",
+      "lon": "21.2901",
+      "mesto": "Drienov"
+    },
+    {
+      "psc": "08205",
+      "lat": "48.8477",
+      "lon": "21.3171",
+      "mesto": "Šarišské Bohdanovce"
+    },
+    {
+      "psc": "08206",
+      "lat": "48.917",
+      "lon": "21.3419",
+      "mesto": "Žehňa"
+    },
+    {
+      "psc": "08207",
+      "lat": "48.8978",
+      "lon": "21.4063",
+      "mesto": "Tuhrina"
+    },
+    {
+      "psc": "08212",
+      "lat": "49.0437",
+      "lon": "21.3331",
+      "mesto": "Kapušany"
+    },
+    {
+      "psc": "08213",
+      "lat": "49.0889",
+      "lon": "21.3123",
+      "mesto": "Tulčík"
+    },
+    {
+      "psc": "08214",
+      "lat": "49.087",
+      "lon": "21.4101",
+      "mesto": "Pušovce"
+    },
+    {
+      "psc": "08215",
+      "lat": "49.0678",
+      "lon": "21.4386",
+      "mesto": "Chmeľov"
+    },
+    {
+      "psc": "08216",
+      "lat": "49.0535",
+      "lon": "21.2839",
+      "mesto": "Fintice"
+    },
+    {
+      "psc": "08221",
+      "lat": "49.0422",
+      "lon": "21.199",
+      "mesto": "Veľký Šariš"
+    },
+    {
+      "psc": "08222",
+      "lat": "49.0697",
+      "lon": "21.1349",
+      "mesto": "Šarišské Michaľany"
+    },
+    {
+      "psc": "08232",
+      "lat": "49.0102",
+      "lon": "21.1254",
+      "mesto": "Svinia"
+    },
+    {
+      "psc": "08233",
+      "lat": "49.002",
+      "lon": "21.078",
+      "mesto": "Chminianska Nová Ves"
+    },
+    {
+      "psc": "08235",
+      "lat": "49.0215",
+      "lon": "21.0007",
+      "mesto": "Hendrichovce"
+    },
+    {
+      "psc": "08236",
+      "lat": "49.0573",
+      "lon": "20.9523",
+      "mesto": "Lipovce"
+    },
+    {
+      "psc": "08237",
+      "lat": "48.9991",
+      "lon": "20.9431",
+      "mesto": "Široké"
+    },
+    {
+      "psc": "08238",
+      "lat": "48.9712",
+      "lon": "20.9546",
+      "mesto": "Víťaz"
+    },
+    {
+      "psc": "08241",
+      "lat": "48.9533",
+      "lon": "21.1158",
+      "mesto": "Bajerov"
+    },
+    {
+      "psc": "08242",
+      "lat": "48.9487",
+      "lon": "21.1655",
+      "mesto": "Bzenov"
+    },
+    {
+      "psc": "08243",
+      "lat": "48.9178",
+      "lon": "21.1195",
+      "mesto": "Sedlice"
+    },
+    {
+      "psc": "08244",
+      "lat": "48.9171",
+      "lon": "21.0705",
+      "mesto": "Klenov"
+    },
+    {
+      "psc": "08252",
+      "lat": "48.9457",
+      "lon": "21.3403",
+      "mesto": "Kokošovce"
+    },
+    {
+      "psc": "08253",
+      "lat": "48.9203",
+      "lon": "21.2603",
+      "mesto": "Petrovany"
+    },
+    {
+      "psc": "08256",
+      "lat": "49.1221",
+      "lon": "21.0414",
+      "mesto": "Pečovská Nová Ves"
+    },
+    {
+      "psc": "08257",
+      "lat": "49.1673",
+      "lon": "21.0476",
+      "mesto": "Ľutina"
+    },
+    {
+      "psc": "08261",
+      "lat": "49.0811",
+      "lon": "21.0828",
+      "mesto": "Ražňany"
+    },
+    {
+      "psc": "08263",
+      "lat": "49.0561",
+      "lon": "21.06",
+      "mesto": "Jarovnice"
+    },
+    {
+      "psc": "08266",
+      "lat": "49.0921",
+      "lon": "21.1809",
+      "mesto": "Uzovce"
+    },
+    {
+      "psc": "08267",
+      "lat": "49.11",
+      "lon": "21.2376",
+      "mesto": "Terňa"
+    },
+    {
+      "psc": "08271",
+      "lat": "49.1529",
+      "lon": "20.9617",
+      "mesto": "Lipany nad Torysou"
+    },
+    {
+      "psc": "08273",
+      "lat": "49.1747",
+      "lon": "20.863",
+      "mesto": "Šarišské Dravce"
+    },
+    {
+      "psc": "08274",
+      "lat": "49.1444",
+      "lon": "20.8497",
+      "mesto": "Brezovica nad Torysou"
+    },
+    {
+      "psc": "08275",
+      "lat": "49.096",
+      "lon": "20.8571",
+      "mesto": "Nižný Slavkov"
+    },
+    {
+      "psc": "08276",
+      "lat": "49.16",
+      "lon": "20.8783",
+      "mesto": "Torysa"
+    },
+    {
+      "psc": "08301",
+      "lat": "49.1028",
+      "lon": "21.0978",
+      "mesto": "Sabinov"
+    },
+    {
+      "psc": "08501",
+      "lat": "49.2742",
+      "lon": "21.2622",
+      "mesto": "Bardejov"
+    },
+    {
+      "psc": "08601",
+      "lat": "49.3172",
+      "lon": "21.1896",
+      "mesto": "Rokytov"
+    },
+    {
+      "psc": "08602",
+      "lat": "49.365",
+      "lon": "21.1426",
+      "mesto": "Gaboltov"
+    },
+    {
+      "psc": "08604",
+      "lat": "49.3042",
+      "lon": "21.1359",
+      "mesto": "Kružlov"
+    },
+    {
+      "psc": "08605",
+      "lat": "49.2606",
+      "lon": "21.0685",
+      "mesto": "Lukov"
+    },
+    {
+      "psc": "08606",
+      "lat": "49.3058",
+      "lon": "21.064",
+      "mesto": "Malcov"
+    },
+    {
+      "psc": "08611",
+      "lat": "49.2745",
+      "lon": "21.3776",
+      "mesto": "Hrabovec"
+    },
+    {
+      "psc": "08612",
+      "lat": "49.2261",
+      "lon": "21.4542",
+      "mesto": "Kurima"
+    },
+    {
+      "psc": "08614",
+      "lat": "49.3017",
+      "lon": "21.4186",
+      "mesto": "Hažlín"
+    },
+    {
+      "psc": "08621",
+      "lat": "49.2449",
+      "lon": "21.3459",
+      "mesto": "Lukavica"
+    },
+    {
+      "psc": "08622",
+      "lat": "49.245",
+      "lon": "21.2596",
+      "mesto": "Kľušov"
+    },
+    {
+      "psc": "08631",
+      "lat": "49.326",
+      "lon": "21.2772",
+      "mesto": "Bardejovské Kúpele"
+    },
+    {
+      "psc": "08633",
+      "lat": "49.3702",
+      "lon": "21.3073",
+      "mesto": "Zborov"
+    },
+    {
+      "psc": "08635",
+      "lat": "49.4329",
+      "lon": "21.3132",
+      "mesto": "Becherov"
+    },
+    {
+      "psc": "08636",
+      "lat": "49.4042",
+      "lon": "21.4023",
+      "mesto": "Nižná Polianka"
+    },
+    {
+      "psc": "08637",
+      "lat": "49.345",
+      "lon": "21.3856",
+      "mesto": "Šarišské Čierne"
+    },
+    {
+      "psc": "08641",
+      "lat": "49.1498",
+      "lon": "21.3157",
+      "mesto": "Raslavice"
+    },
+    {
+      "psc": "08642",
+      "lat": "49.2074",
+      "lon": "21.2373",
+      "mesto": "Hertník"
+    },
+    {
+      "psc": "08643",
+      "lat": "49.1575",
+      "lon": "21.3977",
+      "mesto": "Koprivnica"
+    },
+    {
+      "psc": "08644",
+      "lat": "49.1085",
+      "lon": "21.4539",
+      "mesto": "Kuková"
+    },
+    {
+      "psc": "08645",
+      "lat": "49.1689",
+      "lon": "21.4497",
+      "mesto": "Marhaň"
+    },
+    {
+      "psc": "08646",
+      "lat": "49.2004",
+      "lon": "21.4014",
+      "mesto": "Hankovce"
+    },
+    {
+      "psc": "08701",
+      "lat": "49.1126",
+      "lon": "21.5149",
+      "mesto": "Giraltovce"
+    },
+    {
+      "psc": "08901",
+      "lat": "49.3056",
+      "lon": "21.5681",
+      "mesto": "Svidník"
+    },
+    {
+      "psc": "09001",
+      "lat": "49.3638",
+      "lon": "21.5823",
+      "mesto": "Kružlová"
+    },
+    {
+      "psc": "09002",
+      "lat": "49.3638",
+      "lon": "21.5823",
+      "mesto": "Kružlová"
+    },
+    {
+      "psc": "09003",
+      "lat": "49.3295",
+      "lon": "21.6247",
+      "mesto": "Ladomirová"
+    },
+    {
+      "psc": "09005",
+      "lat": "49.365",
+      "lon": "21.6884",
+      "mesto": "Krajná Poľana"
+    },
+    {
+      "psc": "09011",
+      "lat": "49.3435",
+      "lon": "21.5021",
+      "mesto": "Vyšný Orlík"
+    },
+    {
+      "psc": "09016",
+      "lat": "49.2968",
+      "lon": "21.4744",
+      "mesto": "Cernina"
+    },
+    {
+      "psc": "09021",
+      "lat": "49.2417",
+      "lon": "21.6786",
+      "mesto": "Chotča"
+    },
+    {
+      "psc": "09022",
+      "lat": "49.2664",
+      "lon": "21.712",
+      "mesto": "Bukovce"
+    },
+    {
+      "psc": "09023",
+      "lat": "49.2562",
+      "lon": "21.7856",
+      "mesto": "Havaj"
+    },
+    {
+      "psc": "09024",
+      "lat": "49.2827",
+      "lon": "21.8369",
+      "mesto": "Havaj"
+    },
+    {
+      "psc": "09031",
+      "lat": "49.1636",
+      "lon": "21.7263",
+      "mesto": "Kolbovce"
+    },
+    {
+      "psc": "09032",
+      "lat": "49.1349",
+      "lon": "21.6513",
+      "mesto": "Miňovce"
+    },
+    {
+      "psc": "09033",
+      "lat": "49.1007",
+      "lon": "21.6535",
+      "mesto": "Turany nad Ondavou"
+    },
+    {
+      "psc": "09034",
+      "lat": "49.1028",
+      "lon": "21.6998",
+      "mesto": "Turany nad Ondavou"
+    },
+    {
+      "psc": "09041",
+      "lat": "49.2611",
+      "lon": "21.5806",
+      "mesto": "Mestisko"
+    },
+    {
+      "psc": "09042",
+      "lat": "49.181",
+      "lon": "21.5549",
+      "mesto": "Okrúhle"
+    },
+    {
+      "psc": "09101",
+      "lat": "49.2026",
+      "lon": "21.6518",
+      "mesto": "Stropkov"
+    },
+    {
+      "psc": "09301",
+      "lat": "48.9132",
+      "lon": "21.6689",
+      "mesto": "Vranov nad Topľou"
+    },
+    {
+      "psc": "09302",
+      "lat": "48.8662",
+      "lon": "21.7199",
+      "mesto": "Vranov nad Topľou"
+    },
+    {
+      "psc": "09303",
+      "lat": "48.8407",
+      "lon": "21.635",
+      "mesto": "Vranov nad Topľou"
+    },
+    {
+      "psc": "09401",
+      "lat": "48.9123",
+      "lon": "21.7577",
+      "mesto": "Tovarné"
+    },
+    {
+      "psc": "09402",
+      "lat": "48.9652",
+      "lon": "21.6994",
+      "mesto": "Slovenská Kajňa"
+    },
+    {
+      "psc": "09403",
+      "lat": "48.9775",
+      "lon": "21.7448",
+      "mesto": "Žalobín"
+    },
+    {
+      "psc": "09404",
+      "lat": "49.0607",
+      "lon": "21.6984",
+      "mesto": "Nová Kelča"
+    },
+    {
+      "psc": "09405",
+      "lat": "49.0172",
+      "lon": "21.7243",
+      "mesto": "Holčíkovce"
+    },
+    {
+      "psc": "09406",
+      "lat": "49.0412",
+      "lon": "21.7798",
+      "mesto": "Košarovce"
+    },
+    {
+      "psc": "09407",
+      "lat": "49.066",
+      "lon": "21.7934",
+      "mesto": "Nižná Sitnica"
+    },
+    {
+      "psc": "09408",
+      "lat": "49.1427",
+      "lon": "21.7897",
+      "mesto": "Ruská Poruba"
+    },
+    {
+      "psc": "09409",
+      "lat": "48.9076",
+      "lon": "21.7321",
+      "mesto": "Sedliská"
+    },
+    {
+      "psc": "09412",
+      "lat": "48.8725",
+      "lon": "21.6244",
+      "mesto": "Vechec"
+    },
+    {
+      "psc": "09413",
+      "lat": "48.8211",
+      "lon": "21.6951",
+      "mesto": "Sačurov"
+    },
+    {
+      "psc": "09414",
+      "lat": "48.7861",
+      "lon": "21.6805",
+      "mesto": "Sečovská Polianka"
+    },
+    {
+      "psc": "09415",
+      "lat": "48.8985",
+      "lon": "21.5283",
+      "mesto": "Zámutov"
+    },
+    {
+      "psc": "09421",
+      "lat": "48.8493",
+      "lon": "21.7521",
+      "mesto": "Nižný Hrabovec"
+    },
+    {
+      "psc": "09422",
+      "lat": "48.8073",
+      "lon": "21.7727",
+      "mesto": "Nižný Hrušov"
+    },
+    {
+      "psc": "09423",
+      "lat": "48.9492",
+      "lon": "21.6407",
+      "mesto": "Merník"
+    },
+    {
+      "psc": "09431",
+      "lat": "49.0274",
+      "lon": "21.5022",
+      "mesto": "Hanušovce nad Topľou"
+    },
+    {
+      "psc": "09433",
+      "lat": "48.9856",
+      "lon": "21.5873",
+      "mesto": "Vyšný Žipov"
+    },
+    {
+      "psc": "09434",
+      "lat": "49.0063",
+      "lon": "21.5419",
+      "mesto": "Bystré nad Topľou"
+    },
+    {
+      "psc": "09435",
+      "lat": "48.9267",
+      "lon": "21.5973",
+      "mesto": "Soľ"
+    },
+    {
+      "psc": "81101",
+      "lat": "48.1434",
+      "lon": "17.1018",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "81102",
+      "lat": "48.1488",
+      "lon": "17.0833",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "81103",
+      "lat": "48.1467",
+      "lon": "17.0966",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "81104",
+      "lat": "48.1599",
+      "lon": "17.0939",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "81105",
+      "lat": "48.1569",
+      "lon": "17.1138",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "81106",
+      "lat": "48.1499",
+      "lon": "17.1095",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "81107",
+      "lat": "48.1535",
+      "lon": "17.1191",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "81108",
+      "lat": "48.1483",
+      "lon": "17.1195",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "81109",
+      "lat": "48.1427",
+      "lon": "17.1233",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "82101",
+      "lat": "48.1575",
+      "lon": "17.163",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "82102",
+      "lat": "48.1614",
+      "lon": "17.1677",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "82103",
+      "lat": "48.1548",
+      "lon": "17.1691",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "82104",
+      "lat": "48.2069",
+      "lon": "17.1467",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "82105",
+      "lat": "48.1444",
+      "lon": "17.1699",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "82106",
+      "lat": "48.0785",
+      "lon": "17.1836",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "82107",
+      "lat": "48.1256",
+      "lon": "17.1764",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "82108",
+      "lat": "48.1552",
+      "lon": "17.1329",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "82109",
+      "lat": "48.1392",
+      "lon": "17.1375",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "83000",
+      "lat": "48.2069",
+      "lon": "17.1467",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "83005",
+      "lat": "48.1486",
+      "lon": "17.1077",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "83006",
+      "lat": "48.1486",
+      "lon": "17.1077",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "83007",
+      "lat": "48.1486",
+      "lon": "17.1077",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "83101",
+      "lat": "48.165",
+      "lon": "17.0949",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "83102",
+      "lat": "48.1817",
+      "lon": "17.1274",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "83103",
+      "lat": "48.1694",
+      "lon": "17.1325",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "83104",
+      "lat": "48.1776",
+      "lon": "17.154",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "83106",
+      "lat": "48.2256",
+      "lon": "17.1583",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "83107",
+      "lat": "48.2044",
+      "lon": "17.1963",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "83151",
+      "lat": "48.2015",
+      "lon": "17.1442",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "83152",
+      "lat": "48.1971",
+      "lon": "17.1351",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "83153",
+      "lat": "48.1989",
+      "lon": "17.1445",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "83154",
+      "lat": "48.1919",
+      "lon": "17.1356",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "83155",
+      "lat": "48.1486",
+      "lon": "17.1077",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "84002",
+      "lat": "48.1486",
+      "lon": "17.1077",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "84008",
+      "lat": "48.1486",
+      "lon": "17.1077",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "84009",
+      "lat": "48.1486",
+      "lon": "17.1077",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "84101",
+      "lat": "48.1876",
+      "lon": "17.0217",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "84102",
+      "lat": "48.1918",
+      "lon": "17.0345",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "84103",
+      "lat": "48.1918",
+      "lon": "17.0345",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "84104",
+      "lat": "48.1646",
+      "lon": "17.0549",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "84105",
+      "lat": "48.1538",
+      "lon": "17.05",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "84106",
+      "lat": "48.2232",
+      "lon": "17.04",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "84107",
+      "lat": "48.2162",
+      "lon": "16.9847",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "84108",
+      "lat": "48.1997",
+      "lon": "16.9836",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "84110",
+      "lat": "48.1727",
+      "lon": "17.0016",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "85000",
+      "lat": "48.1486",
+      "lon": "17.1077",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "85009",
+      "lat": "48.0416",
+      "lon": "17.1243",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "85101",
+      "lat": "48.1285",
+      "lon": "17.0908",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "85102",
+      "lat": "48.1155",
+      "lon": "17.1173",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "85103",
+      "lat": "48.1206",
+      "lon": "17.1169",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "85104",
+      "lat": "48.1195",
+      "lon": "17.1326",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "85105",
+      "lat": "48.1075",
+      "lon": "17.1106",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "85106",
+      "lat": "48.0973",
+      "lon": "17.1024",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "85107",
+      "lat": "48.0962",
+      "lon": "17.1181",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "85110",
+      "lat": "48.0412",
+      "lon": "17.1604",
+      "mesto": "Bratislava"
+    },
+    {
+      "psc": "90001",
+      "lat": "48.3269",
+      "lon": "17.3105",
+      "mesto": "Modra"
+    },
+    {
+      "psc": "90021",
+      "lat": "48.2589",
+      "lon": "17.2083",
+      "mesto": "Svätý Jur"
+    },
+    {
+      "psc": "90023",
+      "lat": "48.271",
+      "lon": "17.2986",
+      "mesto": "Viničné"
+    },
+    {
+      "psc": "90024",
+      "lat": "48.2211",
+      "lon": "17.3532",
+      "mesto": "Veľký Biel"
+    },
+    {
+      "psc": "90025",
+      "lat": "48.2262",
+      "lon": "17.2538",
+      "mesto": "Chorvátsky Grob"
+    },
+    {
+      "psc": "90026",
+      "lat": "48.256",
+      "lon": "17.278",
+      "mesto": "Slovenský Grob"
+    },
+    {
+      "psc": "90027",
+      "lat": "48.2009",
+      "lon": "17.3185",
+      "mesto": "Bernolákovo"
+    },
+    {
+      "psc": "90028",
+      "lat": "48.1897",
+      "lon": "17.2557",
+      "mesto": "Ivanka pri Dunaji"
+    },
+    {
+      "psc": "90029",
+      "lat": "48.1889",
+      "lon": "17.3623",
+      "mesto": "Nová Dedinka"
+    },
+    {
+      "psc": "90031",
+      "lat": "48.2875",
+      "lon": "17.0212",
+      "mesto": "Stupava"
+    },
+    {
+      "psc": "90032",
+      "lat": "48.258",
+      "lon": "17.0882",
+      "mesto": "Borinka"
+    },
+    {
+      "psc": "90033",
+      "lat": "48.2493",
+      "lon": "17.0621",
+      "mesto": "Marianka"
+    },
+    {
+      "psc": "90041",
+      "lat": "48.0946",
+      "lon": "17.2447",
+      "mesto": "Rovinka"
+    },
+    {
+      "psc": "90042",
+      "lat": "48.0849",
+      "lon": "17.2591",
+      "mesto": "Dunajská Lužná"
+    },
+    {
+      "psc": "90043",
+      "lat": "48.038",
+      "lon": "17.2521",
+      "mesto": "Hamuliakovo"
+    },
+    {
+      "psc": "90044",
+      "lat": "48.1422",
+      "lon": "17.3364",
+      "mesto": "Tomášov"
+    },
+    {
+      "psc": "90045",
+      "lat": "48.1578",
+      "lon": "17.2988",
+      "mesto": "Malinovo"
+    },
+    {
+      "psc": "90046",
+      "lat": "48.1413",
+      "lon": "17.2725",
+      "mesto": "Most pri Bratislave"
+    },
+    {
+      "psc": "90050",
+      "lat": "48.193",
+      "lon": "17.4676",
+      "mesto": "Kráľová pri Senci"
+    },
+    {
+      "psc": "90051",
+      "lat": "48.3143",
+      "lon": "16.9793",
+      "mesto": "Zohor"
+    },
+    {
+      "psc": "90052",
+      "lat": "48.4065",
+      "lon": "17.1829",
+      "mesto": "Kuchyňa"
+    },
+    {
+      "psc": "90053",
+      "lat": "48.3774",
+      "lon": "17.1473",
+      "mesto": "Pernek"
+    },
+    {
+      "psc": "90054",
+      "lat": "48.3433",
+      "lon": "17.0923",
+      "mesto": "Jablonové"
+    },
+    {
+      "psc": "90055",
+      "lat": "48.3209",
+      "lon": "17.0711",
+      "mesto": "Lozorno"
+    },
+    {
+      "psc": "90061",
+      "lat": "48.4661",
+      "lon": "16.9262",
+      "mesto": "Gajary"
+    },
+    {
+      "psc": "90062",
+      "lat": "48.4429",
+      "lon": "16.9779",
+      "mesto": "Kostolište"
+    },
+    {
+      "psc": "90063",
+      "lat": "48.4093",
+      "lon": "16.928",
+      "mesto": "Jakubov"
+    },
+    {
+      "psc": "90064",
+      "lat": "48.406",
+      "lon": "16.8821",
+      "mesto": "Suchohrad"
+    },
+    {
+      "psc": "90065",
+      "lat": "48.3778",
+      "lon": "16.8648",
+      "mesto": "Záhorská Ves"
+    },
+    {
+      "psc": "90066",
+      "lat": "48.3281",
+      "lon": "16.9221",
+      "mesto": "Vysoká pri Morave"
+    },
+    {
+      "psc": "90067",
+      "lat": "48.36",
+      "lon": "16.9489",
+      "mesto": "Láb"
+    },
+    {
+      "psc": "90068",
+      "lat": "48.3975",
+      "lon": "16.972",
+      "mesto": "Plavecký Štvrtok"
+    },
+    {
+      "psc": "90081",
+      "lat": "48.2927",
+      "lon": "17.3542",
+      "mesto": "Šenkvice"
+    },
+    {
+      "psc": "90082",
+      "lat": "48.2673",
+      "lon": "17.419",
+      "mesto": "Blatné"
+    },
+    {
+      "psc": "90083",
+      "lat": "48.2625",
+      "lon": "17.4822",
+      "mesto": "Čataj"
+    },
+    {
+      "psc": "90084",
+      "lat": "48.3082",
+      "lon": "17.4447",
+      "mesto": "Báhoň"
+    },
+    {
+      "psc": "90085",
+      "lat": "48.3281",
+      "lon": "17.3912",
+      "mesto": "Vištuk"
+    },
+    {
+      "psc": "90086",
+      "lat": "48.3562",
+      "lon": "17.4097",
+      "mesto": "Budmerice"
+    },
+    {
+      "psc": "90088",
+      "lat": "48.4161",
+      "lon": "17.3762",
+      "mesto": "Doľany"
+    },
+    {
+      "psc": "90089",
+      "lat": "48.4",
+      "lon": "17.3579",
+      "mesto": "Častá"
+    },
+    {
+      "psc": "90090",
+      "lat": "48.3648",
+      "lon": "17.3393",
+      "mesto": "Dubová"
+    },
+    {
+      "psc": "90091",
+      "lat": "48.2968",
+      "lon": "17.1953",
+      "mesto": "Limbach"
+    },
+    {
+      "psc": "90101",
+      "lat": "48.4363",
+      "lon": "17.0183",
+      "mesto": "Malacky"
+    },
+    {
+      "psc": "90201",
+      "lat": "48.2869",
+      "lon": "17.2692",
+      "mesto": "Pezinok"
+    },
+    {
+      "psc": "90203",
+      "lat": "48.2747",
+      "lon": "17.2218",
+      "mesto": "Pezinok"
+    },
+    {
+      "psc": "90301",
+      "lat": "48.217",
+      "lon": "17.4061",
+      "mesto": "Senec"
+    },
+    {
+      "psc": "90501",
+      "lat": "48.6799",
+      "lon": "17.361",
+      "mesto": "Senica"
+    },
+    {
+      "psc": "90602",
+      "lat": "48.6785",
+      "lon": "17.2568",
+      "mesto": "Dojč"
+    },
+    {
+      "psc": "90603",
+      "lat": "48.7231",
+      "lon": "17.3006",
+      "mesto": "Smrdáky"
+    },
+    {
+      "psc": "90604",
+      "lat": "48.7266",
+      "lon": "17.3451",
+      "mesto": "Rohov"
+    },
+    {
+      "psc": "90605",
+      "lat": "48.7317",
+      "lon": "17.4059",
+      "mesto": "Sobotište"
+    },
+    {
+      "psc": "90606",
+      "lat": "48.7994",
+      "lon": "17.469",
+      "mesto": "Vrbovce"
+    },
+    {
+      "psc": "90607",
+      "lat": "48.6534",
+      "lon": "17.2856",
+      "mesto": "Šajdíkove Humence"
+    },
+    {
+      "psc": "90611",
+      "lat": "48.6889",
+      "lon": "17.4565",
+      "mesto": "Prietrž"
+    },
+    {
+      "psc": "90612",
+      "lat": "48.6275",
+      "lon": "17.4871",
+      "mesto": "Hradište pod Vrátnom"
+    },
+    {
+      "psc": "90613",
+      "lat": "48.6589",
+      "lon": "17.5491",
+      "mesto": "Brezová pod Bradlom"
+    },
+    {
+      "psc": "90614",
+      "lat": "48.6946",
+      "lon": "17.5",
+      "mesto": "Bukovec"
+    },
+    {
+      "psc": "90615",
+      "lat": "48.6707",
+      "lon": "17.5968",
+      "mesto": "Košariská"
+    },
+    {
+      "psc": "90621",
+      "lat": "48.7262",
+      "lon": "17.6145",
+      "mesto": "Jablonka"
+    },
+    {
+      "psc": "90622",
+      "lat": "48.7797",
+      "lon": "17.6039",
+      "mesto": "Poriadie"
+    },
+    {
+      "psc": "90623",
+      "lat": "48.7575",
+      "lon": "17.6492",
+      "mesto": "Rudník"
+    },
+    {
+      "psc": "90631",
+      "lat": "48.6594",
+      "lon": "17.4064",
+      "mesto": "Hlboké"
+    },
+    {
+      "psc": "90632",
+      "lat": "48.5922",
+      "lon": "17.4473",
+      "mesto": "Jablonica"
+    },
+    {
+      "psc": "90633",
+      "lat": "48.5818",
+      "lon": "17.3814",
+      "mesto": "Cerová"
+    },
+    {
+      "psc": "90634",
+      "lat": "48.5614",
+      "lon": "17.3463",
+      "mesto": "Prievaly"
+    },
+    {
+      "psc": "90635",
+      "lat": "48.5114",
+      "lon": "17.3038",
+      "mesto": "Plavecký Mikuláš"
+    },
+    {
+      "psc": "90636",
+      "lat": "48.479",
+      "lon": "17.2797",
+      "mesto": "Plavecké Podhradie"
+    },
+    {
+      "psc": "90637",
+      "lat": "48.4644",
+      "lon": "17.2411",
+      "mesto": "Sološnica"
+    },
+    {
+      "psc": "90638",
+      "lat": "48.4619",
+      "lon": "17.1671",
+      "mesto": "Rohožník"
+    },
+    {
+      "psc": "90645",
+      "lat": "48.6716",
+      "lon": "17.2007",
+      "mesto": "Štefanov"
+    },
+    {
+      "psc": "90701",
+      "lat": "48.7523",
+      "lon": "17.5653",
+      "mesto": "Myjava"
+    },
+    {
+      "psc": "90703",
+      "lat": "48.7469",
+      "lon": "17.5157",
+      "mesto": "Myjava"
+    },
+    {
+      "psc": "90801",
+      "lat": "48.6581",
+      "lon": "17.0205",
+      "mesto": "Kúty"
+    },
+    {
+      "psc": "90841",
+      "lat": "48.6382",
+      "lon": "17.1446",
+      "mesto": "Šaštín-Stráže"
+    },
+    {
+      "psc": "90842",
+      "lat": "48.6748",
+      "lon": "17.1301",
+      "mesto": "Smolinské"
+    },
+    {
+      "psc": "90843",
+      "lat": "48.6656",
+      "lon": "17.0712",
+      "mesto": "Čáry"
+    },
+    {
+      "psc": "90844",
+      "lat": "48.722",
+      "lon": "17.1615",
+      "mesto": "Petrova Ves"
+    },
+    {
+      "psc": "90845",
+      "lat": "48.73",
+      "lon": "17.0889",
+      "mesto": "Gbely"
+    },
+    {
+      "psc": "90846",
+      "lat": "48.7282",
+      "lon": "17.236",
+      "mesto": "Unín"
+    },
+    {
+      "psc": "90847",
+      "lat": "48.7612",
+      "lon": "17.1898",
+      "mesto": "Radimov"
+    },
+    {
+      "psc": "90848",
+      "lat": "48.7736",
+      "lon": "17.1085",
+      "mesto": "Kopčany"
+    },
+    {
+      "psc": "90849",
+      "lat": "48.824",
+      "lon": "17.1918",
+      "mesto": "Vrádište"
+    },
+    {
+      "psc": "90851",
+      "lat": "48.8133",
+      "lon": "17.1616",
+      "mesto": "Holíč"
+    },
+    {
+      "psc": "90861",
+      "lat": "48.7874",
+      "lon": "17.2211",
+      "mesto": "Popudinské Močidľany"
+    },
+    {
+      "psc": "90862",
+      "lat": "48.7731",
+      "lon": "17.2405",
+      "mesto": "Dubovce"
+    },
+    {
+      "psc": "90863",
+      "lat": "48.7723",
+      "lon": "17.2806",
+      "mesto": "Radošovce"
+    },
+    {
+      "psc": "90864",
+      "lat": "48.7969",
+      "lon": "17.361",
+      "mesto": "Chropov"
+    },
+    {
+      "psc": "90865",
+      "lat": "48.8136",
+      "lon": "17.2524",
+      "mesto": "Skalica"
+    },
+    {
+      "psc": "90871",
+      "lat": "48.5791",
+      "lon": "16.9956",
+      "mesto": "Moravský Svätý Ján"
+    },
+    {
+      "psc": "90872",
+      "lat": "48.5443",
+      "lon": "17.0551",
+      "mesto": "Závod"
+    },
+    {
+      "psc": "90873",
+      "lat": "48.5108",
+      "lon": "17.005",
+      "mesto": "Veľké Leváre"
+    },
+    {
+      "psc": "90874",
+      "lat": "48.5038",
+      "lon": "16.9493",
+      "mesto": "Malé Leváre"
+    },
+    {
+      "psc": "90875",
+      "lat": "48.532",
+      "lon": "17.1359",
+      "mesto": "Studienka"
+    },
+    {
+      "psc": "90876",
+      "lat": "48.5733",
+      "lon": "17.1689",
+      "mesto": "Lakšárska Nová Ves"
+    },
+    {
+      "psc": "90877",
+      "lat": "48.6291",
+      "lon": "17.2125",
+      "mesto": "Borský Mikuláš"
+    },
+    {
+      "psc": "90878",
+      "lat": "48.6332",
+      "lon": "17.0807",
+      "mesto": "Kuklov"
+    },
+    {
+      "psc": "90879",
+      "lat": "48.5857",
+      "lon": "17.0881",
+      "mesto": "Borský Svätý Jur"
+    },
+    {
+      "psc": "90880",
+      "lat": "48.6057",
+      "lon": "16.99",
+      "mesto": "Sekule"
+    },
+    {
+      "psc": "90885",
+      "lat": "48.6927",
+      "lon": "17.0288",
+      "mesto": "Brodské"
+    },
+    {
+      "psc": "90901",
+      "lat": "48.8499",
+      "lon": "17.2527",
+      "mesto": "Skalica"
+    },
+    {
+      "psc": "91101",
+      "lat": "48.8953",
+      "lon": "18.042",
+      "mesto": "Trenčín"
+    },
+    {
+      "psc": "91105",
+      "lat": "48.895",
+      "lon": "18.0287",
+      "mesto": "Trenčín"
+    },
+    {
+      "psc": "91106",
+      "lat": "48.9086",
+      "lon": "17.9845",
+      "mesto": "Trenčín"
+    },
+    {
+      "psc": "91108",
+      "lat": "48.8766",
+      "lon": "18.0541",
+      "mesto": "Trenčín"
+    },
+    {
+      "psc": "91303",
+      "lat": "48.9065",
+      "lon": "17.9491",
+      "mesto": "Drietoma"
+    },
+    {
+      "psc": "91304",
+      "lat": "48.8665",
+      "lon": "17.9452",
+      "mesto": "Chocholná-Velčice"
+    },
+    {
+      "psc": "91305",
+      "lat": "48.8457",
+      "lon": "17.9148",
+      "mesto": "Melčice-Lieskové"
+    },
+    {
+      "psc": "91307",
+      "lat": "48.8287",
+      "lon": "17.8382",
+      "mesto": "Bošáca"
+    },
+    {
+      "psc": "91308",
+      "lat": "48.8907",
+      "lon": "17.7879",
+      "mesto": "Nová Bošáca"
+    },
+    {
+      "psc": "91311",
+      "lat": "48.8398",
+      "lon": "17.985",
+      "mesto": "Trenčianske Stankovce"
+    },
+    {
+      "psc": "91321",
+      "lat": "48.8506",
+      "lon": "18.0179",
+      "mesto": "Trenčianska Turná"
+    },
+    {
+      "psc": "91322",
+      "lat": "48.8014",
+      "lon": "18.1117",
+      "mesto": "Trenčianske Jastrabie"
+    },
+    {
+      "psc": "91323",
+      "lat": "48.7644",
+      "lon": "18.0897",
+      "mesto": "Trenčianske Jastrabie"
+    },
+    {
+      "psc": "91324",
+      "lat": "48.786",
+      "lon": "18.1635",
+      "mesto": "Svinná"
+    },
+    {
+      "psc": "91325",
+      "lat": "48.8189",
+      "lon": "18.2014",
+      "mesto": "Bobot"
+    },
+    {
+      "psc": "91326",
+      "lat": "48.8312",
+      "lon": "18.1864",
+      "mesto": "Motešice"
+    },
+    {
+      "psc": "91331",
+      "lat": "48.9323",
+      "lon": "18.0795",
+      "mesto": "Skalka nad Váhom"
+    },
+    {
+      "psc": "91332",
+      "lat": "48.9622",
+      "lon": "18.0234",
+      "mesto": "Dolná Súča"
+    },
+    {
+      "psc": "91333",
+      "lat": "48.9723",
+      "lon": "17.9792",
+      "mesto": "Horná Súča"
+    },
+    {
+      "psc": "91336",
+      "lat": "48.7718",
+      "lon": "18.0117",
+      "mesto": "Selec"
+    },
+    {
+      "psc": "91338",
+      "lat": "48.8577",
+      "lon": "18.0908",
+      "mesto": "Soblahov"
+    },
+    {
+      "psc": "91401",
+      "lat": "48.9257",
+      "lon": "18.1206",
+      "mesto": "Trenčianska Teplá"
+    },
+    {
+      "psc": "91441",
+      "lat": "48.9686",
+      "lon": "18.0806",
+      "mesto": "Nemšová"
+    },
+    {
+      "psc": "91442",
+      "lat": "49.0107",
+      "lon": "18.0781",
+      "mesto": "Horné Srnie"
+    },
+    {
+      "psc": "91443",
+      "lat": "48.9017",
+      "lon": "18.2276",
+      "mesto": "Omšenie"
+    },
+    {
+      "psc": "91451",
+      "lat": "48.9096",
+      "lon": "18.1554",
+      "mesto": "Trenčianske Teplice"
+    },
+    {
+      "psc": "91501",
+      "lat": "48.7588",
+      "lon": "17.8283",
+      "mesto": "Nové Mesto nad Váhom"
+    },
+    {
+      "psc": "91601",
+      "lat": "48.8094",
+      "lon": "17.6454",
+      "mesto": "Stará Turá"
+    },
+    {
+      "psc": "91611",
+      "lat": "48.8074",
+      "lon": "17.7566",
+      "mesto": "Bzince pod Javorinou"
+    },
+    {
+      "psc": "91612",
+      "lat": "48.816",
+      "lon": "17.7022",
+      "mesto": "Lubina"
+    },
+    {
+      "psc": "91613",
+      "lat": "48.7361",
+      "lon": "17.7075",
+      "mesto": "Kostolné"
+    },
+    {
+      "psc": "91614",
+      "lat": "48.748",
+      "lon": "17.6734",
+      "mesto": "Hrašné"
+    },
+    {
+      "psc": "91616",
+      "lat": "48.7032",
+      "lon": "17.6867",
+      "mesto": "Krajné"
+    },
+    {
+      "psc": "91621",
+      "lat": "48.7041",
+      "lon": "17.7873",
+      "mesto": "Čachtice"
+    },
+    {
+      "psc": "91622",
+      "lat": "48.6714",
+      "lon": "17.7731",
+      "mesto": "Podolie"
+    },
+    {
+      "psc": "91623",
+      "lat": "48.6543",
+      "lon": "17.8075",
+      "mesto": "Pobedim"
+    },
+    {
+      "psc": "91624",
+      "lat": "48.6593",
+      "lon": "17.8407",
+      "mesto": "Horná Streda"
+    },
+    {
+      "psc": "91625",
+      "lat": "48.6889",
+      "lon": "17.8479",
+      "mesto": "Potvorice"
+    },
+    {
+      "psc": "91626",
+      "lat": "48.7106",
+      "lon": "17.844",
+      "mesto": "Považany"
+    },
+    {
+      "psc": "91627",
+      "lat": "48.6882",
+      "lon": "17.7733",
+      "mesto": "Častkovce"
+    },
+    {
+      "psc": "91631",
+      "lat": "48.7421",
+      "lon": "17.886",
+      "mesto": "Kočovce"
+    },
+    {
+      "psc": "91632",
+      "lat": "48.7141",
+      "lon": "17.9513",
+      "mesto": "Hôrka nad Váhom"
+    },
+    {
+      "psc": "91633",
+      "lat": "48.6981",
+      "lon": "17.884",
+      "mesto": "Hrádok nad Váhom"
+    },
+    {
+      "psc": "91635",
+      "lat": "48.6421",
+      "lon": "17.8977",
+      "mesto": "Modrová"
+    },
+    {
+      "psc": "91637",
+      "lat": "48.7538",
+      "lon": "17.9623",
+      "mesto": "Kálnica"
+    },
+    {
+      "psc": "91638",
+      "lat": "48.7893",
+      "lon": "17.9027",
+      "mesto": "Beckov"
+    },
+    {
+      "psc": "91641",
+      "lat": "48.7966",
+      "lon": "17.8247",
+      "mesto": "Dolné Srnie"
+    },
+    {
+      "psc": "91642",
+      "lat": "48.8472",
+      "lon": "17.7673",
+      "mesto": "Moravské Lieskové"
+    },
+    {
+      "psc": "91701",
+      "lat": "48.4042",
+      "lon": "17.5945",
+      "mesto": "Trnava"
+    },
+    {
+      "psc": "91702",
+      "lat": "48.3571",
+      "lon": "17.583",
+      "mesto": "Trnava"
+    },
+    {
+      "psc": "91705",
+      "lat": "48.3507",
+      "lon": "17.6099",
+      "mesto": "Trnava"
+    },
+    {
+      "psc": "91708",
+      "lat": "48.3702",
+      "lon": "17.5675",
+      "mesto": "Trnava"
+    },
+    {
+      "psc": "91901",
+      "lat": "48.4099",
+      "lon": "17.4899",
+      "mesto": "Suchá nad Parnou"
+    },
+    {
+      "psc": "91902",
+      "lat": "48.4488",
+      "lon": "17.4084",
+      "mesto": "Dolné Orešany"
+    },
+    {
+      "psc": "91903",
+      "lat": "48.4696",
+      "lon": "17.4067",
+      "mesto": "Horné Orešany"
+    },
+    {
+      "psc": "91904",
+      "lat": "48.5058",
+      "lon": "17.4301",
+      "mesto": "Smolenice"
+    },
+    {
+      "psc": "91905",
+      "lat": "48.5426",
+      "lon": "17.4677",
+      "mesto": "Trstín"
+    },
+    {
+      "psc": "91907",
+      "lat": "48.504",
+      "lon": "17.4814",
+      "mesto": "Bíňovce"
+    },
+    {
+      "psc": "91908",
+      "lat": "48.4664",
+      "lon": "17.4935",
+      "mesto": "Boleráz"
+    },
+    {
+      "psc": "91909",
+      "lat": "48.4294",
+      "lon": "17.545",
+      "mesto": "Bohdanovce nad Trnavou"
+    },
+    {
+      "psc": "91910",
+      "lat": "48.5428",
+      "lon": "17.4032",
+      "mesto": "Buková"
+    },
+    {
+      "psc": "91921",
+      "lat": "48.3319",
+      "lon": "17.5987",
+      "mesto": "Zeleneč"
+    },
+    {
+      "psc": "91922",
+      "lat": "48.2923",
+      "lon": "17.6192",
+      "mesto": "Majcichov"
+    },
+    {
+      "psc": "91923",
+      "lat": "48.3097",
+      "lon": "17.6524",
+      "mesto": "Vlčkovce"
+    },
+    {
+      "psc": "91924",
+      "lat": "48.3276",
+      "lon": "17.6565",
+      "mesto": "Križovany nad Dudváhom"
+    },
+    {
+      "psc": "91925",
+      "lat": "48.3329",
+      "lon": "17.7174",
+      "mesto": "Šúrovce"
+    },
+    {
+      "psc": "91926",
+      "lat": "48.3598",
+      "lon": "17.6475",
+      "mesto": "Zavar"
+    },
+    {
+      "psc": "91927",
+      "lat": "48.3873",
+      "lon": "17.6877",
+      "mesto": "Brestovany"
+    },
+    {
+      "psc": "91928",
+      "lat": "48.4137",
+      "lon": "17.697",
+      "mesto": "Bučany"
+    },
+    {
+      "psc": "91929",
+      "lat": "48.4505",
+      "lon": "17.6755",
+      "mesto": "Malženice"
+    },
+    {
+      "psc": "91930",
+      "lat": "48.479",
+      "lon": "17.6424",
+      "mesto": "Jaslovské Bohunice"
+    },
+    {
+      "psc": "91932",
+      "lat": "48.3024",
+      "lon": "17.6367",
+      "mesto": "Opoj"
+    },
+    {
+      "psc": "91933",
+      "lat": "48.4396",
+      "lon": "17.7285",
+      "mesto": "Trakovice"
+    },
+    {
+      "psc": "91934",
+      "lat": "48.3656",
+      "lon": "17.5292",
+      "mesto": "Biely Kostol"
+    },
+    {
+      "psc": "91935",
+      "lat": "48.3438",
+      "lon": "17.5659",
+      "mesto": "Hrnčiarovce nad Parnou"
+    },
+    {
+      "psc": "91942",
+      "lat": "48.2773",
+      "lon": "17.5588",
+      "mesto": "Voderady"
+    },
+    {
+      "psc": "91943",
+      "lat": "48.3149",
+      "lon": "17.5081",
+      "mesto": "Cífer"
+    },
+    {
+      "psc": "91951",
+      "lat": "48.438",
+      "lon": "17.6087",
+      "mesto": "Špačince"
+    },
+    {
+      "psc": "91952",
+      "lat": "48.4944",
+      "lon": "17.6061",
+      "mesto": "Dolné Dubové"
+    },
+    {
+      "psc": "91953",
+      "lat": "48.5465",
+      "lon": "17.5741",
+      "mesto": "Dechtice"
+    },
+    {
+      "psc": "91954",
+      "lat": "48.5983",
+      "lon": "17.5403",
+      "mesto": "Dobrá Voda"
+    },
+    {
+      "psc": "91955",
+      "lat": "48.526",
+      "lon": "17.6104",
+      "mesto": "Kátlovce"
+    },
+    {
+      "psc": "91961",
+      "lat": "48.3728",
+      "lon": "17.4891",
+      "mesto": "Ružindol"
+    },
+    {
+      "psc": "91965",
+      "lat": "48.4804",
+      "lon": "17.5549",
+      "mesto": "Dolná Krupá"
+    },
+    {
+      "psc": "92001",
+      "lat": "48.4261",
+      "lon": "17.7997",
+      "mesto": "Hlohovec"
+    },
+    {
+      "psc": "92003",
+      "lat": "48.4145",
+      "lon": "17.7569",
+      "mesto": "Hlohovec"
+    },
+    {
+      "psc": "92041",
+      "lat": "48.4465",
+      "lon": "17.7682",
+      "mesto": "Leopoldov"
+    },
+    {
+      "psc": "92042",
+      "lat": "48.4465",
+      "lon": "17.7682",
+      "mesto": "Leopoldov"
+    },
+    {
+      "psc": "92052",
+      "lat": "48.3572",
+      "lon": "17.7428",
+      "mesto": "Siladice"
+    },
+    {
+      "psc": "92055",
+      "lat": "48.3873",
+      "lon": "17.7987",
+      "mesto": "Bojničky"
+    },
+    {
+      "psc": "92056",
+      "lat": "48.3593",
+      "lon": "17.7806",
+      "mesto": "Dvorníky nad Váhom"
+    },
+    {
+      "psc": "92061",
+      "lat": "48.4427",
+      "lon": "17.903",
+      "mesto": "Dolné Trhovište"
+    },
+    {
+      "psc": "92062",
+      "lat": "48.4901",
+      "lon": "17.8818",
+      "mesto": "Horné Otrokovce"
+    },
+    {
+      "psc": "92063",
+      "lat": "48.4138",
+      "lon": "17.8903",
+      "mesto": "Pastuchov"
+    },
+    {
+      "psc": "92064",
+      "lat": "48.3859",
+      "lon": "17.8721",
+      "mesto": "Kľačany"
+    },
+    {
+      "psc": "92065",
+      "lat": "48.3694",
+      "lon": "17.8465",
+      "mesto": "Sasinkovo"
+    },
+    {
+      "psc": "92066",
+      "lat": "48.4682",
+      "lon": "17.8687",
+      "mesto": "Horné Trhovište"
+    },
+    {
+      "psc": "92101",
+      "lat": "48.5909",
+      "lon": "17.8327",
+      "mesto": "Piešťany"
+    },
+    {
+      "psc": "92201",
+      "lat": "48.6293",
+      "lon": "17.7676",
+      "mesto": "Ostrov"
+    },
+    {
+      "psc": "92202",
+      "lat": "48.6117",
+      "lon": "17.75",
+      "mesto": "Krakovany"
+    },
+    {
+      "psc": "92203",
+      "lat": "48.6217",
+      "lon": "17.7232",
+      "mesto": "Vrbové"
+    },
+    {
+      "psc": "92204",
+      "lat": "48.5772",
+      "lon": "17.6424",
+      "mesto": "Dolný Lopašov"
+    },
+    {
+      "psc": "92205",
+      "lat": "48.5725",
+      "lon": "17.6056",
+      "mesto": "Chtelnica"
+    },
+    {
+      "psc": "92206",
+      "lat": "48.5358",
+      "lon": "17.6525",
+      "mesto": "Nižná"
+    },
+    {
+      "psc": "92207",
+      "lat": "48.5079",
+      "lon": "17.7204",
+      "mesto": "Veľké Kostoľany"
+    },
+    {
+      "psc": "92208",
+      "lat": "48.5481",
+      "lon": "17.7331",
+      "mesto": "Veselé"
+    },
+    {
+      "psc": "92209",
+      "lat": "48.572",
+      "lon": "17.7394",
+      "mesto": "Borovce"
+    },
+    {
+      "psc": "92210",
+      "lat": "48.5929",
+      "lon": "17.7379",
+      "mesto": "Trebatice"
+    },
+    {
+      "psc": "92211",
+      "lat": "48.6512",
+      "lon": "17.6887",
+      "mesto": "Prašník"
+    },
+    {
+      "psc": "92221",
+      "lat": "48.5989",
+      "lon": "17.8615",
+      "mesto": "Moravany nad Váhom"
+    },
+    {
+      "psc": "92231",
+      "lat": "48.5365",
+      "lon": "17.8445",
+      "mesto": "Sokolovce"
+    },
+    {
+      "psc": "92241",
+      "lat": "48.5368",
+      "lon": "17.7986",
+      "mesto": "Drahovce"
+    },
+    {
+      "psc": "92242",
+      "lat": "48.4936",
+      "lon": "17.7782",
+      "mesto": "Madunice"
+    },
+    {
+      "psc": "92401",
+      "lat": "48.1895",
+      "lon": "17.7331",
+      "mesto": "Galanta"
+    },
+    {
+      "psc": "92501",
+      "lat": "48.1602",
+      "lon": "17.741",
+      "mesto": "Matúškovo"
+    },
+    {
+      "psc": "92502",
+      "lat": "48.0895",
+      "lon": "17.7986",
+      "mesto": "Dolné Saliby"
+    },
+    {
+      "psc": "92504",
+      "lat": "48.068",
+      "lon": "17.7406",
+      "mesto": "Tomášikovo"
+    },
+    {
+      "psc": "92505",
+      "lat": "48.1048",
+      "lon": "17.6878",
+      "mesto": "Vozokany"
+    },
+    {
+      "psc": "92506",
+      "lat": "48.1243",
+      "lon": "17.6443",
+      "mesto": "Čierna Voda"
+    },
+    {
+      "psc": "92507",
+      "lat": "48.1422",
+      "lon": "17.6926",
+      "mesto": "Mostová"
+    },
+    {
+      "psc": "92508",
+      "lat": "48.145",
+      "lon": "17.6428",
+      "mesto": "Čierny Brod"
+    },
+    {
+      "psc": "92521",
+      "lat": "48.2021",
+      "lon": "17.638",
+      "mesto": "Sládkovičovo"
+    },
+    {
+      "psc": "92522",
+      "lat": "48.1658",
+      "lon": "17.577",
+      "mesto": "Veľké Úľany"
+    },
+    {
+      "psc": "92523",
+      "lat": "48.1402",
+      "lon": "17.5075",
+      "mesto": "Jelka"
+    },
+    {
+      "psc": "92526",
+      "lat": "48.2325",
+      "lon": "17.4478",
+      "mesto": "Reca"
+    },
+    {
+      "psc": "92528",
+      "lat": "48.2234",
+      "lon": "17.5678",
+      "mesto": "Pusté Úľany"
+    },
+    {
+      "psc": "92532",
+      "lat": "48.2402",
+      "lon": "17.6891",
+      "mesto": "Veľká Mača"
+    },
+    {
+      "psc": "92541",
+      "lat": "48.0601",
+      "lon": "17.8271",
+      "mesto": "Kráľov Brod"
+    },
+    {
+      "psc": "92542",
+      "lat": "48.017",
+      "lon": "17.8057",
+      "mesto": "Trstice"
+    },
+    {
+      "psc": "92545",
+      "lat": "48.2508",
+      "lon": "17.617",
+      "mesto": "Abrahám"
+    },
+    {
+      "psc": "92551",
+      "lat": "48.2876",
+      "lon": "17.7788",
+      "mesto": "Šintava"
+    },
+    {
+      "psc": "92552",
+      "lat": "48.226",
+      "lon": "17.8426",
+      "mesto": "Šoporňa"
+    },
+    {
+      "psc": "92553",
+      "lat": "48.279",
+      "lon": "17.8325",
+      "mesto": "Pata"
+    },
+    {
+      "psc": "92554",
+      "lat": "48.3261",
+      "lon": "17.8228",
+      "mesto": "Zemianske Sady"
+    },
+    {
+      "psc": "92555",
+      "lat": "48.3198",
+      "lon": "17.7699",
+      "mesto": "Vinohrady nad Váhom"
+    },
+    {
+      "psc": "92562",
+      "lat": "48.2346",
+      "lon": "17.7889",
+      "mesto": "Váhovce"
+    },
+    {
+      "psc": "92563",
+      "lat": "48.2678",
+      "lon": "17.7501",
+      "mesto": "Dolná Streda"
+    },
+    {
+      "psc": "92571",
+      "lat": "48.1595",
+      "lon": "17.9695",
+      "mesto": "Trnovec nad Váhom"
+    },
+    {
+      "psc": "92572",
+      "lat": "48.0995",
+      "lon": "17.96",
+      "mesto": "Selice"
+    },
+    {
+      "psc": "92581",
+      "lat": "48.1381",
+      "lon": "17.8152",
+      "mesto": "Diakovce"
+    },
+    {
+      "psc": "92582",
+      "lat": "48.0924",
+      "lon": "17.8447",
+      "mesto": "Tešedíkovo"
+    },
+    {
+      "psc": "92583",
+      "lat": "48.0653",
+      "lon": "17.8861",
+      "mesto": "Žihárec"
+    },
+    {
+      "psc": "92584",
+      "lat": "48.0253",
+      "lon": "17.9117",
+      "mesto": "Vlčany"
+    },
+    {
+      "psc": "92585",
+      "lat": "48.0179",
+      "lon": "17.9709",
+      "mesto": "Neded"
+    },
+    {
+      "psc": "92591",
+      "lat": "48.1888",
+      "lon": "17.8185",
+      "mesto": "Kráľová nad Váhom"
+    },
+    {
+      "psc": "92592",
+      "lat": "48.1831",
+      "lon": "17.7908",
+      "mesto": "Kajal"
+    },
+    {
+      "psc": "92601",
+      "lat": "48.2811",
+      "lon": "17.7228",
+      "mesto": "Sereď"
+    },
+    {
+      "psc": "92701",
+      "lat": "48.1522",
+      "lon": "17.8728",
+      "mesto": "Šaľa"
+    },
+    {
+      "psc": "92705",
+      "lat": "48.176",
+      "lon": "17.8989",
+      "mesto": "Šaľa"
+    },
+    {
+      "psc": "92901",
+      "lat": "47.9916",
+      "lon": "17.6206",
+      "mesto": "Dunajská Streda"
+    },
+    {
+      "psc": "93001",
+      "lat": "48.0406",
+      "lon": "17.5908",
+      "mesto": "Veľké Blahovo"
+    },
+    {
+      "psc": "93002",
+      "lat": "48.0184",
+      "lon": "17.5346",
+      "mesto": "Orechová Potôň"
+    },
+    {
+      "psc": "93003",
+      "lat": "47.9874",
+      "lon": "17.5509",
+      "mesto": "Kráľovičove Kračany"
+    },
+    {
+      "psc": "93004",
+      "lat": "47.9079",
+      "lon": "17.5207",
+      "mesto": "Baka"
+    },
+    {
+      "psc": "93005",
+      "lat": "47.881",
+      "lon": "17.5407",
+      "mesto": "Gabčíkovo"
+    },
+    {
+      "psc": "93006",
+      "lat": "47.8217",
+      "lon": "17.615",
+      "mesto": "Sap"
+    },
+    {
+      "psc": "93007",
+      "lat": "47.7991",
+      "lon": "17.6611",
+      "mesto": "Medveďov"
+    },
+    {
+      "psc": "93008",
+      "lat": "47.832",
+      "lon": "17.6966",
+      "mesto": "Čiližská Radvaň"
+    },
+    {
+      "psc": "93010",
+      "lat": "47.9312",
+      "lon": "17.7333",
+      "mesto": "Dolný Štál"
+    },
+    {
+      "psc": "93011",
+      "lat": "47.9598",
+      "lon": "17.8104",
+      "mesto": "Topoľníky"
+    },
+    {
+      "psc": "93012",
+      "lat": "47.9896",
+      "lon": "17.6994",
+      "mesto": "Ohrady"
+    },
+    {
+      "psc": "93013",
+      "lat": "47.9903",
+      "lon": "17.7481",
+      "mesto": "Trhová Hradská"
+    },
+    {
+      "psc": "93014",
+      "lat": "47.9659",
+      "lon": "17.6868",
+      "mesto": "Dolný Bar"
+    },
+    {
+      "psc": "93016",
+      "lat": "48.0212",
+      "lon": "17.5864",
+      "mesto": "Vydrany"
+    },
+    {
+      "psc": "93021",
+      "lat": "48.0514",
+      "lon": "17.7032",
+      "mesto": "Jahodná"
+    },
+    {
+      "psc": "93025",
+      "lat": "47.9295",
+      "lon": "17.6151",
+      "mesto": "Vrakúň"
+    },
+    {
+      "psc": "93028",
+      "lat": "47.9185",
+      "lon": "17.8131",
+      "mesto": "Okoč"
+    },
+    {
+      "psc": "93030",
+      "lat": "47.9975",
+      "lon": "17.4101",
+      "mesto": "Rohovce"
+    },
+    {
+      "psc": "93031",
+      "lat": "47.9738",
+      "lon": "17.3831",
+      "mesto": "Vojka nad Dunajom"
+    },
+    {
+      "psc": "93032",
+      "lat": "48.0075",
+      "lon": "17.4426",
+      "mesto": "Blatná na Ostrove"
+    },
+    {
+      "psc": "93033",
+      "lat": "47.9489",
+      "lon": "17.4595",
+      "mesto": "Horný Bar"
+    },
+    {
+      "psc": "93034",
+      "lat": "48.0036",
+      "lon": "17.4918",
+      "mesto": "Holice"
+    },
+    {
+      "psc": "93035",
+      "lat": "48.0415",
+      "lon": "17.5365",
+      "mesto": "Michal na Ostrove"
+    },
+    {
+      "psc": "93036",
+      "lat": "48.0604",
+      "lon": "17.5301",
+      "mesto": "Horná Potôň"
+    },
+    {
+      "psc": "93038",
+      "lat": "48.1208",
+      "lon": "17.4663",
+      "mesto": "Nový Život"
+    },
+    {
+      "psc": "93039",
+      "lat": "48.1178",
+      "lon": "17.4208",
+      "mesto": "Zlaté Klasy"
+    },
+    {
+      "psc": "93040",
+      "lat": "48.0983",
+      "lon": "17.3556",
+      "mesto": "Štvrtok na Ostrove"
+    },
+    {
+      "psc": "93041",
+      "lat": "48.0574",
+      "lon": "17.3424",
+      "mesto": "Kvetoslavov"
+    },
+    {
+      "psc": "93051",
+      "lat": "48.0405",
+      "lon": "17.407",
+      "mesto": "Veľká Paka"
+    },
+    {
+      "psc": "93052",
+      "lat": "48.0858",
+      "lon": "17.5365",
+      "mesto": "Blahová"
+    },
+    {
+      "psc": "93101",
+      "lat": "48.0186",
+      "lon": "17.3312",
+      "mesto": "Šamorín"
+    },
+    {
+      "psc": "93201",
+      "lat": "47.8445",
+      "lon": "17.7654",
+      "mesto": "Veľký Meder"
+    },
+    {
+      "psc": "93401",
+      "lat": "48.2209",
+      "lon": "18.6071",
+      "mesto": "Levice"
+    },
+    {
+      "psc": "93405",
+      "lat": "48.1874",
+      "lon": "18.6738",
+      "mesto": "Levice"
+    },
+    {
+      "psc": "93502",
+      "lat": "48.2583",
+      "lon": "18.7417",
+      "mesto": "Žemberovce"
+    },
+    {
+      "psc": "93503",
+      "lat": "48.2909",
+      "lon": "18.7446",
+      "mesto": "Bátovce"
+    },
+    {
+      "psc": "93504",
+      "lat": "48.3305",
+      "lon": "18.681",
+      "mesto": "Pukanec"
+    },
+    {
+      "psc": "93505",
+      "lat": "48.3528",
+      "lon": "18.7211",
+      "mesto": "Pukanec"
+    },
+    {
+      "psc": "93506",
+      "lat": "48.3308",
+      "lon": "18.8018",
+      "mesto": "Pukanec"
+    },
+    {
+      "psc": "93521",
+      "lat": "48.2963",
+      "lon": "18.5126",
+      "mesto": "Tlmače"
+    },
+    {
+      "psc": "93522",
+      "lat": "48.3205",
+      "lon": "18.4938",
+      "mesto": "Kozárovce"
+    },
+    {
+      "psc": "93523",
+      "lat": "48.2865",
+      "lon": "18.5651",
+      "mesto": "Rybník nad Hronom"
+    },
+    {
+      "psc": "93524",
+      "lat": "48.3153",
+      "lon": "18.6179",
+      "mesto": "Čajkov"
+    },
+    {
+      "psc": "93525",
+      "lat": "48.2811",
+      "lon": "18.6506",
+      "mesto": "Nová Dedina"
+    },
+    {
+      "psc": "93526",
+      "lat": "48.2457",
+      "lon": "18.5408",
+      "mesto": "Starý Tekov"
+    },
+    {
+      "psc": "93527",
+      "lat": "48.2678",
+      "lon": "18.595",
+      "mesto": "Hronské Kosihy"
+    },
+    {
+      "psc": "93531",
+      "lat": "48.1759",
+      "lon": "18.5637",
+      "mesto": "Dolná Seč"
+    },
+    {
+      "psc": "93532",
+      "lat": "48.1994",
+      "lon": "18.5096",
+      "mesto": "Kalná nad Hronom"
+    },
+    {
+      "psc": "93533",
+      "lat": "48.2374",
+      "lon": "18.4978",
+      "mesto": "Nový Tekov"
+    },
+    {
+      "psc": "93534",
+      "lat": "48.2049",
+      "lon": "18.446",
+      "mesto": "Veľký Ďur"
+    },
+    {
+      "psc": "93535",
+      "lat": "48.1849",
+      "lon": "18.3865",
+      "mesto": "Tehla"
+    },
+    {
+      "psc": "93536",
+      "lat": "48.1443",
+      "lon": "18.4036",
+      "mesto": "Beša"
+    },
+    {
+      "psc": "93537",
+      "lat": "48.1314",
+      "lon": "18.462",
+      "mesto": "Dolný Pial"
+    },
+    {
+      "psc": "93538",
+      "lat": "48.1739",
+      "lon": "18.4775",
+      "mesto": "Lok"
+    },
+    {
+      "psc": "93539",
+      "lat": "48.2607",
+      "lon": "18.4422",
+      "mesto": "Mochovce"
+    },
+    {
+      "psc": "93541",
+      "lat": "48.0996",
+      "lon": "18.5386",
+      "mesto": "Tekovské Lužany"
+    },
+    {
+      "psc": "93551",
+      "lat": "48.1673",
+      "lon": "18.552",
+      "mesto": "Tekovský Hrádok"
+    },
+    {
+      "psc": "93552",
+      "lat": "48.1035",
+      "lon": "18.6366",
+      "mesto": "Šarovce"
+    },
+    {
+      "psc": "93555",
+      "lat": "48.1347",
+      "lon": "18.7029",
+      "mesto": "Hontianska Vrbica"
+    },
+    {
+      "psc": "93556",
+      "lat": "48.1649",
+      "lon": "18.6635",
+      "mesto": "Mýtne Ludany"
+    },
+    {
+      "psc": "93557",
+      "lat": "48.1249",
+      "lon": "18.6269",
+      "mesto": "Jur nad Hronom"
+    },
+    {
+      "psc": "93561",
+      "lat": "48.004",
+      "lon": "18.6556",
+      "mesto": "Hronovce"
+    },
+    {
+      "psc": "93562",
+      "lat": "47.9723",
+      "lon": "18.6399",
+      "mesto": "Pohronský Ruskov"
+    },
+    {
+      "psc": "93563",
+      "lat": "47.9586",
+      "lon": "18.6604",
+      "mesto": "Čata"
+    },
+    {
+      "psc": "93564",
+      "lat": "47.9644",
+      "lon": "18.5688",
+      "mesto": "Keť"
+    },
+    {
+      "psc": "93565",
+      "lat": "47.9635",
+      "lon": "18.5089",
+      "mesto": "Veľké Ludince"
+    },
+    {
+      "psc": "93566",
+      "lat": "48.0055",
+      "lon": "18.5111",
+      "mesto": "Farná"
+    },
+    {
+      "psc": "93567",
+      "lat": "48.0506",
+      "lon": "18.5245",
+      "mesto": "Málaš"
+    },
+    {
+      "psc": "93568",
+      "lat": "48.0405",
+      "lon": "18.4773",
+      "mesto": "Čaka"
+    },
+    {
+      "psc": "93569",
+      "lat": "48.0748",
+      "lon": "18.4557",
+      "mesto": "Plavé Vozokany"
+    },
+    {
+      "psc": "93571",
+      "lat": "48.0035",
+      "lon": "18.7074",
+      "mesto": "Šalov"
+    },
+    {
+      "psc": "93574",
+      "lat": "47.9749",
+      "lon": "18.7461",
+      "mesto": "Ipeľský Sokolec"
+    },
+    {
+      "psc": "93575",
+      "lat": "48.0174",
+      "lon": "18.8057",
+      "mesto": "Ipeľský Sokolec"
+    },
+    {
+      "psc": "93577",
+      "lat": "48.0693",
+      "lon": "18.8557",
+      "mesto": "Vyškovce nad Ipľom"
+    },
+    {
+      "psc": "93581",
+      "lat": "48.1249",
+      "lon": "18.9449",
+      "mesto": "Horné Turovce"
+    },
+    {
+      "psc": "93582",
+      "lat": "48.1598",
+      "lon": "18.9778",
+      "mesto": "Plášťovce"
+    },
+    {
+      "psc": "93584",
+      "lat": "48.125",
+      "lon": "18.8779",
+      "mesto": "Horné Semerovce"
+    },
+    {
+      "psc": "93585",
+      "lat": "48.1266",
+      "lon": "18.7817",
+      "mesto": "Demandice"
+    },
+    {
+      "psc": "93586",
+      "lat": "48.212",
+      "lon": "18.8033",
+      "mesto": "Hontianske Trsťany"
+    },
+    {
+      "psc": "93587",
+      "lat": "48.1563",
+      "lon": "18.7659",
+      "mesto": "Santovka"
+    },
+    {
+      "psc": "93601",
+      "lat": "48.0692",
+      "lon": "18.9487",
+      "mesto": "Šahy"
+    },
+    {
+      "psc": "93701",
+      "lat": "48.049",
+      "lon": "18.654",
+      "mesto": "Želiezovce"
+    },
+    {
+      "psc": "94002",
+      "lat": "47.9864",
+      "lon": "18.152",
+      "mesto": "Nové Zámky"
+    },
+    {
+      "psc": "94101",
+      "lat": "48.0308",
+      "lon": "18.1736",
+      "mesto": "Bánov"
+    },
+    {
+      "psc": "94102",
+      "lat": "48.1139",
+      "lon": "18.182",
+      "mesto": "Lipová"
+    },
+    {
+      "psc": "94103",
+      "lat": "48.106",
+      "lon": "18.2374",
+      "mesto": "Úľany nad Žitavou"
+    },
+    {
+      "psc": "94104",
+      "lat": "48.1424",
+      "lon": "18.2328",
+      "mesto": "Mojzesovo"
+    },
+    {
+      "psc": "94105",
+      "lat": "48.1631",
+      "lon": "18.2316",
+      "mesto": "Černík"
+    },
+    {
+      "psc": "94106",
+      "lat": "48.1476",
+      "lon": "18.1694",
+      "mesto": "Komjatice"
+    },
+    {
+      "psc": "94107",
+      "lat": "48.1784",
+      "lon": "18.1377",
+      "mesto": "Veľký Kýr"
+    },
+    {
+      "psc": "94110",
+      "lat": "48.0955",
+      "lon": "18.067",
+      "mesto": "Tvrdošovce"
+    },
+    {
+      "psc": "94111",
+      "lat": "48.0408",
+      "lon": "18.0694",
+      "mesto": "Palárikovo"
+    },
+    {
+      "psc": "94121",
+      "lat": "47.959",
+      "lon": "18.0379",
+      "mesto": "Komoča"
+    },
+    {
+      "psc": "94122",
+      "lat": "47.9932",
+      "lon": "18.0161",
+      "mesto": "Zemné"
+    },
+    {
+      "psc": "94123",
+      "lat": "47.9845",
+      "lon": "18.0694",
+      "mesto": "Andovce"
+    },
+    {
+      "psc": "94131",
+      "lat": "47.9926",
+      "lon": "18.2642",
+      "mesto": "Dvory nad Žitavou"
+    },
+    {
+      "psc": "94132",
+      "lat": "48.0117",
+      "lon": "18.3558",
+      "mesto": "Semerovo"
+    },
+    {
+      "psc": "94133",
+      "lat": "48.0252",
+      "lon": "18.4149",
+      "mesto": "Kolta"
+    },
+    {
+      "psc": "94134",
+      "lat": "47.9772",
+      "lon": "18.405",
+      "mesto": "Jasová"
+    },
+    {
+      "psc": "94135",
+      "lat": "47.9514",
+      "lon": "18.3656",
+      "mesto": "Dubník"
+    },
+    {
+      "psc": "94136",
+      "lat": "47.9321",
+      "lon": "18.3898",
+      "mesto": "Rúbaň"
+    },
+    {
+      "psc": "94137",
+      "lat": "47.9013",
+      "lon": "18.4211",
+      "mesto": "Strekov"
+    },
+    {
+      "psc": "94141",
+      "lat": "48.0472",
+      "lon": "18.2811",
+      "mesto": "Bešeňov"
+    },
+    {
+      "psc": "94142",
+      "lat": "48.0626",
+      "lon": "18.3433",
+      "mesto": "Veľké Lovce"
+    },
+    {
+      "psc": "94143",
+      "lat": "48.0759",
+      "lon": "18.263",
+      "mesto": "Dolný Ohaj"
+    },
+    {
+      "psc": "94144",
+      "lat": "48.1007",
+      "lon": "18.2672",
+      "mesto": "Hul"
+    },
+    {
+      "psc": "94145",
+      "lat": "48.1521",
+      "lon": "18.2988",
+      "mesto": "Maňa"
+    },
+    {
+      "psc": "94146",
+      "lat": "48.1397",
+      "lon": "18.3427",
+      "mesto": "Trávnica"
+    },
+    {
+      "psc": "94147",
+      "lat": "48.0877",
+      "lon": "18.3155",
+      "mesto": "Radava"
+    },
+    {
+      "psc": "94148",
+      "lat": "48.104",
+      "lon": "18.3412",
+      "mesto": "Podhájska"
+    },
+    {
+      "psc": "94149",
+      "lat": "48.1114",
+      "lon": "18.4206",
+      "mesto": "Bardoňovo"
+    },
+    {
+      "psc": "94150",
+      "lat": "48.0723",
+      "lon": "18.4093",
+      "mesto": "Dedinka"
+    },
+    {
+      "psc": "94151",
+      "lat": "48.1181",
+      "lon": "18.3804",
+      "mesto": "Pozba"
+    },
+    {
+      "psc": "94162",
+      "lat": "48.1677",
+      "lon": "18.277",
+      "mesto": "Kmeťovo"
+    },
+    {
+      "psc": "94201",
+      "lat": "48.0873",
+      "lon": "18.1852",
+      "mesto": "Šurany"
+    },
+    {
+      "psc": "94301",
+      "lat": "47.7993",
+      "lon": "18.7168",
+      "mesto": "Štúrovo"
+    },
+    {
+      "psc": "94304",
+      "lat": "47.7868",
+      "lon": "18.6479",
+      "mesto": "Obid"
+    },
+    {
+      "psc": "94342",
+      "lat": "47.8502",
+      "lon": "18.5094",
+      "mesto": "Gbelce"
+    },
+    {
+      "psc": "94352",
+      "lat": "47.7967",
+      "lon": "18.5583",
+      "mesto": "Mužla"
+    },
+    {
+      "psc": "94353",
+      "lat": "47.8518",
+      "lon": "18.5945",
+      "mesto": "Ľubá"
+    },
+    {
+      "psc": "94354",
+      "lat": "47.9064",
+      "lon": "18.5135",
+      "mesto": "Svodín"
+    },
+    {
+      "psc": "94355",
+      "lat": "47.9124",
+      "lon": "18.5696",
+      "mesto": "Bruty"
+    },
+    {
+      "psc": "94356",
+      "lat": "47.9198",
+      "lon": "18.6389",
+      "mesto": "Bíňa"
+    },
+    {
+      "psc": "94357",
+      "lat": "47.8841",
+      "lon": "18.647",
+      "mesto": "Kamenín"
+    },
+    {
+      "psc": "94358",
+      "lat": "47.8486",
+      "lon": "18.6453",
+      "mesto": "Kamenný Most"
+    },
+    {
+      "psc": "94359",
+      "lat": "47.9352",
+      "lon": "18.6818",
+      "mesto": "Sikenička"
+    },
+    {
+      "psc": "94360",
+      "lat": "47.8212",
+      "lon": "18.6862",
+      "mesto": "Nána"
+    },
+    {
+      "psc": "94361",
+      "lat": "47.8844",
+      "lon": "18.7555",
+      "mesto": "Salka"
+    },
+    {
+      "psc": "94365",
+      "lat": "47.8316",
+      "lon": "18.724",
+      "mesto": "Kamenica nad Hronom"
+    },
+    {
+      "psc": "94501",
+      "lat": "47.7846",
+      "lon": "18.1665",
+      "mesto": "Komárno"
+    },
+    {
+      "psc": "94504",
+      "lat": "47.7834",
+      "lon": "18.0187",
+      "mesto": "Komárno"
+    },
+    {
+      "psc": "94505",
+      "lat": "47.7607",
+      "lon": "18.1194",
+      "mesto": "Komárno"
+    },
+    {
+      "psc": "94601",
+      "lat": "47.8194",
+      "lon": "18.0385",
+      "mesto": "Kameničná"
+    },
+    {
+      "psc": "94602",
+      "lat": "47.8367",
+      "lon": "17.9728",
+      "mesto": "Čalovec"
+    },
+    {
+      "psc": "94603",
+      "lat": "47.9181",
+      "lon": "17.9949",
+      "mesto": "Kolárovo"
+    },
+    {
+      "psc": "94612",
+      "lat": "47.7736",
+      "lon": "17.9536",
+      "mesto": "Zlatná na Ostrove"
+    },
+    {
+      "psc": "94613",
+      "lat": "47.819",
+      "lon": "17.9246",
+      "mesto": "Okoličná na Ostrove"
+    },
+    {
+      "psc": "94614",
+      "lat": "47.8101",
+      "lon": "17.8639",
+      "mesto": "Zemianska Olča"
+    },
+    {
+      "psc": "94615",
+      "lat": "47.7984",
+      "lon": "17.8307",
+      "mesto": "Tôň"
+    },
+    {
+      "psc": "94616",
+      "lat": "47.8343",
+      "lon": "17.83",
+      "mesto": "Bodza"
+    },
+    {
+      "psc": "94617",
+      "lat": "47.853",
+      "lon": "17.8272",
+      "mesto": "Sokolce"
+    },
+    {
+      "psc": "94619",
+      "lat": "47.769",
+      "lon": "17.7693",
+      "mesto": "Číčov"
+    },
+    {
+      "psc": "94621",
+      "lat": "47.7637",
+      "lon": "17.8886",
+      "mesto": "Veľké Kosihy"
+    },
+    {
+      "psc": "94631",
+      "lat": "47.8049",
+      "lon": "18.2313",
+      "mesto": "Chotín"
+    },
+    {
+      "psc": "94632",
+      "lat": "47.7901",
+      "lon": "18.2899",
+      "mesto": "Marcelová"
+    },
+    {
+      "psc": "94633",
+      "lat": "47.815",
+      "lon": "18.356",
+      "mesto": "Modrany"
+    },
+    {
+      "psc": "94634",
+      "lat": "47.8417",
+      "lon": "18.4108",
+      "mesto": "Bátorove Kosihy"
+    },
+    {
+      "psc": "94635",
+      "lat": "47.81",
+      "lon": "18.4784",
+      "mesto": "Búč"
+    },
+    {
+      "psc": "94636",
+      "lat": "47.7724",
+      "lon": "18.4901",
+      "mesto": "Kravany nad Dunajom"
+    },
+    {
+      "psc": "94637",
+      "lat": "47.7764",
+      "lon": "18.4041",
+      "mesto": "Moča"
+    },
+    {
+      "psc": "94638",
+      "lat": "47.7461",
+      "lon": "18.3667",
+      "mesto": "Radvaň nad Dunajom"
+    },
+    {
+      "psc": "94639",
+      "lat": "47.7492",
+      "lon": "18.2261",
+      "mesto": "Iža"
+    },
+    {
+      "psc": "94651",
+      "lat": "47.931",
+      "lon": "18.1155",
+      "mesto": "Nesvady"
+    },
+    {
+      "psc": "94652",
+      "lat": "47.8933",
+      "lon": "18.1275",
+      "mesto": "Imeľ"
+    },
+    {
+      "psc": "94654",
+      "lat": "47.9321",
+      "lon": "18.2343",
+      "mesto": "Bajč"
+    },
+    {
+      "psc": "94655",
+      "lat": "47.9005",
+      "lon": "18.3021",
+      "mesto": "Pribeta"
+    },
+    {
+      "psc": "94656",
+      "lat": "47.8715",
+      "lon": "18.2607",
+      "mesto": "Dulovce"
+    },
+    {
+      "psc": "94657",
+      "lat": "47.8458",
+      "lon": "18.263",
+      "mesto": "Svätý Peter"
+    },
+    {
+      "psc": "94701",
+      "lat": "47.8795",
+      "lon": "18.1958",
+      "mesto": "Hurbanovo"
+    },
+    {
+      "psc": "94703",
+      "lat": "47.8952",
+      "lon": "18.2099",
+      "mesto": "Hurbanovo"
+    },
+    {
+      "psc": "94901",
+      "lat": "48.3268",
+      "lon": "18.0791",
+      "mesto": "Nitra"
+    },
+    {
+      "psc": "94905",
+      "lat": "48.2743",
+      "lon": "18.099",
+      "mesto": "Nitra"
+    },
+    {
+      "psc": "94907",
+      "lat": "48.2892",
+      "lon": "18.1354",
+      "mesto": "Nitra"
+    },
+    {
+      "psc": "94911",
+      "lat": "48.3039",
+      "lon": "18.0455",
+      "mesto": "Nitra"
+    },
+    {
+      "psc": "95101",
+      "lat": "48.3318",
+      "lon": "18.1256",
+      "mesto": "Nitrianske Hrnčiarovce"
+    },
+    {
+      "psc": "95102",
+      "lat": "48.3313",
+      "lon": "18.1838",
+      "mesto": "Pohranice"
+    },
+    {
+      "psc": "95103",
+      "lat": "48.3155",
+      "lon": "18.2433",
+      "mesto": "Čeľadice"
+    },
+    {
+      "psc": "95104",
+      "lat": "48.2901",
+      "lon": "18.1857",
+      "mesto": "Veľký Lapáš"
+    },
+    {
+      "psc": "95105",
+      "lat": "48.2174",
+      "lon": "18.1888",
+      "mesto": "Veľký Cetín"
+    },
+    {
+      "psc": "95106",
+      "lat": "48.186",
+      "lon": "18.2171",
+      "mesto": "Vinodol"
+    },
+    {
+      "psc": "95107",
+      "lat": "48.2566",
+      "lon": "18.1605",
+      "mesto": "Čechynce"
+    },
+    {
+      "psc": "95108",
+      "lat": "48.269",
+      "lon": "18.2125",
+      "mesto": "Golianovo"
+    },
+    {
+      "psc": "95112",
+      "lat": "48.2393",
+      "lon": "18.1109",
+      "mesto": "Ivanka pri Nitre"
+    },
+    {
+      "psc": "95113",
+      "lat": "48.2084",
+      "lon": "18.1426",
+      "mesto": "Branč"
+    },
+    {
+      "psc": "95115",
+      "lat": "48.2075",
+      "lon": "18.0642",
+      "mesto": "Mojmírovce"
+    },
+    {
+      "psc": "95116",
+      "lat": "48.2237",
+      "lon": "18.0486",
+      "mesto": "Svätoplukovo"
+    },
+    {
+      "psc": "95117",
+      "lat": "48.2338",
+      "lon": "18.0181",
+      "mesto": "Cabaj-Čápor"
+    },
+    {
+      "psc": "95121",
+      "lat": "48.3586",
+      "lon": "17.9138",
+      "mesto": "Rišňovce"
+    },
+    {
+      "psc": "95122",
+      "lat": "48.3521",
+      "lon": "17.9542",
+      "mesto": "Alekšince"
+    },
+    {
+      "psc": "95123",
+      "lat": "48.3946",
+      "lon": "17.9434",
+      "mesto": "Lukáčovce"
+    },
+    {
+      "psc": "95124",
+      "lat": "48.4172",
+      "lon": "17.9838",
+      "mesto": "Nové Sady"
+    },
+    {
+      "psc": "95125",
+      "lat": "48.4431",
+      "lon": "18.0287",
+      "mesto": "Nové Sady"
+    },
+    {
+      "psc": "95126",
+      "lat": "48.413",
+      "lon": "18.0238",
+      "mesto": "Nové Sady"
+    },
+    {
+      "psc": "95131",
+      "lat": "48.2053",
+      "lon": "17.9401",
+      "mesto": "Močenok"
+    },
+    {
+      "psc": "95132",
+      "lat": "48.2511",
+      "lon": "17.9107",
+      "mesto": "Horná Kráľová"
+    },
+    {
+      "psc": "95133",
+      "lat": "48.2611",
+      "lon": "17.8801",
+      "mesto": "Hájske"
+    },
+    {
+      "psc": "95134",
+      "lat": "48.2969",
+      "lon": "17.8812",
+      "mesto": "Báb"
+    },
+    {
+      "psc": "95135",
+      "lat": "48.3069",
+      "lon": "17.9471",
+      "mesto": "Veľké Zálužie"
+    },
+    {
+      "psc": "95136",
+      "lat": "48.3155",
+      "lon": "17.9898",
+      "mesto": "Lehota"
+    },
+    {
+      "psc": "95137",
+      "lat": "48.3349",
+      "lon": "17.8687",
+      "mesto": "Rumanová"
+    },
+    {
+      "psc": "95141",
+      "lat": "48.339",
+      "lon": "18.035",
+      "mesto": "Lužianky"
+    },
+    {
+      "psc": "95142",
+      "lat": "48.3642",
+      "lon": "18.0068",
+      "mesto": "Zbehy"
+    },
+    {
+      "psc": "95143",
+      "lat": "48.3844",
+      "lon": "18.0587",
+      "mesto": "Jelšovce"
+    },
+    {
+      "psc": "95144",
+      "lat": "48.4077",
+      "lon": "18.0857",
+      "mesto": "Výčapy-Opatovce"
+    },
+    {
+      "psc": "95145",
+      "lat": "48.4226",
+      "lon": "18.1456",
+      "mesto": "Horné Lefantovce"
+    },
+    {
+      "psc": "95146",
+      "lat": "48.3841",
+      "lon": "18.112",
+      "mesto": "Podhorany"
+    },
+    {
+      "psc": "95148",
+      "lat": "48.2689",
+      "lon": "17.9594",
+      "mesto": "Jarok"
+    },
+    {
+      "psc": "95151",
+      "lat": "48.2814",
+      "lon": "18.3252",
+      "mesto": "Nová Ves nad Žitavou"
+    },
+    {
+      "psc": "95152",
+      "lat": "48.3103",
+      "lon": "18.3376",
+      "mesto": "Slepčany"
+    },
+    {
+      "psc": "95153",
+      "lat": "48.2772",
+      "lon": "18.2584",
+      "mesto": "Klasov"
+    },
+    {
+      "psc": "95154",
+      "lat": "48.3037",
+      "lon": "18.2846",
+      "mesto": "Malé Chyndice"
+    },
+    {
+      "psc": "95161",
+      "lat": "48.2319",
+      "lon": "18.3917",
+      "mesto": "Čifáre"
+    },
+    {
+      "psc": "95162",
+      "lat": "48.2861",
+      "lon": "18.3778",
+      "mesto": "Nevidzany"
+    },
+    {
+      "psc": "95171",
+      "lat": "48.3968",
+      "lon": "18.3287",
+      "mesto": "Sľažany"
+    },
+    {
+      "psc": "95172",
+      "lat": "48.3619",
+      "lon": "18.2741",
+      "mesto": "Neverice"
+    },
+    {
+      "psc": "95173",
+      "lat": "48.4111",
+      "lon": "18.1945",
+      "mesto": "Jelenec"
+    },
+    {
+      "psc": "95174",
+      "lat": "48.3774",
+      "lon": "18.1796",
+      "mesto": "Žirany"
+    },
+    {
+      "psc": "95175",
+      "lat": "48.3332",
+      "lon": "18.2924",
+      "mesto": "Beladice"
+    },
+    {
+      "psc": "95176",
+      "lat": "48.3378",
+      "lon": "18.3568",
+      "mesto": "Tesárske Mlyňany"
+    },
+    {
+      "psc": "95177",
+      "lat": "48.395",
+      "lon": "18.2613",
+      "mesto": "Ladice"
+    },
+    {
+      "psc": "95178",
+      "lat": "48.35",
+      "lon": "18.2213",
+      "mesto": "Kolíňany"
+    },
+    {
+      "psc": "95181",
+      "lat": "48.3029",
+      "lon": "18.4444",
+      "mesto": "Nemčiňany"
+    },
+    {
+      "psc": "95182",
+      "lat": "48.3095",
+      "lon": "18.3978",
+      "mesto": "Malé Vozokany"
+    },
+    {
+      "psc": "95185",
+      "lat": "48.5205",
+      "lon": "18.4402",
+      "mesto": "Skýcov"
+    },
+    {
+      "psc": "95187",
+      "lat": "48.3377",
+      "lon": "18.4551",
+      "mesto": "Volkovce"
+    },
+    {
+      "psc": "95188",
+      "lat": "48.213",
+      "lon": "18.2722",
+      "mesto": "Lúčnica nad Žitavou"
+    },
+    {
+      "psc": "95191",
+      "lat": "48.417",
+      "lon": "18.3557",
+      "mesto": "Hosťovce"
+    },
+    {
+      "psc": "95192",
+      "lat": "48.4449",
+      "lon": "18.3625",
+      "mesto": "Lovce"
+    },
+    {
+      "psc": "95193",
+      "lat": "48.4227",
+      "lon": "18.4092",
+      "mesto": "Topoľčianky"
+    },
+    {
+      "psc": "95194",
+      "lat": "48.473",
+      "lon": "18.446",
+      "mesto": "Hostie"
+    },
+    {
+      "psc": "95195",
+      "lat": "48.428",
+      "lon": "18.4539",
+      "mesto": "Obyce"
+    },
+    {
+      "psc": "95196",
+      "lat": "48.4826",
+      "lon": "18.5127",
+      "mesto": "Jedľové Kostoľany"
+    },
+    {
+      "psc": "95197",
+      "lat": "48.3932",
+      "lon": "18.46",
+      "mesto": "Žitavany"
+    },
+    {
+      "psc": "95201",
+      "lat": "48.2436",
+      "lon": "18.3086",
+      "mesto": "Vráble"
+    },
+    {
+      "psc": "95301",
+      "lat": "48.3852",
+      "lon": "18.3913",
+      "mesto": "Zlaté Moravce"
+    },
+    {
+      "psc": "95305",
+      "lat": "48.3598",
+      "lon": "18.4211",
+      "mesto": "Zlaté Moravce"
+    },
+    {
+      "psc": "95501",
+      "lat": "48.555",
+      "lon": "18.1597",
+      "mesto": "Topoľčany"
+    },
+    {
+      "psc": "95503",
+      "lat": "48.5495",
+      "lon": "18.1849",
+      "mesto": "Topoľčany"
+    },
+    {
+      "psc": "95601",
+      "lat": "48.5735",
+      "lon": "18.0589",
+      "mesto": "Bojná"
+    },
+    {
+      "psc": "95602",
+      "lat": "48.5343",
+      "lon": "18.1035",
+      "mesto": "Urmince"
+    },
+    {
+      "psc": "95603",
+      "lat": "48.5346",
+      "lon": "18.0321",
+      "mesto": "Hajná Nová Ves"
+    },
+    {
+      "psc": "95605",
+      "lat": "48.5469",
+      "lon": "17.9377",
+      "mesto": "Radošina"
+    },
+    {
+      "psc": "95606",
+      "lat": "48.5257",
+      "lon": "17.8976",
+      "mesto": "Šalgovce"
+    },
+    {
+      "psc": "95607",
+      "lat": "48.4985",
+      "lon": "17.9778",
+      "mesto": "Veľké Ripňany"
+    },
+    {
+      "psc": "95608",
+      "lat": "48.4955",
+      "lon": "18.0506",
+      "mesto": "Horné Obdokovce"
+    },
+    {
+      "psc": "95611",
+      "lat": "48.4992",
+      "lon": "18.1181",
+      "mesto": "Ludanice"
+    },
+    {
+      "psc": "95612",
+      "lat": "48.45",
+      "lon": "18.0991",
+      "mesto": "Preseľany"
+    },
+    {
+      "psc": "95613",
+      "lat": "48.43",
+      "lon": "18.0933",
+      "mesto": "Koniarovce"
+    },
+    {
+      "psc": "95614",
+      "lat": "48.468",
+      "lon": "18.1442",
+      "mesto": "Oponice"
+    },
+    {
+      "psc": "95615",
+      "lat": "48.4887",
+      "lon": "18.1934",
+      "mesto": "Kovarce"
+    },
+    {
+      "psc": "95616",
+      "lat": "48.5213",
+      "lon": "18.1752",
+      "mesto": "Nitrianska Streda"
+    },
+    {
+      "psc": "95617",
+      "lat": "48.5237",
+      "lon": "18.2317",
+      "mesto": "Solčany"
+    },
+    {
+      "psc": "95618",
+      "lat": "48.5789",
+      "lon": "18.2516",
+      "mesto": "Bošany"
+    },
+    {
+      "psc": "95619",
+      "lat": "48.5264",
+      "lon": "18.2785",
+      "mesto": "Krnča"
+    },
+    {
+      "psc": "95621",
+      "lat": "48.593",
+      "lon": "18.134",
+      "mesto": "Jacovce"
+    },
+    {
+      "psc": "95622",
+      "lat": "48.6404",
+      "lon": "18.1092",
+      "mesto": "Prašice"
+    },
+    {
+      "psc": "95631",
+      "lat": "48.5925",
+      "lon": "18.2053",
+      "mesto": "Krušovce"
+    },
+    {
+      "psc": "95632",
+      "lat": "48.6201",
+      "lon": "18.2518",
+      "mesto": "Nadlice"
+    },
+    {
+      "psc": "95633",
+      "lat": "48.61",
+      "lon": "18.2739",
+      "mesto": "Chynorany"
+    },
+    {
+      "psc": "95634",
+      "lat": "48.6441",
+      "lon": "18.2808",
+      "mesto": "Ostratice"
+    },
+    {
+      "psc": "95635",
+      "lat": "48.6702",
+      "lon": "18.3175",
+      "mesto": "Nedašovce"
+    },
+    {
+      "psc": "95636",
+      "lat": "48.6695",
+      "lon": "18.2566",
+      "mesto": "Rybany"
+    },
+    {
+      "psc": "95637",
+      "lat": "48.7211",
+      "lon": "18.0688",
+      "mesto": "Zlatníky"
+    },
+    {
+      "psc": "95638",
+      "lat": "48.6558",
+      "lon": "18.1817",
+      "mesto": "Šišov"
+    },
+    {
+      "psc": "95641",
+      "lat": "48.7441",
+      "lon": "18.3379",
+      "mesto": "Uhrovec"
+    },
+    {
+      "psc": "95652",
+      "lat": "48.771",
+      "lon": "18.2393",
+      "mesto": "Podlužany"
+    },
+    {
+      "psc": "95653",
+      "lat": "48.8372",
+      "lon": "18.2644",
+      "mesto": "Slatina nad Bebravou"
+    },
+    {
+      "psc": "95654",
+      "lat": "48.7338",
+      "lon": "18.1814",
+      "mesto": "Veľké Držkovce"
+    },
+    {
+      "psc": "95655",
+      "lat": "48.7038",
+      "lon": "18.2267",
+      "mesto": "Veľké Chlievany"
+    },
+    {
+      "psc": "95701",
+      "lat": "48.7206",
+      "lon": "18.2566",
+      "mesto": "Bánovce nad Bebravou"
+    },
+    {
+      "psc": "95703",
+      "lat": "48.7694",
+      "lon": "18.282",
+      "mesto": "Bánovce nad Bebravou"
+    },
+    {
+      "psc": "95704",
+      "lat": "48.7349",
+      "lon": "18.2552",
+      "mesto": "Bánovce nad Bebravou"
+    },
+    {
+      "psc": "95801",
+      "lat": "48.6245",
+      "lon": "18.3723",
+      "mesto": "Partizánske"
+    },
+    {
+      "psc": "95803",
+      "lat": "48.6245",
+      "lon": "18.3723",
+      "mesto": "Partizánske"
+    },
+    {
+      "psc": "95804",
+      "lat": "48.6245",
+      "lon": "18.3723",
+      "mesto": "Partizánske"
+    },
+    {
+      "psc": "95806",
+      "lat": "48.6245",
+      "lon": "18.3723",
+      "mesto": "Partizánske"
+    },
+    {
+      "psc": "95841",
+      "lat": "48.6076",
+      "lon": "18.4362",
+      "mesto": "Veľké Uherce"
+    },
+    {
+      "psc": "95842",
+      "lat": "48.609",
+      "lon": "18.34",
+      "mesto": "Brodzany"
+    },
+    {
+      "psc": "95843",
+      "lat": "48.592",
+      "lon": "18.3033",
+      "mesto": "Krásno"
+    },
+    {
+      "psc": "95844",
+      "lat": "48.5643",
+      "lon": "18.307",
+      "mesto": "Klátova Nová Ves"
+    },
+    {
+      "psc": "95845",
+      "lat": "48.5511",
+      "lon": "18.3666",
+      "mesto": "Veľký Klíž"
+    },
+    {
+      "psc": "95852",
+      "lat": "48.6264",
+      "lon": "18.3",
+      "mesto": "Žabokreky nad Nitrou"
+    },
+    {
+      "psc": "95853",
+      "lat": "48.6735",
+      "lon": "18.3919",
+      "mesto": "Skačany"
+    },
+    {
+      "psc": "95854",
+      "lat": "48.6814",
+      "lon": "18.3722",
+      "mesto": "Hradište"
+    },
+    {
+      "psc": "96001",
+      "lat": "48.5749",
+      "lon": "19.1271",
+      "mesto": "Zvolen"
+    },
+    {
+      "psc": "96201",
+      "lat": "48.5434",
+      "lon": "19.2535",
+      "mesto": "Zvolenská Slatina"
+    },
+    {
+      "psc": "96202",
+      "lat": "48.5513",
+      "lon": "19.2974",
+      "mesto": "Vígľaš"
+    },
+    {
+      "psc": "96204",
+      "lat": "48.5299",
+      "lon": "19.4453",
+      "mesto": "Kriváň"
+    },
+    {
+      "psc": "96205",
+      "lat": "48.5785",
+      "lon": "19.5271",
+      "mesto": "Hriňová"
+    },
+    {
+      "psc": "96212",
+      "lat": "48.5402",
+      "lon": "19.4048",
+      "mesto": "Detva"
+    },
+    {
+      "psc": "96221",
+      "lat": "48.5776",
+      "lon": "19.1907",
+      "mesto": "Lieskovec"
+    },
+    {
+      "psc": "96223",
+      "lat": "48.6312",
+      "lon": "19.3462",
+      "mesto": "Očová"
+    },
+    {
+      "psc": "96225",
+      "lat": "48.4998",
+      "lon": "19.2997",
+      "mesto": "Slatinské Lazy"
+    },
+    {
+      "psc": "96231",
+      "lat": "48.6164",
+      "lon": "19.136",
+      "mesto": "Sliač"
+    },
+    {
+      "psc": "96233",
+      "lat": "48.5744",
+      "lon": "19.07",
+      "mesto": "Budča"
+    },
+    {
+      "psc": "96234",
+      "lat": "48.6058",
+      "lon": "19.0317",
+      "mesto": "Tŕnie"
+    },
+    {
+      "psc": "96237",
+      "lat": "48.6058",
+      "lon": "19.087",
+      "mesto": "Kováčová"
+    },
+    {
+      "psc": "96241",
+      "lat": "48.32",
+      "lon": "19.0897",
+      "mesto": "Bzovík"
+    },
+    {
+      "psc": "96243",
+      "lat": "48.3574",
+      "lon": "19.1974",
+      "mesto": "Senohrad"
+    },
+    {
+      "psc": "96244",
+      "lat": "48.2991",
+      "lon": "19.1792",
+      "mesto": "Litava"
+    },
+    {
+      "psc": "96251",
+      "lat": "48.257",
+      "lon": "19.0773",
+      "mesto": "Čabradský Vrbovok"
+    },
+    {
+      "psc": "96252",
+      "lat": "48.2534",
+      "lon": "19.1643",
+      "mesto": "Cerovo"
+    },
+    {
+      "psc": "96255",
+      "lat": "48.2029",
+      "lon": "18.9779",
+      "mesto": "Rykynčice"
+    },
+    {
+      "psc": "96261",
+      "lat": "48.4718",
+      "lon": "19.1023",
+      "mesto": "Dobrá Niva"
+    },
+    {
+      "psc": "96262",
+      "lat": "48.4356",
+      "lon": "19.132",
+      "mesto": "Sása"
+    },
+    {
+      "psc": "96263",
+      "lat": "48.4239",
+      "lon": "19.1563",
+      "mesto": "Pliešovce"
+    },
+    {
+      "psc": "96265",
+      "lat": "48.2848",
+      "lon": "18.991",
+      "mesto": "Hontianske Nemce"
+    },
+    {
+      "psc": "96266",
+      "lat": "48.2749",
+      "lon": "18.9533",
+      "mesto": "Sebechleby"
+    },
+    {
+      "psc": "96268",
+      "lat": "48.2046",
+      "lon": "18.9214",
+      "mesto": "Hontianske Tesáre"
+    },
+    {
+      "psc": "96271",
+      "lat": "48.1713",
+      "lon": "18.8803",
+      "mesto": "Dudince"
+    },
+    {
+      "psc": "96275",
+      "lat": "48.4457",
+      "lon": "19.3377",
+      "mesto": "Horný Tisovník"
+    },
+    {
+      "psc": "96301",
+      "lat": "48.3518",
+      "lon": "19.067",
+      "mesto": "Krupina"
+    },
+    {
+      "psc": "96501",
+      "lat": "48.5905",
+      "lon": "18.8549",
+      "mesto": "Žiar nad Hronom"
+    },
+    {
+      "psc": "96601",
+      "lat": "48.5411",
+      "lon": "18.782",
+      "mesto": "Hliník nad Hronom"
+    },
+    {
+      "psc": "96602",
+      "lat": "48.4974",
+      "lon": "18.795",
+      "mesto": "Vyhne"
+    },
+    {
+      "psc": "96603",
+      "lat": "48.5313",
+      "lon": "18.8631",
+      "mesto": "Sklené Teplice"
+    },
+    {
+      "psc": "96604",
+      "lat": "48.5689",
+      "lon": "18.7501",
+      "mesto": "Horná Ždaňa"
+    },
+    {
+      "psc": "96611",
+      "lat": "48.5923",
+      "lon": "18.9526",
+      "mesto": "Trnavá Hora"
+    },
+    {
+      "psc": "96615",
+      "lat": "48.4754",
+      "lon": "18.9334",
+      "mesto": "Banská Belá"
+    },
+    {
+      "psc": "96621",
+      "lat": "48.5729",
+      "lon": "18.8152",
+      "mesto": "Lovča"
+    },
+    {
+      "psc": "96622",
+      "lat": "48.6146",
+      "lon": "18.8419",
+      "mesto": "Lutila"
+    },
+    {
+      "psc": "96623",
+      "lat": "48.6273",
+      "lon": "18.7625",
+      "mesto": "Lovčica-Trubín"
+    },
+    {
+      "psc": "96624",
+      "lat": "48.6592",
+      "lon": "18.7824",
+      "mesto": "Janova Lehota"
+    },
+    {
+      "psc": "96641",
+      "lat": "48.4594",
+      "lon": "18.5654",
+      "mesto": "Veľká Lehota"
+    },
+    {
+      "psc": "96642",
+      "lat": "48.5025",
+      "lon": "18.5488",
+      "mesto": "Malá Lehota"
+    },
+    {
+      "psc": "96651",
+      "lat": "48.427",
+      "lon": "18.6853",
+      "mesto": "Rudno nad Hronom"
+    },
+    {
+      "psc": "96652",
+      "lat": "48.3849",
+      "lon": "18.617",
+      "mesto": "Tekovská Breznica"
+    },
+    {
+      "psc": "96653",
+      "lat": "48.3434",
+      "lon": "18.558",
+      "mesto": "Hronský Beňadik"
+    },
+    {
+      "psc": "96654",
+      "lat": "48.3947",
+      "lon": "18.5438",
+      "mesto": "Tekovské Nemce"
+    },
+    {
+      "psc": "96661",
+      "lat": "48.4591",
+      "lon": "18.746",
+      "mesto": "Hodruša-Hámre"
+    },
+    {
+      "psc": "96663",
+      "lat": "48.4569",
+      "lon": "18.8203",
+      "mesto": ""
+    },
+    {
+      "psc": "96671",
+      "lat": "48.4957",
+      "lon": "18.6725",
+      "mesto": "Horné Hámre"
+    },
+    {
+      "psc": "96674",
+      "lat": "48.5384",
+      "lon": "18.5504",
+      "mesto": "Veľké Pole"
+    },
+    {
+      "psc": "96677",
+      "lat": "48.5619",
+      "lon": "18.6634",
+      "mesto": "Ostrý Grúň"
+    },
+    {
+      "psc": "96678",
+      "lat": "48.5424",
+      "lon": "18.6817",
+      "mesto": "Horné Hámre"
+    },
+    {
+      "psc": "96681",
+      "lat": "48.4833",
+      "lon": "18.7217",
+      "mesto": "Žarnovica"
+    },
+    {
+      "psc": "96701",
+      "lat": "48.703",
+      "lon": "18.9176",
+      "mesto": "Kremnica"
+    },
+    {
+      "psc": "96801",
+      "lat": "48.4217",
+      "lon": "18.6422",
+      "mesto": "Nová Baňa"
+    },
+    {
+      "psc": "96901",
+      "lat": "48.4496",
+      "lon": "18.9087",
+      "mesto": "Banská Štiavnica"
+    },
+    {
+      "psc": "96972",
+      "lat": "48.413",
+      "lon": "18.9568",
+      "mesto": "Svätý Anton"
+    },
+    {
+      "psc": "96973",
+      "lat": "48.3725",
+      "lon": "18.9213",
+      "mesto": "Prenčov"
+    },
+    {
+      "psc": "96981",
+      "lat": "48.4332",
+      "lon": "18.8532",
+      "mesto": "Štiavnické Bane"
+    },
+    {
+      "psc": "96982",
+      "lat": "48.4981",
+      "lon": "18.9198",
+      "mesto": "Podhorie"
+    },
+    {
+      "psc": "97101",
+      "lat": "48.7723",
+      "lon": "18.6228",
+      "mesto": "Prievidza"
+    },
+    {
+      "psc": "97201",
+      "lat": "48.7788",
+      "lon": "18.5827",
+      "mesto": "Bojnice"
+    },
+    {
+      "psc": "97202",
+      "lat": "48.7626",
+      "lon": "18.5708",
+      "mesto": "Opatovce nad Nitrou"
+    },
+    {
+      "psc": "97205",
+      "lat": "48.7298",
+      "lon": "18.631",
+      "mesto": "Sebedražie"
+    },
+    {
+      "psc": "97211",
+      "lat": "48.8242",
+      "lon": "18.6074",
+      "mesto": "Lazany"
+    },
+    {
+      "psc": "97212",
+      "lat": "48.8209",
+      "lon": "18.6441",
+      "mesto": "Nedožery"
+    },
+    {
+      "psc": "97213",
+      "lat": "48.8711",
+      "lon": "18.6343",
+      "mesto": "Nitrianske Pravno"
+    },
+    {
+      "psc": "97214",
+      "lat": "48.9296",
+      "lon": "18.5722",
+      "mesto": "Tužina"
+    },
+    {
+      "psc": "97215",
+      "lat": "48.9346",
+      "lon": "18.6674",
+      "mesto": "Kľačno"
+    },
+    {
+      "psc": "97216",
+      "lat": "48.8536",
+      "lon": "18.6488",
+      "mesto": "Pravenec"
+    },
+    {
+      "psc": "97217",
+      "lat": "48.8211",
+      "lon": "18.5673",
+      "mesto": "Kanianka"
+    },
+    {
+      "psc": "97221",
+      "lat": "48.7321",
+      "lon": "18.4767",
+      "mesto": "Nitrianske Sučany"
+    },
+    {
+      "psc": "97222",
+      "lat": "48.7047",
+      "lon": "18.4478",
+      "mesto": "Nitrica"
+    },
+    {
+      "psc": "97223",
+      "lat": "48.7154",
+      "lon": "18.3897",
+      "mesto": "Dolné Vestenice"
+    },
+    {
+      "psc": "97224",
+      "lat": "48.7486",
+      "lon": "18.503",
+      "mesto": "Diviacka Nová Ves"
+    },
+    {
+      "psc": "97225",
+      "lat": "48.7669",
+      "lon": "18.4938",
+      "mesto": "Diviaky nad Nitricou"
+    },
+    {
+      "psc": "97226",
+      "lat": "48.7987",
+      "lon": "18.4768",
+      "mesto": "Nitrianske Rudno"
+    },
+    {
+      "psc": "97227",
+      "lat": "48.8248",
+      "lon": "18.4795",
+      "mesto": "Liešťany"
+    },
+    {
+      "psc": "97228",
+      "lat": "48.8961",
+      "lon": "18.3971",
+      "mesto": "Valaská Belá"
+    },
+    {
+      "psc": "97229",
+      "lat": "48.8827",
+      "lon": "18.4866",
+      "mesto": "Čavoj"
+    },
+    {
+      "psc": "97231",
+      "lat": "48.7773",
+      "lon": "18.7663",
+      "mesto": "Ráztočno"
+    },
+    {
+      "psc": "97232",
+      "lat": "48.7749",
+      "lon": "18.7261",
+      "mesto": "Chrenovec"
+    },
+    {
+      "psc": "97241",
+      "lat": "48.7384",
+      "lon": "18.5997",
+      "mesto": "Koš"
+    },
+    {
+      "psc": "97242",
+      "lat": "48.6939",
+      "lon": "18.6012",
+      "mesto": "Lehota pod Vtáčnikom"
+    },
+    {
+      "psc": "97243",
+      "lat": "48.687",
+      "lon": "18.5297",
+      "mesto": "Zemianske Kostoľany"
+    },
+    {
+      "psc": "97244",
+      "lat": "48.6512",
+      "lon": "18.5889",
+      "mesto": "Kamenec pod Vtáčnikom"
+    },
+    {
+      "psc": "97245",
+      "lat": "48.6487",
+      "lon": "18.5417",
+      "mesto": "Bystričany"
+    },
+    {
+      "psc": "97246",
+      "lat": "48.6323",
+      "lon": "18.5155",
+      "mesto": "Čereňany"
+    },
+    {
+      "psc": "97247",
+      "lat": "48.6303",
+      "lon": "18.469",
+      "mesto": "Oslany"
+    },
+    {
+      "psc": "97248",
+      "lat": "48.6087",
+      "lon": "18.4905",
+      "mesto": "Horná Ves"
+    },
+    {
+      "psc": "97251",
+      "lat": "48.729",
+      "lon": "18.7599",
+      "mesto": "Handlová"
+    },
+    {
+      "psc": "97271",
+      "lat": "48.7208",
+      "lon": "18.545",
+      "mesto": "Nováky"
+    },
+    {
+      "psc": "97401",
+      "lat": "48.7392",
+      "lon": "19.1573",
+      "mesto": "Banská Bystrica"
+    },
+    {
+      "psc": "97404",
+      "lat": "48.7284",
+      "lon": "19.1151",
+      "mesto": "Banská Bystrica"
+    },
+    {
+      "psc": "97405",
+      "lat": "48.7205",
+      "lon": "19.1322",
+      "mesto": "Banská Bystrica"
+    },
+    {
+      "psc": "97409",
+      "lat": "48.7517",
+      "lon": "19.1007",
+      "mesto": "Banská Bystrica"
+    },
+    {
+      "psc": "97411",
+      "lat": "48.7599",
+      "lon": "19.166",
+      "mesto": "Banská Bystrica"
+    },
+    {
+      "psc": "97602",
+      "lat": "48.8381",
+      "lon": "19.1155",
+      "mesto": "Staré Hory"
+    },
+    {
+      "psc": "97603",
+      "lat": "48.7952",
+      "lon": "19.0795",
+      "mesto": "Harmanec"
+    },
+    {
+      "psc": "97611",
+      "lat": "48.763",
+      "lon": "19.2028",
+      "mesto": "Selce"
+    },
+    {
+      "psc": "97613",
+      "lat": "48.7655",
+      "lon": "19.2756",
+      "mesto": "Slovenská Ľupča"
+    },
+    {
+      "psc": "97631",
+      "lat": "48.6683",
+      "lon": "19.1469",
+      "mesto": "Vlkanová"
+    },
+    {
+      "psc": "97632",
+      "lat": "48.6703",
+      "lon": "19.0899",
+      "mesto": "Badín"
+    },
+    {
+      "psc": "97633",
+      "lat": "48.7085",
+      "lon": "19.2873",
+      "mesto": "Poniky"
+    },
+    {
+      "psc": "97634",
+      "lat": "48.7462",
+      "lon": "19.07",
+      "mesto": "Tajov"
+    },
+    {
+      "psc": "97637",
+      "lat": "48.6579",
+      "lon": "19.3421",
+      "mesto": "Hrochoť"
+    },
+    {
+      "psc": "97639",
+      "lat": "48.8749",
+      "lon": "19.2333",
+      "mesto": "Donovaly"
+    },
+    {
+      "psc": "97644",
+      "lat": "48.8524",
+      "lon": "19.6323",
+      "mesto": "Mýto pod Ďumbierom"
+    },
+    {
+      "psc": "97645",
+      "lat": "48.7949",
+      "lon": "19.5821",
+      "mesto": "Hronec"
+    },
+    {
+      "psc": "97646",
+      "lat": "48.7368",
+      "lon": "19.5757",
+      "mesto": "Valaská"
+    },
+    {
+      "psc": "97652",
+      "lat": "48.7471",
+      "lon": "19.6555",
+      "mesto": "Čierny Balog"
+    },
+    {
+      "psc": "97653",
+      "lat": "48.6417",
+      "lon": "19.648",
+      "mesto": "Lom nad Rimavicou"
+    },
+    {
+      "psc": "97655",
+      "lat": "48.7465",
+      "lon": "19.3628",
+      "mesto": "Ľubietová"
+    },
+    {
+      "psc": "97656",
+      "lat": "48.7533",
+      "lon": "19.8358",
+      "mesto": "Pohronská Polhora"
+    },
+    {
+      "psc": "97657",
+      "lat": "48.7875",
+      "lon": "19.7907",
+      "mesto": "Michalová"
+    },
+    {
+      "psc": "97661",
+      "lat": "48.7831",
+      "lon": "19.3194",
+      "mesto": "Lučatín"
+    },
+    {
+      "psc": "97662",
+      "lat": "48.7907",
+      "lon": "19.3873",
+      "mesto": "Brusno"
+    },
+    {
+      "psc": "97663",
+      "lat": "48.8015",
+      "lon": "19.475",
+      "mesto": "Predajná"
+    },
+    {
+      "psc": "97664",
+      "lat": "48.829",
+      "lon": "19.7575",
+      "mesto": "Beňuš"
+    },
+    {
+      "psc": "97666",
+      "lat": "48.8557",
+      "lon": "19.8481",
+      "mesto": "Polomka"
+    },
+    {
+      "psc": "97667",
+      "lat": "48.835",
+      "lon": "19.9344",
+      "mesto": "Závadka nad Hronom"
+    },
+    {
+      "psc": "97668",
+      "lat": "48.8544",
+      "lon": "19.972",
+      "mesto": "Heľpa"
+    },
+    {
+      "psc": "97669",
+      "lat": "48.862",
+      "lon": "20.016",
+      "mesto": "Pohorelá"
+    },
+    {
+      "psc": "97671",
+      "lat": "48.8403",
+      "lon": "20.13",
+      "mesto": "Šumiac"
+    },
+    {
+      "psc": "97673",
+      "lat": "48.8563",
+      "lon": "20.1928",
+      "mesto": "Telgárt"
+    },
+    {
+      "psc": "97675",
+      "lat": "48.8868",
+      "lon": "19.4351",
+      "mesto": "Jasenie"
+    },
+    {
+      "psc": "97681",
+      "lat": "48.8098",
+      "lon": "19.5397",
+      "mesto": "Podbrezová"
+    },
+    {
+      "psc": "97696",
+      "lat": "48.8021",
+      "lon": "19.3518",
+      "mesto": "Medzibrod"
+    },
+    {
+      "psc": "97697",
+      "lat": "48.8126",
+      "lon": "19.4177",
+      "mesto": "Nemecká nad Hronom"
+    },
+    {
+      "psc": "97698",
+      "lat": "48.8179",
+      "lon": "19.4964",
+      "mesto": "Lopej"
+    },
+    {
+      "psc": "97701",
+      "lat": "48.8121",
+      "lon": "19.6516",
+      "mesto": "Brezno"
+    },
+    {
+      "psc": "97703",
+      "lat": "48.7873",
+      "lon": "19.6376",
+      "mesto": "Brezno"
+    },
+    {
+      "psc": "97901",
+      "lat": "48.3817",
+      "lon": "20.0004",
+      "mesto": "Rimavská Sobota"
+    },
+    {
+      "psc": "98001",
+      "lat": "48.3413",
+      "lon": "20.0629",
+      "mesto": "Rimavské Janovce"
+    },
+    {
+      "psc": "98002",
+      "lat": "48.3041",
+      "lon": "20.0744",
+      "mesto": "Jesenské"
+    },
+    {
+      "psc": "98003",
+      "lat": "48.272",
+      "lon": "20.1104",
+      "mesto": "Šimonovce"
+    },
+    {
+      "psc": "98004",
+      "lat": "48.2384",
+      "lon": "20.0659",
+      "mesto": "Hostice"
+    },
+    {
+      "psc": "98012",
+      "lat": "48.4055",
+      "lon": "19.8702",
+      "mesto": "Hrnčiarske Zalužany"
+    },
+    {
+      "psc": "98013",
+      "lat": "48.4315",
+      "lon": "19.8601",
+      "mesto": "Hrnčiarska Ves"
+    },
+    {
+      "psc": "98021",
+      "lat": "48.3805",
+      "lon": "20.1664",
+      "mesto": "Bátka"
+    },
+    {
+      "psc": "98022",
+      "lat": "48.445",
+      "lon": "20.117",
+      "mesto": "Veľký Blh"
+    },
+    {
+      "psc": "98023",
+      "lat": "48.47",
+      "lon": "20.1015",
+      "mesto": "Teplý Vrch"
+    },
+    {
+      "psc": "98025",
+      "lat": "48.5223",
+      "lon": "20.0474",
+      "mesto": "Hrušovo"
+    },
+    {
+      "psc": "98026",
+      "lat": "48.4926",
+      "lon": "20.0244",
+      "mesto": "Lukovištia"
+    },
+    {
+      "psc": "98031",
+      "lat": "48.3022",
+      "lon": "19.9964",
+      "mesto": "Hodejov"
+    },
+    {
+      "psc": "98032",
+      "lat": "48.2736",
+      "lon": "19.9532",
+      "mesto": "Blhovce"
+    },
+    {
+      "psc": "98033",
+      "lat": "48.2163",
+      "lon": "19.953",
+      "mesto": "Hajnáčka"
+    },
+    {
+      "psc": "98034",
+      "lat": "48.1704",
+      "lon": "19.9458",
+      "mesto": "Nová Bašta"
+    },
+    {
+      "psc": "98035",
+      "lat": "48.1945",
+      "lon": "19.9762",
+      "mesto": "Gemerský Jablonec"
+    },
+    {
+      "psc": "98041",
+      "lat": "48.2936",
+      "lon": "20.154",
+      "mesto": "Dubovec"
+    },
+    {
+      "psc": "98042",
+      "lat": "48.3045",
+      "lon": "20.2353",
+      "mesto": "Rimavská Seč"
+    },
+    {
+      "psc": "98043",
+      "lat": "48.3159",
+      "lon": "20.2669",
+      "mesto": "Číž"
+    },
+    {
+      "psc": "98044",
+      "lat": "48.2988",
+      "lon": "20.3101",
+      "mesto": "Lenartovce"
+    },
+    {
+      "psc": "98045",
+      "lat": "48.3576",
+      "lon": "20.3241",
+      "mesto": "Štrkovec"
+    },
+    {
+      "psc": "98046",
+      "lat": "48.4734",
+      "lon": "20.3511",
+      "mesto": "Gemerská Panica"
+    },
+    {
+      "psc": "98050",
+      "lat": "48.3857",
+      "lon": "20.3043",
+      "mesto": "Včelince"
+    },
+    {
+      "psc": "98051",
+      "lat": "48.4636",
+      "lon": "19.9507",
+      "mesto": "Hrachovo"
+    },
+    {
+      "psc": "98052",
+      "lat": "48.4636",
+      "lon": "19.9507",
+      "mesto": "Hrachovo"
+    },
+    {
+      "psc": "98053",
+      "lat": "48.5111",
+      "lon": "19.9413",
+      "mesto": "Rimavská Baňa"
+    },
+    {
+      "psc": "98054",
+      "lat": "48.5396",
+      "lon": "19.963",
+      "mesto": "Rimavské Brezovo"
+    },
+    {
+      "psc": "98055",
+      "lat": "48.6511",
+      "lon": "19.8236",
+      "mesto": "Klenovec"
+    },
+    {
+      "psc": "98061",
+      "lat": "48.7083",
+      "lon": "19.9119",
+      "mesto": "Tisovec"
+    },
+    {
+      "psc": "98101",
+      "lat": "48.5847",
+      "lon": "19.9613",
+      "mesto": "Hnúšťa"
+    },
+    {
+      "psc": "98201",
+      "lat": "48.4228",
+      "lon": "20.3222",
+      "mesto": "Tornaľa"
+    },
+    {
+      "psc": "98251",
+      "lat": "48.3966",
+      "lon": "20.2536",
+      "mesto": "Figa"
+    },
+    {
+      "psc": "98252",
+      "lat": "48.4205",
+      "lon": "20.2221",
+      "mesto": "Nižná Kaloša"
+    },
+    {
+      "psc": "98262",
+      "lat": "48.4776",
+      "lon": "20.2728",
+      "mesto": "Gemerská Ves"
+    },
+    {
+      "psc": "98265",
+      "lat": "48.591",
+      "lon": "20.0961",
+      "mesto": "Ratková"
+    },
+    {
+      "psc": "98266",
+      "lat": "48.6459",
+      "lon": "20.0567",
+      "mesto": "Ratkovské Bystré"
+    },
+    {
+      "psc": "98267",
+      "lat": "48.5816",
+      "lon": "20.0517",
+      "mesto": "Rovné"
+    },
+    {
+      "psc": "98401",
+      "lat": "48.3308",
+      "lon": "19.663",
+      "mesto": "Lučenec"
+    },
+    {
+      "psc": "98403",
+      "lat": "48.337",
+      "lon": "19.6467",
+      "mesto": "Lučenec"
+    },
+    {
+      "psc": "98501",
+      "lat": "48.3947",
+      "lon": "19.7067",
+      "mesto": "Kalinovo"
+    },
+    {
+      "psc": "98502",
+      "lat": "48.4231",
+      "lon": "19.7347",
+      "mesto": "Breznička"
+    },
+    {
+      "psc": "98503",
+      "lat": "48.4791",
+      "lon": "19.804",
+      "mesto": "České Brezovo"
+    },
+    {
+      "psc": "98505",
+      "lat": "48.5703",
+      "lon": "19.8415",
+      "mesto": "Kokava nad Rimavicou"
+    },
+    {
+      "psc": "98506",
+      "lat": "48.6059",
+      "lon": "19.814",
+      "mesto": "Utekáč"
+    },
+    {
+      "psc": "98507",
+      "lat": "48.5804",
+      "lon": "19.7445",
+      "mesto": "Šoltýska"
+    },
+    {
+      "psc": "98511",
+      "lat": "48.354",
+      "lon": "19.574",
+      "mesto": "Halič"
+    },
+    {
+      "psc": "98512",
+      "lat": "48.4285",
+      "lon": "19.5079",
+      "mesto": "Tuhár"
+    },
+    {
+      "psc": "98513",
+      "lat": "48.4108",
+      "lon": "19.4317",
+      "mesto": "Ábelová"
+    },
+    {
+      "psc": "98522",
+      "lat": "48.4463",
+      "lon": "19.6521",
+      "mesto": "Cinobaňa"
+    },
+    {
+      "psc": "98524",
+      "lat": "48.4726",
+      "lon": "19.6867",
+      "mesto": "Uhorské"
+    },
+    {
+      "psc": "98525",
+      "lat": "48.4711",
+      "lon": "19.7495",
+      "mesto": "Uhorské"
+    },
+    {
+      "psc": "98526",
+      "lat": "48.5317",
+      "lon": "19.6754",
+      "mesto": "Málinec"
+    },
+    {
+      "psc": "98531",
+      "lat": "48.2731",
+      "lon": "19.6814",
+      "mesto": "Rapovce"
+    },
+    {
+      "psc": "98532",
+      "lat": "48.2637",
+      "lon": "19.6181",
+      "mesto": "Veľká nad Ipľom"
+    },
+    {
+      "psc": "98541",
+      "lat": "48.3024",
+      "lon": "19.8196",
+      "mesto": "Šávoľ"
+    },
+    {
+      "psc": "98542",
+      "lat": "48.346",
+      "lon": "19.8397",
+      "mesto": "Veľké Dravce"
+    },
+    {
+      "psc": "98545",
+      "lat": "48.5783",
+      "lon": "19.6472",
+      "mesto": "Látky"
+    },
+    {
+      "psc": "98551",
+      "lat": "48.5272",
+      "lon": "19.4951",
+      "mesto": "Podkriváň"
+    },
+    {
+      "psc": "98552",
+      "lat": "48.4496",
+      "lon": "19.5354",
+      "mesto": "Divín"
+    },
+    {
+      "psc": "98553",
+      "lat": "48.4667",
+      "lon": "19.5538",
+      "mesto": "Mýtna"
+    },
+    {
+      "psc": "98554",
+      "lat": "48.4384",
+      "lon": "19.5894",
+      "mesto": "Lovinobaňa"
+    },
+    {
+      "psc": "98556",
+      "lat": "48.3748",
+      "lon": "19.6175",
+      "mesto": "Tomášovce"
+    },
+    {
+      "psc": "98557",
+      "lat": "48.3083",
+      "lon": "19.7523",
+      "mesto": "Holiša"
+    },
+    {
+      "psc": "98558",
+      "lat": "48.2197",
+      "lon": "19.828",
+      "mesto": "Radzovce"
+    },
+    {
+      "psc": "98559",
+      "lat": "48.3612",
+      "lon": "19.6564",
+      "mesto": "Vidiná"
+    },
+    {
+      "psc": "98601",
+      "lat": "48.2706",
+      "lon": "19.8223",
+      "mesto": "Fiľakovo"
+    },
+    {
+      "psc": "98701",
+      "lat": "48.4231",
+      "lon": "19.7895",
+      "mesto": "Poltár"
+    },
+    {
+      "psc": "99001",
+      "lat": "48.2084",
+      "lon": "19.3508",
+      "mesto": "Veľký Krtíš"
+    },
+    {
+      "psc": "99101",
+      "lat": "48.3101",
+      "lon": "19.396",
+      "mesto": "Senné"
+    },
+    {
+      "psc": "99102",
+      "lat": "48.2492",
+      "lon": "19.489",
+      "mesto": "Dolná Strehová"
+    },
+    {
+      "psc": "99103",
+      "lat": "48.234",
+      "lon": "19.4205",
+      "mesto": "Pôtor"
+    },
+    {
+      "psc": "99105",
+      "lat": "48.1575",
+      "lon": "19.3578",
+      "mesto": "Sklabiná"
+    },
+    {
+      "psc": "99106",
+      "lat": "48.1256",
+      "lon": "19.3525",
+      "mesto": "Želovce"
+    },
+    {
+      "psc": "99107",
+      "lat": "48.0914",
+      "lon": "19.295",
+      "mesto": "Slovenské Ďarmoty"
+    },
+    {
+      "psc": "99108",
+      "lat": "48.1056",
+      "lon": "19.2468",
+      "mesto": "Lesenice"
+    },
+    {
+      "psc": "99109",
+      "lat": "48.0693",
+      "lon": "19.202",
+      "mesto": "Veľká Čalomija"
+    },
+    {
+      "psc": "99110",
+      "lat": "48.0797",
+      "lon": "19.0851",
+      "mesto": "Veľká Ves nad Ipľom"
+    },
+    {
+      "psc": "99111",
+      "lat": "48.0771",
+      "lon": "19.1299",
+      "mesto": "Balog nad Ipľom"
+    },
+    {
+      "psc": "99121",
+      "lat": "48.2903",
+      "lon": "19.4867",
+      "mesto": "Závada"
+    },
+    {
+      "psc": "99122",
+      "lat": "48.1732",
+      "lon": "19.5006",
+      "mesto": "Bušince"
+    },
+    {
+      "psc": "99123",
+      "lat": "48.2015",
+      "lon": "19.462",
+      "mesto": "Veľké Zlievce"
+    },
+    {
+      "psc": "99124",
+      "lat": "48.2006",
+      "lon": "19.3062",
+      "mesto": "Dolné Plachtince"
+    },
+    {
+      "psc": "99125",
+      "lat": "48.179",
+      "lon": "19.2299",
+      "mesto": "Čebovce"
+    },
+    {
+      "psc": "99126",
+      "lat": "48.1467",
+      "lon": "19.2636",
+      "mesto": "Nenince"
+    },
+    {
+      "psc": "99127",
+      "lat": "48.1426",
+      "lon": "19.1945",
+      "mesto": "Kamenné Kosihy"
+    },
+    {
+      "psc": "99128",
+      "lat": "48.1166",
+      "lon": "19.12",
+      "mesto": "Vinica"
+    },
+    {
+      "psc": "99135",
+      "lat": "48.3265",
+      "lon": "19.2491",
+      "mesto": "Dačov Lom"
+    },
+    {
+      "psc": "99141",
+      "lat": "48.1981",
+      "lon": "19.1257",
+      "mesto": "Čelovce"
+    },
+    {
+      "psc": "99142",
+      "lat": "48.1786",
+      "lon": "19.0894",
+      "mesto": "Hrušov"
+    },
+    {
+      "psc": "99201",
+      "lat": "48.2575",
+      "lon": "19.3191",
+      "mesto": "Modrý Kameň"
+    }
+  ],
+  "meta": {
+    "title": "Slovenské PSČ s koordinátmi - Bezplatné stiahnutie",
+    "description": "Slovak postal codes with GPS coordinates and town names Obsahuje 1411 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Slovenské PSČ s koordinátmi | ListBase",
+    "seo_description": "Stiahnuť Slovenské PSČ s koordinátmi — 1411 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 1411 záznamov / 4 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

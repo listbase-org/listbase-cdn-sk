@@ -1,0 +1,701 @@
+{
+  "id": "sk-kina",
+  "name": "Slovenské kiná",
+  "title": "Slovenské kiná",
+  "description": "Zoznam pomenovaných kín na Slovensku (amenity=cinema) z OpenStreetMap.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 132,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "10'S MOZI",
+      "latitude": 47.761011,
+      "longitude": 18.540463
+    },
+    {
+      "name": "3D kino",
+      "latitude": 48.789541,
+      "longitude": 21.208332
+    },
+    {
+      "name": "3D Kino Centrál Park",
+      "latitude": 48.109783,
+      "longitude": 18.337413
+    },
+    {
+      "name": "4D mozi",
+      "latitude": 48.23244,
+      "longitude": 19.652198
+    },
+    {
+      "name": "5D Cinema Maxim",
+      "latitude": 49.061899,
+      "longitude": 18.919505
+    },
+    {
+      "name": "5D Kino",
+      "latitude": 48.317526,
+      "longitude": 18.103597
+    },
+    {
+      "name": "5D kino Maxim",
+      "latitude": 48.139873,
+      "longitude": 17.124131
+    },
+    {
+      "name": "Akropola",
+      "latitude": 48.703406,
+      "longitude": 18.9196
+    },
+    {
+      "name": "Amfiteater",
+      "latitude": 48.043798,
+      "longitude": 18.659018
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.216354,
+      "longitude": 18.620893
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.289665,
+      "longitude": 18.520278
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.296156,
+      "longitude": 17.266939
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.324015,
+      "longitude": 18.096266
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.326424,
+      "longitude": 19.653583
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.381228,
+      "longitude": 18.392468
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.456423,
+      "longitude": 18.895024
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.684559,
+      "longitude": 17.373879
+    },
+    {
+      "name": "Amfiteáter Deberča",
+      "latitude": 48.301541,
+      "longitude": 18.624435
+    },
+    {
+      "name": "Apollo",
+      "latitude": 48.663717,
+      "longitude": 20.532325
+    },
+    {
+      "name": "Artkino Metro",
+      "latitude": 48.894514,
+      "longitude": 18.041009
+    },
+    {
+      "name": "Artkino za zrkadlom",
+      "latitude": 48.116728,
+      "longitude": 17.110621
+    },
+    {
+      "name": "Autokino Orava",
+      "latitude": 49.382973,
+      "longitude": 19.531353
+    },
+    {
+      "name": "bývalé kino Družba",
+      "latitude": 48.718421,
+      "longitude": 21.232431
+    },
+    {
+      "name": "Centrum",
+      "latitude": 48.757046,
+      "longitude": 21.918107
+    },
+    {
+      "name": "Centrum",
+      "latitude": 48.988442,
+      "longitude": 22.151969
+    },
+    {
+      "name": "Cinema City",
+      "latitude": 48.140346,
+      "longitude": 17.124302
+    },
+    {
+      "name": "Cinema City",
+      "latitude": 48.169101,
+      "longitude": 17.139677
+    },
+    {
+      "name": "Cinema City Aupark",
+      "latitude": 48.133479,
+      "longitude": 17.10687
+    },
+    {
+      "name": "Cinemax",
+      "latitude": 48.205117,
+      "longitude": 17.034524
+    },
+    {
+      "name": "CineMAX",
+      "latitude": 48.31738,
+      "longitude": 18.104034
+    },
+    {
+      "name": "CINEMAX",
+      "latitude": 48.369962,
+      "longitude": 17.578547
+    },
+    {
+      "name": "Cinemax",
+      "latitude": 48.373654,
+      "longitude": 17.593821
+    },
+    {
+      "name": "Cinemax",
+      "latitude": 48.69478,
+      "longitude": 21.239828
+    },
+    {
+      "name": "Cinemax",
+      "latitude": 48.730876,
+      "longitude": 19.136726
+    },
+    {
+      "name": "Cinemax",
+      "latitude": 48.890426,
+      "longitude": 18.056244
+    },
+    {
+      "name": "Cinemax",
+      "latitude": 48.992749,
+      "longitude": 21.242773
+    },
+    {
+      "name": "Cinemax",
+      "latitude": 48.99802,
+      "longitude": 21.270856
+    },
+    {
+      "name": "Cinemax",
+      "latitude": 49.050109,
+      "longitude": 20.291569
+    },
+    {
+      "name": "CINEMAX",
+      "latitude": 49.084162,
+      "longitude": 18.923508
+    },
+    {
+      "name": "CineMax",
+      "latitude": 49.196606,
+      "longitude": 18.745547
+    },
+    {
+      "name": "Cinemax Skalica",
+      "latitude": 48.838695,
+      "longitude": 17.217129
+    },
+    {
+      "name": "DK Ružinov",
+      "latitude": 48.156487,
+      "longitude": 17.165137
+    },
+    {
+      "name": "Dukla",
+      "latitude": 49.306192,
+      "longitude": 21.567723
+    },
+    {
+      "name": "Fajn",
+      "latitude": 48.938199,
+      "longitude": 21.909074
+    },
+    {
+      "name": "FK Cinefil",
+      "latitude": 48.720845,
+      "longitude": 21.254744
+    },
+    {
+      "name": "Foajé",
+      "latitude": 48.153301,
+      "longitude": 17.106659
+    },
+    {
+      "name": "Golden Apple Cinema",
+      "latitude": 49.077247,
+      "longitude": 19.604707
+    },
+    {
+      "name": "Goral",
+      "latitude": 49.235606,
+      "longitude": 20.352779
+    },
+    {
+      "name": "Hviezda",
+      "latitude": 47.871775,
+      "longitude": 18.196616
+    },
+    {
+      "name": "Junior",
+      "latitude": 48.214924,
+      "longitude": 18.603099
+    },
+    {
+      "name": "Kino",
+      "latitude": 48.558996,
+      "longitude": 18.171174
+    },
+    {
+      "name": "Kino 1.Máj",
+      "latitude": 49.112093,
+      "longitude": 18.928826
+    },
+    {
+      "name": "Kino 210/5",
+      "latitude": 48.214841,
+      "longitude": 18.737828
+    },
+    {
+      "name": "Kino Akademik",
+      "latitude": 48.459192,
+      "longitude": 18.892489
+    },
+    {
+      "name": "Kino Apollo",
+      "latitude": 48.331914,
+      "longitude": 19.664204
+    },
+    {
+      "name": "Kino Baník",
+      "latitude": 48.207953,
+      "longitude": 19.348242
+    },
+    {
+      "name": "Kino Baník",
+      "latitude": 48.727302,
+      "longitude": 18.758714
+    },
+    {
+      "name": "Kino Danubius",
+      "latitude": 47.798562,
+      "longitude": 18.723936
+    },
+    {
+      "name": "Kino Film Europe",
+      "latitude": 48.152144,
+      "longitude": 17.106415
+    },
+    {
+      "name": "Kino Fontána",
+      "latitude": 48.591987,
+      "longitude": 17.835755
+    },
+    {
+      "name": "Kino GeminiLux",
+      "latitude": 48.717956,
+      "longitude": 18.257167
+    },
+    {
+      "name": "Kino Hron",
+      "latitude": 48.594793,
+      "longitude": 18.848685
+    },
+    {
+      "name": "Kino Hviezda",
+      "latitude": 48.375061,
+      "longitude": 17.588654
+    },
+    {
+      "name": "Kino Hviezda",
+      "latitude": 48.721653,
+      "longitude": 20.926611
+    },
+    {
+      "name": "Kino Iskra",
+      "latitude": 49.135584,
+      "longitude": 20.429898
+    },
+    {
+      "name": "Kino Javor",
+      "latitude": 49.32542,
+      "longitude": 19.549661
+    },
+    {
+      "name": "Kino Jašík",
+      "latitude": 49.404407,
+      "longitude": 18.624458
+    },
+    {
+      "name": "Kino klub Revúca",
+      "latitude": 48.682443,
+      "longitude": 20.114605
+    },
+    {
+      "name": "Kino Kultúra",
+      "latitude": 49.08291,
+      "longitude": 19.302325
+    },
+    {
+      "name": "Kino Kultúra",
+      "latitude": 49.406064,
+      "longitude": 19.478925
+    },
+    {
+      "name": "Kino Kultúrka Stupava",
+      "latitude": 48.272319,
+      "longitude": 17.026831
+    },
+    {
+      "name": "Kino Lamač",
+      "latitude": 48.194904,
+      "longitude": 17.052608
+    },
+    {
+      "name": "Kino Maják",
+      "latitude": 48.312704,
+      "longitude": 17.490198
+    },
+    {
+      "name": "Kino Marína",
+      "latitude": 48.541847,
+      "longitude": 19.407661
+    },
+    {
+      "name": "Kino Mier",
+      "latitude": 47.987004,
+      "longitude": 18.171917
+    },
+    {
+      "name": "Kino Mier",
+      "latitude": 48.334062,
+      "longitude": 17.303451
+    },
+    {
+      "name": "Kino Mier",
+      "latitude": 49.115094,
+      "longitude": 18.449497
+    },
+    {
+      "name": "Kino Mier",
+      "latitude": 49.360901,
+      "longitude": 19.610295
+    },
+    {
+      "name": "Kino Mladosť",
+      "latitude": 48.141509,
+      "longitude": 17.106766
+    },
+    {
+      "name": "Kino Mladosť",
+      "latitude": 48.68002,
+      "longitude": 17.366882
+    },
+    {
+      "name": "Kino Mlyn",
+      "latitude": 48.012197,
+      "longitude": 17.807077
+    },
+    {
+      "name": "KINO Moskva",
+      "latitude": 49.064512,
+      "longitude": 18.923459
+    },
+    {
+      "name": "Kino Mostár",
+      "latitude": 48.80272,
+      "longitude": 19.639185
+    },
+    {
+      "name": "Kino Orava",
+      "latitude": 49.48175,
+      "longitude": 19.480595
+    },
+    {
+      "name": "Kino Palace",
+      "latitude": 48.31218,
+      "longitude": 18.088864
+    },
+    {
+      "name": "Kino Panorex",
+      "latitude": 48.937928,
+      "longitude": 18.142463
+    },
+    {
+      "name": "Kino pod Hradovou",
+      "latitude": 48.680138,
+      "longitude": 19.940639
+    },
+    {
+      "name": "Kino Považan",
+      "latitude": 48.756773,
+      "longitude": 17.827583
+    },
+    {
+      "name": "Kino Primáš",
+      "latitude": 48.752736,
+      "longitude": 17.567876
+    },
+    {
+      "name": "Kino Scala",
+      "latitude": 48.991411,
+      "longitude": 21.244739
+    },
+    {
+      "name": "Kino Star",
+      "latitude": 48.331081,
+      "longitude": 19.661811
+    },
+    {
+      "name": "Kino Strojár",
+      "latitude": 49.068966,
+      "longitude": 18.925167
+    },
+    {
+      "name": "Kino SĽUK",
+      "latitude": 48.053666,
+      "longitude": 17.150191
+    },
+    {
+      "name": "Kino Tatra",
+      "latitude": 48.239678,
+      "longitude": 18.306332
+    },
+    {
+      "name": "Kino Tatra Komárno",
+      "latitude": 47.758119,
+      "longitude": 18.126892
+    },
+    {
+      "name": "Kino Tekov",
+      "latitude": 48.383498,
+      "longitude": 18.394543
+    },
+    {
+      "name": "Kino Torysa",
+      "latitude": 49.100633,
+      "longitude": 21.099987
+    },
+    {
+      "name": "Kino Turiec",
+      "latitude": 48.86194,
+      "longitude": 18.860182
+    },
+    {
+      "name": "Kino Úsmev",
+      "latitude": 48.42776,
+      "longitude": 17.797961
+    },
+    {
+      "name": "Kino Úsvit Betliar",
+      "latitude": 48.705246,
+      "longitude": 20.508221
+    },
+    {
+      "name": "Kino Čadca",
+      "latitude": 49.439857,
+      "longitude": 18.786624
+    },
+    {
+      "name": "Kino Žriedlo",
+      "latitude": 49.327652,
+      "longitude": 21.273277
+    },
+    {
+      "name": "Kinotéka Sommelier",
+      "latitude": 49.051821,
+      "longitude": 18.924315
+    },
+    {
+      "name": "Kultúrne stredisko a Kino Stropkov",
+      "latitude": 49.200156,
+      "longitude": 21.652689
+    },
+    {
+      "name": "Kultúrny priestor Nová Cvernovka",
+      "latitude": 48.182889,
+      "longitude": 17.132163
+    },
+    {
+      "name": "Lastovička",
+      "latitude": 48.958252,
+      "longitude": 18.16509
+    },
+    {
+      "name": "Letné kino",
+      "latitude": 48.193899,
+      "longitude": 17.738895
+    },
+    {
+      "name": "Letné kino",
+      "latitude": 48.632839,
+      "longitude": 17.139548
+    },
+    {
+      "name": "Letné kino",
+      "latitude": 48.668022,
+      "longitude": 20.537151
+    },
+    {
+      "name": "Lumière",
+      "latitude": 48.146572,
+      "longitude": 17.115982
+    },
+    {
+      "name": "Mestská scéna",
+      "latitude": 49.065878,
+      "longitude": 18.922668
+    },
+    {
+      "name": "Mier",
+      "latitude": 48.944973,
+      "longitude": 20.548662
+    },
+    {
+      "name": "Miestne kino",
+      "latitude": 49.107623,
+      "longitude": 19.033872
+    },
+    {
+      "name": "MLYNY CINEMAS",
+      "latitude": 48.307554,
+      "longitude": 18.087396
+    },
+    {
+      "name": "Nostalgia",
+      "latitude": 48.150613,
+      "longitude": 17.128519
+    },
+    {
+      "name": "Nova",
+      "latitude": 48.284206,
+      "longitude": 17.733862
+    },
+    {
+      "name": "OKO",
+      "latitude": 48.383611,
+      "longitude": 17.589043
+    },
+    {
+      "name": "Orbis",
+      "latitude": 48.383131,
+      "longitude": 20.022217
+    },
+    {
+      "name": "Panoramatické kino",
+      "latitude": 48.625378,
+      "longitude": 18.367542
+    },
+    {
+      "name": "Prameň",
+      "latitude": 48.908311,
+      "longitude": 18.176637
+    },
+    {
+      "name": "Prírodné kino",
+      "latitude": 48.592493,
+      "longitude": 17.836555
+    },
+    {
+      "name": "STER CENTURY",
+      "latitude": 48.934491,
+      "longitude": 20.576794
+    },
+    {
+      "name": "STERIO",
+      "latitude": 48.714231,
+      "longitude": 21.238433
+    },
+    {
+      "name": "Sterio",
+      "latitude": 48.779947,
+      "longitude": 18.606784
+    },
+    {
+      "name": "Sterio Kino",
+      "latitude": 48.989831,
+      "longitude": 21.262303
+    },
+    {
+      "name": "STERIO Kino",
+      "latitude": 49.224978,
+      "longitude": 18.739885
+    },
+    {
+      "name": "Tabačka Kulturfabrik",
+      "latitude": 48.729085,
+      "longitude": 21.255921
+    },
+    {
+      "name": "Tatran",
+      "latitude": 49.054669,
+      "longitude": 20.299525
+    },
+    {
+      "name": "Vatra",
+      "latitude": 48.42372,
+      "longitude": 18.639547
+    },
+    {
+      "name": "Záhoran",
+      "latitude": 48.436947,
+      "longitude": 17.015602
+    },
+    {
+      "name": "Záhradné kino",
+      "latitude": 48.723246,
+      "longitude": 21.25542
+    },
+    {
+      "name": "Úsmev",
+      "latitude": 48.726275,
+      "longitude": 21.257348
+    }
+  ],
+  "meta": {
+    "title": "Slovenské kiná - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných kín na Slovensku (amenity=cinema) z OpenStreetMap. Obsahuje 132 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Slovenské kiná | ListBase",
+    "seo_description": "Stiahnuť Slovenské kiná — 132 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 132 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

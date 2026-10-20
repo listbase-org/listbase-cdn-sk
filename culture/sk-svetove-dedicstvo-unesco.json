@@ -1,0 +1,196 @@
+{
+  "id": "sk-svetove-dedicstvo-unesco",
+  "name": "Svetové dedičstvo UNESCO na Slovensku",
+  "title": "Svetové dedičstvo UNESCO na Slovensku",
+  "description": "Zoznam lokalít svetového dedičstva UNESCO nachádzajúcich sa na Slovensku",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "states",
+      "label": "States",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    },
+    {
+      "key": "danger",
+      "label": "Danger",
+      "type": "boolean"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "short_description",
+      "label": "Short Description",
+      "type": "string"
+    },
+    {
+      "key": "id_number",
+      "label": "Id Number",
+      "type": "number"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Historic Town of Banská Štiavnica and the Technical Monuments in its Vicinity",
+      "category": "Cultural",
+      "date_inscribed": 1993,
+      "criteria": "(iv)(v)",
+      "region": "Europe and North America",
+      "states": "Slovakia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 48.46111,
+      "longitude": 18.9,
+      "short_description": "Over the centuries, the town of Banská Štiavnica was visited by many outstanding engineers and scientists who contributed to its fame. The old medieval mining centre grew into a town with Renaissance palaces, 16th-century churches, elegant squares and castles. The urban centre blends into the surrounding landscape, which contains vital relics of the mining and metallurgical activities of the past.",
+      "id_number": 618,
+      "url": "https://whc.unesco.org/en/list/618"
+    },
+    {
+      "name": "Levoča, Spišský Hrad and the Associated Cultural Monuments",
+      "category": "Cultural",
+      "date_inscribed": 1993,
+      "criteria": "(iv)",
+      "region": "Europe and North America",
+      "states": "Slovakia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 48.999444,
+      "longitude": 20.7675,
+      "short_description": "Spišský Hrad has one of the largest ensembles of 13th and 14th century military, political and religious buildings in eastern Europe, and its Romanesque and Gothic architecture has remained remarkably intact. The extended site features the addition of the historic town-centre of Levoča founded in the 13th and 14th centuries within fortifications. Most of the site has been preserved and it includes the 14th century church of St James with its ten alters of the 15th and 16th centuries, a remarkable collection of polychrome works in the Late Gothic style, including an 18.6 metre high alterpiece by completed around 1510 by Master Paul.",
+      "id_number": 620,
+      "url": "https://whc.unesco.org/en/list/620"
+    },
+    {
+      "name": "Vlkolínec",
+      "category": "Cultural",
+      "date_inscribed": 1993,
+      "criteria": "(iv)(v)",
+      "region": "Europe and North America",
+      "states": "Slovakia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 49.039167,
+      "longitude": 19.278333,
+      "short_description": "Vlkolínec, situated in the centre of Slovakia, is a remarkably intact settlement of 45 buildings with the traditional features of a central European village. It is the region’s most complete group of these kinds of traditional log houses, often found in mountainous areas.",
+      "id_number": 622,
+      "url": "https://whc.unesco.org/en/list/622"
+    },
+    {
+      "name": "Caves of Aggtelek Karst and Slovak Karst",
+      "category": "Natural",
+      "date_inscribed": 1995,
+      "criteria": "(viii)",
+      "region": "Europe and North America",
+      "states": "Hungary, Slovakia",
+      "transboundary": true,
+      "danger": false,
+      "latitude": 48.47573,
+      "longitude": 20.48687,
+      "short_description": "The variety of formations and the fact that they are concentrated in a restricted area means that the 712 caves currently identified make up a typical temperate-zone karstic system. Because they display an extremely rare combination of tropical and glacial climatic effects, they make it possible to study geological history over tens of millions of years.",
+      "id_number": 725,
+      "url": "https://whc.unesco.org/en/list/725"
+    },
+    {
+      "name": "Bardejov Town Conservation Reserve",
+      "category": "Cultural",
+      "date_inscribed": 2000,
+      "criteria": "(iii)(iv)",
+      "region": "Europe and North America",
+      "states": "Slovakia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 49.292778,
+      "longitude": 21.275556,
+      "short_description": "Bardejov is a small but exceptionally complete and well-preserved example of a fortified medieval town, which typifies the urbanisation in this region. Among other remarkable features, it also contains a small Jewish quarter around a fine 18th-century synagogue.",
+      "id_number": 973,
+      "url": "https://whc.unesco.org/en/list/973"
+    },
+    {
+      "name": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+      "category": "Natural",
+      "date_inscribed": 2007,
+      "criteria": "(ix)",
+      "region": "Europe and North America",
+      "states": "Albania, Austria, Belgium, Bulgaria, Croatia, Germany, Italy, Romania, Slovakia, Slovenia, Spain, Ukraine",
+      "transboundary": true,
+      "danger": false,
+      "latitude": 49.009722,
+      "longitude": 22.338889,
+      "short_description": "This transboundary property stretches over 12 countries. Since the end of the last Ice Age, European Beech spread from a few isolated refuge areas in the Alps, Carpathians , Dinarides , Mediterranean and Pyrenees over a short period of a few thousand years in a process that is still ongoing. The successful expansion across a whole continent is related to the tree’s adaptability and tolerance of different climatic, geographical and physical conditions.",
+      "id_number": 1133,
+      "url": "https://whc.unesco.org/en/list/1133"
+    },
+    {
+      "name": "Wooden Churches of the Slovak part of the Carpathian Mountain Area",
+      "category": "Cultural",
+      "date_inscribed": 2008,
+      "criteria": "(iii)(iv)",
+      "region": "Europe and North America",
+      "states": "Slovakia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 49.336111,
+      "longitude": 19.558333,
+      "short_description": "The Wooden Churches of the Slovak part of Carpathian Mountain Area inscribed on the World Heritage List consist of two Roman Catholic, three Protestant and three Greek Orthodox churches built between the 16th and 18th centuries. The property presents good examples of a rich local tradition of religious architecture, marked by the meeting of Latin and Byzantine cultures. The edifices exhibit some typological variations in their floor plans, interior spaces and external appearance due to their respective religious practices. They bear testimony to the development of major architectural and artistic trends during the period of construction and to their interpretation and adaptation to a specific geographical and cultural context. Interiors are decorated with paintings on the walls and ceilings and other works of art that enrich the cultural significance of the properties.",
+      "id_number": 1273,
+      "url": "https://whc.unesco.org/en/list/1273"
+    }
+  ],
+  "meta": {
+    "title": "Svetové dedičstvo UNESCO na Slovensku - Bezplatné stiahnutie",
+    "description": "Zoznam lokalít svetového dedičstva UNESCO nachádzajúcich sa na Slovensku Obsahuje 7 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Svetové dedičstvo UNESCO na Slovensku | ListBase",
+    "seo_description": "Stiahnuť Svetové dedičstvo UNESCO na Slovensku — 7 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 7 záznamov / 13 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

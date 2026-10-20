@@ -1,0 +1,136 @@
+{
+  "id": "sk-kosice-i-obce",
+  "name": "Obce v okrese Košice I",
+  "title": "Obce v okrese Košice I",
+  "description": "Všetky obce (municipality) v okrese Košice I, Košický kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1565,
+      "fullname": "Košice",
+      "shortname": "Košice",
+      "zip": 0,
+      "district_id": 23,
+      "okres": "Košice I",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1568,
+      "fullname": "Košice - Džungľa",
+      "shortname": "Džungľa",
+      "zip": 0,
+      "district_id": 23,
+      "okres": "Košice I",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1570,
+      "fullname": "Košice - Kavečany",
+      "shortname": "Kavečany",
+      "zip": "040 01",
+      "district_id": 23,
+      "okres": "Košice I",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1579,
+      "fullname": "Košice - Sever",
+      "shortname": "Sever",
+      "zip": 0,
+      "district_id": 23,
+      "okres": "Košice I",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1582,
+      "fullname": "Košice - Staré Mesto",
+      "shortname": "Staré Mesto",
+      "zip": "040 01",
+      "district_id": 23,
+      "okres": "Košice I",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1581,
+      "fullname": "Košice - Sídlisko Ťahanovce",
+      "shortname": "Sídlisko Ťahanovce",
+      "zip": 0,
+      "district_id": 23,
+      "okres": "Košice I",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1585,
+      "fullname": "Košice - Ťahanovce",
+      "shortname": "Ťahanovce",
+      "zip": "040 13",
+      "district_id": 23,
+      "okres": "Košice I",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Košice I - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Košice I, Košický kraj — s PSČ a kódom okresu. Obsahuje 7 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Košice I | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Košice I — 7 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 7 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

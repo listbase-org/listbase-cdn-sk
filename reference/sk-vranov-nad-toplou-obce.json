@@ -1,0 +1,816 @@
+{
+  "id": "sk-vranov-nad-toplou-obce",
+  "name": "Obce v okrese Vranov nad Topľou",
+  "title": "Obce v okrese Vranov nad Topľou",
+  "description": "Všetky obce (municipality) v okrese Vranov nad Topľou, Prešovský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 28,
+      "fullname": "Babie",
+      "shortname": "Babie",
+      "zip": "094 31",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 76,
+      "fullname": "Banské",
+      "shortname": "Banské",
+      "zip": "094 12",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 129,
+      "fullname": "Benkovce",
+      "shortname": "Benkovce",
+      "zip": "094 02",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 362,
+      "fullname": "Bystré",
+      "shortname": "Bystré",
+      "zip": "094 34",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 380,
+      "fullname": "Cabov",
+      "shortname": "Cabov",
+      "zip": "094 14",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 524,
+      "fullname": "Davidov",
+      "shortname": "Davidov",
+      "zip": "093 03",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 541,
+      "fullname": "Detrík",
+      "shortname": "Detrík",
+      "zip": "094 31",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 567,
+      "fullname": "Dlhé Klčovo",
+      "shortname": "Dlhé Klčovo",
+      "zip": "094 13",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 580,
+      "fullname": "Dobrianky",
+      "shortname": "Dobrianky",
+      "zip": "094 23",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 838,
+      "fullname": "Giglovce",
+      "shortname": "Giglovce",
+      "zip": "094 05",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 840,
+      "fullname": "Girovce",
+      "shortname": "Girovce",
+      "zip": "094 06",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 856,
+      "fullname": "Grodzin",
+      "shortname": "Grodzin",
+      "zip": "094 31",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 895,
+      "fullname": "Hanušovce nad Topľou",
+      "shortname": "Hanušovce nad Topľou",
+      "zip": "094 31",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 918,
+      "fullname": "Hencovce",
+      "shortname": "Hencovce",
+      "zip": "093 02",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 923,
+      "fullname": "Hermanovce nad Topľou",
+      "shortname": "Hermanovce n/ Topľou",
+      "zip": "094 34",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 939,
+      "fullname": "Hlinné",
+      "shortname": "Hlinné",
+      "zip": "094 35",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 956,
+      "fullname": "Holčíkovce",
+      "shortname": "Holčíkovce",
+      "zip": "094 05",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1296,
+      "fullname": "Jasenovce",
+      "shortname": "Jasenovce",
+      "zip": "094 05",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1309,
+      "fullname": "Jastrabie nad Topľou",
+      "shortname": "Jastrabie nad Topľou",
+      "zip": "094 35",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1343,
+      "fullname": "Juskova Voľa",
+      "shortname": "Juskova Voľa",
+      "zip": "094 12",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1377,
+      "fullname": "Kamenná Poruba",
+      "shortname": "Kamenná Poruba",
+      "zip": "093 03",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1433,
+      "fullname": "Kladzany",
+      "shortname": "Kladzany",
+      "zip": "094 21",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1504,
+      "fullname": "Komárany",
+      "shortname": "Komárany",
+      "zip": "093 01",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1719,
+      "fullname": "Kučín",
+      "shortname": "Kučín",
+      "zip": "094 21",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1743,
+      "fullname": "Kvakovce",
+      "shortname": "Kvakovce",
+      "zip": "094 02",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2005,
+      "fullname": "Majer",
+      "shortname": "Majer",
+      "zip": "094 31",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2011,
+      "fullname": "Majerovce",
+      "shortname": "Majerovce",
+      "zip": "094 09",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2022,
+      "fullname": "Malá Domaša",
+      "shortname": "Malá Domaša",
+      "zip": "094 02",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2136,
+      "fullname": "Matiaška",
+      "shortname": "Matiaška",
+      "zip": "094 31",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2155,
+      "fullname": "Medzianky",
+      "shortname": "Medzianky",
+      "zip": "094 31",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2167,
+      "fullname": "Merník",
+      "shortname": "Merník",
+      "zip": "094 23",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2180,
+      "fullname": "Michalok",
+      "shortname": "Michalok",
+      "zip": "094 23",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2377,
+      "fullname": "Nižný Hrabovec",
+      "shortname": "Nižný Hrabovec",
+      "zip": "094 21",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2378,
+      "fullname": "Nižný Hrušov",
+      "shortname": "Nižný Hrušov",
+      "zip": "094 22",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2382,
+      "fullname": "Nižný Kručov",
+      "shortname": "Nižný Kručov",
+      "zip": "093 01",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2402,
+      "fullname": "Nová Kelča",
+      "shortname": "Nová Kelča",
+      "zip": "094 04",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2491,
+      "fullname": "Ondavské Matiašovce",
+      "shortname": "Ondavské Matiašovce",
+      "zip": "094 01",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2603,
+      "fullname": "Pavlovce",
+      "shortname": "Pavlovce",
+      "zip": "094 31",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2620,
+      "fullname": "Petkovce",
+      "shortname": "Petkovce",
+      "zip": "094 33",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2630,
+      "fullname": "Petrovce",
+      "shortname": "Petrovce",
+      "zip": "094 31",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2654,
+      "fullname": "Piskorovce",
+      "shortname": "Piskorovce",
+      "zip": "094 05",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2710,
+      "fullname": "Podlipníky",
+      "shortname": "Podlipníky",
+      "zip": "094 31",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2685,
+      "fullname": "Podčičva",
+      "shortname": "Podčičva",
+      "zip": "094 09",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2777,
+      "fullname": "Poša",
+      "shortname": "Poša",
+      "zip": "094 21",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2854,
+      "fullname": "Prosačov",
+      "shortname": "Prosačov",
+      "zip": "094 31",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2899,
+      "fullname": "Radvanovce",
+      "shortname": "Radvanovce",
+      "zip": "094 31",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2901,
+      "fullname": "Rafajovce",
+      "shortname": "Rafajovce",
+      "zip": "094 05",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2954,
+      "fullname": "Remeniny",
+      "shortname": "Remeniny",
+      "zip": "094 31",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3024,
+      "fullname": "Rudlov",
+      "shortname": "Rudlov",
+      "zip": "094 35",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3041,
+      "fullname": "Ruská Voľa",
+      "shortname": "Ruská Voľa",
+      "zip": "094 31",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3068,
+      "fullname": "Sačurov",
+      "shortname": "Sačurov",
+      "zip": "094 13",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3096,
+      "fullname": "Sedliská",
+      "shortname": "Sedliská",
+      "zip": "094 09",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3092,
+      "fullname": "Sečovská Polianka",
+      "shortname": "Sečovská Polianka",
+      "zip": "094 14",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3153,
+      "fullname": "Skrabské",
+      "shortname": "Skrabské",
+      "zip": "094 33",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3187,
+      "fullname": "Slovenská Kajňa",
+      "shortname": "Slovenská Kajňa",
+      "zip": "094 02",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3226,
+      "fullname": "Soľ",
+      "shortname": "Soľ",
+      "zip": "094 35",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3570,
+      "fullname": "Tovarnianska Polianka",
+      "shortname": "Tovarnian.Polianka",
+      "zip": "094 01",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3569,
+      "fullname": "Tovarné",
+      "shortname": "Tovarné",
+      "zip": "094 01",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3727,
+      "fullname": "Vavrinec",
+      "shortname": "Vavrinec",
+      "zip": "094 31",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3735,
+      "fullname": "Vechec",
+      "shortname": "Vechec",
+      "zip": "094 12",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3890,
+      "fullname": "Vlača",
+      "shortname": "Vlača",
+      "zip": "094 31",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3932,
+      "fullname": "Vranov",
+      "shortname": "Vranov",
+      "zip": "093 01",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3933,
+      "fullname": "Vranov nad Topľou",
+      "shortname": "Vranov nad Topľou",
+      "zip": 0,
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4014,
+      "fullname": "Vyšný Kazimír",
+      "shortname": "Vyšný Kazimír",
+      "zip": "094 09",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4029,
+      "fullname": "Vyšný Žipov",
+      "shortname": "Vyšný Žipov",
+      "zip": "094 33",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4137,
+      "fullname": "Zlatník",
+      "shortname": "Zlatník",
+      "zip": "094 33",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4061,
+      "fullname": "Zámutov",
+      "shortname": "Zámutov",
+      "zip": "094 15",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 416,
+      "fullname": "Čaklov",
+      "shortname": "Čaklov",
+      "zip": "094 35",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 447,
+      "fullname": "Čemerné",
+      "shortname": "Čemerné",
+      "zip": "093 03",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 494,
+      "fullname": "Čierne nad Topľou",
+      "shortname": "Čierne nad Topľou",
+      "zip": "094 34",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 481,
+      "fullname": "Čičava",
+      "shortname": "Čičava",
+      "zip": "093 01",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 522,
+      "fullname": "Ďapalovce",
+      "shortname": "Ďapalovce",
+      "zip": "094 05",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 756,
+      "fullname": "Ďurďoš",
+      "shortname": "Ďurďoš",
+      "zip": "094 31",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3453,
+      "fullname": "Štefanovce",
+      "shortname": "Štefanovce",
+      "zip": "094 01",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4164,
+      "fullname": "Žalobín",
+      "shortname": "Žalobín",
+      "zip": "094 03",
+      "district_id": 74,
+      "okres": "Vranov nad Topľou",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Vranov nad Topľou - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Vranov nad Topľou, Prešovský kraj — s PSČ a kódom okresu. Obsahuje 75 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Vranov nad Topľou | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Vranov nad Topľou — 75 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 75 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

@@ -1,0 +1,1306 @@
+{
+  "id": "sk-dunajska-streda-obce",
+  "name": "Obce v okrese Dunajská Streda",
+  "title": "Obce v okrese Dunajská Streda",
+  "description": "Všetky obce (municipality) v okrese Dunajská Streda, Trnavský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 124,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 14,
+      "fullname": "Amadeho Kračany",
+      "shortname": "Amadeho Kračany",
+      "zip": "930 03",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 55,
+      "fullname": "Baka",
+      "shortname": "Baka",
+      "zip": "930 04",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 60,
+      "fullname": "Baloň",
+      "shortname": "Baloň",
+      "zip": "930 08",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 104,
+      "fullname": "Beketfa",
+      "shortname": "Beketfa",
+      "zip": "930 34",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 116,
+      "fullname": "Bellova Ves",
+      "shortname": "Bellova Ves",
+      "zip": "930 52",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 128,
+      "fullname": "Benkova Potôň",
+      "shortname": "Benkova Potôň",
+      "zip": "930 36",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 166,
+      "fullname": "Blahová",
+      "shortname": "Blahová",
+      "zip": "930 52",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 167,
+      "fullname": "Blatná na Ostrove",
+      "shortname": "Blatná na Ostrove",
+      "zip": "930 32",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 187,
+      "fullname": "Bodíky",
+      "shortname": "Bodíky",
+      "zip": "930 31",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 201,
+      "fullname": "Boheľov",
+      "shortname": "Boheľov",
+      "zip": "929 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 320,
+      "fullname": "Bučuháza",
+      "shortname": "Bučuháza",
+      "zip": "931 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 39,
+      "fullname": "Báč",
+      "shortname": "Báč",
+      "zip": "930 30",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 353,
+      "fullname": "Búštelek",
+      "shortname": "Búštelek",
+      "zip": "930 39",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 584,
+      "fullname": "Dobrohošť",
+      "shortname": "Dobrohošť",
+      "zip": "930 31",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 609,
+      "fullname": "Dolná Potôň",
+      "shortname": "Dolná Potôň",
+      "zip": "930 02",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 625,
+      "fullname": "Dolné Janíky",
+      "shortname": "Dolné Janíky",
+      "zip": "930 39",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 654,
+      "fullname": "Dolný Bar",
+      "shortname": "Dolný Bar",
+      "zip": "930 14",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 671,
+      "fullname": "Dolný Štál",
+      "shortname": "Dolný Štál",
+      "zip": "930 10",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 752,
+      "fullname": "Dunajská Streda",
+      "shortname": "Dunajská Streda",
+      "zip": "929 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 753,
+      "fullname": "Dunajský Klátov",
+      "shortname": "Dunajský Klátov",
+      "zip": "930 21",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 776,
+      "fullname": "Eliášovce",
+      "shortname": "Eliášovce",
+      "zip": "930 38",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 777,
+      "fullname": "Etreho Kračany",
+      "shortname": "Etreho Kračany",
+      "zip": "930 03",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 805,
+      "fullname": "Gabčíkovo",
+      "shortname": "Gabčíkovo",
+      "zip": "930 05",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 913,
+      "fullname": "Heďbeneéte",
+      "shortname": "Heďbeneéte",
+      "zip": "929 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 958,
+      "fullname": "Holice",
+      "shortname": "Holice",
+      "zip": "930 34",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 983,
+      "fullname": "Horná Potôň",
+      "shortname": "Horná Potôň",
+      "zip": "930 36",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 984,
+      "fullname": "Horná Potôň - Lúky",
+      "shortname": "Horná Potôň - Lúky",
+      "zip": "930 52",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1003,
+      "fullname": "Horné Janíky",
+      "shortname": "Horné Janíky",
+      "zip": "930 39",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1013,
+      "fullname": "Horné Mýto",
+      "shortname": "Horné Mýto",
+      "zip": "930 13",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1036,
+      "fullname": "Horný Bar",
+      "shortname": "Horný Bar",
+      "zip": "930 33",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1136,
+      "fullname": "Hubice",
+      "shortname": "Hubice",
+      "zip": "930 39",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1157,
+      "fullname": "Hviezdoslavov",
+      "shortname": "Hviezdoslavov",
+      "zip": "930 41",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1238,
+      "fullname": "Ižop",
+      "shortname": "Ižop",
+      "zip": "932 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1250,
+      "fullname": "Jahodná",
+      "shortname": "Jahodná",
+      "zip": "930 21",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1273,
+      "fullname": "Janíky",
+      "shortname": "Janíky",
+      "zip": "930 39",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1308,
+      "fullname": "Jastrabie Kračany",
+      "shortname": "Jastrabie Kračany",
+      "zip": "930 03",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1340,
+      "fullname": "Jurová",
+      "shortname": "Jurová",
+      "zip": "930 04",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1276,
+      "fullname": "Jánošíkovo na Ostrove",
+      "shortname": "Jánošíkovo na Ostrov",
+      "zip": "930 10",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1498,
+      "fullname": "Kolónia",
+      "shortname": "Kolónia",
+      "zip": "929 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1499,
+      "fullname": "Kolónia",
+      "shortname": "Kolónia",
+      "zip": "930 35",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1551,
+      "fullname": "Kostolná Gala",
+      "shortname": "Kostolná Gala",
+      "zip": "930 34",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1555,
+      "fullname": "Kostolné Kračany",
+      "shortname": "Kostolné Kračany",
+      "zip": "930 03",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1640,
+      "fullname": "Kráľovianky",
+      "shortname": "Kráľovianky",
+      "zip": "931 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1642,
+      "fullname": "Kráľovičove Kračany",
+      "shortname": "Kráľovičove Kračany",
+      "zip": "930 03",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1746,
+      "fullname": "Kvetoslavov",
+      "shortname": "Kvetoslavov",
+      "zip": "930 41",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1752,
+      "fullname": "Kynceľove Kračany",
+      "shortname": "Kynceľove Kračany",
+      "zip": "930 03",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1755,
+      "fullname": "Kyselica",
+      "shortname": "Kyselica",
+      "zip": "930 30",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1736,
+      "fullname": "Kútniky",
+      "shortname": "Kútniky",
+      "zip": "929 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1459,
+      "fullname": "Kľúčiarove Kračany",
+      "shortname": "Kľúčiarove Kračany",
+      "zip": "930 03",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1461,
+      "fullname": "Kľúčovec",
+      "shortname": "Kľúčovec",
+      "zip": "930 07",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1801,
+      "fullname": "Lehnice",
+      "shortname": "Lehnice",
+      "zip": "930 37",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1822,
+      "fullname": "Lesné Kračany",
+      "shortname": "Lesné Kračany",
+      "zip": "930 03",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1838,
+      "fullname": "Lidér Tejed",
+      "shortname": "Lidér Tejed",
+      "zip": "929 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1944,
+      "fullname": "Lúč na Ostrove",
+      "shortname": "Lúč na Ostrove",
+      "zip": "930 03",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1990,
+      "fullname": "Macov",
+      "shortname": "Macov",
+      "zip": "930 32",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1993,
+      "fullname": "Mad",
+      "shortname": "Mad",
+      "zip": "930 14",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2016,
+      "fullname": "Malá Budafa",
+      "shortname": "Malá Budafa",
+      "zip": "930 34",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2030,
+      "fullname": "Malá Lúč",
+      "shortname": "Malá Lúč",
+      "zip": "930 03",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2035,
+      "fullname": "Malá Paka",
+      "shortname": "Malá Paka",
+      "zip": "930 51",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2050,
+      "fullname": "Malé Blahovo",
+      "shortname": "Malé Blahovo",
+      "zip": "929 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2053,
+      "fullname": "Malé Dvorníky",
+      "shortname": "Malé Dvorníky",
+      "zip": "929 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2097,
+      "fullname": "Malý Lég",
+      "shortname": "Malý Lég",
+      "zip": "930 37",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2127,
+      "fullname": "Maslovce",
+      "shortname": "Maslovce",
+      "zip": "930 39",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2128,
+      "fullname": "Masníkovo",
+      "shortname": "Masníkovo",
+      "zip": "930 36",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2150,
+      "fullname": "Medveďov",
+      "shortname": "Medveďov",
+      "zip": "930 07",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2176,
+      "fullname": "Michal na Ostrove",
+      "shortname": "Michal na Ostrove",
+      "zip": "930 35",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2172,
+      "fullname": "Mierovo",
+      "shortname": "Mierovo",
+      "zip": "930 41",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2195,
+      "fullname": "Milinovice",
+      "shortname": "Milinovice",
+      "zip": "929 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2207,
+      "fullname": "Mliečany",
+      "shortname": "Mliečany",
+      "zip": "929 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2208,
+      "fullname": "Mliečno",
+      "shortname": "Mliečno",
+      "zip": "931 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2251,
+      "fullname": "Moravské Kračany",
+      "shortname": "Moravské Kračany",
+      "zip": "930 03",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2310,
+      "fullname": "Nekyje na Ostrove",
+      "shortname": "Nekyje na Ostrove",
+      "zip": "930 25",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2447,
+      "fullname": "Nový Život",
+      "shortname": "Nový Život",
+      "zip": "930 38",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2462,
+      "fullname": "Ohrady",
+      "shortname": "Ohrady",
+      "zip": "930 12",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2467,
+      "fullname": "Okoč",
+      "shortname": "Okoč",
+      "zip": "930 28",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2507,
+      "fullname": "Opatovský Sokolec",
+      "shortname": "Opatovský Sokolec",
+      "zip": "930 28",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2523,
+      "fullname": "Orechová Potôň",
+      "shortname": "Orechová Potôň",
+      "zip": "930 02",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2524,
+      "fullname": "Orechová Potôň - Lúky",
+      "shortname": "Orechová Potôň-Lúky",
+      "zip": "930 52",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2473,
+      "fullname": "Oľdza",
+      "shortname": "Oľdza",
+      "zip": "930 39",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2562,
+      "fullname": "Padáň",
+      "shortname": "Padáň",
+      "zip": "929 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2595,
+      "fullname": "Pataš",
+      "shortname": "Pataš",
+      "zip": "929 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2653,
+      "fullname": "Pinkove Kračany",
+      "shortname": "Pinkove Kračany",
+      "zip": "930 03",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2787,
+      "fullname": "Potônské Lúky",
+      "shortname": "Potônske Lúky",
+      "zip": "930 52",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2795,
+      "fullname": "Povoda",
+      "shortname": "Povoda",
+      "zip": "929 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2680,
+      "fullname": "Pódafa",
+      "shortname": "Pódafa",
+      "zip": "929 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2778,
+      "fullname": "Póšfa",
+      "shortname": "Póšfa",
+      "zip": "930 34",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2927,
+      "fullname": "Rastice",
+      "shortname": "Rastice",
+      "zip": "930 39",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2986,
+      "fullname": "Rohovce",
+      "shortname": "Rohovce",
+      "zip": "930 30",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3077,
+      "fullname": "Sap",
+      "shortname": "Sap",
+      "zip": "930 06",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3263,
+      "fullname": "Stará Gala",
+      "shortname": "Stará Gala",
+      "zip": "930 34",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3078,
+      "fullname": "Sása",
+      "shortname": "Sása",
+      "zip": "930 37",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3556,
+      "fullname": "Tonkovce",
+      "shortname": "Tonkovce",
+      "zip": "930 38",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3563,
+      "fullname": "Topoľníky",
+      "shortname": "Topoľníky",
+      "zip": "930 11",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3593,
+      "fullname": "Trhová Hradská",
+      "shortname": "Trhová Hradská",
+      "zip": "930 13",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3601,
+      "fullname": "Trnávka",
+      "shortname": "Trnávka",
+      "zip": "930 32",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3614,
+      "fullname": "Trstená na Ostrove",
+      "shortname": "Trstená na Ostrove",
+      "zip": "930 04",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3548,
+      "fullname": "Töböréte",
+      "shortname": "Töböréte",
+      "zip": "929 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3743,
+      "fullname": "Veľká Budafa",
+      "shortname": "Veľká Budafa",
+      "zip": "930 34",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3759,
+      "fullname": "Veľká Lúč",
+      "shortname": "Veľká Lúč",
+      "zip": "930 03",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3764,
+      "fullname": "Veľká Paka",
+      "shortname": "Veľká Paka",
+      "zip": "930 51",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3773,
+      "fullname": "Veľké Blahovo",
+      "shortname": "Veľké Blahovo",
+      "zip": "930 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3779,
+      "fullname": "Veľké Dvorníky",
+      "shortname": "Veľké Dvorníky",
+      "zip": "929 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3832,
+      "fullname": "Veľký Lég",
+      "shortname": "Veľký Lég",
+      "zip": "930 37",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3836,
+      "fullname": "Veľký Meder",
+      "shortname": "Veľký Meder",
+      "zip": "932 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3855,
+      "fullname": "Vieska",
+      "shortname": "Vieska",
+      "zip": "930 02",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3914,
+      "fullname": "Vojka nad Dunajom",
+      "shortname": "Vojka nad Dunajom",
+      "zip": "930 31",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3918,
+      "fullname": "Vojtechovce",
+      "shortname": "Vojtechovce",
+      "zip": "930 38",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3930,
+      "fullname": "Vrakúň",
+      "shortname": "Vrakúň",
+      "zip": "930 25",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3935,
+      "fullname": "Vrbina",
+      "shortname": "Vrbina",
+      "zip": "930 08",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3960,
+      "fullname": "Vydrany",
+      "shortname": "Vydrany",
+      "zip": "930 16",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 4134,
+      "fullname": "Zlaté Klasy",
+      "shortname": "Zlaté Klasy",
+      "zip": "930 39",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 415,
+      "fullname": "Čakany",
+      "shortname": "Čakany",
+      "zip": "930 40",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 436,
+      "fullname": "Čechová",
+      "shortname": "Čechová",
+      "zip": "930 34",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 448,
+      "fullname": "Čenkesfa",
+      "shortname": "Čenkesfa",
+      "zip": "929 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 450,
+      "fullname": "Čenkovce",
+      "shortname": "Čenkovce",
+      "zip": "930 39",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 434,
+      "fullname": "Čečínska Potôň",
+      "shortname": "Čečínska Potôň",
+      "zip": "930 36",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 503,
+      "fullname": "Čilistov",
+      "shortname": "Čilistov",
+      "zip": "931 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 504,
+      "fullname": "Čiližská Radvaň",
+      "shortname": "Čiližská Radvaň",
+      "zip": "930 08",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 514,
+      "fullname": "Čukárska Paka",
+      "shortname": "Čukárska Paka",
+      "zip": "930 51",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2298,
+      "fullname": "Ňárad",
+      "shortname": "Ňárad",
+      "zip": "930 06",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3387,
+      "fullname": "Šamorín",
+      "shortname": "Šamorín",
+      "zip": "931 01",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3428,
+      "fullname": "Šipošovské Kračany",
+      "shortname": "Šipošovské Kračany",
+      "zip": "930 03",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3478,
+      "fullname": "Štvrtok na Ostrove",
+      "shortname": "Štvrtok na Ostrove",
+      "zip": "930 40",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3481,
+      "fullname": "Šuľany",
+      "shortname": "Šuľany",
+      "zip": "930 33",
+      "district_id": 15,
+      "okres": "Dunajská Streda",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Dunajská Streda - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Dunajská Streda, Trnavský kraj — s PSČ a kódom okresu. Obsahuje 124 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Dunajská Streda | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Dunajská Streda — 124 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 124 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

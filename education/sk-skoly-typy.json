@@ -1,0 +1,716 @@
+{
+  "id": "sk-skoly-typy",
+  "name": "Typy škôl (číselník RIS)",
+  "title": "Typy škôl (číselník RIS)",
+  "description": "Číselník 135 typov škôl zo štátneho registra škôl (RISPortal) s kódom, názvom typu a Trojstenovou skupinou škôl (zs, zs10, ss, ss5, gym, ou); skupina je null pre typy mimo záberu (MŠ, ZUŠ, jazykové školy a pod.).",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 135,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "111",
+      "name": "MŠ celodenná výchova a vzdelávanie",
+      "group": ""
+    },
+    {
+      "id": "112",
+      "name": "MŠ poldenná výchova a vzdelávanie",
+      "group": ""
+    },
+    {
+      "id": "115",
+      "name": "MŠ - ZŠ s MŠ",
+      "group": ""
+    },
+    {
+      "id": "116",
+      "name": "MŠ - ZŠ s MŠ I.stupeň",
+      "group": ""
+    },
+    {
+      "id": "211",
+      "name": "Základná škola",
+      "group": "zs"
+    },
+    {
+      "id": "213",
+      "name": "ZŠ internátna",
+      "group": "zs"
+    },
+    {
+      "id": "221",
+      "name": "ZŠ I. stupeň",
+      "group": "zs"
+    },
+    {
+      "id": "223",
+      "name": "ZŠ I.stupeň internátna",
+      "group": "zs"
+    },
+    {
+      "id": "231",
+      "name": "ZŠ II. stupeň",
+      "group": "zs"
+    },
+    {
+      "id": "233",
+      "name": "ZŠ II.stupeň internátna",
+      "group": "zs"
+    },
+    {
+      "id": "250",
+      "name": "Základná umelecká škola",
+      "group": ""
+    },
+    {
+      "id": "315",
+      "name": "Stredisko praktického vyučovania",
+      "group": ""
+    },
+    {
+      "id": "317",
+      "name": "Stredisko odbornej praxe",
+      "group": ""
+    },
+    {
+      "id": "321",
+      "name": "Gymnázium",
+      "group": "gym"
+    },
+    {
+      "id": "331",
+      "name": "Hudobné a dramatické konzervatórium",
+      "group": ""
+    },
+    {
+      "id": "332",
+      "name": "Tanečné konzervatórium",
+      "group": ""
+    },
+    {
+      "id": "341",
+      "name": "Stredná športová škola",
+      "group": "ss"
+    },
+    {
+      "id": "410",
+      "name": "Stredná odborná škola",
+      "group": "ss5"
+    },
+    {
+      "id": "416",
+      "name": "Stredná priemyselná škola",
+      "group": "ss"
+    },
+    {
+      "id": "443",
+      "name": "Dopravná akadémia",
+      "group": "ss"
+    },
+    {
+      "id": "451",
+      "name": "Obchodná akadémia",
+      "group": "ss"
+    },
+    {
+      "id": "452",
+      "name": "Hotelová akadémia",
+      "group": "ss5"
+    },
+    {
+      "id": "473",
+      "name": "Škola umeleckého priemyslu",
+      "group": "ss"
+    },
+    {
+      "id": "482",
+      "name": "Stredná pedagogická škola",
+      "group": "ss"
+    },
+    {
+      "id": "483",
+      "name": "Pedagogická a kultúrna akadémia",
+      "group": "ss"
+    },
+    {
+      "id": "484",
+      "name": "Pedagogická a sociálna akadémia",
+      "group": "ss"
+    },
+    {
+      "id": "487",
+      "name": "Stredná zdravotnícka škola",
+      "group": "ss"
+    },
+    {
+      "id": "491",
+      "name": "Policajná stredná odborná škola",
+      "group": ""
+    },
+    {
+      "id": "492",
+      "name": "Stredná škola požiarnej ochrany",
+      "group": ""
+    },
+    {
+      "id": "49J",
+      "name": "Technická akadémia",
+      "group": "ss"
+    },
+    {
+      "id": "500",
+      "name": "Praktická škola pre žiakov s autizmom",
+      "group": ""
+    },
+    {
+      "id": "501",
+      "name": "Praktická škola",
+      "group": ""
+    },
+    {
+      "id": "502",
+      "name": "Praktická škola pre žiakov so sluchovým postihnutím",
+      "group": ""
+    },
+    {
+      "id": "503",
+      "name": "Praktická škola žiakov so zrakovým postihnutím",
+      "group": ""
+    },
+    {
+      "id": "504",
+      "name": "Praktická škola pre žiakov s narušenou komunikačnou schopnosťou",
+      "group": ""
+    },
+    {
+      "id": "505",
+      "name": "Praktická škola pre žiakov s telesným postihnutím",
+      "group": ""
+    },
+    {
+      "id": "510",
+      "name": "ŠMŠ pre deti s autizmom",
+      "group": ""
+    },
+    {
+      "id": "511",
+      "name": "Špeciálna materská škola",
+      "group": ""
+    },
+    {
+      "id": "512",
+      "name": "ŠMŠ pre deti so sluchovým postihnutím",
+      "group": ""
+    },
+    {
+      "id": "513",
+      "name": "ŠMŠ pre deti so zrakovým postihnutím",
+      "group": ""
+    },
+    {
+      "id": "514",
+      "name": "ŠMŠ pre deti s narušenou komunikačnou schopnosťou",
+      "group": ""
+    },
+    {
+      "id": "515",
+      "name": "ŠMŠ pre deti s telesným postihnutím",
+      "group": ""
+    },
+    {
+      "id": "516",
+      "name": "ŠMŠ pre deti s viacnásobným postihnutím",
+      "group": ""
+    },
+    {
+      "id": "517",
+      "name": "MŠ pri zdravotníckom zariadení",
+      "group": ""
+    },
+    {
+      "id": "518",
+      "name": "ŠMŠ pri špeciálnom výchovnom zariadení",
+      "group": ""
+    },
+    {
+      "id": "51N",
+      "name": "MŠ pre deti s nadaním",
+      "group": ""
+    },
+    {
+      "id": "520",
+      "name": "ZŠ pre žiakov s autizmom",
+      "group": "zs"
+    },
+    {
+      "id": "522",
+      "name": "ZŠ pre žiakov so sluchovým postihnutím",
+      "group": "zs"
+    },
+    {
+      "id": "523",
+      "name": "ZŠ pre žiakov so zrakovým postihnutím",
+      "group": "zs"
+    },
+    {
+      "id": "524",
+      "name": "ZŠ pre žiakov s narušenou komunikačnou schopnosťou",
+      "group": "zs"
+    },
+    {
+      "id": "525",
+      "name": "ZŠ pre žiakov s telesným postihnutím",
+      "group": "zs"
+    },
+    {
+      "id": "527",
+      "name": "ZŠ pri zdravotníckom zariadení",
+      "group": "zs"
+    },
+    {
+      "id": "528",
+      "name": "ZŠ pri špeciálnom výchovnom zariadení",
+      "group": "zs"
+    },
+    {
+      "id": "529",
+      "name": "ZŠ pre žiakov s poruchou učenia",
+      "group": "zs"
+    },
+    {
+      "id": "52N",
+      "name": "ZŠ pre žiakov s nadaním",
+      "group": "zs"
+    },
+    {
+      "id": "530",
+      "name": "ŠZŠ pre žiakov s autizmom",
+      "group": "zs10"
+    },
+    {
+      "id": "531",
+      "name": "Špeciálna základná škola",
+      "group": "zs10"
+    },
+    {
+      "id": "532",
+      "name": "ŠZŠ pre žiakov so sluchovým postihnutím",
+      "group": "zs10"
+    },
+    {
+      "id": "533",
+      "name": "ŠZŠ pre žiakov so zrakovým postihnutím",
+      "group": "zs10"
+    },
+    {
+      "id": "534",
+      "name": "ŠZŠ pre žiakov s narušenou komunikačnou schopnosťou",
+      "group": "zs10"
+    },
+    {
+      "id": "535",
+      "name": "ŠZŠ pre žiakov s telesným postihnutím",
+      "group": "zs10"
+    },
+    {
+      "id": "537",
+      "name": "ŠZŠ pri zdravotníckom zariaden",
+      "group": "zs10"
+    },
+    {
+      "id": "538",
+      "name": "ŠZŠ pri špeciálnom výchovnom zariadení",
+      "group": "zs10"
+    },
+    {
+      "id": "561",
+      "name": "Odborné učilište",
+      "group": "ou"
+    },
+    {
+      "id": "562",
+      "name": "OU pre žiakov so sluchovým postihnutím",
+      "group": "ou"
+    },
+    {
+      "id": "563",
+      "name": "OU pre žiakov so zrakovým postihnutím",
+      "group": "ou"
+    },
+    {
+      "id": "565",
+      "name": "OU pre žiakov s telesným postihnutím",
+      "group": "ou"
+    },
+    {
+      "id": "568",
+      "name": "OU pri špec. výchov. zariadení",
+      "group": "ou"
+    },
+    {
+      "id": "572",
+      "name": "Gymnázium pre žiakov so sluchovým postihnutím",
+      "group": "gym"
+    },
+    {
+      "id": "573",
+      "name": "Gymnázium pre žiakov zrakovým postihnutím",
+      "group": "gym"
+    },
+    {
+      "id": "575",
+      "name": "Gymnázium pre žiakov s telesným postihnutím",
+      "group": "gym"
+    },
+    {
+      "id": "57N",
+      "name": "Gymnázium pre žiakov s nadaním",
+      "group": "gym"
+    },
+    {
+      "id": "582",
+      "name": "SOŠ pre žiakov so sluchovým postihnutím",
+      "group": "ss5"
+    },
+    {
+      "id": "583",
+      "name": "SOŠ pre žiakov so zrakovým postihnutím",
+      "group": "ss5"
+    },
+    {
+      "id": "585",
+      "name": "SOŠ pre žiakov s telesným postihnutím",
+      "group": "ss5"
+    },
+    {
+      "id": "588",
+      "name": "SOŠ pri špeciálnom výchovnom zariadení",
+      "group": "ss5"
+    },
+    {
+      "id": "593",
+      "name": "Konzervatórium pre žiakov so zrakovým postihnutím",
+      "group": ""
+    },
+    {
+      "id": "600",
+      "name": "Praktická škola pre žiakov s autizmom internátna",
+      "group": ""
+    },
+    {
+      "id": "601",
+      "name": "Praktická škola internátna",
+      "group": ""
+    },
+    {
+      "id": "602",
+      "name": "Praktická škola pre žiakov so sluchovým postihnutím internátna",
+      "group": ""
+    },
+    {
+      "id": "603",
+      "name": "Praktická škola pre žiakov so zrakovým postihnutém internátna",
+      "group": ""
+    },
+    {
+      "id": "604",
+      "name": "Praktická škola pre žiakov s narušenou komunikačnou schopnosťou internátna",
+      "group": ""
+    },
+    {
+      "id": "605",
+      "name": "Prakt.škola pre žiakov s telesným postihnutím internátna",
+      "group": ""
+    },
+    {
+      "id": "610",
+      "name": "ŠMŠ pre deti s autizmom internátna",
+      "group": ""
+    },
+    {
+      "id": "611",
+      "name": "Špec.materská škola internátna",
+      "group": ""
+    },
+    {
+      "id": "612",
+      "name": "ŠMŠ pre deti so sluchovým postihnutím internátna",
+      "group": ""
+    },
+    {
+      "id": "613",
+      "name": "ŠMŠ pre deti so zrakovým postihnutím internátna",
+      "group": ""
+    },
+    {
+      "id": "614",
+      "name": "ŠMŠ pre deti s narušenou komunikačnou schopnosťou internátna",
+      "group": ""
+    },
+    {
+      "id": "615",
+      "name": "ŠMŠ pre deti s telesným postihnutím internátna",
+      "group": ""
+    },
+    {
+      "id": "616",
+      "name": "ŠMŠ pre deti s viacnásobným postihnutím internátna",
+      "group": ""
+    },
+    {
+      "id": "622",
+      "name": "ZŠ pre žiakov so sluchovým postihnutím internátna",
+      "group": "zs"
+    },
+    {
+      "id": "623",
+      "name": "ZŠ pre žiakov so zrakovým postihnutím internátna",
+      "group": "zs"
+    },
+    {
+      "id": "624",
+      "name": "ZŠ pre žiakov s narušenou komunikačnou schopnosťou internátna",
+      "group": "zs"
+    },
+    {
+      "id": "625",
+      "name": "ZŠ pre žiakov stelesným postihnutím internátna",
+      "group": "zs"
+    },
+    {
+      "id": "62N",
+      "name": "ZŠ pre žiakov s nadaním internátna",
+      "group": "zs"
+    },
+    {
+      "id": "630",
+      "name": "ŠZŠ pre žiakov s autizmom internátna",
+      "group": "zs10"
+    },
+    {
+      "id": "631",
+      "name": "Špeciálna základná škola internátna",
+      "group": "zs10"
+    },
+    {
+      "id": "632",
+      "name": "ŠZŠ pre žiakov so sluchovým postihnutím internátna",
+      "group": "zs10"
+    },
+    {
+      "id": "633",
+      "name": "ŠZŠ pre žiakov so zrakovým postihnutím internátna",
+      "group": "zs10"
+    },
+    {
+      "id": "634",
+      "name": "ŠZŠ pre žiakov s narušenou komunikačnou schopnosťou internátna",
+      "group": "zs10"
+    },
+    {
+      "id": "635",
+      "name": "ŠZŠ pre žiakov s telesným postihnutím internátna",
+      "group": "zs10"
+    },
+    {
+      "id": "636",
+      "name": "ŠZŠ pre hluchoslepých internátna",
+      "group": "zs10"
+    },
+    {
+      "id": "661",
+      "name": "Odborné učilište internátne",
+      "group": "ou"
+    },
+    {
+      "id": "662",
+      "name": "OU pre žiakov sluchovo postihnutých internátne",
+      "group": "ou"
+    },
+    {
+      "id": "663",
+      "name": "OU pre žiakov so zrakovým postihnutím internátne",
+      "group": "ou"
+    },
+    {
+      "id": "665",
+      "name": "OU pre žiakov s telesným postihnutím internátne",
+      "group": "ou"
+    },
+    {
+      "id": "672",
+      "name": "Gymnázium pre sluchovo postihnutých internátne",
+      "group": "gym"
+    },
+    {
+      "id": "673",
+      "name": "Gymnázium pre žiakov so zrakovým postihnutím internátne",
+      "group": "gym"
+    },
+    {
+      "id": "675",
+      "name": "Gymnázium pre žiakov s telesným postihnutím internátne",
+      "group": "gym"
+    },
+    {
+      "id": "682",
+      "name": "SOŠ pre  žiakov so sluchovým postihnutím internátna",
+      "group": "ss5"
+    },
+    {
+      "id": "683",
+      "name": "SOŠ pre žiakov so zrakovým postihnutím internátna",
+      "group": "ss5"
+    },
+    {
+      "id": "685",
+      "name": "SOŠ pre žiakov s telesným postihnutím internátna",
+      "group": "ss5"
+    },
+    {
+      "id": "693",
+      "name": "Konzervatórium pre zrakovo postihnutých internátne",
+      "group": ""
+    },
+    {
+      "id": "813",
+      "name": "Jazyková škola",
+      "group": ""
+    },
+    {
+      "id": "821",
+      "name": "Škola v prírode",
+      "group": ""
+    },
+    {
+      "id": "831",
+      "name": "Centrum voľného času",
+      "group": ""
+    },
+    {
+      "id": "841",
+      "name": "Školský klub detí",
+      "group": ""
+    },
+    {
+      "id": "842",
+      "name": "Školský klub detí pri špeciálnej škole",
+      "group": ""
+    },
+    {
+      "id": "844",
+      "name": "Školský internát",
+      "group": ""
+    },
+    {
+      "id": "845",
+      "name": "Školský internát pri špeciálnej škole",
+      "group": ""
+    },
+    {
+      "id": "846",
+      "name": "Školský klub detí pri zdravotníckom zariadení",
+      "group": ""
+    },
+    {
+      "id": "852",
+      "name": "Reedukačné centrum",
+      "group": ""
+    },
+    {
+      "id": "855",
+      "name": "Liečebno-výchovné sanatórium",
+      "group": ""
+    },
+    {
+      "id": "856",
+      "name": "Diagnostické centrum",
+      "group": ""
+    },
+    {
+      "id": "872",
+      "name": "Centrum poradenstva a prevencie",
+      "group": ""
+    },
+    {
+      "id": "873",
+      "name": "Špeciálne centrum poradenstva a prevencie",
+      "group": ""
+    },
+    {
+      "id": "931",
+      "name": "Školská jedáleň/výdajňa ŠJ pri MŠ",
+      "group": ""
+    },
+    {
+      "id": "932",
+      "name": "Školská jedáleň/výdajňa ŠJ pri ŠI",
+      "group": ""
+    },
+    {
+      "id": "934",
+      "name": "Školská jedáleň/verejné stravovanie",
+      "group": ""
+    },
+    {
+      "id": "935",
+      "name": "Školská jedáleň/výdajňa ŠJ pri ZŠ",
+      "group": ""
+    },
+    {
+      "id": "936",
+      "name": "Školská jedáleň/výdajňa ŠJ pri SŠ",
+      "group": ""
+    },
+    {
+      "id": "938",
+      "name": "Školská jedáleň/výdajňa ŠJ",
+      "group": ""
+    },
+    {
+      "id": "941",
+      "name": "Školské hospodárstvo",
+      "group": ""
+    },
+    {
+      "id": "942",
+      "name": "Stredisko služieb škole",
+      "group": ""
+    },
+    {
+      "id": "949",
+      "name": "Iné účelové zariadenie",
+      "group": ""
+    }
+  ],
+  "meta": {
+    "title": "Typy škôl (číselník RIS) - Bezplatné stiahnutie",
+    "description": "Číselník 135 typov škôl zo štátneho registra škôl (RISPortal) s kódom, názvom typu a Trojstenovou skupinou škôl (zs, zs10, ss, ss5, gym, ou); skupina je null pre typy mimo záberu (MŠ, ZUŠ, jazykové školy a pod.). Obsahuje 135 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Typy škôl (číselník RIS) | ListBase",
+    "seo_description": "Stiahnuť Typy škôl (číselník RIS) — 135 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 135 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

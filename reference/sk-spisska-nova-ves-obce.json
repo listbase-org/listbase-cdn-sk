@@ -1,0 +1,566 @@
+{
+  "id": "sk-spisska-nova-ves-obce",
+  "name": "Obce v okrese Spišská Nová Ves",
+  "title": "Obce v okrese Spišská Nová Ves",
+  "description": "Všetky obce (municipality) v okrese Spišská Nová Ves, Košický kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 26,
+      "fullname": "Arnutovce",
+      "shortname": "Arnutovce",
+      "zip": "053 13",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 142,
+      "fullname": "Betlanovce",
+      "shortname": "Betlanovce",
+      "zip": "053 15",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 151,
+      "fullname": "Biele Vody",
+      "shortname": "Biele Vody",
+      "zip": "053 76",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 159,
+      "fullname": "Bindt",
+      "shortname": "Bindt",
+      "zip": "053 32",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 361,
+      "fullname": "Bystrany",
+      "shortname": "Bystrany",
+      "zip": "053 62",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1186,
+      "fullname": "Chrasť nad Hornádom",
+      "shortname": "Chrasť nad Hornádom",
+      "zip": "053 63",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 520,
+      "fullname": "Danišovce",
+      "shortname": "Danišovce",
+      "zip": "053 22",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 533,
+      "fullname": "Delava",
+      "shortname": "Delava",
+      "zip": "053 75",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 579,
+      "fullname": "Dobrá Voľa",
+      "shortname": "Dobrá Voľa",
+      "zip": "053 61",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 867,
+      "fullname": "Hadušovce",
+      "shortname": "Hadušovce",
+      "zip": "053 13",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 898,
+      "fullname": "Harichovce",
+      "shortname": "Harichovce",
+      "zip": "053 01",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 909,
+      "fullname": "Havrania Dolina",
+      "shortname": "Havrania Dolina",
+      "zip": "053 76",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 928,
+      "fullname": "Hincovce",
+      "shortname": "Hincovce",
+      "zip": "053 63",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 945,
+      "fullname": "Hnilec",
+      "shortname": "Hnilec",
+      "zip": "053 75",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 944,
+      "fullname": "Hnilčík",
+      "shortname": "Hnilčík",
+      "zip": "053 32",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 951,
+      "fullname": "Hodkovce",
+      "shortname": "Hodkovce",
+      "zip": "053 61",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1081,
+      "fullname": "Hrabušice",
+      "shortname": "Hrabušice",
+      "zip": "053 15",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1212,
+      "fullname": "Iliašovce",
+      "shortname": "Iliašovce",
+      "zip": "053 11",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1269,
+      "fullname": "Jamník",
+      "shortname": "Jamník",
+      "zip": "053 22",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1349,
+      "fullname": "Kaľava",
+      "shortname": "Kaľava",
+      "zip": "053 42",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1496,
+      "fullname": "Kolinovce",
+      "shortname": "Kolinovce",
+      "zip": "053 42",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1697,
+      "fullname": "Krompachy",
+      "shortname": "Krompachy",
+      "zip": "053 42",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1826,
+      "fullname": "Letanovce",
+      "shortname": "Letanovce",
+      "zip": "053 13",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1845,
+      "fullname": "Lieskovany",
+      "shortname": "Lieskovany",
+      "zip": "053 21",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2117,
+      "fullname": "Markušovce",
+      "shortname": "Markušovce",
+      "zip": "053 21",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2134,
+      "fullname": "Matejovce nad Hornádom",
+      "shortname": "Matejovce nad Hornádom",
+      "zip": "053 21",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2214,
+      "fullname": "Mlynky",
+      "shortname": "Mlynky",
+      "zip": "053 76",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2435,
+      "fullname": "Novoveská Huta",
+      "shortname": "Novoveská Huta",
+      "zip": "053 31",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2461,
+      "fullname": "Odorín",
+      "shortname": "Odorín",
+      "zip": "053 22",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2472,
+      "fullname": "Olcnava",
+      "shortname": "Olcnava",
+      "zip": "053 61",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2481,
+      "fullname": "Oľšavka",
+      "shortname": "Oľšavka",
+      "zip": "053 61",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2568,
+      "fullname": "Palcmanská Maša",
+      "shortname": "Palcmanská Maša",
+      "zip": "053 76",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2767,
+      "fullname": "Poráč",
+      "shortname": "Poráč",
+      "zip": "053 23",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2858,
+      "fullname": "Prostredný Hámor",
+      "shortname": "Prostredný Hámor",
+      "zip": "053 76",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2912,
+      "fullname": "Rakovec",
+      "shortname": "Rakovec",
+      "zip": "053 76",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3027,
+      "fullname": "Rudňany",
+      "shortname": "Rudňany",
+      "zip": "053 23",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2946,
+      "fullname": "Ráztoky",
+      "shortname": "Ráztoky",
+      "zip": "053 32",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3170,
+      "fullname": "Slatvina",
+      "shortname": "Slatvina",
+      "zip": "053 61",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3199,
+      "fullname": "Slovinky",
+      "shortname": "Slovinky",
+      "zip": "053 40",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3201,
+      "fullname": "Smižany",
+      "shortname": "Smižany",
+      "zip": "053 11",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3240,
+      "fullname": "Spišská Nová Ves",
+      "shortname": "Spišská Nová Ves",
+      "zip": 0,
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3247,
+      "fullname": "Spišské Tomášovce",
+      "shortname": "Spišské Tomášovce",
+      "zip": "052 01",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3248,
+      "fullname": "Spišské Vlachy",
+      "shortname": "Spišské Vlachy",
+      "zip": "053 61",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3250,
+      "fullname": "Spišský Hrušov",
+      "shortname": "Spišský Hrušov",
+      "zip": "053 63",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3375,
+      "fullname": "Sykavka",
+      "shortname": "Sykavka",
+      "zip": "053 76",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3526,
+      "fullname": "Teplička",
+      "shortname": "Teplička",
+      "zip": "052 01",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3612,
+      "fullname": "Trsťany",
+      "shortname": "Trsťany",
+      "zip": "053 63",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3915,
+      "fullname": "Vojkovce",
+      "shortname": "Vojkovce",
+      "zip": "053 61",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3889,
+      "fullname": "Vítkovce",
+      "shortname": "Vítkovce",
+      "zip": "053 63",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4175,
+      "fullname": "Žehra",
+      "shortname": "Žehra",
+      "zip": "053 61",
+      "district_id": 62,
+      "okres": "Spišská Nová Ves",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Spišská Nová Ves - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Spišská Nová Ves, Košický kraj — s PSČ a kódom okresu. Obsahuje 50 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Spišská Nová Ves | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Spišská Nová Ves — 50 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 50 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

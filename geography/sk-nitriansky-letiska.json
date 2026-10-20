@@ -1,0 +1,160 @@
+{
+  "id": "sk-nitriansky-letiska",
+  "name": "Letiská — Nitriansky kraj",
+  "title": "Letiská — Nitriansky kraj",
+  "description": "Zoznam letísk v kraji „Nitriansky kraj“ na Slovensku s ICAO/IATA kódmi, mestom, súradnicami (WGS84) a nadmorskou výškou. (Nitra Region -- list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "geography",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_source",
+      "label": "Kraj Source",
+      "type": "string"
+    },
+    {
+      "key": "kraj_slug",
+      "label": "Kraj Slug",
+      "type": "string"
+    },
+    {
+      "key": "kraj_en",
+      "label": "Kraj En",
+      "type": "string"
+    },
+    {
+      "key": "kraj_inferred_from_city",
+      "label": "Kraj Inferred From City",
+      "type": "boolean"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LZNI",
+      "iata": "",
+      "name": "Nitra Glider Airport",
+      "name_slug": "nitra-glider-airport",
+      "city": "Nitra",
+      "kraj": "Nitriansky kraj",
+      "kraj_source": "Nitriansky",
+      "kraj_slug": "nitriansky",
+      "kraj_en": "Nitra Region",
+      "kraj_inferred_from_city": false,
+      "country": "SK",
+      "elevation_ft": 440,
+      "lat": 48.2793998718,
+      "lon": 18.1327991486,
+      "timezone": "Europe/Bratislava",
+      "has_iata": false
+    },
+    {
+      "icao": "LZPE",
+      "iata": "",
+      "name": "Prievidza Glider Airport",
+      "name_slug": "prievidza-glider-airport",
+      "city": "Prievidza",
+      "kraj": "Nitriansky kraj",
+      "kraj_source": "Nitriansky",
+      "kraj_slug": "nitriansky",
+      "kraj_en": "Nitra Region",
+      "kraj_inferred_from_city": false,
+      "country": "SK",
+      "elevation_ft": 850,
+      "lat": 48.7661018372,
+      "lon": 18.5867004395,
+      "timezone": "Europe/Bratislava",
+      "has_iata": false
+    },
+    {
+      "icao": "LZTN",
+      "iata": "",
+      "name": "Trencin Air Base",
+      "name_slug": "trencin-air-base",
+      "city": "Trencin",
+      "kraj": "Nitriansky kraj",
+      "kraj_source": "Nitriansky",
+      "kraj_slug": "nitriansky",
+      "kraj_en": "Nitra Region",
+      "kraj_inferred_from_city": false,
+      "country": "SK",
+      "elevation_ft": 676,
+      "lat": 48.8650016785,
+      "lon": 17.9923000336,
+      "timezone": "Europe/Bratislava",
+      "has_iata": false
+    }
+  ],
+  "meta": {
+    "title": "Letiská — Nitriansky kraj - Bezplatné stiahnutie",
+    "description": "Zoznam letísk v kraji „Nitriansky kraj“ na Slovensku s ICAO/IATA kódmi, mestom, súradnicami (WGS84) a nadmorskou výškou. (Nitra Region -- list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Obsahuje 3 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Letiská — Nitriansky kraj | ListBase",
+    "seo_description": "Stiahnuť Letiská — Nitriansky kraj — 3 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 3 záznamov / 16 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: https://github.com/mwgg/Airports"
+    ]
+  }
+}

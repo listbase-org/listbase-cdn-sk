@@ -1,0 +1,776 @@
+{
+  "id": "sk-svidnik-obce",
+  "name": "Obce v okrese Svidník",
+  "title": "Obce v okrese Svidník",
+  "description": "Všetky obce (municipality) v okrese Svidník, Prešovský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 71,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 111,
+      "fullname": "Belejovce",
+      "shortname": "Belejovce",
+      "zip": "089 01",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 122,
+      "fullname": "Beňadikovce",
+      "shortname": "Beňadikovce",
+      "zip": "090 42",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 194,
+      "fullname": "Bodružal",
+      "shortname": "Bodružal",
+      "zip": "090 05",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 385,
+      "fullname": "Cernina",
+      "shortname": "Cernina",
+      "zip": "090 16",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 395,
+      "fullname": "Cigla",
+      "shortname": "Cigla",
+      "zip": "086 37",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 571,
+      "fullname": "Dlhoňa",
+      "shortname": "Dlhoňa",
+      "zip": "090 02",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 585,
+      "fullname": "Dobroslava",
+      "shortname": "Dobroslava",
+      "zip": "090 01",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 721,
+      "fullname": "Dubová",
+      "shortname": "Dubová",
+      "zip": "090 11",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 742,
+      "fullname": "Dukovce",
+      "shortname": "Dukovce",
+      "zip": "086 44",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 787,
+      "fullname": "Fijaš",
+      "shortname": "Fijaš",
+      "zip": "087 01",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 799,
+      "fullname": "Francovce",
+      "shortname": "Francovce",
+      "zip": "087 01",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 839,
+      "fullname": "Giraltovce",
+      "shortname": "Giraltovce",
+      "zip": "087 01",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 907,
+      "fullname": "Havranec",
+      "shortname": "Havranec",
+      "zip": "090 02",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1073,
+      "fullname": "Hrabovčík",
+      "shortname": "Hrabovčík",
+      "zip": "089 01",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1084,
+      "fullname": "Hradisko",
+      "shortname": "Hradisko",
+      "zip": "090 42",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1147,
+      "fullname": "Hunkovce",
+      "shortname": "Hunkovce",
+      "zip": "090 03",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1339,
+      "fullname": "Jurkova Voľa",
+      "shortname": "Jurkova Voľa",
+      "zip": "089 01",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1361,
+      "fullname": "Kalnište",
+      "shortname": "Kalnište",
+      "zip": "087 01",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1387,
+      "fullname": "Kapišová",
+      "shortname": "Kapišová",
+      "zip": "090 01",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1413,
+      "fullname": "Kečkovce",
+      "shortname": "Kečkovce",
+      "zip": "090 11",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1469,
+      "fullname": "Kobylnice",
+      "shortname": "Kobylnice",
+      "zip": "087 01",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1531,
+      "fullname": "Korejovce",
+      "shortname": "Korejovce",
+      "zip": "090 05",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1620,
+      "fullname": "Krajná Bystrá",
+      "shortname": "Krajná Bystrá",
+      "zip": "090 05",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1622,
+      "fullname": "Krajná Porúbka",
+      "shortname": "Krajná Porúbka",
+      "zip": "090 05",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1621,
+      "fullname": "Krajná Poľana",
+      "shortname": "Krajná Poľana",
+      "zip": "090 05",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1624,
+      "fullname": "Krajné Čierno",
+      "shortname": "Krajné Čierno",
+      "zip": "090 03",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1618,
+      "fullname": "Kračúnovce",
+      "shortname": "Kračúnovce",
+      "zip": "087 01",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1707,
+      "fullname": "Kružlová",
+      "shortname": "Kružlová",
+      "zip": "090 02",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1722,
+      "fullname": "Kuková",
+      "shortname": "Kuková",
+      "zip": "086 44",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1731,
+      "fullname": "Kurimka",
+      "shortname": "Kurimka",
+      "zip": "090 16",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1775,
+      "fullname": "Ladomirová",
+      "shortname": "Ladomirová",
+      "zip": "090 03",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1985,
+      "fullname": "Lužany pri Topli",
+      "shortname": "Lužany pri Topli",
+      "zip": "087 01",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1952,
+      "fullname": "Lúčka",
+      "shortname": "Lúčka",
+      "zip": "087 01",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2138,
+      "fullname": "Matovce",
+      "shortname": "Matovce",
+      "zip": "090 42",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2149,
+      "fullname": "Medvedie",
+      "shortname": "Medvedie",
+      "zip": "090 05",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2170,
+      "fullname": "Mestisko",
+      "shortname": "Mestisko",
+      "zip": "090 41",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2203,
+      "fullname": "Miroľa",
+      "shortname": "Miroľa",
+      "zip": "090 05",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2171,
+      "fullname": "Mičakovce",
+      "shortname": "Mičakovce",
+      "zip": "087 01",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2211,
+      "fullname": "Mlynárovce",
+      "shortname": "Mlynárovce",
+      "zip": "090 16",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2350,
+      "fullname": "Nižná Jedľová",
+      "shortname": "Nižná Jedľová",
+      "zip": "089 01",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2356,
+      "fullname": "Nižná Pisaná",
+      "shortname": "Nižná Pisaná",
+      "zip": "090 01",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2381,
+      "fullname": "Nižný Komárnik",
+      "shortname": "Nižný Komárnik",
+      "zip": "090 05",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2385,
+      "fullname": "Nižný Mirošov",
+      "shortname": "Nižný Mirošov",
+      "zip": "090 11",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2386,
+      "fullname": "Nižný Orlík",
+      "shortname": "Nižný Orlík",
+      "zip": "090 11",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2413,
+      "fullname": "Nová Polianka",
+      "shortname": "Nová Polianka",
+      "zip": "089 01",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2470,
+      "fullname": "Okrúhle",
+      "shortname": "Okrúhle",
+      "zip": "090 42",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2847,
+      "fullname": "Príkra",
+      "shortname": "Príkra",
+      "zip": "090 05",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2864,
+      "fullname": "Pstriná",
+      "shortname": "Pstriná",
+      "zip": "090 05",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2891,
+      "fullname": "Radoma",
+      "shortname": "Radoma",
+      "zip": "090 42",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2911,
+      "fullname": "Rakovčík",
+      "shortname": "Rakovčík",
+      "zip": "089 01",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3005,
+      "fullname": "Rovné",
+      "shortname": "Rovné",
+      "zip": "090 16",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3011,
+      "fullname": "Roztoky",
+      "shortname": "Roztoky",
+      "zip": "090 11",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3214,
+      "fullname": "Soboš",
+      "shortname": "Soboš",
+      "zip": "090 42",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3318,
+      "fullname": "Stročín",
+      "shortname": "Stročín",
+      "zip": "089 01",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3364,
+      "fullname": "Svidnička",
+      "shortname": "Svidnička",
+      "zip": "090 02",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3365,
+      "fullname": "Svidník",
+      "shortname": "Svidník",
+      "zip": "089 01",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3699,
+      "fullname": "Vagrinec",
+      "shortname": "Vagrinec",
+      "zip": "090 03",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3714,
+      "fullname": "Valkovce",
+      "shortname": "Valkovce",
+      "zip": "090 42",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3984,
+      "fullname": "Vyšná Jedľová",
+      "shortname": "Vyšná Jedľová",
+      "zip": "089 01",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3990,
+      "fullname": "Vyšná Pisaná",
+      "shortname": "Vyšná Pisaná",
+      "zip": "090 01",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4017,
+      "fullname": "Vyšný Komárnik",
+      "shortname": "Vyšný Komárnik",
+      "zip": "090 05",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4023,
+      "fullname": "Vyšný Mirošov",
+      "shortname": "Vyšný Mirošov",
+      "zip": "090 11",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4024,
+      "fullname": "Vyšný Orlík",
+      "shortname": "Vyšný Orlík",
+      "zip": "090 11",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3719,
+      "fullname": "Vápeník",
+      "shortname": "Vápeník",
+      "zip": "090 02",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3393,
+      "fullname": "Šapinec",
+      "shortname": "Šapinec",
+      "zip": "090 42",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3395,
+      "fullname": "Šarbov",
+      "shortname": "Šarbov",
+      "zip": "090 05",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3406,
+      "fullname": "Šarišský Štiavnik",
+      "shortname": "Šarišský Štiavnik",
+      "zip": "090 42",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3416,
+      "fullname": "Šemetkovce",
+      "shortname": "Šemetkovce",
+      "zip": "090 03",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3457,
+      "fullname": "Štefurov",
+      "shortname": "Štefurov",
+      "zip": "090 42",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4178,
+      "fullname": "Železník",
+      "shortname": "Železník",
+      "zip": "087 01",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4181,
+      "fullname": "Želmanovce",
+      "shortname": "Želmanovce",
+      "zip": "086 44",
+      "district_id": 65,
+      "okres": "Svidník",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Svidník - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Svidník, Prešovský kraj — s PSČ a kódom okresu. Obsahuje 71 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Svidník | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Svidník — 71 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 71 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

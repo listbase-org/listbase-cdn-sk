@@ -1,0 +1,1026 @@
+{
+  "id": "sk-bardejov-obce",
+  "name": "Obce v okrese Bardejov",
+  "title": "Obce v okrese Bardejov",
+  "description": "Všetky obce (municipality) v okrese Bardejov, Prešovský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 96,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 5,
+      "fullname": "Abrahámovce",
+      "shortname": "Abrahámovce",
+      "zip": "086 41",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 20,
+      "fullname": "Andrejová",
+      "shortname": "Andrejová",
+      "zip": "086 37",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 80,
+      "fullname": "Bardejov",
+      "shortname": "Bardejov",
+      "zip": "085 01",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 81,
+      "fullname": "Bardejovská Nová Ves",
+      "shortname": "Bardejovská Nová Ves",
+      "zip": "085 01",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 82,
+      "fullname": "Bardejovská Zábava",
+      "shortname": "Bardejovská Zábava",
+      "zip": "085 01",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 83,
+      "fullname": "Bardejovské Kúpele",
+      "shortname": "Bardejovské Kúpele",
+      "zip": "086 31",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 86,
+      "fullname": "Bartošovce",
+      "shortname": "Bartošovce",
+      "zip": "086 42",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 103,
+      "fullname": "Becherov",
+      "shortname": "Becherov",
+      "zip": "086 35",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 117,
+      "fullname": "Beloveža",
+      "shortname": "Beloveža",
+      "zip": "086 14",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 197,
+      "fullname": "Bogliarka",
+      "shortname": "Bogliarka",
+      "zip": "086 04",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 286,
+      "fullname": "Brezov",
+      "shortname": "Brezov",
+      "zip": "087 01",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 292,
+      "fullname": "Brezovka",
+      "shortname": "Brezovka",
+      "zip": "086 11",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 315,
+      "fullname": "Buclovany",
+      "shortname": "Buclovany",
+      "zip": "086 43",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1169,
+      "fullname": "Chmeľová",
+      "shortname": "Chmeľová",
+      "zip": "086 33",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 394,
+      "fullname": "Cigeľka",
+      "shortname": "Cigeľka",
+      "zip": "086 02",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 562,
+      "fullname": "Dlhá Lúka",
+      "shortname": "Dlhá Lúka",
+      "zip": "085 01",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 711,
+      "fullname": "Dubie",
+      "shortname": "Dubie",
+      "zip": "086 45",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 712,
+      "fullname": "Dubinné",
+      "shortname": "Dubinné",
+      "zip": "086 12",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 800,
+      "fullname": "Frička",
+      "shortname": "Frička",
+      "zip": "086 02",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 801,
+      "fullname": "Fričkovce",
+      "shortname": "Fričkovce",
+      "zip": "086 42",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 806,
+      "fullname": "Gaboltov",
+      "shortname": "Gaboltov",
+      "zip": "086 02",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 837,
+      "fullname": "Gerlachov",
+      "shortname": "Gerlachov",
+      "zip": "086 04",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 894,
+      "fullname": "Hankovce",
+      "shortname": "Hankovce",
+      "zip": "086 46",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 897,
+      "fullname": "Harhaj",
+      "shortname": "Harhaj",
+      "zip": "086 45",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 912,
+      "fullname": "Hažlín",
+      "shortname": "Hažlín",
+      "zip": "086 14",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 924,
+      "fullname": "Hertník",
+      "shortname": "Hertník",
+      "zip": "086 42",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 925,
+      "fullname": "Hervartov",
+      "shortname": "Hervartov",
+      "zip": "086 22",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1075,
+      "fullname": "Hrabovec",
+      "shortname": "Hrabovec",
+      "zip": "086 11",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1080,
+      "fullname": "Hrabské",
+      "shortname": "Hrabské",
+      "zip": "086 06",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1155,
+      "fullname": "Hutka",
+      "shortname": "Hutka",
+      "zip": "086 36",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1281,
+      "fullname": "Janovce",
+      "shortname": "Janovce",
+      "zip": "086 41",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1319,
+      "fullname": "Jedlinka",
+      "shortname": "Jedlinka",
+      "zip": "086 36",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1470,
+      "fullname": "Kobyly",
+      "shortname": "Kobyly",
+      "zip": "086 22",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1478,
+      "fullname": "Kochanovce",
+      "shortname": "Kochanovce",
+      "zip": "086 46",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1507,
+      "fullname": "Komárov",
+      "shortname": "Komárov",
+      "zip": "086 11",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1529,
+      "fullname": "Koprivnica",
+      "shortname": "Koprivnica",
+      "zip": "086 43",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1615,
+      "fullname": "Kožany",
+      "shortname": "Kožany",
+      "zip": "086 12",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1676,
+      "fullname": "Krivé",
+      "shortname": "Krivé",
+      "zip": "086 04",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1706,
+      "fullname": "Kružlov",
+      "shortname": "Kružlov",
+      "zip": "086 04",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1708,
+      "fullname": "Kružlovská Huta",
+      "shortname": "Kružlovská Huta",
+      "zip": "086 04",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1684,
+      "fullname": "Kríže",
+      "shortname": "Kríže",
+      "zip": "086 04",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1729,
+      "fullname": "Kurima",
+      "shortname": "Kurima",
+      "zip": "086 12",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1733,
+      "fullname": "Kurov",
+      "shortname": "Kurov",
+      "zip": "086 04",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1718,
+      "fullname": "Kučín",
+      "shortname": "Kučín",
+      "zip": "086 12",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1463,
+      "fullname": "Kľušov",
+      "shortname": "Kľušov",
+      "zip": "086 22",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1464,
+      "fullname": "Kľušovská Zábava",
+      "shortname": "Kľušovská Zábava",
+      "zip": "086 22",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1783,
+      "fullname": "Lascov",
+      "shortname": "Lascov",
+      "zip": "086 45",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1813,
+      "fullname": "Lenartov",
+      "shortname": "Lenartov",
+      "zip": "086 06",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1864,
+      "fullname": "Lipová",
+      "shortname": "Lipová",
+      "zip": "086 12",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1902,
+      "fullname": "Livov",
+      "shortname": "Livov",
+      "zip": "086 05",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1903,
+      "fullname": "Livovská Huta",
+      "shortname": "Livovská Huta",
+      "zip": "086 05",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1916,
+      "fullname": "Lopúchov",
+      "shortname": "Lopúchov",
+      "zip": "086 41",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1968,
+      "fullname": "Lukavica",
+      "shortname": "Lukavica",
+      "zip": "086 21",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1971,
+      "fullname": "Lukov",
+      "shortname": "Lukov",
+      "zip": "086 05",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2045,
+      "fullname": "Malcov",
+      "shortname": "Malcov",
+      "zip": "086 06",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2113,
+      "fullname": "Marhaň",
+      "shortname": "Marhaň",
+      "zip": "086 45",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2174,
+      "fullname": "Miháľov",
+      "shortname": "Miháľov",
+      "zip": "085 01",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2190,
+      "fullname": "Mikulášová",
+      "shortname": "Mikulášová",
+      "zip": "086 36",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2246,
+      "fullname": "Mokroluh",
+      "shortname": "Mokroluh",
+      "zip": "086 01",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2313,
+      "fullname": "Nemcovce",
+      "shortname": "Nemcovce",
+      "zip": "086 12",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2358,
+      "fullname": "Nižná Polianka",
+      "shortname": "Nižná Polianka",
+      "zip": "086 36",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2366,
+      "fullname": "Nižná Voľa",
+      "shortname": "Nižná Voľa",
+      "zip": "086 21",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2371,
+      "fullname": "Nižné Raslavice",
+      "shortname": "Nižné Raslavice",
+      "zip": "086 41",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2390,
+      "fullname": "Nižný Tvarožec",
+      "shortname": "Nižný Tvarožec",
+      "zip": "086 02",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2490,
+      "fullname": "Ondavka",
+      "shortname": "Ondavka",
+      "zip": "086 36",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2535,
+      "fullname": "Ortuťová",
+      "shortname": "Ortuťová",
+      "zip": "086 12",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2538,
+      "fullname": "Osikov",
+      "shortname": "Osikov",
+      "zip": "086 42",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2479,
+      "fullname": "Oľšavce",
+      "shortname": "Oľšavce",
+      "zip": "086 46",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2625,
+      "fullname": "Petrová",
+      "shortname": "Petrová",
+      "zip": "086 02",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2742,
+      "fullname": "Poliakovce",
+      "shortname": "Poliakovce",
+      "zip": "086 11",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2775,
+      "fullname": "Porúbka",
+      "shortname": "Porúbka",
+      "zip": "086 12",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2925,
+      "fullname": "Raslavice",
+      "shortname": "Raslavice",
+      "zip": "086 41",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2950,
+      "fullname": "Regetovka",
+      "shortname": "Regetovka",
+      "zip": "086 33",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2962,
+      "fullname": "Rešov",
+      "shortname": "Rešov",
+      "zip": "086 21",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2976,
+      "fullname": "Richvald",
+      "shortname": "Richvald",
+      "zip": "085 01",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2993,
+      "fullname": "Rokytov",
+      "shortname": "Rokytov",
+      "zip": "086 01",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3200,
+      "fullname": "Smilno",
+      "shortname": "Smilno",
+      "zip": "086 33",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3209,
+      "fullname": "Snakov",
+      "shortname": "Snakov",
+      "zip": "086 06",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3283,
+      "fullname": "Stebnícka Huta",
+      "shortname": "Stebnícka Huta",
+      "zip": "086 33",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3284,
+      "fullname": "Stebník",
+      "shortname": "Stebník",
+      "zip": "086 33",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3326,
+      "fullname": "Stuľany",
+      "shortname": "Stuľany",
+      "zip": "086 43",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3361,
+      "fullname": "Sveržov",
+      "shortname": "Sveržov",
+      "zip": "086 02",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3504,
+      "fullname": "Tarnov",
+      "shortname": "Tarnov",
+      "zip": "086 01",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3608,
+      "fullname": "Tročany",
+      "shortname": "Tročany",
+      "zip": "086 41",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3717,
+      "fullname": "Vaniškovce",
+      "shortname": "Vaniškovce",
+      "zip": "086 41",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3720,
+      "fullname": "Varadka",
+      "shortname": "Varadka",
+      "zip": "086 36",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3992,
+      "fullname": "Vyšná Polianka",
+      "shortname": "Vyšná Polianka",
+      "zip": "086 36",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3999,
+      "fullname": "Vyšná Voľa",
+      "shortname": "Vyšná Voľa",
+      "zip": "086 21",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4005,
+      "fullname": "Vyšné Raslavice",
+      "shortname": "Vyšné Raslavice",
+      "zip": "086 41",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4019,
+      "fullname": "Vyšný Kručov",
+      "shortname": "Vyšný Kručov",
+      "zip": "086 45",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4028,
+      "fullname": "Vyšný Tvarožec",
+      "shortname": "Vyšný Tvarožec",
+      "zip": "086 02",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4095,
+      "fullname": "Zborov",
+      "shortname": "Zborov",
+      "zip": "086 33",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4133,
+      "fullname": "Zlaté",
+      "shortname": "Zlaté",
+      "zip": "086 01",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3399,
+      "fullname": "Šarišské Čierne",
+      "shortname": "Šarišské Čierne",
+      "zip": "086 37",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3409,
+      "fullname": "Šašová",
+      "shortname": "Šašová",
+      "zip": "086 12",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3420,
+      "fullname": "Šiba",
+      "shortname": "Šiba",
+      "zip": "086 22",
+      "district_id": 4,
+      "okres": "Bardejov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Bardejov - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Bardejov, Prešovský kraj — s PSČ a kódom okresu. Obsahuje 96 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Bardejov | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Bardejov — 96 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 96 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

@@ -1,0 +1,716 @@
+{
+  "id": "sk-topolcany-obce",
+  "name": "Obce v okrese Topoľčany",
+  "title": "Obce v okrese Topoľčany",
+  "description": "Všetky obce (municipality) v okrese Topoľčany, Nitriansky kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 65,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 23,
+      "fullname": "Ardanovce",
+      "shortname": "Ardanovce",
+      "zip": "956 06",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 101,
+      "fullname": "Behynce",
+      "shortname": "Behynce",
+      "zip": "956 07",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 115,
+      "fullname": "Belince",
+      "shortname": "Belince",
+      "zip": "956 12",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 164,
+      "fullname": "Biskupová",
+      "shortname": "Biskupová",
+      "zip": "956 07",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 177,
+      "fullname": "Blesovce",
+      "shortname": "Blesovce",
+      "zip": "956 01",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 189,
+      "fullname": "Bodok",
+      "shortname": "Bodok",
+      "zip": "956 08",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 206,
+      "fullname": "Bojná",
+      "shortname": "Bojná",
+      "zip": "956 01",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 372,
+      "fullname": "Bzince",
+      "shortname": "Bzince",
+      "zip": "956 05",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1183,
+      "fullname": "Chrabrany",
+      "shortname": "Chrabrany",
+      "zip": "955 01",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 624,
+      "fullname": "Dolné Chlebany",
+      "shortname": "Dolné Chlebany",
+      "zip": "956 31",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 764,
+      "fullname": "Dvorany nad Nitrou",
+      "shortname": "Dvorany nad Nitrou",
+      "zip": "956 11",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 873,
+      "fullname": "Hajná Nová Ves",
+      "shortname": "Hajná Nová Ves",
+      "zip": "956 03",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1002,
+      "fullname": "Horné Chlebany",
+      "shortname": "Horné Chlebany",
+      "zip": "956 31",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1015,
+      "fullname": "Horné Obdokovce",
+      "shortname": "Horné Obdokovce",
+      "zip": "956 08",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1029,
+      "fullname": "Horné Štitáre",
+      "shortname": "Horné Štitáre",
+      "zip": "956 03",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1132,
+      "fullname": "Hrušovany",
+      "shortname": "Hrušovany",
+      "zip": "956 13",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1249,
+      "fullname": "Jacovce",
+      "shortname": "Jacovce",
+      "zip": "956 21",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1366,
+      "fullname": "Kamanová",
+      "shortname": "Kamanová",
+      "zip": "956 12",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1515,
+      "fullname": "Koniarovce",
+      "shortname": "Koniarovce",
+      "zip": "956 13",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1609,
+      "fullname": "Kovarce",
+      "shortname": "Kovarce",
+      "zip": "956 15",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1693,
+      "fullname": "Krnča",
+      "shortname": "Krnča",
+      "zip": "956 19",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1700,
+      "fullname": "Krtovce",
+      "shortname": "Krtovce",
+      "zip": "956 03",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1705,
+      "fullname": "Krušovce",
+      "shortname": "Krušovce",
+      "zip": "956 31",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1740,
+      "fullname": "Kuzmice",
+      "shortname": "Kuzmice",
+      "zip": "956 21",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1428,
+      "fullname": "Kľačany",
+      "shortname": "Kľačany",
+      "zip": "956 02",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1873,
+      "fullname": "Lipovník",
+      "shortname": "Lipovník",
+      "zip": "956 01",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1959,
+      "fullname": "Ludanice",
+      "shortname": "Ludanice",
+      "zip": "956 11",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1984,
+      "fullname": "Lužany",
+      "shortname": "Lužany",
+      "zip": "956 07",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2047,
+      "fullname": "Malé Bedzany",
+      "shortname": "Malé Bedzany",
+      "zip": "955 01",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2052,
+      "fullname": "Malé Dvorany",
+      "shortname": "Malé Dvorany",
+      "zip": "956 01",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2069,
+      "fullname": "Malé Ripňany",
+      "shortname": "Malé Ripňany",
+      "zip": "956 07",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2286,
+      "fullname": "Mýtna Nová Ves",
+      "shortname": "Mýtna Nová Ves",
+      "zip": "956 11",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2317,
+      "fullname": "Nemečky",
+      "shortname": "Nemečky",
+      "zip": "956 22",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2314,
+      "fullname": "Nemčice",
+      "shortname": "Nemčice",
+      "zip": "955 01",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2336,
+      "fullname": "Nitrianska Blatnica",
+      "shortname": "Nitrianska Blatnica",
+      "zip": "956 05",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2337,
+      "fullname": "Nitrianska Streda",
+      "shortname": "Nitrianska Streda",
+      "zip": "956 16",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2393,
+      "fullname": "Norovce",
+      "shortname": "Norovce",
+      "zip": "956 38",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2457,
+      "fullname": "Obsolovce",
+      "shortname": "Obsolovce",
+      "zip": "956 08",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2511,
+      "fullname": "Oponice",
+      "shortname": "Oponice",
+      "zip": "956 14",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2528,
+      "fullname": "Orešany",
+      "shortname": "Orešany",
+      "zip": "956 06",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2700,
+      "fullname": "Podhradie",
+      "shortname": "Podhradie",
+      "zip": "955 01",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2803,
+      "fullname": "Prašice",
+      "shortname": "Prašice",
+      "zip": "956 22",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2819,
+      "fullname": "Preseľany",
+      "shortname": "Preseľany",
+      "zip": "956 12",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2809,
+      "fullname": "Práznovce",
+      "shortname": "Práznovce",
+      "zip": "955 01",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2892,
+      "fullname": "Radošina",
+      "shortname": "Radošina",
+      "zip": "956 05",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2902,
+      "fullname": "Rajčany",
+      "shortname": "Rajčany",
+      "zip": "956 32",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3227,
+      "fullname": "Solčany",
+      "shortname": "Solčany",
+      "zip": "956 17",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3228,
+      "fullname": "Solčianky",
+      "shortname": "Solčianky",
+      "zip": "956 38",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3373,
+      "fullname": "Svrbice",
+      "shortname": "Svrbice",
+      "zip": "956 06",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3344,
+      "fullname": "Súlovce",
+      "shortname": "Súlovce",
+      "zip": "956 14",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3534,
+      "fullname": "Tesáre",
+      "shortname": "Tesáre",
+      "zip": "956 21",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3559,
+      "fullname": "Topoľčany",
+      "shortname": "Topoľčany",
+      "zip": 0,
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3571,
+      "fullname": "Tovarníky",
+      "shortname": "Tovarníky",
+      "zip": "955 01",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3657,
+      "fullname": "Tvrdomestice",
+      "shortname": "Tvrdomestice",
+      "zip": "956 22",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3690,
+      "fullname": "Urmince",
+      "shortname": "Urmince",
+      "zip": "956 02",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3844,
+      "fullname": "Velušovce",
+      "shortname": "Velušovce",
+      "zip": "955 01",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3770,
+      "fullname": "Veľké Bedzany",
+      "shortname": "Veľké Bedzany",
+      "zip": "955 01",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3778,
+      "fullname": "Veľké Dvorany",
+      "shortname": "Veľké Dvorany",
+      "zip": "956 01",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3799,
+      "fullname": "Veľké Ripňany",
+      "shortname": "Veľké Ripňany",
+      "zip": "956 07",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3926,
+      "fullname": "Vozokany",
+      "shortname": "Vozokany",
+      "zip": "956 05",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 4047,
+      "fullname": "Záhrada",
+      "shortname": "Záhrada",
+      "zip": "955 01",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 4074,
+      "fullname": "Závada",
+      "shortname": "Závada",
+      "zip": "955 01",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 458,
+      "fullname": "Čermany",
+      "shortname": "Čermany",
+      "zip": "956 08",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 441,
+      "fullname": "Čeľadince",
+      "shortname": "Čeľadince",
+      "zip": "956 16",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3381,
+      "fullname": "Šalgovce",
+      "shortname": "Šalgovce",
+      "zip": "956 06",
+      "district_id": 67,
+      "okres": "Topoľčany",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Topoľčany - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Topoľčany, Nitriansky kraj — s PSČ a kódom okresu. Obsahuje 65 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Topoľčany | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Topoľčany — 65 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 65 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

@@ -1,0 +1,7261 @@
+{
+  "id": "sk-vodne-plochy",
+  "name": "Vodné plochy",
+  "title": "Vodné plochy",
+  "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (natural=water). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1444,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Vodná nádrž Milošová",
+      "latitude": 49.483702,
+      "longitude": 18.729163
+    },
+    {
+      "name": "Svrčinovský rybník",
+      "latitude": 49.467173,
+      "longitude": 18.78668
+    },
+    {
+      "name": "Rieka",
+      "latitude": 49.418245,
+      "longitude": 18.785605
+    },
+    {
+      "name": "Nižný Tajch",
+      "latitude": 49.581574,
+      "longitude": 19.453965
+    },
+    {
+      "name": "Mułowy Stawek",
+      "latitude": 49.569391,
+      "longitude": 19.545566
+    },
+    {
+      "name": "Czarne Oko",
+      "latitude": 49.580662,
+      "longitude": 19.511891
+    },
+    {
+      "name": "Orawski Mały Stawek",
+      "latitude": 49.566069,
+      "longitude": 19.531218
+    },
+    {
+      "name": "Vodná nádrž Michalovka",
+      "latitude": 49.423505,
+      "longitude": 19.475113
+    },
+    {
+      "name": "Oravská priehrada",
+      "latitude": 49.412297,
+      "longitude": 19.551182
+    },
+    {
+      "name": "Javorec",
+      "latitude": 48.976761,
+      "longitude": 17.900316
+    },
+    {
+      "name": "Kalná",
+      "latitude": 49.029782,
+      "longitude": 18.25221
+    },
+    {
+      "name": "Kočkovský kanál",
+      "latitude": 49.034425,
+      "longitude": 18.275027
+    },
+    {
+      "name": "Kočkovský kanál",
+      "latitude": 49.034003,
+      "longitude": 18.274495
+    },
+    {
+      "name": "Vodná nádrž Bolešov Gilianka",
+      "latitude": 49.002864,
+      "longitude": 18.138306
+    },
+    {
+      "name": "Ilavský rybník",
+      "latitude": 49.008237,
+      "longitude": 18.229833
+    },
+    {
+      "name": "Slavnica",
+      "latitude": 48.992123,
+      "longitude": 18.194571
+    },
+    {
+      "name": "Kočkovský kanál",
+      "latitude": 48.99747,
+      "longitude": 18.219492
+    },
+    {
+      "name": "Prejtské jazerá",
+      "latitude": 48.982826,
+      "longitude": 18.195449
+    },
+    {
+      "name": "Odstavné rameno Kĺúčové",
+      "latitude": 48.947891,
+      "longitude": 18.095374
+    },
+    {
+      "name": "Gabajove štrkovisko",
+      "latitude": 48.937651,
+      "longitude": 18.088455
+    },
+    {
+      "name": "Gabajove štrkovisko",
+      "latitude": 48.940386,
+      "longitude": 18.090408
+    },
+    {
+      "name": "Gabajove štrkovisko",
+      "latitude": 48.939141,
+      "longitude": 18.088926
+    },
+    {
+      "name": "Štrkovisko Dubnička",
+      "latitude": 48.970942,
+      "longitude": 18.147126
+    },
+    {
+      "name": "Štrkovisko Ľuborča",
+      "latitude": 48.954223,
+      "longitude": 18.108496
+    },
+    {
+      "name": "Kočkovský kanál",
+      "latitude": 48.970151,
+      "longitude": 18.16042
+    },
+    {
+      "name": "Kočkovský kanál",
+      "latitude": 48.969512,
+      "longitude": 18.158863
+    },
+    {
+      "name": "Enkláva",
+      "latitude": 48.945374,
+      "longitude": 18.108179
+    },
+    {
+      "name": "VN Ochodnica",
+      "latitude": 49.341247,
+      "longitude": 18.7716
+    },
+    {
+      "name": "VN Nesluša",
+      "latitude": 49.293156,
+      "longitude": 18.748647
+    },
+    {
+      "name": "Rybník Horná Mariková",
+      "latitude": 49.243925,
+      "longitude": 18.307107
+    },
+    {
+      "name": "Šurabka",
+      "latitude": 49.241401,
+      "longitude": 18.62703
+    },
+    {
+      "name": "VN Ihrište 2",
+      "latitude": 49.160315,
+      "longitude": 18.303147
+    },
+    {
+      "name": "VN Ihrište",
+      "latitude": 49.158883,
+      "longitude": 18.307999
+    },
+    {
+      "name": "Vodná nádrž Mikšová",
+      "latitude": 49.201197,
+      "longitude": 18.503078
+    },
+    {
+      "name": "Hričovský kanál",
+      "latitude": 49.19371,
+      "longitude": 18.508317
+    },
+    {
+      "name": "Vodná nádrž Beňov",
+      "latitude": 49.189321,
+      "longitude": 18.491716
+    },
+    {
+      "name": "Hričovský kanál",
+      "latitude": 49.159915,
+      "longitude": 18.472837
+    },
+    {
+      "name": "Vodná nádrž Hričov",
+      "latitude": 49.247281,
+      "longitude": 18.695622
+    },
+    {
+      "name": "Hričovský derivačný kanál",
+      "latitude": 49.257668,
+      "longitude": 18.65644
+    },
+    {
+      "name": "Strážovský rybník",
+      "latitude": 49.239325,
+      "longitude": 18.699982
+    },
+    {
+      "name": "Štrkovisko Brodno",
+      "latitude": 49.253611,
+      "longitude": 18.745396
+    },
+    {
+      "name": "Bažina",
+      "latitude": 49.217108,
+      "longitude": 18.71029
+    },
+    {
+      "name": "Biokoridor pri Vodnom diele Žilina",
+      "latitude": 49.225358,
+      "longitude": 18.771108
+    },
+    {
+      "name": "Lom Nezbud",
+      "latitude": 49.183171,
+      "longitude": 18.874528
+    },
+    {
+      "name": "Vodné dielo Žilina",
+      "latitude": 49.200524,
+      "longitude": 18.813918
+    },
+    {
+      "name": "Vodná nádrž Nová Bystrica",
+      "latitude": 49.333708,
+      "longitude": 19.053417
+    },
+    {
+      "name": "Požiarnícka nádrž",
+      "latitude": 49.339086,
+      "longitude": 19.199288
+    },
+    {
+      "name": "Taborové Kúpalisko",
+      "latitude": 49.327187,
+      "longitude": 19.207039
+    },
+    {
+      "name": "Puchmajerovej jazierko",
+      "latitude": 49.277628,
+      "longitude": 19.255495
+    },
+    {
+      "name": "Vodná nádrž Tvrdošín",
+      "latitude": 49.351788,
+      "longitude": 19.545953
+    },
+    {
+      "name": "SKI nádrž",
+      "latitude": 49.256713,
+      "longitude": 19.25054
+    },
+    {
+      "name": "Kraľovanské jazero",
+      "latitude": 49.153834,
+      "longitude": 19.098784
+    },
+    {
+      "name": "Párnické jazerá",
+      "latitude": 49.199711,
+      "longitude": 19.21073
+    },
+    {
+      "name": "Párnické jazerá",
+      "latitude": 49.196558,
+      "longitude": 19.205154
+    },
+    {
+      "name": "Párnické jazerá",
+      "latitude": 49.192618,
+      "longitude": 19.206152
+    },
+    {
+      "name": "Pleso na Choči",
+      "latitude": 49.153092,
+      "longitude": 19.315088
+    },
+    {
+      "name": "Čierne pleso",
+      "latitude": 49.23912,
+      "longitude": 19.52521
+    },
+    {
+      "name": "Biele Bobrovecké pliesko",
+      "latitude": 49.218756,
+      "longitude": 19.655944
+    },
+    {
+      "name": "na Grapách",
+      "latitude": 49.215605,
+      "longitude": 19.674513
+    },
+    {
+      "name": "Bobrovecké čierne pleso",
+      "latitude": 49.212534,
+      "longitude": 19.65347
+    },
+    {
+      "name": "Horné Bobrovecké pleso",
+      "latitude": 49.222037,
+      "longitude": 19.662897
+    },
+    {
+      "name": "Melé pleso",
+      "latitude": 49.215419,
+      "longitude": 19.652699
+    },
+    {
+      "name": "Jóbovo prepadlisko",
+      "latitude": 49.183499,
+      "longitude": 19.4934
+    },
+    {
+      "name": "Sedliacke prepadlisko",
+      "latitude": 49.183259,
+      "longitude": 19.484599
+    },
+    {
+      "name": "Pleso za Babkami",
+      "latitude": 49.181776,
+      "longitude": 19.622683
+    },
+    {
+      "name": "Požiarne jazero Rakytie",
+      "latitude": 49.165635,
+      "longitude": 19.65789
+    },
+    {
+      "name": "Požiarna nádrž Krivô",
+      "latitude": 49.15821,
+      "longitude": 19.664583
+    },
+    {
+      "name": "Požiarna nádrž Krivá dolina",
+      "latitude": 49.166285,
+      "longitude": 19.662016
+    },
+    {
+      "name": "Nosická priehrada",
+      "latitude": 49.139231,
+      "longitude": 18.40358
+    },
+    {
+      "name": "Hričovský kanál",
+      "latitude": 49.12981,
+      "longitude": 18.441768
+    },
+    {
+      "name": "Kúpeľné jazierko",
+      "latitude": 49.130808,
+      "longitude": 18.373309
+    },
+    {
+      "name": "Odhanka 1",
+      "latitude": 49.119065,
+      "longitude": 18.326145
+    },
+    {
+      "name": "Odhanka 7",
+      "latitude": 49.115777,
+      "longitude": 18.320135
+    },
+    {
+      "name": "Odhanka 5",
+      "latitude": 49.116728,
+      "longitude": 18.321852
+    },
+    {
+      "name": "Odhanka 3",
+      "latitude": 49.117845,
+      "longitude": 18.323876
+    },
+    {
+      "name": "Odhanka 2",
+      "latitude": 49.118398,
+      "longitude": 18.325033
+    },
+    {
+      "name": "Odhanka 6",
+      "latitude": 49.116195,
+      "longitude": 18.321158
+    },
+    {
+      "name": "Odhanka 4",
+      "latitude": 49.117265,
+      "longitude": 18.322774
+    },
+    {
+      "name": "Odhanka 9",
+      "latitude": 49.114802,
+      "longitude": 18.317502
+    },
+    {
+      "name": "Odhanka 8",
+      "latitude": 49.11542,
+      "longitude": 18.318797
+    },
+    {
+      "name": "Podhradské more",
+      "latitude": 49.12801,
+      "longitude": 18.462012
+    },
+    {
+      "name": "Kočkovský kanál",
+      "latitude": 49.073658,
+      "longitude": 18.30809
+    },
+    {
+      "name": "Vodná nádrž Dolné Kočkovce",
+      "latitude": 49.093596,
+      "longitude": 18.337281
+    },
+    {
+      "name": "Košiare",
+      "latitude": 49.073813,
+      "longitude": 18.61205
+    },
+    {
+      "name": "Labutie jazierko",
+      "latitude": 49.130877,
+      "longitude": 18.683541
+    },
+    {
+      "name": "Široká",
+      "latitude": 49.124305,
+      "longitude": 18.925731
+    },
+    {
+      "name": "Jazero I.",
+      "latitude": 49.120426,
+      "longitude": 18.923605
+    },
+    {
+      "name": "Jazero II.",
+      "latitude": 49.11896,
+      "longitude": 18.932435
+    },
+    {
+      "name": "Ontário",
+      "latitude": 49.113583,
+      "longitude": 18.974583
+    },
+    {
+      "name": "Nové jazierko",
+      "latitude": 49.122504,
+      "longitude": 18.920942
+    },
+    {
+      "name": "Košútske Jazierko",
+      "latitude": 49.08786,
+      "longitude": 18.94079
+    },
+    {
+      "name": "Štrkovisko Explózia",
+      "latitude": 49.09089,
+      "longitude": 18.966223
+    },
+    {
+      "name": "Jazierko lásky",
+      "latitude": 48.983083,
+      "longitude": 18.415999
+    },
+    {
+      "name": "Príbovský rybník",
+      "latitude": 48.994731,
+      "longitude": 18.891312
+    },
+    {
+      "name": "o",
+      "latitude": 48.986724,
+      "longitude": 18.982569
+    },
+    {
+      "name": "Rybník Ďanová",
+      "latitude": 48.967896,
+      "longitude": 18.918095
+    },
+    {
+      "name": "Jazernícke jazierko",
+      "latitude": 48.923629,
+      "longitude": 18.82889
+    },
+    {
+      "name": "Požiarna nádrž",
+      "latitude": 49.134882,
+      "longitude": 19.087092
+    },
+    {
+      "name": "Vodná nádrž Krpeľany",
+      "latitude": 49.139621,
+      "longitude": 19.095837
+    },
+    {
+      "name": "Pôtovo",
+      "latitude": 49.124026,
+      "longitude": 19.061567
+    },
+    {
+      "name": "Rybník Lužný les",
+      "latitude": 49.113615,
+      "longitude": 19.067322
+    },
+    {
+      "name": "Štrkovisko Chrenkova pláň",
+      "latitude": 49.108596,
+      "longitude": 19.0564
+    },
+    {
+      "name": "Štrkovisko Bôr",
+      "latitude": 49.113864,
+      "longitude": 19.079226
+    },
+    {
+      "name": "Nolčovská jama",
+      "latitude": 49.116116,
+      "longitude": 19.083591
+    },
+    {
+      "name": "Teplica",
+      "latitude": 49.146748,
+      "longitude": 19.160445
+    },
+    {
+      "name": "Bahnisko",
+      "latitude": 49.125507,
+      "longitude": 19.22745
+    },
+    {
+      "name": "Bahnisko",
+      "latitude": 49.126604,
+      "longitude": 19.234918
+    },
+    {
+      "name": "pleso na Zadnom Choči",
+      "latitude": 49.136239,
+      "longitude": 19.333009
+    },
+    {
+      "name": "bahnisko",
+      "latitude": 49.134326,
+      "longitude": 19.328651
+    },
+    {
+      "name": "Bahnisko",
+      "latitude": 49.126953,
+      "longitude": 19.322891
+    },
+    {
+      "name": "bahnisko",
+      "latitude": 49.134846,
+      "longitude": 19.325974
+    },
+    {
+      "name": "bahnisko",
+      "latitude": 49.149389,
+      "longitude": 19.301228
+    },
+    {
+      "name": "bahnisko",
+      "latitude": 49.129936,
+      "longitude": 19.263558
+    },
+    {
+      "name": "bahnisko",
+      "latitude": 49.104608,
+      "longitude": 19.222238
+    },
+    {
+      "name": "Vyšné jazierko medzi Čebraťmi",
+      "latitude": 49.099916,
+      "longitude": 19.292335
+    },
+    {
+      "name": "Diviačie jazierko",
+      "latitude": 49.119636,
+      "longitude": 19.301155
+    },
+    {
+      "name": "Nižné jazierko medzi Čebraťmi",
+      "latitude": 49.099787,
+      "longitude": 19.293947
+    },
+    {
+      "name": "Žabie jazierko",
+      "latitude": 49.097491,
+      "longitude": 19.335272
+    },
+    {
+      "name": "bahnisko",
+      "latitude": 49.110307,
+      "longitude": 19.318034
+    },
+    {
+      "name": "bahnisko",
+      "latitude": 49.109364,
+      "longitude": 19.316383
+    },
+    {
+      "name": "bahnisko",
+      "latitude": 49.117941,
+      "longitude": 19.281618
+    },
+    {
+      "name": "bahnisko",
+      "latitude": 49.119334,
+      "longitude": 19.27435
+    },
+    {
+      "name": "bahnisko",
+      "latitude": 49.120505,
+      "longitude": 19.277388
+    },
+    {
+      "name": "Bahnisko",
+      "latitude": 49.11984,
+      "longitude": 19.327521
+    },
+    {
+      "name": "ponor",
+      "latitude": 49.111318,
+      "longitude": 19.260554
+    },
+    {
+      "name": "Rozprávkovo",
+      "latitude": 49.114682,
+      "longitude": 19.302296
+    },
+    {
+      "name": "Teplické serpentíny",
+      "latitude": 49.072748,
+      "longitude": 19.024567
+    },
+    {
+      "name": "Teplické serpentíny",
+      "latitude": 49.073323,
+      "longitude": 19.0218
+    },
+    {
+      "name": "Teplické serpentíny",
+      "latitude": 49.07395,
+      "longitude": 19.020039
+    },
+    {
+      "name": "Teplické serpentíny",
+      "latitude": 49.07299,
+      "longitude": 19.025212
+    },
+    {
+      "name": "Teplické serpentíny",
+      "latitude": 49.07249,
+      "longitude": 19.025504
+    },
+    {
+      "name": "bahnisko",
+      "latitude": 49.089349,
+      "longitude": 19.204465
+    },
+    {
+      "name": "Vodná nádrž Hrabovo",
+      "latitude": 49.072184,
+      "longitude": 19.273152
+    },
+    {
+      "name": "Zberná vodná nádrž Čutkovo",
+      "latitude": 49.078716,
+      "longitude": 19.253111
+    },
+    {
+      "name": "Bahnisko",
+      "latitude": 49.048299,
+      "longitude": 19.222608
+    },
+    {
+      "name": "bahnisko",
+      "latitude": 49.042518,
+      "longitude": 19.210243
+    },
+    {
+      "name": "bahnisko",
+      "latitude": 49.04218,
+      "longitude": 19.275672
+    },
+    {
+      "name": "Termálny prameň Kalameny",
+      "latitude": 49.133299,
+      "longitude": 19.419557
+    },
+    {
+      "name": "Kadlub",
+      "latitude": 49.125199,
+      "longitude": 19.416506
+    },
+    {
+      "name": "Túfové jazierko",
+      "latitude": 49.148048,
+      "longitude": 19.418783
+    },
+    {
+      "name": "ponor",
+      "latitude": 49.138993,
+      "longitude": 19.388367
+    },
+    {
+      "name": "Medokýš",
+      "latitude": 49.133418,
+      "longitude": 19.419516
+    },
+    {
+      "name": "Jazero na Hukove",
+      "latitude": 49.133198,
+      "longitude": 19.442673
+    },
+    {
+      "name": "Jazero na Hôzde",
+      "latitude": 49.12444,
+      "longitude": 19.430609
+    },
+    {
+      "name": "Husacie jazierko",
+      "latitude": 49.135764,
+      "longitude": 19.510042
+    },
+    {
+      "name": "Turícky Tajch",
+      "latitude": 49.119649,
+      "longitude": 19.358544
+    },
+    {
+      "name": "Sukromný rybník Zlatá rybka",
+      "latitude": 49.098296,
+      "longitude": 19.438231
+    },
+    {
+      "name": "Vodná nádrž Bešeňová",
+      "latitude": 49.096475,
+      "longitude": 19.460729
+    },
+    {
+      "name": "Termálny kráter",
+      "latitude": 49.102218,
+      "longitude": 19.445201
+    },
+    {
+      "name": "Rybník",
+      "latitude": 49.146129,
+      "longitude": 19.517992
+    },
+    {
+      "name": "Baywatch",
+      "latitude": 49.128348,
+      "longitude": 19.624887
+    },
+    {
+      "name": "Liptovská Mara",
+      "latitude": 49.108886,
+      "longitude": 19.53139
+    },
+    {
+      "name": "Sliačik",
+      "latitude": 49.087799,
+      "longitude": 19.371361
+    },
+    {
+      "name": "Gôtovanska zátoka",
+      "latitude": 49.082415,
+      "longitude": 19.499221
+    },
+    {
+      "name": "Teplica",
+      "latitude": 49.054485,
+      "longitude": 19.416886
+    },
+    {
+      "name": "Starý Tajch",
+      "latitude": 49.039911,
+      "longitude": 19.38985
+    },
+    {
+      "name": "Bahnisko",
+      "latitude": 49.038949,
+      "longitude": 19.347345
+    },
+    {
+      "name": "Galovianska zátoka",
+      "latitude": 49.084566,
+      "longitude": 19.53974
+    },
+    {
+      "name": "Metamorfózy",
+      "latitude": 49.084635,
+      "longitude": 19.613222
+    },
+    {
+      "name": "Iľanovský tajch",
+      "latitude": 49.041833,
+      "longitude": 19.606852
+    },
+    {
+      "name": "Štrkovisko - na Farskom",
+      "latitude": 49.058632,
+      "longitude": 19.67186
+    },
+    {
+      "name": "Kaďa",
+      "latitude": 49.042999,
+      "longitude": 19.678155
+    },
+    {
+      "name": "jazierko",
+      "latitude": 49.035886,
+      "longitude": 19.245665
+    },
+    {
+      "name": "Ponor Jazierce",
+      "latitude": 49.017479,
+      "longitude": 19.281708
+    },
+    {
+      "name": "Stavidlá",
+      "latitude": 49.014608,
+      "longitude": 19.292649
+    },
+    {
+      "name": "oká",
+      "latitude": 49.017671,
+      "longitude": 19.282474
+    },
+    {
+      "name": "Stavidlá",
+      "latitude": 49.004052,
+      "longitude": 19.289552
+    },
+    {
+      "name": "bahnisko",
+      "latitude": 48.982887,
+      "longitude": 19.294386
+    },
+    {
+      "name": "Bahnisko",
+      "latitude": 49.003637,
+      "longitude": 19.270543
+    },
+    {
+      "name": "Vyšný Tajch",
+      "latitude": 48.967547,
+      "longitude": 19.138659
+    },
+    {
+      "name": "Bahnisko",
+      "latitude": 48.954574,
+      "longitude": 19.296181
+    },
+    {
+      "name": "Bahnisko",
+      "latitude": 48.954688,
+      "longitude": 19.293153
+    },
+    {
+      "name": "Bahnisko",
+      "latitude": 48.94164,
+      "longitude": 19.272761
+    },
+    {
+      "name": "Bahnisko",
+      "latitude": 49.034535,
+      "longitude": 19.370289
+    },
+    {
+      "name": "Bahnisko",
+      "latitude": 49.02361,
+      "longitude": 19.414573
+    },
+    {
+      "name": "bahnisko",
+      "latitude": 49.029898,
+      "longitude": 19.424742
+    },
+    {
+      "name": "bahnisko",
+      "latitude": 49.032018,
+      "longitude": 19.424127
+    },
+    {
+      "name": "bahnisko",
+      "latitude": 49.03236,
+      "longitude": 19.427921
+    },
+    {
+      "name": "Bahnisko",
+      "latitude": 49.007769,
+      "longitude": 19.35493
+    },
+    {
+      "name": "Protipožiarna nádrž",
+      "latitude": 48.984154,
+      "longitude": 19.486842
+    },
+    {
+      "name": "Požiarna nádrž",
+      "latitude": 49.001669,
+      "longitude": 19.474273
+    },
+    {
+      "name": "Bahnisko",
+      "latitude": 49.032241,
+      "longitude": 19.593001
+    },
+    {
+      "name": "Magurský Tajch",
+      "latitude": 48.964435,
+      "longitude": 19.416865
+    },
+    {
+      "name": "bahnisko",
+      "latitude": 48.975602,
+      "longitude": 19.392747
+    },
+    {
+      "name": "Žliebky",
+      "latitude": 48.980112,
+      "longitude": 19.346087
+    },
+    {
+      "name": "Predpekelná",
+      "latitude": 48.972841,
+      "longitude": 19.508636
+    },
+    {
+      "name": "stará banská nádrž",
+      "latitude": 48.978774,
+      "longitude": 19.511147
+    },
+    {
+      "name": "Pleso v Jame",
+      "latitude": 48.952911,
+      "longitude": 19.458522
+    },
+    {
+      "name": "pleso na Solisku",
+      "latitude": 48.958686,
+      "longitude": 19.473161
+    },
+    {
+      "name": "Pleso pod Chabencom",
+      "latitude": 48.952205,
+      "longitude": 19.491195
+    },
+    {
+      "name": "Pleso na Pekelnej",
+      "latitude": 48.967274,
+      "longitude": 19.501921
+    },
+    {
+      "name": "Pekelné pleso",
+      "latitude": 48.965855,
+      "longitude": 19.491495
+    },
+    {
+      "name": "pleso",
+      "latitude": 48.96699,
+      "longitude": 19.493102
+    },
+    {
+      "name": "Latiborské pleso",
+      "latitude": 48.926667,
+      "longitude": 19.401249
+    },
+    {
+      "name": "Latiborské pliesko",
+      "latitude": 48.926919,
+      "longitude": 19.400677
+    },
+    {
+      "name": "Diviačie jazierko",
+      "latitude": 48.93422,
+      "longitude": 19.426714
+    },
+    {
+      "name": "Tajch Russeger",
+      "latitude": 48.938808,
+      "longitude": 19.427088
+    },
+    {
+      "name": "Vrbické pleso",
+      "latitude": 48.970106,
+      "longitude": 19.577168
+    },
+    {
+      "name": "Pleso v Mošnici",
+      "latitude": 48.975723,
+      "longitude": 19.533712
+    },
+    {
+      "name": "Šulkovo",
+      "latitude": 48.969435,
+      "longitude": 19.57242
+    },
+    {
+      "name": "Vodná nádrž Zadná Voda",
+      "latitude": 48.964196,
+      "longitude": 19.569743
+    },
+    {
+      "name": "Kraviarky",
+      "latitude": 48.966563,
+      "longitude": 19.650526
+    },
+    {
+      "name": "Krížske pleso",
+      "latitude": 48.947522,
+      "longitude": 19.525606
+    },
+    {
+      "name": "Pliesko v Litvoroch",
+      "latitude": 48.949147,
+      "longitude": 19.516286
+    },
+    {
+      "name": "Bystré pliesko",
+      "latitude": 48.942513,
+      "longitude": 19.635934
+    },
+    {
+      "name": "Bystré pleso",
+      "latitude": 48.943737,
+      "longitude": 19.633257
+    },
+    {
+      "name": "Bystré pliesko",
+      "latitude": 48.935717,
+      "longitude": 19.613471
+    },
+    {
+      "name": "Lukové pleso",
+      "latitude": 48.946087,
+      "longitude": 19.602648
+    },
+    {
+      "name": "Prírodné kúpalisko Makovica",
+      "latitude": 49.398307,
+      "longitude": 21.393883
+    },
+    {
+      "name": "Veľké jazero",
+      "latitude": 49.341601,
+      "longitude": 20.219489
+    },
+    {
+      "name": "Ksenino jazierko",
+      "latitude": 49.348733,
+      "longitude": 20.22337
+    },
+    {
+      "name": "Osturnianske jazero",
+      "latitude": 49.318361,
+      "longitude": 20.253634
+    },
+    {
+      "name": "Jezerské jazero",
+      "latitude": 49.282704,
+      "longitude": 20.346814
+    },
+    {
+      "name": "Pleso pod Zverovkou",
+      "latitude": 49.25333,
+      "longitude": 19.701169
+    },
+    {
+      "name": "Ťatliakovo jazero",
+      "latitude": 49.213015,
+      "longitude": 19.748176
+    },
+    {
+      "name": "Kasprowy Stawek",
+      "latitude": 49.250622,
+      "longitude": 19.980065
+    },
+    {
+      "name": "Smreczyński Staw",
+      "latitude": 49.222285,
+      "longitude": 19.863745
+    },
+    {
+      "name": "Vyšné Tomanovo pleso",
+      "latitude": 49.21747,
+      "longitude": 19.910294
+    },
+    {
+      "name": "Malé Tomanovské pleso",
+      "latitude": 49.218075,
+      "longitude": 19.90821
+    },
+    {
+      "name": "Nižné Tomanovské pleso",
+      "latitude": 49.218965,
+      "longitude": 19.907319
+    },
+    {
+      "name": "Zadni Staw Polski",
+      "latitude": 49.212832,
+      "longitude": 20.012657
+    },
+    {
+      "name": "Zadni Staw Gąsienicowy",
+      "latitude": 49.224181,
+      "longitude": 20.009953
+    },
+    {
+      "name": "Zielony Staw Gąsienicowy",
+      "latitude": 49.228572,
+      "longitude": 19.999085
+    },
+    {
+      "name": "Wyżni Czerwony Stawek",
+      "latitude": 49.227628,
+      "longitude": 20.003947
+    },
+    {
+      "name": "Kotlinowy Stawek",
+      "latitude": 49.22962,
+      "longitude": 19.996843
+    },
+    {
+      "name": "Vyšné Valentkovo pleso",
+      "latitude": 49.215728,
+      "longitude": 20.004813
+    },
+    {
+      "name": "Valentkovo pleso",
+      "latitude": 49.216339,
+      "longitude": 20.00119
+    },
+    {
+      "name": "Valentkovo pliesko",
+      "latitude": 49.216027,
+      "longitude": 19.998607
+    },
+    {
+      "name": "Štvrté Roháčske pleso",
+      "latitude": 49.206089,
+      "longitude": 19.73533
+    },
+    {
+      "name": "Tretie Roháčske pleso",
+      "latitude": 49.208765,
+      "longitude": 19.737117
+    },
+    {
+      "name": "Druhé Roháčske pleso",
+      "latitude": 49.20855,
+      "longitude": 19.738726
+    },
+    {
+      "name": "Veľké Roháčske pleso",
+      "latitude": 49.206504,
+      "longitude": 19.74376
+    },
+    {
+      "name": "Nižné Jamnícke pleso",
+      "latitude": 49.203003,
+      "longitude": 19.770028
+    },
+    {
+      "name": "Vyšné Jamnícke pleso",
+      "latitude": 49.202445,
+      "longitude": 19.763347
+    },
+    {
+      "name": "Žiarske pleso",
+      "latitude": 49.192073,
+      "longitude": 19.747321
+    },
+    {
+      "name": "Plačlivé pliesko",
+      "latitude": 49.194184,
+      "longitude": 19.756075
+    },
+    {
+      "name": "Zelené pliesko",
+      "latitude": 49.209994,
+      "longitude": 19.727613
+    },
+    {
+      "name": "Vyšné pleso",
+      "latitude": 49.183042,
+      "longitude": 19.711846
+    },
+    {
+      "name": "Vyšné Račkovo pleso",
+      "latitude": 49.199701,
+      "longitude": 19.804923
+    },
+    {
+      "name": "Nižné Račkovo pleso",
+      "latitude": 49.199259,
+      "longitude": 19.806454
+    },
+    {
+      "name": "Suché Račkovo pleso",
+      "latitude": 49.198704,
+      "longitude": 19.806178
+    },
+    {
+      "name": "Siwe Stawki",
+      "latitude": 49.20421,
+      "longitude": 19.835063
+    },
+    {
+      "name": "Čierne Račkovo pliesko",
+      "latitude": 49.196197,
+      "longitude": 19.809822
+    },
+    {
+      "name": "Malé Bystré pleso",
+      "latitude": 49.182484,
+      "longitude": 19.843376
+    },
+    {
+      "name": "Dlhé Bystré pleso",
+      "latitude": 49.181915,
+      "longitude": 19.843069
+    },
+    {
+      "name": "Veľké Bystré pleso",
+      "latitude": 49.182761,
+      "longitude": 19.842243
+    },
+    {
+      "name": "Kamenisté oko",
+      "latitude": 49.195222,
+      "longitude": 19.851267
+    },
+    {
+      "name": "Kamenisté oko",
+      "latitude": 49.195149,
+      "longitude": 19.852389
+    },
+    {
+      "name": "Kamenisté oko",
+      "latitude": 49.194877,
+      "longitude": 19.85171
+    },
+    {
+      "name": "Kosowinowe Oczko",
+      "latitude": 49.202058,
+      "longitude": 19.846926
+    },
+    {
+      "name": "Žiarske pleso",
+      "latitude": 49.176801,
+      "longitude": 19.715886
+    },
+    {
+      "name": "Nižné pleso",
+      "latitude": 49.181248,
+      "longitude": 19.718171
+    },
+    {
+      "name": "Nižné Bystré pleso",
+      "latitude": 49.178112,
+      "longitude": 19.844821
+    },
+    {
+      "name": "Anitino očko",
+      "latitude": 49.179336,
+      "longitude": 19.837242
+    },
+    {
+      "name": "Hlinské oko",
+      "latitude": 49.196979,
+      "longitude": 19.88232
+    },
+    {
+      "name": "Czarny Staw Polski",
+      "latitude": 49.204203,
+      "longitude": 20.025565
+    },
+    {
+      "name": "Vyšné Temnosmrečinské pleso",
+      "latitude": 49.188836,
+      "longitude": 20.037357
+    },
+    {
+      "name": "Nižné Temnosmrečinské pleso",
+      "latitude": 49.192832,
+      "longitude": 20.029337
+    },
+    {
+      "name": "Wole Oko",
+      "latitude": 49.209774,
+      "longitude": 20.015272
+    },
+    {
+      "name": "Kobylie pliesko",
+      "latitude": 49.200298,
+      "longitude": 20.014275
+    },
+    {
+      "name": "Capie pleso",
+      "latitude": 49.1678,
+      "longitude": 20.036391
+    },
+    {
+      "name": "Vyšné Wahlenbergovo pleso",
+      "latitude": 49.164198,
+      "longitude": 20.025755
+    },
+    {
+      "name": "Nižné Terianske pleso",
+      "latitude": 49.169948,
+      "longitude": 20.012631
+    },
+    {
+      "name": "Zelené Krivánske pleso",
+      "latitude": 49.159334,
+      "longitude": 20.007385
+    },
+    {
+      "name": "Nižné Wahlenbergovo pleso",
+      "latitude": 49.159105,
+      "longitude": 20.025249
+    },
+    {
+      "name": "Okrúhle pleso",
+      "latitude": 49.170451,
+      "longitude": 20.035133
+    },
+    {
+      "name": "Vyšné Terianske pleso",
+      "latitude": 49.167843,
+      "longitude": 20.02051
+    },
+    {
+      "name": "Malé pliesko",
+      "latitude": 49.157493,
+      "longitude": 20.006274
+    },
+    {
+      "name": "Soliskové pliesko",
+      "latitude": 49.160633,
+      "longitude": 20.025098
+    },
+    {
+      "name": "Soliskové oko",
+      "latitude": 49.161568,
+      "longitude": 20.024107
+    },
+    {
+      "name": "Malé Terianske pleso",
+      "latitude": 49.165357,
+      "longitude": 20.017663
+    },
+    {
+      "name": "Wołoszyński Stawek",
+      "latitude": 49.248872,
+      "longitude": 20.0864
+    },
+    {
+      "name": "Kolové pleso",
+      "latitude": 49.220193,
+      "longitude": 20.191463
+    },
+    {
+      "name": "Čierne Javorové pleso",
+      "latitude": 49.213943,
+      "longitude": 20.171037
+    },
+    {
+      "name": "Tiché pleso",
+      "latitude": 49.216463,
+      "longitude": 20.130227
+    },
+    {
+      "name": "Červené pleso",
+      "latitude": 49.213398,
+      "longitude": 20.214029
+    },
+    {
+      "name": "Belasé pleso",
+      "latitude": 49.214957,
+      "longitude": 20.211383
+    },
+    {
+      "name": "Žlté pleso",
+      "latitude": 49.219314,
+      "longitude": 20.21353
+    },
+    {
+      "name": "Veľké Biele pleso",
+      "latitude": 49.22194,
+      "longitude": 20.22967
+    },
+    {
+      "name": "Trojrohé pleso",
+      "latitude": 49.219265,
+      "longitude": 20.229591
+    },
+    {
+      "name": "Biele plesa",
+      "latitude": 49.2219,
+      "longitude": 20.221545
+    },
+    {
+      "name": "Biele plesa",
+      "latitude": 49.221436,
+      "longitude": 20.222315
+    },
+    {
+      "name": "Biele plesa",
+      "latitude": 49.221243,
+      "longitude": 20.22332
+    },
+    {
+      "name": "Biele plesa",
+      "latitude": 49.222264,
+      "longitude": 20.224047
+    },
+    {
+      "name": "Biele plesa",
+      "latitude": 49.222502,
+      "longitude": 20.222712
+    },
+    {
+      "name": "Biele plesa",
+      "latitude": 49.222936,
+      "longitude": 20.221414
+    },
+    {
+      "name": "Nižné Žeruchové pliesko",
+      "latitude": 49.218521,
+      "longitude": 20.220359
+    },
+    {
+      "name": "Vyšné Žeruchové pliesko",
+      "latitude": 49.219625,
+      "longitude": 20.216444
+    },
+    {
+      "name": "Czarny Staw pod Rysami",
+      "latitude": 49.188284,
+      "longitude": 20.07643
+    },
+    {
+      "name": "Ťažké pleso",
+      "latitude": 49.186915,
+      "longitude": 20.106502
+    },
+    {
+      "name": "Nižné Žabie pleso Bielovodské",
+      "latitude": 49.199127,
+      "longitude": 20.093721
+    },
+    {
+      "name": "Vyšné Žabie pleso Bielovodské",
+      "latitude": 49.19362,
+      "longitude": 20.092978
+    },
+    {
+      "name": "Stawek na Kopkach",
+      "latitude": 49.195025,
+      "longitude": 20.046758
+    },
+    {
+      "name": "Zadni Mnichowy Stawek",
+      "latitude": 49.190089,
+      "longitude": 20.051764
+    },
+    {
+      "name": "Małe Żabie Oko",
+      "latitude": 49.20382,
+      "longitude": 20.072859
+    },
+    {
+      "name": "Vyšné Sivé pleso",
+      "latitude": 49.185112,
+      "longitude": 20.17463
+    },
+    {
+      "name": "Prostredné Sivé pleso",
+      "latitude": 49.184174,
+      "longitude": 20.175022
+    },
+    {
+      "name": "Nižné Sivé pleso",
+      "latitude": 49.183127,
+      "longitude": 20.17532
+    },
+    {
+      "name": "Zelené Javorové pleso",
+      "latitude": 49.20566,
+      "longitude": 20.141851
+    },
+    {
+      "name": "Pusté pleso",
+      "latitude": 49.182227,
+      "longitude": 20.153838
+    },
+    {
+      "name": "Malé Pusté pleso",
+      "latitude": 49.18343,
+      "longitude": 20.155045
+    },
+    {
+      "name": "Prostredné Spišské pleso",
+      "latitude": 49.191395,
+      "longitude": 20.198005
+    },
+    {
+      "name": "Ľadové pleso",
+      "latitude": 49.183963,
+      "longitude": 20.161663
+    },
+    {
+      "name": "Veľké Spišské pleso",
+      "latitude": 49.192919,
+      "longitude": 20.195098
+    },
+    {
+      "name": "Nižné Spišské pleso",
+      "latitude": 49.190019,
+      "longitude": 20.196564
+    },
+    {
+      "name": "Malé Spišské pleso",
+      "latitude": 49.190325,
+      "longitude": 20.200262
+    },
+    {
+      "name": "Modré pleso",
+      "latitude": 49.19231,
+      "longitude": 20.185611
+    },
+    {
+      "name": "Vyšné Spišské pleso",
+      "latitude": 49.194621,
+      "longitude": 20.196266
+    },
+    {
+      "name": "Žabie Javorové pleso",
+      "latitude": 49.191458,
+      "longitude": 20.168357
+    },
+    {
+      "name": "Malé Žabie Javorové pleso",
+      "latitude": 49.202594,
+      "longitude": 20.149347
+    },
+    {
+      "name": "Rovienkové pleso",
+      "latitude": 49.189277,
+      "longitude": 20.143438
+    },
+    {
+      "name": "Nižné Strelecké pleso",
+      "latitude": 49.184195,
+      "longitude": 20.183224
+    },
+    {
+      "name": "Vyšné Strelecké pleso",
+      "latitude": 49.184017,
+      "longitude": 20.181302
+    },
+    {
+      "name": "Blaženino očko",
+      "latitude": 49.205599,
+      "longitude": 20.156985
+    },
+    {
+      "name": "Baranie Pliesko",
+      "latitude": 49.198506,
+      "longitude": 20.195161
+    },
+    {
+      "name": "Veľké Hincovo pleso",
+      "latitude": 49.178978,
+      "longitude": 20.059306
+    },
+    {
+      "name": "Hincove oká",
+      "latitude": 49.174579,
+      "longitude": 20.061138
+    },
+    {
+      "name": "Malé Hincovo pleso",
+      "latitude": 49.174029,
+      "longitude": 20.057342
+    },
+    {
+      "name": "Zelené Kačacie pleso",
+      "latitude": 49.177511,
+      "longitude": 20.116728
+    },
+    {
+      "name": "Popradské pleso",
+      "latitude": 49.15301,
+      "longitude": 20.079986
+    },
+    {
+      "name": "Malé Žabie pleso Mengusovské",
+      "latitude": 49.173467,
+      "longitude": 20.075544
+    },
+    {
+      "name": "Dračie pleso",
+      "latitude": 49.166447,
+      "longitude": 20.087957
+    },
+    {
+      "name": "Vyšné Kozie pleso",
+      "latitude": 49.168144,
+      "longitude": 20.045206
+    },
+    {
+      "name": "Nižné Kozie pleso",
+      "latitude": 49.163446,
+      "longitude": 20.043296
+    },
+    {
+      "name": "Ľadové pleso mengusovské",
+      "latitude": 49.163189,
+      "longitude": 20.106231
+    },
+    {
+      "name": "Pleso nad Skokom",
+      "latitude": 49.154887,
+      "longitude": 20.045526
+    },
+    {
+      "name": "Vyšné Žabie pleso Mengusovské",
+      "latitude": 49.175438,
+      "longitude": 20.07307
+    },
+    {
+      "name": "Hincove oká",
+      "latitude": 49.172913,
+      "longitude": 20.061217
+    },
+    {
+      "name": "Veľké Žabie pleso Mengusovské",
+      "latitude": 49.172208,
+      "longitude": 20.077161
+    },
+    {
+      "name": "Rumanovo pleso",
+      "latitude": 49.16972,
+      "longitude": 20.100469
+    },
+    {
+      "name": "Vyšné Rumanovo pliesko",
+      "latitude": 49.17199,
+      "longitude": 20.100591
+    },
+    {
+      "name": "Batizovské oká",
+      "latitude": 49.163274,
+      "longitude": 20.126753
+    },
+    {
+      "name": "Vyšné Batizovské pleso",
+      "latitude": 49.164134,
+      "longitude": 20.126943
+    },
+    {
+      "name": "Kačacie pliesko",
+      "latitude": 49.178228,
+      "longitude": 20.119138
+    },
+    {
+      "name": "Nižné Volie pliesko",
+      "latitude": 49.161291,
+      "longitude": 20.04086
+    },
+    {
+      "name": "Pliesko pod Kostolíkom",
+      "latitude": 49.161184,
+      "longitude": 20.121413
+    },
+    {
+      "name": "Satanove plieska",
+      "latitude": 49.170053,
+      "longitude": 20.061067
+    },
+    {
+      "name": "Malé Dračie pleso",
+      "latitude": 49.165622,
+      "longitude": 20.091112
+    },
+    {
+      "name": "Vyšné Volie pliesko",
+      "latitude": 49.161692,
+      "longitude": 20.042359
+    },
+    {
+      "name": "Malé Kozie pleso",
+      "latitude": 49.162302,
+      "longitude": 20.041875
+    },
+    {
+      "name": "Hincove oká",
+      "latitude": 49.175246,
+      "longitude": 20.063239
+    },
+    {
+      "name": "Hincove oká",
+      "latitude": 49.17249,
+      "longitude": 20.062238
+    },
+    {
+      "name": "Hincove oká",
+      "latitude": 49.172153,
+      "longitude": 20.061624
+    },
+    {
+      "name": "Hincove oká",
+      "latitude": 49.174099,
+      "longitude": 20.061436
+    },
+    {
+      "name": "Malé Hincovo pleso",
+      "latitude": 49.177746,
+      "longitude": 20.055656
+    },
+    {
+      "name": "Malé Batizovské pliesko",
+      "latitude": 49.153082,
+      "longitude": 20.124301
+    },
+    {
+      "name": "Dračie oká",
+      "latitude": 49.165337,
+      "longitude": 20.08963
+    },
+    {
+      "name": "Jelenie pleso",
+      "latitude": 49.178916,
+      "longitude": 20.11426
+    },
+    {
+      "name": "Zmrzlé pleso",
+      "latitude": 49.180364,
+      "longitude": 20.099449
+    },
+    {
+      "name": "Dlhé pleso",
+      "latitude": 49.16579,
+      "longitude": 20.144038
+    },
+    {
+      "name": "Zamrznute pleso",
+      "latitude": 49.175913,
+      "longitude": 20.138297
+    },
+    {
+      "name": "Litvorové pleso",
+      "latitude": 49.177213,
+      "longitude": 20.129425
+    },
+    {
+      "name": "Velické pleso",
+      "latitude": 49.157635,
+      "longitude": 20.15603
+    },
+    {
+      "name": "Malé Zbojnícke pleso",
+      "latitude": 49.178538,
+      "longitude": 20.16202
+    },
+    {
+      "name": "Malé Szontaghovo pliesko",
+      "latitude": 49.166474,
+      "longitude": 20.16296
+    },
+    {
+      "name": "Starolesnianske pleso",
+      "latitude": 49.180133,
+      "longitude": 20.166652
+    },
+    {
+      "name": "Dlhé pleso",
+      "latitude": 49.174562,
+      "longitude": 20.170702
+    },
+    {
+      "name": "Sesterské pleso",
+      "latitude": 49.177441,
+      "longitude": 20.167054
+    },
+    {
+      "name": "Vyšné Zbojnícke pleso",
+      "latitude": 49.178702,
+      "longitude": 20.15822
+    },
+    {
+      "name": "Vareškové pleso",
+      "latitude": 49.174269,
+      "longitude": 20.177213
+    },
+    {
+      "name": "Nižné Zbojnícke pleso",
+      "latitude": 49.177288,
+      "longitude": 20.16177
+    },
+    {
+      "name": "Szontaghovo pleso",
+      "latitude": 49.166458,
+      "longitude": 20.163585
+    },
+    {
+      "name": "Prostredné Zbojnícke pleso",
+      "latitude": 49.178397,
+      "longitude": 20.160469
+    },
+    {
+      "name": "Kvetnicové pleso",
+      "latitude": 49.162458,
+      "longitude": 20.153479
+    },
+    {
+      "name": "Batizovské oká",
+      "latitude": 49.162927,
+      "longitude": 20.127252
+    },
+    {
+      "name": "Vyšné Velické pliesko Spodné",
+      "latitude": 49.172479,
+      "longitude": 20.137303
+    },
+    {
+      "name": "Vyšné Velické pliesko Horné",
+      "latitude": 49.172379,
+      "longitude": 20.135402
+    },
+    {
+      "name": "Hrubé pleso",
+      "latitude": 49.181414,
+      "longitude": 20.133287
+    },
+    {
+      "name": "Nižné studené pleso",
+      "latitude": 49.179004,
+      "longitude": 20.177762
+    },
+    {
+      "name": "Vyšné studené pleso",
+      "latitude": 49.179814,
+      "longitude": 20.176152
+    },
+    {
+      "name": "Pusté oko",
+      "latitude": 49.180781,
+      "longitude": 20.155357
+    },
+    {
+      "name": "Dlhé oko",
+      "latitude": 49.17644,
+      "longitude": 20.160279
+    },
+    {
+      "name": "Vareškové oko",
+      "latitude": 49.174082,
+      "longitude": 20.174669
+    },
+    {
+      "name": "Zamrznuté oká",
+      "latitude": 49.177294,
+      "longitude": 20.137313
+    },
+    {
+      "name": "Zelené pleso",
+      "latitude": 49.209578,
+      "longitude": 20.220173
+    },
+    {
+      "name": "Skalnaté pleso",
+      "latitude": 49.188627,
+      "longitude": 20.232272
+    },
+    {
+      "name": "Čierne pleso kežmarské",
+      "latitude": 49.207703,
+      "longitude": 20.224816
+    },
+    {
+      "name": "Malé Čierne pleso",
+      "latitude": 49.208893,
+      "longitude": 20.223608
+    },
+    {
+      "name": "Stráňanské jazero",
+      "latitude": 49.343243,
+      "longitude": 20.526463
+    },
+    {
+      "name": "Rybník",
+      "latitude": 49.273659,
+      "longitude": 20.57989
+    },
+    {
+      "name": "Orlovské jazero",
+      "latitude": 49.276167,
+      "longitude": 20.858449
+    },
+    {
+      "name": "Andrejovské jazero",
+      "latitude": 49.286272,
+      "longitude": 20.901561
+    },
+    {
+      "name": "Baňur",
+      "latitude": 49.210737,
+      "longitude": 20.667674
+    },
+    {
+      "name": "Belanský Rybník",
+      "latitude": 49.197601,
+      "longitude": 20.436804
+    },
+    {
+      "name": "Rybník Zlatná",
+      "latitude": 49.154936,
+      "longitude": 20.460491
+    },
+    {
+      "name": "Tajch",
+      "latitude": 49.206284,
+      "longitude": 20.681444
+    },
+    {
+      "name": "Hradný rybník Mikuláša Tarczaya",
+      "latitude": 49.197038,
+      "longitude": 20.969826
+    },
+    {
+      "name": "Protipožiarna nádrž",
+      "latitude": 49.140032,
+      "longitude": 19.718224
+    },
+    {
+      "name": "Tajch na Račkovom potoku",
+      "latitude": 49.141479,
+      "longitude": 19.796475
+    },
+    {
+      "name": "Pliesko nad Podbanským",
+      "latitude": 49.141853,
+      "longitude": 19.893853
+    },
+    {
+      "name": "Jamské pleso",
+      "latitude": 49.133076,
+      "longitude": 20.01231
+    },
+    {
+      "name": "Vyšné Rakytovské pliesko",
+      "latitude": 49.126421,
+      "longitude": 20.024617
+    },
+    {
+      "name": "Nižné Rakytovské pliesko",
+      "latitude": 49.125209,
+      "longitude": 20.02596
+    },
+    {
+      "name": "Vyšné Furkotské pleso",
+      "latitude": 49.143536,
+      "longitude": 20.029917
+    },
+    {
+      "name": "Nižné Furkotské pleso",
+      "latitude": 49.140584,
+      "longitude": 20.029656
+    },
+    {
+      "name": "Vyšné Smrekovické pliesko",
+      "latitude": 49.125334,
+      "longitude": 20.037562
+    },
+    {
+      "name": "Nižné Smrekovické pliesko",
+      "latitude": 49.12562,
+      "longitude": 20.034761
+    },
+    {
+      "name": "Sedielkové plieska",
+      "latitude": 49.151105,
+      "longitude": 20.025799
+    },
+    {
+      "name": "Sedielkové plieska",
+      "latitude": 49.151616,
+      "longitude": 20.025127
+    },
+    {
+      "name": "Skryté pliesko",
+      "latitude": 49.150625,
+      "longitude": 20.011845
+    },
+    {
+      "name": "Stratené pliesko",
+      "latitude": 49.150667,
+      "longitude": 20.011518
+    },
+    {
+      "name": "siláž",
+      "latitude": 49.045137,
+      "longitude": 19.778263
+    },
+    {
+      "name": "Mlynické pleso",
+      "latitude": 49.141962,
+      "longitude": 20.049266
+    },
+    {
+      "name": "Pliesko pod Skokom",
+      "latitude": 49.151819,
+      "longitude": 20.047016
+    },
+    {
+      "name": "Batizovské pleso",
+      "latitude": 49.15197,
+      "longitude": 20.129881
+    },
+    {
+      "name": "Čierne Pleso",
+      "latitude": 49.126991,
+      "longitude": 20.13009
+    },
+    {
+      "name": "Slavkovské pliesko",
+      "latitude": 49.152613,
+      "longitude": 20.183277
+    },
+    {
+      "name": "Slavkovské pliesko",
+      "latitude": 49.15213,
+      "longitude": 20.183694
+    },
+    {
+      "name": "Štrbské pleso",
+      "latitude": 49.122607,
+      "longitude": 20.057754
+    },
+    {
+      "name": "Jazierka lásky",
+      "latitude": 49.120538,
+      "longitude": 20.067074
+    },
+    {
+      "name": "Jazierko pri Hágoch",
+      "latitude": 49.121171,
+      "longitude": 20.121179
+    },
+    {
+      "name": "Nové Štrbské pleso",
+      "latitude": 49.117074,
+      "longitude": 20.066202
+    },
+    {
+      "name": "Wolkerove jazierka",
+      "latitude": 49.123923,
+      "longitude": 20.180564
+    },
+    {
+      "name": "Pleso Lesná",
+      "latitude": 49.151772,
+      "longitude": 20.253579
+    },
+    {
+      "name": "Batizovské štrkoviská",
+      "latitude": 49.067382,
+      "longitude": 20.176316
+    },
+    {
+      "name": "VN Grébpark",
+      "latitude": 49.061831,
+      "longitude": 20.310262
+    },
+    {
+      "name": "Vodná nádrž Malý Grébpark",
+      "latitude": 49.062768,
+      "longitude": 20.304858
+    },
+    {
+      "name": "Bahnisko",
+      "latitude": 48.980598,
+      "longitude": 19.72984
+    },
+    {
+      "name": "PVE Čierny Váh, horná nádrž",
+      "latitude": 49.020772,
+      "longitude": 19.909612
+    },
+    {
+      "name": "PVE Čierny Váh, dolná nádrž",
+      "latitude": 49.011398,
+      "longitude": 19.925019
+    },
+    {
+      "name": "Ništoková",
+      "latitude": 49.025255,
+      "longitude": 19.966134
+    },
+    {
+      "name": "Malužinský tajch",
+      "latitude": 48.925061,
+      "longitude": 19.838297
+    },
+    {
+      "name": "Vodná nádrž Lacková",
+      "latitude": 48.941201,
+      "longitude": 19.943979
+    },
+    {
+      "name": "zaplavený lom Kvetnica",
+      "latitude": 49.025061,
+      "longitude": 20.281244
+    },
+    {
+      "name": "Blajzloch",
+      "latitude": 48.924913,
+      "longitude": 20.324287
+    },
+    {
+      "name": "Vodná nádrž Kežmarok",
+      "latitude": 49.122101,
+      "longitude": 20.405969
+    },
+    {
+      "name": "Žakovce",
+      "latitude": 49.111743,
+      "longitude": 20.405171
+    },
+    {
+      "name": "Vrbovský rybník",
+      "latitude": 49.076605,
+      "longitude": 20.418447
+    },
+    {
+      "name": "Vrbovský rybník",
+      "latitude": 49.072793,
+      "longitude": 20.417113
+    },
+    {
+      "name": "Vrbovský rybník",
+      "latitude": 49.078957,
+      "longitude": 20.425332
+    },
+    {
+      "name": "Levočská priehrada",
+      "latitude": 49.051478,
+      "longitude": 20.583447
+    },
+    {
+      "name": "Rožkovianske rybníky",
+      "latitude": 49.144988,
+      "longitude": 20.976383
+    },
+    {
+      "name": "Napájacie nádrže",
+      "latitude": 49.075555,
+      "longitude": 20.861902
+    },
+    {
+      "name": "Požiarná vodná nádrž Dolina",
+      "latitude": 48.959129,
+      "longitude": 20.869982
+    },
+    {
+      "name": "Rybník pri Sabinke",
+      "latitude": 48.926893,
+      "longitude": 20.80608
+    },
+    {
+      "name": "Za Hurou",
+      "latitude": 48.924388,
+      "longitude": 20.794232
+    },
+    {
+      "name": "Požiarna nádrž Kaľava - Jasenovec",
+      "latitude": 48.935661,
+      "longitude": 20.887775
+    },
+    {
+      "name": "Spievajúca Fontána",
+      "latitude": 49.293724,
+      "longitude": 21.2734
+    },
+    {
+      "name": "Rybník",
+      "latitude": 49.2071,
+      "longitude": 21.222453
+    },
+    {
+      "name": "slepé rameno Ondavy",
+      "latitude": 49.187516,
+      "longitude": 21.646589
+    },
+    {
+      "name": "Vodná nádrž Jakubovany",
+      "latitude": 49.121605,
+      "longitude": 21.128682
+    },
+    {
+      "name": "Michaľanské jazerá",
+      "latitude": 49.07603,
+      "longitude": 21.11129
+    },
+    {
+      "name": "Michaľanské jazerá",
+      "latitude": 49.078708,
+      "longitude": 21.11302
+    },
+    {
+      "name": "Rybník Šarišské Michaľany",
+      "latitude": 49.06325,
+      "longitude": 21.160286
+    },
+    {
+      "name": "Rybník č. 1",
+      "latitude": 49.05157,
+      "longitude": 21.192647
+    },
+    {
+      "name": "Rybník č. 4",
+      "latitude": 49.054162,
+      "longitude": 21.191241
+    },
+    {
+      "name": "Rybník č. 2",
+      "latitude": 49.052955,
+      "longitude": 21.191399
+    },
+    {
+      "name": "Rybník č. 3",
+      "latitude": 49.054804,
+      "longitude": 21.18992
+    },
+    {
+      "name": "Vodná nádrž Veľká Domaša",
+      "latitude": 49.061217,
+      "longitude": 21.673566
+    },
+    {
+      "name": "Fontána Šmeralova",
+      "latitude": 49.02053,
+      "longitude": 21.227231
+    },
+    {
+      "name": "Cemjatský rybník",
+      "latitude": 48.983681,
+      "longitude": 21.174577
+    },
+    {
+      "name": "Diviačia obora",
+      "latitude": 48.988673,
+      "longitude": 21.175722
+    },
+    {
+      "name": "Vydumanecký rybník",
+      "latitude": 48.995841,
+      "longitude": 21.192289
+    },
+    {
+      "name": "Fontána Centrál",
+      "latitude": 48.998691,
+      "longitude": 21.224485
+    },
+    {
+      "name": "Neptúnova fontána",
+      "latitude": 48.997241,
+      "longitude": 21.240593
+    },
+    {
+      "name": "Fontána Družba",
+      "latitude": 49.006474,
+      "longitude": 21.223995
+    },
+    {
+      "name": "Fontána mládeže",
+      "latitude": 48.994843,
+      "longitude": 21.230412
+    },
+    {
+      "name": "Fontána Divízia",
+      "latitude": 48.992591,
+      "longitude": 21.245
+    },
+    {
+      "name": "Fontána Opál",
+      "latitude": 48.986851,
+      "longitude": 21.265422
+    },
+    {
+      "name": "Fontána Enchanté",
+      "latitude": 48.987738,
+      "longitude": 21.244291
+    },
+    {
+      "name": "Kalové polia Solivarov",
+      "latitude": 48.980965,
+      "longitude": 21.256415
+    },
+    {
+      "name": "Kalové polia Solivarov",
+      "latitude": 48.980487,
+      "longitude": 21.256071
+    },
+    {
+      "name": "Šebešský rybník",
+      "latitude": 48.996743,
+      "longitude": 21.330896
+    },
+    {
+      "name": "Nádrž 1",
+      "latitude": 48.98859,
+      "longitude": 21.279055
+    },
+    {
+      "name": "Nádrž 2",
+      "latitude": 48.988355,
+      "longitude": 21.279656
+    },
+    {
+      "name": "Nádrž 3",
+      "latitude": 48.988796,
+      "longitude": 21.280243
+    },
+    {
+      "name": "Nádrž 4",
+      "latitude": 48.986961,
+      "longitude": 21.282501
+    },
+    {
+      "name": "Fontána Angelina",
+      "latitude": 48.993042,
+      "longitude": 21.27236
+    },
+    {
+      "name": "Zlatá studňa",
+      "latitude": 48.994779,
+      "longitude": 21.432199
+    },
+    {
+      "name": "Nádrž Diana",
+      "latitude": 48.974813,
+      "longitude": 21.154794
+    },
+    {
+      "name": "Prírodné kúpalisko Delňa",
+      "latitude": 48.959895,
+      "longitude": 21.262985
+    },
+    {
+      "name": "Rybník Borkút",
+      "latitude": 48.965487,
+      "longitude": 21.230783
+    },
+    {
+      "name": "Fontána Pirueta",
+      "latitude": 48.974119,
+      "longitude": 21.262486
+    },
+    {
+      "name": "Kalové polia Solivarov",
+      "latitude": 48.979215,
+      "longitude": 21.255025
+    },
+    {
+      "name": "Kujava",
+      "latitude": 48.944657,
+      "longitude": 21.194161
+    },
+    {
+      "name": "Mindžala",
+      "latitude": 48.977484,
+      "longitude": 21.274457
+    },
+    {
+      "name": "Vodná nádrž Sigord",
+      "latitude": 48.94893,
+      "longitude": 21.353259
+    },
+    {
+      "name": "Košarovské rybníky",
+      "latitude": 49.017603,
+      "longitude": 21.767956
+    },
+    {
+      "name": "Malá Domaša",
+      "latitude": 48.974095,
+      "longitude": 21.703685
+    },
+    {
+      "name": "V.n. Tovarné",
+      "latitude": 48.932469,
+      "longitude": 21.766487
+    },
+    {
+      "name": "Vodná nádrž Starina",
+      "latitude": 49.073515,
+      "longitude": 22.243667
+    },
+    {
+      "name": "Medová baba",
+      "latitude": 49.083752,
+      "longitude": 22.461769
+    },
+    {
+      "name": "Volovske rybniky",
+      "latitude": 48.983916,
+      "longitude": 21.858591
+    },
+    {
+      "name": "Vodná nádrž Karná",
+      "latitude": 48.990508,
+      "longitude": 21.798985
+    },
+    {
+      "name": "dolný Tristov rybník",
+      "latitude": 48.991521,
+      "longitude": 22.057741
+    },
+    {
+      "name": "stredný Tristov rybník",
+      "latitude": 48.993592,
+      "longitude": 22.058031
+    },
+    {
+      "name": "horný Tristov rybník",
+      "latitude": 48.994595,
+      "longitude": 22.058325
+    },
+    {
+      "name": "Jazero L.A.",
+      "latitude": 48.937977,
+      "longitude": 21.947872
+    },
+    {
+      "name": "Veľká bobria hrádza",
+      "latitude": 48.98019,
+      "longitude": 22.057541
+    },
+    {
+      "name": "Vodná nádrž Dlhé",
+      "latitude": 48.963466,
+      "longitude": 22.079514
+    },
+    {
+      "name": "Rybník Mlynisko",
+      "latitude": 48.982115,
+      "longitude": 22.180954
+    },
+    {
+      "name": "Cirocha",
+      "latitude": 48.992651,
+      "longitude": 22.218955
+    },
+    {
+      "name": "Cirocha",
+      "latitude": 48.989953,
+      "longitude": 22.214625
+    },
+    {
+      "name": "Cirocha",
+      "latitude": 48.987571,
+      "longitude": 22.210051
+    },
+    {
+      "name": "Rybník u táboriska",
+      "latitude": 48.96652,
+      "longitude": 22.421405
+    },
+    {
+      "name": "Eisenbahnerteich",
+      "latitude": 48.432882,
+      "longitude": 16.850567
+    },
+    {
+      "name": "Ententeich",
+      "latitude": 48.442632,
+      "longitude": 16.84758
+    },
+    {
+      "name": "Círno",
+      "latitude": 48.437585,
+      "longitude": 16.854076
+    },
+    {
+      "name": "Komprzí",
+      "latitude": 48.444248,
+      "longitude": 16.85599
+    },
+    {
+      "name": "Skodateich",
+      "latitude": 48.429031,
+      "longitude": 16.850859
+    },
+    {
+      "name": "Waldteich",
+      "latitude": 48.415368,
+      "longitude": 16.851219
+    },
+    {
+      "name": "Suchohradské Štrkovisko",
+      "latitude": 48.422325,
+      "longitude": 16.868858
+    },
+    {
+      "name": "Stará Morava",
+      "latitude": 48.401406,
+      "longitude": 16.857771
+    },
+    {
+      "name": "Heuparz",
+      "latitude": 48.346054,
+      "longitude": 16.848786
+    },
+    {
+      "name": "Heuparz",
+      "latitude": 48.34671,
+      "longitude": 16.847423
+    },
+    {
+      "name": "Heuparz",
+      "latitude": 48.346988,
+      "longitude": 16.846609
+    },
+    {
+      "name": "Heuparz",
+      "latitude": 48.34728,
+      "longitude": 16.8458
+    },
+    {
+      "name": "Plavební komora Rohatec - Sudoměřice",
+      "latitude": 48.873524,
+      "longitude": 17.211704
+    },
+    {
+      "name": "Mŕtve rameno Žlutnica",
+      "latitude": 48.85417,
+      "longitude": 17.167309
+    },
+    {
+      "name": "Mŕtve rameno Talér",
+      "latitude": 48.857016,
+      "longitude": 17.174404
+    },
+    {
+      "name": "Mŕtve rameno Lipa",
+      "latitude": 48.858305,
+      "longitude": 17.177783
+    },
+    {
+      "name": "Mŕtve rameno Ivánek",
+      "latitude": 48.849551,
+      "longitude": 17.160419
+    },
+    {
+      "name": "Skalické rybníky",
+      "latitude": 48.839405,
+      "longitude": 17.19553
+    },
+    {
+      "name": "Kátovské rameno",
+      "latitude": 48.842309,
+      "longitude": 17.152982
+    },
+    {
+      "name": "Janova jama",
+      "latitude": 48.816669,
+      "longitude": 17.129484
+    },
+    {
+      "name": "Kátovský rybník",
+      "latitude": 48.830852,
+      "longitude": 17.172982
+    },
+    {
+      "name": "Valša",
+      "latitude": 48.827647,
+      "longitude": 17.15201
+    },
+    {
+      "name": "Pilský rybník",
+      "latitude": 48.810188,
+      "longitude": 17.154597
+    },
+    {
+      "name": "Baráky",
+      "latitude": 48.833765,
+      "longitude": 17.158021
+    },
+    {
+      "name": "vodní nádrž Mlýnky",
+      "latitude": 48.843269,
+      "longitude": 17.309337
+    },
+    {
+      "name": "Vanděrák",
+      "latitude": 48.860864,
+      "longitude": 17.266884
+    },
+    {
+      "name": "Štrkovisko Boričky II.",
+      "latitude": 48.778126,
+      "longitude": 17.089567
+    },
+    {
+      "name": "Zámocký rybník",
+      "latitude": 48.806761,
+      "longitude": 17.157717
+    },
+    {
+      "name": "Štrkovisko Holíč",
+      "latitude": 48.800824,
+      "longitude": 17.147329
+    },
+    {
+      "name": "Mŕtve rameno Roztrhlé",
+      "latitude": 48.772181,
+      "longitude": 17.064806
+    },
+    {
+      "name": "Štrkovisko Malý Unín",
+      "latitude": 48.763881,
+      "longitude": 17.069951
+    },
+    {
+      "name": "Štrkovisko Rohlík",
+      "latitude": 48.761378,
+      "longitude": 17.069004
+    },
+    {
+      "name": "Štrkovisko Velký Unín",
+      "latitude": 48.766024,
+      "longitude": 17.07212
+    },
+    {
+      "name": "Štrkovisko Boričky I.",
+      "latitude": 48.766895,
+      "longitude": 17.082022
+    },
+    {
+      "name": "Búdkovianske rybníky",
+      "latitude": 48.770052,
+      "longitude": 17.180233
+    },
+    {
+      "name": "Adamovské mŕtve rameno",
+      "latitude": 48.726731,
+      "longitude": 17.015843
+    },
+    {
+      "name": "Štrkovisko Adamov č. 2",
+      "latitude": 48.730833,
+      "longitude": 17.033606
+    },
+    {
+      "name": "Štrkovisko Adamov č. 1",
+      "latitude": 48.726622,
+      "longitude": 17.026472
+    },
+    {
+      "name": "Báger",
+      "latitude": 48.69481,
+      "longitude": 17.025387
+    },
+    {
+      "name": "Vodná nádrž Petrova Ves",
+      "latitude": 48.733269,
+      "longitude": 17.152395
+    },
+    {
+      "name": "Vodná nádrž Smolinské",
+      "latitude": 48.691943,
+      "longitude": 17.141489
+    },
+    {
+      "name": "Vodná nádrž Radošovce",
+      "latitude": 48.786678,
+      "longitude": 17.28343
+    },
+    {
+      "name": "Vodná nádrž Prietržka",
+      "latitude": 48.802591,
+      "longitude": 17.227702
+    },
+    {
+      "name": "Vodná nádrž Vrbovce",
+      "latitude": 48.797112,
+      "longitude": 17.483556
+    },
+    {
+      "name": "Protipožiarna nádrž",
+      "latitude": 48.733226,
+      "longitude": 17.494952
+    },
+    {
+      "name": "Vodná nádrž Kunov",
+      "latitude": 48.707427,
+      "longitude": 17.407201
+    },
+    {
+      "name": "Vodná nádrž Stará Myjava",
+      "latitude": 48.810607,
+      "longitude": 17.596288
+    },
+    {
+      "name": "Važský kanál",
+      "latitude": 48.815921,
+      "longitude": 17.911297
+    },
+    {
+      "name": "Važský kanál",
+      "latitude": 48.815312,
+      "longitude": 17.910263
+    },
+    {
+      "name": "Kočkovský kanál",
+      "latitude": 48.902049,
+      "longitude": 18.052549
+    },
+    {
+      "name": "Jazierko Skalka",
+      "latitude": 48.904769,
+      "longitude": 18.052963
+    },
+    {
+      "name": "Žabák",
+      "latitude": 48.907666,
+      "longitude": 18.051192
+    },
+    {
+      "name": "Štrkovisko Trenčianske kaskády č.1",
+      "latitude": 48.877482,
+      "longitude": 17.988389
+    },
+    {
+      "name": "Štrkovisko Trenčianske kaskády č.2",
+      "latitude": 48.876537,
+      "longitude": 17.985688
+    },
+    {
+      "name": "Štrkovisko Trenčianske kaskády č.3",
+      "latitude": 48.875913,
+      "longitude": 17.983928
+    },
+    {
+      "name": "Štrkovisko Trenčianske kaskády č.4",
+      "latitude": 48.875304,
+      "longitude": 17.981828
+    },
+    {
+      "name": "Važský kanál",
+      "latitude": 48.881875,
+      "longitude": 18.001518
+    },
+    {
+      "name": "Važský kanál",
+      "latitude": 48.8682,
+      "longitude": 17.972125
+    },
+    {
+      "name": "Važský kanál",
+      "latitude": 48.881666,
+      "longitude": 18.000629
+    },
+    {
+      "name": "Labutie jazero",
+      "latitude": 48.905765,
+      "longitude": 18.184749
+    },
+    {
+      "name": "Vodná stavba Trenčianske Teplice",
+      "latitude": 48.898205,
+      "longitude": 18.200876
+    },
+    {
+      "name": "Važský kanál",
+      "latitude": 48.848129,
+      "longitude": 17.960946
+    },
+    {
+      "name": "Važský kanál",
+      "latitude": 48.847543,
+      "longitude": 17.960347
+    },
+    {
+      "name": "Zemník Bodovka",
+      "latitude": 48.816882,
+      "longitude": 17.931889
+    },
+    {
+      "name": "Štrkovisko Bodovka",
+      "latitude": 48.829751,
+      "longitude": 17.950921
+    },
+    {
+      "name": "Malá VN Bobot",
+      "latitude": 48.810471,
+      "longitude": 18.182927
+    },
+    {
+      "name": "Dubník II",
+      "latitude": 48.766961,
+      "longitude": 17.676593
+    },
+    {
+      "name": "Dubník I",
+      "latitude": 48.761818,
+      "longitude": 17.694354
+    },
+    {
+      "name": "Green Lakes “Land of Mirrors”",
+      "latitude": 48.779105,
+      "longitude": 17.875898
+    },
+    {
+      "name": "Green Lakes “Land Of Commons”",
+      "latitude": 48.776293,
+      "longitude": 17.87197
+    },
+    {
+      "name": "Važský kanál",
+      "latitude": 48.761309,
+      "longitude": 17.847965
+    },
+    {
+      "name": "Važský kanál",
+      "latitude": 48.776888,
+      "longitude": 17.857243
+    },
+    {
+      "name": "Važský kanál",
+      "latitude": 48.760827,
+      "longitude": 17.847878
+    },
+    {
+      "name": "Važský kanál",
+      "latitude": 48.772265,
+      "longitude": 17.851691
+    },
+    {
+      "name": "Zelená voda",
+      "latitude": 48.770337,
+      "longitude": 17.865767
+    },
+    {
+      "name": "Vodná nádrž Matejovec",
+      "latitude": 48.722134,
+      "longitude": 17.642794
+    },
+    {
+      "name": "Važský kanál",
+      "latitude": 48.734167,
+      "longitude": 17.847443
+    },
+    {
+      "name": "vodná nádrž Čachtice",
+      "latitude": 48.704408,
+      "longitude": 17.762784
+    },
+    {
+      "name": "Pastierňa",
+      "latitude": 48.708086,
+      "longitude": 17.790632
+    },
+    {
+      "name": "Štrkoviská Považany",
+      "latitude": 48.696815,
+      "longitude": 17.865473
+    },
+    {
+      "name": "Štrkoviská Považany",
+      "latitude": 48.698757,
+      "longitude": 17.865698
+    },
+    {
+      "name": "Svinná",
+      "latitude": 48.788891,
+      "longitude": 18.133095
+    },
+    {
+      "name": "Prusy",
+      "latitude": 48.746524,
+      "longitude": 18.272273
+    },
+    {
+      "name": "Haláčovce",
+      "latitude": 48.712739,
+      "longitude": 18.182869
+    },
+    {
+      "name": "Štrkovisko Drahy",
+      "latitude": 48.666618,
+      "longitude": 17.023775
+    },
+    {
+      "name": "Štrkovisko u Janíčkov",
+      "latitude": 48.636493,
+      "longitude": 17.00041
+    },
+    {
+      "name": "Štrkovisko Čáry",
+      "latitude": 48.664019,
+      "longitude": 17.063139
+    },
+    {
+      "name": "Alte Taja",
+      "latitude": 48.617175,
+      "longitude": 16.913179
+    },
+    {
+      "name": "Wrchni See",
+      "latitude": 48.608846,
+      "longitude": 16.939325
+    },
+    {
+      "name": "Wrchni See",
+      "latitude": 48.608052,
+      "longitude": 16.939776
+    },
+    {
+      "name": "Alte Taja",
+      "latitude": 48.619453,
+      "longitude": 16.917451
+    },
+    {
+      "name": "Štrkovisko Oširíd",
+      "latitude": 48.625618,
+      "longitude": 16.985259
+    },
+    {
+      "name": "Mláky",
+      "latitude": 48.620895,
+      "longitude": 16.998914
+    },
+    {
+      "name": "Großer-Schlammsee",
+      "latitude": 48.580217,
+      "longitude": 16.923557
+    },
+    {
+      "name": "Großer Schlammsee",
+      "latitude": 48.578283,
+      "longitude": 16.91851
+    },
+    {
+      "name": "Pommersee",
+      "latitude": 48.578319,
+      "longitude": 16.929101
+    },
+    {
+      "name": "Lochneska",
+      "latitude": 48.587203,
+      "longitude": 16.999886
+    },
+    {
+      "name": "Jazero Gergelík",
+      "latitude": 48.590288,
+      "longitude": 16.980784
+    },
+    {
+      "name": "Hliník",
+      "latitude": 48.618808,
+      "longitude": 17.053534
+    },
+    {
+      "name": "Jazero č. 2",
+      "latitude": 48.629269,
+      "longitude": 17.14594
+    },
+    {
+      "name": "Jazero č. 5",
+      "latitude": 48.627571,
+      "longitude": 17.140805
+    },
+    {
+      "name": "Jazero č. 4",
+      "latitude": 48.62777,
+      "longitude": 17.143207
+    },
+    {
+      "name": "Jazero č. 3",
+      "latitude": 48.62833,
+      "longitude": 17.14487
+    },
+    {
+      "name": "Jazero č. 1",
+      "latitude": 48.630165,
+      "longitude": 17.141002
+    },
+    {
+      "name": "Vodná nádrž Dolná studená voda",
+      "latitude": 48.585515,
+      "longitude": 17.068931
+    },
+    {
+      "name": "Vodná nádrž Horná studená voda",
+      "latitude": 48.584937,
+      "longitude": 17.083406
+    },
+    {
+      "name": "Červený rybník",
+      "latitude": 48.576568,
+      "longitude": 17.126019
+    },
+    {
+      "name": "Koválovská priehrada",
+      "latitude": 48.687297,
+      "longitude": 17.274437
+    },
+    {
+      "name": "Bulkovec 3",
+      "latitude": 48.63659,
+      "longitude": 17.257048
+    },
+    {
+      "name": "Bulkovec 2",
+      "latitude": 48.64156,
+      "longitude": 17.246481
+    },
+    {
+      "name": "Bulkovec 1",
+      "latitude": 48.647042,
+      "longitude": 17.240051
+    },
+    {
+      "name": "Vodná Nádrž Prietrž",
+      "latitude": 48.664998,
+      "longitude": 17.452013
+    },
+    {
+      "name": "Hlbocká priehrada",
+      "latitude": 48.638637,
+      "longitude": 17.418038
+    },
+    {
+      "name": "Bahno",
+      "latitude": 48.625811,
+      "longitude": 17.273332
+    },
+    {
+      "name": "Starý Bulkovec",
+      "latitude": 48.63176,
+      "longitude": 17.253302
+    },
+    {
+      "name": "Vodná nádrž Jablonica",
+      "latitude": 48.597291,
+      "longitude": 17.446911
+    },
+    {
+      "name": "Pommersee",
+      "latitude": 48.571674,
+      "longitude": 16.930075
+    },
+    {
+      "name": "Großer Beitsee",
+      "latitude": 48.548006,
+      "longitude": 16.939565
+    },
+    {
+      "name": "Dúbrava",
+      "latitude": 48.553104,
+      "longitude": 16.992702
+    },
+    {
+      "name": "Liliensee",
+      "latitude": 48.524568,
+      "longitude": 16.933067
+    },
+    {
+      "name": "Stará Morava",
+      "latitude": 48.529647,
+      "longitude": 16.950028
+    },
+    {
+      "name": "Altau",
+      "latitude": 48.522301,
+      "longitude": 16.929428
+    },
+    {
+      "name": "Krummer See",
+      "latitude": 48.545488,
+      "longitude": 16.942164
+    },
+    {
+      "name": "gerundete Gruben",
+      "latitude": 48.537134,
+      "longitude": 16.936221
+    },
+    {
+      "name": "Lakšárske jazero",
+      "latitude": 48.560652,
+      "longitude": 17.168198
+    },
+    {
+      "name": "Rybník U Juríkov",
+      "latitude": 48.517508,
+      "longitude": 17.143717
+    },
+    {
+      "name": "Gajarská štrkovňa",
+      "latitude": 48.495035,
+      "longitude": 16.927202
+    },
+    {
+      "name": "Hufeisen",
+      "latitude": 48.513948,
+      "longitude": 16.909729
+    },
+    {
+      "name": "Rudavské jazero",
+      "latitude": 48.50123,
+      "longitude": 16.924048
+    },
+    {
+      "name": "Štokrzie",
+      "latitude": 48.489147,
+      "longitude": 16.90356
+    },
+    {
+      "name": "Rudava",
+      "latitude": 48.494629,
+      "longitude": 16.954604
+    },
+    {
+      "name": "Štokrzie",
+      "latitude": 48.491078,
+      "longitude": 16.902647
+    },
+    {
+      "name": "Veľkolevársky náhon",
+      "latitude": 48.503201,
+      "longitude": 17.041339
+    },
+    {
+      "name": "Habán",
+      "latitude": 48.465538,
+      "longitude": 16.911394
+    },
+    {
+      "name": "Kruh",
+      "latitude": 48.472253,
+      "longitude": 16.895765
+    },
+    {
+      "name": "Požiarna nádrž",
+      "latitude": 48.473825,
+      "longitude": 16.922246
+    },
+    {
+      "name": "Špek",
+      "latitude": 48.475446,
+      "longitude": 16.923784
+    },
+    {
+      "name": "Habán",
+      "latitude": 48.466138,
+      "longitude": 16.907532
+    },
+    {
+      "name": "Tunka",
+      "latitude": 48.481893,
+      "longitude": 16.893825
+    },
+    {
+      "name": "Junkov dolec",
+      "latitude": 48.484652,
+      "longitude": 16.918241
+    },
+    {
+      "name": "Budurovske rybniky",
+      "latitude": 48.479452,
+      "longitude": 16.981654
+    },
+    {
+      "name": "Rybník Tančiboky",
+      "latitude": 48.509134,
+      "longitude": 17.101519
+    },
+    {
+      "name": "Bahná",
+      "latitude": 48.46708,
+      "longitude": 17.059473
+    },
+    {
+      "name": "Vodná nádrž Buková",
+      "latitude": 48.535073,
+      "longitude": 17.363427
+    },
+    {
+      "name": "Trstenák",
+      "latitude": 48.560422,
+      "longitude": 17.462226
+    },
+    {
+      "name": "priehrada Trstín",
+      "latitude": 48.53409,
+      "longitude": 17.466842
+    },
+    {
+      "name": "Vodná nádrž Horné Orešany",
+      "latitude": 48.472465,
+      "longitude": 17.416324
+    },
+    {
+      "name": "vodná nádrž Boleráz",
+      "latitude": 48.487426,
+      "longitude": 17.475329
+    },
+    {
+      "name": "VN Pustá Ves",
+      "latitude": 48.636144,
+      "longitude": 17.642591
+    },
+    {
+      "name": "Čerenec",
+      "latitude": 48.637487,
+      "longitude": 17.707173
+    },
+    {
+      "name": "Štrkovisko Dlhé kusy",
+      "latitude": 48.642527,
+      "longitude": 17.845202
+    },
+    {
+      "name": "Kazeta 1",
+      "latitude": 48.643183,
+      "longitude": 17.851167
+    },
+    {
+      "name": "Kazeta 3",
+      "latitude": 48.646645,
+      "longitude": 17.853707
+    },
+    {
+      "name": "Kazeta 2",
+      "latitude": 48.644702,
+      "longitude": 17.852688
+    },
+    {
+      "name": "Kazeta 4",
+      "latitude": 48.64849,
+      "longitude": 17.854796
+    },
+    {
+      "name": "Vodná nádrž Výtok (\"Výtek\")",
+      "latitude": 48.614921,
+      "longitude": 17.585312
+    },
+    {
+      "name": "Rybník",
+      "latitude": 48.607917,
+      "longitude": 17.584737
+    },
+    {
+      "name": "Vodná nádrž Chtelnica (\"Priehrada\")",
+      "latitude": 48.596311,
+      "longitude": 17.602283
+    },
+    {
+      "name": "Biskupický kanál",
+      "latitude": 48.618269,
+      "longitude": 17.839366
+    },
+    {
+      "name": "Striebornica",
+      "latitude": 48.606481,
+      "longitude": 17.880598
+    },
+    {
+      "name": "Biskupický kanál",
+      "latitude": 48.603237,
+      "longitude": 17.841019
+    },
+    {
+      "name": "Sĺňava",
+      "latitude": 48.578771,
+      "longitude": 17.832206
+    },
+    {
+      "name": "Leknové jazierka",
+      "latitude": 48.587463,
+      "longitude": 17.842674
+    },
+    {
+      "name": "Zrecie bazény liečivého peloidu",
+      "latitude": 48.586282,
+      "longitude": 17.843111
+    },
+    {
+      "name": "Gabikino jazero",
+      "latitude": 48.671214,
+      "longitude": 17.968289
+    },
+    {
+      "name": "Vodná nádrž Duchonka",
+      "latitude": 48.666761,
+      "longitude": 18.096822
+    },
+    {
+      "name": "Vodná nádrž Nemečky",
+      "latitude": 48.683102,
+      "longitude": 18.111255
+    },
+    {
+      "name": "Tesáre",
+      "latitude": 48.609588,
+      "longitude": 18.079534
+    },
+    {
+      "name": "retenčná nádrž",
+      "latitude": 48.586959,
+      "longitude": 18.024765
+    },
+    {
+      "name": "Rybník kaprový",
+      "latitude": 48.595454,
+      "longitude": 18.049636
+    },
+    {
+      "name": "Rybník pstruhový",
+      "latitude": 48.595799,
+      "longitude": 18.049021
+    },
+    {
+      "name": "Malé Bedzany",
+      "latitude": 48.586873,
+      "longitude": 18.182729
+    },
+    {
+      "name": "Rybník Eko Park",
+      "latitude": 48.550913,
+      "longitude": 17.812578
+    },
+    {
+      "name": "Rimplerova Važina",
+      "latitude": 48.570508,
+      "longitude": 17.832588
+    },
+    {
+      "name": "Sĺňava",
+      "latitude": 48.555538,
+      "longitude": 17.823213
+    },
+    {
+      "name": "Drahovský kanál",
+      "latitude": 48.533862,
+      "longitude": 17.815679
+    },
+    {
+      "name": "Štrkovisko č.1",
+      "latitude": 48.517603,
+      "longitude": 17.817669
+    },
+    {
+      "name": "Sokolovské mŕtve rameno",
+      "latitude": 48.53815,
+      "longitude": 17.831997
+    },
+    {
+      "name": "Vodojem",
+      "latitude": 48.532313,
+      "longitude": 17.888521
+    },
+    {
+      "name": "Močidlo",
+      "latitude": 48.516332,
+      "longitude": 17.613819
+    },
+    {
+      "name": "Štrkovisko č.7",
+      "latitude": 48.493503,
+      "longitude": 17.803341
+    },
+    {
+      "name": "Štrkovisko č.6",
+      "latitude": 48.497444,
+      "longitude": 17.806301
+    },
+    {
+      "name": "Štrkovisko č.8",
+      "latitude": 48.491981,
+      "longitude": 17.801255
+    },
+    {
+      "name": "Štrkovisko č.9",
+      "latitude": 48.490265,
+      "longitude": 17.801236
+    },
+    {
+      "name": "Štrkovisko č.3",
+      "latitude": 48.501204,
+      "longitude": 17.814259
+    },
+    {
+      "name": "Štrkovisko č.4",
+      "latitude": 48.500423,
+      "longitude": 17.80895
+    },
+    {
+      "name": "Štrkovisko č.2",
+      "latitude": 48.504335,
+      "longitude": 17.811529
+    },
+    {
+      "name": "Važina",
+      "latitude": 48.513383,
+      "longitude": 17.808829
+    },
+    {
+      "name": "Važina",
+      "latitude": 48.509327,
+      "longitude": 17.806701
+    },
+    {
+      "name": "Drahovský kanál",
+      "latitude": 48.493248,
+      "longitude": 17.797651
+    },
+    {
+      "name": "Drahovský kanál",
+      "latitude": 48.492752,
+      "longitude": 17.797328
+    },
+    {
+      "name": "Štrkovisko č.5",
+      "latitude": 48.502126,
+      "longitude": 17.801235
+    },
+    {
+      "name": "Drahovský kanál",
+      "latitude": 48.473352,
+      "longitude": 17.790987
+    },
+    {
+      "name": "Drahovský kanál",
+      "latitude": 48.471904,
+      "longitude": 17.790767
+    },
+    {
+      "name": "Vodná nádrž Krtovce",
+      "latitude": 48.530127,
+      "longitude": 18.00874
+    },
+    {
+      "name": "Vodná nádrž Hajná Nová Ves",
+      "latitude": 48.526417,
+      "longitude": 18.022503
+    },
+    {
+      "name": "Tovarnícky rybník",
+      "latitude": 48.568663,
+      "longitude": 18.145891
+    },
+    {
+      "name": "Rameno Zátišie",
+      "latitude": 48.568044,
+      "longitude": 18.199473
+    },
+    {
+      "name": "Mŕtve rameno",
+      "latitude": 48.52237,
+      "longitude": 18.156198
+    },
+    {
+      "name": "Veľké Ripňany",
+      "latitude": 48.491612,
+      "longitude": 17.956374
+    },
+    {
+      "name": "Bodok",
+      "latitude": 48.508104,
+      "longitude": 18.064655
+    },
+    {
+      "name": "Horné Obdokovce",
+      "latitude": 48.489205,
+      "longitude": 18.041369
+    },
+    {
+      "name": "Horné Štitáre",
+      "latitude": 48.515887,
+      "longitude": 18.064288
+    },
+    {
+      "name": "Rybník LUH Kovarce",
+      "latitude": 48.496239,
+      "longitude": 18.138452
+    },
+    {
+      "name": "Vodná nádrž Nitrianske Rudno",
+      "latitude": 48.809145,
+      "longitude": 18.481897
+    },
+    {
+      "name": "Kanianka",
+      "latitude": 48.811318,
+      "longitude": 18.587236
+    },
+    {
+      "name": "Lazany",
+      "latitude": 48.825462,
+      "longitude": 18.611756
+    },
+    {
+      "name": "Košovské jazerá",
+      "latitude": 48.745986,
+      "longitude": 18.585868
+    },
+    {
+      "name": "Košovské jazerá",
+      "latitude": 48.748379,
+      "longitude": 18.585186
+    },
+    {
+      "name": "Laskárska mokraď",
+      "latitude": 48.739273,
+      "longitude": 18.559867
+    },
+    {
+      "name": "Vodná nádrž Nováky",
+      "latitude": 48.718429,
+      "longitude": 18.528056
+    },
+    {
+      "name": "Turček",
+      "latitude": 48.766973,
+      "longitude": 18.943181
+    },
+    {
+      "name": "Konštantín",
+      "latitude": 48.724715,
+      "longitude": 18.727725
+    },
+    {
+      "name": "Ľadopád Skalka",
+      "latitude": 48.741288,
+      "longitude": 18.983449
+    },
+    {
+      "name": "Veterník",
+      "latitude": 48.691283,
+      "longitude": 18.92087
+    },
+    {
+      "name": "Jazierko pod Novou Hoľou",
+      "latitude": 48.881927,
+      "longitude": 19.241549
+    },
+    {
+      "name": "Bývalé kúpalisko Jergaly",
+      "latitude": 48.87065,
+      "longitude": 19.195264
+    },
+    {
+      "name": "Starý Tajch",
+      "latitude": 48.88698,
+      "longitude": 19.26671
+    },
+    {
+      "name": "Prírodná rezervácia, jazierko",
+      "latitude": 48.889942,
+      "longitude": 19.285448
+    },
+    {
+      "name": "vodná nádrž Dolný Jelenec",
+      "latitude": 48.855148,
+      "longitude": 19.149695
+    },
+    {
+      "name": "vodná nádrž Motyčky",
+      "latitude": 48.861539,
+      "longitude": 19.167439
+    },
+    {
+      "name": "Jazero na Bani",
+      "latitude": 48.824517,
+      "longitude": 19.334074
+    },
+    {
+      "name": "Nápustný objekt - Bauková",
+      "latitude": 48.898962,
+      "longitude": 19.432826
+    },
+    {
+      "name": "Vodná nádrž Krpáčovo",
+      "latitude": 48.873607,
+      "longitude": 19.552374
+    },
+    {
+      "name": "Prírodné kúpalisko Tále",
+      "latitude": 48.872611,
+      "longitude": 19.601562
+    },
+    {
+      "name": "Gudrónová jama",
+      "latitude": 48.820761,
+      "longitude": 19.478619
+    },
+    {
+      "name": "Gudrónová jama",
+      "latitude": 48.820608,
+      "longitude": 19.483114
+    },
+    {
+      "name": "Lopejské jazierko",
+      "latitude": 48.810697,
+      "longitude": 19.494622
+    },
+    {
+      "name": "Hnusnô II.",
+      "latitude": 48.83798,
+      "longitude": 19.563697
+    },
+    {
+      "name": "Tajch",
+      "latitude": 48.821914,
+      "longitude": 19.546208
+    },
+    {
+      "name": "Hnusnô I.",
+      "latitude": 48.83115,
+      "longitude": 19.557419
+    },
+    {
+      "name": "Labutie jazierko",
+      "latitude": 48.81423,
+      "longitude": 19.576169
+    },
+    {
+      "name": "Jazero Mútnô",
+      "latitude": 48.721376,
+      "longitude": 19.046209
+    },
+    {
+      "name": "Ortutské jazierko",
+      "latitude": 48.709596,
+      "longitude": 19.021609
+    },
+    {
+      "name": "Pod Rybou",
+      "latitude": 48.730506,
+      "longitude": 19.166208
+    },
+    {
+      "name": "Vodná nádrž Hrončok",
+      "latitude": 48.702058,
+      "longitude": 19.525051
+    },
+    {
+      "name": "Nedašovce",
+      "latitude": 48.66307,
+      "longitude": 18.312418
+    },
+    {
+      "name": "Brezolupy",
+      "latitude": 48.688802,
+      "longitude": 18.307211
+    },
+    {
+      "name": "Pľuvatko",
+      "latitude": 48.68726,
+      "longitude": 18.597216
+    },
+    {
+      "name": "Štrkovisko Žabokreky",
+      "latitude": 48.615054,
+      "longitude": 18.303981
+    },
+    {
+      "name": "Partizánske",
+      "latitude": 48.629934,
+      "longitude": 18.401889
+    },
+    {
+      "name": "Vodná nádrž Veľké Uherce",
+      "latitude": 48.597136,
+      "longitude": 18.453976
+    },
+    {
+      "name": "Kolačianská priehrada",
+      "latitude": 48.588556,
+      "longitude": 18.412291
+    },
+    {
+      "name": "Handlovský rybník",
+      "latitude": 48.690106,
+      "longitude": 18.737853
+    },
+    {
+      "name": "Veľké jazero",
+      "latitude": 48.686558,
+      "longitude": 18.757683
+    },
+    {
+      "name": "Malé jazero",
+      "latitude": 48.676435,
+      "longitude": 18.770812
+    },
+    {
+      "name": "Lehotske oko",
+      "latitude": 48.689652,
+      "longitude": 18.746653
+    },
+    {
+      "name": "Lovčica \"Bejvoč\"",
+      "latitude": 48.64415,
+      "longitude": 18.77274
+    },
+    {
+      "name": "Slobodné",
+      "latitude": 48.648711,
+      "longitude": 18.885055
+    },
+    {
+      "name": "Trubín",
+      "latitude": 48.60501,
+      "longitude": 18.786864
+    },
+    {
+      "name": "Zákruty",
+      "latitude": 48.577236,
+      "longitude": 18.791913
+    },
+    {
+      "name": "Vodná nádrž Trnávka",
+      "latitude": 48.577407,
+      "longitude": 18.766763
+    },
+    {
+      "name": "Prestavlky",
+      "latitude": 48.588359,
+      "longitude": 18.764056
+    },
+    {
+      "name": "Mŕtve rameno",
+      "latitude": 48.581478,
+      "longitude": 18.872193
+    },
+    {
+      "name": "Lázeň",
+      "latitude": 48.556736,
+      "longitude": 18.372102
+    },
+    {
+      "name": "Tríbečské plesá",
+      "latitude": 48.528553,
+      "longitude": 18.293275
+    },
+    {
+      "name": "Vodná nádrž Husárová",
+      "latitude": 48.530422,
+      "longitude": 18.519833
+    },
+    {
+      "name": "Rybník Čerešňovo",
+      "latitude": 48.477345,
+      "longitude": 18.364357
+    },
+    {
+      "name": "Rybník",
+      "latitude": 48.487152,
+      "longitude": 18.442008
+    },
+    {
+      "name": "Vodná nádrž Pustý hrad",
+      "latitude": 48.538627,
+      "longitude": 18.848052
+    },
+    {
+      "name": "Bažíkovo",
+      "latitude": 48.486238,
+      "longitude": 18.698091
+    },
+    {
+      "name": "Schöpferštôlniansky tajch",
+      "latitude": 48.461844,
+      "longitude": 18.781501
+    },
+    {
+      "name": "Bývalý Unverzagt tajch",
+      "latitude": 48.488511,
+      "longitude": 18.814132
+    },
+    {
+      "name": "Žakýlske Pleso",
+      "latitude": 48.51211,
+      "longitude": 18.934867
+    },
+    {
+      "name": "Tajch Ottergrund",
+      "latitude": 48.461159,
+      "longitude": 18.879964
+    },
+    {
+      "name": "Tajch Červená studňa",
+      "latitude": 48.468565,
+      "longitude": 18.883497
+    },
+    {
+      "name": "Horný Hodrušský tajch",
+      "latitude": 48.45885,
+      "longitude": 18.853782
+    },
+    {
+      "name": "Dolný Hodrušský tajch",
+      "latitude": 48.463833,
+      "longitude": 18.852012
+    },
+    {
+      "name": "Tajch Malá Vodárenská",
+      "latitude": 48.467317,
+      "longitude": 18.886808
+    },
+    {
+      "name": "Brennerský tajch",
+      "latitude": 48.473377,
+      "longitude": 18.825149
+    },
+    {
+      "name": "Bančiansky tajch",
+      "latitude": 48.479034,
+      "longitude": 18.859235
+    },
+    {
+      "name": "Bývalý tajch Keichhýbel",
+      "latitude": 48.48512,
+      "longitude": 18.852756
+    },
+    {
+      "name": "Bývalý tajch Hölle",
+      "latitude": 48.459185,
+      "longitude": 18.850424
+    },
+    {
+      "name": "Bývalý Teplopotocký tajch",
+      "latitude": 48.467486,
+      "longitude": 18.874452
+    },
+    {
+      "name": "Bývalý Jurajštôlniansky tajch",
+      "latitude": 48.477023,
+      "longitude": 18.89462
+    },
+    {
+      "name": "Ján Jozef šachta",
+      "latitude": 48.471206,
+      "longitude": 18.878155
+    },
+    {
+      "name": "Retenčná nádrž",
+      "latitude": 48.479021,
+      "longitude": 18.853747
+    },
+    {
+      "name": "Tajch Rozgrund",
+      "latitude": 48.476917,
+      "longitude": 18.875567
+    },
+    {
+      "name": "Tajch Veľká Vodárenská",
+      "latitude": 48.466622,
+      "longitude": 18.888658
+    },
+    {
+      "name": "Halčiansky tajch",
+      "latitude": 48.465589,
+      "longitude": 18.951048
+    },
+    {
+      "name": "Vodná nádrž Jasenica",
+      "latitude": 48.465295,
+      "longitude": 18.940925
+    },
+    {
+      "name": "Dolný Michalštôlniansky tajch",
+      "latitude": 48.465745,
+      "longitude": 18.898386
+    },
+    {
+      "name": "Malý Goldflusský tajch, dolný",
+      "latitude": 48.47186,
+      "longitude": 18.916377
+    },
+    {
+      "name": "Malý Goldflusský tajch, horný",
+      "latitude": 48.472266,
+      "longitude": 18.915683
+    },
+    {
+      "name": "Bývalý Veľký Goldflusský tajch",
+      "latitude": 48.473267,
+      "longitude": 18.922299
+    },
+    {
+      "name": "Beliansky tajch",
+      "latitude": 48.471354,
+      "longitude": 18.912669
+    },
+    {
+      "name": "Badínsky rybník",
+      "latitude": 48.65752,
+      "longitude": 19.147608
+    },
+    {
+      "name": "Kováčovský rybník",
+      "latitude": 48.612034,
+      "longitude": 19.093312
+    },
+    {
+      "name": "vodná nádrž Hriňová",
+      "latitude": 48.604383,
+      "longitude": 19.547728
+    },
+    {
+      "name": "Priehrada - Skalisko",
+      "latitude": 48.582171,
+      "longitude": 19.549727
+    },
+    {
+      "name": "vodná nádrž Môťová",
+      "latitude": 48.55457,
+      "longitude": 19.178075
+    },
+    {
+      "name": "Kórea",
+      "latitude": 48.573398,
+      "longitude": 19.167759
+    },
+    {
+      "name": "vodná nádrž Dobrá Niva",
+      "latitude": 48.493104,
+      "longitude": 19.07545
+    },
+    {
+      "name": "Jazierko s vodnou vegetáciou",
+      "latitude": 48.55273,
+      "longitude": 19.399864
+    },
+    {
+      "name": "vodná nádrž Málinec",
+      "latitude": 48.529097,
+      "longitude": 19.662113
+    },
+    {
+      "name": "Bobrie jazero - dolné",
+      "latitude": 48.434982,
+      "longitude": 16.877384
+    },
+    {
+      "name": "Bobrie jazero - horné",
+      "latitude": 48.440401,
+      "longitude": 16.879106
+    },
+    {
+      "name": "Jakubovské rybníky",
+      "latitude": 48.410406,
+      "longitude": 16.961899
+    },
+    {
+      "name": "Štrkovisko Jakubov II",
+      "latitude": 48.42485,
+      "longitude": 16.927838
+    },
+    {
+      "name": "Štrkovisko Jakubov I",
+      "latitude": 48.408258,
+      "longitude": 16.913471
+    },
+    {
+      "name": "Pruxe",
+      "latitude": 48.42555,
+      "longitude": 16.894323
+    },
+    {
+      "name": "Jakubovské rybníky",
+      "latitude": 48.413812,
+      "longitude": 16.973752
+    },
+    {
+      "name": "Marhecké rybníky",
+      "latitude": 48.4097,
+      "longitude": 17.021572
+    },
+    {
+      "name": "Jakubovské rybníky",
+      "latitude": 48.415897,
+      "longitude": 16.974158
+    },
+    {
+      "name": "Jakubovské rybníky",
+      "latitude": 48.414344,
+      "longitude": 16.976866
+    },
+    {
+      "name": "Štvrtý rybník",
+      "latitude": 48.432601,
+      "longitude": 17.068605
+    },
+    {
+      "name": "Vodná nádrž Vývrat",
+      "latitude": 48.433097,
+      "longitude": 17.168236
+    },
+    {
+      "name": "Druhý rybník",
+      "latitude": 48.414729,
+      "longitude": 17.087222
+    },
+    {
+      "name": "Tretí rybník",
+      "latitude": 48.429125,
+      "longitude": 17.079469
+    },
+    {
+      "name": "Vodná nádrž Kuchyňa",
+      "latitude": 48.402518,
+      "longitude": 17.165873
+    },
+    {
+      "name": "Centnúz",
+      "latitude": 48.373385,
+      "longitude": 16.907221
+    },
+    {
+      "name": "Čierny Feld",
+      "latitude": 48.384957,
+      "longitude": 16.9127
+    },
+    {
+      "name": "Feld",
+      "latitude": 48.381356,
+      "longitude": 16.913044
+    },
+    {
+      "name": "Osmička (Fudžijama)",
+      "latitude": 48.385882,
+      "longitude": 16.979047
+    },
+    {
+      "name": "Rybník Tančibok",
+      "latitude": 48.393563,
+      "longitude": 17.034406
+    },
+    {
+      "name": "Štrkovisko",
+      "latitude": 48.343509,
+      "longitude": 16.906172
+    },
+    {
+      "name": "Pieskovňa",
+      "latitude": 48.364997,
+      "longitude": 17.002353
+    },
+    {
+      "name": "Prvý rybník",
+      "latitude": 48.396058,
+      "longitude": 17.107652
+    },
+    {
+      "name": "Vod.nádrž Parina",
+      "latitude": 48.453173,
+      "longitude": 17.350772
+    },
+    {
+      "name": "Fügelka",
+      "latitude": 48.406626,
+      "longitude": 17.266709
+    },
+    {
+      "name": "Biela skala",
+      "latitude": 48.413859,
+      "longitude": 17.281542
+    },
+    {
+      "name": "Vodná nádrž Podháj",
+      "latitude": 48.412399,
+      "longitude": 17.462303
+    },
+    {
+      "name": "Vodná nádrž Doľany",
+      "latitude": 48.400991,
+      "longitude": 17.411734
+    },
+    {
+      "name": "Vodná nádrž Modra-Piesok",
+      "latitude": 48.379968,
+      "longitude": 17.276419
+    },
+    {
+      "name": "Vodná nádrž Budmerice",
+      "latitude": 48.378286,
+      "longitude": 17.385195
+    },
+    {
+      "name": "Hájiček",
+      "latitude": 48.372414,
+      "longitude": 17.391428
+    },
+    {
+      "name": "Rybník Kamenný mlyn",
+      "latitude": 48.369521,
+      "longitude": 17.545802
+    },
+    {
+      "name": "Lábske jazero",
+      "latitude": 48.338449,
+      "longitude": 16.945456
+    },
+    {
+      "name": "Malé Axi",
+      "latitude": 48.333916,
+      "longitude": 16.937019
+    },
+    {
+      "name": "Maritz",
+      "latitude": 48.324816,
+      "longitude": 16.878132
+    },
+    {
+      "name": "Maritz",
+      "latitude": 48.323915,
+      "longitude": 16.882339
+    },
+    {
+      "name": "Maritz",
+      "latitude": 48.31919,
+      "longitude": 16.887753
+    },
+    {
+      "name": "Maritz",
+      "latitude": 48.312826,
+      "longitude": 16.884725
+    },
+    {
+      "name": "Polakovych Jamka",
+      "latitude": 48.336961,
+      "longitude": 16.885506
+    },
+    {
+      "name": "Veľké Axi",
+      "latitude": 48.338995,
+      "longitude": 16.931817
+    },
+    {
+      "name": "Todte Waßer",
+      "latitude": 48.291518,
+      "longitude": 16.899769
+    },
+    {
+      "name": "Stará Malina",
+      "latitude": 48.289431,
+      "longitude": 16.926418
+    },
+    {
+      "name": "Hajbrod",
+      "latitude": 48.288852,
+      "longitude": 16.953871
+    },
+    {
+      "name": "Vyborovych Jamka",
+      "latitude": 48.299611,
+      "longitude": 16.919374
+    },
+    {
+      "name": "Stará Morava",
+      "latitude": 48.291255,
+      "longitude": 16.909998
+    },
+    {
+      "name": "Bezedne",
+      "latitude": 48.296455,
+      "longitude": 16.94598
+    },
+    {
+      "name": "Štrkovisko na Židovkách",
+      "latitude": 48.305038,
+      "longitude": 16.916278
+    },
+    {
+      "name": "Vodná nádrž Lozorno",
+      "latitude": 48.32404,
+      "longitude": 17.063838
+    },
+    {
+      "name": "Vodná nádrž Lozorno I.",
+      "latitude": 48.313749,
+      "longitude": 17.103878
+    },
+    {
+      "name": "Vodná nádrž Slnečné údolie",
+      "latitude": 48.323667,
+      "longitude": 17.209331
+    },
+    {
+      "name": "Spálenisko",
+      "latitude": 48.307485,
+      "longitude": 17.109821
+    },
+    {
+      "name": "Vodná nádrž Kubinov kríž",
+      "latitude": 48.297543,
+      "longitude": 17.104135
+    },
+    {
+      "name": "Naturteich Marchegg",
+      "latitude": 48.274081,
+      "longitude": 16.916211
+    },
+    {
+      "name": "Breitensee",
+      "latitude": 48.269634,
+      "longitude": 16.925829
+    },
+    {
+      "name": "Breitensee",
+      "latitude": 48.269271,
+      "longitude": 16.929531
+    },
+    {
+      "name": "Šrek",
+      "latitude": 48.276759,
+      "longitude": 16.942418
+    },
+    {
+      "name": "Devínske jazero",
+      "latitude": 48.274086,
+      "longitude": 16.949777
+    },
+    {
+      "name": "Vachalkov rybník",
+      "latitude": 48.273059,
+      "longitude": 16.995288
+    },
+    {
+      "name": "Pivovarský rybník",
+      "latitude": 48.276762,
+      "longitude": 17.039084
+    },
+    {
+      "name": "Grinavské jazerá",
+      "latitude": 48.272803,
+      "longitude": 17.223163
+    },
+    {
+      "name": "Štrkovisko panónsky les",
+      "latitude": 48.227426,
+      "longitude": 17.202526
+    },
+    {
+      "name": "Šúrsky rybník",
+      "latitude": 48.229841,
+      "longitude": 17.204135
+    },
+    {
+      "name": "Kučišdorfská priehrada",
+      "latitude": 48.326994,
+      "longitude": 17.262019
+    },
+    {
+      "name": "vodná nádrž Modra",
+      "latitude": 48.332573,
+      "longitude": 17.331959
+    },
+    {
+      "name": "Modranský rybník",
+      "latitude": 48.328883,
+      "longitude": 17.315165
+    },
+    {
+      "name": "Vodná nádrž Vištuk",
+      "latitude": 48.333487,
+      "longitude": 17.378435
+    },
+    {
+      "name": "Kejda",
+      "latitude": 48.299463,
+      "longitude": 17.254829
+    },
+    {
+      "name": "Vodná nádrž Blatné",
+      "latitude": 48.286349,
+      "longitude": 17.390024
+    },
+    {
+      "name": "Vodná nádrž Šenkvice",
+      "latitude": 48.304899,
+      "longitude": 17.362779
+    },
+    {
+      "name": "Vodná nádrž Ronava",
+      "latitude": 48.315013,
+      "longitude": 17.538673
+    },
+    {
+      "name": "Grinavské jazerá",
+      "latitude": 48.274205,
+      "longitude": 17.228013
+    },
+    {
+      "name": "Štrkovisko Dolná tehelňa",
+      "latitude": 48.272264,
+      "longitude": 17.260114
+    },
+    {
+      "name": "Morské oko Sv. Martin",
+      "latitude": 48.267345,
+      "longitude": 17.361963
+    },
+    {
+      "name": "Labutie jazero",
+      "latitude": 48.225291,
+      "longitude": 17.40196
+    },
+    {
+      "name": "Rybník",
+      "latitude": 48.27839,
+      "longitude": 17.554345
+    },
+    {
+      "name": "Bikarét",
+      "latitude": 48.237999,
+      "longitude": 17.448794
+    },
+    {
+      "name": "Rašelinisko Veľký Grob",
+      "latitude": 48.24586,
+      "longitude": 17.523241
+    },
+    {
+      "name": "Rašelinisko Tarnok",
+      "latitude": 48.242024,
+      "longitude": 17.535402
+    },
+    {
+      "name": "Bager",
+      "latitude": 48.234771,
+      "longitude": 17.548224
+    },
+    {
+      "name": "Štrkovka",
+      "latitude": 48.453016,
+      "longitude": 17.785532
+    },
+    {
+      "name": "Veľká jama",
+      "latitude": 48.3869,
+      "longitude": 17.770738
+    },
+    {
+      "name": "Lukáčovské rybníky",
+      "latitude": 48.399746,
+      "longitude": 17.926015
+    },
+    {
+      "name": "Retenčná nádrž",
+      "latitude": 48.34792,
+      "longitude": 17.887562
+    },
+    {
+      "name": "Malé Zálužie",
+      "latitude": 48.441405,
+      "longitude": 17.980916
+    },
+    {
+      "name": "Vodná nádrž Hruboňovo",
+      "latitude": 48.458255,
+      "longitude": 18.027172
+    },
+    {
+      "name": "jazero č.4",
+      "latitude": 48.404133,
+      "longitude": 18.086083
+    },
+    {
+      "name": "Alekšinské rybníky",
+      "latitude": 48.373551,
+      "longitude": 17.95503
+    },
+    {
+      "name": "Lukáčovské rybníky",
+      "latitude": 48.397081,
+      "longitude": 17.929775
+    },
+    {
+      "name": "jazero č.3",
+      "latitude": 48.399084,
+      "longitude": 18.083162
+    },
+    {
+      "name": "Mŕtve rameno Nitry",
+      "latitude": 48.388276,
+      "longitude": 18.078571
+    },
+    {
+      "name": "OR Rohlík",
+      "latitude": 48.399661,
+      "longitude": 18.086022
+    },
+    {
+      "name": "Jazero pri pálenici",
+      "latitude": 48.38145,
+      "longitude": 18.063884
+    },
+    {
+      "name": "Alekšinské rybníky",
+      "latitude": 48.367618,
+      "longitude": 17.953865
+    },
+    {
+      "name": "Alekšinské rybníky",
+      "latitude": 48.370571,
+      "longitude": 17.954206
+    },
+    {
+      "name": "Protipožiarna nádrž Žirany",
+      "latitude": 48.387363,
+      "longitude": 18.150024
+    },
+    {
+      "name": "Polovčáň",
+      "latitude": 48.385913,
+      "longitude": 18.127935
+    },
+    {
+      "name": "Vodná nádrž Jelenec",
+      "latitude": 48.395678,
+      "longitude": 18.208651
+    },
+    {
+      "name": "Štitárske jazierko (Faďalaš)",
+      "latitude": 48.349615,
+      "longitude": 18.149319
+    },
+    {
+      "name": "Vodná nádrž Kolíňany",
+      "latitude": 48.354117,
+      "longitude": 18.216388
+    },
+    {
+      "name": "Nové \"Rameno\"",
+      "latitude": 48.314214,
+      "longitude": 17.74037
+    },
+    {
+      "name": "Koleno",
+      "latitude": 48.297446,
+      "longitude": 17.747378
+    },
+    {
+      "name": "Rameno",
+      "latitude": 48.311385,
+      "longitude": 17.738336
+    },
+    {
+      "name": "v.n. Hlohovník",
+      "latitude": 48.300267,
+      "longitude": 17.772711
+    },
+    {
+      "name": "Vodná nádrž Báb",
+      "latitude": 48.296741,
+      "longitude": 17.856026
+    },
+    {
+      "name": "Štrkovka",
+      "latitude": 48.26775,
+      "longitude": 17.654996
+    },
+    {
+      "name": "Šintavské bane",
+      "latitude": 48.280698,
+      "longitude": 17.746097
+    },
+    {
+      "name": "Kačičárne",
+      "latitude": 48.280556,
+      "longitude": 17.749038
+    },
+    {
+      "name": "Hliník",
+      "latitude": 48.253873,
+      "longitude": 17.612642
+    },
+    {
+      "name": "Starý Váh",
+      "latitude": 48.256739,
+      "longitude": 17.805617
+    },
+    {
+      "name": "Starý Váh",
+      "latitude": 48.248936,
+      "longitude": 17.811625
+    },
+    {
+      "name": "Roličky",
+      "latitude": 48.229216,
+      "longitude": 17.826376
+    },
+    {
+      "name": "Vodné dielo Kráľová",
+      "latitude": 48.246404,
+      "longitude": 17.783773
+    },
+    {
+      "name": "Malá Hangócka",
+      "latitude": 48.316671,
+      "longitude": 18.080625
+    },
+    {
+      "name": "Veľká Hangócka",
+      "latitude": 48.315129,
+      "longitude": 18.079042
+    },
+    {
+      "name": "Farebná fontána",
+      "latitude": 48.31383,
+      "longitude": 18.088114
+    },
+    {
+      "name": "Zoborské jazierko",
+      "latitude": 48.327407,
+      "longitude": 18.094241
+    },
+    {
+      "name": "Jazero Sihoť",
+      "latitude": 48.320419,
+      "longitude": 18.083644
+    },
+    {
+      "name": "Retenčná nádrž križovatky R1 a R1A",
+      "latitude": 48.315176,
+      "longitude": 18.0194
+    },
+    {
+      "name": "Vodná nádrž Veľké Zálužie",
+      "latitude": 48.293501,
+      "longitude": 17.956538
+    },
+    {
+      "name": "Čáporský rybník",
+      "latitude": 48.261203,
+      "longitude": 18.027668
+    },
+    {
+      "name": "Cabajský rybník",
+      "latitude": 48.244836,
+      "longitude": 18.054748
+    },
+    {
+      "name": "Štrkovisko Čechynce",
+      "latitude": 48.258675,
+      "longitude": 18.152722
+    },
+    {
+      "name": "Vodná nádrž Golianovo",
+      "latitude": 48.256337,
+      "longitude": 18.20354
+    },
+    {
+      "name": "Štrkovisko Gergelová",
+      "latitude": 48.236069,
+      "longitude": 18.151349
+    },
+    {
+      "name": "Staré rameno rieky Nitra",
+      "latitude": 48.23851,
+      "longitude": 18.174431
+    },
+    {
+      "name": "Štrkovisko Kocka",
+      "latitude": 48.228926,
+      "longitude": 18.173
+    },
+    {
+      "name": "Štrkovisko Veľký Cetín",
+      "latitude": 48.229807,
+      "longitude": 18.16225
+    },
+    {
+      "name": "Starý potok",
+      "latitude": 48.246271,
+      "longitude": 18.169321
+    },
+    {
+      "name": "Devínskonovoveský rybník",
+      "latitude": 48.216592,
+      "longitude": 16.973278
+    },
+    {
+      "name": "Biela studnička",
+      "latitude": 48.172893,
+      "longitude": 17.030593
+    },
+    {
+      "name": "Vodná nádrž Vajspeter",
+      "latitude": 48.205261,
+      "longitude": 17.128335
+    },
+    {
+      "name": "Blažena",
+      "latitude": 48.198145,
+      "longitude": 17.051337
+    },
+    {
+      "name": "Vajnorský rybník",
+      "latitude": 48.215957,
+      "longitude": 17.184576
+    },
+    {
+      "name": "Rybník Rača",
+      "latitude": 48.209426,
+      "longitude": 17.16921
+    },
+    {
+      "name": "Štvrtý rybník",
+      "latitude": 48.179488,
+      "longitude": 17.073947
+    },
+    {
+      "name": "Tretí rybník",
+      "latitude": 48.18106,
+      "longitude": 17.073435
+    },
+    {
+      "name": "Druhý rybník",
+      "latitude": 48.191758,
+      "longitude": 17.08451
+    },
+    {
+      "name": "Prvý rybník",
+      "latitude": 48.193245,
+      "longitude": 17.089156
+    },
+    {
+      "name": "Technická fontána",
+      "latitude": 48.169742,
+      "longitude": 17.134342
+    },
+    {
+      "name": "Zelenohorský potok",
+      "latitude": 48.177703,
+      "longitude": 17.063573
+    },
+    {
+      "name": "Prameň Zelenohorského potoka",
+      "latitude": 48.189691,
+      "longitude": 17.063312
+    },
+    {
+      "name": "Čerešne Lake",
+      "latitude": 48.177003,
+      "longitude": 17.052584
+    },
+    {
+      "name": "Vajnorské jazero",
+      "latitude": 48.192926,
+      "longitude": 17.209628
+    },
+    {
+      "name": "Zlaté piesky",
+      "latitude": 48.184155,
+      "longitude": 17.188875
+    },
+    {
+      "name": "Fontána s figúrou",
+      "latitude": 48.166788,
+      "longitude": 17.138915
+    },
+    {
+      "name": "Kuchajda",
+      "latitude": 48.169478,
+      "longitude": 17.144782
+    },
+    {
+      "name": "Kalné jazero",
+      "latitude": 48.193019,
+      "longitude": 17.179738
+    },
+    {
+      "name": "Doktorov jarok",
+      "latitude": 48.161812,
+      "longitude": 17.044409
+    },
+    {
+      "name": "Zimný prístav",
+      "latitude": 48.138566,
+      "longitude": 17.137174
+    },
+    {
+      "name": "Fontána Družba",
+      "latitude": 48.152127,
+      "longitude": 17.111728
+    },
+    {
+      "name": "Fontána milencov",
+      "latitude": 48.149626,
+      "longitude": 17.133871
+    },
+    {
+      "name": "Marína",
+      "latitude": 48.142606,
+      "longitude": 17.115487
+    },
+    {
+      "name": "Fontána Plastika s raketou",
+      "latitude": 48.152671,
+      "longitude": 17.12969
+    },
+    {
+      "name": "Oddych",
+      "latitude": 48.15339,
+      "longitude": 17.125329
+    },
+    {
+      "name": "Fontána Nataša",
+      "latitude": 48.152293,
+      "longitude": 17.122399
+    },
+    {
+      "name": "Fontána Marta",
+      "latitude": 48.152788,
+      "longitude": 17.12363
+    },
+    {
+      "name": "Kaskády",
+      "latitude": 48.14063,
+      "longitude": 17.123271
+    },
+    {
+      "name": "Rodina",
+      "latitude": 48.150555,
+      "longitude": 17.061833
+    },
+    {
+      "name": "Štrkovecké jazero",
+      "latitude": 48.15788,
+      "longitude": 17.147405
+    },
+    {
+      "name": "Rohlík",
+      "latitude": 48.154166,
+      "longitude": 17.154338
+    },
+    {
+      "name": "Jazero Tikitaka",
+      "latitude": 48.160177,
+      "longitude": 17.220859
+    },
+    {
+      "name": "Vodná ruža",
+      "latitude": 48.151544,
+      "longitude": 17.172299
+    },
+    {
+      "name": "Malý Draždiak",
+      "latitude": 48.108978,
+      "longitude": 17.120452
+    },
+    {
+      "name": "Veľký Lapoš",
+      "latitude": 48.111189,
+      "longitude": 17.11963
+    },
+    {
+      "name": "Chorvátske rameno",
+      "latitude": 48.120868,
+      "longitude": 17.110706
+    },
+    {
+      "name": "Lodenica",
+      "latitude": 48.12579,
+      "longitude": 17.154426
+    },
+    {
+      "name": "Nový prístav",
+      "latitude": 48.130252,
+      "longitude": 17.151016
+    },
+    {
+      "name": "Ovsištské rameno",
+      "latitude": 48.128954,
+      "longitude": 17.140819
+    },
+    {
+      "name": "Žabák",
+      "latitude": 48.196439,
+      "longitude": 17.291032
+    },
+    {
+      "name": "Vajnorský rybník",
+      "latitude": 48.205307,
+      "longitude": 17.228264
+    },
+    {
+      "name": "Veľkobielske jazero \"Šutrovka\"",
+      "latitude": 48.207826,
+      "longitude": 17.3553
+    },
+    {
+      "name": "Privátne štrkovisko",
+      "latitude": 48.20571,
+      "longitude": 17.338269
+    },
+    {
+      "name": "Strieborné jazero",
+      "latitude": 48.211205,
+      "longitude": 17.385997
+    },
+    {
+      "name": "Štrkovisko Ivanka pri Dunaji",
+      "latitude": 48.176373,
+      "longitude": 17.262568
+    },
+    {
+      "name": "Štrkovisko Dunajek",
+      "latitude": 48.191666,
+      "longitude": 17.24774
+    },
+    {
+      "name": "Hať Nová Dedinka",
+      "latitude": 48.173311,
+      "longitude": 17.330813
+    },
+    {
+      "name": "Prepojovací kanál Malý Dunaj - Čierna voda",
+      "latitude": 48.177648,
+      "longitude": 17.339173
+    },
+    {
+      "name": "Preplav železnej lávky",
+      "latitude": 48.1728,
+      "longitude": 17.321255
+    },
+    {
+      "name": "Káče",
+      "latitude": 48.181323,
+      "longitude": 17.382589
+    },
+    {
+      "name": "Čiernovodské jazero",
+      "latitude": 48.212018,
+      "longitude": 17.431254
+    },
+    {
+      "name": "Slnečné jazerá",
+      "latitude": 48.217833,
+      "longitude": 17.420798
+    },
+    {
+      "name": "Zelená voda",
+      "latitude": 48.156517,
+      "longitude": 17.252771
+    },
+    {
+      "name": "Zelená Voda III",
+      "latitude": 48.16365,
+      "longitude": 17.257541
+    },
+    {
+      "name": "Jazero Miloslava",
+      "latitude": 48.109399,
+      "longitude": 17.307679
+    },
+    {
+      "name": "Bartu",
+      "latitude": 48.122253,
+      "longitude": 17.511472
+    },
+    {
+      "name": "Veľký Draždiak",
+      "latitude": 48.104491,
+      "longitude": 17.113044
+    },
+    {
+      "name": "Nemocničný Draždiak",
+      "latitude": 48.102669,
+      "longitude": 17.119616
+    },
+    {
+      "name": "Zadný Draždiak",
+      "latitude": 48.103129,
+      "longitude": 17.126206
+    },
+    {
+      "name": "Veľký Zemník",
+      "latitude": 48.084046,
+      "longitude": 17.144223
+    },
+    {
+      "name": "Veľké Jegenešské jazero",
+      "latitude": 48.081487,
+      "longitude": 17.208001
+    },
+    {
+      "name": "Malé Jegenešské jazero",
+      "latitude": 48.081747,
+      "longitude": 17.207
+    },
+    {
+      "name": "Malý Zemník",
+      "latitude": 48.081071,
+      "longitude": 17.141865
+    },
+    {
+      "name": "Panský diel",
+      "latitude": 48.102101,
+      "longitude": 17.157854
+    },
+    {
+      "name": "Jarovské jazero",
+      "latitude": 48.067693,
+      "longitude": 17.128596
+    },
+    {
+      "name": "Malé Rusovské jazero",
+      "latitude": 48.056488,
+      "longitude": 17.154216
+    },
+    {
+      "name": "Rusovské jazero",
+      "latitude": 48.061367,
+      "longitude": 17.154078
+    },
+    {
+      "name": "Malé Čunovo",
+      "latitude": 48.040528,
+      "longitude": 17.17113
+    },
+    {
+      "name": "Cilina",
+      "latitude": 48.02201,
+      "longitude": 17.169949
+    },
+    {
+      "name": "Velké Čunovo",
+      "latitude": 48.038341,
+      "longitude": 17.175018
+    },
+    {
+      "name": "štrkovisko",
+      "latitude": 48.039826,
+      "longitude": 17.187555
+    },
+    {
+      "name": "Malé jazero Rovinka",
+      "latitude": 48.098905,
+      "longitude": 17.227227
+    },
+    {
+      "name": "Veľké jazero Rovinka",
+      "latitude": 48.100587,
+      "longitude": 17.263845
+    },
+    {
+      "name": "Štrkovisko Šibenička",
+      "latitude": 48.08382,
+      "longitude": 17.34781
+    },
+    {
+      "name": "Štrkovisko Šibenička",
+      "latitude": 48.084244,
+      "longitude": 17.352922
+    },
+    {
+      "name": "Areál vodných športov",
+      "latitude": 48.029624,
+      "longitude": 17.230024
+    },
+    {
+      "name": "Zdrž Hrušov",
+      "latitude": 48.024403,
+      "longitude": 17.25935
+    },
+    {
+      "name": "Heléna-tó",
+      "latitude": 47.990913,
+      "longitude": 17.289245
+    },
+    {
+      "name": "Medúzák tava",
+      "latitude": 47.99034,
+      "longitude": 17.291057
+    },
+    {
+      "name": "Tilosi-tavak",
+      "latitude": 48.00646,
+      "longitude": 17.237837
+    },
+    {
+      "name": "Császárligeti-tó",
+      "latitude": 48.008228,
+      "longitude": 17.240139
+    },
+    {
+      "name": "Alsó Homoki-tó",
+      "latitude": 48.008616,
+      "longitude": 17.232962
+    },
+    {
+      "name": "Szigetparti-tó",
+      "latitude": 48.000304,
+      "longitude": 17.248888
+    },
+    {
+      "name": "Szivárgó-csatorna",
+      "latitude": 47.993941,
+      "longitude": 17.244092
+    },
+    {
+      "name": "Michalské jazero",
+      "latitude": 48.019601,
+      "longitude": 17.517039
+    },
+    {
+      "name": "Carplandia",
+      "latitude": 48.02859,
+      "longitude": 17.504792
+    },
+    {
+      "name": "Jazero Macov",
+      "latitude": 48.011663,
+      "longitude": 17.428401
+    },
+    {
+      "name": "Štrkovisko Holice",
+      "latitude": 48.000193,
+      "longitude": 17.475288
+    },
+    {
+      "name": "Štrkovisko Jastrabie Kračany",
+      "latitude": 48.004033,
+      "longitude": 17.543654
+    },
+    {
+      "name": "Štrkovisko Vieska",
+      "latitude": 47.999869,
+      "longitude": 17.515712
+    },
+    {
+      "name": "Vincov les",
+      "latitude": 48.207405,
+      "longitude": 17.673548
+    },
+    {
+      "name": "Jazero Košťán",
+      "latitude": 48.185444,
+      "longitude": 17.791772
+    },
+    {
+      "name": "Jelensky jazero",
+      "latitude": 48.152498,
+      "longitude": 17.778274
+    },
+    {
+      "name": "Amerika III",
+      "latitude": 48.143655,
+      "longitude": 17.918954
+    },
+    {
+      "name": "Vyzin laz",
+      "latitude": 48.162548,
+      "longitude": 17.920872
+    },
+    {
+      "name": "Kandia",
+      "latitude": 48.111392,
+      "longitude": 17.772804
+    },
+    {
+      "name": "Odkalisko Amerika I",
+      "latitude": 48.135339,
+      "longitude": 17.924083
+    },
+    {
+      "name": "Trhoviský rybník",
+      "latitude": 48.109444,
+      "longitude": 17.850364
+    },
+    {
+      "name": "Pamätný rybník",
+      "latitude": 48.112606,
+      "longitude": 17.848709
+    },
+    {
+      "name": "Tegláše",
+      "latitude": 48.110199,
+      "longitude": 17.855236
+    },
+    {
+      "name": "Vodná nádrž Jatov",
+      "latitude": 48.137078,
+      "longitude": 18.022757
+    },
+    {
+      "name": "štrkovisko Komjatice",
+      "latitude": 48.158925,
+      "longitude": 18.200255
+    },
+    {
+      "name": "Nová štrkáreň Komjatice",
+      "latitude": 48.136978,
+      "longitude": 18.212096
+    },
+    {
+      "name": "Rybník",
+      "latitude": 48.112133,
+      "longitude": 18.233249
+    },
+    {
+      "name": "Blahovský rybník",
+      "latitude": 48.051638,
+      "longitude": 17.594334
+    },
+    {
+      "name": "Chovný rybník",
+      "latitude": 48.054807,
+      "longitude": 17.597898
+    },
+    {
+      "name": "Bystré jazierko",
+      "latitude": 48.081982,
+      "longitude": 17.82181
+    },
+    {
+      "name": "Malý Telektov",
+      "latitude": 48.100582,
+      "longitude": 17.848732
+    },
+    {
+      "name": "Telektov",
+      "latitude": 48.101899,
+      "longitude": 17.850394
+    },
+    {
+      "name": "Rybník Kurča",
+      "latitude": 48.096606,
+      "longitude": 17.844818
+    },
+    {
+      "name": "Čierne jazierko",
+      "latitude": 48.077956,
+      "longitude": 17.826471
+    },
+    {
+      "name": "Bikáš",
+      "latitude": 48.093195,
+      "longitude": 17.957022
+    },
+    {
+      "name": "Tégláš",
+      "latitude": 48.10169,
+      "longitude": 17.961982
+    },
+    {
+      "name": "Kacsató",
+      "latitude": 48.084619,
+      "longitude": 17.961907
+    },
+    {
+      "name": "Ráczovo jazierko",
+      "latitude": 48.095564,
+      "longitude": 18.051045
+    },
+    {
+      "name": "Rybník Šúgo",
+      "latitude": 48.057958,
+      "longitude": 17.974617
+    },
+    {
+      "name": "Štrkáreň",
+      "latitude": 48.085051,
+      "longitude": 18.197422
+    },
+    {
+      "name": "štrkáreň",
+      "latitude": 48.106632,
+      "longitude": 18.23255
+    },
+    {
+      "name": "Nové štrkovisko",
+      "latitude": 48.097867,
+      "longitude": 18.214364
+    },
+    {
+      "name": "Čierna voda",
+      "latitude": 48.095024,
+      "longitude": 18.214699
+    },
+    {
+      "name": "Čierna voda",
+      "latitude": 48.08937,
+      "longitude": 18.214972
+    },
+    {
+      "name": "Tona",
+      "latitude": 48.093981,
+      "longitude": 18.198598
+    },
+    {
+      "name": "Záhon",
+      "latitude": 48.053064,
+      "longitude": 18.220962
+    },
+    {
+      "name": "Mederčina",
+      "latitude": 48.067301,
+      "longitude": 18.2023
+    },
+    {
+      "name": "Cigánka",
+      "latitude": 48.027322,
+      "longitude": 17.942297
+    },
+    {
+      "name": "Mŕtvy Váh II",
+      "latitude": 48.032831,
+      "longitude": 17.951424
+    },
+    {
+      "name": "Mŕtvy Váh I",
+      "latitude": 48.03727,
+      "longitude": 17.956379
+    },
+    {
+      "name": "Mŕtvy Váh III",
+      "latitude": 48.026739,
+      "longitude": 17.954636
+    },
+    {
+      "name": "Okruhliak",
+      "latitude": 48.035875,
+      "longitude": 17.941684
+    },
+    {
+      "name": "Mŕtvy Váh IV",
+      "latitude": 48.025052,
+      "longitude": 17.962951
+    },
+    {
+      "name": "Kikiri",
+      "latitude": 48.032677,
+      "longitude": 17.94037
+    },
+    {
+      "name": "Raselina",
+      "latitude": 48.002,
+      "longitude": 18.09291
+    },
+    {
+      "name": "Kurzweillovo jazero (Baňa)",
+      "latitude": 48.001591,
+      "longitude": 18.175839
+    },
+    {
+      "name": "VN dôchodcov",
+      "latitude": 47.99104,
+      "longitude": 18.177508
+    },
+    {
+      "name": "Štrkovisko 4",
+      "latitude": 48.013743,
+      "longitude": 18.25164
+    },
+    {
+      "name": "Štrkovisko 4",
+      "latitude": 48.013771,
+      "longitude": 18.250777
+    },
+    {
+      "name": "Štrkovisko 1",
+      "latitude": 47.998871,
+      "longitude": 18.242443
+    },
+    {
+      "name": "Štrkovisko 2",
+      "latitude": 47.99177,
+      "longitude": 18.248206
+    },
+    {
+      "name": "v. n. Lovce",
+      "latitude": 48.440214,
+      "longitude": 18.355321
+    },
+    {
+      "name": "Vodná Nádrž Žikava",
+      "latitude": 48.454437,
+      "longitude": 18.375505
+    },
+    {
+      "name": "Veľký rybník",
+      "latitude": 48.437125,
+      "longitude": 18.411797
+    },
+    {
+      "name": "Dolná žikavecká priehrada",
+      "latitude": 48.443361,
+      "longitude": 18.392
+    },
+    {
+      "name": "vodná nádrž Velčice",
+      "latitude": 48.42874,
+      "longitude": 18.299874
+    },
+    {
+      "name": "Kúpalisko (Jazierko pri medveďovi)",
+      "latitude": 48.425407,
+      "longitude": 18.414061
+    },
+    {
+      "name": "Jazierko pri kaplnke",
+      "latitude": 48.423187,
+      "longitude": 18.414361
+    },
+    {
+      "name": "Jazierko s baštou (Labutie jazierko)",
+      "latitude": 48.425693,
+      "longitude": 18.412165
+    },
+    {
+      "name": "Južné jazierko",
+      "latitude": 48.422119,
+      "longitude": 18.413707
+    },
+    {
+      "name": "Cibulkovo pleso",
+      "latitude": 48.407906,
+      "longitude": 18.632691
+    },
+    {
+      "name": "Beladice",
+      "latitude": 48.347876,
+      "longitude": 18.302207
+    },
+    {
+      "name": "vodná nádrž Tekovské Nemce",
+      "latitude": 48.36742,
+      "longitude": 18.524733
+    },
+    {
+      "name": "Tajch",
+      "latitude": 48.455072,
+      "longitude": 18.635344
+    },
+    {
+      "name": "Kolienec",
+      "latitude": 48.436039,
+      "longitude": 18.699902
+    },
+    {
+      "name": "Bývalý Nový tajch",
+      "latitude": 48.41923,
+      "longitude": 18.703136
+    },
+    {
+      "name": "Bývalý Starý tajch",
+      "latitude": 48.411473,
+      "longitude": 18.712747
+    },
+    {
+      "name": "Tajch Klinger",
+      "latitude": 48.451461,
+      "longitude": 18.883095
+    },
+    {
+      "name": "Tajch Bakomi",
+      "latitude": 48.434521,
+      "longitude": 18.851587
+    },
+    {
+      "name": "Tajch Evička",
+      "latitude": 48.434667,
+      "longitude": 18.862198
+    },
+    {
+      "name": "Veľký Vindšachtský tajch",
+      "latitude": 48.434214,
+      "longitude": 18.856175
+    },
+    {
+      "name": "Moderštôlniansky tajch",
+      "latitude": 48.429522,
+      "longitude": 18.811182
+    },
+    {
+      "name": "Malý Richňavský tajch",
+      "latitude": 48.429756,
+      "longitude": 18.844901
+    },
+    {
+      "name": "Tajch Krechsengrund",
+      "latitude": 48.437969,
+      "longitude": 18.854581
+    },
+    {
+      "name": "Pleso",
+      "latitude": 48.436531,
+      "longitude": 18.845178
+    },
+    {
+      "name": "Bývalý tajch Jasenová",
+      "latitude": 48.436262,
+      "longitude": 18.820277
+    },
+    {
+      "name": "Bývalý tajch Heinrich",
+      "latitude": 48.433575,
+      "longitude": 18.818531
+    },
+    {
+      "name": "Bývalý Špicbergský tajch",
+      "latitude": 48.448586,
+      "longitude": 18.82877
+    },
+    {
+      "name": "Bývalý Stier tajch",
+      "latitude": 48.451327,
+      "longitude": 18.837266
+    },
+    {
+      "name": "Bazén na namáčanie dreva",
+      "latitude": 48.448867,
+      "longitude": 18.912519
+    },
+    {
+      "name": "Horný Komorovský tajch",
+      "latitude": 48.4373,
+      "longitude": 18.908119
+    },
+    {
+      "name": "Dolný Komorovský tajch",
+      "latitude": 48.438024,
+      "longitude": 18.908717
+    },
+    {
+      "name": "Bývalé kúpalisko v Cigrunde",
+      "latitude": 48.43465,
+      "longitude": 18.939291
+    },
+    {
+      "name": "Bývalý tajch Žigmund šachta",
+      "latitude": 48.451378,
+      "longitude": 18.89745
+    },
+    {
+      "name": "Szécsiho leknové jazierko",
+      "latitude": 48.456838,
+      "longitude": 18.9408
+    },
+    {
+      "name": "Veľký kolpašský tajch",
+      "latitude": 48.448685,
+      "longitude": 18.976636
+    },
+    {
+      "name": "Malý kolpašský tajch",
+      "latitude": 48.446453,
+      "longitude": 18.977892
+    },
+    {
+      "name": "Odkalisko Lintich",
+      "latitude": 48.430667,
+      "longitude": 18.923977
+    },
+    {
+      "name": "Veľký Richňavský tajch",
+      "latitude": 48.427401,
+      "longitude": 18.847911
+    },
+    {
+      "name": "Močidlo",
+      "latitude": 48.400386,
+      "longitude": 18.877836
+    },
+    {
+      "name": "Retenčná nádrž",
+      "latitude": 48.428028,
+      "longitude": 18.844026
+    },
+    {
+      "name": "Počúvadliansky tajch",
+      "latitude": 48.407776,
+      "longitude": 18.85422
+    },
+    {
+      "name": "Veľká nádrž",
+      "latitude": 48.419849,
+      "longitude": 18.935263
+    },
+    {
+      "name": "Pallyaov rybnik",
+      "latitude": 48.407752,
+      "longitude": 18.905005
+    },
+    {
+      "name": "Malá nádrž, dolná",
+      "latitude": 48.422923,
+      "longitude": 18.938042
+    },
+    {
+      "name": "Rybník pri Mokoške",
+      "latitude": 48.41094,
+      "longitude": 18.925518
+    },
+    {
+      "name": "Malá nádrž, horná",
+      "latitude": 48.423028,
+      "longitude": 18.936685
+    },
+    {
+      "name": "Bývalý Ilijský tajšík, stredný",
+      "latitude": 48.412699,
+      "longitude": 18.922453
+    },
+    {
+      "name": "Bývalý Ilijský tajšík, horný",
+      "latitude": 48.415977,
+      "longitude": 18.922086
+    },
+    {
+      "name": "Sedimentačná nádrž",
+      "latitude": 48.413579,
+      "longitude": 18.922536
+    },
+    {
+      "name": "Bývalý Ilijský tajšík, dolný",
+      "latitude": 48.411959,
+      "longitude": 18.922589
+    },
+    {
+      "name": "Ťatiarske pleso",
+      "latitude": 48.373119,
+      "longitude": 18.701778
+    },
+    {
+      "name": "Štampošský tajch",
+      "latitude": 48.399193,
+      "longitude": 18.778882
+    },
+    {
+      "name": "Vodná nádrž Rakovec",
+      "latitude": 48.346716,
+      "longitude": 18.652974
+    },
+    {
+      "name": "vodná nádrž Bohunice",
+      "latitude": 48.347737,
+      "longitude": 18.741007
+    },
+    {
+      "name": "Tarkan",
+      "latitude": 48.356342,
+      "longitude": 18.7689
+    },
+    {
+      "name": "Vodná nádrž Žibritov",
+      "latitude": 48.393732,
+      "longitude": 18.973037
+    },
+    {
+      "name": "Vodná nádrž Slepčany",
+      "latitude": 48.32108,
+      "longitude": 18.330145
+    },
+    {
+      "name": "v.n. Veľké Vozokany",
+      "latitude": 48.334162,
+      "longitude": 18.411978
+    },
+    {
+      "name": "Jazierko",
+      "latitude": 48.293818,
+      "longitude": 18.529948
+    },
+    {
+      "name": "Vodná nádrž Vráble",
+      "latitude": 48.260667,
+      "longitude": 18.294116
+    },
+    {
+      "name": "v.n. Nevidzany",
+      "latitude": 48.282339,
+      "longitude": 18.396762
+    },
+    {
+      "name": "Vodné dielo Veľké Kozmálovce",
+      "latitude": 48.276677,
+      "longitude": 18.526275
+    },
+    {
+      "name": "vodná nádrž Devičany",
+      "latitude": 48.326832,
+      "longitude": 18.722411
+    },
+    {
+      "name": "Vodná nádrž Drženice",
+      "latitude": 48.297671,
+      "longitude": 18.703074
+    },
+    {
+      "name": "Vodná nádrž Bátovce",
+      "latitude": 48.288126,
+      "longitude": 18.763343
+    },
+    {
+      "name": "Vodná nádrž Sebechleby",
+      "latitude": 48.28644,
+      "longitude": 18.943159
+    },
+    {
+      "name": "vodná nádrž Pliešovce",
+      "latitude": 48.409569,
+      "longitude": 19.152227
+    },
+    {
+      "name": "Vodná nádrž Krupina",
+      "latitude": 48.353024,
+      "longitude": 19.034595
+    },
+    {
+      "name": "vodná nádrž Ružiná",
+      "latitude": 48.439209,
+      "longitude": 19.556377
+    },
+    {
+      "name": "Kalinovský rybník",
+      "latitude": 48.413046,
+      "longitude": 19.686897
+    },
+    {
+      "name": "Magnezitový lom",
+      "latitude": 48.39821,
+      "longitude": 19.597071
+    },
+    {
+      "name": "Tomášovský rybník",
+      "latitude": 48.380845,
+      "longitude": 19.616758
+    },
+    {
+      "name": "Hlboký Rakovček",
+      "latitude": 48.303078,
+      "longitude": 19.013521
+    },
+    {
+      "name": "Močiar",
+      "latitude": 48.303958,
+      "longitude": 19.025508
+    },
+    {
+      "name": "Uňatínsky močiar",
+      "latitude": 48.301656,
+      "longitude": 19.06611
+    },
+    {
+      "name": "vodná nádrž Kozí Vrbovok",
+      "latitude": 48.286502,
+      "longitude": 19.09891
+    },
+    {
+      "name": "Veľký Šiaš",
+      "latitude": 48.27544,
+      "longitude": 19.144459
+    },
+    {
+      "name": "vodná nádrž Pri Badínskej ceste",
+      "latitude": 48.264757,
+      "longitude": 19.146248
+    },
+    {
+      "name": "vodná nádrž Veľký Šiaš",
+      "latitude": 48.268581,
+      "longitude": 19.150857
+    },
+    {
+      "name": "Rybník pod Blatami",
+      "latitude": 48.253598,
+      "longitude": 19.137895
+    },
+    {
+      "name": "Ľadovo",
+      "latitude": 48.332178,
+      "longitude": 19.625811
+    },
+    {
+      "name": "Jazierko Nájdenej Víly",
+      "latitude": 48.318716,
+      "longitude": 19.617528
+    },
+    {
+      "name": "Jazierko Stratenej Víly",
+      "latitude": 48.321905,
+      "longitude": 19.627864
+    },
+    {
+      "name": "vodná nádrž Ľuboreč",
+      "latitude": 48.292644,
+      "longitude": 19.51387
+    },
+    {
+      "name": "Veliká",
+      "latitude": 48.267981,
+      "longitude": 19.637069
+    },
+    {
+      "name": "Vodná nádrž Melek",
+      "latitude": 48.200515,
+      "longitude": 18.335303
+    },
+    {
+      "name": "Levické rybníky",
+      "latitude": 48.199777,
+      "longitude": 18.607063
+    },
+    {
+      "name": "Dolina",
+      "latitude": 48.1481,
+      "longitude": 18.308135
+    },
+    {
+      "name": "v.n. Trávnica II",
+      "latitude": 48.139197,
+      "longitude": 18.365245
+    },
+    {
+      "name": "Trávnica I",
+      "latitude": 48.156648,
+      "longitude": 18.341787
+    },
+    {
+      "name": "Malý Kiar",
+      "latitude": 48.181822,
+      "longitude": 18.689217
+    },
+    {
+      "name": "Priehrada",
+      "latitude": 48.199295,
+      "longitude": 18.964168
+    },
+    {
+      "name": "vodná nádrž Plášťovce",
+      "latitude": 48.162176,
+      "longitude": 18.952924
+    },
+    {
+      "name": "v. n. Plavé Vozokany",
+      "latitude": 48.068657,
+      "longitude": 18.443875
+    },
+    {
+      "name": "v.n. Dedinka",
+      "latitude": 48.049028,
+      "longitude": 18.43843
+    },
+    {
+      "name": "Prekár",
+      "latitude": 48.099638,
+      "longitude": 18.545472
+    },
+    {
+      "name": "v. n. Tekovské Lužany",
+      "latitude": 48.087922,
+      "longitude": 18.564484
+    },
+    {
+      "name": "v. n. Tekovské Lužany",
+      "latitude": 48.088247,
+      "longitude": 18.563937
+    },
+    {
+      "name": "Samota",
+      "latitude": 48.071991,
+      "longitude": 18.62621
+    },
+    {
+      "name": "v. n. Branovo",
+      "latitude": 48.037033,
+      "longitude": 18.314875
+    },
+    {
+      "name": "Češiansky ryb.",
+      "latitude": 48.027784,
+      "longitude": 18.374692
+    },
+    {
+      "name": "v. n. Semerovo",
+      "latitude": 48.014727,
+      "longitude": 18.343445
+    },
+    {
+      "name": "v.,n. Jasová",
+      "latitude": 47.996029,
+      "longitude": 18.414832
+    },
+    {
+      "name": "v.n. Jasová",
+      "latitude": 47.996681,
+      "longitude": 18.4196
+    },
+    {
+      "name": "Vodné dielo Želiezovce",
+      "latitude": 48.085884,
+      "longitude": 18.661558
+    },
+    {
+      "name": "Vodná nádrž Vyškovce",
+      "latitude": 48.075211,
+      "longitude": 18.852088
+    },
+    {
+      "name": "Šoderoš",
+      "latitude": 48.065408,
+      "longitude": 18.958841
+    },
+    {
+      "name": "Vodná nádrž Hrušov",
+      "latitude": 48.179811,
+      "longitude": 19.08375
+    },
+    {
+      "name": "Porga",
+      "latitude": 48.138671,
+      "longitude": 19.116509
+    },
+    {
+      "name": "vodná nádrž Sklabiná",
+      "latitude": 48.153442,
+      "longitude": 19.329101
+    },
+    {
+      "name": "vodná Nádrž Nenince",
+      "latitude": 48.134688,
+      "longitude": 19.246871
+    },
+    {
+      "name": "Vodná nádrž Glabušovce",
+      "latitude": 48.156955,
+      "longitude": 19.45032
+    },
+    {
+      "name": "Želovce",
+      "latitude": 48.131169,
+      "longitude": 19.341448
+    },
+    {
+      "name": "Ratajské jazierko",
+      "latitude": 48.103152,
+      "longitude": 19.015874
+    },
+    {
+      "name": "Nagy-sziget",
+      "latitude": 48.062348,
+      "longitude": 19.038598
+    },
+    {
+      "name": "Nyírjesi I. tó",
+      "latitude": 48.054617,
+      "longitude": 19.269478
+    },
+    {
+      "name": "Nyírjesi II. tó",
+      "latitude": 48.053103,
+      "longitude": 19.273338
+    },
+    {
+      "name": "Nyírjesi III. tó",
+      "latitude": 48.052166,
+      "longitude": 19.274639
+    },
+    {
+      "name": "Nyírjesi IV. tó",
+      "latitude": 48.051221,
+      "longitude": 19.275593
+    },
+    {
+      "name": "Nyírjesi V. tó",
+      "latitude": 48.050524,
+      "longitude": 19.276362
+    },
+    {
+      "name": "Gyarmati Horgásztó",
+      "latitude": 48.085457,
+      "longitude": 19.349171
+    },
+    {
+      "name": "Kövecses-tó",
+      "latitude": 48.080687,
+      "longitude": 19.397135
+    },
+    {
+      "name": "Gyarmati VIP Horgásztó",
+      "latitude": 48.085745,
+      "longitude": 19.347827
+    },
+    {
+      "name": "Csujta-tó",
+      "latitude": 48.088056,
+      "longitude": 19.425798
+    },
+    {
+      "name": "Robinson Szigetek - horgász és vízi turizmus",
+      "latitude": 48.08931,
+      "longitude": 19.475055
+    },
+    {
+      "name": "Hasičská nádrž",
+      "latitude": 48.865718,
+      "longitude": 19.855149
+    },
+    {
+      "name": "Vodná nádrž Závadka nad Hronom",
+      "latitude": 48.863102,
+      "longitude": 19.910419
+    },
+    {
+      "name": "Rybník Pusté Pole",
+      "latitude": 48.88328,
+      "longitude": 20.233897
+    },
+    {
+      "name": "Palcmanská Maša",
+      "latitude": 48.86559,
+      "longitude": 20.371983
+    },
+    {
+      "name": "Vodná nádrž Hansjakubová",
+      "latitude": 48.888582,
+      "longitude": 20.313053
+    },
+    {
+      "name": "Gápel",
+      "latitude": 48.849012,
+      "longitude": 20.340244
+    },
+    {
+      "name": "Vodná nádrž Dobšiná I.",
+      "latitude": 48.833589,
+      "longitude": 20.371727
+    },
+    {
+      "name": "Vodná nádrž Dobšiná",
+      "latitude": 48.808258,
+      "longitude": 20.385816
+    },
+    {
+      "name": "Hisnyoviz",
+      "latitude": 48.790095,
+      "longitude": 20.285054
+    },
+    {
+      "name": "Korytno",
+      "latitude": 48.904409,
+      "longitude": 20.616909
+    },
+    {
+      "name": "Korytno",
+      "latitude": 48.904219,
+      "longitude": 20.618277
+    },
+    {
+      "name": "Nádrž Rakovec",
+      "latitude": 48.82543,
+      "longitude": 20.425303
+    },
+    {
+      "name": "Vodná nádrž Jaklovce",
+      "latitude": 48.865308,
+      "longitude": 21.009285
+    },
+    {
+      "name": "Turzovské jazero",
+      "latitude": 48.861592,
+      "longitude": 20.906462
+    },
+    {
+      "name": "Ružín",
+      "latitude": 48.860971,
+      "longitude": 21.051885
+    },
+    {
+      "name": "Nové rybníky",
+      "latitude": 48.726323,
+      "longitude": 20.520101
+    },
+    {
+      "name": "Nové rybníky",
+      "latitude": 48.725887,
+      "longitude": 20.519231
+    },
+    {
+      "name": "Staré grófske rybníky",
+      "latitude": 48.71525,
+      "longitude": 20.512805
+    },
+    {
+      "name": "Psyché",
+      "latitude": 48.705929,
+      "longitude": 20.510008
+    },
+    {
+      "name": "Úhornianske jazero",
+      "latitude": 48.707573,
+      "longitude": 20.693096
+    },
+    {
+      "name": "Káva",
+      "latitude": 48.72169,
+      "longitude": 20.893125
+    },
+    {
+      "name": "Kompresorovna",
+      "latitude": 48.733288,
+      "longitude": 20.891965
+    },
+    {
+      "name": "Tradom",
+      "latitude": 48.709388,
+      "longitude": 20.88572
+    },
+    {
+      "name": "Jama",
+      "latitude": 48.708902,
+      "longitude": 20.86666
+    },
+    {
+      "name": "Štrkovisko Rudník",
+      "latitude": 48.703598,
+      "longitude": 21.008428
+    },
+    {
+      "name": "Rimava",
+      "latitude": 48.672393,
+      "longitude": 19.941682
+    },
+    {
+      "name": "vodná nádrž Klenovec",
+      "latitude": 48.612627,
+      "longitude": 19.870133
+    },
+    {
+      "name": "Hlinisko",
+      "latitude": 48.681021,
+      "longitude": 20.127553
+    },
+    {
+      "name": "vodná nádrž Miková",
+      "latitude": 48.663621,
+      "longitude": 20.169193
+    },
+    {
+      "name": "Baba",
+      "latitude": 48.596113,
+      "longitude": 20.053939
+    },
+    {
+      "name": "Rybníky Lovnica",
+      "latitude": 48.63098,
+      "longitude": 20.258952
+    },
+    {
+      "name": "Rybníky Lovnica",
+      "latitude": 48.630817,
+      "longitude": 20.260567
+    },
+    {
+      "name": "vodná nádrž Gemerské Teplice",
+      "latitude": 48.600473,
+      "longitude": 20.288764
+    },
+    {
+      "name": "Uhorské",
+      "latitude": 48.465075,
+      "longitude": 19.762932
+    },
+    {
+      "name": "Vodná nádrž Skálnik",
+      "latitude": 48.461099,
+      "longitude": 19.968492
+    },
+    {
+      "name": "Požiarna nádrž Dienok, rybník nad Turcom",
+      "latitude": 48.533471,
+      "longitude": 20.109465
+    },
+    {
+      "name": "Vodná nádrž Teplý Vrch",
+      "latitude": 48.478587,
+      "longitude": 20.090658
+    },
+    {
+      "name": "Kačató",
+      "latitude": 48.647804,
+      "longitude": 20.549284
+    },
+    {
+      "name": "Indiánske jazero",
+      "latitude": 48.649489,
+      "longitude": 20.520128
+    },
+    {
+      "name": "Serényiho cisterna",
+      "latitude": 48.622122,
+      "longitude": 20.417982
+    },
+    {
+      "name": "Brzotínsky rybník",
+      "latitude": 48.626945,
+      "longitude": 20.505487
+    },
+    {
+      "name": "vodná nádrž Kružná",
+      "latitude": 48.630761,
+      "longitude": 20.48341
+    },
+    {
+      "name": "vodná nádrž Brzotín",
+      "latitude": 48.624601,
+      "longitude": 20.484223
+    },
+    {
+      "name": "Krásnohorský rybník",
+      "latitude": 48.632275,
+      "longitude": 20.589081
+    },
+    {
+      "name": "Hrušovské rybníky, Vyšné jazero",
+      "latitude": 48.58842,
+      "longitude": 20.646116
+    },
+    {
+      "name": "Hrušovské rybníky, Nižné jazero",
+      "latitude": 48.58522,
+      "longitude": 20.644176
+    },
+    {
+      "name": "Jasovský rybník",
+      "latitude": 48.679143,
+      "longitude": 20.963964
+    },
+    {
+      "name": "Veľký prameň",
+      "latitude": 48.675323,
+      "longitude": 20.945315
+    },
+    {
+      "name": "Paňovský rybník",
+      "latitude": 48.651226,
+      "longitude": 21.058235
+    },
+    {
+      "name": "Sivé",
+      "latitude": 48.641855,
+      "longitude": 21.048608
+    },
+    {
+      "name": "Turniansky rybník",
+      "latitude": 48.604351,
+      "longitude": 20.864556
+    },
+    {
+      "name": "Veľké jazero",
+      "latitude": 48.593461,
+      "longitude": 20.761428
+    },
+    {
+      "name": "Hrhovské rybníky",
+      "latitude": 48.596941,
+      "longitude": 20.744292
+    },
+    {
+      "name": "Fejke",
+      "latitude": 48.619325,
+      "longitude": 20.932842
+    },
+    {
+      "name": "Budulovské rybníky",
+      "latitude": 48.584586,
+      "longitude": 20.997913
+    },
+    {
+      "name": "Mlynský náhon",
+      "latitude": 48.568576,
+      "longitude": 20.465172
+    },
+    {
+      "name": "Farárova jama",
+      "latitude": 48.547739,
+      "longitude": 20.529404
+    },
+    {
+      "name": "Paškovo jazero",
+      "latitude": 48.543614,
+      "longitude": 20.508464
+    },
+    {
+      "name": "Janícky rybník",
+      "latitude": 48.543769,
+      "longitude": 20.990337
+    },
+    {
+      "name": "Vodná nádrž Malá Lodina",
+      "latitude": 48.870133,
+      "longitude": 21.10381
+    },
+    {
+      "name": "Dúbravske jazero",
+      "latitude": 48.921305,
+      "longitude": 21.329065
+    },
+    {
+      "name": "Baňa",
+      "latitude": 48.874022,
+      "longitude": 21.674166
+    },
+    {
+      "name": "Pirvaň",
+      "latitude": 48.807392,
+      "longitude": 21.726241
+    },
+    {
+      "name": "Veľký Dolik",
+      "latitude": 48.81111,
+      "longitude": 21.732063
+    },
+    {
+      "name": "Malý Dolik",
+      "latitude": 48.81085,
+      "longitude": 21.731817
+    },
+    {
+      "name": "Planíkove pleso",
+      "latitude": 48.768016,
+      "longitude": 21.26802
+    },
+    {
+      "name": "Vodná nádrž Bukovec",
+      "latitude": 48.720653,
+      "longitude": 21.110603
+    },
+    {
+      "name": "Požiarna nádrž Kamenný potok",
+      "latitude": 48.748176,
+      "longitude": 21.179787
+    },
+    {
+      "name": "Spievajúca fontána",
+      "latitude": 48.721182,
+      "longitude": 21.257603
+    },
+    {
+      "name": "Ryba",
+      "latitude": 48.744027,
+      "longitude": 21.255624
+    },
+    {
+      "name": "Plávajúca fontána",
+      "latitude": 48.723931,
+      "longitude": 21.265407
+    },
+    {
+      "name": "Ležatá fontána",
+      "latitude": 48.732416,
+      "longitude": 21.250512
+    },
+    {
+      "name": "Jazierko v Mestskom Parku",
+      "latitude": 48.72321,
+      "longitude": 21.262224
+    },
+    {
+      "name": "Fontána so skamenelinami",
+      "latitude": 48.738461,
+      "longitude": 21.246462
+    },
+    {
+      "name": "Fontána znamení",
+      "latitude": 48.722383,
+      "longitude": 21.257007
+    },
+    {
+      "name": "Mlynský náhon",
+      "latitude": 48.729749,
+      "longitude": 21.256032
+    },
+    {
+      "name": "Mlynský náhon",
+      "latitude": 48.738385,
+      "longitude": 21.25657
+    },
+    {
+      "name": "Jazierko pre žaby",
+      "latitude": 48.724152,
+      "longitude": 21.26493
+    },
+    {
+      "name": "Vodná nádrž Pod Bukovcom",
+      "latitude": 48.701098,
+      "longitude": 21.156781
+    },
+    {
+      "name": "Vodohospodársky objekt",
+      "latitude": 48.713603,
+      "longitude": 21.142628
+    },
+    {
+      "name": "Stojaca rodina IV.",
+      "latitude": 48.71883,
+      "longitude": 21.238038
+    },
+    {
+      "name": "Sediaca žena",
+      "latitude": 48.719393,
+      "longitude": 21.231834
+    },
+    {
+      "name": "Pľuvatko",
+      "latitude": 48.702258,
+      "longitude": 21.2307
+    },
+    {
+      "name": "Klíčenie",
+      "latitude": 48.716717,
+      "longitude": 21.258402
+    },
+    {
+      "name": "Fontána UNLP",
+      "latitude": 48.708267,
+      "longitude": 21.255259
+    },
+    {
+      "name": "Seligovo jazero",
+      "latitude": 48.696743,
+      "longitude": 21.27735
+    },
+    {
+      "name": "Jazero",
+      "latitude": 48.693132,
+      "longitude": 21.285668
+    },
+    {
+      "name": "Čierne jazero",
+      "latitude": 48.783333,
+      "longitude": 21.498168
+    },
+    {
+      "name": "VN Nižný Hrušov",
+      "latitude": 48.804506,
+      "longitude": 21.783951
+    },
+    {
+      "name": "Sečovce",
+      "latitude": 48.702324,
+      "longitude": 21.624015
+    },
+    {
+      "name": "Chlmec",
+      "latitude": 48.89507,
+      "longitude": 21.940041
+    },
+    {
+      "name": "Búdy",
+      "latitude": 48.910198,
+      "longitude": 22.127823
+    },
+    {
+      "name": "Mláky pod Rozdielňou",
+      "latitude": 48.869278,
+      "longitude": 22.061768
+    },
+    {
+      "name": "Oreské",
+      "latitude": 48.850123,
+      "longitude": 21.905241
+    },
+    {
+      "name": "Vinianske jazero",
+      "latitude": 48.81799,
+      "longitude": 21.987128
+    },
+    {
+      "name": "Morské oko",
+      "latitude": 48.915142,
+      "longitude": 22.198745
+    },
+    {
+      "name": "Malé Morské oko",
+      "latitude": 48.912203,
+      "longitude": 22.183029
+    },
+    {
+      "name": "Kotlík",
+      "latitude": 48.915847,
+      "longitude": 22.160015
+    },
+    {
+      "name": "Požiarna nádrž",
+      "latitude": 48.85566,
+      "longitude": 22.178952
+    },
+    {
+      "name": "protipožiarna nádrž",
+      "latitude": 48.811317,
+      "longitude": 22.222798
+    },
+    {
+      "name": "Lom Beňatina",
+      "latitude": 48.813089,
+      "longitude": 22.342567
+    },
+    {
+      "name": "u Jahodov",
+      "latitude": 48.784078,
+      "longitude": 21.813577
+    },
+    {
+      "name": "u Jahodov",
+      "latitude": 48.785343,
+      "longitude": 21.811608
+    },
+    {
+      "name": "STOK",
+      "latitude": 48.793667,
+      "longitude": 21.810607
+    },
+    {
+      "name": "Fontána lásky",
+      "latitude": 48.756442,
+      "longitude": 21.918075
+    },
+    {
+      "name": "Baňa",
+      "latitude": 48.764059,
+      "longitude": 21.931843
+    },
+    {
+      "name": "mŕtve rameno Laborca",
+      "latitude": 48.767787,
+      "longitude": 21.913795
+    },
+    {
+      "name": "Zemplínska šírava",
+      "latitude": 48.795807,
+      "longitude": 22.006751
+    },
+    {
+      "name": "Vodná nádrž Pozdišovce",
+      "latitude": 48.735685,
+      "longitude": 21.841631
+    },
+    {
+      "name": "Vodná nádrž Orechová",
+      "latitude": 48.718375,
+      "longitude": 22.236789
+    },
+    {
+      "name": "Vranie jazero",
+      "latitude": 48.689887,
+      "longitude": 21.293395
+    },
+    {
+      "name": "štrkovisko Krásna",
+      "latitude": 48.663479,
+      "longitude": 21.315439
+    },
+    {
+      "name": "Požiarna nádrž",
+      "latitude": 48.614778,
+      "longitude": 21.200822
+    },
+    {
+      "name": "Požiarna nádrž",
+      "latitude": 48.596897,
+      "longitude": 21.179237
+    },
+    {
+      "name": "Jazero Geča",
+      "latitude": 48.621251,
+      "longitude": 21.337479
+    },
+    {
+      "name": "Čanianske Jazerá",
+      "latitude": 48.608531,
+      "longitude": 21.305524
+    },
+    {
+      "name": "Teplický",
+      "latitude": 48.652215,
+      "longitude": 21.588603
+    },
+    {
+      "name": "Veľké Ozorovce",
+      "latitude": 48.649153,
+      "longitude": 21.609486
+    },
+    {
+      "name": "Ruskovský rybník",
+      "latitude": 48.634607,
+      "longitude": 21.676443
+    },
+    {
+      "name": "Perínske rybníky",
+      "latitude": 48.539317,
+      "longitude": 21.141054
+    },
+    {
+      "name": "Lánec",
+      "latitude": 48.522814,
+      "longitude": 21.104505
+    },
+    {
+      "name": "vodná nádrž Trstené",
+      "latitude": 48.565306,
+      "longitude": 21.343968
+    },
+    {
+      "name": "Vodná nádrž Seňa",
+      "latitude": 48.566342,
+      "longitude": 21.27363
+    },
+    {
+      "name": "Kechnec",
+      "latitude": 48.533365,
+      "longitude": 21.285914
+    },
+    {
+      "name": "Izra",
+      "latitude": 48.569807,
+      "longitude": 21.492949
+    },
+    {
+      "name": "Kis tó",
+      "latitude": 48.55273,
+      "longitude": 21.458088
+    },
+    {
+      "name": "Büdös-tó",
+      "latitude": 48.531417,
+      "longitude": 21.5142
+    },
+    {
+      "name": "Vodná nádrž Byšta",
+      "latitude": 48.525694,
+      "longitude": 21.553865
+    },
+    {
+      "name": "VN Budkovce I",
+      "latitude": 48.641334,
+      "longitude": 21.922865
+    },
+    {
+      "name": "Senianske rybníky",
+      "latitude": 48.667934,
+      "longitude": 22.042847
+    },
+    {
+      "name": "Beša",
+      "latitude": 48.52024,
+      "longitude": 21.958491
+    },
+    {
+      "name": "Močia Labaška",
+      "latitude": 48.560847,
+      "longitude": 22.07919
+    },
+    {
+      "name": "Kúpeľ",
+      "latitude": 48.433858,
+      "longitude": 19.729891
+    },
+    {
+      "name": "Zeleniansky rybník",
+      "latitude": 48.43652,
+      "longitude": 19.784518
+    },
+    {
+      "name": "Štrkovisko Kalinovo",
+      "latitude": 48.41738,
+      "longitude": 19.707056
+    },
+    {
+      "name": "Poltárske more",
+      "latitude": 48.411194,
+      "longitude": 19.805363
+    },
+    {
+      "name": "Kúpna Baňa",
+      "latitude": 48.428397,
+      "longitude": 19.823626
+    },
+    {
+      "name": "Dolný rybník Petrovec",
+      "latitude": 48.38188,
+      "longitude": 19.752669
+    },
+    {
+      "name": "Stredný rybník Petrovec",
+      "latitude": 48.385777,
+      "longitude": 19.755936
+    },
+    {
+      "name": "Horný rybník Petrovec",
+      "latitude": 48.388545,
+      "longitude": 19.765012
+    },
+    {
+      "name": "vodná nádrž Ožďany",
+      "latitude": 48.370933,
+      "longitude": 19.858871
+    },
+    {
+      "name": "vodná nádrž Veľké Dravce",
+      "latitude": 48.358555,
+      "longitude": 19.844256
+    },
+    {
+      "name": "Bálince",
+      "latitude": 48.395105,
+      "longitude": 19.913438
+    },
+    {
+      "name": "Vodná nádrž Kurinec",
+      "latitude": 48.344875,
+      "longitude": 20.017607
+    },
+    {
+      "name": "Rybníky Uzovská Panica",
+      "latitude": 48.419931,
+      "longitude": 20.136287
+    },
+    {
+      "name": "vodná nádrž Levkuša",
+      "latitude": 48.453921,
+      "longitude": 20.252594
+    },
+    {
+      "name": "Morské oko",
+      "latitude": 48.403831,
+      "longitude": 20.305229
+    },
+    {
+      "name": "Bátka",
+      "latitude": 48.366164,
+      "longitude": 20.167349
+    },
+    {
+      "name": "Hubovský rybník",
+      "latitude": 48.391625,
+      "longitude": 20.380735
+    },
+    {
+      "name": "Radnovce",
+      "latitude": 48.332551,
+      "longitude": 20.205629
+    },
+    {
+      "name": "Martinová",
+      "latitude": 48.304236,
+      "longitude": 20.168597
+    },
+    {
+      "name": "Bottovo",
+      "latitude": 48.309736,
+      "longitude": 20.157093
+    },
+    {
+      "name": "Číž",
+      "latitude": 48.325413,
+      "longitude": 20.272861
+    },
+    {
+      "name": "Hostice",
+      "latitude": 48.247064,
+      "longitude": 20.086064
+    },
+    {
+      "name": "Locsi",
+      "latitude": 48.285612,
+      "longitude": 20.411147
+    },
+    {
+      "name": "Nagyaranyosi-tó",
+      "latitude": 48.212394,
+      "longitude": 19.744578
+    },
+    {
+      "name": "Vodná nádrž Šiatorská Bukovinka",
+      "latitude": 48.184604,
+      "longitude": 19.819668
+    },
+    {
+      "name": "Vodná nádrž Petrovec",
+      "latitude": 48.180098,
+      "longitude": 19.997387
+    },
+    {
+      "name": "Tachty",
+      "latitude": 48.154862,
+      "longitude": 19.929959
+    },
+    {
+      "name": "Áfonyás-tó",
+      "latitude": 48.427433,
+      "longitude": 21.44184
+    },
+    {
+      "name": "Megyer-hegyi tengerszem",
+      "latitude": 48.357319,
+      "longitude": 21.572917
+    },
+    {
+      "name": "Starý Bodrog",
+      "latitude": 48.379234,
+      "longitude": 21.720982
+    },
+    {
+      "name": "Ostrov",
+      "latitude": 48.392472,
+      "longitude": 21.728849
+    },
+    {
+      "name": "Malogya",
+      "latitude": 48.381948,
+      "longitude": 21.754455
+    },
+    {
+      "name": "Starý Bodrog",
+      "latitude": 48.381062,
+      "longitude": 21.743929
+    },
+    {
+      "name": "Krivá lúka",
+      "latitude": 48.368779,
+      "longitude": 21.704606
+    },
+    {
+      "name": "Kengyel-tó",
+      "latitude": 48.282766,
+      "longitude": 21.558825
+    },
+    {
+      "name": "Medzi Petencom",
+      "latitude": 48.441723,
+      "longitude": 21.830193
+    },
+    {
+      "name": "Rybník Svätuše",
+      "latitude": 48.441693,
+      "longitude": 21.923271
+    },
+    {
+      "name": "Мертва Тиса",
+      "latitude": 48.431937,
+      "longitude": 22.14387
+    },
+    {
+      "name": "Okrúhle jazero",
+      "latitude": 48.440756,
+      "longitude": 22.098272
+    },
+    {
+      "name": "Mŕtva Tisa - Мертва Тиса",
+      "latitude": 48.422995,
+      "longitude": 22.138065
+    },
+    {
+      "name": "Vír",
+      "latitude": 48.40371,
+      "longitude": 22.14549
+    },
+    {
+      "name": "Őrvény Tisza",
+      "latitude": 48.408171,
+      "longitude": 22.142235
+    },
+    {
+      "name": "Veľká Krčava / Nagy-Karcsa",
+      "latitude": 48.353216,
+      "longitude": 21.837553
+    },
+    {
+      "name": "Heléna-tavak",
+      "latitude": 47.989882,
+      "longitude": 17.286515
+    },
+    {
+      "name": "Jazero Vojka",
+      "latitude": 47.9596,
+      "longitude": 17.402151
+    },
+    {
+      "name": "Šulianske jazero",
+      "latitude": 47.946641,
+      "longitude": 17.424505
+    },
+    {
+      "name": "Šulianske rameno",
+      "latitude": 47.947054,
+      "longitude": 17.41264
+    },
+    {
+      "name": "Žabie jazero",
+      "latitude": 47.904293,
+      "longitude": 17.472705
+    },
+    {
+      "name": "Keskeny tó",
+      "latitude": 47.924018,
+      "longitude": 17.406634
+    },
+    {
+      "name": "Papszigeti-ág",
+      "latitude": 47.908941,
+      "longitude": 17.433761
+    },
+    {
+      "name": "Spelláki ág",
+      "latitude": 47.9175,
+      "longitude": 17.427505
+    },
+    {
+      "name": "Öregszigeti-tó",
+      "latitude": 47.899132,
+      "longitude": 17.438572
+    },
+    {
+      "name": "Kamenné jazero",
+      "latitude": 47.88051,
+      "longitude": 17.569142
+    },
+    {
+      "name": "Ásványi ágrendszer",
+      "latitude": 47.855421,
+      "longitude": 17.509373
+    },
+    {
+      "name": "Polcestný rybník",
+      "latitude": 47.979902,
+      "longitude": 17.612877
+    },
+    {
+      "name": "Boheľovské rybníky",
+      "latitude": 47.907907,
+      "longitude": 17.696073
+    },
+    {
+      "name": "Boheľovské rybníky",
+      "latitude": 47.910061,
+      "longitude": 17.702267
+    },
+    {
+      "name": "Karábi",
+      "latitude": 47.922186,
+      "longitude": 17.707802
+    },
+    {
+      "name": "Boheľovské rybníky",
+      "latitude": 47.902888,
+      "longitude": 17.69588
+    },
+    {
+      "name": "Boheľovské rybníky",
+      "latitude": 47.917443,
+      "longitude": 17.70077
+    },
+    {
+      "name": "Boheľovské rybníky",
+      "latitude": 47.912717,
+      "longitude": 17.697397
+    },
+    {
+      "name": "Márton-jazero",
+      "latitude": 47.92702,
+      "longitude": 17.682152
+    },
+    {
+      "name": "Štrkovisko RT",
+      "latitude": 47.974085,
+      "longitude": 18.162126
+    },
+    {
+      "name": "Štrkovisko 5",
+      "latitude": 47.980256,
+      "longitude": 18.256756
+    },
+    {
+      "name": "Štrkovisko 3",
+      "latitude": 47.966158,
+      "longitude": 18.240226
+    },
+    {
+      "name": "Kotelnica",
+      "latitude": 47.940041,
+      "longitude": 18.174385
+    },
+    {
+      "name": "Mala Kotelnica",
+      "latitude": 47.939023,
+      "longitude": 18.176255
+    },
+    {
+      "name": "Listové jazero",
+      "latitude": 47.89103,
+      "longitude": 18.050627
+    },
+    {
+      "name": "Kamenisko",
+      "latitude": 47.922656,
+      "longitude": 18.141436
+    },
+    {
+      "name": "Štrkovisko Bohatá",
+      "latitude": 47.892441,
+      "longitude": 18.194695
+    },
+    {
+      "name": "Štrkovisko Bohatá",
+      "latitude": 47.890999,
+      "longitude": 18.194316
+    },
+    {
+      "name": "Kisa",
+      "latitude": 47.853607,
+      "longitude": 17.606665
+    },
+    {
+      "name": "Išpánsky Dunaj",
+      "latitude": 47.837321,
+      "longitude": 17.582294
+    },
+    {
+      "name": "Predné jazero",
+      "latitude": 47.866379,
+      "longitude": 17.793991
+    },
+    {
+      "name": "Medveďovské rameno",
+      "latitude": 47.800777,
+      "longitude": 17.646694
+    },
+    {
+      "name": "Číčovské rybníky",
+      "latitude": 47.78382,
+      "longitude": 17.749907
+    },
+    {
+      "name": "Kľúčovské rameno",
+      "latitude": 47.786612,
+      "longitude": 17.687055
+    },
+    {
+      "name": "II. Móric",
+      "latitude": 47.794735,
+      "longitude": 17.666413
+    },
+    {
+      "name": "Opatovské jazierko",
+      "latitude": 47.793992,
+      "longitude": 17.686517
+    },
+    {
+      "name": "Kľúčovské rameno",
+      "latitude": 47.789639,
+      "longitude": 17.669288
+    },
+    {
+      "name": "Číčovské mŕtve rameno",
+      "latitude": 47.774502,
+      "longitude": 17.731713
+    },
+    {
+      "name": "Kľúčovské rameno",
+      "latitude": 47.770975,
+      "longitude": 17.701435
+    },
+    {
+      "name": "Nemanský rybník",
+      "latitude": 47.754569,
+      "longitude": 17.820256
+    },
+    {
+      "name": "Lohotské jazero",
+      "latitude": 47.857141,
+      "longitude": 18.012057
+    },
+    {
+      "name": "Štrkovisko Konkoľ",
+      "latitude": 47.850795,
+      "longitude": 18.186612
+    },
+    {
+      "name": "Hederové jazero",
+      "latitude": 47.853847,
+      "longitude": 18.1255
+    },
+    {
+      "name": "Horváthovo jazero",
+      "latitude": 47.854003,
+      "longitude": 18.123519
+    },
+    {
+      "name": "Bágeroš",
+      "latitude": 47.853426,
+      "longitude": 18.17558
+    },
+    {
+      "name": "Vážsky Dunaj",
+      "latitude": 47.811201,
+      "longitude": 18.05927
+    },
+    {
+      "name": "Konkoľ",
+      "latitude": 47.808386,
+      "longitude": 18.050832
+    },
+    {
+      "name": "Kakal",
+      "latitude": 47.772447,
+      "longitude": 17.971308
+    },
+    {
+      "name": "rameno Žitavy",
+      "latitude": 47.787838,
+      "longitude": 18.166423
+    },
+    {
+      "name": "rameno Žitavy",
+      "latitude": 47.78871,
+      "longitude": 18.1711
+    },
+    {
+      "name": "Stará Nitra",
+      "latitude": 47.802749,
+      "longitude": 18.139289
+    },
+    {
+      "name": "rameno Žitavy",
+      "latitude": 47.783744,
+      "longitude": 18.183161
+    },
+    {
+      "name": "Dunaj",
+      "latitude": 47.756866,
+      "longitude": 18.112584
+    },
+    {
+      "name": "Komárňanské rameno (Mrtvák)",
+      "latitude": 47.78216,
+      "longitude": 18.125214
+    },
+    {
+      "name": "Győr-Gönyű OKK medencés kikötő",
+      "latitude": 47.736265,
+      "longitude": 17.779555
+    },
+    {
+      "name": "Mosoni-Duna torkolati hajózsilip",
+      "latitude": 47.736898,
+      "longitude": 17.776343
+    },
+    {
+      "name": "rekuiltivált ülepítő medence",
+      "latitude": 47.737902,
+      "longitude": 18.203962
+    },
+    {
+      "name": "rekuiltivált ülepítő medence",
+      "latitude": 47.736562,
+      "longitude": 18.204624
+    },
+    {
+      "name": "Vodní nádrž Kuraľany",
+      "latitude": 47.975196,
+      "longitude": 18.559208
+    },
+    {
+      "name": "Bíňanský rybník",
+      "latitude": 47.939001,
+      "longitude": 18.624224
+    },
+    {
+      "name": "Ketské rybníky",
+      "latitude": 47.95986,
+      "longitude": 18.59509
+    },
+    {
+      "name": "Ketské rybníky",
+      "latitude": 47.956722,
+      "longitude": 18.604555
+    },
+    {
+      "name": "Ketské rybníky",
+      "latitude": 47.949455,
+      "longitude": 18.616731
+    },
+    {
+      "name": "Ketské rybníky",
+      "latitude": 47.952777,
+      "longitude": 18.613988
+    },
+    {
+      "name": "Ketské rybníky",
+      "latitude": 47.96003,
+      "longitude": 18.594336
+    },
+    {
+      "name": "Vodná nádrž Ciglédka",
+      "latitude": 47.92763,
+      "longitude": 18.421177
+    },
+    {
+      "name": "Vodná nádrž Rúbaň",
+      "latitude": 47.921859,
+      "longitude": 18.408434
+    },
+    {
+      "name": "Vodná nádrž Svodín",
+      "latitude": 47.880644,
+      "longitude": 18.50375
+    },
+    {
+      "name": "Parížske močiare",
+      "latitude": 47.874246,
+      "longitude": 18.464287
+    },
+    {
+      "name": "štrkovisko",
+      "latitude": 47.947284,
+      "longitude": 18.747641
+    },
+    {
+      "name": "Bajdázói-tó",
+      "latitude": 47.903656,
+      "longitude": 18.978139
+    },
+    {
+      "name": "Királyréti Horgásztó",
+      "latitude": 47.898031,
+      "longitude": 18.97969
+    },
+    {
+      "name": "Vojnický rybník",
+      "latitude": 47.818202,
+      "longitude": 18.434113
+    },
+    {
+      "name": "Búčsky rybník",
+      "latitude": 47.80663,
+      "longitude": 18.439398
+    },
+    {
+      "name": "Vodná nádrž Mužla",
+      "latitude": 47.799919,
+      "longitude": 18.590874
+    },
+    {
+      "name": "Berek 3",
+      "latitude": 47.850619,
+      "longitude": 18.666021
+    },
+    {
+      "name": "Bajtavská vodná nádrž",
+      "latitude": 47.857477,
+      "longitude": 18.731365
+    },
+    {
+      "name": "Torony-alja horgásztó",
+      "latitude": 47.851919,
+      "longitude": 18.947049
+    },
+    {
+      "name": "Hidegréti-bányató",
+      "latitude": 47.818952,
+      "longitude": 18.855046
+    },
+    {
+      "name": "Bombatölcsér",
+      "latitude": 47.958092,
+      "longitude": 19.006629
+    },
+    {
+      "name": "Büdös-tó",
+      "latitude": 47.90939,
+      "longitude": 18.987418
+    },
+    {
+      "name": "Virtské jazero",
+      "latitude": 47.75303,
+      "longitude": 18.313863
+    },
+    {
+      "name": "Patinský kanál",
+      "latitude": 47.753678,
+      "longitude": 18.310257
+    },
+    {
+      "name": "Duna Szent Ilona Öböl",
+      "latitude": 47.737779,
+      "longitude": 18.353556
+    },
+    {
+      "name": "Patinský kanál",
+      "latitude": 47.73963,
+      "longitude": 18.326177
+    },
+    {
+      "name": "Öböl",
+      "latitude": 47.729726,
+      "longitude": 18.308243
+    },
+    {
+      "name": "Duna",
+      "latitude": 47.744348,
+      "longitude": 18.389966
+    }
+  ],
+  "meta": {
+    "title": "Vodné plochy - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (natural=water). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84. Obsahuje 1444 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Vodné plochy | ListBase",
+    "seo_description": "Stiahnuť Vodné plochy — 1444 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 1444 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

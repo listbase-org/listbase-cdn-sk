@@ -1,0 +1,316 @@
+{
+  "id": "sk-gelnica-obce",
+  "name": "Obce v okrese Gelnica",
+  "title": "Obce v okrese Gelnica",
+  "description": "Všetky obce (municipality) v okrese Gelnica, Košický kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 821,
+      "fullname": "Gelnica",
+      "shortname": "Gelnica",
+      "zip": "056 01",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 914,
+      "fullname": "Helcmanovce",
+      "shortname": "Helcmanovce",
+      "zip": "055 63",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 917,
+      "fullname": "Henclová",
+      "shortname": "Henclová",
+      "zip": "053 33",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1104,
+      "fullname": "Hrišovce",
+      "shortname": "Hrišovce",
+      "zip": "053 51",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 883,
+      "fullname": "Hámre",
+      "shortname": "Hámre",
+      "zip": "053 33",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1252,
+      "fullname": "Jaklovce",
+      "shortname": "Jaklovce",
+      "zip": "055 61",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1462,
+      "fullname": "Kluknava",
+      "shortname": "Kluknava",
+      "zip": "053 51",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1483,
+      "fullname": "Kojšov",
+      "shortname": "Kojšov",
+      "zip": "055 52",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2112,
+      "fullname": "Margecany",
+      "shortname": "Margecany",
+      "zip": "055 01",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2218,
+      "fullname": "Mníšek nad Hnilcom",
+      "shortname": "Mníšek nad Hnilcom",
+      "zip": "055 64",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2294,
+      "fullname": "Nálepkovo",
+      "shortname": "Nálepkovo",
+      "zip": "053 33",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2802,
+      "fullname": "Prakovce",
+      "shortname": "Prakovce",
+      "zip": "055 62",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2975,
+      "fullname": "Richnava",
+      "shortname": "Richnava",
+      "zip": "053 51",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3205,
+      "fullname": "Smolnícka Huta",
+      "shortname": "Smolnícka Huta",
+      "zip": "055 65",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3206,
+      "fullname": "Smolník",
+      "shortname": "Smolník",
+      "zip": "055 66",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3273,
+      "fullname": "Stará Voda",
+      "shortname": "Stará Voda",
+      "zip": "053 34",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3541,
+      "fullname": "Tichá Voda",
+      "shortname": "Tichá Voda",
+      "zip": "053 33",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3822,
+      "fullname": "Veľký Folkmar",
+      "shortname": "Veľký Folkmar",
+      "zip": "055 51",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4041,
+      "fullname": "Zahájnica",
+      "shortname": "Zahájnica",
+      "zip": "053 33",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4077,
+      "fullname": "Závadka",
+      "shortname": "Závadka",
+      "zip": "053 33",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3675,
+      "fullname": "Úhorná",
+      "shortname": "Úhorná",
+      "zip": "055 66",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 485,
+      "fullname": "Čierna Hora",
+      "shortname": "Čierna Hora",
+      "zip": "053 33",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3455,
+      "fullname": "Štefanská Huta",
+      "shortname": "Štefanská Huta",
+      "zip": "053 51",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3493,
+      "fullname": "Švedlár",
+      "shortname": "Švedlár",
+      "zip": "053 34",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4161,
+      "fullname": "Žakarovce",
+      "shortname": "Žakarovce",
+      "zip": "055 71",
+      "district_id": 17,
+      "okres": "Gelnica",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Gelnica - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Gelnica, Košický kraj — s PSČ a kódom okresu. Obsahuje 25 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Gelnica | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Gelnica — 25 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 25 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

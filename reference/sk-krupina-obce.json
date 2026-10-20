@@ -1,0 +1,576 @@
+{
+  "id": "sk-krupina-obce",
+  "name": "Obce v okrese Krupina",
+  "title": "Obce v okrese Krupina",
+  "description": "Všetky obce (municipality) v okrese Krupina, Banskobystrický kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 375,
+      "fullname": "Bzovík",
+      "shortname": "Bzovík",
+      "zip": "962 41",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 44,
+      "fullname": "Báčovce",
+      "shortname": "Báčovce",
+      "zip": "962 68",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 389,
+      "fullname": "Cerovo",
+      "shortname": "Cerovo",
+      "zip": "962 52",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 546,
+      "fullname": "Devičie",
+      "shortname": "Devičie",
+      "zip": "962 65",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 633,
+      "fullname": "Dolné Mladonice",
+      "shortname": "Dolné Mladonice",
+      "zip": "962 41",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 642,
+      "fullname": "Dolné Rykynčice",
+      "shortname": "Dolné Rykynčice",
+      "zip": "962 55",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 653,
+      "fullname": "Dolný Badín",
+      "shortname": "Dolný Badín",
+      "zip": "962 51",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 659,
+      "fullname": "Dolný Jalšovík",
+      "shortname": "Dolný Jalšovík",
+      "zip": "962 41",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 679,
+      "fullname": "Domaníky",
+      "shortname": "Domaníky",
+      "zip": "962 65",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 700,
+      "fullname": "Drienovo",
+      "shortname": "Drienovo",
+      "zip": "962 51",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 694,
+      "fullname": "Drážovce",
+      "shortname": "Drážovce",
+      "zip": "962 68",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 741,
+      "fullname": "Duchenec",
+      "shortname": "Duchenec",
+      "zip": "962 52",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 740,
+      "fullname": "Dudince",
+      "shortname": "Dudince",
+      "zip": "962 71",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 770,
+      "fullname": "Dvorníky",
+      "shortname": "Dvorníky",
+      "zip": "962 68",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 965,
+      "fullname": "Hontianske Moravce",
+      "shortname": "Hontianske Moravce",
+      "zip": "962 71",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 966,
+      "fullname": "Hontianske Nemce",
+      "shortname": "Hontianske Nemce",
+      "zip": "962 65",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 967,
+      "fullname": "Hontianske Tesáre",
+      "shortname": "Hontianske Tesáre",
+      "zip": "962 68",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1011,
+      "fullname": "Horné Mladonice",
+      "shortname": "Horné Mladonice",
+      "zip": "962 43",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1022,
+      "fullname": "Horné Rykynčice",
+      "shortname": "Horné Rykynčice",
+      "zip": "962 55",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1035,
+      "fullname": "Horný Badín",
+      "shortname": "Horný Badín",
+      "zip": "962 51",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1040,
+      "fullname": "Horný Jalšovík",
+      "shortname": "Horný Jalšovík",
+      "zip": "962 41",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1267,
+      "fullname": "Jalšovík",
+      "shortname": "Jalšovík",
+      "zip": "962 41",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1557,
+      "fullname": "Kostolné Moravce",
+      "shortname": "Kostolné Moravce",
+      "zip": "962 71",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1613,
+      "fullname": "Kozí Vrbovok",
+      "shortname": "Kozí Vrbovok",
+      "zip": "962 41",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1695,
+      "fullname": "Krnišov",
+      "shortname": "Krnišov",
+      "zip": "962 65",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1702,
+      "fullname": "Krupina",
+      "shortname": "Krupina",
+      "zip": "963 01",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1638,
+      "fullname": "Kráľovce",
+      "shortname": "Kráľovce",
+      "zip": "962 65",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1639,
+      "fullname": "Kráľovce - Krnišov",
+      "shortname": "Kráľovce - Krnišov",
+      "zip": "962 65",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1763,
+      "fullname": "Lackov",
+      "shortname": "Lackov",
+      "zip": "962 44",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1777,
+      "fullname": "Ladzany",
+      "shortname": "Ladzany",
+      "zip": "962 65",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1898,
+      "fullname": "Litava",
+      "shortname": "Litava",
+      "zip": "962 44",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1897,
+      "fullname": "Lišov",
+      "shortname": "Lišov",
+      "zip": "962 71",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2147,
+      "fullname": "Medovarce",
+      "shortname": "Medovarce",
+      "zip": "962 65",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2168,
+      "fullname": "Merovce",
+      "shortname": "Merovce",
+      "zip": "962 71",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2505,
+      "fullname": "Opatové Moravce",
+      "shortname": "Opatové Moravce",
+      "zip": "962 71",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2914,
+      "fullname": "Rakovec",
+      "shortname": "Rakovec",
+      "zip": "962 65",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3065,
+      "fullname": "Rykynčice",
+      "shortname": "Rykynčice",
+      "zip": "962 55",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3088,
+      "fullname": "Sebechleby",
+      "shortname": "Sebechleby",
+      "zip": "962 66",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3101,
+      "fullname": "Selce",
+      "shortname": "Selce",
+      "zip": "962 51",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3117,
+      "fullname": "Senohrad",
+      "shortname": "Senohrad",
+      "zip": "962 43",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3136,
+      "fullname": "Sitnianska Lehôtka",
+      "shortname": "Sitnianska Lehôtka",
+      "zip": "962 65",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3330,
+      "fullname": "Sudince",
+      "shortname": "Sudince",
+      "zip": "962 71",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3331,
+      "fullname": "Súdovce",
+      "shortname": "Súdovce",
+      "zip": "962 71",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3530,
+      "fullname": "Terany",
+      "shortname": "Terany",
+      "zip": "962 68",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3610,
+      "fullname": "Trpín",
+      "shortname": "Trpín",
+      "zip": "962 44",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3686,
+      "fullname": "Uňatín",
+      "shortname": "Uňatín",
+      "zip": "962 41",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4115,
+      "fullname": "Zemiansky Vrbovok",
+      "shortname": "Zemiansky Vrbovok",
+      "zip": "962 41",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 402,
+      "fullname": "Čabradský Vrbovok",
+      "shortname": "Čabradský Vrbovok",
+      "zip": "962 51",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 439,
+      "fullname": "Čekovce",
+      "shortname": "Čekovce",
+      "zip": "962 41",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3425,
+      "fullname": "Šipice",
+      "shortname": "Šipice",
+      "zip": "962 68",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4189,
+      "fullname": "Žibritov",
+      "shortname": "Žibritov",
+      "zip": "963 01",
+      "district_id": 28,
+      "okres": "Krupina",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Krupina - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Krupina, Banskobystrický kraj — s PSČ a kódom okresu. Obsahuje 51 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Krupina | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Krupina — 51 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 51 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

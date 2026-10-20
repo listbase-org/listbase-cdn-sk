@@ -1,0 +1,96 @@
+{
+  "id": "sk-bratislava-iii-obce",
+  "name": "Obce v okrese Bratislava III",
+  "title": "Obce v okrese Bratislava III",
+  "description": "Všetky obce (municipality) v okrese Bratislava III, Bratislavský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 250,
+      "fullname": "Bratislava - Nové Mesto",
+      "shortname": "Nové Mesto",
+      "zip": 0,
+      "district_id": 7,
+      "okres": "Bratislava III",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 253,
+      "fullname": "Bratislava - Rača",
+      "shortname": "Rača",
+      "zip": 0,
+      "district_id": 7,
+      "okres": "Bratislava III",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 257,
+      "fullname": "Bratislava - Vajnory",
+      "shortname": "Vajnory",
+      "zip": "831 07",
+      "district_id": 7,
+      "okres": "Bratislava III",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Bratislava III - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Bratislava III, Bratislavský kraj — s PSČ a kódom okresu. Obsahuje 3 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Bratislava III | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Bratislava III — 3 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 3 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

@@ -1,0 +1,1851 @@
+{
+  "id": "sk-priemyselne-zavody",
+  "name": "Priemyselné závody",
+  "title": "Priemyselné závody",
+  "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (man_made=works). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 362,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "ITRAN",
+      "latitude": 49.406594,
+      "longitude": 18.615668
+    },
+    {
+      "name": "TAJS inox",
+      "latitude": 49.44901,
+      "longitude": 18.781242
+    },
+    {
+      "name": "Galmm, s.r.o.",
+      "latitude": 49.461522,
+      "longitude": 18.78082
+    },
+    {
+      "name": "Gnotec Čadca, s.r.o.",
+      "latitude": 49.460776,
+      "longitude": 18.780245
+    },
+    {
+      "name": "Okrasa",
+      "latitude": 49.432805,
+      "longitude": 18.797119
+    },
+    {
+      "name": "Aspera-Spinn",
+      "latitude": 49.433334,
+      "longitude": 18.795377
+    },
+    {
+      "name": "Abel",
+      "latitude": 49.435671,
+      "longitude": 18.794899
+    },
+    {
+      "name": "JJ Elektronic",
+      "latitude": 49.435997,
+      "longitude": 18.796103
+    },
+    {
+      "name": "Obaľovačka Strabag",
+      "latitude": 49.407465,
+      "longitude": 18.840853
+    },
+    {
+      "name": "CTPark Krásno nad Kysucou",
+      "latitude": 49.405741,
+      "longitude": 18.837185
+    },
+    {
+      "name": "PSA technik, s. r. o.",
+      "latitude": 49.405219,
+      "longitude": 18.838414
+    },
+    {
+      "name": "Promont, s.r.o.",
+      "latitude": 49.4033,
+      "longitude": 18.837577
+    },
+    {
+      "name": "Bigbox, s.r.o.",
+      "latitude": 49.403065,
+      "longitude": 18.836447
+    },
+    {
+      "name": "Eliastech, s.r.o.",
+      "latitude": 49.401813,
+      "longitude": 18.835546
+    },
+    {
+      "name": "HT - design, s.r.o.",
+      "latitude": 49.40355,
+      "longitude": 18.838948
+    },
+    {
+      "name": "Komad, s.r.o.",
+      "latitude": 49.402497,
+      "longitude": 18.839539
+    },
+    {
+      "name": "Enza, s.r.o.",
+      "latitude": 49.404386,
+      "longitude": 18.842265
+    },
+    {
+      "name": "VS - MONT",
+      "latitude": 49.243198,
+      "longitude": 18.219025
+    },
+    {
+      "name": "ZKN METAL s.r.o.",
+      "latitude": 48.951591,
+      "longitude": 18.186253
+    },
+    {
+      "name": "Lago nástrojáreň",
+      "latitude": 49.284652,
+      "longitude": 18.584847
+    },
+    {
+      "name": "K-Ten drevo sro.",
+      "latitude": 49.341948,
+      "longitude": 18.931103
+    },
+    {
+      "name": "Schaeffler Special Machinery, spol. s.r.o",
+      "latitude": 49.29786,
+      "longitude": 18.765356
+    },
+    {
+      "name": "KINEX Bearings, a.s.",
+      "latitude": 49.305663,
+      "longitude": 18.781489
+    },
+    {
+      "name": "KINEX Strojáreň, s.r.o.",
+      "latitude": 49.304072,
+      "longitude": 18.780491
+    },
+    {
+      "name": "KLF - Energetika, a.s.",
+      "latitude": 49.297868,
+      "longitude": 18.771744
+    },
+    {
+      "name": "KLF - Energetika, a.s.",
+      "latitude": 49.308765,
+      "longitude": 18.784781
+    },
+    {
+      "name": "TN Slovakia, s.r.o.",
+      "latitude": 49.298938,
+      "longitude": 18.774471
+    },
+    {
+      "name": "Daechang Seat SK, s.r.o.",
+      "latitude": 49.297698,
+      "longitude": 18.772944
+    },
+    {
+      "name": "Schaeffler Kysuce, spol. s r.o.",
+      "latitude": 49.296432,
+      "longitude": 18.766272
+    },
+    {
+      "name": "Správa štátnych hmotných rezerv Slovenskej republiky",
+      "latitude": 49.293598,
+      "longitude": 18.774648
+    },
+    {
+      "name": "Omnia KLF, a.s.",
+      "latitude": 49.295981,
+      "longitude": 18.771778
+    },
+    {
+      "name": "Vároš",
+      "latitude": 49.256921,
+      "longitude": 18.459123
+    },
+    {
+      "name": "HELVET",
+      "latitude": 49.191127,
+      "longitude": 18.510476
+    },
+    {
+      "name": "Sungwoo Hitech Žilina",
+      "latitude": 49.225043,
+      "longitude": 18.722096
+    },
+    {
+      "name": "Kia Motors Slovakia",
+      "latitude": 49.215087,
+      "longitude": 18.814767
+    },
+    {
+      "name": "Kia Slovakia",
+      "latitude": 49.216421,
+      "longitude": 18.827205
+    },
+    {
+      "name": "Vibrobeton",
+      "latitude": 49.209223,
+      "longitude": 18.724399
+    },
+    {
+      "name": "COBA Automotive s.r.o.",
+      "latitude": 49.254486,
+      "longitude": 19.012776
+    },
+    {
+      "name": "Klauke Slovakia s.r.o.",
+      "latitude": 49.237035,
+      "longitude": 19.305795
+    },
+    {
+      "name": "Mäsokombinát Púchov",
+      "latitude": 49.125332,
+      "longitude": 18.305582
+    },
+    {
+      "name": "Kašeko",
+      "latitude": 49.12769,
+      "longitude": 18.412105
+    },
+    {
+      "name": "MRA",
+      "latitude": 49.099125,
+      "longitude": 18.3154
+    },
+    {
+      "name": "Gosling",
+      "latitude": 49.122861,
+      "longitude": 18.308834
+    },
+    {
+      "name": "Continental Tires Slovakia, s.r.o.",
+      "latitude": 49.102636,
+      "longitude": 18.318943
+    },
+    {
+      "name": "SEOYON E-HWA Automotive Slovakia, s. r. o.",
+      "latitude": 49.124014,
+      "longitude": 18.41989
+    },
+    {
+      "name": "Alimpek",
+      "latitude": 49.069417,
+      "longitude": 18.342301
+    },
+    {
+      "name": "Elastomer Solutions, s.r.o.",
+      "latitude": 49.064977,
+      "longitude": 18.319984
+    },
+    {
+      "name": "Tatra-gold",
+      "latitude": 49.066038,
+      "longitude": 18.321195
+    },
+    {
+      "name": "Metallform s.r.o.",
+      "latitude": 49.066519,
+      "longitude": 18.320137
+    },
+    {
+      "name": "GXProfiles",
+      "latitude": 49.066192,
+      "longitude": 18.320255
+    },
+    {
+      "name": "Obaľovačka asfaltu",
+      "latitude": 49.024074,
+      "longitude": 18.913822
+    },
+    {
+      "name": "Trim Leader",
+      "latitude": 49.027091,
+      "longitude": 18.907539
+    },
+    {
+      "name": "TTS Steel, s.r.o.",
+      "latitude": 48.992223,
+      "longitude": 18.879702
+    },
+    {
+      "name": "Kláštorná s.r.o.",
+      "latitude": 48.956655,
+      "longitude": 18.847747
+    },
+    {
+      "name": "Enrico - Internationale mode",
+      "latitude": 49.072439,
+      "longitude": 19.315632
+    },
+    {
+      "name": "Mondi SCP",
+      "latitude": 49.078233,
+      "longitude": 19.318184
+    },
+    {
+      "name": "Stavebniny",
+      "latitude": 49.064667,
+      "longitude": 19.307224
+    },
+    {
+      "name": "Daza",
+      "latitude": 49.064939,
+      "longitude": 19.307792
+    },
+    {
+      "name": "Renop",
+      "latitude": 49.108385,
+      "longitude": 19.406065
+    },
+    {
+      "name": "Juráš autoplachty",
+      "latitude": 49.060864,
+      "longitude": 19.391405
+    },
+    {
+      "name": "Liptovská skúšobňa zbraní + strelnica",
+      "latitude": 49.080501,
+      "longitude": 19.613646
+    },
+    {
+      "name": "Zberný dôr",
+      "latitude": 48.92618,
+      "longitude": 19.185442
+    },
+    {
+      "name": "Rašelina",
+      "latitude": 49.38571,
+      "longitude": 19.785912
+    },
+    {
+      "name": "SLOVBYS, s.r.o.",
+      "latitude": 49.19454,
+      "longitude": 20.447791
+    },
+    {
+      "name": "Betonárka",
+      "latitude": 49.156354,
+      "longitude": 20.950167
+    },
+    {
+      "name": "Tatra Sklo",
+      "latitude": 49.068196,
+      "longitude": 20.283172
+    },
+    {
+      "name": "Tatramat",
+      "latitude": 49.077087,
+      "longitude": 20.326434
+    },
+    {
+      "name": "HOPE",
+      "latitude": 49.075034,
+      "longitude": 20.317626
+    },
+    {
+      "name": "LPH a.s.",
+      "latitude": 49.077355,
+      "longitude": 20.318956
+    },
+    {
+      "name": "PASELL SLOVAKIA",
+      "latitude": 49.075565,
+      "longitude": 20.322512
+    },
+    {
+      "name": "AŽD W",
+      "latitude": 49.074939,
+      "longitude": 20.322526
+    },
+    {
+      "name": "Graviton",
+      "latitude": 49.062272,
+      "longitude": 20.286031
+    },
+    {
+      "name": "Správa a údržba ciest PSK",
+      "latitude": 49.056642,
+      "longitude": 20.320911
+    },
+    {
+      "name": "Triton Famme",
+      "latitude": 49.054607,
+      "longitude": 20.310437
+    },
+    {
+      "name": "EUROPLANT Šlachtiteľská a.s.",
+      "latitude": 49.047201,
+      "longitude": 20.324062
+    },
+    {
+      "name": "Tatranská mliekáreň TAMI",
+      "latitude": 49.152216,
+      "longitude": 20.429067
+    },
+    {
+      "name": "Tatrapoma",
+      "latitude": 49.144337,
+      "longitude": 20.425707
+    },
+    {
+      "name": "PNZP",
+      "latitude": 49.131493,
+      "longitude": 20.414147
+    },
+    {
+      "name": "Tatraponk",
+      "latitude": 49.1331,
+      "longitude": 20.416381
+    },
+    {
+      "name": "ASPEL Slovakia",
+      "latitude": 49.15193,
+      "longitude": 20.432263
+    },
+    {
+      "name": "Výroba asfaltových zmesí",
+      "latitude": 48.995251,
+      "longitude": 20.471296
+    },
+    {
+      "name": "SEZ Krompachy",
+      "latitude": 48.924041,
+      "longitude": 20.88854
+    },
+    {
+      "name": "Tesla Stropkov A.S.",
+      "latitude": 49.190755,
+      "longitude": 21.654543
+    },
+    {
+      "name": "BESOP s.r.o.",
+      "latitude": 49.066605,
+      "longitude": 21.326775
+    },
+    {
+      "name": "Komas s.r.o.",
+      "latitude": 49.111534,
+      "longitude": 21.515058
+    },
+    {
+      "name": "Conec",
+      "latitude": 49.110367,
+      "longitude": 21.509752
+    },
+    {
+      "name": "RIKOSTAV CONTAINER, s. r. o.",
+      "latitude": 49.106094,
+      "longitude": 21.503588
+    },
+    {
+      "name": "H.M. Transtech",
+      "latitude": 49.010167,
+      "longitude": 21.220818
+    },
+    {
+      "name": "CMR Slovakia",
+      "latitude": 49.012509,
+      "longitude": 21.261372
+    },
+    {
+      "name": "ProTech Service, s.r.o.",
+      "latitude": 49.009357,
+      "longitude": 21.249487
+    },
+    {
+      "name": "Kronospan",
+      "latitude": 49.006528,
+      "longitude": 21.257731
+    },
+    {
+      "name": "Stomex",
+      "latitude": 49.00777,
+      "longitude": 21.267788
+    },
+    {
+      "name": "Artweger",
+      "latitude": 49.000577,
+      "longitude": 21.268311
+    },
+    {
+      "name": "OZEX spol. s r.o.",
+      "latitude": 48.986034,
+      "longitude": 21.249637
+    },
+    {
+      "name": "Watting, s.r.o.",
+      "latitude": 48.981258,
+      "longitude": 21.245477
+    },
+    {
+      "name": "Modular s. r. o.",
+      "latitude": 48.984126,
+      "longitude": 21.254806
+    },
+    {
+      "name": "Lear Corporation",
+      "latitude": 48.985766,
+      "longitude": 21.255314
+    },
+    {
+      "name": "KMS-PT ,s.r.o.",
+      "latitude": 49.008559,
+      "longitude": 21.247736
+    },
+    {
+      "name": "Cemm Thome SK, spol. s.r.o.",
+      "latitude": 48.981996,
+      "longitude": 21.24495
+    },
+    {
+      "name": "EUROCENTRUM - Priemyselný park Prešov-Šalgovík",
+      "latitude": 48.999051,
+      "longitude": 21.313106
+    },
+    {
+      "name": "Techniques Line s.r.o.",
+      "latitude": 48.99842,
+      "longitude": 21.321786
+    },
+    {
+      "name": "GASKO - KOZMA s.r.o.",
+      "latitude": 48.974879,
+      "longitude": 21.24533
+    },
+    {
+      "name": "GIENGER spol. s r.o.",
+      "latitude": 48.97267,
+      "longitude": 21.247812
+    },
+    {
+      "name": "KE Prešov Elektrik",
+      "latitude": 48.975994,
+      "longitude": 21.245328
+    },
+    {
+      "name": "PREMY s.r.o.",
+      "latitude": 48.973507,
+      "longitude": 21.250737
+    },
+    {
+      "name": "FROST a.s. Prešov",
+      "latitude": 48.956525,
+      "longitude": 21.254849
+    },
+    {
+      "name": "DRC",
+      "latitude": 48.970494,
+      "longitude": 21.268044
+    },
+    {
+      "name": "ZVL",
+      "latitude": 48.968394,
+      "longitude": 21.252871
+    },
+    {
+      "name": "SPINEA",
+      "latitude": 48.952254,
+      "longitude": 21.250776
+    },
+    {
+      "name": "BHS-Sonthofen (Slovakia)",
+      "latitude": 48.955398,
+      "longitude": 21.248241
+    },
+    {
+      "name": "Leyard Europe s.r.o.",
+      "latitude": 48.95542,
+      "longitude": 21.271196
+    },
+    {
+      "name": "Müller Textiles Slovakia",
+      "latitude": 48.93235,
+      "longitude": 21.854661
+    },
+    {
+      "name": "MOPS PRESS s.r.o",
+      "latitude": 48.985839,
+      "longitude": 22.163394
+    },
+    {
+      "name": "Beky a.s.",
+      "latitude": 48.982842,
+      "longitude": 22.177786
+    },
+    {
+      "name": "Západoslovenské tlačiarne Skalica",
+      "latitude": 48.840115,
+      "longitude": 17.215471
+    },
+    {
+      "name": "Reutter SK",
+      "latitude": 48.763015,
+      "longitude": 17.576199
+    },
+    {
+      "name": "Kusenda - plastové okná",
+      "latitude": 48.843969,
+      "longitude": 17.82745
+    },
+    {
+      "name": "Mäsiarstvo Maroš",
+      "latitude": 48.905149,
+      "longitude": 18.024524
+    },
+    {
+      "name": "For Mix, s.r.o. - lisovacie nástroje",
+      "latitude": 48.904736,
+      "longitude": 18.024056
+    },
+    {
+      "name": "Ekoprogres Trenčín",
+      "latitude": 48.910962,
+      "longitude": 18.056343
+    },
+    {
+      "name": "Hella Slovakia Signal Lighting, s.r.o.",
+      "latitude": 48.885606,
+      "longitude": 17.992875
+    },
+    {
+      "name": "AAF International",
+      "latitude": 48.886873,
+      "longitude": 17.995455
+    },
+    {
+      "name": "Veeser Plastic Slovakia",
+      "latitude": 48.884207,
+      "longitude": 17.99229
+    },
+    {
+      "name": "Josef Schimmel Slovakia s.r.o.",
+      "latitude": 48.887834,
+      "longitude": 17.961048
+    },
+    {
+      "name": "LES",
+      "latitude": 48.887248,
+      "longitude": 17.962763
+    },
+    {
+      "name": "Rutex Termovel",
+      "latitude": 48.887372,
+      "longitude": 17.961486
+    },
+    {
+      "name": "Eko-Stavsol",
+      "latitude": 48.886778,
+      "longitude": 17.96234
+    },
+    {
+      "name": "Soy ´n´ Health, s.r.o.",
+      "latitude": 48.884996,
+      "longitude": 17.963548
+    },
+    {
+      "name": "Linde Material Handling Slovakia",
+      "latitude": 48.882955,
+      "longitude": 17.993878
+    },
+    {
+      "name": "Letecké opravovne Trenčín, a.s.",
+      "latitude": 48.873623,
+      "longitude": 18.020938
+    },
+    {
+      "name": "XRAY Model Racing Cars",
+      "latitude": 48.888302,
+      "longitude": 18.062066
+    },
+    {
+      "name": "JAMP Svorada",
+      "latitude": 48.892495,
+      "longitude": 18.071182
+    },
+    {
+      "name": "KONŠTRUKTA-TireTech, a.s.",
+      "latitude": 48.889846,
+      "longitude": 18.062909
+    },
+    {
+      "name": "KONŠTRUKTA - GALVANIZOVŇA, s.r.o.",
+      "latitude": 48.889749,
+      "longitude": 18.062959
+    },
+    {
+      "name": "Climberg socks",
+      "latitude": 48.892435,
+      "longitude": 18.070987
+    },
+    {
+      "name": "Dafe - výroba fitness náradia",
+      "latitude": 48.892729,
+      "longitude": 18.072268
+    },
+    {
+      "name": "Sihot park",
+      "latitude": 48.854825,
+      "longitude": 17.948114
+    },
+    {
+      "name": "VAILLANT INDUSTRIAL SLOVAKIA s.r.o.",
+      "latitude": 48.84946,
+      "longitude": 17.99445
+    },
+    {
+      "name": "Vaillant",
+      "latitude": 48.849291,
+      "longitude": 17.994444
+    },
+    {
+      "name": "VASPO STONE, s.r.o.",
+      "latitude": 48.849764,
+      "longitude": 18.026874
+    },
+    {
+      "name": "ATG Slovakia s.r.o.",
+      "latitude": 48.845849,
+      "longitude": 18.031649
+    },
+    {
+      "name": "Závod plnenia minerálnej vody",
+      "latitude": 48.81077,
+      "longitude": 18.110038
+    },
+    {
+      "name": "Printhouse, s.r.o.",
+      "latitude": 48.80883,
+      "longitude": 18.186717
+    },
+    {
+      "name": "Ludoprint",
+      "latitude": 48.808657,
+      "longitude": 18.187554
+    },
+    {
+      "name": "CTM",
+      "latitude": 48.78899,
+      "longitude": 17.688566
+    },
+    {
+      "name": "BizLink Industry Slovakia",
+      "latitude": 48.770571,
+      "longitude": 17.69811
+    },
+    {
+      "name": "Honeywell",
+      "latitude": 48.769299,
+      "longitude": 17.699209
+    },
+    {
+      "name": "Arete Park",
+      "latitude": 48.763882,
+      "longitude": 17.87645
+    },
+    {
+      "name": "Stered",
+      "latitude": 48.691326,
+      "longitude": 17.681784
+    },
+    {
+      "name": "Majtech",
+      "latitude": 48.698425,
+      "longitude": 17.858948
+    },
+    {
+      "name": "ANTEC, s. r. o.",
+      "latitude": 48.700455,
+      "longitude": 17.856533
+    },
+    {
+      "name": "Votep",
+      "latitude": 48.718896,
+      "longitude": 18.270931
+    },
+    {
+      "name": "INAT s.r.o.",
+      "latitude": 48.591789,
+      "longitude": 16.987333
+    },
+    {
+      "name": "Kotolňa",
+      "latitude": 48.603647,
+      "longitude": 17.42097
+    },
+    {
+      "name": "tex-print",
+      "latitude": 48.461648,
+      "longitude": 16.929782
+    },
+    {
+      "name": "Zeda",
+      "latitude": 48.461451,
+      "longitude": 16.930053
+    },
+    {
+      "name": "Time Bicycles",
+      "latitude": 48.461735,
+      "longitude": 16.929401
+    },
+    {
+      "name": "Vacuumschmelze",
+      "latitude": 48.659496,
+      "longitude": 17.852952
+    },
+    {
+      "name": "Chateau Krakovany",
+      "latitude": 48.631816,
+      "longitude": 17.773174
+    },
+    {
+      "name": "EuroHause",
+      "latitude": 48.617637,
+      "longitude": 17.811736
+    },
+    {
+      "name": "Kellys bicycles",
+      "latitude": 48.621899,
+      "longitude": 17.790627
+    },
+    {
+      "name": "Stakotra Manufacturing",
+      "latitude": 48.593955,
+      "longitude": 17.791978
+    },
+    {
+      "name": "Kovo",
+      "latitude": 48.578007,
+      "longitude": 17.767457
+    },
+    {
+      "name": "Stakotra manufacturing",
+      "latitude": 48.593199,
+      "longitude": 17.791827
+    },
+    {
+      "name": "ZKW Slovakia",
+      "latitude": 48.579228,
+      "longitude": 18.187319
+    },
+    {
+      "name": "Krošlák s.r.o.",
+      "latitude": 48.556919,
+      "longitude": 17.966847
+    },
+    {
+      "name": "BONAVITA SERVIS spol. s r.o.",
+      "latitude": 48.566723,
+      "longitude": 18.175617
+    },
+    {
+      "name": "Iljin Slovakia S.r.o.",
+      "latitude": 48.834774,
+      "longitude": 18.641106
+    },
+    {
+      "name": "Duke",
+      "latitude": 48.765759,
+      "longitude": 18.621723
+    },
+    {
+      "name": "Davpek",
+      "latitude": 48.760965,
+      "longitude": 18.614725
+    },
+    {
+      "name": "Aluplast",
+      "latitude": 48.759892,
+      "longitude": 18.616764
+    },
+    {
+      "name": "Brose",
+      "latitude": 48.763458,
+      "longitude": 18.58919
+    },
+    {
+      "name": "Brose",
+      "latitude": 48.763144,
+      "longitude": 18.587889
+    },
+    {
+      "name": "Dobrota",
+      "latitude": 48.768689,
+      "longitude": 18.618744
+    },
+    {
+      "name": "Nestlé",
+      "latitude": 48.767912,
+      "longitude": 18.620816
+    },
+    {
+      "name": "AlfaPlast",
+      "latitude": 48.769914,
+      "longitude": 18.616392
+    },
+    {
+      "name": "Vojenský opravárenský podnik Nováky",
+      "latitude": 48.739123,
+      "longitude": 18.54665
+    },
+    {
+      "name": "HALL C - VAŠA s.r.o. (production Carcoustics Slovakia Nováky s.r.o.)",
+      "latitude": 48.725369,
+      "longitude": 18.555365
+    },
+    {
+      "name": "HALL D - VAŠA s.r.o. (production Carcoustics Slovakia Nováky s.r.o.)",
+      "latitude": 48.725899,
+      "longitude": 18.553875
+    },
+    {
+      "name": "HALL E1 a E2 - VAŠA s.r.o. (production Carcoustics Slovakia Nováky s.r.o.)",
+      "latitude": 48.723987,
+      "longitude": 18.557488
+    },
+    {
+      "name": "Gewis Slovakia",
+      "latitude": 48.767644,
+      "longitude": 18.645
+    },
+    {
+      "name": "Baňa Handlová",
+      "latitude": 48.725064,
+      "longitude": 18.749392
+    },
+    {
+      "name": "AGRO RYBIA FARMA",
+      "latitude": 48.72263,
+      "longitude": 18.749489
+    },
+    {
+      "name": "Remeselný pivovar BANÍK",
+      "latitude": 48.720099,
+      "longitude": 18.7608
+    },
+    {
+      "name": "Alusolid",
+      "latitude": 48.728074,
+      "longitude": 18.750428
+    },
+    {
+      "name": "ŽP a.s.",
+      "latitude": 48.810705,
+      "longitude": 19.530524
+    },
+    {
+      "name": "ŽP a.s.",
+      "latitude": 48.811392,
+      "longitude": 19.529759
+    },
+    {
+      "name": "Grand Power",
+      "latitude": 48.757451,
+      "longitude": 19.252491
+    },
+    {
+      "name": "Azeta",
+      "latitude": 48.708574,
+      "longitude": 19.142479
+    },
+    {
+      "name": "ZAPA beton SK s.r.o.",
+      "latitude": 48.739553,
+      "longitude": 19.178685
+    },
+    {
+      "name": "Pivovar Gran",
+      "latitude": 48.738245,
+      "longitude": 19.173219
+    },
+    {
+      "name": "Zlieváreň Hronec",
+      "latitude": 48.798833,
+      "longitude": 19.578415
+    },
+    {
+      "name": "Modeláreň, s.r.o.",
+      "latitude": 48.798898,
+      "longitude": 19.58042
+    },
+    {
+      "name": "Omega Metal",
+      "latitude": 48.630061,
+      "longitude": 18.368286
+    },
+    {
+      "name": "Velux - PBC-SK",
+      "latitude": 48.625215,
+      "longitude": 18.332489
+    },
+    {
+      "name": "Medline",
+      "latitude": 48.628187,
+      "longitude": 18.332171
+    },
+    {
+      "name": "Richter",
+      "latitude": 48.629226,
+      "longitude": 18.373707
+    },
+    {
+      "name": "SOHLED",
+      "latitude": 48.629668,
+      "longitude": 18.373599
+    },
+    {
+      "name": "Moneta",
+      "latitude": 48.630989,
+      "longitude": 18.379815
+    },
+    {
+      "name": "ASSMANN WSW components",
+      "latitude": 48.631731,
+      "longitude": 18.381494
+    },
+    {
+      "name": "Kovomont",
+      "latitude": 48.632287,
+      "longitude": 18.381143
+    },
+    {
+      "name": "VIPO",
+      "latitude": 48.631245,
+      "longitude": 18.378517
+    },
+    {
+      "name": "Wintoperk",
+      "latitude": 48.631707,
+      "longitude": 18.376656
+    },
+    {
+      "name": "MicroStep",
+      "latitude": 48.630779,
+      "longitude": 18.369536
+    },
+    {
+      "name": "RBR Beton,a.s.",
+      "latitude": 48.575385,
+      "longitude": 18.866676
+    },
+    {
+      "name": "Remeslo",
+      "latitude": 48.56777,
+      "longitude": 18.853134
+    },
+    {
+      "name": "KID Sealing Solutions",
+      "latitude": 48.574552,
+      "longitude": 18.866658
+    },
+    {
+      "name": "RBR Beton ,a.s.",
+      "latitude": 48.492181,
+      "longitude": 18.728011
+    },
+    {
+      "name": "Shredder Technology s.r.o.",
+      "latitude": 48.473484,
+      "longitude": 18.720316
+    },
+    {
+      "name": "DREVSTAV SLOVAKIA Ltd.",
+      "latitude": 48.473074,
+      "longitude": 18.720784
+    },
+    {
+      "name": "Begbie",
+      "latitude": 48.560917,
+      "longitude": 19.028567
+    },
+    {
+      "name": "RBR Beton ,a.s.",
+      "latitude": 48.562976,
+      "longitude": 19.10847
+    },
+    {
+      "name": "Bryndziareň a syráreň",
+      "latitude": 48.560659,
+      "longitude": 19.257953
+    },
+    {
+      "name": "Bapo Detva",
+      "latitude": 48.537702,
+      "longitude": 19.359509
+    },
+    {
+      "name": "KK-Agra s.r.o.",
+      "latitude": 48.420295,
+      "longitude": 16.996443
+    },
+    {
+      "name": "Ideal Automotive Malacky",
+      "latitude": 48.422385,
+      "longitude": 17.034095
+    },
+    {
+      "name": "IAC",
+      "latitude": 48.350761,
+      "longitude": 17.027637
+    },
+    {
+      "name": "M-Cells Batteries",
+      "latitude": 48.358842,
+      "longitude": 17.084536
+    },
+    {
+      "name": "Sessler",
+      "latitude": 48.388705,
+      "longitude": 17.576556
+    },
+    {
+      "name": "Volkswagen Slovakia a. s.",
+      "latitude": 48.233748,
+      "longitude": 16.988959
+    },
+    {
+      "name": "H6",
+      "latitude": 48.233545,
+      "longitude": 16.989013
+    },
+    {
+      "name": "Karosáreň H4",
+      "latitude": 48.229379,
+      "longitude": 16.9922
+    },
+    {
+      "name": "H9",
+      "latitude": 48.240327,
+      "longitude": 16.983131
+    },
+    {
+      "name": "Logistika H1",
+      "latitude": 48.228405,
+      "longitude": 16.989161
+    },
+    {
+      "name": "H8",
+      "latitude": 48.236709,
+      "longitude": 16.986226
+    },
+    {
+      "name": "Pilotná hala H5",
+      "latitude": 48.232708,
+      "longitude": 16.991585
+    },
+    {
+      "name": "Lisovňa H7",
+      "latitude": 48.23363,
+      "longitude": 16.992826
+    },
+    {
+      "name": "Karosáreň H4a",
+      "latitude": 48.230483,
+      "longitude": 16.994393
+    },
+    {
+      "name": "HP Pelzer Automotive",
+      "latitude": 48.227053,
+      "longitude": 16.973641
+    },
+    {
+      "name": "H3A",
+      "latitude": 48.236471,
+      "longitude": 16.977113
+    },
+    {
+      "name": "H7b",
+      "latitude": 48.233063,
+      "longitude": 16.994904
+    },
+    {
+      "name": "H7d",
+      "latitude": 48.234556,
+      "longitude": 16.993274
+    },
+    {
+      "name": "H7c",
+      "latitude": 48.234387,
+      "longitude": 16.994617
+    },
+    {
+      "name": "H3",
+      "latitude": 48.236141,
+      "longitude": 16.983188
+    },
+    {
+      "name": "Wertheim Production s.r.o.",
+      "latitude": 48.326302,
+      "longitude": 17.314157
+    },
+    {
+      "name": "KNOTT",
+      "latitude": 48.324812,
+      "longitude": 17.317974
+    },
+    {
+      "name": "Modranská ľudová majolika",
+      "latitude": 48.326813,
+      "longitude": 17.316056
+    },
+    {
+      "name": "Pongratz",
+      "latitude": 48.325903,
+      "longitude": 17.319606
+    },
+    {
+      "name": "TAMAC",
+      "latitude": 48.292813,
+      "longitude": 17.3055
+    },
+    {
+      "name": "Novplasta",
+      "latitude": 48.288125,
+      "longitude": 17.372367
+    },
+    {
+      "name": "Inex - Mrva",
+      "latitude": 48.278821,
+      "longitude": 17.551715
+    },
+    {
+      "name": "Timberman",
+      "latitude": 48.229705,
+      "longitude": 17.446122
+    },
+    {
+      "name": "Faurecia",
+      "latitude": 48.431952,
+      "longitude": 17.784135
+    },
+    {
+      "name": "Plastic Omnium",
+      "latitude": 48.431056,
+      "longitude": 17.783277
+    },
+    {
+      "name": "AGROFINAL spol. s r. o. - MISTRAL komponenty",
+      "latitude": 48.434319,
+      "longitude": 17.766403
+    },
+    {
+      "name": "AGROFINAL, spol. s r. o. - hutný sklad",
+      "latitude": 48.43381,
+      "longitude": 17.767151
+    },
+    {
+      "name": "Nero",
+      "latitude": 48.433219,
+      "longitude": 17.811186
+    },
+    {
+      "name": "Pleso",
+      "latitude": 48.424367,
+      "longitude": 17.790253
+    },
+    {
+      "name": "Othua",
+      "latitude": 48.381894,
+      "longitude": 17.590444
+    },
+    {
+      "name": "Ceva Logistics",
+      "latitude": 48.356527,
+      "longitude": 17.640264
+    },
+    {
+      "name": "Stellantis Slovakia",
+      "latitude": 48.362146,
+      "longitude": 17.627056
+    },
+    {
+      "name": "Stellantis Slovakia",
+      "latitude": 48.361771,
+      "longitude": 17.626582
+    },
+    {
+      "name": "Berec",
+      "latitude": 48.40279,
+      "longitude": 18.080508
+    },
+    {
+      "name": "Zovos-Eko",
+      "latitude": 48.396845,
+      "longitude": 18.002715
+    },
+    {
+      "name": "Jaguar Land Rover",
+      "latitude": 48.347379,
+      "longitude": 18.044226
+    },
+    {
+      "name": "Silfox",
+      "latitude": 48.325163,
+      "longitude": 18.031734
+    },
+    {
+      "name": "LB Slovakia Plastics s.r.o.",
+      "latitude": 48.329499,
+      "longitude": 18.061551
+    },
+    {
+      "name": "Quadrant Plastic",
+      "latitude": 48.330078,
+      "longitude": 18.057803
+    },
+    {
+      "name": "GU Slovensko",
+      "latitude": 48.334589,
+      "longitude": 18.05305
+    },
+    {
+      "name": "Marel Slovakia",
+      "latitude": 48.336228,
+      "longitude": 18.060496
+    },
+    {
+      "name": "Horecup",
+      "latitude": 48.335242,
+      "longitude": 18.057255
+    },
+    {
+      "name": "Jasplastik",
+      "latitude": 48.332692,
+      "longitude": 18.055305
+    },
+    {
+      "name": "SMRC",
+      "latitude": 48.341282,
+      "longitude": 18.064252
+    },
+    {
+      "name": "Marel Slovakia s.r.o.",
+      "latitude": 48.336602,
+      "longitude": 18.062929
+    },
+    {
+      "name": "Ernst Keller Slovakia s.r.o.",
+      "latitude": 48.337912,
+      "longitude": 18.062308
+    },
+    {
+      "name": "Udenco",
+      "latitude": 48.337937,
+      "longitude": 18.065266
+    },
+    {
+      "name": "G-TEKT Slovakia",
+      "latitude": 48.333077,
+      "longitude": 18.057838
+    },
+    {
+      "name": "KG-Bau s.r.o",
+      "latitude": 48.332857,
+      "longitude": 18.049697
+    },
+    {
+      "name": "ArcelorMittal Gonvarri Nitra",
+      "latitude": 48.333616,
+      "longitude": 18.046589
+    },
+    {
+      "name": "Gestamp Nitra",
+      "latitude": 48.335492,
+      "longitude": 18.044867
+    },
+    {
+      "name": "Foxconn Slovakia",
+      "latitude": 48.325245,
+      "longitude": 18.050929
+    },
+    {
+      "name": "Agro Tami",
+      "latitude": 48.291092,
+      "longitude": 18.078706
+    },
+    {
+      "name": "Nitrasklo",
+      "latitude": 48.317799,
+      "longitude": 18.113789
+    },
+    {
+      "name": "Plastika, a.s.",
+      "latitude": 48.266408,
+      "longitude": 18.101797
+    },
+    {
+      "name": "Ribe Slovakia",
+      "latitude": 48.268771,
+      "longitude": 18.085661
+    },
+    {
+      "name": "Sodecia Matador Nitra",
+      "latitude": 48.260466,
+      "longitude": 18.104197
+    },
+    {
+      "name": "Proma",
+      "latitude": 48.278682,
+      "longitude": 18.091033
+    },
+    {
+      "name": "Muehlbauer Technologies s.r.o.",
+      "latitude": 48.25642,
+      "longitude": 18.109224
+    },
+    {
+      "name": "Aeropro s.r.o",
+      "latitude": 48.279054,
+      "longitude": 18.13715
+    },
+    {
+      "name": "Bramac",
+      "latitude": 48.234972,
+      "longitude": 18.114794
+    },
+    {
+      "name": "Low & Bonar Slovakia a.s.",
+      "latitude": 48.24868,
+      "longitude": 18.112453
+    },
+    {
+      "name": "BIONT, a.s.",
+      "latitude": 48.168027,
+      "longitude": 17.043575
+    },
+    {
+      "name": "RIMON",
+      "latitude": 48.170881,
+      "longitude": 17.151662
+    },
+    {
+      "name": "Bastia",
+      "latitude": 48.177427,
+      "longitude": 17.165137
+    },
+    {
+      "name": "Brightpick Innovation Hub",
+      "latitude": 48.143408,
+      "longitude": 17.140617
+    },
+    {
+      "name": "CauCau CNC Machines - výroba",
+      "latitude": 48.131398,
+      "longitude": 17.223236
+    },
+    {
+      "name": "CauCau CNC Machines - showroom",
+      "latitude": 48.131462,
+      "longitude": 17.223397
+    },
+    {
+      "name": "FERONA Slovakia",
+      "latitude": 48.133028,
+      "longitude": 17.153482
+    },
+    {
+      "name": "RAPID IS",
+      "latitude": 48.106152,
+      "longitude": 17.147855
+    },
+    {
+      "name": "Biometrix",
+      "latitude": 48.028119,
+      "longitude": 17.318716
+    },
+    {
+      "name": "Arthesys",
+      "latitude": 48.028548,
+      "longitude": 17.319315
+    },
+    {
+      "name": "Sky Medical",
+      "latitude": 48.029945,
+      "longitude": 17.322085
+    },
+    {
+      "name": "Eltra Slovakia",
+      "latitude": 48.029525,
+      "longitude": 17.320631
+    },
+    {
+      "name": "LIBERDA Sensortechnik",
+      "latitude": 48.029795,
+      "longitude": 17.320475
+    },
+    {
+      "name": "Eas Europe",
+      "latitude": 48.028769,
+      "longitude": 17.320534
+    },
+    {
+      "name": "Mevis Slovakia",
+      "latitude": 48.031858,
+      "longitude": 17.32488
+    },
+    {
+      "name": "RBR Beton ,a.s.",
+      "latitude": 48.204693,
+      "longitude": 17.770342
+    },
+    {
+      "name": "MICROWELL",
+      "latitude": 48.1426,
+      "longitude": 17.859744
+    },
+    {
+      "name": "POLLÁK ŠAĽA s.r.o.",
+      "latitude": 48.142953,
+      "longitude": 17.863559
+    },
+    {
+      "name": "Micropix",
+      "latitude": 48.143468,
+      "longitude": 17.862588
+    },
+    {
+      "name": "Otolift Stairlifts production facility",
+      "latitude": 48.060963,
+      "longitude": 18.093121
+    },
+    {
+      "name": "Wöhrle Immobilien",
+      "latitude": 48.08993,
+      "longitude": 18.16805
+    },
+    {
+      "name": "KURUC-COMPANY",
+      "latitude": 48.085834,
+      "longitude": 18.163128
+    },
+    {
+      "name": "Roffelsen Plastics Slovakia",
+      "latitude": 48.08523,
+      "longitude": 18.161382
+    },
+    {
+      "name": "ARTEPA",
+      "latitude": 48.086193,
+      "longitude": 18.161733
+    },
+    {
+      "name": "Bang Joo Electronics Slovakia",
+      "latitude": 48.08752,
+      "longitude": 18.194132
+    },
+    {
+      "name": "Biebighäuser Slovakia",
+      "latitude": 48.085818,
+      "longitude": 18.19433
+    },
+    {
+      "name": "ELMONT NB",
+      "latitude": 48.426102,
+      "longitude": 18.629528
+    },
+    {
+      "name": "FERROPLAST",
+      "latitude": 48.38474,
+      "longitude": 18.395186
+    },
+    {
+      "name": "Tatravagónka Tlmače",
+      "latitude": 48.291158,
+      "longitude": 18.542583
+    },
+    {
+      "name": "Slovenské energetické strojárne",
+      "latitude": 48.290247,
+      "longitude": 18.543434
+    },
+    {
+      "name": "Tatravagónka Tlmače",
+      "latitude": 48.291599,
+      "longitude": 18.54337
+    },
+    {
+      "name": "Sodecia Matador Vráble",
+      "latitude": 48.254059,
+      "longitude": 18.297321
+    },
+    {
+      "name": "Betonáreň VIABETON, s.r.o.",
+      "latitude": 48.327512,
+      "longitude": 19.061725
+    },
+    {
+      "name": "Warehouse VIAKORP, s.r.o.",
+      "latitude": 48.326919,
+      "longitude": 19.061669
+    },
+    {
+      "name": "RBR Beton,a.s.",
+      "latitude": 48.31527,
+      "longitude": 19.665589
+    },
+    {
+      "name": "Levitex",
+      "latitude": 48.205024,
+      "longitude": 18.598929
+    },
+    {
+      "name": "KTS Kumpers Textil Slovensko",
+      "latitude": 48.204479,
+      "longitude": 18.599744
+    },
+    {
+      "name": "Oppermann",
+      "latitude": 48.20311,
+      "longitude": 18.601028
+    },
+    {
+      "name": "ZF Sachs Slovakia",
+      "latitude": 48.203282,
+      "longitude": 18.598828
+    },
+    {
+      "name": "Novochema",
+      "latitude": 48.219249,
+      "longitude": 18.632002
+    },
+    {
+      "name": "ANDRITZ Kufferath",
+      "latitude": 48.202492,
+      "longitude": 18.603517
+    },
+    {
+      "name": "Spilatex",
+      "latitude": 48.202128,
+      "longitude": 18.602418
+    },
+    {
+      "name": "Ekofluid",
+      "latitude": 48.200775,
+      "longitude": 18.600853
+    },
+    {
+      "name": "de Miclén a.s.",
+      "latitude": 48.18677,
+      "longitude": 18.607235
+    },
+    {
+      "name": "Cloetta",
+      "latitude": 48.19119,
+      "longitude": 18.602344
+    },
+    {
+      "name": "Furni Finish spol s.r.o",
+      "latitude": 48.165537,
+      "longitude": 19.359883
+    },
+    {
+      "name": "Vysoká pec Karol",
+      "latitude": 48.796447,
+      "longitude": 20.384248
+    },
+    {
+      "name": "Kolonial Košice, a.s.",
+      "latitude": 48.696849,
+      "longitude": 20.907268
+    },
+    {
+      "name": "Cestné a stavebné mechanizmy",
+      "latitude": 48.670678,
+      "longitude": 19.943917
+    },
+    {
+      "name": "Výroba sklotextilnej mriežky",
+      "latitude": 48.676548,
+      "longitude": 20.125532
+    },
+    {
+      "name": "Mayser",
+      "latitude": 48.644778,
+      "longitude": 20.522343
+    },
+    {
+      "name": "Múštáreň Sady Vihorlatu",
+      "latitude": 48.817544,
+      "longitude": 22.30108
+    },
+    {
+      "name": "Zagro",
+      "latitude": 48.755172,
+      "longitude": 21.930078
+    },
+    {
+      "name": "Gronbach k.s.",
+      "latitude": 48.735386,
+      "longitude": 21.912111
+    },
+    {
+      "name": "J.E.S. s.r.o.",
+      "latitude": 48.73998,
+      "longitude": 21.901397
+    },
+    {
+      "name": "Sladovňa, a.s.",
+      "latitude": 48.740672,
+      "longitude": 21.896574
+    },
+    {
+      "name": "Plodoovoč-Contexo s.r.o.",
+      "latitude": 48.740171,
+      "longitude": 21.894931
+    },
+    {
+      "name": "Zagro",
+      "latitude": 48.69722,
+      "longitude": 21.798626
+    },
+    {
+      "name": "HI-Technology Mouldings Slovakia s.r.o.",
+      "latitude": 48.677752,
+      "longitude": 21.231726
+    },
+    {
+      "name": "Howe",
+      "latitude": 48.678682,
+      "longitude": 21.234428
+    },
+    {
+      "name": "Shenzhen Uniconn",
+      "latitude": 48.678334,
+      "longitude": 21.23589
+    },
+    {
+      "name": "Steelcon Slovakia",
+      "latitude": 48.682724,
+      "longitude": 21.273053
+    },
+    {
+      "name": "Premac",
+      "latitude": 48.675558,
+      "longitude": 21.292496
+    },
+    {
+      "name": "Elektroconnect s.r.o",
+      "latitude": 48.635474,
+      "longitude": 21.714213
+    },
+    {
+      "name": "Šamotka",
+      "latitude": 48.410763,
+      "longitude": 19.87511
+    },
+    {
+      "name": "Žiaromat",
+      "latitude": 48.398042,
+      "longitude": 19.706252
+    },
+    {
+      "name": "Družstvo Kalinovčan",
+      "latitude": 48.384269,
+      "longitude": 19.709135
+    },
+    {
+      "name": "Riso",
+      "latitude": 48.383809,
+      "longitude": 20.010158
+    },
+    {
+      "name": "Technické Služby Mesta",
+      "latitude": 48.383138,
+      "longitude": 20.009965
+    },
+    {
+      "name": "Gemerská mliekareň",
+      "latitude": 48.38093,
+      "longitude": 20.020944
+    },
+    {
+      "name": "BUDIŠ a. s.",
+      "latitude": 48.426004,
+      "longitude": 20.318104
+    },
+    {
+      "name": "EGO Slovakia",
+      "latitude": 48.35978,
+      "longitude": 21.807163
+    },
+    {
+      "name": "Stoxh",
+      "latitude": 47.988613,
+      "longitude": 17.595107
+    },
+    {
+      "name": "c2i",
+      "latitude": 47.988116,
+      "longitude": 17.593979
+    },
+    {
+      "name": "Arpád Both SHR",
+      "latitude": 47.873168,
+      "longitude": 17.652143
+    },
+    {
+      "name": "Cikautxo SK",
+      "latitude": 47.976959,
+      "longitude": 18.186729
+    },
+    {
+      "name": "Novofruct",
+      "latitude": 47.970407,
+      "longitude": 18.183446
+    },
+    {
+      "name": "Nuritech",
+      "latitude": 47.902273,
+      "longitude": 18.203259
+    },
+    {
+      "name": "Rieker",
+      "latitude": 47.770065,
+      "longitude": 18.097969
+    },
+    {
+      "name": "Silcotec Europe",
+      "latitude": 47.770859,
+      "longitude": 18.104273
+    },
+    {
+      "name": "Smurfit Kappa Obaly Štúrovo",
+      "latitude": 47.784896,
+      "longitude": 18.698993
+    }
+  ],
+  "meta": {
+    "title": "Priemyselné závody - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (man_made=works). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84. Obsahuje 362 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Priemyselné závody | ListBase",
+    "seo_description": "Stiahnuť Priemyselné závody — 362 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 362 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

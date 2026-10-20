@@ -1,0 +1,476 @@
+{
+  "id": "sk-puchov-obce",
+  "name": "Obce v okrese Púchov",
+  "title": "Obce v okrese Púchov",
+  "description": "Všetky obce (municipality) v okrese Púchov, Trenčiansky kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 119,
+      "fullname": "Beluša",
+      "shortname": "Beluša",
+      "zip": "018 61",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 145,
+      "fullname": "Bezdedov - Vieska",
+      "shortname": "Bezdedov - Vieska",
+      "zip": "020 01",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 540,
+      "fullname": "Dešná",
+      "shortname": "Dešná",
+      "zip": "020 54",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 590,
+      "fullname": "Dohňany",
+      "shortname": "Dohňany",
+      "zip": "020 51",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 598,
+      "fullname": "Dolinky",
+      "shortname": "Dolinky",
+      "zip": "020 53",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 600,
+      "fullname": "Dolná Breznica",
+      "shortname": "Dolná Breznica",
+      "zip": "020 61",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 627,
+      "fullname": "Dolné Kočkovce",
+      "shortname": "Dolné Kočkovce",
+      "zip": "020 01",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 713,
+      "fullname": "Dubková",
+      "shortname": "Dubková",
+      "zip": "020 55",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 814,
+      "fullname": "Gaškovce",
+      "shortname": "Gaškovce",
+      "zip": "020 53",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 942,
+      "fullname": "Hloža",
+      "shortname": "Hloža",
+      "zip": "018 61",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 970,
+      "fullname": "Horenická Hôrka",
+      "shortname": "Horenická Hôrka",
+      "zip": "020 61",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 972,
+      "fullname": "Horná Breznica",
+      "shortname": "Horná Breznica",
+      "zip": "020 61",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1005,
+      "fullname": "Horné Kočkovce",
+      "shortname": "Horné Kočkovce",
+      "zip": "020 01",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1054,
+      "fullname": "Horovce",
+      "shortname": "Horovce",
+      "zip": "020 62",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1065,
+      "fullname": "Hoštiná",
+      "shortname": "Hoštiná",
+      "zip": "020 01",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1077,
+      "fullname": "Hrabovka",
+      "shortname": "Hrabovka",
+      "zip": "020 01",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1207,
+      "fullname": "Ihrište",
+      "shortname": "Ihrište",
+      "zip": "020 01",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1744,
+      "fullname": "Kvašov",
+      "shortname": "Kvašov",
+      "zip": "020 62",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1794,
+      "fullname": "Lazy pod Makytou",
+      "shortname": "Lazy pod Makytou",
+      "zip": "020 55",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1797,
+      "fullname": "Lednica",
+      "shortname": "Lednica",
+      "zip": "020 63",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1798,
+      "fullname": "Lednické Rovne",
+      "shortname": "Lednické Rovne",
+      "zip": "020 61",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1988,
+      "fullname": "Lysá pod Makytou",
+      "shortname": "Lysá pod Makytou",
+      "zip": "020 54",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1975,
+      "fullname": "Lúky",
+      "shortname": "Lúky",
+      "zip": "020 53",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2145,
+      "fullname": "Medné",
+      "shortname": "Medné",
+      "zip": "020 61",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2169,
+      "fullname": "Mestečko",
+      "shortname": "Mestečko",
+      "zip": "020 52",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2241,
+      "fullname": "Mojtín",
+      "shortname": "Mojtín",
+      "zip": "020 72",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2256,
+      "fullname": "Mostište",
+      "shortname": "Mostište",
+      "zip": "020 51",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2225,
+      "fullname": "Močiare",
+      "shortname": "Močiare",
+      "zip": "020 62",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2332,
+      "fullname": "Nimnica",
+      "shortname": "Nimnica",
+      "zip": "020 71",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2394,
+      "fullname": "Nosice",
+      "shortname": "Nosice",
+      "zip": "020 01",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2588,
+      "fullname": "Pasiečka",
+      "shortname": "Pasiečka",
+      "zip": "020 53",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2694,
+      "fullname": "Podhorie",
+      "shortname": "Podhorie",
+      "zip": "018 61",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2870,
+      "fullname": "Púchov",
+      "shortname": "Púchov",
+      "zip": "020 01",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3310,
+      "fullname": "Strelenka",
+      "shortname": "Strelenka",
+      "zip": "020 54",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3315,
+      "fullname": "Streženice",
+      "shortname": "Streženice",
+      "zip": "020 01",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3859,
+      "fullname": "Vieska - Bezdedov",
+      "shortname": "Vieska - Bezdedov",
+      "zip": "020 01",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3878,
+      "fullname": "Visolaje",
+      "shortname": "Visolaje",
+      "zip": "018 61",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3961,
+      "fullname": "Vydrná",
+      "shortname": "Vydrná",
+      "zip": "020 53",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 4094,
+      "fullname": "Zbora",
+      "shortname": "Zbora",
+      "zip": "020 51",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 4148,
+      "fullname": "Zubák",
+      "shortname": "Zubák",
+      "zip": "020 64",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 4064,
+      "fullname": "Záriečie",
+      "shortname": "Záriečie",
+      "zip": "020 52",
+      "district_id": 51,
+      "okres": "Púchov",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Púchov - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Púchov, Trenčiansky kraj — s PSČ a kódom okresu. Obsahuje 41 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Púchov | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Púchov — 41 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 41 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

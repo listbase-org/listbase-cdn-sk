@@ -1,0 +1,931 @@
+{
+  "id": "sk-osm-divadla",
+  "name": "Slovenské divadlá (OSM)",
+  "title": "Slovenské divadlá (OSM)",
+  "description": "Zoznam pomenovaných divadiel na Slovensku (amenity=theatre) z OpenStreetMap.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 178,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Amfiko",
+      "latitude": 49.06238,
+      "longitude": 18.928018
+    },
+    {
+      "name": "Amfiteater Hostie",
+      "latitude": 48.457433,
+      "longitude": 18.448433
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 49.310719,
+      "longitude": 18.746278
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.288758,
+      "longitude": 17.74459
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.299962,
+      "longitude": 18.773616
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.375046,
+      "longitude": 17.593395
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.38546,
+      "longitude": 20.001569
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.400526,
+      "longitude": 18.857809
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.406837,
+      "longitude": 18.858088
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.461734,
+      "longitude": 18.911915
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.481752,
+      "longitude": 17.261348
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.49734,
+      "longitude": 18.924439
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.528112,
+      "longitude": 18.86233
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.562961,
+      "longitude": 20.468835
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.581239,
+      "longitude": 21.385065
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.60768,
+      "longitude": 21.326842
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.649545,
+      "longitude": 18.582062
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.659915,
+      "longitude": 18.634339
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.727127,
+      "longitude": 21.238455
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.739551,
+      "longitude": 18.366445
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.740994,
+      "longitude": 19.137427
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.765374,
+      "longitude": 21.89947
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.798371,
+      "longitude": 21.973592
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.831879,
+      "longitude": 18.064616
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.858801,
+      "longitude": 20.933485
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.930361,
+      "longitude": 18.934963
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.964216,
+      "longitude": 20.090623
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 48.999038,
+      "longitude": 20.639592
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 49.029287,
+      "longitude": 20.592377
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 49.053293,
+      "longitude": 20.296994
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 49.130377,
+      "longitude": 19.397083
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 49.14549,
+      "longitude": 20.435709
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 49.274013,
+      "longitude": 21.899422
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 49.290058,
+      "longitude": 21.2749
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 49.305914,
+      "longitude": 21.559492
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 49.347072,
+      "longitude": 18.794977
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 49.401637,
+      "longitude": 18.627585
+    },
+    {
+      "name": "Amfiteáter",
+      "latitude": 49.497999,
+      "longitude": 18.894312
+    },
+    {
+      "name": "Amfiteáter Bučkovec",
+      "latitude": 48.847577,
+      "longitude": 17.760188
+    },
+    {
+      "name": "Amfiteáter Humenné",
+      "latitude": 48.938878,
+      "longitude": 21.910276
+    },
+    {
+      "name": "Amfiteáter Kamenný mlyn",
+      "latitude": 48.367399,
+      "longitude": 17.549757
+    },
+    {
+      "name": "Amfiteáter Lesopark Prievidza",
+      "latitude": 48.782802,
+      "longitude": 18.656217
+    },
+    {
+      "name": "Amfiteáter Nad Bôrami",
+      "latitude": 49.254525,
+      "longitude": 19.045187
+    },
+    {
+      "name": "Amfiteáter Prešov",
+      "latitude": 48.993747,
+      "longitude": 21.255265
+    },
+    {
+      "name": "Amfiteáter Senec",
+      "latitude": 48.218236,
+      "longitude": 17.408559
+    },
+    {
+      "name": "Amfiteáter Trnovce",
+      "latitude": 48.773522,
+      "longitude": 17.556329
+    },
+    {
+      "name": "Amfiteáter Vernár",
+      "latitude": 48.916478,
+      "longitude": 20.26591
+    },
+    {
+      "name": "Amfiteáter Zámocká záhrada",
+      "latitude": 48.422483,
+      "longitude": 17.788433
+    },
+    {
+      "name": "Amfiteáter v Knižkovej doline",
+      "latitude": 48.214207,
+      "longitude": 17.144859
+    },
+    {
+      "name": "Amfiteáter v Panskej záhrade",
+      "latitude": 49.018453,
+      "longitude": 21.279445
+    },
+    {
+      "name": "Amfiteáter v Pažitiach",
+      "latitude": 49.05597,
+      "longitude": 19.388747
+    },
+    {
+      "name": "Amfiteáter Šaľa",
+      "latitude": 48.152253,
+      "longitude": 17.877992
+    },
+    {
+      "name": "Amfiteáter Železná studnička",
+      "latitude": 48.177691,
+      "longitude": 17.074083
+    },
+    {
+      "name": "Amfiteáter Žihárec",
+      "latitude": 48.073012,
+      "longitude": 17.878468
+    },
+    {
+      "name": "Amfiteátr",
+      "latitude": 49.404697,
+      "longitude": 19.483411
+    },
+    {
+      "name": "Amfiteátrum",
+      "latitude": 48.423438,
+      "longitude": 21.973819
+    },
+    {
+      "name": "Amfík",
+      "latitude": 48.193929,
+      "longitude": 17.739169
+    },
+    {
+      "name": "Amphitheater",
+      "latitude": 48.274,
+      "longitude": 17.04171
+    },
+    {
+      "name": "Anfiteáter",
+      "latitude": 49.020869,
+      "longitude": 19.718391
+    },
+    {
+      "name": "ArtScéna SKDK",
+      "latitude": 48.987205,
+      "longitude": 21.265471
+    },
+    {
+      "name": "Aréna",
+      "latitude": 48.135881,
+      "longitude": 17.114157
+    },
+    {
+      "name": "Ateliér Babylon",
+      "latitude": 48.145386,
+      "longitude": 17.112593
+    },
+    {
+      "name": "Barati Attila rendezvénytér",
+      "latitude": 48.328431,
+      "longitude": 21.82807
+    },
+    {
+      "name": "BlackBox",
+      "latitude": 48.142129,
+      "longitude": 17.111987
+    },
+    {
+      "name": "Bratislavské bábkové divadlo",
+      "latitude": 48.145277,
+      "longitude": 17.117962
+    },
+    {
+      "name": "Bratislavský Gašparko",
+      "latitude": 48.141566,
+      "longitude": 17.105153
+    },
+    {
+      "name": "Bábkové divadlo",
+      "latitude": 48.719324,
+      "longitude": 21.254137
+    },
+    {
+      "name": "Bábkové divadlo BABADLO",
+      "latitude": 48.978842,
+      "longitude": 21.272564
+    },
+    {
+      "name": "Bábkové divadlo na Rázcestí",
+      "latitude": 48.739087,
+      "longitude": 19.152089
+    },
+    {
+      "name": "Bábkové divadlo Žilina",
+      "latitude": 49.22434,
+      "longitude": 18.736192
+    },
+    {
+      "name": "Bývalý amfiteáter pod Krivínom",
+      "latitude": 48.324344,
+      "longitude": 18.550697
+    },
+    {
+      "name": "Castle Art House",
+      "latitude": 48.14476,
+      "longitude": 17.102303
+    },
+    {
+      "name": "Commedia",
+      "latitude": 49.066298,
+      "longitude": 20.315928
+    },
+    {
+      "name": "Crocus Liberi",
+      "latitude": 48.974425,
+      "longitude": 21.262806
+    },
+    {
+      "name": "DIVADLO NA PERÓNE",
+      "latitude": 48.720819,
+      "longitude": 21.260705
+    },
+    {
+      "name": "DIVADLO PORTÁL (komorné divadlo bez opony)",
+      "latitude": 48.998427,
+      "longitude": 21.222458
+    },
+    {
+      "name": "Detské kočovné divadlo DRaK",
+      "latitude": 48.994602,
+      "longitude": 21.243358
+    },
+    {
+      "name": "Divadelný kabinet východňara",
+      "latitude": 49.006786,
+      "longitude": 21.223359
+    },
+    {
+      "name": "Divadielko Concordia",
+      "latitude": 48.457919,
+      "longitude": 18.897828
+    },
+    {
+      "name": "Divadlo",
+      "latitude": 48.38263,
+      "longitude": 18.396759
+    },
+    {
+      "name": "Divadlo",
+      "latitude": 49.122199,
+      "longitude": 18.32469
+    },
+    {
+      "name": "Divadlo Alexandra Duchnoviča",
+      "latitude": 48.997679,
+      "longitude": 21.237634
+    },
+    {
+      "name": "Divadlo Andreja Bagara",
+      "latitude": 48.314393,
+      "longitude": 18.089076
+    },
+    {
+      "name": "Divadlo Arteatro",
+      "latitude": 48.144084,
+      "longitude": 17.107406
+    },
+    {
+      "name": "Divadlo Astorka Korzo ´90",
+      "latitude": 48.145414,
+      "longitude": 17.109497
+    },
+    {
+      "name": "Divadlo Cassia",
+      "latitude": 48.728809,
+      "longitude": 21.258456
+    },
+    {
+      "name": "Divadlo ERB",
+      "latitude": 48.458139,
+      "longitude": 18.893483
+    },
+    {
+      "name": "Divadlo J.G. Tajovského",
+      "latitude": 48.578661,
+      "longitude": 19.127032
+    },
+    {
+      "name": "Divadlo Jonáša Záborského",
+      "latitude": 48.993877,
+      "longitude": 21.245454
+    },
+    {
+      "name": "Divadlo Jonáša Záborského - historická budova",
+      "latitude": 48.996317,
+      "longitude": 21.241825
+    },
+    {
+      "name": "Divadlo Jána Palárika",
+      "latitude": 48.377405,
+      "longitude": 17.585188
+    },
+    {
+      "name": "Divadlo K",
+      "latitude": 48.142614,
+      "longitude": 17.111903
+    },
+    {
+      "name": "Divadlo Kontra",
+      "latitude": 48.94299,
+      "longitude": 20.568907
+    },
+    {
+      "name": "Divadlo LA KOMIKA",
+      "latitude": 48.144415,
+      "longitude": 17.10658
+    },
+    {
+      "name": "Divadlo LAB",
+      "latitude": 48.145331,
+      "longitude": 17.102048
+    },
+    {
+      "name": "Divadlo P. O. Hviezdoslava",
+      "latitude": 48.143965,
+      "longitude": 17.111906
+    },
+    {
+      "name": "Divadlo PKO Čierny Orol",
+      "latitude": 48.99664,
+      "longitude": 21.242609
+    },
+    {
+      "name": "Divadlo Poprad",
+      "latitude": 49.068002,
+      "longitude": 20.281241
+    },
+    {
+      "name": "Divadlo Pôtoň",
+      "latitude": 48.287162,
+      "longitude": 18.745878
+    },
+    {
+      "name": "Divadlo VIOLA - centrum pre umenie",
+      "latitude": 48.99496,
+      "longitude": 21.241336
+    },
+    {
+      "name": "Divadlo na Sídlisku",
+      "latitude": 49.01074,
+      "longitude": 21.22626
+    },
+    {
+      "name": "Divadlo pod balkónom",
+      "latitude": 48.757062,
+      "longitude": 19.165682
+    },
+    {
+      "name": "Divadlo rodiny Švrčkových",
+      "latitude": 48.809247,
+      "longitude": 17.162047
+    },
+    {
+      "name": "Divadlo u Greškov",
+      "latitude": 48.746536,
+      "longitude": 19.071655
+    },
+    {
+      "name": "Divadlo v Stodole",
+      "latitude": 48.20429,
+      "longitude": 17.04573
+    },
+    {
+      "name": "Divadlo v stodole",
+      "latitude": 48.563037,
+      "longitude": 20.466196
+    },
+    {
+      "name": "Divadlo Štúdio tanca",
+      "latitude": 48.742755,
+      "longitude": 19.148376
+    },
+    {
+      "name": "Dolná brána",
+      "latitude": 48.718911,
+      "longitude": 21.258926
+    },
+    {
+      "name": "Drevený amfiteáter Batizovce",
+      "latitude": 49.072839,
+      "longitude": 20.186266
+    },
+    {
+      "name": "Empírové divadlo",
+      "latitude": 48.419706,
+      "longitude": 17.790159
+    },
+    {
+      "name": "F7",
+      "latitude": 48.14406,
+      "longitude": 17.107734
+    },
+    {
+      "name": "Funnylicious Theater",
+      "latitude": 48.149714,
+      "longitude": 17.11568
+    },
+    {
+      "name": "GUnaGU",
+      "latitude": 48.14412,
+      "longitude": 17.107853
+    },
+    {
+      "name": "Golf",
+      "latitude": 48.71376,
+      "longitude": 21.25591
+    },
+    {
+      "name": "Grand",
+      "latitude": 48.728476,
+      "longitude": 21.258633
+    },
+    {
+      "name": "Hudobný pavilón Holá hora",
+      "latitude": 48.99015,
+      "longitude": 21.225583
+    },
+    {
+      "name": "India",
+      "latitude": 48.713342,
+      "longitude": 21.257247
+    },
+    {
+      "name": "Janart",
+      "latitude": 48.167658,
+      "longitude": 17.142264
+    },
+    {
+      "name": "Javisko",
+      "latitude": 48.145871,
+      "longitude": 17.108531
+    },
+    {
+      "name": "Juliet",
+      "latitude": 48.714369,
+      "longitude": 21.256089
+    },
+    {
+      "name": "Jókaiho divadlo v Komárne",
+      "latitude": 47.763321,
+      "longitude": 18.126268
+    },
+    {
+      "name": "Kinočák Prešov",
+      "latitude": 48.984843,
+      "longitude": 21.236447
+    },
+    {
+      "name": "Kolo na Pažitiach",
+      "latitude": 49.043836,
+      "longitude": 19.017058
+    },
+    {
+      "name": "Kultúrny dom",
+      "latitude": 48.431378,
+      "longitude": 19.791592
+    },
+    {
+      "name": "LOĎ - Divadlo v podpalubí",
+      "latitude": 48.137212,
+      "longitude": 17.111626
+    },
+    {
+      "name": "Lesný amfiteáter",
+      "latitude": 48.754587,
+      "longitude": 20.072189
+    },
+    {
+      "name": "Letné kino Amfiteáter",
+      "latitude": 47.988377,
+      "longitude": 18.163453
+    },
+    {
+      "name": "Letný amfiteáter Dudince",
+      "latitude": 48.16554,
+      "longitude": 18.882266
+    },
+    {
+      "name": "Ludus",
+      "latitude": 48.140835,
+      "longitude": 17.127346
+    },
+    {
+      "name": "MSÚ a Divadlo",
+      "latitude": 48.861883,
+      "longitude": 18.860094
+    },
+    {
+      "name": "Malatínsky anfiteáter",
+      "latitude": 49.182162,
+      "longitude": 19.429399
+    },
+    {
+      "name": "Malá scéna",
+      "latitude": 48.723309,
+      "longitude": 21.255893
+    },
+    {
+      "name": "Malá scéna I. Krasku",
+      "latitude": 48.584209,
+      "longitude": 17.830429
+    },
+    {
+      "name": "Malá scéna STU",
+      "latitude": 48.142101,
+      "longitude": 17.119119
+    },
+    {
+      "name": "Malé pódium",
+      "latitude": 48.864128,
+      "longitude": 19.967288
+    },
+    {
+      "name": "Mestské divadlo",
+      "latitude": 49.027144,
+      "longitude": 20.58906
+    },
+    {
+      "name": "Mestské divadlo",
+      "latitude": 49.224043,
+      "longitude": 18.741281
+    },
+    {
+      "name": "Mestské divadlo ACTORES",
+      "latitude": 48.659748,
+      "longitude": 20.530779
+    },
+    {
+      "name": "Mestský amfiteáter Trebišov",
+      "latitude": 48.623399,
+      "longitude": 21.725949
+    },
+    {
+      "name": "Meteorit",
+      "latitude": 48.144058,
+      "longitude": 17.119171
+    },
+    {
+      "name": "Nová scéna",
+      "latitude": 48.149324,
+      "longitude": 17.11119
+    },
+    {
+      "name": "Nové divadlo",
+      "latitude": 48.296705,
+      "longitude": 18.068525
+    },
+    {
+      "name": "Národné divadlo Košice",
+      "latitude": 48.721735,
+      "longitude": 21.25734
+    },
+    {
+      "name": "Ochotnícke divadlo HODOČU",
+      "latitude": 48.736567,
+      "longitude": 18.168123
+    },
+    {
+      "name": "Prešov Kinematograf",
+      "latitude": 48.996136,
+      "longitude": 21.245296
+    },
+    {
+      "name": "Radošinské naivné divadlo",
+      "latitude": 48.156126,
+      "longitude": 17.140564
+    },
+    {
+      "name": "Romathan",
+      "latitude": 48.726666,
+      "longitude": 21.255992
+    },
+    {
+      "name": "Romeo",
+      "latitude": 48.714244,
+      "longitude": 21.255681
+    },
+    {
+      "name": "Rozprávkový Gašparko",
+      "latitude": 48.1078,
+      "longitude": 17.108918
+    },
+    {
+      "name": "Saloon",
+      "latitude": 48.958517,
+      "longitude": 21.237413
+    },
+    {
+      "name": "Sierra",
+      "latitude": 48.713184,
+      "longitude": 21.255964
+    },
+    {
+      "name": "Slovenská filharmónia",
+      "latitude": 48.141113,
+      "longitude": 17.109874
+    },
+    {
+      "name": "Slovenské komorné divadlo",
+      "latitude": 49.065487,
+      "longitude": 18.921559
+    },
+    {
+      "name": "Slovenské národné divadlo",
+      "latitude": 48.14138,
+      "longitude": 17.123529
+    },
+    {
+      "name": "Slovenské národné divadlo",
+      "latitude": 48.142366,
+      "longitude": 17.110129
+    },
+    {
+      "name": "Slovenský ľudový umelecký kolektív",
+      "latitude": 48.053449,
+      "longitude": 17.150276
+    },
+    {
+      "name": "Spišské divadlo",
+      "latitude": 48.942931,
+      "longitude": 20.571411
+    },
+    {
+      "name": "Stachanov",
+      "latitude": 48.621852,
+      "longitude": 20.113076
+    },
+    {
+      "name": "Staré divadlo",
+      "latitude": 48.306934,
+      "longitude": 18.084629
+    },
+    {
+      "name": "Színpad",
+      "latitude": 47.793423,
+      "longitude": 18.732952
+    },
+    {
+      "name": "Tanečné divadlo Bralen",
+      "latitude": 48.142877,
+      "longitude": 17.134424
+    },
+    {
+      "name": "Tanečné divadlo Ifjú Szivek",
+      "latitude": 48.140678,
+      "longitude": 17.109414
+    },
+    {
+      "name": "Tanečné kolo",
+      "latitude": 49.036596,
+      "longitude": 18.98406
+    },
+    {
+      "name": "Tango",
+      "latitude": 48.714009,
+      "longitude": 21.254975
+    },
+    {
+      "name": "Teatro Colorato",
+      "latitude": 48.144586,
+      "longitude": 17.108709
+    },
+    {
+      "name": "Thália",
+      "latitude": 48.717422,
+      "longitude": 21.25751
+    },
+    {
+      "name": "Ticho",
+      "latitude": 48.15339,
+      "longitude": 17.116052
+    },
+    {
+      "name": "Trojica",
+      "latitude": 48.727608,
+      "longitude": 20.402301
+    },
+    {
+      "name": "Victor",
+      "latitude": 48.714518,
+      "longitude": 21.256578
+    },
+    {
+      "name": "Whiskey",
+      "latitude": 48.713386,
+      "longitude": 21.255265
+    },
+    {
+      "name": "Záhradné kino",
+      "latitude": 48.991291,
+      "longitude": 21.244337
+    },
+    {
+      "name": "Ívery",
+      "latitude": 48.156631,
+      "longitude": 17.164776
+    },
+    {
+      "name": "Öregmalom Színtársulat",
+      "latitude": 47.732859,
+      "longitude": 18.32345
+    },
+    {
+      "name": "Študentské divadlo Déjà MY",
+      "latitude": 48.990173,
+      "longitude": 21.234195
+    },
+    {
+      "name": "Štátna opera",
+      "latitude": 48.733169,
+      "longitude": 19.146303
+    },
+    {
+      "name": "Štúdio 12",
+      "latitude": 48.14321,
+      "longitude": 17.120086
+    },
+    {
+      "name": "Štúdio A2",
+      "latitude": 48.149205,
+      "longitude": 17.115298
+    },
+    {
+      "name": "Štúdio L+S",
+      "latitude": 48.149444,
+      "longitude": 17.109558
+    }
+  ],
+  "meta": {
+    "title": "Slovenské divadlá (OSM) - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných divadiel na Slovensku (amenity=theatre) z OpenStreetMap. Obsahuje 178 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Slovenské divadlá (OSM) | ListBase",
+    "seo_description": "Stiahnuť Slovenské divadlá (OSM) — 178 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 178 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

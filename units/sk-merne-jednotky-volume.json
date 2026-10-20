@@ -1,0 +1,457 @@
+{
+  "id": "sk-merne-jednotky-volume",
+  "name": "Merné jednotky — kategória 'volume' (44)",
+  "title": "Merné jednotky — kategória 'volume' (44)",
+  "description": "Merné jednotky kategórie 'volume' z locale sk v CLDR, s názvami v slovenčine.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "skratka",
+      "label": "Skratka",
+      "type": "string"
+    },
+    {
+      "key": "uzky_tvar",
+      "label": "Uzky Tvar",
+      "type": "string"
+    },
+    {
+      "key": "vzor",
+      "label": "Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "volume-acre-foot",
+      "kategoria": "volume",
+      "nazov": "akrové stopy",
+      "skratka": "ac ft",
+      "uzky_tvar": "ac ft",
+      "vzor": "{0} akrových stôp"
+    },
+    {
+      "id": 2,
+      "unit_code": "volume-barrel",
+      "kategoria": "volume",
+      "nazov": "barely",
+      "skratka": "bbl",
+      "uzky_tvar": "bbl",
+      "vzor": "{0} barelov"
+    },
+    {
+      "id": 3,
+      "unit_code": "volume-bushel",
+      "kategoria": "volume",
+      "nazov": "bušle",
+      "skratka": "bu",
+      "uzky_tvar": "bu",
+      "vzor": "{0} bušlov"
+    },
+    {
+      "id": 4,
+      "unit_code": "volume-centiliter",
+      "kategoria": "volume",
+      "nazov": "centilitre",
+      "skratka": "cl",
+      "uzky_tvar": "cl",
+      "vzor": "{0} centilitrov"
+    },
+    {
+      "id": 5,
+      "unit_code": "volume-cubic-centimeter",
+      "kategoria": "volume",
+      "nazov": "kubické centimetre",
+      "skratka": "cm³",
+      "uzky_tvar": "cm³",
+      "vzor": "{0} kubických centimetrov"
+    },
+    {
+      "id": 6,
+      "unit_code": "volume-cubic-foot",
+      "kategoria": "volume",
+      "nazov": "kubické stopy",
+      "skratka": "ft³",
+      "uzky_tvar": "ft³",
+      "vzor": "{0} kubických stôp"
+    },
+    {
+      "id": 7,
+      "unit_code": "volume-cubic-inch",
+      "kategoria": "volume",
+      "nazov": "kubické palce",
+      "skratka": "in³",
+      "uzky_tvar": "in³",
+      "vzor": "{0} kubických palcov"
+    },
+    {
+      "id": 8,
+      "unit_code": "volume-cubic-kilometer",
+      "kategoria": "volume",
+      "nazov": "kubické kilometre",
+      "skratka": "km³",
+      "uzky_tvar": "km³",
+      "vzor": "{0} kubických kilometrov"
+    },
+    {
+      "id": 9,
+      "unit_code": "volume-cubic-meter",
+      "kategoria": "volume",
+      "nazov": "kubické metre",
+      "skratka": "m³",
+      "uzky_tvar": "m³",
+      "vzor": "{0} kubických metrov"
+    },
+    {
+      "id": 10,
+      "unit_code": "volume-cubic-mile",
+      "kategoria": "volume",
+      "nazov": "kubické míle",
+      "skratka": "mi³",
+      "uzky_tvar": "mi³",
+      "vzor": "{0} kubických míľ"
+    },
+    {
+      "id": 11,
+      "unit_code": "volume-cubic-yard",
+      "kategoria": "volume",
+      "nazov": "kubické yardy",
+      "skratka": "yd³",
+      "uzky_tvar": "yd³",
+      "vzor": "{0} kubických yardov"
+    },
+    {
+      "id": 12,
+      "unit_code": "volume-cup",
+      "kategoria": "volume",
+      "nazov": "hrnčeky",
+      "skratka": "c",
+      "uzky_tvar": "c",
+      "vzor": "{0} hrnčekov"
+    },
+    {
+      "id": 13,
+      "unit_code": "volume-cup-imperial",
+      "kategoria": "volume",
+      "nazov": "cup Imp.",
+      "skratka": "cup Imp.",
+      "uzky_tvar": "cup Imp.",
+      "vzor": "{0} cup Imp."
+    },
+    {
+      "id": 14,
+      "unit_code": "volume-cup-jp",
+      "kategoria": "volume",
+      "nazov": "cup [JP]",
+      "skratka": "cup [JP]",
+      "uzky_tvar": "cup [JP]",
+      "vzor": "{0} cup [JP]"
+    },
+    {
+      "id": 15,
+      "unit_code": "volume-cup-metric",
+      "kategoria": "volume",
+      "nazov": "metrické hrnčeky",
+      "skratka": "mc",
+      "uzky_tvar": "mc",
+      "vzor": "{0} metrických hrnčekov"
+    },
+    {
+      "id": 16,
+      "unit_code": "volume-deciliter",
+      "kategoria": "volume",
+      "nazov": "decilitre",
+      "skratka": "dl",
+      "uzky_tvar": "dl",
+      "vzor": "{0} decilitrov"
+    },
+    {
+      "id": 17,
+      "unit_code": "volume-dessert-spoon",
+      "kategoria": "volume",
+      "nazov": "dezertné lyžičky",
+      "skratka": "dstspn",
+      "uzky_tvar": "dstspn",
+      "vzor": "{0} dezertných lyžičiek"
+    },
+    {
+      "id": 18,
+      "unit_code": "volume-dessert-spoon-imperial",
+      "kategoria": "volume",
+      "nazov": "britské dezertné lyžičky",
+      "skratka": "dstspn Imp",
+      "uzky_tvar": "dstspn Imp",
+      "vzor": "{0} britských dezertných lyžičiek"
+    },
+    {
+      "id": 19,
+      "unit_code": "volume-dram",
+      "kategoria": "volume",
+      "nazov": "drachmy",
+      "skratka": "dr",
+      "uzky_tvar": "dr",
+      "vzor": "{0} drachiem"
+    },
+    {
+      "id": 20,
+      "unit_code": "volume-drop",
+      "kategoria": "volume",
+      "nazov": "kvapky",
+      "skratka": "kvapky",
+      "uzky_tvar": "kvapky",
+      "vzor": "{0} kvapiek"
+    },
+    {
+      "id": 21,
+      "unit_code": "volume-fluid-ounce",
+      "kategoria": "volume",
+      "nazov": "tekuté unce",
+      "skratka": "fl oz",
+      "uzky_tvar": "fl oz",
+      "vzor": "{0} tekutých uncí"
+    },
+    {
+      "id": 22,
+      "unit_code": "volume-fluid-ounce-imperial",
+      "kategoria": "volume",
+      "nazov": "britské tekuté unce",
+      "skratka": "brit. fl oz",
+      "uzky_tvar": "brit. fl oz",
+      "vzor": "{0} britských tekutých uncí"
+    },
+    {
+      "id": 23,
+      "unit_code": "volume-fluid-ounce-metric",
+      "kategoria": "volume",
+      "nazov": "metrické tekuté unce",
+      "skratka": "fl oz m",
+      "uzky_tvar": "fl oz m",
+      "vzor": "{0} metrických tekutých uncí"
+    },
+    {
+      "id": 24,
+      "unit_code": "volume-gallon",
+      "kategoria": "volume",
+      "nazov": "galóny",
+      "skratka": "gal",
+      "uzky_tvar": "gal",
+      "vzor": "{0} galónov"
+    },
+    {
+      "id": 25,
+      "unit_code": "volume-gallon-imperial",
+      "kategoria": "volume",
+      "nazov": "britské galóny",
+      "skratka": "brit. gal.",
+      "uzky_tvar": "brit. gal.",
+      "vzor": "{0} britských galónov"
+    },
+    {
+      "id": 26,
+      "unit_code": "volume-hectoliter",
+      "kategoria": "volume",
+      "nazov": "hektolitre",
+      "skratka": "hl",
+      "uzky_tvar": "hl",
+      "vzor": "{0} hektolitrov"
+    },
+    {
+      "id": 27,
+      "unit_code": "volume-jigger",
+      "kategoria": "volume",
+      "nazov": "barmanské odmerky",
+      "skratka": "odmerky",
+      "uzky_tvar": "odmerky",
+      "vzor": "{0} barmanských odmeriek"
+    },
+    {
+      "id": 28,
+      "unit_code": "volume-koku",
+      "kategoria": "volume",
+      "nazov": "koku [JP]",
+      "skratka": "koku [JP]",
+      "uzky_tvar": "koku [JP]",
+      "vzor": "{0} koku [JP]"
+    },
+    {
+      "id": 29,
+      "unit_code": "volume-kosaji",
+      "kategoria": "volume",
+      "nazov": "kosaji [JP]",
+      "skratka": "kosaji [JP]",
+      "uzky_tvar": "kosaji [JP]",
+      "vzor": "{0} kosaji [JP]"
+    },
+    {
+      "id": 30,
+      "unit_code": "volume-liter",
+      "kategoria": "volume",
+      "nazov": "litre",
+      "skratka": "l",
+      "uzky_tvar": "l",
+      "vzor": "{0} litrov"
+    },
+    {
+      "id": 31,
+      "unit_code": "volume-megaliter",
+      "kategoria": "volume",
+      "nazov": "megalitre",
+      "skratka": "Ml",
+      "uzky_tvar": "Ml",
+      "vzor": "{0} megalitrov"
+    },
+    {
+      "id": 32,
+      "unit_code": "volume-milliliter",
+      "kategoria": "volume",
+      "nazov": "mililitre",
+      "skratka": "ml",
+      "uzky_tvar": "ml",
+      "vzor": "{0} mililitrov"
+    },
+    {
+      "id": 33,
+      "unit_code": "volume-osaji",
+      "kategoria": "volume",
+      "nazov": "osaji [JP]",
+      "skratka": "osaji [JP]",
+      "uzky_tvar": "osaji [JP]",
+      "vzor": "{0} osaji [JP]"
+    },
+    {
+      "id": 34,
+      "unit_code": "volume-pinch",
+      "kategoria": "volume",
+      "nazov": "štipky",
+      "skratka": "štipky",
+      "uzky_tvar": "štipky",
+      "vzor": "{0} štipiek"
+    },
+    {
+      "id": 35,
+      "unit_code": "volume-pint",
+      "kategoria": "volume",
+      "nazov": "pinty",
+      "skratka": "pt",
+      "uzky_tvar": "pt",
+      "vzor": "{0} pínt"
+    },
+    {
+      "id": 36,
+      "unit_code": "volume-pint-imperial",
+      "kategoria": "volume",
+      "nazov": "pint Imp.",
+      "skratka": "pint Imp.",
+      "uzky_tvar": "pint Imp.",
+      "vzor": "{0} pt Imp."
+    },
+    {
+      "id": 37,
+      "unit_code": "volume-pint-metric",
+      "kategoria": "volume",
+      "nazov": "metrické pinty",
+      "skratka": "mpt",
+      "uzky_tvar": "mpt",
+      "vzor": "{0} metrických pínt"
+    },
+    {
+      "id": 38,
+      "unit_code": "volume-quart",
+      "kategoria": "volume",
+      "nazov": "quarty",
+      "skratka": "qt",
+      "uzky_tvar": "qt",
+      "vzor": "{0} quartov"
+    },
+    {
+      "id": 39,
+      "unit_code": "volume-quart-imperial",
+      "kategoria": "volume",
+      "nazov": "britské kvarty",
+      "skratka": "qt Imp",
+      "uzky_tvar": "qt Imp",
+      "vzor": "{0} britských kvartov"
+    },
+    {
+      "id": 40,
+      "unit_code": "volume-sai",
+      "kategoria": "volume",
+      "nazov": "sai [JP]",
+      "skratka": "sai [JP]",
+      "uzky_tvar": "sai [JP]",
+      "vzor": "{0} sai [JP]"
+    },
+    {
+      "id": 41,
+      "unit_code": "volume-shaku",
+      "kategoria": "volume",
+      "nazov": "shaku [vol, JP]",
+      "skratka": "shaku [vol, JP]",
+      "uzky_tvar": "shaku [vol, JP]",
+      "vzor": "{0} shaku [vol, JP]"
+    },
+    {
+      "id": 42,
+      "unit_code": "volume-tablespoon",
+      "kategoria": "volume",
+      "nazov": "polievkové lyžice",
+      "skratka": "tbsp",
+      "uzky_tvar": "tbsp",
+      "vzor": "{0} polievkových lyžíc"
+    },
+    {
+      "id": 43,
+      "unit_code": "volume-teaspoon",
+      "kategoria": "volume",
+      "nazov": "čajové lyžice",
+      "skratka": "tsp",
+      "uzky_tvar": "tsp",
+      "vzor": "{0} čajových lyžíc"
+    },
+    {
+      "id": 44,
+      "unit_code": "volume-to-jp",
+      "kategoria": "volume",
+      "nazov": "to [JP]",
+      "skratka": "to [JP]",
+      "uzky_tvar": "to [JP]",
+      "vzor": "{0} to [JP]"
+    }
+  ],
+  "meta": {
+    "title": "Merné jednotky — kategória 'volume' (44) - Bezplatné stiahnutie",
+    "description": "Merné jednotky kategórie 'volume' z locale sk v CLDR, s názvami v slovenčine. Obsahuje 44 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Merné jednotky — kategória 'volume' (44) | ListBase",
+    "seo_description": "Stiahnuť Merné jednotky — kategória 'volume' (44) — 44 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 44 záznamov / 7 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

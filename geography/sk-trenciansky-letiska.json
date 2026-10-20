@@ -1,0 +1,142 @@
+{
+  "id": "sk-trenciansky-letiska",
+  "name": "Letiská — Trenčiansky kraj",
+  "title": "Letiská — Trenčiansky kraj",
+  "description": "Zoznam letísk v kraji „Trenčiansky kraj“ na Slovensku s ICAO/IATA kódmi, mestom, súradnicami (WGS84) a nadmorskou výškou. (Trencin Region -- list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "geography",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_source",
+      "label": "Kraj Source",
+      "type": "string"
+    },
+    {
+      "key": "kraj_slug",
+      "label": "Kraj Slug",
+      "type": "string"
+    },
+    {
+      "key": "kraj_en",
+      "label": "Kraj En",
+      "type": "string"
+    },
+    {
+      "key": "kraj_inferred_from_city",
+      "label": "Kraj Inferred From City",
+      "type": "boolean"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LZDB",
+      "iata": "",
+      "name": "Dubnica Glider Airport",
+      "name_slug": "dubnica-glider-airport",
+      "city": "Dubnica nad Vahom",
+      "kraj": "Trenčiansky kraj",
+      "kraj_source": "Trenciansky",
+      "kraj_slug": "trenciansky",
+      "kraj_en": "Trencin Region",
+      "kraj_inferred_from_city": false,
+      "country": "SK",
+      "elevation_ft": 771,
+      "lat": 48.9968986511,
+      "lon": 18.192199707,
+      "timezone": "Europe/Bratislava",
+      "has_iata": false
+    },
+    {
+      "icao": "LZPT",
+      "iata": "",
+      "name": "Male Bielice Glider Airport",
+      "name_slug": "male-bielice-glider-airport",
+      "city": "Partizanske",
+      "kraj": "Trenčiansky kraj",
+      "kraj_source": "Trenciansky",
+      "kraj_slug": "trenciansky",
+      "kraj_en": "Trencin Region",
+      "kraj_inferred_from_city": false,
+      "country": "SK",
+      "elevation_ft": 600,
+      "lat": 48.6192016602,
+      "lon": 18.32970047,
+      "timezone": "Europe/Bratislava",
+      "has_iata": false
+    }
+  ],
+  "meta": {
+    "title": "Letiská — Trenčiansky kraj - Bezplatné stiahnutie",
+    "description": "Zoznam letísk v kraji „Trenčiansky kraj“ na Slovensku s ICAO/IATA kódmi, mestom, súradnicami (WGS84) a nadmorskou výškou. (Trencin Region -- list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Obsahuje 2 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Letiská — Trenčiansky kraj | ListBase",
+    "seo_description": "Stiahnuť Letiská — Trenčiansky kraj — 2 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 2 záznamov / 16 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: https://github.com/mwgg/Airports"
+    ]
+  }
+}

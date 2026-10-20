@@ -1,0 +1,1761 @@
+{
+  "id": "sk-studne",
+  "name": "Studne",
+  "title": "Studne",
+  "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (man_made=water_well). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 344,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "VRT Slaná voda",
+      "latitude": 49.532802,
+      "longitude": 19.47288
+    },
+    {
+      "name": "Bielokarpatský prameň dobrého srdca",
+      "latitude": 49.025092,
+      "longitude": 18.134776
+    },
+    {
+      "name": "Prameň vo dvore č.d. 307",
+      "latitude": 48.959088,
+      "longitude": 18.039121
+    },
+    {
+      "name": "Studnička v Kanákech járku",
+      "latitude": 48.924683,
+      "longitude": 18.119452
+    },
+    {
+      "name": "Maliarova studňa",
+      "latitude": 49.257217,
+      "longitude": 18.741189
+    },
+    {
+      "name": "vrt ŽK-5",
+      "latitude": 49.207046,
+      "longitude": 18.642735
+    },
+    {
+      "name": "vrt ŽK-2",
+      "latitude": 49.182065,
+      "longitude": 18.828573
+    },
+    {
+      "name": "Nosický prameň B-5",
+      "latitude": 49.128711,
+      "longitude": 18.361241
+    },
+    {
+      "name": "Prameň mládeže B1",
+      "latitude": 49.128397,
+      "longitude": 18.362739
+    },
+    {
+      "name": "Priehradný prameň B-6",
+      "latitude": 49.128851,
+      "longitude": 18.366683
+    },
+    {
+      "name": "Vrt B-2",
+      "latitude": 49.128619,
+      "longitude": 18.367386
+    },
+    {
+      "name": "Vrt B-8",
+      "latitude": 49.129013,
+      "longitude": 18.36651
+    },
+    {
+      "name": "Vrt B-9",
+      "latitude": 49.128337,
+      "longitude": 18.362788
+    },
+    {
+      "name": "Hydrocentrála vrt V3",
+      "latitude": 49.133102,
+      "longitude": 18.454137
+    },
+    {
+      "name": "Vrt B-7",
+      "latitude": 49.128197,
+      "longitude": 18.370798
+    },
+    {
+      "name": "Hydrocentrála",
+      "latitude": 49.133639,
+      "longitude": 18.454715
+    },
+    {
+      "name": "Vrt B-7",
+      "latitude": 49.128991,
+      "longitude": 18.372548
+    },
+    {
+      "name": "Domová studňa",
+      "latitude": 49.047399,
+      "longitude": 18.3361
+    },
+    {
+      "name": "Vrt BHS-1",
+      "latitude": 49.03866,
+      "longitude": 18.337987
+    },
+    {
+      "name": "Vrt BS-1",
+      "latitude": 49.03843,
+      "longitude": 18.337261
+    },
+    {
+      "name": "Vrt C-12",
+      "latitude": 49.047814,
+      "longitude": 18.338188
+    },
+    {
+      "name": "Vrt C-7",
+      "latitude": 49.047527,
+      "longitude": 18.338706
+    },
+    {
+      "name": "Vrt R-1",
+      "latitude": 49.056541,
+      "longitude": 18.339791
+    },
+    {
+      "name": "Vrt R-3",
+      "latitude": 49.057272,
+      "longitude": 18.338818
+    },
+    {
+      "name": "Vrt BS-2",
+      "latitude": 49.039465,
+      "longitude": 18.33721
+    },
+    {
+      "name": "Studňa Silvestra Gabčíka (č. d. 27)",
+      "latitude": 49.13303,
+      "longitude": 18.707711
+    },
+    {
+      "name": "mužský bazén B-1",
+      "latitude": 49.129082,
+      "longitude": 18.681098
+    },
+    {
+      "name": "vrt BJ-21/A",
+      "latitude": 49.129984,
+      "longitude": 18.681441
+    },
+    {
+      "name": "vrt BJ-22",
+      "latitude": 49.12956,
+      "longitude": 18.682455
+    },
+    {
+      "name": "šachta S-1",
+      "latitude": 49.130265,
+      "longitude": 18.681461
+    },
+    {
+      "name": "šachta v kotolni vrt V-1",
+      "latitude": 49.129068,
+      "longitude": 18.6811
+    },
+    {
+      "name": "žen. bazén I B-3",
+      "latitude": 49.129062,
+      "longitude": 18.681106
+    },
+    {
+      "name": "ženský bazén II B-2",
+      "latitude": 49.129063,
+      "longitude": 18.681092
+    },
+    {
+      "name": "vrt RTŠ-1",
+      "latitude": 49.102618,
+      "longitude": 18.687175
+    },
+    {
+      "name": "vrt RK-22",
+      "latitude": 49.094243,
+      "longitude": 18.633249
+    },
+    {
+      "name": "Fatra II BJ-2",
+      "latitude": 49.084951,
+      "longitude": 18.927369
+    },
+    {
+      "name": "Vrt BJ-4",
+      "latitude": 49.085675,
+      "longitude": 18.929304
+    },
+    {
+      "name": "KM-1",
+      "latitude": 48.958615,
+      "longitude": 18.856439
+    },
+    {
+      "name": "VRT",
+      "latitude": 49.149491,
+      "longitude": 19.413143
+    },
+    {
+      "name": "Vrt J-13",
+      "latitude": 49.123818,
+      "longitude": 19.453688
+    },
+    {
+      "name": "Vrt ZGL-1",
+      "latitude": 49.101142,
+      "longitude": 19.443811
+    },
+    {
+      "name": "vrt",
+      "latitude": 49.104958,
+      "longitude": 19.486375
+    },
+    {
+      "name": "vrt 6A",
+      "latitude": 49.105013,
+      "longitude": 19.486352
+    },
+    {
+      "name": "V20",
+      "latitude": 49.103639,
+      "longitude": 19.485935
+    },
+    {
+      "name": "V8",
+      "latitude": 49.104121,
+      "longitude": 19.487328
+    },
+    {
+      "name": "V7",
+      "latitude": 49.104106,
+      "longitude": 19.487288
+    },
+    {
+      "name": "V18",
+      "latitude": 49.105345,
+      "longitude": 19.488087
+    },
+    {
+      "name": "V17",
+      "latitude": 49.10532,
+      "longitude": 19.488105
+    },
+    {
+      "name": "V10",
+      "latitude": 49.105298,
+      "longitude": 19.488122
+    },
+    {
+      "name": "V11",
+      "latitude": 49.105482,
+      "longitude": 19.488091
+    },
+    {
+      "name": "V16",
+      "latitude": 49.1055,
+      "longitude": 19.488123
+    },
+    {
+      "name": "HS-201",
+      "latitude": 49.101669,
+      "longitude": 19.48277
+    },
+    {
+      "name": "HS-202l",
+      "latitude": 49.101548,
+      "longitude": 19.482418
+    },
+    {
+      "name": "VT4",
+      "latitude": 49.101782,
+      "longitude": 19.481431
+    },
+    {
+      "name": "P3",
+      "latitude": 49.101454,
+      "longitude": 19.481537
+    },
+    {
+      "name": "P6",
+      "latitude": 49.101477,
+      "longitude": 19.481929
+    },
+    {
+      "name": "Rudolf",
+      "latitude": 49.04036,
+      "longitude": 19.676621
+    },
+    {
+      "name": "u Laja",
+      "latitude": 48.951905,
+      "longitude": 19.260035
+    },
+    {
+      "name": "Stará obecná studňa",
+      "latitude": 48.949838,
+      "longitude": 19.262853
+    },
+    {
+      "name": "Monitorovací vrt - 8 mil. €",
+      "latitude": 48.992643,
+      "longitude": 19.426354
+    },
+    {
+      "name": "VRT",
+      "latitude": 49.011904,
+      "longitude": 19.527673
+    },
+    {
+      "name": "VRT",
+      "latitude": 49.017599,
+      "longitude": 19.528676
+    },
+    {
+      "name": "vrt VN-405-1",
+      "latitude": 48.963581,
+      "longitude": 19.507508
+    },
+    {
+      "name": "Vrt OZ-1",
+      "latitude": 49.281676,
+      "longitude": 19.744325
+    },
+    {
+      "name": "Vrt OZ-2",
+      "latitude": 49.295845,
+      "longitude": 19.745621
+    },
+    {
+      "name": "Monitorovací vrt - 8 mil. €",
+      "latitude": 49.144281,
+      "longitude": 19.698827
+    },
+    {
+      "name": "DN80-lange1555",
+      "latitude": 49.087144,
+      "longitude": 19.711036
+    },
+    {
+      "name": "Kokavský vrt",
+      "latitude": 49.090478,
+      "longitude": 19.803974
+    },
+    {
+      "name": "Smokovecká Kyselka - Prameň SK II",
+      "latitude": 49.142815,
+      "longitude": 20.223238
+    },
+    {
+      "name": "Smokovecká Kyselka - Prameň SK I",
+      "latitude": 49.142831,
+      "longitude": 20.223214
+    },
+    {
+      "name": "Vrt GP-19",
+      "latitude": 49.028456,
+      "longitude": 20.327579
+    },
+    {
+      "name": "Vrt TV-1",
+      "latitude": 49.080288,
+      "longitude": 20.422848
+    },
+    {
+      "name": "Vrt VR-1",
+      "latitude": 49.085839,
+      "longitude": 20.420761
+    },
+    {
+      "name": "Vrt VR-2",
+      "latitude": 49.080627,
+      "longitude": 20.42322
+    },
+    {
+      "name": "Studňa na dvore č.d. 97",
+      "latitude": 49.128605,
+      "longitude": 20.853751
+    },
+    {
+      "name": "Salvator II.",
+      "latitude": 49.048383,
+      "longitude": 20.94275
+    },
+    {
+      "name": "Kyslá z vrtu",
+      "latitude": 49.02305,
+      "longitude": 20.441289
+    },
+    {
+      "name": "Domová studňa",
+      "latitude": 49.000798,
+      "longitude": 20.638175
+    },
+    {
+      "name": "Vrt B-4",
+      "latitude": 48.993947,
+      "longitude": 20.705984
+    },
+    {
+      "name": "Vrt BL - 1",
+      "latitude": 48.992467,
+      "longitude": 20.707187
+    },
+    {
+      "name": "Vrt BV-1",
+      "latitude": 48.991712,
+      "longitude": 20.704675
+    },
+    {
+      "name": "Zimná studňa",
+      "latitude": 48.972724,
+      "longitude": 20.557207
+    },
+    {
+      "name": "Rumpálová studňa",
+      "latitude": 49.000696,
+      "longitude": 20.756312
+    },
+    {
+      "name": "Alexander BKH - 3",
+      "latitude": 49.333373,
+      "longitude": 21.259818
+    },
+    {
+      "name": "BJ - 24",
+      "latitude": 49.330249,
+      "longitude": 21.269254
+    },
+    {
+      "name": "František BKH - 1",
+      "latitude": 49.332794,
+      "longitude": 21.26771
+    },
+    {
+      "name": "Kolonádny BJ - 19",
+      "latitude": 49.329713,
+      "longitude": 21.269403
+    },
+    {
+      "name": "Napoleón BJ - 18",
+      "latitude": 49.330738,
+      "longitude": 21.268765
+    },
+    {
+      "name": "Anna",
+      "latitude": 49.328674,
+      "longitude": 21.271336
+    },
+    {
+      "name": "Herkules S - 8",
+      "latitude": 49.329719,
+      "longitude": 21.270318
+    },
+    {
+      "name": "Hlavný prameň",
+      "latitude": 49.329191,
+      "longitude": 21.270266
+    },
+    {
+      "name": "Lekársky prameň",
+      "latitude": 49.329041,
+      "longitude": 21.270662
+    },
+    {
+      "name": "Studňa č.d. 57",
+      "latitude": 49.346083,
+      "longitude": 21.379121
+    },
+    {
+      "name": "Rinková studňa",
+      "latitude": 49.291835,
+      "longitude": 21.27586
+    },
+    {
+      "name": "Vrt ŠŠ-5",
+      "latitude": 49.213123,
+      "longitude": 21.562486
+    },
+    {
+      "name": "Kyselka na lúke",
+      "latitude": 49.209473,
+      "longitude": 21.564564
+    },
+    {
+      "name": "Vrt",
+      "latitude": 49.209225,
+      "longitude": 21.56502
+    },
+    {
+      "name": "Studňa na dvore č.d. 167",
+      "latitude": 49.108968,
+      "longitude": 21.237326
+    },
+    {
+      "name": "Studňa na dvore č.d. 169",
+      "latitude": 49.108538,
+      "longitude": 21.237412
+    },
+    {
+      "name": "Studňa na školskom dvore",
+      "latitude": 49.108344,
+      "longitude": 21.237522
+    },
+    {
+      "name": "Studňa u Antona Ďaďovského",
+      "latitude": 49.109238,
+      "longitude": 21.237311
+    },
+    {
+      "name": "Studňa u Lazoríka",
+      "latitude": 49.106902,
+      "longitude": 21.23805
+    },
+    {
+      "name": "Studňa u Mikuláša Senderáka",
+      "latitude": 49.108642,
+      "longitude": 21.237281
+    },
+    {
+      "name": "Studňa u Štefana Sabola ( č. d. 165 )",
+      "latitude": 49.109115,
+      "longitude": 21.237439
+    },
+    {
+      "name": "Studňa na dvore č.d. 110",
+      "latitude": 49.08989,
+      "longitude": 21.303548
+    },
+    {
+      "name": "Studňa v Šítnikoch",
+      "latitude": 49.080887,
+      "longitude": 21.346921
+    },
+    {
+      "name": "Kyselka II.",
+      "latitude": 49.063944,
+      "longitude": 21.696509
+    },
+    {
+      "name": "Vrt CE - 1",
+      "latitude": 48.982858,
+      "longitude": 21.174526
+    },
+    {
+      "name": "Studňa pred domom č. d. 2",
+      "latitude": 48.978448,
+      "longitude": 21.111451
+    },
+    {
+      "name": "Studňa na dvore č.d. 242",
+      "latitude": 48.926263,
+      "longitude": 21.249208
+    },
+    {
+      "name": "Studňa (Kvasná voda)",
+      "latitude": 49.070987,
+      "longitude": 22.179549
+    },
+    {
+      "name": "Hradná studňa",
+      "latitude": 48.939035,
+      "longitude": 21.907384
+    },
+    {
+      "name": "Studňa u poľovníckej chaty",
+      "latitude": 48.808306,
+      "longitude": 17.278022
+    },
+    {
+      "name": "Studňa sv. Víta",
+      "latitude": 48.75013,
+      "longitude": 17.273595
+    },
+    {
+      "name": "Prameň S-3 (S-6)",
+      "latitude": 48.720469,
+      "longitude": 17.302282
+    },
+    {
+      "name": "S-9",
+      "latitude": 48.720056,
+      "longitude": 17.302194
+    },
+    {
+      "name": "Jozef 1 ST-2",
+      "latitude": 48.719881,
+      "longitude": 17.303517
+    },
+    {
+      "name": "Jozef II Z-1",
+      "latitude": 48.719821,
+      "longitude": 17.303567
+    },
+    {
+      "name": "Studňa na dvore č.d. 19",
+      "latitude": 48.842971,
+      "longitude": 17.91691
+    },
+    {
+      "name": "Studňa na dvore č.d. 20",
+      "latitude": 48.843042,
+      "longitude": 17.916722
+    },
+    {
+      "name": "Studňa na dvore č.d. 6",
+      "latitude": 48.921967,
+      "longitude": 18.035356
+    },
+    {
+      "name": "Studňa vo dvore č.d. 14",
+      "latitude": 48.920398,
+      "longitude": 18.036459
+    },
+    {
+      "name": "Studňa lásky",
+      "latitude": 48.895647,
+      "longitude": 18.045096
+    },
+    {
+      "name": "Studňa v dome č.d. 80",
+      "latitude": 48.868677,
+      "longitude": 17.946509
+    },
+    {
+      "name": "Pitný prameň",
+      "latitude": 48.90858,
+      "longitude": 18.171878
+    },
+    {
+      "name": "Prima P-1",
+      "latitude": 48.908349,
+      "longitude": 18.171635
+    },
+    {
+      "name": "Sina I V-2",
+      "latitude": 48.909054,
+      "longitude": 18.172823
+    },
+    {
+      "name": "Sina II V-3",
+      "latitude": 48.90931,
+      "longitude": 18.172576
+    },
+    {
+      "name": "Tomáš SB-1",
+      "latitude": 48.909462,
+      "longitude": 18.171364
+    },
+    {
+      "name": "Vrt SB 3",
+      "latitude": 48.909281,
+      "longitude": 18.172305
+    },
+    {
+      "name": "Vrt SB-4a",
+      "latitude": 48.908632,
+      "longitude": 18.171378
+    },
+    {
+      "name": "Vrt TT-1",
+      "latitude": 48.908636,
+      "longitude": 18.170665
+    },
+    {
+      "name": "Wernher SB-5",
+      "latitude": 48.908623,
+      "longitude": 18.171379
+    },
+    {
+      "name": "Domová studňa č.d. 68",
+      "latitude": 48.848421,
+      "longitude": 17.932087
+    },
+    {
+      "name": "Studňa vo dvore č.d.69",
+      "latitude": 48.848751,
+      "longitude": 17.931563
+    },
+    {
+      "name": "Studňa vo dvore č.d.70",
+      "latitude": 48.848659,
+      "longitude": 17.931836
+    },
+    {
+      "name": "Studňa vo dvore č.d.71",
+      "latitude": 48.848559,
+      "longitude": 17.931973
+    },
+    {
+      "name": "Vrt pri chate PE",
+      "latitude": 48.808097,
+      "longitude": 18.090194
+    },
+    {
+      "name": "Vrt BnB - 1",
+      "latitude": 48.714789,
+      "longitude": 18.244165
+    },
+    {
+      "name": "Vahadlová studňa Krajní",
+      "latitude": 48.538894,
+      "longitude": 17.056585
+    },
+    {
+      "name": "Piešťany - kláštorná studňa",
+      "latitude": 48.60512,
+      "longitude": 17.823884
+    },
+    {
+      "name": "Vrt - VLÚ 1",
+      "latitude": 48.588936,
+      "longitude": 17.828663
+    },
+    {
+      "name": "Vrt - VLÚ 2",
+      "latitude": 48.58894,
+      "longitude": 17.828657
+    },
+    {
+      "name": "Cmunt V - 1",
+      "latitude": 48.586611,
+      "longitude": 17.84326
+    },
+    {
+      "name": "Crato V - 10",
+      "latitude": 48.586515,
+      "longitude": 17.842802
+    },
+    {
+      "name": "Hynie V - 4a",
+      "latitude": 48.586611,
+      "longitude": 17.843246
+    },
+    {
+      "name": "Torkoš V - 8",
+      "latitude": 48.586514,
+      "longitude": 17.842819
+    },
+    {
+      "name": "Studňa Trajan",
+      "latitude": 48.586461,
+      "longitude": 17.84287
+    },
+    {
+      "name": "Studňa na štátnych majetkoch",
+      "latitude": 48.653954,
+      "longitude": 18.181911
+    },
+    {
+      "name": "Studňa v JRD",
+      "latitude": 48.642819,
+      "longitude": 18.132481
+    },
+    {
+      "name": "Domová studňa č.d. 358 J. Baračka",
+      "latitude": 48.524678,
+      "longitude": 17.794946
+    },
+    {
+      "name": "Drahovce - domová studňa",
+      "latitude": 48.524966,
+      "longitude": 17.795368
+    },
+    {
+      "name": "Koplotovce - vrt KB-2",
+      "latitude": 48.471008,
+      "longitude": 17.807543
+    },
+    {
+      "name": "Studňa č.d. 112",
+      "latitude": 48.470191,
+      "longitude": 17.81116
+    },
+    {
+      "name": "Studňa č.d. 95",
+      "latitude": 48.470429,
+      "longitude": 17.808125
+    },
+    {
+      "name": "Vrt R - 1",
+      "latitude": 48.471739,
+      "longitude": 17.809017
+    },
+    {
+      "name": "Vrt FGTz - 1",
+      "latitude": 48.56838,
+      "longitude": 18.140901
+    },
+    {
+      "name": "studňa Sulovce",
+      "latitude": 48.47008,
+      "longitude": 18.197173
+    },
+    {
+      "name": "Vrt B-3",
+      "latitude": 48.872541,
+      "longitude": 18.759529
+    },
+    {
+      "name": "Vrt B-4",
+      "latitude": 48.871938,
+      "longitude": 18.759547
+    },
+    {
+      "name": "Vrt B-5",
+      "latitude": 48.8722,
+      "longitude": 18.759037
+    },
+    {
+      "name": "Vrt D-3",
+      "latitude": 48.866486,
+      "longitude": 18.792243
+    },
+    {
+      "name": "Vrt HGB-2",
+      "latitude": 48.865036,
+      "longitude": 18.792991
+    },
+    {
+      "name": "Vrt HV-63",
+      "latitude": 48.902546,
+      "longitude": 18.891744
+    },
+    {
+      "name": "Vrt MZ-2",
+      "latitude": 48.902363,
+      "longitude": 18.891862
+    },
+    {
+      "name": "Biely bazén",
+      "latitude": 48.860736,
+      "longitude": 18.859282
+    },
+    {
+      "name": "TJ-20 Materský",
+      "latitude": 48.861017,
+      "longitude": 18.859659
+    },
+    {
+      "name": "Vrt TJ-9",
+      "latitude": 48.860567,
+      "longitude": 18.858113
+    },
+    {
+      "name": "Vrt TTK-1",
+      "latitude": 48.86396,
+      "longitude": 18.858476
+    },
+    {
+      "name": "Vrt TTŠ-1",
+      "latitude": 48.857703,
+      "longitude": 18.839873
+    },
+    {
+      "name": "Banský PA-7",
+      "latitude": 48.778807,
+      "longitude": 18.572732
+    },
+    {
+      "name": "Vrt BR-6",
+      "latitude": 48.77858,
+      "longitude": 18.572692
+    },
+    {
+      "name": "Termálne jazero",
+      "latitude": 48.772608,
+      "longitude": 18.569569
+    },
+    {
+      "name": "Vrt BR 1",
+      "latitude": 48.775392,
+      "longitude": 18.571003
+    },
+    {
+      "name": "Vrt BR-3",
+      "latitude": 48.7766,
+      "longitude": 18.56962
+    },
+    {
+      "name": "Vrt Z-1",
+      "latitude": 48.775182,
+      "longitude": 18.571939
+    },
+    {
+      "name": "Vrt Š-1-NB2",
+      "latitude": 48.727922,
+      "longitude": 18.571359
+    },
+    {
+      "name": "Vrt KŠ-1",
+      "latitude": 48.711499,
+      "longitude": 18.908677
+    },
+    {
+      "name": "Klement S-7",
+      "latitude": 48.888324,
+      "longitude": 19.285658
+    },
+    {
+      "name": "Vrt BJ-2",
+      "latitude": 48.888429,
+      "longitude": 19.287211
+    },
+    {
+      "name": "vrt 410-1",
+      "latitude": 48.892975,
+      "longitude": 19.441359
+    },
+    {
+      "name": "Vrt BB - 1",
+      "latitude": 48.73384,
+      "longitude": 19.131019
+    },
+    {
+      "name": "Ľudovít",
+      "latitude": 48.785932,
+      "longitude": 19.394504
+    },
+    {
+      "name": "Vrt BCH-3",
+      "latitude": 48.671586,
+      "longitude": 18.496355
+    },
+    {
+      "name": "Vrt CH-2",
+      "latitude": 48.671742,
+      "longitude": 18.495913
+    },
+    {
+      "name": "Vrt MB - 3",
+      "latitude": 48.622244,
+      "longitude": 18.339505
+    },
+    {
+      "name": "Vrt VB - 2",
+      "latitude": 48.628601,
+      "longitude": 18.344621
+    },
+    {
+      "name": "Studňa v obci",
+      "latitude": 48.61664,
+      "longitude": 18.797342
+    },
+    {
+      "name": "Born ST - 2",
+      "latitude": 48.527147,
+      "longitude": 18.865153
+    },
+    {
+      "name": "Jozef",
+      "latitude": 48.527467,
+      "longitude": 18.865309
+    },
+    {
+      "name": "Zipser ST - 1",
+      "latitude": 48.525961,
+      "longitude": 18.864767
+    },
+    {
+      "name": "Vrt H-1",
+      "latitude": 48.504711,
+      "longitude": 18.791124
+    },
+    {
+      "name": "Vrt ČAM - 1",
+      "latitude": 48.665012,
+      "longitude": 19.253864
+    },
+    {
+      "name": "Kováčová",
+      "latitude": 48.607912,
+      "longitude": 19.100755
+    },
+    {
+      "name": "Kúpeľný 1a",
+      "latitude": 48.610837,
+      "longitude": 19.16137
+    },
+    {
+      "name": "Domová studňa",
+      "latitude": 48.596629,
+      "longitude": 19.221475
+    },
+    {
+      "name": "Studňa u J. Leštáka",
+      "latitude": 48.595829,
+      "longitude": 19.221156
+    },
+    {
+      "name": "Studňa na Kaľamárke",
+      "latitude": 48.603388,
+      "longitude": 19.421671
+    },
+    {
+      "name": "Obecná studňa",
+      "latitude": 48.568175,
+      "longitude": 18.996804
+    },
+    {
+      "name": "Studňa u J. Oravca",
+      "latitude": 48.574757,
+      "longitude": 19.14767
+    },
+    {
+      "name": "Hradná studňa",
+      "latitude": 48.57285,
+      "longitude": 19.127193
+    },
+    {
+      "name": "Studňa u K. Strelcovej",
+      "latitude": 48.559407,
+      "longitude": 19.297931
+    },
+    {
+      "name": "Vrt VBK-1",
+      "latitude": 48.509981,
+      "longitude": 19.322669
+    },
+    {
+      "name": "Studňa pri dome č. 27",
+      "latitude": 48.573554,
+      "longitude": 19.430465
+    },
+    {
+      "name": "Studňa na dvore č. 40",
+      "latitude": 48.53572,
+      "longitude": 19.390028
+    },
+    {
+      "name": "Studňa u kaplnky",
+      "latitude": 48.393068,
+      "longitude": 17.153864
+    },
+    {
+      "name": "Vahadlová studňa",
+      "latitude": 48.303629,
+      "longitude": 17.260244
+    },
+    {
+      "name": "Zoborská studňa",
+      "latitude": 48.333876,
+      "longitude": 18.098102
+    },
+    {
+      "name": "Artézska studňa",
+      "latitude": 48.227841,
+      "longitude": 18.054494
+    },
+    {
+      "name": "Horánska studňa",
+      "latitude": 48.185412,
+      "longitude": 17.025952
+    },
+    {
+      "name": "Hradná studňa",
+      "latitude": 48.173993,
+      "longitude": 16.978187
+    },
+    {
+      "name": "Vodárenská studňa č. 1",
+      "latitude": 48.147274,
+      "longitude": 17.040738
+    },
+    {
+      "name": "Zlatá studňa",
+      "latitude": 48.145832,
+      "longitude": 17.106359
+    },
+    {
+      "name": "Studňa sv. Jána Nepomuckého",
+      "latitude": 48.220807,
+      "longitude": 17.334956
+    },
+    {
+      "name": "Vrt FGS - 1",
+      "latitude": 48.199561,
+      "longitude": 17.433339
+    },
+    {
+      "name": "Pamätná studňa",
+      "latitude": 48.153874,
+      "longitude": 17.294966
+    },
+    {
+      "name": "Vrt FGC-1",
+      "latitude": 48.017119,
+      "longitude": 17.305715
+    },
+    {
+      "name": "Vrt FGHP-1",
+      "latitude": 48.044232,
+      "longitude": 17.484886
+    },
+    {
+      "name": "Vrt VHP-12R",
+      "latitude": 48.044373,
+      "longitude": 17.493919
+    },
+    {
+      "name": "Historická studňa",
+      "latitude": 47.995503,
+      "longitude": 17.484653
+    },
+    {
+      "name": "Vrt FGG-1",
+      "latitude": 48.205483,
+      "longitude": 17.674465
+    },
+    {
+      "name": "Vrt FGG-2",
+      "latitude": 48.197861,
+      "longitude": 17.722012
+    },
+    {
+      "name": "Vrt FGG-3",
+      "latitude": 48.190942,
+      "longitude": 17.712454
+    },
+    {
+      "name": "Vrt HTŠ-1",
+      "latitude": 48.159923,
+      "longitude": 17.868109
+    },
+    {
+      "name": "Vrt HTŠ-2",
+      "latitude": 48.160645,
+      "longitude": 17.867969
+    },
+    {
+      "name": "Vrt DI - 2",
+      "latitude": 48.134507,
+      "longitude": 17.782016
+    },
+    {
+      "name": "Vrt na kúpalisku Di - 1",
+      "latitude": 48.13459,
+      "longitude": 17.78365
+    },
+    {
+      "name": "Dunajský Klátov - vrt VDK-15",
+      "latitude": 48.029131,
+      "longitude": 17.699169
+    },
+    {
+      "name": "Vrt FGV - 1",
+      "latitude": 48.033509,
+      "longitude": 17.913684
+    },
+    {
+      "name": "Vrt GNZ - 1",
+      "latitude": 47.999394,
+      "longitude": 18.182167
+    },
+    {
+      "name": "Vrt KD-1",
+      "latitude": 48.425454,
+      "longitude": 18.464906
+    },
+    {
+      "name": "Pod hrabom",
+      "latitude": 48.381166,
+      "longitude": 19.098582
+    },
+    {
+      "name": "Vrt L-32",
+      "latitude": 48.438822,
+      "longitude": 19.341944
+    },
+    {
+      "name": "Uhliarka",
+      "latitude": 48.291072,
+      "longitude": 19.238018
+    },
+    {
+      "name": "Vrt HGL-1",
+      "latitude": 48.330179,
+      "longitude": 19.668935
+    },
+    {
+      "name": "Vrt na Komenského ulici",
+      "latitude": 48.326751,
+      "longitude": 19.666268
+    },
+    {
+      "name": "Veterná studňa",
+      "latitude": 48.135582,
+      "longitude": 18.328219
+    },
+    {
+      "name": "Ústavná studňa",
+      "latitude": 48.219612,
+      "longitude": 18.669819
+    },
+    {
+      "name": "Vrt HBV - 1",
+      "latitude": 48.189469,
+      "longitude": 18.664273
+    },
+    {
+      "name": "Vrt HBV - 2a",
+      "latitude": 48.18824,
+      "longitude": 18.663734
+    },
+    {
+      "name": "Vrt HBV - 3",
+      "latitude": 48.188451,
+      "longitude": 18.662629
+    },
+    {
+      "name": "Kúpeľný",
+      "latitude": 48.166623,
+      "longitude": 18.875525
+    },
+    {
+      "name": "Domová studňa u Jozefa Kyselu",
+      "latitude": 48.15673,
+      "longitude": 18.767944
+    },
+    {
+      "name": "Domová studňa č.d. 129 u Alexandra Sirotu",
+      "latitude": 48.153445,
+      "longitude": 18.772513
+    },
+    {
+      "name": "Domová studňa č.d. 16 u Jána Marku",
+      "latitude": 48.157175,
+      "longitude": 18.767311
+    },
+    {
+      "name": "Domová studňa č.d. 28 u Františka Lacku",
+      "latitude": 48.15681,
+      "longitude": 18.767745
+    },
+    {
+      "name": "Domová studňa č.d. 39 u Pavla Foltána",
+      "latitude": 48.154311,
+      "longitude": 18.773193
+    },
+    {
+      "name": "Santovka I B - 6",
+      "latitude": 48.153483,
+      "longitude": 18.766953
+    },
+    {
+      "name": "Santovka II B - 9",
+      "latitude": 48.156842,
+      "longitude": 18.767162
+    },
+    {
+      "name": "Santovka Žriedlo",
+      "latitude": 48.153852,
+      "longitude": 18.765723
+    },
+    {
+      "name": "vrt B - 3",
+      "latitude": 48.15383,
+      "longitude": 18.770405
+    },
+    {
+      "name": "Studňa pri ceste",
+      "latitude": 48.158985,
+      "longitude": 18.87831
+    },
+    {
+      "name": "Vrt BB - 1",
+      "latitude": 48.137145,
+      "longitude": 18.89363
+    },
+    {
+      "name": "Vrt S - 7",
+      "latitude": 48.137105,
+      "longitude": 18.898338
+    },
+    {
+      "name": "Vrt S - 8",
+      "latitude": 48.137131,
+      "longitude": 18.898308
+    },
+    {
+      "name": "Vrt ST - 2",
+      "latitude": 48.137148,
+      "longitude": 18.898454
+    },
+    {
+      "name": "vrt B - 1",
+      "latitude": 48.137161,
+      "longitude": 18.898372
+    },
+    {
+      "name": "Vrt BB - 2",
+      "latitude": 48.13563,
+      "longitude": 18.897627
+    },
+    {
+      "name": "Vrt - P-1",
+      "latitude": 48.098616,
+      "longitude": 18.337062
+    },
+    {
+      "name": "Vrt HPV-1",
+      "latitude": 48.120062,
+      "longitude": 19.117764
+    },
+    {
+      "name": "Rumpálová studňa",
+      "latitude": 48.705446,
+      "longitude": 20.510221
+    },
+    {
+      "name": "Hermesova studňa",
+      "latitude": 48.708022,
+      "longitude": 20.509936
+    },
+    {
+      "name": "Kaspová studňa",
+      "latitude": 48.714219,
+      "longitude": 20.900357
+    },
+    {
+      "name": "Falukút",
+      "latitude": 48.535461,
+      "longitude": 20.378112
+    },
+    {
+      "name": "Mútna studňa",
+      "latitude": 48.618238,
+      "longitude": 20.683676
+    },
+    {
+      "name": "Studňa Rakyta I",
+      "latitude": 48.591089,
+      "longitude": 20.567434
+    },
+    {
+      "name": "Studňa Rakyta II",
+      "latitude": 48.591196,
+      "longitude": 20.567341
+    },
+    {
+      "name": "Žedem",
+      "latitude": 48.596818,
+      "longitude": 20.578262
+    },
+    {
+      "name": "Pri Jašteričom jazierku I",
+      "latitude": 48.566471,
+      "longitude": 20.541321
+    },
+    {
+      "name": "Pri Jašteričom jazierku II",
+      "latitude": 48.566757,
+      "longitude": 20.541547
+    },
+    {
+      "name": "Zepcová",
+      "latitude": 48.561673,
+      "longitude": 20.534866
+    },
+    {
+      "name": "Mokrý kadlúbok",
+      "latitude": 48.556016,
+      "longitude": 20.506329
+    },
+    {
+      "name": "Farkas ortás",
+      "latitude": 48.537137,
+      "longitude": 20.472506
+    },
+    {
+      "name": "Obecná",
+      "latitude": 48.535279,
+      "longitude": 20.46434
+    },
+    {
+      "name": "Ardovská studňa",
+      "latitude": 48.543884,
+      "longitude": 20.530309
+    },
+    {
+      "name": "Fertéšská studňa",
+      "latitude": 48.567835,
+      "longitude": 20.691601
+    },
+    {
+      "name": "Studňa v obci",
+      "latitude": 48.900891,
+      "longitude": 21.245536
+    },
+    {
+      "name": "Prieskumný geotermálny vrt GTB-1 Budimír",
+      "latitude": 48.795646,
+      "longitude": 21.287277
+    },
+    {
+      "name": "Vrt J-2",
+      "latitude": 48.825041,
+      "longitude": 22.103982
+    },
+    {
+      "name": "Kamenná studňa",
+      "latitude": 48.787132,
+      "longitude": 21.822678
+    },
+    {
+      "name": "1230",
+      "latitude": 48.769652,
+      "longitude": 21.926013
+    },
+    {
+      "name": "vyschnutá studňa",
+      "latitude": 48.741712,
+      "longitude": 21.836285
+    },
+    {
+      "name": "Kadlubec",
+      "latitude": 48.737197,
+      "longitude": 21.959268
+    },
+    {
+      "name": "Iňačovská studňa",
+      "latitude": 48.702776,
+      "longitude": 22.062642
+    },
+    {
+      "name": "Vrt TSM-3",
+      "latitude": 48.761761,
+      "longitude": 22.197264
+    },
+    {
+      "name": "Vrt vo dvore ŠM",
+      "latitude": 48.696347,
+      "longitude": 22.166028
+    },
+    {
+      "name": "Replika pôvodnej studne",
+      "latitude": 48.69095,
+      "longitude": 21.191655
+    },
+    {
+      "name": "Kvašná voda Baririt",
+      "latitude": 48.605269,
+      "longitude": 21.560326
+    },
+    {
+      "name": "Kúpeľná studňa",
+      "latitude": 48.523758,
+      "longitude": 21.552076
+    },
+    {
+      "name": "Studňa pri kotolni",
+      "latitude": 48.523115,
+      "longitude": 21.553521
+    },
+    {
+      "name": "Studňa pri obytnom dome",
+      "latitude": 48.523758,
+      "longitude": 21.552071
+    },
+    {
+      "name": "Vrt BŠ-1",
+      "latitude": 48.523115,
+      "longitude": 21.553521
+    },
+    {
+      "name": "Kúpeľný prameň",
+      "latitude": 48.520997,
+      "longitude": 21.651764
+    },
+    {
+      "name": "Kráľovka",
+      "latitude": 48.686401,
+      "longitude": 21.811159
+    },
+    {
+      "name": "Stočok",
+      "latitude": 48.681031,
+      "longitude": 21.811978
+    },
+    {
+      "name": "SHMU 1325",
+      "latitude": 48.676974,
+      "longitude": 21.82779
+    },
+    {
+      "name": "vrt 4-247",
+      "latitude": 48.681391,
+      "longitude": 21.868884
+    },
+    {
+      "name": "Karpatská studňa",
+      "latitude": 48.668996,
+      "longitude": 22.037747
+    },
+    {
+      "name": "SHMU",
+      "latitude": 48.610098,
+      "longitude": 21.920852
+    },
+    {
+      "name": "Vrt RH-1",
+      "latitude": 48.682916,
+      "longitude": 22.151037
+    },
+    {
+      "name": "Kyselka pri ŠM",
+      "latitude": 48.655508,
+      "longitude": 22.240703
+    },
+    {
+      "name": "Vahaldova studňa",
+      "latitude": 48.522854,
+      "longitude": 21.953397
+    },
+    {
+      "name": "Kúpeľný prameň",
+      "latitude": 48.418315,
+      "longitude": 19.862348
+    },
+    {
+      "name": "Vrt B-7",
+      "latitude": 48.412119,
+      "longitude": 19.82552
+    },
+    {
+      "name": "Vrt HPV-14",
+      "latitude": 48.408727,
+      "longitude": 19.809377
+    },
+    {
+      "name": "Šťavica v obci",
+      "latitude": 48.407383,
+      "longitude": 19.873405
+    },
+    {
+      "name": "Šťavica",
+      "latitude": 48.378421,
+      "longitude": 19.813164
+    },
+    {
+      "name": "Vrt HM-5",
+      "latitude": 48.404442,
+      "longitude": 20.305313
+    },
+    {
+      "name": "Vrt RH-1 Rozália",
+      "latitude": 48.427415,
+      "longitude": 20.318107
+    },
+    {
+      "name": "Šťavica pri kúpeľoch",
+      "latitude": 48.296983,
+      "longitude": 19.983882
+    },
+    {
+      "name": "Stará šťavica",
+      "latitude": 48.265236,
+      "longitude": 19.82271
+    },
+    {
+      "name": "Domová studňa č.d.12",
+      "latitude": 48.274078,
+      "longitude": 19.880142
+    },
+    {
+      "name": "Domová studňa č.d.13",
+      "latitude": 48.27317,
+      "longitude": 19.880595
+    },
+    {
+      "name": "Domová studňa č.d.16",
+      "latitude": 48.274704,
+      "longitude": 19.879595
+    },
+    {
+      "name": "Studňa pri napájadle",
+      "latitude": 48.331473,
+      "longitude": 20.128784
+    },
+    {
+      "name": "Domová studňa č.d.2",
+      "latitude": 48.340608,
+      "longitude": 20.226025
+    },
+    {
+      "name": "Domová studňa č.d.96",
+      "latitude": 48.340242,
+      "longitude": 20.228586
+    },
+    {
+      "name": "Hygiea",
+      "latitude": 48.314345,
+      "longitude": 20.281272
+    },
+    {
+      "name": "Šťavica",
+      "latitude": 48.337295,
+      "longitude": 20.234419
+    },
+    {
+      "name": "Vrt pri šťavici",
+      "latitude": 48.199297,
+      "longitude": 19.956923
+    },
+    {
+      "name": "Šťavica",
+      "latitude": 48.199454,
+      "longitude": 19.95669
+    },
+    {
+      "name": "Ásott kút",
+      "latitude": 48.161515,
+      "longitude": 19.833614
+    },
+    {
+      "name": "Dunajská Streda - DS-2",
+      "latitude": 47.984652,
+      "longitude": 17.610309
+    },
+    {
+      "name": "Dunajská Streda - vrt DS-1",
+      "latitude": 47.985096,
+      "longitude": 17.616018
+    },
+    {
+      "name": "Vrt FGT-1",
+      "latitude": 47.976595,
+      "longitude": 17.789268
+    },
+    {
+      "name": "Vrt FGGa-1",
+      "latitude": 47.888805,
+      "longitude": 17.595399
+    },
+    {
+      "name": "Vrt VTP-11",
+      "latitude": 47.848983,
+      "longitude": 17.628523
+    },
+    {
+      "name": "Vrt ČR-1",
+      "latitude": 47.826832,
+      "longitude": 17.691253
+    },
+    {
+      "name": "Vrt Č-1",
+      "latitude": 47.846268,
+      "longitude": 17.76209
+    },
+    {
+      "name": "Vrt Č-2",
+      "latitude": 47.846939,
+      "longitude": 17.757932
+    },
+    {
+      "name": "Vrt pri Lohote",
+      "latitude": 47.858546,
+      "longitude": 18.005711
+    },
+    {
+      "name": "Vrt VZO-13",
+      "latitude": 47.766869,
+      "longitude": 17.943933
+    },
+    {
+      "name": "Vrt v lodeniciach",
+      "latitude": 47.760045,
+      "longitude": 18.101406
+    },
+    {
+      "name": "Vrt I na kúpalisku M-1",
+      "latitude": 47.757396,
+      "longitude": 18.134982
+    },
+    {
+      "name": "Vrt II na kúpalisku M-2",
+      "latitude": 47.757155,
+      "longitude": 18.135629
+    },
+    {
+      "name": "Vrt M-3",
+      "latitude": 47.756487,
+      "longitude": 18.135944
+    },
+    {
+      "name": "Vrt Kabátpuszta",
+      "latitude": 47.836307,
+      "longitude": 18.465915
+    },
+    {
+      "name": "Dísz Kerekes Kút",
+      "latitude": 47.841832,
+      "longitude": 18.82855
+    },
+    {
+      "name": "Kúpeľný prameň",
+      "latitude": 47.802832,
+      "longitude": 18.715986
+    },
+    {
+      "name": "Vrt FGŠ-1",
+      "latitude": 47.802529,
+      "longitude": 18.716383
+    },
+    {
+      "name": "Vrt VŠ -1",
+      "latitude": 47.799506,
+      "longitude": 18.726382
+    },
+    {
+      "name": "Vrt - SB3",
+      "latitude": 47.747444,
+      "longitude": 18.309761
+    },
+    {
+      "name": "Vrt 1 pri jazierku SB-1",
+      "latitude": 47.747419,
+      "longitude": 18.307918
+    },
+    {
+      "name": "Vrt II pri jazierku SB-2",
+      "latitude": 47.747223,
+      "longitude": 18.307956
+    }
+  ],
+  "meta": {
+    "title": "Studne - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (man_made=water_well). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84. Obsahuje 344 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Studne | ListBase",
+    "seo_description": "Stiahnuť Studne — 344 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 344 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "id": "sk-kraje-statistiky",
+  "name": "Kraje Slovenska — štatistické údaje (obyvateľstvo, rozloha, okresy)",
+  "title": "Kraje Slovenska — štatistické údaje (obyvateľstvo, rozloha, okresy)",
+  "description": "Štatistické údaje o 8 krajoch Slovenskej republiky: počet obyvateľov, rozloha, hustota osídlenia, počet obcí, miest a okresov.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166",
+      "label": "Iso 3166",
+      "type": "string"
+    },
+    {
+      "key": "obyvatelov",
+      "label": "Obyvatelov",
+      "type": "number"
+    },
+    {
+      "key": "rozloha_km2",
+      "label": "Rozloha Km2",
+      "type": "number"
+    },
+    {
+      "key": "hustota_obyv_km2",
+      "label": "Hustota Obyv Km2",
+      "type": "number"
+    },
+    {
+      "key": "obci",
+      "label": "Obci",
+      "type": "number"
+    },
+    {
+      "key": "miest",
+      "label": "Miest",
+      "type": "number"
+    },
+    {
+      "key": "okresov",
+      "label": "Okresov",
+      "type": "number"
+    },
+    {
+      "key": "okresy",
+      "label": "Okresy",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "kraj": "Bratislavský",
+      "iso_3166": "SK-BL",
+      "obyvatelov": 677024,
+      "rozloha_km2": 2052.5,
+      "hustota_obyv_km2": 330,
+      "obci": 73,
+      "miest": 7,
+      "okresov": 8,
+      "okresy": "Bratislava I, Bratislava II, Bratislava III, Bratislava IV, Bratislava V, Malacky, Pezinok, Senec"
+    },
+    {
+      "id": 2,
+      "kraj": "Trnavský",
+      "iso_3166": "SK-TA",
+      "obyvatelov": 565324,
+      "rozloha_km2": 4146.6,
+      "hustota_obyv_km2": 136,
+      "obci": 251,
+      "miest": 17,
+      "okresov": 7,
+      "okresy": "Dunajská Streda, Galanta, Hlohovec, Piešťany, Senica, Skalica, Trnava"
+    },
+    {
+      "id": 3,
+      "kraj": "Trenčiansky",
+      "iso_3166": "SK-TC",
+      "obyvatelov": 582567,
+      "rozloha_km2": 4502,
+      "hustota_obyv_km2": 129,
+      "obci": 276,
+      "miest": 18,
+      "okresov": 9,
+      "okresy": "Bánovce nad Bebravou, Ilava, Myjava, Nové Mesto nad Váhom, Partizánske, Považská Bystrica, Prievidza, Púchov, Trenčín"
+    },
+    {
+      "id": 4,
+      "kraj": "Nitriansky",
+      "iso_3166": "SK-NI",
+      "obyvatelov": 671508,
+      "rozloha_km2": 6343.8,
+      "hustota_obyv_km2": 106,
+      "obci": 354,
+      "miest": 16,
+      "okresov": 7,
+      "okresy": "Komárno, Levice, Nitra, Nové Zámky, Šaľa, Topoľčany, Zlaté Moravce"
+    },
+    {
+      "id": 5,
+      "kraj": "Žilinský",
+      "iso_3166": "SK-ZI",
+      "obyvatelov": 691136,
+      "rozloha_km2": 6808.7,
+      "hustota_obyv_km2": 102,
+      "obci": 315,
+      "miest": 19,
+      "okresov": 11,
+      "okresy": "Bytča, Čadca, Dolný Kubín, Kysucké Nové Mesto, Liptovský Mikuláš, Martin, Námestovo, Ružomberok, Turčianske Teplice, Tvrdošín, Žilina"
+    },
+    {
+      "id": 6,
+      "kraj": "Banskobystrický",
+      "iso_3166": "SK-BC",
+      "obyvatelov": 643102,
+      "rozloha_km2": 9454.4,
+      "hustota_obyv_km2": 68,
+      "obci": 516,
+      "miest": 24,
+      "okresov": 13,
+      "okresy": "Banská Bystrica, Banská Štiavnica, Brezno, Detva, Krupina, Lučenec, Poltár, Revúca, Rimavská Sobota, Veľký Krtíš, Zvolen, Žarnovica, Žiar nad Hronom"
+    },
+    {
+      "id": 7,
+      "kraj": "Prešovský",
+      "iso_3166": "SK-PV",
+      "obyvatelov": 827028,
+      "rozloha_km2": 8973.9,
+      "hustota_obyv_km2": 92,
+      "obci": 665,
+      "miest": 23,
+      "okresov": 13,
+      "okresy": "Bardejov, Humenné, Kežmarok, Levoča, Medzilaborce, Poprad, Prešov, Sabinov, Snina, Stará Ľubovňa, Stropkov, Svidník, Vranov nad Topľou"
+    },
+    {
+      "id": 8,
+      "kraj": "Košický",
+      "iso_3166": "SK-KI",
+      "obyvatelov": 802092,
+      "rozloha_km2": 6754.5,
+      "hustota_obyv_km2": 119,
+      "obci": 440,
+      "miest": 17,
+      "okresov": 11,
+      "okresy": "Gelnica, Košice I, Košice II, Košice III, Košice IV, Košice-okolie, Michalovce, Rožňava, Sobrance, Spišská Nová Ves, Trebišov"
+    }
+  ],
+  "meta": {
+    "title": "Kraje Slovenska — štatistické údaje (obyvateľstvo, rozloha, okresy) - Bezplatné stiahnutie",
+    "description": "Štatistické údaje o 8 krajoch Slovenskej republiky: počet obyvateľov, rozloha, hustota osídlenia, počet obcí, miest a okresov. Obsahuje 8 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Kraje Slovenska — štatistické údaje (obyvateľstvo, rozloha, okresy) | ListBase",
+    "seo_description": "Stiahnuť Kraje Slovenska — štatistické údaje (obyvateľstvo, rozloha, okresy) — 8 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 8 záznamov / 10 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

@@ -1,0 +1,2856 @@
+{
+  "id": "sk-locale-zoznam",
+  "name": "Zoznam locale (miestne nastavenia)",
+  "title": "Zoznam locale (miestne nastavenia)",
+  "description": "Zoznam locale (miestnych nastavení) sveta s názvami v slovenčine a angličtine.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 563,
+  "columns": [
+    {
+      "key": "locale_code",
+      "label": "Locale Code",
+      "type": "string"
+    },
+    {
+      "key": "nazov_sk",
+      "label": "Nazov Sk",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "locale_code": "af",
+      "nazov_sk": "afrikánčina",
+      "name_en": "Afrikaans"
+    },
+    {
+      "locale_code": "af_NA",
+      "nazov_sk": "afrikánčina (Namíbia)",
+      "name_en": "Afrikaans (Namibia)"
+    },
+    {
+      "locale_code": "af_ZA",
+      "nazov_sk": "afrikánčina (Južná Afrika)",
+      "name_en": "Afrikaans (South Africa)"
+    },
+    {
+      "locale_code": "ak",
+      "nazov_sk": "akančina",
+      "name_en": "Akan"
+    },
+    {
+      "locale_code": "ak_GH",
+      "nazov_sk": "akančina (Ghana)",
+      "name_en": "Akan (Ghana)"
+    },
+    {
+      "locale_code": "am",
+      "nazov_sk": "amharčina",
+      "name_en": "Amharic"
+    },
+    {
+      "locale_code": "am_ET",
+      "nazov_sk": "amharčina (Etiópia)",
+      "name_en": "Amharic (Ethiopia)"
+    },
+    {
+      "locale_code": "ar",
+      "nazov_sk": "arabčina",
+      "name_en": "Arabic"
+    },
+    {
+      "locale_code": "ar_AE",
+      "nazov_sk": "arabčina (Spojené arabské emiráty)",
+      "name_en": "Arabic (United Arab Emirates)"
+    },
+    {
+      "locale_code": "ar_BH",
+      "nazov_sk": "arabčina (Bahrajn)",
+      "name_en": "Arabic (Bahrain)"
+    },
+    {
+      "locale_code": "ar_DJ",
+      "nazov_sk": "arabčina (Džibutsko)",
+      "name_en": "Arabic (Djibouti)"
+    },
+    {
+      "locale_code": "ar_DZ",
+      "nazov_sk": "arabčina (Alžírsko)",
+      "name_en": "Arabic (Algeria)"
+    },
+    {
+      "locale_code": "ar_EG",
+      "nazov_sk": "arabčina (Egypt)",
+      "name_en": "Arabic (Egypt)"
+    },
+    {
+      "locale_code": "ar_EH",
+      "nazov_sk": "arabčina (Západná Sahara)",
+      "name_en": "Arabic (Western Sahara)"
+    },
+    {
+      "locale_code": "ar_ER",
+      "nazov_sk": "arabčina (Eritrea)",
+      "name_en": "Arabic (Eritrea)"
+    },
+    {
+      "locale_code": "ar_IL",
+      "nazov_sk": "arabčina (Izrael)",
+      "name_en": "Arabic (Israel)"
+    },
+    {
+      "locale_code": "ar_IQ",
+      "nazov_sk": "arabčina (Irak)",
+      "name_en": "Arabic (Iraq)"
+    },
+    {
+      "locale_code": "ar_JO",
+      "nazov_sk": "arabčina (Jordánsko)",
+      "name_en": "Arabic (Jordan)"
+    },
+    {
+      "locale_code": "ar_KM",
+      "nazov_sk": "arabčina (Komory)",
+      "name_en": "Arabic (Comoros)"
+    },
+    {
+      "locale_code": "ar_KW",
+      "nazov_sk": "arabčina (Kuvajt)",
+      "name_en": "Arabic (Kuwait)"
+    },
+    {
+      "locale_code": "ar_LB",
+      "nazov_sk": "arabčina (Libanon)",
+      "name_en": "Arabic (Lebanon)"
+    },
+    {
+      "locale_code": "ar_LY",
+      "nazov_sk": "arabčina (Líbya)",
+      "name_en": "Arabic (Libya)"
+    },
+    {
+      "locale_code": "ar_MA",
+      "nazov_sk": "arabčina (Maroko)",
+      "name_en": "Arabic (Morocco)"
+    },
+    {
+      "locale_code": "ar_MR",
+      "nazov_sk": "arabčina (Mauritánia)",
+      "name_en": "Arabic (Mauritania)"
+    },
+    {
+      "locale_code": "ar_OM",
+      "nazov_sk": "arabčina (Omán)",
+      "name_en": "Arabic (Oman)"
+    },
+    {
+      "locale_code": "ar_PS",
+      "nazov_sk": "arabčina (Palestínske územia)",
+      "name_en": "Arabic (Palestinian Territories)"
+    },
+    {
+      "locale_code": "ar_QA",
+      "nazov_sk": "arabčina (Katar)",
+      "name_en": "Arabic (Qatar)"
+    },
+    {
+      "locale_code": "ar_SA",
+      "nazov_sk": "arabčina (Saudská Arábia)",
+      "name_en": "Arabic (Saudi Arabia)"
+    },
+    {
+      "locale_code": "ar_SD",
+      "nazov_sk": "arabčina (Sudán)",
+      "name_en": "Arabic (Sudan)"
+    },
+    {
+      "locale_code": "ar_SO",
+      "nazov_sk": "arabčina (Somálsko)",
+      "name_en": "Arabic (Somalia)"
+    },
+    {
+      "locale_code": "ar_SS",
+      "nazov_sk": "arabčina (Južný Sudán)",
+      "name_en": "Arabic (South Sudan)"
+    },
+    {
+      "locale_code": "ar_SY",
+      "nazov_sk": "arabčina (Sýria)",
+      "name_en": "Arabic (Syria)"
+    },
+    {
+      "locale_code": "ar_TD",
+      "nazov_sk": "arabčina (Čad)",
+      "name_en": "Arabic (Chad)"
+    },
+    {
+      "locale_code": "ar_TN",
+      "nazov_sk": "arabčina (Tunisko)",
+      "name_en": "Arabic (Tunisia)"
+    },
+    {
+      "locale_code": "ar_YE",
+      "nazov_sk": "arabčina (Jemen)",
+      "name_en": "Arabic (Yemen)"
+    },
+    {
+      "locale_code": "as",
+      "nazov_sk": "ásamčina",
+      "name_en": "Assamese"
+    },
+    {
+      "locale_code": "as_IN",
+      "nazov_sk": "ásamčina (India)",
+      "name_en": "Assamese (India)"
+    },
+    {
+      "locale_code": "az",
+      "nazov_sk": "azerbajdžančina",
+      "name_en": "Azerbaijani"
+    },
+    {
+      "locale_code": "az_AZ",
+      "nazov_sk": "azerbajdžančina (Azerbajdžan)",
+      "name_en": "Azerbaijani (Azerbaijan)"
+    },
+    {
+      "locale_code": "az_Cyrl",
+      "nazov_sk": "azerbajdžančina (cyrilika)",
+      "name_en": "Azerbaijani (Cyrillic)"
+    },
+    {
+      "locale_code": "az_Cyrl_AZ",
+      "nazov_sk": "azerbajdžančina (cyrilika, Azerbajdžan)",
+      "name_en": "Azerbaijani (Cyrillic, Azerbaijan)"
+    },
+    {
+      "locale_code": "az_Latn",
+      "nazov_sk": "azerbajdžančina (latinka)",
+      "name_en": "Azerbaijani (Latin)"
+    },
+    {
+      "locale_code": "az_Latn_AZ",
+      "nazov_sk": "azerbajdžančina (latinka, Azerbajdžan)",
+      "name_en": "Azerbaijani (Latin, Azerbaijan)"
+    },
+    {
+      "locale_code": "be",
+      "nazov_sk": "bieloruština",
+      "name_en": "Belarusian"
+    },
+    {
+      "locale_code": "be_BY",
+      "nazov_sk": "bieloruština (Bielorusko)",
+      "name_en": "Belarusian (Belarus)"
+    },
+    {
+      "locale_code": "bg",
+      "nazov_sk": "bulharčina",
+      "name_en": "Bulgarian"
+    },
+    {
+      "locale_code": "bg_BG",
+      "nazov_sk": "bulharčina (Bulharsko)",
+      "name_en": "Bulgarian (Bulgaria)"
+    },
+    {
+      "locale_code": "bm",
+      "nazov_sk": "bambarčina",
+      "name_en": "Bambara"
+    },
+    {
+      "locale_code": "bm_Latn",
+      "nazov_sk": "bambarčina (latinka)",
+      "name_en": "Bambara (Latin)"
+    },
+    {
+      "locale_code": "bm_Latn_ML",
+      "nazov_sk": "bambarčina (latinka, Mali)",
+      "name_en": "Bambara (Latin, Mali)"
+    },
+    {
+      "locale_code": "bn",
+      "nazov_sk": "bengálčina",
+      "name_en": "Bengali"
+    },
+    {
+      "locale_code": "bn_BD",
+      "nazov_sk": "bengálčina (Bangladéš)",
+      "name_en": "Bengali (Bangladesh)"
+    },
+    {
+      "locale_code": "bn_IN",
+      "nazov_sk": "bengálčina (India)",
+      "name_en": "Bengali (India)"
+    },
+    {
+      "locale_code": "bo",
+      "nazov_sk": "tibetčina",
+      "name_en": "Tibetan"
+    },
+    {
+      "locale_code": "bo_CN",
+      "nazov_sk": "tibetčina (Čína)",
+      "name_en": "Tibetan (China)"
+    },
+    {
+      "locale_code": "bo_IN",
+      "nazov_sk": "tibetčina (India)",
+      "name_en": "Tibetan (India)"
+    },
+    {
+      "locale_code": "br",
+      "nazov_sk": "bretónčina",
+      "name_en": "Breton"
+    },
+    {
+      "locale_code": "br_FR",
+      "nazov_sk": "bretónčina (Francúzsko)",
+      "name_en": "Breton (France)"
+    },
+    {
+      "locale_code": "bs",
+      "nazov_sk": "bosniačtina",
+      "name_en": "Bosnian"
+    },
+    {
+      "locale_code": "bs_BA",
+      "nazov_sk": "bosniačtina (Bosna a Hercegovina)",
+      "name_en": "Bosnian (Bosnia & Herzegovina)"
+    },
+    {
+      "locale_code": "bs_Cyrl",
+      "nazov_sk": "bosniačtina (cyrilika)",
+      "name_en": "Bosnian (Cyrillic)"
+    },
+    {
+      "locale_code": "bs_Cyrl_BA",
+      "nazov_sk": "bosniačtina (cyrilika, Bosna a Hercegovina)",
+      "name_en": "Bosnian (Cyrillic, Bosnia & Herzegovina)"
+    },
+    {
+      "locale_code": "bs_Latn",
+      "nazov_sk": "bosniačtina (latinka)",
+      "name_en": "Bosnian (Latin)"
+    },
+    {
+      "locale_code": "bs_Latn_BA",
+      "nazov_sk": "bosniačtina (latinka, Bosna a Hercegovina)",
+      "name_en": "Bosnian (Latin, Bosnia & Herzegovina)"
+    },
+    {
+      "locale_code": "ca",
+      "nazov_sk": "katalánčina",
+      "name_en": "Catalan"
+    },
+    {
+      "locale_code": "ca_AD",
+      "nazov_sk": "katalánčina (Andorra)",
+      "name_en": "Catalan (Andorra)"
+    },
+    {
+      "locale_code": "ca_ES",
+      "nazov_sk": "katalánčina (Španielsko)",
+      "name_en": "Catalan (Spain)"
+    },
+    {
+      "locale_code": "ca_FR",
+      "nazov_sk": "katalánčina (Francúzsko)",
+      "name_en": "Catalan (France)"
+    },
+    {
+      "locale_code": "ca_IT",
+      "nazov_sk": "katalánčina (Taliansko)",
+      "name_en": "Catalan (Italy)"
+    },
+    {
+      "locale_code": "cs",
+      "nazov_sk": "čeština",
+      "name_en": "Czech"
+    },
+    {
+      "locale_code": "cs_CZ",
+      "nazov_sk": "čeština (Česká republika)",
+      "name_en": "Czech (Czech Republic)"
+    },
+    {
+      "locale_code": "cy",
+      "nazov_sk": "waleština",
+      "name_en": "Welsh"
+    },
+    {
+      "locale_code": "cy_GB",
+      "nazov_sk": "waleština (Spojené kráľovstvo)",
+      "name_en": "Welsh (United Kingdom)"
+    },
+    {
+      "locale_code": "da",
+      "nazov_sk": "dánčina",
+      "name_en": "Danish"
+    },
+    {
+      "locale_code": "da_DK",
+      "nazov_sk": "dánčina (Dánsko)",
+      "name_en": "Danish (Denmark)"
+    },
+    {
+      "locale_code": "da_GL",
+      "nazov_sk": "dánčina (Grónsko)",
+      "name_en": "Danish (Greenland)"
+    },
+    {
+      "locale_code": "de",
+      "nazov_sk": "nemčina",
+      "name_en": "German"
+    },
+    {
+      "locale_code": "de_AT",
+      "nazov_sk": "nemčina (Rakúsko)",
+      "name_en": "German (Austria)"
+    },
+    {
+      "locale_code": "de_BE",
+      "nazov_sk": "nemčina (Belgicko)",
+      "name_en": "German (Belgium)"
+    },
+    {
+      "locale_code": "de_CH",
+      "nazov_sk": "nemčina (Švajčiarsko)",
+      "name_en": "German (Switzerland)"
+    },
+    {
+      "locale_code": "de_DE",
+      "nazov_sk": "nemčina (Nemecko)",
+      "name_en": "German (Germany)"
+    },
+    {
+      "locale_code": "de_LI",
+      "nazov_sk": "nemčina (Lichtenštajnsko)",
+      "name_en": "German (Liechtenstein)"
+    },
+    {
+      "locale_code": "de_LU",
+      "nazov_sk": "nemčina (Luxembursko)",
+      "name_en": "German (Luxembourg)"
+    },
+    {
+      "locale_code": "dz",
+      "nazov_sk": "dzongkä",
+      "name_en": "Dzongkha"
+    },
+    {
+      "locale_code": "dz_BT",
+      "nazov_sk": "dzongkä (Bhután)",
+      "name_en": "Dzongkha (Bhutan)"
+    },
+    {
+      "locale_code": "ee",
+      "nazov_sk": "ewe",
+      "name_en": "Ewe"
+    },
+    {
+      "locale_code": "ee_GH",
+      "nazov_sk": "ewe (Ghana)",
+      "name_en": "Ewe (Ghana)"
+    },
+    {
+      "locale_code": "ee_TG",
+      "nazov_sk": "ewe (Togo)",
+      "name_en": "Ewe (Togo)"
+    },
+    {
+      "locale_code": "el",
+      "nazov_sk": "gréčtina",
+      "name_en": "Greek"
+    },
+    {
+      "locale_code": "el_CY",
+      "nazov_sk": "gréčtina (Cyprus)",
+      "name_en": "Greek (Cyprus)"
+    },
+    {
+      "locale_code": "el_GR",
+      "nazov_sk": "gréčtina (Grécko)",
+      "name_en": "Greek (Greece)"
+    },
+    {
+      "locale_code": "en",
+      "nazov_sk": "angličtina",
+      "name_en": "English"
+    },
+    {
+      "locale_code": "en_AG",
+      "nazov_sk": "angličtina (Antigua a Barbuda)",
+      "name_en": "English (Antigua & Barbuda)"
+    },
+    {
+      "locale_code": "en_AI",
+      "nazov_sk": "angličtina (Anguilla)",
+      "name_en": "English (Anguilla)"
+    },
+    {
+      "locale_code": "en_AS",
+      "nazov_sk": "angličtina (Americká Samoa)",
+      "name_en": "English (American Samoa)"
+    },
+    {
+      "locale_code": "en_AU",
+      "nazov_sk": "angličtina (Austrália)",
+      "name_en": "English (Australia)"
+    },
+    {
+      "locale_code": "en_BB",
+      "nazov_sk": "angličtina (Barbados)",
+      "name_en": "English (Barbados)"
+    },
+    {
+      "locale_code": "en_BE",
+      "nazov_sk": "angličtina (Belgicko)",
+      "name_en": "English (Belgium)"
+    },
+    {
+      "locale_code": "en_BM",
+      "nazov_sk": "angličtina (Bermudy)",
+      "name_en": "English (Bermuda)"
+    },
+    {
+      "locale_code": "en_BS",
+      "nazov_sk": "angličtina (Bahamy)",
+      "name_en": "English (Bahamas)"
+    },
+    {
+      "locale_code": "en_BW",
+      "nazov_sk": "angličtina (Botswana)",
+      "name_en": "English (Botswana)"
+    },
+    {
+      "locale_code": "en_BZ",
+      "nazov_sk": "angličtina (Belize)",
+      "name_en": "English (Belize)"
+    },
+    {
+      "locale_code": "en_CA",
+      "nazov_sk": "angličtina (Kanada)",
+      "name_en": "English (Canada)"
+    },
+    {
+      "locale_code": "en_CC",
+      "nazov_sk": "angličtina (Kokosové ostrovy)",
+      "name_en": "English (Cocos (Keeling) Islands)"
+    },
+    {
+      "locale_code": "en_CK",
+      "nazov_sk": "angličtina (Cookove ostrovy)",
+      "name_en": "English (Cook Islands)"
+    },
+    {
+      "locale_code": "en_CM",
+      "nazov_sk": "angličtina (Kamerun)",
+      "name_en": "English (Cameroon)"
+    },
+    {
+      "locale_code": "en_CX",
+      "nazov_sk": "angličtina (Vianočný ostrov)",
+      "name_en": "English (Christmas Island)"
+    },
+    {
+      "locale_code": "en_DG",
+      "nazov_sk": "angličtina (Diego García)",
+      "name_en": "English (Diego Garcia)"
+    },
+    {
+      "locale_code": "en_DM",
+      "nazov_sk": "angličtina (Dominika)",
+      "name_en": "English (Dominica)"
+    },
+    {
+      "locale_code": "en_ER",
+      "nazov_sk": "angličtina (Eritrea)",
+      "name_en": "English (Eritrea)"
+    },
+    {
+      "locale_code": "en_FJ",
+      "nazov_sk": "angličtina (Fidži)",
+      "name_en": "English (Fiji)"
+    },
+    {
+      "locale_code": "en_FK",
+      "nazov_sk": "angličtina (Falklandy)",
+      "name_en": "English (Falkland Islands)"
+    },
+    {
+      "locale_code": "en_FM",
+      "nazov_sk": "angličtina (Mikronézia)",
+      "name_en": "English (Micronesia)"
+    },
+    {
+      "locale_code": "en_GB",
+      "nazov_sk": "angličtina (Spojené kráľovstvo)",
+      "name_en": "English (United Kingdom)"
+    },
+    {
+      "locale_code": "en_GD",
+      "nazov_sk": "angličtina (Grenada)",
+      "name_en": "English (Grenada)"
+    },
+    {
+      "locale_code": "en_GG",
+      "nazov_sk": "angličtina (Guernsey)",
+      "name_en": "English (Guernsey)"
+    },
+    {
+      "locale_code": "en_GH",
+      "nazov_sk": "angličtina (Ghana)",
+      "name_en": "English (Ghana)"
+    },
+    {
+      "locale_code": "en_GI",
+      "nazov_sk": "angličtina (Gibraltár)",
+      "name_en": "English (Gibraltar)"
+    },
+    {
+      "locale_code": "en_GM",
+      "nazov_sk": "angličtina (Gambia)",
+      "name_en": "English (Gambia)"
+    },
+    {
+      "locale_code": "en_GU",
+      "nazov_sk": "angličtina (Guam)",
+      "name_en": "English (Guam)"
+    },
+    {
+      "locale_code": "en_GY",
+      "nazov_sk": "angličtina (Guayana)",
+      "name_en": "English (Guyana)"
+    },
+    {
+      "locale_code": "en_HK",
+      "nazov_sk": "angličtina (Hongkong – OAO Číny)",
+      "name_en": "English (Hong Kong SAR China)"
+    },
+    {
+      "locale_code": "en_IE",
+      "nazov_sk": "angličtina (Írsko)",
+      "name_en": "English (Ireland)"
+    },
+    {
+      "locale_code": "en_IM",
+      "nazov_sk": "angličtina (Ostrov Man)",
+      "name_en": "English (Isle of Man)"
+    },
+    {
+      "locale_code": "en_IN",
+      "nazov_sk": "angličtina (India)",
+      "name_en": "English (India)"
+    },
+    {
+      "locale_code": "en_IO",
+      "nazov_sk": "angličtina (Britské indickooceánske územie)",
+      "name_en": "English (British Indian Ocean Territory)"
+    },
+    {
+      "locale_code": "en_JE",
+      "nazov_sk": "angličtina (Jersey)",
+      "name_en": "English (Jersey)"
+    },
+    {
+      "locale_code": "en_JM",
+      "nazov_sk": "angličtina (Jamajka)",
+      "name_en": "English (Jamaica)"
+    },
+    {
+      "locale_code": "en_KE",
+      "nazov_sk": "angličtina (Keňa)",
+      "name_en": "English (Kenya)"
+    },
+    {
+      "locale_code": "en_KI",
+      "nazov_sk": "angličtina (Kiribati)",
+      "name_en": "English (Kiribati)"
+    },
+    {
+      "locale_code": "en_KN",
+      "nazov_sk": "angličtina (Svätý Krištof a Nevis)",
+      "name_en": "English (St. Kitts & Nevis)"
+    },
+    {
+      "locale_code": "en_KY",
+      "nazov_sk": "angličtina (Kajmanie ostrovy)",
+      "name_en": "English (Cayman Islands)"
+    },
+    {
+      "locale_code": "en_LC",
+      "nazov_sk": "angličtina (Svätá Lucia)",
+      "name_en": "English (St. Lucia)"
+    },
+    {
+      "locale_code": "en_LR",
+      "nazov_sk": "angličtina (Libéria)",
+      "name_en": "English (Liberia)"
+    },
+    {
+      "locale_code": "en_LS",
+      "nazov_sk": "angličtina (Lesotho)",
+      "name_en": "English (Lesotho)"
+    },
+    {
+      "locale_code": "en_MG",
+      "nazov_sk": "angličtina (Madagaskar)",
+      "name_en": "English (Madagascar)"
+    },
+    {
+      "locale_code": "en_MH",
+      "nazov_sk": "angličtina (Marshallove ostrovy)",
+      "name_en": "English (Marshall Islands)"
+    },
+    {
+      "locale_code": "en_MO",
+      "nazov_sk": "angličtina (Macao – OAO Číny)",
+      "name_en": "English (Macau SAR China)"
+    },
+    {
+      "locale_code": "en_MP",
+      "nazov_sk": "angličtina (Severné Mariány)",
+      "name_en": "English (Northern Mariana Islands)"
+    },
+    {
+      "locale_code": "en_MS",
+      "nazov_sk": "angličtina (Montserrat)",
+      "name_en": "English (Montserrat)"
+    },
+    {
+      "locale_code": "en_MT",
+      "nazov_sk": "angličtina (Malta)",
+      "name_en": "English (Malta)"
+    },
+    {
+      "locale_code": "en_MU",
+      "nazov_sk": "angličtina (Maurícius)",
+      "name_en": "English (Mauritius)"
+    },
+    {
+      "locale_code": "en_MW",
+      "nazov_sk": "angličtina (Malawi)",
+      "name_en": "English (Malawi)"
+    },
+    {
+      "locale_code": "en_MY",
+      "nazov_sk": "angličtina (Malajzia)",
+      "name_en": "English (Malaysia)"
+    },
+    {
+      "locale_code": "en_NA",
+      "nazov_sk": "angličtina (Namíbia)",
+      "name_en": "English (Namibia)"
+    },
+    {
+      "locale_code": "en_NF",
+      "nazov_sk": "angličtina (Norfolk)",
+      "name_en": "English (Norfolk Island)"
+    },
+    {
+      "locale_code": "en_NG",
+      "nazov_sk": "angličtina (Nigéria)",
+      "name_en": "English (Nigeria)"
+    },
+    {
+      "locale_code": "en_NR",
+      "nazov_sk": "angličtina (Nauru)",
+      "name_en": "English (Nauru)"
+    },
+    {
+      "locale_code": "en_NU",
+      "nazov_sk": "angličtina (Niue)",
+      "name_en": "English (Niue)"
+    },
+    {
+      "locale_code": "en_NZ",
+      "nazov_sk": "angličtina (Nový Zéland)",
+      "name_en": "English (New Zealand)"
+    },
+    {
+      "locale_code": "en_PG",
+      "nazov_sk": "angličtina (Papua Nová Guinea)",
+      "name_en": "English (Papua New Guinea)"
+    },
+    {
+      "locale_code": "en_PH",
+      "nazov_sk": "angličtina (Filipíny)",
+      "name_en": "English (Philippines)"
+    },
+    {
+      "locale_code": "en_PK",
+      "nazov_sk": "angličtina (Pakistan)",
+      "name_en": "English (Pakistan)"
+    },
+    {
+      "locale_code": "en_PN",
+      "nazov_sk": "angličtina (Pitcairnove ostrovy)",
+      "name_en": "English (Pitcairn Islands)"
+    },
+    {
+      "locale_code": "en_PR",
+      "nazov_sk": "angličtina (Portoriko)",
+      "name_en": "English (Puerto Rico)"
+    },
+    {
+      "locale_code": "en_PW",
+      "nazov_sk": "angličtina (Palau)",
+      "name_en": "English (Palau)"
+    },
+    {
+      "locale_code": "en_RW",
+      "nazov_sk": "angličtina (Rwanda)",
+      "name_en": "English (Rwanda)"
+    },
+    {
+      "locale_code": "en_SB",
+      "nazov_sk": "angličtina (Šalamúnove ostrovy)",
+      "name_en": "English (Solomon Islands)"
+    },
+    {
+      "locale_code": "en_SC",
+      "nazov_sk": "angličtina (Seychely)",
+      "name_en": "English (Seychelles)"
+    },
+    {
+      "locale_code": "en_SD",
+      "nazov_sk": "angličtina (Sudán)",
+      "name_en": "English (Sudan)"
+    },
+    {
+      "locale_code": "en_SG",
+      "nazov_sk": "angličtina (Singapur)",
+      "name_en": "English (Singapore)"
+    },
+    {
+      "locale_code": "en_SH",
+      "nazov_sk": "angličtina (Svätá Helena)",
+      "name_en": "English (St. Helena)"
+    },
+    {
+      "locale_code": "en_SL",
+      "nazov_sk": "angličtina (Sierra Leone)",
+      "name_en": "English (Sierra Leone)"
+    },
+    {
+      "locale_code": "en_SS",
+      "nazov_sk": "angličtina (Južný Sudán)",
+      "name_en": "English (South Sudan)"
+    },
+    {
+      "locale_code": "en_SX",
+      "nazov_sk": "angličtina (Sint Maarten)",
+      "name_en": "English (Sint Maarten)"
+    },
+    {
+      "locale_code": "en_SZ",
+      "nazov_sk": "angličtina (Svazijsko)",
+      "name_en": "English (Swaziland)"
+    },
+    {
+      "locale_code": "en_TC",
+      "nazov_sk": "angličtina (Turks a Caicos)",
+      "name_en": "English (Turks & Caicos Islands)"
+    },
+    {
+      "locale_code": "en_TK",
+      "nazov_sk": "angličtina (Tokelau)",
+      "name_en": "English (Tokelau)"
+    },
+    {
+      "locale_code": "en_TO",
+      "nazov_sk": "angličtina (Tonga)",
+      "name_en": "English (Tonga)"
+    },
+    {
+      "locale_code": "en_TT",
+      "nazov_sk": "angličtina (Trinidad a Tobago)",
+      "name_en": "English (Trinidad & Tobago)"
+    },
+    {
+      "locale_code": "en_TV",
+      "nazov_sk": "angličtina (Tuvalu)",
+      "name_en": "English (Tuvalu)"
+    },
+    {
+      "locale_code": "en_TZ",
+      "nazov_sk": "angličtina (Tanzánia)",
+      "name_en": "English (Tanzania)"
+    },
+    {
+      "locale_code": "en_UG",
+      "nazov_sk": "angličtina (Uganda)",
+      "name_en": "English (Uganda)"
+    },
+    {
+      "locale_code": "en_UM",
+      "nazov_sk": "angličtina (Menšie odľahlé ostrovy USA)",
+      "name_en": "English (U.S. Outlying Islands)"
+    },
+    {
+      "locale_code": "en_US",
+      "nazov_sk": "angličtina (Spojené štáty)",
+      "name_en": "English (United States)"
+    },
+    {
+      "locale_code": "en_VC",
+      "nazov_sk": "angličtina (Svätý Vincent a Grenadíny)",
+      "name_en": "English (St. Vincent & Grenadines)"
+    },
+    {
+      "locale_code": "en_VG",
+      "nazov_sk": "angličtina (Britské Panenské ostrovy)",
+      "name_en": "English (British Virgin Islands)"
+    },
+    {
+      "locale_code": "en_VI",
+      "nazov_sk": "angličtina (Americké Panenské ostrovy)",
+      "name_en": "English (U.S. Virgin Islands)"
+    },
+    {
+      "locale_code": "en_VU",
+      "nazov_sk": "angličtina (Vanuatu)",
+      "name_en": "English (Vanuatu)"
+    },
+    {
+      "locale_code": "en_WS",
+      "nazov_sk": "angličtina (Samoa)",
+      "name_en": "English (Samoa)"
+    },
+    {
+      "locale_code": "en_ZA",
+      "nazov_sk": "angličtina (Južná Afrika)",
+      "name_en": "English (South Africa)"
+    },
+    {
+      "locale_code": "en_ZM",
+      "nazov_sk": "angličtina (Zambia)",
+      "name_en": "English (Zambia)"
+    },
+    {
+      "locale_code": "en_ZW",
+      "nazov_sk": "angličtina (Zimbabwe)",
+      "name_en": "English (Zimbabwe)"
+    },
+    {
+      "locale_code": "eo",
+      "nazov_sk": "esperanto",
+      "name_en": "Esperanto"
+    },
+    {
+      "locale_code": "es",
+      "nazov_sk": "španielčina",
+      "name_en": "Spanish"
+    },
+    {
+      "locale_code": "es_AR",
+      "nazov_sk": "španielčina (Argentína)",
+      "name_en": "Spanish (Argentina)"
+    },
+    {
+      "locale_code": "es_BO",
+      "nazov_sk": "španielčina (Bolívia)",
+      "name_en": "Spanish (Bolivia)"
+    },
+    {
+      "locale_code": "es_CL",
+      "nazov_sk": "španielčina (Čile)",
+      "name_en": "Spanish (Chile)"
+    },
+    {
+      "locale_code": "es_CO",
+      "nazov_sk": "španielčina (Kolumbia)",
+      "name_en": "Spanish (Colombia)"
+    },
+    {
+      "locale_code": "es_CR",
+      "nazov_sk": "španielčina (Kostarika)",
+      "name_en": "Spanish (Costa Rica)"
+    },
+    {
+      "locale_code": "es_CU",
+      "nazov_sk": "španielčina (Kuba)",
+      "name_en": "Spanish (Cuba)"
+    },
+    {
+      "locale_code": "es_DO",
+      "nazov_sk": "španielčina (Dominikánska republika)",
+      "name_en": "Spanish (Dominican Republic)"
+    },
+    {
+      "locale_code": "es_EA",
+      "nazov_sk": "španielčina (Ceuta a Melilla)",
+      "name_en": "Spanish (Ceuta & Melilla)"
+    },
+    {
+      "locale_code": "es_EC",
+      "nazov_sk": "španielčina (Ekvádor)",
+      "name_en": "Spanish (Ecuador)"
+    },
+    {
+      "locale_code": "es_ES",
+      "nazov_sk": "španielčina (Španielsko)",
+      "name_en": "Spanish (Spain)"
+    },
+    {
+      "locale_code": "es_GQ",
+      "nazov_sk": "španielčina (Rovníková Guinea)",
+      "name_en": "Spanish (Equatorial Guinea)"
+    },
+    {
+      "locale_code": "es_GT",
+      "nazov_sk": "španielčina (Guatemala)",
+      "name_en": "Spanish (Guatemala)"
+    },
+    {
+      "locale_code": "es_HN",
+      "nazov_sk": "španielčina (Honduras)",
+      "name_en": "Spanish (Honduras)"
+    },
+    {
+      "locale_code": "es_IC",
+      "nazov_sk": "španielčina (Kanárske ostrovy)",
+      "name_en": "Spanish (Canary Islands)"
+    },
+    {
+      "locale_code": "es_MX",
+      "nazov_sk": "španielčina (Mexiko)",
+      "name_en": "Spanish (Mexico)"
+    },
+    {
+      "locale_code": "es_NI",
+      "nazov_sk": "španielčina (Nikaragua)",
+      "name_en": "Spanish (Nicaragua)"
+    },
+    {
+      "locale_code": "es_PA",
+      "nazov_sk": "španielčina (Panama)",
+      "name_en": "Spanish (Panama)"
+    },
+    {
+      "locale_code": "es_PE",
+      "nazov_sk": "španielčina (Peru)",
+      "name_en": "Spanish (Peru)"
+    },
+    {
+      "locale_code": "es_PH",
+      "nazov_sk": "španielčina (Filipíny)",
+      "name_en": "Spanish (Philippines)"
+    },
+    {
+      "locale_code": "es_PR",
+      "nazov_sk": "španielčina (Portoriko)",
+      "name_en": "Spanish (Puerto Rico)"
+    },
+    {
+      "locale_code": "es_PY",
+      "nazov_sk": "španielčina (Paraguaj)",
+      "name_en": "Spanish (Paraguay)"
+    },
+    {
+      "locale_code": "es_SV",
+      "nazov_sk": "španielčina (Salvádor)",
+      "name_en": "Spanish (El Salvador)"
+    },
+    {
+      "locale_code": "es_US",
+      "nazov_sk": "španielčina (Spojené štáty)",
+      "name_en": "Spanish (United States)"
+    },
+    {
+      "locale_code": "es_UY",
+      "nazov_sk": "španielčina (Uruguaj)",
+      "name_en": "Spanish (Uruguay)"
+    },
+    {
+      "locale_code": "es_VE",
+      "nazov_sk": "španielčina (Venezuela)",
+      "name_en": "Spanish (Venezuela)"
+    },
+    {
+      "locale_code": "et",
+      "nazov_sk": "estónčina",
+      "name_en": "Estonian"
+    },
+    {
+      "locale_code": "et_EE",
+      "nazov_sk": "estónčina (Estónsko)",
+      "name_en": "Estonian (Estonia)"
+    },
+    {
+      "locale_code": "eu",
+      "nazov_sk": "baskičtina",
+      "name_en": "Basque"
+    },
+    {
+      "locale_code": "eu_ES",
+      "nazov_sk": "baskičtina (Španielsko)",
+      "name_en": "Basque (Spain)"
+    },
+    {
+      "locale_code": "fa",
+      "nazov_sk": "perzština",
+      "name_en": "Persian"
+    },
+    {
+      "locale_code": "fa_AF",
+      "nazov_sk": "perzština (Afganistan)",
+      "name_en": "Persian (Afghanistan)"
+    },
+    {
+      "locale_code": "fa_IR",
+      "nazov_sk": "perzština (Irán)",
+      "name_en": "Persian (Iran)"
+    },
+    {
+      "locale_code": "ff",
+      "nazov_sk": "fulbčina",
+      "name_en": "Fulah"
+    },
+    {
+      "locale_code": "ff_CM",
+      "nazov_sk": "fulbčina (Kamerun)",
+      "name_en": "Fulah (Cameroon)"
+    },
+    {
+      "locale_code": "ff_GN",
+      "nazov_sk": "fulbčina (Guinea)",
+      "name_en": "Fulah (Guinea)"
+    },
+    {
+      "locale_code": "ff_MR",
+      "nazov_sk": "fulbčina (Mauritánia)",
+      "name_en": "Fulah (Mauritania)"
+    },
+    {
+      "locale_code": "ff_SN",
+      "nazov_sk": "fulbčina (Senegal)",
+      "name_en": "Fulah (Senegal)"
+    },
+    {
+      "locale_code": "fi",
+      "nazov_sk": "fínčina",
+      "name_en": "Finnish"
+    },
+    {
+      "locale_code": "fi_FI",
+      "nazov_sk": "fínčina (Fínsko)",
+      "name_en": "Finnish (Finland)"
+    },
+    {
+      "locale_code": "fo",
+      "nazov_sk": "faerčina",
+      "name_en": "Faroese"
+    },
+    {
+      "locale_code": "fo_FO",
+      "nazov_sk": "faerčina (Faerské ostrovy)",
+      "name_en": "Faroese (Faroe Islands)"
+    },
+    {
+      "locale_code": "fr",
+      "nazov_sk": "francúzština",
+      "name_en": "French"
+    },
+    {
+      "locale_code": "fr_BE",
+      "nazov_sk": "francúzština (Belgicko)",
+      "name_en": "French (Belgium)"
+    },
+    {
+      "locale_code": "fr_BF",
+      "nazov_sk": "francúzština (Burkina Faso)",
+      "name_en": "French (Burkina Faso)"
+    },
+    {
+      "locale_code": "fr_BI",
+      "nazov_sk": "francúzština (Burundi)",
+      "name_en": "French (Burundi)"
+    },
+    {
+      "locale_code": "fr_BJ",
+      "nazov_sk": "francúzština (Benin)",
+      "name_en": "French (Benin)"
+    },
+    {
+      "locale_code": "fr_BL",
+      "nazov_sk": "francúzština (Svätý Bartolomej)",
+      "name_en": "French (St. Barthélemy)"
+    },
+    {
+      "locale_code": "fr_CA",
+      "nazov_sk": "francúzština (Kanada)",
+      "name_en": "French (Canada)"
+    },
+    {
+      "locale_code": "fr_CD",
+      "nazov_sk": "francúzština (Kongo - Kinshasa)",
+      "name_en": "French (Congo - Kinshasa)"
+    },
+    {
+      "locale_code": "fr_CF",
+      "nazov_sk": "francúzština (Stredoafrická republika)",
+      "name_en": "French (Central African Republic)"
+    },
+    {
+      "locale_code": "fr_CG",
+      "nazov_sk": "francúzština (Kongo - Brazzaville)",
+      "name_en": "French (Congo - Brazzaville)"
+    },
+    {
+      "locale_code": "fr_CH",
+      "nazov_sk": "francúzština (Švajčiarsko)",
+      "name_en": "French (Switzerland)"
+    },
+    {
+      "locale_code": "fr_CI",
+      "nazov_sk": "francúzština (Pobrežie Slonoviny)",
+      "name_en": "French (Côte d’Ivoire)"
+    },
+    {
+      "locale_code": "fr_CM",
+      "nazov_sk": "francúzština (Kamerun)",
+      "name_en": "French (Cameroon)"
+    },
+    {
+      "locale_code": "fr_DJ",
+      "nazov_sk": "francúzština (Džibutsko)",
+      "name_en": "French (Djibouti)"
+    },
+    {
+      "locale_code": "fr_DZ",
+      "nazov_sk": "francúzština (Alžírsko)",
+      "name_en": "French (Algeria)"
+    },
+    {
+      "locale_code": "fr_FR",
+      "nazov_sk": "francúzština (Francúzsko)",
+      "name_en": "French (France)"
+    },
+    {
+      "locale_code": "fr_GA",
+      "nazov_sk": "francúzština (Gabon)",
+      "name_en": "French (Gabon)"
+    },
+    {
+      "locale_code": "fr_GF",
+      "nazov_sk": "francúzština (Francúzska Guayana)",
+      "name_en": "French (French Guiana)"
+    },
+    {
+      "locale_code": "fr_GN",
+      "nazov_sk": "francúzština (Guinea)",
+      "name_en": "French (Guinea)"
+    },
+    {
+      "locale_code": "fr_GP",
+      "nazov_sk": "francúzština (Guadeloupe)",
+      "name_en": "French (Guadeloupe)"
+    },
+    {
+      "locale_code": "fr_GQ",
+      "nazov_sk": "francúzština (Rovníková Guinea)",
+      "name_en": "French (Equatorial Guinea)"
+    },
+    {
+      "locale_code": "fr_HT",
+      "nazov_sk": "francúzština (Haiti)",
+      "name_en": "French (Haiti)"
+    },
+    {
+      "locale_code": "fr_KM",
+      "nazov_sk": "francúzština (Komory)",
+      "name_en": "French (Comoros)"
+    },
+    {
+      "locale_code": "fr_LU",
+      "nazov_sk": "francúzština (Luxembursko)",
+      "name_en": "French (Luxembourg)"
+    },
+    {
+      "locale_code": "fr_MA",
+      "nazov_sk": "francúzština (Maroko)",
+      "name_en": "French (Morocco)"
+    },
+    {
+      "locale_code": "fr_MC",
+      "nazov_sk": "francúzština (Monako)",
+      "name_en": "French (Monaco)"
+    },
+    {
+      "locale_code": "fr_MF",
+      "nazov_sk": "francúzština (Svätý Martin)",
+      "name_en": "French (St. Martin)"
+    },
+    {
+      "locale_code": "fr_MG",
+      "nazov_sk": "francúzština (Madagaskar)",
+      "name_en": "French (Madagascar)"
+    },
+    {
+      "locale_code": "fr_ML",
+      "nazov_sk": "francúzština (Mali)",
+      "name_en": "French (Mali)"
+    },
+    {
+      "locale_code": "fr_MQ",
+      "nazov_sk": "francúzština (Martinik)",
+      "name_en": "French (Martinique)"
+    },
+    {
+      "locale_code": "fr_MR",
+      "nazov_sk": "francúzština (Mauritánia)",
+      "name_en": "French (Mauritania)"
+    },
+    {
+      "locale_code": "fr_MU",
+      "nazov_sk": "francúzština (Maurícius)",
+      "name_en": "French (Mauritius)"
+    },
+    {
+      "locale_code": "fr_NC",
+      "nazov_sk": "francúzština (Nová Kaledónia)",
+      "name_en": "French (New Caledonia)"
+    },
+    {
+      "locale_code": "fr_NE",
+      "nazov_sk": "francúzština (Niger)",
+      "name_en": "French (Niger)"
+    },
+    {
+      "locale_code": "fr_PF",
+      "nazov_sk": "francúzština (Francúzska Polynézia)",
+      "name_en": "French (French Polynesia)"
+    },
+    {
+      "locale_code": "fr_PM",
+      "nazov_sk": "francúzština (Saint Pierre a Miquelon)",
+      "name_en": "French (St. Pierre & Miquelon)"
+    },
+    {
+      "locale_code": "fr_RE",
+      "nazov_sk": "francúzština (Réunion)",
+      "name_en": "French (Réunion)"
+    },
+    {
+      "locale_code": "fr_RW",
+      "nazov_sk": "francúzština (Rwanda)",
+      "name_en": "French (Rwanda)"
+    },
+    {
+      "locale_code": "fr_SC",
+      "nazov_sk": "francúzština (Seychely)",
+      "name_en": "French (Seychelles)"
+    },
+    {
+      "locale_code": "fr_SN",
+      "nazov_sk": "francúzština (Senegal)",
+      "name_en": "French (Senegal)"
+    },
+    {
+      "locale_code": "fr_SY",
+      "nazov_sk": "francúzština (Sýria)",
+      "name_en": "French (Syria)"
+    },
+    {
+      "locale_code": "fr_TD",
+      "nazov_sk": "francúzština (Čad)",
+      "name_en": "French (Chad)"
+    },
+    {
+      "locale_code": "fr_TG",
+      "nazov_sk": "francúzština (Togo)",
+      "name_en": "French (Togo)"
+    },
+    {
+      "locale_code": "fr_TN",
+      "nazov_sk": "francúzština (Tunisko)",
+      "name_en": "French (Tunisia)"
+    },
+    {
+      "locale_code": "fr_VU",
+      "nazov_sk": "francúzština (Vanuatu)",
+      "name_en": "French (Vanuatu)"
+    },
+    {
+      "locale_code": "fr_WF",
+      "nazov_sk": "francúzština (Wallis a Futuna)",
+      "name_en": "French (Wallis & Futuna)"
+    },
+    {
+      "locale_code": "fr_YT",
+      "nazov_sk": "francúzština (Mayotte)",
+      "name_en": "French (Mayotte)"
+    },
+    {
+      "locale_code": "fy",
+      "nazov_sk": "západná frízština",
+      "name_en": "Western Frisian"
+    },
+    {
+      "locale_code": "fy_NL",
+      "nazov_sk": "západná frízština (Holandsko)",
+      "name_en": "Western Frisian (Netherlands)"
+    },
+    {
+      "locale_code": "ga",
+      "nazov_sk": "írčina",
+      "name_en": "Irish"
+    },
+    {
+      "locale_code": "ga_IE",
+      "nazov_sk": "írčina (Írsko)",
+      "name_en": "Irish (Ireland)"
+    },
+    {
+      "locale_code": "gd",
+      "nazov_sk": "škótska gaelčina",
+      "name_en": "Scottish Gaelic"
+    },
+    {
+      "locale_code": "gd_GB",
+      "nazov_sk": "škótska gaelčina (Spojené kráľovstvo)",
+      "name_en": "Scottish Gaelic (United Kingdom)"
+    },
+    {
+      "locale_code": "gl",
+      "nazov_sk": "galícijčina",
+      "name_en": "Galician"
+    },
+    {
+      "locale_code": "gl_ES",
+      "nazov_sk": "galícijčina (Španielsko)",
+      "name_en": "Galician (Spain)"
+    },
+    {
+      "locale_code": "gu",
+      "nazov_sk": "gudžarátčina",
+      "name_en": "Gujarati"
+    },
+    {
+      "locale_code": "gu_IN",
+      "nazov_sk": "gudžarátčina (India)",
+      "name_en": "Gujarati (India)"
+    },
+    {
+      "locale_code": "gv",
+      "nazov_sk": "mančina",
+      "name_en": "Manx"
+    },
+    {
+      "locale_code": "gv_IM",
+      "nazov_sk": "mančina (Ostrov Man)",
+      "name_en": "Manx (Isle of Man)"
+    },
+    {
+      "locale_code": "ha",
+      "nazov_sk": "hauština",
+      "name_en": "Hausa"
+    },
+    {
+      "locale_code": "ha_GH",
+      "nazov_sk": "hauština (Ghana)",
+      "name_en": "Hausa (Ghana)"
+    },
+    {
+      "locale_code": "ha_Latn",
+      "nazov_sk": "hauština (latinka)",
+      "name_en": "Hausa (Latin)"
+    },
+    {
+      "locale_code": "ha_Latn_GH",
+      "nazov_sk": "hauština (latinka, Ghana)",
+      "name_en": "Hausa (Latin, Ghana)"
+    },
+    {
+      "locale_code": "ha_Latn_NE",
+      "nazov_sk": "hauština (latinka, Niger)",
+      "name_en": "Hausa (Latin, Niger)"
+    },
+    {
+      "locale_code": "ha_Latn_NG",
+      "nazov_sk": "hauština (latinka, Nigéria)",
+      "name_en": "Hausa (Latin, Nigeria)"
+    },
+    {
+      "locale_code": "ha_NE",
+      "nazov_sk": "hauština (Niger)",
+      "name_en": "Hausa (Niger)"
+    },
+    {
+      "locale_code": "ha_NG",
+      "nazov_sk": "hauština (Nigéria)",
+      "name_en": "Hausa (Nigeria)"
+    },
+    {
+      "locale_code": "he",
+      "nazov_sk": "hebrejčina",
+      "name_en": "Hebrew"
+    },
+    {
+      "locale_code": "he_IL",
+      "nazov_sk": "hebrejčina (Izrael)",
+      "name_en": "Hebrew (Israel)"
+    },
+    {
+      "locale_code": "hi",
+      "nazov_sk": "hindčina",
+      "name_en": "Hindi"
+    },
+    {
+      "locale_code": "hi_IN",
+      "nazov_sk": "hindčina (India)",
+      "name_en": "Hindi (India)"
+    },
+    {
+      "locale_code": "hr",
+      "nazov_sk": "chorvátčina",
+      "name_en": "Croatian"
+    },
+    {
+      "locale_code": "hr_BA",
+      "nazov_sk": "chorvátčina (Bosna a Hercegovina)",
+      "name_en": "Croatian (Bosnia & Herzegovina)"
+    },
+    {
+      "locale_code": "hr_HR",
+      "nazov_sk": "chorvátčina (Chorvátsko)",
+      "name_en": "Croatian (Croatia)"
+    },
+    {
+      "locale_code": "hu",
+      "nazov_sk": "maďarčina",
+      "name_en": "Hungarian"
+    },
+    {
+      "locale_code": "hu_HU",
+      "nazov_sk": "maďarčina (Maďarsko)",
+      "name_en": "Hungarian (Hungary)"
+    },
+    {
+      "locale_code": "hy",
+      "nazov_sk": "arménčina",
+      "name_en": "Armenian"
+    },
+    {
+      "locale_code": "hy_AM",
+      "nazov_sk": "arménčina (Arménsko)",
+      "name_en": "Armenian (Armenia)"
+    },
+    {
+      "locale_code": "id",
+      "nazov_sk": "indonézština",
+      "name_en": "Indonesian"
+    },
+    {
+      "locale_code": "id_ID",
+      "nazov_sk": "indonézština (Indonézia)",
+      "name_en": "Indonesian (Indonesia)"
+    },
+    {
+      "locale_code": "ig",
+      "nazov_sk": "igboština",
+      "name_en": "Igbo"
+    },
+    {
+      "locale_code": "ig_NG",
+      "nazov_sk": "igboština (Nigéria)",
+      "name_en": "Igbo (Nigeria)"
+    },
+    {
+      "locale_code": "ii",
+      "nazov_sk": "s’čchuanská ioština",
+      "name_en": "Sichuan Yi"
+    },
+    {
+      "locale_code": "ii_CN",
+      "nazov_sk": "s’čchuanská ioština (Čína)",
+      "name_en": "Sichuan Yi (China)"
+    },
+    {
+      "locale_code": "is",
+      "nazov_sk": "islandčina",
+      "name_en": "Icelandic"
+    },
+    {
+      "locale_code": "is_IS",
+      "nazov_sk": "islandčina (Island)",
+      "name_en": "Icelandic (Iceland)"
+    },
+    {
+      "locale_code": "it",
+      "nazov_sk": "taliančina",
+      "name_en": "Italian"
+    },
+    {
+      "locale_code": "it_CH",
+      "nazov_sk": "taliančina (Švajčiarsko)",
+      "name_en": "Italian (Switzerland)"
+    },
+    {
+      "locale_code": "it_IT",
+      "nazov_sk": "taliančina (Taliansko)",
+      "name_en": "Italian (Italy)"
+    },
+    {
+      "locale_code": "it_SM",
+      "nazov_sk": "taliančina (San Maríno)",
+      "name_en": "Italian (San Marino)"
+    },
+    {
+      "locale_code": "ja",
+      "nazov_sk": "japončina",
+      "name_en": "Japanese"
+    },
+    {
+      "locale_code": "ja_JP",
+      "nazov_sk": "japončina (Japonsko)",
+      "name_en": "Japanese (Japan)"
+    },
+    {
+      "locale_code": "ka",
+      "nazov_sk": "gruzínčina",
+      "name_en": "Georgian"
+    },
+    {
+      "locale_code": "ka_GE",
+      "nazov_sk": "gruzínčina (Gruzínsko)",
+      "name_en": "Georgian (Georgia)"
+    },
+    {
+      "locale_code": "ki",
+      "nazov_sk": "kikujčina",
+      "name_en": "Kikuyu"
+    },
+    {
+      "locale_code": "ki_KE",
+      "nazov_sk": "kikujčina (Keňa)",
+      "name_en": "Kikuyu (Kenya)"
+    },
+    {
+      "locale_code": "kk",
+      "nazov_sk": "kazaština",
+      "name_en": "Kazakh"
+    },
+    {
+      "locale_code": "kk_Cyrl",
+      "nazov_sk": "kazaština (cyrilika)",
+      "name_en": "Kazakh (Cyrillic)"
+    },
+    {
+      "locale_code": "kk_Cyrl_KZ",
+      "nazov_sk": "kazaština (cyrilika, Kazachstan)",
+      "name_en": "Kazakh (Cyrillic, Kazakhstan)"
+    },
+    {
+      "locale_code": "kk_KZ",
+      "nazov_sk": "kazaština (Kazachstan)",
+      "name_en": "Kazakh (Kazakhstan)"
+    },
+    {
+      "locale_code": "kl",
+      "nazov_sk": "grónčina",
+      "name_en": "Kalaallisut"
+    },
+    {
+      "locale_code": "kl_GL",
+      "nazov_sk": "grónčina (Grónsko)",
+      "name_en": "Kalaallisut (Greenland)"
+    },
+    {
+      "locale_code": "km",
+      "nazov_sk": "khmérčina",
+      "name_en": "Khmer"
+    },
+    {
+      "locale_code": "km_KH",
+      "nazov_sk": "khmérčina (Kambodža)",
+      "name_en": "Khmer (Cambodia)"
+    },
+    {
+      "locale_code": "kn",
+      "nazov_sk": "kannadčina",
+      "name_en": "Kannada"
+    },
+    {
+      "locale_code": "kn_IN",
+      "nazov_sk": "kannadčina (India)",
+      "name_en": "Kannada (India)"
+    },
+    {
+      "locale_code": "ko",
+      "nazov_sk": "kórejčina",
+      "name_en": "Korean"
+    },
+    {
+      "locale_code": "ko_KP",
+      "nazov_sk": "kórejčina (Severná Kórea)",
+      "name_en": "Korean (North Korea)"
+    },
+    {
+      "locale_code": "ko_KR",
+      "nazov_sk": "kórejčina (Južná Kórea)",
+      "name_en": "Korean (South Korea)"
+    },
+    {
+      "locale_code": "ks",
+      "nazov_sk": "kašmírčina",
+      "name_en": "Kashmiri"
+    },
+    {
+      "locale_code": "ks_Arab",
+      "nazov_sk": "kašmírčina (arabské)",
+      "name_en": "Kashmiri (Arabic)"
+    },
+    {
+      "locale_code": "ks_Arab_IN",
+      "nazov_sk": "kašmírčina (arabské, India)",
+      "name_en": "Kashmiri (Arabic, India)"
+    },
+    {
+      "locale_code": "ks_IN",
+      "nazov_sk": "kašmírčina (India)",
+      "name_en": "Kashmiri (India)"
+    },
+    {
+      "locale_code": "kw",
+      "nazov_sk": "kornčina",
+      "name_en": "Cornish"
+    },
+    {
+      "locale_code": "kw_GB",
+      "nazov_sk": "kornčina (Spojené kráľovstvo)",
+      "name_en": "Cornish (United Kingdom)"
+    },
+    {
+      "locale_code": "ky",
+      "nazov_sk": "kirgizština",
+      "name_en": "Kyrgyz"
+    },
+    {
+      "locale_code": "ky_Cyrl",
+      "nazov_sk": "kirgizština (cyrilika)",
+      "name_en": "Kyrgyz (Cyrillic)"
+    },
+    {
+      "locale_code": "ky_Cyrl_KG",
+      "nazov_sk": "kirgizština (cyrilika, Kirgizsko)",
+      "name_en": "Kyrgyz (Cyrillic, Kyrgyzstan)"
+    },
+    {
+      "locale_code": "ky_KG",
+      "nazov_sk": "kirgizština (Kirgizsko)",
+      "name_en": "Kyrgyz (Kyrgyzstan)"
+    },
+    {
+      "locale_code": "lb",
+      "nazov_sk": "luxemburčina",
+      "name_en": "Luxembourgish"
+    },
+    {
+      "locale_code": "lb_LU",
+      "nazov_sk": "luxemburčina (Luxembursko)",
+      "name_en": "Luxembourgish (Luxembourg)"
+    },
+    {
+      "locale_code": "lg",
+      "nazov_sk": "gandčina",
+      "name_en": "Ganda"
+    },
+    {
+      "locale_code": "lg_UG",
+      "nazov_sk": "gandčina (Uganda)",
+      "name_en": "Ganda (Uganda)"
+    },
+    {
+      "locale_code": "ln",
+      "nazov_sk": "lingalčina",
+      "name_en": "Lingala"
+    },
+    {
+      "locale_code": "ln_AO",
+      "nazov_sk": "lingalčina (Angola)",
+      "name_en": "Lingala (Angola)"
+    },
+    {
+      "locale_code": "ln_CD",
+      "nazov_sk": "lingalčina (Kongo - Kinshasa)",
+      "name_en": "Lingala (Congo - Kinshasa)"
+    },
+    {
+      "locale_code": "ln_CF",
+      "nazov_sk": "lingalčina (Stredoafrická republika)",
+      "name_en": "Lingala (Central African Republic)"
+    },
+    {
+      "locale_code": "ln_CG",
+      "nazov_sk": "lingalčina (Kongo - Brazzaville)",
+      "name_en": "Lingala (Congo - Brazzaville)"
+    },
+    {
+      "locale_code": "lo",
+      "nazov_sk": "laoština",
+      "name_en": "Lao"
+    },
+    {
+      "locale_code": "lo_LA",
+      "nazov_sk": "laoština (Laos)",
+      "name_en": "Lao (Laos)"
+    },
+    {
+      "locale_code": "lt",
+      "nazov_sk": "litovčina",
+      "name_en": "Lithuanian"
+    },
+    {
+      "locale_code": "lt_LT",
+      "nazov_sk": "litovčina (Litva)",
+      "name_en": "Lithuanian (Lithuania)"
+    },
+    {
+      "locale_code": "lu",
+      "nazov_sk": "luba-katanga",
+      "name_en": "Luba-Katanga"
+    },
+    {
+      "locale_code": "lu_CD",
+      "nazov_sk": "luba-katanga (Kongo - Kinshasa)",
+      "name_en": "Luba-Katanga (Congo - Kinshasa)"
+    },
+    {
+      "locale_code": "lv",
+      "nazov_sk": "lotyština",
+      "name_en": "Latvian"
+    },
+    {
+      "locale_code": "lv_LV",
+      "nazov_sk": "lotyština (Lotyšsko)",
+      "name_en": "Latvian (Latvia)"
+    },
+    {
+      "locale_code": "mg",
+      "nazov_sk": "malgaština",
+      "name_en": "Malagasy"
+    },
+    {
+      "locale_code": "mg_MG",
+      "nazov_sk": "malgaština (Madagaskar)",
+      "name_en": "Malagasy (Madagascar)"
+    },
+    {
+      "locale_code": "mk",
+      "nazov_sk": "macedónčina",
+      "name_en": "Macedonian"
+    },
+    {
+      "locale_code": "mk_MK",
+      "nazov_sk": "macedónčina (Macedónsko)",
+      "name_en": "Macedonian (Macedonia)"
+    },
+    {
+      "locale_code": "ml",
+      "nazov_sk": "malajálamčina",
+      "name_en": "Malayalam"
+    },
+    {
+      "locale_code": "ml_IN",
+      "nazov_sk": "malajálamčina (India)",
+      "name_en": "Malayalam (India)"
+    },
+    {
+      "locale_code": "mn",
+      "nazov_sk": "mongolčina",
+      "name_en": "Mongolian"
+    },
+    {
+      "locale_code": "mn_Cyrl",
+      "nazov_sk": "mongolčina (cyrilika)",
+      "name_en": "Mongolian (Cyrillic)"
+    },
+    {
+      "locale_code": "mn_Cyrl_MN",
+      "nazov_sk": "mongolčina (cyrilika, Mongolsko)",
+      "name_en": "Mongolian (Cyrillic, Mongolia)"
+    },
+    {
+      "locale_code": "mn_MN",
+      "nazov_sk": "mongolčina (Mongolsko)",
+      "name_en": "Mongolian (Mongolia)"
+    },
+    {
+      "locale_code": "mr",
+      "nazov_sk": "maráthčina",
+      "name_en": "Marathi"
+    },
+    {
+      "locale_code": "mr_IN",
+      "nazov_sk": "maráthčina (India)",
+      "name_en": "Marathi (India)"
+    },
+    {
+      "locale_code": "ms",
+      "nazov_sk": "malajčina",
+      "name_en": "Malay"
+    },
+    {
+      "locale_code": "ms_BN",
+      "nazov_sk": "malajčina (Brunej)",
+      "name_en": "Malay (Brunei)"
+    },
+    {
+      "locale_code": "ms_Latn",
+      "nazov_sk": "malajčina (latinka)",
+      "name_en": "Malay (Latin)"
+    },
+    {
+      "locale_code": "ms_Latn_BN",
+      "nazov_sk": "malajčina (latinka, Brunej)",
+      "name_en": "Malay (Latin, Brunei)"
+    },
+    {
+      "locale_code": "ms_Latn_MY",
+      "nazov_sk": "malajčina (latinka, Malajzia)",
+      "name_en": "Malay (Latin, Malaysia)"
+    },
+    {
+      "locale_code": "ms_Latn_SG",
+      "nazov_sk": "malajčina (latinka, Singapur)",
+      "name_en": "Malay (Latin, Singapore)"
+    },
+    {
+      "locale_code": "ms_MY",
+      "nazov_sk": "malajčina (Malajzia)",
+      "name_en": "Malay (Malaysia)"
+    },
+    {
+      "locale_code": "ms_SG",
+      "nazov_sk": "malajčina (Singapur)",
+      "name_en": "Malay (Singapore)"
+    },
+    {
+      "locale_code": "mt",
+      "nazov_sk": "maltčina",
+      "name_en": "Maltese"
+    },
+    {
+      "locale_code": "mt_MT",
+      "nazov_sk": "maltčina (Malta)",
+      "name_en": "Maltese (Malta)"
+    },
+    {
+      "locale_code": "my",
+      "nazov_sk": "barmčina",
+      "name_en": "Burmese"
+    },
+    {
+      "locale_code": "my_MM",
+      "nazov_sk": "barmčina (Mjanmarsko)",
+      "name_en": "Burmese (Myanmar (Burma))"
+    },
+    {
+      "locale_code": "nb",
+      "nazov_sk": "nórsky bokmål",
+      "name_en": "Norwegian Bokmål"
+    },
+    {
+      "locale_code": "nb_NO",
+      "nazov_sk": "nórsky bokmål (Nórsko)",
+      "name_en": "Norwegian Bokmål (Norway)"
+    },
+    {
+      "locale_code": "nb_SJ",
+      "nazov_sk": "nórsky bokmål (Svalbard a Jan Mayen)",
+      "name_en": "Norwegian Bokmål (Svalbard & Jan Mayen)"
+    },
+    {
+      "locale_code": "nd",
+      "nazov_sk": "severné ndebele",
+      "name_en": "North Ndebele"
+    },
+    {
+      "locale_code": "nd_ZW",
+      "nazov_sk": "severné ndebele (Zimbabwe)",
+      "name_en": "North Ndebele (Zimbabwe)"
+    },
+    {
+      "locale_code": "ne",
+      "nazov_sk": "nepálčina",
+      "name_en": "Nepali"
+    },
+    {
+      "locale_code": "ne_IN",
+      "nazov_sk": "nepálčina (India)",
+      "name_en": "Nepali (India)"
+    },
+    {
+      "locale_code": "ne_NP",
+      "nazov_sk": "nepálčina (Nepál)",
+      "name_en": "Nepali (Nepal)"
+    },
+    {
+      "locale_code": "nl",
+      "nazov_sk": "holandčina",
+      "name_en": "Dutch"
+    },
+    {
+      "locale_code": "nl_AW",
+      "nazov_sk": "holandčina (Aruba)",
+      "name_en": "Dutch (Aruba)"
+    },
+    {
+      "locale_code": "nl_BE",
+      "nazov_sk": "holandčina (Belgicko)",
+      "name_en": "Dutch (Belgium)"
+    },
+    {
+      "locale_code": "nl_BQ",
+      "nazov_sk": "holandčina (Karibské Holandsko)",
+      "name_en": "Dutch (Caribbean Netherlands)"
+    },
+    {
+      "locale_code": "nl_CW",
+      "nazov_sk": "holandčina (Curaçao)",
+      "name_en": "Dutch (Curaçao)"
+    },
+    {
+      "locale_code": "nl_NL",
+      "nazov_sk": "holandčina (Holandsko)",
+      "name_en": "Dutch (Netherlands)"
+    },
+    {
+      "locale_code": "nl_SR",
+      "nazov_sk": "holandčina (Surinam)",
+      "name_en": "Dutch (Suriname)"
+    },
+    {
+      "locale_code": "nl_SX",
+      "nazov_sk": "holandčina (Sint Maarten)",
+      "name_en": "Dutch (Sint Maarten)"
+    },
+    {
+      "locale_code": "nn",
+      "nazov_sk": "nórsky nynorsk",
+      "name_en": "Norwegian Nynorsk"
+    },
+    {
+      "locale_code": "nn_NO",
+      "nazov_sk": "nórsky nynorsk (Nórsko)",
+      "name_en": "Norwegian Nynorsk (Norway)"
+    },
+    {
+      "locale_code": "no",
+      "nazov_sk": "nórčina",
+      "name_en": "Norwegian"
+    },
+    {
+      "locale_code": "no_NO",
+      "nazov_sk": "nórčina (Nórsko)",
+      "name_en": "Norwegian (Norway)"
+    },
+    {
+      "locale_code": "om",
+      "nazov_sk": "oromčina",
+      "name_en": "Oromo"
+    },
+    {
+      "locale_code": "om_ET",
+      "nazov_sk": "oromčina (Etiópia)",
+      "name_en": "Oromo (Ethiopia)"
+    },
+    {
+      "locale_code": "om_KE",
+      "nazov_sk": "oromčina (Keňa)",
+      "name_en": "Oromo (Kenya)"
+    },
+    {
+      "locale_code": "or",
+      "nazov_sk": "uríjčina",
+      "name_en": "Oriya"
+    },
+    {
+      "locale_code": "or_IN",
+      "nazov_sk": "uríjčina (India)",
+      "name_en": "Oriya (India)"
+    },
+    {
+      "locale_code": "os",
+      "nazov_sk": "osetčina",
+      "name_en": "Ossetic"
+    },
+    {
+      "locale_code": "os_GE",
+      "nazov_sk": "osetčina (Gruzínsko)",
+      "name_en": "Ossetic (Georgia)"
+    },
+    {
+      "locale_code": "os_RU",
+      "nazov_sk": "osetčina (Rusko)",
+      "name_en": "Ossetic (Russia)"
+    },
+    {
+      "locale_code": "pa",
+      "nazov_sk": "pandžábčina",
+      "name_en": "Punjabi"
+    },
+    {
+      "locale_code": "pa_Arab",
+      "nazov_sk": "pandžábčina (arabské)",
+      "name_en": "Punjabi (Arabic)"
+    },
+    {
+      "locale_code": "pa_Arab_PK",
+      "nazov_sk": "pandžábčina (arabské, Pakistan)",
+      "name_en": "Punjabi (Arabic, Pakistan)"
+    },
+    {
+      "locale_code": "pa_Guru",
+      "nazov_sk": "pandžábčina (gurmukhi)",
+      "name_en": "Punjabi (Gurmukhi)"
+    },
+    {
+      "locale_code": "pa_Guru_IN",
+      "nazov_sk": "pandžábčina (gurmukhi, India)",
+      "name_en": "Punjabi (Gurmukhi, India)"
+    },
+    {
+      "locale_code": "pa_IN",
+      "nazov_sk": "pandžábčina (India)",
+      "name_en": "Punjabi (India)"
+    },
+    {
+      "locale_code": "pa_PK",
+      "nazov_sk": "pandžábčina (Pakistan)",
+      "name_en": "Punjabi (Pakistan)"
+    },
+    {
+      "locale_code": "pl",
+      "nazov_sk": "poľština",
+      "name_en": "Polish"
+    },
+    {
+      "locale_code": "pl_PL",
+      "nazov_sk": "poľština (Poľsko)",
+      "name_en": "Polish (Poland)"
+    },
+    {
+      "locale_code": "ps",
+      "nazov_sk": "paštčina",
+      "name_en": "Pashto"
+    },
+    {
+      "locale_code": "ps_AF",
+      "nazov_sk": "paštčina (Afganistan)",
+      "name_en": "Pashto (Afghanistan)"
+    },
+    {
+      "locale_code": "pt",
+      "nazov_sk": "portugalčina",
+      "name_en": "Portuguese"
+    },
+    {
+      "locale_code": "pt_AO",
+      "nazov_sk": "portugalčina (Angola)",
+      "name_en": "Portuguese (Angola)"
+    },
+    {
+      "locale_code": "pt_BR",
+      "nazov_sk": "portugalčina (Brazília)",
+      "name_en": "Portuguese (Brazil)"
+    },
+    {
+      "locale_code": "pt_CV",
+      "nazov_sk": "portugalčina (Kapverdy)",
+      "name_en": "Portuguese (Cape Verde)"
+    },
+    {
+      "locale_code": "pt_GW",
+      "nazov_sk": "portugalčina (Guinea-Bissau)",
+      "name_en": "Portuguese (Guinea-Bissau)"
+    },
+    {
+      "locale_code": "pt_MO",
+      "nazov_sk": "portugalčina (Macao – OAO Číny)",
+      "name_en": "Portuguese (Macau SAR China)"
+    },
+    {
+      "locale_code": "pt_MZ",
+      "nazov_sk": "portugalčina (Mozambik)",
+      "name_en": "Portuguese (Mozambique)"
+    },
+    {
+      "locale_code": "pt_PT",
+      "nazov_sk": "portugalčina (Portugalsko)",
+      "name_en": "Portuguese (Portugal)"
+    },
+    {
+      "locale_code": "pt_ST",
+      "nazov_sk": "portugalčina (Svätý Tomáš a Princov ostrov)",
+      "name_en": "Portuguese (São Tomé & Príncipe)"
+    },
+    {
+      "locale_code": "pt_TL",
+      "nazov_sk": "portugalčina (Východný Timor)",
+      "name_en": "Portuguese (Timor-Leste)"
+    },
+    {
+      "locale_code": "qu",
+      "nazov_sk": "kečuánčina",
+      "name_en": "Quechua"
+    },
+    {
+      "locale_code": "qu_BO",
+      "nazov_sk": "kečuánčina (Bolívia)",
+      "name_en": "Quechua (Bolivia)"
+    },
+    {
+      "locale_code": "qu_EC",
+      "nazov_sk": "kečuánčina (Ekvádor)",
+      "name_en": "Quechua (Ecuador)"
+    },
+    {
+      "locale_code": "qu_PE",
+      "nazov_sk": "kečuánčina (Peru)",
+      "name_en": "Quechua (Peru)"
+    },
+    {
+      "locale_code": "rm",
+      "nazov_sk": "rétorománčina",
+      "name_en": "Romansh"
+    },
+    {
+      "locale_code": "rm_CH",
+      "nazov_sk": "rétorománčina (Švajčiarsko)",
+      "name_en": "Romansh (Switzerland)"
+    },
+    {
+      "locale_code": "rn",
+      "nazov_sk": "kirundčina",
+      "name_en": "Rundi"
+    },
+    {
+      "locale_code": "rn_BI",
+      "nazov_sk": "kirundčina (Burundi)",
+      "name_en": "Rundi (Burundi)"
+    },
+    {
+      "locale_code": "ro",
+      "nazov_sk": "rumunčina",
+      "name_en": "Romanian"
+    },
+    {
+      "locale_code": "ro_MD",
+      "nazov_sk": "rumunčina (Moldavsko)",
+      "name_en": "Romanian (Moldova)"
+    },
+    {
+      "locale_code": "ro_RO",
+      "nazov_sk": "rumunčina (Rumunsko)",
+      "name_en": "Romanian (Romania)"
+    },
+    {
+      "locale_code": "ru",
+      "nazov_sk": "ruština",
+      "name_en": "Russian"
+    },
+    {
+      "locale_code": "ru_BY",
+      "nazov_sk": "ruština (Bielorusko)",
+      "name_en": "Russian (Belarus)"
+    },
+    {
+      "locale_code": "ru_KG",
+      "nazov_sk": "ruština (Kirgizsko)",
+      "name_en": "Russian (Kyrgyzstan)"
+    },
+    {
+      "locale_code": "ru_KZ",
+      "nazov_sk": "ruština (Kazachstan)",
+      "name_en": "Russian (Kazakhstan)"
+    },
+    {
+      "locale_code": "ru_MD",
+      "nazov_sk": "ruština (Moldavsko)",
+      "name_en": "Russian (Moldova)"
+    },
+    {
+      "locale_code": "ru_RU",
+      "nazov_sk": "ruština (Rusko)",
+      "name_en": "Russian (Russia)"
+    },
+    {
+      "locale_code": "ru_UA",
+      "nazov_sk": "ruština (Ukrajina)",
+      "name_en": "Russian (Ukraine)"
+    },
+    {
+      "locale_code": "rw",
+      "nazov_sk": "kiňarwanda",
+      "name_en": "Kinyarwanda"
+    },
+    {
+      "locale_code": "rw_RW",
+      "nazov_sk": "kiňarwanda (Rwanda)",
+      "name_en": "Kinyarwanda (Rwanda)"
+    },
+    {
+      "locale_code": "se",
+      "nazov_sk": "severné sami",
+      "name_en": "Northern Sami"
+    },
+    {
+      "locale_code": "se_FI",
+      "nazov_sk": "severné sami (Fínsko)",
+      "name_en": "Northern Sami (Finland)"
+    },
+    {
+      "locale_code": "se_NO",
+      "nazov_sk": "severné sami (Nórsko)",
+      "name_en": "Northern Sami (Norway)"
+    },
+    {
+      "locale_code": "se_SE",
+      "nazov_sk": "severné sami (Švédsko)",
+      "name_en": "Northern Sami (Sweden)"
+    },
+    {
+      "locale_code": "sg",
+      "nazov_sk": "sango",
+      "name_en": "Sango"
+    },
+    {
+      "locale_code": "sg_CF",
+      "nazov_sk": "sango (Stredoafrická republika)",
+      "name_en": "Sango (Central African Republic)"
+    },
+    {
+      "locale_code": "sh",
+      "nazov_sk": "srbochorvátčina",
+      "name_en": "Serbo-Croatian"
+    },
+    {
+      "locale_code": "sh_BA",
+      "nazov_sk": "srbochorvátčina (Bosna a Hercegovina)",
+      "name_en": "Serbo-Croatian (Bosnia & Herzegovina)"
+    },
+    {
+      "locale_code": "si",
+      "nazov_sk": "sinhalčina",
+      "name_en": "Sinhala"
+    },
+    {
+      "locale_code": "si_LK",
+      "nazov_sk": "sinhalčina (Srí Lanka)",
+      "name_en": "Sinhala (Sri Lanka)"
+    },
+    {
+      "locale_code": "sk",
+      "nazov_sk": "slovenčina",
+      "name_en": "Slovak"
+    },
+    {
+      "locale_code": "sk_SK",
+      "nazov_sk": "slovenčina (Slovensko)",
+      "name_en": "Slovak (Slovakia)"
+    },
+    {
+      "locale_code": "sl",
+      "nazov_sk": "slovinčina",
+      "name_en": "Slovenian"
+    },
+    {
+      "locale_code": "sl_SI",
+      "nazov_sk": "slovinčina (Slovinsko)",
+      "name_en": "Slovenian (Slovenia)"
+    },
+    {
+      "locale_code": "sn",
+      "nazov_sk": "šončina",
+      "name_en": "Shona"
+    },
+    {
+      "locale_code": "sn_ZW",
+      "nazov_sk": "šončina (Zimbabwe)",
+      "name_en": "Shona (Zimbabwe)"
+    },
+    {
+      "locale_code": "so",
+      "nazov_sk": "somálčina",
+      "name_en": "Somali"
+    },
+    {
+      "locale_code": "so_DJ",
+      "nazov_sk": "somálčina (Džibutsko)",
+      "name_en": "Somali (Djibouti)"
+    },
+    {
+      "locale_code": "so_ET",
+      "nazov_sk": "somálčina (Etiópia)",
+      "name_en": "Somali (Ethiopia)"
+    },
+    {
+      "locale_code": "so_KE",
+      "nazov_sk": "somálčina (Keňa)",
+      "name_en": "Somali (Kenya)"
+    },
+    {
+      "locale_code": "so_SO",
+      "nazov_sk": "somálčina (Somálsko)",
+      "name_en": "Somali (Somalia)"
+    },
+    {
+      "locale_code": "sq",
+      "nazov_sk": "albánčina",
+      "name_en": "Albanian"
+    },
+    {
+      "locale_code": "sq_AL",
+      "nazov_sk": "albánčina (Albánsko)",
+      "name_en": "Albanian (Albania)"
+    },
+    {
+      "locale_code": "sq_MK",
+      "nazov_sk": "albánčina (Macedónsko)",
+      "name_en": "Albanian (Macedonia)"
+    },
+    {
+      "locale_code": "sq_XK",
+      "nazov_sk": "albánčina (Kosovo)",
+      "name_en": "Albanian (Kosovo)"
+    },
+    {
+      "locale_code": "sr",
+      "nazov_sk": "srbčina",
+      "name_en": "Serbian"
+    },
+    {
+      "locale_code": "sr_BA",
+      "nazov_sk": "srbčina (Bosna a Hercegovina)",
+      "name_en": "Serbian (Bosnia & Herzegovina)"
+    },
+    {
+      "locale_code": "sr_Cyrl",
+      "nazov_sk": "srbčina (cyrilika)",
+      "name_en": "Serbian (Cyrillic)"
+    },
+    {
+      "locale_code": "sr_Cyrl_BA",
+      "nazov_sk": "srbčina (cyrilika, Bosna a Hercegovina)",
+      "name_en": "Serbian (Cyrillic, Bosnia & Herzegovina)"
+    },
+    {
+      "locale_code": "sr_Cyrl_ME",
+      "nazov_sk": "srbčina (cyrilika, Čierna Hora)",
+      "name_en": "Serbian (Cyrillic, Montenegro)"
+    },
+    {
+      "locale_code": "sr_Cyrl_RS",
+      "nazov_sk": "srbčina (cyrilika, Srbsko)",
+      "name_en": "Serbian (Cyrillic, Serbia)"
+    },
+    {
+      "locale_code": "sr_Cyrl_XK",
+      "nazov_sk": "srbčina (cyrilika, Kosovo)",
+      "name_en": "Serbian (Cyrillic, Kosovo)"
+    },
+    {
+      "locale_code": "sr_Latn",
+      "nazov_sk": "srbčina (latinka)",
+      "name_en": "Serbian (Latin)"
+    },
+    {
+      "locale_code": "sr_Latn_BA",
+      "nazov_sk": "srbčina (latinka, Bosna a Hercegovina)",
+      "name_en": "Serbian (Latin, Bosnia & Herzegovina)"
+    },
+    {
+      "locale_code": "sr_Latn_ME",
+      "nazov_sk": "srbčina (latinka, Čierna Hora)",
+      "name_en": "Serbian (Latin, Montenegro)"
+    },
+    {
+      "locale_code": "sr_Latn_RS",
+      "nazov_sk": "srbčina (latinka, Srbsko)",
+      "name_en": "Serbian (Latin, Serbia)"
+    },
+    {
+      "locale_code": "sr_Latn_XK",
+      "nazov_sk": "srbčina (latinka, Kosovo)",
+      "name_en": "Serbian (Latin, Kosovo)"
+    },
+    {
+      "locale_code": "sr_ME",
+      "nazov_sk": "srbčina (Čierna Hora)",
+      "name_en": "Serbian (Montenegro)"
+    },
+    {
+      "locale_code": "sr_RS",
+      "nazov_sk": "srbčina (Srbsko)",
+      "name_en": "Serbian (Serbia)"
+    },
+    {
+      "locale_code": "sr_XK",
+      "nazov_sk": "srbčina (Kosovo)",
+      "name_en": "Serbian (Kosovo)"
+    },
+    {
+      "locale_code": "sv",
+      "nazov_sk": "švédčina",
+      "name_en": "Swedish"
+    },
+    {
+      "locale_code": "sv_AX",
+      "nazov_sk": "švédčina (Ålandy)",
+      "name_en": "Swedish (Åland Islands)"
+    },
+    {
+      "locale_code": "sv_FI",
+      "nazov_sk": "švédčina (Fínsko)",
+      "name_en": "Swedish (Finland)"
+    },
+    {
+      "locale_code": "sv_SE",
+      "nazov_sk": "švédčina (Švédsko)",
+      "name_en": "Swedish (Sweden)"
+    },
+    {
+      "locale_code": "sw",
+      "nazov_sk": "svahilčina",
+      "name_en": "Swahili"
+    },
+    {
+      "locale_code": "sw_KE",
+      "nazov_sk": "svahilčina (Keňa)",
+      "name_en": "Swahili (Kenya)"
+    },
+    {
+      "locale_code": "sw_TZ",
+      "nazov_sk": "svahilčina (Tanzánia)",
+      "name_en": "Swahili (Tanzania)"
+    },
+    {
+      "locale_code": "sw_UG",
+      "nazov_sk": "svahilčina (Uganda)",
+      "name_en": "Swahili (Uganda)"
+    },
+    {
+      "locale_code": "ta",
+      "nazov_sk": "tamilčina",
+      "name_en": "Tamil"
+    },
+    {
+      "locale_code": "ta_IN",
+      "nazov_sk": "tamilčina (India)",
+      "name_en": "Tamil (India)"
+    },
+    {
+      "locale_code": "ta_LK",
+      "nazov_sk": "tamilčina (Srí Lanka)",
+      "name_en": "Tamil (Sri Lanka)"
+    },
+    {
+      "locale_code": "ta_MY",
+      "nazov_sk": "tamilčina (Malajzia)",
+      "name_en": "Tamil (Malaysia)"
+    },
+    {
+      "locale_code": "ta_SG",
+      "nazov_sk": "tamilčina (Singapur)",
+      "name_en": "Tamil (Singapore)"
+    },
+    {
+      "locale_code": "te",
+      "nazov_sk": "telugčina",
+      "name_en": "Telugu"
+    },
+    {
+      "locale_code": "te_IN",
+      "nazov_sk": "telugčina (India)",
+      "name_en": "Telugu (India)"
+    },
+    {
+      "locale_code": "th",
+      "nazov_sk": "thajčina",
+      "name_en": "Thai"
+    },
+    {
+      "locale_code": "th_TH",
+      "nazov_sk": "thajčina (Thajsko)",
+      "name_en": "Thai (Thailand)"
+    },
+    {
+      "locale_code": "ti",
+      "nazov_sk": "tigriňa",
+      "name_en": "Tigrinya"
+    },
+    {
+      "locale_code": "ti_ER",
+      "nazov_sk": "tigriňa (Eritrea)",
+      "name_en": "Tigrinya (Eritrea)"
+    },
+    {
+      "locale_code": "ti_ET",
+      "nazov_sk": "tigriňa (Etiópia)",
+      "name_en": "Tigrinya (Ethiopia)"
+    },
+    {
+      "locale_code": "tl",
+      "nazov_sk": "tagalčina",
+      "name_en": "Tagalog"
+    },
+    {
+      "locale_code": "tl_PH",
+      "nazov_sk": "tagalčina (Filipíny)",
+      "name_en": "Tagalog (Philippines)"
+    },
+    {
+      "locale_code": "to",
+      "nazov_sk": "tongčina",
+      "name_en": "Tongan"
+    },
+    {
+      "locale_code": "to_TO",
+      "nazov_sk": "tongčina (Tonga)",
+      "name_en": "Tongan (Tonga)"
+    },
+    {
+      "locale_code": "tr",
+      "nazov_sk": "turečtina",
+      "name_en": "Turkish"
+    },
+    {
+      "locale_code": "tr_CY",
+      "nazov_sk": "turečtina (Cyprus)",
+      "name_en": "Turkish (Cyprus)"
+    },
+    {
+      "locale_code": "tr_TR",
+      "nazov_sk": "turečtina (Turecko)",
+      "name_en": "Turkish (Turkey)"
+    },
+    {
+      "locale_code": "ug",
+      "nazov_sk": "ujgurčina",
+      "name_en": "Uyghur"
+    },
+    {
+      "locale_code": "ug_Arab",
+      "nazov_sk": "ujgurčina (arabské)",
+      "name_en": "Uyghur (Arabic)"
+    },
+    {
+      "locale_code": "ug_Arab_CN",
+      "nazov_sk": "ujgurčina (arabské, Čína)",
+      "name_en": "Uyghur (Arabic, China)"
+    },
+    {
+      "locale_code": "ug_CN",
+      "nazov_sk": "ujgurčina (Čína)",
+      "name_en": "Uyghur (China)"
+    },
+    {
+      "locale_code": "uk",
+      "nazov_sk": "ukrajinčina",
+      "name_en": "Ukrainian"
+    },
+    {
+      "locale_code": "uk_UA",
+      "nazov_sk": "ukrajinčina (Ukrajina)",
+      "name_en": "Ukrainian (Ukraine)"
+    },
+    {
+      "locale_code": "ur",
+      "nazov_sk": "urdčina",
+      "name_en": "Urdu"
+    },
+    {
+      "locale_code": "ur_IN",
+      "nazov_sk": "urdčina (India)",
+      "name_en": "Urdu (India)"
+    },
+    {
+      "locale_code": "ur_PK",
+      "nazov_sk": "urdčina (Pakistan)",
+      "name_en": "Urdu (Pakistan)"
+    },
+    {
+      "locale_code": "uz",
+      "nazov_sk": "uzbečtina",
+      "name_en": "Uzbek"
+    },
+    {
+      "locale_code": "uz_AF",
+      "nazov_sk": "uzbečtina (Afganistan)",
+      "name_en": "Uzbek (Afghanistan)"
+    },
+    {
+      "locale_code": "uz_Arab",
+      "nazov_sk": "uzbečtina (arabské)",
+      "name_en": "Uzbek (Arabic)"
+    },
+    {
+      "locale_code": "uz_Arab_AF",
+      "nazov_sk": "uzbečtina (arabské, Afganistan)",
+      "name_en": "Uzbek (Arabic, Afghanistan)"
+    },
+    {
+      "locale_code": "uz_Cyrl",
+      "nazov_sk": "uzbečtina (cyrilika)",
+      "name_en": "Uzbek (Cyrillic)"
+    },
+    {
+      "locale_code": "uz_Cyrl_UZ",
+      "nazov_sk": "uzbečtina (cyrilika, Uzbekistan)",
+      "name_en": "Uzbek (Cyrillic, Uzbekistan)"
+    },
+    {
+      "locale_code": "uz_Latn",
+      "nazov_sk": "uzbečtina (latinka)",
+      "name_en": "Uzbek (Latin)"
+    },
+    {
+      "locale_code": "uz_Latn_UZ",
+      "nazov_sk": "uzbečtina (latinka, Uzbekistan)",
+      "name_en": "Uzbek (Latin, Uzbekistan)"
+    },
+    {
+      "locale_code": "uz_UZ",
+      "nazov_sk": "uzbečtina (Uzbekistan)",
+      "name_en": "Uzbek (Uzbekistan)"
+    },
+    {
+      "locale_code": "vi",
+      "nazov_sk": "vietnamčina",
+      "name_en": "Vietnamese"
+    },
+    {
+      "locale_code": "vi_VN",
+      "nazov_sk": "vietnamčina (Vietnam)",
+      "name_en": "Vietnamese (Vietnam)"
+    },
+    {
+      "locale_code": "yi",
+      "nazov_sk": "jidiš",
+      "name_en": "Yiddish"
+    },
+    {
+      "locale_code": "yo",
+      "nazov_sk": "jorubčina",
+      "name_en": "Yoruba"
+    },
+    {
+      "locale_code": "yo_BJ",
+      "nazov_sk": "jorubčina (Benin)",
+      "name_en": "Yoruba (Benin)"
+    },
+    {
+      "locale_code": "yo_NG",
+      "nazov_sk": "jorubčina (Nigéria)",
+      "name_en": "Yoruba (Nigeria)"
+    },
+    {
+      "locale_code": "zh",
+      "nazov_sk": "čínština",
+      "name_en": "Chinese"
+    },
+    {
+      "locale_code": "zh_CN",
+      "nazov_sk": "čínština (Čína)",
+      "name_en": "Chinese (China)"
+    },
+    {
+      "locale_code": "zh_HK",
+      "nazov_sk": "čínština (Hongkong – OAO Číny)",
+      "name_en": "Chinese (Hong Kong SAR China)"
+    },
+    {
+      "locale_code": "zh_Hans",
+      "nazov_sk": "čínština (zjednodušené)",
+      "name_en": "Chinese (Simplified)"
+    },
+    {
+      "locale_code": "zh_Hans_CN",
+      "nazov_sk": "čínština (zjednodušené, Čína)",
+      "name_en": "Chinese (Simplified, China)"
+    },
+    {
+      "locale_code": "zh_Hans_HK",
+      "nazov_sk": "čínština (zjednodušené, Hongkong – OAO Číny)",
+      "name_en": "Chinese (Simplified, Hong Kong SAR China)"
+    },
+    {
+      "locale_code": "zh_Hans_MO",
+      "nazov_sk": "čínština (zjednodušené, Macao – OAO Číny)",
+      "name_en": "Chinese (Simplified, Macau SAR China)"
+    },
+    {
+      "locale_code": "zh_Hans_SG",
+      "nazov_sk": "čínština (zjednodušené, Singapur)",
+      "name_en": "Chinese (Simplified, Singapore)"
+    },
+    {
+      "locale_code": "zh_Hant",
+      "nazov_sk": "čínština (tradičné)",
+      "name_en": "Chinese (Traditional)"
+    },
+    {
+      "locale_code": "zh_Hant_HK",
+      "nazov_sk": "čínština (tradičné, Hongkong – OAO Číny)",
+      "name_en": "Chinese (Traditional, Hong Kong SAR China)"
+    },
+    {
+      "locale_code": "zh_Hant_MO",
+      "nazov_sk": "čínština (tradičné, Macao – OAO Číny)",
+      "name_en": "Chinese (Traditional, Macau SAR China)"
+    },
+    {
+      "locale_code": "zh_Hant_TW",
+      "nazov_sk": "čínština (tradičné, Taiwan)",
+      "name_en": "Chinese (Traditional, Taiwan)"
+    },
+    {
+      "locale_code": "zh_MO",
+      "nazov_sk": "čínština (Macao – OAO Číny)",
+      "name_en": "Chinese (Macau SAR China)"
+    },
+    {
+      "locale_code": "zh_SG",
+      "nazov_sk": "čínština (Singapur)",
+      "name_en": "Chinese (Singapore)"
+    },
+    {
+      "locale_code": "zh_TW",
+      "nazov_sk": "čínština (Taiwan)",
+      "name_en": "Chinese (Taiwan)"
+    },
+    {
+      "locale_code": "zu",
+      "nazov_sk": "zuluština",
+      "name_en": "Zulu"
+    },
+    {
+      "locale_code": "zu_ZA",
+      "nazov_sk": "zuluština (Južná Afrika)",
+      "name_en": "Zulu (South Africa)"
+    }
+  ],
+  "meta": {
+    "title": "Zoznam locale (miestne nastavenia) - Bezplatné stiahnutie",
+    "description": "Zoznam locale (miestnych nastavení) sveta s názvami v slovenčine a angličtine. Obsahuje 563 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Zoznam locale (miestne nastavenia) | ListBase",
+    "seo_description": "Stiahnuť Zoznam locale (miestne nastavenia) — 563 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 563 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

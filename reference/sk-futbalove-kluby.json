@@ -1,0 +1,85 @@
+{
+  "id": "sk-futbalove-kluby",
+  "name": "Slovenské futbalové kluby",
+  "title": "Slovenské futbalové kluby",
+  "description": "Football clubs in SK with founding year, stadium, city",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "FK Inter Bratislava",
+      "founded": 1940,
+      "aliases": "Inter Bratislava"
+    },
+    {
+      "name": "FC Petržalka",
+      "founded": 1898,
+      "aliases": "Petržalka | FC Petržalka 1898, Petrzalka Akademia"
+    },
+    {
+      "name": "FC Spartak Trnava",
+      "founded": 1923,
+      "aliases": "Spartak Trnava, Spartak TAZ Trnava, Žilina, Senica"
+    },
+    {
+      "name": "FC Košice",
+      "founded": 2018,
+      "aliases": "Football Club Košice, Football Club VSS Košice, MFK Košice, 1. FC Košice, Košice"
+    },
+    {
+      "name": "FC Lokomotíva Košice",
+      "founded": 1946,
+      "aliases": "Lokomotiva Košice, FK Lokomotiva Košice, Banská Bystrica, MFK Dukla Banská Bystrica, FK Dukla Banská Bystrica, Považská Bystrica, Nitra, Trenčín, FK AS Trenčín, Dunajská Streda, DAC Dunajská Streda, Dunajská Str., Ružomberok, Spartak Myjava, Zlaté Moravce, Sered | ŠKF Sereď, Sokol Dolná Zdana, Michalovce, Z. Michalovce | Zemplin Michalovce"
+    },
+    {
+      "name": "FK Poprad",
+      "founded": 1906
+    },
+    {
+      "name": "MŠK Púchov",
+      "founded": 1920,
+      "aliases": "Mestský Športový Klub Púchov, $$Matador$$ Púchov | FK $$Matador$$ Púchov, Púchov"
+    },
+    {
+      "name": "1. FC Tatran Prešov",
+      "founded": 1898,
+      "aliases": "Tatran Prešov, Tatran, Senec, ŽP Šport Podbrezová | Šport Podbrezová, Podbrezová, Skalica"
+    },
+    {
+      "name": "KFC Komárno",
+      "founded": 1900,
+      "aliases": "Komárňanský futbalový club, Komáromi Football Club, KFC"
+    }
+  ],
+  "meta": {
+    "title": "Slovenské futbalové kluby - Bezplatné stiahnutie",
+    "description": "Football clubs in SK with founding year, stadium, city Obsahuje 9 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Slovenské futbalové kluby | ListBase",
+    "seo_description": "Stiahnuť Slovenské futbalové kluby — 9 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 9 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

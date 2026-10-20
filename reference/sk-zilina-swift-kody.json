@@ -1,0 +1,76 @@
+{
+  "id": "sk-zilina-swift-kody",
+  "name": "SWIFT/BIC kódy — Zilina",
+  "title": "SWIFT/BIC kódy — Zilina",
+  "description": "SWIFT/BIC kódy bánk a finančných inštitúcií na Slovensku. Každý záznam uvádza názov inštitúcie, mesto, prípadnú pobočku a SWIFT/BIC kód. Zdroj: PeterNotenboom/SwiftCodes (MIT). Táto podmnožina obsahuje 5 inštitúcií, ktoré zdroj uvádza s mestom \"ZILINA\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "PRIMA BANKA SLOVENSKO, A.S.",
+      "city": "ZILINA",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "KOMASK2X"
+    },
+    {
+      "bank": "PRIMA BANKA SLOVENSKO, A.S.",
+      "city": "ZILINA",
+      "branch": "(ZILINA BRANCH)",
+      "swift_code": "KOMASK2XZIL"
+    },
+    {
+      "bank": "PRIMA BANKA SLOVENSKO, A.S. (FORMERLY SBERBANK SLOVENSKO, A.S.)",
+      "city": "ZILINA",
+      "branch": "",
+      "swift_code": "LUBASKBX"
+    },
+    {
+      "bank": "SEVISBROKERS FINANCE O.C.P., A.S.",
+      "city": "ZILINA",
+      "branch": "",
+      "swift_code": "SEFOSK21"
+    },
+    {
+      "bank": "SLOVAK NATIONAL EMISSION REGISTRY",
+      "city": "ZILINA",
+      "branch": "",
+      "swift_code": "SNERSK21"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BIC kódy — Zilina - Bezplatné stiahnutie",
+    "description": "SWIFT/BIC kódy bánk a finančných inštitúcií na Slovensku. Každý záznam uvádza názov inštitúcie, mesto, prípadnú pobočku a SWIFT/BIC kód. Zdroj: PeterNotenboom/SwiftCodes (MIT). Táto podmnožina obsahuje 5 inštitúcií, ktoré zdroj uvádza s mestom \"ZILINA\". Obsahuje 5 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "SWIFT/BIC kódy — Zilina | ListBase",
+    "seo_description": "Stiahnuť SWIFT/BIC kódy — Zilina — 5 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 5 záznamov / 4 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

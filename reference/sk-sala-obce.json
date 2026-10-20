@@ -1,0 +1,236 @@
+{
+  "id": "sk-sala-obce",
+  "name": "Obce v okrese Šaľa",
+  "title": "Obce v okrese Šaľa",
+  "description": "Všetky obce (municipality) v okrese Šaľa, Nitriansky kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 549,
+      "fullname": "Diakovce",
+      "shortname": "Diakovce",
+      "zip": "925 81",
+      "district_id": 66,
+      "okres": "Šaľa",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 565,
+      "fullname": "Dlhá nad Váhom",
+      "shortname": "Dlhá nad Váhom",
+      "zip": "927 05",
+      "district_id": 66,
+      "okres": "Šaľa",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 847,
+      "fullname": "Gorazdov",
+      "shortname": "Gorazdov",
+      "zip": "951 31",
+      "district_id": 66,
+      "okres": "Šaľa",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 926,
+      "fullname": "Hetméň",
+      "shortname": "Hetméň",
+      "zip": "927 01",
+      "district_id": 66,
+      "okres": "Šaľa",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 975,
+      "fullname": "Horná Kráľová",
+      "shortname": "Horná Kráľová",
+      "zip": "951 32",
+      "district_id": 66,
+      "okres": "Šaľa",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1041,
+      "fullname": "Horný Jatov",
+      "shortname": "Horný Jatov",
+      "zip": "925 71",
+      "district_id": 66,
+      "okres": "Šaľa",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 876,
+      "fullname": "Hájske",
+      "shortname": "Hájske",
+      "zip": "951 33",
+      "district_id": 66,
+      "okres": "Šaľa",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1634,
+      "fullname": "Kráľová nad Váhom",
+      "shortname": "Kráľová nad Váhom",
+      "zip": "925 91",
+      "district_id": 66,
+      "okres": "Šaľa",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1458,
+      "fullname": "Kľučiareň",
+      "shortname": "Kľučiareň",
+      "zip": "925 71",
+      "district_id": 66,
+      "okres": "Šaľa",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2223,
+      "fullname": "Močenok",
+      "shortname": "Močenok",
+      "zip": "951 31",
+      "district_id": 66,
+      "okres": "Šaľa",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2304,
+      "fullname": "Neded",
+      "shortname": "Neded",
+      "zip": "925 85",
+      "district_id": 66,
+      "okres": "Šaľa",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3107,
+      "fullname": "Selice",
+      "shortname": "Selice",
+      "zip": "925 72",
+      "district_id": 66,
+      "okres": "Šaľa",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3537,
+      "fullname": "Tešedíkovo",
+      "shortname": "Tešedíkovo",
+      "zip": "925 82",
+      "district_id": 66,
+      "okres": "Šaľa",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3606,
+      "fullname": "Trnovec nad Váhom",
+      "shortname": "Trnovec nad Váhom",
+      "zip": "925 71",
+      "district_id": 66,
+      "okres": "Šaľa",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3895,
+      "fullname": "Vlčany",
+      "shortname": "Vlčany",
+      "zip": "925 84",
+      "district_id": 66,
+      "okres": "Šaľa",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3379,
+      "fullname": "Šaľa",
+      "shortname": "Šaľa",
+      "zip": 0,
+      "district_id": 66,
+      "okres": "Šaľa",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 4190,
+      "fullname": "Žihárec",
+      "shortname": "Žihárec",
+      "zip": "925 83",
+      "district_id": 66,
+      "okres": "Šaľa",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Šaľa - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Šaľa, Nitriansky kraj — s PSČ a kódom okresu. Obsahuje 17 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Šaľa | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Šaľa — 17 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 17 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

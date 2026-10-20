@@ -1,0 +1,97 @@
+{
+  "id": "sk-merne-jednotky-consumption",
+  "name": "Merné jednotky — kategória 'consumption' (4)",
+  "title": "Merné jednotky — kategória 'consumption' (4)",
+  "description": "Merné jednotky kategórie 'consumption' z locale sk v CLDR, s názvami v slovenčine.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "skratka",
+      "label": "Skratka",
+      "type": "string"
+    },
+    {
+      "key": "uzky_tvar",
+      "label": "Uzky Tvar",
+      "type": "string"
+    },
+    {
+      "key": "vzor",
+      "label": "Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "kategoria": "consumption",
+      "nazov": "litre na 100 kilometrov",
+      "skratka": "l/100 km",
+      "uzky_tvar": "l/100 km",
+      "vzor": "{0} litrov na 100 kilometrov"
+    },
+    {
+      "id": 2,
+      "unit_code": "consumption-liter-per-kilometer",
+      "kategoria": "consumption",
+      "nazov": "litre na kilometer",
+      "skratka": "l/km",
+      "uzky_tvar": "l/km",
+      "vzor": "{0} litrov na kilometer"
+    },
+    {
+      "id": 3,
+      "unit_code": "consumption-mile-per-gallon",
+      "kategoria": "consumption",
+      "nazov": "míle na galón",
+      "skratka": "mpg",
+      "uzky_tvar": "mpg",
+      "vzor": "{0} míľ na galón"
+    },
+    {
+      "id": 4,
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "kategoria": "consumption",
+      "nazov": "míle na britský galón",
+      "skratka": "mpg brit.",
+      "uzky_tvar": "mpg brit.",
+      "vzor": "{0} míľ na britský galón"
+    }
+  ],
+  "meta": {
+    "title": "Merné jednotky — kategória 'consumption' (4) - Bezplatné stiahnutie",
+    "description": "Merné jednotky kategórie 'consumption' z locale sk v CLDR, s názvami v slovenčine. Obsahuje 4 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Merné jednotky — kategória 'consumption' (4) | ListBase",
+    "seo_description": "Stiahnuť Merné jednotky — kategória 'consumption' (4) — 4 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 4 záznamov / 7 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

@@ -1,0 +1,876 @@
+{
+  "id": "sk-trencin-obce",
+  "name": "Obce v okrese Trenčín",
+  "title": "Obce v okrese Trenčín",
+  "description": "Všetky obce (municipality) v okrese Trenčín, Trenčiansky kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 81,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 8,
+      "fullname": "Adamovské Kochanovce",
+      "shortname": "Adamovské Kochanovce",
+      "zip": "913 05",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 161,
+      "fullname": "Biskupice",
+      "shortname": "Biskupice",
+      "zip": "911 01",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 179,
+      "fullname": "Bobot",
+      "shortname": "Bobot",
+      "zip": "913 25",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 180,
+      "fullname": "Bobotská Lehota",
+      "shortname": "Bobotská Lehota",
+      "zip": "913 25",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 193,
+      "fullname": "Bodovka - Krivosúd",
+      "shortname": "Bodovka - Krivosúd",
+      "zip": "913 11",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 233,
+      "fullname": "Bošianska Neporadza",
+      "shortname": "Bošianska Neporadza",
+      "zip": "913 26",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1175,
+      "fullname": "Chocholná",
+      "shortname": "Chocholná",
+      "zip": "913 04",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 576,
+      "fullname": "Dobrá",
+      "shortname": "Dobrá",
+      "zip": "914 01",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 608,
+      "fullname": "Dolná Poruba",
+      "shortname": "Dolná Poruba",
+      "zip": "914 43",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 613,
+      "fullname": "Dolná Súča",
+      "shortname": "Dolná Súča",
+      "zip": "913 32",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 618,
+      "fullname": "Dolná Závrská",
+      "shortname": "Dolná Závrská",
+      "zip": "913 33",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 634,
+      "fullname": "Dolné Motešice",
+      "shortname": "Dolné Motešice",
+      "zip": "913 26",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 702,
+      "fullname": "Drietoma",
+      "shortname": "Drietoma",
+      "zip": "913 03",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 720,
+      "fullname": "Dubodiel",
+      "shortname": "Dubodiel",
+      "zip": "913 23",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 734,
+      "fullname": "Dúbrava",
+      "shortname": "Dúbrava",
+      "zip": "913 33",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 988,
+      "fullname": "Horná Súča",
+      "shortname": "Horná Súča",
+      "zip": "913 33",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 994,
+      "fullname": "Horná Závrská",
+      "shortname": "Horná Závrská",
+      "zip": "913 33",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1012,
+      "fullname": "Horné Motešice",
+      "shortname": "Horné Motešice",
+      "zip": "913 26",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1027,
+      "fullname": "Horné Srnie",
+      "shortname": "Horné Srnie",
+      "zip": "914 42",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 997,
+      "fullname": "Horňany",
+      "shortname": "Horňany",
+      "zip": "913 24",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1078,
+      "fullname": "Hrabovka",
+      "shortname": "Hrabovka",
+      "zip": "913 32",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 884,
+      "fullname": "Hámre",
+      "shortname": "Hámre",
+      "zip": "913 21",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1226,
+      "fullname": "Istebník",
+      "shortname": "Istebník",
+      "zip": "911 05",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1233,
+      "fullname": "Ivanovce",
+      "shortname": "Ivanovce",
+      "zip": "913 05",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1479,
+      "fullname": "Kochanovce",
+      "shortname": "Kochanovce",
+      "zip": "913 05",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1550,
+      "fullname": "Kostolná - Záriečie",
+      "shortname": "Kostolná - Záriečie",
+      "zip": "913 04",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1556,
+      "fullname": "Kostolné Mitice",
+      "shortname": "Kostolné Mitice",
+      "zip": "913 22",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1680,
+      "fullname": "Krivosúd - Bodovka",
+      "shortname": "Krivosúd - Bodovka",
+      "zip": "913 11",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1658,
+      "fullname": "Krásny Dub",
+      "shortname": "Krásny Dub",
+      "zip": "913 33",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1716,
+      "fullname": "Kubrica",
+      "shortname": "Kubrica",
+      "zip": "911 01",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1715,
+      "fullname": "Kubrá",
+      "shortname": "Kubrá",
+      "zip": "911 01",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1750,
+      "fullname": "Kykula",
+      "shortname": "Kykula",
+      "zip": "913 04",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1460,
+      "fullname": "Kľúčové",
+      "shortname": "Kľúčové",
+      "zip": "914 41",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1847,
+      "fullname": "Lieskové - Zemianske Lieskové",
+      "shortname": "Lieskové-Zem.Liesk.",
+      "zip": "913 05",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2049,
+      "fullname": "Malé Bierovce",
+      "shortname": "Malé Bierovce",
+      "zip": "913 05",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2070,
+      "fullname": "Malé Stankovce",
+      "shortname": "Malé Stankovce",
+      "zip": "913 11",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2162,
+      "fullname": "Melčice",
+      "shortname": "Melčice",
+      "zip": "913 05",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2216,
+      "fullname": "Mníchova Lehota",
+      "shortname": "Mníchova Lehota",
+      "zip": "913 21",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2263,
+      "fullname": "Motešice",
+      "shortname": "Motešice",
+      "zip": "913 26",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2319,
+      "fullname": "Nemšová",
+      "shortname": "Nemšová",
+      "zip": "914 41",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2321,
+      "fullname": "Neporadza",
+      "shortname": "Neporadza",
+      "zip": "913 26",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2488,
+      "fullname": "Omšenie",
+      "shortname": "Omšenie",
+      "zip": "914 43",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2502,
+      "fullname": "Opatovce",
+      "shortname": "Opatovce",
+      "zip": "913 11",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2499,
+      "fullname": "Opatová",
+      "shortname": "Opatová",
+      "zip": "911 01",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2525,
+      "fullname": "Orechové",
+      "shortname": "Orechové",
+      "zip": "911 05",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2626,
+      "fullname": "Petrova Lehota",
+      "shortname": "Petrova Lehota",
+      "zip": "913 26",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2622,
+      "fullname": "Peťovka",
+      "shortname": "Peťovka",
+      "zip": "913 26",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2749,
+      "fullname": "Polníky",
+      "shortname": "Polníky",
+      "zip": "913 32",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2957,
+      "fullname": "Repákovci",
+      "shortname": "Repákovci",
+      "zip": "913 33",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3012,
+      "fullname": "Rozvadze",
+      "shortname": "Rozvadze",
+      "zip": "913 11",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3017,
+      "fullname": "Rožňová Neporadza",
+      "shortname": "Rožňová Neporadza",
+      "zip": "913 26",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3018,
+      "fullname": "Rožňové Mitice",
+      "shortname": "Rožňové Mitice",
+      "zip": "913 22",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3095,
+      "fullname": "Sedličná",
+      "shortname": "Sedličná",
+      "zip": "913 11",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3104,
+      "fullname": "Selec",
+      "shortname": "Selec",
+      "zip": "913 36",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3139,
+      "fullname": "Skala",
+      "shortname": "Skala",
+      "zip": "913 31",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3143,
+      "fullname": "Skalka nad Váhom",
+      "shortname": "Skalka nad Váhom",
+      "zip": "913 31",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3144,
+      "fullname": "Skalská Nová Ves",
+      "shortname": "Skalská Nová Ves",
+      "zip": "913 31",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3213,
+      "fullname": "Soblahov",
+      "shortname": "Soblahov",
+      "zip": "913 38",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3369,
+      "fullname": "Svinná",
+      "shortname": "Svinná",
+      "zip": "913 24",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3584,
+      "fullname": "Trenčianska Teplá",
+      "shortname": "Trenčianska Teplá",
+      "zip": "914 01",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3585,
+      "fullname": "Trenčianska Turná",
+      "shortname": "Trenčianska Turná",
+      "zip": "913 21",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3586,
+      "fullname": "Trenčianska Závada",
+      "shortname": "Trenčianska Závada",
+      "zip": "914 41",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3588,
+      "fullname": "Trenčianske Jastrabie",
+      "shortname": "Trenč.Jastrabie",
+      "zip": "913 22",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3589,
+      "fullname": "Trenčianske Mitice",
+      "shortname": "Trenčianske Mitice",
+      "zip": "913 22",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3590,
+      "fullname": "Trenčianske Stankovce",
+      "shortname": "Trenč.Stankovce",
+      "zip": "913 11",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3591,
+      "fullname": "Trenčianske Teplice",
+      "shortname": "Trenčianske Teplice",
+      "zip": "914 51",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3592,
+      "fullname": "Trenčín",
+      "shortname": "Trenčín",
+      "zip": 0,
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3600,
+      "fullname": "Trnávka",
+      "shortname": "Trnávka",
+      "zip": "913 33",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3738,
+      "fullname": "Velčice",
+      "shortname": "Velčice",
+      "zip": "913 04",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3752,
+      "fullname": "Veľká Hradná",
+      "shortname": "Veľká Hradná",
+      "zip": "913 24",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3772,
+      "fullname": "Veľké Bierovce",
+      "shortname": "Veľké Bierovce",
+      "zip": "913 11",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3802,
+      "fullname": "Veľké Stankovce",
+      "shortname": "Veľké Stankovce",
+      "zip": "913 11",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3896,
+      "fullname": "Vlčí Vrch",
+      "shortname": "Vlčí Vrch",
+      "zip": "913 33",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 4059,
+      "fullname": "Zamarovce",
+      "shortname": "Zamarovce",
+      "zip": "911 05",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 4110,
+      "fullname": "Zemianske Lieskové",
+      "shortname": "Zemianske Lieskové",
+      "zip": "913 05",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 4111,
+      "fullname": "Zemianske Mitice",
+      "shortname": "Zemianske Mitice",
+      "zip": "913 22",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 4142,
+      "fullname": "Zlatovce",
+      "shortname": "Zlatovce",
+      "zip": "911 05",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 4031,
+      "fullname": "Záblatie",
+      "shortname": "Záblatie",
+      "zip": "911 06",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3680,
+      "fullname": "Újazd",
+      "shortname": "Újazd",
+      "zip": "913 31",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1938,
+      "fullname": "Ľuborča",
+      "shortname": "Ľuborča",
+      "zip": "914 41",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3477,
+      "fullname": "Štvrtok",
+      "shortname": "Štvrtok",
+      "zip": "913 05",
+      "district_id": 69,
+      "okres": "Trenčín",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Trenčín - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Trenčín, Trenčiansky kraj — s PSČ a kódom okresu. Obsahuje 81 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Trenčín | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Trenčín — 81 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 81 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

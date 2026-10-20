@@ -1,0 +1,187 @@
+{
+  "id": "sk-merne-jednotky-energy",
+  "name": "Merné jednotky — kategória 'energy' (14)",
+  "title": "Merné jednotky — kategória 'energy' (14)",
+  "description": "Merné jednotky kategórie 'energy' z locale sk v CLDR, s názvami v slovenčine.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "skratka",
+      "label": "Skratka",
+      "type": "string"
+    },
+    {
+      "key": "uzky_tvar",
+      "label": "Uzky Tvar",
+      "type": "string"
+    },
+    {
+      "key": "vzor",
+      "label": "Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "energy-becquerel",
+      "kategoria": "energy",
+      "nazov": "Bq",
+      "skratka": "Bq",
+      "uzky_tvar": "Bq",
+      "vzor": "{0} Bq"
+    },
+    {
+      "id": 2,
+      "unit_code": "energy-british-thermal-unit",
+      "kategoria": "energy",
+      "nazov": "britské tepelné jednotky",
+      "skratka": "BTU",
+      "uzky_tvar": "BTU",
+      "vzor": "{0} britských tepelných jednotiek"
+    },
+    {
+      "id": 3,
+      "unit_code": "energy-british-thermal-unit-it",
+      "kategoria": "energy",
+      "nazov": "BTU-IT",
+      "skratka": "BTU-IT",
+      "uzky_tvar": "BTU-IT",
+      "vzor": "{0} BTU-IT"
+    },
+    {
+      "id": 4,
+      "unit_code": "energy-calorie",
+      "kategoria": "energy",
+      "nazov": "kalórie",
+      "skratka": "cal",
+      "uzky_tvar": "cal",
+      "vzor": "{0} kalórií"
+    },
+    {
+      "id": 5,
+      "unit_code": "energy-calorie-it",
+      "kategoria": "energy",
+      "nazov": "kalória [IT]",
+      "skratka": "cal-IT",
+      "uzky_tvar": "cal-IT",
+      "vzor": "{0} kalórií [IT]"
+    },
+    {
+      "id": 6,
+      "unit_code": "energy-electronvolt",
+      "kategoria": "energy",
+      "nazov": "elektrónvolty",
+      "skratka": "eV",
+      "uzky_tvar": "eV",
+      "vzor": "{0} elektrónvoltov"
+    },
+    {
+      "id": 7,
+      "unit_code": "energy-foodcalorie",
+      "kategoria": "energy",
+      "nazov": "kalórie",
+      "skratka": "cal",
+      "uzky_tvar": "cal",
+      "vzor": "{0} kalórií"
+    },
+    {
+      "id": 8,
+      "unit_code": "energy-gray",
+      "kategoria": "energy",
+      "nazov": "Gy",
+      "skratka": "Gy",
+      "uzky_tvar": "Gy",
+      "vzor": "{0} Gy"
+    },
+    {
+      "id": 9,
+      "unit_code": "energy-joule",
+      "kategoria": "energy",
+      "nazov": "jouly",
+      "skratka": "J",
+      "uzky_tvar": "J",
+      "vzor": "{0} joulov"
+    },
+    {
+      "id": 10,
+      "unit_code": "energy-kilocalorie",
+      "kategoria": "energy",
+      "nazov": "kilokalórie",
+      "skratka": "kcal",
+      "uzky_tvar": "kcal",
+      "vzor": "{0} kilokalórií"
+    },
+    {
+      "id": 11,
+      "unit_code": "energy-kilojoule",
+      "kategoria": "energy",
+      "nazov": "kilojouly",
+      "skratka": "kJ",
+      "uzky_tvar": "kJ",
+      "vzor": "{0} kilojoulov"
+    },
+    {
+      "id": 12,
+      "unit_code": "energy-kilowatt-hour",
+      "kategoria": "energy",
+      "nazov": "kilowatthodiny",
+      "skratka": "kWh",
+      "uzky_tvar": "kWh",
+      "vzor": "{0} kilowatthodín"
+    },
+    {
+      "id": 13,
+      "unit_code": "energy-sievert",
+      "kategoria": "energy",
+      "nazov": "Sv",
+      "skratka": "Sv",
+      "uzky_tvar": "Sv",
+      "vzor": "{0} Sv"
+    },
+    {
+      "id": 14,
+      "unit_code": "energy-therm-us",
+      "kategoria": "energy",
+      "nazov": "americké termy",
+      "skratka": "thm",
+      "uzky_tvar": "thm",
+      "vzor": "{0} amerických termov"
+    }
+  ],
+  "meta": {
+    "title": "Merné jednotky — kategória 'energy' (14) - Bezplatné stiahnutie",
+    "description": "Merné jednotky kategórie 'energy' z locale sk v CLDR, s názvami v slovenčine. Obsahuje 14 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Merné jednotky — kategória 'energy' (14) | ListBase",
+    "seo_description": "Stiahnuť Merné jednotky — kategória 'energy' (14) — 14 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 14 záznamov / 7 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

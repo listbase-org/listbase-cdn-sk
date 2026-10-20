@@ -1,0 +1,546 @@
+{
+  "id": "sk-sabinov-obce",
+  "name": "Obce v okrese Sabinov",
+  "title": "Obce v okrese Sabinov",
+  "description": "Všetky obce (municipality) v okrese Sabinov, Prešovský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 52,
+      "fullname": "Bajerovce",
+      "shortname": "Bajerovce",
+      "zip": "082 73",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 192,
+      "fullname": "Bodovce",
+      "shortname": "Bodovce",
+      "zip": "082 66",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 290,
+      "fullname": "Brezovica",
+      "shortname": "Brezovica",
+      "zip": "082 74",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 291,
+      "fullname": "Brezovička",
+      "shortname": "Brezovička",
+      "zip": "082 74",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 333,
+      "fullname": "Budzín",
+      "shortname": "Budzín",
+      "zip": "082 71",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 518,
+      "fullname": "Daletice",
+      "shortname": "Daletice",
+      "zip": "082 63",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 697,
+      "fullname": "Drienica",
+      "shortname": "Drienica",
+      "zip": "083 01",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 729,
+      "fullname": "Dubovica",
+      "shortname": "Dubovica",
+      "zip": "082 71",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 889,
+      "fullname": "Hanigovce",
+      "shortname": "Hanigovce",
+      "zip": "082 56",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1138,
+      "fullname": "Hubošovce",
+      "shortname": "Hubošovce",
+      "zip": "082 66",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1253,
+      "fullname": "Jakovany",
+      "shortname": "Jakovany",
+      "zip": "083 01",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1257,
+      "fullname": "Jakubova Voľa",
+      "shortname": "Jakubova Voľa",
+      "zip": "082 56",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1259,
+      "fullname": "Jakubovany",
+      "shortname": "Jakubovany",
+      "zip": "083 01",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1290,
+      "fullname": "Jarovnice",
+      "shortname": "Jarovnice",
+      "zip": "082 63",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1370,
+      "fullname": "Kamenica",
+      "shortname": "Kamenica",
+      "zip": "082 71",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1675,
+      "fullname": "Krivany",
+      "shortname": "Krivany",
+      "zip": "082 71",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1649,
+      "fullname": "Krásna Lúka",
+      "shortname": "Krásna Lúka",
+      "zip": "082 73",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1859,
+      "fullname": "Lipany",
+      "shortname": "Lipany",
+      "zip": "082 71",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1951,
+      "fullname": "Lúčka",
+      "shortname": "Lúčka",
+      "zip": "082 71",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2004,
+      "fullname": "Majdan",
+      "shortname": "Majdan",
+      "zip": "082 57",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2200,
+      "fullname": "Milpoš",
+      "shortname": "Milpoš",
+      "zip": "082 71",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2227,
+      "fullname": "Močidľany",
+      "shortname": "Močidľany",
+      "zip": "082 63",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2388,
+      "fullname": "Nižný Slavkov",
+      "shortname": "Nižný Slavkov",
+      "zip": "082 75",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2474,
+      "fullname": "Olejníkov",
+      "shortname": "Olejníkov",
+      "zip": "082 57",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2529,
+      "fullname": "Orkucany",
+      "shortname": "Orkucany",
+      "zip": "083 01",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2546,
+      "fullname": "Ostrovany",
+      "shortname": "Ostrovany",
+      "zip": "082 22",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2485,
+      "fullname": "Oľšov",
+      "shortname": "Oľšov",
+      "zip": "082 76",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2613,
+      "fullname": "Pečovská Nová Ves",
+      "shortname": "Pečovská Nová Ves",
+      "zip": "082 56",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2752,
+      "fullname": "Poloma",
+      "shortname": "Poloma",
+      "zip": "082 73",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2784,
+      "fullname": "Potoky",
+      "shortname": "Potoky",
+      "zip": "082 71",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2940,
+      "fullname": "Ratvaj",
+      "shortname": "Ratvaj",
+      "zip": "082 66",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2947,
+      "fullname": "Ražňany",
+      "shortname": "Ražňany",
+      "zip": "082 61",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2956,
+      "fullname": "Renčišov",
+      "shortname": "Renčišov",
+      "zip": "082 63",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3013,
+      "fullname": "Rožkovany",
+      "shortname": "Rožkovany",
+      "zip": "082 71",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3066,
+      "fullname": "Sabinov",
+      "shortname": "Sabinov",
+      "zip": "083 01",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3542,
+      "fullname": "Tichý Potok",
+      "shortname": "Tichý Potok",
+      "zip": "082 74",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3567,
+      "fullname": "Torysa",
+      "shortname": "Torysa",
+      "zip": "082 76",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3694,
+      "fullname": "Uzovce",
+      "shortname": "Uzovce",
+      "zip": "082 66",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3696,
+      "fullname": "Uzovské Pekľany",
+      "shortname": "Uzovské Pekľany",
+      "zip": "082 63",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3697,
+      "fullname": "Uzovský Šalgov",
+      "shortname": "Uzovský Šalgov",
+      "zip": "082 61",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3972,
+      "fullname": "Vysoká",
+      "shortname": "Vysoká",
+      "zip": "082 74",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 471,
+      "fullname": "Červenica pri Sabinove",
+      "shortname": "Červenica pri Sabin.",
+      "zip": "082 56",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 467,
+      "fullname": "Červená Voda",
+      "shortname": "Červená Voda",
+      "zip": "083 01",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 516,
+      "fullname": "Ďačov",
+      "shortname": "Ďačov",
+      "zip": "082 71",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1981,
+      "fullname": "Ľutina",
+      "shortname": "Ľutina",
+      "zip": "082 57",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3400,
+      "fullname": "Šarišské Dravce",
+      "shortname": "Šarišské Dravce",
+      "zip": "082 73",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3404,
+      "fullname": "Šarišské Michaľany",
+      "shortname": "Šarišské Michaľany",
+      "zip": "082 22",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3405,
+      "fullname": "Šarišské Sokolovce",
+      "shortname": "Šarišské Sokolovce",
+      "zip": "082 66",
+      "district_id": 56,
+      "okres": "Sabinov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Sabinov - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Sabinov, Prešovský kraj — s PSČ a kódom okresu. Obsahuje 48 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Sabinov | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Sabinov — 48 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 48 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "id": "sk-polia-datumu-casu",
+  "name": "Polia dátumu a času — názvy v slovenčine (CLDR)",
+  "title": "Polia dátumu a času — názvy v slovenčine (CLDR)",
+  "description": "Názvy polí dátumu a času (éra, rok, mesiac, deň, hodina...) z locale sk v CLDR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "era",
+      "nazov": "letopočet"
+    },
+    {
+      "id": 2,
+      "code": "era-short",
+      "nazov": "letop."
+    },
+    {
+      "id": 3,
+      "code": "era-narrow",
+      "nazov": "letop."
+    },
+    {
+      "id": 4,
+      "code": "year",
+      "nazov": "rok"
+    },
+    {
+      "id": 5,
+      "code": "year-short",
+      "nazov": "r."
+    },
+    {
+      "id": 6,
+      "code": "year-narrow",
+      "nazov": "r."
+    },
+    {
+      "id": 7,
+      "code": "quarter",
+      "nazov": "štvrťrok"
+    },
+    {
+      "id": 8,
+      "code": "quarter-short",
+      "nazov": "Q"
+    },
+    {
+      "id": 9,
+      "code": "quarter-narrow",
+      "nazov": "Q"
+    },
+    {
+      "id": 10,
+      "code": "month",
+      "nazov": "mesiac"
+    },
+    {
+      "id": 11,
+      "code": "month-short",
+      "nazov": "mes."
+    },
+    {
+      "id": 12,
+      "code": "month-narrow",
+      "nazov": "mes."
+    },
+    {
+      "id": 13,
+      "code": "week",
+      "nazov": "týždeň"
+    },
+    {
+      "id": 14,
+      "code": "week-short",
+      "nazov": "týž."
+    },
+    {
+      "id": 15,
+      "code": "week-narrow",
+      "nazov": "týž."
+    },
+    {
+      "id": 16,
+      "code": "weekOfMonth",
+      "nazov": "týždeň mesiaca"
+    },
+    {
+      "id": 17,
+      "code": "weekOfMonth-short",
+      "nazov": "týž. mes."
+    },
+    {
+      "id": 18,
+      "code": "weekOfMonth-narrow",
+      "nazov": "týž. mes."
+    },
+    {
+      "id": 19,
+      "code": "day",
+      "nazov": "deň"
+    },
+    {
+      "id": 20,
+      "code": "day-short",
+      "nazov": "d."
+    },
+    {
+      "id": 21,
+      "code": "day-narrow",
+      "nazov": "d."
+    },
+    {
+      "id": 22,
+      "code": "dayOfYear",
+      "nazov": "deň roka"
+    },
+    {
+      "id": 23,
+      "code": "dayOfYear-short",
+      "nazov": "deň r."
+    },
+    {
+      "id": 24,
+      "code": "dayOfYear-narrow",
+      "nazov": "deň r."
+    },
+    {
+      "id": 25,
+      "code": "weekday",
+      "nazov": "deň týždňa"
+    },
+    {
+      "id": 26,
+      "code": "weekday-short",
+      "nazov": "deň týž."
+    },
+    {
+      "id": 27,
+      "code": "weekday-narrow",
+      "nazov": "deň týž."
+    },
+    {
+      "id": 28,
+      "code": "weekdayOfMonth",
+      "nazov": "deň týždňa v mesiaci"
+    },
+    {
+      "id": 29,
+      "code": "weekdayOfMonth-short",
+      "nazov": "d. týž. v mes."
+    },
+    {
+      "id": 30,
+      "code": "weekdayOfMonth-narrow",
+      "nazov": "d. týž. v mes."
+    },
+    {
+      "id": 31,
+      "code": "dayperiod-short",
+      "nazov": "AM/PM"
+    },
+    {
+      "id": 32,
+      "code": "dayperiod",
+      "nazov": "AM/PM"
+    },
+    {
+      "id": 33,
+      "code": "dayperiod-narrow",
+      "nazov": "AM/PM"
+    },
+    {
+      "id": 34,
+      "code": "hour",
+      "nazov": "hodina"
+    },
+    {
+      "id": 35,
+      "code": "hour-short",
+      "nazov": "h"
+    },
+    {
+      "id": 36,
+      "code": "hour-narrow",
+      "nazov": "h"
+    },
+    {
+      "id": 37,
+      "code": "minute",
+      "nazov": "minúta"
+    },
+    {
+      "id": 38,
+      "code": "minute-short",
+      "nazov": "min"
+    },
+    {
+      "id": 39,
+      "code": "minute-narrow",
+      "nazov": "min"
+    },
+    {
+      "id": 40,
+      "code": "second",
+      "nazov": "sekunda"
+    },
+    {
+      "id": 41,
+      "code": "second-short",
+      "nazov": "s"
+    },
+    {
+      "id": 42,
+      "code": "second-narrow",
+      "nazov": "s"
+    },
+    {
+      "id": 43,
+      "code": "zone",
+      "nazov": "časové pásmo"
+    },
+    {
+      "id": 44,
+      "code": "zone-short",
+      "nazov": "pásmo"
+    },
+    {
+      "id": 45,
+      "code": "zone-narrow",
+      "nazov": "pásmo"
+    }
+  ],
+  "meta": {
+    "title": "Polia dátumu a času — názvy v slovenčine (CLDR) - Bezplatné stiahnutie",
+    "description": "Názvy polí dátumu a času (éra, rok, mesiac, deň, hodina...) z locale sk v CLDR. Obsahuje 45 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Polia dátumu a času — názvy v slovenčine (CLDR) | ListBase",
+    "seo_description": "Stiahnuť Polia dátumu a času — názvy v slovenčine (CLDR) — 45 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 45 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

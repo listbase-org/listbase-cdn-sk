@@ -1,0 +1,1116 @@
+{
+  "id": "sk-trebisov-obce",
+  "name": "Obce v okrese Trebišov",
+  "title": "Obce v okrese Trebišov",
+  "description": "Všetky obce (municipality) v okrese Trebišov, Košický kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 105,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 10,
+      "fullname": "Albínov",
+      "shortname": "Albínov",
+      "zip": "078 01",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 78,
+      "fullname": "Bara",
+      "shortname": "Bara",
+      "zip": "076 32",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 41,
+      "fullname": "Bačka",
+      "shortname": "Bačka",
+      "zip": "076 84",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 42,
+      "fullname": "Bačkov",
+      "shortname": "Bačkov",
+      "zip": "076 61",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 148,
+      "fullname": "Biel",
+      "shortname": "Biel",
+      "zip": "076 41",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 229,
+      "fullname": "Borša",
+      "shortname": "Borša",
+      "zip": "076 32",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 212,
+      "fullname": "Boľ",
+      "shortname": "Boľ",
+      "zip": "076 53",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 234,
+      "fullname": "Boťany",
+      "shortname": "Boťany",
+      "zip": "076 43",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 236,
+      "fullname": "Božčice",
+      "shortname": "Božčice",
+      "zip": "076 62",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 263,
+      "fullname": "Brehov",
+      "shortname": "Brehov",
+      "zip": "076 05",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 279,
+      "fullname": "Brezina",
+      "shortname": "Brezina",
+      "zip": "076 12",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 367,
+      "fullname": "Byšta",
+      "shortname": "Byšta",
+      "zip": "076 13",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 382,
+      "fullname": "Cejkov",
+      "shortname": "Cejkov",
+      "zip": "076 05",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 519,
+      "fullname": "Dancov Potok",
+      "shortname": "Dancov Potok",
+      "zip": "076 12",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 523,
+      "fullname": "Dargov",
+      "shortname": "Dargov",
+      "zip": "076 61",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 575,
+      "fullname": "Dobrá",
+      "shortname": "Dobrá",
+      "zip": "076 41",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 767,
+      "fullname": "Dvorianky",
+      "shortname": "Dvorianky",
+      "zip": "076 62",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 775,
+      "fullname": "Egreš",
+      "shortname": "Egreš",
+      "zip": "075 01",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 783,
+      "fullname": "Fejséš",
+      "shortname": "Fejséš",
+      "zip": "077 01",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1093,
+      "fullname": "Hraň",
+      "shortname": "Hraň",
+      "zip": "076 03",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1101,
+      "fullname": "Hriadky",
+      "shortname": "Hriadky",
+      "zip": "076 22",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1130,
+      "fullname": "Hrušov",
+      "shortname": "Hrušov",
+      "zip": "076 37",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1099,
+      "fullname": "Hrčeľ",
+      "shortname": "Hrčeľ",
+      "zip": "076 15",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1146,
+      "fullname": "Hunkovce",
+      "shortname": "Hunkovce",
+      "zip": "076 62",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1389,
+      "fullname": "Kapoňa",
+      "shortname": "Kapoňa",
+      "zip": "076 84",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1394,
+      "fullname": "Karlov Dvor",
+      "shortname": "Karlov Dvor",
+      "zip": "076 33",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1406,
+      "fullname": "Kazimír",
+      "shortname": "Kazimír",
+      "zip": "076 13",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1398,
+      "fullname": "Kašov",
+      "shortname": "Kašov",
+      "zip": "076 02",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1424,
+      "fullname": "Kinčeš",
+      "shortname": "Kinčeš",
+      "zip": "076 62",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1448,
+      "fullname": "Klin nad Bodrogom",
+      "shortname": "Klin nad Bodrogom",
+      "zip": "076 31",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1497,
+      "fullname": "Kolónia",
+      "shortname": "Kolónia",
+      "zip": "076 42",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1616,
+      "fullname": "Kožuchov",
+      "shortname": "Kožuchov",
+      "zip": "076 01",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1661,
+      "fullname": "Kravany",
+      "shortname": "Kravany",
+      "zip": "076 61",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1643,
+      "fullname": "Kráľovský Chlmec",
+      "shortname": "Kráľovský Chlmec",
+      "zip": "077 01",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1739,
+      "fullname": "Kuzmice",
+      "shortname": "Kuzmice",
+      "zip": "076 12",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1757,
+      "fullname": "Kysta",
+      "shortname": "Kysta",
+      "zip": "076 02",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1772,
+      "fullname": "Ladmovce",
+      "shortname": "Ladmovce",
+      "zip": "076 34",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1787,
+      "fullname": "Lastovce",
+      "shortname": "Lastovce",
+      "zip": "076 14",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1811,
+      "fullname": "Leles",
+      "shortname": "Leles",
+      "zip": "076 84",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1964,
+      "fullname": "Luhyňa",
+      "shortname": "Luhyňa",
+      "zip": "076 14",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2014,
+      "fullname": "Malá Bara",
+      "shortname": "Malá Bara",
+      "zip": "076 32",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2037,
+      "fullname": "Malá Tŕňa",
+      "shortname": "Malá Tŕňa",
+      "zip": "076 82",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2067,
+      "fullname": "Malé Ozorovce",
+      "shortname": "Malé Ozorovce",
+      "zip": "078 01",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2073,
+      "fullname": "Malé Trakany",
+      "shortname": "Malé Trakany",
+      "zip": "076 42",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2090,
+      "fullname": "Malý Horeš",
+      "shortname": "Malý Horeš",
+      "zip": "076 52",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2092,
+      "fullname": "Malý Kamenec",
+      "shortname": "Malý Kamenec",
+      "zip": "076 36",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2102,
+      "fullname": "Malý Ruskov",
+      "shortname": "Malý Ruskov",
+      "zip": "075 01",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2178,
+      "fullname": "Michaľany",
+      "shortname": "Michaľany",
+      "zip": "076 14",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2194,
+      "fullname": "Milhostov",
+      "shortname": "Milhostov",
+      "zip": "075 01",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2391,
+      "fullname": "Nižný Žipov",
+      "shortname": "Nižný Žipov",
+      "zip": "076 17",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2432,
+      "fullname": "Novosad",
+      "shortname": "Novosad",
+      "zip": "076 02",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2422,
+      "fullname": "Nová Vieska pri Bodrogu",
+      "shortname": "N.Vieska pri Bodrogu",
+      "zip": "076 35",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2439,
+      "fullname": "Nový Majer",
+      "shortname": "Nový Majer",
+      "zip": "075 01",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2440,
+      "fullname": "Nový Ruskov",
+      "shortname": "Nový Ruskov",
+      "zip": "075 01",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2483,
+      "fullname": "Olšina",
+      "shortname": "Olšina",
+      "zip": "075 01",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2489,
+      "fullname": "Onča",
+      "shortname": "Onča",
+      "zip": "076 52",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2580,
+      "fullname": "Parchovany",
+      "shortname": "Parchovany",
+      "zip": "076 62",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2606,
+      "fullname": "Pavlovo",
+      "shortname": "Pavlovo",
+      "zip": "076 35",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2666,
+      "fullname": "Plechotice",
+      "shortname": "Plechotice",
+      "zip": "075 01",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2740,
+      "fullname": "Poľany",
+      "shortname": "Poľany",
+      "zip": "076 84",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2824,
+      "fullname": "Pribeník",
+      "shortname": "Pribeník",
+      "zip": "076 51",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2883,
+      "fullname": "Rad",
+      "shortname": "Rad",
+      "zip": "076 37",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3091,
+      "fullname": "Sečovce",
+      "shortname": "Sečovce",
+      "zip": "078 01",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3134,
+      "fullname": "Sirník",
+      "shortname": "Sirník",
+      "zip": "076 03",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3182,
+      "fullname": "Slivník",
+      "shortname": "Slivník",
+      "zip": "076 12",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3195,
+      "fullname": "Slovenské Nové Mesto",
+      "shortname": "Slovenské Nové Mesto",
+      "zip": "076 33",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3236,
+      "fullname": "Somotor",
+      "shortname": "Somotor",
+      "zip": "076 35",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3232,
+      "fullname": "Soľnička",
+      "shortname": "Soľnička",
+      "zip": "076 53",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3260,
+      "fullname": "Stankovce",
+      "shortname": "Stankovce",
+      "zip": "076 61",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3257,
+      "fullname": "Stanča",
+      "shortname": "Stanča",
+      "zip": "076 16",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3304,
+      "fullname": "Streda nad Bodrogom",
+      "shortname": "Streda nad Bodrogom",
+      "zip": "076 31",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3300,
+      "fullname": "Strážne",
+      "shortname": "Strážne",
+      "zip": "076 52",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3368,
+      "fullname": "Svinice",
+      "shortname": "Svinice",
+      "zip": "076 37",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3353,
+      "fullname": "Svätuše",
+      "shortname": "Svätuše",
+      "zip": "076 83",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3349,
+      "fullname": "Svätá Mária",
+      "shortname": "Svätá Mária",
+      "zip": "076 35",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3580,
+      "fullname": "Trebišov",
+      "shortname": "Trebišov",
+      "zip": "075 01",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3599,
+      "fullname": "Trnávka",
+      "shortname": "Trnávka",
+      "zip": "078 01",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3737,
+      "fullname": "Veľaty",
+      "shortname": "Veľaty",
+      "zip": "076 15",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3742,
+      "fullname": "Veľká Bara",
+      "shortname": "Veľká Bara",
+      "zip": "076 32",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3766,
+      "fullname": "Veľká Tŕňa",
+      "shortname": "Veľká Tŕňa",
+      "zip": "076 82",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3795,
+      "fullname": "Veľké Ozorovce",
+      "shortname": "Veľké Ozorovce",
+      "zip": "078 01",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3805,
+      "fullname": "Veľké Trakany",
+      "shortname": "Veľké Trakany",
+      "zip": "076 42",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3825,
+      "fullname": "Veľký Horeš",
+      "shortname": "Veľký Horeš",
+      "zip": "076 52",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3826,
+      "fullname": "Veľký Kamenec",
+      "shortname": "Veľký Kamenec",
+      "zip": "076 36",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3839,
+      "fullname": "Veľký Ruskov",
+      "shortname": "Veľký Ruskov",
+      "zip": "075 01",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3867,
+      "fullname": "Viničky",
+      "shortname": "Viničky",
+      "zip": "076 31",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3879,
+      "fullname": "Višňov",
+      "shortname": "Višňov",
+      "zip": "076 61",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3913,
+      "fullname": "Vojka",
+      "shortname": "Vojka",
+      "zip": "076 83",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3912,
+      "fullname": "Vojčice",
+      "shortname": "Vojčice",
+      "zip": "076 22",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3733,
+      "fullname": "Véč",
+      "shortname": "Véč",
+      "zip": "076 35",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4068,
+      "fullname": "Zatín",
+      "shortname": "Zatín",
+      "zip": "076 53",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4089,
+      "fullname": "Zbehňov",
+      "shortname": "Zbehňov",
+      "zip": "078 01",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4117,
+      "fullname": "Zemplín",
+      "shortname": "Zemplín",
+      "zip": "076 34",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4118,
+      "fullname": "Zemplínska Nová Ves",
+      "shortname": "Zemplínska Nová Ves",
+      "zip": "076 16",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4121,
+      "fullname": "Zemplínska Teplica",
+      "shortname": "Zemplínska Teplica",
+      "zip": "076 64",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4123,
+      "fullname": "Zemplínske Hradište",
+      "shortname": "Zemplínske Hradište",
+      "zip": "076 01",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4124,
+      "fullname": "Zemplínske Jastrabie",
+      "shortname": "Zemplínske Jastrabie",
+      "zip": "076 05",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4126,
+      "fullname": "Zemplínsky Branč",
+      "shortname": "Zemplínsky Branč",
+      "zip": "076 02",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4127,
+      "fullname": "Zemplínsky Klečenov",
+      "shortname": "Zemplínsky Klečenov",
+      "zip": "076 16",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3689,
+      "fullname": "Úpor",
+      "shortname": "Úpor",
+      "zip": "076 16",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 455,
+      "fullname": "Čerhov",
+      "shortname": "Čerhov",
+      "zip": "076 81",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 461,
+      "fullname": "Černochov",
+      "shortname": "Černochov",
+      "zip": "076 32",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 446,
+      "fullname": "Čeľovce",
+      "shortname": "Čeľovce",
+      "zip": "076 17",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 484,
+      "fullname": "Čierna",
+      "shortname": "Čierna",
+      "zip": "076 43",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 488,
+      "fullname": "Čierna nad Tisou",
+      "shortname": "Čierna nad Tisou",
+      "zip": "076 43",
+      "district_id": 68,
+      "okres": "Trebišov",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Trebišov - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Trebišov, Košický kraj — s PSČ a kódom okresu. Obsahuje 105 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Trebišov | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Trebišov — 105 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 105 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

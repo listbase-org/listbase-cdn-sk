@@ -1,0 +1,97 @@
+{
+  "id": "sk-merne-jednotky-frequency",
+  "name": "Merné jednotky — kategória 'frequency' (4)",
+  "title": "Merné jednotky — kategória 'frequency' (4)",
+  "description": "Merné jednotky kategórie 'frequency' z locale sk v CLDR, s názvami v slovenčine.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "skratka",
+      "label": "Skratka",
+      "type": "string"
+    },
+    {
+      "key": "uzky_tvar",
+      "label": "Uzky Tvar",
+      "type": "string"
+    },
+    {
+      "key": "vzor",
+      "label": "Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "frequency-gigahertz",
+      "kategoria": "frequency",
+      "nazov": "gigahertze",
+      "skratka": "GHz",
+      "uzky_tvar": "GHz",
+      "vzor": "{0} gigahertzov"
+    },
+    {
+      "id": 2,
+      "unit_code": "frequency-hertz",
+      "kategoria": "frequency",
+      "nazov": "hertze",
+      "skratka": "Hz",
+      "uzky_tvar": "Hz",
+      "vzor": "{0} hertzov"
+    },
+    {
+      "id": 3,
+      "unit_code": "frequency-kilohertz",
+      "kategoria": "frequency",
+      "nazov": "kilohertze",
+      "skratka": "kHz",
+      "uzky_tvar": "kHz",
+      "vzor": "{0} kilohertzov"
+    },
+    {
+      "id": 4,
+      "unit_code": "frequency-megahertz",
+      "kategoria": "frequency",
+      "nazov": "megahertze",
+      "skratka": "MHz",
+      "uzky_tvar": "MHz",
+      "vzor": "{0} megahertzov"
+    }
+  ],
+  "meta": {
+    "title": "Merné jednotky — kategória 'frequency' (4) - Bezplatné stiahnutie",
+    "description": "Merné jednotky kategórie 'frequency' z locale sk v CLDR, s názvami v slovenčine. Obsahuje 4 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Merné jednotky — kategória 'frequency' (4) | ListBase",
+    "seo_description": "Stiahnuť Merné jednotky — kategória 'frequency' (4) — 4 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 4 záznamov / 7 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

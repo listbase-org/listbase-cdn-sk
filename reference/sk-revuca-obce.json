@@ -1,0 +1,676 @@
+{
+  "id": "sk-revuca-obce",
+  "name": "Obce v okrese Revúca",
+  "title": "Obce v okrese Revúca",
+  "description": "Všetky obce (municipality) v okrese Revúca, Banskobystrický kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 61,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 102,
+      "fullname": "Behynce",
+      "shortname": "Behynce",
+      "zip": "982 01",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 306,
+      "fullname": "Brusník",
+      "shortname": "Brusník",
+      "zip": "982 65",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1196,
+      "fullname": "Chvalová",
+      "shortname": "Chvalová",
+      "zip": "982 62",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1203,
+      "fullname": "Chyžné",
+      "shortname": "Chyžné",
+      "zip": "049 18",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 708,
+      "fullname": "Držkovce",
+      "shortname": "Držkovce",
+      "zip": "982 62",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 792,
+      "fullname": "Filier",
+      "shortname": "Filier",
+      "zip": "982 66",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 822,
+      "fullname": "Gemer",
+      "shortname": "Gemer",
+      "zip": "982 01",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 827,
+      "fullname": "Gemerská Ves",
+      "shortname": "Gemerská Ves",
+      "zip": "982 62",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 830,
+      "fullname": "Gemerské Teplice",
+      "shortname": "Gemerské Teplice",
+      "zip": "049 16",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 832,
+      "fullname": "Gemerský Milhosť",
+      "shortname": "Gemerský Milhosť",
+      "zip": "049 16",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 833,
+      "fullname": "Gemerský Sad",
+      "shortname": "Gemerský Sad",
+      "zip": "049 13",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 854,
+      "fullname": "Gregorovce",
+      "shortname": "Gregorovce",
+      "zip": "982 52",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1107,
+      "fullname": "Hrlica",
+      "shortname": "Hrlica",
+      "zip": "982 66",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1141,
+      "fullname": "Hucín",
+      "shortname": "Hucín",
+      "zip": "049 13",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1324,
+      "fullname": "Jelšava",
+      "shortname": "Jelšava",
+      "zip": "049 16",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1325,
+      "fullname": "Jelšavská Teplica",
+      "shortname": "Jelšavská Teplica",
+      "zip": "049 16",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1367,
+      "fullname": "Kameňany",
+      "shortname": "Kameňany",
+      "zip": "049 62",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1528,
+      "fullname": "Kopráš",
+      "shortname": "Kopráš",
+      "zip": "049 16",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1627,
+      "fullname": "Králik",
+      "shortname": "Králik",
+      "zip": "982 01",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1830,
+      "fullname": "Levkuška",
+      "shortname": "Levkuška",
+      "zip": "982 62",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1828,
+      "fullname": "Leváre",
+      "shortname": "Leváre",
+      "zip": "982 62",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1836,
+      "fullname": "Licince",
+      "shortname": "Licince",
+      "zip": "049 14",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1930,
+      "fullname": "Lubeník",
+      "shortname": "Lubeník",
+      "zip": "049 18",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1999,
+      "fullname": "Magnezitovce",
+      "shortname": "Magnezitovce",
+      "zip": "049 16",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2184,
+      "fullname": "Mikolčany",
+      "shortname": "Mikolčany",
+      "zip": "049 13",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2217,
+      "fullname": "Mníšany",
+      "shortname": "Mníšany",
+      "zip": "049 16",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2243,
+      "fullname": "Mokrá Lúka",
+      "shortname": "Mokrá Lúka",
+      "zip": "050 01",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2275,
+      "fullname": "Muránska Dlhá Lúka",
+      "shortname": "Muránska Dlhá Lúka",
+      "zip": "050 01",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2276,
+      "fullname": "Muránska Huta",
+      "shortname": "Muránska Huta",
+      "zip": "049 01",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2277,
+      "fullname": "Muránska Lehota",
+      "shortname": "Muránska Lehota",
+      "zip": "049 01",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2278,
+      "fullname": "Muránska Zdychava",
+      "shortname": "Muránska Zdychava",
+      "zip": "050 01",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2274,
+      "fullname": "Muráň",
+      "shortname": "Muráň",
+      "zip": "049 01",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2297,
+      "fullname": "Nandraž",
+      "shortname": "Nandraž",
+      "zip": "049 61",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2424,
+      "fullname": "Nováčany",
+      "shortname": "Nováčany",
+      "zip": "049 13",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2554,
+      "fullname": "Otročok",
+      "shortname": "Otročok",
+      "zip": "982 62",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2673,
+      "fullname": "Ploské",
+      "shortname": "Ploské",
+      "zip": "982 65",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2746,
+      "fullname": "Polina",
+      "shortname": "Polina",
+      "zip": "982 62",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2815,
+      "fullname": "Predná Hora",
+      "shortname": "Predná Hora",
+      "zip": "049 01",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2846,
+      "fullname": "Prihradzany",
+      "shortname": "Prihradzany",
+      "zip": "049 14",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2938,
+      "fullname": "Ratkovské Bystré",
+      "shortname": "Ratkovské Bystré",
+      "zip": "982 66",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2932,
+      "fullname": "Ratková",
+      "shortname": "Ratková",
+      "zip": "982 65",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2929,
+      "fullname": "Rašice",
+      "shortname": "Rašice",
+      "zip": "982 62",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2960,
+      "fullname": "Repištia",
+      "shortname": "Repištia",
+      "zip": "982 65",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2965,
+      "fullname": "Revúca",
+      "shortname": "Revúca",
+      "zip": "050 01",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2966,
+      "fullname": "Revúcka Lehota",
+      "shortname": "Revúcka Lehota",
+      "zip": "049 18",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2967,
+      "fullname": "Revúčka",
+      "shortname": "Revúčka",
+      "zip": "050 01",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3062,
+      "fullname": "Rybník",
+      "shortname": "Rybník",
+      "zip": "982 65",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2908,
+      "fullname": "Rákoš",
+      "shortname": "Rákoš",
+      "zip": "049 61",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2909,
+      "fullname": "Rákošská Baňa",
+      "shortname": "Rákošská Baňa",
+      "zip": "049 61",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3133,
+      "fullname": "Sirk",
+      "shortname": "Sirk",
+      "zip": "049 64",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3146,
+      "fullname": "Skerešovo",
+      "shortname": "Skerešovo",
+      "zip": "982 62",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3277,
+      "fullname": "Starňa",
+      "shortname": "Starňa",
+      "zip": "982 01",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3080,
+      "fullname": "Sása",
+      "shortname": "Sása",
+      "zip": "982 65",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3566,
+      "fullname": "Tornaľa",
+      "shortname": "Tornaľa",
+      "zip": "982 01",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3641,
+      "fullname": "Turčok",
+      "shortname": "Turčok",
+      "zip": "049 18",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3883,
+      "fullname": "Višňové",
+      "shortname": "Višňové",
+      "zip": "982 62",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 468,
+      "fullname": "Červeňany",
+      "shortname": "Červeňany",
+      "zip": "049 64",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3392,
+      "fullname": "Šankovce",
+      "shortname": "Šankovce",
+      "zip": "982 62",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3434,
+      "fullname": "Šivetice",
+      "shortname": "Šivetice",
+      "zip": "049 14",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4177,
+      "fullname": "Železník",
+      "shortname": "Železník",
+      "zip": "049 64",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4187,
+      "fullname": "Žiar",
+      "shortname": "Žiar",
+      "zip": "982 01",
+      "district_id": 52,
+      "okres": "Revúca",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Revúca - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Revúca, Banskobystrický kraj — s PSČ a kódom okresu. Obsahuje 61 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Revúca | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Revúca — 61 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 61 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

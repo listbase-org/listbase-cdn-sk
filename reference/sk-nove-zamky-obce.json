@@ -1,0 +1,946 @@
+{
+  "id": "sk-nove-zamky-obce",
+  "name": "Obce v okrese Nové Zámky",
+  "title": "Obce v okrese Nové Zámky",
+  "description": "Všetky obce (municipality) v okrese Nové Zámky, Nitriansky kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 88,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 19,
+      "fullname": "Andovce",
+      "shortname": "Andovce",
+      "zip": "941 23",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 22,
+      "fullname": "Arad",
+      "shortname": "Arad",
+      "zip": "943 42",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 54,
+      "fullname": "Bajtava",
+      "shortname": "Bajtava",
+      "zip": "943 65",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 84,
+      "fullname": "Bardoňovo",
+      "shortname": "Bardoňovo",
+      "zip": "941 49",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 112,
+      "fullname": "Belek",
+      "shortname": "Belek",
+      "zip": "941 48",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 106,
+      "fullname": "Belá",
+      "shortname": "Belá",
+      "zip": "943 53",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 140,
+      "fullname": "Bešeňov",
+      "shortname": "Bešeňov",
+      "zip": "941 41",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 241,
+      "fullname": "Branovo",
+      "shortname": "Branovo",
+      "zip": "941 31",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 312,
+      "fullname": "Bruty",
+      "shortname": "Bruty",
+      "zip": "943 55",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 67,
+      "fullname": "Bánov",
+      "shortname": "Bánov",
+      "zip": "941 01",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 158,
+      "fullname": "Bíňa",
+      "shortname": "Bíňa",
+      "zip": "943 56",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1163,
+      "fullname": "Chľaba",
+      "shortname": "Chľaba",
+      "zip": "943 65",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 528,
+      "fullname": "Dedinka",
+      "shortname": "Dedinka",
+      "zip": "941 50",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 552,
+      "fullname": "Diva",
+      "shortname": "Diva",
+      "zip": "943 42",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 660,
+      "fullname": "Dolný Jatov",
+      "shortname": "Dolný Jatov",
+      "zip": "941 10",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 668,
+      "fullname": "Dolný Ohaj",
+      "shortname": "Dolný Ohaj",
+      "zip": "941 43",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 718,
+      "fullname": "Dubník",
+      "shortname": "Dubník",
+      "zip": "941 35",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 763,
+      "fullname": "Dvor Mikuláš",
+      "shortname": "Dvor Mikuláš",
+      "zip": "941 35",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 773,
+      "fullname": "Dvory nad Žitavou",
+      "shortname": "Dvory nad Žitavou",
+      "zip": "941 31",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 817,
+      "fullname": "Gbelce",
+      "shortname": "Gbelce",
+      "zip": "943 42",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 859,
+      "fullname": "Gúg",
+      "shortname": "Gúg",
+      "zip": "941 23",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1143,
+      "fullname": "Hul",
+      "shortname": "Hul",
+      "zip": "941 44",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1150,
+      "fullname": "Hurbanovce",
+      "shortname": "Hurbanovce",
+      "zip": "941 50",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1305,
+      "fullname": "Jasová",
+      "shortname": "Jasová",
+      "zip": "941 34",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1311,
+      "fullname": "Jatov",
+      "shortname": "Jatov",
+      "zip": "941 10",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1342,
+      "fullname": "Jurský Chlm",
+      "shortname": "Jurský Chlm",
+      "zip": "943 52",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1372,
+      "fullname": "Kamenica nad Hronom",
+      "shortname": "Kamenica nad Hronom",
+      "zip": "943 65",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1380,
+      "fullname": "Kamenný Most",
+      "shortname": "Kamenný Most",
+      "zip": "943 58",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1375,
+      "fullname": "Kamenín",
+      "shortname": "Kamenín",
+      "zip": "943 57",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1416,
+      "fullname": "Kendereš",
+      "shortname": "Kendereš",
+      "zip": 94110,
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1466,
+      "fullname": "Kmeťovo",
+      "shortname": "Kmeťovo",
+      "zip": "941 62",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1502,
+      "fullname": "Kolta",
+      "shortname": "Kolta",
+      "zip": "941 33",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1500,
+      "fullname": "Kolónia",
+      "shortname": "Kolónia",
+      "zip": "943 56",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1510,
+      "fullname": "Komjatice",
+      "shortname": "Komjatice",
+      "zip": "941 06",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1512,
+      "fullname": "Komoča",
+      "shortname": "Komoča",
+      "zip": "941 21",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1558,
+      "fullname": "Kostolný Sek",
+      "shortname": "Kostolný Sek",
+      "zip": "942 01",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1603,
+      "fullname": "Kováčov",
+      "shortname": "Kováčov",
+      "zip": "943 65",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1810,
+      "fullname": "Leľa",
+      "shortname": "Leľa",
+      "zip": "943 65",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1865,
+      "fullname": "Lipová",
+      "shortname": "Lipová",
+      "zip": "941 02",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2032,
+      "fullname": "Malá Maňa",
+      "shortname": "Malá Maňa",
+      "zip": "941 45",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2033,
+      "fullname": "Malá Mužla",
+      "shortname": "Malá Mužla",
+      "zip": "943 52",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2034,
+      "fullname": "Malá nad Hronom",
+      "shortname": "Malá nad Hronom",
+      "zip": "943 65",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2057,
+      "fullname": "Malé Kosihy",
+      "shortname": "Malé Kosihy",
+      "zip": "943 61",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2091,
+      "fullname": "Malý Jatov",
+      "shortname": "Malý Jatov",
+      "zip": "941 10",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2107,
+      "fullname": "Maňa",
+      "shortname": "Maňa",
+      "zip": "941 45",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2177,
+      "fullname": "Michal nad Žitavou",
+      "shortname": "Michal nad Žitavou",
+      "zip": "941 62",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2215,
+      "fullname": "Mlynský Sek",
+      "shortname": "Mlynský Sek",
+      "zip": "941 02",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2242,
+      "fullname": "Mojzesovo",
+      "shortname": "Mojzesovo",
+      "zip": "941 04",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2281,
+      "fullname": "Mužla",
+      "shortname": "Mužla",
+      "zip": "943 52",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2342,
+      "fullname": "Nitriansky Hrádok",
+      "shortname": "Nitriansky Hrádok",
+      "zip": "942 01",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2409,
+      "fullname": "Nová Osada",
+      "shortname": "Nová Osada",
+      "zip": "943 42",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2421,
+      "fullname": "Nová Vieska",
+      "shortname": "Nová Vieska",
+      "zip": "943 42",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2431,
+      "fullname": "Nové Zámky",
+      "shortname": "Nové Zámky",
+      "zip": "940 02",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2438,
+      "fullname": "Nový Gúg",
+      "shortname": "Nový Gúg",
+      "zip": "940 02",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2296,
+      "fullname": "Nána",
+      "shortname": "Nána",
+      "zip": "943 60",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2451,
+      "fullname": "Obid",
+      "shortname": "Obid",
+      "zip": "943 04",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2497,
+      "fullname": "Ondrochov",
+      "shortname": "Ondrochov",
+      "zip": "941 02",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2567,
+      "fullname": "Palárikovo",
+      "shortname": "Palárikovo",
+      "zip": "941 11",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2601,
+      "fullname": "Pavlová",
+      "shortname": "Pavlová",
+      "zip": "943 59",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2687,
+      "fullname": "Podhájska",
+      "shortname": "Podhájska",
+      "zip": "941 48",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2797,
+      "fullname": "Pozba",
+      "shortname": "Pozba",
+      "zip": "941 51",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2885,
+      "fullname": "Radava",
+      "shortname": "Radava",
+      "zip": "941 47",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2928,
+      "fullname": "Rastislavice",
+      "shortname": "Rastislavice",
+      "zip": "941 10",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3019,
+      "fullname": "Rúbaň",
+      "shortname": "Rúbaň",
+      "zip": "941 36",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3073,
+      "fullname": "Salka",
+      "shortname": "Salka",
+      "zip": "943 61",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3108,
+      "fullname": "Semerovo",
+      "shortname": "Semerovo",
+      "zip": "941 32",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3127,
+      "fullname": "Sikenička",
+      "shortname": "Sikenička",
+      "zip": "943 59",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3309,
+      "fullname": "Strekov",
+      "shortname": "Strekov",
+      "zip": "941 37",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3371,
+      "fullname": "Svodín",
+      "shortname": "Svodín",
+      "zip": "943 54",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3352,
+      "fullname": "Svätuša",
+      "shortname": "Svätuša",
+      "zip": "941 48",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3574,
+      "fullname": "Trávnica",
+      "shortname": "Trávnica",
+      "zip": "941 46",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3659,
+      "fullname": "Tvrdošovce",
+      "shortname": "Tvrdošovce",
+      "zip": "941 10",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3762,
+      "fullname": "Veľká Maňa",
+      "shortname": "Veľká Maňa",
+      "zip": "941 45",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3791,
+      "fullname": "Veľké Lovce",
+      "shortname": "Veľké Lovce",
+      "zip": "941 42",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3830,
+      "fullname": "Veľký Kýr",
+      "shortname": "Veľký Kýr",
+      "zip": "941 07",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3903,
+      "fullname": "Vlkas",
+      "shortname": "Vlkas",
+      "zip": "941 44",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 4116,
+      "fullname": "Zemné",
+      "shortname": "Zemné",
+      "zip": "941 22",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3682,
+      "fullname": "Úľany nad Žitavou",
+      "shortname": "Úľany nad Žitavou",
+      "zip": "941 03",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 437,
+      "fullname": "Čechy",
+      "shortname": "Čechy",
+      "zip": "941 32",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 449,
+      "fullname": "Čenkov",
+      "shortname": "Čenkov",
+      "zip": "943 52",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 459,
+      "fullname": "Černík",
+      "shortname": "Černík",
+      "zip": "941 05",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 502,
+      "fullname": "Čiky",
+      "shortname": "Čiky",
+      "zip": "941 11",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1928,
+      "fullname": "Ľubá",
+      "shortname": "Ľubá",
+      "zip": "943 53",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1960,
+      "fullname": "Ľudovítov",
+      "shortname": "Ľudovítov",
+      "zip": "941 11",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3407,
+      "fullname": "Šarkan",
+      "shortname": "Šarkan",
+      "zip": "943 42",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3448,
+      "fullname": "Štefan",
+      "shortname": "Štefan",
+      "zip": "941 37",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3476,
+      "fullname": "Štúrovo",
+      "shortname": "Štúrovo",
+      "zip": 0,
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3485,
+      "fullname": "Šurany",
+      "shortname": "Šurany",
+      "zip": "942 01",
+      "district_id": 42,
+      "okres": "Nové Zámky",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Nové Zámky - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Nové Zámky, Nitriansky kraj — s PSČ a kódom okresu. Obsahuje 88 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Nové Zámky | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Nové Zámky — 88 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 88 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

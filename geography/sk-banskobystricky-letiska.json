@@ -1,0 +1,142 @@
+{
+  "id": "sk-banskobystricky-letiska",
+  "name": "Letiská — Banskobystrický kraj",
+  "title": "Letiská — Banskobystrický kraj",
+  "description": "Zoznam letísk v kraji „Banskobystrický kraj“ na Slovensku s ICAO/IATA kódmi, mestom, súradnicami (WGS84) a nadmorskou výškou. (Banska Bystrica Region -- list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "geography",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_source",
+      "label": "Kraj Source",
+      "type": "string"
+    },
+    {
+      "key": "kraj_slug",
+      "label": "Kraj Slug",
+      "type": "string"
+    },
+    {
+      "key": "kraj_en",
+      "label": "Kraj En",
+      "type": "string"
+    },
+    {
+      "key": "kraj_inferred_from_city",
+      "label": "Kraj Inferred From City",
+      "type": "boolean"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LZLU",
+      "iata": "LUE",
+      "name": "Lucenec Airport",
+      "name_slug": "lucenec-airport",
+      "city": "Lucenec",
+      "kraj": "Banskobystrický kraj",
+      "kraj_source": "Banskobystricky",
+      "kraj_slug": "banskobystricky",
+      "kraj_en": "Banska Bystrica Region",
+      "kraj_inferred_from_city": false,
+      "country": "SK",
+      "elevation_ft": 0,
+      "lat": 48.3394012451,
+      "lon": 19.7357997894,
+      "timezone": "Europe/Bratislava",
+      "has_iata": true
+    },
+    {
+      "icao": "LZSL",
+      "iata": "SLD",
+      "name": "Sliac Airport",
+      "name_slug": "sliac-airport",
+      "city": "Sliac",
+      "kraj": "Banskobystrický kraj",
+      "kraj_source": "Banskobystricky",
+      "kraj_slug": "banskobystricky",
+      "kraj_en": "Banska Bystrica Region",
+      "kraj_inferred_from_city": false,
+      "country": "SK",
+      "elevation_ft": 1043,
+      "lat": 48.6377983093,
+      "lon": 19.1340999603,
+      "timezone": "Europe/Bratislava",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Letiská — Banskobystrický kraj - Bezplatné stiahnutie",
+    "description": "Zoznam letísk v kraji „Banskobystrický kraj“ na Slovensku s ICAO/IATA kódmi, mestom, súradnicami (WGS84) a nadmorskou výškou. (Banska Bystrica Region -- list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Obsahuje 2 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Letiská — Banskobystrický kraj | ListBase",
+    "seo_description": "Stiahnuť Letiská — Banskobystrický kraj — 2 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 2 záznamov / 16 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: https://github.com/mwgg/Airports"
+    ]
+  }
+}

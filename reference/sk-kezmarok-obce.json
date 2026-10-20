@@ -1,0 +1,546 @@
+{
+  "id": "sk-kezmarok-obce",
+  "name": "Obce v okrese Kežmarok",
+  "title": "Obce v okrese Kežmarok",
+  "description": "Všetky obce (municipality) v okrese Kežmarok, Prešovský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 4,
+      "fullname": "Abrahámovce",
+      "shortname": "Abrahámovce",
+      "zip": "059 72",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 352,
+      "fullname": "Bušovce",
+      "shortname": "Bušovce",
+      "zip": "059 93",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 905,
+      "fullname": "Havka",
+      "shortname": "Havka",
+      "zip": "061 01",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 962,
+      "fullname": "Holumnica",
+      "shortname": "Holumnica",
+      "zip": "059 94",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1082,
+      "fullname": "Hradisko",
+      "shortname": "Hradisko",
+      "zip": "059 71",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1145,
+      "fullname": "Huncovce",
+      "shortname": "Huncovce",
+      "zip": "059 92",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 869,
+      "fullname": "Hágy",
+      "shortname": "Hágy",
+      "zip": "059 04",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1205,
+      "fullname": "Ihľany",
+      "shortname": "Ihľany",
+      "zip": "059 94",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1334,
+      "fullname": "Jezersko",
+      "shortname": "Jezersko",
+      "zip": "059 04",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1341,
+      "fullname": "Jurské",
+      "shortname": "Jurské",
+      "zip": "059 94",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1421,
+      "fullname": "Kežmarok",
+      "shortname": "Kežmarok",
+      "zip": "060 01",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1686,
+      "fullname": "Krížová Ves",
+      "shortname": "Krížová Ves",
+      "zip": "059 01",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1808,
+      "fullname": "Lechnica",
+      "shortname": "Lechnica",
+      "zip": "059 06",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1815,
+      "fullname": "Lendak",
+      "shortname": "Lendak",
+      "zip": "059 07",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1987,
+      "fullname": "Lysá nad Dunajcom",
+      "shortname": "Lysá nad Dunajcom",
+      "zip": "061 01",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2007,
+      "fullname": "Majere",
+      "shortname": "Majere",
+      "zip": "061 01",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2010,
+      "fullname": "Majerka",
+      "shortname": "Majerka",
+      "zip": "059 94",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2023,
+      "fullname": "Malá Franková",
+      "shortname": "Malá Franková",
+      "zip": "059 78",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2103,
+      "fullname": "Malý Slavkov",
+      "shortname": "Malý Slavkov",
+      "zip": "060 01",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2137,
+      "fullname": "Matiašovce",
+      "shortname": "Matiašovce",
+      "zip": "059 04",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2212,
+      "fullname": "Mlynčeky",
+      "shortname": "Mlynčeky",
+      "zip": "059 76",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2548,
+      "fullname": "Osturňa",
+      "shortname": "Osturňa",
+      "zip": "059 79",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2645,
+      "fullname": "Pikovce",
+      "shortname": "Pikovce",
+      "zip": "059 72",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2689,
+      "fullname": "Podhorany",
+      "shortname": "Podhorany",
+      "zip": "059 93",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2920,
+      "fullname": "Rakúsy",
+      "shortname": "Rakúsy",
+      "zip": "059 76",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2952,
+      "fullname": "Reľov",
+      "shortname": "Reľov",
+      "zip": "059 04",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3190,
+      "fullname": "Slovenská Ves",
+      "shortname": "Slovenská Ves",
+      "zip": "059 02",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3239,
+      "fullname": "Spišská Belá",
+      "shortname": "Spišská Belá",
+      "zip": "059 01",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3242,
+      "fullname": "Spišská Stará Ves",
+      "shortname": "Spišská Stará Ves",
+      "zip": "061 01",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3245,
+      "fullname": "Spišské Hanušovce",
+      "shortname": "Spišské Hanušovce",
+      "zip": "059 04",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3269,
+      "fullname": "Stará Lesná",
+      "shortname": "Stará Lesná",
+      "zip": "059 52",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3288,
+      "fullname": "Stotince",
+      "shortname": "Stotince",
+      "zip": "059 94",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3292,
+      "fullname": "Stráne pod Tatrami",
+      "shortname": "Stráne pod Tatrami",
+      "zip": "059 76",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3299,
+      "fullname": "Strážky",
+      "shortname": "Strážky",
+      "zip": "059 01",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3565,
+      "fullname": "Toporec",
+      "shortname": "Toporec",
+      "zip": "059 95",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3656,
+      "fullname": "Tvarožná",
+      "shortname": "Tvarožná",
+      "zip": "059 71",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3750,
+      "fullname": "Veľká Franková",
+      "shortname": "Veľká Franková",
+      "zip": "059 78",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3758,
+      "fullname": "Veľká Lomnica",
+      "shortname": "Veľká Lomnica",
+      "zip": "059 52",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3907,
+      "fullname": "Vlkovce",
+      "shortname": "Vlkovce",
+      "zip": "059 71",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3906,
+      "fullname": "Vlková",
+      "shortname": "Vlková",
+      "zip": "059 72",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3916,
+      "fullname": "Vojňany",
+      "shortname": "Vojňany",
+      "zip": "059 02",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3937,
+      "fullname": "Vrbov",
+      "shortname": "Vrbov",
+      "zip": "059 72",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3955,
+      "fullname": "Výborná",
+      "shortname": "Výborná",
+      "zip": "059 02",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4056,
+      "fullname": "Zálesie",
+      "shortname": "Zálesie",
+      "zip": "059 04",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 476,
+      "fullname": "Červený Kláštor",
+      "shortname": "Červený Kláštor",
+      "zip": "059 06",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 477,
+      "fullname": "Červený Kláštor - kúpele",
+      "shortname": "Červený Kláštor-kúp.",
+      "zip": "059 06",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1932,
+      "fullname": "Ľubica",
+      "shortname": "Ľubica",
+      "zip": "059 71",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4162,
+      "fullname": "Žakovce",
+      "shortname": "Žakovce",
+      "zip": "059 73",
+      "district_id": 21,
+      "okres": "Kežmarok",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Kežmarok - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Kežmarok, Prešovský kraj — s PSČ a kódom okresu. Obsahuje 48 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Kežmarok | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Kežmarok — 48 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 48 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

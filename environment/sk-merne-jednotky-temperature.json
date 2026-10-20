@@ -1,0 +1,106 @@
+{
+  "id": "sk-merne-jednotky-temperature",
+  "name": "Merné jednotky — kategória 'temperature' (5)",
+  "title": "Merné jednotky — kategória 'temperature' (5)",
+  "description": "Merné jednotky kategórie 'temperature' z locale sk v CLDR, s názvami v slovenčine.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "skratka",
+      "label": "Skratka",
+      "type": "string"
+    },
+    {
+      "key": "uzky_tvar",
+      "label": "Uzky Tvar",
+      "type": "string"
+    },
+    {
+      "key": "vzor",
+      "label": "Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "temperature-celsius",
+      "kategoria": "temperature",
+      "nazov": "stupne Celzia",
+      "skratka": "°C",
+      "uzky_tvar": "°C",
+      "vzor": "{0} stupňov Celzia"
+    },
+    {
+      "id": 2,
+      "unit_code": "temperature-fahrenheit",
+      "kategoria": "temperature",
+      "nazov": "stupne Fahrenheita",
+      "skratka": "°F",
+      "uzky_tvar": "°F",
+      "vzor": "{0} stupňov Fahrenheita"
+    },
+    {
+      "id": 3,
+      "unit_code": "temperature-generic",
+      "kategoria": "temperature",
+      "nazov": "stupne",
+      "skratka": "°",
+      "uzky_tvar": "°",
+      "vzor": "{0} stupňov"
+    },
+    {
+      "id": 4,
+      "unit_code": "temperature-kelvin",
+      "kategoria": "temperature",
+      "nazov": "kelviny",
+      "skratka": "K",
+      "uzky_tvar": "K",
+      "vzor": "{0} kelvinov"
+    },
+    {
+      "id": 5,
+      "unit_code": "temperature-rankine",
+      "kategoria": "temperature",
+      "nazov": "°R",
+      "skratka": "°R",
+      "uzky_tvar": "°R",
+      "vzor": "{0} °R"
+    }
+  ],
+  "meta": {
+    "title": "Merné jednotky — kategória 'temperature' (5) - Bezplatné stiahnutie",
+    "description": "Merné jednotky kategórie 'temperature' z locale sk v CLDR, s názvami v slovenčine. Obsahuje 5 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Merné jednotky — kategória 'temperature' (5) | ListBase",
+    "seo_description": "Stiahnuť Merné jednotky — kategória 'temperature' (5) — 5 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 5 záznamov / 7 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

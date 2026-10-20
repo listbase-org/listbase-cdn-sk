@@ -1,0 +1,726 @@
+{
+  "id": "sk-stanky",
+  "name": "Slovenské stánky",
+  "title": "Slovenské stánky",
+  "description": "Zoznam pomenovaných stánkov na Slovensku (shop=kiosk) z OpenStreetMap.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 137,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Fialkáč\"",
+      "latitude": 48.863457,
+      "longitude": 18.85826
+    },
+    {
+      "name": "Adaman",
+      "latitude": 48.736855,
+      "longitude": 18.755916
+    },
+    {
+      "name": "Adrem 2",
+      "latitude": 48.18514,
+      "longitude": 17.723656
+    },
+    {
+      "name": "Apolón",
+      "latitude": 48.744948,
+      "longitude": 22.180673
+    },
+    {
+      "name": "Bresman",
+      "latitude": 48.876462,
+      "longitude": 18.025699
+    },
+    {
+      "name": "Bresman",
+      "latitude": 48.887053,
+      "longitude": 18.03505
+    },
+    {
+      "name": "Butik",
+      "latitude": 48.303985,
+      "longitude": 20.070435
+    },
+    {
+      "name": "Copy Tlač servis",
+      "latitude": 48.863416,
+      "longitude": 18.02024
+    },
+    {
+      "name": "Daniela syry",
+      "latitude": 49.147426,
+      "longitude": 19.162251
+    },
+    {
+      "name": "Deka shop trafika",
+      "latitude": 49.22654,
+      "longitude": 18.745918
+    },
+    {
+      "name": "Delfín",
+      "latitude": 48.721641,
+      "longitude": 21.23589
+    },
+    {
+      "name": "Delta",
+      "latitude": 48.759381,
+      "longitude": 17.826278
+    },
+    {
+      "name": "Diskont",
+      "latitude": 48.721204,
+      "longitude": 21.259796
+    },
+    {
+      "name": "Elba",
+      "latitude": 48.761753,
+      "longitude": 17.830661
+    },
+    {
+      "name": "Geco",
+      "latitude": 48.19793,
+      "longitude": 17.034278
+    },
+    {
+      "name": "Geco",
+      "latitude": 48.65049,
+      "longitude": 20.525148
+    },
+    {
+      "name": "GG Tabak Press",
+      "latitude": 49.122076,
+      "longitude": 18.32542
+    },
+    {
+      "name": "GG Tabak Press",
+      "latitude": 49.125083,
+      "longitude": 18.326715
+    },
+    {
+      "name": "GGT",
+      "latitude": 48.165281,
+      "longitude": 17.181057
+    },
+    {
+      "name": "GGT",
+      "latitude": 49.091977,
+      "longitude": 19.605547
+    },
+    {
+      "name": "GGT TABAK",
+      "latitude": 48.127359,
+      "longitude": 17.116195
+    },
+    {
+      "name": "GGTabak",
+      "latitude": 48.48275,
+      "longitude": 18.718124
+    },
+    {
+      "name": "GLO Obchodík & Trafika",
+      "latitude": 48.999659,
+      "longitude": 21.239729
+    },
+    {
+      "name": "Glóbus Potraviny",
+      "latitude": 47.979676,
+      "longitude": 18.15653
+    },
+    {
+      "name": "Interpress",
+      "latitude": 48.143731,
+      "longitude": 17.106748
+    },
+    {
+      "name": "K Trafic Shop 2.",
+      "latitude": 47.855453,
+      "longitude": 17.773247
+    },
+    {
+      "name": "K-P Cafe",
+      "latitude": 48.74973,
+      "longitude": 21.228328
+    },
+    {
+      "name": "Kapa-Press",
+      "latitude": 48.984327,
+      "longitude": 21.250564
+    },
+    {
+      "name": "Kapa-Press",
+      "latitude": 48.988975,
+      "longitude": 21.267849
+    },
+    {
+      "name": "Kapa-Press",
+      "latitude": 48.995579,
+      "longitude": 21.26968
+    },
+    {
+      "name": "Kapa-Press",
+      "latitude": 48.995965,
+      "longitude": 21.241974
+    },
+    {
+      "name": "Kapa-Press",
+      "latitude": 48.996336,
+      "longitude": 21.241049
+    },
+    {
+      "name": "Kapa-Press",
+      "latitude": 48.996701,
+      "longitude": 21.257883
+    },
+    {
+      "name": "Kapa-Press",
+      "latitude": 48.997941,
+      "longitude": 21.251549
+    },
+    {
+      "name": "Kapa-Press",
+      "latitude": 49.00052,
+      "longitude": 21.223777
+    },
+    {
+      "name": "Kapa-Press GGT - OC Centrum",
+      "latitude": 49.016715,
+      "longitude": 21.225359
+    },
+    {
+      "name": "Kristián",
+      "latitude": 49.026704,
+      "longitude": 20.590432
+    },
+    {
+      "name": "L. A. Press",
+      "latitude": 48.991494,
+      "longitude": 21.272211
+    },
+    {
+      "name": "LETMANN market",
+      "latitude": 48.147315,
+      "longitude": 17.86193
+    },
+    {
+      "name": "M+M tabak",
+      "latitude": 48.166724,
+      "longitude": 17.151467
+    },
+    {
+      "name": "M+M tabak",
+      "latitude": 48.992471,
+      "longitude": 21.24227
+    },
+    {
+      "name": "ME-tradex",
+      "latitude": 48.758016,
+      "longitude": 17.831204
+    },
+    {
+      "name": "ME-Tradex",
+      "latitude": 48.760855,
+      "longitude": 17.828482
+    },
+    {
+      "name": "MEDIAPRESS",
+      "latitude": 48.149711,
+      "longitude": 17.134316
+    },
+    {
+      "name": "MediaPress",
+      "latitude": 49.059478,
+      "longitude": 20.295228
+    },
+    {
+      "name": "Mediaprint Kappa",
+      "latitude": 49.408147,
+      "longitude": 19.481122
+    },
+    {
+      "name": "Mediaprint-Kapa",
+      "latitude": 48.862946,
+      "longitude": 18.859731
+    },
+    {
+      "name": "Mig",
+      "latitude": 49.065339,
+      "longitude": 21.660867
+    },
+    {
+      "name": "Minit",
+      "latitude": 48.881088,
+      "longitude": 18.029818
+    },
+    {
+      "name": "Mliečny automat",
+      "latitude": 48.33743,
+      "longitude": 19.644494
+    },
+    {
+      "name": "Nale Tabak",
+      "latitude": 48.192795,
+      "longitude": 17.731297
+    },
+    {
+      "name": "NALE TABAK",
+      "latitude": 48.3128,
+      "longitude": 17.490846
+    },
+    {
+      "name": "Nale Tabak",
+      "latitude": 48.36983,
+      "longitude": 17.568254
+    },
+    {
+      "name": "Novinový stánok",
+      "latitude": 48.308425,
+      "longitude": 18.085577
+    },
+    {
+      "name": "Novinový stánok",
+      "latitude": 48.310878,
+      "longitude": 18.108958
+    },
+    {
+      "name": "Novinový stánok",
+      "latitude": 48.312996,
+      "longitude": 18.107677
+    },
+    {
+      "name": "Novinový stánok",
+      "latitude": 48.312999,
+      "longitude": 18.091908
+    },
+    {
+      "name": "Novinový stánok",
+      "latitude": 48.3523,
+      "longitude": 18.721989
+    },
+    {
+      "name": "Novinový stánok",
+      "latitude": 48.387347,
+      "longitude": 18.383603
+    },
+    {
+      "name": "Novinový stánok",
+      "latitude": 48.586613,
+      "longitude": 17.819124
+    },
+    {
+      "name": "Novinový stánok",
+      "latitude": 48.602088,
+      "longitude": 17.831903
+    },
+    {
+      "name": "Novinový stánok",
+      "latitude": 49.05542,
+      "longitude": 20.303207
+    },
+    {
+      "name": "Novinový stánok PZ 3",
+      "latitude": 48.282977,
+      "longitude": 17.270566
+    },
+    {
+      "name": "Novinový stánok č.17 Tatranská Lomnica",
+      "latitude": 49.165135,
+      "longitude": 20.279125
+    },
+    {
+      "name": "Noviny",
+      "latitude": 49.084489,
+      "longitude": 19.61261
+    },
+    {
+      "name": "Noviny / cigarety",
+      "latitude": 48.621881,
+      "longitude": 17.726241
+    },
+    {
+      "name": "Oprava odevov",
+      "latitude": 48.707394,
+      "longitude": 21.257568
+    },
+    {
+      "name": "Ovocie & zelenina & cukrovinky & alko & nealko & tabak",
+      "latitude": 48.995509,
+      "longitude": 21.253587
+    },
+    {
+      "name": "Ovčí syr",
+      "latitude": 49.046667,
+      "longitude": 21.459386
+    },
+    {
+      "name": "Ovčí syr a domáce klobásy",
+      "latitude": 49.080616,
+      "longitude": 19.361171
+    },
+    {
+      "name": "Pardon",
+      "latitude": 48.864816,
+      "longitude": 18.024864
+    },
+    {
+      "name": "Pekáreň Dóža",
+      "latitude": 47.929112,
+      "longitude": 18.130194
+    },
+    {
+      "name": "Pizza Thomas",
+      "latitude": 48.751506,
+      "longitude": 21.908955
+    },
+    {
+      "name": "PNS",
+      "latitude": 48.984263,
+      "longitude": 21.264261
+    },
+    {
+      "name": "PNS Mediaprint",
+      "latitude": 48.751298,
+      "longitude": 17.83047
+    },
+    {
+      "name": "PNS Mediaprint",
+      "latitude": 48.752198,
+      "longitude": 17.834947
+    },
+    {
+      "name": "PNS Mediaprint",
+      "latitude": 48.752448,
+      "longitude": 17.833849
+    },
+    {
+      "name": "PNSKA",
+      "latitude": 48.722459,
+      "longitude": 21.267617
+    },
+    {
+      "name": "Potraviny a rozličný tovar",
+      "latitude": 49.261824,
+      "longitude": 18.8706
+    },
+    {
+      "name": "Predaj devocinálií",
+      "latitude": 49.021856,
+      "longitude": 18.320857
+    },
+    {
+      "name": "Predajňa ABAR - Nesvady",
+      "latitude": 47.927809,
+      "longitude": 18.121167
+    },
+    {
+      "name": "Presspoint",
+      "latitude": 48.192395,
+      "longitude": 17.034072
+    },
+    {
+      "name": "PressPoint",
+      "latitude": 48.199844,
+      "longitude": 17.196429
+    },
+    {
+      "name": "RADOSTNIK",
+      "latitude": 48.157653,
+      "longitude": 17.121154
+    },
+    {
+      "name": "Rozličný tovar",
+      "latitude": 48.305235,
+      "longitude": 18.08509
+    },
+    {
+      "name": "Slovenské dobroty",
+      "latitude": 48.576471,
+      "longitude": 19.18847
+    },
+    {
+      "name": "Slovenské syry",
+      "latitude": 48.127066,
+      "longitude": 17.123345
+    },
+    {
+      "name": "Stánok",
+      "latitude": 48.154564,
+      "longitude": 17.296425
+    },
+    {
+      "name": "Stánok",
+      "latitude": 48.312833,
+      "longitude": 18.110749
+    },
+    {
+      "name": "Syr a med",
+      "latitude": 48.989559,
+      "longitude": 19.281541
+    },
+    {
+      "name": "Syrové výrobky",
+      "latitude": 49.257731,
+      "longitude": 19.032148
+    },
+    {
+      "name": "T-Press",
+      "latitude": 48.569817,
+      "longitude": 17.623368
+    },
+    {
+      "name": "Tabak",
+      "latitude": 48.216703,
+      "longitude": 18.603426
+    },
+    {
+      "name": "Tabak",
+      "latitude": 48.217761,
+      "longitude": 18.603983
+    },
+    {
+      "name": "Tabak",
+      "latitude": 48.301293,
+      "longitude": 18.088839
+    },
+    {
+      "name": "Tabak",
+      "latitude": 48.718022,
+      "longitude": 21.259646
+    },
+    {
+      "name": "Tabak - Časopisy",
+      "latitude": 48.208333,
+      "longitude": 18.606904
+    },
+    {
+      "name": "TABAK PRESS",
+      "latitude": 48.118731,
+      "longitude": 17.115845
+    },
+    {
+      "name": "TABAK PRESS",
+      "latitude": 48.123846,
+      "longitude": 17.110951
+    },
+    {
+      "name": "TABAK PRESS",
+      "latitude": 48.126282,
+      "longitude": 17.125372
+    },
+    {
+      "name": "TABAK PRESS",
+      "latitude": 48.146004,
+      "longitude": 17.115677
+    },
+    {
+      "name": "Tabak press",
+      "latitude": 48.148356,
+      "longitude": 17.107132
+    },
+    {
+      "name": "TABAK PRESS",
+      "latitude": 48.156779,
+      "longitude": 17.155838
+    },
+    {
+      "name": "TABAK PRESS",
+      "latitude": 48.15792,
+      "longitude": 17.119578
+    },
+    {
+      "name": "TABAK PRESS",
+      "latitude": 48.16542,
+      "longitude": 17.135346
+    },
+    {
+      "name": "TABAK PRESS",
+      "latitude": 48.167645,
+      "longitude": 17.087891
+    },
+    {
+      "name": "Tabak Press",
+      "latitude": 48.57983,
+      "longitude": 19.12537
+    },
+    {
+      "name": "Tabak press",
+      "latitude": 49.065216,
+      "longitude": 18.919724
+    },
+    {
+      "name": "Tabak press",
+      "latitude": 49.224442,
+      "longitude": 18.737557
+    },
+    {
+      "name": "Tabak, tlač, Tipos",
+      "latitude": 48.168646,
+      "longitude": 17.076338
+    },
+    {
+      "name": "Tipos",
+      "latitude": 48.996631,
+      "longitude": 21.271779
+    },
+    {
+      "name": "Tipos - Trafika Bianca",
+      "latitude": 48.974427,
+      "longitude": 21.262687
+    },
+    {
+      "name": "Toppres",
+      "latitude": 48.569869,
+      "longitude": 19.120453
+    },
+    {
+      "name": "Trafic Shop",
+      "latitude": 47.846972,
+      "longitude": 17.761805
+    },
+    {
+      "name": "Trafik",
+      "latitude": 48.141795,
+      "longitude": 17.496316
+    },
+    {
+      "name": "Trafika",
+      "latitude": 47.887403,
+      "longitude": 17.80874
+    },
+    {
+      "name": "Trafika",
+      "latitude": 48.544157,
+      "longitude": 17.033279
+    },
+    {
+      "name": "Trafika",
+      "latitude": 48.590951,
+      "longitude": 18.844267
+    },
+    {
+      "name": "Trafika",
+      "latitude": 48.661691,
+      "longitude": 20.532415
+    },
+    {
+      "name": "Trafika",
+      "latitude": 48.693525,
+      "longitude": 21.281075
+    },
+    {
+      "name": "Trafika",
+      "latitude": 48.8803,
+      "longitude": 18.031934
+    },
+    {
+      "name": "Trafika",
+      "latitude": 48.899124,
+      "longitude": 18.058932
+    },
+    {
+      "name": "Trafika",
+      "latitude": 48.972035,
+      "longitude": 17.979311
+    },
+    {
+      "name": "Trafika 2v1",
+      "latitude": 48.993995,
+      "longitude": 21.26724
+    },
+    {
+      "name": "Trafika Bianca",
+      "latitude": 48.99977,
+      "longitude": 21.239121
+    },
+    {
+      "name": "Trafika GABE s. r. o.",
+      "latitude": 48.999089,
+      "longitude": 21.239538
+    },
+    {
+      "name": "TRAFIKA kiosk",
+      "latitude": 48.727475,
+      "longitude": 19.119774
+    },
+    {
+      "name": "Trafika Mediapress",
+      "latitude": 48.158653,
+      "longitude": 17.106385
+    },
+    {
+      "name": "Trafika OC Aqua",
+      "latitude": 48.991137,
+      "longitude": 21.245183
+    },
+    {
+      "name": "Trafika pod Baštou",
+      "latitude": 49.000777,
+      "longitude": 21.241091
+    },
+    {
+      "name": "Trafika SNP Galanta",
+      "latitude": 48.193668,
+      "longitude": 17.733117
+    },
+    {
+      "name": "Trafika ŽST",
+      "latitude": 48.98338,
+      "longitude": 21.249655
+    },
+    {
+      "name": "U Tona",
+      "latitude": 48.307084,
+      "longitude": 18.11185
+    },
+    {
+      "name": "Časopisy Noviny Tabak",
+      "latitude": 48.332551,
+      "longitude": 19.660914
+    },
+    {
+      "name": "Časopisy Noviny Tabak",
+      "latitude": 48.33293,
+      "longitude": 19.666296
+    },
+    {
+      "name": "Časopisy Noviny Tabak",
+      "latitude": 48.337444,
+      "longitude": 19.644329
+    },
+    {
+      "name": "Časopisy Tabak",
+      "latitude": 48.336879,
+      "longitude": 19.64543
+    }
+  ],
+  "meta": {
+    "title": "Slovenské stánky - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných stánkov na Slovensku (shop=kiosk) z OpenStreetMap. Obsahuje 137 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Slovenské stánky | ListBase",
+    "seo_description": "Stiahnuť Slovenské stánky — 137 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 137 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

@@ -1,0 +1,896 @@
+{
+  "id": "sk-cadca-obce",
+  "name": "Obce v okrese Čadca",
+  "title": "Obce v okrese Čadca",
+  "description": "Všetky obce (municipality) v okrese Čadca, Žilinský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 83,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 174,
+      "fullname": "Blažkov",
+      "shortname": "Blažkov",
+      "zip": "023 02",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 175,
+      "fullname": "Blažková",
+      "shortname": "Blažková",
+      "zip": "023 11",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 354,
+      "fullname": "Butty",
+      "shortname": "Butty",
+      "zip": "022 04",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 550,
+      "fullname": "Didka",
+      "shortname": "Didka",
+      "zip": "022 01",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 563,
+      "fullname": "Dlhá nad Kysucou",
+      "shortname": "Dlhá nad Kysucou",
+      "zip": "023 54",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 688,
+      "fullname": "Drahošanka",
+      "shortname": "Drahošanka",
+      "zip": "022 01",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 750,
+      "fullname": "Dunajov",
+      "shortname": "Dunajov",
+      "zip": "023 02",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 901,
+      "fullname": "Harvelka",
+      "shortname": "Harvelka",
+      "zip": "023 05",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 930,
+      "fullname": "Hlavice",
+      "shortname": "Hlavice",
+      "zip": "023 22",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 934,
+      "fullname": "Hlinené",
+      "shortname": "Hlinené",
+      "zip": "023 54",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 969,
+      "fullname": "Horelica",
+      "shortname": "Horelica",
+      "zip": "022 01",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1127,
+      "fullname": "Hrubý Buk",
+      "shortname": "Hrubý Buk",
+      "zip": "023 52",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1153,
+      "fullname": "Husarik",
+      "shortname": "Husarik",
+      "zip": "022 04",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1316,
+      "fullname": "Javorová",
+      "shortname": "Javorová",
+      "zip": "023 22",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1321,
+      "fullname": "Jedľovník",
+      "shortname": "Jedľovník",
+      "zip": "023 55",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1353,
+      "fullname": "Kalinov",
+      "shortname": "Kalinov",
+      "zip": "023 02",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1446,
+      "fullname": "Klin",
+      "shortname": "Klin",
+      "zip": "023 22",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1455,
+      "fullname": "Klokočov",
+      "shortname": "Klokočov",
+      "zip": "023 22",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1457,
+      "fullname": "Klubina",
+      "shortname": "Klubina",
+      "zip": "023 04",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1522,
+      "fullname": "Kopanice",
+      "shortname": "Kopanice",
+      "zip": "023 56",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1533,
+      "fullname": "Kornica",
+      "shortname": "Kornica",
+      "zip": "023 22",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1532,
+      "fullname": "Korňa",
+      "shortname": "Korňa",
+      "zip": "023 21",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1690,
+      "fullname": "Krkošky",
+      "shortname": "Krkošky",
+      "zip": "022 04",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1653,
+      "fullname": "Krásno nad Kysucou",
+      "shortname": "Krásno nad Kysucou",
+      "zip": "023 02",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1761,
+      "fullname": "Kyzka",
+      "shortname": "Kyzka",
+      "zip": "022 04",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1747,
+      "fullname": "Kýčerka",
+      "shortname": "Kýčerka",
+      "zip": "022 04",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1776,
+      "fullname": "Ladunkov",
+      "shortname": "Ladunkov",
+      "zip": "022 04",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1782,
+      "fullname": "Lány",
+      "shortname": "Lány",
+      "zip": "023 04",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2012,
+      "fullname": "Makov",
+      "shortname": "Makov",
+      "zip": "023 56",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2198,
+      "fullname": "Milošová",
+      "shortname": "Milošová",
+      "zip": "022 01",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2353,
+      "fullname": "Nižná Korňa",
+      "shortname": "Nižná Korňa",
+      "zip": "023 21",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2379,
+      "fullname": "Nižný Kelčov",
+      "shortname": "Nižný Kelčov",
+      "zip": "023 55",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2398,
+      "fullname": "Nová Bystrica",
+      "shortname": "Nová Bystrica",
+      "zip": "023 05",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2475,
+      "fullname": "Olešná",
+      "shortname": "Olešná",
+      "zip": "023 52",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2551,
+      "fullname": "Oščadnica",
+      "shortname": "Oščadnica",
+      "zip": "023 01",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2726,
+      "fullname": "Podvysoká",
+      "shortname": "Podvysoká",
+      "zip": "023 57",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2730,
+      "fullname": "Podzávoz",
+      "shortname": "Podzávoz",
+      "zip": "022 01",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2780,
+      "fullname": "Potok",
+      "shortname": "Potok",
+      "zip": "023 56",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2814,
+      "fullname": "Predmier",
+      "shortname": "Predmier",
+      "zip": "023 54",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2895,
+      "fullname": "Radôstka",
+      "shortname": "Radôstka",
+      "zip": "023 04",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2910,
+      "fullname": "Raková",
+      "shortname": "Raková",
+      "zip": "023 51",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2974,
+      "fullname": "Rieka",
+      "shortname": "Rieka",
+      "zip": "022 01",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2972,
+      "fullname": "Riečky",
+      "shortname": "Riečky",
+      "zip": "023 22",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2973,
+      "fullname": "Riečnica",
+      "shortname": "Riečnica",
+      "zip": "023 05",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3058,
+      "fullname": "Rybárie",
+      "shortname": "Rybárie",
+      "zip": "023 22",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3109,
+      "fullname": "Semeteš",
+      "shortname": "Semeteš",
+      "zip": "023 55",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3124,
+      "fullname": "Sihelník",
+      "shortname": "Sihelník",
+      "zip": "022 04",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3142,
+      "fullname": "Skalité",
+      "shortname": "Skalité",
+      "zip": "023 14",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3262,
+      "fullname": "Stará Bystrica",
+      "shortname": "Stará Bystrica",
+      "zip": "023 04",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3281,
+      "fullname": "Staškov",
+      "shortname": "Staškov",
+      "zip": "023 53",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3374,
+      "fullname": "Svrčinovec",
+      "shortname": "Svrčinovec",
+      "zip": "023 12",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3609,
+      "fullname": "Trojačka",
+      "shortname": "Trojačka",
+      "zip": "023 56",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3647,
+      "fullname": "Turkov",
+      "shortname": "Turkov",
+      "zip": "023 54",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3651,
+      "fullname": "Turzovka",
+      "shortname": "Turzovka",
+      "zip": "023 54",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3660,
+      "fullname": "U Hluška",
+      "shortname": "U Hluška",
+      "zip": "022 01",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3661,
+      "fullname": "U Holých",
+      "shortname": "U Holých",
+      "zip": "023 11",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3663,
+      "fullname": "U Kordišov",
+      "shortname": "U Kordišov",
+      "zip": "023 11",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3662,
+      "fullname": "U Kľukov",
+      "shortname": "U Kľukov",
+      "zip": "023 11",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3664,
+      "fullname": "U Polievkov",
+      "shortname": "U Polievkov",
+      "zip": "023 11",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3665,
+      "fullname": "U Rulcov",
+      "shortname": "U Rulcov",
+      "zip": "023 11",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3666,
+      "fullname": "U Siheľnika",
+      "shortname": "U Siheľnika",
+      "zip": "022 01",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3920,
+      "fullname": "Vojty",
+      "shortname": "Vojty",
+      "zip": "022 01",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3945,
+      "fullname": "Vrchpredmier",
+      "shortname": "Vrchpredmier",
+      "zip": "023 22",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3946,
+      "fullname": "Vrchrieka",
+      "shortname": "Vrchrieka",
+      "zip": "023 55",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3967,
+      "fullname": "Vychylovka",
+      "shortname": "Vychylovka",
+      "zip": "023 05",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3974,
+      "fullname": "Vysoká nad Kysucou",
+      "shortname": "Vysoká nad Kysucou",
+      "zip": "023 55",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3987,
+      "fullname": "Vyšná Korňa",
+      "shortname": "Vyšná Korňa",
+      "zip": "023 21",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4015,
+      "fullname": "Vyšný Kelčov",
+      "shortname": "Vyšný Kelčov",
+      "zip": "023 55",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4018,
+      "fullname": "Vyšný Koniec",
+      "shortname": "Vyšný Koniec",
+      "zip": "023 54",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4096,
+      "fullname": "Zborov nad Bystricou",
+      "shortname": "Zborov nad Bystricou",
+      "zip": "023 03",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4129,
+      "fullname": "Zlámaná",
+      "shortname": "Zlámaná",
+      "zip": "023 55",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4053,
+      "fullname": "Zákopčie",
+      "shortname": "Zákopčie",
+      "zip": "023 11",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4054,
+      "fullname": "Zákysučie",
+      "shortname": "Zákysučie",
+      "zip": "023 02",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4069,
+      "fullname": "Zátoka",
+      "shortname": "Zátoka",
+      "zip": "023 55",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4086,
+      "fullname": "Závodie",
+      "shortname": "Závodie",
+      "zip": "023 54",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 405,
+      "fullname": "Čadca",
+      "shortname": "Čadca",
+      "zip": 0,
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 406,
+      "fullname": "Čadca - Kyčerka",
+      "shortname": "Čadca - Kyčerka",
+      "zip": "022 04",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 407,
+      "fullname": "Čadečka",
+      "shortname": "Čadečka",
+      "zip": "022 01",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 491,
+      "fullname": "Čierne",
+      "shortname": "Čierne",
+      "zip": "023 13",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 492,
+      "fullname": "Čierne",
+      "shortname": "Čierne",
+      "zip": "023 56",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3385,
+      "fullname": "Šamaja",
+      "shortname": "Šamaja",
+      "zip": "022 01",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3436,
+      "fullname": "Škrabáka",
+      "shortname": "Škrabáka",
+      "zip": "022 04",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3441,
+      "fullname": "Šopora",
+      "shortname": "Šopora",
+      "zip": "022 01",
+      "district_id": 12,
+      "okres": "Čadca",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Čadca - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Čadca, Žilinský kraj — s PSČ a kódom okresu. Obsahuje 83 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Čadca | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Čadca — 83 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 83 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

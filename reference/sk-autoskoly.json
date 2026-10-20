@@ -1,0 +1,666 @@
+{
+  "id": "sk-autoskoly",
+  "name": "Slovenské autoškoly",
+  "title": "Slovenské autoškoly",
+  "description": "Zoznam pomenovaných autoškôl na Slovensku (amenity=driving_school) z OpenStreetMap.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 125,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alex",
+      "latitude": 48.152993,
+      "longitude": 17.073529
+    },
+    {
+      "name": "AS Trend",
+      "latitude": 48.15997,
+      "longitude": 17.127808
+    },
+    {
+      "name": "ASA",
+      "latitude": 48.15723,
+      "longitude": 17.125078
+    },
+    {
+      "name": "Asa",
+      "latitude": 48.157351,
+      "longitude": 17.13205
+    },
+    {
+      "name": "Autoškola - Ivan Humaj",
+      "latitude": 48.766041,
+      "longitude": 18.596339
+    },
+    {
+      "name": "AUTOŠKOLA - Jozef GUĽÁŠ",
+      "latitude": 48.653444,
+      "longitude": 20.525932
+    },
+    {
+      "name": "Autoškola 1",
+      "latitude": 48.157791,
+      "longitude": 17.178053
+    },
+    {
+      "name": "Autoškola Adam",
+      "latitude": 48.843936,
+      "longitude": 17.233638
+    },
+    {
+      "name": "Autoškola Agila",
+      "latitude": 49.225679,
+      "longitude": 18.743099
+    },
+    {
+      "name": "Autoškola Akadémia",
+      "latitude": 48.303526,
+      "longitude": 18.101644
+    },
+    {
+      "name": "Autoškola Akva",
+      "latitude": 48.777379,
+      "longitude": 18.62221
+    },
+    {
+      "name": "autoškola Alex",
+      "latitude": 49.223171,
+      "longitude": 18.74154
+    },
+    {
+      "name": "Autoškola Alfa",
+      "latitude": 47.997327,
+      "longitude": 18.182695
+    },
+    {
+      "name": "Autoškola Alma - H, s. r. o.",
+      "latitude": 48.280911,
+      "longitude": 17.029072
+    },
+    {
+      "name": "Autoškola AUTINO s.r.o.",
+      "latitude": 48.162078,
+      "longitude": 17.146951
+    },
+    {
+      "name": "Autoškola AUTOSTAR Prešov",
+      "latitude": 48.998875,
+      "longitude": 21.243113
+    },
+    {
+      "name": "Autoškola Beňuš",
+      "latitude": 49.322953,
+      "longitude": 19.544217
+    },
+    {
+      "name": "Autoškola Bosák",
+      "latitude": 48.446614,
+      "longitude": 18.908372
+    },
+    {
+      "name": "Autoškola D&T Truck",
+      "latitude": 48.301697,
+      "longitude": 18.080236
+    },
+    {
+      "name": "Autoškola Delňa",
+      "latitude": 48.966049,
+      "longitude": 21.25531
+    },
+    {
+      "name": "Autoškola DOMIK",
+      "latitude": 48.660469,
+      "longitude": 20.531786
+    },
+    {
+      "name": "Autoškola Dunajčan",
+      "latitude": 49.057604,
+      "longitude": 20.300303
+    },
+    {
+      "name": "Autoškola EASY",
+      "latitude": 48.72998,
+      "longitude": 21.242906
+    },
+    {
+      "name": "Autoškola Eko Univers",
+      "latitude": 48.777434,
+      "longitude": 18.622069
+    },
+    {
+      "name": "Autoškola ELITE",
+      "latitude": 48.717593,
+      "longitude": 21.25468
+    },
+    {
+      "name": "Autoškola Evolutika",
+      "latitude": 48.440322,
+      "longitude": 17.017332
+    },
+    {
+      "name": "Autoškola Fajn",
+      "latitude": 48.150046,
+      "longitude": 17.144306
+    },
+    {
+      "name": "Autoškola Gonda",
+      "latitude": 48.537184,
+      "longitude": 19.405215
+    },
+    {
+      "name": "Autoškola Harmi",
+      "latitude": 48.187472,
+      "longitude": 17.039083
+    },
+    {
+      "name": "Autoškola Horňák",
+      "latitude": 48.874536,
+      "longitude": 18.045803
+    },
+    {
+      "name": "Autoškola Horňák",
+      "latitude": 48.894869,
+      "longitude": 18.047481
+    },
+    {
+      "name": "Autoškola Horňák",
+      "latitude": 48.898392,
+      "longitude": 18.020574
+    },
+    {
+      "name": "Autoškola Hryz",
+      "latitude": 48.880542,
+      "longitude": 18.034039
+    },
+    {
+      "name": "Autoškola Hílek",
+      "latitude": 48.74727,
+      "longitude": 17.837817
+    },
+    {
+      "name": "Autoškola IMPULZ",
+      "latitude": 48.198744,
+      "longitude": 17.170163
+    },
+    {
+      "name": "Autoškola Imrich",
+      "latitude": 48.859295,
+      "longitude": 20.94724
+    },
+    {
+      "name": "Autoškola JEDNOTKA",
+      "latitude": 49.009102,
+      "longitude": 21.221203
+    },
+    {
+      "name": "Autoškola Krištof",
+      "latitude": 48.191575,
+      "longitude": 17.725303
+    },
+    {
+      "name": "Autoškola Lektor",
+      "latitude": 48.845602,
+      "longitude": 17.221346
+    },
+    {
+      "name": "Autoškola Liberty",
+      "latitude": 48.7511,
+      "longitude": 17.834867
+    },
+    {
+      "name": "Autoškola M&S",
+      "latitude": 48.116751,
+      "longitude": 17.111054
+    },
+    {
+      "name": "Autoškola MasteR",
+      "latitude": 48.995671,
+      "longitude": 21.241449
+    },
+    {
+      "name": "Autoškola Mataj",
+      "latitude": 49.082186,
+      "longitude": 19.301
+    },
+    {
+      "name": "Autoškola Mavex - Junior",
+      "latitude": 48.997444,
+      "longitude": 21.269291
+    },
+    {
+      "name": "Autoškola MIGA",
+      "latitude": 48.661693,
+      "longitude": 20.53454
+    },
+    {
+      "name": "Autoškola Miko",
+      "latitude": 49.054503,
+      "longitude": 20.301946
+    },
+    {
+      "name": "Autoškola MOSE",
+      "latitude": 48.214313,
+      "longitude": 18.60228
+    },
+    {
+      "name": "Autoškola NUCLEUS",
+      "latitude": 48.150104,
+      "longitude": 17.071193
+    },
+    {
+      "name": "Autoškola Paluška",
+      "latitude": 48.383627,
+      "longitude": 18.394216
+    },
+    {
+      "name": "Autoškola Panter",
+      "latitude": 48.296024,
+      "longitude": 18.067124
+    },
+    {
+      "name": "Autoškola Plus",
+      "latitude": 48.981722,
+      "longitude": 21.25379
+    },
+    {
+      "name": "Autoškola PLUS1",
+      "latitude": 48.187278,
+      "longitude": 17.04323
+    },
+    {
+      "name": "Autoškola Prima",
+      "latitude": 48.119718,
+      "longitude": 17.115303
+    },
+    {
+      "name": "Autoškola Prima",
+      "latitude": 48.984354,
+      "longitude": 21.250576
+    },
+    {
+      "name": "Autoškola SAŠA",
+      "latitude": 48.62327,
+      "longitude": 18.35473
+    },
+    {
+      "name": "Autoškola Sheriff",
+      "latitude": 48.145889,
+      "longitude": 17.116
+    },
+    {
+      "name": "Autoškola Sičák",
+      "latitude": 48.734457,
+      "longitude": 21.256971
+    },
+    {
+      "name": "Autoškola Slávik",
+      "latitude": 48.30579,
+      "longitude": 18.082844
+    },
+    {
+      "name": "AUTOŠKOLA SMILE",
+      "latitude": 49.003394,
+      "longitude": 21.238514
+    },
+    {
+      "name": "Autoškola Smile",
+      "latitude": 49.006297,
+      "longitude": 21.2287
+    },
+    {
+      "name": "Autoškola Soldos & Skupeň",
+      "latitude": 48.663247,
+      "longitude": 20.535303
+    },
+    {
+      "name": "Autoškola SOŠDZA",
+      "latitude": 49.219109,
+      "longitude": 18.757738
+    },
+    {
+      "name": "Autoškola SPŠ Snina",
+      "latitude": 48.991966,
+      "longitude": 22.153334
+    },
+    {
+      "name": "Autoškola Star",
+      "latitude": 48.125653,
+      "longitude": 17.110763
+    },
+    {
+      "name": "Autoškola Tenas",
+      "latitude": 49.049174,
+      "longitude": 20.301649
+    },
+    {
+      "name": "Autoškola TINKA",
+      "latitude": 49.001144,
+      "longitude": 21.233254
+    },
+    {
+      "name": "Autoškola ToPa",
+      "latitude": 48.195283,
+      "longitude": 17.142135
+    },
+    {
+      "name": "Autoškola Turbo",
+      "latitude": 48.771198,
+      "longitude": 18.625946
+    },
+    {
+      "name": "Autoškola Turbo - Ing. Ivan Grolmus",
+      "latitude": 48.726813,
+      "longitude": 18.757976
+    },
+    {
+      "name": "Autoškola Valušek, Bosák",
+      "latitude": 48.159638,
+      "longitude": 17.053164
+    },
+    {
+      "name": "Autoškola VaV",
+      "latitude": 48.996473,
+      "longitude": 21.241843
+    },
+    {
+      "name": "Autoškola Vladár",
+      "latitude": 48.86159,
+      "longitude": 18.856362
+    },
+    {
+      "name": "Autoškola WASO",
+      "latitude": 48.122164,
+      "longitude": 17.122358
+    },
+    {
+      "name": "Autoškola Waso",
+      "latitude": 48.124136,
+      "longitude": 17.108428
+    },
+    {
+      "name": "Autoškola Šváby",
+      "latitude": 48.985703,
+      "longitude": 21.24875
+    },
+    {
+      "name": "Bosákova autoškola",
+      "latitude": 48.993701,
+      "longitude": 21.229842
+    },
+    {
+      "name": "Bradňanský",
+      "latitude": 48.381893,
+      "longitude": 20.018602
+    },
+    {
+      "name": "BRM BRM",
+      "latitude": 48.127965,
+      "longitude": 17.094853
+    },
+    {
+      "name": "CRS-Servis",
+      "latitude": 48.127947,
+      "longitude": 17.094874
+    },
+    {
+      "name": "cvičisko",
+      "latitude": 49.09012,
+      "longitude": 19.604232
+    },
+    {
+      "name": "Darivčák",
+      "latitude": 48.708302,
+      "longitude": 21.247803
+    },
+    {
+      "name": "Dopravné cvičisko",
+      "latitude": 48.882195,
+      "longitude": 17.981137
+    },
+    {
+      "name": "Easy autoškola",
+      "latitude": 49.224801,
+      "longitude": 18.744219
+    },
+    {
+      "name": "Elán",
+      "latitude": 47.757944,
+      "longitude": 18.129462
+    },
+    {
+      "name": "Faro",
+      "latitude": 48.62255,
+      "longitude": 18.371851
+    },
+    {
+      "name": "Fasia",
+      "latitude": 49.06731,
+      "longitude": 18.925639
+    },
+    {
+      "name": "Fortuna",
+      "latitude": 48.15433,
+      "longitude": 17.131923
+    },
+    {
+      "name": "GAMA",
+      "latitude": 48.15759,
+      "longitude": 17.135308
+    },
+    {
+      "name": "Grešo-Grešová",
+      "latitude": 49.089705,
+      "longitude": 19.60546
+    },
+    {
+      "name": "HAL - Ing. Ján Hanzel",
+      "latitude": 48.774147,
+      "longitude": 18.619397
+    },
+    {
+      "name": "Happy Drive",
+      "latitude": 48.437141,
+      "longitude": 17.020097
+    },
+    {
+      "name": "Happy Drive, s. r. o.",
+      "latitude": 48.155464,
+      "longitude": 17.14043
+    },
+    {
+      "name": "Hronček",
+      "latitude": 48.723419,
+      "longitude": 21.25188
+    },
+    {
+      "name": "Ikara",
+      "latitude": 48.116065,
+      "longitude": 17.116144
+    },
+    {
+      "name": "Junior",
+      "latitude": 48.157433,
+      "longitude": 17.155829
+    },
+    {
+      "name": "Juro",
+      "latitude": 48.559926,
+      "longitude": 18.183288
+    },
+    {
+      "name": "KMK",
+      "latitude": 48.757671,
+      "longitude": 17.823345
+    },
+    {
+      "name": "KRC sport",
+      "latitude": 48.081812,
+      "longitude": 18.176518
+    },
+    {
+      "name": "Matiaško",
+      "latitude": 48.771026,
+      "longitude": 18.62796
+    },
+    {
+      "name": "Mavex",
+      "latitude": 48.989605,
+      "longitude": 21.247309
+    },
+    {
+      "name": "Mgr. Marek Dzugas - Autoškola",
+      "latitude": 49.019745,
+      "longitude": 20.585178
+    },
+    {
+      "name": "Milan Ľahký",
+      "latitude": 48.775134,
+      "longitude": 18.624088
+    },
+    {
+      "name": "Mišák",
+      "latitude": 48.772779,
+      "longitude": 18.619388
+    },
+    {
+      "name": "Moskal",
+      "latitude": 49.104946,
+      "longitude": 18.923307
+    },
+    {
+      "name": "Neckár",
+      "latitude": 49.440797,
+      "longitude": 18.790029
+    },
+    {
+      "name": "Onder",
+      "latitude": 48.751349,
+      "longitude": 22.182487
+    },
+    {
+      "name": "Pegas",
+      "latitude": 49.303323,
+      "longitude": 18.793088
+    },
+    {
+      "name": "Perfekt",
+      "latitude": 47.857318,
+      "longitude": 17.776394
+    },
+    {
+      "name": "Peter Džačár - Autoškola",
+      "latitude": 48.660169,
+      "longitude": 20.522193
+    },
+    {
+      "name": "PRIM CAR",
+      "latitude": 48.160409,
+      "longitude": 17.140954
+    },
+    {
+      "name": "Profesionál",
+      "latitude": 48.194458,
+      "longitude": 17.727763
+    },
+    {
+      "name": "Renner",
+      "latitude": 48.729175,
+      "longitude": 21.258041
+    },
+    {
+      "name": "RM JET",
+      "latitude": 48.371377,
+      "longitude": 17.584278
+    },
+    {
+      "name": "RZ",
+      "latitude": 49.05864,
+      "longitude": 20.293805
+    },
+    {
+      "name": "Saco",
+      "latitude": 48.591918,
+      "longitude": 18.858235
+    },
+    {
+      "name": "Samek",
+      "latitude": 49.214167,
+      "longitude": 18.732422
+    },
+    {
+      "name": "Schulo",
+      "latitude": 48.168937,
+      "longitude": 17.174612
+    },
+    {
+      "name": "Sheriff",
+      "latitude": 48.241249,
+      "longitude": 17.03763
+    },
+    {
+      "name": "Silver STAR",
+      "latitude": 48.440692,
+      "longitude": 17.016165
+    },
+    {
+      "name": "Smerovka",
+      "latitude": 48.159991,
+      "longitude": 17.127753
+    },
+    {
+      "name": "Tabo",
+      "latitude": 48.424827,
+      "longitude": 18.642002
+    },
+    {
+      "name": "Tibor Holúbek",
+      "latitude": 48.190211,
+      "longitude": 17.732737
+    },
+    {
+      "name": "Univerzal - DS",
+      "latitude": 47.854522,
+      "longitude": 17.770036
+    },
+    {
+      "name": "Učebňa autoškoly",
+      "latitude": 48.392759,
+      "longitude": 18.384521
+    },
+    {
+      "name": "Víziková",
+      "latitude": 48.217145,
+      "longitude": 18.615887
+    }
+  ],
+  "meta": {
+    "title": "Slovenské autoškoly - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných autoškôl na Slovensku (amenity=driving_school) z OpenStreetMap. Obsahuje 125 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Slovenské autoškoly | ListBase",
+    "seo_description": "Stiahnuť Slovenské autoškoly — 125 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 125 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

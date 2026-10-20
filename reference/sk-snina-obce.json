@@ -1,0 +1,406 @@
+{
+  "id": "sk-snina-obce",
+  "name": "Obce v okrese Snina",
+  "title": "Obce v okrese Snina",
+  "description": "Všetky obce (municipality) v okrese Snina, Prešovský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 108,
+      "fullname": "Belá nad Cirochou",
+      "shortname": "Belá nad Cirochou",
+      "zip": "067 81",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 288,
+      "fullname": "Brezovec",
+      "shortname": "Brezovec",
+      "zip": "067 73",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 568,
+      "fullname": "Dlhé nad Cirochou",
+      "shortname": "Dlhé nad Cirochou",
+      "zip": "067 82",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 732,
+      "fullname": "Dúbrava",
+      "shortname": "Dúbrava",
+      "zip": "067 73",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1064,
+      "fullname": "Hostovice",
+      "shortname": "Hostovice",
+      "zip": "067 35",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1072,
+      "fullname": "Hrabová Roztoka",
+      "shortname": "Hrabová Roztoka",
+      "zip": "067 73",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1263,
+      "fullname": "Jalová",
+      "shortname": "Jalová",
+      "zip": "067 61",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1358,
+      "fullname": "Kalná Roztoka",
+      "shortname": "Kalná Roztoka",
+      "zip": "067 72",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1443,
+      "fullname": "Klenová",
+      "shortname": "Klenová",
+      "zip": "067 72",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1492,
+      "fullname": "Kolbasov",
+      "shortname": "Kolbasov",
+      "zip": "067 66",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1501,
+      "fullname": "Kolonica",
+      "shortname": "Kolonica",
+      "zip": "067 61",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1774,
+      "fullname": "Ladomirov",
+      "shortname": "Ladomirov",
+      "zip": "067 71",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2175,
+      "fullname": "Michajlov",
+      "shortname": "Michajlov",
+      "zip": "067 73",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2414,
+      "fullname": "Nová Sedlica",
+      "shortname": "Nová Sedlica",
+      "zip": "067 68",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2537,
+      "fullname": "Osadné",
+      "shortname": "Osadné",
+      "zip": "067 34",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2581,
+      "fullname": "Parihuzovce",
+      "shortname": "Parihuzovce",
+      "zip": "067 35",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2644,
+      "fullname": "Pichne",
+      "shortname": "Pichne",
+      "zip": "069 01",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2850,
+      "fullname": "Príslop",
+      "shortname": "Príslop",
+      "zip": "067 66",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2609,
+      "fullname": "Pčoliné",
+      "shortname": "Pčoliné",
+      "zip": "067 35",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3035,
+      "fullname": "Runina",
+      "shortname": "Runina",
+      "zip": "067 65",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3043,
+      "fullname": "Ruská Volová",
+      "shortname": "Ruská Volová",
+      "zip": "067 72",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3049,
+      "fullname": "Ruský Potok",
+      "shortname": "Ruský Potok",
+      "zip": "067 66",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3211,
+      "fullname": "Snina",
+      "shortname": "Snina",
+      "zip": "069 01",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3254,
+      "fullname": "Stakčín",
+      "shortname": "Stakčín",
+      "zip": "067 61",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3255,
+      "fullname": "Stakčínska Roztoka",
+      "shortname": "Stakčínska Roztoka",
+      "zip": "067 61",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3317,
+      "fullname": "Strihovce",
+      "shortname": "Strihovce",
+      "zip": "067 73",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3557,
+      "fullname": "Topoľa",
+      "shortname": "Topoľa",
+      "zip": "067 65",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3667,
+      "fullname": "Ubľa",
+      "shortname": "Ubľa",
+      "zip": "067 73",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3683,
+      "fullname": "Ulič",
+      "shortname": "Ulič",
+      "zip": "067 67",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3684,
+      "fullname": "Uličské Krivé",
+      "shortname": "Uličské Krivé",
+      "zip": "067 67",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4092,
+      "fullname": "Zboj",
+      "shortname": "Zboj",
+      "zip": "067 68",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4122,
+      "fullname": "Zemplínske Hámre",
+      "shortname": "Zemplínske Hámre",
+      "zip": "067 77",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 513,
+      "fullname": "Čukalovce",
+      "shortname": "Čukalovce",
+      "zip": "067 35",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3439,
+      "fullname": "Šmigovec",
+      "shortname": "Šmigovec",
+      "zip": "067 73",
+      "district_id": 60,
+      "okres": "Snina",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Snina - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Snina, Prešovský kraj — s PSČ a kódom okresu. Obsahuje 34 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Snina | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Snina — 34 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 34 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

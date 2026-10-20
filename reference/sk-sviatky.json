@@ -1,0 +1,943 @@
+{
+  "id": "sk-sviatky",
+  "name": "Slovenské sviatky a dni pracovného pokoja (2020–2026)",
+  "title": "Slovenské sviatky a dni pracovného pokoja (2020–2026)",
+  "description": "Public holidays 2020-2026 with native and English names",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 98,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "name_sk",
+      "label": "Name Sk",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "month",
+      "label": "Month",
+      "type": "number"
+    },
+    {
+      "key": "day",
+      "label": "Day",
+      "type": "number"
+    },
+    {
+      "key": "day_of_week",
+      "label": "Day Of Week",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "name_sk": "Deň vzniku Slovenskej republiky",
+      "name_en": "Day of the Establishment of the Slovak Republic",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2020-01-06",
+      "year": 2020,
+      "name_sk": "Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)",
+      "name_en": "Epiphany (Three Kings' Day and Orthodox Christmas)",
+      "month": 1,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-04-10",
+      "year": 2020,
+      "name_sk": "Veľký piatok",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 10,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-04-13",
+      "year": 2020,
+      "name_sk": "Veľkonočný pondelok",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 13,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-05-01",
+      "year": 2020,
+      "name_sk": "Sviatok práce",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-05-08",
+      "year": 2020,
+      "name_sk": "Deň víťazstva nad fašizmom",
+      "name_en": "Day of Victory over Fascism",
+      "month": 5,
+      "day": 8,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-07-05",
+      "year": 2020,
+      "name_sk": "Sviatok svätého Cyrila a svätého Metoda",
+      "name_en": "Saints Cyril and Methodius Day",
+      "month": 7,
+      "day": 5,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2020-08-29",
+      "year": 2020,
+      "name_sk": "Výročie Slovenského národného povstania",
+      "name_en": "Slovak National Uprising Anniversary",
+      "month": 8,
+      "day": 29,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2020-09-01",
+      "year": 2020,
+      "name_sk": "Deň Ústavy Slovenskej republiky",
+      "name_en": "Constitution Day",
+      "month": 9,
+      "day": 1,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2020-09-15",
+      "year": 2020,
+      "name_sk": "Sedembolestná Panna Mária",
+      "name_en": "Day of Our Lady of the Seven Sorrows",
+      "month": 9,
+      "day": 15,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2020-11-01",
+      "year": 2020,
+      "name_sk": "Sviatok Všetkých svätých",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2020-11-17",
+      "year": 2020,
+      "name_sk": "Deň boja za slobodu a demokraciu",
+      "name_en": "Struggle for Freedom and Democracy Day",
+      "month": 11,
+      "day": 17,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2020-12-24",
+      "year": 2020,
+      "name_sk": "Štedrý deň",
+      "name_en": "Christmas Eve",
+      "month": 12,
+      "day": 24,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2020-12-25",
+      "year": 2020,
+      "name_sk": "Prvý sviatok vianočný",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-12-26",
+      "year": 2020,
+      "name_sk": "Druhý sviatok vianočný",
+      "name_en": "Second Day of Christmas",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "name_sk": "Deň vzniku Slovenskej republiky",
+      "name_en": "Day of the Establishment of the Slovak Republic",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-01-06",
+      "year": 2021,
+      "name_sk": "Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)",
+      "name_en": "Epiphany (Three Kings' Day and Orthodox Christmas)",
+      "month": 1,
+      "day": 6,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2021-04-02",
+      "year": 2021,
+      "name_sk": "Veľký piatok",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 2,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-04-05",
+      "year": 2021,
+      "name_sk": "Veľkonočný pondelok",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 5,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-05-01",
+      "year": 2021,
+      "name_sk": "Sviatok práce",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-05-08",
+      "year": 2021,
+      "name_sk": "Deň víťazstva nad fašizmom",
+      "name_en": "Day of Victory over Fascism",
+      "month": 5,
+      "day": 8,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-07-05",
+      "year": 2021,
+      "name_sk": "Sviatok svätého Cyrila a svätého Metoda",
+      "name_en": "Saints Cyril and Methodius Day",
+      "month": 7,
+      "day": 5,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-08-29",
+      "year": 2021,
+      "name_sk": "Výročie Slovenského národného povstania",
+      "name_en": "Slovak National Uprising Anniversary",
+      "month": 8,
+      "day": 29,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2021-09-01",
+      "year": 2021,
+      "name_sk": "Deň Ústavy Slovenskej republiky",
+      "name_en": "Constitution Day",
+      "month": 9,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2021-09-15",
+      "year": 2021,
+      "name_sk": "Sedembolestná Panna Mária",
+      "name_en": "Day of Our Lady of the Seven Sorrows",
+      "month": 9,
+      "day": 15,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2021-11-01",
+      "year": 2021,
+      "name_sk": "Sviatok Všetkých svätých",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-11-17",
+      "year": 2021,
+      "name_sk": "Deň boja za slobodu a demokraciu",
+      "name_en": "Struggle for Freedom and Democracy Day",
+      "month": 11,
+      "day": 17,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2021-12-24",
+      "year": 2021,
+      "name_sk": "Štedrý deň",
+      "name_en": "Christmas Eve",
+      "month": 12,
+      "day": 24,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-12-25",
+      "year": 2021,
+      "name_sk": "Prvý sviatok vianočný",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-12-26",
+      "year": 2021,
+      "name_sk": "Druhý sviatok vianočný",
+      "name_en": "Second Day of Christmas",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "name_sk": "Deň vzniku Slovenskej republiky",
+      "name_en": "Day of the Establishment of the Slovak Republic",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-01-06",
+      "year": 2022,
+      "name_sk": "Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)",
+      "name_en": "Epiphany (Three Kings' Day and Orthodox Christmas)",
+      "month": 1,
+      "day": 6,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2022-04-15",
+      "year": 2022,
+      "name_sk": "Veľký piatok",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 15,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-04-18",
+      "year": 2022,
+      "name_sk": "Veľkonočný pondelok",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 18,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-05-01",
+      "year": 2022,
+      "name_sk": "Sviatok práce",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-05-08",
+      "year": 2022,
+      "name_sk": "Deň víťazstva nad fašizmom",
+      "name_en": "Day of Victory over Fascism",
+      "month": 5,
+      "day": 8,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-07-05",
+      "year": 2022,
+      "name_sk": "Sviatok svätého Cyrila a svätého Metoda",
+      "name_en": "Saints Cyril and Methodius Day",
+      "month": 7,
+      "day": 5,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2022-08-29",
+      "year": 2022,
+      "name_sk": "Výročie Slovenského národného povstania",
+      "name_en": "Slovak National Uprising Anniversary",
+      "month": 8,
+      "day": 29,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-09-01",
+      "year": 2022,
+      "name_sk": "Deň Ústavy Slovenskej republiky",
+      "name_en": "Constitution Day",
+      "month": 9,
+      "day": 1,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2022-09-15",
+      "year": 2022,
+      "name_sk": "Sedembolestná Panna Mária",
+      "name_en": "Day of Our Lady of the Seven Sorrows",
+      "month": 9,
+      "day": 15,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2022-11-01",
+      "year": 2022,
+      "name_sk": "Sviatok Všetkých svätých",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2022-11-17",
+      "year": 2022,
+      "name_sk": "Deň boja za slobodu a demokraciu",
+      "name_en": "Struggle for Freedom and Democracy Day",
+      "month": 11,
+      "day": 17,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2022-12-24",
+      "year": 2022,
+      "name_sk": "Štedrý deň",
+      "name_en": "Christmas Eve",
+      "month": 12,
+      "day": 24,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-12-25",
+      "year": 2022,
+      "name_sk": "Prvý sviatok vianočný",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-12-26",
+      "year": 2022,
+      "name_sk": "Druhý sviatok vianočný",
+      "name_en": "Second Day of Christmas",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "name_sk": "Deň vzniku Slovenskej republiky",
+      "name_en": "Day of the Establishment of the Slovak Republic",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2023-01-06",
+      "year": 2023,
+      "name_sk": "Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)",
+      "name_en": "Epiphany (Three Kings' Day and Orthodox Christmas)",
+      "month": 1,
+      "day": 6,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-04-07",
+      "year": 2023,
+      "name_sk": "Veľký piatok",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 7,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-04-10",
+      "year": 2023,
+      "name_sk": "Veľkonočný pondelok",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 10,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-05-01",
+      "year": 2023,
+      "name_sk": "Sviatok práce",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-05-08",
+      "year": 2023,
+      "name_sk": "Deň víťazstva nad fašizmom",
+      "name_en": "Day of Victory over Fascism",
+      "month": 5,
+      "day": 8,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-07-05",
+      "year": 2023,
+      "name_sk": "Sviatok svätého Cyrila a svätého Metoda",
+      "name_en": "Saints Cyril and Methodius Day",
+      "month": 7,
+      "day": 5,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2023-08-29",
+      "year": 2023,
+      "name_sk": "Výročie Slovenského národného povstania",
+      "name_en": "Slovak National Uprising Anniversary",
+      "month": 8,
+      "day": 29,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2023-09-01",
+      "year": 2023,
+      "name_sk": "Deň Ústavy Slovenskej republiky",
+      "name_en": "Constitution Day",
+      "month": 9,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-09-15",
+      "year": 2023,
+      "name_sk": "Sedembolestná Panna Mária",
+      "name_en": "Day of Our Lady of the Seven Sorrows",
+      "month": 9,
+      "day": 15,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-11-01",
+      "year": 2023,
+      "name_sk": "Sviatok Všetkých svätých",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2023-11-17",
+      "year": 2023,
+      "name_sk": "Deň boja za slobodu a demokraciu",
+      "name_en": "Struggle for Freedom and Democracy Day",
+      "month": 11,
+      "day": 17,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-12-24",
+      "year": 2023,
+      "name_sk": "Štedrý deň",
+      "name_en": "Christmas Eve",
+      "month": 12,
+      "day": 24,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2023-12-25",
+      "year": 2023,
+      "name_sk": "Prvý sviatok vianočný",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-12-26",
+      "year": 2023,
+      "name_sk": "Druhý sviatok vianočný",
+      "name_en": "Second Day of Christmas",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "name_sk": "Deň vzniku Slovenskej republiky",
+      "name_en": "Day of the Establishment of the Slovak Republic",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-01-06",
+      "year": 2024,
+      "name_sk": "Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)",
+      "name_en": "Epiphany (Three Kings' Day and Orthodox Christmas)",
+      "month": 1,
+      "day": 6,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2024-03-29",
+      "year": 2024,
+      "name_sk": "Veľký piatok",
+      "name_en": "Good Friday",
+      "month": 3,
+      "day": 29,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2024-04-01",
+      "year": 2024,
+      "name_sk": "Veľkonočný pondelok",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-05-01",
+      "year": 2024,
+      "name_sk": "Sviatok práce",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-05-08",
+      "year": 2024,
+      "name_sk": "Deň víťazstva nad fašizmom",
+      "name_en": "Day of Victory over Fascism",
+      "month": 5,
+      "day": 8,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-07-05",
+      "year": 2024,
+      "name_sk": "Sviatok svätého Cyrila a svätého Metoda",
+      "name_en": "Saints Cyril and Methodius Day",
+      "month": 7,
+      "day": 5,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2024-08-29",
+      "year": 2024,
+      "name_sk": "Výročie Slovenského národného povstania",
+      "name_en": "Slovak National Uprising Anniversary",
+      "month": 8,
+      "day": 29,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2024-09-15",
+      "year": 2024,
+      "name_sk": "Sedembolestná Panna Mária",
+      "name_en": "Day of Our Lady of the Seven Sorrows",
+      "month": 9,
+      "day": 15,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-11-01",
+      "year": 2024,
+      "name_sk": "Sviatok Všetkých svätých",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2024-11-17",
+      "year": 2024,
+      "name_sk": "Deň boja za slobodu a demokraciu",
+      "name_en": "Struggle for Freedom and Democracy Day",
+      "month": 11,
+      "day": 17,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-12-24",
+      "year": 2024,
+      "name_sk": "Štedrý deň",
+      "name_en": "Christmas Eve",
+      "month": 12,
+      "day": 24,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2024-12-25",
+      "year": 2024,
+      "name_sk": "Prvý sviatok vianočný",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-12-26",
+      "year": 2024,
+      "name_sk": "Druhý sviatok vianočný",
+      "name_en": "Second Day of Christmas",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "name_sk": "Deň vzniku Slovenskej republiky",
+      "name_en": "Day of the Establishment of the Slovak Republic",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-01-06",
+      "year": 2025,
+      "name_sk": "Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)",
+      "name_en": "Epiphany (Three Kings' Day and Orthodox Christmas)",
+      "month": 1,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-04-18",
+      "year": 2025,
+      "name_sk": "Veľký piatok",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 18,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2025-04-21",
+      "year": 2025,
+      "name_sk": "Veľkonočný pondelok",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 21,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-05-01",
+      "year": 2025,
+      "name_sk": "Sviatok práce",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-05-08",
+      "year": 2025,
+      "name_sk": "Deň víťazstva nad fašizmom",
+      "name_en": "Day of Victory over Fascism",
+      "month": 5,
+      "day": 8,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-07-05",
+      "year": 2025,
+      "name_sk": "Sviatok svätého Cyrila a svätého Metoda",
+      "name_en": "Saints Cyril and Methodius Day",
+      "month": 7,
+      "day": 5,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2025-08-29",
+      "year": 2025,
+      "name_sk": "Výročie Slovenského národného povstania",
+      "name_en": "Slovak National Uprising Anniversary",
+      "month": 8,
+      "day": 29,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2025-09-15",
+      "year": 2025,
+      "name_sk": "Sedembolestná Panna Mária",
+      "name_en": "Day of Our Lady of the Seven Sorrows",
+      "month": 9,
+      "day": 15,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-11-01",
+      "year": 2025,
+      "name_sk": "Sviatok Všetkých svätých",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2025-12-24",
+      "year": 2025,
+      "name_sk": "Štedrý deň",
+      "name_en": "Christmas Eve",
+      "month": 12,
+      "day": 24,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-12-25",
+      "year": 2025,
+      "name_sk": "Prvý sviatok vianočný",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-12-26",
+      "year": 2025,
+      "name_sk": "Druhý sviatok vianočný",
+      "name_en": "Second Day of Christmas",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-01-01",
+      "year": 2026,
+      "name_sk": "Deň vzniku Slovenskej republiky",
+      "name_en": "Day of the Establishment of the Slovak Republic",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-01-06",
+      "year": 2026,
+      "name_sk": "Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)",
+      "name_en": "Epiphany (Three Kings' Day and Orthodox Christmas)",
+      "month": 1,
+      "day": 6,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2026-04-03",
+      "year": 2026,
+      "name_sk": "Veľký piatok",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 3,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-04-06",
+      "year": 2026,
+      "name_sk": "Veľkonočný pondelok",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-05-01",
+      "year": 2026,
+      "name_sk": "Sviatok práce",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-07-05",
+      "year": 2026,
+      "name_sk": "Sviatok svätého Cyrila a svätého Metoda",
+      "name_en": "Saints Cyril and Methodius Day",
+      "month": 7,
+      "day": 5,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2026-08-29",
+      "year": 2026,
+      "name_sk": "Výročie Slovenského národného povstania",
+      "name_en": "Slovak National Uprising Anniversary",
+      "month": 8,
+      "day": 29,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2026-11-01",
+      "year": 2026,
+      "name_sk": "Sviatok Všetkých svätých",
+      "name_en": "All Saints' Day",
+      "month": 11,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2026-12-24",
+      "year": 2026,
+      "name_sk": "Štedrý deň",
+      "name_en": "Christmas Eve",
+      "month": 12,
+      "day": 24,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-12-25",
+      "year": 2026,
+      "name_sk": "Prvý sviatok vianočný",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-12-26",
+      "year": 2026,
+      "name_sk": "Druhý sviatok vianočný",
+      "name_en": "Second Day of Christmas",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Saturday"
+    }
+  ],
+  "meta": {
+    "title": "Slovenské sviatky a dni pracovného pokoja (2020–2026) - Bezplatné stiahnutie",
+    "description": "Public holidays 2020-2026 with native and English names Obsahuje 98 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Slovenské sviatky a dni pracovného pokoja (2020–2026) | ListBase",
+    "seo_description": "Stiahnuť Slovenské sviatky a dni pracovného pokoja (2020–2026) — 98 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 98 záznamov / 7 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

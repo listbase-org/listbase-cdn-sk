@@ -1,0 +1,496 @@
+{
+  "id": "sk-zlate-moravce-obce",
+  "name": "Obce v okrese Zlaté Moravce",
+  "title": "Obce v okrese Zlaté Moravce",
+  "description": "Všetky obce (municipality) v okrese Zlaté Moravce, Nitriansky kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 109,
+      "fullname": "Beladice",
+      "shortname": "Beladice",
+      "zip": "951 75",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1174,
+      "fullname": "Choča",
+      "shortname": "Choča",
+      "zip": "951 76",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1189,
+      "fullname": "Chrašťany",
+      "shortname": "Chrašťany",
+      "zip": "951 75",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1202,
+      "fullname": "Chyzerovce",
+      "shortname": "Chyzerovce",
+      "zip": "953 01",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 645,
+      "fullname": "Dolné Sľažany",
+      "shortname": "Dolné Sľažany",
+      "zip": "951 71",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1026,
+      "fullname": "Horné Sľažany",
+      "shortname": "Horné Sľažany",
+      "zip": "951 71",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1059,
+      "fullname": "Hostie",
+      "shortname": "Hostie",
+      "zip": "951 94",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1063,
+      "fullname": "Hosťovce",
+      "shortname": "Hosťovce",
+      "zip": "951 91",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1320,
+      "fullname": "Jedľové Kostoľany",
+      "shortname": "Jedľové Kostoľany",
+      "zip": "951 96",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1546,
+      "fullname": "Kostoľany pod Tribečom",
+      "shortname": "Kostoľany p/Tribečom",
+      "zip": "951 77",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1770,
+      "fullname": "Ladice",
+      "shortname": "Ladice",
+      "zip": "951 77",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1921,
+      "fullname": "Lovce",
+      "shortname": "Lovce",
+      "zip": "951 92",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2002,
+      "fullname": "Machulince",
+      "shortname": "Machulince",
+      "zip": "951 93",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2075,
+      "fullname": "Malé Vozokany",
+      "shortname": "Malé Vozokany",
+      "zip": "951 82",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2109,
+      "fullname": "Mankovce",
+      "shortname": "Mankovce",
+      "zip": "951 91",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2121,
+      "fullname": "Martin nad Žitavou",
+      "shortname": "Martin nad Žitavou",
+      "zip": "953 01",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2209,
+      "fullname": "Mlyňany",
+      "shortname": "Mlyňany",
+      "zip": "951 76",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2315,
+      "fullname": "Nemčiňany",
+      "shortname": "Nemčiňany",
+      "zip": "951 81",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2326,
+      "fullname": "Neverice",
+      "shortname": "Neverice",
+      "zip": "951 72",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2327,
+      "fullname": "Nevidzany",
+      "shortname": "Nevidzany",
+      "zip": "951 62",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2458,
+      "fullname": "Obyce",
+      "shortname": "Obyce",
+      "zip": "951 95",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2476,
+      "fullname": "Olichov",
+      "shortname": "Olichov",
+      "zip": "951 87",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2848,
+      "fullname": "Prílepy",
+      "shortname": "Prílepy",
+      "zip": "953 05",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2878,
+      "fullname": "Pustý Chotár",
+      "shortname": "Pustý Chotár",
+      "zip": "951 75",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3155,
+      "fullname": "Skýcov",
+      "shortname": "Skýcov",
+      "zip": "951 85",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3177,
+      "fullname": "Slepčany",
+      "shortname": "Slepčany",
+      "zip": "951 52",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3176,
+      "fullname": "Sľažany",
+      "shortname": "Sľažany",
+      "zip": "951 71",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3519,
+      "fullname": "Tekovské Nemce",
+      "shortname": "Tekovské Nemce",
+      "zip": "966 54",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3535,
+      "fullname": "Tesáre nad Žitavou",
+      "shortname": "Tesáre nad Žitavou",
+      "zip": "951 76",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3536,
+      "fullname": "Tesárske Mlyňany",
+      "shortname": "Tesárske Mlyňany",
+      "zip": "951 76",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3560,
+      "fullname": "Topoľčianky",
+      "shortname": "Topoľčianky",
+      "zip": "951 93",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3739,
+      "fullname": "Velčice",
+      "shortname": "Velčice",
+      "zip": "951 71",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3809,
+      "fullname": "Veľké Vozokany",
+      "shortname": "Veľké Vozokany",
+      "zip": "951 82",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3861,
+      "fullname": "Vieska nad Žitavou",
+      "shortname": "Vieska nad Žitavou",
+      "zip": "951 52",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3923,
+      "fullname": "Volkovce",
+      "shortname": "Volkovce",
+      "zip": "951 87",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 4139,
+      "fullname": "Zlatno",
+      "shortname": "Zlatno",
+      "zip": "951 91",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 4135,
+      "fullname": "Zlaté Moravce",
+      "shortname": "Zlaté Moravce",
+      "zip": 0,
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 4073,
+      "fullname": "Závada",
+      "shortname": "Závada",
+      "zip": "951 87",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 422,
+      "fullname": "Čaradice",
+      "shortname": "Čaradice",
+      "zip": "953 01",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 473,
+      "fullname": "Červený Hrádok",
+      "shortname": "Červený Hrádok",
+      "zip": "951 82",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 493,
+      "fullname": "Čierne Kľačany",
+      "shortname": "Čierne Kľačany",
+      "zip": "953 05",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 4193,
+      "fullname": "Žikava",
+      "shortname": "Žikava",
+      "zip": "951 92",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 4201,
+      "fullname": "Žitavany",
+      "shortname": "Žitavany",
+      "zip": "951 97",
+      "district_id": 75,
+      "okres": "Zlaté Moravce",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Zlaté Moravce - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Zlaté Moravce, Nitriansky kraj — s PSČ a kódom okresu. Obsahuje 43 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Zlaté Moravce | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Zlaté Moravce — 43 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 43 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

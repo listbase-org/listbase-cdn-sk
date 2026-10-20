@@ -1,0 +1,2726 @@
+{
+  "id": "sk-parkoviska",
+  "name": "Parkoviská",
+  "title": "Parkoviská",
+  "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (amenity=parking). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 537,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Parking leśny",
+      "latitude": 49.518936,
+      "longitude": 18.875115
+    },
+    {
+      "name": "Parkovisko pre zmluvné parkovanie LKW",
+      "latitude": 49.451433,
+      "longitude": 18.779565
+    },
+    {
+      "name": "Parking Ujsoły",
+      "latitude": 49.457852,
+      "longitude": 19.226321
+    },
+    {
+      "name": "Bernolákovo námestie",
+      "latitude": 49.408197,
+      "longitude": 19.481383
+    },
+    {
+      "name": "Pri Klinci",
+      "latitude": 49.406853,
+      "longitude": 19.477199
+    },
+    {
+      "name": "Odpočívadlo Prejta",
+      "latitude": 48.982352,
+      "longitude": 18.18709
+    },
+    {
+      "name": "OC Idea",
+      "latitude": 48.993647,
+      "longitude": 18.229748
+    },
+    {
+      "name": "OC Idea",
+      "latitude": 48.992998,
+      "longitude": 18.23074
+    },
+    {
+      "name": "FULL café",
+      "latitude": 48.996357,
+      "longitude": 18.237901
+    },
+    {
+      "name": "SESTAV",
+      "latitude": 48.99671,
+      "longitude": 18.232915
+    },
+    {
+      "name": "ÚVTOS",
+      "latitude": 48.997144,
+      "longitude": 18.231442
+    },
+    {
+      "name": "LEA Nábytok",
+      "latitude": 48.99745,
+      "longitude": 18.232912
+    },
+    {
+      "name": "SIGMIA",
+      "latitude": 48.997686,
+      "longitude": 18.236458
+    },
+    {
+      "name": "Techmat",
+      "latitude": 48.995904,
+      "longitude": 18.232695
+    },
+    {
+      "name": "namestie",
+      "latitude": 48.957029,
+      "longitude": 18.031405
+    },
+    {
+      "name": "Vyhradené parkovisko pre návštevníkov kostola, farského úradu, katolíckeho domu a predajne Kasoče",
+      "latitude": 48.964251,
+      "longitude": 18.1698
+    },
+    {
+      "name": "Len v čase konania bohoslužieb.",
+      "latitude": 48.953257,
+      "longitude": 18.170774
+    },
+    {
+      "name": "Podzemné parkovisko na námestí",
+      "latitude": 48.958736,
+      "longitude": 18.173423
+    },
+    {
+      "name": "Parkovisko \"C\"",
+      "latitude": 48.938727,
+      "longitude": 18.117708
+    },
+    {
+      "name": "Parkovisko \"B\"",
+      "latitude": 48.93887,
+      "longitude": 18.117319
+    },
+    {
+      "name": "Parkovisko \"A\"",
+      "latitude": 48.939025,
+      "longitude": 18.116874
+    },
+    {
+      "name": "Parkovisko Hrad Súľov",
+      "latitude": 49.166038,
+      "longitude": 18.578766
+    },
+    {
+      "name": "Parkovisko Hrad Súľov",
+      "latitude": 49.1666,
+      "longitude": 18.577954
+    },
+    {
+      "name": "Parkovisko OC Mirage",
+      "latitude": 49.225138,
+      "longitude": 18.739974
+    },
+    {
+      "name": "Parkovisko PCHZ",
+      "latitude": 49.222145,
+      "longitude": 18.752051
+    },
+    {
+      "name": "Parkovisko Poštová II.",
+      "latitude": 49.214195,
+      "longitude": 18.755221
+    },
+    {
+      "name": "Zóna B",
+      "latitude": 49.216018,
+      "longitude": 18.74803
+    },
+    {
+      "name": "Parkovisko Poštová",
+      "latitude": 49.21332,
+      "longitude": 18.757027
+    },
+    {
+      "name": "P2",
+      "latitude": 49.229616,
+      "longitude": 18.743802
+    },
+    {
+      "name": "Zóna B",
+      "latitude": 49.216616,
+      "longitude": 18.748428
+    },
+    {
+      "name": "P1",
+      "latitude": 49.22995,
+      "longitude": 18.744139
+    },
+    {
+      "name": "Parkovisko Hotel Polom",
+      "latitude": 49.226612,
+      "longitude": 18.744569
+    },
+    {
+      "name": "OBI",
+      "latitude": 49.212613,
+      "longitude": 18.753826
+    },
+    {
+      "name": "Peugeot",
+      "latitude": 49.196059,
+      "longitude": 18.742891
+    },
+    {
+      "name": "Metro",
+      "latitude": 49.195099,
+      "longitude": 18.739019
+    },
+    {
+      "name": "Hrad Lietava",
+      "latitude": 49.167431,
+      "longitude": 18.690708
+    },
+    {
+      "name": "Coop Jednota",
+      "latitude": 49.167938,
+      "longitude": 18.690947
+    },
+    {
+      "name": "Náštevníci hradu LIETAVA",
+      "latitude": 49.153519,
+      "longitude": 18.688617
+    },
+    {
+      "name": "Donghee",
+      "latitude": 49.1863,
+      "longitude": 18.850088
+    },
+    {
+      "name": "Parking CRT",
+      "latitude": 49.363308,
+      "longitude": 19.175542
+    },
+    {
+      "name": "Táborové parkovisko",
+      "latitude": 49.320593,
+      "longitude": 19.190499
+    },
+    {
+      "name": "Tržnica",
+      "latitude": 49.325115,
+      "longitude": 19.347374
+    },
+    {
+      "name": "Tiesňavy",
+      "latitude": 49.244741,
+      "longitude": 19.038416
+    },
+    {
+      "name": "Holica",
+      "latitude": 49.192284,
+      "longitude": 19.561878
+    },
+    {
+      "name": "Savoš",
+      "latitude": 49.193169,
+      "longitude": 19.572547
+    },
+    {
+      "name": "ABŠO",
+      "latitude": 49.117228,
+      "longitude": 18.44886
+    },
+    {
+      "name": "Odpočívadlo Považská Bystrica",
+      "latitude": 49.113823,
+      "longitude": 18.431319
+    },
+    {
+      "name": "Odpočívadlo Beluša",
+      "latitude": 49.05885,
+      "longitude": 18.331819
+    },
+    {
+      "name": "Veronika",
+      "latitude": 49.093385,
+      "longitude": 18.631195
+    },
+    {
+      "name": "Ihrisko + Chata pod Kľačianskou Magurou",
+      "latitude": 49.122014,
+      "longitude": 18.9413
+    },
+    {
+      "name": "Parkovisko Mestský úrad Martin",
+      "latitude": 49.068692,
+      "longitude": 18.926045
+    },
+    {
+      "name": "Tržnica Martn",
+      "latitude": 49.060759,
+      "longitude": 18.921051
+    },
+    {
+      "name": "Cora - T",
+      "latitude": 49.065088,
+      "longitude": 18.920562
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 49.065149,
+      "longitude": 18.920237
+    },
+    {
+      "name": "Odstavná plocha na Fačkovskom sedle",
+      "latitude": 48.963732,
+      "longitude": 18.612406
+    },
+    {
+      "name": "Parkovisko hotela Kultúra",
+      "latitude": 49.082513,
+      "longitude": 19.301789
+    },
+    {
+      "name": "TAXI",
+      "latitude": 49.083527,
+      "longitude": 19.302074
+    },
+    {
+      "name": "Parking Reality Alpia",
+      "latitude": 49.078222,
+      "longitude": 19.306871
+    },
+    {
+      "name": "Poliklinika RUŽA",
+      "latitude": 49.085093,
+      "longitude": 19.301377
+    },
+    {
+      "name": "YELL CUISINE",
+      "latitude": 49.066089,
+      "longitude": 19.310018
+    },
+    {
+      "name": "Exalogic",
+      "latitude": 49.099861,
+      "longitude": 19.429329
+    },
+    {
+      "name": "Parkovisko Tatralandia",
+      "latitude": 49.104358,
+      "longitude": 19.571776
+    },
+    {
+      "name": "Kozí vŕšok",
+      "latitude": 49.093698,
+      "longitude": 19.41943
+    },
+    {
+      "name": "Námestie Vojtašáka",
+      "latitude": 49.055655,
+      "longitude": 19.403955
+    },
+    {
+      "name": "Čemice",
+      "latitude": 49.081338,
+      "longitude": 19.566623
+    },
+    {
+      "name": "Vojenská akadémia",
+      "latitude": 49.068735,
+      "longitude": 19.591519
+    },
+    {
+      "name": "Dechtáre",
+      "latitude": 49.092339,
+      "longitude": 19.514982
+    },
+    {
+      "name": "Dechtáre",
+      "latitude": 49.091649,
+      "longitude": 19.513711
+    },
+    {
+      "name": "Dechtáre",
+      "latitude": 49.091637,
+      "longitude": 19.514405
+    },
+    {
+      "name": "Parking 2",
+      "latitude": 49.084144,
+      "longitude": 19.575575
+    },
+    {
+      "name": "Parking 1",
+      "latitude": 49.082195,
+      "longitude": 19.574467
+    },
+    {
+      "name": "Hotel Jánošík",
+      "latitude": 49.087094,
+      "longitude": 19.603446
+    },
+    {
+      "name": "Nadzemné garáže",
+      "latitude": 49.075978,
+      "longitude": 19.619593
+    },
+    {
+      "name": "Parking 1. - Občianske združenie Vlkolínec",
+      "latitude": 49.037429,
+      "longitude": 19.276093
+    },
+    {
+      "name": "Parking 2. - Vlkolínec Unesco s. r. o.",
+      "latitude": 49.037279,
+      "longitude": 19.275768
+    },
+    {
+      "name": "Parkovisko Bodega",
+      "latitude": 48.991611,
+      "longitude": 19.281804
+    },
+    {
+      "name": "Parking Dúbrava",
+      "latitude": 48.988435,
+      "longitude": 19.503872
+    },
+    {
+      "name": "Záchytné parkovisko Pavčina Lehota",
+      "latitude": 49.037463,
+      "longitude": 19.577832
+    },
+    {
+      "name": "P4 Lúčky",
+      "latitude": 48.980381,
+      "longitude": 19.592055
+    },
+    {
+      "name": "zákaz parkovať !",
+      "latitude": 49.003312,
+      "longitude": 19.582303
+    },
+    {
+      "name": "Apartmány Biela Púť parking",
+      "latitude": 48.969676,
+      "longitude": 19.584391
+    },
+    {
+      "name": "Staré Koliesko",
+      "latitude": 48.976828,
+      "longitude": 19.594622
+    },
+    {
+      "name": "P2 Biela Púť",
+      "latitude": 48.970812,
+      "longitude": 19.584629
+    },
+    {
+      "name": "Parkovisko Kvasničík",
+      "latitude": 48.964466,
+      "longitude": 19.586186
+    },
+    {
+      "name": "Apartmány Jasná Chopok (parking I.)",
+      "latitude": 48.969756,
+      "longitude": 19.584747
+    },
+    {
+      "name": "Apartmány Jasná Chopok (parking II.)",
+      "latitude": 48.970016,
+      "longitude": 19.584726
+    },
+    {
+      "name": "Srdiečko",
+      "latitude": 48.924235,
+      "longitude": 19.602456
+    },
+    {
+      "name": "Trangoška",
+      "latitude": 48.924938,
+      "longitude": 19.609792
+    },
+    {
+      "name": "Penzión pod Troma Korunami",
+      "latitude": 49.391833,
+      "longitude": 20.409131
+    },
+    {
+      "name": "Penzion Strachan",
+      "latitude": 49.276556,
+      "longitude": 20.234616
+    },
+    {
+      "name": "Zverovka - Spálená",
+      "latitude": 49.238658,
+      "longitude": 19.714125
+    },
+    {
+      "name": "Postój dorożek",
+      "latitude": 49.254047,
+      "longitude": 20.102446
+    },
+    {
+      "name": "Palenica Białczańska",
+      "latitude": 49.256227,
+      "longitude": 20.102905
+    },
+    {
+      "name": "Łysa Polana",
+      "latitude": 49.264554,
+      "longitude": 20.116059
+    },
+    {
+      "name": "Biela voda",
+      "latitude": 49.187147,
+      "longitude": 20.291868
+    },
+    {
+      "name": "Buková Hora",
+      "latitude": 49.167726,
+      "longitude": 20.270929
+    },
+    {
+      "name": "Hotelka - Tatranská Lomnica",
+      "latitude": 49.165838,
+      "longitude": 20.28112
+    },
+    {
+      "name": "Železničná stanica SINTRA - Tatranská Lomnica",
+      "latitude": 49.1642,
+      "longitude": 20.279531
+    },
+    {
+      "name": "Slalom - Tatranská Lomnica",
+      "latitude": 49.165633,
+      "longitude": 20.279303
+    },
+    {
+      "name": "Urán - Tatranská Lomnica",
+      "latitude": 49.163499,
+      "longitude": 20.274548
+    },
+    {
+      "name": "Lanovka - Tatranská Lomnica",
+      "latitude": 49.166139,
+      "longitude": 20.269871
+    },
+    {
+      "name": "Jamy - Tatranská Lomnica",
+      "latitude": 49.161701,
+      "longitude": 20.271773
+    },
+    {
+      "name": "Múzeum - Tatranská Lomnica",
+      "latitude": 49.166145,
+      "longitude": 20.28381
+    },
+    {
+      "name": "Kostoly - ÚĽUV - Tatranská Lomnica",
+      "latitude": 49.167548,
+      "longitude": 20.277295
+    },
+    {
+      "name": "Kostoly - ÚĽUV - Tatranská Lomnica",
+      "latitude": 49.168447,
+      "longitude": 20.275483
+    },
+    {
+      "name": "Kostoly - ÚĽUV - Tatranská Lomnica",
+      "latitude": 49.168758,
+      "longitude": 20.274879
+    },
+    {
+      "name": "Kostoly - ÚĽUV - Tatranská Lomnica",
+      "latitude": 49.166877,
+      "longitude": 20.277879
+    },
+    {
+      "name": "Múzeum - Tatranská Lomnica",
+      "latitude": 49.165555,
+      "longitude": 20.285722
+    },
+    {
+      "name": "Múzeum - Tatranská Lomnica",
+      "latitude": 49.165834,
+      "longitude": 20.284829
+    },
+    {
+      "name": "Salaš u Franka",
+      "latitude": 49.310089,
+      "longitude": 20.68073
+    },
+    {
+      "name": "RS Kyjov",
+      "latitude": 49.215413,
+      "longitude": 20.917976
+    },
+    {
+      "name": "HZS",
+      "latitude": 49.143819,
+      "longitude": 19.698388
+    },
+    {
+      "name": "Parking Tri studničky",
+      "latitude": 49.13456,
+      "longitude": 19.968646
+    },
+    {
+      "name": "Farma Východná",
+      "latitude": 49.066935,
+      "longitude": 19.895199
+    },
+    {
+      "name": "Lyžiarsky areál Štrbské Pleso",
+      "latitude": 49.128024,
+      "longitude": 20.061235
+    },
+    {
+      "name": "Lyžiarsky areál Štrbské Pleso",
+      "latitude": 49.127923,
+      "longitude": 20.059519
+    },
+    {
+      "name": "Parkovisko Sliezsky dom",
+      "latitude": 49.125689,
+      "longitude": 20.184488
+    },
+    {
+      "name": "Centrálne parkovisko",
+      "latitude": 49.119217,
+      "longitude": 20.064623
+    },
+    {
+      "name": "Centrálne parkovisko",
+      "latitude": 49.11975,
+      "longitude": 20.064558
+    },
+    {
+      "name": "Parkovisko pre autobusy",
+      "latitude": 49.110849,
+      "longitude": 20.070389
+    },
+    {
+      "name": "Koliba - Starý Smokovec",
+      "latitude": 49.138072,
+      "longitude": 20.221514
+    },
+    {
+      "name": "Tatra - Starý Smokovec",
+      "latitude": 49.14072,
+      "longitude": 20.224711
+    },
+    {
+      "name": "Autobuska - Starý Smokovec",
+      "latitude": 49.140297,
+      "longitude": 20.225389
+    },
+    {
+      "name": "Ihrisko - Starý Smokovec",
+      "latitude": 49.136535,
+      "longitude": 20.219266
+    },
+    {
+      "name": "ŽSR",
+      "latitude": 49.139795,
+      "longitude": 20.225009
+    },
+    {
+      "name": "Zachytne parkovisko Tatranska Lomnica",
+      "latitude": 49.148337,
+      "longitude": 20.320092
+    },
+    {
+      "name": "Rysy",
+      "latitude": 49.091308,
+      "longitude": 20.0713
+    },
+    {
+      "name": "parkovisko pre kamióny",
+      "latitude": 49.073209,
+      "longitude": 20.322555
+    },
+    {
+      "name": "Parkovisko bytový dom Ursus",
+      "latitude": 49.056512,
+      "longitude": 20.27906
+    },
+    {
+      "name": "Parkovisko OC Fórum",
+      "latitude": 49.053622,
+      "longitude": 20.299869
+    },
+    {
+      "name": "Mnoheľova - Okresný súd",
+      "latitude": 49.054966,
+      "longitude": 20.297795
+    },
+    {
+      "name": "Dominika Tatarku - Okresný súd",
+      "latitude": 49.055196,
+      "longitude": 20.298851
+    },
+    {
+      "name": "Finančná správa",
+      "latitude": 49.0576,
+      "longitude": 20.290978
+    },
+    {
+      "name": "Nábrežie Jána Pavla II.",
+      "latitude": 49.055362,
+      "longitude": 20.295185
+    },
+    {
+      "name": "Halatova",
+      "latitude": 49.059366,
+      "longitude": 20.295665
+    },
+    {
+      "name": "Murgašova",
+      "latitude": 49.053691,
+      "longitude": 20.296567
+    },
+    {
+      "name": "Drevárska",
+      "latitude": 49.058139,
+      "longitude": 20.290673
+    },
+    {
+      "name": "Mnoheľova",
+      "latitude": 49.054441,
+      "longitude": 20.297813
+    },
+    {
+      "name": "Zóna 1",
+      "latitude": 49.052924,
+      "longitude": 20.297634
+    },
+    {
+      "name": "Jiřího Wolkera",
+      "latitude": 49.05938,
+      "longitude": 20.298235
+    },
+    {
+      "name": "Halatova",
+      "latitude": 49.058543,
+      "longitude": 20.297601
+    },
+    {
+      "name": "Dominika Tatarku",
+      "latitude": 49.057121,
+      "longitude": 20.297942
+    },
+    {
+      "name": "Dominika Tatarku",
+      "latitude": 49.057731,
+      "longitude": 20.297563
+    },
+    {
+      "name": "Karpatská",
+      "latitude": 49.05747,
+      "longitude": 20.291954
+    },
+    {
+      "name": "Murgašova",
+      "latitude": 49.054375,
+      "longitude": 20.29619
+    },
+    {
+      "name": "Tatranská",
+      "latitude": 49.058335,
+      "longitude": 20.301317
+    },
+    {
+      "name": "Popradské nábrežie",
+      "latitude": 49.057362,
+      "longitude": 20.300934
+    },
+    {
+      "name": "1. mája",
+      "latitude": 49.059126,
+      "longitude": 20.29929
+    },
+    {
+      "name": "Bernolákova",
+      "latitude": 49.055955,
+      "longitude": 20.293023
+    },
+    {
+      "name": "Nadzemné parkovisko",
+      "latitude": 49.043141,
+      "longitude": 20.280704
+    },
+    {
+      "name": "Tatranské námestie",
+      "latitude": 49.052665,
+      "longitude": 20.304096
+    },
+    {
+      "name": "Banícka",
+      "latitude": 49.05241,
+      "longitude": 20.302879
+    },
+    {
+      "name": "Joliota Curie - kaskády",
+      "latitude": 49.053317,
+      "longitude": 20.304475
+    },
+    {
+      "name": "Joliota Curie",
+      "latitude": 49.05284,
+      "longitude": 20.30471
+    },
+    {
+      "name": "Námestie sv. Egídia",
+      "latitude": 49.055659,
+      "longitude": 20.305193
+    },
+    {
+      "name": "Joliota Curie",
+      "latitude": 49.054383,
+      "longitude": 20.303638
+    },
+    {
+      "name": "Štefánikova",
+      "latitude": 49.057255,
+      "longitude": 20.303163
+    },
+    {
+      "name": "Levočská",
+      "latitude": 49.056519,
+      "longitude": 20.305293
+    },
+    {
+      "name": "Francisciho",
+      "latitude": 49.05424,
+      "longitude": 20.305039
+    },
+    {
+      "name": "Zóna 1",
+      "latitude": 49.054544,
+      "longitude": 20.305345
+    },
+    {
+      "name": "Francisciho",
+      "latitude": 49.054873,
+      "longitude": 20.306981
+    },
+    {
+      "name": "Francisciho",
+      "latitude": 49.055567,
+      "longitude": 20.308684
+    },
+    {
+      "name": "Francisciho",
+      "latitude": 49.054462,
+      "longitude": 20.306086
+    },
+    {
+      "name": "Popradskej brigády",
+      "latitude": 49.056132,
+      "longitude": 20.306888
+    },
+    {
+      "name": "Levočská",
+      "latitude": 49.055763,
+      "longitude": 20.306667
+    },
+    {
+      "name": "Joliota Curie",
+      "latitude": 49.053194,
+      "longitude": 20.304255
+    },
+    {
+      "name": "Milk Agro ( 2 )",
+      "latitude": 49.151926,
+      "longitude": 20.961102
+    },
+    {
+      "name": "Milk Agro",
+      "latitude": 49.15227,
+      "longitude": 20.961499
+    },
+    {
+      "name": "Hotel u Leva",
+      "latitude": 49.025392,
+      "longitude": 20.589873
+    },
+    {
+      "name": "Spišský Hrad",
+      "latitude": 48.998448,
+      "longitude": 20.770667
+    },
+    {
+      "name": "tržnica",
+      "latitude": 49.290757,
+      "longitude": 21.267789
+    },
+    {
+      "name": "Námestie Jozefa Kollarčíka",
+      "latitude": 49.051783,
+      "longitude": 21.286334
+    },
+    {
+      "name": "Parkovisko Sun Park Sídlisko III",
+      "latitude": 49.016062,
+      "longitude": 21.22787
+    },
+    {
+      "name": "Parkovisko Lesy Slovenskej republiky, š. p.",
+      "latitude": 48.993151,
+      "longitude": 21.229971
+    },
+    {
+      "name": "Centrum Parking",
+      "latitude": 48.99817,
+      "longitude": 21.242847
+    },
+    {
+      "name": "Autobazár BT",
+      "latitude": 49.016837,
+      "longitude": 21.271061
+    },
+    {
+      "name": "Aquapark Delňa - parkovisko",
+      "latitude": 48.960414,
+      "longitude": 21.259805
+    },
+    {
+      "name": "P04",
+      "latitude": 48.849406,
+      "longitude": 17.212056
+    },
+    {
+      "name": "P02",
+      "latitude": 48.850135,
+      "longitude": 17.211988
+    },
+    {
+      "name": "WashMania",
+      "latitude": 48.801225,
+      "longitude": 17.162345
+    },
+    {
+      "name": "Parkovací dom Centrum",
+      "latitude": 48.896212,
+      "longitude": 18.042838
+    },
+    {
+      "name": "Zamarovce",
+      "latitude": 48.913665,
+      "longitude": 18.054109
+    },
+    {
+      "name": "Odpočívadlo Kostolná",
+      "latitude": 48.868539,
+      "longitude": 17.968889
+    },
+    {
+      "name": "Depo 3",
+      "latitude": 48.881862,
+      "longitude": 18.007657
+    },
+    {
+      "name": "Depo 2",
+      "latitude": 48.882146,
+      "longitude": 18.00811
+    },
+    {
+      "name": "Depo 1",
+      "latitude": 48.882967,
+      "longitude": 18.008469
+    },
+    {
+      "name": "Centrálne parkovisko",
+      "latitude": 48.884345,
+      "longitude": 18.028456
+    },
+    {
+      "name": "Green Bay",
+      "latitude": 48.884505,
+      "longitude": 18.023893
+    },
+    {
+      "name": "Green Bay",
+      "latitude": 48.885022,
+      "longitude": 18.024333
+    },
+    {
+      "name": "Parkovisko sanitiek",
+      "latitude": 48.885077,
+      "longitude": 18.032089
+    },
+    {
+      "name": "Beckov",
+      "latitude": 48.798751,
+      "longitude": 17.893736
+    },
+    {
+      "name": "Beckov",
+      "latitude": 48.800453,
+      "longitude": 17.89473
+    },
+    {
+      "name": "Farbest",
+      "latitude": 48.757943,
+      "longitude": 17.835937
+    },
+    {
+      "name": "Citroen parkovisko",
+      "latitude": 48.735277,
+      "longitude": 17.839376
+    },
+    {
+      "name": "Brodské - D2",
+      "latitude": 48.679615,
+      "longitude": 16.985849
+    },
+    {
+      "name": "P+R Veľké Leváre",
+      "latitude": 48.509423,
+      "longitude": 17.017911
+    },
+    {
+      "name": "Parkovisko Nálepkova ulica",
+      "latitude": 48.58676,
+      "longitude": 17.834589
+    },
+    {
+      "name": "Piešťany",
+      "latitude": 48.551927,
+      "longitude": 17.787379
+    },
+    {
+      "name": "Piešťany",
+      "latitude": 48.551779,
+      "longitude": 17.789184
+    },
+    {
+      "name": "Parkovisko Centrum JUH",
+      "latitude": 48.553652,
+      "longitude": 18.176288
+    },
+    {
+      "name": "Ulica J. Wolkra",
+      "latitude": 48.558448,
+      "longitude": 18.175909
+    },
+    {
+      "name": "Parkovisko Nemocnica",
+      "latitude": 48.552467,
+      "longitude": 18.168256
+    },
+    {
+      "name": "Pavel Koran - Drevo a nábytok",
+      "latitude": 48.545084,
+      "longitude": 18.153362
+    },
+    {
+      "name": "Centrálne parkovisko Bojnice",
+      "latitude": 48.776079,
+      "longitude": 18.577784
+    },
+    {
+      "name": "Grand Cafe",
+      "latitude": 48.773431,
+      "longitude": 18.61889
+    },
+    {
+      "name": "Bloom",
+      "latitude": 48.773436,
+      "longitude": 18.618998
+    },
+    {
+      "name": "Jeleň",
+      "latitude": 48.702536,
+      "longitude": 18.917628
+    },
+    {
+      "name": "Donovaly",
+      "latitude": 48.877307,
+      "longitude": 19.225003
+    },
+    {
+      "name": "P1",
+      "latitude": 48.877869,
+      "longitude": 19.235215
+    },
+    {
+      "name": "P2",
+      "latitude": 48.877539,
+      "longitude": 19.236168
+    },
+    {
+      "name": "Parkovanie pre bežkárov",
+      "latitude": 48.807223,
+      "longitude": 19.154112
+    },
+    {
+      "name": "Krupová",
+      "latitude": 48.92156,
+      "longitude": 19.598684
+    },
+    {
+      "name": "P1",
+      "latitude": 48.805393,
+      "longitude": 19.148784
+    },
+    {
+      "name": "ARS",
+      "latitude": 48.751533,
+      "longitude": 19.140621
+    },
+    {
+      "name": "ARS",
+      "latitude": 48.752333,
+      "longitude": 19.14112
+    },
+    {
+      "name": "Parkovisko pred FPV a FF UMB",
+      "latitude": 48.741446,
+      "longitude": 19.122098
+    },
+    {
+      "name": "Parkovisko pre zamestnancov FPV+FF UMB",
+      "latitude": 48.74124,
+      "longitude": 19.122725
+    },
+    {
+      "name": "alza",
+      "latitude": 48.729309,
+      "longitude": 19.134878
+    },
+    {
+      "name": "Shell",
+      "latitude": 48.735021,
+      "longitude": 19.157641
+    },
+    {
+      "name": "Café Family",
+      "latitude": 48.741298,
+      "longitude": 19.100795
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.739094,
+      "longitude": 19.155553
+    },
+    {
+      "name": "Ekoplant",
+      "latitude": 48.744817,
+      "longitude": 19.113504
+    },
+    {
+      "name": "Ptáček",
+      "latitude": 48.70565,
+      "longitude": 19.13916
+    },
+    {
+      "name": "Donivo",
+      "latitude": 48.712096,
+      "longitude": 19.13353
+    },
+    {
+      "name": "Donivo",
+      "latitude": 48.712085,
+      "longitude": 19.132449
+    },
+    {
+      "name": "Urpiner",
+      "latitude": 48.704773,
+      "longitude": 19.128378
+    },
+    {
+      "name": "Merkury Market",
+      "latitude": 48.704151,
+      "longitude": 19.13971
+    },
+    {
+      "name": "OC Klokan",
+      "latitude": 48.710056,
+      "longitude": 19.137055
+    },
+    {
+      "name": "Tuláčik",
+      "latitude": 48.803121,
+      "longitude": 19.64751
+    },
+    {
+      "name": "Parkovisko na Včelinci",
+      "latitude": 48.728328,
+      "longitude": 19.434684
+    },
+    {
+      "name": "Salaš Partizánske",
+      "latitude": 48.617676,
+      "longitude": 18.375823
+    },
+    {
+      "name": "Parkovisko pri strelnici",
+      "latitude": 48.586471,
+      "longitude": 18.504938
+    },
+    {
+      "name": "Parkovisko Zubria zvernica",
+      "latitude": 48.459283,
+      "longitude": 18.343426
+    },
+    {
+      "name": "Kúpeľný dom",
+      "latitude": 48.608193,
+      "longitude": 19.101119
+    },
+    {
+      "name": "NRC",
+      "latitude": 48.609206,
+      "longitude": 19.104347
+    },
+    {
+      "name": "NRC",
+      "latitude": 48.608841,
+      "longitude": 19.104821
+    },
+    {
+      "name": "ŠLÚ Marína",
+      "latitude": 48.610262,
+      "longitude": 19.098323
+    },
+    {
+      "name": "Holidaypark",
+      "latitude": 48.606364,
+      "longitude": 19.100522
+    },
+    {
+      "name": "Marina",
+      "latitude": 48.610554,
+      "longitude": 19.099928
+    },
+    {
+      "name": "Europa Shopping Center Zvolen",
+      "latitude": 48.580051,
+      "longitude": 19.124669
+    },
+    {
+      "name": "Nabimex",
+      "latitude": 48.586549,
+      "longitude": 19.130041
+    },
+    {
+      "name": "Parkovisko pod Baštou",
+      "latitude": 48.57578,
+      "longitude": 19.124727
+    },
+    {
+      "name": "Parkovisko Vodopád Bystré",
+      "latitude": 48.604891,
+      "longitude": 19.490526
+    },
+    {
+      "name": "Parkovisko Legionárska",
+      "latitude": 48.439238,
+      "longitude": 17.025687
+    },
+    {
+      "name": "P+R Píla",
+      "latitude": 48.435089,
+      "longitude": 17.023872
+    },
+    {
+      "name": "P1",
+      "latitude": 48.415482,
+      "longitude": 16.977601
+    },
+    {
+      "name": "Pezinská baba - Parkovisko",
+      "latitude": 48.351148,
+      "longitude": 17.190811
+    },
+    {
+      "name": "Zóna R7",
+      "latitude": 48.375168,
+      "longitude": 17.569175
+    },
+    {
+      "name": "Zóna R7",
+      "latitude": 48.375028,
+      "longitude": 17.570517
+    },
+    {
+      "name": "Zóna B",
+      "latitude": 48.370899,
+      "longitude": 17.568695
+    },
+    {
+      "name": "Zóna R7",
+      "latitude": 48.375779,
+      "longitude": 17.569558
+    },
+    {
+      "name": "Zóna B",
+      "latitude": 48.375236,
+      "longitude": 17.573405
+    },
+    {
+      "name": "Zóna B",
+      "latitude": 48.370052,
+      "longitude": 17.568833
+    },
+    {
+      "name": "Biofarma Príroda",
+      "latitude": 48.30598,
+      "longitude": 17.042598
+    },
+    {
+      "name": "Hochwasserdamm Marchegg",
+      "latitude": 48.27956,
+      "longitude": 16.915473
+    },
+    {
+      "name": "COOP Jednota",
+      "latitude": 48.271837,
+      "longitude": 17.031295
+    },
+    {
+      "name": "Pelzer",
+      "latitude": 48.22683,
+      "longitude": 16.97307
+    },
+    {
+      "name": "OR PZ v Pezinku",
+      "latitude": 48.29241,
+      "longitude": 17.281853
+    },
+    {
+      "name": "Čataj",
+      "latitude": 48.272812,
+      "longitude": 17.463652
+    },
+    {
+      "name": "Čataj",
+      "latitude": 48.274484,
+      "longitude": 17.464102
+    },
+    {
+      "name": "šport. hala",
+      "latitude": 48.434374,
+      "longitude": 17.800599
+    },
+    {
+      "name": "Holiday Inn",
+      "latitude": 48.379263,
+      "longitude": 17.587294
+    },
+    {
+      "name": "Garáž u Kráľa Ľudovíta",
+      "latitude": 48.378748,
+      "longitude": 17.587169
+    },
+    {
+      "name": "Zóna C",
+      "latitude": 48.378932,
+      "longitude": 17.595684
+    },
+    {
+      "name": "Zóna C",
+      "latitude": 48.378901,
+      "longitude": 17.594427
+    },
+    {
+      "name": "Zóna D2",
+      "latitude": 48.371938,
+      "longitude": 17.585282
+    },
+    {
+      "name": "Parkovisko City Aréna",
+      "latitude": 48.373695,
+      "longitude": 17.592324
+    },
+    {
+      "name": "Zóna B",
+      "latitude": 48.373473,
+      "longitude": 17.583909
+    },
+    {
+      "name": "Zóna A",
+      "latitude": 48.376773,
+      "longitude": 17.588112
+    },
+    {
+      "name": "Zóna A",
+      "latitude": 48.381151,
+      "longitude": 17.589414
+    },
+    {
+      "name": "Zóna A",
+      "latitude": 48.380488,
+      "longitude": 17.589431
+    },
+    {
+      "name": "Zóna B",
+      "latitude": 48.382077,
+      "longitude": 17.581731
+    },
+    {
+      "name": "Zóna B",
+      "latitude": 48.382366,
+      "longitude": 17.580334
+    },
+    {
+      "name": "Zóna B",
+      "latitude": 48.382193,
+      "longitude": 17.581007
+    },
+    {
+      "name": "Zóna R3",
+      "latitude": 48.381638,
+      "longitude": 17.592514
+    },
+    {
+      "name": "Zóna R2",
+      "latitude": 48.373542,
+      "longitude": 17.596465
+    },
+    {
+      "name": "Zóna R4",
+      "latitude": 48.375836,
+      "longitude": 17.581424
+    },
+    {
+      "name": "Zóna R4",
+      "latitude": 48.375078,
+      "longitude": 17.582033
+    },
+    {
+      "name": "Zóna R4",
+      "latitude": 48.374233,
+      "longitude": 17.582311
+    },
+    {
+      "name": "Zóna R4",
+      "latitude": 48.37382,
+      "longitude": 17.582764
+    },
+    {
+      "name": "Zóna R4",
+      "latitude": 48.373376,
+      "longitude": 17.582909
+    },
+    {
+      "name": "Zóna R4",
+      "latitude": 48.372963,
+      "longitude": 17.583181
+    },
+    {
+      "name": "Zóna R4",
+      "latitude": 48.372545,
+      "longitude": 17.583467
+    },
+    {
+      "name": "Zóna R4",
+      "latitude": 48.376856,
+      "longitude": 17.580903
+    },
+    {
+      "name": "Zóna R1",
+      "latitude": 48.37157,
+      "longitude": 17.591716
+    },
+    {
+      "name": "Zóna A",
+      "latitude": 48.373151,
+      "longitude": 17.590815
+    },
+    {
+      "name": "Zóna A",
+      "latitude": 48.37364,
+      "longitude": 17.590574
+    },
+    {
+      "name": "Zóna B",
+      "latitude": 48.37332,
+      "longitude": 17.595325
+    },
+    {
+      "name": "Zóna D1",
+      "latitude": 48.372099,
+      "longitude": 17.588778
+    },
+    {
+      "name": "Zóna A",
+      "latitude": 48.379395,
+      "longitude": 17.586226
+    },
+    {
+      "name": "Zóna B",
+      "latitude": 48.382125,
+      "longitude": 17.58424
+    },
+    {
+      "name": "Empark TIR parking",
+      "latitude": 48.343684,
+      "longitude": 17.622487
+    },
+    {
+      "name": "Truckcentrum",
+      "latitude": 48.367286,
+      "longitude": 17.618015
+    },
+    {
+      "name": "Zóna B",
+      "latitude": 48.369389,
+      "longitude": 17.586827
+    },
+    {
+      "name": "Parkovisko Madonan",
+      "latitude": 48.393723,
+      "longitude": 17.80866
+    },
+    {
+      "name": "Cintorín",
+      "latitude": 48.387485,
+      "longitude": 17.877549
+    },
+    {
+      "name": "JLR - parkovisko autobusov",
+      "latitude": 48.346941,
+      "longitude": 18.048772
+    },
+    {
+      "name": "parkovisko JLR",
+      "latitude": 48.345713,
+      "longitude": 18.051708
+    },
+    {
+      "name": "Motorest ESO Parking",
+      "latitude": 48.302284,
+      "longitude": 17.660134
+    },
+    {
+      "name": "Zlatý Kľúčik",
+      "latitude": 48.329262,
+      "longitude": 18.097436
+    },
+    {
+      "name": "Lidl",
+      "latitude": 48.313451,
+      "longitude": 18.082386
+    },
+    {
+      "name": "Parkovisko-Remesloservis",
+      "latitude": 48.312481,
+      "longitude": 18.071247
+    },
+    {
+      "name": "Parkovisko-Hotel Atrium",
+      "latitude": 48.312607,
+      "longitude": 18.087059
+    },
+    {
+      "name": "Parkovisko Capital",
+      "latitude": 48.313532,
+      "longitude": 18.085353
+    },
+    {
+      "name": "U zlatej svini",
+      "latitude": 48.323341,
+      "longitude": 18.095534
+    },
+    {
+      "name": "Ružová cukráreň",
+      "latitude": 48.312719,
+      "longitude": 18.079731
+    },
+    {
+      "name": "Promenada",
+      "latitude": 48.320678,
+      "longitude": 18.092394
+    },
+    {
+      "name": "Župné námestie",
+      "latitude": 48.315504,
+      "longitude": 18.085104
+    },
+    {
+      "name": "Parkovisko Hotel Zobor",
+      "latitude": 48.312584,
+      "longitude": 18.088683
+    },
+    {
+      "name": "Parkovisko DAB",
+      "latitude": 48.314575,
+      "longitude": 18.089847
+    },
+    {
+      "name": "Parkovisko - PKO",
+      "latitude": 48.316018,
+      "longitude": 18.083899
+    },
+    {
+      "name": "Metro",
+      "latitude": 48.321816,
+      "longitude": 18.035331
+    },
+    {
+      "name": "Zlatý Kľúčik",
+      "latitude": 48.32967,
+      "longitude": 18.097027
+    },
+    {
+      "name": "Retail Šindolka",
+      "latitude": 48.333991,
+      "longitude": 18.079885
+    },
+    {
+      "name": "McDonald's",
+      "latitude": 48.325764,
+      "longitude": 18.059645
+    },
+    {
+      "name": "Centro Nitra",
+      "latitude": 48.309729,
+      "longitude": 18.098247
+    },
+    {
+      "name": "Mlyny Nitra",
+      "latitude": 48.307108,
+      "longitude": 18.087031
+    },
+    {
+      "name": "Hájovňa u Hoffera",
+      "latitude": 48.301195,
+      "longitude": 18.089142
+    },
+    {
+      "name": "Zubná poliklinika",
+      "latitude": 48.311967,
+      "longitude": 18.079397
+    },
+    {
+      "name": "ITSK-HS",
+      "latitude": 48.31035,
+      "longitude": 18.088785
+    },
+    {
+      "name": "Parkovisko-Porsche Nitra",
+      "latitude": 48.311805,
+      "longitude": 18.072278
+    },
+    {
+      "name": "Parkovisko Albex Plus",
+      "latitude": 48.294235,
+      "longitude": 18.081144
+    },
+    {
+      "name": "Parkovisko-Polygon",
+      "latitude": 48.304853,
+      "longitude": 18.081363
+    },
+    {
+      "name": "Autohaus - Hinca",
+      "latitude": 48.289078,
+      "longitude": 18.075401
+    },
+    {
+      "name": "Kalvária",
+      "latitude": 48.298988,
+      "longitude": 18.092033
+    },
+    {
+      "name": "Auto Kelly",
+      "latitude": 48.310333,
+      "longitude": 18.063507
+    },
+    {
+      "name": "Dante's",
+      "latitude": 48.296554,
+      "longitude": 18.069272
+    },
+    {
+      "name": "Parkovisko - UKF",
+      "latitude": 48.308294,
+      "longitude": 18.091959
+    },
+    {
+      "name": "Parkovisko - UKF",
+      "latitude": 48.307993,
+      "longitude": 18.091242
+    },
+    {
+      "name": "Fakultná nemocnica Nitra",
+      "latitude": 48.298975,
+      "longitude": 18.083492
+    },
+    {
+      "name": "Parkovisko Family Center",
+      "latitude": 48.301889,
+      "longitude": 18.063647
+    },
+    {
+      "name": "Parkovisko-Mestský úrad",
+      "latitude": 48.30574,
+      "longitude": 18.084452
+    },
+    {
+      "name": "Parkovisko-Mestský úrad",
+      "latitude": 48.305303,
+      "longitude": 18.084247
+    },
+    {
+      "name": "Parkovisko-Mladosť",
+      "latitude": 48.306484,
+      "longitude": 18.087318
+    },
+    {
+      "name": "Parkovisko-Agrokomplex",
+      "latitude": 48.307243,
+      "longitude": 18.099943
+    },
+    {
+      "name": "L&Š",
+      "latitude": 48.294073,
+      "longitude": 18.082625
+    },
+    {
+      "name": "L&Š",
+      "latitude": 48.294417,
+      "longitude": 18.083863
+    },
+    {
+      "name": "McDonald's",
+      "latitude": 48.311099,
+      "longitude": 18.073884
+    },
+    {
+      "name": "Parkovisko-International Transport",
+      "latitude": 48.320645,
+      "longitude": 18.118976
+    },
+    {
+      "name": "Parkovisko Nay",
+      "latitude": 48.316055,
+      "longitude": 18.10651
+    },
+    {
+      "name": "Parkovisko HM Cars",
+      "latitude": 48.278306,
+      "longitude": 18.094809
+    },
+    {
+      "name": "Parkoviště",
+      "latitude": 48.259796,
+      "longitude": 18.104778
+    },
+    {
+      "name": "STK Robson, s.r.o. Nitra",
+      "latitude": 48.282168,
+      "longitude": 18.133026
+    },
+    {
+      "name": "P+R Komisárky",
+      "latitude": 48.216652,
+      "longitude": 17.168561
+    },
+    {
+      "name": "P+R Tesco Lamač",
+      "latitude": 48.176763,
+      "longitude": 17.064431
+    },
+    {
+      "name": "Partizánska lúka",
+      "latitude": 48.174241,
+      "longitude": 17.07407
+    },
+    {
+      "name": "Partizánska lúka",
+      "latitude": 48.175486,
+      "longitude": 17.07342
+    },
+    {
+      "name": "Parking Kramáre",
+      "latitude": 48.167918,
+      "longitude": 17.088977
+    },
+    {
+      "name": "Westend Tower",
+      "latitude": 48.169011,
+      "longitude": 17.074719
+    },
+    {
+      "name": "Parkovisko ŽST Bratislava-Predmestie",
+      "latitude": 48.185109,
+      "longitude": 17.133509
+    },
+    {
+      "name": "Parkovisko Limbová ulica",
+      "latitude": 48.168184,
+      "longitude": 17.089327
+    },
+    {
+      "name": "Parkovisko Račianska 88B",
+      "latitude": 48.18567,
+      "longitude": 17.134237
+    },
+    {
+      "name": "Parkovací dom Kramáre",
+      "latitude": 48.167627,
+      "longitude": 17.091691
+    },
+    {
+      "name": "Parkovisko DPB",
+      "latitude": 48.188883,
+      "longitude": 17.13407
+    },
+    {
+      "name": "Westend Tower",
+      "latitude": 48.16886,
+      "longitude": 17.075612
+    },
+    {
+      "name": "Westend Plazza",
+      "latitude": 48.169589,
+      "longitude": 17.07372
+    },
+    {
+      "name": "modré A",
+      "latitude": 48.16745,
+      "longitude": 17.182339
+    },
+    {
+      "name": "modré B",
+      "latitude": 48.167743,
+      "longitude": 17.18207
+    },
+    {
+      "name": "zelené A",
+      "latitude": 48.166832,
+      "longitude": 17.183863
+    },
+    {
+      "name": "zelené B",
+      "latitude": 48.16638,
+      "longitude": 17.183365
+    },
+    {
+      "name": "zelené C",
+      "latitude": 48.166536,
+      "longitude": 17.183295
+    },
+    {
+      "name": "zelené D",
+      "latitude": 48.166696,
+      "longitude": 17.18326
+    },
+    {
+      "name": "žlté A",
+      "latitude": 48.166888,
+      "longitude": 17.183135
+    },
+    {
+      "name": "žlté B",
+      "latitude": 48.167013,
+      "longitude": 17.183044
+    },
+    {
+      "name": "žlté C",
+      "latitude": 48.167068,
+      "longitude": 17.182738
+    },
+    {
+      "name": "žlté D",
+      "latitude": 48.167342,
+      "longitude": 17.182934
+    },
+    {
+      "name": "modré J",
+      "latitude": 48.166343,
+      "longitude": 17.182519
+    },
+    {
+      "name": "modré G",
+      "latitude": 48.167032,
+      "longitude": 17.181586
+    },
+    {
+      "name": "modré H",
+      "latitude": 48.16681,
+      "longitude": 17.181937
+    },
+    {
+      "name": "modré I",
+      "latitude": 48.166627,
+      "longitude": 17.182252
+    },
+    {
+      "name": "algate.sk",
+      "latitude": 48.176544,
+      "longitude": 17.174789
+    },
+    {
+      "name": "červené 4B",
+      "latitude": 48.167546,
+      "longitude": 17.178693
+    },
+    {
+      "name": "červené 4A",
+      "latitude": 48.167313,
+      "longitude": 17.178936
+    },
+    {
+      "name": "P2",
+      "latitude": 48.17088,
+      "longitude": 17.198567
+    },
+    {
+      "name": "A-TEAM Parking",
+      "latitude": 48.183189,
+      "longitude": 17.178399
+    },
+    {
+      "name": "GAT",
+      "latitude": 48.170811,
+      "longitude": 17.200816
+    },
+    {
+      "name": "Avokado Parking",
+      "latitude": 48.171415,
+      "longitude": 17.189356
+    },
+    {
+      "name": "Dornyk",
+      "latitude": 48.166943,
+      "longitude": 17.173901
+    },
+    {
+      "name": "Autodiely Turza",
+      "latitude": 48.172763,
+      "longitude": 17.173702
+    },
+    {
+      "name": "Parkovanie Letisko",
+      "latitude": 48.173171,
+      "longitude": 17.173423
+    },
+    {
+      "name": "Skanska parking",
+      "latitude": 48.179533,
+      "longitude": 17.174878
+    },
+    {
+      "name": "Parkovanie pri letisku - MONTI",
+      "latitude": 48.170544,
+      "longitude": 17.183842
+    },
+    {
+      "name": "P1",
+      "latitude": 48.170329,
+      "longitude": 17.19972
+    },
+    {
+      "name": "P+R Shopping Palace & Tesco",
+      "latitude": 48.187062,
+      "longitude": 17.177185
+    },
+    {
+      "name": "TatraCentrum",
+      "latitude": 48.148698,
+      "longitude": 17.109605
+    },
+    {
+      "name": "Garáž Mamut",
+      "latitude": 48.147198,
+      "longitude": 17.120622
+    },
+    {
+      "name": "Garáž City",
+      "latitude": 48.145991,
+      "longitude": 17.103238
+    },
+    {
+      "name": "Garáž Opera",
+      "latitude": 48.142206,
+      "longitude": 17.111313
+    },
+    {
+      "name": "Podzemná garáž Krížna",
+      "latitude": 48.15317,
+      "longitude": 17.122472
+    },
+    {
+      "name": "URBAN parking",
+      "latitude": 48.162419,
+      "longitude": 17.124997
+    },
+    {
+      "name": "Garáž Staré mesto",
+      "latitude": 48.142317,
+      "longitude": 17.113431
+    },
+    {
+      "name": "Nová Mýtna",
+      "latitude": 48.155538,
+      "longitude": 17.118362
+    },
+    {
+      "name": "Garáž Centrum",
+      "latitude": 48.144938,
+      "longitude": 17.108826
+    },
+    {
+      "name": "Garage Konventná",
+      "latitude": 48.146905,
+      "longitude": 17.104249
+    },
+    {
+      "name": "Nivy",
+      "latitude": 48.147145,
+      "longitude": 17.129253
+    },
+    {
+      "name": "Nivy",
+      "latitude": 48.1467,
+      "longitude": 17.12979
+    },
+    {
+      "name": "Garáže Slovenský rozhlas",
+      "latitude": 48.154492,
+      "longitude": 17.111957
+    },
+    {
+      "name": "Garáž Hrad",
+      "latitude": 48.142847,
+      "longitude": 17.100704
+    },
+    {
+      "name": "PREMIÉRE",
+      "latitude": 48.157142,
+      "longitude": 17.115005
+    },
+    {
+      "name": "Parkovisko Istropolis",
+      "latitude": 48.158661,
+      "longitude": 17.126329
+    },
+    {
+      "name": "P+R Lanfranconi-Sever",
+      "latitude": 48.145346,
+      "longitude": 17.075817
+    },
+    {
+      "name": "Osobný prístav",
+      "latitude": 48.139903,
+      "longitude": 17.11438
+    },
+    {
+      "name": "Parkovisko Gondová",
+      "latitude": 48.140518,
+      "longitude": 17.116649
+    },
+    {
+      "name": "Parkovisko Konventná / Staromestská ulica",
+      "latitude": 48.146958,
+      "longitude": 17.104684
+    },
+    {
+      "name": "P+R Lanfranconi-Sever",
+      "latitude": 48.147406,
+      "longitude": 17.076109
+    },
+    {
+      "name": "Parkovisko Hlavná stanica",
+      "latitude": 48.157643,
+      "longitude": 17.106299
+    },
+    {
+      "name": "Garážový dom DOAS",
+      "latitude": 48.151745,
+      "longitude": 17.136707
+    },
+    {
+      "name": "Parkovisko CBC 5",
+      "latitude": 48.151275,
+      "longitude": 17.126113
+    },
+    {
+      "name": "Onkologický ústav sv. Alžbety",
+      "latitude": 48.146099,
+      "longitude": 17.113214
+    },
+    {
+      "name": "Nová tržnica",
+      "latitude": 48.157505,
+      "longitude": 17.125478
+    },
+    {
+      "name": "Odstavná plocha Filiálka",
+      "latitude": 48.159126,
+      "longitude": 17.12505
+    },
+    {
+      "name": "Parkovisko CBC I-II",
+      "latitude": 48.148204,
+      "longitude": 17.125575
+    },
+    {
+      "name": "Parkovisko Družba",
+      "latitude": 48.147547,
+      "longitude": 17.069021
+    },
+    {
+      "name": "Parkovisko DPB",
+      "latitude": 48.141758,
+      "longitude": 17.121422
+    },
+    {
+      "name": "IPP Park Hrad",
+      "latitude": 48.142528,
+      "longitude": 17.098049
+    },
+    {
+      "name": "Miletičova 60",
+      "latitude": 48.152176,
+      "longitude": 17.13709
+    },
+    {
+      "name": "modré K",
+      "latitude": 48.166078,
+      "longitude": 17.182762
+    },
+    {
+      "name": "modré L",
+      "latitude": 48.165874,
+      "longitude": 17.182931
+    },
+    {
+      "name": "modré M",
+      "latitude": 48.165726,
+      "longitude": 17.183179
+    },
+    {
+      "name": "Bratislava Business Center I Plus",
+      "latitude": 48.146711,
+      "longitude": 17.1433
+    },
+    {
+      "name": "City Park Ružinov",
+      "latitude": 48.146547,
+      "longitude": 17.143449
+    },
+    {
+      "name": "Apollo II",
+      "latitude": 48.145782,
+      "longitude": 17.13908
+    },
+    {
+      "name": "P+R Cintorín Vrakuňa",
+      "latitude": 48.143254,
+      "longitude": 17.190806
+    },
+    {
+      "name": "Hromadné garáže Lotyšská",
+      "latitude": 48.13831,
+      "longitude": 17.199749
+    },
+    {
+      "name": "Parkovací dom Plynárenská",
+      "latitude": 48.146525,
+      "longitude": 17.14207
+    },
+    {
+      "name": "Nemocnica Ružinov",
+      "latitude": 48.156303,
+      "longitude": 17.151897
+    },
+    {
+      "name": "BRICK PARKING",
+      "latitude": 48.161119,
+      "longitude": 17.13915
+    },
+    {
+      "name": "Parkovací dom",
+      "latitude": 48.164291,
+      "longitude": 17.145851
+    },
+    {
+      "name": "M2 Parking - Park & ​​Fly",
+      "latitude": 48.163906,
+      "longitude": 17.185259
+    },
+    {
+      "name": "P+R Prístavný most",
+      "latitude": 48.141178,
+      "longitude": 17.148836
+    },
+    {
+      "name": "Relaxx Garáž 1",
+      "latitude": 48.13085,
+      "longitude": 17.115132
+    },
+    {
+      "name": "Relaxx Garáž 2",
+      "latitude": 48.130842,
+      "longitude": 17.116102
+    },
+    {
+      "name": "Vienna Gate",
+      "latitude": 48.121636,
+      "longitude": 17.097379
+    },
+    {
+      "name": "P+R Incheba",
+      "latitude": 48.134476,
+      "longitude": 17.103852
+    },
+    {
+      "name": "P+R Macharova",
+      "latitude": 48.126777,
+      "longitude": 17.105953
+    },
+    {
+      "name": "Parkovisko Tyršák 1",
+      "latitude": 48.135433,
+      "longitude": 17.116066
+    },
+    {
+      "name": "Parkovisko Tyršák 2",
+      "latitude": 48.136315,
+      "longitude": 17.115121
+    },
+    {
+      "name": "Parkovisko Černyševského",
+      "latitude": 48.130278,
+      "longitude": 17.116706
+    },
+    {
+      "name": "Parkovisko Röntgenova",
+      "latitude": 48.128187,
+      "longitude": 17.104129
+    },
+    {
+      "name": "P+R Tesco Petržalka",
+      "latitude": 48.110532,
+      "longitude": 17.097956
+    },
+    {
+      "name": "Korytnická",
+      "latitude": 48.131015,
+      "longitude": 17.208033
+    },
+    {
+      "name": "Korytnická",
+      "latitude": 48.130671,
+      "longitude": 17.20725
+    },
+    {
+      "name": "Máchova",
+      "latitude": 48.131587,
+      "longitude": 17.209803
+    },
+    {
+      "name": "Korytnická",
+      "latitude": 48.131344,
+      "longitude": 17.208848
+    },
+    {
+      "name": "P+R Bernolákovo",
+      "latitude": 48.197904,
+      "longitude": 17.307978
+    },
+    {
+      "name": "P+R Veľký Biel",
+      "latitude": 48.206853,
+      "longitude": 17.361853
+    },
+    {
+      "name": "P+R Veľký Biel /ND/",
+      "latitude": 48.204787,
+      "longitude": 17.362653
+    },
+    {
+      "name": "P+R Ivanka pri Dunaji /A/",
+      "latitude": 48.194728,
+      "longitude": 17.260998
+    },
+    {
+      "name": "P+R Ivanka pri Dunaji /B/",
+      "latitude": 48.195215,
+      "longitude": 17.258366
+    },
+    {
+      "name": "P+R Senec",
+      "latitude": 48.213483,
+      "longitude": 17.411622
+    },
+    {
+      "name": "Južná pláž",
+      "latitude": 48.213838,
+      "longitude": 17.412282
+    },
+    {
+      "name": "P+R Reca",
+      "latitude": 48.219952,
+      "longitude": 17.454586
+    },
+    {
+      "name": "P+R Senec",
+      "latitude": 48.213404,
+      "longitude": 17.410006
+    },
+    {
+      "name": "P+R Pusté Úľany",
+      "latitude": 48.208384,
+      "longitude": 17.543888
+    },
+    {
+      "name": "P+R Kittsee",
+      "latitude": 48.081732,
+      "longitude": 17.071317
+    },
+    {
+      "name": "Nemocnica svätého Cyrila a Metoda",
+      "latitude": 48.100897,
+      "longitude": 17.116334
+    },
+    {
+      "name": "Nemocnica svätého Cyrila a Metoda",
+      "latitude": 48.100583,
+      "longitude": 17.118202
+    },
+    {
+      "name": "P1",
+      "latitude": 48.087339,
+      "longitude": 17.124663
+    },
+    {
+      "name": "P+R Jasovská",
+      "latitude": 48.094492,
+      "longitude": 17.114465
+    },
+    {
+      "name": "Truck parking D4 - sever",
+      "latitude": 48.09514,
+      "longitude": 17.208396
+    },
+    {
+      "name": "Truck parking D4 - juh",
+      "latitude": 48.094925,
+      "longitude": 17.214462
+    },
+    {
+      "name": "Parkovisko pri hrádzi",
+      "latitude": 48.069055,
+      "longitude": 17.143128
+    },
+    {
+      "name": "Paddock",
+      "latitude": 48.054857,
+      "longitude": 17.570824
+    },
+    {
+      "name": "Parkovisko Gurmán",
+      "latitude": 48.039604,
+      "longitude": 17.249528
+    },
+    {
+      "name": "Parkovisko - Pošta",
+      "latitude": 48.203958,
+      "longitude": 17.640215
+    },
+    {
+      "name": "Parkovisko pri Obecnom Úrade",
+      "latitude": 48.172385,
+      "longitude": 17.662671
+    },
+    {
+      "name": "Truck parking",
+      "latitude": 48.105454,
+      "longitude": 17.686132
+    },
+    {
+      "name": "Námestie Ármina Vámbéryho",
+      "latitude": 47.992965,
+      "longitude": 17.616742
+    },
+    {
+      "name": "COOP Jednota",
+      "latitude": 48.041896,
+      "longitude": 18.264459
+    },
+    {
+      "name": "Zámok Topoľčianky",
+      "latitude": 48.42063,
+      "longitude": 18.413615
+    },
+    {
+      "name": "Hotel ViOn",
+      "latitude": 48.397975,
+      "longitude": 18.40417
+    },
+    {
+      "name": "Parkovisko pred poliklinikou",
+      "latitude": 48.384768,
+      "longitude": 18.399213
+    },
+    {
+      "name": "Parkovisko SOŠ Polytechnická",
+      "latitude": 48.382087,
+      "longitude": 18.398339
+    },
+    {
+      "name": "Parkovisko ZUBOR",
+      "latitude": 48.354427,
+      "longitude": 18.484303
+    },
+    {
+      "name": "Free parking for buses",
+      "latitude": 48.443179,
+      "longitude": 18.915296
+    },
+    {
+      "name": "Autocamp Počúvadlo",
+      "latitude": 48.410749,
+      "longitude": 18.857285
+    },
+    {
+      "name": "Parkovanie na Sitno",
+      "latitude": 48.401494,
+      "longitude": 18.90263
+    },
+    {
+      "name": "P5",
+      "latitude": 48.266487,
+      "longitude": 18.452919
+    },
+    {
+      "name": "P8",
+      "latitude": 48.265161,
+      "longitude": 18.452335
+    },
+    {
+      "name": "P7",
+      "latitude": 48.265978,
+      "longitude": 18.45126
+    },
+    {
+      "name": "Parkovisko Rúbanisko III",
+      "latitude": 48.337246,
+      "longitude": 19.645145
+    },
+    {
+      "name": "Parkovisko Cent",
+      "latitude": 48.337464,
+      "longitude": 19.644609
+    },
+    {
+      "name": "Parkovisko-ELIT",
+      "latitude": 48.223091,
+      "longitude": 18.599878
+    },
+    {
+      "name": "Parkovisko pred športovou halou",
+      "latitude": 48.220928,
+      "longitude": 18.597218
+    },
+    {
+      "name": "Parkovisko nad Družbou",
+      "latitude": 48.221225,
+      "longitude": 18.60923
+    },
+    {
+      "name": "Parkovisko pri Juniore",
+      "latitude": 48.214443,
+      "longitude": 18.603004
+    },
+    {
+      "name": "Parkovisko POLIKLINIKA",
+      "latitude": 48.22335,
+      "longitude": 18.615197
+    },
+    {
+      "name": "Parkovisko-Loguma",
+      "latitude": 48.210017,
+      "longitude": 18.592678
+    },
+    {
+      "name": "Parkovisko ZF",
+      "latitude": 48.187765,
+      "longitude": 18.603157
+    },
+    {
+      "name": "Parkovisko Margita-Ilona",
+      "latitude": 48.188587,
+      "longitude": 18.666022
+    },
+    {
+      "name": "TIR",
+      "latitude": 48.086629,
+      "longitude": 19.300605
+    },
+    {
+      "name": "Vendégparkoló",
+      "latitude": 48.080777,
+      "longitude": 19.290382
+    },
+    {
+      "name": "HS-EX",
+      "latitude": 48.764113,
+      "longitude": 20.989465
+    },
+    {
+      "name": "Parkovisko pri studničke",
+      "latitude": 48.724665,
+      "longitude": 20.770911
+    },
+    {
+      "name": "Parkovisko Jasovská jaskyňa",
+      "latitude": 48.678752,
+      "longitude": 20.976778
+    },
+    {
+      "name": "Koinonia Ján Krstiteľ",
+      "latitude": 48.738006,
+      "longitude": 21.123934
+    },
+    {
+      "name": "Parkovisko ZERO",
+      "latitude": 48.727242,
+      "longitude": 21.260824
+    },
+    {
+      "name": "Ambassador",
+      "latitude": 48.725106,
+      "longitude": 21.256954
+    },
+    {
+      "name": "Jumbo Centrum",
+      "latitude": 48.728665,
+      "longitude": 21.257789
+    },
+    {
+      "name": "Parkovisko Golden Royal",
+      "latitude": 48.725192,
+      "longitude": 21.259956
+    },
+    {
+      "name": "Parkovisko pre študentov TUKE",
+      "latitude": 48.733736,
+      "longitude": 21.243243
+    },
+    {
+      "name": "Autovlak",
+      "latitude": 48.729657,
+      "longitude": 21.264775
+    },
+    {
+      "name": "Gloria Palac",
+      "latitude": 48.718231,
+      "longitude": 21.261922
+    },
+    {
+      "name": "Parkovací dom hotela DoubleTree",
+      "latitude": 48.717983,
+      "longitude": 21.260849
+    },
+    {
+      "name": "Steel aréna - parkovací dom",
+      "latitude": 48.713809,
+      "longitude": 21.246926
+    },
+    {
+      "name": "P3",
+      "latitude": 48.706397,
+      "longitude": 21.248536
+    },
+    {
+      "name": "P1",
+      "latitude": 48.706136,
+      "longitude": 21.247253
+    },
+    {
+      "name": "Kilo",
+      "latitude": 48.714319,
+      "longitude": 21.256848
+    },
+    {
+      "name": "ČSOB clients parking",
+      "latitude": 48.716937,
+      "longitude": 21.263091
+    },
+    {
+      "name": "Parkovací dom OC Galéria",
+      "latitude": 48.71514,
+      "longitude": 21.237604
+    },
+    {
+      "name": "P2",
+      "latitude": 48.707688,
+      "longitude": 21.247664
+    },
+    {
+      "name": "Študentské parkovisko TUKE",
+      "latitude": 48.735517,
+      "longitude": 21.270585
+    },
+    {
+      "name": "Štefánikova",
+      "latitude": 48.754484,
+      "longitude": 21.912511
+    },
+    {
+      "name": "Duklianska",
+      "latitude": 48.756426,
+      "longitude": 21.915099
+    },
+    {
+      "name": "Sama Chalupku",
+      "latitude": 48.754926,
+      "longitude": 21.916101
+    },
+    {
+      "name": "Námestie Jána Pavla II.",
+      "latitude": 48.764881,
+      "longitude": 21.926549
+    },
+    {
+      "name": "P1",
+      "latitude": 48.673175,
+      "longitude": 21.23684
+    },
+    {
+      "name": "P2",
+      "latitude": 48.672419,
+      "longitude": 21.236712
+    },
+    {
+      "name": "P3",
+      "latitude": 48.672962,
+      "longitude": 21.235482
+    },
+    {
+      "name": "O2",
+      "latitude": 48.624827,
+      "longitude": 21.189856
+    },
+    {
+      "name": "Odstavná plocha",
+      "latitude": 48.625681,
+      "longitude": 21.190944
+    },
+    {
+      "name": "O1",
+      "latitude": 48.62415,
+      "longitude": 21.188016
+    },
+    {
+      "name": "Elektroconnect s.r.o",
+      "latitude": 48.635976,
+      "longitude": 21.714131
+    },
+    {
+      "name": "Várparkoló",
+      "latitude": 48.545557,
+      "longitude": 21.461451
+    },
+    {
+      "name": "Parkovisko penziónu",
+      "latitude": 48.551272,
+      "longitude": 22.08352
+    },
+    {
+      "name": "Parkovisko hotela",
+      "latitude": 48.551096,
+      "longitude": 22.084137
+    },
+    {
+      "name": "Parkovisko u Cintorína",
+      "latitude": 48.386655,
+      "longitude": 20.029671
+    },
+    {
+      "name": "Parkovisko - Autobusová stanica",
+      "latitude": 48.272986,
+      "longitude": 19.827596
+    },
+    {
+      "name": "Obchodné Centrum Fiľakovo",
+      "latitude": 48.262486,
+      "longitude": 19.824635
+    },
+    {
+      "name": "Parkoló",
+      "latitude": 48.09965,
+      "longitude": 19.833844
+    },
+    {
+      "name": "Parkoló",
+      "latitude": 48.09955,
+      "longitude": 19.832675
+    },
+    {
+      "name": "Fortune",
+      "latitude": 47.98573,
+      "longitude": 17.608382
+    },
+    {
+      "name": "COOP Jednota",
+      "latitude": 47.9821,
+      "longitude": 18.157272
+    },
+    {
+      "name": "Mono-Ipolyfabric Kft. Parkoló",
+      "latitude": 47.932261,
+      "longitude": 18.776364
+    },
+    {
+      "name": "Parking Aquario",
+      "latitude": 47.798665,
+      "longitude": 18.715278
+    },
+    {
+      "name": "Prímási Palota parkoló",
+      "latitude": 47.797753,
+      "longitude": 18.734475
+    },
+    {
+      "name": "kúpalisko Patince",
+      "latitude": 47.743859,
+      "longitude": 18.310094
+    }
+  ],
+  "meta": {
+    "title": "Parkoviská - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (amenity=parking). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84. Obsahuje 537 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Parkoviská | ListBase",
+    "seo_description": "Stiahnuť Parkoviská — 537 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 537 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

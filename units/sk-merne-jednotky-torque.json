@@ -1,0 +1,79 @@
+{
+  "id": "sk-merne-jednotky-torque",
+  "name": "Merné jednotky — kategória 'torque' (2)",
+  "title": "Merné jednotky — kategória 'torque' (2)",
+  "description": "Merné jednotky kategórie 'torque' z locale sk v CLDR, s názvami v slovenčine.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "skratka",
+      "label": "Skratka",
+      "type": "string"
+    },
+    {
+      "key": "uzky_tvar",
+      "label": "Uzky Tvar",
+      "type": "string"
+    },
+    {
+      "key": "vzor",
+      "label": "Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "torque-newton-meter",
+      "kategoria": "torque",
+      "nazov": "newtonmetre",
+      "skratka": "Nm",
+      "uzky_tvar": "Nm",
+      "vzor": "{0} newtonmetrov"
+    },
+    {
+      "id": 2,
+      "unit_code": "torque-pound-force-foot",
+      "kategoria": "torque",
+      "nazov": "librostopy",
+      "skratka": "lbf⋅ft",
+      "uzky_tvar": "lbf⋅ft",
+      "vzor": "{0} librostôp"
+    }
+  ],
+  "meta": {
+    "title": "Merné jednotky — kategória 'torque' (2) - Bezplatné stiahnutie",
+    "description": "Merné jednotky kategórie 'torque' z locale sk v CLDR, s názvami v slovenčine. Obsahuje 2 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Merné jednotky — kategória 'torque' (2) | ListBase",
+    "seo_description": "Stiahnuť Merné jednotky — kategória 'torque' (2) — 2 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 2 záznamov / 7 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

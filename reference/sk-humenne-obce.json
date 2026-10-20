@@ -1,0 +1,686 @@
+{
+  "id": "sk-humenne-obce",
+  "name": "Obce v okrese Humenné",
+  "title": "Obce v okrese Humenné",
+  "description": "Všetky obce (municipality) v okrese Humenné, Prešovský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 9,
+      "fullname": "Adidovce",
+      "shortname": "Adidovce",
+      "zip": "067 32",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 88,
+      "fullname": "Baškovce",
+      "shortname": "Baškovce",
+      "zip": "067 23",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 265,
+      "fullname": "Brekov",
+      "shortname": "Brekov",
+      "zip": "066 01",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 267,
+      "fullname": "Brestov",
+      "shortname": "Brestov",
+      "zip": "066 01",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1166,
+      "fullname": "Chlmec",
+      "shortname": "Chlmec",
+      "zip": "067 41",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 526,
+      "fullname": "Dedačov",
+      "shortname": "Dedačov",
+      "zip": "067 12",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 858,
+      "fullname": "Gruzovce",
+      "shortname": "Gruzovce",
+      "zip": "067 22",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 893,
+      "fullname": "Hankovce",
+      "shortname": "Hankovce",
+      "zip": "067 12",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 911,
+      "fullname": "Hažín nad Cirochou",
+      "shortname": "Hažín nad Cirochou",
+      "zip": "067 83",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1076,
+      "fullname": "Hrabovec nad Laborcom",
+      "shortname": "Hrabovec n/ Laborcom",
+      "zip": "067 01",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1126,
+      "fullname": "Hrubov",
+      "shortname": "Hrubov",
+      "zip": "067 23",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1142,
+      "fullname": "Hudcovce",
+      "shortname": "Hudcovce",
+      "zip": "067 45",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1144,
+      "fullname": "Humenné",
+      "shortname": "Humenné",
+      "zip": "066 01",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1239,
+      "fullname": "Jabloň",
+      "shortname": "Jabloň",
+      "zip": "067 13",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1274,
+      "fullname": "Jankovce",
+      "shortname": "Jankovce",
+      "zip": "067 24",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1293,
+      "fullname": "Jasenov",
+      "shortname": "Jasenov",
+      "zip": "066 01",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1371,
+      "fullname": "Kamenica nad Cirochou",
+      "shortname": "Kamenica n/Cirochou",
+      "zip": "067 83",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1383,
+      "fullname": "Kamienka",
+      "shortname": "Kamienka",
+      "zip": "067 83",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1396,
+      "fullname": "Karná",
+      "shortname": "Karná",
+      "zip": "067 45",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1477,
+      "fullname": "Kochanovce",
+      "shortname": "Kochanovce",
+      "zip": "066 01",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1561,
+      "fullname": "Košarovce",
+      "shortname": "Košarovce",
+      "zip": "094 06",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1593,
+      "fullname": "Koškovce",
+      "shortname": "Koškovce",
+      "zip": "067 12",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1765,
+      "fullname": "Lackovce",
+      "shortname": "Lackovce",
+      "zip": "066 01",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1848,
+      "fullname": "Lieskovec",
+      "shortname": "Lieskovec",
+      "zip": "067 45",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1966,
+      "fullname": "Lukačovce",
+      "shortname": "Lukačovce",
+      "zip": "067 24",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2131,
+      "fullname": "Maškovce",
+      "shortname": "Maškovce",
+      "zip": "067 32",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2230,
+      "fullname": "Modra nad Cirochou",
+      "shortname": "Modra nad Cirochou",
+      "zip": "067 82",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2284,
+      "fullname": "Myslina",
+      "shortname": "Myslina",
+      "zip": "066 01",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2309,
+      "fullname": "Nechválova Polianka",
+      "shortname": "Nechválova Polianka",
+      "zip": "067 33",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2349,
+      "fullname": "Nižná Jablonka",
+      "shortname": "Nižná Jablonka",
+      "zip": "067 34",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2361,
+      "fullname": "Nižná Sitnica",
+      "shortname": "Nižná Sitnica",
+      "zip": "094 07",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2368,
+      "fullname": "Nižné Ladičkovce",
+      "shortname": "Nižné Ladičkovce",
+      "zip": "067 11",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2463,
+      "fullname": "Ohradzany",
+      "shortname": "Ohradzany",
+      "zip": "067 22",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2566,
+      "fullname": "Pakostov",
+      "shortname": "Pakostov",
+      "zip": "094 07",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2577,
+      "fullname": "Papín",
+      "shortname": "Papín",
+      "zip": "067 33",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2773,
+      "fullname": "Porúbka",
+      "shortname": "Porúbka",
+      "zip": "067 41",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2851,
+      "fullname": "Prituľany",
+      "shortname": "Prituľany",
+      "zip": "094 08",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2867,
+      "fullname": "Ptičie",
+      "shortname": "Ptičie",
+      "zip": "067 41",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2988,
+      "fullname": "Rohožník",
+      "shortname": "Rohožník",
+      "zip": "094 07",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2994,
+      "fullname": "Rokytov pri Humennom",
+      "shortname": "Rokytov pri Humennom",
+      "zip": "067 13",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3004,
+      "fullname": "Rovné",
+      "shortname": "Rovné",
+      "zip": "067 32",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3038,
+      "fullname": "Ruská Kajňa",
+      "shortname": "Ruská Kajňa",
+      "zip": "094 07",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3040,
+      "fullname": "Ruská Poruba",
+      "shortname": "Ruská Poruba",
+      "zip": "094 08",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3191,
+      "fullname": "Slovenská Volová",
+      "shortname": "Slovenská Volová",
+      "zip": "067 22",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3194,
+      "fullname": "Slovenské Krivé",
+      "shortname": "Slovenské Krivé",
+      "zip": "067 13",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3237,
+      "fullname": "Sopkovce",
+      "shortname": "Sopkovce",
+      "zip": "067 22",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3564,
+      "fullname": "Topoľovka",
+      "shortname": "Topoľovka",
+      "zip": "067 45",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3631,
+      "fullname": "Turcovce",
+      "shortname": "Turcovce",
+      "zip": "067 23",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3669,
+      "fullname": "Udavské",
+      "shortname": "Udavské",
+      "zip": "067 31",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3708,
+      "fullname": "Valaškovce",
+      "shortname": "Valaškovce",
+      "zip": "066 01",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3843,
+      "fullname": "Veľopolie",
+      "shortname": "Veľopolie",
+      "zip": "067 31",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3983,
+      "fullname": "Vyšná Jablonka",
+      "shortname": "Vyšná Jablonka",
+      "zip": "067 34",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3995,
+      "fullname": "Vyšná Sitnica",
+      "shortname": "Vyšná Sitnica",
+      "zip": "094 07",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4001,
+      "fullname": "Vyšné Ladičkovce",
+      "shortname": "Vyšné Ladičkovce",
+      "zip": "067 11",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4013,
+      "fullname": "Vyšný Hrušov",
+      "shortname": "Vyšný Hrušov",
+      "zip": "067 32",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3888,
+      "fullname": "Víťazovce",
+      "shortname": "Víťazovce",
+      "zip": "067 24",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4099,
+      "fullname": "Zbudské Dlhé",
+      "shortname": "Zbudské Dlhé",
+      "zip": "067 12",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4150,
+      "fullname": "Zubné",
+      "shortname": "Zubné",
+      "zip": "067 33",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4072,
+      "fullname": "Závada",
+      "shortname": "Závada",
+      "zip": "094 08",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4078,
+      "fullname": "Závadka",
+      "shortname": "Závadka",
+      "zip": "066 01",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 460,
+      "fullname": "Černina",
+      "shortname": "Černina",
+      "zip": "067 23",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1936,
+      "fullname": "Ľubiša",
+      "shortname": "Ľubiša",
+      "zip": "067 11",
+      "district_id": 19,
+      "okres": "Humenné",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Humenné - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Humenné, Prešovský kraj — s PSČ a kódom okresu. Obsahuje 62 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Humenné | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Humenné — 62 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 62 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

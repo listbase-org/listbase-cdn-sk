@@ -1,0 +1,1391 @@
+{
+  "id": "sk-zeleziarstva",
+  "name": "Slovenské železiarstva",
+  "title": "Slovenské železiarstva",
+  "description": "Zoznam pomenovaných železiarstiev na Slovensku (shop=hardware) z OpenStreetMap.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 270,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "AG náradie",
+      "latitude": 48.591088,
+      "longitude": 17.819282
+    },
+    {
+      "name": "Alezar",
+      "latitude": 48.726018,
+      "longitude": 21.275053
+    },
+    {
+      "name": "Altan",
+      "latitude": 48.910629,
+      "longitude": 20.874292
+    },
+    {
+      "name": "Anakra",
+      "latitude": 47.990257,
+      "longitude": 18.167597
+    },
+    {
+      "name": "Apko",
+      "latitude": 48.773576,
+      "longitude": 18.615181
+    },
+    {
+      "name": "Asken",
+      "latitude": 49.123796,
+      "longitude": 18.325849
+    },
+    {
+      "name": "AZ Stroj",
+      "latitude": 48.170507,
+      "longitude": 17.181253
+    },
+    {
+      "name": "B&D Profix",
+      "latitude": 48.432787,
+      "longitude": 17.02383
+    },
+    {
+      "name": "Bau-Mix",
+      "latitude": 49.340232,
+      "longitude": 19.56607
+    },
+    {
+      "name": "BBB TRIBE",
+      "latitude": 49.105887,
+      "longitude": 21.502956
+    },
+    {
+      "name": "Be & Ba",
+      "latitude": 47.800331,
+      "longitude": 18.713544
+    },
+    {
+      "name": "Betis",
+      "latitude": 48.147589,
+      "longitude": 17.179642
+    },
+    {
+      "name": "Billik Nitra",
+      "latitude": 48.289857,
+      "longitude": 18.092617
+    },
+    {
+      "name": "Bizam",
+      "latitude": 48.151211,
+      "longitude": 17.139054
+    },
+    {
+      "name": "Bonmax",
+      "latitude": 48.758803,
+      "longitude": 17.831034
+    },
+    {
+      "name": "Brahama",
+      "latitude": 48.999614,
+      "longitude": 21.232749
+    },
+    {
+      "name": "Brakl & Syn",
+      "latitude": 48.18929,
+      "longitude": 17.13753
+    },
+    {
+      "name": "Bytox",
+      "latitude": 49.066088,
+      "longitude": 20.282208
+    },
+    {
+      "name": "bytservis UM",
+      "latitude": 48.679601,
+      "longitude": 17.363885
+    },
+    {
+      "name": "Búran",
+      "latitude": 48.28649,
+      "longitude": 18.086489
+    },
+    {
+      "name": "Cameo",
+      "latitude": 48.739573,
+      "longitude": 21.25523
+    },
+    {
+      "name": "Centroglob",
+      "latitude": 48.725406,
+      "longitude": 21.275576
+    },
+    {
+      "name": "construct",
+      "latitude": 48.317635,
+      "longitude": 19.670626
+    },
+    {
+      "name": "D.M.P. STEEL",
+      "latitude": 48.168063,
+      "longitude": 17.12699
+    },
+    {
+      "name": "Dintech",
+      "latitude": 48.748587,
+      "longitude": 17.563537
+    },
+    {
+      "name": "Domáce potreby",
+      "latitude": 48.158861,
+      "longitude": 17.155234
+    },
+    {
+      "name": "Domáce potreby A-Z",
+      "latitude": 47.993978,
+      "longitude": 17.618571
+    },
+    {
+      "name": "Drevodom Orava s.r.o.",
+      "latitude": 49.000278,
+      "longitude": 21.210931
+    },
+    {
+      "name": "Dynamik",
+      "latitude": 48.277879,
+      "longitude": 18.095174
+    },
+    {
+      "name": "Elast Železiarstvo",
+      "latitude": 48.355334,
+      "longitude": 19.066583
+    },
+    {
+      "name": "Elektro svietidlá",
+      "latitude": 48.355127,
+      "longitude": 19.066699
+    },
+    {
+      "name": "Elektroinštalačný materiál",
+      "latitude": 48.145045,
+      "longitude": 17.332964
+    },
+    {
+      "name": "Emokov",
+      "latitude": 48.384472,
+      "longitude": 18.394738
+    },
+    {
+      "name": "ENTO",
+      "latitude": 48.173515,
+      "longitude": 17.153665
+    },
+    {
+      "name": "Ento",
+      "latitude": 48.190048,
+      "longitude": 17.032795
+    },
+    {
+      "name": "ERIO",
+      "latitude": 48.368429,
+      "longitude": 17.586266
+    },
+    {
+      "name": "ERIO s.r.o.",
+      "latitude": 48.281985,
+      "longitude": 18.090228
+    },
+    {
+      "name": "FACH Partner",
+      "latitude": 48.979513,
+      "longitude": 21.273866
+    },
+    {
+      "name": "Fachman & Tesár",
+      "latitude": 48.569965,
+      "longitude": 18.865932
+    },
+    {
+      "name": "Fachman group",
+      "latitude": 48.775491,
+      "longitude": 18.606725
+    },
+    {
+      "name": "FERITHERM, plyn, voda, kúrenie",
+      "latitude": 48.388682,
+      "longitude": 18.391135
+    },
+    {
+      "name": "FEROMAX s.r.o.",
+      "latitude": 48.183023,
+      "longitude": 17.169031
+    },
+    {
+      "name": "Ferona",
+      "latitude": 48.2678,
+      "longitude": 18.09283
+    },
+    {
+      "name": "Ferro Centrum",
+      "latitude": 48.324291,
+      "longitude": 18.042434
+    },
+    {
+      "name": "Ferro Vill",
+      "latitude": 48.026949,
+      "longitude": 17.948488
+    },
+    {
+      "name": "Fragokov - export, v. d.",
+      "latitude": 48.976479,
+      "longitude": 21.244104
+    },
+    {
+      "name": "Gufero",
+      "latitude": 48.579888,
+      "longitude": 19.122589
+    },
+    {
+      "name": "Gálik & Veselý",
+      "latitude": 48.118412,
+      "longitude": 17.110289
+    },
+    {
+      "name": "Hammer",
+      "latitude": 49.397841,
+      "longitude": 18.852017
+    },
+    {
+      "name": "Hamo",
+      "latitude": 48.447698,
+      "longitude": 17.764499
+    },
+    {
+      "name": "Hanke",
+      "latitude": 48.722108,
+      "longitude": 18.257559
+    },
+    {
+      "name": "Hansa Flex",
+      "latitude": 48.738351,
+      "longitude": 21.273666
+    },
+    {
+      "name": "Hartes SK",
+      "latitude": 48.892112,
+      "longitude": 18.020706
+    },
+    {
+      "name": "HEL- INSTAL",
+      "latitude": 48.296381,
+      "longitude": 17.350602
+    },
+    {
+      "name": "Hobby House",
+      "latitude": 49.213728,
+      "longitude": 21.296839
+    },
+    {
+      "name": "Horné Železiarstvo",
+      "latitude": 49.370027,
+      "longitude": 19.184016
+    },
+    {
+      "name": "Husqvarna",
+      "latitude": 48.744099,
+      "longitude": 21.268746
+    },
+    {
+      "name": "Hybox Slovakia",
+      "latitude": 48.743761,
+      "longitude": 19.140109
+    },
+    {
+      "name": "Imperial stavebniny",
+      "latitude": 48.935031,
+      "longitude": 18.146159
+    },
+    {
+      "name": "IMPERIALS",
+      "latitude": 48.369212,
+      "longitude": 17.619526
+    },
+    {
+      "name": "interex",
+      "latitude": 48.890675,
+      "longitude": 18.012832
+    },
+    {
+      "name": "Inštalmont In",
+      "latitude": 48.44177,
+      "longitude": 17.014493
+    },
+    {
+      "name": "IZOMONT",
+      "latitude": 49.219775,
+      "longitude": 18.724724
+    },
+    {
+      "name": "J&M&K",
+      "latitude": 48.053622,
+      "longitude": 17.147891
+    },
+    {
+      "name": "Jana & Rosl",
+      "latitude": 48.318898,
+      "longitude": 16.982572
+    },
+    {
+      "name": "JK Schrauben",
+      "latitude": 48.172607,
+      "longitude": 17.174346
+    },
+    {
+      "name": "JK Schrauben",
+      "latitude": 48.338834,
+      "longitude": 18.063602
+    },
+    {
+      "name": "JM Poľovníctvo",
+      "latitude": 49.05318,
+      "longitude": 20.303634
+    },
+    {
+      "name": "Jova",
+      "latitude": 49.088148,
+      "longitude": 20.424534
+    },
+    {
+      "name": "JS remeselník",
+      "latitude": 49.123099,
+      "longitude": 18.325692
+    },
+    {
+      "name": "JSM",
+      "latitude": 49.30803,
+      "longitude": 20.673034
+    },
+    {
+      "name": "JTG-HydraSteel",
+      "latitude": 48.725219,
+      "longitude": 21.275009
+    },
+    {
+      "name": "Jursi",
+      "latitude": 48.160686,
+      "longitude": 17.165289
+    },
+    {
+      "name": "Jurák Autotech",
+      "latitude": 48.273826,
+      "longitude": 18.098108
+    },
+    {
+      "name": "Just",
+      "latitude": 48.270771,
+      "longitude": 17.031971
+    },
+    {
+      "name": "Kalmár & syn",
+      "latitude": 48.157558,
+      "longitude": 17.119335
+    },
+    {
+      "name": "KAMAJ SK s.r.o.",
+      "latitude": 49.11163,
+      "longitude": 21.514051
+    },
+    {
+      "name": "Karimtech",
+      "latitude": 49.126123,
+      "longitude": 18.330308
+    },
+    {
+      "name": "KATMAR Slovakia",
+      "latitude": 49.019538,
+      "longitude": 21.273814
+    },
+    {
+      "name": "KEI mat",
+      "latitude": 48.211176,
+      "longitude": 17.155915
+    },
+    {
+      "name": "Kinekus",
+      "latitude": 49.129863,
+      "longitude": 18.330919
+    },
+    {
+      "name": "KNK+",
+      "latitude": 48.170214,
+      "longitude": 17.129198
+    },
+    {
+      "name": "Kodai",
+      "latitude": 48.693438,
+      "longitude": 18.325289
+    },
+    {
+      "name": "KOVING OK, s.r.o.,",
+      "latitude": 49.018918,
+      "longitude": 21.249804
+    },
+    {
+      "name": "Kovomat",
+      "latitude": 48.751055,
+      "longitude": 21.908392
+    },
+    {
+      "name": "KovoMK",
+      "latitude": 48.760688,
+      "longitude": 18.615512
+    },
+    {
+      "name": "KOVSMOL s.r.o.",
+      "latitude": 49.008401,
+      "longitude": 21.248772
+    },
+    {
+      "name": "Kovstav",
+      "latitude": 48.722591,
+      "longitude": 21.229904
+    },
+    {
+      "name": "KPS - priemyselný tovar",
+      "latitude": 48.596245,
+      "longitude": 17.751682
+    },
+    {
+      "name": "KriMus",
+      "latitude": 48.142214,
+      "longitude": 17.212934
+    },
+    {
+      "name": "KVIP - inštalatérske centrum",
+      "latitude": 48.184801,
+      "longitude": 17.160219
+    },
+    {
+      "name": "Kájel",
+      "latitude": 48.398728,
+      "longitude": 21.741816
+    },
+    {
+      "name": "L&E Zetkov",
+      "latitude": 49.247535,
+      "longitude": 18.46361
+    },
+    {
+      "name": "Laber",
+      "latitude": 48.658522,
+      "longitude": 20.534105
+    },
+    {
+      "name": "Leg-Kovo",
+      "latitude": 48.421557,
+      "longitude": 20.3222
+    },
+    {
+      "name": "Lekr",
+      "latitude": 48.175697,
+      "longitude": 17.165791
+    },
+    {
+      "name": "Lepal",
+      "latitude": 48.746779,
+      "longitude": 21.924657
+    },
+    {
+      "name": "Loguma",
+      "latitude": 48.209811,
+      "longitude": 18.592901
+    },
+    {
+      "name": "Ložiská - Prešov, s. r. o.",
+      "latitude": 49.023716,
+      "longitude": 21.283296
+    },
+    {
+      "name": "M-MAS",
+      "latitude": 48.714348,
+      "longitude": 17.123911
+    },
+    {
+      "name": "M-MAS",
+      "latitude": 48.846824,
+      "longitude": 17.225142
+    },
+    {
+      "name": "M-tech",
+      "latitude": 49.294244,
+      "longitude": 21.272735
+    },
+    {
+      "name": "majsterko",
+      "latitude": 48.3267,
+      "longitude": 19.668069
+    },
+    {
+      "name": "Makita",
+      "latitude": 48.738665,
+      "longitude": 19.206087
+    },
+    {
+      "name": "MAKY",
+      "latitude": 48.633374,
+      "longitude": 21.173269
+    },
+    {
+      "name": "MASLEN s.r.o.",
+      "latitude": 48.196175,
+      "longitude": 17.189451
+    },
+    {
+      "name": "Metabo",
+      "latitude": 48.706227,
+      "longitude": 21.24614
+    },
+    {
+      "name": "Metal Holding s.r.o.",
+      "latitude": 49.018399,
+      "longitude": 21.278059
+    },
+    {
+      "name": "Metal Market",
+      "latitude": 48.807208,
+      "longitude": 19.642564
+    },
+    {
+      "name": "Miko",
+      "latitude": 48.414645,
+      "longitude": 18.084187
+    },
+    {
+      "name": "Mikov",
+      "latitude": 48.772721,
+      "longitude": 17.279598
+    },
+    {
+      "name": "Monys Železiarstvo",
+      "latitude": 49.023294,
+      "longitude": 21.281813
+    },
+    {
+      "name": "MOPIS-Sauer",
+      "latitude": 48.418876,
+      "longitude": 20.321814
+    },
+    {
+      "name": "Movir, s.r.o.",
+      "latitude": 48.970503,
+      "longitude": 21.257709
+    },
+    {
+      "name": "MPO-Metal",
+      "latitude": 49.209927,
+      "longitude": 18.725895
+    },
+    {
+      "name": "MS Elektro",
+      "latitude": 48.757982,
+      "longitude": 17.572669
+    },
+    {
+      "name": "Mult-Mont",
+      "latitude": 48.201873,
+      "longitude": 19.308009
+    },
+    {
+      "name": "mwk-naradie.sk",
+      "latitude": 48.043929,
+      "longitude": 17.155711
+    },
+    {
+      "name": "Nielen pracovné odevy",
+      "latitude": 48.76001,
+      "longitude": 17.835203
+    },
+    {
+      "name": "NIPO,s.r.o.",
+      "latitude": 49.04051,
+      "longitude": 18.21634
+    },
+    {
+      "name": "Noka",
+      "latitude": 49.011284,
+      "longitude": 21.23705
+    },
+    {
+      "name": "Novafenz",
+      "latitude": 48.415501,
+      "longitude": 17.984894
+    },
+    {
+      "name": "Novel express",
+      "latitude": 48.851377,
+      "longitude": 21.2721
+    },
+    {
+      "name": "Novotechno",
+      "latitude": 48.005755,
+      "longitude": 18.165992
+    },
+    {
+      "name": "NR Craft",
+      "latitude": 48.310382,
+      "longitude": 18.063079
+    },
+    {
+      "name": "Náradíkovo",
+      "latitude": 48.733085,
+      "longitude": 21.288824
+    },
+    {
+      "name": "Olekšák",
+      "latitude": 49.027456,
+      "longitude": 20.592499
+    },
+    {
+      "name": "Osnar",
+      "latitude": 48.188115,
+      "longitude": 17.722053
+    },
+    {
+      "name": "P komplex",
+      "latitude": 49.064935,
+      "longitude": 18.326649
+    },
+    {
+      "name": "P&J Colors",
+      "latitude": 48.621487,
+      "longitude": 17.724812
+    },
+    {
+      "name": "Parkovisko hl.",
+      "latitude": 48.33568,
+      "longitude": 17.140026
+    },
+    {
+      "name": "Pavol Jesenký - Tribeja",
+      "latitude": 48.759873,
+      "longitude": 17.832774
+    },
+    {
+      "name": "Pegas s.r.o.",
+      "latitude": 49.025952,
+      "longitude": 21.268083
+    },
+    {
+      "name": "Pema",
+      "latitude": 48.586326,
+      "longitude": 17.796089
+    },
+    {
+      "name": "PILEX",
+      "latitude": 49.068148,
+      "longitude": 19.304609
+    },
+    {
+      "name": "PMO s.r.o.",
+      "latitude": 49.259941,
+      "longitude": 19.030933
+    },
+    {
+      "name": "Požičovňa náradia",
+      "latitude": 48.440696,
+      "longitude": 17.024702
+    },
+    {
+      "name": "Požičovňa náradia ProfiRent",
+      "latitude": 48.263202,
+      "longitude": 17.030683
+    },
+    {
+      "name": "Praktik - voda, plyn, kúrenie",
+      "latitude": 48.579525,
+      "longitude": 19.131423
+    },
+    {
+      "name": "Predajňa Praktik",
+      "latitude": 48.800818,
+      "longitude": 18.113373
+    },
+    {
+      "name": "Predajňa TOFAS",
+      "latitude": 48.878727,
+      "longitude": 17.795565
+    },
+    {
+      "name": "Predom - Železiarstvo",
+      "latitude": 48.999986,
+      "longitude": 21.241619
+    },
+    {
+      "name": "PriemTo",
+      "latitude": 49.20315,
+      "longitude": 18.728234
+    },
+    {
+      "name": "PRIEMTO",
+      "latitude": 49.226323,
+      "longitude": 18.743734
+    },
+    {
+      "name": "Priemyselný tovar",
+      "latitude": 48.352428,
+      "longitude": 18.720167
+    },
+    {
+      "name": "Primadielna.sk",
+      "latitude": 48.708983,
+      "longitude": 21.213897
+    },
+    {
+      "name": "Profi centrum Tajboš",
+      "latitude": 48.789274,
+      "longitude": 19.640115
+    },
+    {
+      "name": "Profimet Slovakia",
+      "latitude": 48.148023,
+      "longitude": 17.239229
+    },
+    {
+      "name": "Protes-Uni",
+      "latitude": 48.195857,
+      "longitude": 17.144792
+    },
+    {
+      "name": "Puškáš",
+      "latitude": 48.743665,
+      "longitude": 21.900236
+    },
+    {
+      "name": "R-TOOL",
+      "latitude": 48.098219,
+      "longitude": 17.105912
+    },
+    {
+      "name": "Radix",
+      "latitude": 48.72537,
+      "longitude": 21.274934
+    },
+    {
+      "name": "Raven",
+      "latitude": 48.672978,
+      "longitude": 21.293907
+    },
+    {
+      "name": "RAVEN a.s.",
+      "latitude": 48.196721,
+      "longitude": 17.19229
+    },
+    {
+      "name": "Rawtech",
+      "latitude": 48.309452,
+      "longitude": 18.070474
+    },
+    {
+      "name": "Remeslo",
+      "latitude": 48.53906,
+      "longitude": 18.779958
+    },
+    {
+      "name": "Ro - Expo",
+      "latitude": 48.596739,
+      "longitude": 17.832437
+    },
+    {
+      "name": "RozmaTech,s.r.o.",
+      "latitude": 48.96325,
+      "longitude": 18.115579
+    },
+    {
+      "name": "S&L",
+      "latitude": 48.610472,
+      "longitude": 20.998739
+    },
+    {
+      "name": "Sabol Náradie",
+      "latitude": 48.722502,
+      "longitude": 21.262181
+    },
+    {
+      "name": "SCA Market",
+      "latitude": 48.715623,
+      "longitude": 21.260556
+    },
+    {
+      "name": "SCHRONER & SON s.r.o.",
+      "latitude": 48.088938,
+      "longitude": 18.19076
+    },
+    {
+      "name": "Sedot",
+      "latitude": 48.985877,
+      "longitude": 22.145528
+    },
+    {
+      "name": "Sestav",
+      "latitude": 48.95084,
+      "longitude": 18.161044
+    },
+    {
+      "name": "Slovakia Trend",
+      "latitude": 48.747684,
+      "longitude": 22.171558
+    },
+    {
+      "name": "Slovakia Trend Supermarket",
+      "latitude": 48.746894,
+      "longitude": 22.180823
+    },
+    {
+      "name": "Smart s.r.o.",
+      "latitude": 48.289848,
+      "longitude": 18.082139
+    },
+    {
+      "name": "Spojmart",
+      "latitude": 49.062471,
+      "longitude": 18.912598
+    },
+    {
+      "name": "Spojmat",
+      "latitude": 48.435384,
+      "longitude": 17.021161
+    },
+    {
+      "name": "Spoma",
+      "latitude": 48.425691,
+      "longitude": 17.803014
+    },
+    {
+      "name": "Stavebniny",
+      "latitude": 48.147982,
+      "longitude": 17.290924
+    },
+    {
+      "name": "Stavebniny",
+      "latitude": 48.155262,
+      "longitude": 17.296728
+    },
+    {
+      "name": "Stavebniny",
+      "latitude": 48.623448,
+      "longitude": 18.304492
+    },
+    {
+      "name": "Stavebniny",
+      "latitude": 48.777341,
+      "longitude": 17.700326
+    },
+    {
+      "name": "Stavebniny Dvoran",
+      "latitude": 48.322144,
+      "longitude": 16.919546
+    },
+    {
+      "name": "Stavebniny Kušnír",
+      "latitude": 48.742137,
+      "longitude": 21.244456
+    },
+    {
+      "name": "Stavebniny Praktik",
+      "latitude": 48.94665,
+      "longitude": 18.169877
+    },
+    {
+      "name": "STAVMAT stavebniny",
+      "latitude": 48.153718,
+      "longitude": 17.87762
+    },
+    {
+      "name": "Stavomat",
+      "latitude": 48.69421,
+      "longitude": 21.267156
+    },
+    {
+      "name": "Stihl",
+      "latitude": 48.574522,
+      "longitude": 18.187527
+    },
+    {
+      "name": "Stihl",
+      "latitude": 48.722731,
+      "longitude": 21.253174
+    },
+    {
+      "name": "Stihl",
+      "latitude": 49.078636,
+      "longitude": 19.602508
+    },
+    {
+      "name": "SVX s.r.o.",
+      "latitude": 47.999518,
+      "longitude": 18.176376
+    },
+    {
+      "name": "Techmat",
+      "latitude": 49.122247,
+      "longitude": 18.425853
+    },
+    {
+      "name": "Technik s.r.o.",
+      "latitude": 49.068516,
+      "longitude": 19.311916
+    },
+    {
+      "name": "Technik Žilina",
+      "latitude": 49.197604,
+      "longitude": 18.727811
+    },
+    {
+      "name": "Technik-sk",
+      "latitude": 48.433065,
+      "longitude": 17.018967
+    },
+    {
+      "name": "Technokov",
+      "latitude": 48.088944,
+      "longitude": 18.185176
+    },
+    {
+      "name": "Technomax",
+      "latitude": 49.22905,
+      "longitude": 18.734412
+    },
+    {
+      "name": "Tematech",
+      "latitude": 48.393245,
+      "longitude": 17.599678
+    },
+    {
+      "name": "TGL",
+      "latitude": 49.080705,
+      "longitude": 20.327877
+    },
+    {
+      "name": "TP náradie - Dom náradia",
+      "latitude": 48.056817,
+      "longitude": 17.358248
+    },
+    {
+      "name": "TR technic",
+      "latitude": 49.296143,
+      "longitude": 21.277398
+    },
+    {
+      "name": "Tradetech",
+      "latitude": 48.725224,
+      "longitude": 21.275533
+    },
+    {
+      "name": "Trio - Voda, Plyn, Kúrenie",
+      "latitude": 49.0681,
+      "longitude": 20.278153
+    },
+    {
+      "name": "TS Steel",
+      "latitude": 48.698787,
+      "longitude": 21.26313
+    },
+    {
+      "name": "Tuček",
+      "latitude": 48.128011,
+      "longitude": 17.206946
+    },
+    {
+      "name": "twd-Fach-centrum",
+      "latitude": 48.702387,
+      "longitude": 19.131879
+    },
+    {
+      "name": "Tóth",
+      "latitude": 48.286841,
+      "longitude": 18.071608
+    },
+    {
+      "name": "umakov",
+      "latitude": 48.169525,
+      "longitude": 17.156383
+    },
+    {
+      "name": "Umakov kovové polotovary",
+      "latitude": 48.316238,
+      "longitude": 18.10613
+    },
+    {
+      "name": "UNI spoj",
+      "latitude": 49.078411,
+      "longitude": 19.305811
+    },
+    {
+      "name": "UniDom",
+      "latitude": 49.081751,
+      "longitude": 19.617795
+    },
+    {
+      "name": "unifer",
+      "latitude": 47.799267,
+      "longitude": 18.710622
+    },
+    {
+      "name": "Unitech",
+      "latitude": 49.117231,
+      "longitude": 18.435815
+    },
+    {
+      "name": "Univer Bau Market",
+      "latitude": 48.590279,
+      "longitude": 17.752216
+    },
+    {
+      "name": "Univerzál",
+      "latitude": 48.929774,
+      "longitude": 21.893899
+    },
+    {
+      "name": "Urbis",
+      "latitude": 48.772905,
+      "longitude": 18.615744
+    },
+    {
+      "name": "Urob si sám",
+      "latitude": 49.035444,
+      "longitude": 19.720248
+    },
+    {
+      "name": "V+V",
+      "latitude": 49.438661,
+      "longitude": 18.789533
+    },
+    {
+      "name": "Valivé ložiská P & M, s.r.o.",
+      "latitude": 48.89242,
+      "longitude": 18.015054
+    },
+    {
+      "name": "Valivé ložiská P&M, s.r.o.",
+      "latitude": 48.181024,
+      "longitude": 17.135534
+    },
+    {
+      "name": "VAPA",
+      "latitude": 48.659075,
+      "longitude": 17.022818
+    },
+    {
+      "name": "Vargovci",
+      "latitude": 49.087738,
+      "longitude": 21.409657
+    },
+    {
+      "name": "Viessmann",
+      "latitude": 48.449908,
+      "longitude": 18.909091
+    },
+    {
+      "name": "Vinárske potreby",
+      "latitude": 48.256061,
+      "longitude": 17.208471
+    },
+    {
+      "name": "Virba",
+      "latitude": 48.976017,
+      "longitude": 21.246102
+    },
+    {
+      "name": "VKP Steel",
+      "latitude": 48.700994,
+      "longitude": 19.131257
+    },
+    {
+      "name": "Voda, plyn, kúrenie",
+      "latitude": 48.746367,
+      "longitude": 17.552825
+    },
+    {
+      "name": "Wami",
+      "latitude": 48.776623,
+      "longitude": 18.626646
+    },
+    {
+      "name": "Würth",
+      "latitude": 48.170142,
+      "longitude": 17.181575
+    },
+    {
+      "name": "Würth",
+      "latitude": 48.191899,
+      "longitude": 17.158439
+    },
+    {
+      "name": "Würth",
+      "latitude": 48.694099,
+      "longitude": 21.265287
+    },
+    {
+      "name": "Würth",
+      "latitude": 48.966805,
+      "longitude": 21.255066
+    },
+    {
+      "name": "Würth shop Prešov",
+      "latitude": 48.978678,
+      "longitude": 21.244632
+    },
+    {
+      "name": "ZAMI",
+      "latitude": 48.732328,
+      "longitude": 21.293681
+    },
+    {
+      "name": "Zvarmat",
+      "latitude": 48.631131,
+      "longitude": 21.717243
+    },
+    {
+      "name": "Zvarservis",
+      "latitude": 48.316021,
+      "longitude": 18.52264
+    },
+    {
+      "name": "Zámočníctvo kovo",
+      "latitude": 48.178322,
+      "longitude": 18.2098
+    },
+    {
+      "name": "Šutovský - KOVOMAT",
+      "latitude": 49.080354,
+      "longitude": 18.928734
+    },
+    {
+      "name": "Železiarske práce - Semančík",
+      "latitude": 48.977924,
+      "longitude": 21.267603
+    },
+    {
+      "name": "Železiarstvo",
+      "latitude": 47.993854,
+      "longitude": 18.267844
+    },
+    {
+      "name": "Železiarstvo",
+      "latitude": 48.151145,
+      "longitude": 17.053565
+    },
+    {
+      "name": "Železiarstvo",
+      "latitude": 48.190594,
+      "longitude": 17.26057
+    },
+    {
+      "name": "Železiarstvo",
+      "latitude": 48.290482,
+      "longitude": 17.264162
+    },
+    {
+      "name": "Železiarstvo",
+      "latitude": 48.421665,
+      "longitude": 18.642049
+    },
+    {
+      "name": "Železiarstvo",
+      "latitude": 48.508119,
+      "longitude": 17.43228
+    },
+    {
+      "name": "Železiarstvo",
+      "latitude": 48.661553,
+      "longitude": 20.532272
+    },
+    {
+      "name": "Železiarstvo",
+      "latitude": 48.744154,
+      "longitude": 19.143823
+    },
+    {
+      "name": "železiarstvo",
+      "latitude": 48.915797,
+      "longitude": 21.1129
+    },
+    {
+      "name": "Železiarstvo",
+      "latitude": 49.044774,
+      "longitude": 21.326684
+    },
+    {
+      "name": "Železiarstvo",
+      "latitude": 49.049514,
+      "longitude": 20.294722
+    },
+    {
+      "name": "Železiarstvo",
+      "latitude": 49.056701,
+      "longitude": 20.308642
+    },
+    {
+      "name": "Železiarstvo",
+      "latitude": 49.367291,
+      "longitude": 19.183627
+    },
+    {
+      "name": "Železiarstvo - dom, byt, dielňa",
+      "latitude": 48.983772,
+      "longitude": 21.250303
+    },
+    {
+      "name": "Železiarstvo - Domáce potreby",
+      "latitude": 48.154459,
+      "longitude": 17.12009
+    },
+    {
+      "name": "Železiarstvo - drobný tovar",
+      "latitude": 48.302537,
+      "longitude": 18.079376
+    },
+    {
+      "name": "Železiarstvo a domáce potreby",
+      "latitude": 48.766397,
+      "longitude": 19.273146
+    },
+    {
+      "name": "Železiarstvo AES",
+      "latitude": 48.709149,
+      "longitude": 21.249121
+    },
+    {
+      "name": "Železiarstvo ATTO",
+      "latitude": 48.220062,
+      "longitude": 17.39597
+    },
+    {
+      "name": "Železiarstvo Bugaj",
+      "latitude": 49.463989,
+      "longitude": 19.317168
+    },
+    {
+      "name": "Železiarstvo DS",
+      "latitude": 48.729948,
+      "longitude": 18.761218
+    },
+    {
+      "name": "Železiarstvo HA-HO",
+      "latitude": 47.762162,
+      "longitude": 18.116581
+    },
+    {
+      "name": "Železiarstvo Habal",
+      "latitude": 48.626592,
+      "longitude": 18.301481
+    },
+    {
+      "name": "Železiarstvo JUMI",
+      "latitude": 48.695485,
+      "longitude": 21.261651
+    },
+    {
+      "name": "Železiarstvo K-MAT",
+      "latitude": 48.217143,
+      "longitude": 18.602963
+    },
+    {
+      "name": "Železiarstvo KOMATHERM PLUS",
+      "latitude": 48.220339,
+      "longitude": 17.397056
+    },
+    {
+      "name": "Železiarstvo Mikulášik",
+      "latitude": 48.313534,
+      "longitude": 18.055269
+    },
+    {
+      "name": "Železiarstvo Ozex",
+      "latitude": 49.073553,
+      "longitude": 18.922117
+    },
+    {
+      "name": "Železiarstvo Ryobi",
+      "latitude": 48.985628,
+      "longitude": 21.248807
+    },
+    {
+      "name": "Železiarstvo Slimák",
+      "latitude": 48.170012,
+      "longitude": 17.129602
+    },
+    {
+      "name": "Železiarstvo TGR",
+      "latitude": 48.381679,
+      "longitude": 17.587006
+    },
+    {
+      "name": "Železiarstvo Tisíc drobností",
+      "latitude": 48.578515,
+      "longitude": 18.251575
+    },
+    {
+      "name": "Železiarstvo u Kubeja",
+      "latitude": 48.682767,
+      "longitude": 20.117064
+    },
+    {
+      "name": "Železiarstvo u Ypsáka",
+      "latitude": 48.310883,
+      "longitude": 18.080457
+    },
+    {
+      "name": "Železiarstvo Václav",
+      "latitude": 48.959608,
+      "longitude": 18.178052
+    },
+    {
+      "name": "Železiarstvo Záleský",
+      "latitude": 48.33479,
+      "longitude": 17.308248
+    },
+    {
+      "name": "Železiarstvo-Domáce Potreby",
+      "latitude": 48.262294,
+      "longitude": 17.030656
+    },
+    {
+      "name": "Železo No. 55",
+      "latitude": 48.719365,
+      "longitude": 21.253175
+    },
+    {
+      "name": "ŽELPO",
+      "latitude": 48.732886,
+      "longitude": 18.761316
+    }
+  ],
+  "meta": {
+    "title": "Slovenské železiarstva - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných železiarstiev na Slovensku (shop=hardware) z OpenStreetMap. Obsahuje 270 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Slovenské železiarstva | ListBase",
+    "seo_description": "Stiahnuť Slovenské železiarstva — 270 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 270 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

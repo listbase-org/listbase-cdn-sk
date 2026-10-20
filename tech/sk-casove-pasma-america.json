@@ -1,0 +1,448 @@
+{
+  "id": "sk-casove-pasma-america",
+  "name": "Časové pásma — America (49)",
+  "title": "Časové pásma — America (49)",
+  "description": "Časové pásma, ktorých identifikátor IANA sa začína 'America/', s názvami v slovenčine.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "mesto",
+      "label": "Mesto",
+      "type": "string"
+    },
+    {
+      "key": "standardny_nazov",
+      "label": "Standardny Nazov",
+      "type": "string"
+    },
+    {
+      "key": "letny_nazov",
+      "label": "Letny Nazov",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "America/Araguaina",
+      "oblast": "America",
+      "mesto": "Araguaína",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "America/Argentina/Rio_Gallegos",
+      "oblast": "America",
+      "mesto": "Río Gallegos",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "America/Argentina/Tucuman",
+      "oblast": "America",
+      "mesto": "Tucumán",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "America/Asuncion",
+      "oblast": "America",
+      "mesto": "Asunción",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "America/Bahia_Banderas",
+      "oblast": "America",
+      "mesto": "Bahia Banderas",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "America/Belem",
+      "oblast": "America",
+      "mesto": "Belém",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "America/Bogota",
+      "oblast": "America",
+      "mesto": "Bogotá",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "America/Cancun",
+      "oblast": "America",
+      "mesto": "Cancún",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "America/Cayman",
+      "oblast": "America",
+      "mesto": "Kajmanie ostrovy",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "America/Ciudad_Juarez",
+      "oblast": "America",
+      "mesto": "Ciudad Juárez",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "America/Coral_Harbour",
+      "oblast": "America",
+      "mesto": "Atikokan",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "America/Cordoba",
+      "oblast": "America",
+      "mesto": "Córdoba",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "America/Costa_Rica",
+      "oblast": "America",
+      "mesto": "Kostarika",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "America/Cuiaba",
+      "oblast": "America",
+      "mesto": "Cuiabá",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "America/Curacao",
+      "oblast": "America",
+      "mesto": "Curaçao",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "America/Dominica",
+      "oblast": "America",
+      "mesto": "Dominika",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "America/Eirunepe",
+      "oblast": "America",
+      "mesto": "Eirunepé",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "America/El_Salvador",
+      "oblast": "America",
+      "mesto": "Salvádor",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "America/Godthab",
+      "oblast": "America",
+      "mesto": "Nuuk",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "America/Indiana/Knox",
+      "oblast": "America",
+      "mesto": "Knox, Indiana",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "America/Indiana/Marengo",
+      "oblast": "America",
+      "mesto": "Marengo, Indiana",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "America/Indiana/Petersburg",
+      "oblast": "America",
+      "mesto": "Petersburg, Indiana",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "America/Indiana/Tell_City",
+      "oblast": "America",
+      "mesto": "Tell City, Indiana",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "America/Indiana/Vevay",
+      "oblast": "America",
+      "mesto": "Vevay, Indiana",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "America/Indiana/Vincennes",
+      "oblast": "America",
+      "mesto": "Vincennes, Indiana",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "America/Indiana/Winamac",
+      "oblast": "America",
+      "mesto": "Winamac, Indiana",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "America/Jamaica",
+      "oblast": "America",
+      "mesto": "Jamajka",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "America/Kentucky/Monticello",
+      "oblast": "America",
+      "mesto": "Monticello, Kentucky",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "America/Lower_Princes",
+      "oblast": "America",
+      "mesto": "Lower Prince’s Quarter",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "America/Maceio",
+      "oblast": "America",
+      "mesto": "Maceió",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "America/Martinique",
+      "oblast": "America",
+      "mesto": "Martinik",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "America/Mazatlan",
+      "oblast": "America",
+      "mesto": "Mazatlán",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "America/Merida",
+      "oblast": "America",
+      "mesto": "Mérida",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "America/Mexico_City",
+      "oblast": "America",
+      "mesto": "México",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "America/Miquelon",
+      "oblast": "America",
+      "mesto": "Saint-Pierre",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "America/Noronha",
+      "oblast": "America",
+      "mesto": "Fernando de Noronha",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "America/North_Dakota/Beulah",
+      "oblast": "America",
+      "mesto": "Beulah, Severná Dakota",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "America/North_Dakota/Center",
+      "oblast": "America",
+      "mesto": "Center, Severná Dakota",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "America/North_Dakota/New_Salem",
+      "oblast": "America",
+      "mesto": "New Salem, Severná Dakota",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "America/Puerto_Rico",
+      "oblast": "America",
+      "mesto": "Portoriko",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "America/Santarem",
+      "oblast": "America",
+      "mesto": "Santarém",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "America/Sao_Paulo",
+      "oblast": "America",
+      "mesto": "São Paulo",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "America/Scoresbysund",
+      "oblast": "America",
+      "mesto": "Ittoqqortoormiit",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "America/St_Barthelemy",
+      "oblast": "America",
+      "mesto": "Svätý Bartolomej",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "America/St_Johns",
+      "oblast": "America",
+      "mesto": "St. John’s",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "America/St_Kitts",
+      "oblast": "America",
+      "mesto": "St. Kitts",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "America/St_Lucia",
+      "oblast": "America",
+      "mesto": "Svätá Lucia",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "America/St_Thomas",
+      "oblast": "America",
+      "mesto": "Sv. Tomáš",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "America/St_Vincent",
+      "oblast": "America",
+      "mesto": "Sv. Vincent",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    }
+  ],
+  "meta": {
+    "title": "Časové pásma — America (49) - Bezplatné stiahnutie",
+    "description": "Časové pásma, ktorých identifikátor IANA sa začína 'America/', s názvami v slovenčine. Obsahuje 49 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Časové pásma — America (49) | ListBase",
+    "seo_description": "Stiahnuť Časové pásma — America (49) — 49 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 49 záznamov / 6 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

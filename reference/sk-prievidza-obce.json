@@ -1,0 +1,1036 @@
+{
+  "id": "sk-prievidza-obce",
+  "name": "Obce v okrese Prievidza",
+  "title": "Obce v okrese Prievidza",
+  "description": "Všetky obce (municipality) v okrese Prievidza, Trenčiansky kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 97,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 66,
+      "fullname": "Banky",
+      "shortname": "Banky",
+      "zip": "972 25",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 71,
+      "fullname": "Banská",
+      "shortname": "Banská",
+      "zip": "972 48",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 150,
+      "fullname": "Biela Voda",
+      "shortname": "Biela Voda",
+      "zip": "972 29",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 207,
+      "fullname": "Bojnice",
+      "shortname": "Bojnice",
+      "zip": "972 01",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 208,
+      "fullname": "Bojnice - kúpele",
+      "shortname": "Bojnice - kúpele",
+      "zip": "972 01",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 278,
+      "fullname": "Brezany",
+      "shortname": "Brezany",
+      "zip": "972 12",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 308,
+      "fullname": "Brusno",
+      "shortname": "Brusno",
+      "zip": "972 32",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 363,
+      "fullname": "Bystričany",
+      "shortname": "Bystričany",
+      "zip": "972 45",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 387,
+      "fullname": "Cerová",
+      "shortname": "Cerová",
+      "zip": "972 48",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1161,
+      "fullname": "Chalmová",
+      "shortname": "Chalmová",
+      "zip": "972 45",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1191,
+      "fullname": "Chrenovec - Brusno",
+      "shortname": "Chrenovec - Brusno",
+      "zip": "972 32",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1199,
+      "fullname": "Chvojnica",
+      "shortname": "Chvojnica",
+      "zip": "972 13",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 393,
+      "fullname": "Cigeľ",
+      "shortname": "Cigeľ",
+      "zip": "971 01",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 553,
+      "fullname": "Diviacka Nová Ves",
+      "shortname": "Diviacka Nová Ves",
+      "zip": "972 24",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 555,
+      "fullname": "Diviaky nad Nitricou",
+      "shortname": "Diviaky nad Nitricou",
+      "zip": "972 25",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 572,
+      "fullname": "Dlžín",
+      "shortname": "Dlžín",
+      "zip": "972 26",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 583,
+      "fullname": "Dobročná",
+      "shortname": "Dobročná",
+      "zip": "972 27",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 631,
+      "fullname": "Dolné Lelovce",
+      "shortname": "Dolné Lelovce",
+      "zip": "972 43",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 650,
+      "fullname": "Dolné Vestenice",
+      "shortname": "Dolné Vestenice",
+      "zip": "972 23",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 714,
+      "fullname": "Dubnica",
+      "shortname": "Dubnica",
+      "zip": "972 01",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 772,
+      "fullname": "Dvorníky nad Nitricou",
+      "shortname": "Dvorníky n/ Nitricou",
+      "zip": "972 22",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 781,
+      "fullname": "Fančová",
+      "shortname": "Fančová",
+      "zip": "972 46",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 813,
+      "fullname": "Gápel",
+      "shortname": "Gápel",
+      "zip": "972 28",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 888,
+      "fullname": "Handlová",
+      "shortname": "Handlová",
+      "zip": "972 51",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 993,
+      "fullname": "Horná Ves",
+      "shortname": "Horná Ves",
+      "zip": "972 48",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1009,
+      "fullname": "Horné Lelovce",
+      "shortname": "Horné Lelovce",
+      "zip": "972 71",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1032,
+      "fullname": "Horné Vestenice",
+      "shortname": "Horné Vestenice",
+      "zip": "972 22",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1265,
+      "fullname": "Jalovec",
+      "shortname": "Jalovec",
+      "zip": "972 31",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1335,
+      "fullname": "Ješkova Ves nad Nitricou",
+      "shortname": "Ješkova Ves n/N.",
+      "zip": "972 25",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1369,
+      "fullname": "Kamenec pod Vtáčnikom",
+      "shortname": "Kamenec pod Vtáč.",
+      "zip": "972 44",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1385,
+      "fullname": "Kanianka",
+      "shortname": "Kanianka",
+      "zip": "972 17",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1473,
+      "fullname": "Kocurany",
+      "shortname": "Kocurany",
+      "zip": "972 02",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1553,
+      "fullname": "Kostolná Ves",
+      "shortname": "Kostolná Ves",
+      "zip": "972 26",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1559,
+      "fullname": "Koš",
+      "shortname": "Koš",
+      "zip": "972 41",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1738,
+      "fullname": "Kúty",
+      "shortname": "Kúty",
+      "zip": "971 01",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1431,
+      "fullname": "Kľačno",
+      "shortname": "Kľačno",
+      "zip": "972 15",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1785,
+      "fullname": "Laskár",
+      "shortname": "Laskár",
+      "zip": "972 71",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1792,
+      "fullname": "Lazany",
+      "shortname": "Lazany",
+      "zip": "972 11",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1804,
+      "fullname": "Lehota pod Vtáčnikom",
+      "shortname": "Lehota pod Vtáčnikom",
+      "zip": "972 42",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1851,
+      "fullname": "Liešťany",
+      "shortname": "Liešťany",
+      "zip": "972 27",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1861,
+      "fullname": "Lipník",
+      "shortname": "Lipník",
+      "zip": "972 32",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1910,
+      "fullname": "Lomnica",
+      "shortname": "Lomnica",
+      "zip": "972 27",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2080,
+      "fullname": "Malinová",
+      "shortname": "Malinová",
+      "zip": "972 13",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2028,
+      "fullname": "Malá Lehota",
+      "shortname": "Malá Lehota",
+      "zip": "972 42",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2019,
+      "fullname": "Malá Čausa",
+      "shortname": "Malá Čausa",
+      "zip": "971 01",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2140,
+      "fullname": "Matušíková",
+      "shortname": "Matušíková",
+      "zip": "972 28",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1992,
+      "fullname": "Mačov",
+      "shortname": "Mačov",
+      "zip": "972 25",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2254,
+      "fullname": "Morovno",
+      "shortname": "Morovno",
+      "zip": "972 31",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2307,
+      "fullname": "Nedožery",
+      "shortname": "Nedožery",
+      "zip": "972 12",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2308,
+      "fullname": "Nedožery - Brezany",
+      "shortname": "Nedožery - Brezany",
+      "zip": "972 12",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2328,
+      "fullname": "Nevidzany",
+      "shortname": "Nevidzany",
+      "zip": "972 27",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2339,
+      "fullname": "Nitrianske Pravno",
+      "shortname": "Nitrianske Pravno",
+      "zip": "972 13",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2340,
+      "fullname": "Nitrianske Rudno",
+      "shortname": "Nitrianske Rudno",
+      "zip": "972 26",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2341,
+      "fullname": "Nitrianske Sučany",
+      "shortname": "Nitrianske Sučany",
+      "zip": "972 21",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2343,
+      "fullname": "Nitrica",
+      "shortname": "Nitrica",
+      "zip": "972 22",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2404,
+      "fullname": "Nová Lehota",
+      "shortname": "Nová Lehota",
+      "zip": "972 51",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2425,
+      "fullname": "Nováky",
+      "shortname": "Nováky",
+      "zip": "972 71",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2504,
+      "fullname": "Opatovce nad Nitrou",
+      "shortname": "Opatovce nad Nitrou",
+      "zip": "972 02",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2539,
+      "fullname": "Oslany",
+      "shortname": "Oslany",
+      "zip": "972 47",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2701,
+      "fullname": "Podhradie",
+      "shortname": "Podhradie",
+      "zip": "972 42",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2757,
+      "fullname": "Poluvsie",
+      "shortname": "Poluvsie",
+      "zip": "972 16",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2770,
+      "fullname": "Poruba",
+      "shortname": "Poruba",
+      "zip": "972 11",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2805,
+      "fullname": "Pravenec",
+      "shortname": "Pravenec",
+      "zip": "972 16",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2839,
+      "fullname": "Prievidza",
+      "shortname": "Prievidza",
+      "zip": "971 01",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2840,
+      "fullname": "Prievidza - Kopanice",
+      "shortname": "Kopanice-Priev. IV",
+      "zip": "971 01",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2841,
+      "fullname": "Prievidza - Necpaly",
+      "shortname": "Necpaly-Prievid. III",
+      "zip": "971 01",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2842,
+      "fullname": "Prievidza - Píly",
+      "shortname": "Píly - Prievidza II",
+      "zip": "971 01",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2843,
+      "fullname": "Prievidza - Staré Mesto",
+      "shortname": "Staré Mesto-Priev.",
+      "zip": "971 01",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2844,
+      "fullname": "Prievidza - Štvrte",
+      "shortname": "Štvrte - Prievidza V",
+      "zip": "971 01",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2889,
+      "fullname": "Radobica",
+      "shortname": "Radobica",
+      "zip": "972 48",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2882,
+      "fullname": "Račice",
+      "shortname": "Račice",
+      "zip": "972 22",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2953,
+      "fullname": "Remata",
+      "shortname": "Remata",
+      "zip": "972 51",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3020,
+      "fullname": "Rudica",
+      "shortname": "Rudica",
+      "zip": "972 48",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3028,
+      "fullname": "Rudnianska Lehota",
+      "shortname": "Rudnianska Lehota",
+      "zip": "972 26",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2941,
+      "fullname": "Ráztočno",
+      "shortname": "Ráztočno",
+      "zip": "972 31",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3087,
+      "fullname": "Sebedražie",
+      "shortname": "Sebedražie",
+      "zip": "972 05",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3089,
+      "fullname": "Seč",
+      "shortname": "Seč",
+      "zip": "972 26",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3230,
+      "fullname": "Solka",
+      "shortname": "Solka",
+      "zip": "972 13",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3235,
+      "fullname": "Somorova Ves",
+      "shortname": "Somorova Ves",
+      "zip": "972 25",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3256,
+      "fullname": "Stanáková",
+      "shortname": "Stanáková",
+      "zip": "972 28",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3323,
+      "fullname": "Studenec",
+      "shortname": "Studenec",
+      "zip": "972 28",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3523,
+      "fullname": "Temeš",
+      "shortname": "Temeš",
+      "zip": "972 29",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3654,
+      "fullname": "Tužina",
+      "shortname": "Tužina",
+      "zip": "972 14",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3706,
+      "fullname": "Valaská Belá",
+      "shortname": "Valaská Belá",
+      "zip": "972 28",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3755,
+      "fullname": "Veľká Lehota",
+      "shortname": "Veľká Lehota",
+      "zip": "972 42",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3746,
+      "fullname": "Veľká Čausa",
+      "shortname": "Veľká Čausa",
+      "zip": "971 01",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3857,
+      "fullname": "Vieska",
+      "shortname": "Vieska",
+      "zip": "972 45",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3934,
+      "fullname": "Vrbany",
+      "shortname": "Vrbany",
+      "zip": "972 24",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3978,
+      "fullname": "Vyšehradné",
+      "shortname": "Vyšehradné",
+      "zip": "972 13",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 4109,
+      "fullname": "Zemianske Kostoľany",
+      "shortname": "Zemianske Kostoľany",
+      "zip": "972 43",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 430,
+      "fullname": "Čavoj",
+      "shortname": "Čavoj",
+      "zip": "972 29",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 451,
+      "fullname": "Čereňany",
+      "shortname": "Čereňany",
+      "zip": "972 46",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1931,
+      "fullname": "Ľubianka",
+      "shortname": "Ľubianka",
+      "zip": "972 47",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3377,
+      "fullname": "Šajby",
+      "shortname": "Šajby",
+      "zip": "972 41",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3438,
+      "fullname": "Škrípov",
+      "shortname": "Škrípov",
+      "zip": "972 28",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3463,
+      "fullname": "Štiefleje",
+      "shortname": "Štiefleje",
+      "zip": "972 48",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3489,
+      "fullname": "Šutovce",
+      "shortname": "Šutovce",
+      "zip": "972 01",
+      "district_id": 50,
+      "okres": "Prievidza",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Prievidza - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Prievidza, Trenčiansky kraj — s PSČ a kódom okresu. Obsahuje 97 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Prievidza | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Prievidza — 97 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 97 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

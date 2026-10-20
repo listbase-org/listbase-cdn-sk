@@ -1,0 +1,7726 @@
+{
+  "id": "sk-osm-jaskyne",
+  "name": "Vstupy do jaskýň (OSM)",
+  "title": "Vstupy do jaskýň (OSM)",
+  "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (natural=cave_entrance). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1537,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Malá skalná diera",
+      "latitude": 49.411877,
+      "longitude": 18.953916
+    },
+    {
+      "name": "Złota Studnia",
+      "latitude": 49.583212,
+      "longitude": 19.492854
+    },
+    {
+      "name": "Diabla Koleba",
+      "latitude": 49.573013,
+      "longitude": 19.528771
+    },
+    {
+      "name": "Dzedova ric",
+      "latitude": 49.162202,
+      "longitude": 18.426358
+    },
+    {
+      "name": "Šarkania diera",
+      "latitude": 49.182043,
+      "longitude": 18.606897
+    },
+    {
+      "name": "Lietavská jaskyňa",
+      "latitude": 49.168314,
+      "longitude": 18.686906
+    },
+    {
+      "name": "Stratenecká p.",
+      "latitude": 49.185456,
+      "longitude": 18.959186
+    },
+    {
+      "name": "Hoblíkova jaskyňa",
+      "latitude": 49.155731,
+      "longitude": 18.818298
+    },
+    {
+      "name": "Kozia",
+      "latitude": 49.276336,
+      "longitude": 19.434898
+    },
+    {
+      "name": "Kryštálová",
+      "latitude": 49.251623,
+      "longitude": 19.103122
+    },
+    {
+      "name": "Stredná kraľovianska jaskyňa",
+      "latitude": 49.153463,
+      "longitude": 19.102964
+    },
+    {
+      "name": "Horná kraľovianska jaskyňa",
+      "latitude": 49.153717,
+      "longitude": 19.102708
+    },
+    {
+      "name": "Ľadová jaskyňa v Šípe",
+      "latitude": 49.172157,
+      "longitude": 19.175116
+    },
+    {
+      "name": "Baraskulina jaskyňa",
+      "latitude": 49.16706,
+      "longitude": 19.161301
+    },
+    {
+      "name": "Škutova komora",
+      "latitude": 49.163433,
+      "longitude": 19.190597
+    },
+    {
+      "name": "Kostrmanka v Choči",
+      "latitude": 49.155297,
+      "longitude": 19.30941
+    },
+    {
+      "name": "pri ceste",
+      "latitude": 49.165601,
+      "longitude": 19.299442
+    },
+    {
+      "name": "Strmý chodník",
+      "latitude": 49.159744,
+      "longitude": 19.322919
+    },
+    {
+      "name": "v Brale",
+      "latitude": 49.167595,
+      "longitude": 19.306217
+    },
+    {
+      "name": "Pastierska útulňa",
+      "latitude": 49.161679,
+      "longitude": 19.311826
+    },
+    {
+      "name": "v Jazvinách",
+      "latitude": 49.164761,
+      "longitude": 19.317997
+    },
+    {
+      "name": "Brestovská vyvieračka",
+      "latitude": 49.258589,
+      "longitude": 19.657861
+    },
+    {
+      "name": "Závrt pod cestou",
+      "latitude": 49.25853,
+      "longitude": 19.658918
+    },
+    {
+      "name": "Brestovská jaskyňa",
+      "latitude": 49.259062,
+      "longitude": 19.661159
+    },
+    {
+      "name": "Portalova Jaskyňa",
+      "latitude": 49.258974,
+      "longitude": 19.660333
+    },
+    {
+      "name": "Ponor",
+      "latitude": 49.256368,
+      "longitude": 19.662997
+    },
+    {
+      "name": "priepasť v Sivom vrchu",
+      "latitude": 49.211676,
+      "longitude": 19.640744
+    },
+    {
+      "name": "Striebornej Rossy",
+      "latitude": 49.16456,
+      "longitude": 19.407287
+    },
+    {
+      "name": "Jaskyna pod Chočom",
+      "latitude": 49.155207,
+      "longitude": 19.345952
+    },
+    {
+      "name": "Nad Tokárňou",
+      "latitude": 49.155968,
+      "longitude": 19.34485
+    },
+    {
+      "name": "V Lopušinách",
+      "latitude": 49.156755,
+      "longitude": 19.343677
+    },
+    {
+      "name": "Okno na Varte",
+      "latitude": 49.167324,
+      "longitude": 19.402892
+    },
+    {
+      "name": "Jazvečia na Varte",
+      "latitude": 49.167096,
+      "longitude": 19.402743
+    },
+    {
+      "name": "v Lúčanskej Magure",
+      "latitude": 49.157661,
+      "longitude": 19.385317
+    },
+    {
+      "name": "LM2",
+      "latitude": 49.15703,
+      "longitude": 19.385951
+    },
+    {
+      "name": "v Ostroňi",
+      "latitude": 49.173416,
+      "longitude": 19.397108
+    },
+    {
+      "name": "Prosiecka-03",
+      "latitude": 49.160582,
+      "longitude": 19.494864
+    },
+    {
+      "name": "vo vyvieračke",
+      "latitude": 49.162041,
+      "longitude": 19.492804
+    },
+    {
+      "name": "Priepasť v Heliáši",
+      "latitude": 49.168958,
+      "longitude": 19.450489
+    },
+    {
+      "name": "Jaskyňa v Eliáši",
+      "latitude": 49.165917,
+      "longitude": 19.449081
+    },
+    {
+      "name": "Polhôrna jaskyňa",
+      "latitude": 49.174489,
+      "longitude": 19.499314
+    },
+    {
+      "name": "Nad Lipt.Annou",
+      "latitude": 49.153662,
+      "longitude": 19.45191
+    },
+    {
+      "name": "Vápencová",
+      "latitude": 49.153899,
+      "longitude": 19.476872
+    },
+    {
+      "name": "Krezbová",
+      "latitude": 49.158732,
+      "longitude": 19.47869
+    },
+    {
+      "name": "Autobusová",
+      "latitude": 49.156999,
+      "longitude": 19.480415
+    },
+    {
+      "name": "04",
+      "latitude": 49.160674,
+      "longitude": 19.49521
+    },
+    {
+      "name": "01",
+      "latitude": 49.160288,
+      "longitude": 19.494933
+    },
+    {
+      "name": "02",
+      "latitude": 49.160467,
+      "longitude": 19.494641
+    },
+    {
+      "name": "Prosiecka s komínom",
+      "latitude": 49.163149,
+      "longitude": 19.492828
+    },
+    {
+      "name": "V1",
+      "latitude": 49.162114,
+      "longitude": 19.492545
+    },
+    {
+      "name": "V2",
+      "latitude": 49.162084,
+      "longitude": 19.493523
+    },
+    {
+      "name": "Blatnačka",
+      "latitude": 49.161279,
+      "longitude": 19.494284
+    },
+    {
+      "name": "Andaházyho diera",
+      "latitude": 49.176876,
+      "longitude": 19.479552
+    },
+    {
+      "name": "Rebríková",
+      "latitude": 49.15846,
+      "longitude": 19.47847
+    },
+    {
+      "name": "Sintrová",
+      "latitude": 49.178737,
+      "longitude": 19.486409
+    },
+    {
+      "name": "Červené piesky",
+      "latitude": 49.178004,
+      "longitude": 19.485222
+    },
+    {
+      "name": "vo vrstve na Prosečnom 2",
+      "latitude": 49.164982,
+      "longitude": 19.511483
+    },
+    {
+      "name": "Diera na Svorade",
+      "latitude": 49.180513,
+      "longitude": 19.493733
+    },
+    {
+      "name": "Vlčia",
+      "latitude": 49.160558,
+      "longitude": 19.456869
+    },
+    {
+      "name": "Studňa pod Ostrým",
+      "latitude": 49.188564,
+      "longitude": 19.554163
+    },
+    {
+      "name": "Kvačianska 2",
+      "latitude": 49.182456,
+      "longitude": 19.541066
+    },
+    {
+      "name": "Ráztocký ponor",
+      "latitude": 49.197846,
+      "longitude": 19.538842
+    },
+    {
+      "name": "Dúpnica",
+      "latitude": 49.172956,
+      "longitude": 19.581235
+    },
+    {
+      "name": "Hradková",
+      "latitude": 49.171703,
+      "longitude": 19.525519
+    },
+    {
+      "name": "v Hrádkovej",
+      "latitude": 49.176778,
+      "longitude": 19.529383
+    },
+    {
+      "name": "Nad Vodojemom",
+      "latitude": 49.176583,
+      "longitude": 19.544038
+    },
+    {
+      "name": "Kvačany 1",
+      "latitude": 49.179948,
+      "longitude": 19.542159
+    },
+    {
+      "name": "Kvačiansky previs",
+      "latitude": 49.181496,
+      "longitude": 19.541912
+    },
+    {
+      "name": "Srnčia jaskyňa v Prosečnom",
+      "latitude": 49.17583,
+      "longitude": 19.520893
+    },
+    {
+      "name": "v suchom vodopáde",
+      "latitude": 49.163677,
+      "longitude": 19.517983
+    },
+    {
+      "name": "Trojuholníková jaskyňa",
+      "latitude": 49.171056,
+      "longitude": 19.589833
+    },
+    {
+      "name": "Medvedia",
+      "latitude": 49.178938,
+      "longitude": 19.598832
+    },
+    {
+      "name": "Biela",
+      "latitude": 49.178204,
+      "longitude": 19.594995
+    },
+    {
+      "name": "Židovská",
+      "latitude": 49.178272,
+      "longitude": 19.595378
+    },
+    {
+      "name": "Partizánsky bunker",
+      "latitude": 49.168273,
+      "longitude": 19.628925
+    },
+    {
+      "name": "na Mnichu I.",
+      "latitude": 49.178373,
+      "longitude": 19.644368
+    },
+    {
+      "name": "na Mnichu II.",
+      "latitude": 49.178179,
+      "longitude": 19.644248
+    },
+    {
+      "name": "Kubalova diera",
+      "latitude": 49.176243,
+      "longitude": 19.638548
+    },
+    {
+      "name": "Školníkova diera",
+      "latitude": 49.1715,
+      "longitude": 19.633629
+    },
+    {
+      "name": "Havranica",
+      "latitude": 49.170906,
+      "longitude": 19.603119
+    },
+    {
+      "name": "Partizánska jaskyňa",
+      "latitude": 49.132555,
+      "longitude": 18.503477
+    },
+    {
+      "name": "Jaskyňa pod Černokňažníkom",
+      "latitude": 49.139503,
+      "longitude": 18.506224
+    },
+    {
+      "name": "Humno",
+      "latitude": 49.066916,
+      "longitude": 18.486398
+    },
+    {
+      "name": "Holotova jaskyňa",
+      "latitude": 49.083054,
+      "longitude": 18.559669
+    },
+    {
+      "name": "Malá temná jaskyňa",
+      "latitude": 49.058736,
+      "longitude": 18.488729
+    },
+    {
+      "name": "Veľká temná jaskyňa",
+      "latitude": 49.058176,
+      "longitude": 18.487919
+    },
+    {
+      "name": "Sonda na Dubnej skale",
+      "latitude": 49.130373,
+      "longitude": 18.894546
+    },
+    {
+      "name": "Mojtínska jaskyňa",
+      "latitude": 48.988135,
+      "longitude": 18.421911
+    },
+    {
+      "name": "Žuráňová pokladnica FIX!",
+      "latitude": 48.98961,
+      "longitude": 18.375394
+    },
+    {
+      "name": "Májová priepasť",
+      "latitude": 48.98585,
+      "longitude": 18.413243
+    },
+    {
+      "name": "jaskyňa sv. Andreja - Svorada a Beňadika",
+      "latitude": 48.982802,
+      "longitude": 18.420271
+    },
+    {
+      "name": "Jaskyňa na Líščej",
+      "latitude": 49.025138,
+      "longitude": 18.58782
+    },
+    {
+      "name": "Priepasť medzi Kačkami Kortmanka",
+      "latitude": 48.989001,
+      "longitude": 18.522043
+    },
+    {
+      "name": "Pružinská dúpna jaskyňa",
+      "latitude": 48.999784,
+      "longitude": 18.502714
+    },
+    {
+      "name": "Jaskyňa Babirátka",
+      "latitude": 49.00291,
+      "longitude": 18.469407
+    },
+    {
+      "name": "Imrichova jaskyňa",
+      "latitude": 48.996223,
+      "longitude": 18.49487
+    },
+    {
+      "name": "Na Rúbani",
+      "latitude": 48.980148,
+      "longitude": 18.400492
+    },
+    {
+      "name": "Pod Hriankovou",
+      "latitude": 48.976512,
+      "longitude": 18.401517
+    },
+    {
+      "name": "Sokolia 1",
+      "latitude": 48.978754,
+      "longitude": 18.469605
+    },
+    {
+      "name": "Sokolia 2",
+      "latitude": 48.978205,
+      "longitude": 18.467649
+    },
+    {
+      "name": "Diamamy",
+      "latitude": 48.968299,
+      "longitude": 18.481525
+    },
+    {
+      "name": "Jánošíkova jaskyňa",
+      "latitude": 48.954959,
+      "longitude": 18.463036
+    },
+    {
+      "name": "Hradná jaskyňa",
+      "latitude": 48.967895,
+      "longitude": 18.772503
+    },
+    {
+      "name": "Dutá skala",
+      "latitude": 48.979084,
+      "longitude": 18.725712
+    },
+    {
+      "name": "jaskyňa Mažarná",
+      "latitude": 48.939597,
+      "longitude": 18.9604
+    },
+    {
+      "name": "Dolná stĺpová",
+      "latitude": 48.936052,
+      "longitude": 18.958532
+    },
+    {
+      "name": "Horná stĺpová",
+      "latitude": 48.936026,
+      "longitude": 18.958669
+    },
+    {
+      "name": "Kralovianska1",
+      "latitude": 49.150274,
+      "longitude": 19.104851
+    },
+    {
+      "name": "Kralovianska2",
+      "latitude": 49.14998,
+      "longitude": 19.105018
+    },
+    {
+      "name": "Stankovianska jaskyňa",
+      "latitude": 49.151501,
+      "longitude": 19.157704
+    },
+    {
+      "name": "Korbeľka 3",
+      "latitude": 49.130775,
+      "longitude": 19.158607
+    },
+    {
+      "name": "Jaskyňa v Čertovej skale",
+      "latitude": 49.129258,
+      "longitude": 19.159435
+    },
+    {
+      "name": "Korbeľka2",
+      "latitude": 49.129643,
+      "longitude": 19.159095
+    },
+    {
+      "name": "Korbeľka 4",
+      "latitude": 49.129085,
+      "longitude": 19.158954
+    },
+    {
+      "name": "Korbeľka 5",
+      "latitude": 49.129117,
+      "longitude": 19.158835
+    },
+    {
+      "name": "Korbeľka 6",
+      "latitude": 49.129177,
+      "longitude": 19.158214
+    },
+    {
+      "name": "v Kope",
+      "latitude": 49.135883,
+      "longitude": 19.140533
+    },
+    {
+      "name": "Biely dych",
+      "latitude": 49.145732,
+      "longitude": 19.105616
+    },
+    {
+      "name": "v Kope2",
+      "latitude": 49.143689,
+      "longitude": 19.141644
+    },
+    {
+      "name": "KĽ8",
+      "latitude": 49.128327,
+      "longitude": 19.154084
+    },
+    {
+      "name": "KĽ7",
+      "latitude": 49.128327,
+      "longitude": 19.153983
+    },
+    {
+      "name": "Peklo",
+      "latitude": 49.115686,
+      "longitude": 19.145774
+    },
+    {
+      "name": "Prievanová rúra",
+      "latitude": 49.134658,
+      "longitude": 19.177404
+    },
+    {
+      "name": "Jaskyňa v Stenách",
+      "latitude": 49.129573,
+      "longitude": 19.243541
+    },
+    {
+      "name": "Zvonivá diera",
+      "latitude": 49.133674,
+      "longitude": 19.24416
+    },
+    {
+      "name": "Žaškovská jaskyňa",
+      "latitude": 49.147479,
+      "longitude": 19.217953
+    },
+    {
+      "name": "v Hrdoši č.8",
+      "latitude": 49.140477,
+      "longitude": 19.209592
+    },
+    {
+      "name": "v Hrdoši č.7",
+      "latitude": 49.140893,
+      "longitude": 19.209716
+    },
+    {
+      "name": "v Hrdoši č.2",
+      "latitude": 49.141596,
+      "longitude": 19.210014
+    },
+    {
+      "name": "v Hrdoši č.3",
+      "latitude": 49.141377,
+      "longitude": 19.209693
+    },
+    {
+      "name": "v Hrdoši č.4",
+      "latitude": 49.141124,
+      "longitude": 19.209455
+    },
+    {
+      "name": "v Hrdoši č.5",
+      "latitude": 49.140996,
+      "longitude": 19.2094
+    },
+    {
+      "name": "v Hrdoši č.6",
+      "latitude": 49.140891,
+      "longitude": 19.209585
+    },
+    {
+      "name": "Jaskyňa nad Fedorovom",
+      "latitude": 49.147019,
+      "longitude": 19.190002
+    },
+    {
+      "name": "Priepasť v Bukovci",
+      "latitude": 49.12943,
+      "longitude": 19.243898
+    },
+    {
+      "name": "Priepasť v Bukovci2",
+      "latitude": 49.129729,
+      "longitude": 19.244642
+    },
+    {
+      "name": "Mandľa",
+      "latitude": 49.149569,
+      "longitude": 19.200137
+    },
+    {
+      "name": "v Havrane 1",
+      "latitude": 49.140957,
+      "longitude": 19.196393
+    },
+    {
+      "name": "v Havrane 2",
+      "latitude": 49.13993,
+      "longitude": 19.1961
+    },
+    {
+      "name": "v Havrane 3",
+      "latitude": 49.139998,
+      "longitude": 19.196523
+    },
+    {
+      "name": "v Havrane 4",
+      "latitude": 49.140241,
+      "longitude": 19.196878
+    },
+    {
+      "name": "Črchlica",
+      "latitude": 49.145278,
+      "longitude": 19.213083
+    },
+    {
+      "name": "Zacharka",
+      "latitude": 49.130861,
+      "longitude": 19.230419
+    },
+    {
+      "name": "Jama",
+      "latitude": 49.139928,
+      "longitude": 19.24278
+    },
+    {
+      "name": "Balvanová",
+      "latitude": 49.13887,
+      "longitude": 19.242186
+    },
+    {
+      "name": "Rákytie",
+      "latitude": 49.134753,
+      "longitude": 19.250534
+    },
+    {
+      "name": "svátého Gála",
+      "latitude": 49.145214,
+      "longitude": 19.249188
+    },
+    {
+      "name": "v Sokole",
+      "latitude": 49.135437,
+      "longitude": 19.308776
+    },
+    {
+      "name": "Sedačky pod previsom",
+      "latitude": 49.141603,
+      "longitude": 19.263596
+    },
+    {
+      "name": "Rakytina",
+      "latitude": 49.141788,
+      "longitude": 19.263205
+    },
+    {
+      "name": "Chočský tunel",
+      "latitude": 49.142628,
+      "longitude": 19.326527
+    },
+    {
+      "name": "Rysie diery",
+      "latitude": 49.129671,
+      "longitude": 19.31621
+    },
+    {
+      "name": "Chočské Okno",
+      "latitude": 49.132007,
+      "longitude": 19.314783
+    },
+    {
+      "name": "Sokolie oči",
+      "latitude": 49.143695,
+      "longitude": 19.306679
+    },
+    {
+      "name": "Na Malej Magure",
+      "latitude": 49.142108,
+      "longitude": 19.318907
+    },
+    {
+      "name": "Chladné oči",
+      "latitude": 49.12478,
+      "longitude": 19.332416
+    },
+    {
+      "name": "Puklina v Konskej skale",
+      "latitude": 49.139132,
+      "longitude": 19.265085
+    },
+    {
+      "name": "Jánošíkova jama",
+      "latitude": 49.138095,
+      "longitude": 19.263241
+    },
+    {
+      "name": "Zbojnícka diera",
+      "latitude": 49.123184,
+      "longitude": 19.208175
+    },
+    {
+      "name": "nad Gombášom",
+      "latitude": 49.114671,
+      "longitude": 19.174487
+    },
+    {
+      "name": "Nadbánikom",
+      "latitude": 49.116242,
+      "longitude": 19.172185
+    },
+    {
+      "name": "v Kečke",
+      "latitude": 49.123135,
+      "longitude": 19.234872
+    },
+    {
+      "name": "Vrátočná",
+      "latitude": 49.100933,
+      "longitude": 19.163619
+    },
+    {
+      "name": "Jaskyňa Veľkých puklín",
+      "latitude": 49.098604,
+      "longitude": 19.269618
+    },
+    {
+      "name": "v Čebrati",
+      "latitude": 49.09749,
+      "longitude": 19.287254
+    },
+    {
+      "name": "v Medvedej skale",
+      "latitude": 49.096517,
+      "longitude": 19.271645
+    },
+    {
+      "name": "so Skobou",
+      "latitude": 49.112584,
+      "longitude": 19.253078
+    },
+    {
+      "name": "Prievanová priepasť",
+      "latitude": 49.112243,
+      "longitude": 19.253118
+    },
+    {
+      "name": "Bôrová priepasť",
+      "latitude": 49.112688,
+      "longitude": 19.253061
+    },
+    {
+      "name": "Banský previs",
+      "latitude": 49.116438,
+      "longitude": 19.255663
+    },
+    {
+      "name": "Chladná jaskyňa",
+      "latitude": 49.117446,
+      "longitude": 19.255418
+    },
+    {
+      "name": "Dvojité ležovisko",
+      "latitude": 49.11837,
+      "longitude": 19.255886
+    },
+    {
+      "name": "Hlupákova",
+      "latitude": 49.12037,
+      "longitude": 19.256973
+    },
+    {
+      "name": "Pod Kamenistým previsom",
+      "latitude": 49.120031,
+      "longitude": 19.257319
+    },
+    {
+      "name": "Rebríková jaskyňa",
+      "latitude": 49.120533,
+      "longitude": 19.256741
+    },
+    {
+      "name": "Skalný portál",
+      "latitude": 49.120422,
+      "longitude": 19.257103
+    },
+    {
+      "name": "Brloh",
+      "latitude": 49.121003,
+      "longitude": 19.255132
+    },
+    {
+      "name": "Rozsadlinová priepasť",
+      "latitude": 49.121448,
+      "longitude": 19.251881
+    },
+    {
+      "name": "Malých puklín",
+      "latitude": 49.096534,
+      "longitude": 19.274289
+    },
+    {
+      "name": "Radičina",
+      "latitude": 49.115435,
+      "longitude": 19.266613
+    },
+    {
+      "name": "Macova",
+      "latitude": 49.116511,
+      "longitude": 19.260698
+    },
+    {
+      "name": "Krasová",
+      "latitude": 49.120431,
+      "longitude": 19.259283
+    },
+    {
+      "name": "Kabínková",
+      "latitude": 49.121918,
+      "longitude": 19.272245
+    },
+    {
+      "name": "nad Kabínkou",
+      "latitude": 49.121926,
+      "longitude": 19.272104
+    },
+    {
+      "name": "Priepasť v Klzkej",
+      "latitude": 49.120268,
+      "longitude": 19.268806
+    },
+    {
+      "name": "Čebratie oči",
+      "latitude": 49.102141,
+      "longitude": 19.276783
+    },
+    {
+      "name": "Pod Lik. hradom",
+      "latitude": 49.105956,
+      "longitude": 19.314083
+    },
+    {
+      "name": "Temný svit",
+      "latitude": 49.108464,
+      "longitude": 19.328866
+    },
+    {
+      "name": "v Malom Čebrati",
+      "latitude": 49.102404,
+      "longitude": 19.289823
+    },
+    {
+      "name": "Krátke oči",
+      "latitude": 49.093018,
+      "longitude": 19.1346
+    },
+    {
+      "name": "NK1",
+      "latitude": 49.091871,
+      "longitude": 19.132009
+    },
+    {
+      "name": "Abry",
+      "latitude": 49.075243,
+      "longitude": 19.132535
+    },
+    {
+      "name": "V Klľaku",
+      "latitude": 49.045156,
+      "longitude": 19.115184
+    },
+    {
+      "name": "Jalová priepasť",
+      "latitude": 49.067146,
+      "longitude": 19.220855
+    },
+    {
+      "name": "Abri na Tlstej",
+      "latitude": 49.074339,
+      "longitude": 19.222159
+    },
+    {
+      "name": "Netopieria",
+      "latitude": 49.073751,
+      "longitude": 19.219271
+    },
+    {
+      "name": "pod Červeným grúňom",
+      "latitude": 49.08626,
+      "longitude": 19.199337
+    },
+    {
+      "name": "Mlynica",
+      "latitude": 49.087681,
+      "longitude": 19.199946
+    },
+    {
+      "name": "Hrča",
+      "latitude": 49.08243,
+      "longitude": 19.31216
+    },
+    {
+      "name": "Meškovská priepasť",
+      "latitude": 49.067387,
+      "longitude": 19.252917
+    },
+    {
+      "name": "nad Likavkou",
+      "latitude": 49.086587,
+      "longitude": 19.320581
+    },
+    {
+      "name": "Čutkovská diera",
+      "latitude": 49.044198,
+      "longitude": 19.231112
+    },
+    {
+      "name": "Ludrovský polosifón",
+      "latitude": 49.045888,
+      "longitude": 19.331298
+    },
+    {
+      "name": "Veľká skala",
+      "latitude": 49.059202,
+      "longitude": 19.27819
+    },
+    {
+      "name": "Sklad trhavín",
+      "latitude": 49.054559,
+      "longitude": 19.300425
+    },
+    {
+      "name": "Pod Skalami",
+      "latitude": 49.059195,
+      "longitude": 19.307091
+    },
+    {
+      "name": "v Sidorove",
+      "latitude": 49.046437,
+      "longitude": 19.28182
+    },
+    {
+      "name": "v Žlebinách",
+      "latitude": 49.057678,
+      "longitude": 19.260411
+    },
+    {
+      "name": "Žlebiny3",
+      "latitude": 49.058311,
+      "longitude": 19.260981
+    },
+    {
+      "name": "Žlebiny3.5",
+      "latitude": 49.058318,
+      "longitude": 19.261002
+    },
+    {
+      "name": "Žlebiny4",
+      "latitude": 49.058956,
+      "longitude": 19.261207
+    },
+    {
+      "name": "Žlebiny4.5",
+      "latitude": 49.058895,
+      "longitude": 19.261564
+    },
+    {
+      "name": "Žlebiny5",
+      "latitude": 49.059415,
+      "longitude": 19.26118
+    },
+    {
+      "name": "Žlebiny7",
+      "latitude": 49.059765,
+      "longitude": 19.261455
+    },
+    {
+      "name": "Žlebiny8",
+      "latitude": 49.060209,
+      "longitude": 19.261233
+    },
+    {
+      "name": "Klíštakova",
+      "latitude": 49.062565,
+      "longitude": 19.262869
+    },
+    {
+      "name": "Bivak3",
+      "latitude": 49.051606,
+      "longitude": 19.269983
+    },
+    {
+      "name": "Salamandria priepasť",
+      "latitude": 49.065403,
+      "longitude": 19.253123
+    },
+    {
+      "name": "v Baničnom",
+      "latitude": 49.0627,
+      "longitude": 19.28576
+    },
+    {
+      "name": "nad Gejdákom",
+      "latitude": 49.057193,
+      "longitude": 19.280765
+    },
+    {
+      "name": "Vlčí zub",
+      "latitude": 49.058195,
+      "longitude": 19.28104
+    },
+    {
+      "name": "Jánova",
+      "latitude": 49.050365,
+      "longitude": 19.282607
+    },
+    {
+      "name": "Zákopová",
+      "latitude": 49.052544,
+      "longitude": 19.286072
+    },
+    {
+      "name": "Abri v Baničnom",
+      "latitude": 49.063752,
+      "longitude": 19.285595
+    },
+    {
+      "name": "Chladná puklina",
+      "latitude": 49.057402,
+      "longitude": 19.260599
+    },
+    {
+      "name": "Dvojité okno",
+      "latitude": 49.060956,
+      "longitude": 19.261028
+    },
+    {
+      "name": "pod hubou",
+      "latitude": 49.061104,
+      "longitude": 19.261878
+    },
+    {
+      "name": "s miskou",
+      "latitude": 49.060548,
+      "longitude": 19.262732
+    },
+    {
+      "name": "vo veži",
+      "latitude": 49.059453,
+      "longitude": 19.277416
+    },
+    {
+      "name": "Macova Nora",
+      "latitude": 49.06241,
+      "longitude": 19.260683
+    },
+    {
+      "name": "SS2",
+      "latitude": 49.048127,
+      "longitude": 19.277055
+    },
+    {
+      "name": "nad Gejdákom2",
+      "latitude": 49.055942,
+      "longitude": 19.281598
+    },
+    {
+      "name": "pod Delom",
+      "latitude": 49.06303,
+      "longitude": 19.308234
+    },
+    {
+      "name": "Čiapka",
+      "latitude": 49.130741,
+      "longitude": 19.400563
+    },
+    {
+      "name": "Dolná stromová",
+      "latitude": 49.129921,
+      "longitude": 19.398475
+    },
+    {
+      "name": "Horná stromová",
+      "latitude": 49.129955,
+      "longitude": 19.398442
+    },
+    {
+      "name": "Meandrová v Choči",
+      "latitude": 49.140512,
+      "longitude": 19.347541
+    },
+    {
+      "name": "Chočský brloh",
+      "latitude": 49.14074,
+      "longitude": 19.345583
+    },
+    {
+      "name": "v Zadnom Choči",
+      "latitude": 49.136476,
+      "longitude": 19.340786
+    },
+    {
+      "name": "Prievanová puklina",
+      "latitude": 49.12838,
+      "longitude": 19.389035
+    },
+    {
+      "name": "na Smrekove",
+      "latitude": 49.128736,
+      "longitude": 19.38909
+    },
+    {
+      "name": "jaskyňa v Plieške",
+      "latitude": 49.138905,
+      "longitude": 19.400657
+    },
+    {
+      "name": "priepasť v Plieške",
+      "latitude": 49.139254,
+      "longitude": 19.402019
+    },
+    {
+      "name": "Oči",
+      "latitude": 49.152538,
+      "longitude": 19.419942
+    },
+    {
+      "name": "v Pravnáči",
+      "latitude": 49.152223,
+      "longitude": 19.448508
+    },
+    {
+      "name": "Starhrad3",
+      "latitude": 49.149623,
+      "longitude": 19.431555
+    },
+    {
+      "name": "Starhrad2",
+      "latitude": 49.149495,
+      "longitude": 19.43174
+    },
+    {
+      "name": "Na Starhrade",
+      "latitude": 49.149025,
+      "longitude": 19.431582
+    },
+    {
+      "name": "Starhrad 5",
+      "latitude": 49.151255,
+      "longitude": 19.430785
+    },
+    {
+      "name": "Starhrad 6",
+      "latitude": 49.15129,
+      "longitude": 19.430803
+    },
+    {
+      "name": "Starhrad 4",
+      "latitude": 49.151083,
+      "longitude": 19.430804
+    },
+    {
+      "name": "Valery",
+      "latitude": 49.151042,
+      "longitude": 19.430946
+    },
+    {
+      "name": "Štefanková v Hancíkove",
+      "latitude": 49.117454,
+      "longitude": 19.375004
+    },
+    {
+      "name": "Hradište",
+      "latitude": 49.122136,
+      "longitude": 19.368363
+    },
+    {
+      "name": "Jazvečia priepasť",
+      "latitude": 49.120201,
+      "longitude": 19.373977
+    },
+    {
+      "name": "Karfiolová",
+      "latitude": 49.118416,
+      "longitude": 19.367184
+    },
+    {
+      "name": "Veľký portál",
+      "latitude": 49.119194,
+      "longitude": 19.367453
+    },
+    {
+      "name": "Turícka",
+      "latitude": 49.107822,
+      "longitude": 19.380203
+    },
+    {
+      "name": "Termálny kráter",
+      "latitude": 49.103288,
+      "longitude": 19.446938
+    },
+    {
+      "name": "Termálny kráter",
+      "latitude": 49.107395,
+      "longitude": 19.433999
+    },
+    {
+      "name": "na Havránku",
+      "latitude": 49.103251,
+      "longitude": 19.479525
+    },
+    {
+      "name": "v Mníchu",
+      "latitude": 49.087493,
+      "longitude": 19.338062
+    },
+    {
+      "name": "Camberova sonda",
+      "latitude": 49.09313,
+      "longitude": 19.34438
+    },
+    {
+      "name": "Krížová sonda",
+      "latitude": 49.092978,
+      "longitude": 19.343854
+    },
+    {
+      "name": "Liskovská Jaskyňa",
+      "latitude": 49.091576,
+      "longitude": 19.344434
+    },
+    {
+      "name": "LKponor2",
+      "latitude": 49.088488,
+      "longitude": 19.340586
+    },
+    {
+      "name": "LKponor1",
+      "latitude": 49.088374,
+      "longitude": 19.340462
+    },
+    {
+      "name": "v Ostrej skale",
+      "latitude": 49.088727,
+      "longitude": 19.339231
+    },
+    {
+      "name": "SondaX",
+      "latitude": 49.088572,
+      "longitude": 19.338626
+    },
+    {
+      "name": "8mička",
+      "latitude": 49.08759,
+      "longitude": 19.33897
+    },
+    {
+      "name": "Zabudnutá",
+      "latitude": 49.088359,
+      "longitude": 19.338469
+    },
+    {
+      "name": "3jka",
+      "latitude": 49.088238,
+      "longitude": 19.338499
+    },
+    {
+      "name": "2jka",
+      "latitude": 49.088184,
+      "longitude": 19.338653
+    },
+    {
+      "name": "7mička",
+      "latitude": 49.088152,
+      "longitude": 19.338962
+    },
+    {
+      "name": "1tka",
+      "latitude": 49.087992,
+      "longitude": 19.33888
+    },
+    {
+      "name": "Lámačka",
+      "latitude": 49.087954,
+      "longitude": 19.338919
+    },
+    {
+      "name": "Johanov potok",
+      "latitude": 49.087897,
+      "longitude": 19.339218
+    },
+    {
+      "name": "Jaskyňa v Čerenách",
+      "latitude": 49.046994,
+      "longitude": 19.341925
+    },
+    {
+      "name": "Kráter",
+      "latitude": 49.054508,
+      "longitude": 19.417295
+    },
+    {
+      "name": "Rohačka",
+      "latitude": 49.046022,
+      "longitude": 19.603104
+    },
+    {
+      "name": "Rohačka",
+      "latitude": 49.046967,
+      "longitude": 19.605135
+    },
+    {
+      "name": "Žiarna 2",
+      "latitude": 48.984948,
+      "longitude": 19.034515
+    },
+    {
+      "name": "Žiarna",
+      "latitude": 48.985309,
+      "longitude": 19.034804
+    },
+    {
+      "name": "Na Predných",
+      "latitude": 49.033352,
+      "longitude": 19.237816
+    },
+    {
+      "name": "Závrt na šiprúni",
+      "latitude": 49.032685,
+      "longitude": 19.233346
+    },
+    {
+      "name": "v Perušíne 3",
+      "latitude": 49.014848,
+      "longitude": 19.16855
+    },
+    {
+      "name": "v Perušíne 2",
+      "latitude": 49.014938,
+      "longitude": 19.168258
+    },
+    {
+      "name": "v Perušíne 1",
+      "latitude": 49.014856,
+      "longitude": 19.168262
+    },
+    {
+      "name": "v Šiprúni1",
+      "latitude": 49.020952,
+      "longitude": 19.223318
+    },
+    {
+      "name": "Prepadlisko v Ostrom",
+      "latitude": 49.030193,
+      "longitude": 19.313362
+    },
+    {
+      "name": "v lome Jazierce",
+      "latitude": 49.021684,
+      "longitude": 19.288186
+    },
+    {
+      "name": "vo Vlčej skale",
+      "latitude": 49.029847,
+      "longitude": 19.274391
+    },
+    {
+      "name": "v Jánošíkovej skale",
+      "latitude": 49.028856,
+      "longitude": 19.326748
+    },
+    {
+      "name": "Bunkrová jaskyňa",
+      "latitude": 49.015287,
+      "longitude": 19.289103
+    },
+    {
+      "name": "Malá",
+      "latitude": 49.017894,
+      "longitude": 19.283552
+    },
+    {
+      "name": "Ponor na Tisovej",
+      "latitude": 49.016556,
+      "longitude": 19.266935
+    },
+    {
+      "name": "Trhlina",
+      "latitude": 49.015551,
+      "longitude": 19.287929
+    },
+    {
+      "name": "Jaskyňa pod Bukovinkov",
+      "latitude": 49.003614,
+      "longitude": 19.287704
+    },
+    {
+      "name": "Netopieria jaskyňa",
+      "latitude": 49.003761,
+      "longitude": 19.288074
+    },
+    {
+      "name": "Jaskynka v Bukovinke",
+      "latitude": 49.004482,
+      "longitude": 19.284933
+    },
+    {
+      "name": "Jazvečie 1",
+      "latitude": 48.987119,
+      "longitude": 19.334749
+    },
+    {
+      "name": "Jazvečie 2",
+      "latitude": 48.987101,
+      "longitude": 19.334602
+    },
+    {
+      "name": "Jazvečie 3",
+      "latitude": 48.987129,
+      "longitude": 19.334455
+    },
+    {
+      "name": "Knažia",
+      "latitude": 48.981396,
+      "longitude": 19.329432
+    },
+    {
+      "name": "Kňazovská rozsadlina",
+      "latitude": 48.981051,
+      "longitude": 19.33046
+    },
+    {
+      "name": "v skale",
+      "latitude": 48.981418,
+      "longitude": 19.32951
+    },
+    {
+      "name": "s tunelom",
+      "latitude": 48.980768,
+      "longitude": 19.32951
+    },
+    {
+      "name": "v Čiljačke",
+      "latitude": 48.985229,
+      "longitude": 19.29683
+    },
+    {
+      "name": "Žiarna 3",
+      "latitude": 48.980015,
+      "longitude": 19.030131
+    },
+    {
+      "name": "Igorov brloh",
+      "latitude": 48.970281,
+      "longitude": 19.009543
+    },
+    {
+      "name": "Perlova jaskyna",
+      "latitude": 48.962933,
+      "longitude": 19.102097
+    },
+    {
+      "name": "Medvedia",
+      "latitude": 48.95973,
+      "longitude": 19.095632
+    },
+    {
+      "name": "Javorina",
+      "latitude": 48.960165,
+      "longitude": 19.095813
+    },
+    {
+      "name": "Javorinka",
+      "latitude": 48.960081,
+      "longitude": 19.096584
+    },
+    {
+      "name": "Došná4",
+      "latitude": 48.963038,
+      "longitude": 19.101716
+    },
+    {
+      "name": "Suchá",
+      "latitude": 48.952599,
+      "longitude": 19.098862
+    },
+    {
+      "name": "Ľubochnianska Suchá",
+      "latitude": 48.967912,
+      "longitude": 19.140337
+    },
+    {
+      "name": "Matejová",
+      "latitude": 48.968227,
+      "longitude": 19.135099
+    },
+    {
+      "name": "Necpalská Tunelová jaskyňa",
+      "latitude": 48.941,
+      "longitude": 19.035222
+    },
+    {
+      "name": "ČeKa2",
+      "latitude": 48.935627,
+      "longitude": 19.147263
+    },
+    {
+      "name": "ČeKa1",
+      "latitude": 48.933941,
+      "longitude": 19.142769
+    },
+    {
+      "name": "Vlčia",
+      "latitude": 48.958549,
+      "longitude": 19.229079
+    },
+    {
+      "name": "v Tichom",
+      "latitude": 48.978825,
+      "longitude": 19.282786
+    },
+    {
+      "name": "Snežná jama",
+      "latitude": 48.975937,
+      "longitude": 19.330149
+    },
+    {
+      "name": "Lúžnanský sifón",
+      "latitude": 48.970726,
+      "longitude": 19.328185
+    },
+    {
+      "name": "Okno v Tichom",
+      "latitude": 48.978798,
+      "longitude": 19.282638
+    },
+    {
+      "name": "Lenkina diera",
+      "latitude": 48.97896,
+      "longitude": 19.283368
+    },
+    {
+      "name": "Hričkov",
+      "latitude": 48.930287,
+      "longitude": 19.231072
+    },
+    {
+      "name": "v Marčekove",
+      "latitude": 48.929223,
+      "longitude": 19.167839
+    },
+    {
+      "name": "Teplô 1",
+      "latitude": 48.948989,
+      "longitude": 19.22279
+    },
+    {
+      "name": "Teplô 2",
+      "latitude": 48.949248,
+      "longitude": 19.222597
+    },
+    {
+      "name": "Teplô3",
+      "latitude": 48.949646,
+      "longitude": 19.221976
+    },
+    {
+      "name": "Teplô puklina",
+      "latitude": 48.949502,
+      "longitude": 19.222254
+    },
+    {
+      "name": "Kamenné oči",
+      "latitude": 48.948894,
+      "longitude": 19.223986
+    },
+    {
+      "name": "Poznania",
+      "latitude": 48.949089,
+      "longitude": 19.224591
+    },
+    {
+      "name": "v previse",
+      "latitude": 48.948481,
+      "longitude": 19.224338
+    },
+    {
+      "name": "Pod vežami",
+      "latitude": 48.938299,
+      "longitude": 19.223772
+    },
+    {
+      "name": "Teplô 5",
+      "latitude": 48.951178,
+      "longitude": 19.222714
+    },
+    {
+      "name": "Ragnarova",
+      "latitude": 48.949395,
+      "longitude": 19.222884
+    },
+    {
+      "name": "Teplô 4",
+      "latitude": 48.949559,
+      "longitude": 19.222154
+    },
+    {
+      "name": "Špatná",
+      "latitude": 48.930659,
+      "longitude": 19.235972
+    },
+    {
+      "name": "JM",
+      "latitude": 48.936184,
+      "longitude": 19.210448
+    },
+    {
+      "name": "v Ctibore",
+      "latitude": 48.936158,
+      "longitude": 19.211281
+    },
+    {
+      "name": "Ctibor 2",
+      "latitude": 48.935943,
+      "longitude": 19.211294
+    },
+    {
+      "name": "Ctibor 3",
+      "latitude": 48.936148,
+      "longitude": 19.212297
+    },
+    {
+      "name": "Jaskyňa nad Patočinami",
+      "latitude": 48.926547,
+      "longitude": 19.259118
+    },
+    {
+      "name": "Pod Prašivou",
+      "latitude": 48.938186,
+      "longitude": 19.263374
+    },
+    {
+      "name": "Nora",
+      "latitude": 48.925847,
+      "longitude": 19.261199
+    },
+    {
+      "name": "Váhanka",
+      "latitude": 48.923071,
+      "longitude": 19.268791
+    },
+    {
+      "name": "Nad zátarasom",
+      "latitude": 48.930375,
+      "longitude": 19.259206
+    },
+    {
+      "name": "v Čiernom vrchu",
+      "latitude": 48.925699,
+      "longitude": 19.305397
+    },
+    {
+      "name": "Diera v Repisku",
+      "latitude": 48.937463,
+      "longitude": 19.271743
+    },
+    {
+      "name": "v Prašivej",
+      "latitude": 48.932938,
+      "longitude": 19.249969
+    },
+    {
+      "name": "Zubihraska",
+      "latitude": 49.025208,
+      "longitude": 19.371029
+    },
+    {
+      "name": "Podšatne",
+      "latitude": 49.031538,
+      "longitude": 19.352498
+    },
+    {
+      "name": "Kohút1",
+      "latitude": 49.027933,
+      "longitude": 19.342957
+    },
+    {
+      "name": "Kohút2",
+      "latitude": 49.027801,
+      "longitude": 19.343087
+    },
+    {
+      "name": "Kohút3",
+      "latitude": 49.02766,
+      "longitude": 19.343258
+    },
+    {
+      "name": "v Ludrovskom Kohúte",
+      "latitude": 49.028859,
+      "longitude": 19.342088
+    },
+    {
+      "name": "Komornícka",
+      "latitude": 49.030068,
+      "longitude": 19.355429
+    },
+    {
+      "name": "v Čatnom",
+      "latitude": 49.031278,
+      "longitude": 19.352594
+    },
+    {
+      "name": "Polovnícka v Hunkovie",
+      "latitude": 48.99174,
+      "longitude": 19.396821
+    },
+    {
+      "name": "Trosiek",
+      "latitude": 48.987023,
+      "longitude": 19.347383
+    },
+    {
+      "name": "Zbojnícka",
+      "latitude": 48.998374,
+      "longitude": 19.36815
+    },
+    {
+      "name": "v Komornickej doline",
+      "latitude": 49.002549,
+      "longitude": 19.352055
+    },
+    {
+      "name": "Zemianska2",
+      "latitude": 49.004638,
+      "longitude": 19.36581
+    },
+    {
+      "name": "Zemianska1",
+      "latitude": 49.005658,
+      "longitude": 19.364949
+    },
+    {
+      "name": "Výduch",
+      "latitude": 49.00633,
+      "longitude": 19.342845
+    },
+    {
+      "name": "Previs v Salatínke",
+      "latitude": 48.987724,
+      "longitude": 19.373643
+    },
+    {
+      "name": "Salatínsky portál",
+      "latitude": 48.985273,
+      "longitude": 19.371087
+    },
+    {
+      "name": "Sliačanská",
+      "latitude": 48.995271,
+      "longitude": 19.36701
+    },
+    {
+      "name": "V Salatine II.",
+      "latitude": 48.997414,
+      "longitude": 19.36786
+    },
+    {
+      "name": "TunelFričova",
+      "latitude": 48.996127,
+      "longitude": 19.36723
+    },
+    {
+      "name": "Zemianska puklinka",
+      "latitude": 49.006127,
+      "longitude": 19.360219
+    },
+    {
+      "name": "Vopopádová",
+      "latitude": 48.992454,
+      "longitude": 19.341635
+    },
+    {
+      "name": "Prievanová",
+      "latitude": 48.992283,
+      "longitude": 19.341975
+    },
+    {
+      "name": "Lomená",
+      "latitude": 48.99044,
+      "longitude": 19.343735
+    },
+    {
+      "name": "Lovecká",
+      "latitude": 48.990843,
+      "longitude": 19.343356
+    },
+    {
+      "name": "Ludrovská",
+      "latitude": 48.991133,
+      "longitude": 19.342793
+    },
+    {
+      "name": "Gotická",
+      "latitude": 48.991126,
+      "longitude": 19.342618
+    },
+    {
+      "name": "Dvojitá",
+      "latitude": 48.991667,
+      "longitude": 19.341936
+    },
+    {
+      "name": "Jazierková",
+      "latitude": 48.991793,
+      "longitude": 19.341699
+    },
+    {
+      "name": "Maťkova",
+      "latitude": 48.992063,
+      "longitude": 19.341366
+    },
+    {
+      "name": "Suchá",
+      "latitude": 48.991572,
+      "longitude": 19.340627
+    },
+    {
+      "name": "Machová",
+      "latitude": 48.991922,
+      "longitude": 19.340226
+    },
+    {
+      "name": "Mrazivá",
+      "latitude": 48.992352,
+      "longitude": 19.339592
+    },
+    {
+      "name": "Medvedia",
+      "latitude": 48.992409,
+      "longitude": 19.33907
+    },
+    {
+      "name": "za Skalou",
+      "latitude": 48.993136,
+      "longitude": 19.339766
+    },
+    {
+      "name": "v Červenom grúni",
+      "latitude": 48.993226,
+      "longitude": 19.41767
+    },
+    {
+      "name": "v Balnom",
+      "latitude": 48.989241,
+      "longitude": 19.432322
+    },
+    {
+      "name": "vo Vraženej",
+      "latitude": 48.991898,
+      "longitude": 19.465923
+    },
+    {
+      "name": "v Hláčove",
+      "latitude": 49.000297,
+      "longitude": 19.49906
+    },
+    {
+      "name": "Jaskyňa Okno",
+      "latitude": 49.010317,
+      "longitude": 19.587837
+    },
+    {
+      "name": "Okno",
+      "latitude": 49.010262,
+      "longitude": 19.587091
+    },
+    {
+      "name": "Veľké Okno",
+      "latitude": 49.010126,
+      "longitude": 19.586751
+    },
+    {
+      "name": "Tunelová",
+      "latitude": 49.010638,
+      "longitude": 19.58667
+    },
+    {
+      "name": "Barania",
+      "latitude": 49.011937,
+      "longitude": 19.586834
+    },
+    {
+      "name": "Dvere",
+      "latitude": 49.014124,
+      "longitude": 19.585213
+    },
+    {
+      "name": "Beníková",
+      "latitude": 49.014975,
+      "longitude": 19.584986
+    },
+    {
+      "name": "Priechodná",
+      "latitude": 49.01544,
+      "longitude": 19.583862
+    },
+    {
+      "name": "Pavúčia",
+      "latitude": 49.010091,
+      "longitude": 19.586526
+    },
+    {
+      "name": "Marošova",
+      "latitude": 49.009889,
+      "longitude": 19.586677
+    },
+    {
+      "name": "Studená diera",
+      "latitude": 49.010042,
+      "longitude": 19.585846
+    },
+    {
+      "name": "nad 7čkou",
+      "latitude": 49.01274,
+      "longitude": 19.586926
+    },
+    {
+      "name": "Demänovská ľadová jaskyňa",
+      "latitude": 49.016696,
+      "longitude": 19.582965
+    },
+    {
+      "name": "pri Kamennej chate",
+      "latitude": 49.016084,
+      "longitude": 19.581273
+    },
+    {
+      "name": "Skautská",
+      "latitude": 49.013677,
+      "longitude": 19.583982
+    },
+    {
+      "name": "v Malom Sokole",
+      "latitude": 49.012935,
+      "longitude": 19.578726
+    },
+    {
+      "name": "Nová j.pod Baštou",
+      "latitude": 49.013979,
+      "longitude": 19.585764
+    },
+    {
+      "name": "M.jask.Pod Baštou",
+      "latitude": 49.013799,
+      "longitude": 19.585526
+    },
+    {
+      "name": "v Úplaznej skale",
+      "latitude": 49.015905,
+      "longitude": 19.545197
+    },
+    {
+      "name": "Kamenica",
+      "latitude": 49.009743,
+      "longitude": 19.554983
+    },
+    {
+      "name": "Široká",
+      "latitude": 49.009901,
+      "longitude": 19.546233
+    },
+    {
+      "name": "Kamenné mlieko",
+      "latitude": 49.023574,
+      "longitude": 19.638801
+    },
+    {
+      "name": "Sloboda-Medvedia",
+      "latitude": 48.998305,
+      "longitude": 19.585797
+    },
+    {
+      "name": "Demänovská jaskyňa Slobody",
+      "latitude": 48.998165,
+      "longitude": 19.585398
+    },
+    {
+      "name": "Pustá - prerážka",
+      "latitude": 48.98865,
+      "longitude": 19.591442
+    },
+    {
+      "name": "Vyvieranie",
+      "latitude": 49.005324,
+      "longitude": 19.58344
+    },
+    {
+      "name": "j.Mieru - prerážka",
+      "latitude": 49.005489,
+      "longitude": 19.583855
+    },
+    {
+      "name": "Augustová",
+      "latitude": 49.005752,
+      "longitude": 19.531362
+    },
+    {
+      "name": "Mošnica",
+      "latitude": 49.00614,
+      "longitude": 19.539935
+    },
+    {
+      "name": "Štefanová-starý vchod",
+      "latitude": 48.992871,
+      "longitude": 19.587352
+    },
+    {
+      "name": "Studňa Na Jame",
+      "latitude": 49.005872,
+      "longitude": 19.565119
+    },
+    {
+      "name": "Nižné Uhlisko",
+      "latitude": 49.003821,
+      "longitude": 19.524691
+    },
+    {
+      "name": "Sloboda - starý vchod",
+      "latitude": 49.000921,
+      "longitude": 19.583639
+    },
+    {
+      "name": "Sloboda-Mramororák",
+      "latitude": 49.002041,
+      "longitude": 19.582883
+    },
+    {
+      "name": "Sovie oči",
+      "latitude": 49.007856,
+      "longitude": 19.581263
+    },
+    {
+      "name": "Jaskyňa v Sokole",
+      "latitude": 49.008004,
+      "longitude": 19.578304
+    },
+    {
+      "name": "Suchá",
+      "latitude": 49.002394,
+      "longitude": 19.584659
+    },
+    {
+      "name": "Údolná",
+      "latitude": 48.999345,
+      "longitude": 19.583272
+    },
+    {
+      "name": "v Kostolcoch",
+      "latitude": 48.987692,
+      "longitude": 19.592392
+    },
+    {
+      "name": "Pustá - Psie diery",
+      "latitude": 48.992965,
+      "longitude": 19.591995
+    },
+    {
+      "name": "Zbojnícka",
+      "latitude": 49.00788,
+      "longitude": 19.585504
+    },
+    {
+      "name": "pod Útesom",
+      "latitude": 49.000647,
+      "longitude": 19.583729
+    },
+    {
+      "name": "Štefanová - nový vchod",
+      "latitude": 48.988588,
+      "longitude": 19.589756
+    },
+    {
+      "name": "Ovčia",
+      "latitude": 49.003274,
+      "longitude": 19.58154
+    },
+    {
+      "name": "Maliarikove jaskyne",
+      "latitude": 48.999553,
+      "longitude": 19.581939
+    },
+    {
+      "name": "Útulňa",
+      "latitude": 48.99692,
+      "longitude": 19.580504
+    },
+    {
+      "name": "Portálova",
+      "latitude": 48.990724,
+      "longitude": 19.581931
+    },
+    {
+      "name": "Strieborná",
+      "latitude": 48.994073,
+      "longitude": 19.581882
+    },
+    {
+      "name": "Chladivý dych",
+      "latitude": 48.991304,
+      "longitude": 19.589922
+    },
+    {
+      "name": "Tvarohová",
+      "latitude": 48.990579,
+      "longitude": 19.588379
+    },
+    {
+      "name": "Pustá - Machnaté",
+      "latitude": 48.989159,
+      "longitude": 19.59712
+    },
+    {
+      "name": "Vetraňola",
+      "latitude": 48.988058,
+      "longitude": 19.597699
+    },
+    {
+      "name": "Sonda v Stodôlke",
+      "latitude": 48.993694,
+      "longitude": 19.582639
+    },
+    {
+      "name": "1932 PK",
+      "latitude": 48.99225,
+      "longitude": 19.59025
+    },
+    {
+      "name": "Jaskyňa zlomísk",
+      "latitude": 48.989353,
+      "longitude": 19.680677
+    },
+    {
+      "name": "Slnečný lúč",
+      "latitude": 48.985903,
+      "longitude": 19.636552
+    },
+    {
+      "name": "Starý hrad",
+      "latitude": 48.985067,
+      "longitude": 19.649633
+    },
+    {
+      "name": "Večná robota",
+      "latitude": 48.98688,
+      "longitude": 19.642045
+    },
+    {
+      "name": "Hlbokô-výver Štiavnice",
+      "latitude": 48.992359,
+      "longitude": 19.680092
+    },
+    {
+      "name": "Nová Stanišovská jaskyňa",
+      "latitude": 49.007712,
+      "longitude": 19.676051
+    },
+    {
+      "name": "Biela jaskyňa",
+      "latitude": 48.998014,
+      "longitude": 19.670185
+    },
+    {
+      "name": "Medzibrodie",
+      "latitude": 48.996582,
+      "longitude": 19.675063
+    },
+    {
+      "name": "Požiarna jaskyňa",
+      "latitude": 48.996642,
+      "longitude": 19.672059
+    },
+    {
+      "name": "Tifany",
+      "latitude": 48.99931,
+      "longitude": 19.671868
+    },
+    {
+      "name": "Stará poľana",
+      "latitude": 48.980629,
+      "longitude": 19.679531
+    },
+    {
+      "name": "Veľká Stanišovská jaskyňa",
+      "latitude": 49.008622,
+      "longitude": 19.676135
+    },
+    {
+      "name": "Partizánska jaskyňa",
+      "latitude": 49.000191,
+      "longitude": 19.67341
+    },
+    {
+      "name": "Malá Stanišovská jaskyňa",
+      "latitude": 49.008535,
+      "longitude": 19.676463
+    },
+    {
+      "name": "Veľká Stanišovská jaskyňa II.",
+      "latitude": 49.008417,
+      "longitude": 19.676479
+    },
+    {
+      "name": "Liborova studňa",
+      "latitude": 48.990731,
+      "longitude": 19.637065
+    },
+    {
+      "name": "v Krčahove",
+      "latitude": 48.981789,
+      "longitude": 19.608589
+    },
+    {
+      "name": "Medvedia",
+      "latitude": 48.987554,
+      "longitude": 19.679614
+    },
+    {
+      "name": "Staré Zlomiská",
+      "latitude": 48.988841,
+      "longitude": 19.679825
+    },
+    {
+      "name": "pod Veľkou kopou",
+      "latitude": 49.004358,
+      "longitude": 19.651908
+    },
+    {
+      "name": "v Kostolníkovej dolinke",
+      "latitude": 49.003724,
+      "longitude": 19.643395
+    },
+    {
+      "name": "Iľanovský meander",
+      "latitude": 48.990845,
+      "longitude": 19.636405
+    },
+    {
+      "name": "Tifany1",
+      "latitude": 48.999194,
+      "longitude": 19.672417
+    },
+    {
+      "name": "Mrazivá diera",
+      "latitude": 48.986133,
+      "longitude": 19.640301
+    },
+    {
+      "name": "Záskočie",
+      "latitude": 48.995081,
+      "longitude": 19.642761
+    },
+    {
+      "name": "Salatínska sonda",
+      "latitude": 48.978504,
+      "longitude": 19.367967
+    },
+    {
+      "name": "Javorová priepasť",
+      "latitude": 48.976431,
+      "longitude": 19.633896
+    },
+    {
+      "name": "Občasná vyvieračka",
+      "latitude": 48.972962,
+      "longitude": 19.659463
+    },
+    {
+      "name": "Sokolová",
+      "latitude": 48.973566,
+      "longitude": 19.684098
+    },
+    {
+      "name": "Kosienky",
+      "latitude": 48.976229,
+      "longitude": 19.631571
+    },
+    {
+      "name": "Javorová priepasť",
+      "latitude": 48.975529,
+      "longitude": 19.631756
+    },
+    {
+      "name": "Jaskyňa mŕtvych netopierov",
+      "latitude": 48.925156,
+      "longitude": 19.639081
+    },
+    {
+      "name": "Halašova jama",
+      "latitude": 48.92705,
+      "longitude": 19.63751
+    },
+    {
+      "name": "Dziury (Jaskinia nad Polaną Sosnówką)",
+      "latitude": 49.4201,
+      "longitude": 20.442102
+    },
+    {
+      "name": "Szpilska Grota",
+      "latitude": 49.419664,
+      "longitude": 20.440645
+    },
+    {
+      "name": "Jaskyňa Aksamitka",
+      "latitude": 49.383377,
+      "longitude": 20.449265
+    },
+    {
+      "name": "Schron w Wielkich Koryciskach",
+      "latitude": 49.269402,
+      "longitude": 19.803056
+    },
+    {
+      "name": "Siwiańska Dziura",
+      "latitude": 49.277626,
+      "longitude": 19.82593
+    },
+    {
+      "name": "Koprowa Studnia",
+      "latitude": 49.239246,
+      "longitude": 19.92995
+    },
+    {
+      "name": "Litworowa Studnia",
+      "latitude": 49.233688,
+      "longitude": 19.914332
+    },
+    {
+      "name": "Szczelina w Krzesanicy",
+      "latitude": 49.23186,
+      "longitude": 19.907356
+    },
+    {
+      "name": "Zaspałkowa Szczelina",
+      "latitude": 49.238853,
+      "longitude": 19.927502
+    },
+    {
+      "name": "Jaskinia Małołącka",
+      "latitude": 49.239058,
+      "longitude": 19.921523
+    },
+    {
+      "name": "Zadný úplaz",
+      "latitude": 49.227022,
+      "longitude": 19.910456
+    },
+    {
+      "name": "Kresanica",
+      "latitude": 49.22786,
+      "longitude": 19.915622
+    },
+    {
+      "name": "Vyšná Kresanica",
+      "latitude": 49.230508,
+      "longitude": 19.91213
+    },
+    {
+      "name": "Nová Kresanica",
+      "latitude": 49.228553,
+      "longitude": 19.914517
+    },
+    {
+      "name": "Občasná vyvieračka",
+      "latitude": 49.226675,
+      "longitude": 19.929867
+    },
+    {
+      "name": "Prostredná Nová j.",
+      "latitude": 49.261703,
+      "longitude": 20.17924
+    },
+    {
+      "name": "Nová Nižna j.",
+      "latitude": 49.262263,
+      "longitude": 20.178344
+    },
+    {
+      "name": "13",
+      "latitude": 49.254428,
+      "longitude": 20.203619
+    },
+    {
+      "name": "Mesačný tieň",
+      "latitude": 49.218178,
+      "longitude": 20.121983
+    },
+    {
+      "name": "Alabastrová jaskyňa",
+      "latitude": 49.236012,
+      "longitude": 20.279905
+    },
+    {
+      "name": "Belianska jaskyňa",
+      "latitude": 49.228761,
+      "longitude": 20.311468
+    },
+    {
+      "name": "Hučavá diera",
+      "latitude": 49.220723,
+      "longitude": 20.310414
+    },
+    {
+      "name": "Elektrárenská jaskyňa",
+      "latitude": 49.230459,
+      "longitude": 20.318773
+    },
+    {
+      "name": "Studnia w Mnichu",
+      "latitude": 49.192634,
+      "longitude": 20.055304
+    },
+    {
+      "name": "Tomkowa",
+      "latitude": 49.181739,
+      "longitude": 20.087969
+    },
+    {
+      "name": "Rumanov potok",
+      "latitude": 49.164374,
+      "longitude": 20.09899
+    },
+    {
+      "name": "Jaskyňa v Čube",
+      "latitude": 49.295679,
+      "longitude": 20.525397
+    },
+    {
+      "name": "Jaskyňa pod Skalkou",
+      "latitude": 49.288833,
+      "longitude": 20.502329
+    },
+    {
+      "name": "Perúnova jaskyňa",
+      "latitude": 49.209606,
+      "longitude": 20.931225
+    },
+    {
+      "name": "Lonová jaskyňa",
+      "latitude": 49.209645,
+      "longitude": 20.932803
+    },
+    {
+      "name": "Jazvečia jaskyňa",
+      "latitude": 49.209615,
+      "longitude": 20.931389
+    },
+    {
+      "name": "Priehradová",
+      "latitude": 49.090726,
+      "longitude": 19.899054
+    },
+    {
+      "name": "Važecká jaskyňa",
+      "latitude": 49.056317,
+      "longitude": 19.971821
+    },
+    {
+      "name": "Pivnica",
+      "latitude": 49.052807,
+      "longitude": 20.12533
+    },
+    {
+      "name": "Hybská jaskyňa",
+      "latitude": 49.034916,
+      "longitude": 19.849641
+    },
+    {
+      "name": "Pivnica",
+      "latitude": 49.015226,
+      "longitude": 19.83973
+    },
+    {
+      "name": "Malužinská jaskyňa",
+      "latitude": 48.981094,
+      "longitude": 19.771676
+    },
+    {
+      "name": "Malužinské okno",
+      "latitude": 48.991389,
+      "longitude": 19.761333
+    },
+    {
+      "name": "v Brtkovici",
+      "latitude": 49.005071,
+      "longitude": 19.712841
+    },
+    {
+      "name": "Svidovská 2",
+      "latitude": 48.982789,
+      "longitude": 19.757937
+    },
+    {
+      "name": "Zápoľná",
+      "latitude": 49.014583,
+      "longitude": 19.877633
+    },
+    {
+      "name": "Veľká ľadová priepasť",
+      "latitude": 48.975335,
+      "longitude": 19.706267
+    },
+    {
+      "name": "pri ihrisku",
+      "latitude": 48.978893,
+      "longitude": 19.774906
+    },
+    {
+      "name": "Svidovská",
+      "latitude": 48.98011,
+      "longitude": 19.757822
+    },
+    {
+      "name": "Modrá jaskyňa",
+      "latitude": 48.977201,
+      "longitude": 19.775616
+    },
+    {
+      "name": "Hodkova džura",
+      "latitude": 48.971619,
+      "longitude": 20.343159
+    },
+    {
+      "name": "Diablova diera",
+      "latitude": 49.064754,
+      "longitude": 20.608636
+    },
+    {
+      "name": "Chmeľová",
+      "latitude": 49.06495,
+      "longitude": 20.911236
+    },
+    {
+      "name": "Partizánska jaskyňa Pekárik",
+      "latitude": 49.066219,
+      "longitude": 20.889891
+    },
+    {
+      "name": "Zlá Diera",
+      "latitude": 49.069993,
+      "longitude": 20.940428
+    },
+    {
+      "name": "Ľadová priepasť",
+      "latitude": 49.078135,
+      "longitude": 20.964555
+    },
+    {
+      "name": "Komín",
+      "latitude": 49.057674,
+      "longitude": 20.924274
+    },
+    {
+      "name": "Gackova diera",
+      "latitude": 48.954971,
+      "longitude": 20.431917
+    },
+    {
+      "name": "Mníchova diera",
+      "latitude": 48.95801,
+      "longitude": 20.41487
+    },
+    {
+      "name": "Jaskyňa pod ľadopádom",
+      "latitude": 48.953303,
+      "longitude": 20.405069
+    },
+    {
+      "name": "Ružová jaskyňa",
+      "latitude": 48.940742,
+      "longitude": 20.44166
+    },
+    {
+      "name": "Ružová jaskyňa",
+      "latitude": 48.941856,
+      "longitude": 20.423335
+    },
+    {
+      "name": "Biela jaskyňa",
+      "latitude": 48.951201,
+      "longitude": 20.422234
+    },
+    {
+      "name": "Tri skalky",
+      "latitude": 48.945196,
+      "longitude": 20.500572
+    },
+    {
+      "name": "ponor do Diablovej diery",
+      "latitude": 49.021638,
+      "longitude": 20.85817
+    },
+    {
+      "name": "Ľadová jaskyňa",
+      "latitude": 48.980739,
+      "longitude": 20.768636
+    },
+    {
+      "name": "Jaskyňa v Pekle",
+      "latitude": 48.984068,
+      "longitude": 20.771641
+    },
+    {
+      "name": "Hlboká jaskyňa",
+      "latitude": 48.985132,
+      "longitude": 20.772705
+    },
+    {
+      "name": "Veľká jaskyňa",
+      "latitude": 48.985225,
+      "longitude": 20.772779
+    },
+    {
+      "name": "Strecha",
+      "latitude": 48.98142,
+      "longitude": 20.771586
+    },
+    {
+      "name": "Jaskyňa v rokline",
+      "latitude": 48.983635,
+      "longitude": 20.771843
+    },
+    {
+      "name": "Jaskyňa Pod lipou",
+      "latitude": 48.981922,
+      "longitude": 20.769548
+    },
+    {
+      "name": "Netopieria jaskyňa",
+      "latitude": 48.981007,
+      "longitude": 20.776828
+    },
+    {
+      "name": "Šikmá jaskyňa",
+      "latitude": 48.980415,
+      "longitude": 20.777396
+    },
+    {
+      "name": "Syslia jaskyňa",
+      "latitude": 48.98323,
+      "longitude": 20.77213
+    },
+    {
+      "name": "Nová priepasť",
+      "latitude": 48.982998,
+      "longitude": 20.771715
+    },
+    {
+      "name": "Dvojvchodová jaskyňa",
+      "latitude": 48.981116,
+      "longitude": 20.772057
+    },
+    {
+      "name": "Medúzová jaskyňa",
+      "latitude": 48.980979,
+      "longitude": 20.776122
+    },
+    {
+      "name": "Esovitá jaskyňa",
+      "latitude": 48.981112,
+      "longitude": 20.775326
+    },
+    {
+      "name": "Úzka jaskyňa",
+      "latitude": 48.981182,
+      "longitude": 20.775717
+    },
+    {
+      "name": "Jaskyňa s malým závrtom",
+      "latitude": 48.982442,
+      "longitude": 20.770353
+    },
+    {
+      "name": "Priepasť v depresii",
+      "latitude": 48.981961,
+      "longitude": 20.770295
+    },
+    {
+      "name": "Jaskyňa v kúte",
+      "latitude": 48.981719,
+      "longitude": 20.769043
+    },
+    {
+      "name": "Sutinová jaskyňa",
+      "latitude": 48.982774,
+      "longitude": 20.770563
+    },
+    {
+      "name": "Jaskyňa Pod sosnou",
+      "latitude": 48.982521,
+      "longitude": 20.770233
+    },
+    {
+      "name": "Jaskyňa nad chodníkom",
+      "latitude": 48.984843,
+      "longitude": 20.771458
+    },
+    {
+      "name": "Malá ľadová jaskyňa",
+      "latitude": 48.986264,
+      "longitude": 20.772673
+    },
+    {
+      "name": "Jaskyňa pod vrcholovým bodom",
+      "latitude": 48.98444,
+      "longitude": 20.772344
+    },
+    {
+      "name": "Puklinová jaskyňa",
+      "latitude": 48.979879,
+      "longitude": 20.778945
+    },
+    {
+      "name": "Jozef",
+      "latitude": 48.959765,
+      "longitude": 21.431297
+    },
+    {
+      "name": "Jaskyňa na Veľkom Sninskom kameni",
+      "latitude": 48.930197,
+      "longitude": 22.186397
+    },
+    {
+      "name": "Opatovská jaskyňa",
+      "latitude": 48.915149,
+      "longitude": 18.073164
+    },
+    {
+      "name": "Benediktova jaskyňa",
+      "latitude": 48.914279,
+      "longitude": 18.073826
+    },
+    {
+      "name": "Jánošíkova jaskyňa",
+      "latitude": 48.904719,
+      "longitude": 18.178185
+    },
+    {
+      "name": "Jaskyňa pod Jeleňom",
+      "latitude": 48.912845,
+      "longitude": 18.176373
+    },
+    {
+      "name": "Opičia diera",
+      "latitude": 48.852206,
+      "longitude": 18.095598
+    },
+    {
+      "name": "Dúpna diera",
+      "latitude": 48.857281,
+      "longitude": 18.248119
+    },
+    {
+      "name": "Čertova diera",
+      "latitude": 48.8572,
+      "longitude": 18.244917
+    },
+    {
+      "name": "Jaskyňa v Lieští",
+      "latitude": 48.846994,
+      "longitude": 18.249035
+    },
+    {
+      "name": "Čachtická jaskyňa",
+      "latitude": 48.742591,
+      "longitude": 17.786991
+    },
+    {
+      "name": "Slop",
+      "latitude": 48.609419,
+      "longitude": 17.521106
+    },
+    {
+      "name": "Čertov žľab",
+      "latitude": 48.51821,
+      "longitude": 17.40162
+    },
+    {
+      "name": "Hačova",
+      "latitude": 48.51755,
+      "longitude": 17.39244
+    },
+    {
+      "name": "Lipárova",
+      "latitude": 48.51751,
+      "longitude": 17.37324
+    },
+    {
+      "name": "Škrekov",
+      "latitude": 48.517133,
+      "longitude": 17.350275
+    },
+    {
+      "name": "Burianova",
+      "latitude": 48.524561,
+      "longitude": 17.382662
+    },
+    {
+      "name": "Koženokabátová",
+      "latitude": 48.517315,
+      "longitude": 17.356424
+    },
+    {
+      "name": "Vydra",
+      "latitude": 48.519191,
+      "longitude": 17.364557
+    },
+    {
+      "name": "Medvedia jaskyňa",
+      "latitude": 48.51777,
+      "longitude": 17.38271
+    },
+    {
+      "name": "Jaskyňa Diviačej lebky",
+      "latitude": 48.516917,
+      "longitude": 17.384298
+    },
+    {
+      "name": "Okulárova jaskyňa",
+      "latitude": 48.517031,
+      "longitude": 17.391937
+    },
+    {
+      "name": "Vajsáblová priepasť",
+      "latitude": 48.519927,
+      "longitude": 17.39474
+    },
+    {
+      "name": "Jaskyňa Misa",
+      "latitude": 48.518493,
+      "longitude": 17.361836
+    },
+    {
+      "name": "Havrania",
+      "latitude": 48.525987,
+      "longitude": 17.418084
+    },
+    {
+      "name": "Plavecká jaskyňa",
+      "latitude": 48.49719,
+      "longitude": 17.266798
+    },
+    {
+      "name": "Pec",
+      "latitude": 48.49639,
+      "longitude": 17.26776
+    },
+    {
+      "name": "Brlôžok",
+      "latitude": 48.49481,
+      "longitude": 17.26455
+    },
+    {
+      "name": "Piesková",
+      "latitude": 48.49444,
+      "longitude": 17.26639
+    },
+    {
+      "name": "Výklenok",
+      "latitude": 48.49593,
+      "longitude": 17.26886
+    },
+    {
+      "name": "Pohanská",
+      "latitude": 48.489142,
+      "longitude": 17.272618
+    },
+    {
+      "name": "Plavecká priepast",
+      "latitude": 48.495428,
+      "longitude": 17.266385
+    },
+    {
+      "name": "Stražanovej jaskyňa",
+      "latitude": 48.498889,
+      "longitude": 17.303056
+    },
+    {
+      "name": "Deravá skala",
+      "latitude": 48.496926,
+      "longitude": 17.324699
+    },
+    {
+      "name": "Kršlenica-1",
+      "latitude": 48.50704,
+      "longitude": 17.31873
+    },
+    {
+      "name": "Kršlenica-2",
+      "latitude": 48.50736,
+      "longitude": 17.31878
+    },
+    {
+      "name": "Na hrane",
+      "latitude": 48.49859,
+      "longitude": 17.32065
+    },
+    {
+      "name": "Ofrflané - 1",
+      "latitude": 48.49848,
+      "longitude": 17.32125
+    },
+    {
+      "name": "Výver",
+      "latitude": 48.49774,
+      "longitude": 17.3262
+    },
+    {
+      "name": "Tmavá skala",
+      "latitude": 48.49601,
+      "longitude": 17.3258
+    },
+    {
+      "name": "Ofrflané - 2",
+      "latitude": 48.49722,
+      "longitude": 17.32084
+    },
+    {
+      "name": "Stanova",
+      "latitude": 48.49385,
+      "longitude": 17.32163
+    },
+    {
+      "name": "Hadíkova",
+      "latitude": 48.4939,
+      "longitude": 17.3261
+    },
+    {
+      "name": "Veterlínska",
+      "latitude": 48.5138,
+      "longitude": 17.36337
+    },
+    {
+      "name": "Peterská priepasť",
+      "latitude": 48.5162,
+      "longitude": 17.36517
+    },
+    {
+      "name": "Veterlínsky závrt",
+      "latitude": 48.51551,
+      "longitude": 17.3759
+    },
+    {
+      "name": "Deštova",
+      "latitude": 48.510683,
+      "longitude": 17.334377
+    },
+    {
+      "name": "Jeklova",
+      "latitude": 48.510161,
+      "longitude": 17.332774
+    },
+    {
+      "name": "Scoliopterixová",
+      "latitude": 48.508691,
+      "longitude": 17.333267
+    },
+    {
+      "name": "Malá skala",
+      "latitude": 48.51027,
+      "longitude": 17.362191
+    },
+    {
+      "name": "Jaskyňa pri kríži",
+      "latitude": 48.471692,
+      "longitude": 17.293571
+    },
+    {
+      "name": "Galbove diery 2",
+      "latitude": 48.47847,
+      "longitude": 17.30277
+    },
+    {
+      "name": "Kabele",
+      "latitude": 48.47697,
+      "longitude": 17.29968
+    },
+    {
+      "name": "Priepasť SD1",
+      "latitude": 48.47788,
+      "longitude": 17.29798
+    },
+    {
+      "name": "Jazvečia",
+      "latitude": 48.4774,
+      "longitude": 17.29251
+    },
+    {
+      "name": "Vianočná",
+      "latitude": 48.47733,
+      "longitude": 17.29837
+    },
+    {
+      "name": "Riečna",
+      "latitude": 48.47826,
+      "longitude": 17.29452
+    },
+    {
+      "name": "Nad vyvieračkou",
+      "latitude": 48.47739,
+      "longitude": 17.28131
+    },
+    {
+      "name": "Studničky",
+      "latitude": 48.46605,
+      "longitude": 17.28928
+    },
+    {
+      "name": "K2",
+      "latitude": 48.4701,
+      "longitude": 17.2852
+    },
+    {
+      "name": "Pod koreňom",
+      "latitude": 48.46934,
+      "longitude": 17.28737
+    },
+    {
+      "name": "Šípková",
+      "latitude": 48.47036,
+      "longitude": 17.28481
+    },
+    {
+      "name": "Kržľa",
+      "latitude": 48.47117,
+      "longitude": 17.28138
+    },
+    {
+      "name": "S32",
+      "latitude": 48.47321,
+      "longitude": 17.27559
+    },
+    {
+      "name": "S31",
+      "latitude": 48.47338,
+      "longitude": 17.27509
+    },
+    {
+      "name": "Haviareň",
+      "latitude": 48.46125,
+      "longitude": 17.27516
+    },
+    {
+      "name": "Bivák",
+      "latitude": 48.45918,
+      "longitude": 17.27237
+    },
+    {
+      "name": "Roštúnska priepasť",
+      "latitude": 48.45866,
+      "longitude": 17.27074
+    },
+    {
+      "name": "Liščia priepasť",
+      "latitude": 48.45883,
+      "longitude": 17.27199
+    },
+    {
+      "name": "Na Bubne",
+      "latitude": 48.48279,
+      "longitude": 17.26667
+    },
+    {
+      "name": "Ponor",
+      "latitude": 48.47781,
+      "longitude": 17.29943
+    },
+    {
+      "name": "Žľabová jaskyňa",
+      "latitude": 48.46214,
+      "longitude": 17.270543
+    },
+    {
+      "name": "Medvedia jaskyňa",
+      "latitude": 48.479126,
+      "longitude": 17.288901
+    },
+    {
+      "name": "jaskyňa Červenica 6 (Dračia)",
+      "latitude": 48.472305,
+      "longitude": 17.276191
+    },
+    {
+      "name": "Galbove diery 1",
+      "latitude": 48.478484,
+      "longitude": 17.302923
+    },
+    {
+      "name": "Javorinka",
+      "latitude": 48.48659,
+      "longitude": 17.31682
+    },
+    {
+      "name": "Jaskyňa Driny",
+      "latitude": 48.50072,
+      "longitude": 17.40401
+    },
+    {
+      "name": "Mníchova diera 1",
+      "latitude": 48.511348,
+      "longitude": 17.42123
+    },
+    {
+      "name": "Klenová",
+      "latitude": 48.638135,
+      "longitude": 17.594926
+    },
+    {
+      "name": "Oplentova diera",
+      "latitude": 48.647741,
+      "longitude": 17.635597
+    },
+    {
+      "name": "Jaskyňa Veľká pec",
+      "latitude": 48.632295,
+      "longitude": 17.664448
+    },
+    {
+      "name": "Jaskyňa pod Teplým vrchom",
+      "latitude": 48.648893,
+      "longitude": 17.952632
+    },
+    {
+      "name": "Jaskyňa Opálená skala",
+      "latitude": 48.65535,
+      "longitude": 18.04005
+    },
+    {
+      "name": "Jaskyňa pod Úhradom",
+      "latitude": 48.652433,
+      "longitude": 18.0261
+    },
+    {
+      "name": "Jaskyňa pod Holým kameňom",
+      "latitude": 48.614138,
+      "longitude": 17.975349
+    },
+    {
+      "name": "Veľká dolnosokolská jaskyňa",
+      "latitude": 48.595327,
+      "longitude": 17.938809
+    },
+    {
+      "name": "jaskyňa pod Marhátom",
+      "latitude": 48.597657,
+      "longitude": 17.959689
+    },
+    {
+      "name": "Mačacia jaskyňa",
+      "latitude": 48.589919,
+      "longitude": 17.940337
+    },
+    {
+      "name": "Malá dolnosokolská jaskyňa",
+      "latitude": 48.595281,
+      "longitude": 17.939067
+    },
+    {
+      "name": "Čertova pec",
+      "latitude": 48.560317,
+      "longitude": 17.915192
+    },
+    {
+      "name": "v Ostrej",
+      "latitude": 48.920265,
+      "longitude": 18.963861
+    },
+    {
+      "name": "Prepadlisko",
+      "latitude": 48.827438,
+      "longitude": 18.97724
+    },
+    {
+      "name": "Žernovská jaskyňa",
+      "latitude": 48.781325,
+      "longitude": 18.428185
+    },
+    {
+      "name": "Košútová jaskyňa",
+      "latitude": 48.781151,
+      "longitude": 18.438379
+    },
+    {
+      "name": "Brložná diera",
+      "latitude": 48.755898,
+      "longitude": 18.442269
+    },
+    {
+      "name": "Hradná jaskyňa",
+      "latitude": 48.753414,
+      "longitude": 18.393153
+    },
+    {
+      "name": "Čerešňová jaskyňa",
+      "latitude": 48.749571,
+      "longitude": 18.388187
+    },
+    {
+      "name": "Prepoštská jaskyňa",
+      "latitude": 48.777958,
+      "longitude": 18.583288
+    },
+    {
+      "name": "Jaskyňa Váhanka",
+      "latitude": 48.776804,
+      "longitude": 18.458784
+    },
+    {
+      "name": "Vestenická Medvedia jaskyňa",
+      "latitude": 48.736195,
+      "longitude": 18.415925
+    },
+    {
+      "name": "Brloj",
+      "latitude": 48.696195,
+      "longitude": 18.455498
+    },
+    {
+      "name": "Skalný previs",
+      "latitude": 48.732904,
+      "longitude": 18.462947
+    },
+    {
+      "name": "Hájska skala",
+      "latitude": 48.773241,
+      "longitude": 18.7791
+    },
+    {
+      "name": "Körmendyho jaskyňa",
+      "latitude": 48.704814,
+      "longitude": 18.941624
+    },
+    {
+      "name": "priepasť Štrochy",
+      "latitude": 48.908607,
+      "longitude": 19.057567
+    },
+    {
+      "name": "Jaskyňa pod Bielou Skalou",
+      "latitude": 48.918662,
+      "longitude": 19.071988
+    },
+    {
+      "name": "B6",
+      "latitude": 48.920089,
+      "longitude": 19.071148
+    },
+    {
+      "name": "K3",
+      "latitude": 48.917953,
+      "longitude": 19.101673
+    },
+    {
+      "name": "K4",
+      "latitude": 48.917742,
+      "longitude": 19.10118
+    },
+    {
+      "name": "K5",
+      "latitude": 48.917176,
+      "longitude": 19.100378
+    },
+    {
+      "name": "Kyškovie",
+      "latitude": 48.915759,
+      "longitude": 19.097293
+    },
+    {
+      "name": "P",
+      "latitude": 48.911352,
+      "longitude": 19.09027
+    },
+    {
+      "name": "P3",
+      "latitude": 48.91125,
+      "longitude": 19.089947
+    },
+    {
+      "name": "P2",
+      "latitude": 48.910814,
+      "longitude": 19.089587
+    },
+    {
+      "name": "Chopec",
+      "latitude": 48.911684,
+      "longitude": 19.115326
+    },
+    {
+      "name": "Prašnica",
+      "latitude": 48.879615,
+      "longitude": 19.126244
+    },
+    {
+      "name": "v Suchej doline",
+      "latitude": 48.887471,
+      "longitude": 19.136651
+    },
+    {
+      "name": "Martinka",
+      "latitude": 48.891358,
+      "longitude": 19.134894
+    },
+    {
+      "name": "V Zadkoch",
+      "latitude": 48.883474,
+      "longitude": 19.152816
+    },
+    {
+      "name": "Biela jaskyňa",
+      "latitude": 48.920588,
+      "longitude": 19.164375
+    },
+    {
+      "name": "Nad Strednou Revúcou",
+      "latitude": 48.915024,
+      "longitude": 19.177886
+    },
+    {
+      "name": "Tunelová jaskyňa",
+      "latitude": 48.919971,
+      "longitude": 19.265487
+    },
+    {
+      "name": "Fedorka 2",
+      "latitude": 48.908269,
+      "longitude": 19.27193
+    },
+    {
+      "name": "Fedorka1",
+      "latitude": 48.907726,
+      "longitude": 19.273327
+    },
+    {
+      "name": "v Tesnom",
+      "latitude": 48.887915,
+      "longitude": 19.19076
+    },
+    {
+      "name": "Mateja Korvína",
+      "latitude": 48.885932,
+      "longitude": 19.275203
+    },
+    {
+      "name": "Barborina jaskyňa",
+      "latitude": 48.867945,
+      "longitude": 19.286887
+    },
+    {
+      "name": "Bystrických jaskyniarov",
+      "latitude": 48.868108,
+      "longitude": 19.285955
+    },
+    {
+      "name": "Glatzova priepasť",
+      "latitude": 48.868009,
+      "longitude": 19.287359
+    },
+    {
+      "name": "v Žarnovke",
+      "latitude": 48.883955,
+      "longitude": 19.262269
+    },
+    {
+      "name": "Horná Túfna",
+      "latitude": 48.845108,
+      "longitude": 19.029021
+    },
+    {
+      "name": "Jaskyňa Dolná Túfna",
+      "latitude": 48.843356,
+      "longitude": 19.02458
+    },
+    {
+      "name": "Jelenecká jaskyňa",
+      "latitude": 48.857368,
+      "longitude": 19.149303
+    },
+    {
+      "name": "Harmanecká jaskyňa",
+      "latitude": 48.813839,
+      "longitude": 19.040013
+    },
+    {
+      "name": "Dekrétova Jaskyňa",
+      "latitude": 48.819007,
+      "longitude": 19.04057
+    },
+    {
+      "name": "Jaskyňa Koliba",
+      "latitude": 48.820788,
+      "longitude": 19.036326
+    },
+    {
+      "name": "Jaskyňa Rakytová",
+      "latitude": 48.82148,
+      "longitude": 19.042083
+    },
+    {
+      "name": "Strateného prsteňa",
+      "latitude": 48.860658,
+      "longitude": 19.206363
+    },
+    {
+      "name": "Jaskyňa Môce",
+      "latitude": 48.860755,
+      "longitude": 19.203473
+    },
+    {
+      "name": "Bystrianska jaskyňa - východ",
+      "latitude": 48.840048,
+      "longitude": 19.597059
+    },
+    {
+      "name": "Bystrianska jaskyňa",
+      "latitude": 48.839518,
+      "longitude": 19.594623
+    },
+    {
+      "name": "Lipová",
+      "latitude": 48.807069,
+      "longitude": 19.580119
+    },
+    {
+      "name": "Ponor Peklo",
+      "latitude": 48.790434,
+      "longitude": 19.028231
+    },
+    {
+      "name": "Netopieria jaskyňa",
+      "latitude": 48.784245,
+      "longitude": 19.154977
+    },
+    {
+      "name": "Jaskyňa Kaplnka",
+      "latitude": 48.78495,
+      "longitude": 19.154045
+    },
+    {
+      "name": "Jaskyňa Rúra",
+      "latitude": 48.773545,
+      "longitude": 19.152526
+    },
+    {
+      "name": "Jaskyňa Žajdlíkov hostinec",
+      "latitude": 48.774239,
+      "longitude": 19.153356
+    },
+    {
+      "name": "Dvoj-Rúra",
+      "latitude": 48.773849,
+      "longitude": 19.152691
+    },
+    {
+      "name": "Jaskyňa Vartovka",
+      "latitude": 48.79073,
+      "longitude": 19.239242
+    },
+    {
+      "name": "Jaskyňa pod Kopcom",
+      "latitude": 48.789724,
+      "longitude": 19.227147
+    },
+    {
+      "name": "Jaskyňa Ľadová studňa",
+      "latitude": 48.780593,
+      "longitude": 19.249092
+    },
+    {
+      "name": "Jaskyňa Drienka",
+      "latitude": 48.751633,
+      "longitude": 19.29191
+    },
+    {
+      "name": "Jaskyne pri Skalke",
+      "latitude": 48.743827,
+      "longitude": 18.997109
+    },
+    {
+      "name": "Jaskyňa Jánošíkove diery",
+      "latitude": 48.742337,
+      "longitude": 18.996749
+    },
+    {
+      "name": "Jaskyňa Suchá Diera",
+      "latitude": 48.743991,
+      "longitude": 18.997647
+    },
+    {
+      "name": "Svahová jaskyňa",
+      "latitude": 48.741238,
+      "longitude": 18.997229
+    },
+    {
+      "name": "Diera pod Suchým vrchom",
+      "latitude": 48.731538,
+      "longitude": 19.08455
+    },
+    {
+      "name": "Medená jaskyňa",
+      "latitude": 48.710958,
+      "longitude": 19.256875
+    },
+    {
+      "name": "Ponická",
+      "latitude": 48.713147,
+      "longitude": 19.262185
+    },
+    {
+      "name": "Rudolf",
+      "latitude": 48.712985,
+      "longitude": 19.263276
+    },
+    {
+      "name": "Jaskyňa pod Vysokou",
+      "latitude": 48.761417,
+      "longitude": 19.381213
+    },
+    {
+      "name": "Jaskyňa pod Jaseňovým vrchom",
+      "latitude": 48.705201,
+      "longitude": 19.373641
+    },
+    {
+      "name": "Zlepencová jaskyňa",
+      "latitude": 48.619075,
+      "longitude": 18.357038
+    },
+    {
+      "name": "Jaskyňa v lome",
+      "latitude": 48.53855,
+      "longitude": 18.312067
+    },
+    {
+      "name": "jaskyňa Brloh",
+      "latitude": 48.5364,
+      "longitude": 18.308483
+    },
+    {
+      "name": "Dobrotínska jaskyňa",
+      "latitude": 48.563873,
+      "longitude": 18.481659
+    },
+    {
+      "name": "Jazvečí hrad",
+      "latitude": 48.52285,
+      "longitude": 18.574367
+    },
+    {
+      "name": "Oblúk",
+      "latitude": 48.524733,
+      "longitude": 18.575667
+    },
+    {
+      "name": "Píla",
+      "latitude": 48.525083,
+      "longitude": 18.5755
+    },
+    {
+      "name": "Jazvínska jaskyňa",
+      "latitude": 48.509383,
+      "longitude": 18.5445
+    },
+    {
+      "name": "Jaskyňa Kamenec",
+      "latitude": 48.480583,
+      "longitude": 18.491617
+    },
+    {
+      "name": "Jakyňa Kemenec (Pri Levasovkej)",
+      "latitude": 48.481871,
+      "longitude": 18.490763
+    },
+    {
+      "name": "Parenica",
+      "latitude": 48.527301,
+      "longitude": 18.864499
+    },
+    {
+      "name": "Badínska pivnička",
+      "latitude": 48.655985,
+      "longitude": 19.110366
+    },
+    {
+      "name": "Jaskyňa Hučavský rukáv",
+      "latitude": 48.650342,
+      "longitude": 19.32664
+    },
+    {
+      "name": "Jánošíkova skrýša",
+      "latitude": 48.465154,
+      "longitude": 19.428718
+    },
+    {
+      "name": "Cajla",
+      "latitude": 48.344436,
+      "longitude": 17.221041
+    },
+    {
+      "name": "Malá v lome",
+      "latitude": 48.343986,
+      "longitude": 17.2217
+    },
+    {
+      "name": "Nad pasekami",
+      "latitude": 48.45644,
+      "longitude": 17.26323
+    },
+    {
+      "name": "Hajduškové",
+      "latitude": 48.45399,
+      "longitude": 17.24439
+    },
+    {
+      "name": "Medvedia diera",
+      "latitude": 48.4561,
+      "longitude": 17.25482
+    },
+    {
+      "name": "Orešanská sonda",
+      "latitude": 48.452669,
+      "longitude": 17.344131
+    },
+    {
+      "name": "jaskyňa sv. Leonarda",
+      "latitude": 48.420368,
+      "longitude": 17.374605
+    },
+    {
+      "name": "Pec",
+      "latitude": 48.340302,
+      "longitude": 17.223113
+    },
+    {
+      "name": "Veľké Prepadlé 2",
+      "latitude": 48.310016,
+      "longitude": 17.13983
+    },
+    {
+      "name": "Veľké Prepadlé 1",
+      "latitude": 48.309356,
+      "longitude": 17.139209
+    },
+    {
+      "name": "Limbašská estavela",
+      "latitude": 48.294943,
+      "longitude": 17.169361
+    },
+    {
+      "name": "Veľké Prepadlé 3",
+      "latitude": 48.309668,
+      "longitude": 17.139458
+    },
+    {
+      "name": "Pod Holým vrchom",
+      "latitude": 48.229124,
+      "longitude": 17.048814
+    },
+    {
+      "name": "Ananásová",
+      "latitude": 48.271308,
+      "longitude": 17.123557
+    },
+    {
+      "name": "Jubilejná",
+      "latitude": 48.27967,
+      "longitude": 17.133754
+    },
+    {
+      "name": "Sedmička",
+      "latitude": 48.281306,
+      "longitude": 17.127026
+    },
+    {
+      "name": "Staré Hájne I.",
+      "latitude": 48.273649,
+      "longitude": 17.109147
+    },
+    {
+      "name": "Notre Dame",
+      "latitude": 48.270922,
+      "longitude": 17.121766
+    },
+    {
+      "name": "Trojuholník",
+      "latitude": 48.268939,
+      "longitude": 17.120605
+    },
+    {
+      "name": "Prielezná",
+      "latitude": 48.272618,
+      "longitude": 17.121756
+    },
+    {
+      "name": "Zbojnícka",
+      "latitude": 48.261597,
+      "longitude": 17.118225
+    },
+    {
+      "name": "Riečna",
+      "latitude": 48.260534,
+      "longitude": 17.118392
+    },
+    {
+      "name": "Stará garda",
+      "latitude": 48.278571,
+      "longitude": 17.133655
+    },
+    {
+      "name": "Medené Hámre",
+      "latitude": 48.259795,
+      "longitude": 17.118352
+    },
+    {
+      "name": "Erem",
+      "latitude": 48.25948,
+      "longitude": 17.117966
+    },
+    {
+      "name": "Maštaľ",
+      "latitude": 48.26126,
+      "longitude": 17.118225
+    },
+    {
+      "name": "Šinterská",
+      "latitude": 48.261159,
+      "longitude": 17.118422
+    },
+    {
+      "name": "Slnečná",
+      "latitude": 48.261781,
+      "longitude": 17.118232
+    },
+    {
+      "name": "Lajova puklina",
+      "latitude": 48.262291,
+      "longitude": 17.118289
+    },
+    {
+      "name": "Vševedova",
+      "latitude": 48.26295,
+      "longitude": 17.118691
+    },
+    {
+      "name": "Okno",
+      "latitude": 48.269258,
+      "longitude": 17.120664
+    },
+    {
+      "name": "Nezákonná",
+      "latitude": 48.269423,
+      "longitude": 17.121761
+    },
+    {
+      "name": "Vetrák",
+      "latitude": 48.269062,
+      "longitude": 17.12056
+    },
+    {
+      "name": "Svätého prijímania",
+      "latitude": 48.2691,
+      "longitude": 17.120775
+    },
+    {
+      "name": "Strateného syna",
+      "latitude": 48.269707,
+      "longitude": 17.121219
+    },
+    {
+      "name": "Korenárka",
+      "latitude": 48.270306,
+      "longitude": 17.120655
+    },
+    {
+      "name": "Nora",
+      "latitude": 48.27079,
+      "longitude": 17.121676
+    },
+    {
+      "name": "Študentova diera",
+      "latitude": 48.270871,
+      "longitude": 17.123032
+    },
+    {
+      "name": "Sovia",
+      "latitude": 48.270375,
+      "longitude": 17.120696
+    },
+    {
+      "name": "Dolná skala",
+      "latitude": 48.271858,
+      "longitude": 17.119359
+    },
+    {
+      "name": "Stará Ananásová",
+      "latitude": 48.271272,
+      "longitude": 17.123505
+    },
+    {
+      "name": "Vlčie jamy",
+      "latitude": 48.27452,
+      "longitude": 17.125523
+    },
+    {
+      "name": "Hadia",
+      "latitude": 48.271696,
+      "longitude": 17.123897
+    },
+    {
+      "name": "Eksplo",
+      "latitude": 48.27866,
+      "longitude": 17.136542
+    },
+    {
+      "name": "Jazvečí hrad",
+      "latitude": 48.278161,
+      "longitude": 17.134094
+    },
+    {
+      "name": "Majkova",
+      "latitude": 48.278993,
+      "longitude": 17.134929
+    },
+    {
+      "name": "Horná garda",
+      "latitude": 48.278175,
+      "longitude": 17.133491
+    },
+    {
+      "name": "Stredná garda",
+      "latitude": 48.278352,
+      "longitude": 17.133577
+    },
+    {
+      "name": "Silnického",
+      "latitude": 48.281312,
+      "longitude": 17.129124
+    },
+    {
+      "name": "Ponor 5",
+      "latitude": 48.281317,
+      "longitude": 17.130785
+    },
+    {
+      "name": "Viktória",
+      "latitude": 48.278,
+      "longitude": 17.133919
+    },
+    {
+      "name": "Sedmička 2",
+      "latitude": 48.28089,
+      "longitude": 17.127943
+    },
+    {
+      "name": "Líščia",
+      "latitude": 48.280113,
+      "longitude": 17.132653
+    },
+    {
+      "name": "60. výročia",
+      "latitude": 48.279001,
+      "longitude": 17.129151
+    },
+    {
+      "name": "Trpaslíkov",
+      "latitude": 48.281598,
+      "longitude": 17.128217
+    },
+    {
+      "name": "Rybia šupina",
+      "latitude": 48.278618,
+      "longitude": 17.129238
+    },
+    {
+      "name": "Červená",
+      "latitude": 48.279768,
+      "longitude": 17.103186
+    },
+    {
+      "name": "Gitara",
+      "latitude": 48.271242,
+      "longitude": 17.122924
+    },
+    {
+      "name": "Za lomom",
+      "latitude": 48.270012,
+      "longitude": 17.120456
+    },
+    {
+      "name": "Troch vchodov",
+      "latitude": 48.272014,
+      "longitude": 17.123794
+    },
+    {
+      "name": "Nad Gitarou",
+      "latitude": 48.271108,
+      "longitude": 17.122815
+    },
+    {
+      "name": "Pri parkovisku",
+      "latitude": 48.270529,
+      "longitude": 17.121715
+    },
+    {
+      "name": "Červený bod",
+      "latitude": 48.271918,
+      "longitude": 17.119427
+    },
+    {
+      "name": "Komenského",
+      "latitude": 48.282802,
+      "longitude": 17.129292
+    },
+    {
+      "name": "Storočného lístia",
+      "latitude": 48.269797,
+      "longitude": 17.121431
+    },
+    {
+      "name": "Odpadková",
+      "latitude": 48.270963,
+      "longitude": 17.12187
+    },
+    {
+      "name": "Puklinová",
+      "latitude": 48.270947,
+      "longitude": 17.121838
+    },
+    {
+      "name": "Ružová",
+      "latitude": 48.270468,
+      "longitude": 17.121697
+    },
+    {
+      "name": "Rodinná 2",
+      "latitude": 48.281998,
+      "longitude": 17.12754
+    },
+    {
+      "name": "Rodinná 1",
+      "latitude": 48.281903,
+      "longitude": 17.127467
+    },
+    {
+      "name": "Úkrytová",
+      "latitude": 48.271173,
+      "longitude": 17.122714
+    },
+    {
+      "name": "Zuzka Gombíková Štvordierková",
+      "latitude": 48.269835,
+      "longitude": 17.12152
+    },
+    {
+      "name": "Štrbina v kameňolome",
+      "latitude": 48.266343,
+      "longitude": 17.118261
+    },
+    {
+      "name": "Vysoká",
+      "latitude": 48.270284,
+      "longitude": 17.120714
+    },
+    {
+      "name": "Dolmen",
+      "latitude": 48.224777,
+      "longitude": 17.148279
+    },
+    {
+      "name": "Braňov závrt",
+      "latitude": 48.340424,
+      "longitude": 17.229812
+    },
+    {
+      "name": "Svoradova jaskyňa",
+      "latitude": 48.346847,
+      "longitude": 18.094032
+    },
+    {
+      "name": "Zvislá jaskyňa",
+      "latitude": 48.365651,
+      "longitude": 18.162692
+    },
+    {
+      "name": "Kolíňanská čertova diera",
+      "latitude": 48.361973,
+      "longitude": 18.190933
+    },
+    {
+      "name": "Hradná jaskyňa",
+      "latitude": 48.318703,
+      "longitude": 18.08623
+    },
+    {
+      "name": "Jaskyňa pod nitrianskym hradom",
+      "latitude": 48.318585,
+      "longitude": 18.08595
+    },
+    {
+      "name": "Jaskyňa Dezidera Horváta",
+      "latitude": 48.296378,
+      "longitude": 18.088256
+    },
+    {
+      "name": "Jaskyňa v drevenom lome",
+      "latitude": 48.295575,
+      "longitude": 18.088641
+    },
+    {
+      "name": "Abrázna",
+      "latitude": 48.201974,
+      "longitude": 16.971188
+    },
+    {
+      "name": "Šumienka",
+      "latitude": 48.20216,
+      "longitude": 17.005141
+    },
+    {
+      "name": "Kremencová III.",
+      "latitude": 48.196749,
+      "longitude": 17.002111
+    },
+    {
+      "name": "Kremencová II.",
+      "latitude": 48.196704,
+      "longitude": 17.002113
+    },
+    {
+      "name": "Kremencová I.",
+      "latitude": 48.196647,
+      "longitude": 17.002079
+    },
+    {
+      "name": "Kremencová IV.",
+      "latitude": 48.196816,
+      "longitude": 17.002057
+    },
+    {
+      "name": "Kremencová V.",
+      "latitude": 48.196889,
+      "longitude": 17.002058
+    },
+    {
+      "name": "Pieskovcová",
+      "latitude": 48.199033,
+      "longitude": 16.976513
+    },
+    {
+      "name": "Hlboká dráha",
+      "latitude": 48.19945,
+      "longitude": 16.997125
+    },
+    {
+      "name": "Šupkárova",
+      "latitude": 48.199597,
+      "longitude": 16.995428
+    },
+    {
+      "name": "Zelený bok",
+      "latitude": 48.199872,
+      "longitude": 16.993798
+    },
+    {
+      "name": "Medzivrstvová",
+      "latitude": 48.175217,
+      "longitude": 17.040796
+    },
+    {
+      "name": "Skalná Brána",
+      "latitude": 48.174087,
+      "longitude": 16.976623
+    },
+    {
+      "name": "Tunelová",
+      "latitude": 48.174111,
+      "longitude": 16.976975
+    },
+    {
+      "name": "Múrová",
+      "latitude": 48.174122,
+      "longitude": 16.977219
+    },
+    {
+      "name": "Pri amfiteátri",
+      "latitude": 48.174066,
+      "longitude": 16.977166
+    },
+    {
+      "name": "Pod citadelou",
+      "latitude": 48.174156,
+      "longitude": 16.97714
+    },
+    {
+      "name": "Vtáčia II.",
+      "latitude": 48.17413,
+      "longitude": 16.977065
+    },
+    {
+      "name": "Brána pod Panenskou baštou",
+      "latitude": 48.173861,
+      "longitude": 16.976656
+    },
+    {
+      "name": "Vtáčia I.",
+      "latitude": 48.174211,
+      "longitude": 16.976882
+    },
+    {
+      "name": "Previsová",
+      "latitude": 48.174632,
+      "longitude": 16.97776
+    },
+    {
+      "name": "Severná",
+      "latitude": 48.174777,
+      "longitude": 16.977908
+    },
+    {
+      "name": "Nová",
+      "latitude": 48.174351,
+      "longitude": 16.977028
+    },
+    {
+      "name": "Bielej skaly",
+      "latitude": 48.191178,
+      "longitude": 17.003125
+    },
+    {
+      "name": "Pod Hrubým brehom",
+      "latitude": 48.176089,
+      "longitude": 17.040882
+    },
+    {
+      "name": "Jaskyňa v pieskovci",
+      "latitude": 48.204387,
+      "longitude": 17.281084
+    },
+    {
+      "name": "Dievčia skala",
+      "latitude": 48.398899,
+      "longitude": 18.617279
+    },
+    {
+      "name": "Družstevná pivnica",
+      "latitude": 48.405423,
+      "longitude": 18.931648
+    },
+    {
+      "name": "Umelá jaskyňa \"Peklo\"",
+      "latitude": 48.419501,
+      "longitude": 18.942816
+    },
+    {
+      "name": "Sezam",
+      "latitude": 48.376909,
+      "longitude": 18.639487
+    },
+    {
+      "name": "IN VINO VERITAS",
+      "latitude": 48.229267,
+      "longitude": 18.86533
+    },
+    {
+      "name": "Turecká diera",
+      "latitude": 48.420673,
+      "longitude": 19.182271
+    },
+    {
+      "name": "Jaskyňa pod Bralcami",
+      "latitude": 48.428658,
+      "longitude": 19.465865
+    },
+    {
+      "name": "Balvanová jaskyňa",
+      "latitude": 48.428393,
+      "longitude": 19.466278
+    },
+    {
+      "name": "Mara medvedia",
+      "latitude": 48.442624,
+      "longitude": 19.522075
+    },
+    {
+      "name": "Suchánsky previs",
+      "latitude": 48.293371,
+      "longitude": 19.239952
+    },
+    {
+      "name": "Židova diera",
+      "latitude": 48.22893,
+      "longitude": 19.321561
+    },
+    {
+      "name": "Mučínska jaskyňa",
+      "latitude": 48.23315,
+      "longitude": 19.676266
+    },
+    {
+      "name": "na Grúniku",
+      "latitude": 48.908333,
+      "longitude": 19.822028
+    },
+    {
+      "name": "Keselova diera",
+      "latitude": 48.906475,
+      "longitude": 20.226535
+    },
+    {
+      "name": "Dobšinská ľadová jaskyňa",
+      "latitude": 48.867937,
+      "longitude": 20.304254
+    },
+    {
+      "name": "Jaskyňa Duča",
+      "latitude": 48.869101,
+      "longitude": 20.306225
+    },
+    {
+      "name": "Jaskyňa v Havranej skale",
+      "latitude": 48.890603,
+      "longitude": 20.344048
+    },
+    {
+      "name": "Dudlava skala jaskyňa",
+      "latitude": 48.839901,
+      "longitude": 20.082792
+    },
+    {
+      "name": "Stratený potok",
+      "latitude": 48.824338,
+      "longitude": 20.16017
+    },
+    {
+      "name": "Jaskyňa v Homoli",
+      "latitude": 48.828647,
+      "longitude": 20.190606
+    },
+    {
+      "name": "Zelená jaskyňa",
+      "latitude": 48.859167,
+      "longitude": 20.310888
+    },
+    {
+      "name": "Stratenská jaskyňa",
+      "latitude": 48.862187,
+      "longitude": 20.316409
+    },
+    {
+      "name": "Ľadová jama na Muránskej planine",
+      "latitude": 48.789372,
+      "longitude": 20.002856
+    },
+    {
+      "name": "Jaskyňa na Remete",
+      "latitude": 48.736178,
+      "longitude": 19.849928
+    },
+    {
+      "name": "Čertová jaskyňa",
+      "latitude": 48.732526,
+      "longitude": 19.860169
+    },
+    {
+      "name": "Dielik",
+      "latitude": 48.703579,
+      "longitude": 19.985811
+    },
+    {
+      "name": "Bobačka",
+      "latitude": 48.781483,
+      "longitude": 20.105753
+    },
+    {
+      "name": "Wesselényiho jaskyňa",
+      "latitude": 48.764006,
+      "longitude": 20.064219
+    },
+    {
+      "name": "Medvedia jaskyňa",
+      "latitude": 48.917325,
+      "longitude": 20.411929
+    },
+    {
+      "name": "Karasova diera",
+      "latitude": 48.921616,
+      "longitude": 20.56154
+    },
+    {
+      "name": "Šarkanova diera",
+      "latitude": 48.894314,
+      "longitude": 20.731761
+    },
+    {
+      "name": "Homološova diera",
+      "latitude": 48.889552,
+      "longitude": 20.786973
+    },
+    {
+      "name": "Starý sklad trhaviny pre stavbu tunela",
+      "latitude": 48.873555,
+      "longitude": 21.089053
+    },
+    {
+      "name": "Pod Sľuchtou",
+      "latitude": 48.871336,
+      "longitude": 21.031687
+    },
+    {
+      "name": "Márnica",
+      "latitude": 48.847063,
+      "longitude": 21.062846
+    },
+    {
+      "name": "Klenbová",
+      "latitude": 48.847504,
+      "longitude": 21.059947
+    },
+    {
+      "name": "Predná veľká",
+      "latitude": 48.847678,
+      "longitude": 21.060645
+    },
+    {
+      "name": "Líščia",
+      "latitude": 48.846644,
+      "longitude": 21.062942
+    },
+    {
+      "name": "Ukrytová",
+      "latitude": 48.847557,
+      "longitude": 21.059803
+    },
+    {
+      "name": "Žikmundova 6",
+      "latitude": 48.847114,
+      "longitude": 21.062797
+    },
+    {
+      "name": "Vozová",
+      "latitude": 48.846993,
+      "longitude": 21.062986
+    },
+    {
+      "name": "Belasá jaskyňa",
+      "latitude": 48.808424,
+      "longitude": 21.069343
+    },
+    {
+      "name": "Jaskyňa nad kameňolomom",
+      "latitude": 48.811588,
+      "longitude": 21.055909
+    },
+    {
+      "name": "Kamenné mlieko",
+      "latitude": 48.811017,
+      "longitude": 21.030423
+    },
+    {
+      "name": "Šípková jaskyňa",
+      "latitude": 48.789987,
+      "longitude": 21.074337
+    },
+    {
+      "name": "Jaskyňa v hrebienku",
+      "latitude": 48.789189,
+      "longitude": 21.076825
+    },
+    {
+      "name": "Jazvečia diera II",
+      "latitude": 48.78949,
+      "longitude": 21.076379
+    },
+    {
+      "name": "Jazvečia diera I",
+      "latitude": 48.789446,
+      "longitude": 21.075956
+    },
+    {
+      "name": "Trojotvorová jaskyňa",
+      "latitude": 48.789665,
+      "longitude": 21.074894
+    },
+    {
+      "name": "jaskyňa pod Zálomom",
+      "latitude": 48.805622,
+      "longitude": 21.035753
+    },
+    {
+      "name": "Ochtinská aragonitová jaskyňa",
+      "latitude": 48.664435,
+      "longitude": 20.309203
+    },
+    {
+      "name": "Priepasť pod Veterníkom",
+      "latitude": 48.605422,
+      "longitude": 20.34194
+    },
+    {
+      "name": "Podbanište",
+      "latitude": 48.523447,
+      "longitude": 20.0737
+    },
+    {
+      "name": "Pekelná diera",
+      "latitude": 48.519523,
+      "longitude": 20.205695
+    },
+    {
+      "name": "Studnica",
+      "latitude": 48.526346,
+      "longitude": 20.26543
+    },
+    {
+      "name": "Skalická jaskyňa",
+      "latitude": 48.540423,
+      "longitude": 20.351209
+    },
+    {
+      "name": "Črepinová žomboj",
+      "latitude": 48.540948,
+      "longitude": 20.374563
+    },
+    {
+      "name": "Bartalova priepast'",
+      "latitude": 48.544312,
+      "longitude": 20.378092
+    },
+    {
+      "name": "Železničná priepasť",
+      "latitude": 48.540217,
+      "longitude": 20.382712
+    },
+    {
+      "name": "Veľká drienčanská jaskyňa",
+      "latitude": 48.489562,
+      "longitude": 20.060881
+    },
+    {
+      "name": "Malá drienčanská jaskyňa",
+      "latitude": 48.487429,
+      "longitude": 20.063252
+    },
+    {
+      "name": "Sovia jaskyňa",
+      "latitude": 48.506928,
+      "longitude": 20.26668
+    },
+    {
+      "name": "Skerešovská jaskyňa",
+      "latitude": 48.514185,
+      "longitude": 20.218368
+    },
+    {
+      "name": "SE-5",
+      "latitude": 48.50824,
+      "longitude": 20.238839
+    },
+    {
+      "name": "Levártska jaskyňa",
+      "latitude": 48.499123,
+      "longitude": 20.251976
+    },
+    {
+      "name": "Hutnianska jaskyňa",
+      "latitude": 48.497787,
+      "longitude": 20.337132
+    },
+    {
+      "name": "Peško",
+      "latitude": 48.492219,
+      "longitude": 20.343267
+    },
+    {
+      "name": "Kamenná diera",
+      "latitude": 48.483985,
+      "longitude": 20.257252
+    },
+    {
+      "name": "Šingliarova priepasť",
+      "latitude": 48.65609,
+      "longitude": 20.41726
+    },
+    {
+      "name": "Prievanová diera",
+      "latitude": 48.6388,
+      "longitude": 20.430051
+    },
+    {
+      "name": "Úzka jaskyňa",
+      "latitude": 48.650446,
+      "longitude": 20.403487
+    },
+    {
+      "name": "Veľká vlčia priepasť",
+      "latitude": 48.647891,
+      "longitude": 20.406186
+    },
+    {
+      "name": "Malá pivnica",
+      "latitude": 48.657249,
+      "longitude": 20.597772
+    },
+    {
+      "name": "Veľká pivnica",
+      "latitude": 48.657359,
+      "longitude": 20.597666
+    },
+    {
+      "name": "Veterná priepasť",
+      "latitude": 48.639269,
+      "longitude": 20.685681
+    },
+    {
+      "name": "Zombor",
+      "latitude": 48.613699,
+      "longitude": 20.44373
+    },
+    {
+      "name": "Zvonivá jama",
+      "latitude": 48.617917,
+      "longitude": 20.42607
+    },
+    {
+      "name": "Lastovičia diera",
+      "latitude": 48.610682,
+      "longitude": 20.442317
+    },
+    {
+      "name": "Hučiaca vyvieračka",
+      "latitude": 48.625484,
+      "longitude": 20.390845
+    },
+    {
+      "name": "Stará Brzotínska jaskyňa",
+      "latitude": 48.608874,
+      "longitude": 20.470291
+    },
+    {
+      "name": "Čertova jama",
+      "latitude": 48.618427,
+      "longitude": 20.418113
+    },
+    {
+      "name": "Dudášova diera",
+      "latitude": 48.619793,
+      "longitude": 20.444395
+    },
+    {
+      "name": "Portálová priepasť",
+      "latitude": 48.605294,
+      "longitude": 20.412868
+    },
+    {
+      "name": "Mačacia priepasť",
+      "latitude": 48.610328,
+      "longitude": 20.439472
+    },
+    {
+      "name": "Priepasť pod Veľkým Ostrým",
+      "latitude": 48.612017,
+      "longitude": 20.401053
+    },
+    {
+      "name": "Ľudská priepasť",
+      "latitude": 48.627995,
+      "longitude": 20.411821
+    },
+    {
+      "name": "Gravitačná jaskyňa",
+      "latitude": 48.626368,
+      "longitude": 20.403634
+    },
+    {
+      "name": "Smreková priepasť",
+      "latitude": 48.622247,
+      "longitude": 20.407422
+    },
+    {
+      "name": "Kosťová pri Zvonici",
+      "latitude": 48.618284,
+      "longitude": 20.418674
+    },
+    {
+      "name": "Žinčicová priepasť",
+      "latitude": 48.613529,
+      "longitude": 20.408983
+    },
+    {
+      "name": "Machová priepasť",
+      "latitude": 48.620836,
+      "longitude": 20.405348
+    },
+    {
+      "name": "Nová brzotínska jaskyňa",
+      "latitude": 48.609936,
+      "longitude": 20.470443
+    },
+    {
+      "name": "Vlčia jama",
+      "latitude": 48.614851,
+      "longitude": 20.449273
+    },
+    {
+      "name": "Priepasť pri Fabiánovej",
+      "latitude": 48.611086,
+      "longitude": 20.459764
+    },
+    {
+      "name": "Sovia priepasť",
+      "latitude": 48.608518,
+      "longitude": 20.45977
+    },
+    {
+      "name": "Fabiánová dvojitá priepasť",
+      "latitude": 48.609835,
+      "longitude": 20.461912
+    },
+    {
+      "name": "Okrajová peňažnica",
+      "latitude": 48.605869,
+      "longitude": 20.462562
+    },
+    {
+      "name": "Priepasť s kladou",
+      "latitude": 48.606442,
+      "longitude": 20.450637
+    },
+    {
+      "name": "priepasť Veľká Bikfa",
+      "latitude": 48.610324,
+      "longitude": 20.531316
+    },
+    {
+      "name": "priepasť Malá Žomboj",
+      "latitude": 48.605055,
+      "longitude": 20.530066
+    },
+    {
+      "name": "priepasť Attila",
+      "latitude": 48.615461,
+      "longitude": 20.512929
+    },
+    {
+      "name": "priepasť Katka",
+      "latitude": 48.612606,
+      "longitude": 20.513729
+    },
+    {
+      "name": "priepasť Veľký Malinčak",
+      "latitude": 48.614939,
+      "longitude": 20.517567
+    },
+    {
+      "name": "priepasť Malý Malinčak",
+      "latitude": 48.615149,
+      "longitude": 20.517487
+    },
+    {
+      "name": "Mačacia priepasť",
+      "latitude": 48.608765,
+      "longitude": 20.502694
+    },
+    {
+      "name": "Priepasť pri zelenej značke",
+      "latitude": 48.61397,
+      "longitude": 20.530754
+    },
+    {
+      "name": "Štvorvchodová priepasť",
+      "latitude": 48.605332,
+      "longitude": 20.501975
+    },
+    {
+      "name": "Priepasť pri borovici",
+      "latitude": 48.617967,
+      "longitude": 20.52327
+    },
+    {
+      "name": "Jelenia priepasť",
+      "latitude": 48.581725,
+      "longitude": 20.418518
+    },
+    {
+      "name": "Dvojitá priepasť",
+      "latitude": 48.581832,
+      "longitude": 20.418124
+    },
+    {
+      "name": "Zbojnícka jaskyňa",
+      "latitude": 48.581646,
+      "longitude": 20.425587
+    },
+    {
+      "name": "Diviačia priepasť",
+      "latitude": 48.58401,
+      "longitude": 20.441972
+    },
+    {
+      "name": "Jašteričia priepasť",
+      "latitude": 48.577559,
+      "longitude": 20.409177
+    },
+    {
+      "name": "Priepasť na dne závrtu",
+      "latitude": 48.578586,
+      "longitude": 20.425716
+    },
+    {
+      "name": "Zajačia priepasť",
+      "latitude": 48.595626,
+      "longitude": 20.416484
+    },
+    {
+      "name": "Slnečná priepasť",
+      "latitude": 48.5931,
+      "longitude": 20.412168
+    },
+    {
+      "name": "Meandrova jaskyňa",
+      "latitude": 48.587255,
+      "longitude": 20.420337
+    },
+    {
+      "name": "Krkavčia priepasť",
+      "latitude": 48.583456,
+      "longitude": 20.447226
+    },
+    {
+      "name": "Maštaľná jaskyňa",
+      "latitude": 48.600318,
+      "longitude": 20.464668
+    },
+    {
+      "name": "Buková jama",
+      "latitude": 48.60273,
+      "longitude": 20.406227
+    },
+    {
+      "name": "Veľká Salanka",
+      "latitude": 48.601353,
+      "longitude": 20.430443
+    },
+    {
+      "name": "Priepasť pri ceste",
+      "latitude": 48.575692,
+      "longitude": 20.435439
+    },
+    {
+      "name": "Zasypaná nad vidovským závozom",
+      "latitude": 48.576037,
+      "longitude": 20.434102
+    },
+    {
+      "name": "Prepadlisko pri Erike",
+      "latitude": 48.579207,
+      "longitude": 20.427874
+    },
+    {
+      "name": "Poľovnícka jaskyňa",
+      "latitude": 48.578698,
+      "longitude": 20.427086
+    },
+    {
+      "name": "Muflónia priepasť",
+      "latitude": 48.586701,
+      "longitude": 20.420206
+    },
+    {
+      "name": "Nová muflónia priepasť",
+      "latitude": 48.586939,
+      "longitude": 20.42044
+    },
+    {
+      "name": "Kravská priepasť",
+      "latitude": 48.59321,
+      "longitude": 20.452845
+    },
+    {
+      "name": "Prepadlisko pri Kravskej",
+      "latitude": 48.592682,
+      "longitude": 20.451734
+    },
+    {
+      "name": "Veľká Peňažnica",
+      "latitude": 48.599189,
+      "longitude": 20.454857
+    },
+    {
+      "name": "Nová Peňažnica",
+      "latitude": 48.599233,
+      "longitude": 20.456471
+    },
+    {
+      "name": "Zasypaná Peňažnica",
+      "latitude": 48.598711,
+      "longitude": 20.457577
+    },
+    {
+      "name": "Šesť studní - horná",
+      "latitude": 48.585616,
+      "longitude": 20.445555
+    },
+    {
+      "name": "Pavlovská jaskyňa",
+      "latitude": 48.580261,
+      "longitude": 20.415317
+    },
+    {
+      "name": "Priepasť na hrebeni",
+      "latitude": 48.577219,
+      "longitude": 20.423069
+    },
+    {
+      "name": "Motýlia priepasť",
+      "latitude": 48.575942,
+      "longitude": 20.42343
+    },
+    {
+      "name": "Prieseková priepasť",
+      "latitude": 48.586744,
+      "longitude": 20.413686
+    },
+    {
+      "name": "Puklina P-5",
+      "latitude": 48.586923,
+      "longitude": 20.415362
+    },
+    {
+      "name": "Jarná priepasť",
+      "latitude": 48.588939,
+      "longitude": 20.41887
+    },
+    {
+      "name": "Dymová jaskyňa",
+      "latitude": 48.588966,
+      "longitude": 20.427461
+    },
+    {
+      "name": "Zákrutová priepasť",
+      "latitude": 48.591486,
+      "longitude": 20.429963
+    },
+    {
+      "name": "Jablonová priepasť",
+      "latitude": 48.590774,
+      "longitude": 20.431399
+    },
+    {
+      "name": "Drozdia priepasť",
+      "latitude": 48.588485,
+      "longitude": 20.432405
+    },
+    {
+      "name": "Šesť studní - dolná",
+      "latitude": 48.585494,
+      "longitude": 20.444629
+    },
+    {
+      "name": "Šesť studní - stredná",
+      "latitude": 48.585714,
+      "longitude": 20.445306
+    },
+    {
+      "name": "Výročná jaskyňa",
+      "latitude": 48.580942,
+      "longitude": 20.431918
+    },
+    {
+      "name": "Jaskyňa pri Ďulovej chate",
+      "latitude": 48.585996,
+      "longitude": 20.407138
+    },
+    {
+      "name": "Medvedia jama",
+      "latitude": 48.594543,
+      "longitude": 20.429784
+    },
+    {
+      "name": "Prepadlisko pri Bartókovej",
+      "latitude": 48.596293,
+      "longitude": 20.450308
+    },
+    {
+      "name": "jaskyňa Líščia nora",
+      "latitude": 48.597001,
+      "longitude": 20.450407
+    },
+    {
+      "name": "Ivanova Peňažnica",
+      "latitude": 48.598477,
+      "longitude": 20.458237
+    },
+    {
+      "name": "Krátka jaskyňa",
+      "latitude": 48.599376,
+      "longitude": 20.417491
+    },
+    {
+      "name": "Priepasť Kablutka",
+      "latitude": 48.598628,
+      "longitude": 20.414848
+    },
+    {
+      "name": "Štvorramenná priepasť",
+      "latitude": 48.597179,
+      "longitude": 20.399206
+    },
+    {
+      "name": "Zakliata priepasť",
+      "latitude": 48.60349,
+      "longitude": 20.458462
+    },
+    {
+      "name": "Bartókova priepasť",
+      "latitude": 48.59731,
+      "longitude": 20.451535
+    },
+    {
+      "name": "Čierna jama",
+      "latitude": 48.578935,
+      "longitude": 20.40559
+    },
+    {
+      "name": "priepasť Veľká Žomboj",
+      "latitude": 48.601696,
+      "longitude": 20.532103
+    },
+    {
+      "name": "Silická jaskyňa",
+      "latitude": 48.597569,
+      "longitude": 20.533096
+    },
+    {
+      "name": "priepasť Malá Bikfa",
+      "latitude": 48.602664,
+      "longitude": 20.531601
+    },
+    {
+      "name": "Besná diera",
+      "latitude": 48.588161,
+      "longitude": 20.551278
+    },
+    {
+      "name": "Medvedia jaskyňa",
+      "latitude": 48.575459,
+      "longitude": 20.48263
+    },
+    {
+      "name": "Krížiková priepasť",
+      "latitude": 48.587871,
+      "longitude": 20.536596
+    },
+    {
+      "name": "Čikóš",
+      "latitude": 48.586186,
+      "longitude": 20.503469
+    },
+    {
+      "name": "Besná diera II",
+      "latitude": 48.591445,
+      "longitude": 20.55251
+    },
+    {
+      "name": "Múriková jaskyňa",
+      "latitude": 48.591728,
+      "longitude": 20.544694
+    },
+    {
+      "name": "LT-81",
+      "latitude": 48.591657,
+      "longitude": 20.544873
+    },
+    {
+      "name": "Pstružia jaskyňa",
+      "latitude": 48.583583,
+      "longitude": 20.480267
+    },
+    {
+      "name": "Snežná jama",
+      "latitude": 48.583522,
+      "longitude": 20.515965
+    },
+    {
+      "name": "Priepasť vo Veľkej záhrade",
+      "latitude": 48.585624,
+      "longitude": 20.524475
+    },
+    {
+      "name": "Krásnohorská jaskyňa",
+      "latitude": 48.617709,
+      "longitude": 20.587225
+    },
+    {
+      "name": "Oltárna diera",
+      "latitude": 48.612466,
+      "longitude": 20.738711
+    },
+    {
+      "name": "Kozia diera",
+      "latitude": 48.612936,
+      "longitude": 20.738488
+    },
+    {
+      "name": "Lipovnícky Veľký Zombor",
+      "latitude": 48.608909,
+      "longitude": 20.656625
+    },
+    {
+      "name": "Sovia priepasť",
+      "latitude": 48.615295,
+      "longitude": 20.706445
+    },
+    {
+      "name": "Zlatoň",
+      "latitude": 48.60474,
+      "longitude": 20.693079
+    },
+    {
+      "name": "Medvedia jaskyňa",
+      "latitude": 48.61993,
+      "longitude": 20.692536
+    },
+    {
+      "name": "Hrušovská jaskyňa",
+      "latitude": 48.599919,
+      "longitude": 20.641658
+    },
+    {
+      "name": "Hrušovská peňažnica",
+      "latitude": 48.59771,
+      "longitude": 20.632356
+    },
+    {
+      "name": "Nová Vápenná jaskyňa",
+      "latitude": 48.599183,
+      "longitude": 20.605264
+    },
+    {
+      "name": "Horná vápenná jaskyňa",
+      "latitude": 48.59917,
+      "longitude": 20.605531
+    },
+    {
+      "name": "Dolná vápenná jaskyňa",
+      "latitude": 48.599156,
+      "longitude": 20.605519
+    },
+    {
+      "name": "Priepasť pri troch hroboch",
+      "latitude": 48.601402,
+      "longitude": 20.587788
+    },
+    {
+      "name": "Komín",
+      "latitude": 48.575308,
+      "longitude": 20.678798
+    },
+    {
+      "name": "Prepadlisko Pri okraji",
+      "latitude": 48.575833,
+      "longitude": 20.729825
+    },
+    {
+      "name": "Figová diera",
+      "latitude": 48.574884,
+      "longitude": 20.693256
+    },
+    {
+      "name": "Kingino prepadlisko",
+      "latitude": 48.576148,
+      "longitude": 20.69022
+    },
+    {
+      "name": "Stredová priepasť",
+      "latitude": 48.57497,
+      "longitude": 20.680672
+    },
+    {
+      "name": "Prepadlisko Krížova",
+      "latitude": 48.575392,
+      "longitude": 20.719619
+    },
+    {
+      "name": "Pri salaši 3",
+      "latitude": 48.57553,
+      "longitude": 20.711036
+    },
+    {
+      "name": "Nad Paklánom",
+      "latitude": 48.580381,
+      "longitude": 20.714811
+    },
+    {
+      "name": "Veľkonočná",
+      "latitude": 48.578817,
+      "longitude": 20.708266
+    },
+    {
+      "name": "Prastarý výver",
+      "latitude": 48.57892,
+      "longitude": 20.709089
+    },
+    {
+      "name": "Hrobárova jama",
+      "latitude": 48.578871,
+      "longitude": 20.709747
+    },
+    {
+      "name": "Svedecká",
+      "latitude": 48.578966,
+      "longitude": 20.70973
+    },
+    {
+      "name": "Pri výhľade",
+      "latitude": 48.578978,
+      "longitude": 20.710268
+    },
+    {
+      "name": "Martinova",
+      "latitude": 48.579269,
+      "longitude": 20.714223
+    },
+    {
+      "name": "Trativodná",
+      "latitude": 48.578942,
+      "longitude": 20.714348
+    },
+    {
+      "name": "Malá",
+      "latitude": 48.578321,
+      "longitude": 20.715465
+    },
+    {
+      "name": "Pod vrchom Žmeň",
+      "latitude": 48.5783,
+      "longitude": 20.722821
+    },
+    {
+      "name": "Pod Jazvečiou skalou",
+      "latitude": 48.579025,
+      "longitude": 20.727112
+    },
+    {
+      "name": "Poľovnícka",
+      "latitude": 48.579934,
+      "longitude": 20.727693
+    },
+    {
+      "name": "Kukova jaskyňa",
+      "latitude": 48.57929,
+      "longitude": 20.709842
+    },
+    {
+      "name": "Pálova",
+      "latitude": 48.580106,
+      "longitude": 20.699367
+    },
+    {
+      "name": "Pri mŕtvej lani",
+      "latitude": 48.580311,
+      "longitude": 20.696307
+    },
+    {
+      "name": "Krysty",
+      "latitude": 48.579964,
+      "longitude": 20.695937
+    },
+    {
+      "name": "Trojka",
+      "latitude": 48.578415,
+      "longitude": 20.693854
+    },
+    {
+      "name": "Myšia diera",
+      "latitude": 48.577491,
+      "longitude": 20.690836
+    },
+    {
+      "name": "Milanova diera",
+      "latitude": 48.576616,
+      "longitude": 20.690127
+    },
+    {
+      "name": "Klubová priepasť",
+      "latitude": 48.575368,
+      "longitude": 20.69333
+    },
+    {
+      "name": "Pod koreňom",
+      "latitude": 48.574835,
+      "longitude": 20.684367
+    },
+    {
+      "name": "Klenova priepasť",
+      "latitude": 48.5748,
+      "longitude": 20.68829
+    },
+    {
+      "name": "Sviatočná priepasť",
+      "latitude": 48.57587,
+      "longitude": 20.687416
+    },
+    {
+      "name": "Pri javore",
+      "latitude": 48.577144,
+      "longitude": 20.685137
+    },
+    {
+      "name": "Véčko",
+      "latitude": 48.578847,
+      "longitude": 20.686568
+    },
+    {
+      "name": "Havranie",
+      "latitude": 48.579697,
+      "longitude": 20.687251
+    },
+    {
+      "name": "Pod lebkou",
+      "latitude": 48.579767,
+      "longitude": 20.675207
+    },
+    {
+      "name": "Klin",
+      "latitude": 48.579504,
+      "longitude": 20.679341
+    },
+    {
+      "name": "Rútená 1",
+      "latitude": 48.579827,
+      "longitude": 20.70733
+    },
+    {
+      "name": "Meteor",
+      "latitude": 48.574886,
+      "longitude": 20.720639
+    },
+    {
+      "name": "Ikova diera",
+      "latitude": 48.575386,
+      "longitude": 20.737236
+    },
+    {
+      "name": "Hačavská jaskyňa",
+      "latitude": 48.664163,
+      "longitude": 20.829858
+    },
+    {
+      "name": "Priama jaskyňa",
+      "latitude": 48.669983,
+      "longitude": 20.816911
+    },
+    {
+      "name": "Sedem puklín",
+      "latitude": 48.66335,
+      "longitude": 20.808711
+    },
+    {
+      "name": "Motýlia puklina",
+      "latitude": 48.663319,
+      "longitude": 20.807097
+    },
+    {
+      "name": "Reliktná jaskyňa I",
+      "latitude": 48.664587,
+      "longitude": 20.803477
+    },
+    {
+      "name": "Reliktná jaskyňa II",
+      "latitude": 48.664604,
+      "longitude": 20.803426
+    },
+    {
+      "name": "Rezaná jaskyňa",
+      "latitude": 48.663187,
+      "longitude": 20.807787
+    },
+    {
+      "name": "Vetráčik",
+      "latitude": 48.663272,
+      "longitude": 20.807641
+    },
+    {
+      "name": "Okrajová priepasť pod Grečovým vrchom",
+      "latitude": 48.663357,
+      "longitude": 20.807722
+    },
+    {
+      "name": "Farebná priepasť",
+      "latitude": 48.685951,
+      "longitude": 20.852779
+    },
+    {
+      "name": "Zrkadlová jaskyňa",
+      "latitude": 48.668484,
+      "longitude": 20.917434
+    },
+    {
+      "name": "Umrlcov dych",
+      "latitude": 48.667465,
+      "longitude": 20.900688
+    },
+    {
+      "name": "Lôžkova jaskyňa",
+      "latitude": 48.668245,
+      "longitude": 20.917495
+    },
+    {
+      "name": "Okrajová priepasť",
+      "latitude": 48.668194,
+      "longitude": 20.917372
+    },
+    {
+      "name": "Krulova baňa",
+      "latitude": 48.666659,
+      "longitude": 20.842304
+    },
+    {
+      "name": "Hoverla",
+      "latitude": 48.68799,
+      "longitude": 20.842777
+    },
+    {
+      "name": "Tunel pri prameni",
+      "latitude": 48.678372,
+      "longitude": 20.847354
+    },
+    {
+      "name": "Zadymená jaskyňa",
+      "latitude": 48.678449,
+      "longitude": 20.847925
+    },
+    {
+      "name": "Tunelový portál",
+      "latitude": 48.677963,
+      "longitude": 20.84812
+    },
+    {
+      "name": "Jaskyňa v tiesňave",
+      "latitude": 48.678653,
+      "longitude": 20.851424
+    },
+    {
+      "name": "Jaskyňa v skalke I",
+      "latitude": 48.66364,
+      "longitude": 20.84127
+    },
+    {
+      "name": "Ľadová jaskyňa",
+      "latitude": 48.651011,
+      "longitude": 20.79104
+    },
+    {
+      "name": "Marciho jaskyňa",
+      "latitude": 48.650169,
+      "longitude": 20.784438
+    },
+    {
+      "name": "Jaskyňa nad Zádielskou chatou",
+      "latitude": 48.646149,
+      "longitude": 20.813445
+    },
+    {
+      "name": "Medvedia puklina",
+      "latitude": 48.650974,
+      "longitude": 20.790365
+    },
+    {
+      "name": "Prízemná jaskyňa",
+      "latitude": 48.651041,
+      "longitude": 20.791576
+    },
+    {
+      "name": "Havrania priepasť",
+      "latitude": 48.650305,
+      "longitude": 20.791396
+    },
+    {
+      "name": "Poľovnícka jaskyňa",
+      "latitude": 48.650283,
+      "longitude": 20.783918
+    },
+    {
+      "name": "Suchá diera",
+      "latitude": 48.65105,
+      "longitude": 20.7915
+    },
+    {
+      "name": "Marciho diera II",
+      "latitude": 48.657842,
+      "longitude": 20.807658
+    },
+    {
+      "name": "Dolná jaskyňa v Zmývači krvi",
+      "latitude": 48.634015,
+      "longitude": 20.826817
+    },
+    {
+      "name": "Želiarska jaskyňa",
+      "latitude": 48.645821,
+      "longitude": 20.815349
+    },
+    {
+      "name": "Zlatolúcka priepasť",
+      "latitude": 48.646015,
+      "longitude": 20.818325
+    },
+    {
+      "name": "Spodná kráľova jaskyňa",
+      "latitude": 48.633478,
+      "longitude": 20.82386
+    },
+    {
+      "name": "Gustova jaskyňa",
+      "latitude": 48.648907,
+      "longitude": 20.84642
+    },
+    {
+      "name": "Gordánova jaskyňa",
+      "latitude": 48.660872,
+      "longitude": 20.858176
+    },
+    {
+      "name": "Gordánova jaskyňa I",
+      "latitude": 48.660472,
+      "longitude": 20.857598
+    },
+    {
+      "name": "Keglevichova jaskyňa I",
+      "latitude": 48.644412,
+      "longitude": 20.886882
+    },
+    {
+      "name": "Slaninová jaskyňa",
+      "latitude": 48.643813,
+      "longitude": 20.848107
+    },
+    {
+      "name": "Sovia jaskyňa",
+      "latitude": 48.648169,
+      "longitude": 20.845912
+    },
+    {
+      "name": "Keglevichova jaskyňa II",
+      "latitude": 48.644423,
+      "longitude": 20.885559
+    },
+    {
+      "name": "Jaskyňa nad Travertínovou vyvieračkou",
+      "latitude": 48.656594,
+      "longitude": 20.846652
+    },
+    {
+      "name": "Jaskyňa za Čertovým mostom",
+      "latitude": 48.65176,
+      "longitude": 20.846323
+    },
+    {
+      "name": "Prepadlisko Stará",
+      "latitude": 48.660084,
+      "longitude": 20.909291
+    },
+    {
+      "name": "Myšia diera",
+      "latitude": 48.640045,
+      "longitude": 20.853031
+    },
+    {
+      "name": "Pri kamennom moste",
+      "latitude": 48.642038,
+      "longitude": 20.851149
+    },
+    {
+      "name": "Dažďový tunel",
+      "latitude": 48.642217,
+      "longitude": 20.850474
+    },
+    {
+      "name": "Pasca",
+      "latitude": 48.642263,
+      "longitude": 20.841319
+    },
+    {
+      "name": "Záverova jaskyňa",
+      "latitude": 48.640991,
+      "longitude": 20.841135
+    },
+    {
+      "name": "Horný starec",
+      "latitude": 48.64083,
+      "longitude": 20.842422
+    },
+    {
+      "name": "Dolný starec",
+      "latitude": 48.640833,
+      "longitude": 20.842441
+    },
+    {
+      "name": "Buksiho diera",
+      "latitude": 48.64083,
+      "longitude": 20.842544
+    },
+    {
+      "name": "Oriešok",
+      "latitude": 48.641178,
+      "longitude": 20.844519
+    },
+    {
+      "name": "Krkavčia jaskyňa II",
+      "latitude": 48.641142,
+      "longitude": 20.844278
+    },
+    {
+      "name": "Diera pod Hájskou vyhliadkou",
+      "latitude": 48.636074,
+      "longitude": 20.846426
+    },
+    {
+      "name": "Priepasť pod Hájskou vyhliadkou",
+      "latitude": 48.636167,
+      "longitude": 20.84675
+    },
+    {
+      "name": "Čertova jaskyňa",
+      "latitude": 48.651235,
+      "longitude": 20.846187
+    },
+    {
+      "name": "Náhodná jaskyňa",
+      "latitude": 48.644617,
+      "longitude": 20.851264
+    },
+    {
+      "name": "Podkrovná jaskyňa",
+      "latitude": 48.644136,
+      "longitude": 20.850446
+    },
+    {
+      "name": "Dáždniková jaskyňa",
+      "latitude": 48.652613,
+      "longitude": 20.846606
+    },
+    {
+      "name": "Gordánova jaskyňa",
+      "latitude": 48.660855,
+      "longitude": 20.857009
+    },
+    {
+      "name": "Vypadaná jaskyňa",
+      "latitude": 48.658017,
+      "longitude": 20.847443
+    },
+    {
+      "name": "Dora III",
+      "latitude": 48.636424,
+      "longitude": 20.854528
+    },
+    {
+      "name": "Dora II",
+      "latitude": 48.636463,
+      "longitude": 20.854564
+    },
+    {
+      "name": "Zoologická jaskyňa",
+      "latitude": 48.636706,
+      "longitude": 20.85471
+    },
+    {
+      "name": "Poľovnícka jaskyňa I",
+      "latitude": 48.638279,
+      "longitude": 20.844692
+    },
+    {
+      "name": "Mrazová jaskyňa",
+      "latitude": 48.645049,
+      "longitude": 20.844671
+    },
+    {
+      "name": "Portál",
+      "latitude": 48.644407,
+      "longitude": 20.843479
+    },
+    {
+      "name": "Malá mrazová jaskyňa",
+      "latitude": 48.644797,
+      "longitude": 20.843824
+    },
+    {
+      "name": "Krkavčia jaskyňa I",
+      "latitude": 48.640838,
+      "longitude": 20.842654
+    },
+    {
+      "name": "Jaskyňa nad vodopádmi II",
+      "latitude": 48.641393,
+      "longitude": 20.845942
+    },
+    {
+      "name": "Jaskyňa nad vodopádmi I",
+      "latitude": 48.64145,
+      "longitude": 20.846342
+    },
+    {
+      "name": "Malá Zikmundova jaskyňa",
+      "latitude": 48.653417,
+      "longitude": 20.84567
+    },
+    {
+      "name": "Dora I",
+      "latitude": 48.636323,
+      "longitude": 20.854305
+    },
+    {
+      "name": "Obkročná",
+      "latitude": 48.636496,
+      "longitude": 20.854456
+    },
+    {
+      "name": "Jasovská jaskyňa",
+      "latitude": 48.677181,
+      "longitude": 20.976905
+    },
+    {
+      "name": "Jasovska jaskyňa – exit",
+      "latitude": 48.677705,
+      "longitude": 20.976312
+    },
+    {
+      "name": "Jasovská pivnica",
+      "latitude": 48.67908,
+      "longitude": 20.971901
+    },
+    {
+      "name": "Tomášova diera",
+      "latitude": 48.666348,
+      "longitude": 20.988574
+    },
+    {
+      "name": "Jasovska jaskyňa – exit",
+      "latitude": 48.678057,
+      "longitude": 20.975519
+    },
+    {
+      "name": "priepasť pod Haľagošom",
+      "latitude": 48.671261,
+      "longitude": 20.93414
+    },
+    {
+      "name": "Cukrová jama",
+      "latitude": 48.667975,
+      "longitude": 20.918875
+    },
+    {
+      "name": "Brezový ponor",
+      "latitude": 48.664101,
+      "longitude": 20.930131
+    },
+    {
+      "name": "Priepasť pri lúke Gazka",
+      "latitude": 48.666262,
+      "longitude": 20.982621
+    },
+    {
+      "name": "Hatinská jaskyňa",
+      "latitude": 48.652491,
+      "longitude": 21.001036
+    },
+    {
+      "name": "Dorožba",
+      "latitude": 48.646137,
+      "longitude": 20.924183
+    },
+    {
+      "name": "Slaninova diera",
+      "latitude": 48.635694,
+      "longitude": 20.92427
+    },
+    {
+      "name": "Indiánska jaskyňa",
+      "latitude": 48.63563,
+      "longitude": 20.924378
+    },
+    {
+      "name": "V záreze trate",
+      "latitude": 48.637273,
+      "longitude": 20.923452
+    },
+    {
+      "name": "Matejova jaskyňa",
+      "latitude": 48.634734,
+      "longitude": 20.997218
+    },
+    {
+      "name": "Vianočná priepasť",
+      "latitude": 48.654937,
+      "longitude": 20.934197
+    },
+    {
+      "name": "Líščia diera I",
+      "latitude": 48.655324,
+      "longitude": 20.920318
+    },
+    {
+      "name": "Debraďská jaskyňa",
+      "latitude": 48.649286,
+      "longitude": 20.960183
+    },
+    {
+      "name": "Radar",
+      "latitude": 48.635177,
+      "longitude": 20.93906
+    },
+    {
+      "name": "V skalnom amfiteátri II",
+      "latitude": 48.637318,
+      "longitude": 20.928474
+    },
+    {
+      "name": "V skalnom amfiteátri I",
+      "latitude": 48.637387,
+      "longitude": 20.928359
+    },
+    {
+      "name": "Mačacia jaskyňa",
+      "latitude": 48.635724,
+      "longitude": 20.920996
+    },
+    {
+      "name": "Helena",
+      "latitude": 48.640807,
+      "longitude": 21.00001
+    },
+    {
+      "name": "Líščia diera II",
+      "latitude": 48.655242,
+      "longitude": 20.920334
+    },
+    {
+      "name": "Čertova diera",
+      "latitude": 48.624249,
+      "longitude": 20.790931
+    },
+    {
+      "name": "Úkryt dievčat",
+      "latitude": 48.615392,
+      "longitude": 20.742855
+    },
+    {
+      "name": "Úkryt žien",
+      "latitude": 48.615461,
+      "longitude": 20.742931
+    },
+    {
+      "name": "Povalová jaskyňa",
+      "latitude": 48.618585,
+      "longitude": 20.770295
+    },
+    {
+      "name": "Tatárska jaskyňa",
+      "latitude": 48.615717,
+      "longitude": 20.797886
+    },
+    {
+      "name": "V Hradisku II",
+      "latitude": 48.604417,
+      "longitude": 20.811517
+    },
+    {
+      "name": "Skalistý potok",
+      "latitude": 48.62321,
+      "longitude": 20.887761
+    },
+    {
+      "name": "Priepasť na kóte",
+      "latitude": 48.621738,
+      "longitude": 20.838787
+    },
+    {
+      "name": "Kráľovská jaskyňa",
+      "latitude": 48.629076,
+      "longitude": 20.831494
+    },
+    {
+      "name": "Hmlistá jaskyňa",
+      "latitude": 48.630536,
+      "longitude": 20.877134
+    },
+    {
+      "name": "Žihlavová jaskyňa",
+      "latitude": 48.615166,
+      "longitude": 20.858407
+    },
+    {
+      "name": "Jaskyňa v trojramennom žľabe III",
+      "latitude": 48.627845,
+      "longitude": 20.890801
+    },
+    {
+      "name": "Fakír",
+      "latitude": 48.629624,
+      "longitude": 20.873539
+    },
+    {
+      "name": "Kamenná tvár",
+      "latitude": 48.628723,
+      "longitude": 20.870984
+    },
+    {
+      "name": "priepasť Nad Hájom",
+      "latitude": 48.63247,
+      "longitude": 20.858082
+    },
+    {
+      "name": "Anjelská priepasť",
+      "latitude": 48.630793,
+      "longitude": 20.866156
+    },
+    {
+      "name": "Erňa",
+      "latitude": 48.61563,
+      "longitude": 20.843546
+    },
+    {
+      "name": "Tunel pod Cukrovou Homoľou",
+      "latitude": 48.628654,
+      "longitude": 20.831269
+    },
+    {
+      "name": "Kunia priepasť",
+      "latitude": 48.628883,
+      "longitude": 20.880328
+    },
+    {
+      "name": "Machová priepasť v Hradnej stráni",
+      "latitude": 48.613663,
+      "longitude": 20.865119
+    },
+    {
+      "name": "Priepasť v Hradnej stráni",
+      "latitude": 48.614113,
+      "longitude": 20.862514
+    },
+    {
+      "name": "Čermeľ",
+      "latitude": 48.615026,
+      "longitude": 20.858695
+    },
+    {
+      "name": "Priepasť na Turnianskom hradnom vrchu",
+      "latitude": 48.609952,
+      "longitude": 20.876334
+    },
+    {
+      "name": "Jaskyňa novinárov",
+      "latitude": 48.621788,
+      "longitude": 20.832957
+    },
+    {
+      "name": "Kostrová jaskyňa",
+      "latitude": 48.621322,
+      "longitude": 20.835651
+    },
+    {
+      "name": "Čobská jaskyňa",
+      "latitude": 48.619226,
+      "longitude": 20.841034
+    },
+    {
+      "name": "Jaskyňa pod borinou",
+      "latitude": 48.620669,
+      "longitude": 20.837622
+    },
+    {
+      "name": "Esko",
+      "latitude": 48.620512,
+      "longitude": 20.837458
+    },
+    {
+      "name": "Ida",
+      "latitude": 48.623169,
+      "longitude": 20.836377
+    },
+    {
+      "name": "Sokolia priepasť",
+      "latitude": 48.623122,
+      "longitude": 20.836675
+    },
+    {
+      "name": "Jaskyňa pod valom",
+      "latitude": 48.628211,
+      "longitude": 20.833946
+    },
+    {
+      "name": "Nad oltárom",
+      "latitude": 48.628691,
+      "longitude": 20.832835
+    },
+    {
+      "name": "Medvedia jaskyňa",
+      "latitude": 48.631338,
+      "longitude": 20.83193
+    },
+    {
+      "name": "Jaskyňa nad Zamurovanou",
+      "latitude": 48.631731,
+      "longitude": 20.831268
+    },
+    {
+      "name": "Zamurovaná jaskyňa",
+      "latitude": 48.631706,
+      "longitude": 20.831136
+    },
+    {
+      "name": "Ohnisko",
+      "latitude": 48.621828,
+      "longitude": 20.834758
+    },
+    {
+      "name": "Orlia diera",
+      "latitude": 48.621362,
+      "longitude": 20.835653
+    },
+    {
+      "name": "Tŕnistá jaskyňa",
+      "latitude": 48.621274,
+      "longitude": 20.835495
+    },
+    {
+      "name": "Zádielska tiesňava VII",
+      "latitude": 48.621333,
+      "longitude": 20.835725
+    },
+    {
+      "name": "Zúžená jaskyňa",
+      "latitude": 48.621237,
+      "longitude": 20.835794
+    },
+    {
+      "name": "Kozia jaskyňa",
+      "latitude": 48.620877,
+      "longitude": 20.835813
+    },
+    {
+      "name": "Péčko",
+      "latitude": 48.620891,
+      "longitude": 20.836038
+    },
+    {
+      "name": "Tunel",
+      "latitude": 48.620222,
+      "longitude": 20.835512
+    },
+    {
+      "name": "Jaskyňa nad Ohniskom",
+      "latitude": 48.62181,
+      "longitude": 20.834811
+    },
+    {
+      "name": "Jaskyňa pod sedlom",
+      "latitude": 48.614824,
+      "longitude": 20.865189
+    },
+    {
+      "name": "Jaskyňa v žľabe vedľa posedu",
+      "latitude": 48.628972,
+      "longitude": 20.898415
+    },
+    {
+      "name": "Jaskyňa nad Sintrovou",
+      "latitude": 48.622418,
+      "longitude": 20.833441
+    },
+    {
+      "name": "Sintrová jaskyňa",
+      "latitude": 48.622313,
+      "longitude": 20.833441
+    },
+    {
+      "name": "Prašná jaskyňa",
+      "latitude": 48.622586,
+      "longitude": 20.83487
+    },
+    {
+      "name": "Zádielska tiesňava VII",
+      "latitude": 48.622103,
+      "longitude": 20.835158
+    },
+    {
+      "name": "Červená jaskyňa",
+      "latitude": 48.622068,
+      "longitude": 20.83534
+    },
+    {
+      "name": "Bobkový previs",
+      "latitude": 48.622777,
+      "longitude": 20.83661
+    },
+    {
+      "name": "Fujara",
+      "latitude": 48.622753,
+      "longitude": 20.835741
+    },
+    {
+      "name": "Odrazená záclona",
+      "latitude": 48.625728,
+      "longitude": 20.831779
+    },
+    {
+      "name": "Malý previs",
+      "latitude": 48.62835,
+      "longitude": 20.83103
+    },
+    {
+      "name": "Jaskyňa nad sutinoviskom I",
+      "latitude": 48.628322,
+      "longitude": 20.83108
+    },
+    {
+      "name": "Jaskyňa nad sutinoviskom II",
+      "latitude": 48.628314,
+      "longitude": 20.831085
+    },
+    {
+      "name": "Nízka sieň",
+      "latitude": 48.625698,
+      "longitude": 20.834961
+    },
+    {
+      "name": "Jaskyňa pod akľom",
+      "latitude": 48.632446,
+      "longitude": 20.830492
+    },
+    {
+      "name": "Trojičky III",
+      "latitude": 48.629083,
+      "longitude": 20.832175
+    },
+    {
+      "name": "Trojičky I",
+      "latitude": 48.629085,
+      "longitude": 20.83217
+    },
+    {
+      "name": "Trojičky II",
+      "latitude": 48.629081,
+      "longitude": 20.832168
+    },
+    {
+      "name": "Jastrabia priepasť",
+      "latitude": 48.57535,
+      "longitude": 20.756434
+    },
+    {
+      "name": "Slnečná priepasť",
+      "latitude": 48.577263,
+      "longitude": 20.752992
+    },
+    {
+      "name": "Nábojová",
+      "latitude": 48.579721,
+      "longitude": 20.764896
+    },
+    {
+      "name": "Muničná priepasť",
+      "latitude": 48.578199,
+      "longitude": 20.759238
+    },
+    {
+      "name": "Lipová priepasť",
+      "latitude": 48.575903,
+      "longitude": 20.74936
+    },
+    {
+      "name": "Prútiková",
+      "latitude": 48.575307,
+      "longitude": 20.784012
+    },
+    {
+      "name": "Východná priepasť",
+      "latitude": 48.57505,
+      "longitude": 20.784488
+    },
+    {
+      "name": "Malá oltárna jaskyňa",
+      "latitude": 48.577644,
+      "longitude": 20.793597
+    },
+    {
+      "name": "Zavalená jaskyňa",
+      "latitude": 48.577827,
+      "longitude": 20.794272
+    },
+    {
+      "name": "V Hradisku",
+      "latitude": 48.602188,
+      "longitude": 20.806296
+    },
+    {
+      "name": "Šikmá",
+      "latitude": 48.58122,
+      "longitude": 20.759795
+    },
+    {
+      "name": "Bábková priepasť",
+      "latitude": 48.574893,
+      "longitude": 20.759108
+    },
+    {
+      "name": "Kostkova priepasť",
+      "latitude": 48.575323,
+      "longitude": 20.764539
+    },
+    {
+      "name": "Hlinoš",
+      "latitude": 48.577046,
+      "longitude": 20.778739
+    },
+    {
+      "name": "Sesterská priepasť",
+      "latitude": 48.577283,
+      "longitude": 20.778925
+    },
+    {
+      "name": "Nad bivakom",
+      "latitude": 48.577148,
+      "longitude": 20.787699
+    },
+    {
+      "name": "Pod skalnou stenou",
+      "latitude": 48.578049,
+      "longitude": 20.787065
+    },
+    {
+      "name": "Kokón",
+      "latitude": 48.581845,
+      "longitude": 20.749651
+    },
+    {
+      "name": "Lônová jaskyňa",
+      "latitude": 48.582312,
+      "longitude": 20.750079
+    },
+    {
+      "name": "Pod skalou",
+      "latitude": 48.582238,
+      "longitude": 20.749174
+    },
+    {
+      "name": "Milá",
+      "latitude": 48.5821,
+      "longitude": 20.749061
+    },
+    {
+      "name": "Drienovecká jaskyňa",
+      "latitude": 48.624998,
+      "longitude": 20.952356
+    },
+    {
+      "name": "Moldavská jaskyňa",
+      "latitude": 48.613613,
+      "longitude": 20.991114
+    },
+    {
+      "name": "Šmykňa",
+      "latitude": 48.625815,
+      "longitude": 20.925893
+    },
+    {
+      "name": "Istý pich",
+      "latitude": 48.631378,
+      "longitude": 20.963688
+    },
+    {
+      "name": "Mníchova diera",
+      "latitude": 48.613855,
+      "longitude": 20.990998
+    },
+    {
+      "name": "priepasť na Palante",
+      "latitude": 48.62714,
+      "longitude": 20.954982
+    },
+    {
+      "name": "Pavúčia jaskyňa",
+      "latitude": 48.625263,
+      "longitude": 20.923224
+    },
+    {
+      "name": "Vyhňa",
+      "latitude": 48.625904,
+      "longitude": 20.92599
+    },
+    {
+      "name": "Čmeliak",
+      "latitude": 48.624498,
+      "longitude": 20.927989
+    },
+    {
+      "name": "Gombasecká jaskyňa",
+      "latitude": 48.562417,
+      "longitude": 20.465365
+    },
+    {
+      "name": "Dve lúčky",
+      "latitude": 48.566747,
+      "longitude": 20.420487
+    },
+    {
+      "name": "Buková priepasť",
+      "latitude": 48.554061,
+      "longitude": 20.448711
+    },
+    {
+      "name": "Osia priepasť",
+      "latitude": 48.573377,
+      "longitude": 20.435547
+    },
+    {
+      "name": "Priepasť nad Vidovským závozom",
+      "latitude": 48.573733,
+      "longitude": 20.442071
+    },
+    {
+      "name": "Miškov potok",
+      "latitude": 48.56779,
+      "longitude": 20.44652
+    },
+    {
+      "name": "Čikova diera",
+      "latitude": 48.570791,
+      "longitude": 20.414043
+    },
+    {
+      "name": "Kavčia priepasť II",
+      "latitude": 48.555054,
+      "longitude": 20.466556
+    },
+    {
+      "name": "Kavčia priepasť I",
+      "latitude": 48.553652,
+      "longitude": 20.463393
+    },
+    {
+      "name": "Pastierova studňa",
+      "latitude": 48.570873,
+      "longitude": 20.429933
+    },
+    {
+      "name": "Vrecová diera",
+      "latitude": 48.566461,
+      "longitude": 20.417305
+    },
+    {
+      "name": "Múriková jaskyňa",
+      "latitude": 48.568439,
+      "longitude": 20.413186
+    },
+    {
+      "name": "Fialová jaskyňa",
+      "latitude": 48.570136,
+      "longitude": 20.415364
+    },
+    {
+      "name": "Bazová jaskyňa",
+      "latitude": 48.571333,
+      "longitude": 20.412852
+    },
+    {
+      "name": "Silická ľadnica",
+      "latitude": 48.549498,
+      "longitude": 20.503557
+    },
+    {
+      "name": "Jaskyňa v ponore Jašteričieho jazera",
+      "latitude": 48.569078,
+      "longitude": 20.542094
+    },
+    {
+      "name": "Babská diera",
+      "latitude": 48.553923,
+      "longitude": 20.504521
+    },
+    {
+      "name": "Brázda",
+      "latitude": 48.571295,
+      "longitude": 20.494218
+    },
+    {
+      "name": "Salayová priepasť",
+      "latitude": 48.567636,
+      "longitude": 20.49763
+    },
+    {
+      "name": "Majkova jaskyňa",
+      "latitude": 48.54574,
+      "longitude": 20.547591
+    },
+    {
+      "name": "Zbojnícka jaskyňa",
+      "latitude": 48.546,
+      "longitude": 20.56553
+    },
+    {
+      "name": "Majdu-Hráškova priepasť",
+      "latitude": 48.546306,
+      "longitude": 20.517112
+    },
+    {
+      "name": "Červená jaskyňa",
+      "latitude": 48.546383,
+      "longitude": 20.490901
+    },
+    {
+      "name": "Kravská priepasť",
+      "latitude": 48.554266,
+      "longitude": 20.492131
+    },
+    {
+      "name": "Bujanova jaskyňa",
+      "latitude": 48.557071,
+      "longitude": 20.489939
+    },
+    {
+      "name": "Závozná priepasť I",
+      "latitude": 48.560328,
+      "longitude": 20.479403
+    },
+    {
+      "name": "Dvojitá priepasť",
+      "latitude": 48.553282,
+      "longitude": 20.510192
+    },
+    {
+      "name": "Krumpliš",
+      "latitude": 48.5734,
+      "longitude": 20.542751
+    },
+    {
+      "name": "Malá priepasť pri Brázde",
+      "latitude": 48.57237,
+      "longitude": 20.4944
+    },
+    {
+      "name": "Závozná priepasť II",
+      "latitude": 48.559748,
+      "longitude": 20.481011
+    },
+    {
+      "name": "Malá Ľadnica",
+      "latitude": 48.525782,
+      "longitude": 20.466718
+    },
+    {
+      "name": "Fonotšág",
+      "latitude": 48.537408,
+      "longitude": 20.470606
+    },
+    {
+      "name": "Ardovská jaskyňa",
+      "latitude": 48.52122,
+      "longitude": 20.420421
+    },
+    {
+      "name": "Ponorná priepasť",
+      "latitude": 48.543104,
+      "longitude": 20.466025
+    },
+    {
+      "name": "Garlika",
+      "latitude": 48.543194,
+      "longitude": 20.464607
+    },
+    {
+      "name": "Lavička",
+      "latitude": 48.520874,
+      "longitude": 20.471994
+    },
+    {
+      "name": "Matilda",
+      "latitude": 48.523058,
+      "longitude": 20.484721
+    },
+    {
+      "name": "Ortováň",
+      "latitude": 48.539075,
+      "longitude": 20.48796
+    },
+    {
+      "name": "Százforintos-barlang",
+      "latitude": 48.524583,
+      "longitude": 20.522733
+    },
+    {
+      "name": "Szarvasól-barlang",
+      "latitude": 48.530036,
+      "longitude": 20.520976
+    },
+    {
+      "name": "Milada",
+      "latitude": 48.523696,
+      "longitude": 20.489898
+    },
+    {
+      "name": "Jožiho diera",
+      "latitude": 48.539302,
+      "longitude": 20.484554
+    },
+    {
+      "name": "Vízfakadás-barlang",
+      "latitude": 48.521339,
+      "longitude": 20.503429
+    },
+    {
+      "name": "Hosszú-tetői-barlang",
+      "latitude": 48.552859,
+      "longitude": 20.649657
+    },
+    {
+      "name": "Csempész-barlang",
+      "latitude": 48.554414,
+      "longitude": 20.642205
+    },
+    {
+      "name": "Plšia priepasť",
+      "latitude": 48.557747,
+      "longitude": 20.643975
+    },
+    {
+      "name": "Poroňa",
+      "latitude": 48.561369,
+      "longitude": 20.644048
+    },
+    {
+      "name": "Pod cestou",
+      "latitude": 48.566678,
+      "longitude": 20.646419
+    },
+    {
+      "name": "Západná priepasť IV",
+      "latitude": 48.551865,
+      "longitude": 20.635866
+    },
+    {
+      "name": "Psia priepasť",
+      "latitude": 48.559106,
+      "longitude": 20.637188
+    },
+    {
+      "name": "Brečtanová priepasť",
+      "latitude": 48.559076,
+      "longitude": 20.637508
+    },
+    {
+      "name": "Malá Jablonia vyvieračka",
+      "latitude": 48.559644,
+      "longitude": 20.636803
+    },
+    {
+      "name": "Háromszög-zsomboly",
+      "latitude": 48.547162,
+      "longitude": 20.634093
+    },
+    {
+      "name": "Mlynská jaskyňa",
+      "latitude": 48.551019,
+      "longitude": 20.596724
+    },
+    {
+      "name": "Obrovská priepasť",
+      "latitude": 48.567917,
+      "longitude": 20.684958
+    },
+    {
+      "name": "Čerešňová priepasť",
+      "latitude": 48.569816,
+      "longitude": 20.690507
+    },
+    {
+      "name": "Tri steny",
+      "latitude": 48.571382,
+      "longitude": 20.683583
+    },
+    {
+      "name": "Fajka",
+      "latitude": 48.57204,
+      "longitude": 20.689513
+    },
+    {
+      "name": "Almási-zsomboly",
+      "latitude": 48.568222,
+      "longitude": 20.704999
+    },
+    {
+      "name": "Drienkovská priepasť",
+      "latitude": 48.560568,
+      "longitude": 20.679172
+    },
+    {
+      "name": "Őz-zsomboly",
+      "latitude": 48.563007,
+      "longitude": 20.716398
+    },
+    {
+      "name": "Vecsembükki-zsomboly",
+      "latitude": 48.566641,
+      "longitude": 20.726124
+    },
+    {
+      "name": "Banán-zsomboly",
+      "latitude": 48.566584,
+      "longitude": 20.722895
+    },
+    {
+      "name": "Cickány-zsomboly",
+      "latitude": 48.56364,
+      "longitude": 20.721873
+    },
+    {
+      "name": "Gőte-zsomboly",
+      "latitude": 48.563507,
+      "longitude": 20.721907
+    },
+    {
+      "name": "Jóbarát-zsomboly",
+      "latitude": 48.562113,
+      "longitude": 20.724118
+    },
+    {
+      "name": "Karácsony-zsomboly",
+      "latitude": 48.566741,
+      "longitude": 20.721545
+    },
+    {
+      "name": "Komjáti jég-zsomboly",
+      "latitude": 48.565623,
+      "longitude": 20.740424
+    },
+    {
+      "name": "Körte-zsomboly",
+      "latitude": 48.562707,
+      "longitude": 20.727506
+    },
+    {
+      "name": "Lujza-lyuka-zsomboly",
+      "latitude": 48.563115,
+      "longitude": 20.718884
+    },
+    {
+      "name": "Miki kuki-zsomboly",
+      "latitude": 48.561878,
+      "longitude": 20.729374
+    },
+    {
+      "name": "Nászút-barlang",
+      "latitude": 48.561521,
+      "longitude": 20.710005
+    },
+    {
+      "name": "Szabó-pallagi-zsomboly",
+      "latitude": 48.561949,
+      "longitude": 20.698023
+    },
+    {
+      "name": "Széki-zsomboly",
+      "latitude": 48.567223,
+      "longitude": 20.705088
+    },
+    {
+      "name": "Zsozsóka-zsomboly",
+      "latitude": 48.56311,
+      "longitude": 20.699095
+    },
+    {
+      "name": "Útmenti-zsomboly",
+      "latitude": 48.56393,
+      "longitude": 20.723832
+    },
+    {
+      "name": "Magaslesi-zsomboly",
+      "latitude": 48.558402,
+      "longitude": 20.692314
+    },
+    {
+      "name": "November 7.-zsomboly",
+      "latitude": 48.567217,
+      "longitude": 20.705437
+    },
+    {
+      "name": "Pötty-zsomboly",
+      "latitude": 48.565305,
+      "longitude": 20.706651
+    },
+    {
+      "name": "Lófüle-zsomboly",
+      "latitude": 48.565313,
+      "longitude": 20.740541
+    },
+    {
+      "name": "Gyors-zsomboly",
+      "latitude": 48.566632,
+      "longitude": 20.740497
+    },
+    {
+      "name": "Közös-barlang",
+      "latitude": 48.56728,
+      "longitude": 20.739683
+    },
+    {
+      "name": "Éves-zsomboly",
+      "latitude": 48.567134,
+      "longitude": 20.73998
+    },
+    {
+      "name": "Veľká sovia priepasť",
+      "latitude": 48.569528,
+      "longitude": 20.683715
+    },
+    {
+      "name": "Priepasť Márnica",
+      "latitude": 48.572684,
+      "longitude": 20.722533
+    },
+    {
+      "name": "Dvojitá priepasť",
+      "latitude": 48.572655,
+      "longitude": 20.705735
+    },
+    {
+      "name": "Buksi-zsomboly",
+      "latitude": 48.56776,
+      "longitude": 20.720264
+    },
+    {
+      "name": "Bújócska-barlang",
+      "latitude": 48.560139,
+      "longitude": 20.710174
+    },
+    {
+      "name": "Cilike-zsomboly",
+      "latitude": 48.56255,
+      "longitude": 20.70692
+    },
+    {
+      "name": "Csehek-szakadéka",
+      "latitude": 48.556609,
+      "longitude": 20.671976
+    },
+    {
+      "name": "Fenyves-zsomboly",
+      "latitude": 48.564078,
+      "longitude": 20.701352
+    },
+    {
+      "name": "Hana-lyuk",
+      "latitude": 48.559991,
+      "longitude": 20.708318
+    },
+    {
+      "name": "Hideg-lyuk",
+      "latitude": 48.568583,
+      "longitude": 20.719683
+    },
+    {
+      "name": "Húsvét-zsomboly",
+      "latitude": 48.56194,
+      "longitude": 20.717098
+    },
+    {
+      "name": "Iskola-zsomboly",
+      "latitude": 48.565532,
+      "longitude": 20.717854
+    },
+    {
+      "name": "Játék-barlang",
+      "latitude": 48.562867,
+      "longitude": 20.6979
+    },
+    {
+      "name": "Kigyós-barlang",
+      "latitude": 48.562417,
+      "longitude": 20.729517
+    },
+    {
+      "name": "Geológustechnikus-zsomboly",
+      "latitude": 48.570018,
+      "longitude": 20.713413
+    },
+    {
+      "name": "Töbör-alji-hasadék",
+      "latitude": 48.56329,
+      "longitude": 20.72267
+    },
+    {
+      "name": "Omladék-zsomboly",
+      "latitude": 48.565838,
+      "longitude": 20.717699
+    },
+    {
+      "name": "Rekettyés-beszakadás",
+      "latitude": 48.56161,
+      "longitude": 20.69648
+    },
+    {
+      "name": "Malá sovia priepasť",
+      "latitude": 48.569823,
+      "longitude": 20.683366
+    },
+    {
+      "name": "Kamenistá priepasť",
+      "latitude": 48.568933,
+      "longitude": 20.688866
+    },
+    {
+      "name": "Priepasť Studňa",
+      "latitude": 48.567979,
+      "longitude": 20.69046
+    },
+    {
+      "name": "Poludňajšia priepasť",
+      "latitude": 48.569673,
+      "longitude": 20.686751
+    },
+    {
+      "name": "Dubová priepasť",
+      "latitude": 48.572727,
+      "longitude": 20.704541
+    },
+    {
+      "name": "Prepadlisko pri Smrekovici",
+      "latitude": 48.565484,
+      "longitude": 20.681011
+    },
+    {
+      "name": "Priepasť pri salaši I.",
+      "latitude": 48.572885,
+      "longitude": 20.727618
+    },
+    {
+      "name": "Natrhnutá priepasť",
+      "latitude": 48.566943,
+      "longitude": 20.732408
+    },
+    {
+      "name": "Západná priepasť I.",
+      "latitude": 48.563371,
+      "longitude": 20.665571
+    },
+    {
+      "name": "Dugó-lyuk",
+      "latitude": 48.561827,
+      "longitude": 20.728849
+    },
+    {
+      "name": "Kilátó-zsomboly",
+      "latitude": 48.562559,
+      "longitude": 20.729024
+    },
+    {
+      "name": "Kifli-zsomboly",
+      "latitude": 48.566382,
+      "longitude": 20.713464
+    },
+    {
+      "name": "Nóra-lyuk",
+      "latitude": 48.562381,
+      "longitude": 20.687203
+    },
+    {
+      "name": "Dongó-zsomboly",
+      "latitude": 48.567832,
+      "longitude": 20.73479
+    },
+    {
+      "name": "Sarkán-barlang",
+      "latitude": 48.565446,
+      "longitude": 20.734974
+    },
+    {
+      "name": "Prepadlisko 4",
+      "latitude": 48.571146,
+      "longitude": 20.739906
+    },
+    {
+      "name": "Pri troch lipách",
+      "latitude": 48.57446,
+      "longitude": 20.690269
+    },
+    {
+      "name": "Žeriav",
+      "latitude": 48.566581,
+      "longitude": 20.692328
+    },
+    {
+      "name": "Favágó-zsomboly",
+      "latitude": 48.563151,
+      "longitude": 20.689999
+    },
+    {
+      "name": "Pomedzná priepasť",
+      "latitude": 48.563213,
+      "longitude": 20.687556
+    },
+    {
+      "name": "Zabudnutá priepasť",
+      "latitude": 48.563138,
+      "longitude": 20.685713
+    },
+    {
+      "name": "Hraničná priepasť",
+      "latitude": 48.562509,
+      "longitude": 20.68488
+    },
+    {
+      "name": "Náhodná priepasť",
+      "latitude": 48.566998,
+      "longitude": 20.686134
+    },
+    {
+      "name": "Goliášova jaskyňa",
+      "latitude": 48.567102,
+      "longitude": 20.68435
+    },
+    {
+      "name": "Úzka priepasť",
+      "latitude": 48.567047,
+      "longitude": 20.684271
+    },
+    {
+      "name": "Blatistá priepasť",
+      "latitude": 48.566873,
+      "longitude": 20.683052
+    },
+    {
+      "name": "Susedná priepasť",
+      "latitude": 48.567456,
+      "longitude": 20.682524
+    },
+    {
+      "name": "Prepadlisko 51",
+      "latitude": 48.573254,
+      "longitude": 20.683746
+    },
+    {
+      "name": "Prepadlisko 52",
+      "latitude": 48.572337,
+      "longitude": 20.713934
+    },
+    {
+      "name": "Pri salaši 4",
+      "latitude": 48.571559,
+      "longitude": 20.712916
+    },
+    {
+      "name": "Bratská priepasť",
+      "latitude": 48.572134,
+      "longitude": 20.699102
+    },
+    {
+      "name": "Ľadnica",
+      "latitude": 48.571734,
+      "longitude": 20.709933
+    },
+    {
+      "name": "Nászút-melletti-barlang",
+      "latitude": 48.561528,
+      "longitude": 20.709837
+    },
+    {
+      "name": "Pötty-feletti-zsomboly",
+      "latitude": 48.565727,
+      "longitude": 20.706161
+    },
+    {
+      "name": "Pri bahnisku",
+      "latitude": 48.571351,
+      "longitude": 20.700027
+    },
+    {
+      "name": "Srnčia priepasť",
+      "latitude": 48.567821,
+      "longitude": 20.673683
+    },
+    {
+      "name": "Západná priepasť II",
+      "latitude": 48.565362,
+      "longitude": 20.664626
+    },
+    {
+      "name": "Chvostova diera",
+      "latitude": 48.56543,
+      "longitude": 20.658607
+    },
+    {
+      "name": "Betlehem-zsomboly",
+      "latitude": 48.562685,
+      "longitude": 20.731652
+    },
+    {
+      "name": "Búbánat-zsomboly",
+      "latitude": 48.561926,
+      "longitude": 20.728015
+    },
+    {
+      "name": "Sinkó-zsomboly",
+      "latitude": 48.561884,
+      "longitude": 20.729911
+    },
+    {
+      "name": "Pekná priepasť",
+      "latitude": 48.568935,
+      "longitude": 20.706202
+    },
+    {
+      "name": "Hubová priepasť",
+      "latitude": 48.572828,
+      "longitude": 20.691521
+    },
+    {
+      "name": "Susedná priepasť",
+      "latitude": 48.572867,
+      "longitude": 20.691641
+    },
+    {
+      "name": "Jelenia priepasť",
+      "latitude": 48.571591,
+      "longitude": 20.696266
+    },
+    {
+      "name": "U partizána",
+      "latitude": 48.565934,
+      "longitude": 20.693643
+    },
+    {
+      "name": "Priepasť Valentovcov",
+      "latitude": 48.565216,
+      "longitude": 20.680135
+    },
+    {
+      "name": "Davidova jaskyňa",
+      "latitude": 48.565571,
+      "longitude": 20.68373
+    },
+    {
+      "name": "Stodoliská priepasť",
+      "latitude": 48.569711,
+      "longitude": 20.681676
+    },
+    {
+      "name": "Vykopaná priepasť",
+      "latitude": 48.571438,
+      "longitude": 20.680428
+    },
+    {
+      "name": "Slimačia priepasť",
+      "latitude": 48.570811,
+      "longitude": 20.685396
+    },
+    {
+      "name": "Lacová priepasť",
+      "latitude": 48.573121,
+      "longitude": 20.68498
+    },
+    {
+      "name": "Geofyzikov",
+      "latitude": 48.573105,
+      "longitude": 20.684611
+    },
+    {
+      "name": "Úzka priepasť",
+      "latitude": 48.574493,
+      "longitude": 20.687438
+    },
+    {
+      "name": "Bodnárova priepasť",
+      "latitude": 48.570055,
+      "longitude": 20.704621
+    },
+    {
+      "name": "Dážďovková priepasť",
+      "latitude": 48.573068,
+      "longitude": 20.664703
+    },
+    {
+      "name": "Prepadlisko na vrchu",
+      "latitude": 48.568068,
+      "longitude": 20.671262
+    },
+    {
+      "name": "Slepúchova priepasť",
+      "latitude": 48.562269,
+      "longitude": 20.659748
+    },
+    {
+      "name": "Medzi dubmi II",
+      "latitude": 48.56476,
+      "longitude": 20.661741
+    },
+    {
+      "name": "Medzi dubmi I",
+      "latitude": 48.564732,
+      "longitude": 20.661753
+    },
+    {
+      "name": "Mušia priepasť",
+      "latitude": 48.574593,
+      "longitude": 20.710126
+    },
+    {
+      "name": "Večerná priepasť",
+      "latitude": 48.572429,
+      "longitude": 20.708052
+    },
+    {
+      "name": "Geodetov",
+      "latitude": 48.574175,
+      "longitude": 20.704293
+    },
+    {
+      "name": "Virguľka",
+      "latitude": 48.574273,
+      "longitude": 20.721606
+    },
+    {
+      "name": "Škrivánkova",
+      "latitude": 48.570162,
+      "longitude": 20.721323
+    },
+    {
+      "name": "Pašerácka jaskyňa",
+      "latitude": 48.568566,
+      "longitude": 20.73179
+    },
+    {
+      "name": "Valach-lyuk",
+      "latitude": 48.559972,
+      "longitude": 20.678781
+    },
+    {
+      "name": "Zsiráf-zsomboly",
+      "latitude": 48.564147,
+      "longitude": 20.696116
+    },
+    {
+      "name": "Késői pionír-zsomboly",
+      "latitude": 48.561855,
+      "longitude": 20.717455
+    },
+    {
+      "name": "Darázs-lyuka",
+      "latitude": 48.566684,
+      "longitude": 20.723558
+    },
+    {
+      "name": "Reményteljes-zsomboly",
+      "latitude": 48.563487,
+      "longitude": 20.732781
+    },
+    {
+      "name": "Napközis-barlang",
+      "latitude": 48.563636,
+      "longitude": 20.729898
+    },
+    {
+      "name": "Pérecs-nyelő",
+      "latitude": 48.537067,
+      "longitude": 20.595667
+    },
+    {
+      "name": "Húsvét-barlang",
+      "latitude": 48.532217,
+      "longitude": 20.587967
+    },
+    {
+      "name": "Zbojnícka priepasť",
+      "latitude": 48.543189,
+      "longitude": 20.56727
+    },
+    {
+      "name": "Szarvas-kerti-barlang",
+      "latitude": 48.53628,
+      "longitude": 20.594479
+    },
+    {
+      "name": "Kecskés-kúti-forrásbarlang",
+      "latitude": 48.543613,
+      "longitude": 20.623828
+    },
+    {
+      "name": "Jaskyňa na Kečovských lúkach",
+      "latitude": 48.512626,
+      "longitude": 20.47495
+    },
+    {
+      "name": "Jaskyňa Kečovských prameňov",
+      "latitude": 48.500363,
+      "longitude": 20.485976
+    },
+    {
+      "name": "Priepasť Bezodná ľadnica",
+      "latitude": 48.516376,
+      "longitude": 20.484399
+    },
+    {
+      "name": "Néti-lyuk",
+      "latitude": 48.490567,
+      "longitude": 20.505867
+    },
+    {
+      "name": "Mál",
+      "latitude": 48.493769,
+      "longitude": 20.499228
+    },
+    {
+      "name": "Jaskyňa Domica",
+      "latitude": 48.477758,
+      "longitude": 20.469815
+    },
+    {
+      "name": "Liščia diera",
+      "latitude": 48.480595,
+      "longitude": 20.46145
+    },
+    {
+      "name": "Ponor",
+      "latitude": 48.482843,
+      "longitude": 20.459823
+    },
+    {
+      "name": "Čertova diera",
+      "latitude": 48.481563,
+      "longitude": 20.460578
+    },
+    {
+      "name": "Ponor pri Domici",
+      "latitude": 48.476204,
+      "longitude": 20.477481
+    },
+    {
+      "name": "Baradla-barlang kijárat (Csipketerem)",
+      "latitude": 48.473638,
+      "longitude": 20.493146
+    },
+    {
+      "name": "Poronya-tetői-barlang",
+      "latitude": 48.476116,
+      "longitude": 20.48884
+    },
+    {
+      "name": "Borsodi-zsomboly",
+      "latitude": 48.570805,
+      "longitude": 20.768065
+    },
+    {
+      "name": "Mokrá (vápeničná) priepasť",
+      "latitude": 48.572625,
+      "longitude": 20.765154
+    },
+    {
+      "name": "Nádaskai-zsomboly",
+      "latitude": 48.569241,
+      "longitude": 20.770256
+    },
+    {
+      "name": "Fazekas-zsomboly",
+      "latitude": 48.568747,
+      "longitude": 20.749271
+    },
+    {
+      "name": "Három nővér-zsomboly",
+      "latitude": 48.571084,
+      "longitude": 20.753856
+    },
+    {
+      "name": "Kalap-zsomboly",
+      "latitude": 48.568525,
+      "longitude": 20.754822
+    },
+    {
+      "name": "Külkörte-zsomboly",
+      "latitude": 48.568712,
+      "longitude": 20.746995
+    },
+    {
+      "name": "Rőt-kúti Dreher-zsomboly",
+      "latitude": 48.571325,
+      "longitude": 20.75685
+    },
+    {
+      "name": "Jama",
+      "latitude": 48.574065,
+      "longitude": 20.767263
+    },
+    {
+      "name": "16. pracovisko",
+      "latitude": 48.573896,
+      "longitude": 20.764809
+    },
+    {
+      "name": "Prepadlisko 125",
+      "latitude": 48.571977,
+      "longitude": 20.751987
+    },
+    {
+      "name": "Kostnica",
+      "latitude": 48.571748,
+      "longitude": 20.746539
+    },
+    {
+      "name": "Priepasť u siedmich jazvecov",
+      "latitude": 48.571795,
+      "longitude": 20.745095
+    },
+    {
+      "name": "Pňová priepasť",
+      "latitude": 48.574289,
+      "longitude": 20.750732
+    },
+    {
+      "name": "Fekete-lyuk",
+      "latitude": 48.570657,
+      "longitude": 20.771945
+    },
+    {
+      "name": "Sárga-zsomboly",
+      "latitude": 48.57094,
+      "longitude": 20.762226
+    },
+    {
+      "name": "Prepadlisko nad Vtáčiou",
+      "latitude": 48.573268,
+      "longitude": 20.766794
+    },
+    {
+      "name": "Köcsög-zsomboly",
+      "latitude": 48.569544,
+      "longitude": 20.749239
+    },
+    {
+      "name": "Skalnatá priepasť",
+      "latitude": 48.574232,
+      "longitude": 20.747165
+    },
+    {
+      "name": "Kalap-barlang",
+      "latitude": 48.568603,
+      "longitude": 20.755422
+    },
+    {
+      "name": "Zöld-zsomboly",
+      "latitude": 48.571184,
+      "longitude": 20.764332
+    },
+    {
+      "name": "Narancssárga-zsomboly",
+      "latitude": 48.570957,
+      "longitude": 20.763506
+    },
+    {
+      "name": "Jaskyňa Penežnica",
+      "latitude": 48.911122,
+      "longitude": 21.141238
+    },
+    {
+      "name": "Jaskyňa nad železničnou stanicou",
+      "latitude": 48.871832,
+      "longitude": 21.132591
+    },
+    {
+      "name": "Veterná diera",
+      "latitude": 48.897842,
+      "longitude": 21.344971
+    },
+    {
+      "name": "Zimná skala",
+      "latitude": 48.899932,
+      "longitude": 21.344508
+    },
+    {
+      "name": "Veľká Ružínska jaskyňa",
+      "latitude": 48.837358,
+      "longitude": 21.117693
+    },
+    {
+      "name": "Netopieria jaskyňa",
+      "latitude": 48.837699,
+      "longitude": 21.114491
+    },
+    {
+      "name": "Veľká jaskyňa nad suchým vodopádom",
+      "latitude": 48.843007,
+      "longitude": 21.105497
+    },
+    {
+      "name": "Zákrutova jaskyňa",
+      "latitude": 48.840657,
+      "longitude": 21.110722
+    },
+    {
+      "name": "Hadia jaskyňa",
+      "latitude": 48.840923,
+      "longitude": 21.110789
+    },
+    {
+      "name": "Antonova jaskyňa",
+      "latitude": 48.838304,
+      "longitude": 21.114205
+    },
+    {
+      "name": "Laciho jaskyňa",
+      "latitude": 48.838096,
+      "longitude": 21.114767
+    },
+    {
+      "name": "Humenec",
+      "latitude": 48.85931,
+      "longitude": 21.175001
+    },
+    {
+      "name": "Malý hrad",
+      "latitude": 48.843921,
+      "longitude": 21.106588
+    },
+    {
+      "name": "Očko",
+      "latitude": 48.83838,
+      "longitude": 21.116994
+    },
+    {
+      "name": "Ružínske abri",
+      "latitude": 48.838605,
+      "longitude": 21.116359
+    },
+    {
+      "name": "Jaskyňa v abri",
+      "latitude": 48.838454,
+      "longitude": 21.116909
+    },
+    {
+      "name": "Jaskyňa nad Očkom",
+      "latitude": 48.838338,
+      "longitude": 21.117009
+    },
+    {
+      "name": "Malá Antonova jaskyňa",
+      "latitude": 48.838243,
+      "longitude": 21.114404
+    },
+    {
+      "name": "Jaskyňa nad výverom",
+      "latitude": 48.838907,
+      "longitude": 21.115104
+    },
+    {
+      "name": "Jaskyňa nad výverom II",
+      "latitude": 48.838698,
+      "longitude": 21.115426
+    },
+    {
+      "name": "Laciho jaskyňa II",
+      "latitude": 48.838247,
+      "longitude": 21.114912
+    },
+    {
+      "name": "Nová jaskyňa v bočnom Medveďom údolí",
+      "latitude": 48.842034,
+      "longitude": 21.108625
+    },
+    {
+      "name": "Jaskyňa nad Zákrutovou",
+      "latitude": 48.840623,
+      "longitude": 21.110712
+    },
+    {
+      "name": "Jaskyňa pod Debrami",
+      "latitude": 48.850157,
+      "longitude": 21.105452
+    },
+    {
+      "name": "Červený komín",
+      "latitude": 48.850208,
+      "longitude": 21.105922
+    },
+    {
+      "name": "Suchá jaskyňa",
+      "latitude": 48.850561,
+      "longitude": 21.106704
+    },
+    {
+      "name": "Malá kvapľová jaskyňa",
+      "latitude": 48.837571,
+      "longitude": 21.117761
+    },
+    {
+      "name": "Puklinová jaskyňa II",
+      "latitude": 48.84339,
+      "longitude": 21.106725
+    },
+    {
+      "name": "Sivecká galéria",
+      "latitude": 48.844185,
+      "longitude": 21.103704
+    },
+    {
+      "name": "Medvedia jaskyňa",
+      "latitude": 48.841217,
+      "longitude": 21.109781
+    },
+    {
+      "name": "Dolná jaskyňa v Suchom vodopáde",
+      "latitude": 48.843735,
+      "longitude": 21.105518
+    },
+    {
+      "name": "Studená jaskyňa",
+      "latitude": 48.843638,
+      "longitude": 21.10677
+    },
+    {
+      "name": "Puklinová jaskyňa I",
+      "latitude": 48.843204,
+      "longitude": 21.105048
+    },
+    {
+      "name": "Sivecká pekná jaskyňa",
+      "latitude": 48.844837,
+      "longitude": 21.104602
+    },
+    {
+      "name": "Sivecká malá jaskyňa",
+      "latitude": 48.844363,
+      "longitude": 21.104443
+    },
+    {
+      "name": "Dvojvchodová jaskyňa",
+      "latitude": 48.839525,
+      "longitude": 21.109579
+    },
+    {
+      "name": "Poludňajšia jaskyňa",
+      "latitude": 48.839132,
+      "longitude": 21.120186
+    },
+    {
+      "name": "Hrebienková jaskyňa",
+      "latitude": 48.839497,
+      "longitude": 21.119833
+    },
+    {
+      "name": "Jaskyňa pod suťoviskom",
+      "latitude": 48.839519,
+      "longitude": 21.119218
+    },
+    {
+      "name": "Abri - Veveričková",
+      "latitude": 48.851268,
+      "longitude": 21.112766
+    },
+    {
+      "name": "Príkra jaskyňa",
+      "latitude": 48.839514,
+      "longitude": 21.120129
+    },
+    {
+      "name": "Kysacká jaskyňa",
+      "latitude": 48.851481,
+      "longitude": 21.211966
+    },
+    {
+      "name": "Previsová jaskyňa",
+      "latitude": 48.815872,
+      "longitude": 21.166962
+    },
+    {
+      "name": "Krížna jaskyňa",
+      "latitude": 48.816083,
+      "longitude": 21.166699
+    },
+    {
+      "name": "Sokoľská jaskyňa",
+      "latitude": 48.821335,
+      "longitude": 21.162661
+    },
+    {
+      "name": "Havranie diery",
+      "latitude": 48.821432,
+      "longitude": 21.155796
+    },
+    {
+      "name": "Juskova jaskyňa",
+      "latitude": 48.856035,
+      "longitude": 21.507016
+    },
+    {
+      "name": "Andrejova jaskyňa II",
+      "latitude": 48.800951,
+      "longitude": 21.163049
+    },
+    {
+      "name": "Vitrova diera",
+      "latitude": 48.783338,
+      "longitude": 21.519718
+    },
+    {
+      "name": "Vitrova diera",
+      "latitude": 48.783851,
+      "longitude": 21.519343
+    },
+    {
+      "name": "Jaskyňa Veľká Artajama",
+      "latitude": 48.898202,
+      "longitude": 21.832014
+    },
+    {
+      "name": "Brekovská jaskyňa",
+      "latitude": 48.897472,
+      "longitude": 21.831833
+    },
+    {
+      "name": "Jaskyňa Malá Artajama",
+      "latitude": 48.897651,
+      "longitude": 21.833619
+    },
+    {
+      "name": "Dúpna",
+      "latitude": 48.901088,
+      "longitude": 21.918928
+    },
+    {
+      "name": "Olovná pivnička",
+      "latitude": 48.906774,
+      "longitude": 21.952382
+    },
+    {
+      "name": "Dudlakovo",
+      "latitude": 48.876433,
+      "longitude": 21.915445
+    },
+    {
+      "name": "Vlčia diera",
+      "latitude": 48.873801,
+      "longitude": 21.917928
+    },
+    {
+      "name": "Jasenovská hradná jaskyňa",
+      "latitude": 48.890752,
+      "longitude": 21.910596
+    },
+    {
+      "name": "Jaskyňa Malá medvedia diera",
+      "latitude": 48.891094,
+      "longitude": 21.893207
+    },
+    {
+      "name": "Jaskyňa Veľká medvedia diera",
+      "latitude": 48.891134,
+      "longitude": 21.893322
+    },
+    {
+      "name": "Tufove pivnice",
+      "latitude": 48.464777,
+      "longitude": 21.68306
+    },
+    {
+      "name": "Kamenná izba",
+      "latitude": 48.197659,
+      "longitude": 19.816635
+    },
+    {
+      "name": "Studňa na Ragáči",
+      "latitude": 48.222667,
+      "longitude": 19.982346
+    },
+    {
+      "name": "Kryštálová jaskyňa",
+      "latitude": 48.419163,
+      "longitude": 21.778523
+    },
+    {
+      "name": "Tufové pivnice Streda nad Bodrogom",
+      "latitude": 48.383457,
+      "longitude": 21.763295
+    }
+  ],
+  "meta": {
+    "title": "Vstupy do jaskýň (OSM) - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (natural=cave_entrance). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84. Obsahuje 1537 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Vstupy do jaskýň (OSM) | ListBase",
+    "seo_description": "Stiahnuť Vstupy do jaskýň (OSM) — 1537 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 1537 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

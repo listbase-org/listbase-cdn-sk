@@ -1,0 +1,466 @@
+{
+  "id": "sk-bytca-obce",
+  "name": "Obce v okrese Bytča",
+  "title": "Obce v okrese Bytča",
+  "description": "Všetky obce (municipality) v okrese Bytča, Žilinský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 34,
+      "fullname": "Babiše",
+      "shortname": "Babiše",
+      "zip": "013 54",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 130,
+      "fullname": "Beňov",
+      "shortname": "Beňov",
+      "zip": "014 01",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 302,
+      "fullname": "Bršlica",
+      "shortname": "Bršlica",
+      "zip": "013 54",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 336,
+      "fullname": "Buková",
+      "shortname": "Buková",
+      "zip": "013 61",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 368,
+      "fullname": "Bytča",
+      "shortname": "Bytča",
+      "zip": "014 01",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 597,
+      "fullname": "Dolinky",
+      "shortname": "Dolinky",
+      "zip": "013 62",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 933,
+      "fullname": "Hlboké nad Váhom",
+      "shortname": "Hlboké nad Váhom",
+      "zip": "014 01",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 938,
+      "fullname": "Hliník nad Váhom",
+      "shortname": "Hliník nad Váhom",
+      "zip": "014 01",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1074,
+      "fullname": "Hrabové",
+      "shortname": "Hrabové",
+      "zip": "014 01",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1089,
+      "fullname": "Hradná",
+      "shortname": "Hradná",
+      "zip": "013 52",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1158,
+      "fullname": "Hvozdnica",
+      "shortname": "Hvozdnica",
+      "zip": "013 56",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1246,
+      "fullname": "Jablonové",
+      "shortname": "Jablonové",
+      "zip": "013 52",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1490,
+      "fullname": "Kolárovice",
+      "shortname": "Kolárovice",
+      "zip": "013 54",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1537,
+      "fullname": "Korytné",
+      "shortname": "Korytné",
+      "zip": "013 54",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1600,
+      "fullname": "Kotešová",
+      "shortname": "Kotešová",
+      "zip": "013 61",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1998,
+      "fullname": "Madzín",
+      "shortname": "Madzín",
+      "zip": "013 62",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2017,
+      "fullname": "Malá Bytča",
+      "shortname": "Malá Bytča",
+      "zip": "014 01",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2118,
+      "fullname": "Maršová",
+      "shortname": "Maršová",
+      "zip": "013 51",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2186,
+      "fullname": "Mikšová",
+      "shortname": "Mikšová",
+      "zip": "014 01",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2453,
+      "fullname": "Oblazov",
+      "shortname": "Oblazov",
+      "zip": "013 61",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2634,
+      "fullname": "Petrovice",
+      "shortname": "Petrovice",
+      "zip": "013 53",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2656,
+      "fullname": "Pláne",
+      "shortname": "Pláne",
+      "zip": "013 53",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2783,
+      "fullname": "Potoky",
+      "shortname": "Potoky",
+      "zip": "013 62",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2812,
+      "fullname": "Predjastrabie",
+      "shortname": "Predjastrabie",
+      "zip": "013 55",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2813,
+      "fullname": "Predmier",
+      "shortname": "Predmier",
+      "zip": "013 51",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2866,
+      "fullname": "Pšurnovice",
+      "shortname": "Pšurnovice",
+      "zip": "014 01",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2930,
+      "fullname": "Rašov",
+      "shortname": "Rašov",
+      "zip": "013 51",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2944,
+      "fullname": "Ráztoky",
+      "shortname": "Ráztoky",
+      "zip": "013 62",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3119,
+      "fullname": "Setechov",
+      "shortname": "Setechov",
+      "zip": "013 53",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3184,
+      "fullname": "Slopkov",
+      "shortname": "Slopkov",
+      "zip": "013 54",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3231,
+      "fullname": "Soľné",
+      "shortname": "Soľné",
+      "zip": "013 62",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3343,
+      "fullname": "Súľov",
+      "shortname": "Súľov",
+      "zip": "013 52",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3744,
+      "fullname": "Veľká Bytča",
+      "shortname": "Veľká Bytča",
+      "zip": "014 01",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3800,
+      "fullname": "Veľké Rovné",
+      "shortname": "Veľké Rovné",
+      "zip": "013 62",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3881,
+      "fullname": "Višňové",
+      "shortname": "Višňové",
+      "zip": "013 55",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 479,
+      "fullname": "Čiakov",
+      "shortname": "Čiakov",
+      "zip": "013 54",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 490,
+      "fullname": "Čierne",
+      "shortname": "Čierne",
+      "zip": "013 55",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3435,
+      "fullname": "Škoruby",
+      "shortname": "Škoruby",
+      "zip": "013 54",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3462,
+      "fullname": "Štiavnik",
+      "shortname": "Štiavnik",
+      "zip": "013 55",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4165,
+      "fullname": "Žarnov",
+      "shortname": "Žarnov",
+      "zip": "013 62",
+      "district_id": 11,
+      "okres": "Bytča",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Bytča - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Bytča, Žilinský kraj — s PSČ a kódom okresu. Obsahuje 40 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Bytča | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Bytča — 40 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 40 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

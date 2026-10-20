@@ -1,0 +1,946 @@
+{
+  "id": "sk-velky-krtis-obce",
+  "name": "Obce v okrese Veľký Krtíš",
+  "title": "Obce v okrese Veľký Krtíš",
+  "description": "Všetky obce (municipality) v okrese Veľký Krtíš, Banskobystrický kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 88,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 59,
+      "fullname": "Balog nad Ipľom",
+      "shortname": "Balog nad Ipľom",
+      "zip": "991 11",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 307,
+      "fullname": "Brusník",
+      "shortname": "Brusník",
+      "zip": "991 01",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 341,
+      "fullname": "Bukovec",
+      "shortname": "Bukovec",
+      "zip": "991 02",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 351,
+      "fullname": "Bušince",
+      "shortname": "Bušince",
+      "zip": "991 22",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 94,
+      "fullname": "Bátorová",
+      "shortname": "Bátorová",
+      "zip": "991 26",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1187,
+      "fullname": "Chrastince",
+      "shortname": "Chrastince",
+      "zip": "991 08",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1193,
+      "fullname": "Chrťany",
+      "shortname": "Chrťany",
+      "zip": "991 21",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 517,
+      "fullname": "Dačov Lom",
+      "shortname": "Dačov Lom",
+      "zip": "991 35",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 596,
+      "fullname": "Dolinka",
+      "shortname": "Dolinka",
+      "zip": "991 28",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 612,
+      "fullname": "Dolná Strehová",
+      "shortname": "Dolná Strehová",
+      "zip": "991 02",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 640,
+      "fullname": "Dolné Plachtince",
+      "shortname": "Dolné Plachtince",
+      "zip": "991 24",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 641,
+      "fullname": "Dolné Príbelce",
+      "shortname": "Dolné Príbelce",
+      "zip": "991 25",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 647,
+      "fullname": "Dolné Strháre",
+      "shortname": "Dolné Strháre",
+      "zip": "991 03",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 705,
+      "fullname": "Drnava",
+      "shortname": "Drnava",
+      "zip": "991 02",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 735,
+      "fullname": "Dúbrava",
+      "shortname": "Dúbrava",
+      "zip": "991 02",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 841,
+      "fullname": "Glabušovce",
+      "shortname": "Glabušovce",
+      "zip": "991 22",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 987,
+      "fullname": "Horná Strehová",
+      "shortname": "Horná Strehová",
+      "zip": "991 02",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1019,
+      "fullname": "Horné Plachtince",
+      "shortname": "Horné Plachtince",
+      "zip": "991 24",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1020,
+      "fullname": "Horné Príbelce",
+      "shortname": "Horné Príbelce",
+      "zip": "991 25",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1028,
+      "fullname": "Horné Strháre",
+      "shortname": "Horné Strháre",
+      "zip": "991 03",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1131,
+      "fullname": "Hrušov",
+      "shortname": "Hrušov",
+      "zip": "991 42",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1211,
+      "fullname": "Iliašov",
+      "shortname": "Iliašov",
+      "zip": "991 07",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1216,
+      "fullname": "Imrov Kopec",
+      "shortname": "Imrov Kopec",
+      "zip": "991 21",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1222,
+      "fullname": "Ipeľské Predmostie",
+      "shortname": "Ipeľské Predmostie",
+      "zip": "991 10",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1378,
+      "fullname": "Kamenné Kosihy",
+      "shortname": "Kamenné Kosihy",
+      "zip": "991 27",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1381,
+      "fullname": "Kamenný Vrch",
+      "shortname": "Kamenný Vrch",
+      "zip": "992 01",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1423,
+      "fullname": "Kiarov",
+      "shortname": "Kiarov",
+      "zip": "991 06",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1441,
+      "fullname": "Kleňany",
+      "shortname": "Kleňany",
+      "zip": "991 10",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1489,
+      "fullname": "Koláre",
+      "shortname": "Koláre",
+      "zip": "991 09",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1540,
+      "fullname": "Kosihovce",
+      "shortname": "Kosihovce",
+      "zip": "991 25",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1541,
+      "fullname": "Kosihy nad Ipľom",
+      "shortname": "Kosihy nad Ipľom",
+      "zip": "991 11",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1606,
+      "fullname": "Kováčovce",
+      "shortname": "Kováčovce",
+      "zip": "991 06",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1425,
+      "fullname": "Kírť",
+      "shortname": "Kírť",
+      "zip": "991 22",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1819,
+      "fullname": "Lesenice",
+      "shortname": "Lesenice",
+      "zip": "991 08",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2018,
+      "fullname": "Malá Čalomija",
+      "shortname": "Malá Čalomija",
+      "zip": "991 08",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2071,
+      "fullname": "Malé Straciny",
+      "shortname": "Malé Straciny",
+      "zip": "990 01",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2078,
+      "fullname": "Malé Zlievce",
+      "shortname": "Malé Zlievce",
+      "zip": "991 22",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2095,
+      "fullname": "Malý Krtíš",
+      "shortname": "Malý Krtíš",
+      "zip": "990 01",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2235,
+      "fullname": "Modrý Kameň",
+      "shortname": "Modrý Kameň",
+      "zip": "992 01",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2272,
+      "fullname": "Muľa",
+      "shortname": "Muľa",
+      "zip": "991 22",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2320,
+      "fullname": "Nenince",
+      "shortname": "Nenince",
+      "zip": "991 26",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2417,
+      "fullname": "Nová Ves",
+      "shortname": "Nová Ves",
+      "zip": "991 05",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2450,
+      "fullname": "Obeckov",
+      "shortname": "Obeckov",
+      "zip": "991 05",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2478,
+      "fullname": "Olováry",
+      "shortname": "Olováry",
+      "zip": "991 22",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2506,
+      "fullname": "Opatovská Nová Ves",
+      "shortname": "Opatovská Nová Ves",
+      "zip": "991 07",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2508,
+      "fullname": "Opava",
+      "shortname": "Opava",
+      "zip": "991 25",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2550,
+      "fullname": "Osušie",
+      "shortname": "Osušie",
+      "zip": "991 02",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2621,
+      "fullname": "Peťov",
+      "shortname": "Peťov",
+      "zip": "991 06",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2779,
+      "fullname": "Potočok",
+      "shortname": "Potočok",
+      "zip": "991 22",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2806,
+      "fullname": "Pravica",
+      "shortname": "Pravica",
+      "zip": "991 21",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2834,
+      "fullname": "Prieloh",
+      "shortname": "Prieloh",
+      "zip": "991 02",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2823,
+      "fullname": "Príbelce",
+      "shortname": "Príbelce",
+      "zip": "991 25",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2828,
+      "fullname": "Príboj",
+      "shortname": "Príboj",
+      "zip": "991 01",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2800,
+      "fullname": "Pôtor",
+      "shortname": "Pôtor",
+      "zip": "991 03",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3106,
+      "fullname": "Selešťany",
+      "shortname": "Selešťany",
+      "zip": "991 06",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3116,
+      "fullname": "Senné",
+      "shortname": "Senné",
+      "zip": "991 01",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3090,
+      "fullname": "Sečianky",
+      "shortname": "Sečianky",
+      "zip": "991 10",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3100,
+      "fullname": "Seľany",
+      "shortname": "Seľany",
+      "zip": "991 27",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3147,
+      "fullname": "Sklabiná",
+      "shortname": "Sklabiná",
+      "zip": "991 05",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3193,
+      "fullname": "Slovenské Kľačany",
+      "shortname": "Slovenské Kľačany",
+      "zip": "991 02",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3192,
+      "fullname": "Slovenské Ďarmoty",
+      "shortname": "Slovenské Ďarmoty",
+      "zip": "991 07",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3306,
+      "fullname": "Stredné Plachtince",
+      "shortname": "Stredné Plachtince",
+      "zip": "991 24",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3336,
+      "fullname": "Sucháň",
+      "shortname": "Sucháň",
+      "zip": "991 35",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3338,
+      "fullname": "Suché Brezovo",
+      "shortname": "Suché Brezovo",
+      "zip": "991 03",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3582,
+      "fullname": "Trebušovce",
+      "shortname": "Trebušovce",
+      "zip": "991 27",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3769,
+      "fullname": "Veľká Ves nad Ipľom",
+      "shortname": "Veľká Ves nad Ipľom",
+      "zip": "991 10",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3745,
+      "fullname": "Veľká Čalomija",
+      "shortname": "Veľká Čalomija",
+      "zip": "991 09",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3803,
+      "fullname": "Veľké Straciny",
+      "shortname": "Veľké Straciny",
+      "zip": "990 01",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3812,
+      "fullname": "Veľké Zlievce",
+      "shortname": "Veľké Zlievce",
+      "zip": "991 23",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3829,
+      "fullname": "Veľký Krtíš",
+      "shortname": "Veľký Krtíš",
+      "zip": "990 01",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3835,
+      "fullname": "Veľký Lom",
+      "shortname": "Veľký Lom",
+      "zip": "991 03",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3858,
+      "fullname": "Vieska",
+      "shortname": "Vieska",
+      "zip": "991 02",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3865,
+      "fullname": "Vinica",
+      "shortname": "Vinica",
+      "zip": "991 28",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3943,
+      "fullname": "Vrbovka",
+      "shortname": "Vrbovka",
+      "zip": "991 06",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4147,
+      "fullname": "Zombor",
+      "shortname": "Zombor",
+      "zip": "991 22",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4043,
+      "fullname": "Záhorce",
+      "shortname": "Záhorce",
+      "zip": "991 06",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4075,
+      "fullname": "Závada",
+      "shortname": "Závada",
+      "zip": "991 21",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 431,
+      "fullname": "Čebovce",
+      "shortname": "Čebovce",
+      "zip": "991 25",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 445,
+      "fullname": "Čelovce",
+      "shortname": "Čelovce",
+      "zip": "991 41",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 442,
+      "fullname": "Čeláre",
+      "shortname": "Čeláre",
+      "zip": "991 22",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 469,
+      "fullname": "Červeňany",
+      "shortname": "Červeňany",
+      "zip": "991 01",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 761,
+      "fullname": "Ďurkovce",
+      "shortname": "Ďurkovce",
+      "zip": "991 27",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1940,
+      "fullname": "Ľuboriečka",
+      "shortname": "Ľuboriečka",
+      "zip": "991 02",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3429,
+      "fullname": "Širákov",
+      "shortname": "Širákov",
+      "zip": "991 27",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3437,
+      "fullname": "Škriavnik",
+      "shortname": "Škriavnik",
+      "zip": "991 25",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3480,
+      "fullname": "Šuľa",
+      "shortname": "Šuľa",
+      "zip": "991 01",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4183,
+      "fullname": "Želovce",
+      "shortname": "Želovce",
+      "zip": "991 06",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4192,
+      "fullname": "Žihľava",
+      "shortname": "Žihľava",
+      "zip": "991 03",
+      "district_id": 73,
+      "okres": "Veľký Krtíš",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Veľký Krtíš - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Veľký Krtíš, Banskobystrický kraj — s PSČ a kódom okresu. Obsahuje 88 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Veľký Krtíš | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Veľký Krtíš — 88 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 88 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

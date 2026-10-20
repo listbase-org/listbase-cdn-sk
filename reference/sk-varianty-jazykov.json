@@ -1,0 +1,46 @@
+{
+  "id": "sk-varianty-jazykov",
+  "name": "Varianty jazykov — názvy v slovenčine (CLDR)",
+  "title": "Varianty jazykov — názvy v slovenčine (CLDR)",
+  "description": "Kódy BCP-47 variantov jazykov a ich názvy v slovenčine z locale sk v CLDR.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "SCOTLAND",
+      "nazov": "škótska štandardná angličtina"
+    }
+  ],
+  "meta": {
+    "title": "Varianty jazykov — názvy v slovenčine (CLDR) - Bezplatné stiahnutie",
+    "description": "Kódy BCP-47 variantov jazykov a ich názvy v slovenčine z locale sk v CLDR. Obsahuje 1 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Varianty jazykov — názvy v slovenčine (CLDR) | ListBase",
+    "seo_description": "Stiahnuť Varianty jazykov — názvy v slovenčine (CLDR) — 1 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 1 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

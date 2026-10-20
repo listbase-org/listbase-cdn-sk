@@ -1,0 +1,64 @@
+{
+  "id": "sk-trnava-swift-kody",
+  "name": "SWIFT/BIC kódy — Trnava",
+  "title": "SWIFT/BIC kódy — Trnava",
+  "description": "SWIFT/BIC kódy bánk a finančných inštitúcií na Slovensku. Každý záznam uvádza názov inštitúcie, mesto, prípadnú pobočku a SWIFT/BIC kód. Zdroj: PeterNotenboom/SwiftCodes (MIT). Táto podmnožina obsahuje 3 inštitúcií, ktoré zdroj uvádza s mestom \"TRNAVA\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "PRIMA BANKA SLOVENSKO, A.S.",
+      "city": "TRNAVA",
+      "branch": "(TRNAVA BRANCH)",
+      "swift_code": "KOMASK2XTNA"
+    },
+    {
+      "bank": "SAMSUNG ELECTRONICS LCD SLOVAKIA S.R.O.",
+      "city": "TRNAVA",
+      "branch": "(SELSK)",
+      "swift_code": "SECTSKS14B5"
+    },
+    {
+      "bank": "SAMSUNG ELECTRONICS LCD SLOVAKIA S.R.O.",
+      "city": "TRNAVA",
+      "branch": "",
+      "swift_code": "SECTSKS1"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BIC kódy — Trnava - Bezplatné stiahnutie",
+    "description": "SWIFT/BIC kódy bánk a finančných inštitúcií na Slovensku. Každý záznam uvádza názov inštitúcie, mesto, prípadnú pobočku a SWIFT/BIC kód. Zdroj: PeterNotenboom/SwiftCodes (MIT). Táto podmnožina obsahuje 3 inštitúcií, ktoré zdroj uvádza s mestom \"TRNAVA\". Obsahuje 3 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "SWIFT/BIC kódy — Trnava | ListBase",
+    "seo_description": "Stiahnuť SWIFT/BIC kódy — Trnava — 3 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 3 záznamov / 4 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

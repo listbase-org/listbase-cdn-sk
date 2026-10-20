@@ -1,0 +1,526 @@
+{
+  "id": "sk-dolny-kubin-obce",
+  "name": "Obce v okrese Dolný Kubín",
+  "title": "Obce v okrese Dolný Kubín",
+  "description": "Všetky obce (municipality) v okrese Dolný Kubín, Žilinský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 131,
+      "fullname": "Beňova Lehota",
+      "shortname": "Beňova Lehota",
+      "zip": "026 01",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 149,
+      "fullname": "Biela",
+      "shortname": "Biela",
+      "zip": "027 05",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 374,
+      "fullname": "Bziny",
+      "shortname": "Bziny",
+      "zip": "026 01",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1165,
+      "fullname": "Chlebnice",
+      "shortname": "Chlebnice",
+      "zip": "027 55",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 539,
+      "fullname": "Demkovská",
+      "shortname": "Demkovská",
+      "zip": "027 05",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 564,
+      "fullname": "Dlhá nad Oravou",
+      "shortname": "Dlhá nad Oravou",
+      "zip": "027 55",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 594,
+      "fullname": "Dolina",
+      "shortname": "Dolina",
+      "zip": "027 05",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 603,
+      "fullname": "Dolná Lehota",
+      "shortname": "Dolná Lehota",
+      "zip": "027 41",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 663,
+      "fullname": "Dolný Kubín",
+      "shortname": "Dolný Kubín",
+      "zip": "026 01",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 857,
+      "fullname": "Grúne",
+      "shortname": "Grúne",
+      "zip": "027 05",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 908,
+      "fullname": "Havrania",
+      "shortname": "Havrania",
+      "zip": "027 05",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 977,
+      "fullname": "Horná Lehota",
+      "shortname": "Horná Lehota",
+      "zip": "027 41",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1225,
+      "fullname": "Istebné",
+      "shortname": "Istebné",
+      "zip": "027 53",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1295,
+      "fullname": "Jasenová",
+      "shortname": "Jasenová",
+      "zip": "026 01",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1514,
+      "fullname": "Končitá",
+      "shortname": "Končitá",
+      "zip": "027 05",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1614,
+      "fullname": "Kozinská",
+      "shortname": "Kozinská",
+      "zip": "027 05",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1636,
+      "fullname": "Kraľovany",
+      "shortname": "Kraľovany",
+      "zip": "027 51",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1672,
+      "fullname": "Krivá",
+      "shortname": "Krivá",
+      "zip": "027 55",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1467,
+      "fullname": "Kňažia",
+      "shortname": "Kňažia",
+      "zip": "026 01",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1825,
+      "fullname": "Leštiny",
+      "shortname": "Leštiny",
+      "zip": "026 01",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2043,
+      "fullname": "Malatiná",
+      "shortname": "Malatiná",
+      "zip": "026 01",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2087,
+      "fullname": "Malý Bysterec",
+      "shortname": "Malý Bysterec",
+      "zip": "026 01",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2158,
+      "fullname": "Medzibrodie nad Oravou",
+      "shortname": "Medzibrodie n/Oravou",
+      "zip": "026 01",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2159,
+      "fullname": "Medzihradné",
+      "shortname": "Medzihradné",
+      "zip": "026 01",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2244,
+      "fullname": "Mokraď",
+      "shortname": "Mokraď",
+      "zip": "026 01",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2517,
+      "fullname": "Oravská Poruba",
+      "shortname": "Oravská Poruba",
+      "zip": "027 54",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2520,
+      "fullname": "Oravský Podzámok",
+      "shortname": "Oravský Podzámok",
+      "zip": "027 41",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2536,
+      "fullname": "Osádka",
+      "shortname": "Osádka",
+      "zip": "026 01",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2624,
+      "fullname": "Petrová",
+      "shortname": "Petrová",
+      "zip": "027 05",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2668,
+      "fullname": "Plešivá",
+      "shortname": "Plešivá",
+      "zip": "027 05",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2738,
+      "fullname": "Pokryváč",
+      "shortname": "Pokryváč",
+      "zip": "026 01",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2826,
+      "fullname": "Pribiš",
+      "shortname": "Pribiš",
+      "zip": "027 41",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2869,
+      "fullname": "Pucov",
+      "shortname": "Pucov",
+      "zip": "026 01",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2582,
+      "fullname": "Párnica",
+      "shortname": "Párnica",
+      "zip": "026 01",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2963,
+      "fullname": "Revišné",
+      "shortname": "Revišné",
+      "zip": "027 54",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2945,
+      "fullname": "Ráztoky",
+      "shortname": "Ráztoky",
+      "zip": "027 05",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3093,
+      "fullname": "Sedliacka Dubová",
+      "shortname": "Sedliacka Dubová",
+      "zip": "027 55",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3253,
+      "fullname": "Srňacie",
+      "shortname": "Srňacie",
+      "zip": "026 01",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3740,
+      "fullname": "Veličná",
+      "shortname": "Veličná",
+      "zip": "027 54",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3817,
+      "fullname": "Veľký Bysterec",
+      "shortname": "Veľký Bysterec",
+      "zip": "026 01",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4020,
+      "fullname": "Vyšný Kubín",
+      "shortname": "Vyšný Kubín",
+      "zip": "026 01",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4034,
+      "fullname": "Zábrež",
+      "shortname": "Zábrež",
+      "zip": "027 54",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4066,
+      "fullname": "Záskalie",
+      "shortname": "Záskalie",
+      "zip": "026 01",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4088,
+      "fullname": "Zázrivá",
+      "shortname": "Zázrivá",
+      "zip": "027 05",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3431,
+      "fullname": "Široká",
+      "shortname": "Široká",
+      "zip": "027 41",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4169,
+      "fullname": "Žaškov",
+      "shortname": "Žaškov",
+      "zip": "027 21",
+      "district_id": 14,
+      "okres": "Dolný Kubín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Dolný Kubín - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Dolný Kubín, Žilinský kraj — s PSČ a kódom okresu. Obsahuje 46 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Dolný Kubín | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Dolný Kubín — 46 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 46 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

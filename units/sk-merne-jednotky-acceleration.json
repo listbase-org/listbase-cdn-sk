@@ -1,0 +1,79 @@
+{
+  "id": "sk-merne-jednotky-acceleration",
+  "name": "Merné jednotky — kategória 'acceleration' (2)",
+  "title": "Merné jednotky — kategória 'acceleration' (2)",
+  "description": "Merné jednotky kategórie 'acceleration' z locale sk v CLDR, s názvami v slovenčine.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "skratka",
+      "label": "Skratka",
+      "type": "string"
+    },
+    {
+      "key": "uzky_tvar",
+      "label": "Uzky Tvar",
+      "type": "string"
+    },
+    {
+      "key": "vzor",
+      "label": "Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "acceleration-g-force",
+      "kategoria": "acceleration",
+      "nazov": "jednotky preťaženia",
+      "skratka": "jednotka preťaženia",
+      "uzky_tvar": "G",
+      "vzor": "{0} jednotiek preťaženia"
+    },
+    {
+      "id": 2,
+      "unit_code": "acceleration-meter-per-square-second",
+      "kategoria": "acceleration",
+      "nazov": "metre za sekundu na druhú",
+      "skratka": "m/s²",
+      "uzky_tvar": "m/s²",
+      "vzor": "{0} metrov za sekundu na druhú"
+    }
+  ],
+  "meta": {
+    "title": "Merné jednotky — kategória 'acceleration' (2) - Bezplatné stiahnutie",
+    "description": "Merné jednotky kategórie 'acceleration' z locale sk v CLDR, s názvami v slovenčine. Obsahuje 2 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Merné jednotky — kategória 'acceleration' (2) | ListBase",
+    "seo_description": "Stiahnuť Merné jednotky — kategória 'acceleration' (2) — 2 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 2 záznamov / 7 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

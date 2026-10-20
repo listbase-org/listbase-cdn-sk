@@ -1,0 +1,97 @@
+{
+  "id": "sk-merne-jednotky-light",
+  "name": "Merné jednotky — kategória 'light' (4)",
+  "title": "Merné jednotky — kategória 'light' (4)",
+  "description": "Merné jednotky kategórie 'light' z locale sk v CLDR, s názvami v slovenčine.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "skratka",
+      "label": "Skratka",
+      "type": "string"
+    },
+    {
+      "key": "uzky_tvar",
+      "label": "Uzky Tvar",
+      "type": "string"
+    },
+    {
+      "key": "vzor",
+      "label": "Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "light-candela",
+      "kategoria": "light",
+      "nazov": "kandely",
+      "skratka": "cd",
+      "uzky_tvar": "cd",
+      "vzor": "{0} kandel"
+    },
+    {
+      "id": 2,
+      "unit_code": "light-lumen",
+      "kategoria": "light",
+      "nazov": "lúmeny",
+      "skratka": "lm",
+      "uzky_tvar": "lm",
+      "vzor": "{0} lúmenov"
+    },
+    {
+      "id": 3,
+      "unit_code": "light-lux",
+      "kategoria": "light",
+      "nazov": "luxy",
+      "skratka": "lx",
+      "uzky_tvar": "lx",
+      "vzor": "{0} luxov"
+    },
+    {
+      "id": 4,
+      "unit_code": "light-solar-luminosity",
+      "kategoria": "light",
+      "nazov": "svietivosti Slnka",
+      "skratka": "L☉",
+      "uzky_tvar": "L☉",
+      "vzor": "{0} svietivostí Slnka"
+    }
+  ],
+  "meta": {
+    "title": "Merné jednotky — kategória 'light' (4) - Bezplatné stiahnutie",
+    "description": "Merné jednotky kategórie 'light' z locale sk v CLDR, s názvami v slovenčine. Obsahuje 4 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Merné jednotky — kategória 'light' (4) | ListBase",
+    "seo_description": "Stiahnuť Merné jednotky — kategória 'light' (4) — 4 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 4 záznamov / 7 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

@@ -1,0 +1,606 @@
+{
+  "id": "sk-nove-mesto-nad-vahom-obce",
+  "name": "Obce v okrese Nové Mesto nad Váhom",
+  "title": "Obce v okrese Nové Mesto nad Váhom",
+  "description": "Všetky obce (municipality) v okrese Nové Mesto nad Váhom, Trenčiansky kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 54,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 97,
+      "fullname": "Beckov",
+      "shortname": "Beckov",
+      "zip": "916 38",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 98,
+      "fullname": "Beckovská Vieska",
+      "shortname": "Beckovská Vieska",
+      "zip": "916 31",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 231,
+      "fullname": "Bošáca",
+      "shortname": "Bošáca",
+      "zip": "913 07",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 271,
+      "fullname": "Brestové",
+      "shortname": "Brestové",
+      "zip": "916 42",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 304,
+      "fullname": "Brunovce",
+      "shortname": "Brunovce",
+      "zip": "916 25",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 319,
+      "fullname": "Bučkovec",
+      "shortname": "Bučkovec",
+      "zip": "916 42",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 373,
+      "fullname": "Bzince pod Javorinou",
+      "shortname": "Bzince pod Javorinou",
+      "zip": "916 11",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 391,
+      "fullname": "Cetuna",
+      "shortname": "Cetuna",
+      "zip": "916 11",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 646,
+      "fullname": "Dolné Srnie",
+      "shortname": "Dolné Srnie",
+      "zip": "916 41",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 881,
+      "fullname": "Haluzice",
+      "shortname": "Haluzice",
+      "zip": "913 07",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 986,
+      "fullname": "Horná Streda",
+      "shortname": "Horná Streda",
+      "zip": "916 24",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1091,
+      "fullname": "Hrachovište",
+      "shortname": "Hrachovište",
+      "zip": "916 16",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1110,
+      "fullname": "Hrnčiarové",
+      "shortname": "Hrnčiarové",
+      "zip": "916 12",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1124,
+      "fullname": "Hrubá Strana",
+      "shortname": "Hrubá Strana",
+      "zip": "916 11",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1133,
+      "fullname": "Hrušové",
+      "shortname": "Hrušové",
+      "zip": "916 11",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1090,
+      "fullname": "Hrádok",
+      "shortname": "Hrádok",
+      "zip": "916 33",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1068,
+      "fullname": "Hôrka nad Váhom",
+      "shortname": "Hôrka nad Váhom",
+      "zip": "916 32",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1318,
+      "fullname": "Jazviny",
+      "shortname": "Jazviny",
+      "zip": "916 01",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1476,
+      "fullname": "Kočovce",
+      "shortname": "Kočovce",
+      "zip": "916 31",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1682,
+      "fullname": "Kríž nad Váhom",
+      "shortname": "Kríž nad Váhom",
+      "zip": "916 26",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1359,
+      "fullname": "Kálnica",
+      "shortname": "Kálnica",
+      "zip": "916 37",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1935,
+      "fullname": "Lubina",
+      "shortname": "Lubina",
+      "zip": "916 12",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1965,
+      "fullname": "Lúka",
+      "shortname": "Lúka",
+      "zip": "916 33",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2204,
+      "fullname": "Miškech Dedinka",
+      "shortname": "Miškech Dedinka",
+      "zip": "916 12",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2234,
+      "fullname": "Modrovka",
+      "shortname": "Modrovka",
+      "zip": "916 35",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2233,
+      "fullname": "Modrová",
+      "shortname": "Modrová",
+      "zip": "916 35",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2252,
+      "fullname": "Moravské Lieskové",
+      "shortname": "Moravské Lieskové",
+      "zip": "916 42",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2260,
+      "fullname": "Mošovce",
+      "shortname": "Mošovce",
+      "zip": "916 26",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2397,
+      "fullname": "Nová Bošáca",
+      "shortname": "Nová Bošáca",
+      "zip": "913 08",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2403,
+      "fullname": "Nová Lehota",
+      "shortname": "Nová Lehota",
+      "zip": "916 35",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2418,
+      "fullname": "Nová Ves nad Váhom",
+      "shortname": "Nová Ves nad Váhom",
+      "zip": "916 31",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2428,
+      "fullname": "Nové Mesto nad Váhom",
+      "shortname": "Nové Mesto nad Váhom",
+      "zip": "915 01",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2459,
+      "fullname": "Očkov",
+      "shortname": "Očkov",
+      "zip": "916 22",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2578,
+      "fullname": "Paprad",
+      "shortname": "Paprad",
+      "zip": "916 01",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2675,
+      "fullname": "Pobedim",
+      "shortname": "Pobedim",
+      "zip": "916 23",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2714,
+      "fullname": "Podolie",
+      "shortname": "Podolie",
+      "zip": "916 22",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2788,
+      "fullname": "Potvorice",
+      "shortname": "Potvorice",
+      "zip": "916 25",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2789,
+      "fullname": "Považany",
+      "shortname": "Považany",
+      "zip": "916 26",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2906,
+      "fullname": "Rakoľuby",
+      "shortname": "Rakoľuby",
+      "zip": "916 31",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3063,
+      "fullname": "Rybníky",
+      "shortname": "Rybníky",
+      "zip": "916 11",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3268,
+      "fullname": "Stará Lehota",
+      "shortname": "Stará Lehota",
+      "zip": "916 35",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3272,
+      "fullname": "Stará Turá",
+      "shortname": "Stará Turá",
+      "zip": "916 01",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3345,
+      "fullname": "Súš",
+      "shortname": "Súš",
+      "zip": "916 01",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3561,
+      "fullname": "Topolecká",
+      "shortname": "Topolecká",
+      "zip": "916 01",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3587,
+      "fullname": "Trenčianske Bohuslavice",
+      "shortname": "Trenč.Bohuslavice",
+      "zip": "913 07",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3698,
+      "fullname": "Vaďovce",
+      "shortname": "Vaďovce",
+      "zip": "916 13",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3854,
+      "fullname": "Vieska",
+      "shortname": "Vieska",
+      "zip": "916 26",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3882,
+      "fullname": "Višňové",
+      "shortname": "Višňové",
+      "zip": "916 16",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 4035,
+      "fullname": "Zabudišová",
+      "shortname": "Zabudišová",
+      "zip": "913 07",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 4112,
+      "fullname": "Zemianske Podhradie",
+      "shortname": "Zemianske Podhradie",
+      "zip": "913 07",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 408,
+      "fullname": "Čachtice",
+      "shortname": "Čachtice",
+      "zip": "916 21",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 427,
+      "fullname": "Častkovce",
+      "shortname": "Častkovce",
+      "zip": "916 27",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 462,
+      "fullname": "Černochov Vrch",
+      "shortname": "Černochov Vrch",
+      "zip": "916 01",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3389,
+      "fullname": "Šance",
+      "shortname": "Šance",
+      "zip": "916 42",
+      "district_id": 41,
+      "okres": "Nové Mesto nad Váhom",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Nové Mesto nad Váhom - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Nové Mesto nad Váhom, Trenčiansky kraj — s PSČ a kódom okresu. Obsahuje 54 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Nové Mesto nad Váhom | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Nové Mesto nad Váhom — 54 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 54 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

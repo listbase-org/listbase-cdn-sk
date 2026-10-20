@@ -1,0 +1,312 @@
+{
+  "id": "sk-casove-pasma-europe",
+  "name": "Časové pásma — Europe (32)",
+  "title": "Časové pásma — Europe (32)",
+  "description": "Časové pásma, ktorých identifikátor IANA sa začína 'Europe/', s názvami v slovenčine.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "mesto",
+      "label": "Mesto",
+      "type": "string"
+    },
+    {
+      "key": "standardny_nazov",
+      "label": "Standardny Nazov",
+      "type": "string"
+    },
+    {
+      "key": "letny_nazov",
+      "label": "Letny Nazov",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Europe/Astrakhan",
+      "oblast": "Europe",
+      "mesto": "Astrachán",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Europe/Athens",
+      "oblast": "Europe",
+      "mesto": "Atény",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Europe/Belgrade",
+      "oblast": "Europe",
+      "mesto": "Belehrad",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Europe/Berlin",
+      "oblast": "Europe",
+      "mesto": "Berlín",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Europe/Brussels",
+      "oblast": "Europe",
+      "mesto": "Brusel",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Europe/Bucharest",
+      "oblast": "Europe",
+      "mesto": "Bukurešť",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Europe/Budapest",
+      "oblast": "Europe",
+      "mesto": "Budapešť",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Europe/Busingen",
+      "oblast": "Europe",
+      "mesto": "Büsingen",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Europe/Chisinau",
+      "oblast": "Europe",
+      "mesto": "Kišiňov",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Europe/Copenhagen",
+      "oblast": "Europe",
+      "mesto": "Kodaň",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Europe/Dublin",
+      "oblast": "Europe",
+      "mesto": "",
+      "standardny_nazov": "",
+      "letny_nazov": "írsky štandardný čas"
+    },
+    {
+      "id": 12,
+      "tz_id": "Europe/Gibraltar",
+      "oblast": "Europe",
+      "mesto": "Gibraltár",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Europe/Isle_of_Man",
+      "oblast": "Europe",
+      "mesto": "Ostrov Man",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Europe/Kiev",
+      "oblast": "Europe",
+      "mesto": "Kyjev",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Europe/Lisbon",
+      "oblast": "Europe",
+      "mesto": "Lisabon",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Europe/Ljubljana",
+      "oblast": "Europe",
+      "mesto": "Ľubľana",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Europe/London",
+      "oblast": "Europe",
+      "mesto": "Londýn",
+      "standardny_nazov": "",
+      "letny_nazov": "britský letný čas"
+    },
+    {
+      "id": 18,
+      "tz_id": "Europe/Luxembourg",
+      "oblast": "Europe",
+      "mesto": "Luxembursko",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Europe/Monaco",
+      "oblast": "Europe",
+      "mesto": "Monako",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Europe/Moscow",
+      "oblast": "Europe",
+      "mesto": "Moskva",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Europe/Paris",
+      "oblast": "Europe",
+      "mesto": "Paríž",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Europe/Prague",
+      "oblast": "Europe",
+      "mesto": "Praha",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Europe/Rome",
+      "oblast": "Europe",
+      "mesto": "Rím",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Europe/San_Marino",
+      "oblast": "Europe",
+      "mesto": "San Maríno",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Europe/Stockholm",
+      "oblast": "Europe",
+      "mesto": "Štokholm",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "Europe/Tirane",
+      "oblast": "Europe",
+      "mesto": "Tirana",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "Europe/Ulyanovsk",
+      "oblast": "Europe",
+      "mesto": "Uľjanovsk",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "Europe/Vatican",
+      "oblast": "Europe",
+      "mesto": "Vatikán",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "Europe/Vienna",
+      "oblast": "Europe",
+      "mesto": "Viedeň",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "Europe/Warsaw",
+      "oblast": "Europe",
+      "mesto": "Varšava",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "Europe/Zagreb",
+      "oblast": "Europe",
+      "mesto": "Záhreb",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "Europe/Zurich",
+      "oblast": "Europe",
+      "mesto": "Zürich",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    }
+  ],
+  "meta": {
+    "title": "Časové pásma — Europe (32) - Bezplatné stiahnutie",
+    "description": "Časové pásma, ktorých identifikátor IANA sa začína 'Europe/', s názvami v slovenčine. Obsahuje 32 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Časové pásma — Europe (32) | ListBase",
+    "seo_description": "Stiahnuť Časové pásma — Europe (32) — 32 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 32 záznamov / 6 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

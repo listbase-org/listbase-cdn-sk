@@ -1,0 +1,1296 @@
+{
+  "id": "sk-presov-obce",
+  "name": "Obce v okrese Prešov",
+  "title": "Obce v okrese Prešov",
+  "description": "Všetky obce (municipality) v okrese Prešov, Prešovský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 123,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 7,
+      "fullname": "Abranovce",
+      "shortname": "Abranovce",
+      "zip": "082 52",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 30,
+      "fullname": "Babin Potok",
+      "shortname": "Babin Potok",
+      "zip": "082 67",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 51,
+      "fullname": "Bajerov",
+      "shortname": "Bajerov",
+      "zip": "082 41",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 136,
+      "fullname": "Bertotovce",
+      "shortname": "Bertotovce",
+      "zip": "082 35",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 268,
+      "fullname": "Brestov",
+      "shortname": "Brestov",
+      "zip": "082 05",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 274,
+      "fullname": "Bretejovce",
+      "shortname": "Bretejovce",
+      "zip": "082 03",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 293,
+      "fullname": "Brežany",
+      "shortname": "Brežany",
+      "zip": "082 41",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 348,
+      "fullname": "Bunde",
+      "shortname": "Bunde",
+      "zip": "082 33",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 371,
+      "fullname": "Bzenov",
+      "shortname": "Bzenov",
+      "zip": "082 42",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 384,
+      "fullname": "Cemjata",
+      "shortname": "Cemjata",
+      "zip": "080 01",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1168,
+      "fullname": "Chmeľov",
+      "shortname": "Chmeľov",
+      "zip": "082 15",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1170,
+      "fullname": "Chmeľovec",
+      "shortname": "Chmeľovec",
+      "zip": "082 12",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1172,
+      "fullname": "Chminianska Nová Ves",
+      "shortname": "Chminianska Nová Ves",
+      "zip": "082 33",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1173,
+      "fullname": "Chminianske Jakubovany",
+      "shortname": "Chminian. Jakubovany",
+      "zip": "082 33",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1171,
+      "fullname": "Chmiňany",
+      "shortname": "Chmiňany",
+      "zip": "082 33",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 538,
+      "fullname": "Demjata",
+      "shortname": "Demjata",
+      "zip": "082 13",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 595,
+      "fullname": "Dolina",
+      "shortname": "Dolina",
+      "zip": "082 38",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 698,
+      "fullname": "Drienov",
+      "shortname": "Drienov",
+      "zip": "082 04",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 701,
+      "fullname": "Drienovská Nová Ves",
+      "shortname": "Drienovská Nová Ves",
+      "zip": "082 01",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 717,
+      "fullname": "Dubník",
+      "shortname": "Dubník",
+      "zip": "082 07",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 747,
+      "fullname": "Dulova Ves",
+      "shortname": "Dulova Ves",
+      "zip": "082 52",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 733,
+      "fullname": "Dúbrava",
+      "shortname": "Dúbrava",
+      "zip": "082 06",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 794,
+      "fullname": "Fintice",
+      "shortname": "Fintice",
+      "zip": "082 16",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 802,
+      "fullname": "Fričovce",
+      "shortname": "Fričovce",
+      "zip": "082 37",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 803,
+      "fullname": "Fulianka",
+      "shortname": "Fulianka",
+      "zip": "082 12",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 804,
+      "fullname": "Furmanec",
+      "shortname": "Furmanec",
+      "zip": "082 67",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 835,
+      "fullname": "Geraltov",
+      "shortname": "Geraltov",
+      "zip": "082 67",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 853,
+      "fullname": "Gregorovce",
+      "shortname": "Gregorovce",
+      "zip": "082 66",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 891,
+      "fullname": "Haniska",
+      "shortname": "Haniska",
+      "zip": "080 01",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 919,
+      "fullname": "Hendrichovce",
+      "shortname": "Hendrichovce",
+      "zip": "082 35",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 922,
+      "fullname": "Hermanovce",
+      "shortname": "Hermanovce",
+      "zip": "082 35",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1071,
+      "fullname": "Hrabkov",
+      "shortname": "Hrabkov",
+      "zip": "082 33",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1083,
+      "fullname": "Hradisko",
+      "shortname": "Hradisko",
+      "zip": "082 67",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1278,
+      "fullname": "Janov",
+      "shortname": "Janov",
+      "zip": "082 42",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1284,
+      "fullname": "Janovík",
+      "shortname": "Janovík",
+      "zip": "082 03",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1384,
+      "fullname": "Kanaš",
+      "shortname": "Kanaš",
+      "zip": "082 21",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1390,
+      "fullname": "Kapušany",
+      "shortname": "Kapušany",
+      "zip": "082 12",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1417,
+      "fullname": "Kendice",
+      "shortname": "Kendice",
+      "zip": "082 01",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1442,
+      "fullname": "Klenov",
+      "shortname": "Klenov",
+      "zip": "082 44",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1481,
+      "fullname": "Kojatice",
+      "shortname": "Kojatice",
+      "zip": "082 32",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1482,
+      "fullname": "Kojatická Dolina",
+      "shortname": "Kojatická Dolina",
+      "zip": "082 32",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1485,
+      "fullname": "Kokošovce",
+      "shortname": "Kokošovce",
+      "zip": "082 52",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1687,
+      "fullname": "Krížovany",
+      "shortname": "Krížovany",
+      "zip": "082 33",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1742,
+      "fullname": "Kvačany",
+      "shortname": "Kvačany",
+      "zip": "082 41",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1768,
+      "fullname": "Lada",
+      "shortname": "Lada",
+      "zip": "082 12",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1767,
+      "fullname": "Lačnov",
+      "shortname": "Lačnov",
+      "zip": "082 36",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1795,
+      "fullname": "Lažany",
+      "shortname": "Lažany",
+      "zip": "082 32",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1812,
+      "fullname": "Lemešany",
+      "shortname": "Lemešany",
+      "zip": "082 03",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1820,
+      "fullname": "Lesíček",
+      "shortname": "Lesíček",
+      "zip": "082 07",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1862,
+      "fullname": "Lipníky",
+      "shortname": "Lipníky",
+      "zip": "082 12",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1863,
+      "fullname": "Lipníky - Podhrabina",
+      "shortname": "Lipníky - Podhrabina",
+      "zip": "082 15",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1867,
+      "fullname": "Lipovce",
+      "shortname": "Lipovce",
+      "zip": "082 36",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1868,
+      "fullname": "Lipovce - chaty",
+      "shortname": "Lipovce - chaty",
+      "zip": "082 36",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1837,
+      "fullname": "Ličartovce",
+      "shortname": "Ličartovce",
+      "zip": "082 03",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1947,
+      "fullname": "Lúčina",
+      "shortname": "Lúčina",
+      "zip": "082 07",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2104,
+      "fullname": "Malý Slivník",
+      "shortname": "Malý Slivník",
+      "zip": "082 67",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2105,
+      "fullname": "Malý Šariš",
+      "shortname": "Malý Šariš",
+      "zip": "080 01",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2153,
+      "fullname": "Medzany",
+      "shortname": "Medzany",
+      "zip": "082 21",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2183,
+      "fullname": "Miklušovce",
+      "shortname": "Miklušovce",
+      "zip": "082 44",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2202,
+      "fullname": "Mirkovce",
+      "shortname": "Mirkovce",
+      "zip": "082 06",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2222,
+      "fullname": "Močarmany",
+      "shortname": "Močarmany",
+      "zip": "082 53",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2262,
+      "fullname": "Mošurov",
+      "shortname": "Mošurov",
+      "zip": "082 67",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2312,
+      "fullname": "Nemcovce",
+      "shortname": "Nemcovce",
+      "zip": "082 12",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2331,
+      "fullname": "Niereše",
+      "shortname": "Niereše",
+      "zip": "082 06",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2363,
+      "fullname": "Nižná Šebastová",
+      "shortname": "Nižná Šebastová",
+      "zip": "080 06",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2471,
+      "fullname": "Okružná",
+      "shortname": "Okružná",
+      "zip": "082 12",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2493,
+      "fullname": "Ondrašovce",
+      "shortname": "Ondrašovce",
+      "zip": "082 33",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2556,
+      "fullname": "Ovčie",
+      "shortname": "Ovčie",
+      "zip": "082 38",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2628,
+      "fullname": "Petrovany",
+      "shortname": "Petrovany",
+      "zip": "082 53",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2679,
+      "fullname": "Pod Braniskom",
+      "shortname": "Pod Braniskom",
+      "zip": "082 37",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2690,
+      "fullname": "Podhorany",
+      "shortname": "Podhorany",
+      "zip": "082 12",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2698,
+      "fullname": "Podhrabina",
+      "shortname": "Podhrabina",
+      "zip": "082 15",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2702,
+      "fullname": "Podhradík",
+      "shortname": "Podhradík",
+      "zip": "080 06",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2822,
+      "fullname": "Prešov",
+      "shortname": "Prešov",
+      "zip": 0,
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2852,
+      "fullname": "Proč",
+      "shortname": "Proč",
+      "zip": "082 14",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2879,
+      "fullname": "Pušovce",
+      "shortname": "Pušovce",
+      "zip": "082 14",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2884,
+      "fullname": "Radatice",
+      "shortname": "Radatice",
+      "zip": "082 42",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2992,
+      "fullname": "Rokycany",
+      "shortname": "Rokycany",
+      "zip": "082 41",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3039,
+      "fullname": "Ruská Nová Ves",
+      "shortname": "Ruská Nová Ves",
+      "zip": "080 05",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3044,
+      "fullname": "Ruské Pekľany",
+      "shortname": "Ruské Pekľany",
+      "zip": "082 42",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3074,
+      "fullname": "Salvátor",
+      "shortname": "Salvátor",
+      "zip": "082 36",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3094,
+      "fullname": "Sedlice",
+      "shortname": "Sedlice",
+      "zip": "082 43",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3112,
+      "fullname": "Seniakovce",
+      "shortname": "Seniakovce",
+      "zip": "082 03",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3120,
+      "fullname": "Severná",
+      "shortname": "Severná",
+      "zip": "080 06",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3122,
+      "fullname": "Sigord",
+      "shortname": "Sigord",
+      "zip": "082 52",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3229,
+      "fullname": "Solivar",
+      "shortname": "Solivar",
+      "zip": "080 05",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3333,
+      "fullname": "Suchá Dolina",
+      "shortname": "Suchá Dolina",
+      "zip": "082 43",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3366,
+      "fullname": "Svinia",
+      "shortname": "Svinia",
+      "zip": "082 32",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3500,
+      "fullname": "Taľka",
+      "shortname": "Taľka",
+      "zip": "082 12",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3532,
+      "fullname": "Teriakovce",
+      "shortname": "Teriakovce",
+      "zip": "080 05",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3533,
+      "fullname": "Terňa",
+      "shortname": "Terňa",
+      "zip": "082 67",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3603,
+      "fullname": "Trnkov",
+      "shortname": "Trnkov",
+      "zip": "082 12",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3622,
+      "fullname": "Tuhrina",
+      "shortname": "Tuhrina",
+      "zip": "082 07",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3624,
+      "fullname": "Tulčík",
+      "shortname": "Tulčík",
+      "zip": "082 13",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3722,
+      "fullname": "Varhaňovce",
+      "shortname": "Varhaňovce",
+      "zip": "082 05",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3841,
+      "fullname": "Veľký Slivník",
+      "shortname": "Veľký Slivník",
+      "zip": "082 67",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3842,
+      "fullname": "Veľký Šariš",
+      "shortname": "Veľký Šariš",
+      "zip": "082 21",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3964,
+      "fullname": "Vydumanec",
+      "shortname": "Vydumanec",
+      "zip": "080 01",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3969,
+      "fullname": "Vysielač",
+      "shortname": "Vysielač",
+      "zip": "080 01",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3997,
+      "fullname": "Vyšná Šebastová",
+      "shortname": "Vyšná Šebastová",
+      "zip": "080 06",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3887,
+      "fullname": "Víťaz",
+      "shortname": "Víťaz",
+      "zip": "082 38",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4128,
+      "fullname": "Zimná Studňa",
+      "shortname": "Zimná Studňa",
+      "zip": "082 12",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4130,
+      "fullname": "Zlatá Baňa",
+      "shortname": "Zlatá Baňa",
+      "zip": "082 52",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4033,
+      "fullname": "Záborské",
+      "shortname": "Záborské",
+      "zip": "082 53",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4048,
+      "fullname": "Záhradné",
+      "shortname": "Záhradné",
+      "zip": "082 16",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4080,
+      "fullname": "Závadka",
+      "shortname": "Závadka",
+      "zip": "082 67",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 444,
+      "fullname": "Čelovce",
+      "shortname": "Čelovce",
+      "zip": "082 14",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 470,
+      "fullname": "Červenica",
+      "shortname": "Červenica",
+      "zip": "082 07",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1941,
+      "fullname": "Ľubotice",
+      "shortname": "Ľubotice",
+      "zip": "080 06",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1943,
+      "fullname": "Ľubovec",
+      "shortname": "Ľubovec",
+      "zip": "082 42",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3382,
+      "fullname": "Šalgovík",
+      "shortname": "Šalgovík",
+      "zip": "080 01",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3396,
+      "fullname": "Šarišská Poruba",
+      "shortname": "Šarišská Poruba",
+      "zip": "082 12",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3397,
+      "fullname": "Šarišská Trstená",
+      "shortname": "Šarišská Trstená",
+      "zip": "082 14",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3398,
+      "fullname": "Šarišské Bohdanovce",
+      "shortname": "Šarišské Bohdanovce",
+      "zip": "082 05",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3403,
+      "fullname": "Šarišské Lužianky",
+      "shortname": "Šarišské Lužianky",
+      "zip": "082 32",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3402,
+      "fullname": "Šarišské Lúky",
+      "shortname": "Šarišské Lúky",
+      "zip": "080 06",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3423,
+      "fullname": "Šindliar",
+      "shortname": "Šindliar",
+      "zip": "082 36",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3432,
+      "fullname": "Široké",
+      "shortname": "Široké",
+      "zip": "082 37",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3452,
+      "fullname": "Štefanovce",
+      "shortname": "Štefanovce",
+      "zip": "082 35",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4170,
+      "fullname": "Žatkovce",
+      "shortname": "Žatkovce",
+      "zip": "082 67",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4174,
+      "fullname": "Žehňa",
+      "shortname": "Žehňa",
+      "zip": "082 06",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4197,
+      "fullname": "Žipov",
+      "shortname": "Žipov",
+      "zip": "082 41",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4207,
+      "fullname": "Župčany",
+      "shortname": "Župčany",
+      "zip": "080 01",
+      "district_id": 49,
+      "okres": "Prešov",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Prešov - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Prešov, Prešovský kraj — s PSČ a kódom okresu. Obsahuje 123 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Prešov | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Prešov — 123 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 123 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

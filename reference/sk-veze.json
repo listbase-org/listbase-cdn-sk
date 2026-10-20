@@ -1,0 +1,3326 @@
+{
+  "id": "sk-veze",
+  "name": "Veže",
+  "title": "Veže",
+  "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (man_made=tower). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 657,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Skalité - Poľana, stožiar MMDS",
+      "latitude": 49.497899,
+      "longitude": 18.909954
+    },
+    {
+      "name": "T-mobile SK",
+      "latitude": 49.504404,
+      "longitude": 18.962943
+    },
+    {
+      "name": "Rozhľadňa nad Zlámanou",
+      "latitude": 49.410225,
+      "longitude": 18.498731
+    },
+    {
+      "name": "Vyhliadková veža",
+      "latitude": 49.397669,
+      "longitude": 18.570166
+    },
+    {
+      "name": "Čadca - Jurošovský vrch II/Brehy",
+      "latitude": 49.444883,
+      "longitude": 18.774093
+    },
+    {
+      "name": "Čadca - Jurošovský vrch",
+      "latitude": 49.450268,
+      "longitude": 18.766515
+    },
+    {
+      "name": "TVP Čadca II",
+      "latitude": 49.425988,
+      "longitude": 18.780716
+    },
+    {
+      "name": "Rozhľadňa Briava",
+      "latitude": 49.414208,
+      "longitude": 18.77371
+    },
+    {
+      "name": "Rozhľadňa pod Bukovinou",
+      "latitude": 49.394448,
+      "longitude": 18.639461
+    },
+    {
+      "name": "Čadca - Husárik/Briava",
+      "latitude": 49.410657,
+      "longitude": 18.765504
+    },
+    {
+      "name": "Rozhľadňa Surovina",
+      "latitude": 49.420163,
+      "longitude": 18.889035
+    },
+    {
+      "name": "wieża widokowa na Wielkiej Raczy",
+      "latitude": 49.413102,
+      "longitude": 18.969038
+    },
+    {
+      "name": "Rozhľadňa u Jantov",
+      "latitude": 49.386786,
+      "longitude": 18.826
+    },
+    {
+      "name": "Rozhľadňa Dedovka",
+      "latitude": 49.408118,
+      "longitude": 18.932563
+    },
+    {
+      "name": "Rozhľadňa Šťaviny",
+      "latitude": 49.560879,
+      "longitude": 19.503039
+    },
+    {
+      "name": "Rozhľadňa pri Hviezdoslavovej horárni",
+      "latitude": 49.541527,
+      "longitude": 19.501529
+    },
+    {
+      "name": "Rozhľadňa Trchovnica",
+      "latitude": 49.512233,
+      "longitude": 19.470114
+    },
+    {
+      "name": "Rozhladňa Sedlo Beskyd",
+      "latitude": 49.391825,
+      "longitude": 19.128161
+    },
+    {
+      "name": "Rozhladňa",
+      "latitude": 49.389373,
+      "longitude": 19.085728
+    },
+    {
+      "name": "Výhliadková veža Novoť",
+      "latitude": 49.43697,
+      "longitude": 19.263108
+    },
+    {
+      "name": "Výhliadková veža Zákamené",
+      "latitude": 49.399161,
+      "longitude": 19.279744
+    },
+    {
+      "name": "Rozhľadňa Kmeťovka",
+      "latitude": 49.463226,
+      "longitude": 19.524763
+    },
+    {
+      "name": "Rozhľadňa Klin",
+      "latitude": 49.430067,
+      "longitude": 19.499791
+    },
+    {
+      "name": "Rozhľadňa Brabírka",
+      "latitude": 49.406477,
+      "longitude": 19.407181
+    },
+    {
+      "name": "BTS",
+      "latitude": 49.393119,
+      "longitude": 19.643449
+    },
+    {
+      "name": "Čubův kopec",
+      "latitude": 49.194788,
+      "longitude": 18.132413
+    },
+    {
+      "name": "Rozhľadňa na Tlstej hore",
+      "latitude": 49.136035,
+      "longitude": 18.250375
+    },
+    {
+      "name": "Rozhľadňa Krivoklát",
+      "latitude": 49.054281,
+      "longitude": 18.133293
+    },
+    {
+      "name": "Strážna veža",
+      "latitude": 49.065606,
+      "longitude": 18.151254
+    },
+    {
+      "name": "Zvonička",
+      "latitude": 48.964545,
+      "longitude": 17.894746
+    },
+    {
+      "name": "Nad Oborou",
+      "latitude": 48.99185,
+      "longitude": 18.031368
+    },
+    {
+      "name": "Nad Oborou II (Javorník)",
+      "latitude": 48.989242,
+      "longitude": 18.037032
+    },
+    {
+      "name": "Hubertova vyhliadka",
+      "latitude": 49.024149,
+      "longitude": 18.135224
+    },
+    {
+      "name": "Zvonica sv. Huberta",
+      "latitude": 49.023909,
+      "longitude": 18.134616
+    },
+    {
+      "name": "Vyhliadková veža Trenčianska závada",
+      "latitude": 48.973573,
+      "longitude": 18.062716
+    },
+    {
+      "name": "Grotta",
+      "latitude": 48.962181,
+      "longitude": 18.166107
+    },
+    {
+      "name": "Zvonica u Greguši",
+      "latitude": 49.334446,
+      "longitude": 18.455253
+    },
+    {
+      "name": "Rozhľadňa Zarúbaná Kýčera",
+      "latitude": 49.3308,
+      "longitude": 18.589154
+    },
+    {
+      "name": "Rozhľadňa Stratenec",
+      "latitude": 49.315065,
+      "longitude": 18.334999
+    },
+    {
+      "name": "Mikovčákova rozhľadňa",
+      "latitude": 49.364397,
+      "longitude": 18.636248
+    },
+    {
+      "name": "Rozhľadňa Zákopčie",
+      "latitude": 49.376375,
+      "longitude": 18.732117
+    },
+    {
+      "name": "Rozhľadňa na Hladkom vrchu",
+      "latitude": 49.365628,
+      "longitude": 18.871525
+    },
+    {
+      "name": "Rozhľadňa na Bobovci",
+      "latitude": 49.340496,
+      "longitude": 18.94755
+    },
+    {
+      "name": "Rozhľadňa Tábor",
+      "latitude": 49.322707,
+      "longitude": 18.771047
+    },
+    {
+      "name": "Rozhľadňa Svedernícky vrch",
+      "latitude": 49.275132,
+      "longitude": 18.655689
+    },
+    {
+      "name": "Rozhľadňa na Orgoňovej Kyčere",
+      "latitude": 49.251594,
+      "longitude": 18.347161
+    },
+    {
+      "name": "Rozhľadňa nad Rybníkom",
+      "latitude": 49.235848,
+      "longitude": 18.30619
+    },
+    {
+      "name": "Kaplnka Božského Srdca Ježišovho",
+      "latitude": 49.234324,
+      "longitude": 18.599691
+    },
+    {
+      "name": "Rozhľadňa nad Hrabovým",
+      "latitude": 49.202252,
+      "longitude": 18.559323
+    },
+    {
+      "name": "Divinka",
+      "latitude": 49.256991,
+      "longitude": 18.695949
+    },
+    {
+      "name": "Dubeň",
+      "latitude": 49.231783,
+      "longitude": 18.769364
+    },
+    {
+      "name": "Burianova veža",
+      "latitude": 49.224005,
+      "longitude": 18.740753
+    },
+    {
+      "name": "Vyhliadková veža Dubeň",
+      "latitude": 49.232955,
+      "longitude": 18.760307
+    },
+    {
+      "name": "Zvonica sv. Jána Nepomuckého",
+      "latitude": 49.235311,
+      "longitude": 18.7396
+    },
+    {
+      "name": "Kaplnka sv. Floriána",
+      "latitude": 49.185741,
+      "longitude": 18.801696
+    },
+    {
+      "name": "Internet TX",
+      "latitude": 49.159625,
+      "longitude": 18.689583
+    },
+    {
+      "name": "BTS Orange",
+      "latitude": 49.16835,
+      "longitude": 18.882417
+    },
+    {
+      "name": "Rozhľadňa Špicák",
+      "latitude": 49.17278,
+      "longitude": 18.855713
+    },
+    {
+      "name": "Protipožiarna monitorovacia veža",
+      "latitude": 49.353892,
+      "longitude": 19.131726
+    },
+    {
+      "name": "zvonička u Marunov",
+      "latitude": 49.296668,
+      "longitude": 19.076099
+    },
+    {
+      "name": "SHMU meteo",
+      "latitude": 49.271686,
+      "longitude": 19.249399
+    },
+    {
+      "name": "DSI data",
+      "latitude": 49.37187,
+      "longitude": 19.347053
+    },
+    {
+      "name": "O2",
+      "latitude": 49.372062,
+      "longitude": 19.348474
+    },
+    {
+      "name": "Rádio Expres",
+      "latitude": 49.365164,
+      "longitude": 19.578103
+    },
+    {
+      "name": "BTS",
+      "latitude": 49.299632,
+      "longitude": 19.515715
+    },
+    {
+      "name": "Rozhľadňa Ostrý vrch",
+      "latitude": 49.325046,
+      "longitude": 19.659398
+    },
+    {
+      "name": "Mravečník",
+      "latitude": 49.265951,
+      "longitude": 19.015359
+    },
+    {
+      "name": "Terchovské srdce",
+      "latitude": 49.261431,
+      "longitude": 19.027779
+    },
+    {
+      "name": "Zvonica Biela",
+      "latitude": 49.246968,
+      "longitude": 19.134499
+    },
+    {
+      "name": "Brezovec",
+      "latitude": 49.215746,
+      "longitude": 19.3169
+    },
+    {
+      "name": "BTS",
+      "latitude": 49.22995,
+      "longitude": 19.313174
+    },
+    {
+      "name": "DSI",
+      "latitude": 49.176038,
+      "longitude": 19.305468
+    },
+    {
+      "name": "Delová bašta",
+      "latitude": 49.261995,
+      "longitude": 19.358906
+    },
+    {
+      "name": "Veža bránová",
+      "latitude": 49.261547,
+      "longitude": 19.358767
+    },
+    {
+      "name": "Vstupná brána",
+      "latitude": 49.26177,
+      "longitude": 19.358404
+    },
+    {
+      "name": "Archívna bašta",
+      "latitude": 49.261383,
+      "longitude": 19.359163
+    },
+    {
+      "name": "Obytná veža",
+      "latitude": 49.262173,
+      "longitude": 19.358878
+    },
+    {
+      "name": "Tonka",
+      "latitude": 49.256041,
+      "longitude": 19.618518
+    },
+    {
+      "name": "Bačov stolec",
+      "latitude": 49.190085,
+      "longitude": 19.394244
+    },
+    {
+      "name": "Rozhľadňa Súšava",
+      "latitude": 49.209512,
+      "longitude": 19.507607
+    },
+    {
+      "name": "Rozhľadňa Veľké Borové",
+      "latitude": 49.202498,
+      "longitude": 19.499706
+    },
+    {
+      "name": "BTS O2+Orange",
+      "latitude": 49.206838,
+      "longitude": 19.562009
+    },
+    {
+      "name": "Telekom",
+      "latitude": 49.196524,
+      "longitude": 19.559692
+    },
+    {
+      "name": "Zvonička",
+      "latitude": 49.112181,
+      "longitude": 18.490035
+    },
+    {
+      "name": "Rozhľadňa Dubová",
+      "latitude": 49.102649,
+      "longitude": 18.615269
+    },
+    {
+      "name": "Kaplnka Nepoškvrnenej Panny Márie",
+      "latitude": 49.039357,
+      "longitude": 18.286958
+    },
+    {
+      "name": "Vysielač",
+      "latitude": 49.120444,
+      "longitude": 18.949807
+    },
+    {
+      "name": "Žilina - Veľká lúka",
+      "latitude": 49.091149,
+      "longitude": 18.813712
+    },
+    {
+      "name": "Rozhľadňa nad Bystričkou",
+      "latitude": 49.040318,
+      "longitude": 18.866523
+    },
+    {
+      "name": "Zvonica z Ondrášovej",
+      "latitude": 49.038075,
+      "longitude": 18.928261
+    },
+    {
+      "name": "Zvonica z Trsteného",
+      "latitude": 49.039584,
+      "longitude": 18.930295
+    },
+    {
+      "name": "Zvonica na Skalke",
+      "latitude": 49.032635,
+      "longitude": 18.302643
+    },
+    {
+      "name": "Zvonica svätého Jána Pavla II.",
+      "latitude": 49.021794,
+      "longitude": 18.320299
+    },
+    {
+      "name": "Rozhľadňa pod Bokšínom",
+      "latitude": 49.026773,
+      "longitude": 18.850994
+    },
+    {
+      "name": "Rozhľadňa Na Tŕní",
+      "latitude": 49.031374,
+      "longitude": 18.981944
+    },
+    {
+      "name": "Rozhľadňa na Brotnici",
+      "latitude": 48.979956,
+      "longitude": 18.964663
+    },
+    {
+      "name": "BTS GSM",
+      "latitude": 49.150145,
+      "longitude": 19.091502
+    },
+    {
+      "name": "T-mobile",
+      "latitude": 49.129246,
+      "longitude": 19.185607
+    },
+    {
+      "name": "Towercom",
+      "latitude": 49.129867,
+      "longitude": 19.187054
+    },
+    {
+      "name": "Vahostav",
+      "latitude": 49.129656,
+      "longitude": 19.186427
+    },
+    {
+      "name": "Internet",
+      "latitude": 49.150404,
+      "longitude": 19.227766
+    },
+    {
+      "name": "Towercom",
+      "latitude": 49.150617,
+      "longitude": 19.227182
+    },
+    {
+      "name": "Internet",
+      "latitude": 49.146043,
+      "longitude": 19.24739
+    },
+    {
+      "name": "Internet",
+      "latitude": 49.124894,
+      "longitude": 19.205643
+    },
+    {
+      "name": "Sitynet",
+      "latitude": 49.125001,
+      "longitude": 19.205558
+    },
+    {
+      "name": "BTS O2 / Telekom",
+      "latitude": 49.138784,
+      "longitude": 19.27793
+    },
+    {
+      "name": "Internet",
+      "latitude": 49.151761,
+      "longitude": 19.287139
+    },
+    {
+      "name": "BTS Orange",
+      "latitude": 49.131313,
+      "longitude": 19.275574
+    },
+    {
+      "name": "DSIdata",
+      "latitude": 49.134552,
+      "longitude": 19.266426
+    },
+    {
+      "name": "BTS O2",
+      "latitude": 49.122302,
+      "longitude": 19.220091
+    },
+    {
+      "name": "BTS-TelecomSK",
+      "latitude": 49.101442,
+      "longitude": 19.251611
+    },
+    {
+      "name": "BTS O2",
+      "latitude": 49.096414,
+      "longitude": 19.313807
+    },
+    {
+      "name": "Telekomunikačná veža Mních",
+      "latitude": 49.084079,
+      "longitude": 19.318013
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 49.070287,
+      "longitude": 19.302243
+    },
+    {
+      "name": "BTS-O2 Sk",
+      "latitude": 49.071356,
+      "longitude": 19.311639
+    },
+    {
+      "name": "BTS-TelecomSk",
+      "latitude": 49.071842,
+      "longitude": 19.312346
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 49.087056,
+      "longitude": 19.259423
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 49.077092,
+      "longitude": 19.318204
+    },
+    {
+      "name": "BTS-TelecomSk",
+      "latitude": 49.07795,
+      "longitude": 19.313743
+    },
+    {
+      "name": "BTS-O2 SK",
+      "latitude": 49.084277,
+      "longitude": 19.303237
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 49.083974,
+      "longitude": 19.303784
+    },
+    {
+      "name": "BTS-TelecomSk",
+      "latitude": 49.084566,
+      "longitude": 19.302705
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 49.077587,
+      "longitude": 19.295371
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 49.083937,
+      "longitude": 19.28548
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 49.083057,
+      "longitude": 19.271281
+    },
+    {
+      "name": "BTS-TelecomSK",
+      "latitude": 49.082782,
+      "longitude": 19.271768
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 49.08287,
+      "longitude": 19.280869
+    },
+    {
+      "name": "Profi-net",
+      "latitude": 49.082596,
+      "longitude": 19.280937
+    },
+    {
+      "name": "Radio vysielač",
+      "latitude": 49.07023,
+      "longitude": 19.283619
+    },
+    {
+      "name": "BTS-TelecomSK",
+      "latitude": 49.069868,
+      "longitude": 19.272451
+    },
+    {
+      "name": "BTS T-mobile",
+      "latitude": 49.078935,
+      "longitude": 19.297868
+    },
+    {
+      "name": "RKnet",
+      "latitude": 49.088428,
+      "longitude": 19.307455
+    },
+    {
+      "name": "Swan mobile",
+      "latitude": 49.07646,
+      "longitude": 19.315084
+    },
+    {
+      "name": "RKnet internet",
+      "latitude": 49.076586,
+      "longitude": 19.311985
+    },
+    {
+      "name": "BTS Swan",
+      "latitude": 49.078766,
+      "longitude": 19.297248
+    },
+    {
+      "name": "DSIdata",
+      "latitude": 49.092273,
+      "longitude": 19.305355
+    },
+    {
+      "name": "BTS-O2",
+      "latitude": 49.064182,
+      "longitude": 19.301719
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 49.063689,
+      "longitude": 19.301643
+    },
+    {
+      "name": "BTS-TelecomSK",
+      "latitude": 49.063131,
+      "longitude": 19.301454
+    },
+    {
+      "name": "RKnet internet",
+      "latitude": 49.063926,
+      "longitude": 19.300843
+    },
+    {
+      "name": "Orange",
+      "latitude": 49.05434,
+      "longitude": 19.264985
+    },
+    {
+      "name": "Internet - spoje",
+      "latitude": 49.049098,
+      "longitude": 19.249038
+    },
+    {
+      "name": "Policia",
+      "latitude": 49.049232,
+      "longitude": 19.249189
+    },
+    {
+      "name": "Radio Expres",
+      "latitude": 49.048971,
+      "longitude": 19.248601
+    },
+    {
+      "name": "FM Rocková republika 98.0",
+      "latitude": 49.054598,
+      "longitude": 19.266334
+    },
+    {
+      "name": "Telekomunikačný stožiar",
+      "latitude": 49.116532,
+      "longitude": 19.395595
+    },
+    {
+      "name": "Microcom ISP",
+      "latitude": 49.103709,
+      "longitude": 19.376397
+    },
+    {
+      "name": "T-mobile",
+      "latitude": 49.098917,
+      "longitude": 19.347817
+    },
+    {
+      "name": "BTS",
+      "latitude": 49.102138,
+      "longitude": 19.390738
+    },
+    {
+      "name": "Internet",
+      "latitude": 49.122655,
+      "longitude": 19.415729
+    },
+    {
+      "name": "Základňová stanica GSM",
+      "latitude": 49.110568,
+      "longitude": 19.437952
+    },
+    {
+      "name": "Vysielač Úložisko",
+      "latitude": 49.104579,
+      "longitude": 19.470253
+    },
+    {
+      "name": "zvonica Kostola Narodenia Panny Márie",
+      "latitude": 49.10429,
+      "longitude": 19.488196
+    },
+    {
+      "name": "BTS - O2+Telecom",
+      "latitude": 49.135722,
+      "longitude": 19.566964
+    },
+    {
+      "name": "Kaplnka Panny Márie Fatimskej",
+      "latitude": 49.151799,
+      "longitude": 19.542493
+    },
+    {
+      "name": "Orange",
+      "latitude": 49.13219,
+      "longitude": 19.683497
+    },
+    {
+      "name": "Farma Likavčan",
+      "latitude": 49.09069,
+      "longitude": 19.402963
+    },
+    {
+      "name": "Základňová stanica GSM",
+      "latitude": 49.067124,
+      "longitude": 19.451865
+    },
+    {
+      "name": "Vysielač BTS",
+      "latitude": 49.052024,
+      "longitude": 19.402046
+    },
+    {
+      "name": "Orange BTS",
+      "latitude": 49.051926,
+      "longitude": 19.340314
+    },
+    {
+      "name": "BTS-O2",
+      "latitude": 49.062214,
+      "longitude": 19.395469
+    },
+    {
+      "name": "Charinet",
+      "latitude": 49.047298,
+      "longitude": 19.363904
+    },
+    {
+      "name": "Orange",
+      "latitude": 49.041912,
+      "longitude": 19.483031
+    },
+    {
+      "name": "Základňová stanica GSM",
+      "latitude": 49.065143,
+      "longitude": 19.452192
+    },
+    {
+      "name": "Telekom",
+      "latitude": 49.043045,
+      "longitude": 19.550158
+    },
+    {
+      "name": "TowerCom",
+      "latitude": 49.04311,
+      "longitude": 19.550112
+    },
+    {
+      "name": "BTS - Orange + T-mobile",
+      "latitude": 49.05562,
+      "longitude": 19.568178
+    },
+    {
+      "name": "FIBRIS ISP",
+      "latitude": 49.064557,
+      "longitude": 19.518174
+    },
+    {
+      "name": "ALCONET ISP",
+      "latitude": 49.064369,
+      "longitude": 19.518384
+    },
+    {
+      "name": "BTS - O2",
+      "latitude": 49.056137,
+      "longitude": 19.568227
+    },
+    {
+      "name": "Základňová stanica GSM",
+      "latitude": 49.043054,
+      "longitude": 19.55016
+    },
+    {
+      "name": "Profinet",
+      "latitude": 49.061867,
+      "longitude": 19.60118
+    },
+    {
+      "name": "Svätojánska rozhľadňa",
+      "latitude": 49.042911,
+      "longitude": 19.680792
+    },
+    {
+      "name": "Rozhľadňa na Kalníku",
+      "latitude": 49.011938,
+      "longitude": 18.99049
+    },
+    {
+      "name": "retranz",
+      "latitude": 49.010133,
+      "longitude": 19.167762
+    },
+    {
+      "name": "BTS - Orange+Telecom + O2 + Swan",
+      "latitude": 49.031607,
+      "longitude": 19.284255
+    },
+    {
+      "name": "T-mobile",
+      "latitude": 48.999145,
+      "longitude": 19.201111
+    },
+    {
+      "name": "Orange + O2",
+      "latitude": 48.989571,
+      "longitude": 19.278255
+    },
+    {
+      "name": "Orange",
+      "latitude": 48.946853,
+      "longitude": 19.256747
+    },
+    {
+      "name": "Radio Expres",
+      "latitude": 48.950962,
+      "longitude": 19.257636
+    },
+    {
+      "name": "Telekom",
+      "latitude": 48.934913,
+      "longitude": 19.315949
+    },
+    {
+      "name": "SiTyNET",
+      "latitude": 48.942256,
+      "longitude": 19.321045
+    },
+    {
+      "name": "Tovercom+O2",
+      "latitude": 48.943875,
+      "longitude": 19.276897
+    },
+    {
+      "name": "Stuffnet",
+      "latitude": 49.022974,
+      "longitude": 19.559715
+    },
+    {
+      "name": "BTS Telekom",
+      "latitude": 49.02606,
+      "longitude": 19.570121
+    },
+    {
+      "name": "Rozhľadňa Pavčina Lehota",
+      "latitude": 49.024954,
+      "longitude": 19.557506
+    },
+    {
+      "name": "BTS Telekom",
+      "latitude": 48.976909,
+      "longitude": 19.505308
+    },
+    {
+      "name": "Bencúrova veža",
+      "latitude": 48.975343,
+      "longitude": 19.58518
+    },
+    {
+      "name": "Towercom",
+      "latitude": 48.943757,
+      "longitude": 19.589436
+    },
+    {
+      "name": "TVP Spišská Stará Ves",
+      "latitude": 49.389564,
+      "longitude": 20.369964
+    },
+    {
+      "name": "TVP Veľký Lipník",
+      "latitude": 49.384402,
+      "longitude": 20.473919
+    },
+    {
+      "name": "TVP Červený Kláštor",
+      "latitude": 49.389264,
+      "longitude": 20.416208
+    },
+    {
+      "name": "TVP Haligovce",
+      "latitude": 49.385825,
+      "longitude": 20.457171
+    },
+    {
+      "name": "Wieża widokowa na Eliaszówce",
+      "latitude": 49.4013,
+      "longitude": 20.643551
+    },
+    {
+      "name": "TVP Frička",
+      "latitude": 49.4072,
+      "longitude": 21.08755
+    },
+    {
+      "name": "Rozhľadňa Dukla",
+      "latitude": 49.414761,
+      "longitude": 21.708266
+    },
+    {
+      "name": "Rozhľadňa Skorušina",
+      "latitude": 49.297755,
+      "longitude": 19.691977
+    },
+    {
+      "name": "Rozhľadňa",
+      "latitude": 49.304526,
+      "longitude": 19.763903
+    },
+    {
+      "name": "Rozhľadňa",
+      "latitude": 49.291471,
+      "longitude": 19.743704
+    },
+    {
+      "name": "Rozhľadňa",
+      "latitude": 49.291275,
+      "longitude": 19.791233
+    },
+    {
+      "name": "Vyhliadková veža - chodník v korunách stromov",
+      "latitude": 49.286133,
+      "longitude": 20.3144
+    },
+    {
+      "name": "Rozhľadňa Bachledova dolina",
+      "latitude": 49.283881,
+      "longitude": 20.319299
+    },
+    {
+      "name": "Maszt WOP",
+      "latitude": 49.264133,
+      "longitude": 20.115952
+    },
+    {
+      "name": "Maszt WOP",
+      "latitude": 49.256265,
+      "longitude": 20.103964
+    },
+    {
+      "name": "TVP Kolačkov",
+      "latitude": 49.274818,
+      "longitude": 20.637324
+    },
+    {
+      "name": "TSR Żegiestów-Zdrój - Góra Kiczera",
+      "latitude": 49.349894,
+      "longitude": 20.804973
+    },
+    {
+      "name": "Kráľová Studňa",
+      "latitude": 49.335167,
+      "longitude": 21.00871
+    },
+    {
+      "name": "TVP Malý Lipník (Towercom)",
+      "latitude": 49.311465,
+      "longitude": 20.782969
+    },
+    {
+      "name": "TVP Orlov (Towercom)",
+      "latitude": 49.291554,
+      "longitude": 20.847866
+    },
+    {
+      "name": "Bašta",
+      "latitude": 49.259064,
+      "longitude": 20.535803
+    },
+    {
+      "name": "Rozhľadňa na Balažke",
+      "latitude": 49.174646,
+      "longitude": 20.948881
+    },
+    {
+      "name": "Telekom",
+      "latitude": 49.102262,
+      "longitude": 19.717108
+    },
+    {
+      "name": "Orange + O2",
+      "latitude": 49.104714,
+      "longitude": 19.718783
+    },
+    {
+      "name": "Rozhľadňa Vavrišovo",
+      "latitude": 49.06842,
+      "longitude": 19.761145
+    },
+    {
+      "name": "BTS Orange",
+      "latitude": 49.051008,
+      "longitude": 19.749409
+    },
+    {
+      "name": "Rozhľadňa Májka",
+      "latitude": 49.060672,
+      "longitude": 19.899551
+    },
+    {
+      "name": "Tatras Tower",
+      "latitude": 49.127405,
+      "longitude": 20.059225
+    },
+    {
+      "name": "RRB Štrbské Pleso",
+      "latitude": 49.120143,
+      "longitude": 20.063781
+    },
+    {
+      "name": "Štrbské Pleso SHMU",
+      "latitude": 49.117865,
+      "longitude": 20.062672
+    },
+    {
+      "name": "Kostol Svätého kríža",
+      "latitude": 49.097682,
+      "longitude": 20.20736
+    },
+    {
+      "name": "Golf Tower",
+      "latitude": 49.144785,
+      "longitude": 20.385129
+    },
+    {
+      "name": "TVP Veľký Slavkov",
+      "latitude": 49.092672,
+      "longitude": 20.284623
+    },
+    {
+      "name": "Vyhliadková veža kostola",
+      "latitude": 49.054909,
+      "longitude": 20.301312
+    },
+    {
+      "name": "Renesančná zvonica",
+      "latitude": 49.06566,
+      "longitude": 20.315179
+    },
+    {
+      "name": "BTS",
+      "latitude": 49.031362,
+      "longitude": 19.789692
+    },
+    {
+      "name": "Rádio Expres",
+      "latitude": 49.0236,
+      "longitude": 19.910311
+    },
+    {
+      "name": "BTS",
+      "latitude": 48.977305,
+      "longitude": 19.779082
+    },
+    {
+      "name": "Rozhladňa Krajčov vrch",
+      "latitude": 48.946865,
+      "longitude": 19.760394
+    },
+    {
+      "name": "Kravianska vyhliadka",
+      "latitude": 49.013659,
+      "longitude": 20.169973
+    },
+    {
+      "name": "TVP Vikartovce (Towercom)",
+      "latitude": 48.993604,
+      "longitude": 20.157638
+    },
+    {
+      "name": "TVP Kežmarok",
+      "latitude": 49.125607,
+      "longitude": 20.418667
+    },
+    {
+      "name": "O2",
+      "latitude": 49.12518,
+      "longitude": 20.417499
+    },
+    {
+      "name": "Renesančná zvonica",
+      "latitude": 49.137216,
+      "longitude": 20.429802
+    },
+    {
+      "name": "Marčulina",
+      "latitude": 49.120672,
+      "longitude": 20.611356
+    },
+    {
+      "name": "Internet",
+      "latitude": 49.042706,
+      "longitude": 20.650979
+    },
+    {
+      "name": "Rozhľadňa pri židovskom cintoríne",
+      "latitude": 49.129871,
+      "longitude": 21.036148
+    },
+    {
+      "name": "Rozhľadňa na Šanci",
+      "latitude": 49.099752,
+      "longitude": 21.087611
+    },
+    {
+      "name": "Chotárna",
+      "latitude": 49.075382,
+      "longitude": 20.964613
+    },
+    {
+      "name": "Radničná zvonica",
+      "latitude": 49.026025,
+      "longitude": 20.588729
+    },
+    {
+      "name": "Poľská brána",
+      "latitude": 49.024885,
+      "longitude": 20.584139
+    },
+    {
+      "name": "Rozhľadňa na Medveďom vrchu",
+      "latitude": 48.990911,
+      "longitude": 20.624658
+    },
+    {
+      "name": "Horná brána",
+      "latitude": 49.000671,
+      "longitude": 20.740187
+    },
+    {
+      "name": "RRB Rudník",
+      "latitude": 49.006211,
+      "longitude": 20.858908
+    },
+    {
+      "name": "TVP Fričovce",
+      "latitude": 49.022151,
+      "longitude": 20.951583
+    },
+    {
+      "name": "BTS GSM-R Spišské Vlachy",
+      "latitude": 48.930357,
+      "longitude": 20.791298
+    },
+    {
+      "name": "Green Point",
+      "latitude": 48.937596,
+      "longitude": 20.959001
+    },
+    {
+      "name": "Towercom Stebnícka Magura",
+      "latitude": 49.360106,
+      "longitude": 21.245752
+    },
+    {
+      "name": "Berzewiczová vyhliadková veža",
+      "latitude": 49.359654,
+      "longitude": 21.245503
+    },
+    {
+      "name": "TVP Kurov (Towercom)",
+      "latitude": 49.33249,
+      "longitude": 21.131685
+    },
+    {
+      "name": "Rozhľadňa Čierna mláka",
+      "latitude": 49.348377,
+      "longitude": 21.263984
+    },
+    {
+      "name": "TVP Mihaľov (Towercom)",
+      "latitude": 49.277731,
+      "longitude": 21.238664
+    },
+    {
+      "name": "Kamenná Hora",
+      "latitude": 49.322925,
+      "longitude": 21.270726
+    },
+    {
+      "name": "Kláštorná bašta",
+      "latitude": 49.290892,
+      "longitude": 21.274431
+    },
+    {
+      "name": "Severovýchodná bašta",
+      "latitude": 49.294296,
+      "longitude": 21.278407
+    },
+    {
+      "name": "Kráľovská, Červená bašta",
+      "latitude": 49.293756,
+      "longitude": 21.278938
+    },
+    {
+      "name": "Archívna bašta",
+      "latitude": 49.29386,
+      "longitude": 21.274205
+    },
+    {
+      "name": "Veľká bašta",
+      "latitude": 49.291227,
+      "longitude": 21.278079
+    },
+    {
+      "name": "Malá bašta",
+      "latitude": 49.291183,
+      "longitude": 21.277815
+    },
+    {
+      "name": "Školská bašta",
+      "latitude": 49.291689,
+      "longitude": 21.273173
+    },
+    {
+      "name": "Prašná bašta",
+      "latitude": 49.290736,
+      "longitude": 21.275134
+    },
+    {
+      "name": "Renesančná bašta",
+      "latitude": 49.294242,
+      "longitude": 21.277813
+    },
+    {
+      "name": "Bašta pivovarníkov",
+      "latitude": 49.293024,
+      "longitude": 21.278579
+    },
+    {
+      "name": "Dolná brána, mestská brána",
+      "latitude": 49.294319,
+      "longitude": 21.279096
+    },
+    {
+      "name": "TVP Hunkovce (Towercom)",
+      "latitude": 49.36686,
+      "longitude": 21.654446
+    },
+    {
+      "name": "TVP Rovné - Cernina (Towercom)",
+      "latitude": 49.279715,
+      "longitude": 21.493007
+    },
+    {
+      "name": "Rozhľadňa Ščerbovka",
+      "latitude": 49.191655,
+      "longitude": 21.671007
+    },
+    {
+      "name": "Vyhliadková veža na vrchu Ščob",
+      "latitude": 49.194871,
+      "longitude": 21.625696
+    },
+    {
+      "name": "TVP Čertižné",
+      "latitude": 49.357648,
+      "longitude": 21.837661
+    },
+    {
+      "name": "Vojenská pozorovacia veža",
+      "latitude": 49.345137,
+      "longitude": 21.966085
+    },
+    {
+      "name": "TVP Kalinov",
+      "latitude": 49.299509,
+      "longitude": 21.949896
+    },
+    {
+      "name": "TVP Medzilaborce",
+      "latitude": 49.28536,
+      "longitude": 21.908614
+    },
+    {
+      "name": "Kýčera",
+      "latitude": 49.274828,
+      "longitude": 21.931328
+    },
+    {
+      "name": "TVP Palota",
+      "latitude": 49.274217,
+      "longitude": 21.994406
+    },
+    {
+      "name": "TVP Roškovce",
+      "latitude": 49.24548,
+      "longitude": 21.837674
+    },
+    {
+      "name": "TVP Krásny Brod",
+      "latitude": 49.247741,
+      "longitude": 21.899086
+    },
+    {
+      "name": "TVP Čabiny",
+      "latitude": 49.175204,
+      "longitude": 21.918353
+    },
+    {
+      "name": "TVP Valentovce",
+      "latitude": 49.180663,
+      "longitude": 21.943378
+    },
+    {
+      "name": "RRB Výrava",
+      "latitude": 49.19094,
+      "longitude": 22.005772
+    },
+    {
+      "name": "Východná bašta",
+      "latitude": 49.10283,
+      "longitude": 21.100586
+    },
+    {
+      "name": "Južná bašta",
+      "latitude": 49.101062,
+      "longitude": 21.099052
+    },
+    {
+      "name": "Alžbetina bašta",
+      "latitude": 49.05109,
+      "longitude": 21.177276
+    },
+    {
+      "name": "Obytná bašta",
+      "latitude": 49.052498,
+      "longitude": 21.175379
+    },
+    {
+      "name": "Veľký delostrelecký bastión",
+      "latitude": 49.052891,
+      "longitude": 21.174646
+    },
+    {
+      "name": "Donjon",
+      "latitude": 49.052331,
+      "longitude": 21.176151
+    },
+    {
+      "name": "Pribránová bašta",
+      "latitude": 49.053495,
+      "longitude": 21.175231
+    },
+    {
+      "name": "Východná veža",
+      "latitude": 49.054937,
+      "longitude": 21.320408
+    },
+    {
+      "name": "Bašta predhradia",
+      "latitude": 49.055022,
+      "longitude": 21.320849
+    },
+    {
+      "name": "Západná veža - vyhliadková veža",
+      "latitude": 49.054992,
+      "longitude": 21.320136
+    },
+    {
+      "name": "TVP Vyšná Sitnica (Towercom)",
+      "latitude": 49.119169,
+      "longitude": 21.774572
+    },
+    {
+      "name": "TVP Košarovce",
+      "latitude": 49.052512,
+      "longitude": 21.796303
+    },
+    {
+      "name": "TVP Košarovce (Towercom)",
+      "latitude": 49.042581,
+      "longitude": 21.793807
+    },
+    {
+      "name": "Vysielač Šibená hora",
+      "latitude": 49.012266,
+      "longitude": 21.242136
+    },
+    {
+      "name": "Vodná bašta Kumšt",
+      "latitude": 49.000636,
+      "longitude": 21.238442
+    },
+    {
+      "name": "Veža Konkatedrály sv. Mikuláša",
+      "latitude": 48.998031,
+      "longitude": 21.239614
+    },
+    {
+      "name": "Vodárenská veža",
+      "latitude": 48.999461,
+      "longitude": 21.246678
+    },
+    {
+      "name": "Letohrádok paláca Klobušických",
+      "latitude": 48.995447,
+      "longitude": 21.245023
+    },
+    {
+      "name": "Kováčska bašta",
+      "latitude": 49.000902,
+      "longitude": 21.241214
+    },
+    {
+      "name": "Františkánska bašta",
+      "latitude": 48.996489,
+      "longitude": 21.244913
+    },
+    {
+      "name": "Juhozápadná bašta",
+      "latitude": 49.01972,
+      "longitude": 21.279528
+    },
+    {
+      "name": "Severovýchodná bašta",
+      "latitude": 49.02005,
+      "longitude": 21.280753
+    },
+    {
+      "name": "Severozápadná bašta",
+      "latitude": 49.020155,
+      "longitude": 21.279606
+    },
+    {
+      "name": "Rozhľadňa nad Okružnou",
+      "latitude": 49.021201,
+      "longitude": 21.361652
+    },
+    {
+      "name": "Vyhliadková veža Malkovská hôrka",
+      "latitude": 48.969968,
+      "longitude": 21.212758
+    },
+    {
+      "name": "Zvonica sv. Vendelína",
+      "latitude": 48.972236,
+      "longitude": 21.260608
+    },
+    {
+      "name": "TVP Bajerov",
+      "latitude": 48.943306,
+      "longitude": 21.099345
+    },
+    {
+      "name": "Bývalý stredovlnný vysielač Prešov-Petrovany",
+      "latitude": 48.949919,
+      "longitude": 21.26549
+    },
+    {
+      "name": "Klasicistická veža s hodinami",
+      "latitude": 48.979254,
+      "longitude": 21.275578
+    },
+    {
+      "name": "Banská klopačka",
+      "latitude": 48.978117,
+      "longitude": 21.279598
+    },
+    {
+      "name": "TVP Hanušovce nad Topľou (Towercom)",
+      "latitude": 49.022485,
+      "longitude": 21.502239
+    },
+    {
+      "name": "TVP Vyšný Žipov (Towercom)",
+      "latitude": 48.992443,
+      "longitude": 21.604686
+    },
+    {
+      "name": "TVP Holčíkovce",
+      "latitude": 48.999649,
+      "longitude": 21.719888
+    },
+    {
+      "name": "Rozhladňa Zlatník",
+      "latitude": 48.968217,
+      "longitude": 21.523754
+    },
+    {
+      "name": "TVS Dubník",
+      "latitude": 48.92373,
+      "longitude": 21.46242
+    },
+    {
+      "name": "RRB Vysoká",
+      "latitude": 49.105232,
+      "longitude": 21.870057
+    },
+    {
+      "name": "TVP Hrubov",
+      "latitude": 49.102075,
+      "longitude": 21.864827
+    },
+    {
+      "name": "TVP Zbojné",
+      "latitude": 49.138917,
+      "longitude": 22.007942
+    },
+    {
+      "name": "TVP Nižná Jablonka (Towercom)",
+      "latitude": 49.133671,
+      "longitude": 22.098251
+    },
+    {
+      "name": "TVP Turcovce - Černina",
+      "latitude": 49.05657,
+      "longitude": 21.830707
+    },
+    {
+      "name": "TVP Koškovce (Towercom)",
+      "latitude": 49.053724,
+      "longitude": 21.969109
+    },
+    {
+      "name": "TVP Papín",
+      "latitude": 49.058682,
+      "longitude": 22.076194
+    },
+    {
+      "name": "TVP Osadné",
+      "latitude": 49.152812,
+      "longitude": 22.151562
+    },
+    {
+      "name": "Vyhliadková veža nad Hostovicami",
+      "latitude": 49.130387,
+      "longitude": 22.154088
+    },
+    {
+      "name": "Wieża widokowa na Przełęczy nad Roztokami Górnymi",
+      "latitude": 49.144362,
+      "longitude": 22.330048
+    },
+    {
+      "name": "TVP Pčoliné",
+      "latitude": 49.058287,
+      "longitude": 22.154463
+    },
+    {
+      "name": "TVP Príslop",
+      "latitude": 49.043182,
+      "longitude": 22.302937
+    },
+    {
+      "name": "TVP Vyšné Ladičkovce (Towercom)",
+      "latitude": 49.036863,
+      "longitude": 21.900644
+    },
+    {
+      "name": "TVP Karná",
+      "latitude": 49.002202,
+      "longitude": 21.803081
+    },
+    {
+      "name": "TVP Maškovce (Towercom)",
+      "latitude": 49.012535,
+      "longitude": 21.992496
+    },
+    {
+      "name": "TVP Brestov",
+      "latitude": 48.969172,
+      "longitude": 21.888891
+    },
+    {
+      "name": "TVP Humenné",
+      "latitude": 48.940197,
+      "longitude": 21.897602
+    },
+    {
+      "name": "TVP Kochanovce (Towercom)",
+      "latitude": 48.945502,
+      "longitude": 21.961551
+    },
+    {
+      "name": "TVP Výšný Hrušov",
+      "latitude": 48.972039,
+      "longitude": 22.02446
+    },
+    {
+      "name": "TVS Snina",
+      "latitude": 48.991511,
+      "longitude": 22.195832
+    },
+    {
+      "name": "RVS Stakčín",
+      "latitude": 49.005943,
+      "longitude": 22.22557
+    },
+    {
+      "name": "TVP Snina",
+      "latitude": 48.994483,
+      "longitude": 22.17194
+    },
+    {
+      "name": "TVP Ruský Potok",
+      "latitude": 49.010839,
+      "longitude": 22.391205
+    },
+    {
+      "name": "Vyhliadková veža v Poloninách",
+      "latitude": 49.029225,
+      "longitude": 22.496536
+    },
+    {
+      "name": "Rozhľadňa Holica",
+      "latitude": 48.953812,
+      "longitude": 22.399293
+    },
+    {
+      "name": "TVP Nová Sedlica II",
+      "latitude": 49.028322,
+      "longitude": 22.506517
+    },
+    {
+      "name": "TVP Nová Sedlica I",
+      "latitude": 49.022795,
+      "longitude": 22.538055
+    },
+    {
+      "name": "Rozhladňa Žalostiná",
+      "latitude": 48.817639,
+      "longitude": 17.42739
+    },
+    {
+      "name": "Rozhľadňa na hrebeni",
+      "latitude": 48.800767,
+      "longitude": 17.172139
+    },
+    {
+      "name": "Vtáčia pozorovateľňa",
+      "latitude": 48.72668,
+      "longitude": 17.032314
+    },
+    {
+      "name": "Ťažobná veža",
+      "latitude": 48.721987,
+      "longitude": 17.093515
+    },
+    {
+      "name": "Mojmírova bašta",
+      "latitude": 48.705041,
+      "longitude": 17.119119
+    },
+    {
+      "name": "Rozhľadňa Lipky",
+      "latitude": 48.726899,
+      "longitude": 17.245036
+    },
+    {
+      "name": "Vyhliadka Vinohrady",
+      "latitude": 48.699978,
+      "longitude": 17.395115
+    },
+    {
+      "name": "Habánska zvonica",
+      "latitude": 48.732959,
+      "longitude": 17.403401
+    },
+    {
+      "name": "Rozhledna Velký Lopeník",
+      "latitude": 48.916748,
+      "longitude": 17.782594
+    },
+    {
+      "name": "Kaplnka Povýšenia Svätého kríža",
+      "latitude": 48.878018,
+      "longitude": 17.795663
+    },
+    {
+      "name": "Jelenec",
+      "latitude": 48.860533,
+      "longitude": 17.702963
+    },
+    {
+      "name": "Vysielač Veľká Javorina",
+      "latitude": 48.85738,
+      "longitude": 17.67515
+    },
+    {
+      "name": "Hájnica",
+      "latitude": 48.817285,
+      "longitude": 17.866754
+    },
+    {
+      "name": "IBOvka",
+      "latitude": 48.92168,
+      "longitude": 18.010784
+    },
+    {
+      "name": "Hodinová veža",
+      "latitude": 48.895122,
+      "longitude": 18.044597
+    },
+    {
+      "name": "Matúšova veža",
+      "latitude": 48.894176,
+      "longitude": 18.044685
+    },
+    {
+      "name": "Delová bašta",
+      "latitude": 48.895837,
+      "longitude": 18.044991
+    },
+    {
+      "name": "Letná veža",
+      "latitude": 48.893999,
+      "longitude": 18.04466
+    },
+    {
+      "name": "Hladomorňa",
+      "latitude": 48.894468,
+      "longitude": 18.046337
+    },
+    {
+      "name": "Vstupná veža s padacím mostom",
+      "latitude": 48.894707,
+      "longitude": 18.044036
+    },
+    {
+      "name": "Mlynská veža",
+      "latitude": 48.892977,
+      "longitude": 18.044521
+    },
+    {
+      "name": "Jeremiášova bašta",
+      "latitude": 48.893497,
+      "longitude": 18.044407
+    },
+    {
+      "name": "Rozhladňa Dúbravka",
+      "latitude": 48.86637,
+      "longitude": 18.088096
+    },
+    {
+      "name": "Bašta",
+      "latitude": 48.852152,
+      "longitude": 17.931828
+    },
+    {
+      "name": "Stará veža",
+      "latitude": 48.778006,
+      "longitude": 17.699039
+    },
+    {
+      "name": "Rozhľadňa Helena",
+      "latitude": 48.774823,
+      "longitude": 18.041539
+    },
+    {
+      "name": "Rozhľadňa Panská Javorina",
+      "latitude": 48.712104,
+      "longitude": 18.013127
+    },
+    {
+      "name": "Dubník",
+      "latitude": 48.593766,
+      "longitude": 17.225688
+    },
+    {
+      "name": "Rozhľadňa Lipovec",
+      "latitude": 48.664859,
+      "longitude": 17.482424
+    },
+    {
+      "name": "Vysielač Mária Magdaléna",
+      "latitude": 48.593841,
+      "longitude": 17.23202
+    },
+    {
+      "name": "Rozhľadňa Hrabovec",
+      "latitude": 48.564747,
+      "longitude": 17.123782
+    },
+    {
+      "name": "Rozhľadňa Rozbehy",
+      "latitude": 48.572311,
+      "longitude": 17.390885
+    },
+    {
+      "name": "Rozhľadňa Vápenná",
+      "latitude": 48.460141,
+      "longitude": 17.274326
+    },
+    {
+      "name": "Protipožiarna monitorovacia veža Klenová",
+      "latitude": 48.642226,
+      "longitude": 17.598733
+    },
+    {
+      "name": "Vrbovská veža",
+      "latitude": 48.621355,
+      "longitude": 17.722532
+    },
+    {
+      "name": "Kaplnka sv. Jána Nepomuckého",
+      "latitude": 48.599917,
+      "longitude": 17.648137
+    },
+    {
+      "name": "GSM vysielač",
+      "latitude": 48.600932,
+      "longitude": 17.865208
+    },
+    {
+      "name": "Orange",
+      "latitude": 48.599345,
+      "longitude": 18.140654
+    },
+    {
+      "name": "Rozhľadňa Urmince",
+      "latitude": 48.529315,
+      "longitude": 18.090928
+    },
+    {
+      "name": "Rozhľadňa Topoľčany",
+      "latitude": 48.550874,
+      "longitude": 18.178667
+    },
+    {
+      "name": "Zvonica Hadviga 1920",
+      "latitude": 48.913181,
+      "longitude": 18.706858
+    },
+    {
+      "name": "Orange",
+      "latitude": 48.884716,
+      "longitude": 18.705445
+    },
+    {
+      "name": "Čajka v oblakoch",
+      "latitude": 48.7856,
+      "longitude": 18.565189
+    },
+    {
+      "name": "Uhrovec - Ostý vrch",
+      "latitude": 48.723003,
+      "longitude": 18.349293
+    },
+    {
+      "name": "Červená veža",
+      "latitude": 48.70398,
+      "longitude": 18.918829
+    },
+    {
+      "name": "Malá veža",
+      "latitude": 48.705991,
+      "longitude": 18.917281
+    },
+    {
+      "name": "Južná veža",
+      "latitude": 48.705824,
+      "longitude": 18.917629
+    },
+    {
+      "name": "Banícka bašta",
+      "latitude": 48.706358,
+      "longitude": 18.918123
+    },
+    {
+      "name": "Severná veža",
+      "latitude": 48.706567,
+      "longitude": 18.917507
+    },
+    {
+      "name": "Turistická rozhľadňa Krahulský vrch",
+      "latitude": 48.714828,
+      "longitude": 18.930878
+    },
+    {
+      "name": "Čierna veža",
+      "latitude": 48.703587,
+      "longitude": 18.915913
+    },
+    {
+      "name": "Orange",
+      "latitude": 48.888845,
+      "longitude": 19.230989
+    },
+    {
+      "name": "Towercom",
+      "latitude": 48.889025,
+      "longitude": 19.231098
+    },
+    {
+      "name": "Profinet",
+      "latitude": 48.888925,
+      "longitude": 19.23045
+    },
+    {
+      "name": "T-mobile",
+      "latitude": 48.893297,
+      "longitude": 19.279525
+    },
+    {
+      "name": "Orange",
+      "latitude": 48.884424,
+      "longitude": 19.282891
+    },
+    {
+      "name": "BTS T-mobile",
+      "latitude": 48.85886,
+      "longitude": 19.152772
+    },
+    {
+      "name": "BTS",
+      "latitude": 48.814426,
+      "longitude": 19.101157
+    },
+    {
+      "name": "Vyhliadková veža Horné Lazy",
+      "latitude": 48.818618,
+      "longitude": 19.604737
+    },
+    {
+      "name": "Rozhľadňa Šachtička",
+      "latitude": 48.804833,
+      "longitude": 19.148503
+    },
+    {
+      "name": "LASKOMER",
+      "latitude": 48.755648,
+      "longitude": 19.119076
+    },
+    {
+      "name": "Vysielač Suchá hora",
+      "latitude": 48.738676,
+      "longitude": 18.996094
+    },
+    {
+      "name": "Hodinová veža",
+      "latitude": 48.735889,
+      "longitude": 19.146282
+    },
+    {
+      "name": "Rozhľadňa Lažtek",
+      "latitude": 48.698798,
+      "longitude": 19.075267
+    },
+    {
+      "name": "Hrončianska zvonica",
+      "latitude": 48.794973,
+      "longitude": 19.581393
+    },
+    {
+      "name": "Mestská veža",
+      "latitude": 48.806119,
+      "longitude": 19.643755
+    },
+    {
+      "name": "Urbanov klobúk",
+      "latitude": 48.738616,
+      "longitude": 19.632759
+    },
+    {
+      "name": "Rozhľadňa Pustý vrch",
+      "latitude": 48.738403,
+      "longitude": 19.685293
+    },
+    {
+      "name": "Rozhľadňa Malý Lubín",
+      "latitude": 48.674533,
+      "longitude": 18.488327
+    },
+    {
+      "name": "Vychodná šachta",
+      "latitude": 48.687528,
+      "longitude": 18.725299
+    },
+    {
+      "name": "Rozhľadňa Skýcov",
+      "latitude": 48.506637,
+      "longitude": 18.414588
+    },
+    {
+      "name": "Živánska veža",
+      "latitude": 48.464786,
+      "longitude": 18.518574
+    },
+    {
+      "name": "Rozhľadňa Drieňová",
+      "latitude": 48.475276,
+      "longitude": 18.48592
+    },
+    {
+      "name": "Pajerská",
+      "latitude": 48.486254,
+      "longitude": 18.647169
+    },
+    {
+      "name": "Pylón",
+      "latitude": 48.478567,
+      "longitude": 18.880513
+    },
+    {
+      "name": "Klopačka",
+      "latitude": 48.464844,
+      "longitude": 18.819543
+    },
+    {
+      "name": "Himmelreich",
+      "latitude": 48.45936,
+      "longitude": 18.890715
+    },
+    {
+      "name": "Bašta",
+      "latitude": 48.631467,
+      "longitude": 19.111729
+    },
+    {
+      "name": "Zvolenská veža",
+      "latitude": 48.578019,
+      "longitude": 19.125347
+    },
+    {
+      "name": "Zvonica Najsvätejšieho srdca Ježišovho",
+      "latitude": 48.60954,
+      "longitude": 19.392884
+    },
+    {
+      "name": "Brána",
+      "latitude": 48.573239,
+      "longitude": 19.127874
+    },
+    {
+      "name": "Veža II",
+      "latitude": 48.556537,
+      "longitude": 19.109265
+    },
+    {
+      "name": "Veža I",
+      "latitude": 48.555468,
+      "longitude": 19.108601
+    },
+    {
+      "name": "Veža vo východnej hradbe opevnenia",
+      "latitude": 48.557556,
+      "longitude": 19.110175
+    },
+    {
+      "name": "Rozhľadňa Masarykov dvor",
+      "latitude": 48.546808,
+      "longitude": 19.320127
+    },
+    {
+      "name": "Zvonica na Hájiku",
+      "latitude": 48.470592,
+      "longitude": 18.988209
+    },
+    {
+      "name": "Kvetinová veža",
+      "latitude": 48.471261,
+      "longitude": 19.1033
+    },
+    {
+      "name": "Zvonička U Mišurov",
+      "latitude": 48.476989,
+      "longitude": 19.279235
+    },
+    {
+      "name": "Vysielač",
+      "latitude": 48.518622,
+      "longitude": 19.380007
+    },
+    {
+      "name": "vysielač táňovo",
+      "latitude": 48.540524,
+      "longitude": 19.618203
+    },
+    {
+      "name": "Vŕšok",
+      "latitude": 48.450089,
+      "longitude": 16.968185
+    },
+    {
+      "name": "Rozhladňa Veľký Peterklín",
+      "latitude": 48.445751,
+      "longitude": 17.233084
+    },
+    {
+      "name": "Mestská veža",
+      "latitude": 48.417376,
+      "longitude": 17.374338
+    },
+    {
+      "name": "Rozhľadňa Alexandra Filípka",
+      "latitude": 48.363324,
+      "longitude": 17.261114
+    },
+    {
+      "name": "Retranslačná televízna veža",
+      "latitude": 48.387037,
+      "longitude": 17.431991
+    },
+    {
+      "name": "BTS",
+      "latitude": 48.3481,
+      "longitude": 17.573629
+    },
+    {
+      "name": "Rozhľadňa nad vinohradníckym skanzenom",
+      "latitude": 48.251128,
+      "longitude": 17.204455
+    },
+    {
+      "name": "Rozhľadňa Perla",
+      "latitude": 48.30255,
+      "longitude": 17.354242
+    },
+    {
+      "name": "Rozhľadňa",
+      "latitude": 48.327557,
+      "longitude": 17.444877
+    },
+    {
+      "name": "Rozhľadňa Hniezdo",
+      "latitude": 48.239786,
+      "longitude": 17.561422
+    },
+    {
+      "name": "Stožiar mobilného operátora",
+      "latitude": 48.404174,
+      "longitude": 17.881828
+    },
+    {
+      "name": "Mestská veža",
+      "latitude": 48.377921,
+      "longitude": 17.585561
+    },
+    {
+      "name": "Severná veža",
+      "latitude": 48.382146,
+      "longitude": 17.590897
+    },
+    {
+      "name": "Rozhľadňa Radošinka",
+      "latitude": 48.414232,
+      "longitude": 18.008921
+    },
+    {
+      "name": "Telekomnikačný stožiar",
+      "latitude": 48.374251,
+      "longitude": 18.044016
+    },
+    {
+      "name": "Vyhliadková veža Hôrka",
+      "latitude": 48.371094,
+      "longitude": 18.122512
+    },
+    {
+      "name": "Turecká varta",
+      "latitude": 48.301926,
+      "longitude": 18.071426
+    },
+    {
+      "name": "Harangláb",
+      "latitude": 48.305825,
+      "longitude": 18.210412
+    },
+    {
+      "name": "Rozhľadňa Dolná Nitra",
+      "latitude": 48.257742,
+      "longitude": 18.263786
+    },
+    {
+      "name": "Rozhľadňa Golianovo",
+      "latitude": 48.250503,
+      "longitude": 18.196755
+    },
+    {
+      "name": "Vyhliadková veža Devínska Kobyla",
+      "latitude": 48.189292,
+      "longitude": 16.995487
+    },
+    {
+      "name": "Rozhľadňa Americké námestie",
+      "latitude": 48.179654,
+      "longitude": 17.087285
+    },
+    {
+      "name": "Montážna veža",
+      "latitude": 48.179756,
+      "longitude": 17.156915
+    },
+    {
+      "name": "Michalská veža",
+      "latitude": 48.14513,
+      "longitude": 17.106764
+    },
+    {
+      "name": "Baxova veža",
+      "latitude": 48.144169,
+      "longitude": 17.104074
+    },
+    {
+      "name": "Vtáčia bašta",
+      "latitude": 48.143038,
+      "longitude": 17.104261
+    },
+    {
+      "name": "Vrakunská rozhľadňa v lesoparku",
+      "latitude": 48.145522,
+      "longitude": 17.198906
+    },
+    {
+      "name": "Gotická veža františkánskeho kostola",
+      "latitude": 48.134035,
+      "longitude": 17.113945
+    },
+    {
+      "name": "Rozhľadňa Hniezdo",
+      "latitude": 48.167347,
+      "longitude": 17.291475
+    },
+    {
+      "name": "Rozhľadňa Slnečné jazerá",
+      "latitude": 48.217492,
+      "longitude": 17.415331
+    },
+    {
+      "name": "Rozhľadňa Slnečné jazerá",
+      "latitude": 48.215519,
+      "longitude": 17.414794
+    },
+    {
+      "name": "Záleský maják",
+      "latitude": 48.16099,
+      "longitude": 17.280203
+    },
+    {
+      "name": "Kalinkovská rozhľadňa",
+      "latitude": 48.058757,
+      "longitude": 17.222988
+    },
+    {
+      "name": "Hrušovská zdrž",
+      "latitude": 48.041191,
+      "longitude": 17.205228
+    },
+    {
+      "name": "Rozhľadňa Ranč na Striebornom jazere",
+      "latitude": 48.208738,
+      "longitude": 17.727373
+    },
+    {
+      "name": "Vodáreň",
+      "latitude": 48.038842,
+      "longitude": 18.070962
+    },
+    {
+      "name": "Rozhľadňa Hôrka",
+      "latitude": 48.45823,
+      "longitude": 18.366765
+    },
+    {
+      "name": "Rozhľadňa Kamenec",
+      "latitude": 48.425369,
+      "longitude": 18.4436
+    },
+    {
+      "name": "Rozhľadňa Háj",
+      "latitude": 48.433485,
+      "longitude": 18.656864
+    },
+    {
+      "name": "Zvonička pod Hájom",
+      "latitude": 48.426792,
+      "longitude": 18.645788
+    },
+    {
+      "name": "Klopačka z Kremnice",
+      "latitude": 48.451262,
+      "longitude": 18.887738
+    },
+    {
+      "name": "Bašta",
+      "latitude": 48.441182,
+      "longitude": 18.874998
+    },
+    {
+      "name": "Pitvorec",
+      "latitude": 48.446224,
+      "longitude": 18.97231
+    },
+    {
+      "name": "Vysielač Sitno",
+      "latitude": 48.401866,
+      "longitude": 18.876079
+    },
+    {
+      "name": "Bašta",
+      "latitude": 48.418785,
+      "longitude": 18.940864
+    },
+    {
+      "name": "Rozhľadňa Skalka",
+      "latitude": 48.374638,
+      "longitude": 18.829659
+    },
+    {
+      "name": "Protiturecká bašta",
+      "latitude": 48.391727,
+      "longitude": 18.980765
+    },
+    {
+      "name": "Rozhľadňa Veľký Dudok",
+      "latitude": 48.276569,
+      "longitude": 18.376477
+    },
+    {
+      "name": "Priečne",
+      "latitude": 48.43965,
+      "longitude": 19.252306
+    },
+    {
+      "name": "Husitská bašta",
+      "latitude": 48.3537,
+      "longitude": 19.064352
+    },
+    {
+      "name": "Strážna veža Vartovka",
+      "latitude": 48.3493,
+      "longitude": 19.079139
+    },
+    {
+      "name": "Rozhľadňa na Konteske",
+      "latitude": 48.399595,
+      "longitude": 19.662177
+    },
+    {
+      "name": "Zbrojnica",
+      "latitude": 48.354676,
+      "longitude": 19.573513
+    },
+    {
+      "name": "Španí Laz",
+      "latitude": 48.233012,
+      "longitude": 19.255853
+    },
+    {
+      "name": "Kilátó - Lombtanösvény",
+      "latitude": 48.232964,
+      "longitude": 19.651255
+    },
+    {
+      "name": "Kilátó - Lombtanösvény",
+      "latitude": 48.232686,
+      "longitude": 19.649987
+    },
+    {
+      "name": "Pozorovateľňa vtáctva",
+      "latitude": 48.173379,
+      "longitude": 18.301024
+    },
+    {
+      "name": "Rozhľadňa Kalvária",
+      "latitude": 48.224535,
+      "longitude": 18.607322
+    },
+    {
+      "name": "Rozhľadňa Šiklóš",
+      "latitude": 48.182836,
+      "longitude": 18.643159
+    },
+    {
+      "name": "Vyhliadková veža Hontianske Tesáre",
+      "latitude": 48.205989,
+      "longitude": 18.914863
+    },
+    {
+      "name": "Rozhľadňa Prašný vrch",
+      "latitude": 48.168074,
+      "longitude": 19.092936
+    },
+    {
+      "name": "Rozhľadňa Opavská hora",
+      "latitude": 48.189298,
+      "longitude": 19.172574
+    },
+    {
+      "name": "Rozhľadňa Stráž",
+      "latitude": 48.133901,
+      "longitude": 19.112248
+    },
+    {
+      "name": "Rozhľadňa Vrabčia hora",
+      "latitude": 48.088572,
+      "longitude": 19.03027
+    },
+    {
+      "name": "Magasleselkedő",
+      "latitude": 48.064534,
+      "longitude": 19.039178
+    },
+    {
+      "name": "Ipolyvece, madármegfigyelő kilátó",
+      "latitude": 48.066091,
+      "longitude": 19.098404
+    },
+    {
+      "name": "Rozhľadňa Vrbovka",
+      "latitude": 48.092201,
+      "longitude": 19.4188
+    },
+    {
+      "name": "Polomské očko",
+      "latitude": 48.834366,
+      "longitude": 19.865721
+    },
+    {
+      "name": "Vysielač Kráľova hoľa",
+      "latitude": 48.882799,
+      "longitude": 20.13984
+    },
+    {
+      "name": "TVP Dobšiná (Towercom)",
+      "latitude": 48.819668,
+      "longitude": 20.381589
+    },
+    {
+      "name": "Rozhľadňa Zbojská",
+      "latitude": 48.740772,
+      "longitude": 19.850555
+    },
+    {
+      "name": "TVP Muránska Zdychava",
+      "latitude": 48.738723,
+      "longitude": 20.140608
+    },
+    {
+      "name": "Šturmanka",
+      "latitude": 48.702361,
+      "longitude": 20.113232
+    },
+    {
+      "name": "Rozhľadňa Schulerloch",
+      "latitude": 48.913882,
+      "longitude": 20.555236
+    },
+    {
+      "name": "TVP Markušovce (Towercom)",
+      "latitude": 48.915698,
+      "longitude": 20.634605
+    },
+    {
+      "name": "RRB Závadka",
+      "latitude": 48.8691,
+      "longitude": 20.624867
+    },
+    {
+      "name": "Banská klopačka",
+      "latitude": 48.878922,
+      "longitude": 20.914389
+    },
+    {
+      "name": "Towercom",
+      "latitude": 48.869202,
+      "longitude": 20.945943
+    },
+    {
+      "name": "Bognár",
+      "latitude": 48.857502,
+      "longitude": 20.957183
+    },
+    {
+      "name": "Klimo",
+      "latitude": 48.862537,
+      "longitude": 20.928586
+    },
+    {
+      "name": "Na Prielohu",
+      "latitude": 48.764289,
+      "longitude": 20.408691
+    },
+    {
+      "name": "Marekov posed",
+      "latitude": 48.757698,
+      "longitude": 20.988548
+    },
+    {
+      "name": "Rozhľadňa Slopovo",
+      "latitude": 48.595564,
+      "longitude": 19.84273
+    },
+    {
+      "name": "TVP Jelšava (Towercom)",
+      "latitude": 48.63589,
+      "longitude": 20.234091
+    },
+    {
+      "name": "Nad Železníkom",
+      "latitude": 48.621785,
+      "longitude": 20.11374
+    },
+    {
+      "name": "Rozhľadňa Jasenina",
+      "latitude": 48.546995,
+      "longitude": 19.733861
+    },
+    {
+      "name": "Rozhľadňa Vŕšok",
+      "latitude": 48.521401,
+      "longitude": 19.941168
+    },
+    {
+      "name": "Rozhľadňa Hrb",
+      "latitude": 48.474706,
+      "longitude": 19.806774
+    },
+    {
+      "name": "Strážna veža",
+      "latitude": 48.662147,
+      "longitude": 20.533037
+    },
+    {
+      "name": "Turek",
+      "latitude": 48.685145,
+      "longitude": 20.47888
+    },
+    {
+      "name": "Veža na vlásku",
+      "latitude": 48.632645,
+      "longitude": 20.848904
+    },
+    {
+      "name": "Ortás (mérőtorony)",
+      "latitude": 48.518164,
+      "longitude": 21.085944
+    },
+    {
+      "name": "TVP Trebejov",
+      "latitude": 48.85944,
+      "longitude": 21.208664
+    },
+    {
+      "name": "Hojdačky pod Borovicou",
+      "latitude": 48.831835,
+      "longitude": 21.352744
+    },
+    {
+      "name": "Rozhľadna nad Kladzanmi",
+      "latitude": 48.892886,
+      "longitude": 21.758409
+    },
+    {
+      "name": "RRB Makovica (Towercom)",
+      "latitude": 48.851834,
+      "longitude": 21.492341
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.771183,
+      "longitude": 21.206662
+    },
+    {
+      "name": "Telekom",
+      "latitude": 48.769545,
+      "longitude": 21.208818
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.754307,
+      "longitude": 21.257903
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.74935,
+      "longitude": 21.265228
+    },
+    {
+      "name": "4ka",
+      "latitude": 48.761354,
+      "longitude": 21.262042
+    },
+    {
+      "name": "Vyhliadková veža",
+      "latitude": 48.761381,
+      "longitude": 21.236873
+    },
+    {
+      "name": "Čerešenka",
+      "latitude": 48.791556,
+      "longitude": 21.374072
+    },
+    {
+      "name": "Orange",
+      "latitude": 48.770948,
+      "longitude": 21.295644
+    },
+    {
+      "name": "O2",
+      "latitude": 48.771062,
+      "longitude": 21.295251
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.722716,
+      "longitude": 21.256237
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.720681,
+      "longitude": 21.24511
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.726833,
+      "longitude": 21.249962
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.729731,
+      "longitude": 21.262542
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.723233,
+      "longitude": 21.267332
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.72884,
+      "longitude": 21.241266
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.739924,
+      "longitude": 21.255858
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.735957,
+      "longitude": 21.245749
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.737751,
+      "longitude": 21.263767
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.725259,
+      "longitude": 21.255873
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.731687,
+      "longitude": 21.259324
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.720056,
+      "longitude": 21.25906
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.725223,
+      "longitude": 21.233521
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.722043,
+      "longitude": 21.255274
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.722075,
+      "longitude": 21.251049
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.730637,
+      "longitude": 21.25056
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.745025,
+      "longitude": 21.238585
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.748349,
+      "longitude": 21.24583
+    },
+    {
+      "name": "Urbanova veža",
+      "latitude": 48.72065,
+      "longitude": 21.258072
+    },
+    {
+      "name": "Gotický zvon z obce Skrabské",
+      "latitude": 48.727306,
+      "longitude": 21.252883
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.717783,
+      "longitude": 21.260388
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.717337,
+      "longitude": 21.250255
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.718389,
+      "longitude": 21.230758
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.698566,
+      "longitude": 21.267646
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.704849,
+      "longitude": 21.241484
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.71668,
+      "longitude": 21.21111
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.708922,
+      "longitude": 21.22987
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.712273,
+      "longitude": 21.264948
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.697408,
+      "longitude": 21.243076
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.713911,
+      "longitude": 21.25145
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.711171,
+      "longitude": 21.239383
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.701076,
+      "longitude": 21.255778
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.708507,
+      "longitude": 21.21267
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.716725,
+      "longitude": 21.216594
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.718402,
+      "longitude": 21.238961
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.716738,
+      "longitude": 21.267574
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.695912,
+      "longitude": 21.25274
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.694404,
+      "longitude": 21.237679
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.695555,
+      "longitude": 21.236344
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.694387,
+      "longitude": 21.238936
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.701312,
+      "longitude": 21.240458
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.714585,
+      "longitude": 21.239262
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.715147,
+      "longitude": 21.247708
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.719117,
+      "longitude": 21.246812
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.708018,
+      "longitude": 21.259139
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.71811,
+      "longitude": 21.256165
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.7039,
+      "longitude": 21.261195
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.718987,
+      "longitude": 21.207954
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.694043,
+      "longitude": 21.252207
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.69753,
+      "longitude": 21.233285
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.71318,
+      "longitude": 21.217422
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.706981,
+      "longitude": 21.249666
+    },
+    {
+      "name": "Vyhliadka na kline",
+      "latitude": 48.742747,
+      "longitude": 21.317905
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.738156,
+      "longitude": 21.280923
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.734188,
+      "longitude": 21.290839
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.727886,
+      "longitude": 21.286233
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.728511,
+      "longitude": 21.272554
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.740428,
+      "longitude": 21.281653
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.740744,
+      "longitude": 21.290482
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.697488,
+      "longitude": 21.281814
+    },
+    {
+      "name": "BTS GSM-R Košice nákladná stanica",
+      "latitude": 48.708692,
+      "longitude": 21.275689
+    },
+    {
+      "name": "TVP Topoľovka",
+      "latitude": 48.920606,
+      "longitude": 21.827942
+    },
+    {
+      "name": "TVP Ptičie",
+      "latitude": 48.886838,
+      "longitude": 21.977624
+    },
+    {
+      "name": "Mimi-rozhľadňa",
+      "latitude": 48.837443,
+      "longitude": 21.810851
+    },
+    {
+      "name": "TVP Šmigovec",
+      "latitude": 48.891289,
+      "longitude": 22.309381
+    },
+    {
+      "name": "Rozhľadňa Rakovec",
+      "latitude": 48.770002,
+      "longitude": 21.809406
+    },
+    {
+      "name": "RRB Biela Hora",
+      "latitude": 48.776416,
+      "longitude": 21.937278
+    },
+    {
+      "name": "Rozhľadňa Moravany",
+      "latitude": 48.741445,
+      "longitude": 21.813281
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.682685,
+      "longitude": 21.269073
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.671772,
+      "longitude": 21.233809
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.689639,
+      "longitude": 21.259723
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.688732,
+      "longitude": 21.211093
+    },
+    {
+      "name": "Airport Tower",
+      "latitude": 48.673751,
+      "longitude": 21.237954
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.642088,
+      "longitude": 21.173002
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.686668,
+      "longitude": 21.29097
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.674928,
+      "longitude": 21.302589
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.678266,
+      "longitude": 21.297302
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.690256,
+      "longitude": 21.281433
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.67263,
+      "longitude": 21.276522
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.629826,
+      "longitude": 21.177986
+    },
+    {
+      "name": "BTS-Orange",
+      "latitude": 48.623558,
+      "longitude": 21.191665
+    },
+    {
+      "name": "Chladiaca veža",
+      "latitude": 48.616303,
+      "longitude": 21.19692
+    },
+    {
+      "name": "Myšľanská vyhliadka",
+      "latitude": 48.624437,
+      "longitude": 21.383976
+    },
+    {
+      "name": "BTS GSM-R Slančík kameňolom",
+      "latitude": 48.67532,
+      "longitude": 21.457554
+    },
+    {
+      "name": "Eurotel",
+      "latitude": 48.608016,
+      "longitude": 21.527715
+    },
+    {
+      "name": "Globtel /Orange SK",
+      "latitude": 48.607653,
+      "longitude": 21.529157
+    },
+    {
+      "name": "Towercom",
+      "latitude": 48.60787,
+      "longitude": 21.529043
+    },
+    {
+      "name": "Rozhľadňa Perínske rybníky",
+      "latitude": 48.538271,
+      "longitude": 21.142792
+    },
+    {
+      "name": "Károlyi-kilátó (lezárva)",
+      "latitude": 48.573283,
+      "longitude": 21.460916
+    },
+    {
+      "name": "Gira-hegyi kilátó",
+      "latitude": 48.501613,
+      "longitude": 21.564561
+    },
+    {
+      "name": "Avescentrum",
+      "latitude": 48.667958,
+      "longitude": 22.031532
+    },
+    {
+      "name": "Sirmajky",
+      "latitude": 48.665584,
+      "longitude": 22.054457
+    },
+    {
+      "name": "Ostrovik",
+      "latitude": 48.674079,
+      "longitude": 22.04154
+    },
+    {
+      "name": "RRB Pavlovce nad Uhom",
+      "latitude": 48.615944,
+      "longitude": 22.068961
+    },
+    {
+      "name": "Vyhliadkova plošina",
+      "latitude": 48.522928,
+      "longitude": 21.96463
+    },
+    {
+      "name": "RRB Veľké Kapušany",
+      "latitude": 48.553968,
+      "longitude": 22.075789
+    },
+    {
+      "name": "Rozhľadňa Čičarovce",
+      "latitude": 48.530084,
+      "longitude": 21.994895
+    },
+    {
+      "name": "Rozhľadňa Maginhrad",
+      "latitude": 48.447773,
+      "longitude": 19.98409
+    },
+    {
+      "name": "Turňa",
+      "latitude": 48.395041,
+      "longitude": 19.711156
+    },
+    {
+      "name": "radar",
+      "latitude": 48.305488,
+      "longitude": 19.870713
+    },
+    {
+      "name": "Blatný vrch",
+      "latitude": 48.263707,
+      "longitude": 19.719766
+    },
+    {
+      "name": "Kruhová veža",
+      "latitude": 48.272054,
+      "longitude": 19.823448
+    },
+    {
+      "name": "Jeden strom",
+      "latitude": 48.282077,
+      "longitude": 20.06079
+    },
+    {
+      "name": "Vösdobor (mérőtorony)",
+      "latitude": 48.246283,
+      "longitude": 20.135609
+    },
+    {
+      "name": "Lipovany",
+      "latitude": 48.201947,
+      "longitude": 19.718629
+    },
+    {
+      "name": "TV-torony",
+      "latitude": 48.157572,
+      "longitude": 19.789153
+    },
+    {
+      "name": "Ruzsik-Kilátó",
+      "latitude": 48.157751,
+      "longitude": 19.78943
+    },
+    {
+      "name": "Rozhľadňa Tomášov vrch",
+      "latitude": 48.155137,
+      "longitude": 19.936328
+    },
+    {
+      "name": "Zvonica",
+      "latitude": 48.159477,
+      "longitude": 19.959838
+    },
+    {
+      "name": "Vyhliadková veža Tokaj",
+      "latitude": 48.443058,
+      "longitude": 21.691417
+    },
+    {
+      "name": "Pozorovateľňa vtáctva",
+      "latitude": 48.380683,
+      "longitude": 21.755877
+    },
+    {
+      "name": "TVP Streda nad Bodrogom",
+      "latitude": 48.36229,
+      "longitude": 21.789358
+    },
+    {
+      "name": "RRB Kráľovský Chlmec",
+      "latitude": 48.422063,
+      "longitude": 21.970443
+    },
+    {
+      "name": "rozhľadňa Bačka",
+      "latitude": 48.438698,
+      "longitude": 22.052677
+    },
+    {
+      "name": "Jelzőkaró kúpon",
+      "latitude": 47.983212,
+      "longitude": 17.334579
+    },
+    {
+      "name": "Pozorovateľňa vtáctva",
+      "latitude": 47.892392,
+      "longitude": 17.514381
+    },
+    {
+      "name": "Pozorovateľňa vtáctva",
+      "latitude": 47.89404,
+      "longitude": 17.781253
+    },
+    {
+      "name": "Fogdova bašta",
+      "latitude": 47.988681,
+      "longitude": 18.165284
+    },
+    {
+      "name": "Rozhľadňa Veľké Kosihy",
+      "latitude": 47.765932,
+      "longitude": 17.884276
+    },
+    {
+      "name": "Rozhľadňa Sikenička",
+      "latitude": 47.934922,
+      "longitude": 18.689115
+    },
+    {
+      "name": "Rozhľadňa Parížske močiare",
+      "latitude": 47.858133,
+      "longitude": 18.509402
+    },
+    {
+      "name": "Rozhľadňa Kravany nad Dunajom",
+      "latitude": 47.761094,
+      "longitude": 18.480908
+    }
+  ],
+  "meta": {
+    "title": "Veže - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (man_made=tower). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84. Obsahuje 657 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Veže | ListBase",
+    "seo_description": "Stiahnuť Veže — 657 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 657 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

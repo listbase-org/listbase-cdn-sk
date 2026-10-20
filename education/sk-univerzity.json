@@ -1,0 +1,376 @@
+{
+  "id": "sk-univerzity",
+  "name": "Slovakia — Universities (univerzity)",
+  "title": "Slovakia — Universities (univerzity)",
+  "description": "List of accredited universities and higher-education institutions in Slovakia. Each record carries the institution's English/Latin name, primary registered domain, full domain-alias list, primary web page, country code (ISO-3166-1 alpha-2), and sub-national region where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Slovakia\").",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Academy of Arts in Banská Bystrica",
+      "slug": "aku",
+      "domain": "aku.sk",
+      "domains": "aku.sk",
+      "web_page": "http://www.aku.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "Academy of Fine Arts and Design in Bratislava",
+      "slug": "vsvu",
+      "domain": "vsvu.sk",
+      "domains": "vsvu.sk",
+      "web_page": "http://www.vsvu.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "Armed Forces Academy of General Milan Rastislav Štefánik",
+      "slug": "aos",
+      "domain": "aos.sk",
+      "domains": "aos.sk",
+      "web_page": "http://www.aos.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "Bratislava International School of Liberal Arts",
+      "slug": "bisla",
+      "domain": "bisla.sk",
+      "domains": "bisla.sk",
+      "web_page": "http://www.bisla.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "Catholic University in Ruzomberok",
+      "slug": "ku",
+      "domain": "ku.sk",
+      "domains": "ku.sk",
+      "web_page": "http://www.ku.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "College in Sládkovičovo",
+      "slug": "vssladkovicovo",
+      "domain": "vssladkovicovo.sk",
+      "domains": "vssladkovicovo.sk",
+      "web_page": "http://www.vssladkovicovo.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "Comenius University in Bratislava",
+      "slug": "uniba",
+      "domain": "uniba.sk",
+      "domains": "uniba.sk",
+      "web_page": "http://www.uniba.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "International School of Management in Prešov",
+      "slug": "ismpo",
+      "domain": "ismpo.sk",
+      "domains": "ismpo.sk",
+      "web_page": "http://www.ismpo.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "Janos Selye University",
+      "slug": "selyeuni",
+      "domain": "selyeuni.sk",
+      "domains": "selyeuni.sk",
+      "web_page": "http://www.selyeuni.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "Law University of Bratislava",
+      "slug": "uninova",
+      "domain": "uninova.sk",
+      "domains": "uninova.sk",
+      "web_page": "http://www.uninova.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "Matej Bel University in Banská Bystrica",
+      "slug": "umb",
+      "domain": "umb.sk",
+      "domains": "umb.sk",
+      "web_page": "http://www.umb.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "Pavol Jozef Safarik University in Kosice",
+      "slug": "upjs",
+      "domain": "upjs.sk",
+      "domains": "upjs.sk",
+      "web_page": "http://www.upjs.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "Police Academy in Bratislava",
+      "slug": "akademiapz",
+      "domain": "akademiapz.sk",
+      "domains": "akademiapz.sk",
+      "web_page": "http://www.akademiapz.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "School of Management",
+      "slug": "vsm",
+      "domain": "vsm.sk",
+      "domains": "vsm.sk",
+      "web_page": "http://www.vsm.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "Slovak Medical University",
+      "slug": "szu",
+      "domain": "szu.sk",
+      "domains": "szu.sk",
+      "web_page": "http://www.szu.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "Slovak University of Agriculture in Nitra",
+      "slug": "uniag",
+      "domain": "uniag.sk",
+      "domains": "uniag.sk",
+      "web_page": "http://www.uniag.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "Slovak University of Technology in Bratislava",
+      "slug": "stuba",
+      "domain": "stuba.sk",
+      "domains": "stuba.sk",
+      "web_page": "http://www.stuba.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "St. Elizabeth’s College of Health and Social Sciences in Bratislava",
+      "slug": "vssvalzbety",
+      "domain": "vssvalzbety.sk",
+      "domains": "vssvalzbety.sk",
+      "web_page": "http://www.vssvalzbety.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "Technical Institute of Dubnica in Dubnica nad Váhom",
+      "slug": "dti",
+      "domain": "dti.sk",
+      "domains": "dti.sk",
+      "web_page": "http://www.dti.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University in Kosice",
+      "slug": "tuke",
+      "domain": "tuke.sk",
+      "domains": "tuke.sk",
+      "web_page": "http://www.tuke.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University in Zvolen",
+      "slug": "tuzvo",
+      "domain": "tuzvo.sk",
+      "domains": "tuzvo.sk",
+      "web_page": "http://www.tuzvo.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "University Konstantina Filozov in Nitra",
+      "slug": "ukf",
+      "domain": "ukf.sk",
+      "domains": "ukf.sk",
+      "web_page": "http://www.ukf.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "University of Alexandra Dubček in Trenčín",
+      "slug": "tnuni",
+      "domain": "tnuni.sk",
+      "domains": "tnuni.sk",
+      "web_page": "http://www.tnuni.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "University of Central Europe in Skalica",
+      "slug": "sevs",
+      "domain": "sevs.sk",
+      "domains": "sevs.sk",
+      "web_page": "http://www.sevs.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "University of Economics in Bratislava",
+      "slug": "euba",
+      "domain": "euba.sk",
+      "domains": "euba.sk",
+      "web_page": "http://www.euba.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "University of Performing Arts in Bratislava",
+      "slug": "vsmu",
+      "domain": "vsmu.sk",
+      "domains": "vsmu.sk",
+      "web_page": "http://www.vsmu.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "University of Presov",
+      "slug": "unipo",
+      "domain": "unipo.sk",
+      "domains": "unipo.sk",
+      "web_page": "http://www.unipo.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "University of SS. Cyril and Methodius in Trnava",
+      "slug": "ucm",
+      "domain": "ucm.sk",
+      "domains": "ucm.sk",
+      "web_page": "http://www.ucm.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "University of Trnava",
+      "slug": "truni",
+      "domain": "truni.sk",
+      "domains": "truni.sk",
+      "web_page": "http://www.truni.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "University of Veterinary Medicine in Kosice",
+      "slug": "uvm",
+      "domain": "uvm.sk",
+      "domains": "uvm.sk",
+      "web_page": "http://www.uvm.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    },
+    {
+      "name": "University of Zilinska",
+      "slug": "uniza",
+      "domain": "uniza.sk",
+      "domains": "uniza.sk",
+      "web_page": "http://www.uniza.sk/",
+      "country": "Slovakia",
+      "country_code": "SK",
+      "state_province": ""
+    }
+  ],
+  "meta": {
+    "title": "Slovakia — Universities (univerzity) - Bezplatné stiahnutie",
+    "description": "List of accredited universities and higher-education institutions in Slovakia. Each record carries the institution's English/Latin name, primary registered domain, full domain-alias list, primary web page, country code (ISO-3166-1 alpha-2), and sub-national region where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Slovakia\"). Obsahuje 31 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Slovakia — Universities (univerzity) | ListBase",
+    "seo_description": "Stiahnuť Slovakia — Universities (univerzity) — 31 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 31 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

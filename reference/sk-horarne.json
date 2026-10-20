@@ -1,0 +1,1886 @@
+{
+  "id": "sk-horarne",
+  "name": "Horárne",
+  "title": "Horárne",
+  "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (man_made=forester's_lodge). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 369,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Doroťanka",
+      "latitude": 49.472771,
+      "longitude": 18.543851
+    },
+    {
+      "name": "Vreščovka",
+      "latitude": 49.472419,
+      "longitude": 18.92157
+    },
+    {
+      "name": "U Fľašíka",
+      "latitude": 49.414187,
+      "longitude": 18.71942
+    },
+    {
+      "name": "Tichá",
+      "latitude": 49.434358,
+      "longitude": 18.956697
+    },
+    {
+      "name": "Dedová",
+      "latitude": 49.419471,
+      "longitude": 18.912812
+    },
+    {
+      "name": "Lesácka",
+      "latitude": 49.388334,
+      "longitude": 18.93002
+    },
+    {
+      "name": "Hviezdoslavova hájovňa",
+      "latitude": 49.541153,
+      "longitude": 19.500115
+    },
+    {
+      "name": "Doštené",
+      "latitude": 49.459174,
+      "longitude": 19.246034
+    },
+    {
+      "name": "Randová",
+      "latitude": 49.495758,
+      "longitude": 19.343901
+    },
+    {
+      "name": "Horáreň",
+      "latitude": 48.997496,
+      "longitude": 18.05454
+    },
+    {
+      "name": "Lehota",
+      "latitude": 48.958529,
+      "longitude": 18.233135
+    },
+    {
+      "name": "Krížová",
+      "latitude": 49.319463,
+      "longitude": 18.457159
+    },
+    {
+      "name": "Buková",
+      "latitude": 49.274112,
+      "longitude": 18.590399
+    },
+    {
+      "name": "Rakovka",
+      "latitude": 49.375598,
+      "longitude": 18.803648
+    },
+    {
+      "name": "Nový dvor",
+      "latitude": 49.232998,
+      "longitude": 19.053369
+    },
+    {
+      "name": "na Benovke",
+      "latitude": 49.259563,
+      "longitude": 19.248947
+    },
+    {
+      "name": "Poľovnícka chata",
+      "latitude": 49.158724,
+      "longitude": 18.990969
+    },
+    {
+      "name": "Hory",
+      "latitude": 49.187042,
+      "longitude": 19.256737
+    },
+    {
+      "name": "PZ Drapáč",
+      "latitude": 49.157201,
+      "longitude": 19.318107
+    },
+    {
+      "name": "Poruba",
+      "latitude": 49.17254,
+      "longitude": 19.272122
+    },
+    {
+      "name": "Horáreň Biela skala",
+      "latitude": 49.223077,
+      "longitude": 19.597998
+    },
+    {
+      "name": "PZ Prosecné",
+      "latitude": 49.190644,
+      "longitude": 19.47373
+    },
+    {
+      "name": "Sokolie hniezdo",
+      "latitude": 49.189247,
+      "longitude": 19.538547
+    },
+    {
+      "name": "Solisko",
+      "latitude": 49.199411,
+      "longitude": 19.597041
+    },
+    {
+      "name": "PZ Prosečné",
+      "latitude": 49.193582,
+      "longitude": 19.564262
+    },
+    {
+      "name": "Červenec",
+      "latitude": 49.182076,
+      "longitude": 19.638512
+    },
+    {
+      "name": "Jaskyniarska chata Trnovec",
+      "latitude": 49.182581,
+      "longitude": 19.602543
+    },
+    {
+      "name": "Žleby",
+      "latitude": 49.184804,
+      "longitude": 19.626163
+    },
+    {
+      "name": "Kákyčová",
+      "latitude": 49.209627,
+      "longitude": 19.656908
+    },
+    {
+      "name": "Javoriny",
+      "latitude": 49.191202,
+      "longitude": 19.671045
+    },
+    {
+      "name": "Urbár BOBROVEC",
+      "latitude": 49.181698,
+      "longitude": 19.640182
+    },
+    {
+      "name": "Úplzňe",
+      "latitude": 49.173383,
+      "longitude": 19.62001
+    },
+    {
+      "name": "Urbár Trstené",
+      "latitude": 49.157198,
+      "longitude": 19.658897
+    },
+    {
+      "name": "Urbár Trstené",
+      "latitude": 49.159849,
+      "longitude": 19.648228
+    },
+    {
+      "name": "Vládske",
+      "latitude": 49.084034,
+      "longitude": 18.538842
+    },
+    {
+      "name": "Dolina",
+      "latitude": 49.059868,
+      "longitude": 18.519142
+    },
+    {
+      "name": "chata Sačné",
+      "latitude": 49.11177,
+      "longitude": 18.790107
+    },
+    {
+      "name": "Strakoška",
+      "latitude": 49.135892,
+      "longitude": 18.96932
+    },
+    {
+      "name": "Poľovnícka chata",
+      "latitude": 49.150217,
+      "longitude": 18.938331
+    },
+    {
+      "name": "Hodoň",
+      "latitude": 49.021136,
+      "longitude": 18.563225
+    },
+    {
+      "name": "Podjedličná",
+      "latitude": 48.971898,
+      "longitude": 18.339888
+    },
+    {
+      "name": "Biela hlina",
+      "latitude": 48.941139,
+      "longitude": 18.349412
+    },
+    {
+      "name": "I. horáreň",
+      "latitude": 48.947204,
+      "longitude": 18.949604
+    },
+    {
+      "name": "Žihľavná",
+      "latitude": 48.945554,
+      "longitude": 18.94905
+    },
+    {
+      "name": "v Korbeľke",
+      "latitude": 49.129589,
+      "longitude": 19.14578
+    },
+    {
+      "name": "Huty",
+      "latitude": 49.103131,
+      "longitude": 19.138045
+    },
+    {
+      "name": "Beny 780 m.n.m.",
+      "latitude": 49.130174,
+      "longitude": 19.206088
+    },
+    {
+      "name": "Bystrô",
+      "latitude": 49.114203,
+      "longitude": 19.22304
+    },
+    {
+      "name": "u Sikoňa",
+      "latitude": 49.103444,
+      "longitude": 19.23923
+    },
+    {
+      "name": "390",
+      "latitude": 49.112803,
+      "longitude": 19.211144
+    },
+    {
+      "name": "Klačko",
+      "latitude": 49.106542,
+      "longitude": 19.331131
+    },
+    {
+      "name": "Salatín",
+      "latitude": 49.069906,
+      "longitude": 19.155347
+    },
+    {
+      "name": "Horáreň Raková",
+      "latitude": 49.042565,
+      "longitude": 19.154985
+    },
+    {
+      "name": "Plesnivá",
+      "latitude": 49.066768,
+      "longitude": 19.191042
+    },
+    {
+      "name": "Krimina",
+      "latitude": 49.083217,
+      "longitude": 19.209413
+    },
+    {
+      "name": "Klačník",
+      "latitude": 49.081866,
+      "longitude": 19.272306
+    },
+    {
+      "name": "Čierny vrch",
+      "latitude": 49.040639,
+      "longitude": 19.180142
+    },
+    {
+      "name": "Jelenia",
+      "latitude": 49.057583,
+      "longitude": 19.236012
+    },
+    {
+      "name": "Lesanka",
+      "latitude": 49.057678,
+      "longitude": 19.236587
+    },
+    {
+      "name": "Žimerová",
+      "latitude": 49.136891,
+      "longitude": 19.355762
+    },
+    {
+      "name": "pod Soliskom",
+      "latitude": 49.149749,
+      "longitude": 19.419087
+    },
+    {
+      "name": "Vlníkova chata",
+      "latitude": 49.119148,
+      "longitude": 19.359772
+    },
+    {
+      "name": "Gulejka",
+      "latitude": 49.123044,
+      "longitude": 19.346554
+    },
+    {
+      "name": "Medvedí brloh",
+      "latitude": 49.141296,
+      "longitude": 19.682352
+    },
+    {
+      "name": "Štátne lesy",
+      "latitude": 49.043199,
+      "longitude": 19.358815
+    },
+    {
+      "name": "Horáreň Lipová",
+      "latitude": 49.024218,
+      "longitude": 19.146193
+    },
+    {
+      "name": "Chata Rebrová",
+      "latitude": 49.033958,
+      "longitude": 19.151345
+    },
+    {
+      "name": "Čierňavy",
+      "latitude": 49.031677,
+      "longitude": 19.151775
+    },
+    {
+      "name": "Horáreň Rebrová",
+      "latitude": 49.035692,
+      "longitude": 19.153435
+    },
+    {
+      "name": "Lipová",
+      "latitude": 49.025559,
+      "longitude": 19.147517
+    },
+    {
+      "name": "Bršková",
+      "latitude": 49.026139,
+      "longitude": 19.149807
+    },
+    {
+      "name": "Horáreň Rakytov",
+      "latitude": 48.982752,
+      "longitude": 19.137514
+    },
+    {
+      "name": "Horáreň Nižný Tajch",
+      "latitude": 49.004753,
+      "longitude": 19.141126
+    },
+    {
+      "name": "Rakytov",
+      "latitude": 48.98244,
+      "longitude": 19.139244
+    },
+    {
+      "name": "Horáreň Tmavá",
+      "latitude": 48.999404,
+      "longitude": 19.140491
+    },
+    {
+      "name": "Blatná",
+      "latitude": 49.008488,
+      "longitude": 19.145396
+    },
+    {
+      "name": "Jasenčisko",
+      "latitude": 48.981723,
+      "longitude": 19.155939
+    },
+    {
+      "name": "Lúčanka",
+      "latitude": 49.029124,
+      "longitude": 19.175465
+    },
+    {
+      "name": "Čiernavy",
+      "latitude": 49.033684,
+      "longitude": 19.211051
+    },
+    {
+      "name": "Jágerka",
+      "latitude": 49.021599,
+      "longitude": 19.260821
+    },
+    {
+      "name": "Handzabík",
+      "latitude": 49.002325,
+      "longitude": 19.222471
+    },
+    {
+      "name": "Pod Pánom",
+      "latitude": 48.989106,
+      "longitude": 19.235907
+    },
+    {
+      "name": "Skalnô",
+      "latitude": 48.992395,
+      "longitude": 19.327551
+    },
+    {
+      "name": "Mestské lesy",
+      "latitude": 48.981288,
+      "longitude": 19.295206
+    },
+    {
+      "name": "Horáreň Vyšný tajch",
+      "latitude": 48.96949,
+      "longitude": 19.139626
+    },
+    {
+      "name": "Horáreň Rakytovec",
+      "latitude": 48.959413,
+      "longitude": 19.140796
+    },
+    {
+      "name": "pod Suchým",
+      "latitude": 48.965616,
+      "longitude": 19.154144
+    },
+    {
+      "name": "Hubná",
+      "latitude": 48.935139,
+      "longitude": 18.988516
+    },
+    {
+      "name": "Parohy",
+      "latitude": 48.964774,
+      "longitude": 19.203056
+    },
+    {
+      "name": "pod Parohami",
+      "latitude": 48.953427,
+      "longitude": 19.212226
+    },
+    {
+      "name": "Diana",
+      "latitude": 48.960828,
+      "longitude": 19.233212
+    },
+    {
+      "name": "Kladnitá",
+      "latitude": 48.977515,
+      "longitude": 19.211683
+    },
+    {
+      "name": "Hlavačka",
+      "latitude": 48.964013,
+      "longitude": 19.288811
+    },
+    {
+      "name": "Skalné",
+      "latitude": 48.946743,
+      "longitude": 19.247154
+    },
+    {
+      "name": "Teplé",
+      "latitude": 48.943419,
+      "longitude": 19.234799
+    },
+    {
+      "name": "Sliačanská",
+      "latitude": 49.019594,
+      "longitude": 19.378966
+    },
+    {
+      "name": "Za Makovicou",
+      "latitude": 48.989886,
+      "longitude": 19.347369
+    },
+    {
+      "name": "SKALKA",
+      "latitude": 49.007037,
+      "longitude": 19.361611
+    },
+    {
+      "name": "Vŕšky",
+      "latitude": 48.998709,
+      "longitude": 19.415193
+    },
+    {
+      "name": "Legátová",
+      "latitude": 48.995435,
+      "longitude": 19.455922
+    },
+    {
+      "name": "Lovnáč",
+      "latitude": 48.981042,
+      "longitude": 19.42977
+    },
+    {
+      "name": "Ľubeľská",
+      "latitude": 48.992473,
+      "longitude": 19.478458
+    },
+    {
+      "name": "Blaškova",
+      "latitude": 48.993543,
+      "longitude": 19.506155
+    },
+    {
+      "name": "v Ľupčianskej Magure",
+      "latitude": 49.00759,
+      "longitude": 19.426651
+    },
+    {
+      "name": "Podkova",
+      "latitude": 48.984285,
+      "longitude": 19.486722
+    },
+    {
+      "name": "Svec",
+      "latitude": 48.989347,
+      "longitude": 19.430158
+    },
+    {
+      "name": "pod Buzákom",
+      "latitude": 49.016305,
+      "longitude": 19.528849
+    },
+    {
+      "name": "Stružnô",
+      "latitude": 48.993208,
+      "longitude": 19.54231
+    },
+    {
+      "name": "Kováčová",
+      "latitude": 49.002674,
+      "longitude": 19.516152
+    },
+    {
+      "name": "GRIZLY",
+      "latitude": 49.000566,
+      "longitude": 19.534602
+    },
+    {
+      "name": "Hvezdáreň",
+      "latitude": 48.988046,
+      "longitude": 19.640568
+    },
+    {
+      "name": "Šrolova chata",
+      "latitude": 48.992181,
+      "longitude": 19.679535
+    },
+    {
+      "name": "Koreň",
+      "latitude": 48.98222,
+      "longitude": 19.683951
+    },
+    {
+      "name": "vo Veľkom Železnom",
+      "latitude": 48.961875,
+      "longitude": 19.375892
+    },
+    {
+      "name": "Všivavá",
+      "latitude": 48.958846,
+      "longitude": 19.418106
+    },
+    {
+      "name": "Klin",
+      "latitude": 48.96405,
+      "longitude": 19.355998
+    },
+    {
+      "name": "PZ Chabenec",
+      "latitude": 48.961196,
+      "longitude": 19.498631
+    },
+    {
+      "name": "Solisko",
+      "latitude": 48.95997,
+      "longitude": 19.465124
+    },
+    {
+      "name": "Čučoriedka",
+      "latitude": 48.967921,
+      "longitude": 19.503841
+    },
+    {
+      "name": "Urbárna chata Rakytová - Dúbrava",
+      "latitude": 48.979816,
+      "longitude": 19.498825
+    },
+    {
+      "name": "Pastiereň",
+      "latitude": 48.965072,
+      "longitude": 19.48089
+    },
+    {
+      "name": "Chata Betka",
+      "latitude": 48.942437,
+      "longitude": 19.401294
+    },
+    {
+      "name": "Demeterka",
+      "latitude": 48.947951,
+      "longitude": 19.370181
+    },
+    {
+      "name": "Kapustisko",
+      "latitude": 48.947944,
+      "longitude": 19.418198
+    },
+    {
+      "name": "v Mošnici",
+      "latitude": 48.979444,
+      "longitude": 19.533606
+    },
+    {
+      "name": "Jaloviarka",
+      "latitude": 48.979497,
+      "longitude": 19.524946
+    },
+    {
+      "name": "PZ Siná",
+      "latitude": 48.959094,
+      "longitude": 19.521156
+    },
+    {
+      "name": "Chata Bystré",
+      "latitude": 48.973692,
+      "longitude": 19.681749
+    },
+    {
+      "name": "Čierny potok",
+      "latitude": 49.318985,
+      "longitude": 19.744981
+    },
+    {
+      "name": "Horáreň Bobrovec",
+      "latitude": 49.282521,
+      "longitude": 19.756371
+    },
+    {
+      "name": "Peciská",
+      "latitude": 49.287489,
+      "longitude": 19.745143
+    },
+    {
+      "name": "Vojtasová",
+      "latitude": 49.300013,
+      "longitude": 20.163675
+    },
+    {
+      "name": "Hluchaniarka pod Lúčnou",
+      "latitude": 49.242551,
+      "longitude": 19.74789
+    },
+    {
+      "name": "Pod Lakťom",
+      "latitude": 49.163146,
+      "longitude": 19.714134
+    },
+    {
+      "name": "Nižná Roveň",
+      "latitude": 49.159313,
+      "longitude": 19.691019
+    },
+    {
+      "name": "Koliba Sigoť",
+      "latitude": 49.159498,
+      "longitude": 19.805959
+    },
+    {
+      "name": "Žeruchová",
+      "latitude": 49.158426,
+      "longitude": 19.910083
+    },
+    {
+      "name": "Kubalová",
+      "latitude": 49.259027,
+      "longitude": 20.140321
+    },
+    {
+      "name": "Na Burdeli",
+      "latitude": 49.233528,
+      "longitude": 20.186211
+    },
+    {
+      "name": "TANAP",
+      "latitude": 49.214504,
+      "longitude": 20.156084
+    },
+    {
+      "name": "Kardolina",
+      "latitude": 49.246072,
+      "longitude": 20.311558
+    },
+    {
+      "name": "na Žihľavníku",
+      "latitude": 49.216445,
+      "longitude": 20.259872
+    },
+    {
+      "name": "TANAP",
+      "latitude": 49.234063,
+      "longitude": 20.291777
+    },
+    {
+      "name": "Šarpanec",
+      "latitude": 49.210551,
+      "longitude": 20.371945
+    },
+    {
+      "name": "Rovienky",
+      "latitude": 49.196021,
+      "longitude": 20.116534
+    },
+    {
+      "name": "Čola",
+      "latitude": 49.204995,
+      "longitude": 20.117655
+    },
+    {
+      "name": "Chata sv. Huberta",
+      "latitude": 49.32663,
+      "longitude": 20.474466
+    },
+    {
+      "name": "Chata Orol",
+      "latitude": 49.313078,
+      "longitude": 20.881175
+    },
+    {
+      "name": "Kurčín",
+      "latitude": 49.299062,
+      "longitude": 20.921426
+    },
+    {
+      "name": "Vlčie",
+      "latitude": 49.242475,
+      "longitude": 21.088219
+    },
+    {
+      "name": "PZ Baranec",
+      "latitude": 49.132932,
+      "longitude": 19.757379
+    },
+    {
+      "name": "PZ Baranec",
+      "latitude": 49.127528,
+      "longitude": 19.766977
+    },
+    {
+      "name": "PZ Baranec",
+      "latitude": 49.145044,
+      "longitude": 19.765954
+    },
+    {
+      "name": "Veterná Poruba",
+      "latitude": 49.141629,
+      "longitude": 19.704364
+    },
+    {
+      "name": "PZ Baranec",
+      "latitude": 49.127649,
+      "longitude": 19.765089
+    },
+    {
+      "name": "Tichá",
+      "latitude": 49.151848,
+      "longitude": 19.922861
+    },
+    {
+      "name": "ubytovňa TANAP",
+      "latitude": 49.139468,
+      "longitude": 19.959842
+    },
+    {
+      "name": "TANAP - Tri studničky",
+      "latitude": 49.139993,
+      "longitude": 19.965938
+    },
+    {
+      "name": "Urbárna chata",
+      "latitude": 49.128426,
+      "longitude": 19.975588
+    },
+    {
+      "name": "Stanica Tanap",
+      "latitude": 49.137348,
+      "longitude": 20.010247
+    },
+    {
+      "name": "Koliba na Pálenici",
+      "latitude": 49.115452,
+      "longitude": 19.93058
+    },
+    {
+      "name": "PZ-Machy",
+      "latitude": 49.120292,
+      "longitude": 19.876949
+    },
+    {
+      "name": "Kolibka Senník",
+      "latitude": 49.099001,
+      "longitude": 19.88648
+    },
+    {
+      "name": "Lochy",
+      "latitude": 49.135827,
+      "longitude": 20.131738
+    },
+    {
+      "name": "Partizánka",
+      "latitude": 49.135712,
+      "longitude": 20.151896
+    },
+    {
+      "name": "Danielov dom",
+      "latitude": 49.119425,
+      "longitude": 20.166994
+    },
+    {
+      "name": "Nižné Hágy",
+      "latitude": 49.101338,
+      "longitude": 20.139454
+    },
+    {
+      "name": "Pri Dlhom môstku",
+      "latitude": 49.114462,
+      "longitude": 20.23072
+    },
+    {
+      "name": "Chata Fišiarka",
+      "latitude": 49.011579,
+      "longitude": 19.727365
+    },
+    {
+      "name": "urbár Hybe",
+      "latitude": 49.01586,
+      "longitude": 19.855333
+    },
+    {
+      "name": "Svidovo",
+      "latitude": 48.984955,
+      "longitude": 19.757895
+    },
+    {
+      "name": "Ipoltica",
+      "latitude": 49.012005,
+      "longitude": 19.94265
+    },
+    {
+      "name": "Ništoková",
+      "latitude": 49.025161,
+      "longitude": 19.966664
+    },
+    {
+      "name": "Biely potok",
+      "latitude": 49.015382,
+      "longitude": 20.033719
+    },
+    {
+      "name": "Brezová",
+      "latitude": 49.015001,
+      "longitude": 19.968316
+    },
+    {
+      "name": "Benkovo",
+      "latitude": 49.000009,
+      "longitude": 20.007516
+    },
+    {
+      "name": "Urbár L. Porúbka",
+      "latitude": 48.952179,
+      "longitude": 19.693062
+    },
+    {
+      "name": "Škarkétka",
+      "latitude": 48.95425,
+      "longitude": 19.848599
+    },
+    {
+      "name": "Chorupné",
+      "latitude": 48.937345,
+      "longitude": 19.808151
+    },
+    {
+      "name": "Pod Kašou",
+      "latitude": 48.940998,
+      "longitude": 19.825545
+    },
+    {
+      "name": "Tajch",
+      "latitude": 48.924835,
+      "longitude": 19.837496
+    },
+    {
+      "name": "Javorinka",
+      "latitude": 48.956766,
+      "longitude": 19.962399
+    },
+    {
+      "name": "Kremeniny",
+      "latitude": 48.969281,
+      "longitude": 20.037127
+    },
+    {
+      "name": "Kosienky",
+      "latitude": 48.950909,
+      "longitude": 19.887491
+    },
+    {
+      "name": "Chata Tinka",
+      "latitude": 48.951071,
+      "longitude": 19.884249
+    },
+    {
+      "name": "Hodruša",
+      "latitude": 48.928826,
+      "longitude": 19.864303
+    },
+    {
+      "name": "Ráztoky",
+      "latitude": 48.932366,
+      "longitude": 19.936705
+    },
+    {
+      "name": "Lacková",
+      "latitude": 48.942936,
+      "longitude": 19.943885
+    },
+    {
+      "name": "Podnemecká",
+      "latitude": 48.936431,
+      "longitude": 19.937114
+    },
+    {
+      "name": "Kolesárky",
+      "latitude": 48.999917,
+      "longitude": 20.073638
+    },
+    {
+      "name": "Ždiar",
+      "latitude": 48.931453,
+      "longitude": 20.084962
+    },
+    {
+      "name": "Zatračané",
+      "latitude": 48.933147,
+      "longitude": 20.108323
+    },
+    {
+      "name": "Zoty",
+      "latitude": 48.970043,
+      "longitude": 20.235255
+    },
+    {
+      "name": "Podlesík",
+      "latitude": 48.965226,
+      "longitude": 20.376235
+    },
+    {
+      "name": "Betlanovská dolina",
+      "latitude": 48.959289,
+      "longitude": 20.350751
+    },
+    {
+      "name": "Sokol",
+      "latitude": 48.933516,
+      "longitude": 20.335036
+    },
+    {
+      "name": "Lesnícka chata Ľubica kúpele",
+      "latitude": 49.139558,
+      "longitude": 20.527381
+    },
+    {
+      "name": "Sokolovňa",
+      "latitude": 49.114634,
+      "longitude": 20.554159
+    },
+    {
+      "name": "Diablova diera",
+      "latitude": 49.022764,
+      "longitude": 20.859272
+    },
+    {
+      "name": "Chata Peňažnica",
+      "latitude": 49.019899,
+      "longitude": 20.889089
+    },
+    {
+      "name": "Pod Chotárnou",
+      "latitude": 49.301201,
+      "longitude": 21.227776
+    },
+    {
+      "name": "Pod horou",
+      "latitude": 48.999865,
+      "longitude": 21.36057
+    },
+    {
+      "name": "Chata Berecinka",
+      "latitude": 48.974816,
+      "longitude": 21.15515
+    },
+    {
+      "name": "Chata Kvašná voda",
+      "latitude": 48.967295,
+      "longitude": 21.190671
+    },
+    {
+      "name": "Kyslá",
+      "latitude": 48.960041,
+      "longitude": 21.232514
+    },
+    {
+      "name": "Hradová",
+      "latitude": 48.955511,
+      "longitude": 21.372042
+    },
+    {
+      "name": "Pod Malinou",
+      "latitude": 48.927252,
+      "longitude": 21.54967
+    },
+    {
+      "name": "Ľudmilka",
+      "latitude": 48.966948,
+      "longitude": 21.756482
+    },
+    {
+      "name": "Stanislavec",
+      "latitude": 49.109758,
+      "longitude": 21.930343
+    },
+    {
+      "name": "Poľovnícka chata",
+      "latitude": 49.0519,
+      "longitude": 22.026463
+    },
+    {
+      "name": "Chata Poľana",
+      "latitude": 49.076146,
+      "longitude": 22.207343
+    },
+    {
+      "name": "Chata Lančory",
+      "latitude": 49.078548,
+      "longitude": 22.262238
+    },
+    {
+      "name": "Chata",
+      "latitude": 49.068669,
+      "longitude": 22.480332
+    },
+    {
+      "name": "Poľovnícka chata",
+      "latitude": 48.972312,
+      "longitude": 21.831287
+    },
+    {
+      "name": "Chata Kolodnik",
+      "latitude": 49.025594,
+      "longitude": 22.383413
+    },
+    {
+      "name": "Chata Krížnica",
+      "latitude": 48.808361,
+      "longitude": 17.306022
+    },
+    {
+      "name": "Kadlúbok",
+      "latitude": 48.699403,
+      "longitude": 17.040524
+    },
+    {
+      "name": "Hájovňa",
+      "latitude": 48.738233,
+      "longitude": 17.22791
+    },
+    {
+      "name": "Horáreň Pavlov",
+      "latitude": 48.740861,
+      "longitude": 17.26914
+    },
+    {
+      "name": "Slače",
+      "latitude": 48.844819,
+      "longitude": 18.206861
+    },
+    {
+      "name": "Jedľová",
+      "latitude": 48.761905,
+      "longitude": 18.066439
+    },
+    {
+      "name": "Helbuš",
+      "latitude": 48.705217,
+      "longitude": 17.941741
+    },
+    {
+      "name": "Dúbrava",
+      "latitude": 48.675161,
+      "longitude": 17.026545
+    },
+    {
+      "name": "Brnenská búda",
+      "latitude": 48.644552,
+      "longitude": 16.974552
+    },
+    {
+      "name": "Chata Smolinské",
+      "latitude": 48.685292,
+      "longitude": 17.103527
+    },
+    {
+      "name": "Chata PZ Šaštín - Stráže",
+      "latitude": 48.648535,
+      "longitude": 17.151221
+    },
+    {
+      "name": "Borníky",
+      "latitude": 48.635637,
+      "longitude": 17.230556
+    },
+    {
+      "name": "Lesná správa Šranek",
+      "latitude": 48.641189,
+      "longitude": 17.355159
+    },
+    {
+      "name": "Chata Šranek",
+      "latitude": 48.639054,
+      "longitude": 17.354399
+    },
+    {
+      "name": "Hájovňa Široká",
+      "latitude": 48.636645,
+      "longitude": 17.547984
+    },
+    {
+      "name": "Hájovňa Kalaštov",
+      "latitude": 48.629203,
+      "longitude": 17.257986
+    },
+    {
+      "name": "Rudava",
+      "latitude": 48.591994,
+      "longitude": 17.355633
+    },
+    {
+      "name": "Lúčky",
+      "latitude": 48.618508,
+      "longitude": 17.486456
+    },
+    {
+      "name": "Suchánka",
+      "latitude": 48.597183,
+      "longitude": 17.491895
+    },
+    {
+      "name": "Dúbrava",
+      "latitude": 48.570496,
+      "longitude": 16.993307
+    },
+    {
+      "name": "Hájovňa Hrabovec",
+      "latitude": 48.55988,
+      "longitude": 17.126308
+    },
+    {
+      "name": "Kúdelka",
+      "latitude": 48.529803,
+      "longitude": 17.121303
+    },
+    {
+      "name": "Nová hájovňa",
+      "latitude": 48.519158,
+      "longitude": 17.1537
+    },
+    {
+      "name": "Zákľuka",
+      "latitude": 48.459886,
+      "longitude": 17.145391
+    },
+    {
+      "name": "Nadrlenisko",
+      "latitude": 48.569686,
+      "longitude": 17.323999
+    },
+    {
+      "name": "Dolná Raková",
+      "latitude": 48.554291,
+      "longitude": 17.451239
+    },
+    {
+      "name": "Raková",
+      "latitude": 48.571803,
+      "longitude": 17.47003
+    },
+    {
+      "name": "Horáreň Polámané",
+      "latitude": 48.49493,
+      "longitude": 17.360498
+    },
+    {
+      "name": "Klčovňa",
+      "latitude": 48.816402,
+      "longitude": 18.677885
+    },
+    {
+      "name": "Bartoška",
+      "latitude": 48.837622,
+      "longitude": 18.962596
+    },
+    {
+      "name": "Bohátka",
+      "latitude": 48.800302,
+      "longitude": 18.559752
+    },
+    {
+      "name": "Uhlisko",
+      "latitude": 48.787316,
+      "longitude": 18.756092
+    },
+    {
+      "name": "Stanište",
+      "latitude": 48.760849,
+      "longitude": 18.694844
+    },
+    {
+      "name": "Švogrová",
+      "latitude": 48.749163,
+      "longitude": 18.714298
+    },
+    {
+      "name": "Kaktus Maják",
+      "latitude": 48.757508,
+      "longitude": 18.819548
+    },
+    {
+      "name": "salaš YUKON",
+      "latitude": 48.915294,
+      "longitude": 19.071007
+    },
+    {
+      "name": "Hajabačka",
+      "latitude": 48.890292,
+      "longitude": 19.148741
+    },
+    {
+      "name": "Veľký Hričkov",
+      "latitude": 48.918072,
+      "longitude": 19.208264
+    },
+    {
+      "name": "Bzdová",
+      "latitude": 48.90677,
+      "longitude": 19.257445
+    },
+    {
+      "name": "Patočiny",
+      "latitude": 48.916044,
+      "longitude": 19.262522
+    },
+    {
+      "name": "Chlapčiarsko",
+      "latitude": 48.908964,
+      "longitude": 19.307474
+    },
+    {
+      "name": "Fidesov štál PRIEVAL",
+      "latitude": 48.916761,
+      "longitude": 19.300656
+    },
+    {
+      "name": "Štátne lesy",
+      "latitude": 48.918955,
+      "longitude": 19.335568
+    },
+    {
+      "name": "Lesy SR",
+      "latitude": 48.883076,
+      "longitude": 19.284777
+    },
+    {
+      "name": "Lesy SR",
+      "latitude": 48.922258,
+      "longitude": 19.479337
+    },
+    {
+      "name": "Kyslá",
+      "latitude": 48.890499,
+      "longitude": 19.431
+    },
+    {
+      "name": "Predsuchá",
+      "latitude": 48.855541,
+      "longitude": 19.451279
+    },
+    {
+      "name": "Sopotnica",
+      "latitude": 48.828409,
+      "longitude": 19.360102
+    },
+    {
+      "name": "Píla",
+      "latitude": 48.798059,
+      "longitude": 19.226069
+    },
+    {
+      "name": "Ortúty",
+      "latitude": 48.710931,
+      "longitude": 19.049996
+    },
+    {
+      "name": "Gajdoška",
+      "latitude": 48.783145,
+      "longitude": 19.550511
+    },
+    {
+      "name": "U Jána",
+      "latitude": 48.780215,
+      "longitude": 19.591463
+    },
+    {
+      "name": "Hruškovo",
+      "latitude": 48.775705,
+      "longitude": 19.538287
+    },
+    {
+      "name": "Podsuchá",
+      "latitude": 48.73754,
+      "longitude": 19.521813
+    },
+    {
+      "name": "Endreska",
+      "latitude": 48.714145,
+      "longitude": 19.535954
+    },
+    {
+      "name": "Hronček",
+      "latitude": 48.705794,
+      "longitude": 19.529376
+    },
+    {
+      "name": "Suché",
+      "latitude": 48.644469,
+      "longitude": 18.56217
+    },
+    {
+      "name": "Chata Hubert",
+      "latitude": 48.652907,
+      "longitude": 18.622007
+    },
+    {
+      "name": "Tulák",
+      "latitude": 48.617782,
+      "longitude": 18.568091
+    },
+    {
+      "name": "Bukoviny",
+      "latitude": 48.641472,
+      "longitude": 18.971529
+    },
+    {
+      "name": "Ihráčska píla",
+      "latitude": 48.634478,
+      "longitude": 18.955064
+    },
+    {
+      "name": "Husárová",
+      "latitude": 48.527352,
+      "longitude": 18.516586
+    },
+    {
+      "name": "Trubiansky",
+      "latitude": 48.537372,
+      "longitude": 18.516973
+    },
+    {
+      "name": "Ležisko",
+      "latitude": 48.467693,
+      "longitude": 18.615325
+    },
+    {
+      "name": "Kapitulský dvor",
+      "latitude": 48.552546,
+      "longitude": 18.823946
+    },
+    {
+      "name": "Podjavor",
+      "latitude": 48.639099,
+      "longitude": 19.02583
+    },
+    {
+      "name": "Hrabiny",
+      "latitude": 48.586256,
+      "longitude": 19.013008
+    },
+    {
+      "name": "Sihla",
+      "latitude": 48.661804,
+      "longitude": 19.455077
+    },
+    {
+      "name": "Čierny potok",
+      "latitude": 48.684553,
+      "longitude": 19.550632
+    },
+    {
+      "name": "Smrečinové",
+      "latitude": 48.666855,
+      "longitude": 19.538812
+    },
+    {
+      "name": "Strundžené",
+      "latitude": 48.67694,
+      "longitude": 19.579325
+    },
+    {
+      "name": "Klementka",
+      "latitude": 48.676036,
+      "longitude": 19.613215
+    },
+    {
+      "name": "Sedmák",
+      "latitude": 48.682618,
+      "longitude": 19.66325
+    },
+    {
+      "name": "Horáreň Horná Bzová",
+      "latitude": 48.54788,
+      "longitude": 19.526844
+    },
+    {
+      "name": "Murárka",
+      "latitude": 48.475151,
+      "longitude": 19.628305
+    },
+    {
+      "name": "Poltarica",
+      "latitude": 48.47505,
+      "longitude": 19.628416
+    },
+    {
+      "name": "Vŕšok",
+      "latitude": 48.451824,
+      "longitude": 16.961628
+    },
+    {
+      "name": "Na osách",
+      "latitude": 48.435915,
+      "longitude": 17.038967
+    },
+    {
+      "name": "Hrdzavý jarok",
+      "latitude": 48.444491,
+      "longitude": 17.061082
+    },
+    {
+      "name": "Baďura",
+      "latitude": 48.439341,
+      "longitude": 17.202129
+    },
+    {
+      "name": "Vývrat",
+      "latitude": 48.416977,
+      "longitude": 17.188874
+    },
+    {
+      "name": "Hradské kúty",
+      "latitude": 48.397672,
+      "longitude": 16.916717
+    },
+    {
+      "name": "Nová Kopča",
+      "latitude": 48.372251,
+      "longitude": 17.021028
+    },
+    {
+      "name": "Rybníček",
+      "latitude": 48.357784,
+      "longitude": 17.221635
+    },
+    {
+      "name": "Bývalá horáreň pod Čmelkom",
+      "latitude": 48.361641,
+      "longitude": 17.215524
+    },
+    {
+      "name": "Panský dom",
+      "latitude": 48.415742,
+      "longitude": 17.240488
+    },
+    {
+      "name": "Papiereň",
+      "latitude": 48.427836,
+      "longitude": 17.358409
+    },
+    {
+      "name": "Horná Píla",
+      "latitude": 48.39734,
+      "longitude": 17.315702
+    },
+    {
+      "name": "Balgava",
+      "latitude": 48.321214,
+      "longitude": 17.065359
+    },
+    {
+      "name": "Chata Spálenisko",
+      "latitude": 48.30838,
+      "longitude": 17.109556
+    },
+    {
+      "name": "Valchovňa",
+      "latitude": 48.304001,
+      "longitude": 17.222779
+    },
+    {
+      "name": "Úboč",
+      "latitude": 48.254661,
+      "longitude": 17.107114
+    },
+    {
+      "name": "Medené hámre",
+      "latitude": 48.257406,
+      "longitude": 17.117727
+    },
+    {
+      "name": "Košarisko",
+      "latitude": 48.282521,
+      "longitude": 17.131183
+    },
+    {
+      "name": "Tri bresty",
+      "latitude": 48.276805,
+      "longitude": 17.190484
+    },
+    {
+      "name": "Krkavec",
+      "latitude": 48.282077,
+      "longitude": 17.217714
+    },
+    {
+      "name": "Zumberg",
+      "latitude": 48.316054,
+      "longitude": 17.259126
+    },
+    {
+      "name": "Horáreň pod Širokým",
+      "latitude": 48.333705,
+      "longitude": 17.271414
+    },
+    {
+      "name": "Kačín",
+      "latitude": 48.213368,
+      "longitude": 17.067184
+    },
+    {
+      "name": "Chata Hladina",
+      "latitude": 48.408936,
+      "longitude": 18.477585
+    },
+    {
+      "name": "Šarvíz",
+      "latitude": 48.453195,
+      "longitude": 18.66926
+    },
+    {
+      "name": "Haškova horáreň",
+      "latitude": 48.401833,
+      "longitude": 18.740791
+    },
+    {
+      "name": "Poľovnícky zámoček Kysihýbel",
+      "latitude": 48.458038,
+      "longitude": 18.935027
+    },
+    {
+      "name": "Horáreň Na varte",
+      "latitude": 48.417924,
+      "longitude": 18.838251
+    },
+    {
+      "name": "Horáreň Račnov",
+      "latitude": 48.416486,
+      "longitude": 18.978665
+    },
+    {
+      "name": "Horáreň Štampoch",
+      "latitude": 48.398812,
+      "longitude": 18.781139
+    },
+    {
+      "name": "Horáreň Dobrá voda",
+      "latitude": 48.369537,
+      "longitude": 18.863127
+    },
+    {
+      "name": "Poľovnícky zámoček Žuhráčka",
+      "latitude": 48.339727,
+      "longitude": 18.666809
+    },
+    {
+      "name": "Brezie",
+      "latitude": 48.258933,
+      "longitude": 19.342271
+    },
+    {
+      "name": "chata Adamová",
+      "latitude": 48.890679,
+      "longitude": 19.778976
+    },
+    {
+      "name": "pod Zeleným",
+      "latitude": 48.829833,
+      "longitude": 19.776758
+    },
+    {
+      "name": "Chata Frntoľová",
+      "latitude": 48.811104,
+      "longitude": 19.832984
+    },
+    {
+      "name": "Šušková",
+      "latitude": 48.902471,
+      "longitude": 20.188816
+    },
+    {
+      "name": "Čuntava",
+      "latitude": 48.843515,
+      "longitude": 20.250683
+    },
+    {
+      "name": "Studňa",
+      "latitude": 48.789335,
+      "longitude": 20.001093
+    },
+    {
+      "name": "Stožky",
+      "latitude": 48.769902,
+      "longitude": 19.934845
+    },
+    {
+      "name": "Paseky",
+      "latitude": 48.713197,
+      "longitude": 19.997641
+    },
+    {
+      "name": "Karafová",
+      "latitude": 48.773407,
+      "longitude": 20.159664
+    },
+    {
+      "name": "Viliama",
+      "latitude": 48.706355,
+      "longitude": 20.183061
+    },
+    {
+      "name": "Rybník",
+      "latitude": 48.899769,
+      "longitude": 20.48047
+    },
+    {
+      "name": "Gretla",
+      "latitude": 48.880225,
+      "longitude": 20.53394
+    },
+    {
+      "name": "Markušovská dolina",
+      "latitude": 48.889832,
+      "longitude": 20.607327
+    },
+    {
+      "name": "Svinský hŕbok",
+      "latitude": 48.870532,
+      "longitude": 20.712576
+    },
+    {
+      "name": "Galmus",
+      "latitude": 48.901006,
+      "longitude": 20.827441
+    },
+    {
+      "name": "Raj",
+      "latitude": 48.919403,
+      "longitude": 20.756176
+    },
+    {
+      "name": "Bystrý potok",
+      "latitude": 48.754901,
+      "longitude": 20.695902
+    },
+    {
+      "name": "Kotlina",
+      "latitude": 48.714667,
+      "longitude": 20.713066
+    },
+    {
+      "name": "Hanacky",
+      "latitude": 48.787033,
+      "longitude": 20.863767
+    },
+    {
+      "name": "Borzagoš",
+      "latitude": 48.759262,
+      "longitude": 20.943665
+    },
+    {
+      "name": "Mier",
+      "latitude": 48.758664,
+      "longitude": 20.940567
+    },
+    {
+      "name": "chata Údoľ",
+      "latitude": 48.750884,
+      "longitude": 20.965517
+    },
+    {
+      "name": "Bodovka",
+      "latitude": 48.703137,
+      "longitude": 20.835569
+    },
+    {
+      "name": "Anna",
+      "latitude": 48.720535,
+      "longitude": 21.010685
+    },
+    {
+      "name": "Chata Lúčky",
+      "latitude": 48.71702,
+      "longitude": 20.99425
+    },
+    {
+      "name": "Kremeňovo",
+      "latitude": 48.614897,
+      "longitude": 19.691348
+    },
+    {
+      "name": "Hrádok",
+      "latitude": 48.659341,
+      "longitude": 20.297568
+    },
+    {
+      "name": "Sinec",
+      "latitude": 48.55985,
+      "longitude": 19.894993
+    },
+    {
+      "name": "Kalová",
+      "latitude": 48.490386,
+      "longitude": 19.741668
+    },
+    {
+      "name": "Kocižská dolina",
+      "latitude": 48.504458,
+      "longitude": 19.871665
+    },
+    {
+      "name": "Kocižská dolina",
+      "latitude": 48.498301,
+      "longitude": 19.877947
+    },
+    {
+      "name": "Žiar",
+      "latitude": 48.487333,
+      "longitude": 19.869065
+    },
+    {
+      "name": "Dolinka",
+      "latitude": 48.518927,
+      "longitude": 20.298388
+    },
+    {
+      "name": "Veľký vrch",
+      "latitude": 48.606964,
+      "longitude": 20.414763
+    },
+    {
+      "name": "Hubertus",
+      "latitude": 48.526614,
+      "longitude": 20.985365
+    },
+    {
+      "name": "Horáreň Kysak",
+      "latitude": 48.851331,
+      "longitude": 21.197874
+    },
+    {
+      "name": "Lesnica",
+      "latitude": 48.834002,
+      "longitude": 21.148627
+    },
+    {
+      "name": "Červený vrch",
+      "latitude": 48.599401,
+      "longitude": 21.39005
+    },
+    {
+      "name": "Regeta",
+      "latitude": 48.673356,
+      "longitude": 21.475412
+    },
+    {
+      "name": "Izra",
+      "latitude": 48.565181,
+      "longitude": 21.493011
+    },
+    {
+      "name": "Kemen",
+      "latitude": 48.436594,
+      "longitude": 20.380225
+    },
+    {
+      "name": "Lapša",
+      "latitude": 48.447676,
+      "longitude": 20.375047
+    },
+    {
+      "name": "Havran",
+      "latitude": 48.405192,
+      "longitude": 20.405446
+    },
+    {
+      "name": "Hubovská",
+      "latitude": 48.397396,
+      "longitude": 20.401544
+    },
+    {
+      "name": "Ereš",
+      "latitude": 48.436861,
+      "longitude": 21.952486
+    }
+  ],
+  "meta": {
+    "title": "Horárne - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (man_made=forester's_lodge). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84. Obsahuje 369 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Horárne | ListBase",
+    "seo_description": "Stiahnuť Horárne — 369 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 369 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

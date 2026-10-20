@@ -1,0 +1,1486 @@
+{
+  "id": "sk-kosice-okolie-obce",
+  "name": "Obce v okrese Košice-okolie",
+  "title": "Obce v okrese Košice-okolie",
+  "description": "Všetky obce (municipality) v okrese Košice-okolie, Košický kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 142,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 43,
+      "fullname": "Bačkovík",
+      "shortname": "Bačkovík",
+      "zip": "044 45",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 63,
+      "fullname": "Baňa Lucia",
+      "shortname": "Baňa Lucia",
+      "zip": "044 25",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 87,
+      "fullname": "Baška",
+      "shortname": "Baška",
+      "zip": "040 16",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 120,
+      "fullname": "Belža",
+      "shortname": "Belža",
+      "zip": "044 58",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 125,
+      "fullname": "Beniakovce",
+      "shortname": "Beniakovce",
+      "zip": "044 42",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 134,
+      "fullname": "Bernátovce",
+      "shortname": "Bernátovce",
+      "zip": "044 13",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 147,
+      "fullname": "Bidovce",
+      "shortname": "Bidovce",
+      "zip": "044 45",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 173,
+      "fullname": "Blažice",
+      "shortname": "Blažice",
+      "zip": "044 16",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 199,
+      "fullname": "Bohdanovce",
+      "shortname": "Bohdanovce",
+      "zip": "044 16",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 216,
+      "fullname": "Boliarov",
+      "shortname": "Boliarov",
+      "zip": "044 47",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 221,
+      "fullname": "Borda",
+      "shortname": "Borda",
+      "zip": "044 45",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 185,
+      "fullname": "Bočiar",
+      "shortname": "Bočiar",
+      "zip": "044 57",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 326,
+      "fullname": "Budimír",
+      "shortname": "Budimír",
+      "zip": "044 43",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 332,
+      "fullname": "Budulov",
+      "shortname": "Budulov",
+      "zip": "045 01",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 339,
+      "fullname": "Bukovec",
+      "shortname": "Bukovec",
+      "zip": "044 20",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 349,
+      "fullname": "Bunetice",
+      "shortname": "Bunetice",
+      "zip": "044 47",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 355,
+      "fullname": "Buzica",
+      "shortname": "Buzica",
+      "zip": "044 73",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 356,
+      "fullname": "Buzice",
+      "shortname": "Buzice",
+      "zip": "044 13",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 358,
+      "fullname": "Byster",
+      "shortname": "Byster",
+      "zip": "044 41",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 390,
+      "fullname": "Cestice",
+      "shortname": "Cestice",
+      "zip": "044 71",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1179,
+      "fullname": "Chorváty",
+      "shortname": "Chorváty",
+      "zip": "044 02",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1188,
+      "fullname": "Chrastné",
+      "shortname": "Chrastné",
+      "zip": "044 44",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1200,
+      "fullname": "Chym",
+      "shortname": "Chym",
+      "zip": "044 74",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 525,
+      "fullname": "Debraď",
+      "shortname": "Debraď",
+      "zip": "045 01",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 574,
+      "fullname": "Dobogov",
+      "shortname": "Dobogov",
+      "zip": "044 71",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 699,
+      "fullname": "Drienovec",
+      "shortname": "Drienovec",
+      "zip": "044 01",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 706,
+      "fullname": "Družstevná pri Hornáde",
+      "shortname": "Družstevná pri Horn.",
+      "zip": "044 31",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 768,
+      "fullname": "Dvorníky",
+      "shortname": "Dvorníky",
+      "zip": "044 02",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 771,
+      "fullname": "Dvorníky - Včeláre",
+      "shortname": "Dvorníky - Včeláre",
+      "zip": "044 02",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 820,
+      "fullname": "Geča",
+      "shortname": "Geča",
+      "zip": "044 10",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 819,
+      "fullname": "Geča č. 107-110",
+      "shortname": "Geča č. 107-110",
+      "zip": "044 14",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 845,
+      "fullname": "Gomboš",
+      "shortname": "Gomboš",
+      "zip": "044 55",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 850,
+      "fullname": "Grajciar",
+      "shortname": "Grajciar",
+      "zip": "044 57",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 860,
+      "fullname": "Gyňov",
+      "shortname": "Gyňov",
+      "zip": "044 14",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 890,
+      "fullname": "Haniska",
+      "shortname": "Haniska",
+      "zip": "044 57",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 863,
+      "fullname": "Hačava",
+      "shortname": "Hačava",
+      "zip": "044 02",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 920,
+      "fullname": "Herľany",
+      "shortname": "Herľany",
+      "zip": "044 45",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 950,
+      "fullname": "Hodkovce",
+      "shortname": "Hodkovce",
+      "zip": "044 21",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1062,
+      "fullname": "Hosťovce",
+      "shortname": "Hosťovce",
+      "zip": "044 02",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1097,
+      "fullname": "Hrašovík",
+      "shortname": "Hrašovík",
+      "zip": "044 42",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 871,
+      "fullname": "Háj",
+      "shortname": "Háj",
+      "zip": "044 02",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1160,
+      "fullname": "Hýľov",
+      "shortname": "Hýľov",
+      "zip": "044 12",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1271,
+      "fullname": "Janík",
+      "shortname": "Janík",
+      "zip": "044 05",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1304,
+      "fullname": "Jasov",
+      "shortname": "Jasov",
+      "zip": "044 23",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1364,
+      "fullname": "Kalša",
+      "shortname": "Kalša",
+      "zip": "044 18",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1408,
+      "fullname": "Kecerovce",
+      "shortname": "Kecerovce",
+      "zip": "044 47",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1409,
+      "fullname": "Kecerovské Kostoľany",
+      "shortname": "Kecerovské Kostoľany",
+      "zip": "044 47",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1410,
+      "fullname": "Kecerovské Pekľany",
+      "shortname": "Kecerovské Pekľany",
+      "zip": "044 47",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1411,
+      "fullname": "Kecerovský Lipovec",
+      "shortname": "Kecerovský Lipovec",
+      "zip": "044 47",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1415,
+      "fullname": "Kechnec",
+      "shortname": "Kechnec",
+      "zip": "044 58",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1486,
+      "fullname": "Kokšov - Bakša",
+      "shortname": "Kokšov - Bakša",
+      "zip": "044 13",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1508,
+      "fullname": "Komárovce",
+      "shortname": "Komárovce",
+      "zip": "044 55",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1545,
+      "fullname": "Kostoľany nad Hornádom",
+      "shortname": "Kostoľany n/Hornádom",
+      "zip": "044 31",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1589,
+      "fullname": "Košická Belá",
+      "shortname": "Košická Belá",
+      "zip": "044 65",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1590,
+      "fullname": "Košická Polianka",
+      "shortname": "Košická Polianka",
+      "zip": "044 41",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1591,
+      "fullname": "Košické Oľšany",
+      "shortname": "Košické Oľšany",
+      "zip": "044 42",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1592,
+      "fullname": "Košický Klečenov",
+      "shortname": "Košický Klečenov",
+      "zip": "044 45",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1595,
+      "fullname": "Košťany",
+      "shortname": "Košťany",
+      "zip": "044 13",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1637,
+      "fullname": "Kráľovce",
+      "shortname": "Kráľovce",
+      "zip": "044 44",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1754,
+      "fullname": "Kysak",
+      "shortname": "Kysak",
+      "zip": "044 81",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2025,
+      "fullname": "Malá Ida",
+      "shortname": "Malá Ida",
+      "zip": "044 20",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2029,
+      "fullname": "Malá Lodina",
+      "shortname": "Malá Lodina",
+      "zip": "044 32",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2039,
+      "fullname": "Malá Vieska",
+      "shortname": "Malá Vieska",
+      "zip": "044 31",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2154,
+      "fullname": "Medzev",
+      "shortname": "Medzev",
+      "zip": "044 25",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2193,
+      "fullname": "Milhosť",
+      "shortname": "Milhosť",
+      "zip": "044 58",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2245,
+      "fullname": "Mokrance",
+      "shortname": "Mokrance",
+      "zip": "045 01",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2248,
+      "fullname": "Moldava nad Bodvou",
+      "shortname": "Moldava nad Bodvou",
+      "zip": "045 01",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2271,
+      "fullname": "Mudrovce",
+      "shortname": "Mudrovce",
+      "zip": "044 47",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2348,
+      "fullname": "Nižná Hutka",
+      "shortname": "Nižná Hutka",
+      "zip": "040 18",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2352,
+      "fullname": "Nižná Kamenica",
+      "shortname": "Nižná Kamenica",
+      "zip": "044 45",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2354,
+      "fullname": "Nižná Myšľa",
+      "shortname": "Nižná Myšľa",
+      "zip": "044 15",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2380,
+      "fullname": "Nižný Klátov",
+      "shortname": "Nižný Klátov",
+      "zip": "044 12",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2383,
+      "fullname": "Nižný Lánec",
+      "shortname": "Nižný Lánec",
+      "zip": "044 73",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2384,
+      "fullname": "Nižný Medzev",
+      "shortname": "Nižný Medzev",
+      "zip": "044 25",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2376,
+      "fullname": "Nižný Čaj",
+      "shortname": "Nižný Čaj",
+      "zip": "044 16",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2411,
+      "fullname": "Nová Polhora",
+      "shortname": "Nová Polhora",
+      "zip": "044 44",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2423,
+      "fullname": "Nováčany",
+      "shortname": "Nováčany",
+      "zip": "044 21",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2442,
+      "fullname": "Nový Salaš",
+      "shortname": "Nový Salaš",
+      "zip": "044 17",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2452,
+      "fullname": "Obišovce",
+      "shortname": "Obišovce",
+      "zip": "044 81",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2486,
+      "fullname": "Olšovany",
+      "shortname": "Olšovany",
+      "zip": "044 19",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2509,
+      "fullname": "Opiná",
+      "shortname": "Opiná",
+      "zip": "044 47",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2498,
+      "fullname": "Opátka",
+      "shortname": "Opátka",
+      "zip": "044 65",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2533,
+      "fullname": "Ortáše",
+      "shortname": "Ortáše",
+      "zip": "044 44",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2575,
+      "fullname": "Paňovce",
+      "shortname": "Paňovce",
+      "zip": "044 71",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2614,
+      "fullname": "Peder",
+      "shortname": "Peder",
+      "zip": "044 05",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2616,
+      "fullname": "Perín",
+      "shortname": "Perín",
+      "zip": "044 74",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2617,
+      "fullname": "Perín - Chym",
+      "shortname": "Perín - Chym",
+      "zip": "044 74",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2672,
+      "fullname": "Ploské",
+      "shortname": "Ploské",
+      "zip": "044 44",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2764,
+      "fullname": "Poproč",
+      "shortname": "Poproč",
+      "zip": "044 24",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2923,
+      "fullname": "Rankovce",
+      "shortname": "Rankovce",
+      "zip": "044 45",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2961,
+      "fullname": "Rešica",
+      "shortname": "Rešica",
+      "zip": "044 73",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3008,
+      "fullname": "Rozhanovce",
+      "shortname": "Rozhanovce",
+      "zip": "044 42",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3029,
+      "fullname": "Rudník",
+      "shortname": "Rudník",
+      "zip": "044 23",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3045,
+      "fullname": "Ruskov",
+      "shortname": "Ruskov",
+      "zip": "044 19",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2907,
+      "fullname": "Rákoš",
+      "shortname": "Rákoš",
+      "zip": "044 16",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3071,
+      "fullname": "Sady nad Torysou",
+      "shortname": "Sady nad Torysou",
+      "zip": "044 41",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3105,
+      "fullname": "Seleška",
+      "shortname": "Seleška",
+      "zip": "044 71",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3110,
+      "fullname": "Seňa",
+      "shortname": "Seňa",
+      "zip": "044 58",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3145,
+      "fullname": "Skároš",
+      "shortname": "Skároš",
+      "zip": "044 11",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3159,
+      "fullname": "Slanec",
+      "shortname": "Slanec",
+      "zip": "044 17",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3162,
+      "fullname": "Slanská Huta",
+      "shortname": "Slanská Huta",
+      "zip": "044 17",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3163,
+      "fullname": "Slanské Nové Mesto",
+      "shortname": "Slanské Nové Mesto",
+      "zip": "044 18",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3158,
+      "fullname": "Slančík",
+      "shortname": "Slančík",
+      "zip": "044 17",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3220,
+      "fullname": "Sokoľ",
+      "shortname": "Sokoľ",
+      "zip": "044 31",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3221,
+      "fullname": "Sokoľany",
+      "shortname": "Sokoľany",
+      "zip": "044 57",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3367,
+      "fullname": "Svinica",
+      "shortname": "Svinica",
+      "zip": "044 45",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3525,
+      "fullname": "Tepličany",
+      "shortname": "Tepličany",
+      "zip": "044 31",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3577,
+      "fullname": "Trebejov",
+      "shortname": "Trebejov",
+      "zip": "044 81",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3616,
+      "fullname": "Trstené pri Hornáde",
+      "shortname": "Trstené pri Hornáde",
+      "zip": "044 11",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3611,
+      "fullname": "Trsťany",
+      "shortname": "Trsťany",
+      "zip": "044 45",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3649,
+      "fullname": "Turnianska Nová Ves",
+      "shortname": "Turnianska Nová Ves",
+      "zip": "044 02",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3648,
+      "fullname": "Turňa nad Bodvou",
+      "shortname": "Turňa nad Bodvou",
+      "zip": "044 02",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3702,
+      "fullname": "Vajkovce",
+      "shortname": "Vajkovce",
+      "zip": "044 43",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3704,
+      "fullname": "Valaliky",
+      "shortname": "Valaliky",
+      "zip": "044 13",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3753,
+      "fullname": "Veľká Ida",
+      "shortname": "Veľká Ida",
+      "zip": "044 55",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3757,
+      "fullname": "Veľká Lodina",
+      "shortname": "Veľká Lodina",
+      "zip": "044 81",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3954,
+      "fullname": "Vtáčkovce",
+      "shortname": "Vtáčkovce",
+      "zip": "044 47",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3982,
+      "fullname": "Vyšná Hutka",
+      "shortname": "Vyšná Hutka",
+      "zip": "040 18",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3986,
+      "fullname": "Vyšná Kamenica",
+      "shortname": "Vyšná Kamenica",
+      "zip": "044 45",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3988,
+      "fullname": "Vyšná Myšľa",
+      "shortname": "Vyšná Myšľa",
+      "zip": "044 15",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4016,
+      "fullname": "Vyšný Klátov",
+      "shortname": "Vyšný Klátov",
+      "zip": "044 12",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4021,
+      "fullname": "Vyšný Lánec",
+      "shortname": "Vyšný Lánec",
+      "zip": "044 74",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4022,
+      "fullname": "Vyšný Medzev",
+      "shortname": "Vyšný Medzev",
+      "zip": "044 25",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4011,
+      "fullname": "Vyšný Čaj",
+      "shortname": "Vyšný Čaj",
+      "zip": "044 16",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3730,
+      "fullname": "Včeláre",
+      "shortname": "Včeláre",
+      "zip": "044 02",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3953,
+      "fullname": "Všechsvätých",
+      "shortname": "Všechsvätých",
+      "zip": "044 13",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4102,
+      "fullname": "Zdoba",
+      "shortname": "Zdoba",
+      "zip": "044 41",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4131,
+      "fullname": "Zlatá Idka",
+      "shortname": "Zlatá Idka",
+      "zip": "044 61",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4037,
+      "fullname": "Zádiel",
+      "shortname": "Zádiel",
+      "zip": "044 02",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 413,
+      "fullname": "Čakanovce",
+      "shortname": "Čakanovce",
+      "zip": "044 45",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 419,
+      "fullname": "Čaňa",
+      "shortname": "Čaňa",
+      "zip": "044 14",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 433,
+      "fullname": "Čečejovce",
+      "shortname": "Čečejovce",
+      "zip": "044 71",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 509,
+      "fullname": "Čižatice",
+      "shortname": "Čižatice",
+      "zip": "044 47",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 759,
+      "fullname": "Ďurkov",
+      "shortname": "Ďurkov",
+      "zip": "044 19",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 757,
+      "fullname": "Ďurďošík",
+      "shortname": "Ďurďošík",
+      "zip": "044 45",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1962,
+      "fullname": "Ľudvikov dvor",
+      "shortname": "Ľudvikov dvor",
+      "zip": "040 15",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3417,
+      "fullname": "Šemša",
+      "shortname": "Šemša",
+      "zip": "044 21",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3467,
+      "fullname": "Štós",
+      "shortname": "Štós",
+      "zip": "044 26",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3468,
+      "fullname": "Štós - kúpele",
+      "shortname": "Štós - kúpele",
+      "zip": "044 26",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4166,
+      "fullname": "Žarnov",
+      "shortname": "Žarnov",
+      "zip": "044 02",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4172,
+      "fullname": "Ždaňa",
+      "shortname": "Ždaňa",
+      "zip": "044 11",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 4199,
+      "fullname": "Žírovce",
+      "shortname": "Žírovce",
+      "zip": "044 45",
+      "district_id": 27,
+      "okres": "Košice-okolie",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Košice-okolie - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Košice-okolie, Košický kraj — s PSČ a kódom okresu. Obsahuje 142 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Košice-okolie | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Košice-okolie — 142 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 142 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

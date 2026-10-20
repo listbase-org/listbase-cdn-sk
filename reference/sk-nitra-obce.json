@@ -1,0 +1,1046 @@
+{
+  "id": "sk-nitra-obce",
+  "name": "Obce v okrese Nitra",
+  "title": "Obce v okrese Nitra",
+  "description": "Všetky obce (municipality) v okrese Nitra, Nitriansky kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 98,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 11,
+      "fullname": "Alekšince",
+      "shortname": "Alekšince",
+      "zip": "951 22",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 12,
+      "fullname": "Alexandrov Dvor",
+      "shortname": "Alexandrov Dvor",
+      "zip": "951 34",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 17,
+      "fullname": "Andač",
+      "shortname": "Andač",
+      "zip": "951 42",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 32,
+      "fullname": "Babindol",
+      "shortname": "Babindol",
+      "zip": "951 53",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 40,
+      "fullname": "Bačala",
+      "shortname": "Bačala",
+      "zip": "951 15",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 240,
+      "fullname": "Branč",
+      "shortname": "Branč",
+      "zip": "951 13",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 27,
+      "fullname": "Báb",
+      "shortname": "Báb",
+      "zip": "951 34",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 46,
+      "fullname": "Bádice",
+      "shortname": "Bádice",
+      "zip": "951 46",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 378,
+      "fullname": "Cabaj",
+      "shortname": "Cabaj",
+      "zip": "951 17",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 379,
+      "fullname": "Cabaj - Čápor",
+      "shortname": "Cabaj - Čápor",
+      "zip": "951 17",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 388,
+      "fullname": "Ceroviny",
+      "shortname": "Ceroviny",
+      "zip": "951 24",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1190,
+      "fullname": "Chrenová",
+      "shortname": "Chrenová",
+      "zip": "949 01",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 629,
+      "fullname": "Dolné Krškany",
+      "shortname": "Dolné Krškany",
+      "zip": "949 05",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 630,
+      "fullname": "Dolné Lefantovce",
+      "shortname": "Dolné Lefantovce",
+      "zip": "951 45",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 636,
+      "fullname": "Dolné Obdokovce",
+      "shortname": "Dolné Obdokovce",
+      "zip": "951 02",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 676,
+      "fullname": "Dolný Vinodol",
+      "shortname": "Dolný Vinodol",
+      "zip": "951 06",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 693,
+      "fullname": "Dražovce",
+      "shortname": "Dražovce",
+      "zip": "949 01",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 774,
+      "fullname": "Dyčka",
+      "shortname": "Dyčka",
+      "zip": "952 01",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 844,
+      "fullname": "Golianovo",
+      "shortname": "Golianovo",
+      "zip": "951 08",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 961,
+      "fullname": "Holotka",
+      "shortname": "Holotka",
+      "zip": "951 42",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1007,
+      "fullname": "Horné Krškany",
+      "shortname": "Horné Krškany",
+      "zip": "949 05",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1008,
+      "fullname": "Horné Lefantovce",
+      "shortname": "Horné Lefantovce",
+      "zip": "951 45",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1046,
+      "fullname": "Horný Ohaj",
+      "shortname": "Horný Ohaj",
+      "zip": "952 01",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1053,
+      "fullname": "Horný Vinodol",
+      "shortname": "Horný Vinodol",
+      "zip": "951 06",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1061,
+      "fullname": "Hosťová",
+      "shortname": "Hosťová",
+      "zip": "951 02",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1125,
+      "fullname": "Hruboňovo",
+      "shortname": "Hruboňovo",
+      "zip": "951 25",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1232,
+      "fullname": "Ivanka pri Nitre",
+      "shortname": "Ivanka pri Nitre",
+      "zip": "951 12",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1272,
+      "fullname": "Janíkovce",
+      "shortname": "Janíkovce",
+      "zip": "949 07",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1289,
+      "fullname": "Jarok",
+      "shortname": "Jarok",
+      "zip": "951 48",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1322,
+      "fullname": "Jelenec",
+      "shortname": "Jelenec",
+      "zip": "951 73",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1326,
+      "fullname": "Jelšovce",
+      "shortname": "Jelšovce",
+      "zip": "951 43",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1386,
+      "fullname": "Kapince",
+      "shortname": "Kapince",
+      "zip": "951 24",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1435,
+      "fullname": "Klasov",
+      "shortname": "Klasov",
+      "zip": "951 53",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1454,
+      "fullname": "Klokočina",
+      "shortname": "Klokočina",
+      "zip": "949 11",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1495,
+      "fullname": "Kolíňany",
+      "shortname": "Kolíňany",
+      "zip": "951 78",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1753,
+      "fullname": "Kynek",
+      "shortname": "Kynek",
+      "zip": "949 01",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1799,
+      "fullname": "Lefantovce",
+      "shortname": "Lefantovce",
+      "zip": "951 45",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1802,
+      "fullname": "Lehota",
+      "shortname": "Lehota",
+      "zip": "951 36",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1967,
+      "fullname": "Lukáčovce",
+      "shortname": "Lukáčovce",
+      "zip": "951 23",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1986,
+      "fullname": "Lužianky",
+      "shortname": "Lužianky",
+      "zip": "951 41",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1958,
+      "fullname": "Lúčnica nad Žitavou",
+      "shortname": "Lúčnica nad Žitavou",
+      "zip": "951 88",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2056,
+      "fullname": "Malé Chyndice",
+      "shortname": "Malé Chyndice",
+      "zip": "951 54",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2077,
+      "fullname": "Malé Zálužie",
+      "shortname": "Malé Zálužie",
+      "zip": "951 24",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2085,
+      "fullname": "Malý Báb",
+      "shortname": "Malý Báb",
+      "zip": "951 34",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2088,
+      "fullname": "Malý Cetín",
+      "shortname": "Malý Cetín",
+      "zip": "951 07",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2096,
+      "fullname": "Malý Lapáš",
+      "shortname": "Malý Lapáš",
+      "zip": "951 04",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2123,
+      "fullname": "Martinová",
+      "shortname": "Martinová",
+      "zip": "951 88",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2161,
+      "fullname": "Mechenice",
+      "shortname": "Mechenice",
+      "zip": "951 46",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2163,
+      "fullname": "Melek",
+      "shortname": "Melek",
+      "zip": "952 01",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2210,
+      "fullname": "Mlynárce",
+      "shortname": "Mlynárce",
+      "zip": "949 01",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2238,
+      "fullname": "Mojmírovce",
+      "shortname": "Mojmírovce",
+      "zip": "951 15",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2333,
+      "fullname": "Nitra",
+      "shortname": "Nitra",
+      "zip": 0,
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2334,
+      "fullname": "Nitra - Staré Mesto",
+      "shortname": "Nitra - Staré Mesto",
+      "zip": "949 01",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2338,
+      "fullname": "Nitrianske Hrnčiarovce",
+      "shortname": "Nitrian.Hrnčiarovce",
+      "zip": "951 01",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2419,
+      "fullname": "Nová Ves nad Žitavou",
+      "shortname": "Nová Ves nad Žitavou",
+      "zip": "951 51",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2430,
+      "fullname": "Nové Sady",
+      "shortname": "Nové Sady",
+      "zip": "951 24",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2503,
+      "fullname": "Opatovce - Výčapy",
+      "shortname": "Opatovce - Výčapy",
+      "zip": "951 44",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2573,
+      "fullname": "Paňa",
+      "shortname": "Paňa",
+      "zip": "951 05",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2618,
+      "fullname": "Perkovce",
+      "shortname": "Perkovce",
+      "zip": "951 26",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2691,
+      "fullname": "Podhorany",
+      "shortname": "Podhorany",
+      "zip": "951 46",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2733,
+      "fullname": "Pohranice",
+      "shortname": "Pohranice",
+      "zip": "951 02",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2750,
+      "fullname": "Poľný Kesov",
+      "shortname": "Poľný Kesov",
+      "zip": "951 15",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2583,
+      "fullname": "Párovské Háje",
+      "shortname": "Párovské Háje",
+      "zip": "949 01",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2984,
+      "fullname": "Rišňovce",
+      "shortname": "Rišňovce",
+      "zip": "951 21",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3033,
+      "fullname": "Rumanová",
+      "shortname": "Rumanová",
+      "zip": "951 37",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3128,
+      "fullname": "Sila",
+      "shortname": "Sila",
+      "zip": "951 24",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3224,
+      "fullname": "Sokolníky",
+      "shortname": "Sokolníky",
+      "zip": "951 46",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3341,
+      "fullname": "Suľany",
+      "shortname": "Suľany",
+      "zip": "951 25",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3350,
+      "fullname": "Svätoplukovo",
+      "shortname": "Svätoplukovo",
+      "zip": "951 16",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3498,
+      "fullname": "Tajná",
+      "shortname": "Tajná",
+      "zip": "952 01",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3522,
+      "fullname": "Telince",
+      "shortname": "Telince",
+      "zip": "951 61",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3701,
+      "fullname": "Vajka nad Žitavou",
+      "shortname": "Vajka nad Žitavou",
+      "zip": "951 88",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3748,
+      "fullname": "Veľká Dolina",
+      "shortname": "Veľká Dolina",
+      "zip": "951 15",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3767,
+      "fullname": "Veľká Ves",
+      "shortname": "Veľká Ves",
+      "zip": "951 13",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3782,
+      "fullname": "Veľké Chyndice",
+      "shortname": "Veľké Chyndice",
+      "zip": "951 54",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3811,
+      "fullname": "Veľké Zálužie",
+      "shortname": "Veľké Zálužie",
+      "zip": "951 35",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3814,
+      "fullname": "Veľký Báb",
+      "shortname": "Veľký Báb",
+      "zip": "951 34",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3818,
+      "fullname": "Veľký Cetín",
+      "shortname": "Veľký Cetín",
+      "zip": "951 05",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3831,
+      "fullname": "Veľký Lapáš",
+      "shortname": "Veľký Lapáš",
+      "zip": "951 04",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3870,
+      "fullname": "Vinodol",
+      "shortname": "Vinodol",
+      "zip": "951 06",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3928,
+      "fullname": "Vráble",
+      "shortname": "Vráble",
+      "zip": "952 01",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3957,
+      "fullname": "Výčapky",
+      "shortname": "Výčapky",
+      "zip": "951 25",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3958,
+      "fullname": "Výčapy - Opatovce",
+      "shortname": "Výčapy - Opatovce",
+      "zip": "951 44",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 4091,
+      "fullname": "Zbehy",
+      "shortname": "Zbehy",
+      "zip": "951 42",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 4144,
+      "fullname": "Zobor",
+      "shortname": "Zobor",
+      "zip": "949 01",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 399,
+      "fullname": "Čab",
+      "shortname": "Čab",
+      "zip": "951 24",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 412,
+      "fullname": "Čakajovce",
+      "shortname": "Čakajovce",
+      "zip": "951 43",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 438,
+      "fullname": "Čechynce",
+      "shortname": "Čechynce",
+      "zip": "951 07",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 457,
+      "fullname": "Čermáň",
+      "shortname": "Čermáň",
+      "zip": "949 01",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 440,
+      "fullname": "Čeľadice",
+      "shortname": "Čeľadice",
+      "zip": "951 03",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 501,
+      "fullname": "Čifáre",
+      "shortname": "Čifáre",
+      "zip": "951 61",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 421,
+      "fullname": "Čápor",
+      "shortname": "Čápor",
+      "zip": "951 17",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1961,
+      "fullname": "Ľudovítová",
+      "shortname": "Ľudovítová",
+      "zip": "951 44",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3454,
+      "fullname": "Štefanovičová",
+      "shortname": "Štefanovičová",
+      "zip": "951 15",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3464,
+      "fullname": "Štitáre",
+      "shortname": "Štitáre",
+      "zip": "951 01",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3486,
+      "fullname": "Šurianky",
+      "shortname": "Šurianky",
+      "zip": "951 26",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 4198,
+      "fullname": "Žirany",
+      "shortname": "Žirany",
+      "zip": "951 74",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 4202,
+      "fullname": "Žitavce",
+      "shortname": "Žitavce",
+      "zip": "952 01",
+      "district_id": 40,
+      "okres": "Nitra",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Nitra - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Nitra, Nitriansky kraj — s PSČ a kódom okresu. Obsahuje 98 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Nitra | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Nitra — 98 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 98 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

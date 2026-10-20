@@ -1,0 +1,96 @@
+{
+  "id": "sk-bratislava-ii-obce",
+  "name": "Obce v okrese Bratislava II",
+  "title": "Obce v okrese Bratislava II",
+  "description": "Všetky obce (municipality) v okrese Bratislava II, Bratislavský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 252,
+      "fullname": "Bratislava - Podunajské Biskupice",
+      "shortname": "Podunajské Biskupice",
+      "zip": "821 06",
+      "district_id": 6,
+      "okres": "Bratislava II",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 255,
+      "fullname": "Bratislava - Ružinov",
+      "shortname": "Ružinov",
+      "zip": 0,
+      "district_id": 6,
+      "okres": "Bratislava II",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 258,
+      "fullname": "Bratislava - Vrakuňa",
+      "shortname": "Vrakuňa",
+      "zip": "821 07",
+      "district_id": 6,
+      "okres": "Bratislava II",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Bratislava II - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Bratislava II, Bratislavský kraj — s PSČ a kódom okresu. Obsahuje 3 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Bratislava II | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Bratislava II — 3 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 3 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

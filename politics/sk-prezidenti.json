@@ -1,0 +1,240 @@
+{
+  "id": "sk-prezidenti",
+  "name": "Prezidenti Slovenska / Presidents of Slovakia",
+  "title": "Prezidenti Slovenska / Presidents of Slovakia",
+  "description": "Distinct individuals who have held the office of President of Slovakia (wikidata Q6468838), covering the First Slovak Republic (1939–1945) and the modern Slovak Republic (1993–present). Each record is a single person with all known presidential terms, party affiliations (P102), birthplace (P19), and Wikipedia/Wikidata cross-references.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "wikidata_qid",
+      "label": "Wikidata Qid",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    },
+    {
+      "key": "name_sk",
+      "label": "Name Sk",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "birth_date",
+      "label": "Birth Date",
+      "type": "date"
+    },
+    {
+      "key": "death_date",
+      "label": "Death Date",
+      "type": "date"
+    },
+    {
+      "key": "birth_place",
+      "label": "Birth Place",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_sk_url",
+      "label": "Wikipedia Sk Url",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_en_url",
+      "label": "Wikipedia En Url",
+      "type": "string"
+    },
+    {
+      "key": "parties",
+      "label": "Parties",
+      "type": "string"
+    },
+    {
+      "key": "terms",
+      "label": "Terms",
+      "type": "string"
+    },
+    {
+      "key": "order_overall",
+      "label": "Order Overall",
+      "type": "number"
+    },
+    {
+      "key": "order_first_republic",
+      "label": "Order First Republic",
+      "type": "number"
+    },
+    {
+      "key": "order_modern_republic",
+      "label": "Order Modern Republic",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "wikidata_qid": "Q154346",
+      "wikidata_url": "http://www.wikidata.org/entity/Q154346",
+      "name_sk": "Jozef Tiso",
+      "name_en": "Jozef Tiso",
+      "birth_date": "1887-10-13",
+      "death_date": "1947-04-18",
+      "birth_place": "Q27907: Bytča: Bytča",
+      "wikipedia_sk_url": "https://sk.wikipedia.org/wiki/Jozef_Tiso",
+      "wikipedia_en_url": "https://en.wikipedia.org/wiki/Jozef_Tiso",
+      "parties": "Q693985: Hlinkova slovenská ľudová strana: Slovak People's Party",
+      "terms": "Q6468838: prezident Slovenskej republiky: President of Slovakia: Prvá Slovenská republika (1939–1945): First Slovak Republic (1939–1945): 1939-10-26: 1945-04-03",
+      "order_overall": 1,
+      "order_first_republic": 1,
+      "order_modern_republic": ""
+    },
+    {
+      "wikidata_qid": "Q356990",
+      "wikidata_url": "http://www.wikidata.org/entity/Q356990",
+      "name_sk": "Michal Kováč",
+      "name_en": "Michal Kováč",
+      "birth_date": "1930-08-03",
+      "death_date": "2016-10-05",
+      "birth_place": "Q1780: Bratislava: Bratislava, Q344682: Ľubiša: Ľubiša",
+      "wikipedia_sk_url": "https://sk.wikipedia.org/wiki/Michal_Kov%C3%A1%C4%8D",
+      "wikipedia_en_url": "https://en.wikipedia.org/wiki/Michal_Kov%C3%A1%C4%8D",
+      "parties": "Q828392: Ľudová strana – Hnutie za demokratické Slovensko: People's Party – Movement for a Democratic Slovakia, Q727724: Komunistická strana Česko-Slovenska: Communist Party of Czechoslovakia",
+      "terms": "Q6468838: prezident Slovenskej republiky: President of Slovakia: Slovenská republika (1993–dodnes): Slovak Republic (1993–present): 1993-03-02: 1998-03-02",
+      "order_overall": 2,
+      "order_first_republic": "",
+      "order_modern_republic": 1
+    },
+    {
+      "wikidata_qid": "Q316526",
+      "wikidata_url": "http://www.wikidata.org/entity/Q316526",
+      "name_sk": "Vladimír Mečiar",
+      "name_en": "Vladimír Mečiar",
+      "birth_date": "1942-07-26",
+      "death_date": "",
+      "birth_place": "Q11874: Zvolen: Zvolen",
+      "wikipedia_sk_url": "https://sk.wikipedia.org/wiki/Vladim%C3%ADr_Me%C4%8Diar",
+      "wikipedia_en_url": "https://en.wikipedia.org/wiki/Vladim%C3%ADr_Me%C4%8Diar",
+      "parties": "Q828392: Ľudová strana – Hnutie za demokratické Slovensko: People's Party – Movement for a Democratic Slovakia, Q727724: Komunistická strana Česko-Slovenska: Communist Party of Czechoslovakia",
+      "terms": "Q6468838: prezident Slovenskej republiky: President of Slovakia: Slovenská republika (1993–dodnes): Slovak Republic (1993–present): 1998-03-02: 1998-10-30: true",
+      "order_overall": 3,
+      "order_first_republic": "",
+      "order_modern_republic": 2
+    },
+    {
+      "wikidata_qid": "Q212765",
+      "wikidata_url": "http://www.wikidata.org/entity/Q212765",
+      "name_sk": "Mikuláš Dzurinda",
+      "name_en": "Mikuláš Dzurinda",
+      "birth_date": "1955-02-04",
+      "death_date": "",
+      "birth_place": "Q876522: Spišský Štvrtok: Spišský Štvrtok",
+      "wikipedia_sk_url": "https://sk.wikipedia.org/wiki/Mikul%C3%A1%C5%A1_Dzurinda",
+      "wikipedia_en_url": "https://en.wikipedia.org/wiki/Mikul%C3%A1%C5%A1_Dzurinda",
+      "parties": "Q904070: Kresťanskodemokratické hnutie: Christian Democratic Movement, Q1611985: Slovenská demokratická koalícia: Slovak Democratic Coalition, Q837296: Slovenská demokratická a kresťanská únia – Demokratická strana: Slovak Democratic and Christian Union – Democratic Party",
+      "terms": "Q6468838: prezident Slovenskej republiky: President of Slovakia: Slovenská republika (1993–dodnes): Slovak Republic (1993–present): 1998-10-30: 1999-06-15: true",
+      "order_overall": 4,
+      "order_first_republic": "",
+      "order_modern_republic": 3
+    },
+    {
+      "wikidata_qid": "Q163813",
+      "wikidata_url": "http://www.wikidata.org/entity/Q163813",
+      "name_sk": "Rudolf Schuster",
+      "name_en": "Rudolf Schuster",
+      "birth_date": "1934-01-04",
+      "death_date": "",
+      "birth_place": "Q25409: Košice: Košice",
+      "wikipedia_sk_url": "https://sk.wikipedia.org/wiki/Rudolf_Schuster",
+      "wikipedia_en_url": "https://en.wikipedia.org/wiki/Rudolf_Schuster",
+      "parties": "Q1781065: Komunistická strana Slovenska: Communist party of Slovakia, Q3498258: Strana občianskeho porozumenia: Party of Civic Understanding",
+      "terms": "Q6468838: prezident Slovenskej republiky: President of Slovakia: Slovenská republika (1993–dodnes): Slovak Republic (1993–present): 1999-06-15: 2004-06-15",
+      "order_overall": 5,
+      "order_first_republic": "",
+      "order_modern_republic": 4
+    },
+    {
+      "wikidata_qid": "Q57295",
+      "wikidata_url": "http://www.wikidata.org/entity/Q57295",
+      "name_sk": "Ivan Gašparovič",
+      "name_en": "Ivan Gašparovič",
+      "birth_date": "1941-03-27",
+      "death_date": "",
+      "birth_place": "Q259694: Poltár: Poltár",
+      "wikipedia_sk_url": "https://sk.wikipedia.org/wiki/Ivan_Ga%C5%A1parovi%C4%8D",
+      "wikipedia_en_url": "https://en.wikipedia.org/wiki/Ivan_Ga%C5%A1parovi%C4%8D",
+      "parties": "Q727724: Komunistická strana Česko-Slovenska: Communist Party of Czechoslovakia, Q1519778: Republika: Republic",
+      "terms": "Q6468838: prezident Slovenskej republiky: President of Slovakia: Slovenská republika (1993–dodnes): Slovak Republic (1993–present): 2004-06-15: 2014-06-15",
+      "order_overall": 6,
+      "order_first_republic": "",
+      "order_modern_republic": 5
+    },
+    {
+      "wikidata_qid": "Q12762303",
+      "wikidata_url": "http://www.wikidata.org/entity/Q12762303",
+      "name_sk": "Andrej Kiska",
+      "name_en": "Andrej Kiska",
+      "birth_date": "1963-02-02",
+      "death_date": "",
+      "birth_place": "Q26393: Poprad: Poprad",
+      "wikipedia_sk_url": "https://sk.wikipedia.org/wiki/Andrej_Kiska",
+      "wikipedia_en_url": "https://en.wikipedia.org/wiki/Andrej_Kiska",
+      "parties": "Q64729826: Za ľudí: For the People",
+      "terms": "Q6468838: prezident Slovenskej republiky: President of Slovakia: Slovenská republika (1993–dodnes): Slovak Republic (1993–present): 2014-06-15: 2019-06-15",
+      "order_overall": 7,
+      "order_first_republic": "",
+      "order_modern_republic": 6
+    },
+    {
+      "wikidata_qid": "Q26273268",
+      "wikidata_url": "http://www.wikidata.org/entity/Q26273268",
+      "name_sk": "Zuzana Čaputová",
+      "name_en": "Zuzana Čaputová",
+      "birth_date": "1973-06-21",
+      "death_date": "",
+      "birth_place": "Q1780: Bratislava: Bratislava",
+      "wikipedia_sk_url": "https://sk.wikipedia.org/wiki/Zuzana_%C4%8Caputov%C3%A1",
+      "wikipedia_en_url": "https://en.wikipedia.org/wiki/Zuzana_%C4%8Caputov%C3%A1",
+      "parties": "Q48844389: Progresívne Slovensko: Progressive Slovakia",
+      "terms": "Q6468838: prezident Slovenskej republiky: President of Slovakia: Slovenská republika (1993–dodnes): Slovak Republic (1993–present): 2019-06-15: 2024-06-15",
+      "order_overall": 8,
+      "order_first_republic": "",
+      "order_modern_republic": 7
+    },
+    {
+      "wikidata_qid": "Q17330556",
+      "wikidata_url": "http://www.wikidata.org/entity/Q17330556",
+      "name_sk": "Peter Pellegrini",
+      "name_en": "Peter Pellegrini",
+      "birth_date": "1975-10-06",
+      "death_date": "",
+      "birth_place": "Q144983: Banská Bystrica: Banská Bystrica",
+      "wikipedia_sk_url": "https://sk.wikipedia.org/wiki/Peter_Pellegrini",
+      "wikipedia_en_url": "https://en.wikipedia.org/wiki/Peter_Pellegrini",
+      "parties": "Q821929: SMER – sociálna demokracia: Direction – Social Democracy, Q96754424: HLAS – sociálna demokracia: Voice – Social Democracy",
+      "terms": "Q6468838: prezident Slovenskej republiky: President of Slovakia: Slovenská republika (1993–dodnes): Slovak Republic (1993–present): 2024-06-15",
+      "order_overall": 9,
+      "order_first_republic": "",
+      "order_modern_republic": 8
+    }
+  ],
+  "meta": {
+    "title": "Prezidenti Slovenska / Presidents of Slovakia - Bezplatné stiahnutie",
+    "description": "Distinct individuals who have held the office of President of Slovakia (wikidata Q6468838), covering the First Slovak Republic (1939–1945) and the modern Slovak Republic (1993–present). Each record is a single person with all known presidential terms, party affiliations (P102), birthplace (P19), and Wikipedia/Wikidata cross-references. Obsahuje 9 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Prezidenti Slovenska / Presidents of Slovakia | ListBase",
+    "seo_description": "Stiahnuť Prezidenti Slovenska / Presidents of Slovakia — 9 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 9 záznamov / 14 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

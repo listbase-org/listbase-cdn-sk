@@ -1,0 +1,911 @@
+{
+  "id": "sk-predajne-farieb",
+  "name": "Slovenské predajne farieb",
+  "title": "Slovenské predajne farieb",
+  "description": "Zoznam pomenovaných predajní farieb na Slovensku (shop=paint) z OpenStreetMap.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 174,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Adler",
+      "latitude": 48.763941,
+      "longitude": 18.622344
+    },
+    {
+      "name": "Autokarlak",
+      "latitude": 48.656459,
+      "longitude": 20.532462
+    },
+    {
+      "name": "Autolak - miešanie",
+      "latitude": 48.817346,
+      "longitude": 17.155799
+    },
+    {
+      "name": "Autolaky1",
+      "latitude": 48.214657,
+      "longitude": 18.610861
+    },
+    {
+      "name": "Bal Slovakia",
+      "latitude": 49.024016,
+      "longitude": 20.590036
+    },
+    {
+      "name": "Barvy a laky Kollmann",
+      "latitude": 48.801721,
+      "longitude": 19.644723
+    },
+    {
+      "name": "Bau - Color s.r.o.",
+      "latitude": 48.54067,
+      "longitude": 19.405977
+    },
+    {
+      "name": "BC Štúdio",
+      "latitude": 48.762307,
+      "longitude": 18.6172
+    },
+    {
+      "name": "BLISS farby",
+      "latitude": 48.697348,
+      "longitude": 21.267133
+    },
+    {
+      "name": "Brojmat",
+      "latitude": 48.383341,
+      "longitude": 18.390397
+    },
+    {
+      "name": "Chemolak",
+      "latitude": 48.187511,
+      "longitude": 17.164545
+    },
+    {
+      "name": "Chemolak",
+      "latitude": 48.749625,
+      "longitude": 21.906491
+    },
+    {
+      "name": "Chemolak",
+      "latitude": 48.777248,
+      "longitude": 18.608908
+    },
+    {
+      "name": "Chemolak",
+      "latitude": 49.000555,
+      "longitude": 21.236465
+    },
+    {
+      "name": "Chemospol",
+      "latitude": 47.994959,
+      "longitude": 17.619628
+    },
+    {
+      "name": "Color Top",
+      "latitude": 49.409167,
+      "longitude": 19.481351
+    },
+    {
+      "name": "Color-mix",
+      "latitude": 49.019184,
+      "longitude": 20.584948
+    },
+    {
+      "name": "ColoreX plus",
+      "latitude": 48.629517,
+      "longitude": 18.380244
+    },
+    {
+      "name": "COLORLAK",
+      "latitude": 48.002529,
+      "longitude": 18.167986
+    },
+    {
+      "name": "Colorlak",
+      "latitude": 48.781571,
+      "longitude": 18.627234
+    },
+    {
+      "name": "colorlak",
+      "latitude": 48.949614,
+      "longitude": 20.550764
+    },
+    {
+      "name": "ColorLak",
+      "latitude": 49.024593,
+      "longitude": 20.588382
+    },
+    {
+      "name": "Colorlak",
+      "latitude": 49.059942,
+      "longitude": 20.292875
+    },
+    {
+      "name": "Colormika",
+      "latitude": 48.086761,
+      "longitude": 18.184795
+    },
+    {
+      "name": "Colormika Farby-Laky-Stavebniny",
+      "latitude": 47.885557,
+      "longitude": 18.198073
+    },
+    {
+      "name": "Danex",
+      "latitude": 48.610322,
+      "longitude": 21.001753
+    },
+    {
+      "name": "Dom farieb",
+      "latitude": 48.076699,
+      "longitude": 17.269018
+    },
+    {
+      "name": "Dom farieb",
+      "latitude": 48.112433,
+      "longitude": 17.101541
+    },
+    {
+      "name": "Dom Farieb",
+      "latitude": 48.161513,
+      "longitude": 17.886364
+    },
+    {
+      "name": "dom farieb",
+      "latitude": 48.169785,
+      "longitude": 17.155032
+    },
+    {
+      "name": "dom farieb",
+      "latitude": 48.189329,
+      "longitude": 17.252797
+    },
+    {
+      "name": "Dom farieb",
+      "latitude": 48.21833,
+      "longitude": 18.61777
+    },
+    {
+      "name": "Dom Farieb",
+      "latitude": 48.331712,
+      "longitude": 19.647404
+    },
+    {
+      "name": "Dom farieb",
+      "latitude": 48.722828,
+      "longitude": 21.230884
+    },
+    {
+      "name": "Dom farieb",
+      "latitude": 48.741109,
+      "longitude": 18.763437
+    },
+    {
+      "name": "Dom farieb",
+      "latitude": 48.750961,
+      "longitude": 21.90826
+    },
+    {
+      "name": "Dom farieb",
+      "latitude": 48.872226,
+      "longitude": 18.034929
+    },
+    {
+      "name": "Dom farieb",
+      "latitude": 48.878507,
+      "longitude": 18.020898
+    },
+    {
+      "name": "Dom Farieb",
+      "latitude": 48.964737,
+      "longitude": 21.257324
+    },
+    {
+      "name": "Dom farieb",
+      "latitude": 49.009068,
+      "longitude": 21.221583
+    },
+    {
+      "name": "Dom farieb & hobby centrum",
+      "latitude": 48.178962,
+      "longitude": 17.05267
+    },
+    {
+      "name": "Dom farieb & hobby centrum",
+      "latitude": 48.182423,
+      "longitude": 17.129629
+    },
+    {
+      "name": "Dom farieb partner",
+      "latitude": 48.256057,
+      "longitude": 17.271634
+    },
+    {
+      "name": "Drogeria-Farby-Laky",
+      "latitude": 48.725617,
+      "longitude": 18.758759
+    },
+    {
+      "name": "Drogéria Farby",
+      "latitude": 48.765322,
+      "longitude": 17.834173
+    },
+    {
+      "name": "Drogéria Tomanec",
+      "latitude": 48.755612,
+      "longitude": 17.836691
+    },
+    {
+      "name": "Dulux Let´s Colour",
+      "latitude": 49.001391,
+      "longitude": 21.227641
+    },
+    {
+      "name": "eFarby.sk",
+      "latitude": 49.203266,
+      "longitude": 18.728343
+    },
+    {
+      "name": "Ekolor / Revco",
+      "latitude": 48.682249,
+      "longitude": 21.268605
+    },
+    {
+      "name": "Emaila",
+      "latitude": 48.757796,
+      "longitude": 17.836945
+    },
+    {
+      "name": "Fa - La - Dro",
+      "latitude": 48.258182,
+      "longitude": 17.029697
+    },
+    {
+      "name": "Falatrade",
+      "latitude": 48.765291,
+      "longitude": 18.6222
+    },
+    {
+      "name": "Falprit",
+      "latitude": 48.764194,
+      "longitude": 18.626006
+    },
+    {
+      "name": "Farbena",
+      "latitude": 48.591754,
+      "longitude": 17.813864
+    },
+    {
+      "name": "Farbest",
+      "latitude": 48.757984,
+      "longitude": 17.836169
+    },
+    {
+      "name": "Farby",
+      "latitude": 48.772687,
+      "longitude": 17.279575
+    },
+    {
+      "name": "Farby",
+      "latitude": 49.035886,
+      "longitude": 19.720007
+    },
+    {
+      "name": "Farby - Laky",
+      "latitude": 48.637309,
+      "longitude": 17.153702
+    },
+    {
+      "name": "Farby - laky",
+      "latitude": 48.773121,
+      "longitude": 18.623492
+    },
+    {
+      "name": "Farby - Laky",
+      "latitude": 48.846509,
+      "longitude": 17.224401
+    },
+    {
+      "name": "Farby - Laky",
+      "latitude": 48.847199,
+      "longitude": 17.222075
+    },
+    {
+      "name": "Farby - Laky",
+      "latitude": 48.918186,
+      "longitude": 20.874911
+    },
+    {
+      "name": "FARBY - LAKY",
+      "latitude": 48.955954,
+      "longitude": 18.164846
+    },
+    {
+      "name": "Farby - Laky",
+      "latitude": 49.405509,
+      "longitude": 19.479899
+    },
+    {
+      "name": "Farby - Laky Drogéria",
+      "latitude": 49.271131,
+      "longitude": 21.903641
+    },
+    {
+      "name": "Farby - Laky Peter Gurský",
+      "latitude": 49.291681,
+      "longitude": 21.27528
+    },
+    {
+      "name": "Farby a laky",
+      "latitude": 47.993559,
+      "longitude": 18.266964
+    },
+    {
+      "name": "FARBY a LAKY u Mikocziho",
+      "latitude": 48.187176,
+      "longitude": 17.713751
+    },
+    {
+      "name": "Farby Laky",
+      "latitude": 48.339151,
+      "longitude": 19.677472
+    },
+    {
+      "name": "Farby laky",
+      "latitude": 49.104103,
+      "longitude": 21.091338
+    },
+    {
+      "name": "Farby Laky",
+      "latitude": 49.138249,
+      "longitude": 20.432699
+    },
+    {
+      "name": "Farby Laky",
+      "latitude": 49.212989,
+      "longitude": 18.74959
+    },
+    {
+      "name": "Farby Laky",
+      "latitude": 49.43772,
+      "longitude": 18.784826
+    },
+    {
+      "name": "Farby Laky",
+      "latitude": 49.439405,
+      "longitude": 18.789584
+    },
+    {
+      "name": "Farby Laky BONA",
+      "latitude": 49.303766,
+      "longitude": 18.779659
+    },
+    {
+      "name": "Farby Laky Kušnír",
+      "latitude": 48.74067,
+      "longitude": 21.246557
+    },
+    {
+      "name": "Farby laky Majer",
+      "latitude": 48.147273,
+      "longitude": 17.86695
+    },
+    {
+      "name": "Farby, laky",
+      "latitude": 48.427703,
+      "longitude": 17.796464
+    },
+    {
+      "name": "Farby,laky",
+      "latitude": 48.808455,
+      "longitude": 17.162841
+    },
+    {
+      "name": "Farby,Laky",
+      "latitude": 48.843307,
+      "longitude": 17.222059
+    },
+    {
+      "name": "Farby-Laky",
+      "latitude": 48.128026,
+      "longitude": 17.125838
+    },
+    {
+      "name": "Farby-Laky",
+      "latitude": 48.153636,
+      "longitude": 17.128258
+    },
+    {
+      "name": "Farby-Laky",
+      "latitude": 48.195422,
+      "longitude": 17.140549
+    },
+    {
+      "name": "Farby-laky",
+      "latitude": 48.661641,
+      "longitude": 20.532343
+    },
+    {
+      "name": "Farby-Laky",
+      "latitude": 48.742406,
+      "longitude": 22.181917
+    },
+    {
+      "name": "Farby-laky",
+      "latitude": 48.88661,
+      "longitude": 18.009307
+    },
+    {
+      "name": "Farby-Laky",
+      "latitude": 49.057132,
+      "longitude": 20.269372
+    },
+    {
+      "name": "Farby-Laky",
+      "latitude": 49.062915,
+      "longitude": 18.919321
+    },
+    {
+      "name": "Farby-laky",
+      "latitude": 49.063653,
+      "longitude": 18.324086
+    },
+    {
+      "name": "Farby-Laky",
+      "latitude": 49.39634,
+      "longitude": 18.83389
+    },
+    {
+      "name": "Farby-laky Biroščák",
+      "latitude": 49.066091,
+      "longitude": 20.282709
+    },
+    {
+      "name": "Farby-Laky Hobby centrum",
+      "latitude": 48.637682,
+      "longitude": 17.150401
+    },
+    {
+      "name": "Farby-Laky IPOS",
+      "latitude": 49.215919,
+      "longitude": 18.725679
+    },
+    {
+      "name": "Farby-laky TUJVEL",
+      "latitude": 48.214764,
+      "longitude": 18.610669
+    },
+    {
+      "name": "Farby-laky-stavebniny Kelo",
+      "latitude": 47.932694,
+      "longitude": 17.71079
+    },
+    {
+      "name": "Farebný raj",
+      "latitude": 48.288616,
+      "longitude": 17.740322
+    },
+    {
+      "name": "Farebný raj",
+      "latitude": 49.105903,
+      "longitude": 21.085855
+    },
+    {
+      "name": "Farebný raj",
+      "latitude": 49.308008,
+      "longitude": 20.67288
+    },
+    {
+      "name": "Farlesk",
+      "latitude": 48.146419,
+      "longitude": 17.182399
+    },
+    {
+      "name": "Fasádne štúdio",
+      "latitude": 48.774557,
+      "longitude": 18.611981
+    },
+    {
+      "name": "Fasádne Štúdio J.S.",
+      "latitude": 48.592466,
+      "longitude": 16.98848
+    },
+    {
+      "name": "Fasády Edison",
+      "latitude": 48.886518,
+      "longitude": 18.009083
+    },
+    {
+      "name": "Festékek üzlete, nyílászárók",
+      "latitude": 47.761737,
+      "longitude": 18.546125
+    },
+    {
+      "name": "Flow Control",
+      "latitude": 48.158112,
+      "longitude": 17.177038
+    },
+    {
+      "name": "G-mal",
+      "latitude": 48.387989,
+      "longitude": 18.39081
+    },
+    {
+      "name": "Galant",
+      "latitude": 47.855053,
+      "longitude": 17.774136
+    },
+    {
+      "name": "Galant-farby",
+      "latitude": 47.88252,
+      "longitude": 17.80434
+    },
+    {
+      "name": "GLANZ - farby, laky",
+      "latitude": 48.931632,
+      "longitude": 21.898221
+    },
+    {
+      "name": "Globo Lux",
+      "latitude": 48.591667,
+      "longitude": 18.845823
+    },
+    {
+      "name": "Helios",
+      "latitude": 49.200533,
+      "longitude": 18.769224
+    },
+    {
+      "name": "HET",
+      "latitude": 48.389073,
+      "longitude": 20.027613
+    },
+    {
+      "name": "HET",
+      "latitude": 48.637467,
+      "longitude": 17.151756
+    },
+    {
+      "name": "iKKolor",
+      "latitude": 48.777706,
+      "longitude": 18.627891
+    },
+    {
+      "name": "Intercolor",
+      "latitude": 48.989088,
+      "longitude": 21.243242
+    },
+    {
+      "name": "Jub miešanie farieb",
+      "latitude": 49.043417,
+      "longitude": 20.302164
+    },
+    {
+      "name": "Juel",
+      "latitude": 48.370836,
+      "longitude": 17.568358
+    },
+    {
+      "name": "Juel",
+      "latitude": 48.391873,
+      "longitude": 17.576075
+    },
+    {
+      "name": "Kamaj",
+      "latitude": 49.116846,
+      "longitude": 21.520081
+    },
+    {
+      "name": "Keim",
+      "latitude": 49.00654,
+      "longitude": 21.250949
+    },
+    {
+      "name": "Kolor centrum",
+      "latitude": 48.384827,
+      "longitude": 20.027812
+    },
+    {
+      "name": "Kúzlo farieb",
+      "latitude": 48.382129,
+      "longitude": 17.580229
+    },
+    {
+      "name": "Kúzlo farieb",
+      "latitude": 48.593114,
+      "longitude": 18.848183
+    },
+    {
+      "name": "Kúzlo farieb",
+      "latitude": 49.403915,
+      "longitude": 18.626895
+    },
+    {
+      "name": "Kúzlo farieb",
+      "latitude": 49.446249,
+      "longitude": 18.784242
+    },
+    {
+      "name": "LAPOS",
+      "latitude": 48.287172,
+      "longitude": 17.733605
+    },
+    {
+      "name": "Luxol",
+      "latitude": 48.984035,
+      "longitude": 21.250107
+    },
+    {
+      "name": "Majster farieb",
+      "latitude": 48.300786,
+      "longitude": 17.268148
+    },
+    {
+      "name": "MAKO Autolaky s.r.o.",
+      "latitude": 48.642085,
+      "longitude": 21.715969
+    },
+    {
+      "name": "Maliarstvo IB",
+      "latitude": 48.559137,
+      "longitude": 18.173926
+    },
+    {
+      "name": "MARCONY",
+      "latitude": 49.009874,
+      "longitude": 21.247892
+    },
+    {
+      "name": "Market u Miša",
+      "latitude": 49.369864,
+      "longitude": 18.477767
+    },
+    {
+      "name": "Mika",
+      "latitude": 48.083828,
+      "longitude": 18.180449
+    },
+    {
+      "name": "Nemeck0",
+      "latitude": 48.15365,
+      "longitude": 17.127026
+    },
+    {
+      "name": "Novochema - predajňa",
+      "latitude": 48.21932,
+      "longitude": 18.633126
+    },
+    {
+      "name": "ORVA color",
+      "latitude": 48.774347,
+      "longitude": 18.613034
+    },
+    {
+      "name": "P&J Colors",
+      "latitude": 48.622243,
+      "longitude": 17.722189
+    },
+    {
+      "name": "Peacock color",
+      "latitude": 48.385538,
+      "longitude": 20.024489
+    },
+    {
+      "name": "PEMOcolor",
+      "latitude": 48.660888,
+      "longitude": 20.53144
+    },
+    {
+      "name": "Peva",
+      "latitude": 47.799083,
+      "longitude": 18.71377
+    },
+    {
+      "name": "Picasso",
+      "latitude": 48.147754,
+      "longitude": 17.126122
+    },
+    {
+      "name": "Polytex",
+      "latitude": 49.148233,
+      "longitude": 18.731883
+    },
+    {
+      "name": "Protek",
+      "latitude": 48.167756,
+      "longitude": 18.887634
+    },
+    {
+      "name": "Pulzar",
+      "latitude": 49.05622,
+      "longitude": 20.198751
+    },
+    {
+      "name": "Pulzar",
+      "latitude": 49.058332,
+      "longitude": 20.286264
+    },
+    {
+      "name": "Pulzar",
+      "latitude": 49.061067,
+      "longitude": 20.274079
+    },
+    {
+      "name": "RENOJAVA s.r.o.",
+      "latitude": 48.985097,
+      "longitude": 21.238513
+    },
+    {
+      "name": "RP mal",
+      "latitude": 49.203086,
+      "longitude": 18.728505
+    },
+    {
+      "name": "Rupo",
+      "latitude": 49.046942,
+      "longitude": 20.293379
+    },
+    {
+      "name": "SEKO",
+      "latitude": 48.898368,
+      "longitude": 18.028401
+    },
+    {
+      "name": "Slovachem",
+      "latitude": 48.772796,
+      "longitude": 18.601703
+    },
+    {
+      "name": "SOLID MARKET Nesvady",
+      "latitude": 47.925555,
+      "longitude": 18.118413
+    },
+    {
+      "name": "Staré časy",
+      "latitude": 48.380791,
+      "longitude": 17.583894
+    },
+    {
+      "name": "Stavchem",
+      "latitude": 49.052678,
+      "longitude": 18.915218
+    },
+    {
+      "name": "Stavebniny MFC & Farby-Laky",
+      "latitude": 48.85384,
+      "longitude": 21.224878
+    },
+    {
+      "name": "Stavebné centrum Karlova Ves",
+      "latitude": 48.156915,
+      "longitude": 17.055435
+    },
+    {
+      "name": "STAVMAT stavebniny",
+      "latitude": 48.153551,
+      "longitude": 17.877672
+    },
+    {
+      "name": "Svet farieb",
+      "latitude": 48.686099,
+      "longitude": 17.364051
+    },
+    {
+      "name": "Tena",
+      "latitude": 49.115889,
+      "longitude": 18.439745
+    },
+    {
+      "name": "TENA",
+      "latitude": 49.187117,
+      "longitude": 18.73392
+    },
+    {
+      "name": "Tesal Stropkov s.r.o.",
+      "latitude": 49.190984,
+      "longitude": 21.656397
+    },
+    {
+      "name": "Thermonia",
+      "latitude": 48.310001,
+      "longitude": 18.108508
+    },
+    {
+      "name": "Tikkurila",
+      "latitude": 48.976819,
+      "longitude": 21.26547
+    },
+    {
+      "name": "TKA farby a laky",
+      "latitude": 48.209026,
+      "longitude": 19.349951
+    },
+    {
+      "name": "U maliara",
+      "latitude": 48.211865,
+      "longitude": 18.592653
+    },
+    {
+      "name": "U Maliara",
+      "latitude": 49.054856,
+      "longitude": 20.307336
+    },
+    {
+      "name": "Unisas",
+      "latitude": 48.118657,
+      "longitude": 17.096356
+    },
+    {
+      "name": "Versicolor",
+      "latitude": 47.856211,
+      "longitude": 17.773684
+    },
+    {
+      "name": "Váš dom farieb & hobby centrum",
+      "latitude": 48.727011,
+      "longitude": 21.293793
+    },
+    {
+      "name": "X farby",
+      "latitude": 48.17056,
+      "longitude": 17.181223
+    },
+    {
+      "name": "XFARBY",
+      "latitude": 48.169409,
+      "longitude": 17.155515
+    },
+    {
+      "name": "XXL farby",
+      "latitude": 48.729484,
+      "longitude": 18.63039
+    },
+    {
+      "name": "XXL shop",
+      "latitude": 48.772555,
+      "longitude": 18.603876
+    },
+    {
+      "name": "Śnieżka",
+      "latitude": 48.121499,
+      "longitude": 17.095974
+    },
+    {
+      "name": "Śnieżka",
+      "latitude": 48.16588,
+      "longitude": 17.172887
+    }
+  ],
+  "meta": {
+    "title": "Slovenské predajne farieb - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných predajní farieb na Slovensku (shop=paint) z OpenStreetMap. Obsahuje 174 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Slovenské predajne farieb | ListBase",
+    "seo_description": "Stiahnuť Slovenské predajne farieb — 174 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 174 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

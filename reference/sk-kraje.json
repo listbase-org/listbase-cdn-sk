@@ -1,0 +1,81 @@
+{
+  "id": "sk-kraje",
+  "name": "Kraje Slovenska (8 krajov)",
+  "title": "Kraje Slovenska (8 krajov)",
+  "description": "8 samosprávnych krajov Slovenska",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "shortcut",
+      "label": "Shortcut",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Banskobystrický kraj",
+      "shortcut": "BC"
+    },
+    {
+      "id": 2,
+      "name": "Bratislavský kraj",
+      "shortcut": "BL"
+    },
+    {
+      "id": 3,
+      "name": "Košický kraj",
+      "shortcut": "KI"
+    },
+    {
+      "id": 4,
+      "name": "Nitriansky kraj",
+      "shortcut": "NI"
+    },
+    {
+      "id": 5,
+      "name": "Prešovský kraj",
+      "shortcut": "PV"
+    },
+    {
+      "id": 6,
+      "name": "Trenčiansky kraj",
+      "shortcut": "TC"
+    },
+    {
+      "id": 7,
+      "name": "Trnavský kraj",
+      "shortcut": "TA"
+    },
+    {
+      "id": 8,
+      "name": "Žilinský kraj",
+      "shortcut": "ZI"
+    }
+  ],
+  "meta": {
+    "title": "Kraje Slovenska (8 krajov) - Bezplatné stiahnutie",
+    "description": "8 samosprávnych krajov Slovenska Obsahuje 8 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Kraje Slovenska (8 krajov) | ListBase",
+    "seo_description": "Stiahnuť Kraje Slovenska (8 krajov) — 8 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 8 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

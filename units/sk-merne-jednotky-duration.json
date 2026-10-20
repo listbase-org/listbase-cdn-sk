@@ -1,0 +1,196 @@
+{
+  "id": "sk-merne-jednotky-duration",
+  "name": "Merné jednotky — kategória 'duration' (15)",
+  "title": "Merné jednotky — kategória 'duration' (15)",
+  "description": "Merné jednotky kategórie 'duration' z locale sk v CLDR, s názvami v slovenčine.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "skratka",
+      "label": "Skratka",
+      "type": "string"
+    },
+    {
+      "key": "uzky_tvar",
+      "label": "Uzky Tvar",
+      "type": "string"
+    },
+    {
+      "key": "vzor",
+      "label": "Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "duration-century",
+      "kategoria": "duration",
+      "nazov": "storočia",
+      "skratka": "stor.",
+      "uzky_tvar": "stor.",
+      "vzor": "{0} storočí"
+    },
+    {
+      "id": 2,
+      "unit_code": "duration-day",
+      "kategoria": "duration",
+      "nazov": "dni",
+      "skratka": "dni",
+      "uzky_tvar": "d.",
+      "vzor": "{0} dní"
+    },
+    {
+      "id": 3,
+      "unit_code": "duration-decade",
+      "kategoria": "duration",
+      "nazov": "desaťročia",
+      "skratka": "desaťr.",
+      "uzky_tvar": "desaťr.",
+      "vzor": "{0} desaťročí"
+    },
+    {
+      "id": 4,
+      "unit_code": "duration-fortnight",
+      "kategoria": "duration",
+      "nazov": "fortnight",
+      "skratka": "fortnight",
+      "uzky_tvar": "fortnight",
+      "vzor": "{0} fw"
+    },
+    {
+      "id": 5,
+      "unit_code": "duration-hour",
+      "kategoria": "duration",
+      "nazov": "hodiny",
+      "skratka": "h",
+      "uzky_tvar": "h",
+      "vzor": "{0} hodín"
+    },
+    {
+      "id": 6,
+      "unit_code": "duration-microsecond",
+      "kategoria": "duration",
+      "nazov": "mikrosekundy",
+      "skratka": "μs",
+      "uzky_tvar": "μs",
+      "vzor": "{0} mikrosekúnd"
+    },
+    {
+      "id": 7,
+      "unit_code": "duration-millisecond",
+      "kategoria": "duration",
+      "nazov": "milisekundy",
+      "skratka": "ms",
+      "uzky_tvar": "ms",
+      "vzor": "{0} milisekúnd"
+    },
+    {
+      "id": 8,
+      "unit_code": "duration-minute",
+      "kategoria": "duration",
+      "nazov": "minúty",
+      "skratka": "min",
+      "uzky_tvar": "min",
+      "vzor": "{0} minút"
+    },
+    {
+      "id": 9,
+      "unit_code": "duration-month",
+      "kategoria": "duration",
+      "nazov": "mesiace",
+      "skratka": "mes.",
+      "uzky_tvar": "m.",
+      "vzor": "{0} mesiacov"
+    },
+    {
+      "id": 10,
+      "unit_code": "duration-nanosecond",
+      "kategoria": "duration",
+      "nazov": "nanosekundy",
+      "skratka": "ns",
+      "uzky_tvar": "ns",
+      "vzor": "{0} nanosekúnd"
+    },
+    {
+      "id": 11,
+      "unit_code": "duration-night",
+      "kategoria": "duration",
+      "nazov": "noci",
+      "skratka": "noci",
+      "uzky_tvar": "noci",
+      "vzor": "{0} nocí"
+    },
+    {
+      "id": 12,
+      "unit_code": "duration-quarter",
+      "kategoria": "duration",
+      "nazov": "štvrťroky",
+      "skratka": "štvrťrok",
+      "uzky_tvar": "štvrťrok",
+      "vzor": "{0} štvrťrokov"
+    },
+    {
+      "id": 13,
+      "unit_code": "duration-second",
+      "kategoria": "duration",
+      "nazov": "sekundy",
+      "skratka": "s",
+      "uzky_tvar": "s",
+      "vzor": "{0} sekúnd"
+    },
+    {
+      "id": 14,
+      "unit_code": "duration-week",
+      "kategoria": "duration",
+      "nazov": "týždne",
+      "skratka": "týž.",
+      "uzky_tvar": "t.",
+      "vzor": "{0} týždňov"
+    },
+    {
+      "id": 15,
+      "unit_code": "duration-year",
+      "kategoria": "duration",
+      "nazov": "roky",
+      "skratka": "r.",
+      "uzky_tvar": "r.",
+      "vzor": "{0} rokov"
+    }
+  ],
+  "meta": {
+    "title": "Merné jednotky — kategória 'duration' (15) - Bezplatné stiahnutie",
+    "description": "Merné jednotky kategórie 'duration' z locale sk v CLDR, s názvami v slovenčine. Obsahuje 15 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Merné jednotky — kategória 'duration' (15) | ListBase",
+    "seo_description": "Stiahnuť Merné jednotky — kategória 'duration' (15) — 15 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 15 záznamov / 7 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

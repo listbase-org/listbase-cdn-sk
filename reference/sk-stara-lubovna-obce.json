@@ -1,0 +1,626 @@
+{
+  "id": "sk-stara-lubovna-obce",
+  "name": "Obce v okrese Stará Ľubovňa",
+  "title": "Obce v okrese Stará Ľubovňa",
+  "description": "Všetky obce (municipality) v okrese Stará Ľubovňa, Prešovský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 21,
+      "fullname": "Andrejovka",
+      "shortname": "Andrejovka",
+      "zip": "065 43",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1167,
+      "fullname": "Chmeľnica",
+      "shortname": "Chmeľnica",
+      "zip": "064 01",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 798,
+      "fullname": "Forbasy",
+      "shortname": "Forbasy",
+      "zip": "065 01",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 877,
+      "fullname": "Hajtovka",
+      "shortname": "Hajtovka",
+      "zip": "065 45",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 880,
+      "fullname": "Haligovce",
+      "shortname": "Haligovce",
+      "zip": "065 34",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 943,
+      "fullname": "Hniezdne",
+      "shortname": "Hniezdne",
+      "zip": "065 01",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1094,
+      "fullname": "Hraničné",
+      "shortname": "Hraničné",
+      "zip": "065 22",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1114,
+      "fullname": "Hromoš",
+      "shortname": "Hromoš",
+      "zip": "065 45",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1255,
+      "fullname": "Jakubany",
+      "shortname": "Jakubany",
+      "zip": "065 12",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1286,
+      "fullname": "Jarabina",
+      "shortname": "Jarabina",
+      "zip": "065 31",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1382,
+      "fullname": "Kamienka",
+      "shortname": "Kamienka",
+      "zip": "065 32",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1345,
+      "fullname": "Kače",
+      "shortname": "Kače",
+      "zip": "065 22",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1487,
+      "fullname": "Kolačkov",
+      "shortname": "Kolačkov",
+      "zip": "065 11",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1611,
+      "fullname": "Kozelec",
+      "shortname": "Kozelec",
+      "zip": "065 45",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1665,
+      "fullname": "Kremná",
+      "shortname": "Kremná",
+      "zip": "065 22",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1749,
+      "fullname": "Kyjov",
+      "shortname": "Kyjov",
+      "zip": "065 48",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1764,
+      "fullname": "Lacková",
+      "shortname": "Lacková",
+      "zip": "065 01",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1800,
+      "fullname": "Legnava",
+      "shortname": "Legnava",
+      "zip": "065 46",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1823,
+      "fullname": "Lesnica",
+      "shortname": "Lesnica",
+      "zip": "065 33",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1899,
+      "fullname": "Litmanová",
+      "shortname": "Litmanová",
+      "zip": "065 31",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1911,
+      "fullname": "Lomnička",
+      "shortname": "Lomnička",
+      "zip": "065 03",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2098,
+      "fullname": "Malý Lipník",
+      "shortname": "Malý Lipník",
+      "zip": "065 46",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2142,
+      "fullname": "Matysová",
+      "shortname": "Matysová",
+      "zip": "065 46",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2157,
+      "fullname": "Medzibrodie",
+      "shortname": "Medzibrodie",
+      "zip": "065 22",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2219,
+      "fullname": "Mníšek nad Popradom",
+      "shortname": "Mníšek nad Popradom",
+      "zip": "065 22",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2373,
+      "fullname": "Nižné Ružbachy",
+      "shortname": "Nižné Ružbachy",
+      "zip": "065 02",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2407,
+      "fullname": "Nová Ľubovňa",
+      "shortname": "Nová Ľubovňa",
+      "zip": "065 11",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2456,
+      "fullname": "Obručné",
+      "shortname": "Obručné",
+      "zip": "065 42",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2530,
+      "fullname": "Orlov",
+      "shortname": "Orlov",
+      "zip": "065 43",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2590,
+      "fullname": "Pastovník",
+      "shortname": "Pastovník",
+      "zip": "065 44",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2649,
+      "fullname": "Pilhov",
+      "shortname": "Pilhov",
+      "zip": "065 22",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2650,
+      "fullname": "Pilhovčík",
+      "shortname": "Pilhovčík",
+      "zip": "065 22",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2664,
+      "fullname": "Plaveč",
+      "shortname": "Plaveč",
+      "zip": "065 44",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2665,
+      "fullname": "Plavnica",
+      "shortname": "Plavnica",
+      "zip": "065 45",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2715,
+      "fullname": "Podolínec",
+      "shortname": "Podolínec",
+      "zip": "065 03",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2716,
+      "fullname": "Podpílie",
+      "shortname": "Podpílie",
+      "zip": "065 41",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2719,
+      "fullname": "Podsadek",
+      "shortname": "Podsadek",
+      "zip": "064 01",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2728,
+      "fullname": "Podzámok",
+      "shortname": "Podzámok",
+      "zip": "065 44",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2875,
+      "fullname": "Pusté Pole",
+      "shortname": "Pusté Pole",
+      "zip": "065 41",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3042,
+      "fullname": "Ruská Voľa nad Popradom",
+      "shortname": "Ruská Voľa n/Popr.",
+      "zip": "065 42",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3050,
+      "fullname": "Ružbachy - kúpele",
+      "shortname": "Ružbachy - kúpele",
+      "zip": "065 02",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3276,
+      "fullname": "Starina",
+      "shortname": "Starina",
+      "zip": "065 46",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3270,
+      "fullname": "Stará Ľubovňa",
+      "shortname": "Stará Ľubovňa",
+      "zip": "064 01",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3290,
+      "fullname": "Stráňany",
+      "shortname": "Stráňany",
+      "zip": "065 33",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3342,
+      "fullname": "Sulín",
+      "shortname": "Sulín",
+      "zip": "065 46",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3756,
+      "fullname": "Veľká Lesná",
+      "shortname": "Veľká Lesná",
+      "zip": "065 34",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3834,
+      "fullname": "Veľký Lipník",
+      "shortname": "Veľký Lipník",
+      "zip": "065 33",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3876,
+      "fullname": "Vislanka",
+      "shortname": "Vislanka",
+      "zip": "065 41",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4009,
+      "fullname": "Vyšné Ružbachy",
+      "shortname": "Vyšné Ružbachy",
+      "zip": "065 02",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4087,
+      "fullname": "Závodie",
+      "shortname": "Závodie",
+      "zip": "065 46",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3673,
+      "fullname": "Údol",
+      "shortname": "Údol",
+      "zip": "065 45",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 506,
+      "fullname": "Čirč",
+      "shortname": "Čirč",
+      "zip": "065 42",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 760,
+      "fullname": "Ďurková",
+      "shortname": "Ďurková",
+      "zip": "065 41",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1942,
+      "fullname": "Ľubotín",
+      "shortname": "Ľubotín",
+      "zip": "065 41",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3386,
+      "fullname": "Šambron",
+      "shortname": "Šambron",
+      "zip": "065 45",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3401,
+      "fullname": "Šarišské Jastrabie",
+      "shortname": "Šarišské Jastrabie",
+      "zip": "065 48",
+      "district_id": 63,
+      "okres": "Stará Ľubovňa",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Stará Ľubovňa - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Stará Ľubovňa, Prešovský kraj — s PSČ a kódom okresu. Obsahuje 56 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Stará Ľubovňa | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Stará Ľubovňa — 56 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 56 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

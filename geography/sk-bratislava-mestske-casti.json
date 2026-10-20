@@ -1,0 +1,170 @@
+{
+  "id": "sk-bratislava-mestske-casti",
+  "name": "Mestské časti Bratislavy (Bratislava city districts)",
+  "title": "Mestské časti Bratislavy (Bratislava city districts)",
+  "description": "Zoznam mestských častí Bratislavy so súradnicami ich stredu (WGS84) a počtom registrovaných voličov v roku 2014.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "long",
+      "label": "Long",
+      "type": "number"
+    },
+    {
+      "key": "registered_voters_2014",
+      "label": "Registered Voters 2014",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "529460",
+      "name": "Bratislava-Petržalka",
+      "lat": 48.1108879,
+      "long": 17.1115635,
+      "registered_voters_2014": 167459
+    },
+    {
+      "id": "529320",
+      "name": "Bratislava-Ružinov",
+      "lat": 48.1575967,
+      "long": 17.1627978,
+      "registered_voters_2014": 114135
+    },
+    {
+      "id": "528595",
+      "name": "Bratislava-Staré Mesto",
+      "lat": 48.148598,
+      "long": 17.1077475,
+      "registered_voters_2014": 66619
+    },
+    {
+      "id": "529346",
+      "name": "Bratislava-Nové Mesto",
+      "lat": 48.1671515,
+      "long": 17.1368492,
+      "registered_voters_2014": 59078
+    },
+    {
+      "id": "529389",
+      "name": "Bratislava-Dúbravka",
+      "lat": 48.1888276,
+      "long": 17.0290285,
+      "registered_voters_2014": 53124
+    },
+    {
+      "id": "529397",
+      "name": "Bratislava-Karlova Ves",
+      "lat": 48.1591643,
+      "long": 17.0518443,
+      "registered_voters_2014": 50726
+    },
+    {
+      "id": "529311",
+      "name": "Bratislava-Podunajské Biskupice",
+      "lat": 48.1251057,
+      "long": 17.2107902,
+      "registered_voters_2014": 31325
+    },
+    {
+      "id": "529354",
+      "name": "Bratislava-Rača",
+      "lat": 48.2120284,
+      "long": 17.1546065,
+      "registered_voters_2014": 30365
+    },
+    {
+      "id": "529338",
+      "name": "Bratislava-Vrakuňa",
+      "lat": 48.1421639,
+      "long": 17.2129005,
+      "registered_voters_2014": 28486
+    },
+    {
+      "id": "529371",
+      "name": "Bratislava-Devínska Nová Ves",
+      "lat": 48.2112712,
+      "long": 16.9734671,
+      "registered_voters_2014": 24455
+    },
+    {
+      "id": "529419",
+      "name": "Bratislava-Lamač",
+      "lat": 48.1938879,
+      "long": 17.0474565,
+      "registered_voters_2014": 10323
+    },
+    {
+      "id": "529362",
+      "name": "Bratislava-Vajnory",
+      "lat": 48.2030662,
+      "long": 17.2052549,
+      "registered_voters_2014": 7227
+    },
+    {
+      "id": "529427",
+      "name": "Bratislava-Záhorská Bystrica",
+      "lat": 48.241632,
+      "long": 17.0387275,
+      "registered_voters_2014": 5494
+    },
+    {
+      "id": "529494",
+      "name": "Bratislava-Rusovce",
+      "lat": 48.0560336,
+      "long": 17.1450367,
+      "registered_voters_2014": 4809
+    },
+    {
+      "id": "529443",
+      "name": "Bratislava-Jarovce",
+      "lat": 48.0650577,
+      "long": 17.1140119,
+      "registered_voters_2014": 2832
+    },
+    {
+      "id": "529401",
+      "name": "Bratislava-Devín",
+      "lat": 48.1737498,
+      "long": 16.9844742,
+      "registered_voters_2014": 1902
+    },
+    {
+      "id": "529435",
+      "name": "Bratislava-Čunovo",
+      "lat": 48.0307363,
+      "long": 17.1994899,
+      "registered_voters_2014": 1739
+    }
+  ],
+  "meta": {
+    "title": "Mestské časti Bratislavy (Bratislava city districts) - Bezplatné stiahnutie",
+    "description": "Zoznam mestských častí Bratislavy so súradnicami ich stredu (WGS84) a počtom registrovaných voličov v roku 2014. Obsahuje 17 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Mestské časti Bratislavy (Bratislava city districts) | ListBase",
+    "seo_description": "Stiahnuť Mestské časti Bratislavy (Bratislava city districts) — 17 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 17 záznamov / 5 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

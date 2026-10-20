@@ -1,0 +1,756 @@
+{
+  "id": "sk-roznava-obce",
+  "name": "Obce v okrese Rožňava",
+  "title": "Obce v okrese Rožňava",
+  "description": "Všetky obce (municipality) v okrese Rožňava, Košický kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 69,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 24,
+      "fullname": "Ardovo",
+      "shortname": "Ardovo",
+      "zip": "049 55",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 144,
+      "fullname": "Betliar",
+      "shortname": "Betliar",
+      "zip": "049 21",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 205,
+      "fullname": "Bohúňovo",
+      "shortname": "Bohúňovo",
+      "zip": "049 12",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 262,
+      "fullname": "Brdárka",
+      "shortname": "Brdárka",
+      "zip": "049 34",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 275,
+      "fullname": "Bretka",
+      "shortname": "Bretka",
+      "zip": "980 46",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 314,
+      "fullname": "Brzotín",
+      "shortname": "Brzotín",
+      "zip": "049 51",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 237,
+      "fullname": "Bôrka",
+      "shortname": "Bôrka",
+      "zip": "049 42",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 530,
+      "fullname": "Dedinky",
+      "shortname": "Dedinky",
+      "zip": "049 73",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 566,
+      "fullname": "Dlhá Ves",
+      "shortname": "Dlhá Ves",
+      "zip": "049 55",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 589,
+      "fullname": "Dobšinská Maša",
+      "shortname": "Dobšinská Maša",
+      "zip": "049 73",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 588,
+      "fullname": "Dobšinská Ľadová Jaskyňa",
+      "shortname": "Dobšin. Ľad. Jaskyňa",
+      "zip": "049 71",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 587,
+      "fullname": "Dobšiná",
+      "shortname": "Dobšiná",
+      "zip": "049 25",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 704,
+      "fullname": "Drnava",
+      "shortname": "Drnava",
+      "zip": "049 42",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 824,
+      "fullname": "Gemerská Hôrka",
+      "shortname": "Gemerská Hôrka",
+      "zip": "049 12",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 825,
+      "fullname": "Gemerská Panica",
+      "shortname": "Gemerská Panica",
+      "zip": "980 46",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 826,
+      "fullname": "Gemerská Poloma",
+      "shortname": "Gemerská Poloma",
+      "zip": "049 22",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 842,
+      "fullname": "Gočaltovo",
+      "shortname": "Gočaltovo",
+      "zip": "049 32",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 843,
+      "fullname": "Gočovo",
+      "shortname": "Gočovo",
+      "zip": "049 24",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 892,
+      "fullname": "Hanková",
+      "shortname": "Hanková",
+      "zip": "049 34",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 916,
+      "fullname": "Henckovce",
+      "shortname": "Henckovce",
+      "zip": "049 23",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 963,
+      "fullname": "Honce",
+      "shortname": "Honce",
+      "zip": "049 32",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1100,
+      "fullname": "Hrhov",
+      "shortname": "Hrhov",
+      "zip": "049 44",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1129,
+      "fullname": "Hrušov",
+      "shortname": "Hrušov",
+      "zip": "049 43",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1244,
+      "fullname": "Jablonov nad Turňou",
+      "shortname": "Jablonov nad Turňou",
+      "zip": "049 43",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1336,
+      "fullname": "Jovice",
+      "shortname": "Jovice",
+      "zip": "049 45",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1414,
+      "fullname": "Kečovo",
+      "shortname": "Kečovo",
+      "zip": "049 55",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1468,
+      "fullname": "Kobeliarovo",
+      "shortname": "Kobeliarovo",
+      "zip": "049 23",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1471,
+      "fullname": "Koceľovce",
+      "shortname": "Koceľovce",
+      "zip": "049 35",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1604,
+      "fullname": "Kováčová",
+      "shortname": "Kováčová",
+      "zip": "049 42",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1709,
+      "fullname": "Kružná",
+      "shortname": "Kružná",
+      "zip": "049 51",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1654,
+      "fullname": "Krásnohorská Dlhá Lúka",
+      "shortname": "Krásnohor. Dlhá Lúka",
+      "zip": "049 45",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1655,
+      "fullname": "Krásnohorské Podhradie",
+      "shortname": "Krásnohor. Podhradie",
+      "zip": "049 41",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1727,
+      "fullname": "Kunova Teplica",
+      "shortname": "Kunova Teplica",
+      "zip": "049 32",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1872,
+      "fullname": "Lipovník",
+      "shortname": "Lipovník",
+      "zip": "049 42",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1949,
+      "fullname": "Lúčka",
+      "shortname": "Lúčka",
+      "zip": "049 42",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2116,
+      "fullname": "Markuška",
+      "shortname": "Markuška",
+      "zip": "049 34",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2164,
+      "fullname": "Meliata",
+      "shortname": "Meliata",
+      "zip": "049 12",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2290,
+      "fullname": "Nadabula",
+      "shortname": "Nadabula",
+      "zip": "048 01",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2375,
+      "fullname": "Nižnoslanská Baňa",
+      "shortname": "Nižnoslanská Baňa",
+      "zip": "049 23",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2362,
+      "fullname": "Nižná Slaná",
+      "shortname": "Nižná Slaná",
+      "zip": "049 23",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2465,
+      "fullname": "Ochtiná",
+      "shortname": "Ochtiná",
+      "zip": "049 35",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2560,
+      "fullname": "Pača",
+      "shortname": "Pača",
+      "zip": "049 41",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2592,
+      "fullname": "Pašková",
+      "shortname": "Pašková",
+      "zip": "049 32",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2635,
+      "fullname": "Petrovo",
+      "shortname": "Petrovo",
+      "zip": "049 35",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2669,
+      "fullname": "Plešivec",
+      "shortname": "Plešivec",
+      "zip": "049 11",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2917,
+      "fullname": "Rakovnica",
+      "shortname": "Rakovnica",
+      "zip": "049 31",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2951,
+      "fullname": "Rejdová",
+      "shortname": "Rejdová",
+      "zip": "049 26",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2990,
+      "fullname": "Rochovce",
+      "shortname": "Rochovce",
+      "zip": "049 36",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3010,
+      "fullname": "Rozložná",
+      "shortname": "Rozložná",
+      "zip": "049 32",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 2999,
+      "fullname": "Roštár",
+      "shortname": "Roštár",
+      "zip": "049 35",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3014,
+      "fullname": "Rožňava",
+      "shortname": "Rožňava",
+      "zip": "048 01",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3015,
+      "fullname": "Rožňavská Baňa",
+      "shortname": "Rožňavská Baňa",
+      "zip": "048 01",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3016,
+      "fullname": "Rožňavské Bystré",
+      "shortname": "Rožňavské Bystré",
+      "zip": "049 31",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3026,
+      "fullname": "Rudná",
+      "shortname": "Rudná",
+      "zip": "048 01",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3130,
+      "fullname": "Silica",
+      "shortname": "Silica",
+      "zip": "049 52",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3131,
+      "fullname": "Silická Brezová",
+      "shortname": "Silická Brezová",
+      "zip": "049 11",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3132,
+      "fullname": "Silická Jablonica",
+      "shortname": "Silická Jablonica",
+      "zip": "049 43",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3171,
+      "fullname": "Slavec",
+      "shortname": "Slavec",
+      "zip": "049 11",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3174,
+      "fullname": "Slavoška",
+      "shortname": "Slavoška",
+      "zip": "049 34",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3175,
+      "fullname": "Slavošovce",
+      "shortname": "Slavošovce",
+      "zip": "049 36",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3295,
+      "fullname": "Stratená",
+      "shortname": "Stratená",
+      "zip": "049 71",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3539,
+      "fullname": "Tiba",
+      "shortname": "Tiba",
+      "zip": "049 12",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3851,
+      "fullname": "Vidová",
+      "shortname": "Vidová",
+      "zip": "049 11",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3892,
+      "fullname": "Vlachovo",
+      "shortname": "Vlachovo",
+      "zip": "049 24",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3996,
+      "fullname": "Vyšná Slaná",
+      "shortname": "Vyšná Slaná",
+      "zip": "049 26",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 486,
+      "fullname": "Čierna Lehota",
+      "shortname": "Čierna Lehota",
+      "zip": "049 36",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 510,
+      "fullname": "Čoltovo",
+      "shortname": "Čoltovo",
+      "zip": "049 12",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 512,
+      "fullname": "Čučma",
+      "shortname": "Čučma",
+      "zip": "048 01",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 3465,
+      "fullname": "Štítnik",
+      "shortname": "Štítnik",
+      "zip": "049 32",
+      "district_id": 54,
+      "okres": "Rožňava",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Rožňava - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Rožňava, Košický kraj — s PSČ a kódom okresu. Obsahuje 69 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Rožňava | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Rožňava — 69 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 69 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

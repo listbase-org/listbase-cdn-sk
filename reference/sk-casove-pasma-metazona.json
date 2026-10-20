@@ -1,0 +1,1157 @@
+{
+  "id": "sk-casove-pasma-metazona",
+  "name": "Metazóny (makroregionálne časové pásma) — názvy v slovenčine",
+  "title": "Metazóny (makroregionálne časové pásma) — názvy v slovenčine",
+  "description": "Metazóny (makroregionálne časové pásma) z locale sk v CLDR — so všeobecným názvom, štandardným názvom a letným názvom.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 158,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "vseobecny_nazov",
+      "label": "Vseobecny Nazov",
+      "type": "string"
+    },
+    {
+      "key": "standardny_nazov",
+      "label": "Standardny Nazov",
+      "type": "string"
+    },
+    {
+      "key": "letny_nazov",
+      "label": "Letny Nazov",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "Acre",
+      "vseobecny_nazov": "acrejský čas",
+      "standardny_nazov": "acrejský štandardný čas",
+      "letny_nazov": "acrejský letný čas"
+    },
+    {
+      "id": 2,
+      "code": "Afghanistan",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "afganský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 3,
+      "code": "Africa_Central",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "stredoafrický čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 4,
+      "code": "Africa_Eastern",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "východoafrický čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 5,
+      "code": "Africa_Southern",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "juhoafrický čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 6,
+      "code": "Africa_Western",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "západoafrický čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 7,
+      "code": "Alaska",
+      "vseobecny_nazov": "aljašský čas",
+      "standardny_nazov": "aljašský štandardný čas",
+      "letny_nazov": "aljašský letný čas"
+    },
+    {
+      "id": 8,
+      "code": "Almaty",
+      "vseobecny_nazov": "almaatský čas",
+      "standardny_nazov": "almaatský štandardný čas",
+      "letny_nazov": "almaatský letný čas"
+    },
+    {
+      "id": 9,
+      "code": "Amazon",
+      "vseobecny_nazov": "amazonský čas",
+      "standardny_nazov": "amazonský štandardný čas",
+      "letny_nazov": "amazonský letný čas"
+    },
+    {
+      "id": 10,
+      "code": "America_Central",
+      "vseobecny_nazov": "severoamerický centrálny čas",
+      "standardny_nazov": "severoamerický centrálny štandardný čas",
+      "letny_nazov": "severoamerický centrálny letný čas"
+    },
+    {
+      "id": 11,
+      "code": "America_Eastern",
+      "vseobecny_nazov": "severoamerický východný čas",
+      "standardny_nazov": "severoamerický východný štandardný čas",
+      "letny_nazov": "severoamerický východný letný čas"
+    },
+    {
+      "id": 12,
+      "code": "America_Mountain",
+      "vseobecny_nazov": "severoamerický horský čas",
+      "standardny_nazov": "severoamerický horský štandardný čas",
+      "letny_nazov": "severoamerický horský letný čas"
+    },
+    {
+      "id": 13,
+      "code": "America_Pacific",
+      "vseobecny_nazov": "severoamerický tichomorský čas",
+      "standardny_nazov": "severoamerický tichomorský štandardný čas",
+      "letny_nazov": "severoamerický tichomorský letný čas"
+    },
+    {
+      "id": 14,
+      "code": "Anadyr",
+      "vseobecny_nazov": "Anadyrský čas",
+      "standardny_nazov": "Anadyrský štandardný čas",
+      "letny_nazov": "Anadyrský letný čas"
+    },
+    {
+      "id": 15,
+      "code": "Apia",
+      "vseobecny_nazov": "apijský čas",
+      "standardny_nazov": "apijský štandardný čas",
+      "letny_nazov": "apijský letný čas"
+    },
+    {
+      "id": 16,
+      "code": "Aqtau",
+      "vseobecny_nazov": "aktauský čas",
+      "standardny_nazov": "aktauský štandardný čas",
+      "letny_nazov": "aktauský letný čas"
+    },
+    {
+      "id": 17,
+      "code": "Aqtobe",
+      "vseobecny_nazov": "aktobský čas",
+      "standardny_nazov": "aktobský štandardný čas",
+      "letny_nazov": "aktobský letný čas"
+    },
+    {
+      "id": 18,
+      "code": "Arabian",
+      "vseobecny_nazov": "arabský čas",
+      "standardny_nazov": "arabský štandardný čas",
+      "letny_nazov": "arabský letný čas"
+    },
+    {
+      "id": 19,
+      "code": "Argentina",
+      "vseobecny_nazov": "argentínsky čas",
+      "standardny_nazov": "argentínsky štandardný čas",
+      "letny_nazov": "argentínsky letný čas"
+    },
+    {
+      "id": 20,
+      "code": "Argentina_Western",
+      "vseobecny_nazov": "západoargentínsky čas",
+      "standardny_nazov": "západoargentínsky štandardný čas",
+      "letny_nazov": "západoargentínsky letný čas"
+    },
+    {
+      "id": 21,
+      "code": "Armenia",
+      "vseobecny_nazov": "arménsky čas",
+      "standardny_nazov": "arménsky štandardný čas",
+      "letny_nazov": "arménsky letný čas"
+    },
+    {
+      "id": 22,
+      "code": "Atlantic",
+      "vseobecny_nazov": "atlantický čas",
+      "standardny_nazov": "atlantický štandardný čas",
+      "letny_nazov": "atlantický letný čas"
+    },
+    {
+      "id": 23,
+      "code": "Australia_Central",
+      "vseobecny_nazov": "stredoaustrálsky čas",
+      "standardny_nazov": "stredoaustrálsky štandardný čas",
+      "letny_nazov": "stredoaustrálsky letný čas"
+    },
+    {
+      "id": 24,
+      "code": "Australia_CentralWestern",
+      "vseobecny_nazov": "stredozápadný austrálsky čas",
+      "standardny_nazov": "stredozápadný austrálsky štandardný čas",
+      "letny_nazov": "stredozápadný austrálsky letný čas"
+    },
+    {
+      "id": 25,
+      "code": "Australia_Eastern",
+      "vseobecny_nazov": "východoaustrálsky čas",
+      "standardny_nazov": "východoaustrálsky štandardný čas",
+      "letny_nazov": "východoaustrálsky letný čas"
+    },
+    {
+      "id": 26,
+      "code": "Australia_Western",
+      "vseobecny_nazov": "západoaustrálsky čas",
+      "standardny_nazov": "západoaustrálsky štandardný čas",
+      "letny_nazov": "západoaustrálsky letný čas"
+    },
+    {
+      "id": 27,
+      "code": "Azerbaijan",
+      "vseobecny_nazov": "azerbajdžanský čas",
+      "standardny_nazov": "azerbajdžanský štandardný čas",
+      "letny_nazov": "azerbajdžanský letný čas"
+    },
+    {
+      "id": 28,
+      "code": "Azores",
+      "vseobecny_nazov": "azorský čas",
+      "standardny_nazov": "azorský štandardný čas",
+      "letny_nazov": "azorský letný čas"
+    },
+    {
+      "id": 29,
+      "code": "Bangladesh",
+      "vseobecny_nazov": "bangladéšsky čas",
+      "standardny_nazov": "bangladéšsky štandardný čas",
+      "letny_nazov": "bangladéšsky letný čas"
+    },
+    {
+      "id": 30,
+      "code": "Bhutan",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "bhutánsky čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 31,
+      "code": "Bolivia",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "bolívijský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 32,
+      "code": "Brasilia",
+      "vseobecny_nazov": "brazílsky čas",
+      "standardny_nazov": "brazílsky štandardný čas",
+      "letny_nazov": "brazílsky letný čas"
+    },
+    {
+      "id": 33,
+      "code": "Brunei",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "brunejský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 34,
+      "code": "Cape_Verde",
+      "vseobecny_nazov": "kapverdský čas",
+      "standardny_nazov": "kapverdský štandardný čas",
+      "letny_nazov": "kapverdský letný čas"
+    },
+    {
+      "id": 35,
+      "code": "Casey",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "čas Caseyho stanice",
+      "letny_nazov": ""
+    },
+    {
+      "id": 36,
+      "code": "Chamorro",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "chamorrský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 37,
+      "code": "Chatham",
+      "vseobecny_nazov": "chathamský čas",
+      "standardny_nazov": "chathamský štandardný čas",
+      "letny_nazov": "chathamský letný čas"
+    },
+    {
+      "id": 38,
+      "code": "Chile",
+      "vseobecny_nazov": "čilský čas",
+      "standardny_nazov": "čilský štandardný čas",
+      "letny_nazov": "čilský letný čas"
+    },
+    {
+      "id": 39,
+      "code": "China",
+      "vseobecny_nazov": "čínsky čas",
+      "standardny_nazov": "čínsky štandardný čas",
+      "letny_nazov": "čínsky letný čas"
+    },
+    {
+      "id": 40,
+      "code": "Christmas",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "čas Vianočného ostrova",
+      "letny_nazov": ""
+    },
+    {
+      "id": 41,
+      "code": "Cocos",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "čas Kokosových ostrovov",
+      "letny_nazov": ""
+    },
+    {
+      "id": 42,
+      "code": "Colombia",
+      "vseobecny_nazov": "kolumbijský čas",
+      "standardny_nazov": "kolumbijský štandardný čas",
+      "letny_nazov": "kolumbijský letný čas"
+    },
+    {
+      "id": 43,
+      "code": "Cook",
+      "vseobecny_nazov": "čas Cookových ostrovov",
+      "standardny_nazov": "štandardný čas Cookových ostrovov",
+      "letny_nazov": "letný čas Cookových ostrovov"
+    },
+    {
+      "id": 44,
+      "code": "Cuba",
+      "vseobecny_nazov": "kubánsky čas",
+      "standardny_nazov": "kubánsky štandardný čas",
+      "letny_nazov": "kubánsky letný čas"
+    },
+    {
+      "id": 45,
+      "code": "Davis",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "čas Davisovej stanice",
+      "letny_nazov": ""
+    },
+    {
+      "id": 46,
+      "code": "DumontDUrville",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "čas stanice Dumonta d’Urvillea",
+      "letny_nazov": ""
+    },
+    {
+      "id": 47,
+      "code": "East_Timor",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "východotimorský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 48,
+      "code": "Easter",
+      "vseobecny_nazov": "čas Veľkonočného ostrova",
+      "standardny_nazov": "štandardný čas Veľkonočného ostrova",
+      "letny_nazov": "letný čas Veľkonočného ostrova"
+    },
+    {
+      "id": 49,
+      "code": "Ecuador",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "ekvádorský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 50,
+      "code": "Europe_Central",
+      "vseobecny_nazov": "stredoeurópsky čas",
+      "standardny_nazov": "stredoeurópsky štandardný čas",
+      "letny_nazov": "stredoeurópsky letný čas"
+    },
+    {
+      "id": 51,
+      "code": "Europe_Eastern",
+      "vseobecny_nazov": "východoeurópsky čas",
+      "standardny_nazov": "východoeurópsky štandardný čas",
+      "letny_nazov": "východoeurópsky letný čas"
+    },
+    {
+      "id": 52,
+      "code": "Europe_Further_Eastern",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "minský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 53,
+      "code": "Europe_Western",
+      "vseobecny_nazov": "západoeurópsky čas",
+      "standardny_nazov": "západoeurópsky štandardný čas",
+      "letny_nazov": "západoeurópsky letný čas"
+    },
+    {
+      "id": 54,
+      "code": "Falkland",
+      "vseobecny_nazov": "falklandský čas",
+      "standardny_nazov": "falklandský štandardný čas",
+      "letny_nazov": "falklandský letný čas"
+    },
+    {
+      "id": 55,
+      "code": "Fiji",
+      "vseobecny_nazov": "fidžijský čas",
+      "standardny_nazov": "fidžijský štandardný čas",
+      "letny_nazov": "fidžijský letný čas"
+    },
+    {
+      "id": 56,
+      "code": "French_Guiana",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "francúzskoguyanský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 57,
+      "code": "French_Southern",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "čas Francúzskych južných a antarktických území",
+      "letny_nazov": ""
+    },
+    {
+      "id": 58,
+      "code": "GMT",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "greenwichský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 59,
+      "code": "Galapagos",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "galapágsky čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 60,
+      "code": "Gambier",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "gambierský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 61,
+      "code": "Georgia",
+      "vseobecny_nazov": "gruzínsky čas",
+      "standardny_nazov": "gruzínsky štandardný čas",
+      "letny_nazov": "gruzínsky letný čas"
+    },
+    {
+      "id": 62,
+      "code": "Gilbert_Islands",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "čas Gilbertových ostrovov",
+      "letny_nazov": ""
+    },
+    {
+      "id": 63,
+      "code": "Greenland_Eastern",
+      "vseobecny_nazov": "východogrónsky čas",
+      "standardny_nazov": "východogrónsky štandardný čas",
+      "letny_nazov": "východogrónsky letný čas"
+    },
+    {
+      "id": 64,
+      "code": "Greenland_Western",
+      "vseobecny_nazov": "západogrónsky čas",
+      "standardny_nazov": "západogrónsky štandardný čas",
+      "letny_nazov": "západogrónsky letný čas"
+    },
+    {
+      "id": 65,
+      "code": "Guam",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "guamský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 66,
+      "code": "Gulf",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "štandardný čas Perzského zálivu",
+      "letny_nazov": ""
+    },
+    {
+      "id": 67,
+      "code": "Guyana",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "guyanský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 68,
+      "code": "Hawaii",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "havajsko-aleutský štandardný čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 69,
+      "code": "Hawaii_Aleutian",
+      "vseobecny_nazov": "havajsko-aleutský čas",
+      "standardny_nazov": "havajsko-aleutský štandardný čas",
+      "letny_nazov": "havajsko-aleutský letný čas"
+    },
+    {
+      "id": 70,
+      "code": "Hong_Kong",
+      "vseobecny_nazov": "hongkonský čas",
+      "standardny_nazov": "hongkonský štandardný čas",
+      "letny_nazov": "hongkonský letný čas"
+    },
+    {
+      "id": 71,
+      "code": "Hovd",
+      "vseobecny_nazov": "chovdský čas",
+      "standardny_nazov": "chovdský štandardný čas",
+      "letny_nazov": "chovdský letný čas"
+    },
+    {
+      "id": 72,
+      "code": "India",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "indický čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 73,
+      "code": "Indian_Ocean",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "indickooceánsky čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 74,
+      "code": "Indochina",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "indočínsky čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 75,
+      "code": "Indonesia_Central",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "stredoindonézsky čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 76,
+      "code": "Indonesia_Eastern",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "východoindonézsky čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 77,
+      "code": "Indonesia_Western",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "západoindonézsky čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 78,
+      "code": "Iran",
+      "vseobecny_nazov": "iránsky čas",
+      "standardny_nazov": "iránsky štandardný čas",
+      "letny_nazov": "iránsky letný čas"
+    },
+    {
+      "id": 79,
+      "code": "Irkutsk",
+      "vseobecny_nazov": "irkutský čas",
+      "standardny_nazov": "irkutský štandardný čas",
+      "letny_nazov": "irkutský letný čas"
+    },
+    {
+      "id": 80,
+      "code": "Israel",
+      "vseobecny_nazov": "izraelský čas",
+      "standardny_nazov": "izraelský štandardný čas",
+      "letny_nazov": "izraelský letný čas"
+    },
+    {
+      "id": 81,
+      "code": "Japan",
+      "vseobecny_nazov": "japonský čas",
+      "standardny_nazov": "japonský štandardný čas",
+      "letny_nazov": "japonský letný čas"
+    },
+    {
+      "id": 82,
+      "code": "Kamchatka",
+      "vseobecny_nazov": "Petropavlovsk-Kamčatský čas",
+      "standardny_nazov": "Petropavlovsk-Kamčatský štandardný čas",
+      "letny_nazov": "Petropavlovsk-Kamčatskijský letný čas"
+    },
+    {
+      "id": 83,
+      "code": "Kazakhstan",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "kazachstanský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 84,
+      "code": "Kazakhstan_Eastern",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "východokazachstanský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 85,
+      "code": "Kazakhstan_Western",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "západokazachstanský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 86,
+      "code": "Korea",
+      "vseobecny_nazov": "kórejský čas",
+      "standardny_nazov": "kórejský štandardný čas",
+      "letny_nazov": "kórejský letný čas"
+    },
+    {
+      "id": 87,
+      "code": "Kosrae",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "kosrajský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 88,
+      "code": "Krasnoyarsk",
+      "vseobecny_nazov": "krasnojarský čas",
+      "standardny_nazov": "krasnojarský štandardný čas",
+      "letny_nazov": "krasnojarský letný čas"
+    },
+    {
+      "id": 89,
+      "code": "Kyrgystan",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "kirgizský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 90,
+      "code": "Lanka",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "srílanský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 91,
+      "code": "Line_Islands",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "čas Rovníkových ostrovov",
+      "letny_nazov": ""
+    },
+    {
+      "id": 92,
+      "code": "Lord_Howe",
+      "vseobecny_nazov": "čas ostrova lorda Howa",
+      "standardny_nazov": "štandardný čas ostrova lorda Howa",
+      "letny_nazov": "letný čas ostrova lorda Howa"
+    },
+    {
+      "id": 93,
+      "code": "Macau",
+      "vseobecny_nazov": "macajský čas",
+      "standardny_nazov": "macajský štandardný čas",
+      "letny_nazov": "macajský letný čas"
+    },
+    {
+      "id": 94,
+      "code": "Magadan",
+      "vseobecny_nazov": "magadanský čas",
+      "standardny_nazov": "magadanský štandardný čas",
+      "letny_nazov": "magadanský letný čas"
+    },
+    {
+      "id": 95,
+      "code": "Malaysia",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "malajzijský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 96,
+      "code": "Maldives",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "maldivský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 97,
+      "code": "Marquesas",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "markézsky čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 98,
+      "code": "Marshall_Islands",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "čas Marshallových ostrovov",
+      "letny_nazov": ""
+    },
+    {
+      "id": 99,
+      "code": "Mauritius",
+      "vseobecny_nazov": "maurícijský čas",
+      "standardny_nazov": "maurícijský štandardný čas",
+      "letny_nazov": "maurícijský letný čas"
+    },
+    {
+      "id": 100,
+      "code": "Mawson",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "čas Mawsonovej stanice",
+      "letny_nazov": ""
+    },
+    {
+      "id": 101,
+      "code": "Mexico_Pacific",
+      "vseobecny_nazov": "mexický tichomorský čas",
+      "standardny_nazov": "mexický tichomorský štandardný čas",
+      "letny_nazov": "mexický tichomorský letný čas"
+    },
+    {
+      "id": 102,
+      "code": "Mongolia",
+      "vseobecny_nazov": "ulanbátarský čas",
+      "standardny_nazov": "ulanbátarský štandardný čas",
+      "letny_nazov": "ulanbátarský letný čas"
+    },
+    {
+      "id": 103,
+      "code": "Moscow",
+      "vseobecny_nazov": "moskovský čas",
+      "standardny_nazov": "moskovský štandardný čas",
+      "letny_nazov": "moskovský letný čas"
+    },
+    {
+      "id": 104,
+      "code": "Myanmar",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "mjanmarský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 105,
+      "code": "Nauru",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "nauruský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 106,
+      "code": "Nepal",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "nepálsky čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 107,
+      "code": "New_Caledonia",
+      "vseobecny_nazov": "novokaledónsky čas",
+      "standardny_nazov": "novokaledónsky štandardný čas",
+      "letny_nazov": "novokaledónsky letný čas"
+    },
+    {
+      "id": 108,
+      "code": "New_Zealand",
+      "vseobecny_nazov": "novozélandský čas",
+      "standardny_nazov": "novozélandský štandardný čas",
+      "letny_nazov": "novozélandský letný čas"
+    },
+    {
+      "id": 109,
+      "code": "Newfoundland",
+      "vseobecny_nazov": "newfoundlandský čas",
+      "standardny_nazov": "newfoundlandský štandardný čas",
+      "letny_nazov": "newfoundlandský letný čas"
+    },
+    {
+      "id": 110,
+      "code": "Niue",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "niuejský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 111,
+      "code": "Norfolk",
+      "vseobecny_nazov": "norfolský čas",
+      "standardny_nazov": "norfolský štandardný čas",
+      "letny_nazov": "norfolský letný čas"
+    },
+    {
+      "id": 112,
+      "code": "Noronha",
+      "vseobecny_nazov": "čas súostrovia Fernando de Noronha",
+      "standardny_nazov": "štandardný čas súostrovia Fernando de Noronha",
+      "letny_nazov": "letný čas súostrovia Fernando de Noronha"
+    },
+    {
+      "id": 113,
+      "code": "North_Mariana",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "severomariánsky čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 114,
+      "code": "Novosibirsk",
+      "vseobecny_nazov": "novosibirský čas",
+      "standardny_nazov": "novosibirský štandardný čas",
+      "letny_nazov": "novosibirský letný čas"
+    },
+    {
+      "id": 115,
+      "code": "Omsk",
+      "vseobecny_nazov": "omský čas",
+      "standardny_nazov": "omský štandardný čas",
+      "letny_nazov": "omský letný čas"
+    },
+    {
+      "id": 116,
+      "code": "Pakistan",
+      "vseobecny_nazov": "pakistanský čas",
+      "standardny_nazov": "pakistanský štandardný čas",
+      "letny_nazov": "pakistanský letný čas"
+    },
+    {
+      "id": 117,
+      "code": "Palau",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "palauský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 118,
+      "code": "Papua_New_Guinea",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "čas Papuy-Novej Guiney",
+      "letny_nazov": ""
+    },
+    {
+      "id": 119,
+      "code": "Paraguay",
+      "vseobecny_nazov": "paraguajský čas",
+      "standardny_nazov": "paraguajský štandardný čas",
+      "letny_nazov": "paraguajský letný čas"
+    },
+    {
+      "id": 120,
+      "code": "Peru",
+      "vseobecny_nazov": "peruánsky čas",
+      "standardny_nazov": "peruánsky štandardný čas",
+      "letny_nazov": "peruánsky letný čas"
+    },
+    {
+      "id": 121,
+      "code": "Philippines",
+      "vseobecny_nazov": "filipínsky čas",
+      "standardny_nazov": "filipínsky štandardný čas",
+      "letny_nazov": "filipínsky letný čas"
+    },
+    {
+      "id": 122,
+      "code": "Phoenix_Islands",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "čas Fénixových ostrovov",
+      "letny_nazov": ""
+    },
+    {
+      "id": 123,
+      "code": "Pierre_Miquelon",
+      "vseobecny_nazov": "pierre-miquelonský čas",
+      "standardny_nazov": "pierre-miquelonský štandardný čas",
+      "letny_nazov": "pierre-miquelonský letný čas"
+    },
+    {
+      "id": 124,
+      "code": "Pitcairn",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "čas Pitcairnových ostrovov",
+      "letny_nazov": ""
+    },
+    {
+      "id": 125,
+      "code": "Ponape",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "ponapský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 126,
+      "code": "Pyongyang",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "pchjongjanský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 127,
+      "code": "Qyzylorda",
+      "vseobecny_nazov": "kyzylordský čas",
+      "standardny_nazov": "kyzylordský štandardný čas",
+      "letny_nazov": "kyzylordský letný čas"
+    },
+    {
+      "id": 128,
+      "code": "Reunion",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "réunionský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 129,
+      "code": "Rothera",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "čas Rotherovej stanice",
+      "letny_nazov": ""
+    },
+    {
+      "id": 130,
+      "code": "Sakhalin",
+      "vseobecny_nazov": "sachalinský čas",
+      "standardny_nazov": "sachalinský štandardný čas",
+      "letny_nazov": "sachalinský letný čas"
+    },
+    {
+      "id": 131,
+      "code": "Samara",
+      "vseobecny_nazov": "Samarský čas",
+      "standardny_nazov": "Samarský štandardný čas",
+      "letny_nazov": "Samarský letný čas"
+    },
+    {
+      "id": 132,
+      "code": "Samoa",
+      "vseobecny_nazov": "samojský čas",
+      "standardny_nazov": "samojský štandardný čas",
+      "letny_nazov": "samojský letný čas"
+    },
+    {
+      "id": 133,
+      "code": "Seychelles",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "seychelský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 134,
+      "code": "Singapore",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "singapurský štandardný čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 135,
+      "code": "Solomon",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "čas Šalamúnových ostrovov",
+      "letny_nazov": ""
+    },
+    {
+      "id": 136,
+      "code": "South_Georgia",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "čas Južnej Georgie",
+      "letny_nazov": ""
+    },
+    {
+      "id": 137,
+      "code": "Suriname",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "surinamský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 138,
+      "code": "Syowa",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "čas stanice Šówa",
+      "letny_nazov": ""
+    },
+    {
+      "id": 139,
+      "code": "Tahiti",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "tahitský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 140,
+      "code": "Taipei",
+      "vseobecny_nazov": "tchajpejský čas",
+      "standardny_nazov": "tchajpejský štandardný čas",
+      "letny_nazov": "tchajpejský letný čas"
+    },
+    {
+      "id": 141,
+      "code": "Tajikistan",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "tadžický čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 142,
+      "code": "Tokelau",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "tokelauský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 143,
+      "code": "Tonga",
+      "vseobecny_nazov": "tonžský čas",
+      "standardny_nazov": "tonžský štandardný čas",
+      "letny_nazov": "tonžský letný čas"
+    },
+    {
+      "id": 144,
+      "code": "Truk",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "chuukský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 145,
+      "code": "Turkmenistan",
+      "vseobecny_nazov": "turkménsky čas",
+      "standardny_nazov": "turkménsky štandardný čas",
+      "letny_nazov": "turkménsky letný čas"
+    },
+    {
+      "id": 146,
+      "code": "Tuvalu",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "tuvalský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 147,
+      "code": "Uruguay",
+      "vseobecny_nazov": "uruguajský čas",
+      "standardny_nazov": "uruguajský štandardný čas",
+      "letny_nazov": "uruguajský letný čas"
+    },
+    {
+      "id": 148,
+      "code": "Uzbekistan",
+      "vseobecny_nazov": "uzbecký čas",
+      "standardny_nazov": "uzbecký štandardný čas",
+      "letny_nazov": "uzbecký letný čas"
+    },
+    {
+      "id": 149,
+      "code": "Vanuatu",
+      "vseobecny_nazov": "vanuatský čas",
+      "standardny_nazov": "vanuatský štandardný čas",
+      "letny_nazov": "vanuatský letný čas"
+    },
+    {
+      "id": 150,
+      "code": "Venezuela",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "venezuelský čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 151,
+      "code": "Vladivostok",
+      "vseobecny_nazov": "vladivostocký čas",
+      "standardny_nazov": "vladivostocký štandardný čas",
+      "letny_nazov": "vladivostocký letný čas"
+    },
+    {
+      "id": 152,
+      "code": "Volgograd",
+      "vseobecny_nazov": "volgogradský čas",
+      "standardny_nazov": "volgogradský štandardný čas",
+      "letny_nazov": "volgogradský letný čas"
+    },
+    {
+      "id": 153,
+      "code": "Vostok",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "čas stanice Vostok",
+      "letny_nazov": ""
+    },
+    {
+      "id": 154,
+      "code": "Wake",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "čas ostrova Wake",
+      "letny_nazov": ""
+    },
+    {
+      "id": 155,
+      "code": "Wallis",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "čas ostrovov Wallis a Futuna",
+      "letny_nazov": ""
+    },
+    {
+      "id": 156,
+      "code": "Yakutsk",
+      "vseobecny_nazov": "jakutský čas",
+      "standardny_nazov": "jakutský štandardný čas",
+      "letny_nazov": "jakutský letný čas"
+    },
+    {
+      "id": 157,
+      "code": "Yekaterinburg",
+      "vseobecny_nazov": "jekaterinburský čas",
+      "standardny_nazov": "jekaterinburský štandardný čas",
+      "letny_nazov": "jekaterinburský letný čas"
+    },
+    {
+      "id": 158,
+      "code": "Yukon",
+      "vseobecny_nazov": "",
+      "standardny_nazov": "yukonský čas",
+      "letny_nazov": ""
+    }
+  ],
+  "meta": {
+    "title": "Metazóny (makroregionálne časové pásma) — názvy v slovenčine - Bezplatné stiahnutie",
+    "description": "Metazóny (makroregionálne časové pásma) z locale sk v CLDR — so všeobecným názvom, štandardným názvom a letným názvom. Obsahuje 158 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Metazóny (makroregionálne časové pásma) — názvy v slovenčine | ListBase",
+    "seo_description": "Stiahnuť Metazóny (makroregionálne časové pásma) — názvy v slovenčine — 158 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 158 záznamov / 5 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

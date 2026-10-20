@@ -1,0 +1,169 @@
+{
+  "id": "sk-merne-jednotky-pressure",
+  "name": "Merné jednotky — kategória 'pressure' (12)",
+  "title": "Merné jednotky — kategória 'pressure' (12)",
+  "description": "Merné jednotky kategórie 'pressure' z locale sk v CLDR, s názvami v slovenčine.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "skratka",
+      "label": "Skratka",
+      "type": "string"
+    },
+    {
+      "key": "uzky_tvar",
+      "label": "Uzky Tvar",
+      "type": "string"
+    },
+    {
+      "key": "vzor",
+      "label": "Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "pressure-atmosphere",
+      "kategoria": "pressure",
+      "nazov": "atmosféry",
+      "skratka": "atm",
+      "uzky_tvar": "atm",
+      "vzor": "{0} atmosfér"
+    },
+    {
+      "id": 2,
+      "unit_code": "pressure-bar",
+      "kategoria": "pressure",
+      "nazov": "bary",
+      "skratka": "bar",
+      "uzky_tvar": "bar",
+      "vzor": "{0} barov"
+    },
+    {
+      "id": 3,
+      "unit_code": "pressure-gasoline-energy-density",
+      "kategoria": "pressure",
+      "nazov": "gas E",
+      "skratka": "gas E",
+      "uzky_tvar": "gas E",
+      "vzor": "{0} gas E"
+    },
+    {
+      "id": 4,
+      "unit_code": "pressure-hectopascal",
+      "kategoria": "pressure",
+      "nazov": "hektopascaly",
+      "skratka": "hPa",
+      "uzky_tvar": "hPa",
+      "vzor": "{0} hektopascalov"
+    },
+    {
+      "id": 5,
+      "unit_code": "pressure-inch-ofhg",
+      "kategoria": "pressure",
+      "nazov": "palce ortuťového stĺpca",
+      "skratka": "inHg",
+      "uzky_tvar": "inHg",
+      "vzor": "{0} palcov ortuťového stĺpca"
+    },
+    {
+      "id": 6,
+      "unit_code": "pressure-kilopascal",
+      "kategoria": "pressure",
+      "nazov": "kilopascaly",
+      "skratka": "kPa",
+      "uzky_tvar": "kPa",
+      "vzor": "{0} kilopascalov"
+    },
+    {
+      "id": 7,
+      "unit_code": "pressure-megapascal",
+      "kategoria": "pressure",
+      "nazov": "megapascaly",
+      "skratka": "MPa",
+      "uzky_tvar": "MPa",
+      "vzor": "{0} megapascalov"
+    },
+    {
+      "id": 8,
+      "unit_code": "pressure-millibar",
+      "kategoria": "pressure",
+      "nazov": "milibary",
+      "skratka": "mbar",
+      "uzky_tvar": "mbar",
+      "vzor": "{0} milibarov"
+    },
+    {
+      "id": 9,
+      "unit_code": "pressure-millimeter-ofhg",
+      "kategoria": "pressure",
+      "nazov": "milimetre ortuťového stĺpca",
+      "skratka": "mm Hg",
+      "uzky_tvar": "mm Hg",
+      "vzor": "{0} milimetrov ortuťového stĺpca"
+    },
+    {
+      "id": 10,
+      "unit_code": "pressure-ofhg",
+      "kategoria": "pressure",
+      "nazov": "ortute",
+      "skratka": "Hg",
+      "uzky_tvar": "Hg",
+      "vzor": "{0} Hg"
+    },
+    {
+      "id": 11,
+      "unit_code": "pressure-pascal",
+      "kategoria": "pressure",
+      "nazov": "pascaly",
+      "skratka": "Pa",
+      "uzky_tvar": "Pa",
+      "vzor": "{0} pascalov"
+    },
+    {
+      "id": 12,
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "kategoria": "pressure",
+      "nazov": "libry sily na štvorcový palec",
+      "skratka": "psi",
+      "uzky_tvar": "psi",
+      "vzor": "{0} libier sily na štvorcový palec"
+    }
+  ],
+  "meta": {
+    "title": "Merné jednotky — kategória 'pressure' (12) - Bezplatné stiahnutie",
+    "description": "Merné jednotky kategórie 'pressure' z locale sk v CLDR, s názvami v slovenčine. Obsahuje 12 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Merné jednotky — kategória 'pressure' (12) | ListBase",
+    "seo_description": "Stiahnuť Merné jednotky — kategória 'pressure' (12) — 12 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 12 záznamov / 7 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

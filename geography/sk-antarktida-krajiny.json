@@ -1,0 +1,176 @@
+{
+  "id": "sk-antarktida-krajiny",
+  "name": "Krajiny – Antarktída",
+  "title": "Krajiny – Antarktída",
+  "description": "Krajiny na kontinente Antarktída s ISO kódmi, slovenskými názvami, telefónnymi predvoľbami a ďalšími metaúdajmi.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "iso_3166_1_alpha_2",
+      "label": "Iso 3166 1 Alpha 2",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_1_alpha_3",
+      "label": "Iso 3166 1 Alpha 3",
+      "type": "string"
+    },
+    {
+      "key": "name_sk",
+      "label": "Name Sk",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_native",
+      "label": "Name Native",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "phone_codes",
+      "label": "Phone Codes",
+      "type": "number"
+    },
+    {
+      "key": "phone_codes_formatted",
+      "label": "Phone Codes Formatted",
+      "type": "string"
+    },
+    {
+      "key": "continent_code",
+      "label": "Continent Code",
+      "type": "string"
+    },
+    {
+      "key": "continent_sk",
+      "label": "Continent Sk",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "currency_codes",
+      "label": "Currency Codes",
+      "type": "string"
+    },
+    {
+      "key": "language_codes",
+      "label": "Language Codes",
+      "type": "string"
+    },
+    {
+      "key": "emoji_flag",
+      "label": "Emoji Flag",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_3166_1_alpha_2": "AQ",
+      "iso_3166_1_alpha_3": "ATA",
+      "name_sk": "Antarktída",
+      "name_en": "Antarctica",
+      "name_native": "Antarctica",
+      "slug": "antarctica",
+      "phone_codes": "",
+      "phone_codes_formatted": "",
+      "continent_code": "AN",
+      "continent_sk": "Antarktída",
+      "capital": "",
+      "currency_codes": "",
+      "language_codes": "",
+      "emoji_flag": "🇦🇶"
+    },
+    {
+      "iso_3166_1_alpha_2": "BV",
+      "iso_3166_1_alpha_3": "BVT",
+      "name_sk": "Bouvetov ostrov",
+      "name_en": "Bouvet Island",
+      "name_native": "Bouvetøya",
+      "slug": "bouvet-island",
+      "phone_codes": "47",
+      "phone_codes_formatted": "+47",
+      "continent_code": "AN",
+      "continent_sk": "Antarktída",
+      "capital": "",
+      "currency_codes": "",
+      "language_codes": "nor",
+      "emoji_flag": "🇧🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "GS",
+      "iso_3166_1_alpha_3": "SGS",
+      "name_sk": "Južná Georgia a Južné Sandwichove ostrovy",
+      "name_en": "South Georgia",
+      "name_native": "South Georgia",
+      "slug": "south-georgia",
+      "phone_codes": "500",
+      "phone_codes_formatted": "+500",
+      "continent_code": "AN",
+      "continent_sk": "Antarktída",
+      "capital": "King Edward Point",
+      "currency_codes": "SHP",
+      "language_codes": "eng",
+      "emoji_flag": "🇬🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "HM",
+      "iso_3166_1_alpha_3": "HMD",
+      "name_sk": "Heardov ostrov",
+      "name_en": "Heard Island and McDonald Islands",
+      "name_native": "Heard Island and McDonald Islands",
+      "slug": "heard-island-and-mcdonald-islands",
+      "phone_codes": "",
+      "phone_codes_formatted": "",
+      "continent_code": "AN",
+      "continent_sk": "Antarktída",
+      "capital": "",
+      "currency_codes": "",
+      "language_codes": "eng",
+      "emoji_flag": "🇭🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "TF",
+      "iso_3166_1_alpha_3": "ATF",
+      "name_sk": "Francúzske juŽné a antarktické územia",
+      "name_en": "French Southern and Antarctic Lands",
+      "name_native": "Terres australes et antarctiques françaises",
+      "slug": "french-southern-and-antarctic-lands",
+      "phone_codes": "262",
+      "phone_codes_formatted": "+262",
+      "continent_code": "AN",
+      "continent_sk": "Antarktída",
+      "capital": "Port-aux-Français",
+      "currency_codes": "EUR",
+      "language_codes": "fra",
+      "emoji_flag": "🇹🇫"
+    }
+  ],
+  "meta": {
+    "title": "Krajiny – Antarktída - Bezplatné stiahnutie",
+    "description": "Krajiny na kontinente Antarktída s ISO kódmi, slovenskými názvami, telefónnymi predvoľbami a ďalšími metaúdajmi. Obsahuje 5 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Krajiny – Antarktída | ListBase",
+    "seo_description": "Stiahnuť Krajiny – Antarktída — 5 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 5 záznamov / 14 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

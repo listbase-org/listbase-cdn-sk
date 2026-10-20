@@ -1,0 +1,4441 @@
+{
+  "id": "sk-banky",
+  "name": "Banky na Slovensku (pobočky)",
+  "title": "Banky na Slovensku (pobočky)",
+  "description": "Zoznam pomenovaných bankových pobočiek na Slovensku (amenity=bank) z OpenStreetMap. Odlišné od sk-banky-bic (zoznam SWIFT/BIC kódov).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 880,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "365 bank",
+      "latitude": 48.284334,
+      "longitude": 17.270961
+    },
+    {
+      "name": "365.bank",
+      "latitude": 47.762892,
+      "longitude": 18.127792
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.132282,
+      "longitude": 17.109164
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.140696,
+      "longitude": 17.095785
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.147007,
+      "longitude": 17.129868
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.148578,
+      "longitude": 17.869766
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.159759,
+      "longitude": 17.161321
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.168215,
+      "longitude": 17.1398
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.190211,
+      "longitude": 17.724361
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.320221,
+      "longitude": 18.092448
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.374717,
+      "longitude": 17.586912
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.437248,
+      "longitude": 17.022599
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.575883,
+      "longitude": 19.125762
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.591029,
+      "longitude": 18.850695
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.595074,
+      "longitude": 17.825673
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.627042,
+      "longitude": 18.372155
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.659476,
+      "longitude": 20.53005
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.680639,
+      "longitude": 17.367075
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.714673,
+      "longitude": 21.236958
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.717077,
+      "longitude": 21.259438
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.753959,
+      "longitude": 21.917466
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.771526,
+      "longitude": 18.6218
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.807192,
+      "longitude": 19.642633
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.846474,
+      "longitude": 17.225386
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.890453,
+      "longitude": 21.683483
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.98843,
+      "longitude": 21.263078
+    },
+    {
+      "name": "365.bank",
+      "latitude": 48.996644,
+      "longitude": 21.241694
+    },
+    {
+      "name": "365.bank",
+      "latitude": 49.054103,
+      "longitude": 20.297232
+    },
+    {
+      "name": "365.bank",
+      "latitude": 49.219893,
+      "longitude": 18.740295
+    },
+    {
+      "name": "365.bank",
+      "latitude": 49.295206,
+      "longitude": 21.278795
+    },
+    {
+      "name": "365.bank",
+      "latitude": 49.301097,
+      "longitude": 20.689442
+    },
+    {
+      "name": "BKS Bank",
+      "latitude": 48.140265,
+      "longitude": 17.119389
+    },
+    {
+      "name": "BKS Bank",
+      "latitude": 49.231349,
+      "longitude": 18.739676
+    },
+    {
+      "name": "Burza cenných papierov",
+      "latitude": 48.149169,
+      "longitude": 17.110655
+    },
+    {
+      "name": "Citibank",
+      "latitude": 48.141852,
+      "longitude": 17.089483
+    },
+    {
+      "name": "Commerzbank",
+      "latitude": 48.717062,
+      "longitude": 21.250065
+    },
+    {
+      "name": "Customer finance holding",
+      "latitude": 49.056356,
+      "longitude": 20.294625
+    },
+    {
+      "name": "EXIMBANKA SR",
+      "latitude": 48.143343,
+      "longitude": 17.113453
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 47.758636,
+      "longitude": 18.126353
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 47.986232,
+      "longitude": 18.164075
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 48.144511,
+      "longitude": 17.113696
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 48.15011,
+      "longitude": 17.168023
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 48.155735,
+      "longitude": 17.142277
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 48.21798,
+      "longitude": 18.606677
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 48.310926,
+      "longitude": 18.086973
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 48.312546,
+      "longitude": 18.08781
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 48.329376,
+      "longitude": 19.66702
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 48.375277,
+      "longitude": 17.586667
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 48.559401,
+      "longitude": 18.176006
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 48.575084,
+      "longitude": 19.128134
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 48.589116,
+      "longitude": 17.834859
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 48.660076,
+      "longitude": 20.531938
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 48.718156,
+      "longitude": 21.258885
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 48.730545,
+      "longitude": 21.243874
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 48.733815,
+      "longitude": 19.143107
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 48.755239,
+      "longitude": 21.916007
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 48.772849,
+      "longitude": 18.619738
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 48.893757,
+      "longitude": 18.03978
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 48.936952,
+      "longitude": 21.908454
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 48.944009,
+      "longitude": 20.565883
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 48.996222,
+      "longitude": 21.241056
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 49.054894,
+      "longitude": 20.302891
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 49.066017,
+      "longitude": 18.921972
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 49.082164,
+      "longitude": 19.300975
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 49.084661,
+      "longitude": 19.613758
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 49.115301,
+      "longitude": 18.447445
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 49.223911,
+      "longitude": 18.738121
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 49.291617,
+      "longitude": 21.276235
+    },
+    {
+      "name": "Fio banka",
+      "latitude": 49.438556,
+      "longitude": 18.789544
+    },
+    {
+      "name": "Firemné centrum Tatra banka Prešov",
+      "latitude": 48.992098,
+      "longitude": 21.239514
+    },
+    {
+      "name": "Home Credit",
+      "latitude": 48.151851,
+      "longitude": 17.157419
+    },
+    {
+      "name": "Home Credit",
+      "latitude": 48.309335,
+      "longitude": 18.098981
+    },
+    {
+      "name": "Home Credit",
+      "latitude": 48.369321,
+      "longitude": 17.578875
+    },
+    {
+      "name": "Home Credit",
+      "latitude": 48.997954,
+      "longitude": 21.270461
+    },
+    {
+      "name": "Home Credit",
+      "latitude": 49.084988,
+      "longitude": 18.924026
+    },
+    {
+      "name": "Home Credit Slovakia, a.s.",
+      "latitude": 48.593355,
+      "longitude": 17.823816
+    },
+    {
+      "name": "Istrobanka",
+      "latitude": 48.327357,
+      "longitude": 19.669074
+    },
+    {
+      "name": "J&T Banka",
+      "latitude": 48.141411,
+      "longitude": 17.091367
+    },
+    {
+      "name": "J&T Banka",
+      "latitude": 48.717449,
+      "longitude": 21.260204
+    },
+    {
+      "name": "K&H Bank",
+      "latitude": 47.761704,
+      "longitude": 18.546766
+    },
+    {
+      "name": "Kancelária obchodných zástupcov Prvej stavebnej sporiteľne",
+      "latitude": 48.150039,
+      "longitude": 17.873047
+    },
+    {
+      "name": "Kancelária obchodných zástupcov Prvej stavebnej sporiteľne",
+      "latitude": 49.22229,
+      "longitude": 18.558612
+    },
+    {
+      "name": "Kancelária obchodných zástupcov Prvej stavebnej sporiteľne",
+      "latitude": 49.224173,
+      "longitude": 18.559065
+    },
+    {
+      "name": "mBank",
+      "latitude": 48.140232,
+      "longitude": 17.121603
+    },
+    {
+      "name": "mBank",
+      "latitude": 48.146942,
+      "longitude": 17.129928
+    },
+    {
+      "name": "mBank",
+      "latitude": 48.165077,
+      "longitude": 17.181519
+    },
+    {
+      "name": "mBank",
+      "latitude": 48.206539,
+      "longitude": 17.032708
+    },
+    {
+      "name": "mBank",
+      "latitude": 48.374367,
+      "longitude": 17.592607
+    },
+    {
+      "name": "mBank",
+      "latitude": 48.695941,
+      "longitude": 21.237558
+    },
+    {
+      "name": "mBank",
+      "latitude": 48.717506,
+      "longitude": 21.261999
+    },
+    {
+      "name": "mBank",
+      "latitude": 48.863741,
+      "longitude": 18.023604
+    },
+    {
+      "name": "mBank",
+      "latitude": 49.22005,
+      "longitude": 18.740277
+    },
+    {
+      "name": "Národná banka Slovenska",
+      "latitude": 47.99107,
+      "longitude": 18.162956
+    },
+    {
+      "name": "Národná banka Slovenska",
+      "latitude": 48.32598,
+      "longitude": 19.66789
+    },
+    {
+      "name": "Národná banka Slovenska",
+      "latitude": 48.731584,
+      "longitude": 21.253495
+    },
+    {
+      "name": "Národná banka Slovenska",
+      "latitude": 48.733504,
+      "longitude": 19.14542
+    },
+    {
+      "name": "Národná banka Slovenska",
+      "latitude": 49.049916,
+      "longitude": 20.299881
+    },
+    {
+      "name": "Národná banka Slovenska",
+      "latitude": 49.214135,
+      "longitude": 18.740737
+    },
+    {
+      "name": "Oberbank",
+      "latitude": 48.146307,
+      "longitude": 17.138479
+    },
+    {
+      "name": "Oberbank",
+      "latitude": 48.314902,
+      "longitude": 18.086251
+    },
+    {
+      "name": "Oberbank",
+      "latitude": 48.721195,
+      "longitude": 21.26135
+    },
+    {
+      "name": "Oberbank",
+      "latitude": 48.72237,
+      "longitude": 21.259294
+    },
+    {
+      "name": "Oberbank",
+      "latitude": 48.727018,
+      "longitude": 21.256055
+    },
+    {
+      "name": "Oberbank",
+      "latitude": 49.223405,
+      "longitude": 18.737571
+    },
+    {
+      "name": "OTP",
+      "latitude": 49.103637,
+      "longitude": 21.094568
+    },
+    {
+      "name": "OTP Bank",
+      "latitude": 49.083347,
+      "longitude": 19.302043
+    },
+    {
+      "name": "OTP banka",
+      "latitude": 49.054826,
+      "longitude": 20.303472
+    },
+    {
+      "name": "OTP Banka",
+      "latitude": 49.115513,
+      "longitude": 18.447369
+    },
+    {
+      "name": "Pannon TakarékBank",
+      "latitude": 47.74995,
+      "longitude": 18.48673
+    },
+    {
+      "name": "PEPE Invest s.r.o.",
+      "latitude": 48.120899,
+      "longitude": 17.102081
+    },
+    {
+      "name": "Pieniński Bank Spółdzielczy",
+      "latitude": 49.40271,
+      "longitude": 20.341004
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 47.76172,
+      "longitude": 18.132652
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.014306,
+      "longitude": 17.805806
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.124117,
+      "longitude": 17.111362
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.133724,
+      "longitude": 17.105625
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.133875,
+      "longitude": 17.206182
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.141802,
+      "longitude": 17.089169
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.145528,
+      "longitude": 17.10856
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.153444,
+      "longitude": 17.060197
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.1681,
+      "longitude": 17.139886
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.17048,
+      "longitude": 17.147394
+    },
+    {
+      "name": "Poštová Banka",
+      "latitude": 48.219446,
+      "longitude": 17.395937
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.220117,
+      "longitude": 18.605672
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.258148,
+      "longitude": 18.738775
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.287383,
+      "longitude": 17.271903
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.308296,
+      "longitude": 18.099059
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.313684,
+      "longitude": 18.090285
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.315306,
+      "longitude": 18.090677
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.367789,
+      "longitude": 17.897584
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.426935,
+      "longitude": 17.79425
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.574793,
+      "longitude": 19.12698
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.629275,
+      "longitude": 21.173973
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.688886,
+      "longitude": 21.283849
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.707525,
+      "longitude": 21.236167
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.718998,
+      "longitude": 18.256874
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.721925,
+      "longitude": 21.24996
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.726013,
+      "longitude": 21.266331
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.732553,
+      "longitude": 19.140693
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.736312,
+      "longitude": 21.284533
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.754815,
+      "longitude": 17.832492
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.755531,
+      "longitude": 21.266854
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.758803,
+      "longitude": 17.828106
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.888212,
+      "longitude": 18.03558
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.895412,
+      "longitude": 18.04225
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.937079,
+      "longitude": 21.908445
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.944491,
+      "longitude": 20.568793
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.958787,
+      "longitude": 18.173443
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 48.999257,
+      "longitude": 21.240202
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 49.065019,
+      "longitude": 18.920515
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 49.079475,
+      "longitude": 19.305056
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 49.100484,
+      "longitude": 21.103114
+    },
+    {
+      "name": "Poštová banka",
+      "latitude": 49.292898,
+      "longitude": 21.274437
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 47.75833,
+      "longitude": 18.126842
+    },
+    {
+      "name": "Prima Banka",
+      "latitude": 47.762655,
+      "longitude": 18.127818
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 47.799157,
+      "longitude": 18.720243
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.026848,
+      "longitude": 17.310266
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.088712,
+      "longitude": 18.185083
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.108491,
+      "longitude": 17.097546
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.123506,
+      "longitude": 17.109825
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.130818,
+      "longitude": 17.10828
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.134008,
+      "longitude": 17.205534
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.139884,
+      "longitude": 17.123571
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.146245,
+      "longitude": 17.107799
+    },
+    {
+      "name": "Prima Banka",
+      "latitude": 48.149131,
+      "longitude": 17.109868
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.14949,
+      "longitude": 17.873419
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.153074,
+      "longitude": 17.165374
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.153617,
+      "longitude": 17.135468
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.161341,
+      "longitude": 17.122945
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.162206,
+      "longitude": 17.049463
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.168812,
+      "longitude": 17.13921
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.1895,
+      "longitude": 17.727626
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.192178,
+      "longitude": 17.733424
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.205777,
+      "longitude": 17.032525
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.21709,
+      "longitude": 18.60525
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.219235,
+      "longitude": 18.607218
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.244277,
+      "longitude": 18.306367
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.285986,
+      "longitude": 17.270392
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.286386,
+      "longitude": 17.736324
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.287118,
+      "longitude": 17.270585
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.306467,
+      "longitude": 18.084882
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.30967,
+      "longitude": 18.097511
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.311718,
+      "longitude": 18.089896
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.31313,
+      "longitude": 18.088064
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.314167,
+      "longitude": 18.085684
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.32967,
+      "longitude": 19.661245
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.35471,
+      "longitude": 19.066782
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.369512,
+      "longitude": 17.575996
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.383491,
+      "longitude": 18.396223
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.384524,
+      "longitude": 20.019763
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.387518,
+      "longitude": 17.59957
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.423673,
+      "longitude": 21.978537
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.43615,
+      "longitude": 17.019931
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.457612,
+      "longitude": 18.897505
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.483075,
+      "longitude": 18.720966
+    },
+    {
+      "name": "Prima Banka",
+      "latitude": 48.539764,
+      "longitude": 19.407664
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.589098,
+      "longitude": 17.833105
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.5916,
+      "longitude": 18.850155
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.609386,
+      "longitude": 21.000661
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.626285,
+      "longitude": 18.371288
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.629703,
+      "longitude": 21.720121
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.658731,
+      "longitude": 20.53221
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.665991,
+      "longitude": 17.540367
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.676105,
+      "longitude": 21.300013
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.680204,
+      "longitude": 17.367919
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.6844,
+      "longitude": 20.112306
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.714854,
+      "longitude": 21.237705
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.715677,
+      "longitude": 21.213126
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.718489,
+      "longitude": 21.259666
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.719705,
+      "longitude": 18.257502
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.721531,
+      "longitude": 21.26258
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.728222,
+      "longitude": 18.759001
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.729635,
+      "longitude": 18.249963
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.733189,
+      "longitude": 19.142342
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.733848,
+      "longitude": 21.284581
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.743994,
+      "longitude": 22.18121
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.753645,
+      "longitude": 21.269495
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.755477,
+      "longitude": 21.92353
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.755749,
+      "longitude": 21.916474
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.757436,
+      "longitude": 17.831654
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.770985,
+      "longitude": 18.626133
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.774689,
+      "longitude": 18.611458
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.804343,
+      "longitude": 19.641024
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.846166,
+      "longitude": 17.230211
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.863189,
+      "longitude": 18.859326
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.89005,
+      "longitude": 21.684127
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.893448,
+      "longitude": 18.039726
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.894193,
+      "longitude": 18.039121
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.936854,
+      "longitude": 21.909464
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.945105,
+      "longitude": 20.562845
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.958982,
+      "longitude": 18.173168
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.987907,
+      "longitude": 22.153545
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.991195,
+      "longitude": 21.245343
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.998775,
+      "longitude": 21.271342
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 48.99984,
+      "longitude": 21.238995
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 49.037107,
+      "longitude": 19.722135
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 49.049195,
+      "longitude": 20.291868
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 49.054541,
+      "longitude": 20.301649
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 49.066511,
+      "longitude": 18.92309
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 49.079756,
+      "longitude": 19.304979
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 49.081372,
+      "longitude": 19.614124
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 49.083013,
+      "longitude": 19.303468
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 49.088484,
+      "longitude": 18.932297
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 49.102375,
+      "longitude": 21.096943
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 49.114261,
+      "longitude": 18.446851
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 49.123027,
+      "longitude": 18.328276
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 49.134079,
+      "longitude": 20.429974
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 49.210189,
+      "longitude": 19.293901
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 49.21172,
+      "longitude": 18.752525
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 49.222954,
+      "longitude": 18.558317
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 49.224735,
+      "longitude": 18.738802
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 49.226142,
+      "longitude": 18.745155
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 49.272546,
+      "longitude": 21.902627
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 49.295616,
+      "longitude": 21.27977
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 49.301148,
+      "longitude": 20.689396
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 49.304869,
+      "longitude": 18.787472
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 49.359531,
+      "longitude": 19.607711
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 49.404835,
+      "longitude": 19.480414
+    },
+    {
+      "name": "Prima banka",
+      "latitude": 49.437905,
+      "longitude": 18.789201
+    },
+    {
+      "name": "Privatbanka",
+      "latitude": 47.98538,
+      "longitude": 18.165409
+    },
+    {
+      "name": "Privatbanka",
+      "latitude": 48.129681,
+      "longitude": 17.106081
+    },
+    {
+      "name": "Privatbanka",
+      "latitude": 48.150075,
+      "longitude": 17.167657
+    },
+    {
+      "name": "Privatbanka",
+      "latitude": 48.152733,
+      "longitude": 17.120763
+    },
+    {
+      "name": "Privatbanka",
+      "latitude": 48.312672,
+      "longitude": 18.087812
+    },
+    {
+      "name": "Privatbanka",
+      "latitude": 48.37552,
+      "longitude": 17.586607
+    },
+    {
+      "name": "Privatbanka",
+      "latitude": 48.719269,
+      "longitude": 21.253781
+    },
+    {
+      "name": "Privatbanka",
+      "latitude": 48.772132,
+      "longitude": 18.6192
+    },
+    {
+      "name": "Privatbanka",
+      "latitude": 48.80589,
+      "longitude": 19.642705
+    },
+    {
+      "name": "Privatbanka",
+      "latitude": 48.894292,
+      "longitude": 18.040718
+    },
+    {
+      "name": "Privatbanka",
+      "latitude": 48.995635,
+      "longitude": 21.242374
+    },
+    {
+      "name": "Privatbanka",
+      "latitude": 49.223427,
+      "longitude": 18.740119
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 47.760028,
+      "longitude": 18.122019
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 47.799285,
+      "longitude": 18.716156
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.089807,
+      "longitude": 18.184074
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.146665,
+      "longitude": 17.150016
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.148532,
+      "longitude": 17.106712
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.165354,
+      "longitude": 17.182261
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.169996,
+      "longitude": 17.128981
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.191406,
+      "longitude": 17.725628
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.303447,
+      "longitude": 18.082016
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.375563,
+      "longitude": 17.586187
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.377112,
+      "longitude": 17.585962
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.379197,
+      "longitude": 17.584946
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.382554,
+      "longitude": 20.017834
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.423753,
+      "longitude": 18.639504
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.544868,
+      "longitude": 19.410017
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.662098,
+      "longitude": 20.534183
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.683392,
+      "longitude": 20.114756
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.714635,
+      "longitude": 21.235919
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.714658,
+      "longitude": 21.236867
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.715607,
+      "longitude": 21.259443
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.716173,
+      "longitude": 21.213829
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.717717,
+      "longitude": 21.262531
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.721677,
+      "longitude": 21.262141
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.721883,
+      "longitude": 21.255933
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.723762,
+      "longitude": 21.251842
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.731459,
+      "longitude": 21.252903
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.733042,
+      "longitude": 21.287968
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.864423,
+      "longitude": 18.024014
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.891455,
+      "longitude": 21.010862
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.892608,
+      "longitude": 18.03738
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.895568,
+      "longitude": 18.043687
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.990878,
+      "longitude": 21.246603
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.995955,
+      "longitude": 21.242619
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.996658,
+      "longitude": 21.238761
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 48.998269,
+      "longitude": 21.270654
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 49.082113,
+      "longitude": 19.304395
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 49.210102,
+      "longitude": 19.293807
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 49.221097,
+      "longitude": 18.740897
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 49.225465,
+      "longitude": 18.743242
+    },
+    {
+      "name": "Prvá stavebná sporiteľňa",
+      "latitude": 49.294517,
+      "longitude": 21.274585
+    },
+    {
+      "name": "PSS",
+      "latitude": 48.59078,
+      "longitude": 18.850788
+    },
+    {
+      "name": "QUATRO Finančný dom",
+      "latitude": 48.863321,
+      "longitude": 18.023218
+    },
+    {
+      "name": "Raiffeisen",
+      "latitude": 49.121043,
+      "longitude": 18.325833
+    },
+    {
+      "name": "Raiffeisen Bank",
+      "latitude": 47.762881,
+      "longitude": 18.127917
+    },
+    {
+      "name": "Raiffeisen Bank",
+      "latitude": 48.146015,
+      "longitude": 17.126608
+    },
+    {
+      "name": "Raiffeisen Bank",
+      "latitude": 48.218936,
+      "longitude": 17.401682
+    },
+    {
+      "name": "Raiffeisen bank",
+      "latitude": 48.384743,
+      "longitude": 18.39281
+    },
+    {
+      "name": "Raiffeisen Bank",
+      "latitude": 48.575902,
+      "longitude": 19.128838
+    },
+    {
+      "name": "Raiffeisen bank",
+      "latitude": 48.757095,
+      "longitude": 21.919376
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 47.85586,
+      "longitude": 17.771909
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 47.987594,
+      "longitude": 18.165946
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 48.108498,
+      "longitude": 17.097831
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 48.140343,
+      "longitude": 17.120338
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 48.150253,
+      "longitude": 17.873469
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 48.165142,
+      "longitude": 17.182018
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 48.217755,
+      "longitude": 18.604979
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 48.307786,
+      "longitude": 18.086945
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 48.375341,
+      "longitude": 17.586657
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 48.427197,
+      "longitude": 17.79802
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 48.4378,
+      "longitude": 17.019144
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 48.588981,
+      "longitude": 17.833589
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 48.591107,
+      "longitude": 18.849447
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 48.679962,
+      "longitude": 17.368001
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 48.714573,
+      "longitude": 21.236357
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 48.717841,
+      "longitude": 21.262845
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 48.739203,
+      "longitude": 19.154277
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 48.756606,
+      "longitude": 21.917746
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 48.758996,
+      "longitude": 17.831259
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 48.771725,
+      "longitude": 18.622046
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 48.890504,
+      "longitude": 21.683419
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 48.958207,
+      "longitude": 18.173952
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 48.980895,
+      "longitude": 21.252465
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 48.988493,
+      "longitude": 21.263229
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 48.999115,
+      "longitude": 21.240058
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 49.053274,
+      "longitude": 20.299095
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 49.063046,
+      "longitude": 18.921458
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 49.079831,
+      "longitude": 19.30496
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 49.114344,
+      "longitude": 18.447212
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 49.134532,
+      "longitude": 20.430044
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 49.219626,
+      "longitude": 18.740732
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 49.226003,
+      "longitude": 18.744121
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 49.294281,
+      "longitude": 21.273033
+    },
+    {
+      "name": "Raiffeisen banka",
+      "latitude": 49.438101,
+      "longitude": 18.787128
+    },
+    {
+      "name": "Reiffeisen bank",
+      "latitude": 49.063168,
+      "longitude": 18.921512
+    },
+    {
+      "name": "Slovenská sporitel'ňa",
+      "latitude": 48.21951,
+      "longitude": 17.399498
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 47.799185,
+      "longitude": 18.72079
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 47.857329,
+      "longitude": 17.768974
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 47.870872,
+      "longitude": 18.194816
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 47.918113,
+      "longitude": 17.996499
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 47.98644,
+      "longitude": 18.164844
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 47.987798,
+      "longitude": 18.164708
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 47.992902,
+      "longitude": 18.268349
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 47.994932,
+      "longitude": 17.617017
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.000171,
+      "longitude": 18.153827
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.023737,
+      "longitude": 17.511942
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.028755,
+      "longitude": 17.308237
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.051116,
+      "longitude": 17.458066
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.069795,
+      "longitude": 18.948953
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.088272,
+      "longitude": 18.184887
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.094912,
+      "longitude": 18.06148
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.109534,
+      "longitude": 17.109222
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.117141,
+      "longitude": 17.097697
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.127549,
+      "longitude": 17.115365
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.129817,
+      "longitude": 17.17319
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.133748,
+      "longitude": 17.105609
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.134341,
+      "longitude": 17.205323
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.139802,
+      "longitude": 17.125922
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.144089,
+      "longitude": 17.113171
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.146503,
+      "longitude": 17.12805
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.146698,
+      "longitude": 17.109668
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.149884,
+      "longitude": 17.872809
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.151694,
+      "longitude": 17.15745
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.15823,
+      "longitude": 17.156076
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.165042,
+      "longitude": 17.095503
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.165238,
+      "longitude": 17.182073
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.16752,
+      "longitude": 17.150186
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.168188,
+      "longitude": 17.139038
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.170042,
+      "longitude": 17.129319
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.188886,
+      "longitude": 17.25562
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.191413,
+      "longitude": 17.730525
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.20301,
+      "longitude": 17.639178
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.206486,
+      "longitude": 19.347832
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.207633,
+      "longitude": 17.14958
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.211653,
+      "longitude": 17.154929
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.217163,
+      "longitude": 18.60511
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.223556,
+      "longitude": 18.597479
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.243766,
+      "longitude": 18.305129
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.270525,
+      "longitude": 17.03192
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.271095,
+      "longitude": 19.821717
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.287369,
+      "longitude": 17.272816
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.307491,
+      "longitude": 18.086254
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.308338,
+      "longitude": 18.09928
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.310544,
+      "longitude": 18.085669
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.31102,
+      "longitude": 18.0693
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.312536,
+      "longitude": 18.087274
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.317614,
+      "longitude": 18.103273
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.319513,
+      "longitude": 18.092803
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.327318,
+      "longitude": 19.669494
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.331041,
+      "longitude": 19.663135
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.33106,
+      "longitude": 19.660401
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.335751,
+      "longitude": 17.311454
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.351714,
+      "longitude": 19.068629
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.373906,
+      "longitude": 17.586774
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.374597,
+      "longitude": 17.592397
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.382844,
+      "longitude": 18.395642
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.383505,
+      "longitude": 20.021641
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.383648,
+      "longitude": 20.016368
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.421529,
+      "longitude": 20.323551
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.423046,
+      "longitude": 21.978613
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.426505,
+      "longitude": 17.796438
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.429346,
+      "longitude": 17.799944
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.432018,
+      "longitude": 19.794066
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.436273,
+      "longitude": 17.019486
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.458588,
+      "longitude": 18.892997
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.482673,
+      "longitude": 18.717412
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.555842,
+      "longitude": 22.074704
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.570507,
+      "longitude": 19.841455
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.575088,
+      "longitude": 19.126922
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.57719,
+      "longitude": 19.525362
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.578925,
+      "longitude": 18.251398
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.579602,
+      "longitude": 19.125808
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.579728,
+      "longitude": 19.951515
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.588813,
+      "longitude": 17.834087
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.590528,
+      "longitude": 18.850961
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.59469,
+      "longitude": 18.850406
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.594818,
+      "longitude": 17.82757
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.60818,
+      "longitude": 21.326456
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.608973,
+      "longitude": 21.001095
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.620194,
+      "longitude": 17.725438
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.625652,
+      "longitude": 18.369662
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.630574,
+      "longitude": 18.469016
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.630627,
+      "longitude": 21.719867
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.659,
+      "longitude": 20.530988
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.681091,
+      "longitude": 17.370558
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.683623,
+      "longitude": 20.113747
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.695888,
+      "longitude": 21.237357
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.701047,
+      "longitude": 18.915029
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.708075,
+      "longitude": 21.237281
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.715102,
+      "longitude": 21.238528
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.715771,
+      "longitude": 21.213817
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.716182,
+      "longitude": 21.249616
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.716695,
+      "longitude": 18.540666
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.718284,
+      "longitude": 21.263756
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.719096,
+      "longitude": 19.132845
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.719687,
+      "longitude": 18.255585
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.727759,
+      "longitude": 18.760594
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.730682,
+      "longitude": 21.243462
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.732818,
+      "longitude": 21.28943
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.736082,
+      "longitude": 19.146431
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.736465,
+      "longitude": 19.161572
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.737515,
+      "longitude": 19.156267
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.74455,
+      "longitude": 22.181176
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.750942,
+      "longitude": 17.565395
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.753737,
+      "longitude": 21.269411
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.754205,
+      "longitude": 17.829814
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.754988,
+      "longitude": 21.912162
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.757052,
+      "longitude": 17.831086
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.759537,
+      "longitude": 21.916774
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.771328,
+      "longitude": 18.623805
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.77834,
+      "longitude": 17.693119
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.780163,
+      "longitude": 18.607844
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.806039,
+      "longitude": 19.642198
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.811192,
+      "longitude": 19.528828
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.811932,
+      "longitude": 17.160487
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.845331,
+      "longitude": 17.22922
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.852081,
+      "longitude": 19.85318
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.853456,
+      "longitude": 20.93607
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.863626,
+      "longitude": 18.024047
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.864116,
+      "longitude": 18.860115
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.864931,
+      "longitude": 18.025034
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.871805,
+      "longitude": 18.634604
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.873561,
+      "longitude": 18.043579
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.889282,
+      "longitude": 21.683471
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.890521,
+      "longitude": 18.037167
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.891078,
+      "longitude": 18.056293
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.915084,
+      "longitude": 20.873891
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.93191,
+      "longitude": 21.912234
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.935251,
+      "longitude": 21.909005
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.935517,
+      "longitude": 20.575011
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.946743,
+      "longitude": 20.560507
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.957495,
+      "longitude": 18.17356
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.966206,
+      "longitude": 18.121501
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.98772,
+      "longitude": 22.151663
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.988541,
+      "longitude": 21.262788
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.990794,
+      "longitude": 21.246376
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.992817,
+      "longitude": 21.242911
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.997338,
+      "longitude": 21.241167
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.998361,
+      "longitude": 21.271303
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 48.998862,
+      "longitude": 18.23542
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.000978,
+      "longitude": 21.227888
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.025985,
+      "longitude": 20.589883
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.037203,
+      "longitude": 19.721789
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.053238,
+      "longitude": 20.29853
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.056769,
+      "longitude": 20.303336
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.061968,
+      "longitude": 18.919833
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.064154,
+      "longitude": 18.921478
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.076885,
+      "longitude": 19.307929
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.080061,
+      "longitude": 19.304999
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.081697,
+      "longitude": 19.619888
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.083402,
+      "longitude": 19.301957
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.084677,
+      "longitude": 19.612328
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.101484,
+      "longitude": 21.100644
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.102764,
+      "longitude": 18.459978
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.113889,
+      "longitude": 18.924561
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.114738,
+      "longitude": 18.448201
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.117211,
+      "longitude": 18.440245
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.121322,
+      "longitude": 18.327106
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.122313,
+      "longitude": 18.325198
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.134326,
+      "longitude": 20.430171
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.203728,
+      "longitude": 21.650861
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.211866,
+      "longitude": 18.752878
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.221356,
+      "longitude": 18.741391
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.223759,
+      "longitude": 18.559844
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.2723,
+      "longitude": 21.901699
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.292359,
+      "longitude": 21.270509
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.295167,
+      "longitude": 21.278507
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.300096,
+      "longitude": 20.69038
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.304964,
+      "longitude": 18.787463
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.306368,
+      "longitude": 21.571669
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.334649,
+      "longitude": 19.557169
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.359615,
+      "longitude": 19.609041
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.397073,
+      "longitude": 18.836602
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.40372,
+      "longitude": 19.47826
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.405563,
+      "longitude": 18.625359
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.438096,
+      "longitude": 18.787315
+    },
+    {
+      "name": "Slovenská sporiteľňa",
+      "latitude": 49.438751,
+      "longitude": 18.776687
+    },
+    {
+      "name": "Slovenská záručná a rozvojová banka",
+      "latitude": 47.758565,
+      "longitude": 18.125054
+    },
+    {
+      "name": "Slovenská záručná a rozvojová banka",
+      "latitude": 48.14503,
+      "longitude": 17.120546
+    },
+    {
+      "name": "Slovenská záručná a rozvojová banka",
+      "latitude": 48.148938,
+      "longitude": 17.103521
+    },
+    {
+      "name": "Slovenská záručná a rozvojová banka",
+      "latitude": 48.152566,
+      "longitude": 17.106299
+    },
+    {
+      "name": "Slovenská záručná a rozvojová banka",
+      "latitude": 48.375019,
+      "longitude": 17.586813
+    },
+    {
+      "name": "Slovenská záručná a rozvojová banka",
+      "latitude": 48.718361,
+      "longitude": 21.261568
+    },
+    {
+      "name": "Slovenská záručná a rozvojová banka",
+      "latitude": 48.995404,
+      "longitude": 21.242043
+    },
+    {
+      "name": "Slovenská záručná a rozvojová banka",
+      "latitude": 49.0821,
+      "longitude": 19.61469
+    },
+    {
+      "name": "SLSP",
+      "latitude": 48.544238,
+      "longitude": 19.414131
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 47.761429,
+      "longitude": 18.126544
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 47.799265,
+      "longitude": 18.717542
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 47.987747,
+      "longitude": 18.163992
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.026648,
+      "longitude": 17.311932
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.115952,
+      "longitude": 17.104989
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.13019,
+      "longitude": 17.114961
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.132358,
+      "longitude": 17.108588
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.133472,
+      "longitude": 17.204295
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.139877,
+      "longitude": 17.124079
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.144309,
+      "longitude": 17.123735
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.144462,
+      "longitude": 17.114742
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.147112,
+      "longitude": 17.128968
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.148351,
+      "longitude": 17.1087
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.14899,
+      "longitude": 17.166566
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.150224,
+      "longitude": 17.87341
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.159004,
+      "longitude": 17.120779
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.165332,
+      "longitude": 17.181413
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.167795,
+      "longitude": 17.139576
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.168632,
+      "longitude": 17.139716
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.176803,
+      "longitude": 17.129066
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.186387,
+      "longitude": 17.038365
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.18847,
+      "longitude": 17.726712
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.205817,
+      "longitude": 17.034069
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.217934,
+      "longitude": 18.606472
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.21817,
+      "longitude": 17.402909
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.285026,
+      "longitude": 17.271889
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.285695,
+      "longitude": 17.739939
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.307422,
+      "longitude": 18.086232
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.316086,
+      "longitude": 18.090932
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.317596,
+      "longitude": 18.103289
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.328719,
+      "longitude": 19.668298
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.376741,
+      "longitude": 17.586172
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.387256,
+      "longitude": 17.601721
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.437661,
+      "longitude": 17.018888
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.576305,
+      "longitude": 19.125527
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.588372,
+      "longitude": 17.832856
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.591142,
+      "longitude": 18.849406
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.594992,
+      "longitude": 17.826053
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.626691,
+      "longitude": 21.71946
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.680751,
+      "longitude": 17.366987
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.694705,
+      "longitude": 21.237522
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.714621,
+      "longitude": 21.236631
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.716014,
+      "longitude": 21.255293
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.717876,
+      "longitude": 21.262762
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.720441,
+      "longitude": 18.255431
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.734632,
+      "longitude": 19.143624
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.75503,
+      "longitude": 21.917136
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.756105,
+      "longitude": 17.830127
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.75665,
+      "longitude": 21.917864
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.771724,
+      "longitude": 18.620464
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.805909,
+      "longitude": 19.642631
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.846373,
+      "longitude": 17.229049
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.863592,
+      "longitude": 18.023698
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.889494,
+      "longitude": 21.683267
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.932115,
+      "longitude": 21.912196
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.946411,
+      "longitude": 20.560686
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.989064,
+      "longitude": 21.262102
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.992606,
+      "longitude": 21.243065
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.992613,
+      "longitude": 21.239244
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 48.998976,
+      "longitude": 21.240457
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 49.054719,
+      "longitude": 20.2985
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 49.067579,
+      "longitude": 18.923643
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 49.081697,
+      "longitude": 19.61316
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 49.08379,
+      "longitude": 19.30207
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 49.117438,
+      "longitude": 18.447694
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 49.120907,
+      "longitude": 18.326436
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 49.134283,
+      "longitude": 20.429857
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 49.213764,
+      "longitude": 18.756735
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 49.219926,
+      "longitude": 18.741029
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 49.293558,
+      "longitude": 21.276207
+    },
+    {
+      "name": "Tatra banka",
+      "latitude": 49.4381,
+      "longitude": 18.786987
+    },
+    {
+      "name": "Unibanka",
+      "latitude": 48.331525,
+      "longitude": 19.666141
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 47.758562,
+      "longitude": 18.126426
+    },
+    {
+      "name": "Unicredit Bank",
+      "latitude": 47.994771,
+      "longitude": 17.617296
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.133178,
+      "longitude": 17.10672
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.137077,
+      "longitude": 17.213944
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.140891,
+      "longitude": 17.109505
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.144714,
+      "longitude": 17.142949
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.150046,
+      "longitude": 17.11152
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.150313,
+      "longitude": 17.87358
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.151811,
+      "longitude": 17.12927
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.152525,
+      "longitude": 17.141738
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.155834,
+      "longitude": 17.108465
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.156728,
+      "longitude": 17.126635
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.168956,
+      "longitude": 17.139627
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.190427,
+      "longitude": 17.725505
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.217542,
+      "longitude": 18.607097
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.217769,
+      "longitude": 18.60522
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.284815,
+      "longitude": 17.73276
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.285837,
+      "longitude": 17.26907
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.308643,
+      "longitude": 18.083735
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.373478,
+      "longitude": 17.593518
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.377705,
+      "longitude": 17.585319
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.428047,
+      "longitude": 17.797809
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.438354,
+      "longitude": 17.016359
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.559518,
+      "longitude": 18.177455
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.579761,
+      "longitude": 19.126549
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.588636,
+      "longitude": 17.83403
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.592694,
+      "longitude": 18.847426
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.680764,
+      "longitude": 17.36546
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.714588,
+      "longitude": 21.236473
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.718565,
+      "longitude": 21.261273
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.750631,
+      "longitude": 17.565423
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.757786,
+      "longitude": 21.922285
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.759005,
+      "longitude": 17.830971
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.771461,
+      "longitude": 18.620848
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.84715,
+      "longitude": 17.227463
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.889977,
+      "longitude": 18.037047
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.8954,
+      "longitude": 18.039321
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.937327,
+      "longitude": 21.906367
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 48.99557,
+      "longitude": 21.241845
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 49.057728,
+      "longitude": 20.30112
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 49.063516,
+      "longitude": 18.921296
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 49.083519,
+      "longitude": 19.304733
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 49.117382,
+      "longitude": 18.439804
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 49.135637,
+      "longitude": 20.430037
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 49.219815,
+      "longitude": 18.74104
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 49.225705,
+      "longitude": 18.743868
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 49.294339,
+      "longitude": 21.273334
+    },
+    {
+      "name": "UniCredit Bank",
+      "latitude": 49.438051,
+      "longitude": 18.786549
+    },
+    {
+      "name": "VÚB",
+      "latitude": 48.140283,
+      "longitude": 17.121609
+    },
+    {
+      "name": "VÚB Banka",
+      "latitude": 48.575165,
+      "longitude": 19.125962
+    },
+    {
+      "name": "VÚB Banka pobočka Herlianska",
+      "latitude": 48.158139,
+      "longitude": 17.156091
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 47.759059,
+      "longitude": 18.124798
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 47.798837,
+      "longitude": 18.718573
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 47.871039,
+      "longitude": 18.190727
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 47.894062,
+      "longitude": 17.57663
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 47.914705,
+      "longitude": 17.99976
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 47.98634,
+      "longitude": 18.163617
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 47.996764,
+      "longitude": 17.613841
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.027366,
+      "longitude": 17.309374
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.086828,
+      "longitude": 17.256233
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.088826,
+      "longitude": 18.184407
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.09521,
+      "longitude": 18.063388
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.124359,
+      "longitude": 17.111351
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.13247,
+      "longitude": 17.108665
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.136481,
+      "longitude": 17.209474
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.14009,
+      "longitude": 17.123669
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.145006,
+      "longitude": 17.112784
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.147167,
+      "longitude": 17.125373
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.14978,
+      "longitude": 17.87376
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.150011,
+      "longitude": 17.166608
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.156642,
+      "longitude": 17.12968
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.165416,
+      "longitude": 17.182118
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.167594,
+      "longitude": 17.140484
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.181231,
+      "longitude": 17.041863
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.187441,
+      "longitude": 17.255966
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.190179,
+      "longitude": 17.726983
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.204821,
+      "longitude": 17.64388
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.205114,
+      "longitude": 17.033601
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.205551,
+      "longitude": 16.981547
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.210216,
+      "longitude": 19.35646
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.211341,
+      "longitude": 17.154801
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.216556,
+      "longitude": 18.603083
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.221925,
+      "longitude": 17.400717
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.243731,
+      "longitude": 18.305439
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.285426,
+      "longitude": 17.269271
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.307453,
+      "longitude": 18.086479
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.30954,
+      "longitude": 18.098486
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.309651,
+      "longitude": 18.08576
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.329174,
+      "longitude": 19.666416
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.374519,
+      "longitude": 17.589068
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.374933,
+      "longitude": 17.586803
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.383949,
+      "longitude": 20.020919
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.384019,
+      "longitude": 18.394365
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.387731,
+      "longitude": 17.599664
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.424482,
+      "longitude": 18.639932
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.425307,
+      "longitude": 17.795074
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.438011,
+      "longitude": 17.016256
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.458414,
+      "longitude": 18.893267
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.540393,
+      "longitude": 19.407511
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.555731,
+      "longitude": 22.074731
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.575192,
+      "longitude": 19.523928
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.590393,
+      "longitude": 18.851111
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.609282,
+      "longitude": 21.001096
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.621299,
+      "longitude": 17.724196
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.62657,
+      "longitude": 18.369396
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.628131,
+      "longitude": 21.719335
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.657991,
+      "longitude": 20.531855
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.681356,
+      "longitude": 17.367415
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.683602,
+      "longitude": 20.112337
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.695646,
+      "longitude": 21.236628
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.702324,
+      "longitude": 21.655023
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.703913,
+      "longitude": 18.397269
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.714714,
+      "longitude": 21.238994
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.716976,
+      "longitude": 21.250703
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.717374,
+      "longitude": 21.262773
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.717429,
+      "longitude": 21.260867
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.718965,
+      "longitude": 18.259805
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.727937,
+      "longitude": 18.759032
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.728481,
+      "longitude": 21.242702
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.730783,
+      "longitude": 19.13703
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.736936,
+      "longitude": 19.154914
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.751104,
+      "longitude": 17.565994
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.754909,
+      "longitude": 17.832652
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.756025,
+      "longitude": 21.912806
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.757324,
+      "longitude": 21.917266
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.771314,
+      "longitude": 18.623376
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.774254,
+      "longitude": 18.612222
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.780234,
+      "longitude": 17.691235
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.8056,
+      "longitude": 19.641856
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.806984,
+      "longitude": 17.162497
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.846335,
+      "longitude": 17.225491
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.850772,
+      "longitude": 20.933742
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.863491,
+      "longitude": 18.023624
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.873255,
+      "longitude": 21.835734
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.887157,
+      "longitude": 18.035071
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.889816,
+      "longitude": 21.684123
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.895919,
+      "longitude": 18.043661
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.910539,
+      "longitude": 20.872852
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.936539,
+      "longitude": 21.909612
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.945093,
+      "longitude": 20.565422
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.959474,
+      "longitude": 18.174133
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.987076,
+      "longitude": 22.151311
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.988503,
+      "longitude": 21.263634
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.990813,
+      "longitude": 21.245462
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.996725,
+      "longitude": 21.240479
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 48.998729,
+      "longitude": 18.235193
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.024839,
+      "longitude": 20.587924
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.05352,
+      "longitude": 20.298727
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.055851,
+      "longitude": 20.296408
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.062798,
+      "longitude": 18.921369
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.069023,
+      "longitude": 18.288392
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.079289,
+      "longitude": 19.304478
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.08517,
+      "longitude": 19.609609
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.101481,
+      "longitude": 21.101924
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.117401,
+      "longitude": 18.449577
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.124265,
+      "longitude": 18.329445
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.134206,
+      "longitude": 20.430068
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.152727,
+      "longitude": 20.964438
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.199444,
+      "longitude": 21.651691
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.210332,
+      "longitude": 19.294829
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.211198,
+      "longitude": 18.751537
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.221986,
+      "longitude": 18.741363
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.222423,
+      "longitude": 18.55917
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.272965,
+      "longitude": 21.902197
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.301202,
+      "longitude": 20.689903
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.301302,
+      "longitude": 20.688324
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.304465,
+      "longitude": 18.788426
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.30551,
+      "longitude": 21.571094
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.334381,
+      "longitude": 19.55554
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.359559,
+      "longitude": 19.60837
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.404869,
+      "longitude": 19.479762
+    },
+    {
+      "name": "Všeobecná úverová banka",
+      "latitude": 49.437205,
+      "longitude": 18.787448
+    },
+    {
+      "name": "Všeobecná úverová banka, a.s.",
+      "latitude": 48.717092,
+      "longitude": 21.250659
+    },
+    {
+      "name": "Wüstenrot stavebná sporiteľňa",
+      "latitude": 48.131017,
+      "longitude": 17.107226
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 47.758756,
+      "longitude": 18.126086
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 47.760956,
+      "longitude": 18.119668
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 47.799197,
+      "longitude": 18.721284
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 47.988325,
+      "longitude": 18.166546
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 47.993436,
+      "longitude": 17.616548
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.027652,
+      "longitude": 17.30942
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.121749,
+      "longitude": 17.101874
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.132318,
+      "longitude": 17.109107
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.133769,
+      "longitude": 17.105708
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.134308,
+      "longitude": 17.206375
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.139877,
+      "longitude": 17.124021
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.140576,
+      "longitude": 17.095096
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.14519,
+      "longitude": 17.110893
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.146519,
+      "longitude": 17.127879
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.148997,
+      "longitude": 17.872561
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.149772,
+      "longitude": 17.166593
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.156437,
+      "longitude": 17.126256
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.157378,
+      "longitude": 17.15552
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.165553,
+      "longitude": 17.182256
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.169231,
+      "longitude": 17.13973
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.191811,
+      "longitude": 17.7315
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.205464,
+      "longitude": 17.034447
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.210014,
+      "longitude": 19.349334
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.216816,
+      "longitude": 18.609392
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.219397,
+      "longitude": 17.400477
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.243698,
+      "longitude": 18.305951
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.286047,
+      "longitude": 17.739081
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.305354,
+      "longitude": 18.082306
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.312371,
+      "longitude": 18.091771
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.32945,
+      "longitude": 19.66492
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.335762,
+      "longitude": 17.31091
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.369605,
+      "longitude": 17.578145
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.38125,
+      "longitude": 17.583692
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.382693,
+      "longitude": 20.017639
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.384256,
+      "longitude": 18.392714
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.426535,
+      "longitude": 17.798735
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.434593,
+      "longitude": 17.021842
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.575254,
+      "longitude": 19.128898
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.577505,
+      "longitude": 19.125183
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.589009,
+      "longitude": 17.83445
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.592163,
+      "longitude": 18.849038
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.626189,
+      "longitude": 18.369775
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.630027,
+      "longitude": 21.719048
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.66028,
+      "longitude": 20.531724
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.682037,
+      "longitude": 17.367252
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.714323,
+      "longitude": 21.238396
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.716822,
+      "longitude": 21.263218
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.717884,
+      "longitude": 21.264335
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.718715,
+      "longitude": 18.257774
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.721213,
+      "longitude": 21.260412
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.728793,
+      "longitude": 21.241453
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.732135,
+      "longitude": 19.140633
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.734267,
+      "longitude": 19.143296
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.739118,
+      "longitude": 19.155755
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.755756,
+      "longitude": 21.916646
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.759411,
+      "longitude": 17.831249
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.780098,
+      "longitude": 18.607563
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.807148,
+      "longitude": 19.638971
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.845301,
+      "longitude": 17.229634
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.874654,
+      "longitude": 18.045306
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.886652,
+      "longitude": 18.033951
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.888077,
+      "longitude": 21.6858
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.893239,
+      "longitude": 18.0385
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.937219,
+      "longitude": 21.908374
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.95858,
+      "longitude": 18.174427
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.987323,
+      "longitude": 22.151877
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.997233,
+      "longitude": 21.241671
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.998227,
+      "longitude": 21.270408
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 48.998648,
+      "longitude": 21.240675
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 49.055056,
+      "longitude": 20.300094
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 49.058191,
+      "longitude": 20.299689
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 49.066048,
+      "longitude": 18.922814
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 49.079615,
+      "longitude": 19.304726
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 49.082329,
+      "longitude": 19.613936
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 49.116056,
+      "longitude": 18.446178
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 49.116856,
+      "longitude": 18.449552
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 49.11701,
+      "longitude": 18.317874
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 49.135096,
+      "longitude": 20.430676
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 49.208552,
+      "longitude": 19.296182
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 49.211239,
+      "longitude": 18.752478
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 49.223749,
+      "longitude": 18.557962
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 49.224582,
+      "longitude": 18.74536
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 49.224853,
+      "longitude": 18.741127
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 49.293481,
+      "longitude": 21.276245
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 49.301588,
+      "longitude": 20.689537
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 49.403227,
+      "longitude": 19.478623
+    },
+    {
+      "name": "ČSOB",
+      "latitude": 49.438068,
+      "longitude": 18.786735
+    },
+    {
+      "name": "ČSOB Leasing",
+      "latitude": 49.001079,
+      "longitude": 21.237771
+    },
+    {
+      "name": "ČSOB stavebná sporiteľňa",
+      "latitude": 48.190207,
+      "longitude": 17.729313
+    }
+  ],
+  "meta": {
+    "title": "Banky na Slovensku (pobočky) - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných bankových pobočiek na Slovensku (amenity=bank) z OpenStreetMap. Odlišné od sk-banky-bic (zoznam SWIFT/BIC kódov). Obsahuje 880 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Banky na Slovensku (pobočky) | ListBase",
+    "seo_description": "Stiahnuť Banky na Slovensku (pobočky) — 880 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 880 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

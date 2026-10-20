@@ -1,0 +1,214 @@
+{
+  "id": "sk-merne-jednotky-mass",
+  "name": "Merné jednotky — kategória 'mass' (17)",
+  "title": "Merné jednotky — kategória 'mass' (17)",
+  "description": "Merné jednotky kategórie 'mass' z locale sk v CLDR, s názvami v slovenčine.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "skratka",
+      "label": "Skratka",
+      "type": "string"
+    },
+    {
+      "key": "uzky_tvar",
+      "label": "Uzky Tvar",
+      "type": "string"
+    },
+    {
+      "key": "vzor",
+      "label": "Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "mass-carat",
+      "kategoria": "mass",
+      "nazov": "karáty",
+      "skratka": "ct",
+      "uzky_tvar": "ct",
+      "vzor": "{0} karátov"
+    },
+    {
+      "id": 2,
+      "unit_code": "mass-dalton",
+      "kategoria": "mass",
+      "nazov": "daltony",
+      "skratka": "Da",
+      "uzky_tvar": "Da",
+      "vzor": "{0} daltonov"
+    },
+    {
+      "id": 3,
+      "unit_code": "mass-earth-mass",
+      "kategoria": "mass",
+      "nazov": "hmotnosti Zeme",
+      "skratka": "M⊕",
+      "uzky_tvar": "M⊕",
+      "vzor": "{0} hmotností Zeme"
+    },
+    {
+      "id": 4,
+      "unit_code": "mass-fun",
+      "kategoria": "mass",
+      "nazov": "fun [JP]",
+      "skratka": "fun [JP]",
+      "uzky_tvar": "fun [JP]",
+      "vzor": "{0} fun [JP]"
+    },
+    {
+      "id": 5,
+      "unit_code": "mass-grain",
+      "kategoria": "mass",
+      "nazov": "gran",
+      "skratka": "gran",
+      "uzky_tvar": "gran",
+      "vzor": "{0} granov"
+    },
+    {
+      "id": 6,
+      "unit_code": "mass-gram",
+      "kategoria": "mass",
+      "nazov": "gramy",
+      "skratka": "g",
+      "uzky_tvar": "g",
+      "vzor": "{0} gramov"
+    },
+    {
+      "id": 7,
+      "unit_code": "mass-kilogram",
+      "kategoria": "mass",
+      "nazov": "kilogramy",
+      "skratka": "kg",
+      "uzky_tvar": "kg",
+      "vzor": "{0} kilogramov"
+    },
+    {
+      "id": 8,
+      "unit_code": "mass-microgram",
+      "kategoria": "mass",
+      "nazov": "mikrogramy",
+      "skratka": "μg",
+      "uzky_tvar": "μg",
+      "vzor": "{0} mikrogramov"
+    },
+    {
+      "id": 9,
+      "unit_code": "mass-milligram",
+      "kategoria": "mass",
+      "nazov": "miligramy",
+      "skratka": "mg",
+      "uzky_tvar": "mg",
+      "vzor": "{0} miligramov"
+    },
+    {
+      "id": 10,
+      "unit_code": "mass-ounce",
+      "kategoria": "mass",
+      "nazov": "unce",
+      "skratka": "oz",
+      "uzky_tvar": "oz",
+      "vzor": "{0} uncí"
+    },
+    {
+      "id": 11,
+      "unit_code": "mass-ounce-troy",
+      "kategoria": "mass",
+      "nazov": "trojské unce",
+      "skratka": "oz t",
+      "uzky_tvar": "oz t",
+      "vzor": "{0} trojských uncí"
+    },
+    {
+      "id": 12,
+      "unit_code": "mass-pound",
+      "kategoria": "mass",
+      "nazov": "libry",
+      "skratka": "lb",
+      "uzky_tvar": "lb",
+      "vzor": "{0} libier"
+    },
+    {
+      "id": 13,
+      "unit_code": "mass-slug",
+      "kategoria": "mass",
+      "nazov": "slug",
+      "skratka": "slug",
+      "uzky_tvar": "slug",
+      "vzor": "{0} slug"
+    },
+    {
+      "id": 14,
+      "unit_code": "mass-solar-mass",
+      "kategoria": "mass",
+      "nazov": "hmotnosti Slnka",
+      "skratka": "M☉",
+      "uzky_tvar": "M☉",
+      "vzor": "{0} hmotností Slnka"
+    },
+    {
+      "id": 15,
+      "unit_code": "mass-stone",
+      "kategoria": "mass",
+      "nazov": "kamene",
+      "skratka": "st",
+      "uzky_tvar": "st",
+      "vzor": "{0} kameňov"
+    },
+    {
+      "id": 16,
+      "unit_code": "mass-ton",
+      "kategoria": "mass",
+      "nazov": "americké tony",
+      "skratka": "to",
+      "uzky_tvar": "to",
+      "vzor": "{0} amerických ton"
+    },
+    {
+      "id": 17,
+      "unit_code": "mass-tonne",
+      "kategoria": "mass",
+      "nazov": "tony",
+      "skratka": "t",
+      "uzky_tvar": "t",
+      "vzor": "{0} ton"
+    }
+  ],
+  "meta": {
+    "title": "Merné jednotky — kategória 'mass' (17) - Bezplatné stiahnutie",
+    "description": "Merné jednotky kategórie 'mass' z locale sk v CLDR, s názvami v slovenčine. Obsahuje 17 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Merné jednotky — kategória 'mass' (17) | ListBase",
+    "seo_description": "Stiahnuť Merné jednotky — kategória 'mass' (17) — 17 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 17 záznamov / 7 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

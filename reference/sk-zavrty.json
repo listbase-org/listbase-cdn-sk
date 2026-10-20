@@ -1,0 +1,1111 @@
+{
+  "id": "sk-zavrty",
+  "name": "Závrty",
+  "title": "Závrty",
+  "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (natural=sinkhole). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 214,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Závrt pod Šípom 1",
+      "latitude": 49.154242,
+      "longitude": 19.201168
+    },
+    {
+      "name": "Závrt pod Šípom 2",
+      "latitude": 49.154343,
+      "longitude": 19.20146
+    },
+    {
+      "name": "Jóbovo prepadlisko",
+      "latitude": 49.183036,
+      "longitude": 19.493387
+    },
+    {
+      "name": "Sedliacke prepadlisko",
+      "latitude": 49.182809,
+      "longitude": 19.485469
+    },
+    {
+      "name": "Prepadlisko na Brestovej",
+      "latitude": 49.154811,
+      "longitude": 19.400699
+    },
+    {
+      "name": "Pravnáč odparené II.",
+      "latitude": 49.153957,
+      "longitude": 19.455215
+    },
+    {
+      "name": "Pravnáč odparené I.",
+      "latitude": 49.153547,
+      "longitude": 19.454491
+    },
+    {
+      "name": "v Lômoch",
+      "latitude": 49.168145,
+      "longitude": 19.472145
+    },
+    {
+      "name": "sloje uhlia",
+      "latitude": 49.196216,
+      "longitude": 19.533163
+    },
+    {
+      "name": "sloje uhlia",
+      "latitude": 49.195712,
+      "longitude": 19.529364
+    },
+    {
+      "name": "banská kutačka",
+      "latitude": 49.199559,
+      "longitude": 19.631702
+    },
+    {
+      "name": "Na Červenci",
+      "latitude": 49.185844,
+      "longitude": 19.640858
+    },
+    {
+      "name": "banské kutačky",
+      "latitude": 49.200556,
+      "longitude": 19.635511
+    },
+    {
+      "name": "banská kutačka",
+      "latitude": 49.192283,
+      "longitude": 19.642551
+    },
+    {
+      "name": "banské kutačky",
+      "latitude": 49.193054,
+      "longitude": 19.638957
+    },
+    {
+      "name": "banská kutačka",
+      "latitude": 49.191324,
+      "longitude": 19.642073
+    },
+    {
+      "name": "banská kutačka",
+      "latitude": 49.190992,
+      "longitude": 19.641554
+    },
+    {
+      "name": "banské kutačky",
+      "latitude": 49.190672,
+      "longitude": 19.639802
+    },
+    {
+      "name": "banské kutačky",
+      "latitude": 49.19963,
+      "longitude": 19.636885
+    },
+    {
+      "name": "banské kutačky",
+      "latitude": 49.190199,
+      "longitude": 19.633303
+    },
+    {
+      "name": "banské kutačky",
+      "latitude": 49.189843,
+      "longitude": 19.631863
+    },
+    {
+      "name": "Jama pašerákov koní",
+      "latitude": 49.201028,
+      "longitude": 19.643472
+    },
+    {
+      "name": "PodMeštrová",
+      "latitude": 49.17833,
+      "longitude": 19.577763
+    },
+    {
+      "name": "banské kutačky",
+      "latitude": 49.168554,
+      "longitude": 19.653349
+    },
+    {
+      "name": "banské kutačky",
+      "latitude": 49.16044,
+      "longitude": 19.654379
+    },
+    {
+      "name": "banské kutačky",
+      "latitude": 49.160805,
+      "longitude": 19.654874
+    },
+    {
+      "name": "banské kutačky",
+      "latitude": 49.160095,
+      "longitude": 19.65257
+    },
+    {
+      "name": "Rozsadlina v Hrdoši",
+      "latitude": 49.132267,
+      "longitude": 19.21547
+    },
+    {
+      "name": "prepadlisko Plieška",
+      "latitude": 49.095982,
+      "longitude": 19.233387
+    },
+    {
+      "name": "Výduch",
+      "latitude": 49.056123,
+      "longitude": 19.26797
+    },
+    {
+      "name": "pod Vlčím Zubom",
+      "latitude": 49.061759,
+      "longitude": 19.282987
+    },
+    {
+      "name": "Hradiste",
+      "latitude": 49.121551,
+      "longitude": 19.372362
+    },
+    {
+      "name": "prepadlisko v Bešenovej",
+      "latitude": 49.108165,
+      "longitude": 19.433281
+    },
+    {
+      "name": "Starý kráter",
+      "latitude": 49.106738,
+      "longitude": 19.438828
+    },
+    {
+      "name": "Starý kráter",
+      "latitude": 49.106777,
+      "longitude": 19.44052
+    },
+    {
+      "name": "Stredoveká cisterna",
+      "latitude": 49.10358,
+      "longitude": 19.479538
+    },
+    {
+      "name": "Starý kráter",
+      "latitude": 49.104394,
+      "longitude": 19.449159
+    },
+    {
+      "name": "Termálny kráter",
+      "latitude": 49.103292,
+      "longitude": 19.446937
+    },
+    {
+      "name": "Termálny kráter",
+      "latitude": 49.107389,
+      "longitude": 19.43401
+    },
+    {
+      "name": "Starý kráter",
+      "latitude": 49.103027,
+      "longitude": 19.45161
+    },
+    {
+      "name": "Ostrá skala",
+      "latitude": 49.088829,
+      "longitude": 19.339188
+    },
+    {
+      "name": "Závrt LJ1",
+      "latitude": 49.091408,
+      "longitude": 19.340515
+    },
+    {
+      "name": "Závrt LJ2",
+      "latitude": 49.091151,
+      "longitude": 19.340053
+    },
+    {
+      "name": "Závrt LJ3",
+      "latitude": 49.091192,
+      "longitude": 19.339771
+    },
+    {
+      "name": "Kotisko",
+      "latitude": 49.053215,
+      "longitude": 19.417044
+    },
+    {
+      "name": "Prepadlisko na Tisovej",
+      "latitude": 49.016245,
+      "longitude": 19.271389
+    },
+    {
+      "name": "závrt na Močidlách",
+      "latitude": 48.992274,
+      "longitude": 19.198673
+    },
+    {
+      "name": "v Šoproni",
+      "latitude": 48.951859,
+      "longitude": 19.115823
+    },
+    {
+      "name": "v Javorine",
+      "latitude": 48.956561,
+      "longitude": 19.130141
+    },
+    {
+      "name": "Vyšná Štefanová",
+      "latitude": 48.97571,
+      "longitude": 19.120473
+    },
+    {
+      "name": "Prepadlisko v Lúžnej1",
+      "latitude": 48.961765,
+      "longitude": 19.327108
+    },
+    {
+      "name": "Prepadlisko v Lúžnej2",
+      "latitude": 48.962564,
+      "longitude": 19.326711
+    },
+    {
+      "name": "Prepadlisko v Lúžnej3",
+      "latitude": 48.965442,
+      "longitude": 19.327569
+    },
+    {
+      "name": "prepadlisko v Ráztokách",
+      "latitude": 48.957763,
+      "longitude": 19.329021
+    },
+    {
+      "name": "Závrt v Čerťazi",
+      "latitude": 48.939956,
+      "longitude": 19.259665
+    },
+    {
+      "name": "Závrt Váhanka 2",
+      "latitude": 48.922777,
+      "longitude": 19.267919
+    },
+    {
+      "name": "Závrt Váhanka",
+      "latitude": 48.923094,
+      "longitude": 19.268869
+    },
+    {
+      "name": "Čerťaz",
+      "latitude": 48.939687,
+      "longitude": 19.259823
+    },
+    {
+      "name": "prepadlisko Lupča1",
+      "latitude": 49.036584,
+      "longitude": 19.436299
+    },
+    {
+      "name": "prepadlisko Lupča2",
+      "latitude": 49.03643,
+      "longitude": 19.43642
+    },
+    {
+      "name": "prepadlisko Lupča3",
+      "latitude": 49.036268,
+      "longitude": 19.436326
+    },
+    {
+      "name": "prepadlisko Lupča4",
+      "latitude": 49.036161,
+      "longitude": 19.436401
+    },
+    {
+      "name": "Lupčianska Magura1",
+      "latitude": 49.009974,
+      "longitude": 19.424324
+    },
+    {
+      "name": "Lupčianska Magura2",
+      "latitude": 49.009575,
+      "longitude": 19.424548
+    },
+    {
+      "name": "závrt Machnatô10",
+      "latitude": 48.980665,
+      "longitude": 19.395292
+    },
+    {
+      "name": "závrt Machnatô13",
+      "latitude": 48.98142,
+      "longitude": 19.396368
+    },
+    {
+      "name": "závrt Machnatô14",
+      "latitude": 48.981824,
+      "longitude": 19.396054
+    },
+    {
+      "name": "závrt Machnatô15",
+      "latitude": 48.983916,
+      "longitude": 19.396563
+    },
+    {
+      "name": "závrt Machnatô16",
+      "latitude": 48.981653,
+      "longitude": 19.398741
+    },
+    {
+      "name": "závrt Machnatô17",
+      "latitude": 48.981975,
+      "longitude": 19.397671
+    },
+    {
+      "name": "závrt Machnatô18",
+      "latitude": 48.991131,
+      "longitude": 19.400296
+    },
+    {
+      "name": "závrt Machnatô8",
+      "latitude": 48.980447,
+      "longitude": 19.395391
+    },
+    {
+      "name": "závrt Machnatô9",
+      "latitude": 48.980544,
+      "longitude": 19.395162
+    },
+    {
+      "name": "Machová puklina",
+      "latitude": 48.992089,
+      "longitude": 19.339981
+    },
+    {
+      "name": "do Flotačnej",
+      "latitude": 48.987695,
+      "longitude": 19.486601
+    },
+    {
+      "name": "I-5",
+      "latitude": 48.985391,
+      "longitude": 19.487532
+    },
+    {
+      "name": "I-6",
+      "latitude": 48.987628,
+      "longitude": 19.48756
+    },
+    {
+      "name": "Z15",
+      "latitude": 48.985956,
+      "longitude": 19.593113
+    },
+    {
+      "name": "Z17",
+      "latitude": 48.983885,
+      "longitude": 19.59067
+    },
+    {
+      "name": "Z16",
+      "latitude": 48.983872,
+      "longitude": 19.590604
+    },
+    {
+      "name": "Z18",
+      "latitude": 48.984179,
+      "longitude": 19.590486
+    },
+    {
+      "name": "Z19",
+      "latitude": 48.984399,
+      "longitude": 19.590704
+    },
+    {
+      "name": "Z20",
+      "latitude": 48.98473,
+      "longitude": 19.590623
+    },
+    {
+      "name": "Z21",
+      "latitude": 48.985099,
+      "longitude": 19.591403
+    },
+    {
+      "name": "Z24",
+      "latitude": 49.004096,
+      "longitude": 19.583181
+    },
+    {
+      "name": "Závrt v Červenom Z25",
+      "latitude": 48.983176,
+      "longitude": 19.59896
+    },
+    {
+      "name": "Záskočie",
+      "latitude": 48.993647,
+      "longitude": 19.646832
+    },
+    {
+      "name": "závrt Machnatô1",
+      "latitude": 48.97897,
+      "longitude": 19.392428
+    },
+    {
+      "name": "závrt Machnatô11",
+      "latitude": 48.979723,
+      "longitude": 19.395055
+    },
+    {
+      "name": "závrt Machnatô12",
+      "latitude": 48.979668,
+      "longitude": 19.395242
+    },
+    {
+      "name": "závrt Machnatô2",
+      "latitude": 48.979053,
+      "longitude": 19.392845
+    },
+    {
+      "name": "závrt Machnatô3",
+      "latitude": 48.979175,
+      "longitude": 19.393113
+    },
+    {
+      "name": "závrt Machnatô4",
+      "latitude": 48.979366,
+      "longitude": 19.393301
+    },
+    {
+      "name": "závrt Machnatô5",
+      "latitude": 48.979397,
+      "longitude": 19.393804
+    },
+    {
+      "name": "závrt Machnatô6",
+      "latitude": 48.979648,
+      "longitude": 19.393119
+    },
+    {
+      "name": "závrt Machnatô7",
+      "latitude": 48.979955,
+      "longitude": 19.3942
+    },
+    {
+      "name": "Žliebky",
+      "latitude": 48.977833,
+      "longitude": 19.347156
+    },
+    {
+      "name": "Prepadlisko SAMUEL",
+      "latitude": 48.977915,
+      "longitude": 19.500643
+    },
+    {
+      "name": "Klára",
+      "latitude": 48.974613,
+      "longitude": 19.501392
+    },
+    {
+      "name": "Jozef",
+      "latitude": 48.975973,
+      "longitude": 19.502603
+    },
+    {
+      "name": "Banská jama",
+      "latitude": 48.974497,
+      "longitude": 19.501828
+    },
+    {
+      "name": "Banská pinga Ag, Sb",
+      "latitude": 48.936796,
+      "longitude": 19.445712
+    },
+    {
+      "name": "Z10",
+      "latitude": 48.979754,
+      "longitude": 19.598405
+    },
+    {
+      "name": "Z7",
+      "latitude": 48.980199,
+      "longitude": 19.59929
+    },
+    {
+      "name": "Z9",
+      "latitude": 48.980148,
+      "longitude": 19.599006
+    },
+    {
+      "name": "Z6",
+      "latitude": 48.97998,
+      "longitude": 19.599933
+    },
+    {
+      "name": "Z5",
+      "latitude": 48.979691,
+      "longitude": 19.599741
+    },
+    {
+      "name": "Z4",
+      "latitude": 48.979583,
+      "longitude": 19.600736
+    },
+    {
+      "name": "Z2",
+      "latitude": 48.980199,
+      "longitude": 19.601723
+    },
+    {
+      "name": "Z3",
+      "latitude": 48.980184,
+      "longitude": 19.601098
+    },
+    {
+      "name": "v Ráztoke",
+      "latitude": 49.166547,
+      "longitude": 19.699808
+    },
+    {
+      "name": "Pingové pole Priehyba",
+      "latitude": 49.158206,
+      "longitude": 19.989938
+    },
+    {
+      "name": "Terézia",
+      "latitude": 49.162654,
+      "longitude": 19.99942
+    },
+    {
+      "name": "Banské pole Krivánskych baní",
+      "latitude": 49.155915,
+      "longitude": 19.994832
+    },
+    {
+      "name": "Ružbašský kráter",
+      "latitude": 49.305732,
+      "longitude": 20.560411
+    },
+    {
+      "name": "Smrtná jama",
+      "latitude": 49.307115,
+      "longitude": 20.557579
+    },
+    {
+      "name": "Ponor č. 3 pod Kriváňom",
+      "latitude": 49.124319,
+      "longitude": 19.952036
+    },
+    {
+      "name": "Ponor č. 2 pod Kriváňom",
+      "latitude": 49.128583,
+      "longitude": 19.957694
+    },
+    {
+      "name": "Ponor č. 1 pod Kriváňom",
+      "latitude": 49.129139,
+      "longitude": 19.958804
+    },
+    {
+      "name": "Riť Uhorska",
+      "latitude": 49.028874,
+      "longitude": 19.815897
+    },
+    {
+      "name": "Ponor v Michalovskej doline",
+      "latitude": 49.000545,
+      "longitude": 19.722658
+    },
+    {
+      "name": "Ďurkovec",
+      "latitude": 48.945177,
+      "longitude": 20.476882
+    },
+    {
+      "name": "Veľký Závrt",
+      "latitude": 48.913825,
+      "longitude": 18.185761
+    },
+    {
+      "name": "V Paušovciach",
+      "latitude": 48.865623,
+      "longitude": 18.269861
+    },
+    {
+      "name": "Jamy",
+      "latitude": 48.879439,
+      "longitude": 18.278195
+    },
+    {
+      "name": "Závrt pri Maršálke",
+      "latitude": 48.86014,
+      "longitude": 18.230638
+    },
+    {
+      "name": "Rumpálový závrt",
+      "latitude": 48.858296,
+      "longitude": 18.224552
+    },
+    {
+      "name": "V Janovciach",
+      "latitude": 48.863891,
+      "longitude": 18.26348
+    },
+    {
+      "name": "Springerove jamy",
+      "latitude": 48.736185,
+      "longitude": 17.783711
+    },
+    {
+      "name": "Springerove jamy",
+      "latitude": 48.736345,
+      "longitude": 17.786468
+    },
+    {
+      "name": "Springerove jamy",
+      "latitude": 48.735853,
+      "longitude": 17.782236
+    },
+    {
+      "name": "Prepadlé zvony",
+      "latitude": 48.560305,
+      "longitude": 17.384666
+    },
+    {
+      "name": "Bana",
+      "latitude": 48.522949,
+      "longitude": 17.396421
+    },
+    {
+      "name": "Masné fleky",
+      "latitude": 48.515965,
+      "longitude": 17.385135
+    },
+    {
+      "name": "vertikálna priepasť jaskyne Haviareň",
+      "latitude": 48.460793,
+      "longitude": 17.275252
+    },
+    {
+      "name": "krasový závrt so sondou",
+      "latitude": 48.484987,
+      "longitude": 17.332851
+    },
+    {
+      "name": "Strapek",
+      "latitude": 48.464892,
+      "longitude": 17.388928
+    },
+    {
+      "name": "Jamy",
+      "latitude": 48.880786,
+      "longitude": 18.283443
+    },
+    {
+      "name": "Jama",
+      "latitude": 48.849216,
+      "longitude": 18.304657
+    },
+    {
+      "name": "Závrt Váhanka 3",
+      "latitude": 48.921691,
+      "longitude": 19.270243
+    },
+    {
+      "name": "Prievanové Čisto",
+      "latitude": 48.31423,
+      "longitude": 17.135277
+    },
+    {
+      "name": "Sonda Čisto",
+      "latitude": 48.314174,
+      "longitude": 17.135075
+    },
+    {
+      "name": "Pištova diera",
+      "latitude": 48.286669,
+      "longitude": 17.133675
+    },
+    {
+      "name": "Pri Pištovej diere",
+      "latitude": 48.286605,
+      "longitude": 17.133433
+    },
+    {
+      "name": "Staré Hájne II.",
+      "latitude": 48.273604,
+      "longitude": 17.109654
+    },
+    {
+      "name": "Nová garda",
+      "latitude": 48.277966,
+      "longitude": 17.133374
+    },
+    {
+      "name": "Na Podrajde",
+      "latitude": 48.275918,
+      "longitude": 17.120607
+    },
+    {
+      "name": "Nový ponor",
+      "latitude": 48.277954,
+      "longitude": 17.121043
+    },
+    {
+      "name": "Sonda 70. výročia",
+      "latitude": 48.278266,
+      "longitude": 17.131168
+    },
+    {
+      "name": "Vianočný ponor",
+      "latitude": 48.28135,
+      "longitude": 17.126575
+    },
+    {
+      "name": "Pamiatkárov",
+      "latitude": 48.273109,
+      "longitude": 17.125626
+    },
+    {
+      "name": "Veľký",
+      "latitude": 48.27455,
+      "longitude": 17.12545
+    },
+    {
+      "name": "prepad cesty 2010",
+      "latitude": 48.915843,
+      "longitude": 19.744693
+    },
+    {
+      "name": "Prepadlisko Duča",
+      "latitude": 48.868668,
+      "longitude": 20.306001
+    },
+    {
+      "name": "Tatričky",
+      "latitude": 48.819295,
+      "longitude": 20.181467
+    },
+    {
+      "name": "Banská kutačka",
+      "latitude": 48.814597,
+      "longitude": 20.455784
+    },
+    {
+      "name": "skalné prepadlisko",
+      "latitude": 48.866952,
+      "longitude": 20.908642
+    },
+    {
+      "name": "Prepadlisko pri Bačovej",
+      "latitude": 48.651492,
+      "longitude": 20.423407
+    },
+    {
+      "name": "Zarastené prepadlisko",
+      "latitude": 48.640591,
+      "longitude": 20.416447
+    },
+    {
+      "name": "Prepadlisko pod Dubníkom",
+      "latitude": 48.604339,
+      "longitude": 20.404205
+    },
+    {
+      "name": "Prepadlisko pod magistrálou",
+      "latitude": 48.598381,
+      "longitude": 20.444895
+    },
+    {
+      "name": "Prepadlisko pri Slnečnej",
+      "latitude": 48.590981,
+      "longitude": 20.412612
+    },
+    {
+      "name": "Depresia pri Tmavej jame",
+      "latitude": 48.579429,
+      "longitude": 20.41713
+    },
+    {
+      "name": "Veľký závrt",
+      "latitude": 48.575113,
+      "longitude": 20.552976
+    },
+    {
+      "name": "Ponor Žedem",
+      "latitude": 48.597984,
+      "longitude": 20.579615
+    },
+    {
+      "name": "Prepadlisko 96",
+      "latitude": 48.57484,
+      "longitude": 20.719619
+    },
+    {
+      "name": "Prepadlisko 94",
+      "latitude": 48.575729,
+      "longitude": 20.718946
+    },
+    {
+      "name": "Prepadlisko 110",
+      "latitude": 48.575525,
+      "longitude": 20.67661
+    },
+    {
+      "name": "Prepadlisko Pri medzníku 19",
+      "latitude": 48.57794,
+      "longitude": 20.702613
+    },
+    {
+      "name": "Turniansky paleoponor",
+      "latitude": 48.612166,
+      "longitude": 20.878835
+    },
+    {
+      "name": "Ponor pri Majkovej jaskyni",
+      "latitude": 48.545721,
+      "longitude": 20.547604
+    },
+    {
+      "name": "Ponor vo Vlčej doline",
+      "latitude": 48.558975,
+      "longitude": 20.512621
+    },
+    {
+      "name": "Ponor pri napájadlách",
+      "latitude": 48.568249,
+      "longitude": 20.5249
+    },
+    {
+      "name": "Ponor pri Farárovej jame",
+      "latitude": 48.549631,
+      "longitude": 20.522815
+    },
+    {
+      "name": "Ponor pod Kikirčom",
+      "latitude": 48.558494,
+      "longitude": 20.484172
+    },
+    {
+      "name": "Ponor pri studni Kaľaba",
+      "latitude": 48.555213,
+      "longitude": 20.505233
+    },
+    {
+      "name": "Ponor pri Zepcovej",
+      "latitude": 48.561718,
+      "longitude": 20.534848
+    },
+    {
+      "name": "Farbený ponor",
+      "latitude": 48.570346,
+      "longitude": 20.547982
+    },
+    {
+      "name": "Veľký ôsmy ponor",
+      "latitude": 48.54325,
+      "longitude": 20.459204
+    },
+    {
+      "name": "Ponor v Železnej doline",
+      "latitude": 48.541854,
+      "longitude": 20.479741
+    },
+    {
+      "name": "Ponor pri Milade",
+      "latitude": 48.524088,
+      "longitude": 20.492078
+    },
+    {
+      "name": "Červený ponor",
+      "latitude": 48.545481,
+      "longitude": 20.491628
+    },
+    {
+      "name": "Gabiho ponor",
+      "latitude": 48.523343,
+      "longitude": 20.497427
+    },
+    {
+      "name": "Prepadlisko u Senníku",
+      "latitude": 48.568662,
+      "longitude": 20.653842
+    },
+    {
+      "name": "Brezový ponor",
+      "latitude": 48.570452,
+      "longitude": 20.710181
+    },
+    {
+      "name": "Prepadlisko 128",
+      "latitude": 48.571324,
+      "longitude": 20.740865
+    },
+    {
+      "name": "Prepadlisko 124",
+      "latitude": 48.569741,
+      "longitude": 20.732001
+    },
+    {
+      "name": "Prepadlisko 109",
+      "latitude": 48.573052,
+      "longitude": 20.697119
+    },
+    {
+      "name": "Myšia diera",
+      "latitude": 48.571706,
+      "longitude": 20.684489
+    },
+    {
+      "name": "Prepadlisko 55",
+      "latitude": 48.568533,
+      "longitude": 20.705149
+    },
+    {
+      "name": "Prepadlisko 121",
+      "latitude": 48.573483,
+      "longitude": 20.663998
+    },
+    {
+      "name": "Prepadlisko u Podkovára",
+      "latitude": 48.573996,
+      "longitude": 20.667289
+    },
+    {
+      "name": "Prepadlisko 107",
+      "latitude": 48.573271,
+      "longitude": 20.687672
+    },
+    {
+      "name": "Prepadlisko 38",
+      "latitude": 48.571859,
+      "longitude": 20.682062
+    },
+    {
+      "name": "Prepadlisko 106",
+      "latitude": 48.573876,
+      "longitude": 20.686198
+    },
+    {
+      "name": "Západná priepasť III",
+      "latitude": 48.563134,
+      "longitude": 20.655657
+    },
+    {
+      "name": "Prepadlisko 157",
+      "latitude": 48.571203,
+      "longitude": 20.693267
+    },
+    {
+      "name": "U Večernej 2",
+      "latitude": 48.572129,
+      "longitude": 20.708959
+    },
+    {
+      "name": "UVečernej 1",
+      "latitude": 48.572,
+      "longitude": 20.708216
+    },
+    {
+      "name": "Prepadlisko Rožok",
+      "latitude": 48.574718,
+      "longitude": 20.726231
+    },
+    {
+      "name": "Prepadlisko pri meteore",
+      "latitude": 48.574704,
+      "longitude": 20.72055
+    },
+    {
+      "name": "Prepadlisko 103",
+      "latitude": 48.570387,
+      "longitude": 20.724472
+    },
+    {
+      "name": "Prepadlisko 122",
+      "latitude": 48.569534,
+      "longitude": 20.726332
+    },
+    {
+      "name": "Prepadlisko 129",
+      "latitude": 48.569368,
+      "longitude": 20.728581
+    },
+    {
+      "name": "Prepadlisko 126",
+      "latitude": 48.573585,
+      "longitude": 20.736812
+    },
+    {
+      "name": "Puklina pod prepadliskom 4",
+      "latitude": 48.570919,
+      "longitude": 20.740364
+    },
+    {
+      "name": "Egrešová puklina",
+      "latitude": 48.572365,
+      "longitude": 20.741192
+    },
+    {
+      "name": "Prepadlisko 136",
+      "latitude": 48.573778,
+      "longitude": 20.753583
+    },
+    {
+      "name": "Prepadlisko 131",
+      "latitude": 48.572674,
+      "longitude": 20.747608
+    },
+    {
+      "name": "Prepadlisko 130",
+      "latitude": 48.572451,
+      "longitude": 20.746495
+    },
+    {
+      "name": "Prepadlisko 132",
+      "latitude": 48.573521,
+      "longitude": 20.748736
+    },
+    {
+      "name": "Prepadlisko 134",
+      "latitude": 48.572296,
+      "longitude": 20.749817
+    },
+    {
+      "name": "Prepadlisko 133",
+      "latitude": 48.572783,
+      "longitude": 20.749437
+    },
+    {
+      "name": "kráter Soví hrad",
+      "latitude": 48.226149,
+      "longitude": 19.912724
+    }
+  ],
+  "meta": {
+    "title": "Závrty - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (natural=sinkhole). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84. Obsahuje 214 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Závrty | ListBase",
+    "seo_description": "Stiahnuť Závrty — 214 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 214 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

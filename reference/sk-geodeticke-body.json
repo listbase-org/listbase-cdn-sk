@@ -1,0 +1,4621 @@
+{
+  "id": "sk-geodeticke-body",
+  "name": "Geodetické body",
+  "title": "Geodetické body",
+  "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (man_made=survey_point). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 916,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Maciejka",
+      "latitude": 49.515869,
+      "longitude": 18.889987
+    },
+    {
+      "name": "Małojurski Groń",
+      "latitude": 49.521912,
+      "longitude": 18.857942
+    },
+    {
+      "name": "Trójstyk / Trojmezí / Trojmedzie (PL/SK/CZ)",
+      "latitude": 49.517149,
+      "longitude": 18.850907
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.506242,
+      "longitude": 18.929302
+    },
+    {
+      "name": "tiangulácia",
+      "latitude": 49.505734,
+      "longitude": 18.928683
+    },
+    {
+      "name": "Vytyčovacia sieť diaľnice",
+      "latitude": 49.507483,
+      "longitude": 18.963523
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.452499,
+      "longitude": 18.863495
+    },
+    {
+      "name": "176",
+      "latitude": 49.42612,
+      "longitude": 19.204946
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.422224,
+      "longitude": 19.217468
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.421275,
+      "longitude": 19.241913
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.40904,
+      "longitude": 19.186872
+    },
+    {
+      "name": "44-I",
+      "latitude": 49.452691,
+      "longitude": 19.631152
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.346895,
+      "longitude": 18.939567
+    },
+    {
+      "name": "NPR",
+      "latitude": 49.180416,
+      "longitude": 18.602644
+    },
+    {
+      "name": "NPR",
+      "latitude": 49.181516,
+      "longitude": 18.603482
+    },
+    {
+      "name": "Kameň",
+      "latitude": 49.25876,
+      "longitude": 18.692454
+    },
+    {
+      "name": "Plyn ot dn160 ns 37",
+      "latitude": 49.160003,
+      "longitude": 18.689002
+    },
+    {
+      "name": "Vrchol",
+      "latitude": 49.16833,
+      "longitude": 18.881297
+    },
+    {
+      "name": "NPP",
+      "latitude": 49.178565,
+      "longitude": 18.893094
+    },
+    {
+      "name": "NPP",
+      "latitude": 49.174148,
+      "longitude": 18.91213
+    },
+    {
+      "name": "NPP",
+      "latitude": 49.178795,
+      "longitude": 18.899053
+    },
+    {
+      "name": "Bzinský urbár",
+      "latitude": 49.321911,
+      "longitude": 19.205052
+    },
+    {
+      "name": "Bzinský urbár",
+      "latitude": 49.321806,
+      "longitude": 19.206597
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.320762,
+      "longitude": 19.232158
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.355793,
+      "longitude": 19.357592
+    },
+    {
+      "name": "Podrobné bodové pole",
+      "latitude": 49.374977,
+      "longitude": 19.347626
+    },
+    {
+      "name": "Triangulácia",
+      "latitude": 49.354264,
+      "longitude": 19.565369
+    },
+    {
+      "name": "plyn",
+      "latitude": 49.35083,
+      "longitude": 19.563305
+    },
+    {
+      "name": "plyn",
+      "latitude": 49.351324,
+      "longitude": 19.562808
+    },
+    {
+      "name": "plyn",
+      "latitude": 49.352045,
+      "longitude": 19.562087
+    },
+    {
+      "name": "Triangulácia",
+      "latitude": 49.2953,
+      "longitude": 19.493984
+    },
+    {
+      "name": "Kameň",
+      "latitude": 49.317168,
+      "longitude": 19.524125
+    },
+    {
+      "name": "Veľký Bysterec",
+      "latitude": 49.255375,
+      "longitude": 19.26091
+    },
+    {
+      "name": "Beňova Lehota",
+      "latitude": 49.255391,
+      "longitude": 19.26082
+    },
+    {
+      "name": "štátna triangulácia",
+      "latitude": 49.229252,
+      "longitude": 19.27746
+    },
+    {
+      "name": "Turistické značenie",
+      "latitude": 49.17123,
+      "longitude": 18.987685
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.175908,
+      "longitude": 18.986235
+    },
+    {
+      "name": "Turistické značenie",
+      "latitude": 49.177442,
+      "longitude": 18.992381
+    },
+    {
+      "name": "biela",
+      "latitude": 49.168045,
+      "longitude": 19.146327
+    },
+    {
+      "name": "biela",
+      "latitude": 49.167944,
+      "longitude": 19.144811
+    },
+    {
+      "name": "Liptov - Orava",
+      "latitude": 49.168091,
+      "longitude": 19.145187
+    },
+    {
+      "name": "Liptov - Orava",
+      "latitude": 49.167872,
+      "longitude": 19.144492
+    },
+    {
+      "name": "červená",
+      "latitude": 49.163124,
+      "longitude": 19.140984
+    },
+    {
+      "name": "červená",
+      "latitude": 49.162413,
+      "longitude": 19.139612
+    },
+    {
+      "name": "červená",
+      "latitude": 49.162605,
+      "longitude": 19.140663
+    },
+    {
+      "name": "Liptov-Orava",
+      "latitude": 49.17132,
+      "longitude": 19.149216
+    },
+    {
+      "name": "Liptov-Orava",
+      "latitude": 49.167691,
+      "longitude": 19.141794
+    },
+    {
+      "name": "Hranica rezervácie",
+      "latitude": 49.159723,
+      "longitude": 19.196527
+    },
+    {
+      "name": "Rezervácia Šíp",
+      "latitude": 49.154853,
+      "longitude": 19.181166
+    },
+    {
+      "name": "Rezervácia Šíp",
+      "latitude": 49.154333,
+      "longitude": 19.179424
+    },
+    {
+      "name": "Rezervácia Šíp",
+      "latitude": 49.153474,
+      "longitude": 19.177139
+    },
+    {
+      "name": "Rezervácia Šíp",
+      "latitude": 49.153257,
+      "longitude": 19.175525
+    },
+    {
+      "name": "Rezervácia Šíp",
+      "latitude": 49.157411,
+      "longitude": 19.17442
+    },
+    {
+      "name": "Rezervácia Šíp",
+      "latitude": 49.156855,
+      "longitude": 19.174654
+    },
+    {
+      "name": "Rezervácia Šíp",
+      "latitude": 49.155189,
+      "longitude": 19.17376
+    },
+    {
+      "name": "Rezervácia Šíp",
+      "latitude": 49.162893,
+      "longitude": 19.192434
+    },
+    {
+      "name": "Rezervácia Šíp",
+      "latitude": 49.164862,
+      "longitude": 19.172098
+    },
+    {
+      "name": "Podrobná triangulácia",
+      "latitude": 49.159775,
+      "longitude": 19.243299
+    },
+    {
+      "name": "Liptov-Orava",
+      "latitude": 49.169392,
+      "longitude": 19.16051
+    },
+    {
+      "name": "Liptov-Orava",
+      "latitude": 49.168977,
+      "longitude": 19.160789
+    },
+    {
+      "name": "NPR",
+      "latitude": 49.166462,
+      "longitude": 19.16141
+    },
+    {
+      "name": "NPR",
+      "latitude": 49.166228,
+      "longitude": 19.160495
+    },
+    {
+      "name": "Hraničný znak",
+      "latitude": 49.15876,
+      "longitude": 19.196157
+    },
+    {
+      "name": "Červená značka",
+      "latitude": 49.154668,
+      "longitude": 19.310544
+    },
+    {
+      "name": "Bralo",
+      "latitude": 49.166906,
+      "longitude": 19.307427
+    },
+    {
+      "name": "Podrobné bodové pole",
+      "latitude": 49.162608,
+      "longitude": 19.252277
+    },
+    {
+      "name": "Podrobné bodové pole",
+      "latitude": 49.1564,
+      "longitude": 19.252155
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.180231,
+      "longitude": 19.284655
+    },
+    {
+      "name": "Podrobná triangulácia",
+      "latitude": 49.18023,
+      "longitude": 19.284669
+    },
+    {
+      "name": "M.K.",
+      "latitude": 49.159531,
+      "longitude": 19.295594
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.222227,
+      "longitude": 19.587867
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.211216,
+      "longitude": 19.571728
+    },
+    {
+      "name": "1000 m.n.m.",
+      "latitude": 49.220508,
+      "longitude": 19.608245
+    },
+    {
+      "name": "1200 m.n.m.",
+      "latitude": 49.21885,
+      "longitude": 19.611923
+    },
+    {
+      "name": "vlčia labka",
+      "latitude": 49.213946,
+      "longitude": 19.601484
+    },
+    {
+      "name": "PLYN",
+      "latitude": 49.190625,
+      "longitude": 19.392641
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.182289,
+      "longitude": 19.415191
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.185866,
+      "longitude": 19.41619
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.190579,
+      "longitude": 19.445965
+    },
+    {
+      "name": "Malatiná / Prosiek",
+      "latitude": 49.193218,
+      "longitude": 19.481299
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.198862,
+      "longitude": 19.486275
+    },
+    {
+      "name": "PLYN",
+      "latitude": 49.187473,
+      "longitude": 19.441356
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.187665,
+      "longitude": 19.446242
+    },
+    {
+      "name": "triangulácia",
+      "latitude": 49.177876,
+      "longitude": 19.421463
+    },
+    {
+      "name": "Sukromná hora",
+      "latitude": 49.154709,
+      "longitude": 19.410506
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.171161,
+      "longitude": 19.375388
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.170926,
+      "longitude": 19.358978
+    },
+    {
+      "name": "kolík",
+      "latitude": 49.173054,
+      "longitude": 19.362752
+    },
+    {
+      "name": "kolík",
+      "latitude": 49.174115,
+      "longitude": 19.365919
+    },
+    {
+      "name": "116",
+      "latitude": 49.170233,
+      "longitude": 19.355275
+    },
+    {
+      "name": "Triangulácia",
+      "latitude": 49.168192,
+      "longitude": 19.400961
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.158684,
+      "longitude": 19.383327
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.165515,
+      "longitude": 19.37131
+    },
+    {
+      "name": "Ižipovce/Anna",
+      "latitude": 49.167682,
+      "longitude": 19.470917
+    },
+    {
+      "name": "Ižipovce/Prosiek",
+      "latitude": 49.167019,
+      "longitude": 19.472068
+    },
+    {
+      "name": "Ižipovce/Anna",
+      "latitude": 49.164848,
+      "longitude": 19.471107
+    },
+    {
+      "name": "Ižipovce/Anna",
+      "latitude": 49.162979,
+      "longitude": 19.469981
+    },
+    {
+      "name": "Ižipovce/Anna",
+      "latitude": 49.163912,
+      "longitude": 19.470778
+    },
+    {
+      "name": "254",
+      "latitude": 49.162509,
+      "longitude": 19.462145
+    },
+    {
+      "name": "vrt",
+      "latitude": 49.200567,
+      "longitude": 19.545249
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.18558,
+      "longitude": 19.54187
+    },
+    {
+      "name": "Labka Vlk",
+      "latitude": 49.191947,
+      "longitude": 19.58642
+    },
+    {
+      "name": "Labka Vlk",
+      "latitude": 49.192479,
+      "longitude": 19.586829
+    },
+    {
+      "name": "B/Č",
+      "latitude": 49.197506,
+      "longitude": 19.584392
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.19273,
+      "longitude": 19.56304
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.192566,
+      "longitude": 19.562381
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.203244,
+      "longitude": 19.579306
+    },
+    {
+      "name": "Urbár",
+      "latitude": 49.199406,
+      "longitude": 19.564207
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.191661,
+      "longitude": 19.567815
+    },
+    {
+      "name": "B",
+      "latitude": 49.191826,
+      "longitude": 19.573919
+    },
+    {
+      "name": "Labka Vlk",
+      "latitude": 49.195665,
+      "longitude": 19.594906
+    },
+    {
+      "name": "Labka Vlk",
+      "latitude": 49.193515,
+      "longitude": 19.593108
+    },
+    {
+      "name": "B",
+      "latitude": 49.185055,
+      "longitude": 19.595868
+    },
+    {
+      "name": "B",
+      "latitude": 49.185708,
+      "longitude": 19.595149
+    },
+    {
+      "name": "B",
+      "latitude": 49.185008,
+      "longitude": 19.593636
+    },
+    {
+      "name": "Labka Vlk",
+      "latitude": 49.19537,
+      "longitude": 19.595538
+    },
+    {
+      "name": "Labka Vlk",
+      "latitude": 49.195606,
+      "longitude": 19.599528
+    },
+    {
+      "name": "Labka Vlk",
+      "latitude": 49.192108,
+      "longitude": 19.597918
+    },
+    {
+      "name": "Labka Vlk",
+      "latitude": 49.192418,
+      "longitude": 19.598592
+    },
+    {
+      "name": "VB/Sih",
+      "latitude": 49.182987,
+      "longitude": 19.516343
+    },
+    {
+      "name": "B",
+      "latitude": 49.18495,
+      "longitude": 19.601369
+    },
+    {
+      "name": "Labka Vlk",
+      "latitude": 49.200092,
+      "longitude": 19.614056
+    },
+    {
+      "name": "Labka Vlk",
+      "latitude": 49.19903,
+      "longitude": 19.611638
+    },
+    {
+      "name": "Labka Vlk",
+      "latitude": 49.198606,
+      "longitude": 19.610717
+    },
+    {
+      "name": "Labka Vlk",
+      "latitude": 49.197205,
+      "longitude": 19.607574
+    },
+    {
+      "name": "Labka Vlk",
+      "latitude": 49.193578,
+      "longitude": 19.602383
+    },
+    {
+      "name": "Labka Vlk",
+      "latitude": 49.195081,
+      "longitude": 19.606823
+    },
+    {
+      "name": "Labka Vlk",
+      "latitude": 49.194328,
+      "longitude": 19.605166
+    },
+    {
+      "name": "Labka Vlk",
+      "latitude": 49.19389,
+      "longitude": 19.604585
+    },
+    {
+      "name": "Labka Vlk",
+      "latitude": 49.193832,
+      "longitude": 19.603306
+    },
+    {
+      "name": "Labka Vlk",
+      "latitude": 49.193309,
+      "longitude": 19.601518
+    },
+    {
+      "name": "Labka Vlk",
+      "latitude": 49.196746,
+      "longitude": 19.601656
+    },
+    {
+      "name": "Č",
+      "latitude": 49.210031,
+      "longitude": 19.605602
+    },
+    {
+      "name": "Č",
+      "latitude": 49.204641,
+      "longitude": 19.605296
+    },
+    {
+      "name": "Labka Vlk",
+      "latitude": 49.195747,
+      "longitude": 19.600548
+    },
+    {
+      "name": "Č",
+      "latitude": 49.192674,
+      "longitude": 19.62461
+    },
+    {
+      "name": "Č",
+      "latitude": 49.192506,
+      "longitude": 19.625504
+    },
+    {
+      "name": "Č",
+      "latitude": 49.192194,
+      "longitude": 19.623633
+    },
+    {
+      "name": "Č",
+      "latitude": 49.192292,
+      "longitude": 19.62222
+    },
+    {
+      "name": "kameň - HP",
+      "latitude": 49.169516,
+      "longitude": 19.527779
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.167991,
+      "longitude": 19.552743
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.168317,
+      "longitude": 19.549994
+    },
+    {
+      "name": "Liptovské Matiašovce / Liptovský Trnovec",
+      "latitude": 49.169151,
+      "longitude": 19.59329
+    },
+    {
+      "name": "Liptovské Matiašovce / Liptovský Trnovec",
+      "latitude": 49.167968,
+      "longitude": 19.588143
+    },
+    {
+      "name": "Č",
+      "latitude": 49.181104,
+      "longitude": 19.582352
+    },
+    {
+      "name": "NPR Suchá dolina",
+      "latitude": 49.175418,
+      "longitude": 19.578478
+    },
+    {
+      "name": "Č",
+      "latitude": 49.16622,
+      "longitude": 19.584289
+    },
+    {
+      "name": "Č",
+      "latitude": 49.163947,
+      "longitude": 19.582242
+    },
+    {
+      "name": "Trnovec/Matiašovce",
+      "latitude": 49.169818,
+      "longitude": 19.593513
+    },
+    {
+      "name": "S",
+      "latitude": 49.174708,
+      "longitude": 19.589194
+    },
+    {
+      "name": "Jalovec/Bobrovec",
+      "latitude": 49.164622,
+      "longitude": 19.647686
+    },
+    {
+      "name": "Triangulácia",
+      "latitude": 49.158604,
+      "longitude": 19.622904
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.173121,
+      "longitude": 19.611345
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.17674,
+      "longitude": 19.615766
+    },
+    {
+      "name": "X",
+      "latitude": 49.169659,
+      "longitude": 19.614957
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.155057,
+      "longitude": 19.651721
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.158549,
+      "longitude": 19.648669
+    },
+    {
+      "name": "Parcela 387",
+      "latitude": 49.158532,
+      "longitude": 19.645695
+    },
+    {
+      "name": "Parcela 387",
+      "latitude": 49.165499,
+      "longitude": 19.652556
+    },
+    {
+      "name": "Parcela 387",
+      "latitude": 49.163784,
+      "longitude": 19.651888
+    },
+    {
+      "name": "Parcela 387",
+      "latitude": 49.178888,
+      "longitude": 19.677287
+    },
+    {
+      "name": "PARCELA 385",
+      "latitude": 49.168399,
+      "longitude": 19.682966
+    },
+    {
+      "name": "T",
+      "latitude": 49.159909,
+      "longitude": 19.681273
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.153575,
+      "longitude": 19.680843
+    },
+    {
+      "name": "Č",
+      "latitude": 49.173012,
+      "longitude": 19.653885
+    },
+    {
+      "name": "parcela 385",
+      "latitude": 49.165353,
+      "longitude": 19.677577
+    },
+    {
+      "name": "štátna triangulácia",
+      "latitude": 49.180111,
+      "longitude": 19.625798
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.176779,
+      "longitude": 19.634589
+    },
+    {
+      "name": "Bobrovec / Pavlova Ves",
+      "latitude": 49.178075,
+      "longitude": 19.632846
+    },
+    {
+      "name": "Vytyčovací bod diaľnice",
+      "latitude": 49.130733,
+      "longitude": 18.896426
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.119295,
+      "longitude": 18.828349
+    },
+    {
+      "name": "štátna triangulácia",
+      "latitude": 48.988182,
+      "longitude": 18.376428
+    },
+    {
+      "name": "urbár",
+      "latitude": 48.973295,
+      "longitude": 18.396211
+    },
+    {
+      "name": "urbár",
+      "latitude": 48.970879,
+      "longitude": 18.400744
+    },
+    {
+      "name": "voda",
+      "latitude": 48.934642,
+      "longitude": 18.31029
+    },
+    {
+      "name": "rezervácia",
+      "latitude": 48.941829,
+      "longitude": 18.319547
+    },
+    {
+      "name": "rezervácia",
+      "latitude": 48.940698,
+      "longitude": 18.320383
+    },
+    {
+      "name": "Bukovina",
+      "latitude": 48.985923,
+      "longitude": 18.936007
+    },
+    {
+      "name": "státna triangulácia",
+      "latitude": 48.934169,
+      "longitude": 18.971376
+    },
+    {
+      "name": "triangulácia",
+      "latitude": 48.932526,
+      "longitude": 18.97901
+    },
+    {
+      "name": "traingulácia",
+      "latitude": 49.152333,
+      "longitude": 19.103158
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.150187,
+      "longitude": 19.101876
+    },
+    {
+      "name": "VRT TK-0",
+      "latitude": 49.135143,
+      "longitude": 19.158396
+    },
+    {
+      "name": "VRT TR4-P",
+      "latitude": 49.143303,
+      "longitude": 19.159276
+    },
+    {
+      "name": "kameň",
+      "latitude": 49.141536,
+      "longitude": 19.08693
+    },
+    {
+      "name": "kameň",
+      "latitude": 49.140785,
+      "longitude": 19.086942
+    },
+    {
+      "name": "vrt16-ap",
+      "latitude": 49.146879,
+      "longitude": 19.153681
+    },
+    {
+      "name": "vrt INK16-A",
+      "latitude": 49.146864,
+      "longitude": 19.153734
+    },
+    {
+      "name": "vrt INK16-A",
+      "latitude": 49.147018,
+      "longitude": 19.152252
+    },
+    {
+      "name": "vrt16-ap",
+      "latitude": 49.147025,
+      "longitude": 19.15224
+    },
+    {
+      "name": "Orange",
+      "latitude": 49.145387,
+      "longitude": 19.145637
+    },
+    {
+      "name": "plán výseku",
+      "latitude": 49.14764,
+      "longitude": 19.143612
+    },
+    {
+      "name": "červená",
+      "latitude": 49.147677,
+      "longitude": 19.137044
+    },
+    {
+      "name": "Orange",
+      "latitude": 49.142797,
+      "longitude": 19.133541
+    },
+    {
+      "name": "Biela",
+      "latitude": 49.127997,
+      "longitude": 19.152874
+    },
+    {
+      "name": "Prírodná rezervácia",
+      "latitude": 49.127182,
+      "longitude": 19.148931
+    },
+    {
+      "name": "Prírodná rezervácia",
+      "latitude": 49.127303,
+      "longitude": 19.148156
+    },
+    {
+      "name": "Prírodná rezervácia",
+      "latitude": 49.129122,
+      "longitude": 19.152163
+    },
+    {
+      "name": "Prírodná rezervácia",
+      "latitude": 49.128238,
+      "longitude": 19.15697
+    },
+    {
+      "name": "Prírodná rezervácia",
+      "latitude": 49.129975,
+      "longitude": 19.158925
+    },
+    {
+      "name": "Pozorovací bod GM 5",
+      "latitude": 49.150628,
+      "longitude": 19.124351
+    },
+    {
+      "name": "Pozorovací bod GM 9",
+      "latitude": 49.150206,
+      "longitude": 19.125191
+    },
+    {
+      "name": "Pozorovací bod GM 15",
+      "latitude": 49.149572,
+      "longitude": 19.126547
+    },
+    {
+      "name": "Pozorovací bod GM 22",
+      "latitude": 49.148973,
+      "longitude": 19.128041
+    },
+    {
+      "name": "Pozorovací bod GM 33",
+      "latitude": 49.148714,
+      "longitude": 19.129812
+    },
+    {
+      "name": "Pozorovací bod GM 52",
+      "latitude": 49.148299,
+      "longitude": 19.133124
+    },
+    {
+      "name": "Pozorovací bod GM 54",
+      "latitude": 49.148344,
+      "longitude": 19.13337
+    },
+    {
+      "name": "173",
+      "latitude": 49.112332,
+      "longitude": 19.153178
+    },
+    {
+      "name": "kôl 173",
+      "latitude": 49.107733,
+      "longitude": 19.152258
+    },
+    {
+      "name": "kôl 176",
+      "latitude": 49.100623,
+      "longitude": 19.155506
+    },
+    {
+      "name": "kôl 175",
+      "latitude": 49.103512,
+      "longitude": 19.154674
+    },
+    {
+      "name": "kôl 38",
+      "latitude": 49.103533,
+      "longitude": 19.154347
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.110961,
+      "longitude": 19.14069
+    },
+    {
+      "name": "modrá",
+      "latitude": 49.096569,
+      "longitude": 19.120503
+    },
+    {
+      "name": "modrá",
+      "latitude": 49.096208,
+      "longitude": 19.119959
+    },
+    {
+      "name": "Kečka",
+      "latitude": 49.125578,
+      "longitude": 19.242645
+    },
+    {
+      "name": "Havran",
+      "latitude": 49.137572,
+      "longitude": 19.195386
+    },
+    {
+      "name": "Havran",
+      "latitude": 49.138375,
+      "longitude": 19.196891
+    },
+    {
+      "name": "Havran",
+      "latitude": 49.138776,
+      "longitude": 19.197861
+    },
+    {
+      "name": "Havran",
+      "latitude": 49.139069,
+      "longitude": 19.198401
+    },
+    {
+      "name": "Ostré",
+      "latitude": 49.136502,
+      "longitude": 19.210499
+    },
+    {
+      "name": "Vodovod",
+      "latitude": 49.131162,
+      "longitude": 19.166511
+    },
+    {
+      "name": "Vrt hg-03",
+      "latitude": 49.13607,
+      "longitude": 19.167834
+    },
+    {
+      "name": "Vrt ink-04",
+      "latitude": 49.135849,
+      "longitude": 19.167703
+    },
+    {
+      "name": "Vrt ink-",
+      "latitude": 49.13638,
+      "longitude": 19.168218
+    },
+    {
+      "name": "Vrt ink-05",
+      "latitude": 49.135972,
+      "longitude": 19.168261
+    },
+    {
+      "name": "Vrt tk-10-120m",
+      "latitude": 49.13606,
+      "longitude": 19.163557
+    },
+    {
+      "name": "kameň",
+      "latitude": 49.129765,
+      "longitude": 19.186967
+    },
+    {
+      "name": "Kameň",
+      "latitude": 49.125821,
+      "longitude": 19.18579
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.13788,
+      "longitude": 19.223571
+    },
+    {
+      "name": "9",
+      "latitude": 49.127182,
+      "longitude": 19.234759
+    },
+    {
+      "name": "kríž",
+      "latitude": 49.127926,
+      "longitude": 19.232174
+    },
+    {
+      "name": "bod 112-29",
+      "latitude": 49.146157,
+      "longitude": 19.324134
+    },
+    {
+      "name": "36",
+      "latitude": 49.132383,
+      "longitude": 19.305306
+    },
+    {
+      "name": "38",
+      "latitude": 49.13253,
+      "longitude": 19.305047
+    },
+    {
+      "name": "Triangulácia",
+      "latitude": 49.137349,
+      "longitude": 19.309259
+    },
+    {
+      "name": "Triangulácia",
+      "latitude": 49.131871,
+      "longitude": 19.303318
+    },
+    {
+      "name": "20",
+      "latitude": 49.131518,
+      "longitude": 19.306417
+    },
+    {
+      "name": "kameň",
+      "latitude": 49.13509,
+      "longitude": 19.330287
+    },
+    {
+      "name": "30",
+      "latitude": 49.124695,
+      "longitude": 19.314232
+    },
+    {
+      "name": "34",
+      "latitude": 49.126668,
+      "longitude": 19.322894
+    },
+    {
+      "name": "401",
+      "latitude": 49.132877,
+      "longitude": 19.321395
+    },
+    {
+      "name": "kolík112-90",
+      "latitude": 49.139778,
+      "longitude": 19.330821
+    },
+    {
+      "name": "Turistické značenie",
+      "latitude": 49.151326,
+      "longitude": 19.324975
+    },
+    {
+      "name": "Turistické značenie",
+      "latitude": 49.149682,
+      "longitude": 19.326579
+    },
+    {
+      "name": "67",
+      "latitude": 49.124594,
+      "longitude": 19.29358
+    },
+    {
+      "name": "S407",
+      "latitude": 49.126626,
+      "longitude": 19.292093
+    },
+    {
+      "name": "kol.56",
+      "latitude": 49.127762,
+      "longitude": 19.305923
+    },
+    {
+      "name": "kol 57",
+      "latitude": 49.130583,
+      "longitude": 19.309696
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.147833,
+      "longitude": 19.286539
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.143996,
+      "longitude": 19.264314
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.1461,
+      "longitude": 19.27617
+    },
+    {
+      "name": "kameň",
+      "latitude": 49.105425,
+      "longitude": 19.206007
+    },
+    {
+      "name": "turistické značenie",
+      "latitude": 49.111557,
+      "longitude": 19.209613
+    },
+    {
+      "name": "turistické značenie",
+      "latitude": 49.110593,
+      "longitude": 19.209021
+    },
+    {
+      "name": "kameň",
+      "latitude": 49.118601,
+      "longitude": 19.201322
+    },
+    {
+      "name": "triangulácia",
+      "latitude": 49.118597,
+      "longitude": 19.20132
+    },
+    {
+      "name": "633 diaľnica",
+      "latitude": 49.110898,
+      "longitude": 19.236881
+    },
+    {
+      "name": "tyč",
+      "latitude": 49.101061,
+      "longitude": 19.226704
+    },
+    {
+      "name": "voda",
+      "latitude": 49.108259,
+      "longitude": 19.247814
+    },
+    {
+      "name": "Vytyčovacia sieť diaľnice",
+      "latitude": 49.108166,
+      "longitude": 19.247481
+    },
+    {
+      "name": "Monitoring",
+      "latitude": 49.109991,
+      "longitude": 19.247676
+    },
+    {
+      "name": "NT26",
+      "latitude": 49.109929,
+      "longitude": 19.245317
+    },
+    {
+      "name": "NT25",
+      "latitude": 49.110379,
+      "longitude": 19.244129
+    },
+    {
+      "name": "CF73-smer",
+      "latitude": 49.109635,
+      "longitude": 19.24427
+    },
+    {
+      "name": "NT09",
+      "latitude": 49.109991,
+      "longitude": 19.244411
+    },
+    {
+      "name": "NT21",
+      "latitude": 49.110374,
+      "longitude": 19.243713
+    },
+    {
+      "name": "vrt NT03",
+      "latitude": 49.110042,
+      "longitude": 19.243423
+    },
+    {
+      "name": "Vytyčovacia sieť diaľnice 627",
+      "latitude": 49.109816,
+      "longitude": 19.243978
+    },
+    {
+      "name": "NT07",
+      "latitude": 49.109327,
+      "longitude": 19.244726
+    },
+    {
+      "name": "NL06-ink",
+      "latitude": 49.109322,
+      "longitude": 19.244169
+    },
+    {
+      "name": "kríž",
+      "latitude": 49.123182,
+      "longitude": 19.234884
+    },
+    {
+      "name": "Modrý kríž",
+      "latitude": 49.095949,
+      "longitude": 19.217326
+    },
+    {
+      "name": "Podrobná triangulácia",
+      "latitude": 49.110708,
+      "longitude": 19.197478
+    },
+    {
+      "name": "červená",
+      "latitude": 49.106733,
+      "longitude": 19.178229
+    },
+    {
+      "name": "183",
+      "latitude": 49.112714,
+      "longitude": 19.162924
+    },
+    {
+      "name": "186",
+      "latitude": 49.113811,
+      "longitude": 19.166311
+    },
+    {
+      "name": "HRANICA",
+      "latitude": 49.10158,
+      "longitude": 19.166239
+    },
+    {
+      "name": "kôl 24",
+      "latitude": 49.095622,
+      "longitude": 19.16073
+    },
+    {
+      "name": "184",
+      "latitude": 49.11436,
+      "longitude": 19.161374
+    },
+    {
+      "name": "22 kV kábel",
+      "latitude": 49.120064,
+      "longitude": 19.295561
+    },
+    {
+      "name": "Triangulácia",
+      "latitude": 49.111756,
+      "longitude": 19.289635
+    },
+    {
+      "name": "voda",
+      "latitude": 49.1146,
+      "longitude": 19.301032
+    },
+    {
+      "name": "voda",
+      "latitude": 49.112387,
+      "longitude": 19.299524
+    },
+    {
+      "name": "11",
+      "latitude": 49.113157,
+      "longitude": 19.315303
+    },
+    {
+      "name": "kameň",
+      "latitude": 49.120234,
+      "longitude": 19.263346
+    },
+    {
+      "name": "kolík",
+      "latitude": 49.115705,
+      "longitude": 19.267474
+    },
+    {
+      "name": "VRT NT14",
+      "latitude": 49.107062,
+      "longitude": 19.263712
+    },
+    {
+      "name": "VRT s13-a",
+      "latitude": 49.107118,
+      "longitude": 19.260729
+    },
+    {
+      "name": "kôl",
+      "latitude": 49.119082,
+      "longitude": 19.272443
+    },
+    {
+      "name": "kôl",
+      "latitude": 49.121381,
+      "longitude": 19.273117
+    },
+    {
+      "name": "kôl",
+      "latitude": 49.120739,
+      "longitude": 19.271709
+    },
+    {
+      "name": "kôl",
+      "latitude": 49.120281,
+      "longitude": 19.271147
+    },
+    {
+      "name": "kôl",
+      "latitude": 49.119936,
+      "longitude": 19.270548
+    },
+    {
+      "name": "3",
+      "latitude": 49.122129,
+      "longitude": 19.26921
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.120882,
+      "longitude": 19.283614
+    },
+    {
+      "name": "9",
+      "latitude": 49.112267,
+      "longitude": 19.317839
+    },
+    {
+      "name": "2",
+      "latitude": 49.106035,
+      "longitude": 19.311843
+    },
+    {
+      "name": "24",
+      "latitude": 49.11495,
+      "longitude": 19.316533
+    },
+    {
+      "name": "Diaľnica",
+      "latitude": 49.104765,
+      "longitude": 19.256107
+    },
+    {
+      "name": "vrt iv21",
+      "latitude": 49.104004,
+      "longitude": 19.260944
+    },
+    {
+      "name": "vrt pv21",
+      "latitude": 49.104047,
+      "longitude": 19.260879
+    },
+    {
+      "name": "vrt iv23",
+      "latitude": 49.101892,
+      "longitude": 19.26363
+    },
+    {
+      "name": "vrt pv23",
+      "latitude": 49.101881,
+      "longitude": 19.263562
+    },
+    {
+      "name": "vrt pv22",
+      "latitude": 49.10226,
+      "longitude": 19.262149
+    },
+    {
+      "name": "vrt iv22",
+      "latitude": 49.102216,
+      "longitude": 19.262139
+    },
+    {
+      "name": "Vytyčovacia sieť diaľnice",
+      "latitude": 49.101489,
+      "longitude": 19.264881
+    },
+    {
+      "name": "Vytyčovacia sieť diaľnice",
+      "latitude": 49.101177,
+      "longitude": 19.266539
+    },
+    {
+      "name": "vrt jd-11p",
+      "latitude": 49.104148,
+      "longitude": 19.262937
+    },
+    {
+      "name": "Vytyčovacia sieť diaľnice",
+      "latitude": 49.106345,
+      "longitude": 19.253326
+    },
+    {
+      "name": "PZ2",
+      "latitude": 49.107079,
+      "longitude": 19.252098
+    },
+    {
+      "name": "INK2",
+      "latitude": 49.107117,
+      "longitude": 19.252015
+    },
+    {
+      "name": "IV232",
+      "latitude": 49.107279,
+      "longitude": 19.251748
+    },
+    {
+      "name": "PV05",
+      "latitude": 49.107365,
+      "longitude": 19.251465
+    },
+    {
+      "name": "z0 - 25. metrov",
+      "latitude": 49.107841,
+      "longitude": 19.251364
+    },
+    {
+      "name": "J ni1",
+      "latitude": 49.107811,
+      "longitude": 19.251343
+    },
+    {
+      "name": "PV09",
+      "latitude": 49.107786,
+      "longitude": 19.251381
+    },
+    {
+      "name": "IV4",
+      "latitude": 49.107474,
+      "longitude": 19.251038
+    },
+    {
+      "name": "PZ1",
+      "latitude": 49.107524,
+      "longitude": 19.250923
+    },
+    {
+      "name": "INK1",
+      "latitude": 49.107529,
+      "longitude": 19.250864
+    },
+    {
+      "name": "PV08",
+      "latitude": 49.107824,
+      "longitude": 19.24994
+    },
+    {
+      "name": "IV01",
+      "latitude": 49.107842,
+      "longitude": 19.249631
+    },
+    {
+      "name": "PV01",
+      "latitude": 49.10787,
+      "longitude": 19.249567
+    },
+    {
+      "name": "JD3p",
+      "latitude": 49.107838,
+      "longitude": 19.24916
+    },
+    {
+      "name": "PZ2",
+      "latitude": 49.108126,
+      "longitude": 19.248135
+    },
+    {
+      "name": "NK2 - 15 metrov",
+      "latitude": 49.108159,
+      "longitude": 19.248053
+    },
+    {
+      "name": "vrt NT12",
+      "latitude": 49.109145,
+      "longitude": 19.251319
+    },
+    {
+      "name": "vrt PV13",
+      "latitude": 49.108374,
+      "longitude": 19.252574
+    },
+    {
+      "name": "vrt IV13",
+      "latitude": 49.108329,
+      "longitude": 19.252578
+    },
+    {
+      "name": "červené X",
+      "latitude": 49.103317,
+      "longitude": 19.291346
+    },
+    {
+      "name": "červené X",
+      "latitude": 49.102526,
+      "longitude": 19.289832
+    },
+    {
+      "name": "3",
+      "latitude": 49.102082,
+      "longitude": 19.290037
+    },
+    {
+      "name": "231",
+      "latitude": 49.091491,
+      "longitude": 19.131878
+    },
+    {
+      "name": "258",
+      "latitude": 49.075953,
+      "longitude": 19.139463
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.054668,
+      "longitude": 19.151479
+    },
+    {
+      "name": "Č",
+      "latitude": 49.062521,
+      "longitude": 19.139621
+    },
+    {
+      "name": "315",
+      "latitude": 49.061823,
+      "longitude": 19.136778
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.046586,
+      "longitude": 19.112299
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.044239,
+      "longitude": 19.116556
+    },
+    {
+      "name": "Tlstá",
+      "latitude": 49.075969,
+      "longitude": 19.226001
+    },
+    {
+      "name": "bod",
+      "latitude": 49.072739,
+      "longitude": 19.223705
+    },
+    {
+      "name": "Triangulácia",
+      "latitude": 49.094969,
+      "longitude": 19.182117
+    },
+    {
+      "name": "turistické značenie",
+      "latitude": 49.091339,
+      "longitude": 19.191619
+    },
+    {
+      "name": "turistické značenie",
+      "latitude": 49.091675,
+      "longitude": 19.195929
+    },
+    {
+      "name": "červená",
+      "latitude": 49.087533,
+      "longitude": 19.199266
+    },
+    {
+      "name": "červená š.",
+      "latitude": 49.083481,
+      "longitude": 19.198862
+    },
+    {
+      "name": "7-8-06",
+      "latitude": 49.089579,
+      "longitude": 19.201728
+    },
+    {
+      "name": "Biela šípka",
+      "latitude": 49.077376,
+      "longitude": 19.202232
+    },
+    {
+      "name": "Biela šípka",
+      "latitude": 49.076793,
+      "longitude": 19.201159
+    },
+    {
+      "name": "Biela šípka",
+      "latitude": 49.075978,
+      "longitude": 19.201379
+    },
+    {
+      "name": "Biela šípka",
+      "latitude": 49.075528,
+      "longitude": 19.201588
+    },
+    {
+      "name": "červená šípka",
+      "latitude": 49.079098,
+      "longitude": 19.1944
+    },
+    {
+      "name": "Biela šípka",
+      "latitude": 49.077663,
+      "longitude": 19.210788
+    },
+    {
+      "name": "143",
+      "latitude": 49.081573,
+      "longitude": 19.188348
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.078197,
+      "longitude": 19.191377
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.090208,
+      "longitude": 19.193808
+    },
+    {
+      "name": "Brdo",
+      "latitude": 49.068952,
+      "longitude": 19.253418
+    },
+    {
+      "name": "Hradiská",
+      "latitude": 49.087905,
+      "longitude": 19.330687
+    },
+    {
+      "name": "vrt",
+      "latitude": 49.089641,
+      "longitude": 19.289727
+    },
+    {
+      "name": "Vtáčnik",
+      "latitude": 49.065467,
+      "longitude": 19.220739
+    },
+    {
+      "name": "Turistické značenie",
+      "latitude": 49.042119,
+      "longitude": 19.238568
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.053666,
+      "longitude": 19.204133
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.047314,
+      "longitude": 19.21003
+    },
+    {
+      "name": "červená",
+      "latitude": 49.056963,
+      "longitude": 19.232381
+    },
+    {
+      "name": "červená",
+      "latitude": 49.056989,
+      "longitude": 19.23333
+    },
+    {
+      "name": "tyč",
+      "latitude": 49.06119,
+      "longitude": 19.217988
+    },
+    {
+      "name": "červená šípka",
+      "latitude": 49.0603,
+      "longitude": 19.219716
+    },
+    {
+      "name": "červená šípka",
+      "latitude": 49.049703,
+      "longitude": 19.222631
+    },
+    {
+      "name": "červená",
+      "latitude": 49.050902,
+      "longitude": 19.223612
+    },
+    {
+      "name": "červená šípka",
+      "latitude": 49.038143,
+      "longitude": 19.235376
+    },
+    {
+      "name": "zóna A",
+      "latitude": 49.054004,
+      "longitude": 19.204327
+    },
+    {
+      "name": "zóna A",
+      "latitude": 49.053118,
+      "longitude": 19.204878
+    },
+    {
+      "name": "zóna A",
+      "latitude": 49.052186,
+      "longitude": 19.206196
+    },
+    {
+      "name": "zóna A",
+      "latitude": 49.050506,
+      "longitude": 19.20719
+    },
+    {
+      "name": "zóna A",
+      "latitude": 49.049783,
+      "longitude": 19.207393
+    },
+    {
+      "name": "zóna A",
+      "latitude": 49.048301,
+      "longitude": 19.208268
+    },
+    {
+      "name": "zóna A",
+      "latitude": 49.047271,
+      "longitude": 19.20999
+    },
+    {
+      "name": "zóna A",
+      "latitude": 49.046382,
+      "longitude": 19.210041
+    },
+    {
+      "name": "Štátna triengulácia",
+      "latitude": 49.045766,
+      "longitude": 19.209943
+    },
+    {
+      "name": "zóna A",
+      "latitude": 49.04508,
+      "longitude": 19.209619
+    },
+    {
+      "name": "zóna A",
+      "latitude": 49.041905,
+      "longitude": 19.209064
+    },
+    {
+      "name": "Podrobná triangulácia",
+      "latitude": 49.039146,
+      "longitude": 19.285665
+    },
+    {
+      "name": "vrcholový kameň - Stráňa",
+      "latitude": 49.043862,
+      "longitude": 19.330195
+    },
+    {
+      "name": "Tyč",
+      "latitude": 49.052719,
+      "longitude": 19.250796
+    },
+    {
+      "name": "Podrobná triangulácia",
+      "latitude": 49.058389,
+      "longitude": 19.297243
+    },
+    {
+      "name": "vodovod",
+      "latitude": 49.041283,
+      "longitude": 19.276527
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.047076,
+      "longitude": 19.27948
+    },
+    {
+      "name": "Nebagrovať !",
+      "latitude": 49.050966,
+      "longitude": 19.318066
+    },
+    {
+      "name": "1061",
+      "latitude": 49.13313,
+      "longitude": 19.420817
+    },
+    {
+      "name": "1062",
+      "latitude": 49.133342,
+      "longitude": 19.421005
+    },
+    {
+      "name": "793",
+      "latitude": 49.130964,
+      "longitude": 19.418153
+    },
+    {
+      "name": "970",
+      "latitude": 49.132899,
+      "longitude": 19.421321
+    },
+    {
+      "name": "975",
+      "latitude": 49.131624,
+      "longitude": 19.418461
+    },
+    {
+      "name": "976",
+      "latitude": 49.131561,
+      "longitude": 19.418762
+    },
+    {
+      "name": "976",
+      "latitude": 49.133196,
+      "longitude": 19.421598
+    },
+    {
+      "name": "1645",
+      "latitude": 49.129447,
+      "longitude": 19.420975
+    },
+    {
+      "name": "1648",
+      "latitude": 49.129397,
+      "longitude": 19.420915
+    },
+    {
+      "name": "1868",
+      "latitude": 49.128863,
+      "longitude": 19.422469
+    },
+    {
+      "name": "1868",
+      "latitude": 49.129258,
+      "longitude": 19.42121
+    },
+    {
+      "name": "1869",
+      "latitude": 49.129321,
+      "longitude": 19.421324
+    },
+    {
+      "name": "bod 4748",
+      "latitude": 49.149791,
+      "longitude": 19.41942
+    },
+    {
+      "name": "kolík",
+      "latitude": 49.144876,
+      "longitude": 19.351529
+    },
+    {
+      "name": "kolík 13",
+      "latitude": 49.127081,
+      "longitude": 19.368845
+    },
+    {
+      "name": "kolík 25",
+      "latitude": 49.125164,
+      "longitude": 19.361311
+    },
+    {
+      "name": "kolík 26",
+      "latitude": 49.129509,
+      "longitude": 19.360662
+    },
+    {
+      "name": "kameň",
+      "latitude": 49.12932,
+      "longitude": 19.366045
+    },
+    {
+      "name": "S2",
+      "latitude": 49.151703,
+      "longitude": 19.369132
+    },
+    {
+      "name": "76",
+      "latitude": 49.150919,
+      "longitude": 19.375055
+    },
+    {
+      "name": "92",
+      "latitude": 49.150716,
+      "longitude": 19.37424
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.145272,
+      "longitude": 19.378509
+    },
+    {
+      "name": "Voda 3.10m",
+      "latitude": 49.132561,
+      "longitude": 19.419701
+    },
+    {
+      "name": "111",
+      "latitude": 49.146747,
+      "longitude": 19.350458
+    },
+    {
+      "name": "Č",
+      "latitude": 49.149152,
+      "longitude": 19.41484
+    },
+    {
+      "name": "12",
+      "latitude": 49.146528,
+      "longitude": 19.418136
+    },
+    {
+      "name": "13",
+      "latitude": 49.148717,
+      "longitude": 19.414021
+    },
+    {
+      "name": "10/1 - Štátne lesy",
+      "latitude": 49.150309,
+      "longitude": 19.423344
+    },
+    {
+      "name": "85",
+      "latitude": 49.147783,
+      "longitude": 19.35752
+    },
+    {
+      "name": "kameň",
+      "latitude": 49.137064,
+      "longitude": 19.424284
+    },
+    {
+      "name": "kameň",
+      "latitude": 49.147523,
+      "longitude": 19.430384
+    },
+    {
+      "name": "triangulácia",
+      "latitude": 49.146972,
+      "longitude": 19.456263
+    },
+    {
+      "name": "plyn",
+      "latitude": 49.133137,
+      "longitude": 19.440648
+    },
+    {
+      "name": "plyn",
+      "latitude": 49.128969,
+      "longitude": 19.438993
+    },
+    {
+      "name": "kvo30",
+      "latitude": 49.127619,
+      "longitude": 19.435796
+    },
+    {
+      "name": "plyn",
+      "latitude": 49.127239,
+      "longitude": 19.434998
+    },
+    {
+      "name": "plyn",
+      "latitude": 49.136066,
+      "longitude": 19.439964
+    },
+    {
+      "name": "kameň",
+      "latitude": 49.126136,
+      "longitude": 19.469787
+    },
+    {
+      "name": "Urbár",
+      "latitude": 49.13121,
+      "longitude": 19.464946
+    },
+    {
+      "name": "Urbár",
+      "latitude": 49.131915,
+      "longitude": 19.465575
+    },
+    {
+      "name": "Triangulačný bod",
+      "latitude": 49.132556,
+      "longitude": 19.467525
+    },
+    {
+      "name": "Urbár",
+      "latitude": 49.132566,
+      "longitude": 19.466384
+    },
+    {
+      "name": "Urbár",
+      "latitude": 49.132645,
+      "longitude": 19.465524
+    },
+    {
+      "name": "lesy SR",
+      "latitude": 49.131935,
+      "longitude": 19.464378
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.131639,
+      "longitude": 19.507092
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.127333,
+      "longitude": 19.505959
+    },
+    {
+      "name": "2440",
+      "latitude": 49.12341,
+      "longitude": 19.418317
+    },
+    {
+      "name": "2442",
+      "latitude": 49.12369,
+      "longitude": 19.418026
+    },
+    {
+      "name": "3844",
+      "latitude": 49.123488,
+      "longitude": 19.417524
+    },
+    {
+      "name": "3845",
+      "latitude": 49.123433,
+      "longitude": 19.41754
+    },
+    {
+      "name": "3846",
+      "latitude": 49.12327,
+      "longitude": 19.417907
+    },
+    {
+      "name": "kameň",
+      "latitude": 49.112681,
+      "longitude": 19.366747
+    },
+    {
+      "name": "kolík 12",
+      "latitude": 49.123876,
+      "longitude": 19.363859
+    },
+    {
+      "name": "plyn",
+      "latitude": 49.114346,
+      "longitude": 19.422981
+    },
+    {
+      "name": "kolík",
+      "latitude": 49.118435,
+      "longitude": 19.354066
+    },
+    {
+      "name": "Hraničný znak",
+      "latitude": 49.103266,
+      "longitude": 19.479401
+    },
+    {
+      "name": "vrt",
+      "latitude": 49.103434,
+      "longitude": 19.440404
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.104042,
+      "longitude": 19.449017
+    },
+    {
+      "name": "SX1",
+      "latitude": 49.103277,
+      "longitude": 19.449205
+    },
+    {
+      "name": "vrt",
+      "latitude": 49.113516,
+      "longitude": 19.440039
+    },
+    {
+      "name": "Plyn",
+      "latitude": 49.115337,
+      "longitude": 19.425853
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.115769,
+      "longitude": 19.458677
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.115781,
+      "longitude": 19.458662
+    },
+    {
+      "name": "VODOVOD",
+      "latitude": 49.100223,
+      "longitude": 19.478952
+    },
+    {
+      "name": "VODOVOD",
+      "latitude": 49.100447,
+      "longitude": 19.477573
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.129957,
+      "longitude": 19.515557
+    },
+    {
+      "name": "plyn",
+      "latitude": 49.13051,
+      "longitude": 19.548739
+    },
+    {
+      "name": "Behárovce/Trnovec",
+      "latitude": 49.149825,
+      "longitude": 19.574721
+    },
+    {
+      "name": "Behárovce/Trnovec",
+      "latitude": 49.1489,
+      "longitude": 19.573477
+    },
+    {
+      "name": "plyn",
+      "latitude": 49.151336,
+      "longitude": 19.541627
+    },
+    {
+      "name": "Ťiažový bod",
+      "latitude": 49.143283,
+      "longitude": 19.603405
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.143219,
+      "longitude": 19.603131
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.129229,
+      "longitude": 19.651397
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.13616,
+      "longitude": 19.654798
+    },
+    {
+      "name": "Vodovod",
+      "latitude": 49.144361,
+      "longitude": 19.664339
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.117162,
+      "longitude": 19.542315
+    },
+    {
+      "name": "Krochva",
+      "latitude": 49.118684,
+      "longitude": 19.555279
+    },
+    {
+      "name": "Vodovod",
+      "latitude": 49.101163,
+      "longitude": 19.66222
+    },
+    {
+      "name": "PLYN",
+      "latitude": 49.102635,
+      "longitude": 19.633577
+    },
+    {
+      "name": "82-10",
+      "latitude": 49.094223,
+      "longitude": 19.341338
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.070163,
+      "longitude": 19.350044
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.072161,
+      "longitude": 19.410799
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.057601,
+      "longitude": 19.367882
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.066061,
+      "longitude": 19.350261
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.05387,
+      "longitude": 19.367959
+    },
+    {
+      "name": "S",
+      "latitude": 49.039609,
+      "longitude": 19.424536
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.050514,
+      "longitude": 19.457281
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.063974,
+      "longitude": 19.489166
+    },
+    {
+      "name": "Vytičovacia siet ŽSR č.291",
+      "latitude": 49.085403,
+      "longitude": 19.538448
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.054268,
+      "longitude": 19.55926
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.059469,
+      "longitude": 19.524253
+    },
+    {
+      "name": "Hranica PR Jelšie",
+      "latitude": 49.038981,
+      "longitude": 19.565692
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.050744,
+      "longitude": 19.608716
+    },
+    {
+      "name": "Štátna Nivelácia",
+      "latitude": 49.024188,
+      "longitude": 19.146209
+    },
+    {
+      "name": "Č",
+      "latitude": 48.997751,
+      "longitude": 19.128968
+    },
+    {
+      "name": "73",
+      "latitude": 48.996399,
+      "longitude": 19.115777
+    },
+    {
+      "name": "90",
+      "latitude": 48.994277,
+      "longitude": 19.109887
+    },
+    {
+      "name": "B",
+      "latitude": 48.993603,
+      "longitude": 19.110356
+    },
+    {
+      "name": "štátna triangulácia",
+      "latitude": 48.990653,
+      "longitude": 19.156803
+    },
+    {
+      "name": "Č",
+      "latitude": 48.984026,
+      "longitude": 19.111917
+    },
+    {
+      "name": "Č",
+      "latitude": 48.982997,
+      "longitude": 19.114246
+    },
+    {
+      "name": "Č-X",
+      "latitude": 48.982856,
+      "longitude": 19.116434
+    },
+    {
+      "name": "Č",
+      "latitude": 48.98293,
+      "longitude": 19.117238
+    },
+    {
+      "name": "Č",
+      "latitude": 48.982903,
+      "longitude": 19.118491
+    },
+    {
+      "name": "Č-X",
+      "latitude": 48.98294,
+      "longitude": 19.1187
+    },
+    {
+      "name": "Č-O",
+      "latitude": 48.982682,
+      "longitude": 19.119167
+    },
+    {
+      "name": "Č-X",
+      "latitude": 48.982309,
+      "longitude": 19.119561
+    },
+    {
+      "name": "Č",
+      "latitude": 48.981939,
+      "longitude": 19.119815
+    },
+    {
+      "name": "B",
+      "latitude": 48.980405,
+      "longitude": 19.124806
+    },
+    {
+      "name": "kameň",
+      "latitude": 49.029929,
+      "longitude": 19.244894
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.031792,
+      "longitude": 19.231974
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.032393,
+      "longitude": 19.232567
+    },
+    {
+      "name": "tiangulácia",
+      "latitude": 49.021977,
+      "longitude": 19.237235
+    },
+    {
+      "name": "Geodeitický bod",
+      "latitude": 49.014214,
+      "longitude": 19.161573
+    },
+    {
+      "name": "Geodeitický bod",
+      "latitude": 49.013168,
+      "longitude": 19.17261
+    },
+    {
+      "name": "440",
+      "latitude": 49.012417,
+      "longitude": 19.229057
+    },
+    {
+      "name": "kolík",
+      "latitude": 49.019766,
+      "longitude": 19.221764
+    },
+    {
+      "name": "468",
+      "latitude": 49.012173,
+      "longitude": 19.227237
+    },
+    {
+      "name": "TYČ",
+      "latitude": 49.018191,
+      "longitude": 19.243539
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.024089,
+      "longitude": 19.228256
+    },
+    {
+      "name": "M",
+      "latitude": 49.009783,
+      "longitude": 19.233324
+    },
+    {
+      "name": "Štátna Triangulácia",
+      "latitude": 49.027989,
+      "longitude": 19.329068
+    },
+    {
+      "name": "biela 152",
+      "latitude": 49.015414,
+      "longitude": 19.330511
+    },
+    {
+      "name": "145",
+      "latitude": 49.020693,
+      "longitude": 19.33212
+    },
+    {
+      "name": "142",
+      "latitude": 49.021675,
+      "longitude": 19.328174
+    },
+    {
+      "name": "Podrobná Triangulácia",
+      "latitude": 49.006158,
+      "longitude": 19.206096
+    },
+    {
+      "name": "kameň -Štátna nivelácia",
+      "latitude": 48.989618,
+      "longitude": 19.20157
+    },
+    {
+      "name": "459",
+      "latitude": 49.005511,
+      "longitude": 19.247513
+    },
+    {
+      "name": "398",
+      "latitude": 48.993112,
+      "longitude": 19.226425
+    },
+    {
+      "name": "Štátna nivelácia",
+      "latitude": 48.99197,
+      "longitude": 19.193253
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 48.993972,
+      "longitude": 19.198457
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 48.983715,
+      "longitude": 19.191678
+    },
+    {
+      "name": "červená",
+      "latitude": 48.990044,
+      "longitude": 19.220306
+    },
+    {
+      "name": "Modrá",
+      "latitude": 49.001036,
+      "longitude": 19.236242
+    },
+    {
+      "name": "Č",
+      "latitude": 48.984892,
+      "longitude": 19.241341
+    },
+    {
+      "name": "Geodeitický bod",
+      "latitude": 49.008302,
+      "longitude": 19.170759
+    },
+    {
+      "name": "štátna triangulácia",
+      "latitude": 48.98882,
+      "longitude": 19.16688
+    },
+    {
+      "name": "Štátna Triangulácia",
+      "latitude": 48.998799,
+      "longitude": 19.293036
+    },
+    {
+      "name": "Štátna Triangulácia",
+      "latitude": 48.999273,
+      "longitude": 19.29241
+    },
+    {
+      "name": "Triangulácia",
+      "latitude": 48.981127,
+      "longitude": 19.277979
+    },
+    {
+      "name": "Šípka",
+      "latitude": 49.001417,
+      "longitude": 19.300996
+    },
+    {
+      "name": "Červená/Biela",
+      "latitude": 49.001362,
+      "longitude": 19.301282
+    },
+    {
+      "name": "Červená",
+      "latitude": 49.001173,
+      "longitude": 19.302346
+    },
+    {
+      "name": "Biela šípka",
+      "latitude": 49.000716,
+      "longitude": 19.33375
+    },
+    {
+      "name": "červená šípka",
+      "latitude": 49.004036,
+      "longitude": 19.33181
+    },
+    {
+      "name": "červená",
+      "latitude": 49.008263,
+      "longitude": 19.329927
+    },
+    {
+      "name": "120",
+      "latitude": 48.993373,
+      "longitude": 19.262387
+    },
+    {
+      "name": "INJEKT",
+      "latitude": 48.98544,
+      "longitude": 19.276229
+    },
+    {
+      "name": "422",
+      "latitude": 49.001009,
+      "longitude": 19.249271
+    },
+    {
+      "name": "Cervený kríž",
+      "latitude": 49.002628,
+      "longitude": 19.267052
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 48.956151,
+      "longitude": 19.120323
+    },
+    {
+      "name": "160",
+      "latitude": 48.968439,
+      "longitude": 19.137965
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 48.969242,
+      "longitude": 19.139616
+    },
+    {
+      "name": "171",
+      "latitude": 48.964144,
+      "longitude": 19.139012
+    },
+    {
+      "name": "M",
+      "latitude": 48.977777,
+      "longitude": 19.116066
+    },
+    {
+      "name": "M",
+      "latitude": 48.96903,
+      "longitude": 19.148816
+    },
+    {
+      "name": "X",
+      "latitude": 48.972475,
+      "longitude": 19.144928
+    },
+    {
+      "name": "Č",
+      "latitude": 48.976238,
+      "longitude": 19.145954
+    },
+    {
+      "name": "450",
+      "latitude": 48.939271,
+      "longitude": 19.146673
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 48.930768,
+      "longitude": 19.122622
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 48.950439,
+      "longitude": 19.157198
+    },
+    {
+      "name": "červená",
+      "latitude": 48.945755,
+      "longitude": 19.134048
+    },
+    {
+      "name": "červená 197.",
+      "latitude": 48.941945,
+      "longitude": 19.116076
+    },
+    {
+      "name": "modrá S3",
+      "latitude": 48.943533,
+      "longitude": 19.117171
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 48.930752,
+      "longitude": 19.132851
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 48.930988,
+      "longitude": 19.134514
+    },
+    {
+      "name": "RK / L.Osada",
+      "latitude": 48.976912,
+      "longitude": 19.234099
+    },
+    {
+      "name": "Rezervácia",
+      "latitude": 48.976818,
+      "longitude": 19.234968
+    },
+    {
+      "name": "163",
+      "latitude": 48.95645,
+      "longitude": 19.197008
+    },
+    {
+      "name": "Bod 48/1",
+      "latitude": 48.971696,
+      "longitude": 19.331831
+    },
+    {
+      "name": "červená šípka",
+      "latitude": 48.975661,
+      "longitude": 19.288855
+    },
+    {
+      "name": "červená šípka",
+      "latitude": 48.976296,
+      "longitude": 19.287949
+    },
+    {
+      "name": "červená",
+      "latitude": 48.976574,
+      "longitude": 19.287663
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 48.957586,
+      "longitude": 19.32024
+    },
+    {
+      "name": "2",
+      "latitude": 48.961671,
+      "longitude": 19.312401
+    },
+    {
+      "name": "tyč",
+      "latitude": 48.952209,
+      "longitude": 19.298514
+    },
+    {
+      "name": "kóta",
+      "latitude": 48.952072,
+      "longitude": 19.297579
+    },
+    {
+      "name": "1",
+      "latitude": 48.953368,
+      "longitude": 19.3058
+    },
+    {
+      "name": "5",
+      "latitude": 48.952647,
+      "longitude": 19.317312
+    },
+    {
+      "name": "Vodovod",
+      "latitude": 48.965384,
+      "longitude": 19.268759
+    },
+    {
+      "name": "B",
+      "latitude": 48.95937,
+      "longitude": 19.314853
+    },
+    {
+      "name": "PR",
+      "latitude": 48.947726,
+      "longitude": 19.226809
+    },
+    {
+      "name": "PR",
+      "latitude": 48.950277,
+      "longitude": 19.224696
+    },
+    {
+      "name": "PR",
+      "latitude": 48.951295,
+      "longitude": 19.222788
+    },
+    {
+      "name": "129",
+      "latitude": 48.946108,
+      "longitude": 19.226966
+    },
+    {
+      "name": "červená",
+      "latitude": 48.947916,
+      "longitude": 19.174334
+    },
+    {
+      "name": "červená",
+      "latitude": 48.947236,
+      "longitude": 19.173822
+    },
+    {
+      "name": "181",
+      "latitude": 48.946469,
+      "longitude": 19.221505
+    },
+    {
+      "name": "M*",
+      "latitude": 48.928644,
+      "longitude": 19.232096
+    },
+    {
+      "name": "kolík 119",
+      "latitude": 48.933789,
+      "longitude": 19.315073
+    },
+    {
+      "name": "starý el. stlp 22kV",
+      "latitude": 48.931448,
+      "longitude": 19.315311
+    },
+    {
+      "name": "starý el. stlp 22kV",
+      "latitude": 48.931973,
+      "longitude": 19.315209
+    },
+    {
+      "name": "starý el. stlp 22kV",
+      "latitude": 48.933117,
+      "longitude": 19.315064
+    },
+    {
+      "name": "starý el. stlp 22kV",
+      "latitude": 48.933778,
+      "longitude": 19.31494
+    },
+    {
+      "name": "starý el. stlp 22kV",
+      "latitude": 48.934247,
+      "longitude": 19.314952
+    },
+    {
+      "name": "starý el. stlp 22kV",
+      "latitude": 48.934846,
+      "longitude": 19.314806
+    },
+    {
+      "name": "p21",
+      "latitude": 48.930096,
+      "longitude": 19.259385
+    },
+    {
+      "name": "červená-biela X",
+      "latitude": 48.931581,
+      "longitude": 19.259947
+    },
+    {
+      "name": "kolík 145",
+      "latitude": 48.950355,
+      "longitude": 19.327505
+    },
+    {
+      "name": "kolík 144",
+      "latitude": 48.950721,
+      "longitude": 19.327667
+    },
+    {
+      "name": "6",
+      "latitude": 48.950692,
+      "longitude": 19.305148
+    },
+    {
+      "name": "kôl 3.",
+      "latitude": 48.95012,
+      "longitude": 19.308025
+    },
+    {
+      "name": "kôl216",
+      "latitude": 48.926569,
+      "longitude": 19.314401
+    },
+    {
+      "name": "kôl 203",
+      "latitude": 48.928045,
+      "longitude": 19.329428
+    },
+    {
+      "name": "červená",
+      "latitude": 48.923373,
+      "longitude": 19.299624
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 48.923684,
+      "longitude": 19.282346
+    },
+    {
+      "name": "Geodetický bod a kameň",
+      "latitude": 49.011869,
+      "longitude": 19.380015
+    },
+    {
+      "name": "358",
+      "latitude": 49.011892,
+      "longitude": 19.380031
+    },
+    {
+      "name": "359",
+      "latitude": 49.010639,
+      "longitude": 19.378287
+    },
+    {
+      "name": "kolík",
+      "latitude": 49.036222,
+      "longitude": 19.371736
+    },
+    {
+      "name": "kameň",
+      "latitude": 49.037833,
+      "longitude": 19.373313
+    },
+    {
+      "name": "Hrdzavá ceduľa",
+      "latitude": 49.02485,
+      "longitude": 19.394474
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.022824,
+      "longitude": 19.388835
+    },
+    {
+      "name": "85",
+      "latitude": 49.026393,
+      "longitude": 19.353569
+    },
+    {
+      "name": "149",
+      "latitude": 49.016517,
+      "longitude": 19.400681
+    },
+    {
+      "name": "150",
+      "latitude": 49.017437,
+      "longitude": 19.401424
+    },
+    {
+      "name": "X",
+      "latitude": 49.037655,
+      "longitude": 19.421334
+    },
+    {
+      "name": "68",
+      "latitude": 49.035362,
+      "longitude": 19.415867
+    },
+    {
+      "name": "68",
+      "latitude": 49.035028,
+      "longitude": 19.415285
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.030889,
+      "longitude": 19.417006
+    },
+    {
+      "name": "104",
+      "latitude": 49.017792,
+      "longitude": 19.350555
+    },
+    {
+      "name": "Štátna nivelácia",
+      "latitude": 49.027318,
+      "longitude": 19.485039
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.035961,
+      "longitude": 19.466125
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.034463,
+      "longitude": 19.455058
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.036213,
+      "longitude": 19.451758
+    },
+    {
+      "name": "Kameň",
+      "latitude": 48.998433,
+      "longitude": 19.366858
+    },
+    {
+      "name": "364",
+      "latitude": 48.999804,
+      "longitude": 19.36722
+    },
+    {
+      "name": "361",
+      "latitude": 49.007952,
+      "longitude": 19.373979
+    },
+    {
+      "name": "362",
+      "latitude": 49.005165,
+      "longitude": 19.369396
+    },
+    {
+      "name": "360",
+      "latitude": 49.008741,
+      "longitude": 19.375507
+    },
+    {
+      "name": "363",
+      "latitude": 49.000456,
+      "longitude": 19.370039
+    },
+    {
+      "name": "204",
+      "latitude": 49.005797,
+      "longitude": 19.378542
+    },
+    {
+      "name": "203",
+      "latitude": 49.008046,
+      "longitude": 19.379713
+    },
+    {
+      "name": "205",
+      "latitude": 49.00453,
+      "longitude": 19.381408
+    },
+    {
+      "name": "247-2016",
+      "latitude": 49.003746,
+      "longitude": 19.369574
+    },
+    {
+      "name": "Geodetický bod a kameň",
+      "latitude": 49.003136,
+      "longitude": 19.409287
+    },
+    {
+      "name": "Hranica urbáru",
+      "latitude": 48.980586,
+      "longitude": 19.345644
+    },
+    {
+      "name": "URBÁR",
+      "latitude": 48.98633,
+      "longitude": 19.340916
+    },
+    {
+      "name": "Viackov",
+      "latitude": 49.007876,
+      "longitude": 19.479465
+    },
+    {
+      "name": "kameň",
+      "latitude": 48.983974,
+      "longitude": 19.440374
+    },
+    {
+      "name": "Červená tyč",
+      "latitude": 48.9827,
+      "longitude": 19.475233
+    },
+    {
+      "name": "Ľupča/Klačany",
+      "latitude": 48.99149,
+      "longitude": 19.4521
+    },
+    {
+      "name": "č",
+      "latitude": 48.990308,
+      "longitude": 19.439959
+    },
+    {
+      "name": "kôl 95",
+      "latitude": 48.990899,
+      "longitude": 19.440829
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 48.987424,
+      "longitude": 19.454902
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 48.998132,
+      "longitude": 19.438449
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 48.998721,
+      "longitude": 19.439873
+    },
+    {
+      "name": "Ľupča/Klačany",
+      "latitude": 48.997042,
+      "longitude": 19.448261
+    },
+    {
+      "name": "Orandž",
+      "latitude": 48.993554,
+      "longitude": 19.431
+    },
+    {
+      "name": "rúra",
+      "latitude": 49.002402,
+      "longitude": 19.432392
+    },
+    {
+      "name": "Urbár",
+      "latitude": 48.996614,
+      "longitude": 19.455317
+    },
+    {
+      "name": "Urbár",
+      "latitude": 48.996376,
+      "longitude": 19.454384
+    },
+    {
+      "name": "Hranica",
+      "latitude": 48.986998,
+      "longitude": 19.463364
+    },
+    {
+      "name": "urbár",
+      "latitude": 48.99935,
+      "longitude": 19.451938
+    },
+    {
+      "name": "SPP",
+      "latitude": 49.016469,
+      "longitude": 19.579597
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.02559,
+      "longitude": 19.591113
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.009976,
+      "longitude": 19.541341
+    },
+    {
+      "name": "Šachta č.7 - km 2510",
+      "latitude": 49.034023,
+      "longitude": 19.555723
+    },
+    {
+      "name": "SPP - protikorózna ochrana",
+      "latitude": 49.035566,
+      "longitude": 19.566959
+    },
+    {
+      "name": "Rezervácia",
+      "latitude": 49.01755,
+      "longitude": 19.580788
+    },
+    {
+      "name": "červená",
+      "latitude": 49.023991,
+      "longitude": 19.626139
+    },
+    {
+      "name": "G",
+      "latitude": 49.026043,
+      "longitude": 19.631563
+    },
+    {
+      "name": "Červená šípka",
+      "latitude": 49.03148,
+      "longitude": 19.613902
+    },
+    {
+      "name": "Č",
+      "latitude": 49.031701,
+      "longitude": 19.626748
+    },
+    {
+      "name": "K",
+      "latitude": 49.033768,
+      "longitude": 19.626802
+    },
+    {
+      "name": "Triangulácia",
+      "latitude": 48.998958,
+      "longitude": 19.527158
+    },
+    {
+      "name": "kolík 109",
+      "latitude": 49.001746,
+      "longitude": 19.522203
+    },
+    {
+      "name": "Triangulácia",
+      "latitude": 49.000072,
+      "longitude": 19.523512
+    },
+    {
+      "name": "vodovod",
+      "latitude": 49.00074,
+      "longitude": 19.582607
+    },
+    {
+      "name": "79",
+      "latitude": 48.994269,
+      "longitude": 19.537652
+    },
+    {
+      "name": "73",
+      "latitude": 48.993425,
+      "longitude": 19.537755
+    },
+    {
+      "name": "9",
+      "latitude": 48.999026,
+      "longitude": 19.534975
+    },
+    {
+      "name": "71",
+      "latitude": 48.999035,
+      "longitude": 19.534827
+    },
+    {
+      "name": "urbár",
+      "latitude": 48.993289,
+      "longitude": 19.542333
+    },
+    {
+      "name": "Č",
+      "latitude": 48.999614,
+      "longitude": 19.618337
+    },
+    {
+      "name": "Č",
+      "latitude": 49.008203,
+      "longitude": 19.62262
+    },
+    {
+      "name": "Bod 47/1",
+      "latitude": 48.972467,
+      "longitude": 19.33858
+    },
+    {
+      "name": "Štátna Triangulácia",
+      "latitude": 48.975386,
+      "longitude": 19.3417
+    },
+    {
+      "name": "kolík 72",
+      "latitude": 48.962127,
+      "longitude": 19.353879
+    },
+    {
+      "name": "kolík 74",
+      "latitude": 48.960837,
+      "longitude": 19.351427
+    },
+    {
+      "name": "kolík 76",
+      "latitude": 48.957272,
+      "longitude": 19.346767
+    },
+    {
+      "name": "kolík 90",
+      "latitude": 48.954705,
+      "longitude": 19.345541
+    },
+    {
+      "name": "kolík 96",
+      "latitude": 48.953473,
+      "longitude": 19.359249
+    },
+    {
+      "name": "kolík 95",
+      "latitude": 48.95364,
+      "longitude": 19.355569
+    },
+    {
+      "name": "kolík 94",
+      "latitude": 48.952704,
+      "longitude": 19.352725
+    },
+    {
+      "name": "kolík 92",
+      "latitude": 48.953313,
+      "longitude": 19.34808
+    },
+    {
+      "name": "kolík 91",
+      "latitude": 48.953484,
+      "longitude": 19.347372
+    },
+    {
+      "name": "kolík 111",
+      "latitude": 48.970244,
+      "longitude": 19.341635
+    },
+    {
+      "name": "kolík 171",
+      "latitude": 48.969351,
+      "longitude": 19.338274
+    },
+    {
+      "name": "kôl 65",
+      "latitude": 48.961538,
+      "longitude": 19.339918
+    },
+    {
+      "name": "kôl 65",
+      "latitude": 48.96644,
+      "longitude": 19.345622
+    },
+    {
+      "name": "kôl 66",
+      "latitude": 48.966579,
+      "longitude": 19.34803
+    },
+    {
+      "name": "kôl 55",
+      "latitude": 48.967229,
+      "longitude": 19.342672
+    },
+    {
+      "name": "Štátna nivelácia",
+      "latitude": 48.957361,
+      "longitude": 19.394594
+    },
+    {
+      "name": "Červená",
+      "latitude": 48.955944,
+      "longitude": 19.37861
+    },
+    {
+      "name": "Červený kríž",
+      "latitude": 48.955516,
+      "longitude": 19.377847
+    },
+    {
+      "name": "Červená",
+      "latitude": 48.953854,
+      "longitude": 19.37601
+    },
+    {
+      "name": "Štátna Triangulácia",
+      "latitude": 48.97592,
+      "longitude": 19.341761
+    },
+    {
+      "name": "Hranica urbáru",
+      "latitude": 48.980202,
+      "longitude": 19.346032
+    },
+    {
+      "name": "Hranica urbáru",
+      "latitude": 48.978923,
+      "longitude": 19.346878
+    },
+    {
+      "name": "36",
+      "latitude": 48.951722,
+      "longitude": 19.438232
+    },
+    {
+      "name": "výsek",
+      "latitude": 48.973804,
+      "longitude": 19.494076
+    },
+    {
+      "name": "výsek",
+      "latitude": 48.974342,
+      "longitude": 19.494548
+    },
+    {
+      "name": "vrták",
+      "latitude": 48.978511,
+      "longitude": 19.490814
+    },
+    {
+      "name": "rúbaň",
+      "latitude": 48.975719,
+      "longitude": 19.493433
+    },
+    {
+      "name": "174",
+      "latitude": 48.967143,
+      "longitude": 19.506746
+    },
+    {
+      "name": "2",
+      "latitude": 48.976901,
+      "longitude": 19.505184
+    },
+    {
+      "name": "8",
+      "latitude": 48.974361,
+      "longitude": 19.505018
+    },
+    {
+      "name": "VN",
+      "latitude": 48.977458,
+      "longitude": 19.478049
+    },
+    {
+      "name": "O",
+      "latitude": 48.967563,
+      "longitude": 19.499976
+    },
+    {
+      "name": "Urbár",
+      "latitude": 48.936606,
+      "longitude": 19.421992
+    },
+    {
+      "name": "kameň",
+      "latitude": 48.947804,
+      "longitude": 19.37027
+    },
+    {
+      "name": "kolík 106",
+      "latitude": 48.947153,
+      "longitude": 19.36105
+    },
+    {
+      "name": "Štátna nivelácia",
+      "latitude": 48.946589,
+      "longitude": 19.392953
+    },
+    {
+      "name": "17.",
+      "latitude": 48.94278,
+      "longitude": 19.401277
+    },
+    {
+      "name": "kôl 85.",
+      "latitude": 48.926016,
+      "longitude": 19.35878
+    },
+    {
+      "name": "Podrobná triangulácia",
+      "latitude": 48.927105,
+      "longitude": 19.393466
+    },
+    {
+      "name": "Červené železné tyčové značenie",
+      "latitude": 48.931152,
+      "longitude": 19.453612
+    },
+    {
+      "name": "429",
+      "latitude": 48.939805,
+      "longitude": 19.437293
+    },
+    {
+      "name": "428",
+      "latitude": 48.943212,
+      "longitude": 19.436071
+    },
+    {
+      "name": "7",
+      "latitude": 48.924693,
+      "longitude": 19.491286
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 48.947901,
+      "longitude": 19.508992
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 48.946771,
+      "longitude": 19.508968
+    },
+    {
+      "name": "vrt",
+      "latitude": 48.980165,
+      "longitude": 19.598334
+    },
+    {
+      "name": "5",
+      "latitude": 48.977395,
+      "longitude": 19.632803
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 48.938884,
+      "longitude": 19.517425
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.297905,
+      "longitude": 19.692108
+    },
+    {
+      "name": "Tvrdošín / Oravice / Suchá hora",
+      "latitude": 49.30768,
+      "longitude": 19.794117
+    },
+    {
+      "name": "kôl 59",
+      "latitude": 49.216833,
+      "longitude": 19.982949
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.222356,
+      "longitude": 19.953276
+    },
+    {
+      "name": "bod",
+      "latitude": 49.182571,
+      "longitude": 19.747985
+    },
+    {
+      "name": "Turistické značenie",
+      "latitude": 49.187199,
+      "longitude": 19.702262
+    },
+    {
+      "name": "Turistické značenie",
+      "latitude": 49.1863,
+      "longitude": 19.702021
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.193972,
+      "longitude": 19.71047
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.201423,
+      "longitude": 19.702657
+    },
+    {
+      "name": "X",
+      "latitude": 49.158723,
+      "longitude": 19.692282
+    },
+    {
+      "name": "Široká",
+      "latitude": 49.176534,
+      "longitude": 19.694605
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.157944,
+      "longitude": 19.80524
+    },
+    {
+      "name": "kôl 37",
+      "latitude": 49.182954,
+      "longitude": 19.915732
+    },
+    {
+      "name": "Štátna nivelácia",
+      "latitude": 49.183016,
+      "longitude": 19.91574
+    },
+    {
+      "name": "kôl 63",
+      "latitude": 49.186617,
+      "longitude": 19.914469
+    },
+    {
+      "name": "91-L",
+      "latitude": 49.191538,
+      "longitude": 20.007007
+    },
+    {
+      "name": "118",
+      "latitude": 49.194453,
+      "longitude": 19.991428
+    },
+    {
+      "name": "98",
+      "latitude": 49.155799,
+      "longitude": 19.962362
+    },
+    {
+      "name": "99",
+      "latitude": 49.156645,
+      "longitude": 19.960301
+    },
+    {
+      "name": "rezervácia",
+      "latitude": 49.154964,
+      "longitude": 20.085618
+    },
+    {
+      "name": "70-2",
+      "latitude": 49.190602,
+      "longitude": 20.284694
+    },
+    {
+      "name": "106-2",
+      "latitude": 49.193789,
+      "longitude": 20.281146
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.195038,
+      "longitude": 20.943436
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.20653,
+      "longitude": 20.929751
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.132451,
+      "longitude": 19.759394
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.126364,
+      "longitude": 19.751122
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.125219,
+      "longitude": 19.749478
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.129896,
+      "longitude": 19.752608
+    },
+    {
+      "name": "B",
+      "latitude": 49.124581,
+      "longitude": 19.739181
+    },
+    {
+      "name": "VODA",
+      "latitude": 49.126613,
+      "longitude": 19.712271
+    },
+    {
+      "name": "B",
+      "latitude": 49.143648,
+      "longitude": 19.748398
+    },
+    {
+      "name": "B",
+      "latitude": 49.140242,
+      "longitude": 19.750425
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.128181,
+      "longitude": 19.779696
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.127451,
+      "longitude": 19.779524
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.126715,
+      "longitude": 19.781455
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.126139,
+      "longitude": 19.779818
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.126536,
+      "longitude": 19.779414
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.126942,
+      "longitude": 19.775492
+    },
+    {
+      "name": "Státna triangulácia",
+      "latitude": 49.147689,
+      "longitude": 19.809469
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.123552,
+      "longitude": 19.748328
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.122109,
+      "longitude": 19.747493
+    },
+    {
+      "name": "plyn",
+      "latitude": 49.113824,
+      "longitude": 19.834014
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.113339,
+      "longitude": 19.813347
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.113019,
+      "longitude": 19.812661
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.111934,
+      "longitude": 19.812001
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.110112,
+      "longitude": 19.80953
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.110475,
+      "longitude": 19.808688
+    },
+    {
+      "name": "68",
+      "latitude": 49.145757,
+      "longitude": 19.956727
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 49.112484,
+      "longitude": 19.976812
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 49.112498,
+      "longitude": 19.976802
+    },
+    {
+      "name": "plyn kvc140-100",
+      "latitude": 49.088862,
+      "longitude": 19.745237
+    },
+    {
+      "name": "plyn",
+      "latitude": 49.084632,
+      "longitude": 19.737649
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.083487,
+      "longitude": 19.731665
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.083726,
+      "longitude": 19.730287
+    },
+    {
+      "name": "urbár",
+      "latitude": 49.083815,
+      "longitude": 19.729468
+    },
+    {
+      "name": "16",
+      "latitude": 49.027171,
+      "longitude": 19.704425
+    },
+    {
+      "name": "prírodná rezervácia",
+      "latitude": 48.998306,
+      "longitude": 19.695423
+    },
+    {
+      "name": "prírodná rezervácia",
+      "latitude": 48.998134,
+      "longitude": 19.696524
+    },
+    {
+      "name": "prírodná rezervácia",
+      "latitude": 48.998014,
+      "longitude": 19.698816
+    },
+    {
+      "name": "prírodná rezervácia",
+      "latitude": 48.998262,
+      "longitude": 19.699478
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 48.975462,
+      "longitude": 19.7058
+    },
+    {
+      "name": "NPP",
+      "latitude": 48.97758,
+      "longitude": 19.731327
+    },
+    {
+      "name": "NPP",
+      "latitude": 48.97787,
+      "longitude": 19.732181
+    },
+    {
+      "name": "kolík",
+      "latitude": 48.943589,
+      "longitude": 19.772121
+    },
+    {
+      "name": "Hrabušice",
+      "latitude": 48.95727,
+      "longitude": 20.389928
+    },
+    {
+      "name": "6",
+      "latitude": 49.03811,
+      "longitude": 20.659957
+    },
+    {
+      "name": "6",
+      "latitude": 49.034574,
+      "longitude": 20.66062
+    },
+    {
+      "name": "Roháčka",
+      "latitude": 48.923898,
+      "longitude": 21.012729
+    },
+    {
+      "name": "Kameň",
+      "latitude": 49.051629,
+      "longitude": 21.176485
+    },
+    {
+      "name": "SK-1747.01",
+      "latitude": 48.960553,
+      "longitude": 22.061375
+    },
+    {
+      "name": "HU 392",
+      "latitude": 48.73268,
+      "longitude": 17.275622
+    },
+    {
+      "name": "HU 393",
+      "latitude": 48.732609,
+      "longitude": 17.275121
+    },
+    {
+      "name": "HU 394",
+      "latitude": 48.732504,
+      "longitude": 17.2747
+    },
+    {
+      "name": "HU 396",
+      "latitude": 48.73236,
+      "longitude": 17.274122
+    },
+    {
+      "name": "HU 397",
+      "latitude": 48.732274,
+      "longitude": 17.273596
+    },
+    {
+      "name": "HU 398",
+      "latitude": 48.732017,
+      "longitude": 17.272801
+    },
+    {
+      "name": "HU 399",
+      "latitude": 48.731877,
+      "longitude": 17.272253
+    },
+    {
+      "name": "HU 401",
+      "latitude": 48.73164,
+      "longitude": 17.271314
+    },
+    {
+      "name": "HU 402",
+      "latitude": 48.731626,
+      "longitude": 17.271202
+    },
+    {
+      "name": "HU 404",
+      "latitude": 48.731336,
+      "longitude": 17.269869
+    },
+    {
+      "name": "Hranica ochr. pásma minerálneho prameňa",
+      "latitude": 48.678924,
+      "longitude": 17.921303
+    },
+    {
+      "name": "Hranica ochr. pásma minerálneho prameňa",
+      "latitude": 48.675602,
+      "longitude": 17.911899
+    },
+    {
+      "name": "Hranica ochr. pásma minerálneho prameňa",
+      "latitude": 48.674734,
+      "longitude": 17.90941
+    },
+    {
+      "name": "Hranica ochr. pásma minerálneho prameňa",
+      "latitude": 48.673065,
+      "longitude": 17.90621
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 48.875941,
+      "longitude": 18.699692
+    },
+    {
+      "name": "hraničný znak",
+      "latitude": 48.75494,
+      "longitude": 18.390943
+    },
+    {
+      "name": "urbár",
+      "latitude": 48.731841,
+      "longitude": 18.708136
+    },
+    {
+      "name": "NPR",
+      "latitude": 48.692527,
+      "longitude": 18.638011
+    },
+    {
+      "name": "NPR",
+      "latitude": 48.692352,
+      "longitude": 18.637193
+    },
+    {
+      "name": "NPR",
+      "latitude": 48.691797,
+      "longitude": 18.636745
+    },
+    {
+      "name": "143",
+      "latitude": 48.716758,
+      "longitude": 18.710293
+    },
+    {
+      "name": "295",
+      "latitude": 48.910232,
+      "longitude": 19.107496
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 48.902054,
+      "longitude": 19.079295
+    },
+    {
+      "name": "Červený kríž",
+      "latitude": 48.909512,
+      "longitude": 19.099292
+    },
+    {
+      "name": "290",
+      "latitude": 48.911215,
+      "longitude": 19.098761
+    },
+    {
+      "name": "Zóna A - V. stupeň ochrany",
+      "latitude": 48.919669,
+      "longitude": 19.110572
+    },
+    {
+      "name": "Voda",
+      "latitude": 48.906014,
+      "longitude": 19.146102
+    },
+    {
+      "name": "275",
+      "latitude": 48.905997,
+      "longitude": 19.144247
+    },
+    {
+      "name": "Biely",
+      "latitude": 48.900372,
+      "longitude": 19.141091
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 48.885433,
+      "longitude": 19.02359
+    },
+    {
+      "name": "kolík",
+      "latitude": 48.887028,
+      "longitude": 19.149599
+    },
+    {
+      "name": "Hranica",
+      "latitude": 48.892871,
+      "longitude": 19.112107
+    },
+    {
+      "name": "Hranica",
+      "latitude": 48.890358,
+      "longitude": 19.1144
+    },
+    {
+      "name": "červená",
+      "latitude": 48.880795,
+      "longitude": 19.155074
+    },
+    {
+      "name": "221",
+      "latitude": 48.887854,
+      "longitude": 19.149868
+    },
+    {
+      "name": "220",
+      "latitude": 48.885515,
+      "longitude": 19.145499
+    },
+    {
+      "name": "270",
+      "latitude": 48.889358,
+      "longitude": 19.135465
+    },
+    {
+      "name": "272",
+      "latitude": 48.889932,
+      "longitude": 19.139838
+    },
+    {
+      "name": "271",
+      "latitude": 48.88987,
+      "longitude": 19.139263
+    },
+    {
+      "name": "Biela",
+      "latitude": 48.910316,
+      "longitude": 19.219519
+    },
+    {
+      "name": "3M",
+      "latitude": 48.913276,
+      "longitude": 19.213743
+    },
+    {
+      "name": "55",
+      "latitude": 48.905922,
+      "longitude": 19.210431
+    },
+    {
+      "name": "135",
+      "latitude": 48.904152,
+      "longitude": 19.168385
+    },
+    {
+      "name": "164",
+      "latitude": 48.896885,
+      "longitude": 19.191055
+    },
+    {
+      "name": "176",
+      "latitude": 48.897424,
+      "longitude": 19.175949
+    },
+    {
+      "name": "193",
+      "latitude": 48.898185,
+      "longitude": 19.174225
+    },
+    {
+      "name": "192",
+      "latitude": 48.894695,
+      "longitude": 19.175001
+    },
+    {
+      "name": "194",
+      "latitude": 48.900933,
+      "longitude": 19.169885
+    },
+    {
+      "name": "115",
+      "latitude": 48.900074,
+      "longitude": 19.172073
+    },
+    {
+      "name": "196",
+      "latitude": 48.901637,
+      "longitude": 19.168404
+    },
+    {
+      "name": "198",
+      "latitude": 48.898838,
+      "longitude": 19.165279
+    },
+    {
+      "name": "199",
+      "latitude": 48.897133,
+      "longitude": 19.164046
+    },
+    {
+      "name": "128",
+      "latitude": 48.910818,
+      "longitude": 19.175476
+    },
+    {
+      "name": "126",
+      "latitude": 48.913148,
+      "longitude": 19.173007
+    },
+    {
+      "name": "Meracia tyč",
+      "latitude": 48.92149,
+      "longitude": 19.26661
+    },
+    {
+      "name": "78",
+      "latitude": 48.89472,
+      "longitude": 19.30509
+    },
+    {
+      "name": "Státní tiangulace",
+      "latitude": 48.907252,
+      "longitude": 19.283823
+    },
+    {
+      "name": "kolík 50",
+      "latitude": 48.909605,
+      "longitude": 19.270388
+    },
+    {
+      "name": "kolík 49",
+      "latitude": 48.907933,
+      "longitude": 19.273401
+    },
+    {
+      "name": "NAPANT",
+      "latitude": 48.913387,
+      "longitude": 19.318156
+    },
+    {
+      "name": "164",
+      "latitude": 48.912036,
+      "longitude": 19.324137
+    },
+    {
+      "name": "22",
+      "latitude": 48.89872,
+      "longitude": 19.312323
+    },
+    {
+      "name": "183",
+      "latitude": 48.909776,
+      "longitude": 19.331244
+    },
+    {
+      "name": "3",
+      "latitude": 48.909377,
+      "longitude": 19.327526
+    },
+    {
+      "name": "20",
+      "latitude": 48.90945,
+      "longitude": 19.309193
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 48.920753,
+      "longitude": 19.30808
+    },
+    {
+      "name": "223",
+      "latitude": 48.8659,
+      "longitude": 19.227821
+    },
+    {
+      "name": "229",
+      "latitude": 48.867671,
+      "longitude": 19.239079
+    },
+    {
+      "name": "219",
+      "latitude": 48.869782,
+      "longitude": 19.246134
+    },
+    {
+      "name": "184",
+      "latitude": 48.884632,
+      "longitude": 19.1742
+    },
+    {
+      "name": "189",
+      "latitude": 48.890729,
+      "longitude": 19.174637
+    },
+    {
+      "name": "190",
+      "latitude": 48.891934,
+      "longitude": 19.174365
+    },
+    {
+      "name": "207",
+      "latitude": 48.889767,
+      "longitude": 19.164458
+    },
+    {
+      "name": "Geodetický kameň",
+      "latitude": 48.88427,
+      "longitude": 19.167142
+    },
+    {
+      "name": "dialnica R1",
+      "latitude": 48.870955,
+      "longitude": 19.276361
+    },
+    {
+      "name": "železná tyč",
+      "latitude": 48.892897,
+      "longitude": 19.256222
+    },
+    {
+      "name": "112",
+      "latitude": 48.886492,
+      "longitude": 19.277535
+    },
+    {
+      "name": "115",
+      "latitude": 48.88496,
+      "longitude": 19.282226
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 48.893514,
+      "longitude": 19.331238
+    },
+    {
+      "name": "Biela",
+      "latitude": 48.870555,
+      "longitude": 19.306144
+    },
+    {
+      "name": "133",
+      "latitude": 48.87376,
+      "longitude": 19.299004
+    },
+    {
+      "name": "Geodetický bod",
+      "latitude": 48.876046,
+      "longitude": 19.282357
+    },
+    {
+      "name": "NPP",
+      "latitude": 48.865532,
+      "longitude": 19.285886
+    },
+    {
+      "name": "1595 modrá",
+      "latitude": 48.869305,
+      "longitude": 19.254832
+    },
+    {
+      "name": "1549B",
+      "latitude": 48.871221,
+      "longitude": 19.25415
+    },
+    {
+      "name": "modrá",
+      "latitude": 48.873314,
+      "longitude": 19.251577
+    },
+    {
+      "name": "Voda",
+      "latitude": 48.883652,
+      "longitude": 19.265027
+    },
+    {
+      "name": "Štátna triangulcia",
+      "latitude": 48.888652,
+      "longitude": 19.325836
+    },
+    {
+      "name": "Československý zamemeračský ústav",
+      "latitude": 48.83873,
+      "longitude": 19.11489
+    },
+    {
+      "name": "1800",
+      "latitude": 48.818774,
+      "longitude": 19.130221
+    },
+    {
+      "name": "pp400",
+      "latitude": 48.817938,
+      "longitude": 19.132389
+    },
+    {
+      "name": "d800",
+      "latitude": 48.818526,
+      "longitude": 19.13189
+    },
+    {
+      "name": "kolík 14",
+      "latitude": 48.844055,
+      "longitude": 19.194488
+    },
+    {
+      "name": "216",
+      "latitude": 48.864176,
+      "longitude": 19.248309
+    },
+    {
+      "name": "NPP",
+      "latitude": 48.864358,
+      "longitude": 19.289568
+    },
+    {
+      "name": "vrt vn7704",
+      "latitude": 48.804554,
+      "longitude": 19.128481
+    },
+    {
+      "name": "vrt vn7706",
+      "latitude": 48.804569,
+      "longitude": 19.128511
+    },
+    {
+      "name": "vrt vn7702",
+      "latitude": 48.804191,
+      "longitude": 19.126385
+    },
+    {
+      "name": "vrt",
+      "latitude": 48.745939,
+      "longitude": 19.38445
+    },
+    {
+      "name": "Geometrický stred Slovenska",
+      "latitude": 48.690874,
+      "longitude": 19.467272
+    },
+    {
+      "name": "Dlhý vrch",
+      "latitude": 48.457266,
+      "longitude": 17.340624
+    },
+    {
+      "name": "triangulácia",
+      "latitude": 48.272807,
+      "longitude": 17.095679
+    },
+    {
+      "name": "Veľký Javorník",
+      "latitude": 48.260725,
+      "longitude": 17.163319
+    },
+    {
+      "name": "triangulation",
+      "latitude": 48.234093,
+      "longitude": 17.093864
+    },
+    {
+      "name": "triangulation",
+      "latitude": 48.20202,
+      "longitude": 17.109922
+    },
+    {
+      "name": "Kráľov vrch",
+      "latitude": 48.15915,
+      "longitude": 17.03969
+    },
+    {
+      "name": "VO/191",
+      "latitude": 48.142244,
+      "longitude": 17.061564
+    },
+    {
+      "name": "Obora",
+      "latitude": 48.21446,
+      "longitude": 17.255392
+    },
+    {
+      "name": "Štátna triangulácia",
+      "latitude": 48.40302,
+      "longitude": 18.890534
+    },
+    {
+      "name": "Rezervácia",
+      "latitude": 48.21004,
+      "longitude": 18.949488
+    },
+    {
+      "name": "Rezervácia",
+      "latitude": 48.210309,
+      "longitude": 18.948727
+    },
+    {
+      "name": "Rezervácia",
+      "latitude": 48.210757,
+      "longitude": 18.948531
+    },
+    {
+      "name": "Rezervácia",
+      "latitude": 48.211129,
+      "longitude": 18.948152
+    },
+    {
+      "name": "Geodeticky bod",
+      "latitude": 48.205492,
+      "longitude": 19.344229
+    },
+    {
+      "name": "Štátna nivelácia",
+      "latitude": 48.917319,
+      "longitude": 19.736924
+    },
+    {
+      "name": "112",
+      "latitude": 48.81581,
+      "longitude": 20.475203
+    },
+    {
+      "name": "541",
+      "latitude": 48.807121,
+      "longitude": 20.500081
+    },
+    {
+      "name": "540",
+      "latitude": 48.807114,
+      "longitude": 20.498579
+    },
+    {
+      "name": "539",
+      "latitude": 48.807523,
+      "longitude": 20.497172
+    },
+    {
+      "name": "00",
+      "latitude": 48.807583,
+      "longitude": 20.495013
+    },
+    {
+      "name": "100",
+      "latitude": 48.810695,
+      "longitude": 20.482199
+    },
+    {
+      "name": "71",
+      "latitude": 48.797597,
+      "longitude": 20.513083
+    },
+    {
+      "name": "72",
+      "latitude": 48.797917,
+      "longitude": 20.512128
+    },
+    {
+      "name": "72",
+      "latitude": 48.798142,
+      "longitude": 20.511509
+    },
+    {
+      "name": "74",
+      "latitude": 48.798331,
+      "longitude": 20.511074
+    },
+    {
+      "name": "84",
+      "latitude": 48.80266,
+      "longitude": 20.507146
+    },
+    {
+      "name": "586",
+      "latitude": 48.783996,
+      "longitude": 20.53666
+    },
+    {
+      "name": "7",
+      "latitude": 48.766628,
+      "longitude": 20.554816
+    },
+    {
+      "name": "Pod Holubiu skalou",
+      "latitude": 48.60435,
+      "longitude": 20.727584
+    },
+    {
+      "name": "108-3412",
+      "latitude": 48.553479,
+      "longitude": 20.862286
+    },
+    {
+      "name": "Zulu",
+      "latitude": 48.713521,
+      "longitude": 21.25613
+    },
+    {
+      "name": "1914",
+      "latitude": 48.702776,
+      "longitude": 21.380989
+    }
+  ],
+  "meta": {
+    "title": "Geodetické body - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (man_made=survey_point). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84. Obsahuje 916 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Geodetické body | ListBase",
+    "seo_description": "Stiahnuť Geodetické body — 916 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 916 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

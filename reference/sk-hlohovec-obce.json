@@ -1,0 +1,326 @@
+{
+  "id": "sk-hlohovec-obce",
+  "name": "Obce v okrese Hlohovec",
+  "title": "Obce v okrese Hlohovec",
+  "description": "Všetky obce (municipality) v okrese Hlohovec, Trnavský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 209,
+      "fullname": "Bojničky",
+      "shortname": "Bojničky",
+      "zip": "920 55",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 638,
+      "fullname": "Dolné Otrokovce",
+      "shortname": "Dolné Otrokovce",
+      "zip": "920 61",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 648,
+      "fullname": "Dolné Trhovište",
+      "shortname": "Dolné Trhovište",
+      "zip": "920 61",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 652,
+      "fullname": "Dolné Zelenice",
+      "shortname": "Dolné Zelenice",
+      "zip": "920 52",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 769,
+      "fullname": "Dvorníky",
+      "shortname": "Dvorníky",
+      "zip": "920 56",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 941,
+      "fullname": "Hlohovec",
+      "shortname": "Hlohovec",
+      "zip": 0,
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1017,
+      "fullname": "Horné Otrokovce",
+      "shortname": "Horné Otrokovce",
+      "zip": "920 62",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1030,
+      "fullname": "Horné Trhovište",
+      "shortname": "Horné Trhovište",
+      "zip": "920 66",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1034,
+      "fullname": "Horné Zelenice",
+      "shortname": "Horné Zelenice",
+      "zip": "920 52",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1266,
+      "fullname": "Jalšové",
+      "shortname": "Jalšové",
+      "zip": "922 31",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1527,
+      "fullname": "Koplotovce",
+      "shortname": "Koplotovce",
+      "zip": "920 01",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1427,
+      "fullname": "Kľačany",
+      "shortname": "Kľačany",
+      "zip": "920 64",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1818,
+      "fullname": "Leopoldov",
+      "shortname": "Leopoldov",
+      "zip": "920 41",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1997,
+      "fullname": "Madunice",
+      "shortname": "Madunice",
+      "zip": "922 42",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2166,
+      "fullname": "Merašice",
+      "shortname": "Merašice",
+      "zip": "920 61",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2591,
+      "fullname": "Pastuchov",
+      "shortname": "Pastuchov",
+      "zip": "920 63",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2776,
+      "fullname": "Posádka",
+      "shortname": "Posádka",
+      "zip": "920 56",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2933,
+      "fullname": "Ratkovce",
+      "shortname": "Ratkovce",
+      "zip": "920 42",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3081,
+      "fullname": "Sasinkovo",
+      "shortname": "Sasinkovo",
+      "zip": "920 65",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3129,
+      "fullname": "Siladice",
+      "shortname": "Siladice",
+      "zip": "920 52",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3515,
+      "fullname": "Tekolďany",
+      "shortname": "Tekolďany",
+      "zip": "920 62",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3528,
+      "fullname": "Tepličky",
+      "shortname": "Tepličky",
+      "zip": "920 66",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3573,
+      "fullname": "Trakovice",
+      "shortname": "Trakovice",
+      "zip": "919 33",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 472,
+      "fullname": "Červeník",
+      "shortname": "Červeník",
+      "zip": "920 42",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3482,
+      "fullname": "Šulekovo",
+      "shortname": "Šulekovo",
+      "zip": "920 03",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 4205,
+      "fullname": "Žlkovce",
+      "shortname": "Žlkovce",
+      "zip": "920 42",
+      "district_id": 18,
+      "okres": "Hlohovec",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Hlohovec - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Hlohovec, Trnavský kraj — s PSČ a kódom okresu. Obsahuje 26 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Hlohovec | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Hlohovec — 26 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 26 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

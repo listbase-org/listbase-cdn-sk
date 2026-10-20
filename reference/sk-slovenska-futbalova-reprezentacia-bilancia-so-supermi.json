@@ -1,0 +1,951 @@
+{
+  "id": "sk-slovenska-futbalova-reprezentacia-bilancia-so-supermi",
+  "name": "Slovenská futbalová reprezentácia — bilancia so súpermi (80)",
+  "title": "Slovenská futbalová reprezentácia — bilancia so súpermi (80)",
+  "description": "Súhrnná bilancia futbalovej reprezentácie Slovenska proti každému súperovi, vypočítaná zo všetkých zápasov v results.csv (martj42/international_results): počet zápasov, výhry, remízy, prehry, strelené a inkasované góly, prvý a posledný vzájomný zápas. Výsledok podľa konečného skóre (bez penaltového rozstrelu). Zoradené podľa počtu zápasov.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 80,
+  "columns": [
+    {
+      "key": "super",
+      "label": "Super",
+      "type": "string"
+    },
+    {
+      "key": "zapasy",
+      "label": "Zapasy",
+      "type": "number"
+    },
+    {
+      "key": "vyhry",
+      "label": "Vyhry",
+      "type": "number"
+    },
+    {
+      "key": "remizy",
+      "label": "Remizy",
+      "type": "number"
+    },
+    {
+      "key": "prehry",
+      "label": "Prehry",
+      "type": "number"
+    },
+    {
+      "key": "goly_za",
+      "label": "Goly Za",
+      "type": "number"
+    },
+    {
+      "key": "goly_proti",
+      "label": "Goly Proti",
+      "type": "number"
+    },
+    {
+      "key": "prvy_zapas",
+      "label": "Prvy Zapas",
+      "type": "date"
+    },
+    {
+      "key": "posledny_zapas",
+      "label": "Posledny Zapas",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "super": "Croatia",
+      "zapasy": 14,
+      "vyhry": 1,
+      "remizy": 3,
+      "prehry": 10,
+      "goly_za": 16,
+      "goly_proti": 38,
+      "prvy_zapas": "1941-09-28",
+      "posledny_zapas": "2021-10-11"
+    },
+    {
+      "super": "Czech Republic",
+      "zapasy": 14,
+      "vyhry": 3,
+      "remizy": 2,
+      "prehry": 9,
+      "goly_za": 12,
+      "goly_proti": 29,
+      "prvy_zapas": "1995-05-08",
+      "posledny_zapas": "2020-11-18"
+    },
+    {
+      "super": "Germany",
+      "zapasy": 13,
+      "vyhry": 4,
+      "remizy": 0,
+      "prehry": 9,
+      "goly_za": 14,
+      "goly_proti": 31,
+      "prvy_zapas": "1939-08-27",
+      "posledny_zapas": "2025-11-17"
+    },
+    {
+      "super": "Romania",
+      "zapasy": 13,
+      "vyhry": 2,
+      "remizy": 6,
+      "prehry": 5,
+      "goly_za": 15,
+      "goly_proti": 21,
+      "prvy_zapas": "1941-10-12",
+      "posledny_zapas": "2026-03-31"
+    },
+    {
+      "super": "Azerbaijan",
+      "zapasy": 12,
+      "vyhry": 10,
+      "remizy": 0,
+      "prehry": 2,
+      "goly_za": 26,
+      "goly_proti": 8,
+      "prvy_zapas": "1995-03-29",
+      "posledny_zapas": "2024-10-14"
+    },
+    {
+      "super": "Liechtenstein",
+      "zapasy": 11,
+      "vyhry": 9,
+      "remizy": 2,
+      "prehry": 0,
+      "goly_za": 30,
+      "goly_proti": 1,
+      "prvy_zapas": "1998-10-10",
+      "posledny_zapas": "2023-09-11"
+    },
+    {
+      "super": "Malta",
+      "zapasy": 11,
+      "vyhry": 9,
+      "remizy": 2,
+      "prehry": 0,
+      "goly_za": 31,
+      "goly_proti": 6,
+      "prvy_zapas": "1994-03-30",
+      "posledny_zapas": "2026-06-01"
+    },
+    {
+      "super": "Russia",
+      "zapasy": 11,
+      "vyhry": 4,
+      "remizy": 3,
+      "prehry": 4,
+      "goly_za": 10,
+      "goly_proti": 10,
+      "prvy_zapas": "1994-05-29",
+      "posledny_zapas": "2021-10-08"
+    },
+    {
+      "super": "Slovenia",
+      "zapasy": 11,
+      "vyhry": 2,
+      "remizy": 5,
+      "prehry": 4,
+      "goly_za": 8,
+      "goly_proti": 10,
+      "prvy_zapas": "1993-11-16",
+      "posledny_zapas": "2025-03-23"
+    },
+    {
+      "super": "Luxembourg",
+      "zapasy": 9,
+      "vyhry": 7,
+      "remizy": 1,
+      "prehry": 1,
+      "goly_za": 19,
+      "goly_proti": 5,
+      "prvy_zapas": "2004-08-18",
+      "posledny_zapas": "2025-10-13"
+    },
+    {
+      "super": "Poland",
+      "zapasy": 9,
+      "vyhry": 5,
+      "remizy": 1,
+      "prehry": 3,
+      "goly_za": 14,
+      "goly_proti": 14,
+      "prvy_zapas": "1995-06-07",
+      "posledny_zapas": "2021-06-14"
+    },
+    {
+      "super": "Ukraine",
+      "zapasy": 9,
+      "vyhry": 2,
+      "remizy": 3,
+      "prehry": 4,
+      "goly_za": 11,
+      "goly_proti": 11,
+      "prvy_zapas": "2002-11-20",
+      "posledny_zapas": "2024-06-21"
+    },
+    {
+      "super": "North Macedonia",
+      "zapasy": 8,
+      "vyhry": 6,
+      "remizy": 2,
+      "prehry": 0,
+      "goly_za": 16,
+      "goly_proti": 3,
+      "prvy_zapas": "2000-09-03",
+      "posledny_zapas": "2015-06-14"
+    },
+    {
+      "super": "Sweden",
+      "zapasy": 8,
+      "vyhry": 0,
+      "remizy": 4,
+      "prehry": 4,
+      "goly_za": 5,
+      "goly_proti": 10,
+      "prvy_zapas": "1996-05-09",
+      "posledny_zapas": "2024-11-16"
+    },
+    {
+      "super": "Bulgaria",
+      "zapasy": 7,
+      "vyhry": 3,
+      "remizy": 2,
+      "prehry": 2,
+      "goly_za": 10,
+      "goly_proti": 6,
+      "prvy_zapas": "1940-06-06",
+      "posledny_zapas": "2021-06-01"
+    },
+    {
+      "super": "England",
+      "zapasy": 7,
+      "vyhry": 0,
+      "remizy": 1,
+      "prehry": 6,
+      "goly_za": 4,
+      "goly_proti": 13,
+      "prvy_zapas": "2002-10-12",
+      "posledny_zapas": "2024-06-30"
+    },
+    {
+      "super": "Iceland",
+      "zapasy": 7,
+      "vyhry": 5,
+      "remizy": 1,
+      "prehry": 1,
+      "goly_za": 16,
+      "goly_proti": 9,
+      "prvy_zapas": "1997-04-29",
+      "posledny_zapas": "2023-11-16"
+    },
+    {
+      "super": "Israel",
+      "zapasy": 7,
+      "vyhry": 3,
+      "remizy": 2,
+      "prehry": 2,
+      "goly_za": 10,
+      "goly_proti": 8,
+      "prvy_zapas": "1994-10-12",
+      "posledny_zapas": "2025-06-10"
+    },
+    {
+      "super": "Northern Ireland",
+      "zapasy": 7,
+      "vyhry": 4,
+      "remizy": 1,
+      "prehry": 2,
+      "goly_za": 7,
+      "goly_proti": 5,
+      "prvy_zapas": "1998-03-25",
+      "posledny_zapas": "2025-11-14"
+    },
+    {
+      "super": "Spain",
+      "zapasy": 7,
+      "vyhry": 1,
+      "remizy": 1,
+      "prehry": 5,
+      "goly_za": 6,
+      "goly_proti": 20,
+      "prvy_zapas": "1996-11-13",
+      "posledny_zapas": "2021-06-23"
+    },
+    {
+      "super": "Austria",
+      "zapasy": 6,
+      "vyhry": 1,
+      "remizy": 3,
+      "prehry": 2,
+      "goly_za": 3,
+      "goly_proti": 6,
+      "prvy_zapas": "2002-03-27",
+      "posledny_zapas": "2024-03-23"
+    },
+    {
+      "super": "Bosnia and Herzegovina",
+      "zapasy": 6,
+      "vyhry": 3,
+      "remizy": 0,
+      "prehry": 3,
+      "goly_za": 8,
+      "goly_proti": 7,
+      "prvy_zapas": "2001-06-21",
+      "posledny_zapas": "2023-11-19"
+    },
+    {
+      "super": "Cyprus",
+      "zapasy": 6,
+      "vyhry": 4,
+      "remizy": 1,
+      "prehry": 1,
+      "goly_za": 16,
+      "goly_proti": 6,
+      "prvy_zapas": "2003-02-13",
+      "posledny_zapas": "2021-09-07"
+    },
+    {
+      "super": "Greece",
+      "zapasy": 6,
+      "vyhry": 1,
+      "remizy": 1,
+      "prehry": 4,
+      "goly_za": 5,
+      "goly_proti": 10,
+      "prvy_zapas": "2000-11-15",
+      "posledny_zapas": "2025-06-07"
+    },
+    {
+      "super": "Hungary",
+      "zapasy": 6,
+      "vyhry": 4,
+      "remizy": 2,
+      "prehry": 0,
+      "goly_za": 7,
+      "goly_proti": 2,
+      "prvy_zapas": "1999-03-31",
+      "posledny_zapas": "2019-09-09"
+    },
+    {
+      "super": "Lithuania",
+      "zapasy": 6,
+      "vyhry": 3,
+      "remizy": 3,
+      "prehry": 0,
+      "goly_za": 11,
+      "goly_proti": 5,
+      "prvy_zapas": "1992-10-14",
+      "posledny_zapas": "2017-06-10"
+    },
+    {
+      "super": "Portugal",
+      "zapasy": 6,
+      "vyhry": 0,
+      "remizy": 1,
+      "prehry": 5,
+      "goly_za": 3,
+      "goly_proti": 11,
+      "prvy_zapas": "1998-10-14",
+      "posledny_zapas": "2023-10-13"
+    },
+    {
+      "super": "Republic of Ireland",
+      "zapasy": 6,
+      "vyhry": 0,
+      "remizy": 5,
+      "prehry": 1,
+      "goly_za": 5,
+      "goly_proti": 6,
+      "prvy_zapas": "2007-03-28",
+      "posledny_zapas": "2020-10-08"
+    },
+    {
+      "super": "Turkey",
+      "zapasy": 6,
+      "vyhry": 1,
+      "remizy": 1,
+      "prehry": 4,
+      "goly_za": 3,
+      "goly_proti": 8,
+      "prvy_zapas": "2001-03-24",
+      "posledny_zapas": "2012-02-29"
+    },
+    {
+      "super": "Wales",
+      "zapasy": 6,
+      "vyhry": 2,
+      "remizy": 1,
+      "prehry": 3,
+      "goly_za": 13,
+      "goly_proti": 10,
+      "prvy_zapas": "2006-10-07",
+      "posledny_zapas": "2024-06-09"
+    },
+    {
+      "super": "Belarus",
+      "zapasy": 5,
+      "vyhry": 3,
+      "remizy": 1,
+      "prehry": 1,
+      "goly_za": 9,
+      "goly_proti": 3,
+      "prvy_zapas": "1996-03-27",
+      "posledny_zapas": "2022-09-25"
+    },
+    {
+      "super": "Latvia",
+      "zapasy": 5,
+      "vyhry": 2,
+      "remizy": 3,
+      "prehry": 0,
+      "goly_za": 9,
+      "goly_proti": 5,
+      "prvy_zapas": "2004-10-09",
+      "posledny_zapas": "2016-03-25"
+    },
+    {
+      "super": "Norway",
+      "zapasy": 5,
+      "vyhry": 1,
+      "remizy": 1,
+      "prehry": 3,
+      "goly_za": 2,
+      "goly_proti": 6,
+      "prvy_zapas": "2000-05-27",
+      "posledny_zapas": "2024-03-26"
+    },
+    {
+      "super": "San Marino",
+      "zapasy": 5,
+      "vyhry": 5,
+      "remizy": 0,
+      "prehry": 0,
+      "goly_za": 26,
+      "goly_proti": 1,
+      "prvy_zapas": "2007-10-13",
+      "posledny_zapas": "2024-06-05"
+    },
+    {
+      "super": "Belgium",
+      "zapasy": 4,
+      "vyhry": 1,
+      "remizy": 2,
+      "prehry": 1,
+      "goly_za": 4,
+      "goly_proti": 4,
+      "prvy_zapas": "2002-04-17",
+      "posledny_zapas": "2024-06-17"
+    },
+    {
+      "super": "Estonia",
+      "zapasy": 4,
+      "vyhry": 4,
+      "remizy": 0,
+      "prehry": 0,
+      "goly_za": 5,
+      "goly_proti": 1,
+      "prvy_zapas": "2005-03-26",
+      "posledny_zapas": "2024-11-19"
+    },
+    {
+      "super": "Finland",
+      "zapasy": 4,
+      "vyhry": 3,
+      "remizy": 1,
+      "prehry": 0,
+      "goly_za": 6,
+      "goly_proti": 1,
+      "prvy_zapas": "1998-02-09",
+      "posledny_zapas": "2022-03-29"
+    },
+    {
+      "super": "France",
+      "zapasy": 4,
+      "vyhry": 1,
+      "remizy": 1,
+      "prehry": 2,
+      "goly_za": 2,
+      "goly_proti": 6,
+      "prvy_zapas": "1994-09-07",
+      "posledny_zapas": "2007-08-22"
+    },
+    {
+      "super": "Scotland",
+      "zapasy": 4,
+      "vyhry": 2,
+      "remizy": 0,
+      "prehry": 2,
+      "goly_za": 4,
+      "goly_proti": 2,
+      "prvy_zapas": "2016-10-11",
+      "posledny_zapas": "2020-11-15"
+    },
+    {
+      "super": "Chile",
+      "zapasy": 3,
+      "vyhry": 1,
+      "remizy": 1,
+      "prehry": 1,
+      "goly_za": 3,
+      "goly_proti": 2,
+      "prvy_zapas": "2000-02-15",
+      "posledny_zapas": "2022-11-20"
+    },
+    {
+      "super": "Costa Rica",
+      "zapasy": 3,
+      "vyhry": 1,
+      "remizy": 1,
+      "prehry": 1,
+      "goly_za": 5,
+      "goly_proti": 6,
+      "prvy_zapas": "1997-02-05",
+      "posledny_zapas": "2010-06-05"
+    },
+    {
+      "super": "Denmark",
+      "zapasy": 3,
+      "vyhry": 2,
+      "remizy": 0,
+      "prehry": 1,
+      "goly_za": 7,
+      "goly_proti": 3,
+      "prvy_zapas": "2011-03-29",
+      "posledny_zapas": "2018-09-05"
+    },
+    {
+      "super": "Japan",
+      "zapasy": 3,
+      "vyhry": 0,
+      "remizy": 1,
+      "prehry": 2,
+      "goly_za": 2,
+      "goly_proti": 5,
+      "prvy_zapas": "2000-06-11",
+      "posledny_zapas": "2004-07-09"
+    },
+    {
+      "super": "Montenegro",
+      "zapasy": 3,
+      "vyhry": 1,
+      "remizy": 2,
+      "prehry": 0,
+      "goly_za": 6,
+      "goly_proti": 4,
+      "prvy_zapas": "2014-05-23",
+      "posledny_zapas": "2026-06-05"
+    },
+    {
+      "super": "Netherlands",
+      "zapasy": 3,
+      "vyhry": 0,
+      "remizy": 1,
+      "prehry": 2,
+      "goly_za": 2,
+      "goly_proti": 5,
+      "prvy_zapas": "2010-06-28",
+      "posledny_zapas": "2018-05-31"
+    },
+    {
+      "super": "Serbia",
+      "zapasy": 3,
+      "vyhry": 0,
+      "remizy": 1,
+      "prehry": 2,
+      "goly_za": 1,
+      "goly_proti": 5,
+      "prvy_zapas": "1997-06-08",
+      "posledny_zapas": "2004-07-11"
+    },
+    {
+      "super": "Switzerland",
+      "zapasy": 3,
+      "vyhry": 2,
+      "remizy": 0,
+      "prehry": 1,
+      "goly_za": 4,
+      "goly_proti": 4,
+      "prvy_zapas": "1997-08-06",
+      "posledny_zapas": "2015-11-13"
+    },
+    {
+      "super": "United Arab Emirates",
+      "zapasy": 3,
+      "vyhry": 3,
+      "remizy": 0,
+      "prehry": 0,
+      "goly_za": 5,
+      "goly_proti": 2,
+      "prvy_zapas": "1994-02-02",
+      "posledny_zapas": "2018-03-22"
+    },
+    {
+      "super": "Andorra",
+      "zapasy": 2,
+      "vyhry": 2,
+      "remizy": 0,
+      "prehry": 0,
+      "goly_za": 2,
+      "goly_proti": 0,
+      "prvy_zapas": "2011-03-26",
+      "posledny_zapas": "2011-06-04"
+    },
+    {
+      "super": "Armenia",
+      "zapasy": 2,
+      "vyhry": 0,
+      "remizy": 0,
+      "prehry": 2,
+      "goly_za": 1,
+      "goly_proti": 7,
+      "prvy_zapas": "2010-10-08",
+      "posledny_zapas": "2011-09-06"
+    },
+    {
+      "super": "Bolivia",
+      "zapasy": 2,
+      "vyhry": 2,
+      "remizy": 0,
+      "prehry": 0,
+      "goly_za": 3,
+      "goly_proti": 0,
+      "prvy_zapas": "1997-02-02",
+      "posledny_zapas": "2000-06-14"
+    },
+    {
+      "super": "Colombia",
+      "zapasy": 2,
+      "vyhry": 0,
+      "remizy": 1,
+      "prehry": 1,
+      "goly_za": 0,
+      "goly_proti": 1,
+      "prvy_zapas": "1997-02-08",
+      "posledny_zapas": "2003-08-20"
+    },
+    {
+      "super": "Faroe Islands",
+      "zapasy": 2,
+      "vyhry": 2,
+      "remizy": 0,
+      "prehry": 0,
+      "goly_za": 5,
+      "goly_proti": 1,
+      "prvy_zapas": "1996-08-31",
+      "posledny_zapas": "1996-10-23"
+    },
+    {
+      "super": "Iran",
+      "zapasy": 2,
+      "vyhry": 1,
+      "remizy": 0,
+      "prehry": 1,
+      "goly_za": 6,
+      "goly_proti": 6,
+      "prvy_zapas": "2001-08-15",
+      "posledny_zapas": "2002-02-06"
+    },
+    {
+      "super": "Italy",
+      "zapasy": 2,
+      "vyhry": 1,
+      "remizy": 0,
+      "prehry": 1,
+      "goly_za": 3,
+      "goly_proti": 5,
+      "prvy_zapas": "1998-01-28",
+      "posledny_zapas": "2010-06-24"
+    },
+    {
+      "super": "Kazakhstan",
+      "zapasy": 2,
+      "vyhry": 0,
+      "remizy": 0,
+      "prehry": 2,
+      "goly_za": 1,
+      "goly_proti": 3,
+      "prvy_zapas": "2022-06-06",
+      "posledny_zapas": "2022-06-13"
+    },
+    {
+      "super": "Moldova",
+      "zapasy": 2,
+      "vyhry": 2,
+      "remizy": 0,
+      "prehry": 0,
+      "goly_za": 5,
+      "goly_proti": 2,
+      "prvy_zapas": "2000-10-07",
+      "posledny_zapas": "2001-09-05"
+    },
+    {
+      "super": "Morocco",
+      "zapasy": 2,
+      "vyhry": 0,
+      "remizy": 0,
+      "prehry": 2,
+      "goly_za": 2,
+      "goly_proti": 4,
+      "prvy_zapas": "1994-02-06",
+      "posledny_zapas": "2018-06-04"
+    },
+    {
+      "super": "Paraguay",
+      "zapasy": 2,
+      "vyhry": 0,
+      "remizy": 1,
+      "prehry": 1,
+      "goly_za": 1,
+      "goly_proti": 3,
+      "prvy_zapas": "2010-06-20",
+      "posledny_zapas": "2019-10-13"
+    },
+    {
+      "super": "Peru",
+      "zapasy": 2,
+      "vyhry": 0,
+      "remizy": 0,
+      "prehry": 2,
+      "goly_za": 1,
+      "goly_proti": 3,
+      "prvy_zapas": "1995-06-25",
+      "posledny_zapas": "1999-11-17"
+    },
+    {
+      "super": "Thailand",
+      "zapasy": 2,
+      "vyhry": 1,
+      "remizy": 1,
+      "prehry": 0,
+      "goly_za": 4,
+      "goly_proti": 3,
+      "prvy_zapas": "2004-12-02",
+      "posledny_zapas": "2018-03-25"
+    },
+    {
+      "super": "Algeria",
+      "zapasy": 1,
+      "vyhry": 0,
+      "remizy": 1,
+      "prehry": 0,
+      "goly_za": 1,
+      "goly_proti": 1,
+      "prvy_zapas": "2001-02-27",
+      "posledny_zapas": "2001-02-27"
+    },
+    {
+      "super": "Australia",
+      "zapasy": 1,
+      "vyhry": 0,
+      "remizy": 1,
+      "prehry": 0,
+      "goly_za": 0,
+      "goly_proti": 0,
+      "prvy_zapas": "2000-02-12",
+      "posledny_zapas": "2000-02-12"
+    },
+    {
+      "super": "Bahrain",
+      "zapasy": 1,
+      "vyhry": 0,
+      "remizy": 0,
+      "prehry": 1,
+      "goly_za": 0,
+      "goly_proti": 2,
+      "prvy_zapas": "2001-06-25",
+      "posledny_zapas": "2001-06-25"
+    },
+    {
+      "super": "Brazil",
+      "zapasy": 1,
+      "vyhry": 0,
+      "remizy": 0,
+      "prehry": 1,
+      "goly_za": 0,
+      "goly_proti": 5,
+      "prvy_zapas": "1995-02-22",
+      "posledny_zapas": "1995-02-22"
+    },
+    {
+      "super": "Cameroon",
+      "zapasy": 1,
+      "vyhry": 0,
+      "remizy": 1,
+      "prehry": 0,
+      "goly_za": 1,
+      "goly_proti": 1,
+      "prvy_zapas": "2010-05-29",
+      "posledny_zapas": "2010-05-29"
+    },
+    {
+      "super": "China",
+      "zapasy": 1,
+      "vyhry": 1,
+      "remizy": 0,
+      "prehry": 0,
+      "goly_za": 3,
+      "goly_proti": 2,
+      "prvy_zapas": "1992-06-28",
+      "posledny_zapas": "1992-06-28"
+    },
+    {
+      "super": "Egypt",
+      "zapasy": 1,
+      "vyhry": 0,
+      "remizy": 0,
+      "prehry": 1,
+      "goly_za": 0,
+      "goly_proti": 1,
+      "prvy_zapas": "1994-02-04",
+      "posledny_zapas": "1994-02-04"
+    },
+    {
+      "super": "Georgia",
+      "zapasy": 1,
+      "vyhry": 1,
+      "remizy": 0,
+      "prehry": 0,
+      "goly_za": 3,
+      "goly_proti": 1,
+      "prvy_zapas": "2016-05-27",
+      "posledny_zapas": "2016-05-27"
+    },
+    {
+      "super": "Gibraltar",
+      "zapasy": 1,
+      "vyhry": 0,
+      "remizy": 1,
+      "prehry": 0,
+      "goly_za": 0,
+      "goly_proti": 0,
+      "prvy_zapas": "2013-11-19",
+      "posledny_zapas": "2013-11-19"
+    },
+    {
+      "super": "Guatemala",
+      "zapasy": 1,
+      "vyhry": 1,
+      "remizy": 0,
+      "prehry": 0,
+      "goly_za": 1,
+      "goly_proti": 0,
+      "prvy_zapas": "1999-11-23",
+      "posledny_zapas": "1999-11-23"
+    },
+    {
+      "super": "Jordan",
+      "zapasy": 1,
+      "vyhry": 1,
+      "remizy": 0,
+      "prehry": 0,
+      "goly_za": 5,
+      "goly_proti": 1,
+      "prvy_zapas": "2019-06-06",
+      "posledny_zapas": "2019-06-06"
+    },
+    {
+      "super": "Kosovo",
+      "zapasy": 1,
+      "vyhry": 0,
+      "remizy": 0,
+      "prehry": 1,
+      "goly_za": 3,
+      "goly_proti": 4,
+      "prvy_zapas": "2026-03-26",
+      "posledny_zapas": "2026-03-26"
+    },
+    {
+      "super": "Malaysia",
+      "zapasy": 1,
+      "vyhry": 1,
+      "remizy": 0,
+      "prehry": 0,
+      "goly_za": 2,
+      "goly_proti": 0,
+      "prvy_zapas": "2001-06-23",
+      "posledny_zapas": "2001-06-23"
+    },
+    {
+      "super": "Mexico",
+      "zapasy": 1,
+      "vyhry": 0,
+      "remizy": 0,
+      "prehry": 1,
+      "goly_za": 2,
+      "goly_proti": 5,
+      "prvy_zapas": "1996-05-18",
+      "posledny_zapas": "1996-05-18"
+    },
+    {
+      "super": "New Zealand",
+      "zapasy": 1,
+      "vyhry": 0,
+      "remizy": 1,
+      "prehry": 0,
+      "goly_za": 1,
+      "goly_proti": 1,
+      "prvy_zapas": "2010-06-15",
+      "posledny_zapas": "2010-06-15"
+    },
+    {
+      "super": "Saudi Arabia",
+      "zapasy": 1,
+      "vyhry": 0,
+      "remizy": 1,
+      "prehry": 0,
+      "goly_za": 1,
+      "goly_proti": 1,
+      "prvy_zapas": "2000-05-24",
+      "posledny_zapas": "2000-05-24"
+    },
+    {
+      "super": "South Korea",
+      "zapasy": 1,
+      "vyhry": 0,
+      "remizy": 1,
+      "prehry": 0,
+      "goly_za": 0,
+      "goly_proti": 0,
+      "prvy_zapas": "1998-04-15",
+      "posledny_zapas": "1998-04-15"
+    },
+    {
+      "super": "United States",
+      "zapasy": 1,
+      "vyhry": 1,
+      "remizy": 0,
+      "prehry": 0,
+      "goly_za": 1,
+      "goly_proti": 0,
+      "prvy_zapas": "2009-11-14",
+      "posledny_zapas": "2009-11-14"
+    },
+    {
+      "super": "Uzbekistan",
+      "zapasy": 1,
+      "vyhry": 1,
+      "remizy": 0,
+      "prehry": 0,
+      "goly_za": 4,
+      "goly_proti": 1,
+      "prvy_zapas": "2002-05-14",
+      "posledny_zapas": "2002-05-14"
+    }
+  ],
+  "meta": {
+    "title": "Slovenská futbalová reprezentácia — bilancia so súpermi (80) - Bezplatné stiahnutie",
+    "description": "Súhrnná bilancia futbalovej reprezentácie Slovenska proti každému súperovi, vypočítaná zo všetkých zápasov v results.csv (martj42/international_results): počet zápasov, výhry, remízy, prehry, strelené a inkasované góly, prvý a posledný vzájomný zápas. Výsledok podľa konečného skóre (bez penaltového rozstrelu). Zoradené podľa počtu zápasov. Obsahuje 80 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Slovenská futbalová reprezentácia — bilancia so súpermi (80) | ListBase",
+    "seo_description": "Stiahnuť Slovenská futbalová reprezentácia — bilancia so súpermi (80) — 80 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 80 záznamov / 9 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

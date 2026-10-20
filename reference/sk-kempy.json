@@ -1,0 +1,886 @@
+{
+  "id": "sk-kempy",
+  "name": "Slovenské kempy",
+  "title": "Slovenské kempy",
+  "description": "Zoznam pomenovaných kempov a táborísk na Slovensku (tourism=camp_site) z OpenStreetMap.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 169,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "(backcounty)",
+      "latitude": 48.144762,
+      "longitude": 17.444323
+    },
+    {
+      "name": "AQUArea Čierna Voda",
+      "latitude": 48.117631,
+      "longitude": 17.610941
+    },
+    {
+      "name": "ATC Račkova dolina",
+      "latitude": 49.130737,
+      "longitude": 19.792232
+    },
+    {
+      "name": "Alex",
+      "latitude": 48.565266,
+      "longitude": 19.064482
+    },
+    {
+      "name": "Areál zdravia",
+      "latitude": 48.474341,
+      "longitude": 18.479458
+    },
+    {
+      "name": "Autocamp JAMI",
+      "latitude": 49.410762,
+      "longitude": 19.502186
+    },
+    {
+      "name": "Autocamp Počúvadlo",
+      "latitude": 48.411461,
+      "longitude": 18.85743
+    },
+    {
+      "name": "Autocamp Stará Hora",
+      "latitude": 49.385714,
+      "longitude": 19.529112
+    },
+    {
+      "name": "Autocamping Krym",
+      "latitude": 49.047057,
+      "longitude": 21.702316
+    },
+    {
+      "name": "Autocamping Podlesok",
+      "latitude": 48.963188,
+      "longitude": 20.382345
+    },
+    {
+      "name": "Autocamping Snina",
+      "latitude": 48.975741,
+      "longitude": 22.186304
+    },
+    {
+      "name": "Autocamping Tajov",
+      "latitude": 48.753903,
+      "longitude": 19.055013
+    },
+    {
+      "name": "Autocamping Tatranská Štrba",
+      "latitude": 49.086733,
+      "longitude": 20.072759
+    },
+    {
+      "name": "Autocamping Trusalova",
+      "latitude": 49.140537,
+      "longitude": 19.051901
+    },
+    {
+      "name": "Autocamping Varín",
+      "latitude": 49.208834,
+      "longitude": 18.879201
+    },
+    {
+      "name": "Autocamping Vavrišovo",
+      "latitude": 49.06915,
+      "longitude": 19.765398
+    },
+    {
+      "name": "Autocamping Vavrišovo",
+      "latitude": 49.069291,
+      "longitude": 19.766061
+    },
+    {
+      "name": "Autokemp Rudava",
+      "latitude": 48.490636,
+      "longitude": 16.955612
+    },
+    {
+      "name": "Autokemping Jasov",
+      "latitude": 48.680241,
+      "longitude": 20.96635
+    },
+    {
+      "name": "Autokemping Správy PIENAPu - Červený Kláštor",
+      "latitude": 49.401205,
+      "longitude": 20.416551
+    },
+    {
+      "name": "Autokemping Vincov Les",
+      "latitude": 48.205123,
+      "longitude": 17.674533
+    },
+    {
+      "name": "Banarka",
+      "latitude": 48.413965,
+      "longitude": 16.977167
+    },
+    {
+      "name": "Baradla Kemping és Turistaszálló",
+      "latitude": 48.471436,
+      "longitude": 20.493042
+    },
+    {
+      "name": "Baza namiotowa Głuchaczki",
+      "latitude": 49.596978,
+      "longitude": 19.432109
+    },
+    {
+      "name": "Baza namiotowa Jaworzyna",
+      "latitude": 49.594376,
+      "longitude": 19.4156
+    },
+    {
+      "name": "Bystrina",
+      "latitude": 49.034137,
+      "longitude": 19.577963
+    },
+    {
+      "name": "Camp Bystrina Demänovská Dolina",
+      "latitude": 49.033978,
+      "longitude": 19.577123
+    },
+    {
+      "name": "Camp Chalmová",
+      "latitude": 48.672206,
+      "longitude": 18.497248
+    },
+    {
+      "name": "Camp Košice - Route E58",
+      "latitude": 48.687578,
+      "longitude": 21.256053
+    },
+    {
+      "name": "Camp Marina",
+      "latitude": 49.401469,
+      "longitude": 19.512171
+    },
+    {
+      "name": "Camping & Glamping Slovakia",
+      "latitude": 48.24175,
+      "longitude": 19.249907
+    },
+    {
+      "name": "Camping / Apartmány Sedliacky Dvor (Het Boerenhof)",
+      "latitude": 48.795541,
+      "longitude": 19.728568
+    },
+    {
+      "name": "Camping Belá Nižné Kamence",
+      "latitude": 49.247777,
+      "longitude": 18.986922
+    },
+    {
+      "name": "Camping Drienok",
+      "latitude": 48.901348,
+      "longitude": 18.892909
+    },
+    {
+      "name": "Camping Dunajec",
+      "latitude": 49.390552,
+      "longitude": 20.397301
+    },
+    {
+      "name": "Camping K2 Kamenín",
+      "latitude": 47.877276,
+      "longitude": 18.668576
+    },
+    {
+      "name": "Camping Laskowscy",
+      "latitude": 49.392243,
+      "longitude": 20.392561
+    },
+    {
+      "name": "Camping Lazy",
+      "latitude": 48.25186,
+      "longitude": 19.216516
+    },
+    {
+      "name": "Camping Malá Bara",
+      "latitude": 48.421605,
+      "longitude": 21.731904
+    },
+    {
+      "name": "Camping Manínska tiesňava",
+      "latitude": 49.143954,
+      "longitude": 18.496502
+    },
+    {
+      "name": "Camping Marina Liptov",
+      "latitude": 49.117881,
+      "longitude": 19.477939
+    },
+    {
+      "name": "Camping Never Finished",
+      "latitude": 48.433452,
+      "longitude": 19.843538
+    },
+    {
+      "name": "Camping Nitrianske Rudno",
+      "latitude": 48.804372,
+      "longitude": 18.478236
+    },
+    {
+      "name": "Camping Pullmann",
+      "latitude": 48.576378,
+      "longitude": 17.833983
+    },
+    {
+      "name": "Camping Studenec",
+      "latitude": 48.447115,
+      "longitude": 18.983106
+    },
+    {
+      "name": "Camping Trenčín",
+      "latitude": 48.900018,
+      "longitude": 18.041089
+    },
+    {
+      "name": "Camping municipal",
+      "latitude": 48.981912,
+      "longitude": 20.387426
+    },
+    {
+      "name": "Caravan kemp",
+      "latitude": 48.268293,
+      "longitude": 18.739842
+    },
+    {
+      "name": "Chata Haluzačka",
+      "latitude": 48.121542,
+      "longitude": 18.812533
+    },
+    {
+      "name": "Chatová osada Betliar",
+      "latitude": 48.706455,
+      "longitude": 20.512684
+    },
+    {
+      "name": "Dedinky",
+      "latitude": 48.863897,
+      "longitude": 20.386538
+    },
+    {
+      "name": "Diakovce",
+      "latitude": 48.133622,
+      "longitude": 17.786048
+    },
+    {
+      "name": "Divín",
+      "latitude": 48.445113,
+      "longitude": 19.559371
+    },
+    {
+      "name": "Dronte",
+      "latitude": 48.815321,
+      "longitude": 19.420176
+    },
+    {
+      "name": "Ekofarma Ostrov Kemping",
+      "latitude": 47.756299,
+      "longitude": 17.946401
+    },
+    {
+      "name": "Esthajnalcsillag Kemping",
+      "latitude": 47.898758,
+      "longitude": 17.426419
+    },
+    {
+      "name": "Farma Odorica",
+      "latitude": 48.997458,
+      "longitude": 20.616698
+    },
+    {
+      "name": "Financa",
+      "latitude": 49.343427,
+      "longitude": 20.80389
+    },
+    {
+      "name": "Fireplace",
+      "latitude": 48.846744,
+      "longitude": 18.115146
+    },
+    {
+      "name": "Fort Geronimo",
+      "latitude": 48.677608,
+      "longitude": 19.14375
+    },
+    {
+      "name": "GLAMPING SLOVENSKO",
+      "latitude": 49.121566,
+      "longitude": 19.704451
+    },
+    {
+      "name": "Goralský dvor",
+      "latitude": 49.380851,
+      "longitude": 20.439446
+    },
+    {
+      "name": "Hiadeľské sedlo",
+      "latitude": 48.862035,
+      "longitude": 19.304838
+    },
+    {
+      "name": "Historický tábor",
+      "latitude": 49.318913,
+      "longitude": 20.690811
+    },
+    {
+      "name": "Hodruša Kemp - Konibar",
+      "latitude": 48.4656,
+      "longitude": 18.846508
+    },
+    {
+      "name": "Hôrka",
+      "latitude": 48.794505,
+      "longitude": 21.968661
+    },
+    {
+      "name": "Ifjúsági tábor",
+      "latitude": 48.211433,
+      "longitude": 19.561063
+    },
+    {
+      "name": "Ihla",
+      "latitude": 48.941326,
+      "longitude": 20.484469
+    },
+    {
+      "name": "Iliaš",
+      "latitude": 48.693832,
+      "longitude": 19.137171
+    },
+    {
+      "name": "Indiánske teepe",
+      "latitude": 49.052224,
+      "longitude": 19.024367
+    },
+    {
+      "name": "Ipeľ",
+      "latitude": 48.063675,
+      "longitude": 18.962122
+    },
+    {
+      "name": "Jazero Tomašíkovo",
+      "latitude": 48.066028,
+      "longitude": 17.680799
+    },
+    {
+      "name": "KIWI park",
+      "latitude": 48.97384,
+      "longitude": 18.091298
+    },
+    {
+      "name": "Kajak-kenu pont Komárom",
+      "latitude": 47.753676,
+      "longitude": 18.067897
+    },
+    {
+      "name": "Kaluža",
+      "latitude": 48.806494,
+      "longitude": 22.007192
+    },
+    {
+      "name": "Kemp Margita-Ilona",
+      "latitude": 48.19014,
+      "longitude": 18.661209
+    },
+    {
+      "name": "Kemp ORAVICE",
+      "latitude": 49.298889,
+      "longitude": 19.746389
+    },
+    {
+      "name": "Kemp Tatranec",
+      "latitude": 49.157288,
+      "longitude": 20.309804
+    },
+    {
+      "name": "Kemp Tília",
+      "latitude": 49.205349,
+      "longitude": 19.267937
+    },
+    {
+      "name": "Kemp, prístav na Hrone",
+      "latitude": 48.521096,
+      "longitude": 18.730974
+    },
+    {
+      "name": "Kemping Alba Regia",
+      "latitude": 48.038365,
+      "longitude": 17.711578
+    },
+    {
+      "name": "Kemping Gombasek",
+      "latitude": 48.563241,
+      "longitude": 20.467305
+    },
+    {
+      "name": "Kemping Rybníky Opatovce",
+      "latitude": 48.860002,
+      "longitude": 17.964432
+    },
+    {
+      "name": "Kemping VAJKA",
+      "latitude": 47.974843,
+      "longitude": 17.378328
+    },
+    {
+      "name": "Kemping Čunovo",
+      "latitude": 48.030698,
+      "longitude": 17.231398
+    },
+    {
+      "name": "Kempík Starhrad",
+      "latitude": 49.172096,
+      "longitude": 18.87277
+    },
+    {
+      "name": "Klokocov",
+      "latitude": 48.809784,
+      "longitude": 22.02152
+    },
+    {
+      "name": "Krupinkovo",
+      "latitude": 48.334055,
+      "longitude": 19.04438
+    },
+    {
+      "name": "Kurinec",
+      "latitude": 48.346863,
+      "longitude": 20.017872
+    },
+    {
+      "name": "Leharo Camping",
+      "latitude": 49.143408,
+      "longitude": 20.294007
+    },
+    {
+      "name": "Levočská dolina",
+      "latitude": 49.051088,
+      "longitude": 20.585831
+    },
+    {
+      "name": "Lodenica",
+      "latitude": 48.00089,
+      "longitude": 18.665562
+    },
+    {
+      "name": "Lodenica Hliník nad Hronom",
+      "latitude": 48.542995,
+      "longitude": 18.778019
+    },
+    {
+      "name": "Lúka Tomášov",
+      "latitude": 48.152937,
+      "longitude": 17.341434
+    },
+    {
+      "name": "Majerka",
+      "latitude": 48.790292,
+      "longitude": 19.35054
+    },
+    {
+      "name": "Mara CAMPING / ATC Liptovský Trnovec",
+      "latitude": 49.110267,
+      "longitude": 19.545395
+    },
+    {
+      "name": "Minicamp Jana",
+      "latitude": 49.091959,
+      "longitude": 19.817684
+    },
+    {
+      "name": "Minikemp Šíp",
+      "latitude": 49.197975,
+      "longitude": 19.203394
+    },
+    {
+      "name": "Mlynčok",
+      "latitude": 48.774871,
+      "longitude": 19.305135
+    },
+    {
+      "name": "Modrá Farma",
+      "latitude": 48.457098,
+      "longitude": 19.241928
+    },
+    {
+      "name": "Monica Camp&Glamp",
+      "latitude": 49.005595,
+      "longitude": 21.706175
+    },
+    {
+      "name": "Naturacamp Silica-Szilice",
+      "latitude": 48.55676,
+      "longitude": 20.520928
+    },
+    {
+      "name": "Nižná Kľaková",
+      "latitude": 48.767345,
+      "longitude": 19.963117
+    },
+    {
+      "name": "Ormet",
+      "latitude": 48.475526,
+      "longitude": 20.098221
+    },
+    {
+      "name": "Oáza Camp Komoča",
+      "latitude": 47.952936,
+      "longitude": 18.013894
+    },
+    {
+      "name": "Penzion Štefanik Autokemp",
+      "latitude": 49.161834,
+      "longitude": 18.586316
+    },
+    {
+      "name": "Pod Riabou skalou",
+      "latitude": 49.050781,
+      "longitude": 22.514014
+    },
+    {
+      "name": "Polana Sosny",
+      "latitude": 49.404686,
+      "longitude": 20.334298
+    },
+    {
+      "name": "Predné sedlo",
+      "latitude": 48.86435,
+      "longitude": 20.13455
+    },
+    {
+      "name": "Provida camp",
+      "latitude": 49.131445,
+      "longitude": 19.737869
+    },
+    {
+      "name": "Przy OSP",
+      "latitude": 49.393548,
+      "longitude": 20.406598
+    },
+    {
+      "name": "RIJOCamping VYSOKÉ TATRY Stará Lesná",
+      "latitude": 49.148739,
+      "longitude": 20.281561
+    },
+    {
+      "name": "Ranc MEGI",
+      "latitude": 48.40373,
+      "longitude": 19.806519
+    },
+    {
+      "name": "Ranč Kráľova Lehota",
+      "latitude": 49.012898,
+      "longitude": 19.84718
+    },
+    {
+      "name": "Rekreačná oblasť Gazárka",
+      "latitude": 48.62804,
+      "longitude": 17.140905
+    },
+    {
+      "name": "Rekreačná oblasť Gazárka",
+      "latitude": 48.633238,
+      "longitude": 17.140479
+    },
+    {
+      "name": "Rekreačné stredisko Calex",
+      "latitude": 48.375827,
+      "longitude": 18.494519
+    },
+    {
+      "name": "Revište",
+      "latitude": 48.520736,
+      "longitude": 18.72895
+    },
+    {
+      "name": "Robinson Szigetek Kemping",
+      "latitude": 48.09091,
+      "longitude": 19.475815
+    },
+    {
+      "name": "Ružínska skala",
+      "latitude": 48.861197,
+      "longitude": 21.053353
+    },
+    {
+      "name": "Ráróspusztai Ifjúsági Tábor",
+      "latitude": 48.206646,
+      "longitude": 19.557732
+    },
+    {
+      "name": "Skautské táborisko",
+      "latitude": 48.55112,
+      "longitude": 19.535022
+    },
+    {
+      "name": "Skautské táborisko Žehrica",
+      "latitude": 48.991361,
+      "longitude": 20.833775
+    },
+    {
+      "name": "Skautský dom",
+      "latitude": 48.459162,
+      "longitude": 18.890492
+    },
+    {
+      "name": "Skautský tábor",
+      "latitude": 48.966124,
+      "longitude": 21.230076
+    },
+    {
+      "name": "Slnečné skaly",
+      "latitude": 49.142043,
+      "longitude": 18.719188
+    },
+    {
+      "name": "Smrekovica - v okruhu 50 metrov",
+      "latitude": 48.993866,
+      "longitude": 19.200274
+    },
+    {
+      "name": "Stanové mestečko",
+      "latitude": 49.059878,
+      "longitude": 19.899338
+    },
+    {
+      "name": "Stanové mestečko Dobrý festival",
+      "latitude": 48.959888,
+      "longitude": 21.267916
+    },
+    {
+      "name": "Stanový tábor SCR",
+      "latitude": 48.221567,
+      "longitude": 17.422183
+    },
+    {
+      "name": "Szałasiska",
+      "latitude": 49.212152,
+      "longitude": 20.076067
+    },
+    {
+      "name": "Teepeecko",
+      "latitude": 49.140831,
+      "longitude": 19.573819
+    },
+    {
+      "name": "Tornaľa",
+      "latitude": 48.407431,
+      "longitude": 20.311831
+    },
+    {
+      "name": "Totemová lúka",
+      "latitude": 48.17891,
+      "longitude": 17.301293
+    },
+    {
+      "name": "Trail Angels Kosovi",
+      "latitude": 49.034577,
+      "longitude": 18.062818
+    },
+    {
+      "name": "Táborisko Dronte",
+      "latitude": 48.157193,
+      "longitude": 17.282382
+    },
+    {
+      "name": "Táborisko Nová Dedinka",
+      "latitude": 48.175059,
+      "longitude": 17.337391
+    },
+    {
+      "name": "Táborisko Potônske Lúky",
+      "latitude": 48.096668,
+      "longitude": 17.59021
+    },
+    {
+      "name": "Táborisko Vodný mlyn",
+      "latitude": 48.125518,
+      "longitude": 17.504575
+    },
+    {
+      "name": "Táborisko na poľane pod Vysokou",
+      "latitude": 49.189249,
+      "longitude": 20.115657
+    },
+    {
+      "name": "Táborisko pod Krížom",
+      "latitude": 48.142862,
+      "longitude": 17.484176
+    },
+    {
+      "name": "Táborisko pod Ostrou",
+      "latitude": 48.982262,
+      "longitude": 22.397008
+    },
+    {
+      "name": "Táborisko pri Rákócziho kaštieli",
+      "latitude": 48.386315,
+      "longitude": 21.706593
+    },
+    {
+      "name": "Táborisko pri studničke",
+      "latitude": 49.155532,
+      "longitude": 19.633623
+    },
+    {
+      "name": "Táborisko rekreačná oblasť Vinianske jazero",
+      "latitude": 48.819741,
+      "longitude": 21.985441
+    },
+    {
+      "name": "Vadludak",
+      "latitude": 47.871834,
+      "longitude": 17.480894
+    },
+    {
+      "name": "Vadvíz Kemping",
+      "latitude": 47.984985,
+      "longitude": 17.328351
+    },
+    {
+      "name": "Vavrisovo",
+      "latitude": 49.068346,
+      "longitude": 19.769443
+    },
+    {
+      "name": "Villa Betula",
+      "latitude": 49.136712,
+      "longitude": 19.509796
+    },
+    {
+      "name": "Vizi kemp",
+      "latitude": 47.921105,
+      "longitude": 18.755478
+    },
+    {
+      "name": "Vlčanská lúka",
+      "latitude": 48.160809,
+      "longitude": 17.356488
+    },
+    {
+      "name": "Vodník",
+      "latitude": 48.124342,
+      "longitude": 18.621184
+    },
+    {
+      "name": "Vodácké táborište Šášovské Podhradie",
+      "latitude": 48.582467,
+      "longitude": 18.891378
+    },
+    {
+      "name": "Zelená voda",
+      "latitude": 48.764073,
+      "longitude": 17.856553
+    },
+    {
+      "name": "Zlaté Piesky",
+      "latitude": 48.18866,
+      "longitude": 17.18792
+    },
+    {
+      "name": "Zátoka 2",
+      "latitude": 48.859663,
+      "longitude": 21.059357
+    },
+    {
+      "name": "lokalita Rakytový Grúň medzi Vyšnou Lipovou a Kľakom",
+      "latitude": 49.036718,
+      "longitude": 19.112934
+    },
+    {
+      "name": "na Panskej lúke",
+      "latitude": 48.944638,
+      "longitude": 19.431259
+    },
+    {
+      "name": "pod Suchým vrchom",
+      "latitude": 48.915302,
+      "longitude": 19.087225
+    },
+    {
+      "name": "pri pamätníku Slovenského národného povstania pri Kráľovej studni",
+      "latitude": 48.881535,
+      "longitude": 19.036459
+    },
+    {
+      "name": "sedlo Andrejcová pri útulni",
+      "latitude": 48.901457,
+      "longitude": 20.023307
+    },
+    {
+      "name": "sedlo Priehyba",
+      "latitude": 48.90737,
+      "longitude": 19.956
+    },
+    {
+      "name": "sedlo Ramža pri útulni",
+      "latitude": 48.91334,
+      "longitude": 19.79713
+    },
+    {
+      "name": "sedlo Čertovica (pod chatou Horskej záchrannej služby alebo za objektom motorestu Čertovica)",
+      "latitude": 48.90512,
+      "longitude": 19.736568
+    },
+    {
+      "name": "v sedle Kýšky",
+      "latitude": 48.922984,
+      "longitude": 19.103546
+    },
+    {
+      "name": "Újhutai Ifjúsági Tábor",
+      "latitude": 48.38066,
+      "longitude": 21.445338
+    },
+    {
+      "name": "Ďurková v prípade naplnenia kapacity útulne",
+      "latitude": 48.93103,
+      "longitude": 19.467
+    },
+    {
+      "name": "Šiprúň - v okruhu 50 metrov od salaša na Prednom",
+      "latitude": 49.031188,
+      "longitude": 19.226065
+    },
+    {
+      "name": "Školiace a rekreačné stredisko Tábor Podvišňové",
+      "latitude": 48.841178,
+      "longitude": 17.733342
+    }
+  ],
+  "meta": {
+    "title": "Slovenské kempy - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných kempov a táborísk na Slovensku (tourism=camp_site) z OpenStreetMap. Obsahuje 169 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Slovenské kempy | ListBase",
+    "seo_description": "Stiahnuť Slovenské kempy — 169 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 169 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

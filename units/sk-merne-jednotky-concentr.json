@@ -1,0 +1,178 @@
+{
+  "id": "sk-merne-jednotky-concentr",
+  "name": "Merné jednotky — kategória 'concentr' (13)",
+  "title": "Merné jednotky — kategória 'concentr' (13)",
+  "description": "Merné jednotky kategórie 'concentr' z locale sk v CLDR, s názvami v slovenčine.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "skratka",
+      "label": "Skratka",
+      "type": "string"
+    },
+    {
+      "key": "uzky_tvar",
+      "label": "Uzky Tvar",
+      "type": "string"
+    },
+    {
+      "key": "vzor",
+      "label": "Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "concentr-item",
+      "kategoria": "concentr",
+      "nazov": "položky",
+      "skratka": "pol.",
+      "uzky_tvar": "pol.",
+      "vzor": "{0} položiek"
+    },
+    {
+      "id": 2,
+      "unit_code": "concentr-karat",
+      "kategoria": "concentr",
+      "nazov": "karáty",
+      "skratka": "kt",
+      "uzky_tvar": "kt",
+      "vzor": "{0} karátov"
+    },
+    {
+      "id": 3,
+      "unit_code": "concentr-katal",
+      "kategoria": "concentr",
+      "nazov": "kataly",
+      "skratka": "kat",
+      "uzky_tvar": "kat",
+      "vzor": "{0} katalov"
+    },
+    {
+      "id": 4,
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "kategoria": "concentr",
+      "nazov": "miligramy na deciliter",
+      "skratka": "mg/dl",
+      "uzky_tvar": "mg/dl",
+      "vzor": "{0} miligramov na deciliter"
+    },
+    {
+      "id": 5,
+      "unit_code": "concentr-millimole-per-liter",
+      "kategoria": "concentr",
+      "nazov": "milimoly na liter",
+      "skratka": "mmol/l",
+      "uzky_tvar": "mmol/l",
+      "vzor": "{0} milimolov na liter"
+    },
+    {
+      "id": 6,
+      "unit_code": "concentr-mole",
+      "kategoria": "concentr",
+      "nazov": "moly",
+      "skratka": "mol",
+      "uzky_tvar": "mol",
+      "vzor": "{0} molov"
+    },
+    {
+      "id": 7,
+      "unit_code": "concentr-ofglucose",
+      "kategoria": "concentr",
+      "nazov": "glukózy",
+      "skratka": "Glc",
+      "uzky_tvar": "Glc",
+      "vzor": "{0} Glc"
+    },
+    {
+      "id": 8,
+      "unit_code": "concentr-part",
+      "kategoria": "concentr",
+      "nazov": "častice",
+      "skratka": "part",
+      "uzky_tvar": "part",
+      "vzor": "{0} častíc"
+    },
+    {
+      "id": 9,
+      "unit_code": "concentr-part-per-1e6",
+      "kategoria": "concentr",
+      "nazov": "milióntiny",
+      "skratka": "ppm",
+      "uzky_tvar": "ppm",
+      "vzor": "{0} milióntin"
+    },
+    {
+      "id": 10,
+      "unit_code": "concentr-part-per-1e9",
+      "kategoria": "concentr",
+      "nazov": "častice na miliardu",
+      "skratka": "ppb",
+      "uzky_tvar": "ppb",
+      "vzor": "{0} častíc na miliardu"
+    },
+    {
+      "id": 11,
+      "unit_code": "concentr-percent",
+      "kategoria": "concentr",
+      "nazov": "percentá",
+      "skratka": "%",
+      "uzky_tvar": "%",
+      "vzor": "{0} percent"
+    },
+    {
+      "id": 12,
+      "unit_code": "concentr-permille",
+      "kategoria": "concentr",
+      "nazov": "promile",
+      "skratka": "‰",
+      "uzky_tvar": "‰",
+      "vzor": "{0} promile"
+    },
+    {
+      "id": 13,
+      "unit_code": "concentr-permyriad",
+      "kategoria": "concentr",
+      "nazov": "desatiny promile",
+      "skratka": "‱",
+      "uzky_tvar": "‱",
+      "vzor": "{0} desatín promile"
+    }
+  ],
+  "meta": {
+    "title": "Merné jednotky — kategória 'concentr' (13) - Bezplatné stiahnutie",
+    "description": "Merné jednotky kategórie 'concentr' z locale sk v CLDR, s názvami v slovenčine. Obsahuje 13 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Merné jednotky — kategória 'concentr' (13) | ListBase",
+    "seo_description": "Stiahnuť Merné jednotky — kategória 'concentr' (13) — 13 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 13 záznamov / 7 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

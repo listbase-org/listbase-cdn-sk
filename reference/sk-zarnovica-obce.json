@@ -1,0 +1,406 @@
+{
+  "id": "sk-zarnovica-obce",
+  "name": "Obce v okrese Žarnovica",
+  "title": "Obce v okrese Žarnovica",
+  "description": "Všetky obce (municipality) v okrese Žarnovica, Banskobystrický kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 74,
+      "fullname": "Banská Hodruša",
+      "shortname": "Banská Hodruša",
+      "zip": "966 63",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 264,
+      "fullname": "Brehy",
+      "shortname": "Brehy",
+      "zip": "968 01",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 344,
+      "fullname": "Bukovina",
+      "shortname": "Bukovina",
+      "zip": "968 01",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1180,
+      "fullname": "Chotár",
+      "shortname": "Chotár",
+      "zip": "968 01",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 623,
+      "fullname": "Dolné Hámre",
+      "shortname": "Dolné Hámre",
+      "zip": "966 61",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 952,
+      "fullname": "Hodruša - Hámre",
+      "shortname": "Hodruša - Hámre",
+      "zip": "966 61",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1001,
+      "fullname": "Horné Hámre",
+      "shortname": "Horné Hámre",
+      "zip": "966 71",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1070,
+      "fullname": "Hrabičov",
+      "shortname": "Hrabičov",
+      "zip": "966 78",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1122,
+      "fullname": "Hronský Beňadik",
+      "shortname": "Hronský Beňadik",
+      "zip": "966 53",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 885,
+      "fullname": "Hámre - Dolné Hámre",
+      "shortname": "Hámre - Dolné Hámre",
+      "zip": "966 61",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 886,
+      "fullname": "Hámre - Horné Hámre",
+      "shortname": "Hámre - Horné Hámre",
+      "zip": "966 71",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1523,
+      "fullname": "Kopanice",
+      "shortname": "Kopanice",
+      "zip": "966 61",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1544,
+      "fullname": "Kostivrch",
+      "shortname": "Kostivrch",
+      "zip": "968 01",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1434,
+      "fullname": "Kľak",
+      "shortname": "Kľak",
+      "zip": "966 77",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1970,
+      "fullname": "Lukavica",
+      "shortname": "Lukavica",
+      "zip": "966 81",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2027,
+      "fullname": "Malá Lehota",
+      "shortname": "Malá Lehota",
+      "zip": "966 42",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2395,
+      "fullname": "Nová Baňa",
+      "shortname": "Nová Baňa",
+      "zip": "968 01",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2532,
+      "fullname": "Orovnica",
+      "shortname": "Orovnica",
+      "zip": "966 52",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2547,
+      "fullname": "Ostrý Grúň",
+      "shortname": "Ostrý Grúň",
+      "zip": "966 77",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2863,
+      "fullname": "Psiare",
+      "shortname": "Psiare",
+      "zip": "966 53",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2647,
+      "fullname": "Píla",
+      "shortname": "Píla",
+      "zip": "966 81",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2964,
+      "fullname": "Revištské Podzámčie",
+      "shortname": "Revištské Podzámčie",
+      "zip": "966 81",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3032,
+      "fullname": "Rudno nad Hronom",
+      "shortname": "Rudno nad Hronom",
+      "zip": "966 51",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3266,
+      "fullname": "Stará Huta",
+      "shortname": "Stará Huta",
+      "zip": "968 01",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3516,
+      "fullname": "Tekovská Breznica",
+      "shortname": "Tekovská Breznica",
+      "zip": "966 52",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3754,
+      "fullname": "Veľká Lehota",
+      "shortname": "Veľká Lehota",
+      "zip": "966 41",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3796,
+      "fullname": "Veľké Pole",
+      "shortname": "Veľké Pole",
+      "zip": "966 74",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3924,
+      "fullname": "Voznica",
+      "shortname": "Voznica",
+      "zip": "966 81",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4044,
+      "fullname": "Záhorčie",
+      "shortname": "Záhorčie",
+      "zip": "966 81",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4049,
+      "fullname": "Záhrb",
+      "shortname": "Záhrb",
+      "zip": "968 01",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3447,
+      "fullname": "Štále",
+      "shortname": "Štále",
+      "zip": "968 01",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4167,
+      "fullname": "Žarnovica",
+      "shortname": "Žarnovica",
+      "zip": "966 81",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4168,
+      "fullname": "Žarnovická Huta",
+      "shortname": "Žarnovická Huta",
+      "zip": "966 81",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4208,
+      "fullname": "Župkov",
+      "shortname": "Župkov",
+      "zip": "966 71",
+      "district_id": 77,
+      "okres": "Žarnovica",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Žarnovica - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Žarnovica, Banskobystrický kraj — s PSČ a kódom okresu. Obsahuje 34 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Žarnovica | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Žarnovica — 34 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 34 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

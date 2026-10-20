@@ -1,0 +1,1011 @@
+{
+  "id": "sk-predajne-pocitacov",
+  "name": "Slovenské predajne počítačov",
+  "title": "Slovenské predajne počítačov",
+  "description": "Zoznam pomenovaných predajní počítačov na Slovensku (shop=computer) z OpenStreetMap.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 194,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "ABCOM",
+      "latitude": 48.710077,
+      "longitude": 21.232713
+    },
+    {
+      "name": "Acom",
+      "latitude": 49.047292,
+      "longitude": 20.282605
+    },
+    {
+      "name": "ADIR, spol. s r. o.",
+      "latitude": 48.15458,
+      "longitude": 17.165247
+    },
+    {
+      "name": "AGEM Computers",
+      "latitude": 48.111327,
+      "longitude": 17.094425
+    },
+    {
+      "name": "Agharta Computers",
+      "latitude": 48.576735,
+      "longitude": 19.127196
+    },
+    {
+      "name": "Aka servis",
+      "latitude": 49.000554,
+      "longitude": 21.249051
+    },
+    {
+      "name": "Alfa office",
+      "latitude": 48.132137,
+      "longitude": 17.200241
+    },
+    {
+      "name": "Amicomp",
+      "latitude": 48.72,
+      "longitude": 19.133693
+    },
+    {
+      "name": "Anmarcomp",
+      "latitude": 48.624863,
+      "longitude": 18.372211
+    },
+    {
+      "name": "AR comp",
+      "latitude": 48.874546,
+      "longitude": 18.044123
+    },
+    {
+      "name": "Arnet",
+      "latitude": 49.219272,
+      "longitude": 18.756391
+    },
+    {
+      "name": "Arros - počítačové služby",
+      "latitude": 49.001041,
+      "longitude": 21.237612
+    },
+    {
+      "name": "ASBIS SK",
+      "latitude": 48.192738,
+      "longitude": 17.197186
+    },
+    {
+      "name": "Avip",
+      "latitude": 48.772603,
+      "longitude": 18.603628
+    },
+    {
+      "name": "Axdata",
+      "latitude": 48.986143,
+      "longitude": 21.241087
+    },
+    {
+      "name": "AXIS computers",
+      "latitude": 48.383137,
+      "longitude": 18.393519
+    },
+    {
+      "name": "AXIS plus",
+      "latitude": 48.148924,
+      "longitude": 17.11708
+    },
+    {
+      "name": "AZ - systém s.r.o.",
+      "latitude": 48.716411,
+      "longitude": 18.261781
+    },
+    {
+      "name": "BIBO",
+      "latitude": 48.891062,
+      "longitude": 18.035436
+    },
+    {
+      "name": "Big on",
+      "latitude": 48.736844,
+      "longitude": 19.149356
+    },
+    {
+      "name": "Binary Technnologies",
+      "latitude": 48.728764,
+      "longitude": 21.242964
+    },
+    {
+      "name": "Blue computers s.r.o.",
+      "latitude": 48.84184,
+      "longitude": 17.227258
+    },
+    {
+      "name": "Buro Total",
+      "latitude": 48.147735,
+      "longitude": 17.10119
+    },
+    {
+      "name": "BZ soft",
+      "latitude": 49.078488,
+      "longitude": 19.305834
+    },
+    {
+      "name": "C-service",
+      "latitude": 47.759338,
+      "longitude": 18.118047
+    },
+    {
+      "name": "CCW",
+      "latitude": 48.152653,
+      "longitude": 17.13864
+    },
+    {
+      "name": "Center",
+      "latitude": 48.587085,
+      "longitude": 17.82503
+    },
+    {
+      "name": "Centurio",
+      "latitude": 49.04191,
+      "longitude": 18.214607
+    },
+    {
+      "name": "Change Computer",
+      "latitude": 48.77998,
+      "longitude": 18.627927
+    },
+    {
+      "name": "citycomp - my city computers",
+      "latitude": 48.986875,
+      "longitude": 21.266003
+    },
+    {
+      "name": "Cnc, a.s.",
+      "latitude": 48.977295,
+      "longitude": 21.263638
+    },
+    {
+      "name": "CODE",
+      "latitude": 49.302175,
+      "longitude": 18.781858
+    },
+    {
+      "name": "Comfor",
+      "latitude": 48.630444,
+      "longitude": 21.718539
+    },
+    {
+      "name": "Comix",
+      "latitude": 48.213209,
+      "longitude": 18.607915
+    },
+    {
+      "name": "Comodity",
+      "latitude": 48.43143,
+      "longitude": 17.028129
+    },
+    {
+      "name": "CompAct",
+      "latitude": 48.659128,
+      "longitude": 20.532348
+    },
+    {
+      "name": "Compex Data",
+      "latitude": 48.169424,
+      "longitude": 17.071452
+    },
+    {
+      "name": "Computer City",
+      "latitude": 48.427896,
+      "longitude": 17.796951
+    },
+    {
+      "name": "Computer Mega",
+      "latitude": 48.170219,
+      "longitude": 17.128849
+    },
+    {
+      "name": "Comtec",
+      "latitude": 48.754882,
+      "longitude": 17.832994
+    },
+    {
+      "name": "Copos",
+      "latitude": 49.115637,
+      "longitude": 18.442411
+    },
+    {
+      "name": "Cubo shop",
+      "latitude": 48.754545,
+      "longitude": 17.830625
+    },
+    {
+      "name": "Dantel",
+      "latitude": 49.063634,
+      "longitude": 18.329092
+    },
+    {
+      "name": "Dasing PC",
+      "latitude": 49.223311,
+      "longitude": 18.559488
+    },
+    {
+      "name": "DATAservis",
+      "latitude": 48.991172,
+      "longitude": 21.24494
+    },
+    {
+      "name": "DATex VK s.r.o",
+      "latitude": 48.208489,
+      "longitude": 19.349268
+    },
+    {
+      "name": "Decomp s.r.o.",
+      "latitude": 48.98701,
+      "longitude": 22.151712
+    },
+    {
+      "name": "Draco",
+      "latitude": 48.730949,
+      "longitude": 21.241907
+    },
+    {
+      "name": "DraziwNet, s.r.o.",
+      "latitude": 48.986418,
+      "longitude": 21.265509
+    },
+    {
+      "name": "Dušan Kmeť - servis PC",
+      "latitude": 48.755224,
+      "longitude": 18.739711
+    },
+    {
+      "name": "Easy Comp",
+      "latitude": 48.77185,
+      "longitude": 18.622287
+    },
+    {
+      "name": "Ediscomp",
+      "latitude": 49.223303,
+      "longitude": 18.741451
+    },
+    {
+      "name": "eD´system",
+      "latitude": 48.187925,
+      "longitude": 17.173876
+    },
+    {
+      "name": "EFN",
+      "latitude": 49.40569,
+      "longitude": 19.479809
+    },
+    {
+      "name": "eion",
+      "latitude": 48.675706,
+      "longitude": 17.351139
+    },
+    {
+      "name": "ELCOM Cash Registers",
+      "latitude": 48.968226,
+      "longitude": 21.25775
+    },
+    {
+      "name": "ELCOMP trade, spol. s.r.o.",
+      "latitude": 48.936197,
+      "longitude": 18.143085
+    },
+    {
+      "name": "ELKO",
+      "latitude": 48.77373,
+      "longitude": 18.614478
+    },
+    {
+      "name": "Elman Computers",
+      "latitude": 48.719004,
+      "longitude": 18.259684
+    },
+    {
+      "name": "Emelix",
+      "latitude": 48.335597,
+      "longitude": 17.3115
+    },
+    {
+      "name": "Enter Computer",
+      "latitude": 48.382289,
+      "longitude": 18.397932
+    },
+    {
+      "name": "eQ shop diskont",
+      "latitude": 48.187895,
+      "longitude": 17.173831
+    },
+    {
+      "name": "Ever - predaj a servis výpočtovej techniky",
+      "latitude": 49.004561,
+      "longitude": 21.235325
+    },
+    {
+      "name": "eXtreme Computers",
+      "latitude": 49.405928,
+      "longitude": 19.478931
+    },
+    {
+      "name": "Fenix",
+      "latitude": 48.771103,
+      "longitude": 18.625953
+    },
+    {
+      "name": "Fix IT",
+      "latitude": 48.122137,
+      "longitude": 17.10329
+    },
+    {
+      "name": "Fix IT",
+      "latitude": 48.159391,
+      "longitude": 17.11992
+    },
+    {
+      "name": "Floppy",
+      "latitude": 48.759089,
+      "longitude": 17.829283
+    },
+    {
+      "name": "Focus",
+      "latitude": 48.720334,
+      "longitude": 21.253515
+    },
+    {
+      "name": "Fokus",
+      "latitude": 49.294628,
+      "longitude": 21.272763
+    },
+    {
+      "name": "Fonet",
+      "latitude": 48.892105,
+      "longitude": 18.06278
+    },
+    {
+      "name": "FOSET",
+      "latitude": 48.08571,
+      "longitude": 18.188356
+    },
+    {
+      "name": "FreeTech services",
+      "latitude": 49.082756,
+      "longitude": 19.612343
+    },
+    {
+      "name": "FreshIT",
+      "latitude": 49.439073,
+      "longitude": 18.788148
+    },
+    {
+      "name": "Fuky",
+      "latitude": 48.126133,
+      "longitude": 17.099586
+    },
+    {
+      "name": "FUXO",
+      "latitude": 48.191205,
+      "longitude": 17.053326
+    },
+    {
+      "name": "Gigabit",
+      "latitude": 49.08284,
+      "longitude": 19.302811
+    },
+    {
+      "name": "Gobyus",
+      "latitude": 48.285932,
+      "longitude": 17.732102
+    },
+    {
+      "name": "Grandcom",
+      "latitude": 48.76185,
+      "longitude": 17.834015
+    },
+    {
+      "name": "GUR Computers",
+      "latitude": 48.842049,
+      "longitude": 17.218933
+    },
+    {
+      "name": "HaSo Nvota",
+      "latitude": 48.443301,
+      "longitude": 17.01549
+    },
+    {
+      "name": "henry",
+      "latitude": 48.164271,
+      "longitude": 17.14893
+    },
+    {
+      "name": "Herakles",
+      "latitude": 49.40264,
+      "longitude": 18.624271
+    },
+    {
+      "name": "HQ Computers - Predaj výpočtovej techniky, internet, servis",
+      "latitude": 48.331389,
+      "longitude": 19.665547
+    },
+    {
+      "name": "Hurican Slovakia, s.r.o.",
+      "latitude": 48.995526,
+      "longitude": 21.240456
+    },
+    {
+      "name": "Ikarcom",
+      "latitude": 48.626428,
+      "longitude": 18.369121
+    },
+    {
+      "name": "INDASTRY",
+      "latitude": 48.14787,
+      "longitude": 17.126571
+    },
+    {
+      "name": "InGen",
+      "latitude": 48.086083,
+      "longitude": 18.179205
+    },
+    {
+      "name": "INTO Slovakia s.r.o.",
+      "latitude": 48.180375,
+      "longitude": 17.177169
+    },
+    {
+      "name": "iP comp",
+      "latitude": 49.302027,
+      "longitude": 20.68831
+    },
+    {
+      "name": "ISSO",
+      "latitude": 48.772768,
+      "longitude": 18.620422
+    },
+    {
+      "name": "IT Partner",
+      "latitude": 47.757027,
+      "longitude": 18.124661
+    },
+    {
+      "name": "IT Servis",
+      "latitude": 48.75075,
+      "longitude": 19.1446
+    },
+    {
+      "name": "ITC",
+      "latitude": 49.115361,
+      "longitude": 18.444478
+    },
+    {
+      "name": "ITempire s.r.o.",
+      "latitude": 48.300534,
+      "longitude": 18.081921
+    },
+    {
+      "name": "ITSK Henry",
+      "latitude": 47.987572,
+      "longitude": 18.16985
+    },
+    {
+      "name": "ITSK-HS",
+      "latitude": 48.310358,
+      "longitude": 18.088722
+    },
+    {
+      "name": "iTY.sk - IT aj TY, s r.o.",
+      "latitude": 48.970525,
+      "longitude": 21.278366
+    },
+    {
+      "name": "J&T Centrum",
+      "latitude": 49.3013,
+      "longitude": 20.690046
+    },
+    {
+      "name": "J-idea",
+      "latitude": 48.541037,
+      "longitude": 19.408238
+    },
+    {
+      "name": "JC Media",
+      "latitude": 48.997608,
+      "longitude": 18.233628
+    },
+    {
+      "name": "JC Media Computers",
+      "latitude": 49.124511,
+      "longitude": 18.327136
+    },
+    {
+      "name": "JUKOsoft",
+      "latitude": 48.124448,
+      "longitude": 17.108572
+    },
+    {
+      "name": "Jupiter",
+      "latitude": 48.540959,
+      "longitude": 19.408167
+    },
+    {
+      "name": "JURsa",
+      "latitude": 49.131179,
+      "longitude": 20.425776
+    },
+    {
+      "name": "KassotechniK.sk",
+      "latitude": 49.226051,
+      "longitude": 18.744949
+    },
+    {
+      "name": "Kread-PC",
+      "latitude": 48.591786,
+      "longitude": 18.852119
+    },
+    {
+      "name": "Lenovo",
+      "latitude": 48.130126,
+      "longitude": 17.106533
+    },
+    {
+      "name": "LeNS Computers",
+      "latitude": 48.16033,
+      "longitude": 17.118924
+    },
+    {
+      "name": "LGR electronic",
+      "latitude": 48.777433,
+      "longitude": 18.643964
+    },
+    {
+      "name": "Litech",
+      "latitude": 48.285862,
+      "longitude": 17.741453
+    },
+    {
+      "name": "LK Trade",
+      "latitude": 48.217827,
+      "longitude": 18.603417
+    },
+    {
+      "name": "Magic Print",
+      "latitude": 48.115514,
+      "longitude": 17.096902
+    },
+    {
+      "name": "MaxiPC, s.r.o.",
+      "latitude": 48.998735,
+      "longitude": 21.243186
+    },
+    {
+      "name": "MB PRO servis s.r.o.",
+      "latitude": 48.73321,
+      "longitude": 19.139619
+    },
+    {
+      "name": "Micomp",
+      "latitude": 48.755545,
+      "longitude": 21.924154
+    },
+    {
+      "name": "MICRODAT",
+      "latitude": 48.66439,
+      "longitude": 20.536463
+    },
+    {
+      "name": "Mivasoft",
+      "latitude": 48.186964,
+      "longitude": 17.714298
+    },
+    {
+      "name": "MPK",
+      "latitude": 49.440676,
+      "longitude": 18.787453
+    },
+    {
+      "name": "n. netcom",
+      "latitude": 48.152133,
+      "longitude": 17.118563
+    },
+    {
+      "name": "NETservis, s.r.o.",
+      "latitude": 48.99276,
+      "longitude": 21.226555
+    },
+    {
+      "name": "NetSoft",
+      "latitude": 48.626715,
+      "longitude": 18.374844
+    },
+    {
+      "name": "Next Team Xerox Premier Partner",
+      "latitude": 48.979759,
+      "longitude": 21.244337
+    },
+    {
+      "name": "Notebookshop.sk - Obchod pre mobilných profesionálov",
+      "latitude": 48.226641,
+      "longitude": 17.397871
+    },
+    {
+      "name": "Novatech",
+      "latitude": 49.436029,
+      "longitude": 18.788679
+    },
+    {
+      "name": "NRSYS",
+      "latitude": 48.304966,
+      "longitude": 18.101236
+    },
+    {
+      "name": "Office Center",
+      "latitude": 47.891726,
+      "longitude": 17.808292
+    },
+    {
+      "name": "Officetech",
+      "latitude": 47.997449,
+      "longitude": 17.621444
+    },
+    {
+      "name": "OK comp",
+      "latitude": 49.223085,
+      "longitude": 18.73728
+    },
+    {
+      "name": "OKPC - Ľuboš Kostur",
+      "latitude": 48.620721,
+      "longitude": 17.724438
+    },
+    {
+      "name": "OPAL MULTIMEDIA, spol. s r.o.",
+      "latitude": 49.023189,
+      "longitude": 21.272529
+    },
+    {
+      "name": "PAKE",
+      "latitude": 48.384946,
+      "longitude": 18.392395
+    },
+    {
+      "name": "PALACE s.r.o.",
+      "latitude": 48.31113,
+      "longitude": 18.085105
+    },
+    {
+      "name": "Panacom",
+      "latitude": 48.141863,
+      "longitude": 17.117487
+    },
+    {
+      "name": "PC - servis.sk",
+      "latitude": 48.957097,
+      "longitude": 18.16934
+    },
+    {
+      "name": "PC Centrum pod vežou - Rožňava",
+      "latitude": 48.662169,
+      "longitude": 20.533285
+    },
+    {
+      "name": "PC Salon",
+      "latitude": 47.992979,
+      "longitude": 17.618948
+    },
+    {
+      "name": "PC Shop",
+      "latitude": 49.083207,
+      "longitude": 19.30447
+    },
+    {
+      "name": "PC Služba",
+      "latitude": 48.104158,
+      "longitude": 17.104005
+    },
+    {
+      "name": "PC tech",
+      "latitude": 48.154247,
+      "longitude": 17.876865
+    },
+    {
+      "name": "PC ŠPITÁL - Predaj, servis a poradenstvo elektro",
+      "latitude": 49.009089,
+      "longitude": 21.221248
+    },
+    {
+      "name": "PC, Internet",
+      "latitude": 49.137814,
+      "longitude": 20.425426
+    },
+    {
+      "name": "PC-NET s.r.o. - Servis a predaj počítačov a počítačových sietí",
+      "latitude": 48.806157,
+      "longitude": 19.641832
+    },
+    {
+      "name": "PcProfi",
+      "latitude": 48.997176,
+      "longitude": 21.246346
+    },
+    {
+      "name": "PHC Slovakia",
+      "latitude": 48.115069,
+      "longitude": 17.094844
+    },
+    {
+      "name": "Polly Comp",
+      "latitude": 49.054539,
+      "longitude": 20.298338
+    },
+    {
+      "name": "PosTel",
+      "latitude": 48.029548,
+      "longitude": 17.309103
+    },
+    {
+      "name": "PrintCentrum",
+      "latitude": 49.116805,
+      "longitude": 18.449369
+    },
+    {
+      "name": "Probasec",
+      "latitude": 49.116143,
+      "longitude": 21.521196
+    },
+    {
+      "name": "Procomp",
+      "latitude": 48.210135,
+      "longitude": 19.352892
+    },
+    {
+      "name": "Prodata",
+      "latitude": 49.120165,
+      "longitude": 18.323339
+    },
+    {
+      "name": "Progma",
+      "latitude": 48.760445,
+      "longitude": 17.83566
+    },
+    {
+      "name": "Progma",
+      "latitude": 48.883409,
+      "longitude": 18.031211
+    },
+    {
+      "name": "Prospec",
+      "latitude": 48.657312,
+      "longitude": 20.529488
+    },
+    {
+      "name": "PS Computer",
+      "latitude": 48.190084,
+      "longitude": 17.724058
+    },
+    {
+      "name": "PS Computer",
+      "latitude": 48.190484,
+      "longitude": 17.716242
+    },
+    {
+      "name": "PVS Computer, s.r.o.",
+      "latitude": 48.997705,
+      "longitude": 21.245302
+    },
+    {
+      "name": "R-Comp",
+      "latitude": 49.077276,
+      "longitude": 19.313307
+    },
+    {
+      "name": "REBUS",
+      "latitude": 48.152326,
+      "longitude": 17.120807
+    },
+    {
+      "name": "refurbished.sk",
+      "latitude": 48.29661,
+      "longitude": 18.06419
+    },
+    {
+      "name": "Repasované Cisco",
+      "latitude": 48.886735,
+      "longitude": 18.009586
+    },
+    {
+      "name": "Richard Gajniak - CompServis",
+      "latitude": 49.359545,
+      "longitude": 19.61174
+    },
+    {
+      "name": "RK-Market",
+      "latitude": 48.805389,
+      "longitude": 19.644104
+    },
+    {
+      "name": "Rosner PC",
+      "latitude": 48.097421,
+      "longitude": 17.111861
+    },
+    {
+      "name": "Sanding",
+      "latitude": 48.163566,
+      "longitude": 17.151015
+    },
+    {
+      "name": "SaSoft",
+      "latitude": 48.045782,
+      "longitude": 17.251952
+    },
+    {
+      "name": "SaSoft",
+      "latitude": 48.385159,
+      "longitude": 18.387227
+    },
+    {
+      "name": "Shark Computers",
+      "latitude": 48.168135,
+      "longitude": 17.13919
+    },
+    {
+      "name": "Sharp Business Systems Slovakia s.r.o.",
+      "latitude": 48.175446,
+      "longitude": 17.172026
+    },
+    {
+      "name": "smart computer",
+      "latitude": 48.171734,
+      "longitude": 17.138043
+    },
+    {
+      "name": "Smart Computer",
+      "latitude": 48.575995,
+      "longitude": 19.133969
+    },
+    {
+      "name": "Smart Shop",
+      "latitude": 47.854874,
+      "longitude": 17.77038
+    },
+    {
+      "name": "SOFOS, s.r.o.",
+      "latitude": 48.168711,
+      "longitude": 17.074257
+    },
+    {
+      "name": "SuperPC",
+      "latitude": 48.784362,
+      "longitude": 18.618017
+    },
+    {
+      "name": "SYNETICS s.r.o.",
+      "latitude": 48.226621,
+      "longitude": 17.397879
+    },
+    {
+      "name": "SysNet",
+      "latitude": 48.146649,
+      "longitude": 17.17922
+    },
+    {
+      "name": "Számítás És Irodatechnika - PiszkeNet",
+      "latitude": 47.749979,
+      "longitude": 18.486576
+    },
+    {
+      "name": "Techsavers",
+      "latitude": 48.613093,
+      "longitude": 20.99797
+    },
+    {
+      "name": "Ticomp",
+      "latitude": 48.099133,
+      "longitude": 17.102225
+    },
+    {
+      "name": "TN Trade Slovakia, s. r. o.",
+      "latitude": 48.131175,
+      "longitude": 17.101419
+    },
+    {
+      "name": "Toudy PC",
+      "latitude": 48.153293,
+      "longitude": 17.156357
+    },
+    {
+      "name": "Traco computers",
+      "latitude": 48.590722,
+      "longitude": 17.834159
+    },
+    {
+      "name": "Venron",
+      "latitude": 48.311884,
+      "longitude": 18.091692
+    },
+    {
+      "name": "Vladimír Turanský - VTMPROFIK",
+      "latitude": 48.169832,
+      "longitude": 17.160454
+    },
+    {
+      "name": "VR comp media",
+      "latitude": 48.382939,
+      "longitude": 18.393559
+    },
+    {
+      "name": "Wirus",
+      "latitude": 49.046263,
+      "longitude": 20.298024
+    },
+    {
+      "name": "Worldcomp",
+      "latitude": 48.624377,
+      "longitude": 18.373744
+    },
+    {
+      "name": "X-TRON",
+      "latitude": 48.128304,
+      "longitude": 17.10953
+    },
+    {
+      "name": "ZComm",
+      "latitude": 48.922811,
+      "longitude": 20.939343
+    },
+    {
+      "name": "ZelenéPC",
+      "latitude": 49.008905,
+      "longitude": 21.219793
+    },
+    {
+      "name": "ZelenéPC - Počítače, notebooky, príslušenstvo, servis",
+      "latitude": 48.987175,
+      "longitude": 21.22912
+    },
+    {
+      "name": "Zero",
+      "latitude": 48.15555,
+      "longitude": 17.073233
+    },
+    {
+      "name": "Zero Košice spol. s r.o.",
+      "latitude": 48.727294,
+      "longitude": 21.260654
+    },
+    {
+      "name": "Zukas",
+      "latitude": 48.593463,
+      "longitude": 17.753921
+    }
+  ],
+  "meta": {
+    "title": "Slovenské predajne počítačov - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných predajní počítačov na Slovensku (shop=computer) z OpenStreetMap. Obsahuje 194 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Slovenské predajne počítačov | ListBase",
+    "seo_description": "Stiahnuť Slovenské predajne počítačov — 194 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 194 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

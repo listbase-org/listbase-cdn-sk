@@ -1,0 +1,1021 @@
+{
+  "id": "sk-vodarenske-objekty",
+  "name": "Vodárenské objekty",
+  "title": "Vodárenské objekty",
+  "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (man_made=water_works). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 196,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Vodojem",
+      "latitude": 49.469825,
+      "longitude": 19.306174
+    },
+    {
+      "name": "Vodojem",
+      "latitude": 48.993533,
+      "longitude": 18.093619
+    },
+    {
+      "name": "Vodojem",
+      "latitude": 48.983398,
+      "longitude": 18.050243
+    },
+    {
+      "name": "Vodárenský objekt",
+      "latitude": 49.031475,
+      "longitude": 18.208608
+    },
+    {
+      "name": "Vodný zdroj,studňa HDŠ 1",
+      "latitude": 48.927352,
+      "longitude": 18.092587
+    },
+    {
+      "name": "Vodný zdroj,studňa HDŠ 2",
+      "latitude": 48.928888,
+      "longitude": 18.093434
+    },
+    {
+      "name": "Vodojem",
+      "latitude": 48.927055,
+      "longitude": 18.042559
+    },
+    {
+      "name": "ČS Nemšová",
+      "latitude": 48.970664,
+      "longitude": 18.131813
+    },
+    {
+      "name": "Čerpacia stanica Dobrá, Jazero",
+      "latitude": 48.926796,
+      "longitude": 18.108398
+    },
+    {
+      "name": "Vodojem Dobrá",
+      "latitude": 48.922678,
+      "longitude": 18.112548
+    },
+    {
+      "name": "Bánová",
+      "latitude": 49.19557,
+      "longitude": 18.709624
+    },
+    {
+      "name": "Vodojem Lokca",
+      "latitude": 49.353855,
+      "longitude": 19.419772
+    },
+    {
+      "name": "Dierová",
+      "latitude": 49.168128,
+      "longitude": 19.160138
+    },
+    {
+      "name": "Jasenovská vodáreň",
+      "latitude": 49.17598,
+      "longitude": 19.305494
+    },
+    {
+      "name": "Vodný zdroj",
+      "latitude": 49.195349,
+      "longitude": 19.579067
+    },
+    {
+      "name": "Vodojem Liptovské Matiašovce s.r.o.",
+      "latitude": 49.170429,
+      "longitude": 19.584712
+    },
+    {
+      "name": "Vodný zdroj",
+      "latitude": 49.160879,
+      "longitude": 19.649265
+    },
+    {
+      "name": "Vodáreň Kraľovany 2x150m3",
+      "latitude": 49.149145,
+      "longitude": 19.145769
+    },
+    {
+      "name": "Vodný zdroj",
+      "latitude": 49.150334,
+      "longitude": 19.214366
+    },
+    {
+      "name": "nový domček vodárne",
+      "latitude": 49.14253,
+      "longitude": 19.300343
+    },
+    {
+      "name": "starý domček vodárne",
+      "latitude": 49.142578,
+      "longitude": 19.300105
+    },
+    {
+      "name": "Oravská vodárenská spol.",
+      "latitude": 49.143035,
+      "longitude": 19.300594
+    },
+    {
+      "name": "Hygienické pásmo II. stupňa",
+      "latitude": 49.10516,
+      "longitude": 19.229909
+    },
+    {
+      "name": "Vodný zdroj II. stupňa",
+      "latitude": 49.111555,
+      "longitude": 19.180899
+    },
+    {
+      "name": "VDJ Hrboltová 2",
+      "latitude": 49.11175,
+      "longitude": 19.24819
+    },
+    {
+      "name": "VDJ Staré Lazy",
+      "latitude": 49.099878,
+      "longitude": 19.266164
+    },
+    {
+      "name": "1990",
+      "latitude": 49.105831,
+      "longitude": 19.253167
+    },
+    {
+      "name": "Vodojem 1930",
+      "latitude": 49.104954,
+      "longitude": 19.252125
+    },
+    {
+      "name": "VDJ Trstenica",
+      "latitude": 49.093687,
+      "longitude": 19.272463
+    },
+    {
+      "name": "VDJ Laukovo",
+      "latitude": 49.092494,
+      "longitude": 19.276172
+    },
+    {
+      "name": "VDJ Nová Hrboltová",
+      "latitude": 49.094536,
+      "longitude": 19.267703
+    },
+    {
+      "name": "VDJ Malho",
+      "latitude": 49.095395,
+      "longitude": 19.267742
+    },
+    {
+      "name": "Vodojem",
+      "latitude": 49.08016,
+      "longitude": 19.277384
+    },
+    {
+      "name": "Vodárenská spoločnosť Ružomberok, a.s.",
+      "latitude": 49.09258,
+      "longitude": 19.260556
+    },
+    {
+      "name": "Mondi",
+      "latitude": 49.074714,
+      "longitude": 19.287824
+    },
+    {
+      "name": "Mondi 6242",
+      "latitude": 49.074314,
+      "longitude": 19.288055
+    },
+    {
+      "name": "VDJ Baničné",
+      "latitude": 49.068042,
+      "longitude": 19.285441
+    },
+    {
+      "name": "VDJ Studničky 1",
+      "latitude": 49.092421,
+      "longitude": 19.279781
+    },
+    {
+      "name": "VDJ Studničky 2",
+      "latitude": 49.092126,
+      "longitude": 19.279476
+    },
+    {
+      "name": "VDJ Rybárpole",
+      "latitude": 49.091123,
+      "longitude": 19.274896
+    },
+    {
+      "name": "VDJ Baničné",
+      "latitude": 49.06926,
+      "longitude": 19.294484
+    },
+    {
+      "name": "1932",
+      "latitude": 49.09114,
+      "longitude": 19.335287
+    },
+    {
+      "name": "Vodojem",
+      "latitude": 49.076701,
+      "longitude": 19.291034
+    },
+    {
+      "name": "starý",
+      "latitude": 49.05654,
+      "longitude": 19.2839
+    },
+    {
+      "name": "VDJ Vlkolínec",
+      "latitude": 49.041231,
+      "longitude": 19.27686
+    },
+    {
+      "name": "Vodareň",
+      "latitude": 49.042999,
+      "longitude": 19.273277
+    },
+    {
+      "name": "VDJ Biely Potok",
+      "latitude": 49.038144,
+      "longitude": 19.292929
+    },
+    {
+      "name": "VDJ Žlebiny",
+      "latitude": 49.053022,
+      "longitude": 19.287574
+    },
+    {
+      "name": "VDJ Žlebiny",
+      "latitude": 49.054237,
+      "longitude": 19.290388
+    },
+    {
+      "name": "starý",
+      "latitude": 49.056983,
+      "longitude": 19.285172
+    },
+    {
+      "name": "VDJ Speváčka",
+      "latitude": 49.052964,
+      "longitude": 19.292751
+    },
+    {
+      "name": "Vodný zdroj Hrabovo",
+      "latitude": 49.066398,
+      "longitude": 19.269145
+    },
+    {
+      "name": "VDJ Kosovo",
+      "latitude": 49.06096,
+      "longitude": 19.296874
+    },
+    {
+      "name": "SEVAK",
+      "latitude": 49.06088,
+      "longitude": 19.296976
+    },
+    {
+      "name": "PR Speváčka",
+      "latitude": 49.05279,
+      "longitude": 19.292156
+    },
+    {
+      "name": "VRT Kúpele Lúčky",
+      "latitude": 49.140899,
+      "longitude": 19.393623
+    },
+    {
+      "name": "VRT - Kúpele Lúčky",
+      "latitude": 49.129502,
+      "longitude": 19.398645
+    },
+    {
+      "name": "Vodojem",
+      "latitude": 49.130809,
+      "longitude": 19.41419
+    },
+    {
+      "name": "Chočský potok",
+      "latitude": 49.111531,
+      "longitude": 19.340671
+    },
+    {
+      "name": "Vodáreň Vlachy - Bobrovník",
+      "latitude": 49.099522,
+      "longitude": 19.48158
+    },
+    {
+      "name": "Liptovská vodárenská spoločnosť",
+      "latitude": 49.147812,
+      "longitude": 19.664405
+    },
+    {
+      "name": "Vodojem + elektrina",
+      "latitude": 49.040664,
+      "longitude": 19.338335
+    },
+    {
+      "name": "SEVAK",
+      "latitude": 49.065937,
+      "longitude": 19.601685
+    },
+    {
+      "name": "Vodáren",
+      "latitude": 49.026306,
+      "longitude": 19.295492
+    },
+    {
+      "name": "Vodojem",
+      "latitude": 49.014075,
+      "longitude": 19.298364
+    },
+    {
+      "name": "Jazierce",
+      "latitude": 49.018683,
+      "longitude": 19.281403
+    },
+    {
+      "name": "VRT - Bukovina",
+      "latitude": 49.003377,
+      "longitude": 19.282955
+    },
+    {
+      "name": "VRT - Bukovina",
+      "latitude": 49.004712,
+      "longitude": 19.284868
+    },
+    {
+      "name": "VRT - Bukovina",
+      "latitude": 49.005726,
+      "longitude": 19.284562
+    },
+    {
+      "name": "Vodojem",
+      "latitude": 48.999938,
+      "longitude": 19.292747
+    },
+    {
+      "name": "Vodojem",
+      "latitude": 49.00458,
+      "longitude": 19.292311
+    },
+    {
+      "name": "Vodáreň",
+      "latitude": 48.946743,
+      "longitude": 19.256547
+    },
+    {
+      "name": "Vodojem",
+      "latitude": 49.007764,
+      "longitude": 19.530518
+    },
+    {
+      "name": "Úpravňa vody",
+      "latitude": 49.251312,
+      "longitude": 20.154377
+    },
+    {
+      "name": "Vodáreň Medvedia lúka",
+      "latitude": 49.175002,
+      "longitude": 20.306347
+    },
+    {
+      "name": "Vodojem 1949",
+      "latitude": 49.087544,
+      "longitude": 19.897225
+    },
+    {
+      "name": "Vodárenský zdroj",
+      "latitude": 48.964206,
+      "longitude": 20.072104
+    },
+    {
+      "name": "Úpravňa vody Veľká Biela Voda",
+      "latitude": 48.942371,
+      "longitude": 20.344493
+    },
+    {
+      "name": "Východoslovenská vodárenská spoločnosť",
+      "latitude": 48.992555,
+      "longitude": 21.239126
+    },
+    {
+      "name": "AQUATECH, spol. s r.o.",
+      "latitude": 48.980509,
+      "longitude": 21.280052
+    },
+    {
+      "name": "Vodojem 1936",
+      "latitude": 48.977534,
+      "longitude": 21.336217
+    },
+    {
+      "name": "Vodojem",
+      "latitude": 48.936257,
+      "longitude": 21.862992
+    },
+    {
+      "name": "Vodojem",
+      "latitude": 48.870227,
+      "longitude": 17.835497
+    },
+    {
+      "name": "Vodojem Chocholná Velčice",
+      "latitude": 48.879842,
+      "longitude": 17.924641
+    },
+    {
+      "name": "Vodáreň Podvišnové",
+      "latitude": 48.836163,
+      "longitude": 17.737304
+    },
+    {
+      "name": "Tlaková stanica Horné Orechové",
+      "latitude": 48.912777,
+      "longitude": 18.034771
+    },
+    {
+      "name": "Vodný zdroj Horná Sihoť",
+      "latitude": 48.89959,
+      "longitude": 18.053684
+    },
+    {
+      "name": "Prečerpávacia stanica odpadových vôd",
+      "latitude": 48.902434,
+      "longitude": 18.038844
+    },
+    {
+      "name": "Vodojem Zamarovce",
+      "latitude": 48.912792,
+      "longitude": 18.059738
+    },
+    {
+      "name": "Štola Zamarovce",
+      "latitude": 48.913266,
+      "longitude": 18.060384
+    },
+    {
+      "name": "Klapkový dom Zamarovce",
+      "latitude": 48.912363,
+      "longitude": 18.05839
+    },
+    {
+      "name": "Prečerpávacia stanica Kubrá",
+      "latitude": 48.898519,
+      "longitude": 18.088616
+    },
+    {
+      "name": "Vodojem Kubrá",
+      "latitude": 48.897368,
+      "longitude": 18.089037
+    },
+    {
+      "name": "Čerpacia stanica s odľahčením",
+      "latitude": 48.887918,
+      "longitude": 18.005892
+    },
+    {
+      "name": "Čerpacia stanica opdadových vôd Zlatovská",
+      "latitude": 48.887996,
+      "longitude": 18.005839
+    },
+    {
+      "name": "Čerpacia stanica Trenčianske Biskupice",
+      "latitude": 48.881797,
+      "longitude": 18.017444
+    },
+    {
+      "name": "Vodojem Trenčín Juh",
+      "latitude": 48.879712,
+      "longitude": 18.050047
+    },
+    {
+      "name": "Čerpacia stanica Soblahov, HG1",
+      "latitude": 48.865301,
+      "longitude": 18.095699
+    },
+    {
+      "name": "Vodojem Juh - 2.tlakové pásmo",
+      "latitude": 48.878658,
+      "longitude": 18.051795
+    },
+    {
+      "name": "Vodný zdroj čerpacia stanica Soblahovská",
+      "latitude": 48.871539,
+      "longitude": 18.032609
+    },
+    {
+      "name": "Vodojem Horný Šianec",
+      "latitude": 48.890447,
+      "longitude": 18.040525
+    },
+    {
+      "name": "Čerpacia stanica Omšenie, priehrada",
+      "latitude": 48.902299,
+      "longitude": 18.190035
+    },
+    {
+      "name": "Vodný zdroj Heinrich",
+      "latitude": 48.910764,
+      "longitude": 18.188225
+    },
+    {
+      "name": "Čerpacia stanica Trenčianske Teplice,Červené kopanice",
+      "latitude": 48.90928,
+      "longitude": 18.164821
+    },
+    {
+      "name": "Vodojem Omšenie",
+      "latitude": 48.905263,
+      "longitude": 18.23585
+    },
+    {
+      "name": "Vodný zdroj Omšenie, Kamenné vráta",
+      "latitude": 48.913901,
+      "longitude": 18.209884
+    },
+    {
+      "name": "Vodný zdroj Omšenie, Nový I, II a III",
+      "latitude": 48.911756,
+      "longitude": 18.200698
+    },
+    {
+      "name": "Vodný zdroj Omšenie, Nový IV",
+      "latitude": 48.909596,
+      "longitude": 18.194295
+    },
+    {
+      "name": "Vodný zdroj Kalinky",
+      "latitude": 48.871308,
+      "longitude": 18.140085
+    },
+    {
+      "name": "Prerušovacia komora Kubrica",
+      "latitude": 48.870604,
+      "longitude": 18.106905
+    },
+    {
+      "name": "Prerušovacia komora Kubrica",
+      "latitude": 48.870367,
+      "longitude": 18.112597
+    },
+    {
+      "name": "Vodojem Kubrica",
+      "latitude": 48.87106,
+      "longitude": 18.119411
+    },
+    {
+      "name": "Prerušovacia komora Kubrica",
+      "latitude": 48.87222,
+      "longitude": 18.129251
+    },
+    {
+      "name": "Prerušovacia komora Kubrica",
+      "latitude": 48.874405,
+      "longitude": 18.139138
+    },
+    {
+      "name": "Prirodny minerálny zdroj, vrt HG-3",
+      "latitude": 48.83664,
+      "longitude": 18.073203
+    },
+    {
+      "name": "Vodojem Mníchova Lehota",
+      "latitude": 48.836749,
+      "longitude": 18.071312
+    },
+    {
+      "name": "Vodojem Soblahov",
+      "latitude": 48.860304,
+      "longitude": 18.085682
+    },
+    {
+      "name": "Vodný zdroj Soblahov „Huk“",
+      "latitude": 48.847925,
+      "longitude": 18.086181
+    },
+    {
+      "name": "Vodojem",
+      "latitude": 48.822363,
+      "longitude": 18.05833
+    },
+    {
+      "name": "Vodný zdroj Neporadza, Svitavy II",
+      "latitude": 48.851329,
+      "longitude": 18.145292
+    },
+    {
+      "name": "Armatúrna šachta Neporadza",
+      "latitude": 48.849892,
+      "longitude": 18.146194
+    },
+    {
+      "name": "Prerušovacia komora Neporadza, Kunové",
+      "latitude": 48.841262,
+      "longitude": 18.149433
+    },
+    {
+      "name": "Prerušovacia komora Neporadza",
+      "latitude": 48.838386,
+      "longitude": 18.153066
+    },
+    {
+      "name": "Vodný zdroj Neporadza, prameň Kunové",
+      "latitude": 48.842238,
+      "longitude": 18.147979
+    },
+    {
+      "name": "Vodný zdroj Svitavy, Neporadza I",
+      "latitude": 48.85677,
+      "longitude": 18.142998
+    },
+    {
+      "name": "Vrchovište",
+      "latitude": 48.843622,
+      "longitude": 18.247089
+    },
+    {
+      "name": "Pri moste",
+      "latitude": 48.837791,
+      "longitude": 18.263386
+    },
+    {
+      "name": "Pri mlyne",
+      "latitude": 48.8392,
+      "longitude": 18.260718
+    },
+    {
+      "name": "Pod skalou",
+      "latitude": 48.853283,
+      "longitude": 18.242434
+    },
+    {
+      "name": "Klapča",
+      "latitude": 48.826409,
+      "longitude": 18.111499
+    },
+    {
+      "name": "Prameň Jazero Motešice",
+      "latitude": 48.81582,
+      "longitude": 18.176247
+    },
+    {
+      "name": "Vodný zdroj, čerpacia stanica Zadná studňa, Trenčianske Mitice",
+      "latitude": 48.813377,
+      "longitude": 18.115057
+    },
+    {
+      "name": "Vodný zdroj, čerpacia stanica Skalice, Tr. Mitice",
+      "latitude": 48.825624,
+      "longitude": 18.118281
+    },
+    {
+      "name": "Vodný zdroj Trenčianske Mitice, Klapča",
+      "latitude": 48.826325,
+      "longitude": 18.111384
+    },
+    {
+      "name": "Vodojem Zemianske Mitice, Tr. Mitice",
+      "latitude": 48.82139,
+      "longitude": 18.116077
+    },
+    {
+      "name": "Vodojem Šefranice, Tr. Mitice",
+      "latitude": 48.813601,
+      "longitude": 18.111697
+    },
+    {
+      "name": "Čerpacia stanica Motešice",
+      "latitude": 48.814786,
+      "longitude": 18.178253
+    },
+    {
+      "name": "VZ Hrádok",
+      "latitude": 48.696457,
+      "longitude": 17.902461
+    },
+    {
+      "name": "Vodný zdroj Veľká Hradná",
+      "latitude": 48.778611,
+      "longitude": 18.067377
+    },
+    {
+      "name": "Vodný zdroj Veľká Hradná",
+      "latitude": 48.778801,
+      "longitude": 18.066757
+    },
+    {
+      "name": "VZ Stoky",
+      "latitude": 48.76514,
+      "longitude": 17.939584
+    },
+    {
+      "name": "Vodný zdroj Dubodiel",
+      "latitude": 48.770645,
+      "longitude": 18.090179
+    },
+    {
+      "name": "Vodný zdroj Dubodiel",
+      "latitude": 48.766945,
+      "longitude": 18.095147
+    },
+    {
+      "name": "Tlaková stanica Trenčianske Jastrabie",
+      "latitude": 48.799466,
+      "longitude": 18.115698
+    },
+    {
+      "name": "Čerpacia stanica závlah",
+      "latitude": 48.7945,
+      "longitude": 18.121372
+    },
+    {
+      "name": "Havarijná vodárenská a kanalizačná služba, motérsky obvod Svinná",
+      "latitude": 48.793827,
+      "longitude": 18.144059
+    },
+    {
+      "name": "Vodojem Svinná",
+      "latitude": 48.795333,
+      "longitude": 18.142284
+    },
+    {
+      "name": "Vodný zdroj Malá Hradná",
+      "latitude": 48.760962,
+      "longitude": 18.153499
+    },
+    {
+      "name": "Vodný zdroj Šafranica",
+      "latitude": 48.738527,
+      "longitude": 18.166659
+    },
+    {
+      "name": "Úpravovňa vody",
+      "latitude": 48.6705,
+      "longitude": 17.00502
+    },
+    {
+      "name": "Vodojem",
+      "latitude": 48.511003,
+      "longitude": 17.312571
+    },
+    {
+      "name": "Brodky",
+      "latitude": 48.889414,
+      "longitude": 18.291191
+    },
+    {
+      "name": "Zdroj pitnej vody v Zelenom 10,2 l/s",
+      "latitude": 48.905207,
+      "longitude": 19.12698
+    },
+    {
+      "name": "TJ Kamzík Bratislava",
+      "latitude": 48.868784,
+      "longitude": 19.227878
+    },
+    {
+      "name": "Vodojem 1.stupňa",
+      "latitude": 48.872355,
+      "longitude": 19.304669
+    },
+    {
+      "name": "Mineral",
+      "latitude": 48.888399,
+      "longitude": 19.286569
+    },
+    {
+      "name": "Akumulácia minerálnych vôd",
+      "latitude": 48.888537,
+      "longitude": 19.285718
+    },
+    {
+      "name": "Nápustný objekt Železiarne Podbrezová",
+      "latitude": 48.860038,
+      "longitude": 19.460847
+    },
+    {
+      "name": "Vodojem Sásová",
+      "latitude": 48.761508,
+      "longitude": 19.158639
+    },
+    {
+      "name": "Ochranné pásmo vodného zdroja",
+      "latitude": 48.745325,
+      "longitude": 19.122557
+    },
+    {
+      "name": "Vodojem",
+      "latitude": 48.38489,
+      "longitude": 17.267597
+    },
+    {
+      "name": "Vodáreň",
+      "latitude": 48.445356,
+      "longitude": 18.027169
+    },
+    {
+      "name": "Močenok, vodáreň",
+      "latitude": 48.225516,
+      "longitude": 17.970644
+    },
+    {
+      "name": "Predčerpacia stanica",
+      "latitude": 48.147805,
+      "longitude": 17.042818
+    },
+    {
+      "name": "Vodáreň R2",
+      "latitude": 48.112254,
+      "longitude": 17.150535
+    },
+    {
+      "name": "Vodáreň B",
+      "latitude": 48.113573,
+      "longitude": 17.155416
+    },
+    {
+      "name": "Vodáreň A",
+      "latitude": 48.11644,
+      "longitude": 17.155373
+    },
+    {
+      "name": "Studňa 9",
+      "latitude": 48.112146,
+      "longitude": 17.152566
+    },
+    {
+      "name": "Studňa 1",
+      "latitude": 48.119142,
+      "longitude": 17.154109
+    },
+    {
+      "name": "Studňa 10",
+      "latitude": 48.111214,
+      "longitude": 17.153696
+    },
+    {
+      "name": "Vodáreň R1",
+      "latitude": 48.120184,
+      "longitude": 17.151828
+    },
+    {
+      "name": "Studňa 8",
+      "latitude": 48.112922,
+      "longitude": 17.152123
+    },
+    {
+      "name": "Studňa 2",
+      "latitude": 48.118985,
+      "longitude": 17.152615
+    },
+    {
+      "name": "Studňa 3",
+      "latitude": 48.118019,
+      "longitude": 17.151158
+    },
+    {
+      "name": "Studňa 4",
+      "latitude": 48.116704,
+      "longitude": 17.150406
+    },
+    {
+      "name": "Studňa 5",
+      "latitude": 48.115315,
+      "longitude": 17.150564
+    },
+    {
+      "name": "Studňa 6",
+      "latitude": 48.114621,
+      "longitude": 17.151379
+    },
+    {
+      "name": "Studňa 7",
+      "latitude": 48.113868,
+      "longitude": 17.151828
+    },
+    {
+      "name": "Vodný zdroj Podunajské Biskupice",
+      "latitude": 48.126795,
+      "longitude": 17.228277
+    },
+    {
+      "name": "Trianoni zsilip",
+      "latitude": 48.013305,
+      "longitude": 17.219884
+    },
+    {
+      "name": "Pitná Vodáren 3-4",
+      "latitude": 48.184748,
+      "longitude": 17.921609
+    },
+    {
+      "name": "Water supply",
+      "latitude": 48.599565,
+      "longitude": 20.811265
+    },
+    {
+      "name": "Vodojem Staré 1927",
+      "latitude": 48.873366,
+      "longitude": 21.882847
+    },
+    {
+      "name": "Vodojem Poľov",
+      "latitude": 48.67531,
+      "longitude": 21.181509
+    },
+    {
+      "name": "Vodojem Malá Ida",
+      "latitude": 48.680977,
+      "longitude": 21.178183
+    },
+    {
+      "name": "VDJ Šaca II",
+      "latitude": 48.642164,
+      "longitude": 21.180488
+    },
+    {
+      "name": "VDJ Šaca I",
+      "latitude": 48.641972,
+      "longitude": 21.180954
+    },
+    {
+      "name": "Dražice",
+      "latitude": 48.436329,
+      "longitude": 20.059993
+    },
+    {
+      "name": "Vízmű",
+      "latitude": 48.417246,
+      "longitude": 21.658456
+    },
+    {
+      "name": "Vízmű",
+      "latitude": 48.415811,
+      "longitude": 21.66187
+    },
+    {
+      "name": "Vízmű",
+      "latitude": 48.381218,
+      "longitude": 21.684081
+    },
+    {
+      "name": "zemný vodojem",
+      "latitude": 47.988677,
+      "longitude": 18.235526
+    },
+    {
+      "name": "Západoslovenská vodárenská spoločnosť a.s. Nitra",
+      "latitude": 47.861645,
+      "longitude": 17.760555
+    },
+    {
+      "name": "Vodný zdroj a ČS pitnej vody Martovce",
+      "latitude": 47.852344,
+      "longitude": 18.111883
+    },
+    {
+      "name": "Vodáreň Alžbetin ostrov",
+      "latitude": 47.756467,
+      "longitude": 18.09969
+    },
+    {
+      "name": "Hétforrás Kistérségi Vízmű",
+      "latitude": 47.752224,
+      "longitude": 18.508496
+    }
+  ],
+  "meta": {
+    "title": "Vodárenské objekty - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (man_made=water_works). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84. Obsahuje 196 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Vodárenské objekty | ListBase",
+    "seo_description": "Stiahnuť Vodárenské objekty — 196 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 196 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

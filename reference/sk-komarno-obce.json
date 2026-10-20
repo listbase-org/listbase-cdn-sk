@@ -1,0 +1,956 @@
+{
+  "id": "sk-komarno-obce",
+  "name": "Obce v okrese Komárno",
+  "title": "Obce v okrese Komárno",
+  "description": "Všetky obce (municipality) v okrese Komárno, Nitriansky kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 89,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 15,
+      "fullname": "Aňala",
+      "shortname": "Aňala",
+      "zip": "946 51",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 16,
+      "fullname": "Aňalské Záhrady",
+      "shortname": "Aňalské Záhrady",
+      "zip": "946 51",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 50,
+      "fullname": "Bajč",
+      "shortname": "Bajč",
+      "zip": "946 54",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 61,
+      "fullname": "Balvany",
+      "shortname": "Balvany",
+      "zip": "946 01",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 195,
+      "fullname": "Bodza",
+      "shortname": "Bodza",
+      "zip": "946 16",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 196,
+      "fullname": "Bodzianske Lúky",
+      "shortname": "Bodzianske Lúky",
+      "zip": "946 14",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 198,
+      "fullname": "Bohatá",
+      "shortname": "Bohatá",
+      "zip": "947 03",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 210,
+      "fullname": "Bokroš",
+      "shortname": "Bokroš",
+      "zip": "946 39",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 273,
+      "fullname": "Brestovec",
+      "shortname": "Brestovec",
+      "zip": "946 17",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 365,
+      "fullname": "Bystrička",
+      "shortname": "Bystrička",
+      "zip": "946 38",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 95,
+      "fullname": "Bátorove Kosihy",
+      "shortname": "Bátorove Kosihy",
+      "zip": "946 34",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 316,
+      "fullname": "Búč",
+      "shortname": "Búč",
+      "zip": "946 35",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1182,
+      "fullname": "Chotín",
+      "shortname": "Chotín",
+      "zip": "946 31",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1185,
+      "fullname": "Chrasť",
+      "shortname": "Chrasť",
+      "zip": "946 54",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 527,
+      "fullname": "Dedina Mládeže",
+      "shortname": "Dedina Mládeže",
+      "zip": "946 03",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 748,
+      "fullname": "Dulovce",
+      "shortname": "Dulovce",
+      "zip": "946 56",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 866,
+      "fullname": "Hadovce",
+      "shortname": "Hadovce",
+      "zip": "945 01",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 936,
+      "fullname": "Hliník",
+      "shortname": "Hliník",
+      "zip": "945 01",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 955,
+      "fullname": "Holanovo",
+      "shortname": "Holanovo",
+      "zip": "947 01",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 957,
+      "fullname": "Holiare",
+      "shortname": "Holiare",
+      "zip": "946 16",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 995,
+      "fullname": "Horná Zlatná",
+      "shortname": "Horná Zlatná",
+      "zip": "946 12",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1151,
+      "fullname": "Hurbanovo",
+      "shortname": "Hurbanovo",
+      "zip": 0,
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1215,
+      "fullname": "Imeľ",
+      "shortname": "Imeľ",
+      "zip": "946 52",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1235,
+      "fullname": "Iža",
+      "shortname": "Iža",
+      "zip": "946 39",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1374,
+      "fullname": "Kameničná",
+      "shortname": "Kameničná",
+      "zip": "946 01",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1405,
+      "fullname": "Kava",
+      "shortname": "Kava",
+      "zip": "945 01",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1450,
+      "fullname": "Klížska Nemá",
+      "shortname": "Klížska Nemá",
+      "zip": "946 19",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1491,
+      "fullname": "Kolárovo",
+      "shortname": "Kolárovo",
+      "zip": "946 03",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1505,
+      "fullname": "Komárno",
+      "shortname": "Komárno",
+      "zip": 0,
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1516,
+      "fullname": "Konkoľ",
+      "shortname": "Konkoľ",
+      "zip": "947 01",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1599,
+      "fullname": "Kotelnica",
+      "shortname": "Kotelnica",
+      "zip": "946 54",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1662,
+      "fullname": "Kravany nad Dunajom",
+      "shortname": "Kravany nad Dunajom",
+      "zip": "946 36",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1659,
+      "fullname": "Krátke Kesy",
+      "shortname": "Krátke Kesy",
+      "zip": "946 32",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1629,
+      "fullname": "Kráľka",
+      "shortname": "Kráľka",
+      "zip": "946 03",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1689,
+      "fullname": "Krížový Dvor",
+      "shortname": "Krížový Dvor",
+      "zip": "946 19",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1412,
+      "fullname": "Kéč",
+      "shortname": "Kéč",
+      "zip": "946 19",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1869,
+      "fullname": "Lipové",
+      "shortname": "Lipové",
+      "zip": "946 14",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1781,
+      "fullname": "Lándor",
+      "shortname": "Lándor",
+      "zip": "945 01",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1976,
+      "fullname": "Lúky",
+      "shortname": "Lúky",
+      "zip": "946 14",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 1995,
+      "fullname": "Madérét",
+      "shortname": "Madérét",
+      "zip": "930 28",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2026,
+      "fullname": "Malá Iža",
+      "shortname": "Malá Iža",
+      "zip": "945 01",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2100,
+      "fullname": "Malý Ostrov",
+      "shortname": "Malý Ostrov",
+      "zip": "946 03",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2110,
+      "fullname": "Marcelová",
+      "shortname": "Marcelová",
+      "zip": "946 32",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2125,
+      "fullname": "Martovce",
+      "shortname": "Martovce",
+      "zip": "947 01",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2189,
+      "fullname": "Mikulášov Sad",
+      "shortname": "Mikulášov Sad",
+      "zip": "946 34",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2232,
+      "fullname": "Modrany",
+      "shortname": "Modrany",
+      "zip": "946 33",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2220,
+      "fullname": "Moča",
+      "shortname": "Moča",
+      "zip": "946 37",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2270,
+      "fullname": "Mudroňovo",
+      "shortname": "Mudroňovo",
+      "zip": "946 32",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2325,
+      "fullname": "Nesvady",
+      "shortname": "Nesvady",
+      "zip": "946 51",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2410,
+      "fullname": "Nová Osada",
+      "shortname": "Nová Osada",
+      "zip": "945 01",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2415,
+      "fullname": "Nová Stráž",
+      "shortname": "Nová Stráž",
+      "zip": "945 04",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2416,
+      "fullname": "Nová Trstená",
+      "shortname": "Nová Trstená",
+      "zip": "947 03",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2436,
+      "fullname": "Nový Diel",
+      "shortname": "Nový Diel",
+      "zip": "946 54",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2468,
+      "fullname": "Okoličná na Ostrove",
+      "shortname": "Okoličná na Ostrove",
+      "zip": "946 13",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2466,
+      "fullname": "Okánikovo",
+      "shortname": "Okánikovo",
+      "zip": "946 21",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2596,
+      "fullname": "Patince",
+      "shortname": "Patince",
+      "zip": "946 39",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2598,
+      "fullname": "Pavel",
+      "shortname": "Pavel",
+      "zip": "945 04",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2561,
+      "fullname": "Pačérok",
+      "shortname": "Pačérok",
+      "zip": "946 03",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2825,
+      "fullname": "Pribeta",
+      "shortname": "Pribeta",
+      "zip": "946 55",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 2897,
+      "fullname": "Radvaň nad Dunajom",
+      "shortname": "Radvaň nad Dunajom",
+      "zip": "946 38",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3222,
+      "fullname": "Sokolce",
+      "shortname": "Sokolce",
+      "zip": "946 17",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3223,
+      "fullname": "Sokolce - lúky",
+      "shortname": "Sokolce - lúky",
+      "zip": "946 14",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3358,
+      "fullname": "Svätý Peter",
+      "shortname": "Svätý Peter",
+      "zip": "946 57",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3575,
+      "fullname": "Trávnik",
+      "shortname": "Trávnik",
+      "zip": "946 19",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3572,
+      "fullname": "Tôň",
+      "shortname": "Tôň",
+      "zip": "946 15",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3751,
+      "fullname": "Veľká Gúta",
+      "shortname": "Veľká Gúta",
+      "zip": "946 03",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3784,
+      "fullname": "Veľké Kosihy",
+      "shortname": "Veľké Kosihy",
+      "zip": "946 21",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3824,
+      "fullname": "Veľký Harčáš",
+      "shortname": "Veľký Harčáš",
+      "zip": "945 01",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3833,
+      "fullname": "Veľký Lél",
+      "shortname": "Veľký Lél",
+      "zip": "946 12",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3837,
+      "fullname": "Veľký Ostrov",
+      "shortname": "Veľký Ostrov",
+      "zip": "946 03",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3874,
+      "fullname": "Violín",
+      "shortname": "Violín",
+      "zip": "946 02",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3875,
+      "fullname": "Virt",
+      "shortname": "Virt",
+      "zip": "946 38",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3902,
+      "fullname": "Vlkanovo",
+      "shortname": "Vlkanovo",
+      "zip": "946 54",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3938,
+      "fullname": "Vrbová nad Váhom",
+      "shortname": "Vrbová nad Váhom",
+      "zip": "945 01",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3736,
+      "fullname": "Vék",
+      "shortname": "Vék",
+      "zip": "947 01",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 4105,
+      "fullname": "Zelený Háj",
+      "shortname": "Zelený Háj",
+      "zip": "947 01",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 4107,
+      "fullname": "Zemianska Olča",
+      "shortname": "Zemianska Olča",
+      "zip": "946 14",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 4136,
+      "fullname": "Zlatná na Ostrove",
+      "shortname": "Zlatná na Ostrove",
+      "zip": "946 12",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 4132,
+      "fullname": "Zlatá Osada",
+      "shortname": "Zlatá Osada",
+      "zip": "945 01",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 417,
+      "fullname": "Čalovec",
+      "shortname": "Čalovec",
+      "zip": "946 02",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 453,
+      "fullname": "Čergov",
+      "shortname": "Čergov",
+      "zip": "945 01",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 454,
+      "fullname": "Čerhát",
+      "shortname": "Čerhát",
+      "zip": "945 04",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 498,
+      "fullname": "Čierny Chrbát",
+      "shortname": "Čierny Chrbát",
+      "zip": "946 03",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 425,
+      "fullname": "Částa",
+      "shortname": "Částa",
+      "zip": "946 03",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 483,
+      "fullname": "Číčov",
+      "shortname": "Číčov",
+      "zip": "946 19",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 746,
+      "fullname": "Ďulov Dvor",
+      "shortname": "Ďulov Dvor",
+      "zip": "945 01",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3446,
+      "fullname": "Šrobárová",
+      "shortname": "Šrobárová",
+      "zip": "946 32",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 3475,
+      "fullname": "Štúrová",
+      "shortname": "Štúrová",
+      "zip": "946 13",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    },
+    {
+      "id": 4200,
+      "fullname": "Žitava",
+      "shortname": "Žitava",
+      "zip": "946 38",
+      "district_id": 22,
+      "okres": "Komárno",
+      "region_id": 4,
+      "kraj": "Nitriansky kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Komárno - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Komárno, Nitriansky kraj — s PSČ a kódom okresu. Obsahuje 89 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Komárno | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Komárno — 89 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 89 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

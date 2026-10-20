@@ -1,0 +1,1708 @@
+{
+  "id": "sk-osm-muzea",
+  "name": "Múzeá na Slovensku – OpenStreetMap (Museums in Slovakia, OSM)",
+  "title": "Múzeá na Slovensku – OpenStreetMap (Museums in Slovakia, OSM)",
+  "description": "Zoznam 183 múzeí na Slovensku z OpenStreetMap (crowdsourced; odlišný zdroj od datasetu sk-muzea z Wikidát) — názov, mesto, súradnice a web.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 183,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Archeologické múzeum Veľkej Moravy",
+      "name_en": "",
+      "city": "Piešťany",
+      "country": "Slovakia",
+      "latitude": 48.575537,
+      "longitude": 18.056574,
+      "website": ""
+    },
+    {
+      "name": "Atlantis science center",
+      "name_en": "",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.148108,
+      "longitude": 17.146995,
+      "website": ""
+    },
+    {
+      "name": "Atlantis Science Center",
+      "name_en": "",
+      "city": "Levice",
+      "country": "Slovakia",
+      "latitude": 48.20932,
+      "longitude": 18.584094,
+      "website": ""
+    },
+    {
+      "name": "Aurelium Zážitkové centrum vedy",
+      "name_en": "",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.182211,
+      "longitude": 17.165202,
+      "website": ""
+    },
+    {
+      "name": "Balneologické múzeum",
+      "name_en": "",
+      "city": "Piešťany",
+      "country": "Slovakia",
+      "latitude": 48.590654,
+      "longitude": 17.83805,
+      "website": ""
+    },
+    {
+      "name": "Banské múzeum",
+      "name_en": "",
+      "city": "Banská Štiavnica",
+      "country": "Slovakia",
+      "latitude": 48.458014,
+      "longitude": 18.895755,
+      "website": ""
+    },
+    {
+      "name": "Banícke múzeum",
+      "name_en": "",
+      "city": "Gelnica",
+      "country": "Slovakia",
+      "latitude": 48.851332,
+      "longitude": 20.933084,
+      "website": "http://www.gelnica.sk/banicke-muzeum-.phtml?id3=48695"
+    },
+    {
+      "name": "Banícke múzeum v Rožňave",
+      "name_en": "",
+      "city": "Rožňava",
+      "country": "Slovakia",
+      "latitude": 48.656761,
+      "longitude": 20.531018,
+      "website": ""
+    },
+    {
+      "name": "Classic car museum",
+      "name_en": "",
+      "city": "Piešťany",
+      "country": "Slovakia",
+      "latitude": 48.601942,
+      "longitude": 17.859504,
+      "website": ""
+    },
+    {
+      "name": "Detské múzeum",
+      "name_en": "",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.140297,
+      "longitude": 17.113947,
+      "website": "http://www.detskemuzeum.sk/"
+    },
+    {
+      "name": "Dom \"Lombardini\"",
+      "name_en": "",
+      "city": "Žilina",
+      "country": "Slovakia",
+      "latitude": 49.223215,
+      "longitude": 18.741537,
+      "website": "http://www.factanonverba.sk"
+    },
+    {
+      "name": "Dom bojových a revolučných tradícií",
+      "name_en": "",
+      "city": "Brezová pod Bradlom",
+      "country": "Slovakia",
+      "latitude": 48.662117,
+      "longitude": 17.481038,
+      "website": ""
+    },
+    {
+      "name": "Dom Mešťana",
+      "name_en": "",
+      "city": "Stará Ľubovňa",
+      "country": "Slovakia",
+      "latitude": 49.301951,
+      "longitude": 20.690364,
+      "website": ""
+    },
+    {
+      "name": "Dom Mikuláša Galandu",
+      "name_en": "",
+      "city": "Handlová",
+      "country": "Slovakia",
+      "latitude": 48.857214,
+      "longitude": 18.858272,
+      "website": ""
+    },
+    {
+      "name": "Dubnické múzeum",
+      "name_en": "",
+      "city": "Dubnica nad Váhom",
+      "country": "Slovakia",
+      "latitude": 48.962769,
+      "longitude": 18.169369,
+      "website": ""
+    },
+    {
+      "name": "Expozícia vo Vile Dr. Lisku",
+      "name_en": "",
+      "city": "Piešťany",
+      "country": "Slovakia",
+      "latitude": 48.593584,
+      "longitude": 17.833221,
+      "website": ""
+    },
+    {
+      "name": "Falumúzeum",
+      "name_en": "",
+      "city": "Šahy",
+      "country": "Slovakia",
+      "latitude": 48.03875,
+      "longitude": 18.91565,
+      "website": ""
+    },
+    {
+      "name": "Galeria NOVA",
+      "name_en": "",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.14512,
+      "longitude": 17.106678,
+      "website": ""
+    },
+    {
+      "name": "Galeria Satelit",
+      "name_en": "",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.141627,
+      "longitude": 17.114409,
+      "website": ""
+    },
+    {
+      "name": "Galéria Miloša Alexandra Bazovského",
+      "name_en": "",
+      "city": "Trenčín",
+      "country": "Slovakia",
+      "latitude": 48.896057,
+      "longitude": 18.04214,
+      "website": ""
+    },
+    {
+      "name": "Galéria Médium",
+      "name_en": "",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.141739,
+      "longitude": 17.10725,
+      "website": "http://www.vsvu.sk/galeria_medium/"
+    },
+    {
+      "name": "Galéria SVÚ",
+      "name_en": "",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.140973,
+      "longitude": 17.117385,
+      "website": "http://www.svu.sk/index.php?rain=sk/content/21"
+    },
+    {
+      "name": "Gemersko-malohontské múzeum",
+      "name_en": "",
+      "city": "Rimavská Sobota",
+      "country": "Slovakia",
+      "latitude": 48.384167,
+      "longitude": 20.021698,
+      "website": ""
+    },
+    {
+      "name": "Hainov dom",
+      "name_en": "",
+      "city": "Levoča",
+      "country": "Slovakia",
+      "latitude": 49.025241,
+      "longitude": 20.587467,
+      "website": ""
+    },
+    {
+      "name": "Historická miestnosť Smolník",
+      "name_en": "",
+      "city": "Medzev",
+      "country": "Slovakia",
+      "latitude": 48.729487,
+      "longitude": 20.739159,
+      "website": ""
+    },
+    {
+      "name": "Historické múzeum SNM",
+      "name_en": "Museum of History",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.142034,
+      "longitude": 17.100057,
+      "website": "www.snm.sk"
+    },
+    {
+      "name": "Horehronské múzeum",
+      "name_en": "",
+      "city": "Brezno",
+      "country": "Slovakia",
+      "latitude": 48.80679,
+      "longitude": 19.643809,
+      "website": ""
+    },
+    {
+      "name": "Hornonitriansky banský skanzen",
+      "name_en": "",
+      "city": "Prievidza",
+      "country": "Slovakia",
+      "latitude": 48.734008,
+      "longitude": 18.639746,
+      "website": "http://www.banskyskanzen.sk/"
+    },
+    {
+      "name": "Hudobné múzeum SNM",
+      "name_en": "Music Museum Bratislava",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.143523,
+      "longitude": 17.102141,
+      "website": "www.snm.sk"
+    },
+    {
+      "name": "Humno - súkromné etnografické múzeum",
+      "name_en": "",
+      "city": "Košice",
+      "country": "Slovakia",
+      "latitude": 48.715767,
+      "longitude": 21.217061,
+      "website": ""
+    },
+    {
+      "name": "Hvezdáreň a planetárium Prešov",
+      "name_en": "",
+      "city": "Prešov",
+      "country": "Slovakia",
+      "latitude": 48.999759,
+      "longitude": 21.256301,
+      "website": ""
+    },
+    {
+      "name": "Hvezdáreň a planetárium v Hlohovci",
+      "name_en": "",
+      "city": "Hlohovec",
+      "country": "Slovakia",
+      "latitude": 48.419473,
+      "longitude": 17.796838,
+      "website": ""
+    },
+    {
+      "name": "Hvezdáreň v Medzeve",
+      "name_en": "",
+      "city": "Medzev",
+      "country": "Slovakia",
+      "latitude": 48.701091,
+      "longitude": 20.889302,
+      "website": ""
+    },
+    {
+      "name": "Hvezdáreň v Michalovciach",
+      "name_en": "",
+      "city": "Michalovce",
+      "country": "Slovakia",
+      "latitude": 48.766047,
+      "longitude": 21.899764,
+      "website": ""
+    },
+    {
+      "name": "Hámor - národná kultúrna pamiatka",
+      "name_en": "",
+      "city": "Medzev",
+      "country": "Slovakia",
+      "latitude": 48.687901,
+      "longitude": 20.906473,
+      "website": ""
+    },
+    {
+      "name": "Izba ľudových tradícii",
+      "name_en": "",
+      "city": "Púchov",
+      "country": "Slovakia",
+      "latitude": 49.063807,
+      "longitude": 18.328364,
+      "website": ""
+    },
+    {
+      "name": "Ján Nálepka",
+      "name_en": "",
+      "city": "Spišská Nová Ves",
+      "country": "Slovakia",
+      "latitude": 48.957405,
+      "longitude": 20.514129,
+      "website": ""
+    },
+    {
+      "name": "Katova bašta",
+      "name_en": "",
+      "city": "Košice",
+      "country": "Slovakia",
+      "latitude": 48.72264,
+      "longitude": 21.26018,
+      "website": ""
+    },
+    {
+      "name": "Kaštiel Dolná Krupá",
+      "name_en": "",
+      "city": "Trnava",
+      "country": "Slovakia",
+      "latitude": 48.484207,
+      "longitude": 17.546379,
+      "website": ""
+    },
+    {
+      "name": "Kemencei Erdei vasút múzeum",
+      "name_en": "",
+      "city": "Šahy",
+      "country": "Slovakia",
+      "latitude": 48.013469,
+      "longitude": 18.893575,
+      "website": ""
+    },
+    {
+      "name": "Kováčska vyhňa",
+      "name_en": "",
+      "city": "Detva",
+      "country": "Slovakia",
+      "latitude": 48.338165,
+      "longitude": 19.370648,
+      "website": ""
+    },
+    {
+      "name": "Kysucké múzeum",
+      "name_en": "",
+      "city": "Čadca",
+      "country": "Slovakia",
+      "latitude": 49.439973,
+      "longitude": 18.789554,
+      "website": "http://www.kysuckemuzeum.sk/"
+    },
+    {
+      "name": "Lesnícke a drevárske múzeum",
+      "name_en": "",
+      "city": "Zvolen",
+      "country": "Slovakia",
+      "latitude": 48.577128,
+      "longitude": 19.125139,
+      "website": "www.ldmzvolen.sk"
+    },
+    {
+      "name": "Lesnícke múzeum",
+      "name_en": "",
+      "city": "Giraltovce",
+      "country": "Slovakia",
+      "latitude": 49.018942,
+      "longitude": 21.415434,
+      "website": ""
+    },
+    {
+      "name": "Lišovská izba",
+      "name_en": "",
+      "city": "Dudince",
+      "country": "Slovakia",
+      "latitude": 48.228427,
+      "longitude": 18.867523,
+      "website": ""
+    },
+    {
+      "name": "Lodný mlyn Kolárovo",
+      "name_en": "",
+      "city": "Kolárovo",
+      "country": "Slovakia",
+      "latitude": 47.920528,
+      "longitude": 18.001755,
+      "website": "http://www.vodnymlyn.sk/"
+    },
+    {
+      "name": "Maša - Muzeum hutníctva",
+      "name_en": "",
+      "city": "Liptovský Hrádok",
+      "country": "Slovakia",
+      "latitude": 49.034369,
+      "longitude": 19.769064,
+      "website": ""
+    },
+    {
+      "name": "Mestské múzeum",
+      "name_en": "",
+      "city": "Pezinok",
+      "country": "Slovakia",
+      "latitude": 48.286564,
+      "longitude": 17.269934,
+      "website": "http://muzeumpk.pezinsko.sk/"
+    },
+    {
+      "name": "Mestské múzeum",
+      "name_en": "",
+      "city": "Galanta",
+      "country": "Slovakia",
+      "latitude": 48.286499,
+      "longitude": 17.737994,
+      "website": ""
+    },
+    {
+      "name": "Mestské múzeum",
+      "name_en": "",
+      "city": "Ilava",
+      "country": "Slovakia",
+      "latitude": 48.997056,
+      "longitude": 18.233983,
+      "website": ""
+    },
+    {
+      "name": "Mestské múzeum Jelšava",
+      "name_en": "",
+      "city": "Revúca",
+      "country": "Slovakia",
+      "latitude": 48.631262,
+      "longitude": 20.235059,
+      "website": ""
+    },
+    {
+      "name": "Mestské Múzeum Nemšová",
+      "name_en": "",
+      "city": "Nemšová",
+      "country": "Slovakia",
+      "latitude": 48.963607,
+      "longitude": 18.114967,
+      "website": "http://www.nemsova.sk/kultura/mestske_muzeum"
+    },
+    {
+      "name": "Miklušova väznica",
+      "name_en": "",
+      "city": "Košice",
+      "country": "Slovakia",
+      "latitude": 48.722811,
+      "longitude": 21.259634,
+      "website": ""
+    },
+    {
+      "name": "Minimúzeum ľudovej kultúry",
+      "name_en": "",
+      "city": "Košice",
+      "country": "Slovakia",
+      "latitude": 48.743995,
+      "longitude": 21.126495,
+      "website": ""
+    },
+    {
+      "name": "Museum Martina Hamuljaka",
+      "name_en": "",
+      "city": "Námestovo",
+      "country": "Slovakia",
+      "latitude": 49.388487,
+      "longitude": 19.436256,
+      "website": ""
+    },
+    {
+      "name": "Museum of Pharmacy - Farmaceutické múzeum",
+      "name_en": "Museum of Pharmacy",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.145366,
+      "longitude": 17.106747,
+      "website": "http://www.muzeum.bratislava.sk/vismo/dokumenty2.asp?id_org=700015&id=1039"
+    },
+    {
+      "name": "Muzeum Mincovne",
+      "name_en": "Museum of Coins",
+      "city": "Kremnica",
+      "country": "Slovakia",
+      "latitude": 48.705284,
+      "longitude": 18.91646,
+      "website": ""
+    },
+    {
+      "name": "Múzem židovskej kultúry",
+      "name_en": "Museum of Jewish Culture in Slovakia",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.144039,
+      "longitude": 17.103517,
+      "website": "http://www.muzeum.sk/?obj=muzeum&ix=mzk_snm"
+    },
+    {
+      "name": "Múzeum",
+      "name_en": "",
+      "city": "Piešťany",
+      "country": "Slovakia",
+      "latitude": 48.554694,
+      "longitude": 17.970536,
+      "website": ""
+    },
+    {
+      "name": "Múzeum",
+      "name_en": "",
+      "city": "Žiar nad Hronom",
+      "country": "Slovakia",
+      "latitude": 48.578733,
+      "longitude": 18.897268,
+      "website": ""
+    },
+    {
+      "name": "Múzeum",
+      "name_en": "",
+      "city": "Sládkovičovo",
+      "country": "Slovakia",
+      "latitude": 48.250708,
+      "longitude": 17.616117,
+      "website": ""
+    },
+    {
+      "name": "Múzeum",
+      "name_en": "",
+      "city": "Zlaté Moravce",
+      "country": "Slovakia",
+      "latitude": 48.382522,
+      "longitude": 18.396494,
+      "website": ""
+    },
+    {
+      "name": "Múzeum",
+      "name_en": "",
+      "city": "Galanta",
+      "country": "Slovakia",
+      "latitude": 48.2434,
+      "longitude": 17.694324,
+      "website": ""
+    },
+    {
+      "name": "Múzeum 17. novembra",
+      "name_en": "",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.146323,
+      "longitude": 17.110029,
+      "website": ""
+    },
+    {
+      "name": "Múzeum Andreja Kmeťa",
+      "name_en": "",
+      "city": "Martin",
+      "country": "Slovakia",
+      "latitude": 49.065365,
+      "longitude": 18.920057,
+      "website": "http://www.snm.sk"
+    },
+    {
+      "name": "Múzeum Arthura Fleischmanna",
+      "name_en": "Arthur Fleischmann Museum",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.144153,
+      "longitude": 17.107747,
+      "website": "http://www.muzeum.bratislava.sk/vismo/dokumenty2.asp?id=1016&id_org=700015&p1=1012"
+    },
+    {
+      "name": "Múzeum bošáckej doliny",
+      "name_en": "",
+      "city": "Nové Mesto nad Váhom",
+      "country": "Slovakia",
+      "latitude": 48.827809,
+      "longitude": 17.841173,
+      "website": ""
+    },
+    {
+      "name": "Múzeum colníctva",
+      "name_en": "",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.140149,
+      "longitude": 17.117189,
+      "website": ""
+    },
+    {
+      "name": "Múzeum dejín Beckova",
+      "name_en": "",
+      "city": "Nové Mesto nad Váhom",
+      "country": "Slovakia",
+      "latitude": 48.791739,
+      "longitude": 17.896803,
+      "website": ""
+    },
+    {
+      "name": "Múzeum dejín mesta",
+      "name_en": "Museum of the city history",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.143681,
+      "longitude": 17.109116,
+      "website": ""
+    },
+    {
+      "name": "Múzeum dopravy",
+      "name_en": "",
+      "city": "Rajec",
+      "country": "Slovakia",
+      "latitude": 49.129273,
+      "longitude": 18.678805,
+      "website": "http://www.pmza.sk/muzeum-dopravy"
+    },
+    {
+      "name": "Múzeum dopravy",
+      "name_en": "Museum of transportation",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.155963,
+      "longitude": 17.105887,
+      "website": ""
+    },
+    {
+      "name": "Múzeum Ferdiša Kostku",
+      "name_en": "",
+      "city": "Stupava",
+      "country": "Slovakia",
+      "latitude": 48.278,
+      "longitude": 17.028957,
+      "website": ""
+    },
+    {
+      "name": "Múzeum gýča",
+      "name_en": "Museum of kitsch",
+      "city": "Kremnica",
+      "country": "Slovakia",
+      "latitude": 48.705028,
+      "longitude": 18.917544,
+      "website": "http://www.gyc.sk/"
+    },
+    {
+      "name": "Múzeum J. N. Hummela",
+      "name_en": "",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.14445,
+      "longitude": 17.110584,
+      "website": ""
+    },
+    {
+      "name": "Múzeum J. N. Hummela",
+      "name_en": "",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.144328,
+      "longitude": 17.110392,
+      "website": ""
+    },
+    {
+      "name": "Múzeum J.M.Hurbana",
+      "name_en": "",
+      "city": "Senica",
+      "country": "Slovakia",
+      "latitude": 48.659345,
+      "longitude": 17.410556,
+      "website": ""
+    },
+    {
+      "name": "Múzeum Janka Jesenského",
+      "name_en": "",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.150754,
+      "longitude": 17.103446,
+      "website": ""
+    },
+    {
+      "name": "Múzeum Jozefa Maximiliána Petzvala",
+      "name_en": "",
+      "city": "Spišská Belá",
+      "country": "Slovakia",
+      "latitude": 49.187574,
+      "longitude": 20.458398,
+      "website": ""
+    },
+    {
+      "name": "Múzeum keramiky",
+      "name_en": "",
+      "city": "Modra",
+      "country": "Slovakia",
+      "latitude": 48.332712,
+      "longitude": 17.309386,
+      "website": ""
+    },
+    {
+      "name": "Múzeum kinematografie rodiny Schusterovej",
+      "name_en": "",
+      "city": "Medzev",
+      "country": "Slovakia",
+      "latitude": 48.700925,
+      "longitude": 20.888877,
+      "website": ""
+    },
+    {
+      "name": "Múzeum kultúry Maďarov na Slovensku, Múzeum kultúry karpatských Nemcov, Hudobné múzeum, Archeologické múzeum, Výstavný pavilón Podhradie",
+      "name_en": "",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.140614,
+      "longitude": 17.097057,
+      "website": ""
+    },
+    {
+      "name": "Múzeum Kysuckej dediny",
+      "name_en": "",
+      "city": "Oravská Lesná",
+      "country": "Slovakia",
+      "latitude": 49.382302,
+      "longitude": 19.096708,
+      "website": ""
+    },
+    {
+      "name": "Múzeum letectva",
+      "name_en": "",
+      "city": "Košice",
+      "country": "Slovakia",
+      "latitude": 48.668228,
+      "longitude": 21.235605,
+      "website": ""
+    },
+    {
+      "name": "Múzeum liptovskej dediny - skanzen Pribylina",
+      "name_en": "",
+      "city": "Pribylina",
+      "country": "Slovakia",
+      "latitude": 49.106793,
+      "longitude": 19.804712,
+      "website": ""
+    },
+    {
+      "name": "Múzeum Majolika",
+      "name_en": "",
+      "city": "Modra",
+      "country": "Slovakia",
+      "latitude": 48.3267,
+      "longitude": 17.316253,
+      "website": ""
+    },
+    {
+      "name": "Múzeum medi",
+      "name_en": "",
+      "city": "Banská Bystrica",
+      "country": "Slovakia",
+      "latitude": 48.807499,
+      "longitude": 19.132191,
+      "website": ""
+    },
+    {
+      "name": "Múzeum mesta Bratislavy",
+      "name_en": "Bratislava City Museum",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.143793,
+      "longitude": 17.10875,
+      "website": "www.muzeum.bratislava.sk"
+    },
+    {
+      "name": "Múzeum Michala Tillnera",
+      "name_en": "",
+      "city": "Malacky",
+      "country": "Slovakia",
+      "latitude": 48.439526,
+      "longitude": 17.012771,
+      "website": ""
+    },
+    {
+      "name": "Múzeum Milana Dobeša",
+      "name_en": "",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.145126,
+      "longitude": 17.107784,
+      "website": "http://www.milandobes.sk/"
+    },
+    {
+      "name": "Múzeum mincí a medailí",
+      "name_en": "Museum of Coins and Medals",
+      "city": "Kremnica",
+      "country": "Slovakia",
+      "latitude": 48.703948,
+      "longitude": 18.917383,
+      "website": ""
+    },
+    {
+      "name": "Múzeum Molpír Smolenice",
+      "name_en": "",
+      "city": "Smolenice",
+      "country": "Slovakia",
+      "latitude": 48.508356,
+      "longitude": 17.432099,
+      "website": ""
+    },
+    {
+      "name": "Múzeum obchodu Bratislava",
+      "name_en": "",
+      "city": "Dunajská Lužná",
+      "country": "Slovakia",
+      "latitude": 48.129024,
+      "longitude": 17.2047,
+      "website": "http://www.muzeumobchoduba.sk/"
+    },
+    {
+      "name": "Múzeum pivovarníctvo vo Veľkom Šariši",
+      "name_en": "",
+      "city": "Prešov",
+      "country": "Slovakia",
+      "latitude": 49.038798,
+      "longitude": 21.193898,
+      "website": ""
+    },
+    {
+      "name": "Múzeum polície Bratislava",
+      "name_en": "Police Museum Bratislava",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.150143,
+      "longitude": 17.106526,
+      "website": ""
+    },
+    {
+      "name": "Múzeum praveku",
+      "name_en": "",
+      "city": "Bojnice",
+      "country": "Slovakia",
+      "latitude": 48.777419,
+      "longitude": 18.583462,
+      "website": ""
+    },
+    {
+      "name": "Múzeum prvého slovenského gymnázia",
+      "name_en": "",
+      "city": "Revúca",
+      "country": "Slovakia",
+      "latitude": 48.685597,
+      "longitude": 20.111315,
+      "website": ""
+    },
+    {
+      "name": "Múzeum Rišňovce, M. I. Kutuzova",
+      "name_en": "",
+      "city": "Hlohovec",
+      "country": "Slovakia",
+      "latitude": 48.368626,
+      "longitude": 17.898778,
+      "website": ""
+    },
+    {
+      "name": "Múzeum rodu Forgách",
+      "name_en": "",
+      "city": "Vráble",
+      "country": "Slovakia",
+      "latitude": 48.375379,
+      "longitude": 18.229998,
+      "website": ""
+    },
+    {
+      "name": "Múzeum slovenskej dediny",
+      "name_en": "",
+      "city": "Martin",
+      "country": "Slovakia",
+      "latitude": 49.038453,
+      "longitude": 18.925398,
+      "website": "http://www.skanzenmartin.sk"
+    },
+    {
+      "name": "Múzeum slovenskej keramickej plastiky",
+      "name_en": "",
+      "city": "Modra",
+      "country": "Slovakia",
+      "latitude": 48.335662,
+      "longitude": 17.307813,
+      "website": ""
+    },
+    {
+      "name": "Múzeum SNP",
+      "name_en": "",
+      "city": "Banská Bystrica",
+      "country": "Slovakia",
+      "latitude": 48.735134,
+      "longitude": 19.149784,
+      "website": ""
+    },
+    {
+      "name": "Múzeum telesnej kultúry v SR",
+      "name_en": "",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.166927,
+      "longitude": 17.139762,
+      "website": ""
+    },
+    {
+      "name": "Múzeum traktorov",
+      "name_en": "",
+      "city": "Ružomberok",
+      "country": "Slovakia",
+      "latitude": 49.107913,
+      "longitude": 19.230528,
+      "website": ""
+    },
+    {
+      "name": "Múzeum Turany",
+      "name_en": "",
+      "city": "Martin",
+      "country": "Slovakia",
+      "latitude": 49.106641,
+      "longitude": 19.035978,
+      "website": ""
+    },
+    {
+      "name": "Múzeum ukrajinskej kultúry",
+      "name_en": "",
+      "city": "Svidník",
+      "country": "Slovakia",
+      "latitude": 49.304524,
+      "longitude": 21.558829,
+      "website": ""
+    },
+    {
+      "name": "Múzeum Vojtecha Löfflera",
+      "name_en": "",
+      "city": "Košice",
+      "country": "Slovakia",
+      "latitude": 48.719659,
+      "longitude": 21.255586,
+      "website": ""
+    },
+    {
+      "name": "Múzeum výtvarnej kultúry na Spiši",
+      "name_en": "",
+      "city": "Levoča",
+      "country": "Slovakia",
+      "latitude": 49.025343,
+      "longitude": 20.587377,
+      "website": ""
+    },
+    {
+      "name": "Múzeum zbraní",
+      "name_en": "",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.14515,
+      "longitude": 17.106839,
+      "website": ""
+    },
+    {
+      "name": "Múzeum zločinov a obetí komunizmu",
+      "name_en": "Museum of crimes and victims of communism",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.153967,
+      "longitude": 17.109685,
+      "website": ""
+    },
+    {
+      "name": "Múzeum Zoltána Fábryho",
+      "name_en": "",
+      "city": "Medzev",
+      "country": "Slovakia",
+      "latitude": 48.70839,
+      "longitude": 20.790834,
+      "website": ""
+    },
+    {
+      "name": "Múzeum Ľ. Štúra",
+      "name_en": "",
+      "city": "Modra",
+      "country": "Slovakia",
+      "latitude": 48.336793,
+      "longitude": 17.310548,
+      "website": ""
+    },
+    {
+      "name": "Múzeum ľudového umenia v Čičmanoch",
+      "name_en": "",
+      "city": "Rajec",
+      "country": "Slovakia",
+      "latitude": 48.956693,
+      "longitude": 18.517046,
+      "website": ""
+    },
+    {
+      "name": "múzeum ľudových tradícií",
+      "name_en": "",
+      "city": "Štrba",
+      "country": "Slovakia",
+      "latitude": 49.057478,
+      "longitude": 19.985737,
+      "website": ""
+    },
+    {
+      "name": "Múzeum školstva a pedagogiky",
+      "name_en": "",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.121299,
+      "longitude": 17.104416,
+      "website": "http://www.msap.sk"
+    },
+    {
+      "name": "Múzeum židovskej kultúry",
+      "name_en": "",
+      "city": "Žilina",
+      "country": "Slovakia",
+      "latitude": 49.2236,
+      "longitude": 18.744725,
+      "website": "http://www.kehilazilina.sk"
+    },
+    {
+      "name": "Novohradské múzeum a galéria",
+      "name_en": "",
+      "city": "Lučenec",
+      "country": "Slovakia",
+      "latitude": 48.328038,
+      "longitude": 19.669899,
+      "website": ""
+    },
+    {
+      "name": "Nálezisko obydlia človeka kyjatickej kultúry",
+      "name_en": "",
+      "city": "Rimavská Sobota",
+      "country": "Slovakia",
+      "latitude": 48.53368,
+      "longitude": 20.004192,
+      "website": ""
+    },
+    {
+      "name": "Národný salón vín Slovenskej republiky",
+      "name_en": "",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.143464,
+      "longitude": 17.109063,
+      "website": "http://www.nsvsr.sk"
+    },
+    {
+      "name": "Národopisná expozícia",
+      "name_en": "",
+      "city": "Stará Ľubovňa",
+      "country": "Slovakia",
+      "latitude": 49.3172,
+      "longitude": 20.694946,
+      "website": ""
+    },
+    {
+      "name": "Obecná múzeum Notariát",
+      "name_en": "",
+      "city": "Martin",
+      "country": "Slovakia",
+      "latitude": 48.986622,
+      "longitude": 18.966262,
+      "website": ""
+    },
+    {
+      "name": "Obecné múzeum",
+      "name_en": "",
+      "city": "Nové Zámky",
+      "country": "Slovakia",
+      "latitude": 47.993899,
+      "longitude": 18.266168,
+      "website": ""
+    },
+    {
+      "name": "Obecné múzeum Šenkvice",
+      "name_en": "",
+      "city": "Modra",
+      "country": "Slovakia",
+      "latitude": 48.297173,
+      "longitude": 17.348641,
+      "website": ""
+    },
+    {
+      "name": "Open Air Aircraft collection",
+      "name_en": "",
+      "city": "Martin",
+      "country": "Slovakia",
+      "latitude": 49.063052,
+      "longitude": 18.945926,
+      "website": ""
+    },
+    {
+      "name": "Open Gallery",
+      "name_en": "",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.144809,
+      "longitude": 17.106002,
+      "website": ""
+    },
+    {
+      "name": "Pamätná izba bojov počas Druhej svetovej vojny",
+      "name_en": "",
+      "city": "Brezno",
+      "country": "Slovakia",
+      "latitude": 48.876089,
+      "longitude": 19.547024,
+      "website": ""
+    },
+    {
+      "name": "Pamätná izba Ivana Krasku",
+      "name_en": "",
+      "city": "Piešťany",
+      "country": "Slovakia",
+      "latitude": 48.586915,
+      "longitude": 17.836726,
+      "website": ""
+    },
+    {
+      "name": "Pamätník SNP",
+      "name_en": "",
+      "city": "Kremnica",
+      "country": "Slovakia",
+      "latitude": 48.850207,
+      "longitude": 18.8665,
+      "website": ""
+    },
+    {
+      "name": "Pamätný dom J.G.Tajovského",
+      "name_en": "",
+      "city": "Banská Bystrica",
+      "country": "Slovakia",
+      "latitude": 48.746161,
+      "longitude": 19.069098,
+      "website": ""
+    },
+    {
+      "name": "Podjavorinské múzeum",
+      "name_en": "",
+      "city": "Nové Mesto nad Váhom",
+      "country": "Slovakia",
+      "latitude": 48.757753,
+      "longitude": 17.830383,
+      "website": "http://www.muzeumtn.sk/expozicie/podjavorinske-muzeum.html?page_id=305/"
+    },
+    {
+      "name": "Podtatranské múzeum",
+      "name_en": "",
+      "city": "Poprad",
+      "country": "Slovakia",
+      "latitude": 49.053537,
+      "longitude": 20.297239,
+      "website": ""
+    },
+    {
+      "name": "Podtatranské múzeum, pobočka Spišská Sobota",
+      "name_en": "",
+      "city": "Poprad",
+      "country": "Slovakia",
+      "latitude": 49.065529,
+      "longitude": 20.316047,
+      "website": ""
+    },
+    {
+      "name": "Podunajsky remeselny dvor",
+      "name_en": "",
+      "city": "Dunajská Lužná",
+      "country": "Slovakia",
+      "latitude": 48.085993,
+      "longitude": 17.315876,
+      "website": ""
+    },
+    {
+      "name": "Podunajské múzeum v Komárne",
+      "name_en": "",
+      "city": "Komárno",
+      "country": "Slovakia",
+      "latitude": 47.757811,
+      "longitude": 18.127124,
+      "website": ""
+    },
+    {
+      "name": "Podunajské múzeum v Komárne",
+      "name_en": "Danube Region Museum in Komárom",
+      "city": "Komárno",
+      "country": "Slovakia",
+      "latitude": 47.757422,
+      "longitude": 18.128899,
+      "website": ""
+    },
+    {
+      "name": "Podunajské múzeum v Komárne",
+      "name_en": "",
+      "city": "Komárno",
+      "country": "Slovakia",
+      "latitude": 47.75724,
+      "longitude": 18.127434,
+      "website": ""
+    },
+    {
+      "name": "Ponitrianske múzeum",
+      "name_en": "",
+      "city": "Nitra",
+      "country": "Slovakia",
+      "latitude": 48.313252,
+      "longitude": 18.088134,
+      "website": ""
+    },
+    {
+      "name": "Praveká kniežatská mohyla",
+      "name_en": "",
+      "city": "Vrbové",
+      "country": "Slovakia",
+      "latitude": 48.660168,
+      "longitude": 17.758043,
+      "website": ""
+    },
+    {
+      "name": "Radnica",
+      "name_en": "",
+      "city": "Levoča",
+      "country": "Slovakia",
+      "latitude": 49.025899,
+      "longitude": 20.588687,
+      "website": ""
+    },
+    {
+      "name": "Remeselný dom",
+      "name_en": "",
+      "city": "Krompachy",
+      "country": "Slovakia",
+      "latitude": 48.972453,
+      "longitude": 20.952225,
+      "website": ""
+    },
+    {
+      "name": "Rodný dom Boženy Slančíkovej Timravy",
+      "name_en": "",
+      "city": "Detva",
+      "country": "Slovakia",
+      "latitude": 48.405921,
+      "longitude": 19.496744,
+      "website": ""
+    },
+    {
+      "name": "Rodný dom Dr. Vladimíra Clementisa",
+      "name_en": "",
+      "city": "Tisovec",
+      "country": "Slovakia",
+      "latitude": 48.681552,
+      "longitude": 19.941617,
+      "website": ""
+    },
+    {
+      "name": "Rodný dom Jána Jonáša",
+      "name_en": "",
+      "city": "Brezová pod Bradlom",
+      "country": "Slovakia",
+      "latitude": 48.671916,
+      "longitude": 17.458848,
+      "website": ""
+    },
+    {
+      "name": "rodný dom Martina Kukučína",
+      "name_en": "",
+      "city": "Dolný Kubín",
+      "country": "Slovakia",
+      "latitude": 49.176076,
+      "longitude": 19.29511,
+      "website": ""
+    },
+    {
+      "name": "Rušňové depo Rendez",
+      "name_en": "",
+      "city": "Svätý Jur",
+      "country": "Slovakia",
+      "latitude": 48.199232,
+      "longitude": 17.163261,
+      "website": ""
+    },
+    {
+      "name": "Rímske Lapidárium",
+      "name_en": "",
+      "city": "Komárno",
+      "country": "Slovakia",
+      "latitude": 47.777994,
+      "longitude": 18.129716,
+      "website": "http://www.muzeum.sk/?obj=pamiatka&ix=rlap_mmkap"
+    },
+    {
+      "name": "Samuela Timona",
+      "name_en": "",
+      "city": "Trenčín",
+      "country": "Slovakia",
+      "latitude": 48.849911,
+      "longitude": 18.020907,
+      "website": ""
+    },
+    {
+      "name": "Skalné obydlia",
+      "name_en": "",
+      "city": "Levice",
+      "country": "Slovakia",
+      "latitude": 48.214762,
+      "longitude": 18.73756,
+      "website": ""
+    },
+    {
+      "name": "Skanzen Bardejov",
+      "name_en": "",
+      "city": "Bardejov",
+      "country": "Slovakia",
+      "latitude": 49.330414,
+      "longitude": 21.266417,
+      "website": ""
+    },
+    {
+      "name": "Skanzen Pribylina - úzkorozchodná železnička - expozícia",
+      "name_en": "",
+      "city": "Pribylina",
+      "country": "Slovakia",
+      "latitude": 49.113604,
+      "longitude": 19.797213,
+      "website": ""
+    },
+    {
+      "name": "Skautské múzeum Václava Rubeša v Ružomberku",
+      "name_en": "",
+      "city": "Ružomberok",
+      "country": "Slovakia",
+      "latitude": 49.083363,
+      "longitude": 19.297466,
+      "website": "http://www.skauti-ruzomberok.sk/skautske-muzeum.html"
+    },
+    {
+      "name": "Slanický ostrov umenia",
+      "name_en": "",
+      "city": "Námestovo",
+      "country": "Slovakia",
+      "latitude": 49.406925,
+      "longitude": 19.517999,
+      "website": ""
+    },
+    {
+      "name": "Slovanské múzeum A.S.Puškina",
+      "name_en": "",
+      "city": "Partizánske",
+      "country": "Slovakia",
+      "latitude": 48.60833,
+      "longitude": 18.343732,
+      "website": ""
+    },
+    {
+      "name": "Slovenská národná galéria",
+      "name_en": "Slovak National Gallery",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.140175,
+      "longitude": 17.109414,
+      "website": "http://www.sng.sk"
+    },
+    {
+      "name": "Slovenská národná galéria",
+      "name_en": "",
+      "city": "Zvolen",
+      "country": "Slovakia",
+      "latitude": 48.572953,
+      "longitude": 19.12767,
+      "website": ""
+    },
+    {
+      "name": "Slovenské národné múzeum",
+      "name_en": "",
+      "city": "Martin",
+      "country": "Slovakia",
+      "latitude": 49.063909,
+      "longitude": 18.928429,
+      "website": ""
+    },
+    {
+      "name": "Slovenské poľnohospodárske múzeum",
+      "name_en": "",
+      "city": "Nitra",
+      "country": "Slovakia",
+      "latitude": 48.30224,
+      "longitude": 18.114768,
+      "website": ""
+    },
+    {
+      "name": "Slovenské technické múzeum",
+      "name_en": "",
+      "city": "Košice",
+      "country": "Slovakia",
+      "latitude": 48.724207,
+      "longitude": 21.255796,
+      "website": ""
+    },
+    {
+      "name": "SNK - Literárne múzeum",
+      "name_en": "",
+      "city": "Martin",
+      "country": "Slovakia",
+      "latitude": 49.066957,
+      "longitude": 18.92293,
+      "website": "http://www.snk.sk"
+    },
+    {
+      "name": "SODA Gallery",
+      "name_en": "",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.144609,
+      "longitude": 17.101944,
+      "website": "http://www.sodagallery.sk/"
+    },
+    {
+      "name": "Stará hyža",
+      "name_en": "",
+      "city": "Dobšiná",
+      "country": "Slovakia",
+      "latitude": 48.871475,
+      "longitude": 20.338749,
+      "website": ""
+    },
+    {
+      "name": "Stredoslovenské Múzeum",
+      "name_en": "",
+      "city": "Banská Bystrica",
+      "country": "Slovakia",
+      "latitude": 48.735115,
+      "longitude": 19.145595,
+      "website": ""
+    },
+    {
+      "name": "Technické múzeum Košice, Hámor - Medzev",
+      "name_en": "",
+      "city": "Medzev",
+      "country": "Slovakia",
+      "latitude": 48.704632,
+      "longitude": 20.885981,
+      "website": ""
+    },
+    {
+      "name": "Tekovské Múzeum",
+      "name_en": "",
+      "city": "Levice",
+      "country": "Slovakia",
+      "latitude": 48.221389,
+      "longitude": 18.600567,
+      "website": ""
+    },
+    {
+      "name": "Trenčianske múzeum",
+      "name_en": "",
+      "city": "Trenčín",
+      "country": "Slovakia",
+      "latitude": 48.895637,
+      "longitude": 18.043862,
+      "website": ""
+    },
+    {
+      "name": "Trenčianske múzeum - expozícia Čachtice",
+      "name_en": "",
+      "city": "Čachtice",
+      "country": "Slovakia",
+      "latitude": 48.715188,
+      "longitude": 17.78578,
+      "website": ""
+    },
+    {
+      "name": "Tájház",
+      "name_en": "",
+      "city": "Šahy",
+      "country": "Slovakia",
+      "latitude": 48.019682,
+      "longitude": 18.893272,
+      "website": ""
+    },
+    {
+      "name": "Vihorlatské múzeum",
+      "name_en": "",
+      "city": "Humenné",
+      "country": "Slovakia",
+      "latitude": 48.938798,
+      "longitude": 21.907308,
+      "website": ""
+    },
+    {
+      "name": "Vlastivedné múzeum",
+      "name_en": "",
+      "city": "Spišská Nová Ves",
+      "country": "Slovakia",
+      "latitude": 48.94455,
+      "longitude": 20.568488,
+      "website": ""
+    },
+    {
+      "name": "Vlastivedné múzeum",
+      "name_en": "",
+      "city": "Hlohovec",
+      "country": "Slovakia",
+      "latitude": 48.43002,
+      "longitude": 17.804806,
+      "website": ""
+    },
+    {
+      "name": "Vlastivedné múzeum",
+      "name_en": "",
+      "city": "Považská Bystrica",
+      "country": "Slovakia",
+      "latitude": 49.113408,
+      "longitude": 18.445327,
+      "website": ""
+    },
+    {
+      "name": "Vodárenské múzeum",
+      "name_en": "",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.147691,
+      "longitude": 17.062765,
+      "website": "http://www.vodarenskemuzeum.sk/sk/"
+    },
+    {
+      "name": "Vojenská technika 2.sv.vojny",
+      "name_en": "",
+      "city": "Tlmače",
+      "country": "Slovakia",
+      "latitude": 48.248085,
+      "longitude": 18.528958,
+      "website": ""
+    },
+    {
+      "name": "Vojenské historické múzeum",
+      "name_en": "",
+      "city": "Piešťany",
+      "country": "Slovakia",
+      "latitude": 48.607653,
+      "longitude": 17.831677,
+      "website": ""
+    },
+    {
+      "name": "Východoslovenské múzeum Košice",
+      "name_en": "",
+      "city": "Košice",
+      "country": "Slovakia",
+      "latitude": 48.727315,
+      "longitude": 21.254575,
+      "website": ""
+    },
+    {
+      "name": "Včelárska paseka",
+      "name_en": "",
+      "city": "Senec",
+      "country": "Slovakia",
+      "latitude": 48.199245,
+      "longitude": 17.511404,
+      "website": ""
+    },
+    {
+      "name": "Záhorske múzeum",
+      "name_en": "",
+      "city": "Skalica",
+      "country": "Slovakia",
+      "latitude": 48.846272,
+      "longitude": 17.22987,
+      "website": ""
+    },
+    {
+      "name": "úľuv",
+      "name_en": "",
+      "city": "Bratislava",
+      "country": "Slovakia",
+      "latitude": 48.145262,
+      "longitude": 17.111936,
+      "website": ""
+    },
+    {
+      "name": "Človek a život",
+      "name_en": "",
+      "city": "Vranov nad Topľou",
+      "country": "Slovakia",
+      "latitude": 48.89058,
+      "longitude": 21.686484,
+      "website": ""
+    },
+    {
+      "name": "Ľubovnianske múzeum",
+      "name_en": "",
+      "city": "Stará Ľubovňa",
+      "country": "Slovakia",
+      "latitude": 49.316825,
+      "longitude": 20.697801,
+      "website": ""
+    },
+    {
+      "name": "šarišské múzeum",
+      "name_en": "",
+      "city": "Bardejov",
+      "country": "Slovakia",
+      "latitude": 49.292647,
+      "longitude": 21.27632,
+      "website": ""
+    },
+    {
+      "name": "Štátny archív",
+      "name_en": "",
+      "city": "Nitra",
+      "country": "Slovakia",
+      "latitude": 48.239044,
+      "longitude": 18.119135,
+      "website": ""
+    },
+    {
+      "name": "Železničné múzeum OZ Zubačka",
+      "name_en": "",
+      "city": "Tisovec",
+      "country": "Slovakia",
+      "latitude": 48.691172,
+      "longitude": 19.935521,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Múzeá na Slovensku – OpenStreetMap (Museums in Slovakia, OSM) - Bezplatné stiahnutie",
+    "description": "Zoznam 183 múzeí na Slovensku z OpenStreetMap (crowdsourced; odlišný zdroj od datasetu sk-muzea z Wikidát) — názov, mesto, súradnice a web. Obsahuje 183 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Múzeá na Slovensku – OpenStreetMap (Museums in Slovakia, OSM) | ListBase",
+    "seo_description": "Stiahnuť Múzeá na Slovensku – OpenStreetMap (Museums in Slovakia, OSM) — 183 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 183 záznamov / 7 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

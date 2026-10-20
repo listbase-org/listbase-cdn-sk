@@ -1,0 +1,276 @@
+{
+  "id": "sk-pezinok-obce",
+  "name": "Obce v okrese Pezinok",
+  "title": "Obce v okrese Pezinok",
+  "description": "Všetky obce (municipality) v okrese Pezinok, Bratislavský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 331,
+      "fullname": "Budmerice",
+      "shortname": "Budmerice",
+      "zip": "900 86",
+      "district_id": 44,
+      "okres": "Pezinok",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 48,
+      "fullname": "Báhoň",
+      "shortname": "Báhoň",
+      "zip": "900 84",
+      "district_id": 44,
+      "okres": "Pezinok",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 593,
+      "fullname": "Doľany",
+      "shortname": "Doľany",
+      "zip": "900 88",
+      "district_id": 44,
+      "okres": "Pezinok",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 722,
+      "fullname": "Dubová",
+      "shortname": "Dubová",
+      "zip": "900 90",
+      "district_id": 44,
+      "okres": "Pezinok",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 900,
+      "fullname": "Harmónia",
+      "shortname": "Harmónia",
+      "zip": "900 01",
+      "district_id": 44,
+      "okres": "Pezinok",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 1240,
+      "fullname": "Jablonec",
+      "shortname": "Jablonec",
+      "zip": "900 86",
+      "district_id": 44,
+      "okres": "Pezinok",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 1858,
+      "fullname": "Limbach",
+      "shortname": "Limbach",
+      "zip": "900 91",
+      "district_id": 44,
+      "okres": "Pezinok",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2229,
+      "fullname": "Modra",
+      "shortname": "Modra",
+      "zip": "900 01",
+      "district_id": 44,
+      "okres": "Pezinok",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2283,
+      "fullname": "Myslenice",
+      "shortname": "Myslenice",
+      "zip": "902 03",
+      "district_id": 44,
+      "okres": "Pezinok",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2636,
+      "fullname": "Pezinok",
+      "shortname": "Pezinok",
+      "zip": 0,
+      "district_id": 44,
+      "okres": "Pezinok",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2639,
+      "fullname": "Piesok",
+      "shortname": "Piesok",
+      "zip": "900 01",
+      "district_id": 44,
+      "okres": "Pezinok",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 2646,
+      "fullname": "Píla",
+      "shortname": "Píla",
+      "zip": "900 89",
+      "district_id": 44,
+      "okres": "Pezinok",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 3198,
+      "fullname": "Slovenský Grob",
+      "shortname": "Slovenský Grob",
+      "zip": "900 26",
+      "district_id": 44,
+      "okres": "Pezinok",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 3355,
+      "fullname": "Svätý Jur",
+      "shortname": "Svätý Jur",
+      "zip": "900 21",
+      "district_id": 44,
+      "okres": "Pezinok",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 3868,
+      "fullname": "Viničné",
+      "shortname": "Viničné",
+      "zip": "900 23",
+      "district_id": 44,
+      "okres": "Pezinok",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 3873,
+      "fullname": "Vinosady",
+      "shortname": "Vinosady",
+      "zip": "902 01",
+      "district_id": 44,
+      "okres": "Pezinok",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 3884,
+      "fullname": "Vištuk",
+      "shortname": "Vištuk",
+      "zip": "900 85",
+      "district_id": 44,
+      "okres": "Pezinok",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 424,
+      "fullname": "Častá",
+      "shortname": "Častá",
+      "zip": "900 89",
+      "district_id": 44,
+      "okres": "Pezinok",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 475,
+      "fullname": "Červený Kameň",
+      "shortname": "Červený Kameň",
+      "zip": "900 89",
+      "district_id": 44,
+      "okres": "Pezinok",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 3418,
+      "fullname": "Šenkvice",
+      "shortname": "Šenkvice",
+      "zip": "900 81",
+      "district_id": 44,
+      "okres": "Pezinok",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 3451,
+      "fullname": "Štefanová",
+      "shortname": "Štefanová",
+      "zip": "900 86",
+      "district_id": 44,
+      "okres": "Pezinok",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Pezinok - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Pezinok, Bratislavský kraj — s PSČ a kódom okresu. Obsahuje 21 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Pezinok | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Pezinok — 21 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 21 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

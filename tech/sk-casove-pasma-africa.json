@@ -1,0 +1,168 @@
+{
+  "id": "sk-casove-pasma-africa",
+  "name": "Časové pásma — Africa (14)",
+  "title": "Časové pásma — Africa (14)",
+  "description": "Časové pásma, ktorých identifikátor IANA sa začína 'Africa/', s názvami v slovenčine.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "mesto",
+      "label": "Mesto",
+      "type": "string"
+    },
+    {
+      "key": "standardny_nazov",
+      "label": "Standardny Nazov",
+      "type": "string"
+    },
+    {
+      "key": "letny_nazov",
+      "label": "Letny Nazov",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Africa/Accra",
+      "oblast": "Africa",
+      "mesto": "Akkra",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Africa/Addis_Ababa",
+      "oblast": "Africa",
+      "mesto": "Addis Abeba",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Africa/Algiers",
+      "oblast": "Africa",
+      "mesto": "Alžír",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Africa/Asmera",
+      "oblast": "Africa",
+      "mesto": "Asmara",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Africa/Cairo",
+      "oblast": "Africa",
+      "mesto": "Káhira",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Africa/Conakry",
+      "oblast": "Africa",
+      "mesto": "Konakry",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Africa/Djibouti",
+      "oblast": "Africa",
+      "mesto": "Džibuti",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Africa/El_Aaiun",
+      "oblast": "Africa",
+      "mesto": "El-Aaiún",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Africa/Khartoum",
+      "oblast": "Africa",
+      "mesto": "Chartúm",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Africa/Lome",
+      "oblast": "Africa",
+      "mesto": "Lomé",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Africa/Mogadishu",
+      "oblast": "Africa",
+      "mesto": "Mogadišo",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Africa/Ndjamena",
+      "oblast": "Africa",
+      "mesto": "N’Djamena",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Africa/Sao_Tome",
+      "oblast": "Africa",
+      "mesto": "Svätý Tomáš",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Africa/Tripoli",
+      "oblast": "Africa",
+      "mesto": "Tripolis",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    }
+  ],
+  "meta": {
+    "title": "Časové pásma — Africa (14) - Bezplatné stiahnutie",
+    "description": "Časové pásma, ktorých identifikátor IANA sa začína 'Africa/', s názvami v slovenčine. Obsahuje 14 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Časové pásma — Africa (14) | ListBase",
+    "seo_description": "Stiahnuť Časové pásma — Africa (14) — 14 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 14 záznamov / 6 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

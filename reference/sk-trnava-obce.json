@@ -1,0 +1,646 @@
+{
+  "id": "sk-trnava-obce",
+  "name": "Obce v okrese Trnava",
+  "title": "Obce v okrese Trnava",
+  "description": "Všetky obce (municipality) v okrese Trnava, Trnavský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 58,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 154,
+      "fullname": "Biely Kostol",
+      "shortname": "Biely Kostol",
+      "zip": "919 34",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 200,
+      "fullname": "Bohdanovce nad Trnavou",
+      "shortname": "Bohdanovce n/Trnavou",
+      "zip": "919 09",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 203,
+      "fullname": "Bohunice",
+      "shortname": "Bohunice",
+      "zip": "919 30",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 214,
+      "fullname": "Boleráz",
+      "shortname": "Boleráz",
+      "zip": "919 08",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 224,
+      "fullname": "Borová",
+      "shortname": "Borová",
+      "zip": "919 61",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 270,
+      "fullname": "Brestovany",
+      "shortname": "Brestovany",
+      "zip": "919 27",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 337,
+      "fullname": "Buková",
+      "shortname": "Buková",
+      "zip": "919 10",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 317,
+      "fullname": "Bučany",
+      "shortname": "Bučany",
+      "zip": "919 28",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 160,
+      "fullname": "Bíňovce",
+      "shortname": "Bíňovce",
+      "zip": "919 07",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 392,
+      "fullname": "Cífer",
+      "shortname": "Cífer",
+      "zip": "919 43",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 531,
+      "fullname": "Dechtice",
+      "shortname": "Dechtice",
+      "zip": "919 53",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 560,
+      "fullname": "Dlhá",
+      "shortname": "Dlhá",
+      "zip": "919 01",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 578,
+      "fullname": "Dobrá Voda",
+      "shortname": "Dobrá Voda",
+      "zip": "919 54",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 602,
+      "fullname": "Dolná Krupá",
+      "shortname": "Dolná Krupá",
+      "zip": "919 65",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 622,
+      "fullname": "Dolné Dubové",
+      "shortname": "Dolné Dubové",
+      "zip": "919 52",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 632,
+      "fullname": "Dolné Lovčice",
+      "shortname": "Dolné Lovčice",
+      "zip": "919 27",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 637,
+      "fullname": "Dolné Orešany",
+      "shortname": "Dolné Orešany",
+      "zip": "919 02",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 976,
+      "fullname": "Horná Krupá",
+      "shortname": "Horná Krupá",
+      "zip": "919 65",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1000,
+      "fullname": "Horné Dubové",
+      "shortname": "Horné Dubové",
+      "zip": "919 65",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1010,
+      "fullname": "Horné Lovčice",
+      "shortname": "Horné Lovčice",
+      "zip": "919 27",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1016,
+      "fullname": "Horné Orešany",
+      "shortname": "Horné Orešany",
+      "zip": "919 03",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1109,
+      "fullname": "Hrnčiarovce nad Parnou",
+      "shortname": "Hrnčiarovce n/Parnou",
+      "zip": "919 35",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1287,
+      "fullname": "Jarná",
+      "shortname": "Jarná",
+      "zip": "919 43",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1301,
+      "fullname": "Jaslovce",
+      "shortname": "Jaslovce",
+      "zip": "919 30",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1302,
+      "fullname": "Jaslovské Bohunice",
+      "shortname": "Jaslovské Bohunice",
+      "zip": "919 30",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1303,
+      "fullname": "Jaslovské Bohunice-Atómová elektráreň",
+      "shortname": "Jas.Bohunice-At.el.",
+      "zip": "919 31",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1440,
+      "fullname": "Klčovany",
+      "shortname": "Klčovany",
+      "zip": "919 08",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1594,
+      "fullname": "Košolná",
+      "shortname": "Košolná",
+      "zip": "919 01",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1688,
+      "fullname": "Križovany nad Dudváhom",
+      "shortname": "Križovany n/Dudváhom",
+      "zip": "919 24",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1402,
+      "fullname": "Kátlovce",
+      "shortname": "Kátlovce",
+      "zip": "919 55",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1920,
+      "fullname": "Lošonec",
+      "shortname": "Lošonec",
+      "zip": "919 04",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2003,
+      "fullname": "Majcichov",
+      "shortname": "Majcichov",
+      "zip": "919 22",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2106,
+      "fullname": "Malženice",
+      "shortname": "Malženice",
+      "zip": "919 29",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2231,
+      "fullname": "Modranka",
+      "shortname": "Modranka",
+      "zip": "917 05",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2293,
+      "fullname": "Naháč",
+      "shortname": "Naháč",
+      "zip": "919 65",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2510,
+      "fullname": "Opoj",
+      "shortname": "Opoj",
+      "zip": "919 32",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2564,
+      "fullname": "Paderovce",
+      "shortname": "Paderovce",
+      "zip": "919 30",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2600,
+      "fullname": "Pavlice",
+      "shortname": "Pavlice",
+      "zip": "919 42",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2559,
+      "fullname": "Pác",
+      "shortname": "Pác",
+      "zip": "919 43",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2894,
+      "fullname": "Radošovce",
+      "shortname": "Radošovce",
+      "zip": "919 30",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2926,
+      "fullname": "Rasochov",
+      "shortname": "Rasochov",
+      "zip": "919 05",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3052,
+      "fullname": "Ružindol",
+      "shortname": "Ružindol",
+      "zip": "919 61",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3054,
+      "fullname": "Ružová dolina",
+      "shortname": "Ružová dolina",
+      "zip": "919 01",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3189,
+      "fullname": "Slovenská Nová Ves",
+      "shortname": "Slovenská Nová Ves",
+      "zip": "919 42",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3202,
+      "fullname": "Smolenice",
+      "shortname": "Smolenice",
+      "zip": "919 04",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3203,
+      "fullname": "Smolenická Nová Ves",
+      "shortname": "Smolenická Nová Ves",
+      "zip": "919 04",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3335,
+      "fullname": "Suchá nad Parnou",
+      "shortname": "Suchá nad Parnou",
+      "zip": "919 01",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3596,
+      "fullname": "Trnava",
+      "shortname": "Trnava",
+      "zip": 0,
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3619,
+      "fullname": "Trstín",
+      "shortname": "Trstín",
+      "zip": "919 05",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3724,
+      "fullname": "Varov Šúr",
+      "shortname": "Varov Šúr",
+      "zip": "919 25",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3898,
+      "fullname": "Vlčkovce",
+      "shortname": "Vlčkovce",
+      "zip": "919 23",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3910,
+      "fullname": "Voderady",
+      "shortname": "Voderady",
+      "zip": "919 42",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 4082,
+      "fullname": "Zavar",
+      "shortname": "Zavar",
+      "zip": "919 26",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 4104,
+      "fullname": "Zeleneč",
+      "shortname": "Zeleneč",
+      "zip": "919 21",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 4155,
+      "fullname": "Zvončín",
+      "shortname": "Zvončín",
+      "zip": "919 01",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3415,
+      "fullname": "Šelpice",
+      "shortname": "Šelpice",
+      "zip": "919 09",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3443,
+      "fullname": "Špačince",
+      "shortname": "Špačince",
+      "zip": "919 51",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3488,
+      "fullname": "Šúrovce",
+      "shortname": "Šúrovce",
+      "zip": "919 25",
+      "district_id": 70,
+      "okres": "Trnava",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Trnava - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Trnava, Trnavský kraj — s PSČ a kódom okresu. Obsahuje 58 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Trnava | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Trnava — 58 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 58 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "sk-bratislava-v-obce",
+  "name": "Obce v okrese Bratislava V",
+  "title": "Obce v okrese Bratislava V",
+  "description": "Všetky obce (municipality) v okrese Bratislava V, Bratislavský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 247,
+      "fullname": "Bratislava - Jarovce",
+      "shortname": "Jarovce",
+      "zip": "851 10",
+      "district_id": 9,
+      "okres": "Bratislava V",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 251,
+      "fullname": "Bratislava - Petržalka",
+      "shortname": "Petržalka",
+      "zip": 0,
+      "district_id": 9,
+      "okres": "Bratislava V",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 254,
+      "fullname": "Bratislava - Rusovce",
+      "shortname": "Rusovce",
+      "zip": "851 10",
+      "district_id": 9,
+      "okres": "Bratislava V",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    },
+    {
+      "id": 243,
+      "fullname": "Bratislava - Čunovo",
+      "shortname": "Čunovo",
+      "zip": "851 10",
+      "district_id": 9,
+      "okres": "Bratislava V",
+      "region_id": 2,
+      "kraj": "Bratislavský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Bratislava V - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Bratislava V, Bratislavský kraj — s PSČ a kódom okresu. Obsahuje 4 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Bratislava V | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Bratislava V — 4 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 4 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

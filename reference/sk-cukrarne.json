@@ -1,0 +1,626 @@
+{
+  "id": "sk-cukrarne",
+  "name": "Slovenské cukrárne",
+  "title": "Slovenské cukrárne",
+  "description": "Zoznam pomenovaných cukrární na Slovensku (shop=confectionery) z OpenStreetMap.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 117,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "ALiBi",
+      "latitude": 49.139379,
+      "longitude": 20.219672
+    },
+    {
+      "name": "Adria",
+      "latitude": 48.963986,
+      "longitude": 18.117747
+    },
+    {
+      "name": "Andiamo cukráreň",
+      "latitude": 48.718152,
+      "longitude": 21.264103
+    },
+    {
+      "name": "Arkáda",
+      "latitude": 49.209408,
+      "longitude": 19.293633
+    },
+    {
+      "name": "Art Choco - Čokoláda Prešov",
+      "latitude": 48.997734,
+      "longitude": 21.239397
+    },
+    {
+      "name": "Banger",
+      "latitude": 48.229607,
+      "longitude": 17.268798
+    },
+    {
+      "name": "Bon Bon In",
+      "latitude": 49.057463,
+      "longitude": 20.297515
+    },
+    {
+      "name": "CNP",
+      "latitude": 49.438047,
+      "longitude": 18.785433
+    },
+    {
+      "name": "Cake Look",
+      "latitude": 48.994698,
+      "longitude": 21.241171
+    },
+    {
+      "name": "Cakes by Keys",
+      "latitude": 48.991956,
+      "longitude": 21.252693
+    },
+    {
+      "name": "Candy Cat",
+      "latitude": 48.146422,
+      "longitude": 17.128718
+    },
+    {
+      "name": "Candy shop",
+      "latitude": 48.148589,
+      "longitude": 17.11283
+    },
+    {
+      "name": "Cheers KVP",
+      "latitude": 48.713617,
+      "longitude": 21.216103
+    },
+    {
+      "name": "Cloetta Predajňa",
+      "latitude": 48.218949,
+      "longitude": 18.607596
+    },
+    {
+      "name": "Cukrovinky MAJA",
+      "latitude": 49.225107,
+      "longitude": 18.737875
+    },
+    {
+      "name": "Cukrárenská výroba VICTORIA s. r. o.",
+      "latitude": 48.997468,
+      "longitude": 21.246066
+    },
+    {
+      "name": "Cukrárenská výrobňa u Vinca",
+      "latitude": 48.996466,
+      "longitude": 21.242942
+    },
+    {
+      "name": "Cukráreň",
+      "latitude": 48.625668,
+      "longitude": 18.302371
+    },
+    {
+      "name": "Cukráreň",
+      "latitude": 48.995895,
+      "longitude": 18.231292
+    },
+    {
+      "name": "Cukráreň",
+      "latitude": 49.109529,
+      "longitude": 18.455015
+    },
+    {
+      "name": "Cukráreň Alibaba",
+      "latitude": 48.020573,
+      "longitude": 17.968998
+    },
+    {
+      "name": "Cukráreň Billich",
+      "latitude": 48.310375,
+      "longitude": 18.086682
+    },
+    {
+      "name": "Cukráreň Bytčica",
+      "latitude": 49.185335,
+      "longitude": 18.732949
+    },
+    {
+      "name": "Cukráreň Dream Café",
+      "latitude": 49.481946,
+      "longitude": 18.792066
+    },
+    {
+      "name": "Cukráreň Dubrovník",
+      "latitude": 49.136252,
+      "longitude": 20.430495
+    },
+    {
+      "name": "Cukráreň Eva",
+      "latitude": 49.209996,
+      "longitude": 18.735127
+    },
+    {
+      "name": "Cukráreň Fini",
+      "latitude": 47.887827,
+      "longitude": 17.81003
+    },
+    {
+      "name": "Cukráreň Fontána",
+      "latitude": 49.13525,
+      "longitude": 20.43076
+    },
+    {
+      "name": "Cukráreň Fontána",
+      "latitude": 49.437654,
+      "longitude": 18.786533
+    },
+    {
+      "name": "Cukráreň Gerek",
+      "latitude": 49.405795,
+      "longitude": 19.479621
+    },
+    {
+      "name": "Cukráreň KAMA",
+      "latitude": 48.382886,
+      "longitude": 18.394289
+    },
+    {
+      "name": "Cukráreň Kotvička",
+      "latitude": 48.635784,
+      "longitude": 17.154753
+    },
+    {
+      "name": "Cukráreň Kotvička",
+      "latitude": 48.684364,
+      "longitude": 17.364576
+    },
+    {
+      "name": "Cukráreň Kriváň",
+      "latitude": 48.529146,
+      "longitude": 19.445045
+    },
+    {
+      "name": "Cukráreň Pralinka",
+      "latitude": 49.075135,
+      "longitude": 19.65402
+    },
+    {
+      "name": "Cukráreň Praliné",
+      "latitude": 47.759728,
+      "longitude": 18.122663
+    },
+    {
+      "name": "Cukráreň Siesta",
+      "latitude": 48.753153,
+      "longitude": 21.927674
+    },
+    {
+      "name": "Cukráreň Tima",
+      "latitude": 48.189847,
+      "longitude": 17.035419
+    },
+    {
+      "name": "Cukráreň Venezia",
+      "latitude": 48.31189,
+      "longitude": 18.08711
+    },
+    {
+      "name": "Cukráreň Viva",
+      "latitude": 49.437419,
+      "longitude": 18.793114
+    },
+    {
+      "name": "Cukráreň u Maťa",
+      "latitude": 48.179937,
+      "longitude": 17.043801
+    },
+    {
+      "name": "Cukráreň u Megy",
+      "latitude": 48.558554,
+      "longitude": 19.418154
+    },
+    {
+      "name": "Cukrárske potreby Sereď",
+      "latitude": 48.286561,
+      "longitude": 17.736355
+    },
+    {
+      "name": "Cukrászda-Kávézó",
+      "latitude": 47.733171,
+      "longitude": 18.327329
+    },
+    {
+      "name": "DELIKATESO",
+      "latitude": 48.218552,
+      "longitude": 18.606457
+    },
+    {
+      "name": "DELIKATESO",
+      "latitude": 48.588653,
+      "longitude": 17.832646
+    },
+    {
+      "name": "Delikatesso",
+      "latitude": 49.049469,
+      "longitude": 20.290515
+    },
+    {
+      "name": "Deva",
+      "latitude": 48.133438,
+      "longitude": 17.10635
+    },
+    {
+      "name": "Di Napoli",
+      "latitude": 49.109161,
+      "longitude": 18.455265
+    },
+    {
+      "name": "Dolce Vita",
+      "latitude": 48.70644,
+      "longitude": 21.245228
+    },
+    {
+      "name": "Domáca Chuť",
+      "latitude": 49.212432,
+      "longitude": 19.294436
+    },
+    {
+      "name": "Donuteria",
+      "latitude": 48.458691,
+      "longitude": 18.892216
+    },
+    {
+      "name": "Emili",
+      "latitude": 48.771468,
+      "longitude": 18.626154
+    },
+    {
+      "name": "Fajn",
+      "latitude": 48.149,
+      "longitude": 17.870094
+    },
+    {
+      "name": "Family Bakery - mini zákusky",
+      "latitude": 48.166399,
+      "longitude": 17.17266
+    },
+    {
+      "name": "Giraffe Bakery",
+      "latitude": 48.183371,
+      "longitude": 17.132106
+    },
+    {
+      "name": "Iveria",
+      "latitude": 48.756196,
+      "longitude": 21.915074
+    },
+    {
+      "name": "Kamka",
+      "latitude": 49.01142,
+      "longitude": 21.236618
+    },
+    {
+      "name": "Koliba - Ovčí sýr...",
+      "latitude": 48.816559,
+      "longitude": 18.643293
+    },
+    {
+      "name": "Košická cukrárnička",
+      "latitude": 48.732771,
+      "longitude": 21.289506
+    },
+    {
+      "name": "Kúpeľné oblátky",
+      "latitude": 49.329149,
+      "longitude": 21.271339
+    },
+    {
+      "name": "Lahoda",
+      "latitude": 48.729152,
+      "longitude": 21.257949
+    },
+    {
+      "name": "MEGI Svet Pečenia",
+      "latitude": 48.30721,
+      "longitude": 18.085179
+    },
+    {
+      "name": "Macarons",
+      "latitude": 48.716045,
+      "longitude": 21.258187
+    },
+    {
+      "name": "Macarons",
+      "latitude": 48.988646,
+      "longitude": 21.262802
+    },
+    {
+      "name": "Maja cukrovinky",
+      "latitude": 49.211152,
+      "longitude": 18.751971
+    },
+    {
+      "name": "MarLin",
+      "latitude": 48.18872,
+      "longitude": 17.726959
+    },
+    {
+      "name": "Maťove akcie",
+      "latitude": 48.694588,
+      "longitude": 21.239817
+    },
+    {
+      "name": "Maťove akcie",
+      "latitude": 48.759684,
+      "longitude": 17.83093
+    },
+    {
+      "name": "Maťove akcie",
+      "latitude": 48.935608,
+      "longitude": 20.576497
+    },
+    {
+      "name": "Meseta",
+      "latitude": 49.437963,
+      "longitude": 18.782024
+    },
+    {
+      "name": "Miami",
+      "latitude": 49.439682,
+      "longitude": 18.786936
+    },
+    {
+      "name": "Mišák",
+      "latitude": 48.887967,
+      "longitude": 18.032334
+    },
+    {
+      "name": "NUTI",
+      "latitude": 48.132461,
+      "longitude": 17.108206
+    },
+    {
+      "name": "Nelli - kúpeľné oblátky",
+      "latitude": 49.128936,
+      "longitude": 18.372563
+    },
+    {
+      "name": "Nuti",
+      "latitude": 48.988925,
+      "longitude": 21.262629
+    },
+    {
+      "name": "Nuti",
+      "latitude": 48.992575,
+      "longitude": 21.242392
+    },
+    {
+      "name": "Orieškotella",
+      "latitude": 49.022877,
+      "longitude": 21.264792
+    },
+    {
+      "name": "OvoČoko",
+      "latitude": 48.371394,
+      "longitude": 17.584332
+    },
+    {
+      "name": "POHODA",
+      "latitude": 48.933131,
+      "longitude": 20.573807
+    },
+    {
+      "name": "Pasteleria",
+      "latitude": 48.755845,
+      "longitude": 21.919992
+    },
+    {
+      "name": "Pedro",
+      "latitude": 48.146892,
+      "longitude": 17.129898
+    },
+    {
+      "name": "Pedro",
+      "latitude": 48.165955,
+      "longitude": 17.180572
+    },
+    {
+      "name": "Pekáreň Lagúna",
+      "latitude": 48.165698,
+      "longitude": 17.577938
+    },
+    {
+      "name": "Peťkina cukráreň",
+      "latitude": 49.204373,
+      "longitude": 19.299315
+    },
+    {
+      "name": "Pirate Candy",
+      "latitude": 48.142765,
+      "longitude": 17.108922
+    },
+    {
+      "name": "Podniková predajňa Mondelez/Figaro",
+      "latitude": 48.172749,
+      "longitude": 17.127392
+    },
+    {
+      "name": "Potraviny Olinka - zmrzlina",
+      "latitude": 48.998216,
+      "longitude": 20.202049
+    },
+    {
+      "name": "Prasa v cukre",
+      "latitude": 48.983591,
+      "longitude": 21.249512
+    },
+    {
+      "name": "SLANYKARAMEL.SK",
+      "latitude": 48.99727,
+      "longitude": 21.241799
+    },
+    {
+      "name": "SONATÍNA",
+      "latitude": 48.943625,
+      "longitude": 20.571543
+    },
+    {
+      "name": "Shkorica Bakery Prešov",
+      "latitude": 48.99559,
+      "longitude": 21.243337
+    },
+    {
+      "name": "Sion Cakes",
+      "latitude": 48.153498,
+      "longitude": 17.045717
+    },
+    {
+      "name": "Sladkosti pre hostí",
+      "latitude": 48.154523,
+      "longitude": 17.16422
+    },
+    {
+      "name": "Soška.sl",
+      "latitude": 49.301801,
+      "longitude": 20.690046
+    },
+    {
+      "name": "Sušené ovocie",
+      "latitude": 48.158118,
+      "longitude": 17.069491
+    },
+    {
+      "name": "Svet koláčov",
+      "latitude": 48.983666,
+      "longitude": 21.250327
+    },
+    {
+      "name": "Sweet gnome",
+      "latitude": 48.718622,
+      "longitude": 21.259476
+    },
+    {
+      "name": "Sweetbox",
+      "latitude": 48.315037,
+      "longitude": 18.08835
+    },
+    {
+      "name": "Sweetpoint",
+      "latitude": 48.319705,
+      "longitude": 18.092556
+    },
+    {
+      "name": "T-Fornax",
+      "latitude": 48.966815,
+      "longitude": 18.183202
+    },
+    {
+      "name": "Talianska zmrzlina Laura",
+      "latitude": 48.329861,
+      "longitude": 19.657313
+    },
+    {
+      "name": "Tart cake studio",
+      "latitude": 48.792141,
+      "longitude": 19.639737
+    },
+    {
+      "name": "The Candy Store",
+      "latitude": 48.144623,
+      "longitude": 17.101831
+    },
+    {
+      "name": "Tiffany",
+      "latitude": 48.155839,
+      "longitude": 17.130513
+    },
+    {
+      "name": "Tina",
+      "latitude": 48.753931,
+      "longitude": 21.904619
+    },
+    {
+      "name": "Tino",
+      "latitude": 49.101903,
+      "longitude": 21.098983
+    },
+    {
+      "name": "Torta Pont",
+      "latitude": 48.077485,
+      "longitude": 19.286983
+    },
+    {
+      "name": "Viet Market",
+      "latitude": 48.694641,
+      "longitude": 21.239637
+    },
+    {
+      "name": "Viet Market",
+      "latitude": 48.714822,
+      "longitude": 21.238723
+    },
+    {
+      "name": "Viet Market",
+      "latitude": 48.72548,
+      "longitude": 21.25648
+    },
+    {
+      "name": "Včela Lippek",
+      "latitude": 49.083301,
+      "longitude": 19.304266
+    },
+    {
+      "name": "Zmrzlina",
+      "latitude": 49.051391,
+      "longitude": 18.923267
+    },
+    {
+      "name": "cukráreň Orchidea",
+      "latitude": 48.870879,
+      "longitude": 18.634544
+    },
+    {
+      "name": "iCukraren.sk",
+      "latitude": 48.224198,
+      "longitude": 17.23026
+    },
+    {
+      "name": "pâtisserie",
+      "latitude": 48.762318,
+      "longitude": 21.908606
+    },
+    {
+      "name": "ŠEHEREZÁDA",
+      "latitude": 48.945359,
+      "longitude": 20.562099
+    }
+  ],
+  "meta": {
+    "title": "Slovenské cukrárne - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných cukrární na Slovensku (shop=confectionery) z OpenStreetMap. Obsahuje 117 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Slovenské cukrárne | ListBase",
+    "seo_description": "Stiahnuť Slovenské cukrárne — 117 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 117 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

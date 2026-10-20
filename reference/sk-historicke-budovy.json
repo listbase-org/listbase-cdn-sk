@@ -1,0 +1,3321 @@
+{
+  "id": "sk-historicke-budovy",
+  "name": "Historické budovy",
+  "title": "Historické budovy",
+  "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (historic=building). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 656,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Drevenica Gavlovia",
+      "latitude": 49.445453,
+      "longitude": 18.896792
+    },
+    {
+      "name": "Dom lesných robotníkov",
+      "latitude": 49.384733,
+      "longitude": 19.10443
+    },
+    {
+      "name": "Stodola z osady Do potoka",
+      "latitude": 49.383463,
+      "longitude": 19.101309
+    },
+    {
+      "name": "Dom z Riečice u Ponišťov",
+      "latitude": 49.383433,
+      "longitude": 19.102317
+    },
+    {
+      "name": "Obytný dom z Oščadnice",
+      "latitude": 49.383665,
+      "longitude": 19.099346
+    },
+    {
+      "name": "Obytný dom do Rybov",
+      "latitude": 49.383455,
+      "longitude": 19.100275
+    },
+    {
+      "name": "Šuľavov cholvarok",
+      "latitude": 49.384254,
+      "longitude": 19.096932
+    },
+    {
+      "name": "Mlyn a píla z Klubiny",
+      "latitude": 49.384004,
+      "longitude": 19.0979
+    },
+    {
+      "name": "Fara",
+      "latitude": 48.997169,
+      "longitude": 18.235338
+    },
+    {
+      "name": "Škola",
+      "latitude": 48.997446,
+      "longitude": 18.235416
+    },
+    {
+      "name": "Reimova vila",
+      "latitude": 48.956341,
+      "longitude": 18.171271
+    },
+    {
+      "name": "Stará škola",
+      "latitude": 49.165219,
+      "longitude": 18.584923
+    },
+    {
+      "name": "Bývalý židovský starobinec",
+      "latitude": 49.227386,
+      "longitude": 18.738638
+    },
+    {
+      "name": "Maštaľ, dreváreň, stodola",
+      "latitude": 49.184062,
+      "longitude": 19.317807
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 49.183934,
+      "longitude": 19.317608
+    },
+    {
+      "name": "Pivnica",
+      "latitude": 49.184041,
+      "longitude": 19.317467
+    },
+    {
+      "name": "Florinov dom",
+      "latitude": 49.207783,
+      "longitude": 19.294607
+    },
+    {
+      "name": "Pamätná škola",
+      "latitude": 49.175833,
+      "longitude": 19.294074
+    },
+    {
+      "name": "Fara",
+      "latitude": 49.261891,
+      "longitude": 19.358938
+    },
+    {
+      "name": "Renesančná budova",
+      "latitude": 49.261664,
+      "longitude": 19.356409
+    },
+    {
+      "name": "Zemianska kúria",
+      "latitude": 49.260333,
+      "longitude": 19.662982
+    },
+    {
+      "name": "Majer Königseggovcov",
+      "latitude": 49.062571,
+      "longitude": 18.330984
+    },
+    {
+      "name": "Vodný mlyn",
+      "latitude": 49.063225,
+      "longitude": 18.332186
+    },
+    {
+      "name": "Kúria rodiny Vitolay",
+      "latitude": 49.067719,
+      "longitude": 18.648889
+    },
+    {
+      "name": "Štefánikov ústav",
+      "latitude": 49.066704,
+      "longitude": 18.930654
+    },
+    {
+      "name": "Druhá budova Matice slovenskej",
+      "latitude": 49.068612,
+      "longitude": 18.921488
+    },
+    {
+      "name": "Masarykov dom",
+      "latitude": 49.048963,
+      "longitude": 18.88039
+    },
+    {
+      "name": "Rímskokatolícka fara",
+      "latitude": 48.97473,
+      "longitude": 18.79927
+    },
+    {
+      "name": "Prvé slovenské katolícke gymnázium",
+      "latitude": 48.972624,
+      "longitude": 18.805455
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.972945,
+      "longitude": 18.803929
+    },
+    {
+      "name": "Škola",
+      "latitude": 48.974412,
+      "longitude": 18.799319
+    },
+    {
+      "name": "Kláštorné gymnázium",
+      "latitude": 48.974554,
+      "longitude": 18.800391
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.973271,
+      "longitude": 18.802499
+    },
+    {
+      "name": "Majer",
+      "latitude": 48.953233,
+      "longitude": 18.944
+    },
+    {
+      "name": "Evanjelická fara",
+      "latitude": 49.100607,
+      "longitude": 18.991906
+    },
+    {
+      "name": "Rodný dom Juraja Langsfelda",
+      "latitude": 49.102533,
+      "longitude": 18.989673
+    },
+    {
+      "name": "Bývalá železničná stanica Vlašky",
+      "latitude": 49.098425,
+      "longitude": 19.47035
+    },
+    {
+      "name": "Rímskokatolícka fara",
+      "latitude": 49.104848,
+      "longitude": 19.48815
+    },
+    {
+      "name": "Klonkovský dom",
+      "latitude": 49.067308,
+      "longitude": 19.436561
+    },
+    {
+      "name": "Banícky dom",
+      "latitude": 49.067712,
+      "longitude": 19.435847
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 49.066696,
+      "longitude": 19.43524
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 49.067316,
+      "longitude": 19.437187
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 49.064876,
+      "longitude": 19.437196
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 49.065604,
+      "longitude": 19.437257
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 49.084192,
+      "longitude": 19.591785
+    },
+    {
+      "name": "Vila Emila Stodolu",
+      "latitude": 49.086893,
+      "longitude": 19.611106
+    },
+    {
+      "name": "Reduta",
+      "latitude": 49.081647,
+      "longitude": 19.615886
+    },
+    {
+      "name": "Katolícky dom",
+      "latitude": 49.082725,
+      "longitude": 19.612282
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 49.045393,
+      "longitude": 19.67725
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 49.046105,
+      "longitude": 19.677177
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 49.047764,
+      "longitude": 19.678211
+    },
+    {
+      "name": "Evanjelická fara",
+      "latitude": 49.048564,
+      "longitude": 19.678892
+    },
+    {
+      "name": "Maštaľ",
+      "latitude": 49.048801,
+      "longitude": 19.679894
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 49.045248,
+      "longitude": 19.67722
+    },
+    {
+      "name": "Stodola",
+      "latitude": 49.048582,
+      "longitude": 19.679748
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 49.047174,
+      "longitude": 19.677059
+    },
+    {
+      "name": "Škap (III. horáreň)",
+      "latitude": 48.922867,
+      "longitude": 19.037957
+    },
+    {
+      "name": "stará škola",
+      "latitude": 48.95348,
+      "longitude": 19.391883
+    },
+    {
+      "name": "Vila A. Žuffu",
+      "latitude": 48.953378,
+      "longitude": 19.391336
+    },
+    {
+      "name": "Vila Holubica",
+      "latitude": 48.954354,
+      "longitude": 19.39369
+    },
+    {
+      "name": "Vila Partizán",
+      "latitude": 48.953136,
+      "longitude": 19.391892
+    },
+    {
+      "name": "Vila Anula",
+      "latitude": 48.953285,
+      "longitude": 19.392546
+    },
+    {
+      "name": "Vila Nezábudka",
+      "latitude": 48.953285,
+      "longitude": 19.394223
+    },
+    {
+      "name": "Jedáleň",
+      "latitude": 48.953786,
+      "longitude": 19.392814
+    },
+    {
+      "name": "Hviezdoslav",
+      "latitude": 48.953526,
+      "longitude": 19.393185
+    },
+    {
+      "name": "Vila Encián",
+      "latitude": 48.95322,
+      "longitude": 19.392703
+    },
+    {
+      "name": "Jánošík",
+      "latitude": 48.95448,
+      "longitude": 19.394316
+    },
+    {
+      "name": "Zelený dom",
+      "latitude": 48.954076,
+      "longitude": 19.393895
+    },
+    {
+      "name": "Rudolf",
+      "latitude": 48.953173,
+      "longitude": 19.393735
+    },
+    {
+      "name": "Dom Ruppeldtovcov",
+      "latitude": 48.943842,
+      "longitude": 19.427549
+    },
+    {
+      "name": "Vojenské klimatické kúpele",
+      "latitude": 49.176214,
+      "longitude": 20.292673
+    },
+    {
+      "name": "Vila Alpinka",
+      "latitude": 49.166549,
+      "longitude": 20.276763
+    },
+    {
+      "name": "Stále zdravie",
+      "latitude": 49.167369,
+      "longitude": 20.276406
+    },
+    {
+      "name": "Bývalá stanica Tatranská Lomnica",
+      "latitude": 49.169822,
+      "longitude": 20.281999
+    },
+    {
+      "name": "Zotavovňa J. Jesenského",
+      "latitude": 49.16831,
+      "longitude": 20.276883
+    },
+    {
+      "name": "Vila Széchényi",
+      "latitude": 49.164873,
+      "longitude": 20.285717
+    },
+    {
+      "name": "Hotel Morava",
+      "latitude": 49.166758,
+      "longitude": 20.273756
+    },
+    {
+      "name": "Kúpeľný dom",
+      "latitude": 49.167395,
+      "longitude": 20.280809
+    },
+    {
+      "name": "Rímskokatolícka fara",
+      "latitude": 49.281017,
+      "longitude": 20.576806
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 49.271692,
+      "longitude": 20.776586
+    },
+    {
+      "name": "Katolícka fara",
+      "latitude": 49.25838,
+      "longitude": 20.534734
+    },
+    {
+      "name": "Vila Iskra",
+      "latitude": 49.135281,
+      "longitude": 20.209349
+    },
+    {
+      "name": "Poľovnícky kaštielik",
+      "latitude": 49.116197,
+      "longitude": 20.125197
+    },
+    {
+      "name": "Villa Mariana",
+      "latitude": 49.122614,
+      "longitude": 20.185106
+    },
+    {
+      "name": "Limba",
+      "latitude": 49.12309,
+      "longitude": 20.184337
+    },
+    {
+      "name": "Vila Alica",
+      "latitude": 49.140347,
+      "longitude": 20.222744
+    },
+    {
+      "name": "Vila Flóra",
+      "latitude": 49.14118,
+      "longitude": 20.223856
+    },
+    {
+      "name": "Hotel Európa",
+      "latitude": 49.137951,
+      "longitude": 20.218998
+    },
+    {
+      "name": "Villa Klotilda",
+      "latitude": 49.141911,
+      "longitude": 20.219015
+    },
+    {
+      "name": "Vila Kalinčiak",
+      "latitude": 49.132854,
+      "longitude": 20.24124
+    },
+    {
+      "name": "Staré divadlo",
+      "latitude": 49.141917,
+      "longitude": 20.222533
+    },
+    {
+      "name": "Vila Ilona",
+      "latitude": 49.141651,
+      "longitude": 20.221167
+    },
+    {
+      "name": "Vila Hollý",
+      "latitude": 49.133209,
+      "longitude": 20.240804
+    },
+    {
+      "name": "Vila Šafárik",
+      "latitude": 49.134161,
+      "longitude": 20.240739
+    },
+    {
+      "name": "Vila Mudroň",
+      "latitude": 49.133848,
+      "longitude": 20.241356
+    },
+    {
+      "name": "Hospodárska budova",
+      "latitude": 49.075084,
+      "longitude": 20.18671
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 49.074824,
+      "longitude": 20.18768
+    },
+    {
+      "name": "Štróblova vila",
+      "latitude": 49.028708,
+      "longitude": 19.786468
+    },
+    {
+      "name": "Banícky dom",
+      "latitude": 48.94721,
+      "longitude": 19.76791
+    },
+    {
+      "name": "Hotel Hviezdoslav",
+      "latitude": 49.137389,
+      "longitude": 20.431241
+    },
+    {
+      "name": "Vodná elektráreň",
+      "latitude": 49.125684,
+      "longitude": 20.405341
+    },
+    {
+      "name": "Fara",
+      "latitude": 49.121565,
+      "longitude": 20.452004
+    },
+    {
+      "name": "Šteľbaská drevenica",
+      "latitude": 49.147446,
+      "longitude": 20.789869
+    },
+    {
+      "name": "Sabinovské kúpele",
+      "latitude": 49.103754,
+      "longitude": 21.081564
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 49.08086,
+      "longitude": 21.081801
+    },
+    {
+      "name": "Historická radnica",
+      "latitude": 49.025846,
+      "longitude": 20.588704
+    },
+    {
+      "name": "Waaghaus",
+      "latitude": 49.026853,
+      "longitude": 20.589447
+    },
+    {
+      "name": "Spillenbergov dom",
+      "latitude": 49.025921,
+      "longitude": 20.587726
+    },
+    {
+      "name": "Mariássyho palác",
+      "latitude": 49.025717,
+      "longitude": 20.587608
+    },
+    {
+      "name": "Okolicsányi-Zsedényiho palác",
+      "latitude": 49.026135,
+      "longitude": 20.587865
+    },
+    {
+      "name": "Starý Levočský Pivovar",
+      "latitude": 49.025425,
+      "longitude": 20.590612
+    },
+    {
+      "name": "Koniareň a sýpka",
+      "latitude": 48.999675,
+      "longitude": 20.64077
+    },
+    {
+      "name": "Krajčírska dielňa",
+      "latitude": 49.000065,
+      "longitude": 20.64068
+    },
+    {
+      "name": "Podšopa pre koče a vozy",
+      "latitude": 48.999404,
+      "longitude": 20.640989
+    },
+    {
+      "name": "Cela II",
+      "latitude": 48.944879,
+      "longitude": 20.421981
+    },
+    {
+      "name": "Cela V",
+      "latitude": 48.945163,
+      "longitude": 20.421462
+    },
+    {
+      "name": "Cela VIII",
+      "latitude": 48.944858,
+      "longitude": 20.421258
+    },
+    {
+      "name": "Priorov dom",
+      "latitude": 48.944528,
+      "longitude": 20.421881
+    },
+    {
+      "name": "Cela I",
+      "latitude": 48.944739,
+      "longitude": 20.421999
+    },
+    {
+      "name": "Mlyn s funkčným zariadením",
+      "latitude": 49.004634,
+      "longitude": 20.756035
+    },
+    {
+      "name": "Stará fara",
+      "latitude": 49.00146,
+      "longitude": 20.751175
+    },
+    {
+      "name": "Vila Yveta",
+      "latitude": 49.332455,
+      "longitude": 21.265837
+    },
+    {
+      "name": "Vila Diana",
+      "latitude": 49.331894,
+      "longitude": 21.267743
+    },
+    {
+      "name": "Vila Carola",
+      "latitude": 49.332436,
+      "longitude": 21.266749
+    },
+    {
+      "name": "Kúpeľný dom Alžbeta",
+      "latitude": 49.33122,
+      "longitude": 21.26799
+    },
+    {
+      "name": "Vila Ladislav",
+      "latitude": 49.329807,
+      "longitude": 21.268244
+    },
+    {
+      "name": "Vila Anna",
+      "latitude": 49.331133,
+      "longitude": 21.264748
+    },
+    {
+      "name": "Vila Zelem",
+      "latitude": 49.329941,
+      "longitude": 21.267965
+    },
+    {
+      "name": "Vila Karpatia",
+      "latitude": 49.330238,
+      "longitude": 21.267495
+    },
+    {
+      "name": "Vila Zora",
+      "latitude": 49.331287,
+      "longitude": 21.262614
+    },
+    {
+      "name": "Vila Rákóczi",
+      "latitude": 49.330334,
+      "longitude": 21.267192
+    },
+    {
+      "name": "Vila Lehner, František",
+      "latitude": 49.328491,
+      "longitude": 21.270168
+    },
+    {
+      "name": "Tahy dvor",
+      "latitude": 49.329546,
+      "longitude": 21.270556
+    },
+    {
+      "name": "Vila Károly",
+      "latitude": 49.330573,
+      "longitude": 21.2702
+    },
+    {
+      "name": "Vila Orol",
+      "latitude": 49.327689,
+      "longitude": 21.270756
+    },
+    {
+      "name": "Vila Blumenfeld, Prameň",
+      "latitude": 49.328255,
+      "longitude": 21.270524
+    },
+    {
+      "name": "Vila Légia",
+      "latitude": 49.328598,
+      "longitude": 21.269957
+    },
+    {
+      "name": "Vila Jana",
+      "latitude": 49.328626,
+      "longitude": 21.269532
+    },
+    {
+      "name": "Mikve",
+      "latitude": 49.294044,
+      "longitude": 21.268454
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 49.350367,
+      "longitude": 21.663685
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 49.350484,
+      "longitude": 21.663438
+    },
+    {
+      "name": "Piaristické lýceum",
+      "latitude": 49.102981,
+      "longitude": 21.095966
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.071601,
+      "longitude": 21.137069
+    },
+    {
+      "name": "Kúria",
+      "latitude": 49.040012,
+      "longitude": 21.190164
+    },
+    {
+      "name": "Rímskokatolícka fara",
+      "latitude": 49.038755,
+      "longitude": 21.193868
+    },
+    {
+      "name": "Stará fara",
+      "latitude": 49.06476,
+      "longitude": 21.32925
+    },
+    {
+      "name": "Stará mestská vodáreň",
+      "latitude": 49.013975,
+      "longitude": 21.257382
+    },
+    {
+      "name": "Altánok nad žriedlom",
+      "latitude": 48.982876,
+      "longitude": 21.174592
+    },
+    {
+      "name": "Dom Thália",
+      "latitude": 48.982664,
+      "longitude": 21.173889
+    },
+    {
+      "name": "Obradná sieň Židovskej náboženskej obce",
+      "latitude": 49.001204,
+      "longitude": 21.248189
+    },
+    {
+      "name": "Budova veliteľská I.",
+      "latitude": 48.993793,
+      "longitude": 21.249804
+    },
+    {
+      "name": "Secesný dom Moyzesova 48",
+      "latitude": 48.998905,
+      "longitude": 21.247106
+    },
+    {
+      "name": "Nájomný dom",
+      "latitude": 48.999224,
+      "longitude": 21.246376
+    },
+    {
+      "name": "Budova dozorného útvaru",
+      "latitude": 48.993279,
+      "longitude": 21.250182
+    },
+    {
+      "name": "Budova veliteľská II.",
+      "latitude": 48.992874,
+      "longitude": 21.250472
+    },
+    {
+      "name": "Secesná vila",
+      "latitude": 48.998151,
+      "longitude": 21.245565
+    },
+    {
+      "name": "Historická ľudová hvezdáreň",
+      "latitude": 48.99883,
+      "longitude": 21.255825
+    },
+    {
+      "name": "Kráľovský štátny učiteľský ústav",
+      "latitude": 48.997626,
+      "longitude": 21.243707
+    },
+    {
+      "name": "Stará mestská škola",
+      "latitude": 48.998447,
+      "longitude": 21.23952
+    },
+    {
+      "name": "Mestská tržnica - Krámiky",
+      "latitude": 48.99721,
+      "longitude": 21.241634
+    },
+    {
+      "name": "Župný dom, budova administratívna",
+      "latitude": 48.998686,
+      "longitude": 21.242575
+    },
+    {
+      "name": "Olympia",
+      "latitude": 48.995812,
+      "longitude": 21.243241
+    },
+    {
+      "name": "U Spasiteľa",
+      "latitude": 49.000696,
+      "longitude": 21.239459
+    },
+    {
+      "name": "Meštiansky dom - Hlavná 14",
+      "latitude": 48.994475,
+      "longitude": 21.243453
+    },
+    {
+      "name": "Dom Krištofa Kerna",
+      "latitude": 48.998064,
+      "longitude": 21.24083
+    },
+    {
+      "name": "U Zlatého orla",
+      "latitude": 48.996945,
+      "longitude": 21.241816
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.999152,
+      "longitude": 21.240189
+    },
+    {
+      "name": "Evanjelická fara",
+      "latitude": 48.995736,
+      "longitude": 21.244823
+    },
+    {
+      "name": "Baťov dom",
+      "latitude": 48.9967,
+      "longitude": 21.241839
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.995435,
+      "longitude": 21.243184
+    },
+    {
+      "name": "Ústav Sancta Maria",
+      "latitude": 48.998113,
+      "longitude": 21.244136
+    },
+    {
+      "name": "Dom Juraja Wernhera",
+      "latitude": 48.997881,
+      "longitude": 21.240957
+    },
+    {
+      "name": "Gréckokatolícka fara",
+      "latitude": 48.994252,
+      "longitude": 21.243659
+    },
+    {
+      "name": "Savoy",
+      "latitude": 48.99654,
+      "longitude": 21.24198
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.994725,
+      "longitude": 21.243354
+    },
+    {
+      "name": "Alumneum",
+      "latitude": 48.997019,
+      "longitude": 21.24569
+    },
+    {
+      "name": "Dom Jána Ladislava Kalinu (Ladislava Schwarza)",
+      "latitude": 48.999211,
+      "longitude": 21.242096
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.998002,
+      "longitude": 21.242029
+    },
+    {
+      "name": "Profesorský dom",
+      "latitude": 48.994203,
+      "longitude": 21.245818
+    },
+    {
+      "name": "Historická budova DJZ",
+      "latitude": 48.99628,
+      "longitude": 21.242123
+    },
+    {
+      "name": "Univerzitné pastoračné centrum Dr. Štefana Héseka",
+      "latitude": 48.997864,
+      "longitude": 21.241578
+    },
+    {
+      "name": "Kecérov dom",
+      "latitude": 48.996218,
+      "longitude": 21.24214
+    },
+    {
+      "name": "Meštiansky dom - Hlavná 72",
+      "latitude": 48.997409,
+      "longitude": 21.241388
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.998714,
+      "longitude": 21.242138
+    },
+    {
+      "name": "Historický liehovar",
+      "latitude": 48.993224,
+      "longitude": 21.233749
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.995298,
+      "longitude": 21.241932
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.998654,
+      "longitude": 21.238715
+    },
+    {
+      "name": "Korčuliarsky pavilón",
+      "latitude": 48.996845,
+      "longitude": 21.23679
+    },
+    {
+      "name": "Teologický domov",
+      "latitude": 48.996097,
+      "longitude": 21.238962
+    },
+    {
+      "name": "Carraffova väznica",
+      "latitude": 48.997014,
+      "longitude": 21.238949
+    },
+    {
+      "name": "Klasicistický dom",
+      "latitude": 48.997181,
+      "longitude": 21.238205
+    },
+    {
+      "name": "Kumšt",
+      "latitude": 49.0006,
+      "longitude": 21.238512
+    },
+    {
+      "name": "Dubayov dom",
+      "latitude": 48.996272,
+      "longitude": 21.236641
+    },
+    {
+      "name": "Kóšer bitúnok",
+      "latitude": 48.999531,
+      "longitude": 21.237045
+    },
+    {
+      "name": "Bet hamidraš",
+      "latitude": 48.995372,
+      "longitude": 21.240084
+    },
+    {
+      "name": "Dom správcu a šochetňa",
+      "latitude": 49.000175,
+      "longitude": 21.238112
+    },
+    {
+      "name": "Meštiansky dom - Hlavná 17",
+      "latitude": 48.994982,
+      "longitude": 21.242282
+    },
+    {
+      "name": "Hotel Senátor",
+      "latitude": 48.996929,
+      "longitude": 21.239966
+    },
+    {
+      "name": "Nové evanjelické kolégium",
+      "latitude": 48.992435,
+      "longitude": 21.244041
+    },
+    {
+      "name": "Dom rodiny Holländerovcov",
+      "latitude": 48.99651,
+      "longitude": 21.240461
+    },
+    {
+      "name": "Rímskokatolícka fara",
+      "latitude": 48.997944,
+      "longitude": 21.23901
+    },
+    {
+      "name": "Dom bytový, nájomný",
+      "latitude": 48.996781,
+      "longitude": 21.238617
+    },
+    {
+      "name": "Slavia",
+      "latitude": 48.998129,
+      "longitude": 21.238947
+    },
+    {
+      "name": "Dom Arpáda Kóscha",
+      "latitude": 48.994719,
+      "longitude": 21.235878
+    },
+    {
+      "name": "Rodný dom Jakuba Bogdaniho",
+      "latitude": 48.994314,
+      "longitude": 21.242723
+    },
+    {
+      "name": "Štátna vedecká knižnica",
+      "latitude": 48.998635,
+      "longitude": 21.238187
+    },
+    {
+      "name": "Židovská maďarská škola Talmud Tóra",
+      "latitude": 49.000286,
+      "longitude": 21.237675
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.996709,
+      "longitude": 21.238492
+    },
+    {
+      "name": "Bankový palác",
+      "latitude": 48.999807,
+      "longitude": 21.238904
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.997429,
+      "longitude": 21.23945
+    },
+    {
+      "name": "Historická mestská elektráreň",
+      "latitude": 49.000919,
+      "longitude": 21.238102
+    },
+    {
+      "name": "Meštiansky dom, radový",
+      "latitude": 48.996481,
+      "longitude": 21.23872
+    },
+    {
+      "name": "Dom meštiansky, nárožný",
+      "latitude": 48.997049,
+      "longitude": 21.238331
+    },
+    {
+      "name": "Renesančný dom",
+      "latitude": 48.997032,
+      "longitude": 21.239903
+    },
+    {
+      "name": "\"Páví dom\", secesná vila",
+      "latitude": 48.991246,
+      "longitude": 21.239634
+    },
+    {
+      "name": "Mýtny dom",
+      "latitude": 49.007708,
+      "longitude": 21.237515
+    },
+    {
+      "name": "Dom rodiny Bohrandtovcov a Halbschovcov",
+      "latitude": 48.989798,
+      "longitude": 21.224804
+    },
+    {
+      "name": "Historický podzemný vodojem na Kalvárii",
+      "latitude": 48.98994,
+      "longitude": 21.222594
+    },
+    {
+      "name": "Rodný dom Jána Adama Raymana",
+      "latitude": 48.997812,
+      "longitude": 21.2392
+    },
+    {
+      "name": "Astronomická kupola A. Duchoňa",
+      "latitude": 48.995803,
+      "longitude": 21.243134
+    },
+    {
+      "name": "Prešovská pravoslávna eparchia v Prešove",
+      "latitude": 48.988696,
+      "longitude": 21.242355
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.981533,
+      "longitude": 21.278422
+    },
+    {
+      "name": "Kúria - dom vyššieho úradníka",
+      "latitude": 48.981357,
+      "longitude": 21.278295
+    },
+    {
+      "name": "Meštiansky dom - Soľnobanská 21",
+      "latitude": 48.981111,
+      "longitude": 21.277829
+    },
+    {
+      "name": "Dom úradníka huty",
+      "latitude": 48.981085,
+      "longitude": 21.277402
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.980956,
+      "longitude": 21.278164
+    },
+    {
+      "name": "Mlynica",
+      "latitude": 48.95763,
+      "longitude": 21.23846
+    },
+    {
+      "name": "Nový solivar, úpravňa soľanky",
+      "latitude": 48.977831,
+      "longitude": 21.252078
+    },
+    {
+      "name": "Nový solivar, sklady",
+      "latitude": 48.978248,
+      "longitude": 21.252448
+    },
+    {
+      "name": "Nový solivar, výrobňa čistej soli",
+      "latitude": 48.978189,
+      "longitude": 21.251997
+    },
+    {
+      "name": "Nový solivar, baliareň",
+      "latitude": 48.978015,
+      "longitude": 21.252199
+    },
+    {
+      "name": "Nový Solivar, budova administratívna",
+      "latitude": 48.978203,
+      "longitude": 21.252183
+    },
+    {
+      "name": "Nový solivar, varňa",
+      "latitude": 48.977953,
+      "longitude": 21.251951
+    },
+    {
+      "name": "Solivarská fara",
+      "latitude": 48.978497,
+      "longitude": 21.268806
+    },
+    {
+      "name": "Fritzov dom",
+      "latitude": 48.979227,
+      "longitude": 21.260259
+    },
+    {
+      "name": "Administratívna budova",
+      "latitude": 48.979872,
+      "longitude": 21.274904
+    },
+    {
+      "name": "Banícky dom",
+      "latitude": 48.977764,
+      "longitude": 21.2793
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.977846,
+      "longitude": 21.279105
+    },
+    {
+      "name": "Remeselnícky dom",
+      "latitude": 48.980152,
+      "longitude": 21.275428
+    },
+    {
+      "name": "Solitér",
+      "latitude": 48.978296,
+      "longitude": 21.279078
+    },
+    {
+      "name": "Bývalý solivarský soľný závod",
+      "latitude": 48.980083,
+      "longitude": 21.275182
+    },
+    {
+      "name": "Sušiareň liečivých rastlín",
+      "latitude": 49.0288,
+      "longitude": 21.505348
+    },
+    {
+      "name": "Dom správcu kaštieľa",
+      "latitude": 49.026675,
+      "longitude": 21.500538
+    },
+    {
+      "name": "Starý liehovar",
+      "latitude": 48.928504,
+      "longitude": 21.918018
+    },
+    {
+      "name": "Pozostatok z pánskeho Majeru",
+      "latitude": 48.960211,
+      "longitude": 22.058143
+    },
+    {
+      "name": "Historický Sypanec",
+      "latitude": 48.96099,
+      "longitude": 22.062641
+    },
+    {
+      "name": "Stará ľudová budova",
+      "latitude": 48.964003,
+      "longitude": 22.064252
+    },
+    {
+      "name": "Vysoká pec",
+      "latitude": 48.949003,
+      "longitude": 22.154669
+    },
+    {
+      "name": "Ledovňa",
+      "latitude": 48.849185,
+      "longitude": 17.225512
+    },
+    {
+      "name": "Liehovar",
+      "latitude": 48.812329,
+      "longitude": 17.156681
+    },
+    {
+      "name": "Koniareň",
+      "latitude": 48.808586,
+      "longitude": 17.158164
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.807444,
+      "longitude": 17.162701
+    },
+    {
+      "name": "Tabačiareň",
+      "latitude": 48.809368,
+      "longitude": 17.157808
+    },
+    {
+      "name": "Karmelitská stodola",
+      "latitude": 48.851919,
+      "longitude": 17.228047
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.846812,
+      "longitude": 17.230866
+    },
+    {
+      "name": "Štíbor",
+      "latitude": 48.847088,
+      "longitude": 17.231843
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 48.80089,
+      "longitude": 17.16793
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 48.709451,
+      "longitude": 17.119824
+    },
+    {
+      "name": "Štábna budova",
+      "latitude": 48.717176,
+      "longitude": 17.11944
+    },
+    {
+      "name": "Kúpeľný dom",
+      "latitude": 48.720543,
+      "longitude": 17.303817
+    },
+    {
+      "name": "Habánská stodola",
+      "latitude": 48.733362,
+      "longitude": 17.404856
+    },
+    {
+      "name": "Habánska radnica",
+      "latitude": 48.733165,
+      "longitude": 17.403888
+    },
+    {
+      "name": "Kľúčiareň",
+      "latitude": 48.732845,
+      "longitude": 17.403434
+    },
+    {
+      "name": "Evanjelická fara",
+      "latitude": 48.852167,
+      "longitude": 17.922937
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.900821,
+      "longitude": 18.006211
+    },
+    {
+      "name": "Stará staničná budova",
+      "latitude": 48.896284,
+      "longitude": 18.04884
+    },
+    {
+      "name": "Bývalé sídlo Trenčianskej župy",
+      "latitude": 48.89498,
+      "longitude": 18.042279
+    },
+    {
+      "name": "Ringwaldov dom",
+      "latitude": 48.8963,
+      "longitude": 18.043939
+    },
+    {
+      "name": "Petrovičov dom",
+      "latitude": 48.896282,
+      "longitude": 18.043691
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.89535,
+      "longitude": 18.043373
+    },
+    {
+      "name": "Ilešháziovský dom",
+      "latitude": 48.89438,
+      "longitude": 18.040095
+    },
+    {
+      "name": "Mlyn na pušný prach",
+      "latitude": 48.895763,
+      "longitude": 18.045156
+    },
+    {
+      "name": "Barborin palác a Lapidárium",
+      "latitude": 48.894227,
+      "longitude": 18.044982
+    },
+    {
+      "name": "4. brána",
+      "latitude": 48.893951,
+      "longitude": 18.045149
+    },
+    {
+      "name": "Gotická kaplnka",
+      "latitude": 48.895693,
+      "longitude": 18.045228
+    },
+    {
+      "name": "Ľudovítov palác",
+      "latitude": 48.894298,
+      "longitude": 18.044637
+    },
+    {
+      "name": "Zápoľského palác",
+      "latitude": 48.894108,
+      "longitude": 18.044433
+    },
+    {
+      "name": "Rotunda",
+      "latitude": 48.894129,
+      "longitude": 18.044923
+    },
+    {
+      "name": "Kasáreň",
+      "latitude": 48.894772,
+      "longitude": 18.044539
+    },
+    {
+      "name": "Bývalý župný dom",
+      "latitude": 48.895577,
+      "longitude": 18.043938
+    },
+    {
+      "name": "Pánska kaplnka",
+      "latitude": 48.894203,
+      "longitude": 18.044558
+    },
+    {
+      "name": "Bočekov internát",
+      "latitude": 48.893763,
+      "longitude": 18.035202
+    },
+    {
+      "name": "Sedliacky dom",
+      "latitude": 48.892068,
+      "longitude": 17.96025
+    },
+    {
+      "name": "Fara",
+      "latitude": 48.893546,
+      "longitude": 18.042127
+    },
+    {
+      "name": "Zorka",
+      "latitude": 48.910153,
+      "longitude": 18.167866
+    },
+    {
+      "name": "Liečebný dom Machnáč",
+      "latitude": 48.90786,
+      "longitude": 18.173545
+    },
+    {
+      "name": "Vodná elektráreň",
+      "latitude": 48.907252,
+      "longitude": 18.174331
+    },
+    {
+      "name": "Luxor",
+      "latitude": 48.910003,
+      "longitude": 18.172214
+    },
+    {
+      "name": "Vila Reim",
+      "latitude": 48.909985,
+      "longitude": 18.168752
+    },
+    {
+      "name": "Lipa",
+      "latitude": 48.908703,
+      "longitude": 18.17715
+    },
+    {
+      "name": "Vila Krista",
+      "latitude": 48.90969,
+      "longitude": 18.168603
+    },
+    {
+      "name": "Vila Tereza",
+      "latitude": 48.908052,
+      "longitude": 18.181243
+    },
+    {
+      "name": "Kúpeľný dom Sina",
+      "latitude": 48.909334,
+      "longitude": 18.172582
+    },
+    {
+      "name": "Villa Katarína",
+      "latitude": 48.910944,
+      "longitude": 18.169683
+    },
+    {
+      "name": "Salvator",
+      "latitude": 48.908337,
+      "longitude": 18.177524
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 48.908248,
+      "longitude": 18.172809
+    },
+    {
+      "name": "Hammam",
+      "latitude": 48.909096,
+      "longitude": 18.172837
+    },
+    {
+      "name": "Skleník",
+      "latitude": 48.849797,
+      "longitude": 17.933759
+    },
+    {
+      "name": "Stará škola",
+      "latitude": 48.843242,
+      "longitude": 18.240894
+    },
+    {
+      "name": "Altusovec",
+      "latitude": 48.790783,
+      "longitude": 17.897066
+    },
+    {
+      "name": "Rímskokatolícka fara",
+      "latitude": 48.788593,
+      "longitude": 17.898435
+    },
+    {
+      "name": "Rodný dom Jozefa Miloslava Hurbana",
+      "latitude": 48.786386,
+      "longitude": 17.898207
+    },
+    {
+      "name": "Rodný dom Dionýza Štúra",
+      "latitude": 48.785874,
+      "longitude": 17.899083
+    },
+    {
+      "name": "Prepoštský palác",
+      "latitude": 48.756649,
+      "longitude": 17.832768
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.713387,
+      "longitude": 17.785811
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.713845,
+      "longitude": 17.785734
+    },
+    {
+      "name": "Kartúnka",
+      "latitude": 48.637684,
+      "longitude": 17.138504
+    },
+    {
+      "name": "Rodný dom Martina Kollára",
+      "latitude": 48.653959,
+      "longitude": 17.091098
+    },
+    {
+      "name": "Rodný dom Jána Jonáša",
+      "latitude": 48.671903,
+      "longitude": 17.458762
+    },
+    {
+      "name": "Národný dom Štefánikov",
+      "latitude": 48.665028,
+      "longitude": 17.54071
+    },
+    {
+      "name": "Pamätná fara",
+      "latitude": 48.660156,
+      "longitude": 17.409159
+    },
+    {
+      "name": "Lekáreň",
+      "latitude": 48.544599,
+      "longitude": 17.032771
+    },
+    {
+      "name": "Zemianska kúria Kollerovcov",
+      "latitude": 48.506796,
+      "longitude": 17.430318
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 48.510202,
+      "longitude": 17.432383
+    },
+    {
+      "name": "Stará škola",
+      "latitude": 48.493178,
+      "longitude": 17.417538
+    },
+    {
+      "name": "Rímskokatolícka fara",
+      "latitude": 48.508344,
+      "longitude": 17.431961
+    },
+    {
+      "name": "Skleník",
+      "latitude": 48.483613,
+      "longitude": 17.547339
+    },
+    {
+      "name": "Vrátnica",
+      "latitude": 48.484229,
+      "longitude": 17.547137
+    },
+    {
+      "name": "Jubilejná škola",
+      "latitude": 48.671332,
+      "longitude": 17.597525
+    },
+    {
+      "name": "Dolina",
+      "latitude": 48.619056,
+      "longitude": 17.58466
+    },
+    {
+      "name": "Sancta Maria",
+      "latitude": 48.590483,
+      "longitude": 17.830281
+    },
+    {
+      "name": "Ružový mlyn",
+      "latitude": 48.591589,
+      "longitude": 17.817541
+    },
+    {
+      "name": "Elektrárňa Piešťany",
+      "latitude": 48.595498,
+      "longitude": 17.817144
+    },
+    {
+      "name": "Cour Hotel",
+      "latitude": 48.58962,
+      "longitude": 17.836679
+    },
+    {
+      "name": "Pošta",
+      "latitude": 48.590883,
+      "longitude": 17.832694
+    },
+    {
+      "name": "Hotel Eden",
+      "latitude": 48.588151,
+      "longitude": 17.83685
+    },
+    {
+      "name": "Grand Hotel Royal",
+      "latitude": 48.589898,
+      "longitude": 17.839169
+    },
+    {
+      "name": "Kúpeľná komisia",
+      "latitude": 48.588723,
+      "longitude": 17.83767
+    },
+    {
+      "name": "Mestský úrad",
+      "latitude": 48.591708,
+      "longitude": 17.831669
+    },
+    {
+      "name": "Scheibnerova vila",
+      "latitude": 48.590642,
+      "longitude": 17.829266
+    },
+    {
+      "name": "vila Alba",
+      "latitude": 48.587257,
+      "longitude": 17.836562
+    },
+    {
+      "name": "Bývalý hotel Metropol",
+      "latitude": 48.589631,
+      "longitude": 17.833824
+    },
+    {
+      "name": "Bývalá Stredná priemyselná škola elektrotechnická",
+      "latitude": 48.592508,
+      "longitude": 17.830294
+    },
+    {
+      "name": "Stará lekáreň",
+      "latitude": 48.589968,
+      "longitude": 17.835257
+    },
+    {
+      "name": "Grand Hotel Zelený strom",
+      "latitude": 48.590332,
+      "longitude": 17.835936
+    },
+    {
+      "name": "Obecná útulňa",
+      "latitude": 48.603317,
+      "longitude": 17.828892
+    },
+    {
+      "name": "Irma",
+      "latitude": 48.586555,
+      "longitude": 17.842085
+    },
+    {
+      "name": "Rímskokatolícka fara",
+      "latitude": 48.570503,
+      "longitude": 17.622982
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 48.572442,
+      "longitude": 17.744457
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.476179,
+      "longitude": 17.8078
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 48.476127,
+      "longitude": 17.806821
+    },
+    {
+      "name": "Stará škola",
+      "latitude": 48.8647,
+      "longitude": 18.332055
+    },
+    {
+      "name": "Starý senník",
+      "latitude": 48.864661,
+      "longitude": 18.33081
+    },
+    {
+      "name": "Dom s výškou",
+      "latitude": 48.822299,
+      "longitude": 18.300487
+    },
+    {
+      "name": "Záhradný pavilón",
+      "latitude": 48.911416,
+      "longitude": 18.889536
+    },
+    {
+      "name": "Franzov dom",
+      "latitude": 48.748522,
+      "longitude": 18.764131
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.702895,
+      "longitude": 18.918051
+    },
+    {
+      "name": "Radnica",
+      "latitude": 48.704907,
+      "longitude": 18.918091
+    },
+    {
+      "name": "Radnica",
+      "latitude": 48.705921,
+      "longitude": 18.917802
+    },
+    {
+      "name": "Špitál",
+      "latitude": 48.700761,
+      "longitude": 18.91559
+    },
+    {
+      "name": "Vila Štefánia",
+      "latitude": 48.88904,
+      "longitude": 19.284329
+    },
+    {
+      "name": "Slávia",
+      "latitude": 48.88938,
+      "longitude": 19.286861
+    },
+    {
+      "name": "Liečebný dom Hygiea",
+      "latitude": 48.890128,
+      "longitude": 19.284742
+    },
+    {
+      "name": "Plniareň pitnej vody",
+      "latitude": 48.887945,
+      "longitude": 19.285158
+    },
+    {
+      "name": "Anna",
+      "latitude": 48.888613,
+      "longitude": 19.287494
+    },
+    {
+      "name": "Spoločenský dom",
+      "latitude": 48.889581,
+      "longitude": 19.286624
+    },
+    {
+      "name": "Salatín",
+      "latitude": 48.888201,
+      "longitude": 19.285073
+    },
+    {
+      "name": "Liečebný dom Oľga",
+      "latitude": 48.888933,
+      "longitude": 19.287281
+    },
+    {
+      "name": "Plniareň min. vody",
+      "latitude": 48.888235,
+      "longitude": 19.285528
+    },
+    {
+      "name": "Kúpeľný dom",
+      "latitude": 48.88856,
+      "longitude": 19.285449
+    },
+    {
+      "name": "Klopačka",
+      "latitude": 48.807418,
+      "longitude": 19.13472
+    },
+    {
+      "name": "Turecká bašta",
+      "latitude": 48.808579,
+      "longitude": 19.132738
+    },
+    {
+      "name": "Katolícka fara",
+      "latitude": 48.814326,
+      "longitude": 19.464037
+    },
+    {
+      "name": "Evanjelická fara",
+      "latitude": 48.807748,
+      "longitude": 19.644484
+    },
+    {
+      "name": "Bývalá staničná budova (Ulmanka)",
+      "latitude": 48.783416,
+      "longitude": 19.112077
+    },
+    {
+      "name": "Bývalá staničná budova (Banská Bystrica zastávka)",
+      "latitude": 48.742529,
+      "longitude": 19.145131
+    },
+    {
+      "name": "Benického dom",
+      "latitude": 48.735404,
+      "longitude": 19.144313
+    },
+    {
+      "name": "Manglovňa - Roštárov dom",
+      "latitude": 48.803783,
+      "longitude": 19.642588
+    },
+    {
+      "name": "Radnica",
+      "latitude": 48.806766,
+      "longitude": 19.643715
+    },
+    {
+      "name": "Rímskokatolícka fara",
+      "latitude": 48.806042,
+      "longitude": 19.644606
+    },
+    {
+      "name": "Mestská sporiteľňa",
+      "latitude": 48.806722,
+      "longitude": 19.641984
+    },
+    {
+      "name": "Obytná veža",
+      "latitude": 48.685735,
+      "longitude": 18.524929
+    },
+    {
+      "name": "Bašta",
+      "latitude": 48.65686,
+      "longitude": 18.833966
+    },
+    {
+      "name": "Banská správa štôlne Kreuzerfindung",
+      "latitude": 48.500441,
+      "longitude": 18.812548
+    },
+    {
+      "name": "Pischlov dom",
+      "latitude": 48.459244,
+      "longitude": 18.893265
+    },
+    {
+      "name": "Banícky dom",
+      "latitude": 48.460114,
+      "longitude": 18.894339
+    },
+    {
+      "name": "Dom so studňou na streche",
+      "latitude": 48.458633,
+      "longitude": 18.896467
+    },
+    {
+      "name": "Banícky dom",
+      "latitude": 48.460073,
+      "longitude": 18.895076
+    },
+    {
+      "name": "Szajbelyovský dom",
+      "latitude": 48.46018,
+      "longitude": 18.892552
+    },
+    {
+      "name": "Remeselnícky dom",
+      "latitude": 48.46247,
+      "longitude": 18.891324
+    },
+    {
+      "name": "Joergesov dom",
+      "latitude": 48.460398,
+      "longitude": 18.892343
+    },
+    {
+      "name": "Hodrušský banský závod",
+      "latitude": 48.464478,
+      "longitude": 18.828811
+    },
+    {
+      "name": "Banská správa šachty Zipser",
+      "latitude": 48.467997,
+      "longitude": 18.842565
+    },
+    {
+      "name": "Banícky dom",
+      "latitude": 48.467451,
+      "longitude": 18.817805
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.466441,
+      "longitude": 18.818685
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.464376,
+      "longitude": 18.818442
+    },
+    {
+      "name": "Banícky dom",
+      "latitude": 48.465465,
+      "longitude": 18.817811
+    },
+    {
+      "name": "Banícky dom",
+      "latitude": 48.466086,
+      "longitude": 18.817656
+    },
+    {
+      "name": "Baumgartnerov dom",
+      "latitude": 48.461412,
+      "longitude": 18.891853
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.459527,
+      "longitude": 18.898388
+    },
+    {
+      "name": "Cigerov dom",
+      "latitude": 48.459456,
+      "longitude": 18.898016
+    },
+    {
+      "name": "Stará radnica",
+      "latitude": 48.47637,
+      "longitude": 18.932328
+    },
+    {
+      "name": "Strážny domček",
+      "latitude": 48.464947,
+      "longitude": 18.933386
+    },
+    {
+      "name": "Wittmannov dom",
+      "latitude": 48.576796,
+      "longitude": 19.127026
+    },
+    {
+      "name": "Poľana",
+      "latitude": 48.612101,
+      "longitude": 19.161617
+    },
+    {
+      "name": "Amália",
+      "latitude": 48.609977,
+      "longitude": 19.161958
+    },
+    {
+      "name": "Slovensko",
+      "latitude": 48.611318,
+      "longitude": 19.160669
+    },
+    {
+      "name": "Natália",
+      "latitude": 48.610126,
+      "longitude": 19.160689
+    },
+    {
+      "name": "Kúpeľný dom I. a II.",
+      "latitude": 48.61072,
+      "longitude": 19.161491
+    },
+    {
+      "name": "Bratislava",
+      "latitude": 48.610864,
+      "longitude": 19.160671
+    },
+    {
+      "name": "Lesná správa",
+      "latitude": 48.658903,
+      "longitude": 19.645048
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 48.54647,
+      "longitude": 19.053104
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.544823,
+      "longitude": 19.052895
+    },
+    {
+      "name": "Hospodársky dom",
+      "latitude": 48.544639,
+      "longitude": 19.053234
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 48.544741,
+      "longitude": 19.052829
+    },
+    {
+      "name": "Rímskokatolícka ľudová škola",
+      "latitude": 48.559552,
+      "longitude": 19.258655
+    },
+    {
+      "name": "Rodinný dom Márie Ďuríčkovej",
+      "latitude": 48.56244,
+      "longitude": 19.264331
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 48.562027,
+      "longitude": 19.264807
+    },
+    {
+      "name": "Hospodárska budova",
+      "latitude": 48.565799,
+      "longitude": 19.255938
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.565965,
+      "longitude": 19.255771
+    },
+    {
+      "name": "Bývalá mýtnica, hostinec a prepriahacia stanica",
+      "latitude": 48.510488,
+      "longitude": 18.994533
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.485527,
+      "longitude": 19.580537
+    },
+    {
+      "name": "Karolov dvor",
+      "latitude": 48.414984,
+      "longitude": 16.877465
+    },
+    {
+      "name": "Liehovar",
+      "latitude": 48.420443,
+      "longitude": 16.996359
+    },
+    {
+      "name": "Holzhacker haus",
+      "latitude": 48.383865,
+      "longitude": 17.273071
+    },
+    {
+      "name": "Jazdiareň",
+      "latitude": 48.392897,
+      "longitude": 17.333037
+    },
+    {
+      "name": "Dvořákov dom",
+      "latitude": 48.357659,
+      "longitude": 17.408676
+    },
+    {
+      "name": "býv. železničná stanica",
+      "latitude": 48.267838,
+      "longitude": 17.02831
+    },
+    {
+      "name": "Troyerova kúria",
+      "latitude": 48.27252,
+      "longitude": 17.027653
+    },
+    {
+      "name": "Kúria Zemanské",
+      "latitude": 48.272249,
+      "longitude": 17.031699
+    },
+    {
+      "name": "Teofilov mlyn",
+      "latitude": 48.30983,
+      "longitude": 17.286803
+    },
+    {
+      "name": "Stodola",
+      "latitude": 48.311706,
+      "longitude": 17.264308
+    },
+    {
+      "name": "Baumwaldský majer",
+      "latitude": 48.292665,
+      "longitude": 17.306893
+    },
+    {
+      "name": "Strapákov mlyn",
+      "latitude": 48.280369,
+      "longitude": 17.239417
+    },
+    {
+      "name": "Horný mlyn",
+      "latitude": 48.422253,
+      "longitude": 17.697031
+    },
+    {
+      "name": "Špitálik",
+      "latitude": 48.428096,
+      "longitude": 17.794399
+    },
+    {
+      "name": "Pracháreň",
+      "latitude": 48.377156,
+      "longitude": 17.585444
+    },
+    {
+      "name": "Mariánsky seminár - Marianum",
+      "latitude": 48.379275,
+      "longitude": 17.58902
+    },
+    {
+      "name": "Pamätná fara",
+      "latitude": 48.393702,
+      "longitude": 17.936101
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.398032,
+      "longitude": 18.258469
+    },
+    {
+      "name": "Koniareň",
+      "latitude": 48.232113,
+      "longitude": 17.926524
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.315849,
+      "longitude": 18.087394
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.316283,
+      "longitude": 18.086119
+    },
+    {
+      "name": "Rímskokatolícka fara Nitra – Dolné Mesto",
+      "latitude": 48.312889,
+      "longitude": 18.085014
+    },
+    {
+      "name": "Kino Palace",
+      "latitude": 48.312216,
+      "longitude": 18.088922
+    },
+    {
+      "name": "Mýtnica",
+      "latitude": 48.21024,
+      "longitude": 16.972725
+    },
+    {
+      "name": "Strážny dom",
+      "latitude": 48.174587,
+      "longitude": 17.072994
+    },
+    {
+      "name": "Klepáč",
+      "latitude": 48.181594,
+      "longitude": 17.074311
+    },
+    {
+      "name": "Stanica Železná studienka",
+      "latitude": 48.174461,
+      "longitude": 17.072702
+    },
+    {
+      "name": "Umelecká galéria SVÚ",
+      "latitude": 48.140995,
+      "longitude": 17.117363
+    },
+    {
+      "name": "Slovenská hypotečná a komunálna banka",
+      "latitude": 48.143295,
+      "longitude": 17.111153
+    },
+    {
+      "name": "Ekoiuventa",
+      "latitude": 48.153215,
+      "longitude": 17.093116
+    },
+    {
+      "name": "Academia Istropolitana",
+      "latitude": 48.142553,
+      "longitude": 17.106057
+    },
+    {
+      "name": "Zelenoizbový dom",
+      "latitude": 48.143246,
+      "longitude": 17.107419
+    },
+    {
+      "name": "Himmelreich",
+      "latitude": 48.144449,
+      "longitude": 17.107804
+    },
+    {
+      "name": "Palác Robotníckej zdravotnej poisťovne",
+      "latitude": 48.14296,
+      "longitude": 17.116204
+    },
+    {
+      "name": "Kernov dom",
+      "latitude": 48.142405,
+      "longitude": 17.109081
+    },
+    {
+      "name": "Poštový palác",
+      "latitude": 48.145382,
+      "longitude": 17.108606
+    },
+    {
+      "name": "Reduta",
+      "latitude": 48.140958,
+      "longitude": 17.110013
+    },
+    {
+      "name": "Dom U dobrého pastiera",
+      "latitude": 48.142278,
+      "longitude": 17.103984
+    },
+    {
+      "name": "Pradiareň 1900",
+      "latitude": 48.148066,
+      "longitude": 17.131301
+    },
+    {
+      "name": "Hotel Kyjev",
+      "latitude": 48.146035,
+      "longitude": 17.115012
+    },
+    {
+      "name": "Kanoistický klub Karlova Ves",
+      "latitude": 48.145255,
+      "longitude": 17.070435
+    },
+    {
+      "name": "Swetlikov dom",
+      "latitude": 48.149603,
+      "longitude": 17.106613
+    },
+    {
+      "name": "OD Dunaj",
+      "latitude": 48.145197,
+      "longitude": 17.110213
+    },
+    {
+      "name": "Univerzita Komenského",
+      "latitude": 48.141146,
+      "longitude": 17.115594
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.180323,
+      "longitude": 17.431364
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 48.026248,
+      "longitude": 17.196423
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 48.204945,
+      "longitude": 17.647027
+    },
+    {
+      "name": "Žrebčín",
+      "latitude": 48.207393,
+      "longitude": 18.06069
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 48.124703,
+      "longitude": 18.180289
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 48.086802,
+      "longitude": 17.695287
+    },
+    {
+      "name": "Vermesova vila",
+      "latitude": 47.998419,
+      "longitude": 17.613352
+    },
+    {
+      "name": "Spoločenský dom",
+      "latitude": 47.994766,
+      "longitude": 17.616212
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 48.034824,
+      "longitude": 18.069049
+    },
+    {
+      "name": "Ťažná veža šachty Rúfus",
+      "latitude": 48.451502,
+      "longitude": 18.887549
+    },
+    {
+      "name": "Ťažná veža šachty Mária",
+      "latitude": 48.451214,
+      "longitude": 18.887203
+    },
+    {
+      "name": "Hasičská zbrojnica",
+      "latitude": 48.451374,
+      "longitude": 18.887189
+    },
+    {
+      "name": "Banícky dom",
+      "latitude": 48.457044,
+      "longitude": 18.890693
+    },
+    {
+      "name": "Banská správa šachty Alžbeta",
+      "latitude": 48.454977,
+      "longitude": 18.890913
+    },
+    {
+      "name": "Ťažná veža šachty Žofia",
+      "latitude": 48.451313,
+      "longitude": 18.888175
+    },
+    {
+      "name": "Banícky dom",
+      "latitude": 48.457205,
+      "longitude": 18.812574
+    },
+    {
+      "name": "Banská správa šachty Königsegg",
+      "latitude": 48.43629,
+      "longitude": 18.856683
+    },
+    {
+      "name": "Banský úrad Siglisbergu",
+      "latitude": 48.43941,
+      "longitude": 18.866292
+    },
+    {
+      "name": "Banícky dom",
+      "latitude": 48.440047,
+      "longitude": 18.867589
+    },
+    {
+      "name": "Banícky dom",
+      "latitude": 48.438728,
+      "longitude": 18.868622
+    },
+    {
+      "name": "Banský a lesný úrad",
+      "latitude": 48.440227,
+      "longitude": 18.870954
+    },
+    {
+      "name": "Banská správa šachty Magdaléna",
+      "latitude": 48.437202,
+      "longitude": 18.872372
+    },
+    {
+      "name": "Banské meračstvo",
+      "latitude": 48.440257,
+      "longitude": 18.872471
+    },
+    {
+      "name": "Lekáreň",
+      "latitude": 48.44135,
+      "longitude": 18.872355
+    },
+    {
+      "name": "Banícky dom",
+      "latitude": 48.439825,
+      "longitude": 18.872916
+    },
+    {
+      "name": "Strojovňa šachty Špitaler",
+      "latitude": 48.440328,
+      "longitude": 18.873616
+    },
+    {
+      "name": "Banská správa šachty Wind",
+      "latitude": 48.441624,
+      "longitude": 18.873733
+    },
+    {
+      "name": "Banícky dom",
+      "latitude": 48.440664,
+      "longitude": 18.86778
+    },
+    {
+      "name": "Cachovňa",
+      "latitude": 48.451211,
+      "longitude": 18.887701
+    },
+    {
+      "name": "Lanovnice šachty Lill",
+      "latitude": 48.451485,
+      "longitude": 18.887996
+    },
+    {
+      "name": "Pracháreň",
+      "latitude": 48.446241,
+      "longitude": 18.890027
+    },
+    {
+      "name": "Banský úrad",
+      "latitude": 48.440807,
+      "longitude": 18.872317
+    },
+    {
+      "name": "Banícka škola",
+      "latitude": 48.439474,
+      "longitude": 18.868526
+    },
+    {
+      "name": "Kompresovňa",
+      "latitude": 48.450641,
+      "longitude": 18.88937
+    },
+    {
+      "name": "Objekt gátra",
+      "latitude": 48.450146,
+      "longitude": 18.889645
+    },
+    {
+      "name": "Hasičská striekačka",
+      "latitude": 48.451508,
+      "longitude": 18.887204
+    },
+    {
+      "name": "Banícky dom",
+      "latitude": 48.45464,
+      "longitude": 18.900521
+    },
+    {
+      "name": "Stará železničná stanica",
+      "latitude": 48.450631,
+      "longitude": 18.910203
+    },
+    {
+      "name": "Komorovské stajne",
+      "latitude": 48.437978,
+      "longitude": 18.911174
+    },
+    {
+      "name": "Centrálna stupa Šándorka",
+      "latitude": 48.440758,
+      "longitude": 18.915482
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.427136,
+      "longitude": 18.878602
+    },
+    {
+      "name": "Kolkáreň",
+      "latitude": 48.424274,
+      "longitude": 18.939299
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 48.422229,
+      "longitude": 18.94256
+    },
+    {
+      "name": "Pivovar",
+      "latitude": 48.405528,
+      "longitude": 18.940949
+    },
+    {
+      "name": "Stará fara",
+      "latitude": 48.41912,
+      "longitude": 18.940922
+    },
+    {
+      "name": "Hospodárska budova",
+      "latitude": 48.42168,
+      "longitude": 18.943989
+    },
+    {
+      "name": "Stará krčma prostredná",
+      "latitude": 48.41995,
+      "longitude": 18.941009
+    },
+    {
+      "name": "Skleník",
+      "latitude": 48.421344,
+      "longitude": 18.941881
+    },
+    {
+      "name": "Mýtna a prepriahacia stanica",
+      "latitude": 48.42453,
+      "longitude": 18.93932
+    },
+    {
+      "name": "Záhradná vilka",
+      "latitude": 48.421738,
+      "longitude": 18.943753
+    },
+    {
+      "name": "Bývalá prepriahacia stanica a hostinec",
+      "latitude": 48.388899,
+      "longitude": 18.776325
+    },
+    {
+      "name": "Márnica",
+      "latitude": 48.39978,
+      "longitude": 18.818437
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.39133,
+      "longitude": 18.982901
+    },
+    {
+      "name": "Stará fara",
+      "latitude": 48.390528,
+      "longitude": 18.984355
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.391219,
+      "longitude": 18.981431
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.390659,
+      "longitude": 18.98295
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.391944,
+      "longitude": 18.980362
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.34948,
+      "longitude": 18.975987
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.349258,
+      "longitude": 18.978758
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.348874,
+      "longitude": 18.979164
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.348385,
+      "longitude": 18.976849
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.349585,
+      "longitude": 18.977182
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.349428,
+      "longitude": 18.977909
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 48.289253,
+      "longitude": 18.325081
+    },
+    {
+      "name": "Kúria",
+      "latitude": 48.259644,
+      "longitude": 18.299701
+    },
+    {
+      "name": "Nederlákov dom",
+      "latitude": 48.242713,
+      "longitude": 18.304025
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.240874,
+      "longitude": 18.303315
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.242567,
+      "longitude": 18.305643
+    },
+    {
+      "name": "Stoličný dom",
+      "latitude": 48.242947,
+      "longitude": 18.304105
+    },
+    {
+      "name": "Okresný súd",
+      "latitude": 48.243098,
+      "longitude": 18.306076
+    },
+    {
+      "name": "Agrárna banka",
+      "latitude": 48.243055,
+      "longitude": 18.303397
+    },
+    {
+      "name": "Ľudová banka",
+      "latitude": 48.242189,
+      "longitude": 18.304156
+    },
+    {
+      "name": "Kúria Váradyovcov",
+      "latitude": 48.235265,
+      "longitude": 18.291908
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.321545,
+      "longitude": 18.956107
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.320343,
+      "longitude": 18.957833
+    },
+    {
+      "name": "Stará škola",
+      "latitude": 48.321518,
+      "longitude": 18.956253
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.321177,
+      "longitude": 18.956574
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.322201,
+      "longitude": 18.955035
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.322035,
+      "longitude": 18.955907
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.320762,
+      "longitude": 18.956893
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.390184,
+      "longitude": 18.984549
+    },
+    {
+      "name": "Soľný úrad",
+      "latitude": 48.354836,
+      "longitude": 19.573271
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.312882,
+      "longitude": 19.397209
+    },
+    {
+      "name": "Borosov dom",
+      "latitude": 48.220317,
+      "longitude": 18.60852
+    },
+    {
+      "name": "Rotunda",
+      "latitude": 48.221913,
+      "longitude": 18.601899
+    },
+    {
+      "name": "Liehovar",
+      "latitude": 48.134865,
+      "longitude": 18.329395
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.178278,
+      "longitude": 18.748539
+    },
+    {
+      "name": "Klasicistická sýpka",
+      "latitude": 48.160721,
+      "longitude": 18.977962
+    },
+    {
+      "name": "Sacherov dom",
+      "latitude": 48.045666,
+      "longitude": 18.65768
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.155567,
+      "longitude": 19.089575
+    },
+    {
+      "name": "Chudobinec",
+      "latitude": 48.8528,
+      "longitude": 19.855522
+    },
+    {
+      "name": "Coburgovská kúria",
+      "latitude": 48.844989,
+      "longitude": 20.036732
+    },
+    {
+      "name": "Chamkova stodola",
+      "latitude": 48.82669,
+      "longitude": 20.150114
+    },
+    {
+      "name": "Rodný dom Pavla Emauela Dobšinského",
+      "latitude": 48.712755,
+      "longitude": 20.283498
+    },
+    {
+      "name": "Kúria Zuzana",
+      "latitude": 48.915915,
+      "longitude": 20.623693
+    },
+    {
+      "name": "Hospodárska budova",
+      "latitude": 48.915757,
+      "longitude": 20.624786
+    },
+    {
+      "name": "Dom správcu majetku Mariássyovcov",
+      "latitude": 48.915561,
+      "longitude": 20.625259
+    },
+    {
+      "name": "Hospodárska sbudova",
+      "latitude": 48.917057,
+      "longitude": 20.626146
+    },
+    {
+      "name": "Remeselnícky dom",
+      "latitude": 48.915537,
+      "longitude": 20.626571
+    },
+    {
+      "name": "Zajacov mlyn",
+      "latitude": 48.856815,
+      "longitude": 20.574041
+    },
+    {
+      "name": "Kúpeľný dom Praha",
+      "latitude": 48.860965,
+      "longitude": 20.906868
+    },
+    {
+      "name": "Kúpeľný dom Pionier",
+      "latitude": 48.861459,
+      "longitude": 20.905671
+    },
+    {
+      "name": "Prícestný hostinec",
+      "latitude": 48.726473,
+      "longitude": 20.480419
+    },
+    {
+      "name": "Rodný dom P. K. Hostinského",
+      "latitude": 48.713752,
+      "longitude": 20.475484
+    },
+    {
+      "name": "Hospodárska stavba",
+      "latitude": 48.705748,
+      "longitude": 20.510407
+    },
+    {
+      "name": "Základná škola",
+      "latitude": 48.700401,
+      "longitude": 20.503192
+    },
+    {
+      "name": "Evanjelická fara",
+      "latitude": 48.70337,
+      "longitude": 20.508553
+    },
+    {
+      "name": "Správa lesov",
+      "latitude": 48.702503,
+      "longitude": 20.506773
+    },
+    {
+      "name": "Grotta s vodopádom",
+      "latitude": 48.710282,
+      "longitude": 20.510289
+    },
+    {
+      "name": "Zvyšky železiarne",
+      "latitude": 48.692952,
+      "longitude": 20.506178
+    },
+    {
+      "name": "Slobodomurársky pavilón",
+      "latitude": 48.708537,
+      "longitude": 20.510643
+    },
+    {
+      "name": "Vstupná budova",
+      "latitude": 48.70472,
+      "longitude": 20.509006
+    },
+    {
+      "name": "Byt kočiša",
+      "latitude": 48.705673,
+      "longitude": 20.508408
+    },
+    {
+      "name": "Bytový dom grófskej píly Andrássyovcov",
+      "latitude": 48.703392,
+      "longitude": 20.498844
+    },
+    {
+      "name": "Bývalá práčovňa",
+      "latitude": 48.704938,
+      "longitude": 20.510203
+    },
+    {
+      "name": "Čínsky pavilón",
+      "latitude": 48.707309,
+      "longitude": 20.511533
+    },
+    {
+      "name": "Letohrádok Bosňák",
+      "latitude": 48.709453,
+      "longitude": 20.515325
+    },
+    {
+      "name": "Zverinec",
+      "latitude": 48.71597,
+      "longitude": 20.512848
+    },
+    {
+      "name": "Banská komora",
+      "latitude": 48.729923,
+      "longitude": 20.738493
+    },
+    {
+      "name": "Hostinec",
+      "latitude": 48.729045,
+      "longitude": 20.73956
+    },
+    {
+      "name": "Tabaková továreň",
+      "latitude": 48.730373,
+      "longitude": 20.739669
+    },
+    {
+      "name": "Robotnícky dom a Správa Rimamuránskej spoločnosti",
+      "latitude": 48.721541,
+      "longitude": 20.926673
+    },
+    {
+      "name": "Škola",
+      "latitude": 48.720615,
+      "longitude": 20.926615
+    },
+    {
+      "name": "Petrivaldského vila",
+      "latitude": 48.575809,
+      "longitude": 19.953315
+    },
+    {
+      "name": "Rodný dom gen. Rudolfa Viesta",
+      "latitude": 48.683979,
+      "longitude": 20.112278
+    },
+    {
+      "name": "Prvé slovenské gymnázium",
+      "latitude": 48.680736,
+      "longitude": 20.112203
+    },
+    {
+      "name": "Mestský dom",
+      "latitude": 48.683171,
+      "longitude": 20.113784
+    },
+    {
+      "name": "Mestská reduta",
+      "latitude": 48.682793,
+      "longitude": 20.112465
+    },
+    {
+      "name": "Prvé slovenské gymnázium",
+      "latitude": 48.685582,
+      "longitude": 20.111298
+    },
+    {
+      "name": "Evanjelická fara",
+      "latitude": 48.684513,
+      "longitude": 20.111158
+    },
+    {
+      "name": "Kráľov dom",
+      "latitude": 48.683825,
+      "longitude": 20.112518
+    },
+    {
+      "name": "Nandrássyho dom",
+      "latitude": 48.683745,
+      "longitude": 20.113951
+    },
+    {
+      "name": "Kolkáreň",
+      "latitude": 48.630596,
+      "longitude": 20.123034
+    },
+    {
+      "name": "Stanica nákladnej lanovky Sirk – Lubeník",
+      "latitude": 48.615855,
+      "longitude": 20.101779
+    },
+    {
+      "name": "Evanjelická fara",
+      "latitude": 48.59085,
+      "longitude": 20.093877
+    },
+    {
+      "name": "Obecná sýpka",
+      "latitude": 48.590544,
+      "longitude": 20.094733
+    },
+    {
+      "name": "Súkenícky dom",
+      "latitude": 48.590399,
+      "longitude": 20.094765
+    },
+    {
+      "name": "Radnica",
+      "latitude": 48.590717,
+      "longitude": 20.095123
+    },
+    {
+      "name": "Remeselnícky dom",
+      "latitude": 48.59129,
+      "longitude": 20.095494
+    },
+    {
+      "name": "Súkenícky dom",
+      "latitude": 48.591442,
+      "longitude": 20.094231
+    },
+    {
+      "name": "Župný dom",
+      "latitude": 48.539276,
+      "longitude": 19.958209
+    },
+    {
+      "name": "Kúria Rimamuránskej spoločnosti",
+      "latitude": 48.532716,
+      "longitude": 19.955687
+    },
+    {
+      "name": "Pamätná fara",
+      "latitude": 48.482878,
+      "longitude": 20.069204
+    },
+    {
+      "name": "Rožňavské kúpele",
+      "latitude": 48.678857,
+      "longitude": 20.542794
+    },
+    {
+      "name": "Fara",
+      "latitude": 48.662985,
+      "longitude": 20.532352
+    },
+    {
+      "name": "Remeselnícky dom",
+      "latitude": 48.66538,
+      "longitude": 20.536969
+    },
+    {
+      "name": "Maurerova vila",
+      "latitude": 48.684751,
+      "longitude": 20.541118
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.661932,
+      "longitude": 20.531685
+    },
+    {
+      "name": "Meštiansky dom",
+      "latitude": 48.66155,
+      "longitude": 20.533646
+    },
+    {
+      "name": "Františkina škola",
+      "latitude": 48.655631,
+      "longitude": 20.596072
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 48.584737,
+      "longitude": 20.466902
+    },
+    {
+      "name": "Dom hámorníkov",
+      "latitude": 48.60198,
+      "longitude": 20.476864
+    },
+    {
+      "name": "Vysoká pec",
+      "latitude": 48.678784,
+      "longitude": 20.965334
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 48.607697,
+      "longitude": 20.957857
+    },
+    {
+      "name": "Klasicistická kúria",
+      "latitude": 48.596353,
+      "longitude": 21.02018
+    },
+    {
+      "name": "Miklóssyho továreň",
+      "latitude": 48.560558,
+      "longitude": 20.401837
+    },
+    {
+      "name": "Župný dom",
+      "latitude": 48.547514,
+      "longitude": 20.40555
+    },
+    {
+      "name": "Granárium (sýpka)",
+      "latitude": 48.568436,
+      "longitude": 20.464707
+    },
+    {
+      "name": "Šafárov dom",
+      "latitude": 48.568743,
+      "longitude": 20.464877
+    },
+    {
+      "name": "Rudnayho dom",
+      "latitude": 48.545125,
+      "longitude": 20.403357
+    },
+    {
+      "name": "Drevenica",
+      "latitude": 48.872447,
+      "longitude": 21.620543
+    },
+    {
+      "name": "Hrobka pod hradom Čičva",
+      "latitude": 48.914621,
+      "longitude": 21.739629
+    },
+    {
+      "name": "Vitézov dvor",
+      "latitude": 48.720613,
+      "longitude": 21.256862
+    },
+    {
+      "name": "Levočský dom",
+      "latitude": 48.72213,
+      "longitude": 21.257951
+    },
+    {
+      "name": "Župný dom",
+      "latitude": 48.719969,
+      "longitude": 21.259224
+    },
+    {
+      "name": "Gersterov dom",
+      "latitude": 48.71873,
+      "longitude": 21.259581
+    },
+    {
+      "name": "Kúpeľný dom Hornád",
+      "latitude": 48.800755,
+      "longitude": 21.478386
+    },
+    {
+      "name": "Kúpeľný dom Dargov",
+      "latitude": 48.801327,
+      "longitude": 21.478417
+    },
+    {
+      "name": "Južný palác",
+      "latitude": 48.902313,
+      "longitude": 21.832185
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 48.860575,
+      "longitude": 21.874835
+    },
+    {
+      "name": "Fara",
+      "latitude": 48.809656,
+      "longitude": 21.966143
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 48.810313,
+      "longitude": 21.966313
+    },
+    {
+      "name": "Koniareň",
+      "latitude": 48.757873,
+      "longitude": 21.926272
+    },
+    {
+      "name": "Väznica",
+      "latitude": 48.757902,
+      "longitude": 21.927899
+    },
+    {
+      "name": "Fara",
+      "latitude": 48.701351,
+      "longitude": 21.850109
+    },
+    {
+      "name": "Varádyho vila",
+      "latitude": 48.764534,
+      "longitude": 22.190651
+    },
+    {
+      "name": "Dom Matice slovenskej",
+      "latitude": 48.383058,
+      "longitude": 20.02715
+    },
+    {
+      "name": "Kúria Hámosovcov",
+      "latitude": 48.351581,
+      "longitude": 19.990722
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 48.385933,
+      "longitude": 20.349627
+    },
+    {
+      "name": "Mestský úrad",
+      "latitude": 48.270694,
+      "longitude": 19.821596
+    },
+    {
+      "name": "Vigadó",
+      "latitude": 48.270411,
+      "longitude": 19.823931
+    },
+    {
+      "name": "Vidiecky dom Istvána Fülekiho",
+      "latitude": 48.361917,
+      "longitude": 20.390893
+    },
+    {
+      "name": "Sýpka",
+      "latitude": 48.216117,
+      "longitude": 19.957761
+    },
+    {
+      "name": "Župný dom",
+      "latitude": 48.439232,
+      "longitude": 21.812522
+    },
+    {
+      "name": "Ľudový dom",
+      "latitude": 47.987579,
+      "longitude": 17.550609
+    },
+    {
+      "name": "Knižnica hvezdárne",
+      "latitude": 47.872298,
+      "longitude": 18.190871
+    },
+    {
+      "name": "Lenárdova vila",
+      "latitude": 47.874186,
+      "longitude": 18.192739
+    },
+    {
+      "name": "Kúria",
+      "latitude": 47.766331,
+      "longitude": 17.770698
+    },
+    {
+      "name": "Benediktinsky kolegium",
+      "latitude": 47.757382,
+      "longitude": 18.126209
+    },
+    {
+      "name": "Župný dom",
+      "latitude": 47.758668,
+      "longitude": 18.127025
+    },
+    {
+      "name": "Zichyho palác",
+      "latitude": 47.757619,
+      "longitude": 18.129234
+    },
+    {
+      "name": "Župná súdna stolica",
+      "latitude": 47.757074,
+      "longitude": 18.127296
+    },
+    {
+      "name": "Menház",
+      "latitude": 47.759754,
+      "longitude": 18.122906
+    },
+    {
+      "name": "Špitál",
+      "latitude": 47.757739,
+      "longitude": 18.129763
+    },
+    {
+      "name": "Kolégium",
+      "latitude": 47.76056,
+      "longitude": 18.130444
+    },
+    {
+      "name": "Synagóga",
+      "latitude": 47.758053,
+      "longitude": 18.129173
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 47.75723,
+      "longitude": 18.129794
+    },
+    {
+      "name": "Hotel Grand",
+      "latitude": 47.75687,
+      "longitude": 18.123778
+    },
+    {
+      "name": "Evanjelická škola",
+      "latitude": 47.758723,
+      "longitude": 18.131767
+    },
+    {
+      "name": "Výmenníková stanica",
+      "latitude": 47.753652,
+      "longitude": 18.140749
+    }
+  ],
+  "meta": {
+    "title": "Historické budovy - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných objektov na Slovensku s OpenStreetMap značkou (historic=building). Každý záznam obsahuje pôvodný slovenský názov a súradnice WGS84. Obsahuje 656 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Historické budovy | ListBase",
+    "seo_description": "Stiahnuť Historické budovy — 656 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 656 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

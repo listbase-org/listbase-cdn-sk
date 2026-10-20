@@ -1,0 +1,72 @@
+{
+  "id": "sk-casove-pasma-etc",
+  "name": "Časové pásma — Etc (2)",
+  "title": "Časové pásma — Etc (2)",
+  "description": "Časové pásma, ktorých identifikátor IANA sa začína 'Etc/', s názvami v slovenčine.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "mesto",
+      "label": "Mesto",
+      "type": "string"
+    },
+    {
+      "key": "standardny_nazov",
+      "label": "Standardny Nazov",
+      "type": "string"
+    },
+    {
+      "key": "letny_nazov",
+      "label": "Letny Nazov",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Etc/UTC",
+      "oblast": "Etc",
+      "mesto": "",
+      "standardny_nazov": "koordinovaný svetový čas",
+      "letny_nazov": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Etc/Unknown",
+      "oblast": "Etc",
+      "mesto": "neznáme mesto",
+      "standardny_nazov": "",
+      "letny_nazov": ""
+    }
+  ],
+  "meta": {
+    "title": "Časové pásma — Etc (2) - Bezplatné stiahnutie",
+    "description": "Časové pásma, ktorých identifikátor IANA sa začína 'Etc/', s názvami v slovenčine. Obsahuje 2 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Časové pásma — Etc (2) | ListBase",
+    "seo_description": "Stiahnuť Časové pásma — Etc (2) — 2 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 2 záznamov / 6 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

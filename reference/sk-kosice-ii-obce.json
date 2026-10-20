@@ -1,0 +1,156 @@
+{
+  "id": "sk-kosice-ii-obce",
+  "name": "Obce v okrese Košice II",
+  "title": "Obce v okrese Košice II",
+  "description": "Všetky obce (municipality) v okrese Košice II, Košický kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1573,
+      "fullname": "Košice - Lorinčík",
+      "shortname": "Lorinčík",
+      "zip": "040 11",
+      "district_id": 24,
+      "okres": "Košice II",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1574,
+      "fullname": "Košice - Luník IX",
+      "shortname": "Luník IX",
+      "zip": 0,
+      "district_id": 24,
+      "okres": "Košice II",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1575,
+      "fullname": "Košice - Myslava",
+      "shortname": "Myslava",
+      "zip": "040 16",
+      "district_id": 24,
+      "okres": "Košice II",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1577,
+      "fullname": "Košice - Pereš",
+      "shortname": "Pereš",
+      "zip": "040 11",
+      "district_id": 24,
+      "okres": "Košice II",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1578,
+      "fullname": "Košice - Poľov",
+      "shortname": "Poľov",
+      "zip": "040 15",
+      "district_id": 24,
+      "okres": "Košice II",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1580,
+      "fullname": "Košice - Sídlisko KVP",
+      "shortname": "Sídlisko KVP",
+      "zip": 0,
+      "district_id": 24,
+      "okres": "Košice II",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1587,
+      "fullname": "Košice - Západ",
+      "shortname": "Západ",
+      "zip": "040 11",
+      "district_id": 24,
+      "okres": "Košice II",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1583,
+      "fullname": "Košice - Šaca",
+      "shortname": "Šaca",
+      "zip": "040 15",
+      "district_id": 24,
+      "okres": "Košice II",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    },
+    {
+      "id": 1588,
+      "fullname": "Košice - Železiarne",
+      "shortname": "Železiarne",
+      "zip": "044 54",
+      "district_id": 24,
+      "okres": "Košice II",
+      "region_id": 3,
+      "kraj": "Košický kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Košice II - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Košice II, Košický kraj — s PSČ a kódom okresu. Obsahuje 9 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Košice II | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Košice II — 9 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 9 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

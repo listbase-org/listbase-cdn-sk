@@ -1,0 +1,476 @@
+{
+  "id": "sk-levoca-obce",
+  "name": "Obce v okrese Levoča",
+  "title": "Obce v okrese Levoča",
+  "description": "Všetky obce (municipality) v okrese Levoča, Prešovský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 58,
+      "fullname": "Baldovce",
+      "shortname": "Baldovce",
+      "zip": "053 04",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 100,
+      "fullname": "Beharovce",
+      "shortname": "Beharovce",
+      "zip": "053 05",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 156,
+      "fullname": "Bijacovce",
+      "shortname": "Bijacovce",
+      "zip": "053 06",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 311,
+      "fullname": "Brutovce",
+      "shortname": "Brutovce",
+      "zip": "053 73",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 334,
+      "fullname": "Buglovce",
+      "shortname": "Buglovce",
+      "zip": "053 04",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 345,
+      "fullname": "Bukovinka",
+      "shortname": "Bukovinka",
+      "zip": "053 14",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 570,
+      "fullname": "Dlhé Stráže",
+      "shortname": "Dlhé Stráže",
+      "zip": "054 01",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 681,
+      "fullname": "Domaňovce",
+      "shortname": "Domaňovce",
+      "zip": "053 02",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 592,
+      "fullname": "Doľany",
+      "shortname": "Doľany",
+      "zip": "053 02",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 690,
+      "fullname": "Dravce",
+      "shortname": "Dravce",
+      "zip": "053 14",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 731,
+      "fullname": "Dúbrava",
+      "shortname": "Dúbrava",
+      "zip": "053 05",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 851,
+      "fullname": "Granč - Petrovce",
+      "shortname": "Granč - Petrovce",
+      "zip": "053 05",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 896,
+      "fullname": "Harakovce",
+      "shortname": "Harakovce",
+      "zip": "053 05",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1243,
+      "fullname": "Jablonov",
+      "shortname": "Jablonov",
+      "zip": "053 03",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1404,
+      "fullname": "Katúň",
+      "shortname": "Katúň",
+      "zip": "053 04",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1439,
+      "fullname": "Klčov",
+      "shortname": "Klčov",
+      "zip": "053 02",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1538,
+      "fullname": "Korytné",
+      "shortname": "Korytné",
+      "zip": "053 05",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1730,
+      "fullname": "Kurimany",
+      "shortname": "Kurimany",
+      "zip": "054 01",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1831,
+      "fullname": "Levoča",
+      "shortname": "Levoča",
+      "zip": "054 01",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1832,
+      "fullname": "Levočská Dolina",
+      "shortname": "Levočská Dolina",
+      "zip": "054 01",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1833,
+      "fullname": "Levočské Lúky",
+      "shortname": "Levočské Lúky",
+      "zip": "054 01",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 1950,
+      "fullname": "Lúčka",
+      "shortname": "Lúčka",
+      "zip": "053 03",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2144,
+      "fullname": "Mečedelovce",
+      "shortname": "Mečedelovce",
+      "zip": "053 14",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2318,
+      "fullname": "Nemešany",
+      "shortname": "Nemešany",
+      "zip": "053 02",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2372,
+      "fullname": "Nižné Repaše",
+      "shortname": "Nižné Repaše",
+      "zip": "053 71",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2521,
+      "fullname": "Ordzovany",
+      "shortname": "Ordzovany",
+      "zip": "053 06",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2480,
+      "fullname": "Oľšavica",
+      "shortname": "Oľšavica",
+      "zip": "053 73",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2599,
+      "fullname": "Pavľany",
+      "shortname": "Pavľany",
+      "zip": "053 71",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2717,
+      "fullname": "Podproč",
+      "shortname": "Podproč",
+      "zip": "053 73",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2759,
+      "fullname": "Pongrácovce",
+      "shortname": "Pongrácovce",
+      "zip": "053 05",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2739,
+      "fullname": "Poľanovce",
+      "shortname": "Poľanovce",
+      "zip": "053 05",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 2997,
+      "fullname": "Roškovce",
+      "shortname": "Roškovce",
+      "zip": "053 02",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3246,
+      "fullname": "Spišské Podhradie",
+      "shortname": "Spišské Podhradie",
+      "zip": "053 04",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3249,
+      "fullname": "Spišský Hrhov",
+      "shortname": "Spišský Hrhov",
+      "zip": "053 02",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3252,
+      "fullname": "Spišský Štvrtok",
+      "shortname": "Spišský Štvrtok",
+      "zip": "053 14",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3322,
+      "fullname": "Studenec",
+      "shortname": "Studenec",
+      "zip": "053 04",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3568,
+      "fullname": "Torysky",
+      "shortname": "Torysky",
+      "zip": "053 71",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 3685,
+      "fullname": "Uloža",
+      "shortname": "Uloža",
+      "zip": "053 71",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4007,
+      "fullname": "Vyšné Repaše",
+      "shortname": "Vyšné Repaše",
+      "zip": "053 71",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4026,
+      "fullname": "Vyšný Slavkov",
+      "shortname": "Vyšný Slavkov",
+      "zip": "053 73",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    },
+    {
+      "id": 4071,
+      "fullname": "Závada",
+      "shortname": "Závada",
+      "zip": "054 01",
+      "district_id": 31,
+      "okres": "Levoča",
+      "region_id": 5,
+      "kraj": "Prešovský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Levoča - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Levoča, Prešovský kraj — s PSČ a kódom okresu. Obsahuje 41 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Levoča | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Levoča — 41 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 41 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

@@ -1,0 +1,1291 @@
+{
+  "id": "sk-vinoteky",
+  "name": "Slovenské vinotéky",
+  "title": "Slovenské vinotéky",
+  "description": "Zoznam pomenovaných vinoték na Slovensku (shop=wine) z OpenStreetMap.",
+  "category": "food",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 250,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "1. first day",
+      "latitude": 48.43813,
+      "longitude": 17.016913
+    },
+    {
+      "name": "A VÍNO? - Vinotéka Košice",
+      "latitude": 48.714969,
+      "longitude": 21.23695
+    },
+    {
+      "name": "A.M. Vinotéka",
+      "latitude": 48.076824,
+      "longitude": 17.269269
+    },
+    {
+      "name": "AkeVino",
+      "latitude": 48.902055,
+      "longitude": 18.037625
+    },
+    {
+      "name": "Anjelská vinotéka",
+      "latitude": 48.109205,
+      "longitude": 17.109128
+    },
+    {
+      "name": "barriq vinotéka",
+      "latitude": 48.759059,
+      "longitude": 17.829227
+    },
+    {
+      "name": "Barrique",
+      "latitude": 48.152726,
+      "longitude": 17.142367
+    },
+    {
+      "name": "Barrique",
+      "latitude": 48.718703,
+      "longitude": 21.258627
+    },
+    {
+      "name": "Bavorák",
+      "latitude": 47.799298,
+      "longitude": 18.715828
+    },
+    {
+      "name": "Baynach",
+      "latitude": 48.378712,
+      "longitude": 17.584732
+    },
+    {
+      "name": "BELVET",
+      "latitude": 48.144721,
+      "longitude": 17.145497
+    },
+    {
+      "name": "Bon Vino",
+      "latitude": 48.148966,
+      "longitude": 17.167148
+    },
+    {
+      "name": "BOVINEL s.r.o.",
+      "latitude": 48.301162,
+      "longitude": 17.343533
+    },
+    {
+      "name": "Bratia Číčkovci",
+      "latitude": 48.175278,
+      "longitude": 17.121576
+    },
+    {
+      "name": "Budatín",
+      "latitude": 49.236158,
+      "longitude": 18.738245
+    },
+    {
+      "name": "Cassale",
+      "latitude": 48.381372,
+      "longitude": 17.571673
+    },
+    {
+      "name": "Chateau Krakovany - podniková predajňa",
+      "latitude": 48.166362,
+      "longitude": 17.174639
+    },
+    {
+      "name": "Château Jano",
+      "latitude": 48.383956,
+      "longitude": 18.392895
+    },
+    {
+      "name": "Château Topoľčianky",
+      "latitude": 48.422228,
+      "longitude": 18.408332
+    },
+    {
+      "name": "Cintavý & Pisarčík",
+      "latitude": 48.26633,
+      "longitude": 17.309835
+    },
+    {
+      "name": "CORK WINE BAR",
+      "latitude": 48.142763,
+      "longitude": 17.108278
+    },
+    {
+      "name": "Delicate Soňa",
+      "latitude": 49.406073,
+      "longitude": 19.478058
+    },
+    {
+      "name": "Diskont",
+      "latitude": 48.615551,
+      "longitude": 19.142314
+    },
+    {
+      "name": "DiskontELLA",
+      "latitude": 48.997019,
+      "longitude": 21.243082
+    },
+    {
+      "name": "Enoteca Centro",
+      "latitude": 48.721496,
+      "longitude": 21.259212
+    },
+    {
+      "name": "Fiero wine",
+      "latitude": 48.088938,
+      "longitude": 18.185086
+    },
+    {
+      "name": "Filippo",
+      "latitude": 48.126106,
+      "longitude": 17.1148
+    },
+    {
+      "name": "Furmint",
+      "latitude": 48.739254,
+      "longitude": 21.273034
+    },
+    {
+      "name": "GLASS4U",
+      "latitude": 48.695963,
+      "longitude": 21.237228
+    },
+    {
+      "name": "Gustos market",
+      "latitude": 48.144508,
+      "longitude": 17.099474
+    },
+    {
+      "name": "Hlohovecká vinotéka Víno Černý",
+      "latitude": 48.426955,
+      "longitude": 17.793891
+    },
+    {
+      "name": "Karpatská perla",
+      "latitude": 48.125265,
+      "longitude": 17.210418
+    },
+    {
+      "name": "Kavino",
+      "latitude": 48.378042,
+      "longitude": 17.587643
+    },
+    {
+      "name": "Komôrka",
+      "latitude": 48.457746,
+      "longitude": 18.896785
+    },
+    {
+      "name": "KUMATI",
+      "latitude": 48.59492,
+      "longitude": 17.83169
+    },
+    {
+      "name": "La Bodega",
+      "latitude": 48.148558,
+      "longitude": 17.10949
+    },
+    {
+      "name": "La Bodega",
+      "latitude": 48.158061,
+      "longitude": 17.069693
+    },
+    {
+      "name": "La Vie en Rose",
+      "latitude": 48.149876,
+      "longitude": 17.114481
+    },
+    {
+      "name": "LaVin",
+      "latitude": 48.219065,
+      "longitude": 17.396794
+    },
+    {
+      "name": "Le Bouchon Gourmand",
+      "latitude": 48.153771,
+      "longitude": 17.122139
+    },
+    {
+      "name": "Le Vino",
+      "latitude": 48.127873,
+      "longitude": 17.094703
+    },
+    {
+      "name": "LE VINO",
+      "latitude": 48.149163,
+      "longitude": 17.167182
+    },
+    {
+      "name": "Le Vino",
+      "latitude": 48.384395,
+      "longitude": 18.389238
+    },
+    {
+      "name": "Le Vino",
+      "latitude": 48.736068,
+      "longitude": 19.165062
+    },
+    {
+      "name": "Levicka viecha",
+      "latitude": 49.116777,
+      "longitude": 18.440063
+    },
+    {
+      "name": "Levická viecha",
+      "latitude": 48.158005,
+      "longitude": 17.12089
+    },
+    {
+      "name": "Levino",
+      "latitude": 48.312021,
+      "longitude": 18.069951
+    },
+    {
+      "name": "LL Wine",
+      "latitude": 48.128274,
+      "longitude": 17.121526
+    },
+    {
+      "name": "Longitál",
+      "latitude": 48.150362,
+      "longitude": 17.049352
+    },
+    {
+      "name": "Malé Divy",
+      "latitude": 48.336519,
+      "longitude": 17.310576
+    },
+    {
+      "name": "Matyšák",
+      "latitude": 48.127492,
+      "longitude": 17.096314
+    },
+    {
+      "name": "Matyšák",
+      "latitude": 48.19232,
+      "longitude": 17.733769
+    },
+    {
+      "name": "Matyšák",
+      "latitude": 48.703072,
+      "longitude": 18.916452
+    },
+    {
+      "name": "Matyšák",
+      "latitude": 49.439507,
+      "longitude": 18.790541
+    },
+    {
+      "name": "Matyšák shop",
+      "latitude": 48.028399,
+      "longitude": 17.313525
+    },
+    {
+      "name": "Matyšák Shop",
+      "latitude": 48.718043,
+      "longitude": 21.263532
+    },
+    {
+      "name": "Merlot",
+      "latitude": 48.19397,
+      "longitude": 17.033466
+    },
+    {
+      "name": "Mestská vinotéka",
+      "latitude": 48.285806,
+      "longitude": 17.269796
+    },
+    {
+      "name": "Miloš Máťuš",
+      "latitude": 48.21107,
+      "longitude": 17.155953
+    },
+    {
+      "name": "Myvino",
+      "latitude": 48.154925,
+      "longitude": 17.165548
+    },
+    {
+      "name": "N-víno",
+      "latitude": 49.221765,
+      "longitude": 18.559351
+    },
+    {
+      "name": "Na víno",
+      "latitude": 48.157119,
+      "longitude": 17.048007
+    },
+    {
+      "name": "NOViNKA",
+      "latitude": 48.154138,
+      "longitude": 17.123201
+    },
+    {
+      "name": "Obchodík Vínny Dom",
+      "latitude": 48.198764,
+      "longitude": 17.132116
+    },
+    {
+      "name": "Ostrožovič spol. s r. o.",
+      "latitude": 48.466524,
+      "longitude": 21.675907
+    },
+    {
+      "name": "Packa",
+      "latitude": 48.150139,
+      "longitude": 17.11735
+    },
+    {
+      "name": "Perfetto",
+      "latitude": 48.998919,
+      "longitude": 21.238108
+    },
+    {
+      "name": "petit VIN",
+      "latitude": 48.116685,
+      "longitude": 17.097418
+    },
+    {
+      "name": "Pezinské sudové víno",
+      "latitude": 48.140102,
+      "longitude": 17.202433
+    },
+    {
+      "name": "Pezinské sudové víno",
+      "latitude": 48.387408,
+      "longitude": 17.600463
+    },
+    {
+      "name": "Pezinské víno",
+      "latitude": 48.157528,
+      "longitude": 17.168488
+    },
+    {
+      "name": "Piccolino Víno",
+      "latitude": 48.721306,
+      "longitude": 21.261634
+    },
+    {
+      "name": "Pivnica",
+      "latitude": 48.902441,
+      "longitude": 21.83258
+    },
+    {
+      "name": "Porta Italia",
+      "latitude": 48.160603,
+      "longitude": 17.127479
+    },
+    {
+      "name": "Predaj sudového vína",
+      "latitude": 48.31068,
+      "longitude": 18.096989
+    },
+    {
+      "name": "Predaj sudových vín",
+      "latitude": 48.126951,
+      "longitude": 17.123323
+    },
+    {
+      "name": "Predaj vína - Chateau Topoľčianky",
+      "latitude": 48.383637,
+      "longitude": 18.391934
+    },
+    {
+      "name": "Prečo",
+      "latitude": 48.148863,
+      "longitude": 17.10318
+    },
+    {
+      "name": "Radničná Vinotéka",
+      "latitude": 48.286649,
+      "longitude": 17.270434
+    },
+    {
+      "name": "Račianska vinotéka",
+      "latitude": 48.21403,
+      "longitude": 17.151772
+    },
+    {
+      "name": "repa winery",
+      "latitude": 48.305449,
+      "longitude": 17.346009
+    },
+    {
+      "name": "SANVIN",
+      "latitude": 47.89489,
+      "longitude": 17.782872
+    },
+    {
+      "name": "Skalická vinotéka",
+      "latitude": 48.845438,
+      "longitude": 17.225811
+    },
+    {
+      "name": "Slovenské vína",
+      "latitude": 48.983994,
+      "longitude": 21.250116
+    },
+    {
+      "name": "Smodel",
+      "latitude": 48.026068,
+      "longitude": 17.309936
+    },
+    {
+      "name": "Spirit of wine",
+      "latitude": 48.147974,
+      "longitude": 17.110508
+    },
+    {
+      "name": "Spolok Svätého Vojtecha",
+      "latitude": 48.736415,
+      "longitude": 19.144427
+    },
+    {
+      "name": "Sudové vína VČIELKA",
+      "latitude": 48.987118,
+      "longitude": 21.265955
+    },
+    {
+      "name": "Sudové víno",
+      "latitude": 48.981091,
+      "longitude": 21.252349
+    },
+    {
+      "name": "Sudové víno Rabak",
+      "latitude": 48.635642,
+      "longitude": 17.153526
+    },
+    {
+      "name": "Syrotéka & Vinotéka Rúfus",
+      "latitude": 49.218742,
+      "longitude": 18.740322
+    },
+    {
+      "name": "Tatranský vinohrad",
+      "latitude": 49.164506,
+      "longitude": 20.279557
+    },
+    {
+      "name": "Tibavín",
+      "latitude": 48.756374,
+      "longitude": 21.925974
+    },
+    {
+      "name": "Tokaj & co",
+      "latitude": 48.403147,
+      "longitude": 21.66581
+    },
+    {
+      "name": "Tokajská vináreň",
+      "latitude": 48.631021,
+      "longitude": 21.718316
+    },
+    {
+      "name": "Trekja",
+      "latitude": 48.384074,
+      "longitude": 18.394154
+    },
+    {
+      "name": "Trunk",
+      "latitude": 48.145723,
+      "longitude": 17.106976
+    },
+    {
+      "name": "U anjelička",
+      "latitude": 48.943891,
+      "longitude": 20.566192
+    },
+    {
+      "name": "U Janky",
+      "latitude": 48.726911,
+      "longitude": 21.255376
+    },
+    {
+      "name": "U Kadnára",
+      "latitude": 48.156093,
+      "longitude": 17.059445
+    },
+    {
+      "name": "U Mikuláša",
+      "latitude": 48.7161,
+      "longitude": 21.260353
+    },
+    {
+      "name": "U Mira",
+      "latitude": 48.580776,
+      "longitude": 19.146347
+    },
+    {
+      "name": "U muzikantov",
+      "latitude": 49.096785,
+      "longitude": 19.588861
+    },
+    {
+      "name": "Viecha",
+      "latitude": 48.710907,
+      "longitude": 20.480781
+    },
+    {
+      "name": "Viecha modranských vinárov",
+      "latitude": 48.153579,
+      "longitude": 17.119149
+    },
+    {
+      "name": "Viecha pod klenbami - vináreň a vinotéka",
+      "latitude": 48.997616,
+      "longitude": 21.239193
+    },
+    {
+      "name": "Villa Cassa",
+      "latitude": 48.722671,
+      "longitude": 21.259237
+    },
+    {
+      "name": "Villa Vino Rača",
+      "latitude": 48.21347,
+      "longitude": 17.152276
+    },
+    {
+      "name": "Viluto",
+      "latitude": 49.139187,
+      "longitude": 20.219778
+    },
+    {
+      "name": "Vinanza",
+      "latitude": 48.241314,
+      "longitude": 18.317973
+    },
+    {
+      "name": "Vinarstvo Miluron",
+      "latitude": 49.224538,
+      "longitude": 18.738474
+    },
+    {
+      "name": "Vineria",
+      "latitude": 48.558742,
+      "longitude": 18.175466
+    },
+    {
+      "name": "Vino dei vini",
+      "latitude": 48.149032,
+      "longitude": 17.116824
+    },
+    {
+      "name": "Vino Levica",
+      "latitude": 48.73085,
+      "longitude": 21.242092
+    },
+    {
+      "name": "Vino Levice",
+      "latitude": 48.128457,
+      "longitude": 17.112297
+    },
+    {
+      "name": "VinoDecant",
+      "latitude": 48.942737,
+      "longitude": 20.569257
+    },
+    {
+      "name": "Vinofil",
+      "latitude": 48.876501,
+      "longitude": 18.025834
+    },
+    {
+      "name": "Vinohradnícko vinárske družstvo podielnikov KARPATY",
+      "latitude": 48.27539,
+      "longitude": 17.252296
+    },
+    {
+      "name": "Vinohradnícky dom \"U Studánky\"",
+      "latitude": 48.822544,
+      "longitude": 17.220931
+    },
+    {
+      "name": "Vinohradníctvo a vinárstvo Vladár a syn",
+      "latitude": 48.175127,
+      "longitude": 17.12052
+    },
+    {
+      "name": "Vinopolitan Vinotéka",
+      "latitude": 48.146206,
+      "longitude": 17.109625
+    },
+    {
+      "name": "vinotake",
+      "latitude": 48.044266,
+      "longitude": 17.15533
+    },
+    {
+      "name": "Vinoteka pod mostom",
+      "latitude": 48.736707,
+      "longitude": 18.760702
+    },
+    {
+      "name": "VINOTHECA",
+      "latitude": 48.895953,
+      "longitude": 18.042913
+    },
+    {
+      "name": "Vinotéka",
+      "latitude": 47.993035,
+      "longitude": 17.62239
+    },
+    {
+      "name": "Vinotéka",
+      "latitude": 48.117665,
+      "longitude": 17.110384
+    },
+    {
+      "name": "Vinotéka",
+      "latitude": 48.12631,
+      "longitude": 17.12156
+    },
+    {
+      "name": "Vinotéka",
+      "latitude": 48.19104,
+      "longitude": 17.133871
+    },
+    {
+      "name": "Vinotéka",
+      "latitude": 48.50337,
+      "longitude": 17.983886
+    },
+    {
+      "name": "Vinotéka",
+      "latitude": 48.506661,
+      "longitude": 17.431012
+    },
+    {
+      "name": "Vinotéka",
+      "latitude": 48.878764,
+      "longitude": 18.024225
+    },
+    {
+      "name": "Vinotéka",
+      "latitude": 48.934682,
+      "longitude": 18.145935
+    },
+    {
+      "name": "Vinotéka",
+      "latitude": 49.209355,
+      "longitude": 19.294554
+    },
+    {
+      "name": "Vinotéka - Pre zdravie",
+      "latitude": 49.025269,
+      "longitude": 18.210495
+    },
+    {
+      "name": "Vinotéka 813",
+      "latitude": 48.304153,
+      "longitude": 18.081853
+    },
+    {
+      "name": "Vinotéka Alla",
+      "latitude": 48.214145,
+      "longitude": 18.602685
+    },
+    {
+      "name": "Vinotéka Ambriel",
+      "latitude": 48.130671,
+      "longitude": 17.195723
+    },
+    {
+      "name": "Vinotéka Cassale",
+      "latitude": 48.375076,
+      "longitude": 17.576428
+    },
+    {
+      "name": "Vinotéka Cassalle",
+      "latitude": 48.369839,
+      "longitude": 17.567877
+    },
+    {
+      "name": "Vinotéka Chateau-vin",
+      "latitude": 48.256618,
+      "longitude": 17.263091
+    },
+    {
+      "name": "Vinotéka Chceš To !",
+      "latitude": 48.097343,
+      "longitude": 17.111391
+    },
+    {
+      "name": "Vinotéka Château Topoľčianky",
+      "latitude": 48.208202,
+      "longitude": 18.60661
+    },
+    {
+      "name": "Vinotéka Château Topoľčianky",
+      "latitude": 48.216989,
+      "longitude": 18.603045
+    },
+    {
+      "name": "Vinotéka Cyprich",
+      "latitude": 48.195147,
+      "longitude": 17.141551
+    },
+    {
+      "name": "Vinotéka Diva-Wine",
+      "latitude": 48.62129,
+      "longitude": 18.395239
+    },
+    {
+      "name": "Vinotéka Don Luca",
+      "latitude": 48.205294,
+      "longitude": 16.975638
+    },
+    {
+      "name": "Vinotéka Herlianska",
+      "latitude": 48.15925,
+      "longitude": 17.155954
+    },
+    {
+      "name": "Vinotéka Horniš",
+      "latitude": 48.756155,
+      "longitude": 17.830343
+    },
+    {
+      "name": "Vinotéka Iršai",
+      "latitude": 48.75834,
+      "longitude": 19.157048
+    },
+    {
+      "name": "Vinotéka Italiana",
+      "latitude": 49.054711,
+      "longitude": 20.301342
+    },
+    {
+      "name": "Vinotéka J & R Pretzelmayer",
+      "latitude": 48.39237,
+      "longitude": 17.335069
+    },
+    {
+      "name": "Vinotéka Kram",
+      "latitude": 48.462573,
+      "longitude": 21.644698
+    },
+    {
+      "name": "Vinotéka Kult",
+      "latitude": 48.76067,
+      "longitude": 17.835469
+    },
+    {
+      "name": "Vinotéka Martina",
+      "latitude": 48.425874,
+      "longitude": 17.801415
+    },
+    {
+      "name": "Vinotéka Matyšák",
+      "latitude": 47.761689,
+      "longitude": 18.130588
+    },
+    {
+      "name": "Vinotéka Matyšák",
+      "latitude": 48.212197,
+      "longitude": 18.58666
+    },
+    {
+      "name": "Vinotéka Matyšák",
+      "latitude": 48.992848,
+      "longitude": 21.241429
+    },
+    {
+      "name": "Vinotéka Nová Lesná",
+      "latitude": 49.122749,
+      "longitude": 20.265463
+    },
+    {
+      "name": "Vinotéka Nové Sady",
+      "latitude": 48.415206,
+      "longitude": 17.978528
+    },
+    {
+      "name": "Vinotéka Pereg",
+      "latitude": 48.157942,
+      "longitude": 17.173199
+    },
+    {
+      "name": "Vinotéka pod hradom",
+      "latitude": 48.144563,
+      "longitude": 17.102224
+    },
+    {
+      "name": "Vinotéka pod Vinbargom",
+      "latitude": 49.300701,
+      "longitude": 21.275173
+    },
+    {
+      "name": "Vinotéka pri kúpalisku",
+      "latitude": 48.100476,
+      "longitude": 18.337765
+    },
+    {
+      "name": "Vinotéka pri Modrom kostolíku",
+      "latitude": 48.142719,
+      "longitude": 17.116573
+    },
+    {
+      "name": "Vinotéka Rodinka",
+      "latitude": 49.058115,
+      "longitude": 20.289775
+    },
+    {
+      "name": "Vinotéka s darčekmi Šváby",
+      "latitude": 48.973961,
+      "longitude": 21.262313
+    },
+    {
+      "name": "Vinotéka Sabo",
+      "latitude": 48.594778,
+      "longitude": 17.820838
+    },
+    {
+      "name": "Vinotéka Slimák",
+      "latitude": 48.170046,
+      "longitude": 17.129603
+    },
+    {
+      "name": "Vinotéka Solera",
+      "latitude": 48.663345,
+      "longitude": 20.530904
+    },
+    {
+      "name": "Vinotéka Tokaj",
+      "latitude": 48.461871,
+      "longitude": 21.641105
+    },
+    {
+      "name": "Vinotéka u Chrappu",
+      "latitude": 48.127057,
+      "longitude": 17.10723
+    },
+    {
+      "name": "Vinotéka u IvAnka",
+      "latitude": 48.581223,
+      "longitude": 18.247481
+    },
+    {
+      "name": "Vinotéka u Jarky",
+      "latitude": 48.993873,
+      "longitude": 21.240129
+    },
+    {
+      "name": "Vinotéka u Maja Šamorín",
+      "latitude": 48.025922,
+      "longitude": 17.309573
+    },
+    {
+      "name": "Vinotéka u Vlka",
+      "latitude": 48.681182,
+      "longitude": 17.365075
+    },
+    {
+      "name": "Vinotéka U ĎOĎA",
+      "latitude": 48.996627,
+      "longitude": 21.237799
+    },
+    {
+      "name": "vinotéka Viajur",
+      "latitude": 48.255457,
+      "longitude": 17.208589
+    },
+    {
+      "name": "Vinotéka Winetaste",
+      "latitude": 49.202739,
+      "longitude": 18.737911
+    },
+    {
+      "name": "Vinotéka Zolota",
+      "latitude": 48.88624,
+      "longitude": 21.68362
+    },
+    {
+      "name": "Vinotéka Čajkov",
+      "latitude": 48.211973,
+      "longitude": 18.593908
+    },
+    {
+      "name": "Vinum",
+      "latitude": 48.116864,
+      "longitude": 17.112922
+    },
+    {
+      "name": "Vináreň",
+      "latitude": 48.319355,
+      "longitude": 16.983585
+    },
+    {
+      "name": "Vináreň",
+      "latitude": 49.093675,
+      "longitude": 18.91752
+    },
+    {
+      "name": "Vináreň Domček",
+      "latitude": 48.988281,
+      "longitude": 21.246247
+    },
+    {
+      "name": "Vináreň Kolégium",
+      "latitude": 48.998874,
+      "longitude": 21.24023
+    },
+    {
+      "name": "Vinárska stodola",
+      "latitude": 48.170142,
+      "longitude": 17.129062
+    },
+    {
+      "name": "Vinárska Stodola",
+      "latitude": 48.308769,
+      "longitude": 18.115374
+    },
+    {
+      "name": "Vinársky dom Petra Podolu",
+      "latitude": 48.790787,
+      "longitude": 17.123049
+    },
+    {
+      "name": "Vinárstvo Bočko",
+      "latitude": 48.307173,
+      "longitude": 17.336112
+    },
+    {
+      "name": "Vinárstvo František Kucharič",
+      "latitude": 48.826678,
+      "longitude": 17.227871
+    },
+    {
+      "name": "Vinárstvo František Okánik",
+      "latitude": 48.831618,
+      "longitude": 17.234381
+    },
+    {
+      "name": "Vinárstvo Habsburg",
+      "latitude": 48.810067,
+      "longitude": 17.166904
+    },
+    {
+      "name": "Vinárstvo Ján Kadlec",
+      "latitude": 48.825924,
+      "longitude": 17.223349
+    },
+    {
+      "name": "Vinárstvo Kopeček",
+      "latitude": 48.842943,
+      "longitude": 17.238799
+    },
+    {
+      "name": "Vinárstvo Kukumberg",
+      "latitude": 48.306571,
+      "longitude": 17.337144
+    },
+    {
+      "name": "Vinárstvo miluron",
+      "latitude": 48.157936,
+      "longitude": 17.173087
+    },
+    {
+      "name": "Vinárstvo Miluron",
+      "latitude": 48.355915,
+      "longitude": 19.065544
+    },
+    {
+      "name": "Vinárstvo Pavol Cingel",
+      "latitude": 48.82693,
+      "longitude": 17.228046
+    },
+    {
+      "name": "Vinárstvo Pavol Vyskoč",
+      "latitude": 48.82339,
+      "longitude": 17.221493
+    },
+    {
+      "name": "Vinárstvo Peter Bránecký",
+      "latitude": 48.834082,
+      "longitude": 17.234175
+    },
+    {
+      "name": "Vinárstvo Sadloň",
+      "latitude": 48.231578,
+      "longitude": 17.373652
+    },
+    {
+      "name": "Vinárstvo Sadloň",
+      "latitude": 48.288869,
+      "longitude": 17.222776
+    },
+    {
+      "name": "Vinárstvo Syč",
+      "latitude": 49.114986,
+      "longitude": 19.034918
+    },
+    {
+      "name": "Vinárstvo Vladimír Grečner",
+      "latitude": 48.832283,
+      "longitude": 17.234322
+    },
+    {
+      "name": "ViPeF spol. s r.o.",
+      "latitude": 48.206666,
+      "longitude": 17.359342
+    },
+    {
+      "name": "Vlanino vinotéka",
+      "latitude": 48.118546,
+      "longitude": 17.115945
+    },
+    {
+      "name": "Vína z mlyna",
+      "latitude": 48.420936,
+      "longitude": 17.371416
+    },
+    {
+      "name": "Vínimka",
+      "latitude": 48.142341,
+      "longitude": 17.106368
+    },
+    {
+      "name": "Víno",
+      "latitude": 48.193896,
+      "longitude": 17.052115
+    },
+    {
+      "name": "Víno ako Liek",
+      "latitude": 49.191115,
+      "longitude": 18.765523
+    },
+    {
+      "name": "Víno Bočko",
+      "latitude": 48.298277,
+      "longitude": 17.349656
+    },
+    {
+      "name": "Víno Chvostek",
+      "latitude": 48.210669,
+      "longitude": 17.146051
+    },
+    {
+      "name": "Víno Hruška",
+      "latitude": 48.167664,
+      "longitude": 17.153537
+    },
+    {
+      "name": "Víno Hruška",
+      "latitude": 48.726556,
+      "longitude": 21.257206
+    },
+    {
+      "name": "Víno Hruška",
+      "latitude": 48.9911,
+      "longitude": 21.247914
+    },
+    {
+      "name": "Víno Hviezdoslavov",
+      "latitude": 48.060641,
+      "longitude": 17.361599
+    },
+    {
+      "name": "Víno Karpatia",
+      "latitude": 49.07723,
+      "longitude": 18.927014
+    },
+    {
+      "name": "Víno Lenci",
+      "latitude": 48.744688,
+      "longitude": 19.109415
+    },
+    {
+      "name": "Víno Lenci",
+      "latitude": 48.758877,
+      "longitude": 19.167253
+    },
+    {
+      "name": "Víno Levice",
+      "latitude": 47.799238,
+      "longitude": 18.710902
+    },
+    {
+      "name": "Víno Levice",
+      "latitude": 48.12022,
+      "longitude": 17.130329
+    },
+    {
+      "name": "Víno Levice",
+      "latitude": 48.121899,
+      "longitude": 17.115487
+    },
+    {
+      "name": "Víno Levice",
+      "latitude": 48.157996,
+      "longitude": 17.131672
+    },
+    {
+      "name": "Víno Levice",
+      "latitude": 48.162868,
+      "longitude": 17.124244
+    },
+    {
+      "name": "Víno Levice",
+      "latitude": 48.164113,
+      "longitude": 17.170659
+    },
+    {
+      "name": "Víno Levice",
+      "latitude": 48.650588,
+      "longitude": 20.525147
+    },
+    {
+      "name": "Víno Levice",
+      "latitude": 48.712221,
+      "longitude": 21.239049
+    },
+    {
+      "name": "Víno Levice",
+      "latitude": 48.71868,
+      "longitude": 18.258751
+    },
+    {
+      "name": "Víno Levice",
+      "latitude": 48.740945,
+      "longitude": 21.266248
+    },
+    {
+      "name": "Víno Levice",
+      "latitude": 48.756178,
+      "longitude": 17.828018
+    },
+    {
+      "name": "Víno Levice",
+      "latitude": 48.757448,
+      "longitude": 17.837977
+    },
+    {
+      "name": "Víno Levice",
+      "latitude": 48.908658,
+      "longitude": 20.874231
+    },
+    {
+      "name": "Víno Levice",
+      "latitude": 49.202681,
+      "longitude": 18.734555
+    },
+    {
+      "name": "Víno Masaryk",
+      "latitude": 48.84722,
+      "longitude": 17.223519
+    },
+    {
+      "name": "Víno Matyšák",
+      "latitude": 48.144366,
+      "longitude": 17.129548
+    },
+    {
+      "name": "Víno Mrva&Stanko",
+      "latitude": 48.38896,
+      "longitude": 17.561141
+    },
+    {
+      "name": "Víno od Matyšáka",
+      "latitude": 48.113328,
+      "longitude": 17.112722
+    },
+    {
+      "name": "Víno Pútec - Natali",
+      "latitude": 48.308946,
+      "longitude": 17.289156
+    },
+    {
+      "name": "Víno Rakyta",
+      "latitude": 48.208073,
+      "longitude": 17.143857
+    },
+    {
+      "name": "Víno Vilo",
+      "latitude": 48.884567,
+      "longitude": 18.033346
+    },
+    {
+      "name": "VÍNODOM Topoľčianky",
+      "latitude": 48.418783,
+      "longitude": 18.412264
+    },
+    {
+      "name": "Vínotéka 83",
+      "latitude": 48.302851,
+      "longitude": 18.051042
+    },
+    {
+      "name": "Vínotéka Matyšák",
+      "latitude": 48.15724,
+      "longitude": 17.104814
+    },
+    {
+      "name": "Vínotéka Matyšák",
+      "latitude": 49.218834,
+      "longitude": 18.741054
+    },
+    {
+      "name": "Wine Shop",
+      "latitude": 48.123201,
+      "longitude": 17.117017
+    },
+    {
+      "name": "Winter Wine Club",
+      "latitude": 48.238751,
+      "longitude": 17.034328
+    },
+    {
+      "name": "Winterberg",
+      "latitude": 48.842937,
+      "longitude": 17.241575
+    },
+    {
+      "name": "World Wine Gallery",
+      "latitude": 48.751603,
+      "longitude": 17.567709
+    },
+    {
+      "name": "Zlaty Strapec",
+      "latitude": 48.400701,
+      "longitude": 21.746621
+    },
+    {
+      "name": "Zlaté hrozno",
+      "latitude": 48.179564,
+      "longitude": 17.044557
+    }
+  ],
+  "meta": {
+    "title": "Slovenské vinotéky - Bezplatné stiahnutie",
+    "description": "Zoznam pomenovaných vinoték na Slovensku (shop=wine) z OpenStreetMap. Obsahuje 250 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Slovenské vinotéky | ListBase",
+    "seo_description": "Stiahnuť Slovenské vinotéky — 250 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 250 záznamov / 3 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

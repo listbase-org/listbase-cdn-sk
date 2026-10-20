@@ -1,0 +1,386 @@
+{
+  "id": "sk-piestany-obce",
+  "name": "Obce v okrese Piešťany",
+  "title": "Obce v okrese Piešťany",
+  "description": "Všetky obce (municipality) v okrese Piešťany, Trnavský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 64,
+      "fullname": "Banka",
+      "shortname": "Banka",
+      "zip": "921 01",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 90,
+      "fullname": "Bašovce",
+      "shortname": "Bašovce",
+      "zip": "922 01",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 225,
+      "fullname": "Borovce",
+      "shortname": "Borovce",
+      "zip": "922 09",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1194,
+      "fullname": "Chtelnica",
+      "shortname": "Chtelnica",
+      "zip": "922 05",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 666,
+      "fullname": "Dolný Lopašov",
+      "shortname": "Dolný Lopašov",
+      "zip": "922 04",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 689,
+      "fullname": "Drahovce",
+      "shortname": "Drahovce",
+      "zip": "922 41",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 724,
+      "fullname": "Dubovany",
+      "shortname": "Dubovany",
+      "zip": "922 08",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 739,
+      "fullname": "Ducové",
+      "shortname": "Ducové",
+      "zip": "922 21",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1137,
+      "fullname": "Hubina",
+      "shortname": "Hubina",
+      "zip": "922 21",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1474,
+      "fullname": "Kocurice",
+      "shortname": "Kocurice",
+      "zip": "921 01",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1475,
+      "fullname": "Kočín",
+      "shortname": "Kočín",
+      "zip": "922 04",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1625,
+      "fullname": "Krakovany",
+      "shortname": "Krakovany",
+      "zip": "922 02",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 1780,
+      "fullname": "Lančár",
+      "shortname": "Lančár",
+      "zip": "922 04",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2065,
+      "fullname": "Malé Orvište",
+      "shortname": "Malé Orvište",
+      "zip": "922 01",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2250,
+      "fullname": "Moravany nad Váhom",
+      "shortname": "Moravany nad Váhom",
+      "zip": "922 21",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2346,
+      "fullname": "Nižná",
+      "shortname": "Nižná",
+      "zip": "922 06",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2545,
+      "fullname": "Ostrov",
+      "shortname": "Ostrov",
+      "zip": "922 01",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2610,
+      "fullname": "Pečeňady",
+      "shortname": "Pečeňady",
+      "zip": "922 07",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2643,
+      "fullname": "Piešťany",
+      "shortname": "Piešťany",
+      "zip": "921 01",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2804,
+      "fullname": "Prašník",
+      "shortname": "Prašník",
+      "zip": "922 11",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2872,
+      "fullname": "Pustá Ves",
+      "shortname": "Pustá Ves",
+      "zip": "922 11",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2916,
+      "fullname": "Rakovice",
+      "shortname": "Rakovice",
+      "zip": "922 08",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 2939,
+      "fullname": "Ratnovce",
+      "shortname": "Ratnovce",
+      "zip": "922 31",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3225,
+      "fullname": "Sokolovce",
+      "shortname": "Sokolovce",
+      "zip": "922 31",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3576,
+      "fullname": "Trebatice",
+      "shortname": "Trebatice",
+      "zip": "922 10",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3847,
+      "fullname": "Veselé",
+      "shortname": "Veselé",
+      "zip": "922 08",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3785,
+      "fullname": "Veľké Kostoľany",
+      "shortname": "Veľké Kostoľany",
+      "zip": "922 07",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3793,
+      "fullname": "Veľké Orvište",
+      "shortname": "Veľké Orvište",
+      "zip": "922 01",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3941,
+      "fullname": "Vrbové",
+      "shortname": "Vrbové",
+      "zip": "922 03",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3458,
+      "fullname": "Šterusy",
+      "shortname": "Šterusy",
+      "zip": "922 03",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3427,
+      "fullname": "Šípkové",
+      "shortname": "Šípkové",
+      "zip": "922 03",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    },
+    {
+      "id": 3503,
+      "fullname": "Ťapkové",
+      "shortname": "Ťapkové",
+      "zip": "922 08",
+      "district_id": 45,
+      "okres": "Piešťany",
+      "region_id": 7,
+      "kraj": "Trnavský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Piešťany - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Piešťany, Trnavský kraj — s PSČ a kódom okresu. Obsahuje 32 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Piešťany | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Piešťany — 32 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 32 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

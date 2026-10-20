@@ -1,0 +1,304 @@
+{
+  "id": "sk-predsedovia-narodnej-rady",
+  "name": "Predsedovia Národnej rady Slovenskej republiky",
+  "title": "Predsedovia Národnej rady Slovenskej republiky",
+  "description": "Zoznam predsedov (a predsedníčok) Národnej rady Slovenskej republiky (NRSR) od vzniku samostatnej Slovenskej republiky 1. januára 1993. Údaje obsahujú meno, biografické dáta, obdobie vo funkcii, politickú stranu a odkazy na Wikipédiu a Wikidáta.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "ordinal_number",
+      "label": "Ordinal Number",
+      "type": "number"
+    },
+    {
+      "key": "qid",
+      "label": "Qid",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_sk",
+      "label": "Name Sk",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "native_name",
+      "label": "Native Name",
+      "type": "string"
+    },
+    {
+      "key": "birth_date",
+      "label": "Birth Date",
+      "type": "date"
+    },
+    {
+      "key": "death_date",
+      "label": "Death Date",
+      "type": "date"
+    },
+    {
+      "key": "image_url",
+      "label": "Image Url",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_sk",
+      "label": "Wikipedia Sk",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_en",
+      "label": "Wikipedia En",
+      "type": "string"
+    },
+    {
+      "key": "terms_count",
+      "label": "Terms Count",
+      "type": "number"
+    },
+    {
+      "key": "first_term_start",
+      "label": "First Term Start",
+      "type": "date"
+    },
+    {
+      "key": "last_term_end",
+      "label": "Last Term End",
+      "type": "date"
+    },
+    {
+      "key": "terms",
+      "label": "Terms",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "ordinal_number": 1,
+      "qid": "Q57295",
+      "slug": "ivan-gasparovic",
+      "name_sk": "Ivan Gašparovič",
+      "name_en": "Ivan Gašparovič",
+      "native_name": "Ivan Gašparovič",
+      "birth_date": "1941-03-27",
+      "death_date": "",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ivan_Gasparovic.jpg",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57295",
+      "wikipedia_sk": "https://sk.wikipedia.org/wiki/Ivan_Ga%C5%A1parovi%C4%8D",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Ivan_Ga%C5%A1parovi%C4%8D",
+      "terms_count": 1,
+      "first_term_start": "1993-01-01",
+      "last_term_end": "1998-10-29",
+      "terms": "1993-01-01: 1998-10-29: [object Object]"
+    },
+    {
+      "ordinal_number": 2,
+      "qid": "Q1300892",
+      "slug": "jozef-migas",
+      "name_sk": "Jozef Migaš",
+      "name_en": "Jozef Migaš",
+      "native_name": "Jozef Migaš",
+      "birth_date": "1954-01-07",
+      "death_date": "",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jozef_Migaš_at_Rhodes_Forum_2014.jpg",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1300892",
+      "wikipedia_sk": "https://sk.wikipedia.org/wiki/Jozef_Miga%C5%A1",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Jozef_Miga%C5%A1",
+      "terms_count": 1,
+      "first_term_start": "1998-10-29",
+      "last_term_end": "2002-10-15",
+      "terms": "1998-10-29: 2002-10-15: [object Object]"
+    },
+    {
+      "ordinal_number": 3,
+      "qid": "Q700735",
+      "slug": "pavol-hrusovsky",
+      "name_sk": "Pavol Hrušovský",
+      "name_en": "Pavol Hrušovský",
+      "native_name": "Pavol Hrušovský",
+      "birth_date": "1952-06-09",
+      "death_date": "",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pavol_Hrušovský_2010.jpg",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q700735",
+      "wikipedia_sk": "https://sk.wikipedia.org/wiki/Pavol_Hru%C5%A1ovsk%C3%BD",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Pavol_Hru%C5%A1ovsk%C3%BD",
+      "terms_count": 2,
+      "first_term_start": "2002-10-15",
+      "last_term_end": "2012-04-04",
+      "terms": "2002-10-15: 2006-02-07: [object Object], 2011-10-13: 2012-04-04: [object Object]"
+    },
+    {
+      "ordinal_number": 4,
+      "qid": "Q283359",
+      "slug": "bela-bugar",
+      "name_sk": "Béla Bugár",
+      "name_en": "Béla Bugár",
+      "native_name": "",
+      "birth_date": "1958-07-07",
+      "death_date": "",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bela_Bugar,_small_portrait.jpg",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q283359",
+      "wikipedia_sk": "https://sk.wikipedia.org/wiki/B%C3%A9la_Bug%C3%A1r",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/B%C3%A9la_Bug%C3%A1r",
+      "terms_count": 1,
+      "first_term_start": "2006-02-07",
+      "last_term_end": "2006-07-04",
+      "terms": "2006-02-07: 2006-07-04: [object Object],[object Object]"
+    },
+    {
+      "ordinal_number": 5,
+      "qid": "Q1374505",
+      "slug": "pavol-paska",
+      "name_sk": "Pavol Paška",
+      "name_en": "Pavol Paška",
+      "native_name": "Pavol Paška",
+      "birth_date": "1958-02-23",
+      "death_date": "2018-04-06",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pavol_Paska.jpg",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1374505",
+      "wikipedia_sk": "https://sk.wikipedia.org/wiki/Pavol_Pa%C5%A1ka",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Pavol_Pa%C5%A1ka",
+      "terms_count": 2,
+      "first_term_start": "2006-06-17",
+      "last_term_end": "2014-11-24",
+      "terms": "2006-06-17: 2010-06-11: [object Object], 2012-04-04: 2014-11-24: [object Object]"
+    },
+    {
+      "ordinal_number": 6,
+      "qid": "Q586798",
+      "slug": "richard-sulik",
+      "name_sk": "Richard Sulík",
+      "name_en": "Richard Sulík",
+      "native_name": "Richard Sulík",
+      "birth_date": "1968-01-12",
+      "death_date": "",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Richard_Sulík,_29_October_2022.jpg",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q586798",
+      "wikipedia_sk": "https://sk.wikipedia.org/wiki/Richard_Sul%C3%ADk",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Richard_Sul%C3%ADk",
+      "terms_count": 1,
+      "first_term_start": "2010-07-08",
+      "last_term_end": "2011-10-13",
+      "terms": "2010-07-08: 2011-10-13: [object Object]"
+    },
+    {
+      "ordinal_number": 7,
+      "qid": "Q12767802",
+      "slug": "jana-lassakova",
+      "name_sk": "Jana Laššáková",
+      "name_en": "Jana Laššáková",
+      "native_name": "",
+      "birth_date": "1952-05-22",
+      "death_date": "",
+      "image_url": "",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12767802",
+      "wikipedia_sk": "https://sk.wikipedia.org/wiki/Jana_La%C5%A1%C5%A1%C3%A1kov%C3%A1",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Jana_La%C5%A1%C5%A1%C3%A1kov%C3%A1",
+      "terms_count": 1,
+      "first_term_start": "2014-11-24",
+      "last_term_end": "2014-11-25",
+      "terms": "2014-11-24: 2014-11-25: [object Object]"
+    },
+    {
+      "ordinal_number": 8,
+      "qid": "Q17330556",
+      "slug": "peter-pellegrini",
+      "name_sk": "Peter Pellegrini",
+      "name_en": "Peter Pellegrini",
+      "native_name": "Peter Pellegrini",
+      "birth_date": "1975-10-06",
+      "death_date": "",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Peter_Pellegrini,_2024_(cropped).jpg",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17330556",
+      "wikipedia_sk": "https://sk.wikipedia.org/wiki/Peter_Pellegrini",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Peter_Pellegrini",
+      "terms_count": 1,
+      "first_term_start": "2014-11-25",
+      "last_term_end": "2016-03-23",
+      "terms": "2014-11-25: 2016-03-23: [object Object]"
+    },
+    {
+      "ordinal_number": 9,
+      "qid": "Q13397958",
+      "slug": "andrej-danko",
+      "name_sk": "Andrej Danko",
+      "name_en": "Andrej Danko",
+      "native_name": "Andrej Danko",
+      "birth_date": "1974-08-12",
+      "death_date": "",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Andrej_Danko,_2018.jpg",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q13397958",
+      "wikipedia_sk": "https://sk.wikipedia.org/wiki/Andrej_Danko",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Andrej_Danko",
+      "terms_count": 1,
+      "first_term_start": "2016-03-23",
+      "last_term_end": "2020-03-20",
+      "terms": "2016-03-23: 2020-03-20: [object Object]"
+    },
+    {
+      "ordinal_number": 10,
+      "qid": "Q23022210",
+      "slug": "boris-kollar",
+      "name_sk": "Boris Kollár",
+      "name_en": "Boris Kollár",
+      "native_name": "",
+      "birth_date": "1965-08-14",
+      "death_date": "",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Boris_Kollár,_4_May_2022.jpg",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23022210",
+      "wikipedia_sk": "https://sk.wikipedia.org/wiki/Boris_Koll%C3%A1r",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Boris_Koll%C3%A1r",
+      "terms_count": 1,
+      "first_term_start": "2020-03-20",
+      "last_term_end": "2023-10-25",
+      "terms": "2020-03-20: 2023-10-25: [object Object]"
+    },
+    {
+      "ordinal_number": 11,
+      "qid": "Q3431152",
+      "slug": "richard-rasi",
+      "name_sk": "Richard Raši",
+      "name_en": "Richard Raši",
+      "native_name": "",
+      "birth_date": "1971-04-02",
+      "death_date": "",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Richard_Raši_in_May_2026.jpg",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3431152",
+      "wikipedia_sk": "https://sk.wikipedia.org/wiki/Richard_Ra%C5%A1i",
+      "wikipedia_en": "https://en.wikipedia.org/wiki/Richard_Ra%C5%A1i",
+      "terms_count": 1,
+      "first_term_start": "2025-03-26",
+      "last_term_end": "",
+      "terms": "2025-03-26: [object Object],[object Object]"
+    }
+  ],
+  "meta": {
+    "title": "Predsedovia Národnej rady Slovenskej republiky - Bezplatné stiahnutie",
+    "description": "Zoznam predsedov (a predsedníčok) Národnej rady Slovenskej republiky (NRSR) od vzniku samostatnej Slovenskej republiky 1. januára 1993. Údaje obsahujú meno, biografické dáta, obdobie vo funkcii, politickú stranu a odkazy na Wikipédiu a Wikidáta. Obsahuje 11 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Predsedovia Národnej rady Slovenskej republiky | ListBase",
+    "seo_description": "Stiahnuť Predsedovia Národnej rady Slovenskej republiky — 11 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 11 záznamov / 16 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

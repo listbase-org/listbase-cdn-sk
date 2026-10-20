@@ -1,0 +1,185 @@
+{
+  "id": "sk-kraje-iso",
+  "name": "Slovenské kraje s ISO 3166-2 kódmi a viacjazyčnými názvami",
+  "title": "Slovenské kraje s ISO 3166-2 kódmi a viacjazyčnými názvami",
+  "description": "Eight self-governing regions of the Slovak Republic (kraje) extracted from the openpotato/openholidaysapi.data monorepo (which seeds the OpenHolidays public API).  Each record carries the openpotato composite code (SK-XX), the official ISO 3166-2 subdivision code, the two-letter ShortName, and parallel names in Slovak (default), German, and English.  Complements the pre-existing sk-kraje slug (sk-only, no ISO codes) by adding German names (used in OpenHolidays cross-border documentation) and verified ISO 3166-2 references.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "iso_code",
+      "label": "Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "short_name",
+      "label": "Short Name",
+      "type": "string"
+    },
+    {
+      "key": "category_sk",
+      "label": "Category Sk",
+      "type": "string"
+    },
+    {
+      "key": "category_de",
+      "label": "Category De",
+      "type": "string"
+    },
+    {
+      "key": "category_en",
+      "label": "Category En",
+      "type": "string"
+    },
+    {
+      "key": "name_sk",
+      "label": "Name Sk",
+      "type": "string"
+    },
+    {
+      "key": "name_de",
+      "label": "Name De",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "official_languages",
+      "label": "Official Languages",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "country": "SK",
+      "code": "SK-BC",
+      "iso_code": "SK-BC",
+      "short_name": "BC",
+      "category_sk": "kraj",
+      "category_de": "Region",
+      "category_en": "region",
+      "name_sk": "Banskobystrický kraj",
+      "name_de": "Landesbezirk Banská",
+      "name_en": "Banská Bystrica Region",
+      "official_languages": "SK"
+    },
+    {
+      "country": "SK",
+      "code": "SK-BL",
+      "iso_code": "SK-BL",
+      "short_name": "BL",
+      "category_sk": "kraj",
+      "category_de": "Region",
+      "category_en": "region",
+      "name_sk": "Bratislavský kraj",
+      "name_de": "Landesbezirk Bratislava",
+      "name_en": "Bratislava Region",
+      "official_languages": "SK"
+    },
+    {
+      "country": "SK",
+      "code": "SK-KI",
+      "iso_code": "SK-KI",
+      "short_name": "KI",
+      "category_sk": "kraj",
+      "category_de": "Region",
+      "category_en": "region",
+      "name_sk": "Košický kraj",
+      "name_de": "Landesbezirk Košice",
+      "name_en": "Košice Region",
+      "official_languages": "SK"
+    },
+    {
+      "country": "SK",
+      "code": "SK-NI",
+      "iso_code": "SK-NI",
+      "short_name": "NI",
+      "category_sk": "kraj",
+      "category_de": "Region",
+      "category_en": "region",
+      "name_sk": "Nitriansky kraj",
+      "name_de": "Landesbezirk Nitra",
+      "name_en": "Nitra Region",
+      "official_languages": "SK"
+    },
+    {
+      "country": "SK",
+      "code": "SK-PV",
+      "iso_code": "SK-PV",
+      "short_name": "PV",
+      "category_sk": "kraj",
+      "category_de": "Region",
+      "category_en": "region",
+      "name_sk": "Prešovský kraj",
+      "name_de": "Landesbezirk Prešov",
+      "name_en": "Prešov Region",
+      "official_languages": "SK"
+    },
+    {
+      "country": "SK",
+      "code": "SK-TC",
+      "iso_code": "SK-TC",
+      "short_name": "TC",
+      "category_sk": "kraj",
+      "category_de": "Region",
+      "category_en": "region",
+      "name_sk": "Trenčiansky kraj",
+      "name_de": "Landesbezirk Trenčín",
+      "name_en": "Trenčín Region",
+      "official_languages": "SK"
+    },
+    {
+      "country": "SK",
+      "code": "SK-TA",
+      "iso_code": "SK-TA",
+      "short_name": "TA",
+      "category_sk": "kraj",
+      "category_de": "Region",
+      "category_en": "region",
+      "name_sk": "Trnavský kraj",
+      "name_de": "Landesbezirk Trnava",
+      "name_en": "Trnava Region",
+      "official_languages": "SK"
+    },
+    {
+      "country": "SK",
+      "code": "SK-ZI",
+      "iso_code": "SK-ZI",
+      "short_name": "ZI",
+      "category_sk": "kraj",
+      "category_de": "Region",
+      "category_en": "region",
+      "name_sk": "Žilinský kraj",
+      "name_de": "Landesbezirk Žilina",
+      "name_en": "Žilina Region",
+      "official_languages": "SK"
+    }
+  ],
+  "meta": {
+    "title": "Slovenské kraje s ISO 3166-2 kódmi a viacjazyčnými názvami - Bezplatné stiahnutie",
+    "description": "Eight self-governing regions of the Slovak Republic (kraje) extracted from the openpotato/openholidaysapi.data monorepo (which seeds the OpenHolidays public API).  Each record carries the openpotato composite code (SK-XX), the official ISO 3166-2 subdivision code, the two-letter ShortName, and parallel names in Slovak (default), German, and English.  Complements the pre-existing sk-kraje slug (sk-only, no ISO codes) by adding German names (used in OpenHolidays cross-border documentation) and verified ISO 3166-2 references. Obsahuje 8 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Slovenské kraje s ISO 3166-2 kódmi a viacjazyčnými názvami | ListBase",
+    "seo_description": "Stiahnuť Slovenské kraje s ISO 3166-2 kódmi a viacjazyčnými názvami — 8 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 8 záznamov / 11 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

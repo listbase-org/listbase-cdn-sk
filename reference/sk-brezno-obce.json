@@ -1,0 +1,706 @@
+{
+  "id": "sk-brezno-obce",
+  "name": "Obce v okrese Brezno",
+  "title": "Obce v okrese Brezno",
+  "description": "Všetky obce (municipality) v okrese Brezno, Banskobystrický kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 37,
+      "fullname": "Bacúch",
+      "shortname": "Bacúch",
+      "zip": "976 64",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 132,
+      "fullname": "Beňuš",
+      "shortname": "Beňuš",
+      "zip": "976 64",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 152,
+      "fullname": "Biele Vody",
+      "shortname": "Biele Vody",
+      "zip": "976 53",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 261,
+      "fullname": "Braväcovo",
+      "shortname": "Braväcovo",
+      "zip": "976 64",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 284,
+      "fullname": "Brezno",
+      "shortname": "Brezno",
+      "zip": 0,
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 303,
+      "fullname": "Bruchačka",
+      "shortname": "Bruchačka",
+      "zip": "976 51",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 335,
+      "fullname": "Bujakovo",
+      "shortname": "Bujakovo",
+      "zip": "977 01",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 360,
+      "fullname": "Bystrá",
+      "shortname": "Bystrá",
+      "zip": "977 01",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1197,
+      "fullname": "Chvatimech",
+      "shortname": "Chvatimech",
+      "zip": "976 81",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 581,
+      "fullname": "Dobroč",
+      "shortname": "Dobroč",
+      "zip": "976 52",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 604,
+      "fullname": "Dolná Lehota",
+      "shortname": "Dolná Lehota",
+      "zip": "976 98",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 686,
+      "fullname": "Drábsko",
+      "shortname": "Drábsko",
+      "zip": "976 53",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 723,
+      "fullname": "Dubová",
+      "shortname": "Dubová",
+      "zip": "976 97",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 779,
+      "fullname": "Fajtov",
+      "shortname": "Fajtov",
+      "zip": "976 52",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 793,
+      "fullname": "Filipovo",
+      "shortname": "Filipovo",
+      "zip": "976 64",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 815,
+      "fullname": "Gašparovo",
+      "shortname": "Gašparovo",
+      "zip": "976 64",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 915,
+      "fullname": "Heľpa",
+      "shortname": "Heľpa",
+      "zip": "976 68",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 978,
+      "fullname": "Horná Lehota",
+      "shortname": "Horná Lehota",
+      "zip": "976 81",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1115,
+      "fullname": "Hronec",
+      "shortname": "Hronec",
+      "zip": "976 45",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 882,
+      "fullname": "Hámor",
+      "shortname": "Hámor",
+      "zip": "976 66",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1285,
+      "fullname": "Jarabá",
+      "shortname": "Jarabá",
+      "zip": "977 01",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1292,
+      "fullname": "Jasenie",
+      "shortname": "Jasenie",
+      "zip": "976 75",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1314,
+      "fullname": "Javorina",
+      "shortname": "Javorina",
+      "zip": "976 53",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1277,
+      "fullname": "Jánošovka",
+      "shortname": "Jánošovka",
+      "zip": "976 52",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1513,
+      "fullname": "Komov",
+      "shortname": "Komov",
+      "zip": "976 52",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1644,
+      "fullname": "Krám",
+      "shortname": "Krám",
+      "zip": "976 52",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1758,
+      "fullname": "Kysuca",
+      "shortname": "Kysuca",
+      "zip": "976 53",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1907,
+      "fullname": "Lom nad Rimavicou",
+      "shortname": "Lom nad Rimavicou",
+      "zip": "976 53",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 1915,
+      "fullname": "Lopej",
+      "shortname": "Lopej",
+      "zip": "976 98",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2143,
+      "fullname": "Mazorníkovo",
+      "shortname": "Mazorníkovo",
+      "zip": "977 03",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2151,
+      "fullname": "Medveďovo",
+      "shortname": "Medveďovo",
+      "zip": "976 52",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2181,
+      "fullname": "Michalová",
+      "shortname": "Michalová",
+      "zip": "976 57",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2288,
+      "fullname": "Mýto pod Ďumbierom",
+      "shortname": "Mýto pod Ďumbierom",
+      "zip": "976 44",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2316,
+      "fullname": "Nemecká",
+      "shortname": "Nemecká",
+      "zip": "976 97",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2408,
+      "fullname": "Nová Maša",
+      "shortname": "Nová Maša",
+      "zip": "976 69",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2540,
+      "fullname": "Osrblie",
+      "shortname": "Osrblie",
+      "zip": "976 45",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2640,
+      "fullname": "Piesok",
+      "shortname": "Piesok",
+      "zip": "976 81",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2684,
+      "fullname": "Podbrezová",
+      "shortname": "Podbrezová",
+      "zip": "976 81",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2688,
+      "fullname": "Podholie",
+      "shortname": "Podholie",
+      "zip": "976 64",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2732,
+      "fullname": "Pohorelská Maša",
+      "shortname": "Pohorelská Maša",
+      "zip": "976 69",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2731,
+      "fullname": "Pohorelá",
+      "shortname": "Pohorelá",
+      "zip": "976 69",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2734,
+      "fullname": "Pohronská Polhora",
+      "shortname": "Pohronská Polhora",
+      "zip": "976 56",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2753,
+      "fullname": "Polomka",
+      "shortname": "Polomka",
+      "zip": "976 66",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2811,
+      "fullname": "Predajná",
+      "shortname": "Predajná",
+      "zip": "976 63",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2816,
+      "fullname": "Predné Halny",
+      "shortname": "Predné Halny",
+      "zip": "977 01",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2873,
+      "fullname": "Pusté",
+      "shortname": "Pusté",
+      "zip": "976 52",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2799,
+      "fullname": "Pôbišovo",
+      "shortname": "Pôbišovo",
+      "zip": "976 64",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 2943,
+      "fullname": "Ráztoka",
+      "shortname": "Ráztoka",
+      "zip": "976 97",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3125,
+      "fullname": "Sihla",
+      "shortname": "Sihla",
+      "zip": "976 53",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3141,
+      "fullname": "Skalica",
+      "shortname": "Skalica",
+      "zip": "976 81",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3521,
+      "fullname": "Telgárt",
+      "shortname": "Telgárt",
+      "zip": "976 73",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3703,
+      "fullname": "Vajsková",
+      "shortname": "Vajsková",
+      "zip": "976 98",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3705,
+      "fullname": "Valaská",
+      "shortname": "Valaská",
+      "zip": "976 46",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3715,
+      "fullname": "Vaľkovňa",
+      "shortname": "Vaľkovňa",
+      "zip": "976 69",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3947,
+      "fullname": "Vrchslatina",
+      "shortname": "Vrchslatina",
+      "zip": "976 53",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3963,
+      "fullname": "Vydrovo",
+      "shortname": "Vydrovo",
+      "zip": "976 52",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4038,
+      "fullname": "Zadné Halny",
+      "shortname": "Zadné Halny",
+      "zip": "977 01",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4140,
+      "fullname": "Zlatno",
+      "shortname": "Zlatno",
+      "zip": "976 69",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4060,
+      "fullname": "Zámostie",
+      "shortname": "Zámostie",
+      "zip": "976 97",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 4081,
+      "fullname": "Závadka nad Hronom",
+      "shortname": "Závadka nad Hronom",
+      "zip": "976 67",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 466,
+      "fullname": "Červená Skala",
+      "shortname": "Červená Skala",
+      "zip": "976 71",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 496,
+      "fullname": "Čierny Balog",
+      "shortname": "Čierny Balog",
+      "zip": "976 52",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3483,
+      "fullname": "Šumiac",
+      "shortname": "Šumiac",
+      "zip": "976 71",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    },
+    {
+      "id": 3491,
+      "fullname": "Švábolka",
+      "shortname": "Švábolka",
+      "zip": "976 69",
+      "district_id": 10,
+      "okres": "Brezno",
+      "region_id": 1,
+      "kraj": "Banskobystrický kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Brezno - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Brezno, Banskobystrický kraj — s PSČ a kódom okresu. Obsahuje 64 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Brezno | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Brezno — 64 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 64 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

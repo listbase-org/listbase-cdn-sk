@@ -1,0 +1,115 @@
+{
+  "id": "sk-merne-jednotky-angle",
+  "name": "Merné jednotky — kategória 'angle' (6)",
+  "title": "Merné jednotky — kategória 'angle' (6)",
+  "description": "Merné jednotky kategórie 'angle' z locale sk v CLDR, s názvami v slovenčine.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "skratka",
+      "label": "Skratka",
+      "type": "string"
+    },
+    {
+      "key": "uzky_tvar",
+      "label": "Uzky Tvar",
+      "type": "string"
+    },
+    {
+      "key": "vzor",
+      "label": "Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "angle-arc-minute",
+      "kategoria": "angle",
+      "nazov": "arcminúty",
+      "skratka": "′",
+      "uzky_tvar": "′",
+      "vzor": "{0} arcminút"
+    },
+    {
+      "id": 2,
+      "unit_code": "angle-arc-second",
+      "kategoria": "angle",
+      "nazov": "arcsekundy",
+      "skratka": "″",
+      "uzky_tvar": "″",
+      "vzor": "{0} arcsekúnd"
+    },
+    {
+      "id": 3,
+      "unit_code": "angle-degree",
+      "kategoria": "angle",
+      "nazov": "stupne",
+      "skratka": "°",
+      "uzky_tvar": "°",
+      "vzor": "{0} stupňov"
+    },
+    {
+      "id": 4,
+      "unit_code": "angle-radian",
+      "kategoria": "angle",
+      "nazov": "radiány",
+      "skratka": "rad",
+      "uzky_tvar": "rad",
+      "vzor": "{0} radiánov"
+    },
+    {
+      "id": 5,
+      "unit_code": "angle-revolution",
+      "kategoria": "angle",
+      "nazov": "otáčky",
+      "skratka": "ot.",
+      "uzky_tvar": "ot.",
+      "vzor": "{0} otáčok"
+    },
+    {
+      "id": 6,
+      "unit_code": "angle-steradian",
+      "kategoria": "angle",
+      "nazov": "steradiány",
+      "skratka": "sr",
+      "uzky_tvar": "sr",
+      "vzor": "{0} steradiánov"
+    }
+  ],
+  "meta": {
+    "title": "Merné jednotky — kategória 'angle' (6) - Bezplatné stiahnutie",
+    "description": "Merné jednotky kategórie 'angle' z locale sk v CLDR, s názvami v slovenčine. Obsahuje 6 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Merné jednotky — kategória 'angle' (6) | ListBase",
+    "seo_description": "Stiahnuť Merné jednotky — kategória 'angle' (6) — 6 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 6 záznamov / 7 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

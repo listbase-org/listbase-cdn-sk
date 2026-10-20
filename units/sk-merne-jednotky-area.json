@@ -1,0 +1,178 @@
+{
+  "id": "sk-merne-jednotky-area",
+  "name": "Merné jednotky — kategória 'area' (13)",
+  "title": "Merné jednotky — kategória 'area' (13)",
+  "description": "Merné jednotky kategórie 'area' z locale sk v CLDR, s názvami v slovenčine.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "skratka",
+      "label": "Skratka",
+      "type": "string"
+    },
+    {
+      "key": "uzky_tvar",
+      "label": "Uzky Tvar",
+      "type": "string"
+    },
+    {
+      "key": "vzor",
+      "label": "Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "area-acre",
+      "kategoria": "area",
+      "nazov": "akre",
+      "skratka": "akre",
+      "uzky_tvar": "ac",
+      "vzor": "{0} akrov"
+    },
+    {
+      "id": 2,
+      "unit_code": "area-bu-jp",
+      "kategoria": "area",
+      "nazov": "bu [JP]",
+      "skratka": "bu [JP]",
+      "uzky_tvar": "bu [JP]",
+      "vzor": "{0} bu [JP]"
+    },
+    {
+      "id": 3,
+      "unit_code": "area-cho",
+      "kategoria": "area",
+      "nazov": "cho [JP]",
+      "skratka": "cho [JP]",
+      "uzky_tvar": "cho [JP]",
+      "vzor": "{0} cho [JP]"
+    },
+    {
+      "id": 4,
+      "unit_code": "area-dunam",
+      "kategoria": "area",
+      "nazov": "dunamy",
+      "skratka": "dun.",
+      "uzky_tvar": "dun.",
+      "vzor": "{0} dunamov"
+    },
+    {
+      "id": 5,
+      "unit_code": "area-hectare",
+      "kategoria": "area",
+      "nazov": "hektáre",
+      "skratka": "hektáre",
+      "uzky_tvar": "ha",
+      "vzor": "{0} hektárov"
+    },
+    {
+      "id": 6,
+      "unit_code": "area-se-jp",
+      "kategoria": "area",
+      "nazov": "se [JP]",
+      "skratka": "se [JP]",
+      "uzky_tvar": "se [JP]",
+      "vzor": "{0} se [JP]"
+    },
+    {
+      "id": 7,
+      "unit_code": "area-square-centimeter",
+      "kategoria": "area",
+      "nazov": "štvorcové centimetre",
+      "skratka": "cm²",
+      "uzky_tvar": "cm²",
+      "vzor": "{0} centimetrov štvorcových"
+    },
+    {
+      "id": 8,
+      "unit_code": "area-square-foot",
+      "kategoria": "area",
+      "nazov": "štvorcové stopy",
+      "skratka": "ft²",
+      "uzky_tvar": "ft²",
+      "vzor": "{0} štvorcových stôp"
+    },
+    {
+      "id": 9,
+      "unit_code": "area-square-inch",
+      "kategoria": "area",
+      "nazov": "štvorcové palce",
+      "skratka": "in²",
+      "uzky_tvar": "in²",
+      "vzor": "{0} štvorcových palcov"
+    },
+    {
+      "id": 10,
+      "unit_code": "area-square-kilometer",
+      "kategoria": "area",
+      "nazov": "štvorcové kilometre",
+      "skratka": "km²",
+      "uzky_tvar": "km²",
+      "vzor": "{0} kilometrov štvorcových"
+    },
+    {
+      "id": 11,
+      "unit_code": "area-square-meter",
+      "kategoria": "area",
+      "nazov": "štvorcové metre",
+      "skratka": "m²",
+      "uzky_tvar": "m²",
+      "vzor": "{0} metrov štvorcových"
+    },
+    {
+      "id": 12,
+      "unit_code": "area-square-mile",
+      "kategoria": "area",
+      "nazov": "štvorcové míle",
+      "skratka": "mi²",
+      "uzky_tvar": "mi²",
+      "vzor": "{0} míľ štvorcových"
+    },
+    {
+      "id": 13,
+      "unit_code": "area-square-yard",
+      "kategoria": "area",
+      "nazov": "štvorcové yardy",
+      "skratka": "yd²",
+      "uzky_tvar": "yd²",
+      "vzor": "{0} štvorcových yardov"
+    }
+  ],
+  "meta": {
+    "title": "Merné jednotky — kategória 'area' (13) - Bezplatné stiahnutie",
+    "description": "Merné jednotky kategórie 'area' z locale sk v CLDR, s názvami v slovenčine. Obsahuje 13 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Merné jednotky — kategória 'area' (13) | ListBase",
+    "seo_description": "Stiahnuť Merné jednotky — kategória 'area' (13) — 13 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 13 záznamov / 7 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

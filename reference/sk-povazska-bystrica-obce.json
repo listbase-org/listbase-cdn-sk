@@ -1,0 +1,706 @@
+{
+  "id": "sk-povazska-bystrica-obce",
+  "name": "Obce v okrese Považská Bystrica",
+  "title": "Obce v okrese Považská Bystrica",
+  "description": "Všetky obce (municipality) v okrese Považská Bystrica, Trenčiansky kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 110,
+      "fullname": "Belejov",
+      "shortname": "Belejov",
+      "zip": "018 03",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 137,
+      "fullname": "Besné",
+      "shortname": "Besné",
+      "zip": "018 02",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 188,
+      "fullname": "Bodiná",
+      "shortname": "Bodiná",
+      "zip": "018 15",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 295,
+      "fullname": "Briestenné",
+      "shortname": "Briestenné",
+      "zip": "018 22",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 313,
+      "fullname": "Brvnište",
+      "shortname": "Brvnište",
+      "zip": "018 12",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 605,
+      "fullname": "Dolná Mariková",
+      "shortname": "Dolná Mariková",
+      "zip": "018 02",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 665,
+      "fullname": "Dolný Lieskov",
+      "shortname": "Dolný Lieskov",
+      "zip": "018 21",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 667,
+      "fullname": "Dolný Moštenec",
+      "shortname": "Dolný Moštenec",
+      "zip": "017 01",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 680,
+      "fullname": "Domaniža",
+      "shortname": "Domaniža",
+      "zip": "018 16",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 865,
+      "fullname": "Hadoše",
+      "shortname": "Hadoše",
+      "zip": "018 02",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 903,
+      "fullname": "Hatné",
+      "shortname": "Hatné",
+      "zip": "018 02",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 931,
+      "fullname": "Hlboké",
+      "shortname": "Hlboké",
+      "zip": "018 03",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 979,
+      "fullname": "Horná Mariková",
+      "shortname": "Horná Mariková",
+      "zip": "018 03",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1044,
+      "fullname": "Horný Lieskov",
+      "shortname": "Horný Lieskov",
+      "zip": "018 21",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1045,
+      "fullname": "Horný Moštenec",
+      "shortname": "Horný Moštenec",
+      "zip": "017 01",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1291,
+      "fullname": "Jasenica",
+      "shortname": "Jasenica",
+      "zip": "018 17",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1393,
+      "fullname": "Kardošova Vieska",
+      "shortname": "Kardošova Vieska",
+      "zip": "018 16",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1445,
+      "fullname": "Klieština",
+      "shortname": "Klieština",
+      "zip": "018 02",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1547,
+      "fullname": "Kostolec",
+      "shortname": "Kostolec",
+      "zip": "017 05",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1401,
+      "fullname": "Kátlina",
+      "shortname": "Kátlina",
+      "zip": "018 02",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1840,
+      "fullname": "Lieskov - Dolný Lieskov",
+      "shortname": "Lieskov-Dol. Lieskov",
+      "zip": "018 21",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1841,
+      "fullname": "Lieskov - Horný Lieskov",
+      "shortname": "Lieskov-Hor. Lieskov",
+      "zip": "018 21",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1842,
+      "fullname": "Lieskov - Podskalie",
+      "shortname": "Lieskov - Podskalie",
+      "zip": "018 22",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1843,
+      "fullname": "Lieskov - Tŕstie",
+      "shortname": "Lieskov - Tŕstie",
+      "zip": "018 22",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2062,
+      "fullname": "Malé Lednice",
+      "shortname": "Malé Lednice",
+      "zip": "018 16",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2196,
+      "fullname": "Milochov",
+      "shortname": "Milochov",
+      "zip": "017 06",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2228,
+      "fullname": "Modlatín",
+      "shortname": "Modlatín",
+      "zip": "018 03",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2531,
+      "fullname": "Orlové",
+      "shortname": "Orlové",
+      "zip": "017 01",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2565,
+      "fullname": "Pagaňov",
+      "shortname": "Pagaňov",
+      "zip": "018 03",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2579,
+      "fullname": "Papradno",
+      "shortname": "Papradno",
+      "zip": "018 13",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2670,
+      "fullname": "Plevník - Drienové",
+      "shortname": "Plevník - Drienové",
+      "zip": "018 26",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2705,
+      "fullname": "Podjavorník",
+      "shortname": "Podjavorník",
+      "zip": "018 13",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2713,
+      "fullname": "Podmanín",
+      "shortname": "Podmanín",
+      "zip": "017 01",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2720,
+      "fullname": "Podskalie",
+      "shortname": "Podskalie",
+      "zip": "018 22",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2723,
+      "fullname": "Podvažie",
+      "shortname": "Podvažie",
+      "zip": "017 04",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2790,
+      "fullname": "Považská Bystrica",
+      "shortname": "Považská Bystrica",
+      "zip": 0,
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2791,
+      "fullname": "Považská Teplá",
+      "shortname": "Považská Teplá",
+      "zip": "017 05",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2792,
+      "fullname": "Považské Podhradie",
+      "shortname": "Považské Podhradie",
+      "zip": "017 04",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2676,
+      "fullname": "Počarová",
+      "shortname": "Počarová",
+      "zip": "018 15",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2808,
+      "fullname": "Praznov",
+      "shortname": "Praznov",
+      "zip": "017 01",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2810,
+      "fullname": "Prečín",
+      "shortname": "Prečín",
+      "zip": "018 15",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2856,
+      "fullname": "Prosné",
+      "shortname": "Prosné",
+      "zip": "018 01",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2862,
+      "fullname": "Pružina",
+      "shortname": "Pružina",
+      "zip": "018 22",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3003,
+      "fullname": "Rovné",
+      "shortname": "Rovné",
+      "zip": "018 03",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2942,
+      "fullname": "Ráztoka",
+      "shortname": "Ráztoka",
+      "zip": "018 03",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3185,
+      "fullname": "Slopná",
+      "shortname": "Slopná",
+      "zip": "018 21",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3286,
+      "fullname": "Stolečné",
+      "shortname": "Stolečné",
+      "zip": "018 03",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3328,
+      "fullname": "Stupné",
+      "shortname": "Stupné",
+      "zip": "018 12",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3360,
+      "fullname": "Sverepec",
+      "shortname": "Sverepec",
+      "zip": "017 01",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3069,
+      "fullname": "Sádočné",
+      "shortname": "Sádočné",
+      "zip": "018 16",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3618,
+      "fullname": "Tŕstie",
+      "shortname": "Tŕstie",
+      "zip": "018 22",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3671,
+      "fullname": "Udiča",
+      "shortname": "Udiča",
+      "zip": "018 01",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3672,
+      "fullname": "Udička",
+      "shortname": "Udička",
+      "zip": "018 03",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3688,
+      "fullname": "Upohlav",
+      "shortname": "Upohlav",
+      "zip": "018 01",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3905,
+      "fullname": "Vlkov",
+      "shortname": "Vlkov",
+      "zip": "018 03",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3948,
+      "fullname": "Vrchteplá",
+      "shortname": "Vrchteplá",
+      "zip": "017 05",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3951,
+      "fullname": "Vrtižer",
+      "shortname": "Vrtižer",
+      "zip": "017 05",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 4108,
+      "fullname": "Zemianska Závada",
+      "shortname": "Zemianska Závada",
+      "zip": "018 15",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 4114,
+      "fullname": "Zemiansky Kvašov",
+      "shortname": "Zemiansky Kvašov",
+      "zip": "017 07",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 4065,
+      "fullname": "Záskalie",
+      "shortname": "Záskalie",
+      "zip": "017 05",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 443,
+      "fullname": "Čelkova Lehota",
+      "shortname": "Čelkova Lehota",
+      "zip": "018 16",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 758,
+      "fullname": "Ďurďové",
+      "shortname": "Ďurďové",
+      "zip": "018 22",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3414,
+      "fullname": "Šebešťanová",
+      "shortname": "Šebešťanová",
+      "zip": "017 04",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 4206,
+      "fullname": "Žrnové",
+      "shortname": "Žrnové",
+      "zip": "018 03",
+      "district_id": 48,
+      "okres": "Považská Bystrica",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Považská Bystrica - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Považská Bystrica, Trenčiansky kraj — s PSČ a kódom okresu. Obsahuje 64 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Považská Bystrica | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Považská Bystrica — 64 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 64 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

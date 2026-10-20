@@ -1,0 +1,276 @@
+{
+  "id": "sk-tvrdosin-obce",
+  "name": "Obce v okrese Tvrdošín",
+  "title": "Obce v okrese Tvrdošín",
+  "description": "Všetky obce (municipality) v okrese Tvrdošín, Žilinský kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 289,
+      "fullname": "Brezovica",
+      "shortname": "Brezovica",
+      "zip": "028 01",
+      "district_id": 72,
+      "okres": "Tvrdošín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 672,
+      "fullname": "Dolný Štefanov",
+      "shortname": "Dolný Štefanov",
+      "zip": "027 44",
+      "district_id": 72,
+      "okres": "Tvrdošín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 861,
+      "fullname": "Habovka",
+      "shortname": "Habovka",
+      "zip": "027 32",
+      "district_id": 72,
+      "okres": "Tvrdošín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 929,
+      "fullname": "Hladovka",
+      "shortname": "Hladovka",
+      "zip": "027 13",
+      "district_id": 72,
+      "okres": "Tvrdošín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1049,
+      "fullname": "Horný Štefanov",
+      "shortname": "Horný Štefanov",
+      "zip": "027 44",
+      "district_id": 72,
+      "okres": "Tvrdošín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1648,
+      "fullname": "Krásna Hôrka",
+      "shortname": "Krásna Hôrka",
+      "zip": "027 44",
+      "district_id": 72,
+      "okres": "Tvrdošín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 1839,
+      "fullname": "Liesek",
+      "shortname": "Liesek",
+      "zip": "027 12",
+      "district_id": 72,
+      "okres": "Tvrdošín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2152,
+      "fullname": "Medvedzie",
+      "shortname": "Medvedzie",
+      "zip": "027 44",
+      "district_id": 72,
+      "okres": "Tvrdošín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2345,
+      "fullname": "Nižná",
+      "shortname": "Nižná",
+      "zip": "027 43",
+      "district_id": 72,
+      "okres": "Tvrdošín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2519,
+      "fullname": "Oravský Biely Potok",
+      "shortname": "Oravský Biely Potok",
+      "zip": "027 42",
+      "district_id": 72,
+      "okres": "Tvrdošín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 2682,
+      "fullname": "Podbiel",
+      "shortname": "Podbiel",
+      "zip": "027 42",
+      "district_id": 72,
+      "okres": "Tvrdošín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3334,
+      "fullname": "Suchá Hora",
+      "shortname": "Suchá Hora",
+      "zip": "027 13",
+      "district_id": 72,
+      "okres": "Tvrdošín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3613,
+      "fullname": "Trstená",
+      "shortname": "Trstená",
+      "zip": "028 01",
+      "district_id": 72,
+      "okres": "Tvrdošín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3658,
+      "fullname": "Tvrdošín",
+      "shortname": "Tvrdošín",
+      "zip": "027 44",
+      "district_id": 72,
+      "okres": "Tvrdošín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3886,
+      "fullname": "Vitanová",
+      "shortname": "Vitanová",
+      "zip": "027 12",
+      "district_id": 72,
+      "okres": "Tvrdošín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4106,
+      "fullname": "Zemianska Dedina",
+      "shortname": "Zemianska Dedina",
+      "zip": "027 43",
+      "district_id": 72,
+      "okres": "Tvrdošín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4149,
+      "fullname": "Zuberec",
+      "shortname": "Zuberec",
+      "zip": "027 32",
+      "district_id": 72,
+      "okres": "Tvrdošín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 4030,
+      "fullname": "Zábiedovo",
+      "shortname": "Zábiedovo",
+      "zip": "028 01",
+      "district_id": 72,
+      "okres": "Tvrdošín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3691,
+      "fullname": "Ústie nad Priehradou",
+      "shortname": "Ústie nad Priehradou",
+      "zip": "028 01",
+      "district_id": 72,
+      "okres": "Tvrdošín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 505,
+      "fullname": "Čimhová",
+      "shortname": "Čimhová",
+      "zip": "027 12",
+      "district_id": 72,
+      "okres": "Tvrdošín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    },
+    {
+      "id": 3450,
+      "fullname": "Štefanov nad Oravou",
+      "shortname": "Štefanov nad Oravou",
+      "zip": "027 44",
+      "district_id": 72,
+      "okres": "Tvrdošín",
+      "region_id": 8,
+      "kraj": "Žilinský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Tvrdošín - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Tvrdošín, Žilinský kraj — s PSČ a kódom okresu. Obsahuje 21 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Tvrdošín | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Tvrdošín — 21 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 21 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}

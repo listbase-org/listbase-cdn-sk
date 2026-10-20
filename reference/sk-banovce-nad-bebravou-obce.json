@@ -1,0 +1,636 @@
+{
+  "id": "sk-banovce-nad-bebravou-obce",
+  "name": "Obce v okrese Bánovce nad Bebravou",
+  "title": "Obce v okrese Bánovce nad Bebravou",
+  "description": "Všetky obce (municipality) v okrese Bánovce nad Bebravou, Trenčiansky kraj — s PSČ a kódom okresu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 57,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "fullname",
+      "label": "Fullname",
+      "type": "string"
+    },
+    {
+      "key": "shortname",
+      "label": "Shortname",
+      "type": "string"
+    },
+    {
+      "key": "zip",
+      "label": "Zip",
+      "type": "string"
+    },
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 162,
+      "fullname": "Biskupice",
+      "shortname": "Biskupice",
+      "zip": "957 01",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 219,
+      "fullname": "Borčany",
+      "shortname": "Borčany",
+      "zip": "956 36",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 285,
+      "fullname": "Brezolupy",
+      "shortname": "Brezolupy",
+      "zip": "957 01",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 69,
+      "fullname": "Bánovce nad Bebravou",
+      "shortname": "Bánovce nad Bebravou",
+      "zip": 0,
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1195,
+      "fullname": "Chudá Lehota",
+      "shortname": "Chudá Lehota",
+      "zip": "956 38",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 396,
+      "fullname": "Cimenná",
+      "shortname": "Cimenná",
+      "zip": "956 37",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 547,
+      "fullname": "Dežerice",
+      "shortname": "Dežerice",
+      "zip": "957 03",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 621,
+      "fullname": "Dolné Držkovce",
+      "shortname": "Dolné Držkovce",
+      "zip": "956 54",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 635,
+      "fullname": "Dolné Naštice",
+      "shortname": "Dolné Naštice",
+      "zip": "957 01",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 639,
+      "fullname": "Dolné Ozorovce",
+      "shortname": "Dolné Ozorovce",
+      "zip": "957 01",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 716,
+      "fullname": "Dubnička",
+      "shortname": "Dubnička",
+      "zip": "957 03",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 766,
+      "fullname": "Dvorec",
+      "shortname": "Dvorec",
+      "zip": "956 55",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 878,
+      "fullname": "Haláčovce",
+      "shortname": "Haláčovce",
+      "zip": "956 55",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 999,
+      "fullname": "Horné Držkovce",
+      "shortname": "Horné Držkovce",
+      "zip": "956 54",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1014,
+      "fullname": "Horné Naštice",
+      "shortname": "Horné Naštice",
+      "zip": "956 41",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1018,
+      "fullname": "Horné Ozorovce",
+      "shortname": "Horné Ozorovce",
+      "zip": "957 03",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1480,
+      "fullname": "Kochnáč",
+      "shortname": "Kochnáč",
+      "zip": "956 54",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1650,
+      "fullname": "Krásna Ves",
+      "shortname": "Krásna Ves",
+      "zip": "956 53",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1711,
+      "fullname": "Kšinná",
+      "shortname": "Kšinná",
+      "zip": "956 41",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1835,
+      "fullname": "Libichava",
+      "shortname": "Libichava",
+      "zip": "956 38",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1789,
+      "fullname": "Látkovce",
+      "shortname": "Látkovce",
+      "zip": "957 01",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2024,
+      "fullname": "Malá Hradná",
+      "shortname": "Malá Hradná",
+      "zip": "956 54",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2055,
+      "fullname": "Malé Chlievany",
+      "shortname": "Malé Chlievany",
+      "zip": "957 01",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2054,
+      "fullname": "Malé Hoste",
+      "shortname": "Malé Hoste",
+      "zip": "956 37",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2173,
+      "fullname": "Miezgovce",
+      "shortname": "Miezgovce",
+      "zip": "957 01",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2303,
+      "fullname": "Nedašovce",
+      "shortname": "Nedašovce",
+      "zip": "956 35",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2487,
+      "fullname": "Omastiná",
+      "shortname": "Omastiná",
+      "zip": "956 41",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2553,
+      "fullname": "Otrhánky",
+      "shortname": "Otrhánky",
+      "zip": "956 55",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2611,
+      "fullname": "Pečeňany",
+      "shortname": "Pečeňany",
+      "zip": "956 36",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2737,
+      "fullname": "Pochabany",
+      "shortname": "Pochabany",
+      "zip": "956 38",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2712,
+      "fullname": "Podlužany",
+      "shortname": "Podlužany",
+      "zip": "956 52",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2807,
+      "fullname": "Pravotice",
+      "shortname": "Pravotice",
+      "zip": "956 35",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2861,
+      "fullname": "Prusy",
+      "shortname": "Prusy",
+      "zip": "957 03",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2887,
+      "fullname": "Radiša",
+      "shortname": "Radiša",
+      "zip": "956 41",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 2913,
+      "fullname": "Rakovec",
+      "shortname": "Rakovec",
+      "zip": "956 41",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3047,
+      "fullname": "Ruskovce",
+      "shortname": "Ruskovce",
+      "zip": "956 54",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3056,
+      "fullname": "Rybany",
+      "shortname": "Rybany",
+      "zip": "956 36",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3166,
+      "fullname": "Slatina nad Bebravou",
+      "shortname": "Slatina nad Bebravou",
+      "zip": "956 53",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3168,
+      "fullname": "Slatinka nad Bebravou",
+      "shortname": "Slatinka n/Bebravou",
+      "zip": "956 53",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3543,
+      "fullname": "Timoradza",
+      "shortname": "Timoradza",
+      "zip": "956 52",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3579,
+      "fullname": "Trebichava",
+      "shortname": "Trebichava",
+      "zip": "956 53",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3678,
+      "fullname": "Uhrovec",
+      "shortname": "Uhrovec",
+      "zip": "956 41",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3679,
+      "fullname": "Uhrovské Podhradie",
+      "shortname": "Uhrovské Podhradie",
+      "zip": "956 41",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3781,
+      "fullname": "Veľké Chlievany",
+      "shortname": "Veľké Chlievany",
+      "zip": "956 55",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3777,
+      "fullname": "Veľké Držkovce",
+      "shortname": "Veľké Držkovce",
+      "zip": "956 54",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3780,
+      "fullname": "Veľké Hoste",
+      "shortname": "Veľké Hoste",
+      "zip": "956 38",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3899,
+      "fullname": "Vlčkovo",
+      "shortname": "Vlčkovo",
+      "zip": "957 03",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3971,
+      "fullname": "Vysočany",
+      "shortname": "Vysočany",
+      "zip": "956 35",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 4138,
+      "fullname": "Zlatníky",
+      "shortname": "Zlatníky",
+      "zip": "956 37",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 4076,
+      "fullname": "Závada pod Čiernym vrchom",
+      "shortname": "Závada p/Čier.vrchom",
+      "zip": "956 41",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 487,
+      "fullname": "Čierna Lehota",
+      "shortname": "Čierna Lehota",
+      "zip": "956 53",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 515,
+      "fullname": "Čuklasovce",
+      "shortname": "Čuklasovce",
+      "zip": "956 54",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 1983,
+      "fullname": "Ľutov",
+      "shortname": "Ľutov",
+      "zip": "957 03",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3433,
+      "fullname": "Šišov",
+      "shortname": "Šišov",
+      "zip": "956 38",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 3426,
+      "fullname": "Šípkov",
+      "shortname": "Šípkov",
+      "zip": "956 53",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 4203,
+      "fullname": "Žitná",
+      "shortname": "Žitná",
+      "zip": "956 41",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    },
+    {
+      "id": 4204,
+      "fullname": "Žitná - Radiša",
+      "shortname": "Žitná - Radiša",
+      "zip": "956 41",
+      "district_id": 1,
+      "okres": "Bánovce nad Bebravou",
+      "region_id": 6,
+      "kraj": "Trenčiansky kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v okrese Bánovce nad Bebravou - Bezplatné stiahnutie",
+    "description": "Všetky obce (municipality) v okrese Bánovce nad Bebravou, Trenčiansky kraj — s PSČ a kódom okresu. Obsahuje 57 záznamov. Stiahnuť vo formátoch Excel, CSV, PDF.",
+    "seo_title": "Obce v okrese Bánovce nad Bebravou | ListBase",
+    "seo_description": "Stiahnuť Obce v okrese Bánovce nad Bebravou — 57 záznamov. Dostupné vo formátoch Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 57 záznamov / 8 polí",
+      "Bezplatné stiahnutie vo formátoch Excel, CSV a PDF",
+      "Zdroj dát: open data"
+    ]
+  }
+}
