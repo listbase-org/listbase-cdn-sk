@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-27T02:25:40.666Z",
-  "total_datasets": 412,
-  "total_records": 279006,
+  "generated": "2026-10-27T02:25:43.942Z",
+  "total_datasets": 413,
+  "total_records": 279164,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "politics",
@@ -3787,6 +3787,30 @@
         "xlsx": {
           "name": "sk-archeologicke-lokality_SK.xlsx",
           "size": 25365
+        }
+      }
+    },
+    {
+      "id": "sk-chyby-v-slovencine",
+      "name": "Časté chyby v slovenčine",
+      "category": "language",
+      "record_count": 158,
+      "columns": [
+        "chybne",
+        "spravne",
+        "tema"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_niektorých_chýb_v_slovenčine",
+      "updated": "2026-10",
+      "size": 26364,
+      "files": {
+        "csv": {
+          "name": "sk-chyby-v-slovencine_SK.csv",
+          "size": 15211
+        },
+        "xlsx": {
+          "name": "sk-chyby-v-slovencine_SK.xlsx",
+          "size": 13909
         }
       }
     },
