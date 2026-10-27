@@ -1,0 +1,1016 @@
+{
+  "id": "sk-najlepsie-slovenske-albumy",
+  "name": "Najlepšie slovenské albumy",
+  "title": "Najlepšie slovenské albumy",
+  "description": "Rebríčky najlepších slovenských albumov podľa ankety hudobných odborníkov: album, interpret, rok vydania a vydavateľstvo.",
+  "category": "music",
+  "source": "https://sk.wikipedia.org/wiki/100_najlepších_slovenských_albumov",
+  "source_url": "https://sk.wikipedia.org/wiki/100_najlepších_slovenských_albumov",
+  "updated": "2026-10",
+  "record_count": 120,
+  "columns": [
+    {
+      "key": "poradie",
+      "label": "Poradie",
+      "type": "number"
+    },
+    {
+      "key": "album",
+      "label": "Album",
+      "type": "string"
+    },
+    {
+      "key": "interpret",
+      "label": "Interpret",
+      "type": "string"
+    },
+    {
+      "key": "rok_vydania",
+      "label": "Rok Vydania",
+      "type": "number"
+    },
+    {
+      "key": "vydavatelstvo",
+      "label": "Vydavatelstvo",
+      "type": "string"
+    },
+    {
+      "key": "rebricek",
+      "label": "Rebricek",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradie": "1",
+      "album": "V cudzom meste",
+      "interpret": "Jana Kirschner",
+      "rok_vydania": "1999",
+      "vydavatelstvo": "Mercury",
+      "rebricek": "Top 10 – ženy"
+    },
+    {
+      "poradie": "2",
+      "album": "Dievča do dažďa",
+      "interpret": "Marika Gombitová",
+      "rok_vydania": "1979",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "Top 10 – ženy"
+    },
+    {
+      "poradie": "3",
+      "album": "Mince na dne fontán",
+      "interpret": "Marika Gombitová",
+      "rok_vydania": "1983",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "Top 10 – ženy"
+    },
+    {
+      "poradie": "4",
+      "album": "Pelikán",
+      "interpret": "Jana Kirschner",
+      "rok_vydania": "2002",
+      "vydavatelstvo": "Universal",
+      "rebricek": "Top 10 – ženy"
+    },
+    {
+      "poradie": "5",
+      "album": "Ateliér duše",
+      "interpret": "Marika Gombitová",
+      "rok_vydania": "1987",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "Top 10 – ženy"
+    },
+    {
+      "poradie": "6",
+      "album": "Veci čo sa dejú",
+      "interpret": "Jana Kirschner",
+      "rok_vydania": "2003",
+      "vydavatelstvo": "Universal",
+      "rebricek": "Top 10 – ženy"
+    },
+    {
+      "poradie": "7",
+      "album": "Slnečný kalendár",
+      "interpret": "Marika Gombitová",
+      "rok_vydania": "1982",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "Top 10 – ženy"
+    },
+    {
+      "poradie": "8",
+      "album": "Shine",
+      "interpret": "Jana Kirschner",
+      "rok_vydania": "2007",
+      "vydavatelstvo": "Universal",
+      "rebricek": "Top 10 – ženy"
+    },
+    {
+      "poradie": "9",
+      "album": "Voľné miesto v srdci",
+      "interpret": "Marika Gombitová",
+      "rok_vydania": "1986",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "Top 10 – ženy"
+    },
+    {
+      "poradie": "10",
+      "album": "Colors in My Life",
+      "interpret": "Misha",
+      "rok_vydania": "2002",
+      "vydavatelstvo": "Sony/Bonton",
+      "rebricek": "Top 10 – ženy"
+    },
+    {
+      "poradie": "1",
+      "album": "Zelená pošta",
+      "interpret": "Pavol Hammel & Marián Varga",
+      "rok_vydania": "1972",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "Top 10 – muži"
+    },
+    {
+      "poradie": "2",
+      "album": "Modrý vrch",
+      "interpret": "Dežo Ursiny",
+      "rok_vydania": "1981",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "Top 10 – muži"
+    },
+    {
+      "poradie": "3",
+      "album": "Pevnina detstva",
+      "interpret": "Dežo Ursiny",
+      "rok_vydania": "1978",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "Top 10 – muži"
+    },
+    {
+      "poradie": "4",
+      "album": "Doktor sen",
+      "interpret": "Miro Žbirka",
+      "rok_vydania": "1980",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "Top 10 – muži"
+    },
+    {
+      "poradie": "5",
+      "album": "Robo Grigorov – Midi",
+      "interpret": "Robo Grigorov",
+      "rok_vydania": "1987",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "Top 10 – muži"
+    },
+    {
+      "poradie": "6",
+      "album": "Nočná optika",
+      "interpret": "Richard Müller",
+      "rok_vydania": "1998",
+      "vydavatelstvo": "PolyGram",
+      "rebricek": "Top 10 – muži"
+    },
+    {
+      "poradie": "7",
+      "album": "Nohy",
+      "interpret": "Robo Grigorov",
+      "rok_vydania": "1987",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "Top 10 – muži"
+    },
+    {
+      "poradie": "8",
+      "album": "Sezónne lásky",
+      "interpret": "Miro Žbirka",
+      "rok_vydania": "1982",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "Top 10 – muži"
+    },
+    {
+      "poradie": "9",
+      "album": "Chráň svoje bláznovstvá",
+      "interpret": "Peter Nagy",
+      "rok_vydania": "1984",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "Top 10 – muži"
+    },
+    {
+      "poradie": "10",
+      "album": "33",
+      "interpret": "Richard Müller",
+      "rok_vydania": "1994",
+      "vydavatelstvo": "BMG-Ariola",
+      "rebricek": "Top 10 – muži"
+    },
+    {
+      "poradie": "1",
+      "album": "Zvoňte, zvonky",
+      "interpret": "Prúdy",
+      "rok_vydania": "1969",
+      "vydavatelstvo": "Supraphon",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "2",
+      "album": "Konvergencie",
+      "interpret": "Collegium Musicum",
+      "rok_vydania": "1971",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "3",
+      "album": "Bioelektrovízia",
+      "interpret": "Banket",
+      "rok_vydania": "1986",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "4",
+      "album": "Skúsime to cez vesmír",
+      "interpret": "Tublatanka",
+      "rok_vydania": "1987",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "5",
+      "album": "Valec",
+      "interpret": "IMT Smile",
+      "rok_vydania": "1998",
+      "vydavatelstvo": "Universal",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "6",
+      "album": "Hodina slovenčiny",
+      "interpret": "Elán",
+      "rok_vydania": "1984",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "7",
+      "album": "Bolo nás jedenásť",
+      "interpret": "Milan Lasica, Julo Satinský & Jaro Filip",
+      "rok_vydania": "1981",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "8",
+      "album": "Deň medzi nedeľou a pondelkom",
+      "interpret": "Peha",
+      "rok_vydania": "2005",
+      "vydavatelstvo": "B&M",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "9",
+      "album": "Zelená pošta",
+      "interpret": "Pavol Hammel & Marián Varga",
+      "rok_vydania": "1972",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "10",
+      "album": "Ôsmy svetadiel",
+      "interpret": "Elán",
+      "rok_vydania": "1981",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "11",
+      "album": "Dunajská legenda",
+      "interpret": "Fermata",
+      "rok_vydania": "1979",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "12",
+      "album": "Team",
+      "interpret": "Team",
+      "rok_vydania": "1988",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "13",
+      "album": "Žeravé znamenie osudu",
+      "interpret": "Tublatanka",
+      "rok_vydania": "1988",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "14",
+      "album": "Modrý vrch",
+      "interpret": "Dežo Ursiny",
+      "rok_vydania": "1981",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "15",
+      "album": "Ultrapop",
+      "interpret": "Hex",
+      "rok_vydania": "1997",
+      "vydavatelstvo": "Bonton",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "16",
+      "album": "Nie sme zlí",
+      "interpret": "Elán",
+      "rok_vydania": "1982",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "17",
+      "album": "Pevnina detstva",
+      "interpret": "Dežo Ursiny",
+      "rok_vydania": "1987",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "18",
+      "album": "Doktor sen",
+      "interpret": "Miro Žbirka",
+      "rok_vydania": "1980",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "19",
+      "album": "V cudzom meste",
+      "interpret": "Jana Kirschner",
+      "rok_vydania": "1999",
+      "vydavatelstvo": "Mercury",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "20",
+      "album": "Dievča do dažďa",
+      "interpret": "Marika Gombitová",
+      "rok_vydania": "1980",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "21",
+      "album": "Tublatanka",
+      "interpret": "Tublatanka",
+      "rok_vydania": "1985",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "22",
+      "album": "Robo Grigorov – Midi",
+      "interpret": "Robo Grigorov",
+      "rok_vydania": "1987",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "23",
+      "album": "Nočná optika",
+      "interpret": "Richard Müller",
+      "rok_vydania": "1998",
+      "vydavatelstvo": "PolyGram",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "24",
+      "album": "Počkám si na zázrak",
+      "interpret": "No Name",
+      "rok_vydania": "2000",
+      "vydavatelstvo": "Universal",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "25",
+      "album": "Nohy",
+      "interpret": "Robo Grigorov a Midi",
+      "rok_vydania": "1987",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "26",
+      "album": "Sezónne lásky",
+      "interpret": "Miro Žbirka",
+      "rok_vydania": "1982",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "27",
+      "album": "Neberte nám princeznú",
+      "interpret": "Marika Gombitová, Miro Žbirka a Marie Rottrová",
+      "rok_vydania": "1980",
+      "vydavatelstvo": "BMG",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "28",
+      "album": "Druhá doba?!",
+      "interpret": "Banket",
+      "rok_vydania": "1988",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "29",
+      "album": "Chráň svoje bláznovstvá",
+      "interpret": "Peter Nagy",
+      "rok_vydania": "1984",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "30",
+      "album": "Mince na dne fontán",
+      "interpret": "Marika Gombitová",
+      "rok_vydania": "1983",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "31",
+      "album": "Klik-klak",
+      "interpret": "IMT Smile",
+      "rok_vydania": "1997",
+      "vydavatelstvo": "Škvrna Records",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "32",
+      "album": "Pakáreň",
+      "interpret": "Slobodná Európa",
+      "rok_vydania": "1991",
+      "vydavatelstvo": "BMG",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "33",
+      "album": "Nechajte si ju",
+      "interpret": "Vidiek",
+      "rok_vydania": "1988",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "34",
+      "album": "33",
+      "interpret": "Richard Müller",
+      "rok_vydania": "1994",
+      "vydavatelstvo": "BMG Ariola",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "35",
+      "album": "Detektívka",
+      "interpret": "Elán",
+      "rok_vydania": "1986",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "36",
+      "album": "Pelikán",
+      "interpret": "Jana Kirschner",
+      "rok_vydania": "2002",
+      "vydavatelstvo": "Universal",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "37",
+      "album": "99 zápaliek",
+      "interpret": "Modus",
+      "rok_vydania": "1981",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "38",
+      "album": "Balady",
+      "interpret": "Robo Grigorov",
+      "rok_vydania": "2006",
+      "vydavatelstvo": "HOME Production",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "39",
+      "album": "Team 3",
+      "interpret": "Team",
+      "rok_vydania": "1990",
+      "vydavatelstvo": "OPUS & Tommü Records",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "40",
+      "album": "Bodliak na plavkách",
+      "interpret": "Limit, Laco Lučenič",
+      "rok_vydania": "1985",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "41",
+      "album": "Modus",
+      "interpret": "Modus",
+      "rok_vydania": "1979",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "42",
+      "album": "Part 1",
+      "interpret": "Made 2 Mate",
+      "rok_vydania": "1993",
+      "vydavatelstvo": "Jumbo Records",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "43",
+      "album": "Ateliér duše",
+      "interpret": "Marika Gombitová",
+      "rok_vydania": "1987",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "44",
+      "album": "Momentky",
+      "interpret": "Dežo Ursiny",
+      "rok_vydania": "1990",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "45",
+      "album": "Veci čo sa dejú",
+      "interpret": "Jana Kirschner",
+      "rok_vydania": "2003",
+      "vydavatelstvo": "Universal",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "46",
+      "album": "’01",
+      "interpret": "Richard Müller",
+      "rok_vydania": "2001",
+      "vydavatelstvo": "Universal",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "47",
+      "album": "Divergencie",
+      "interpret": "Collegium Musicum",
+      "rok_vydania": "1982",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "48",
+      "album": "Karol Duchoň",
+      "interpret": "Karol Duchoň",
+      "rok_vydania": "1974",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "49",
+      "album": "Slnečný kalendár",
+      "interpret": "Marika Gombitová",
+      "rok_vydania": "1982",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "50",
+      "album": "O.B.D.",
+      "interpret": "O.B.D.",
+      "rok_vydania": "1995",
+      "vydavatelstvo": "PolyGram",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "51",
+      "album": "Šľahačková princezná",
+      "interpret": "Pavol Hammel",
+      "rok_vydania": "1973",
+      "vydavatelstvo": "Supraphon",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "52",
+      "album": "Príbeh",
+      "interpret": "Dežo Ursiny, Ivan Štrpka",
+      "rok_vydania": "1994",
+      "vydavatelstvo": "BMG Ariola",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "53",
+      "album": "Ten čo hrával s Dežom",
+      "interpret": "Jaro Filip",
+      "rok_vydania": "1998",
+      "vydavatelstvo": "Salvador, OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "54",
+      "album": "Čardáš dvoch sŕdc",
+      "interpret": "Karol Duchoň",
+      "rok_vydania": "1976",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "55",
+      "album": "Uhol pohľadu",
+      "interpret": "Desmod",
+      "rok_vydania": "2006",
+      "vydavatelstvo": "Epic, Sony BMG Music Entertainment",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "56",
+      "album": "’05 [A]",
+      "interpret": "Richard Müller",
+      "rok_vydania": "2005",
+      "vydavatelstvo": "",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "57",
+      "album": "Horúce hlavy",
+      "interpret": "Bez ladu a skladu",
+      "rok_vydania": "1991",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "58",
+      "album": "Lipa spieva Lasicu",
+      "interpret": "Peter Lipa",
+      "rok_vydania": "2005",
+      "vydavatelstvo": "East-West Promotion",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "59",
+      "album": "Bezvetrie",
+      "interpret": "Andrej Šeban",
+      "rok_vydania": "2000",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "60",
+      "album": "Dobré ráno",
+      "interpret": "Vec",
+      "rok_vydania": "2004",
+      "vydavatelstvo": "Escape / EMI",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "61",
+      "album": "Shine",
+      "interpret": "Jana Kirschner",
+      "rok_vydania": "2007",
+      "vydavatelstvo": "Universal",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "62",
+      "album": "Stále tie dni",
+      "interpret": "Marián Varga",
+      "rok_vydania": "1984",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "63",
+      "album": "... v najlepších rokoch",
+      "interpret": "Peter Lipa",
+      "rok_vydania": "2001",
+      "vydavatelstvo": "Millenium Records",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "64",
+      "album": "Cez okno",
+      "interpret": "Jaro Filip",
+      "rok_vydania": "1996",
+      "vydavatelstvo": "Salvador, OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "65",
+      "album": "Kolotoč masiek",
+      "interpret": "Gravis",
+      "rok_vydania": "1989",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "66",
+      "album": "Voľné miesto v srdci",
+      "interpret": "Marika Gombitová",
+      "rok_vydania": "1986",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "67",
+      "album": "Xmetov",
+      "interpret": "Bez ladu a skladu",
+      "rok_vydania": "1990",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "68",
+      "album": "Almost True Story",
+      "interpret": "Free Faces",
+      "rok_vydania": "1998",
+      "vydavatelstvo": "Silberman",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "69",
+      "album": "Derylov svet",
+      "interpret": "Desmod",
+      "rok_vydania": "2003",
+      "vydavatelstvo": "BMG Ariola",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "70",
+      "album": "Colors in My Life",
+      "interpret": "Misha",
+      "rok_vydania": "2002",
+      "vydavatelstvo": "Sony BMG",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "71",
+      "album": "Na II. programe sna",
+      "interpret": "Pavol Hammel",
+      "rok_vydania": "1973",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "72",
+      "album": "Keď sa raz oči dohodnú",
+      "interpret": "Modus",
+      "rok_vydania": "1988",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "73",
+      "album": "Aj ty, AYA!?",
+      "interpret": "Aya",
+      "rok_vydania": "1994",
+      "vydavatelstvo": "Jumbo Records",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "74",
+      "album": "Ventil RG",
+      "interpret": "Ventil RG",
+      "rok_vydania": "1990",
+      "vydavatelstvo": "Škvrna Records",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "75",
+      "album": "Marika №5",
+      "interpret": "Marika Gombitová",
+      "rok_vydania": "1984",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "76",
+      "album": "Chýbaš mi...",
+      "interpret": "Robo Grigorov",
+      "rok_vydania": "1992",
+      "vydavatelstvo": "Slovart",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "77",
+      "album": "Nech sa páči",
+      "interpret": "IMT Smile",
+      "rok_vydania": "2000",
+      "vydavatelstvo": "Universal",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "78",
+      "album": "Slowly to the Sun",
+      "interpret": "This Is Kevin",
+      "rok_vydania": "1999",
+      "vydavatelstvo": "Monitor /EMI",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "79",
+      "album": "Chlapčenský úsmev",
+      "interpret": "Vašo Patejdl",
+      "rok_vydania": "1986",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "80",
+      "album": "Stretnutie s tichom",
+      "interpret": "Pavol Hammel",
+      "rok_vydania": "2000",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "81",
+      "album": "Naspäť na stromy",
+      "interpret": "Peter Lipa",
+      "rok_vydania": "1995",
+      "vydavatelstvo": "East West Productions",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "82",
+      "album": "Valec Extra",
+      "interpret": "IMT Smile",
+      "rok_vydania": "1999",
+      "vydavatelstvo": "Universal",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "83",
+      "album": "Do ska",
+      "interpret": "Polemic",
+      "rok_vydania": "1997",
+      "vydavatelstvo": "Musica",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "84",
+      "album": "Krajinou",
+      "interpret": "Peha",
+      "rok_vydania": "2001",
+      "vydavatelstvo": "Sony Music Bonton",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "85",
+      "album": "Beáta",
+      "interpret": "Beáta Dubasová",
+      "rok_vydania": "1988",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "86",
+      "album": "Modrý album",
+      "interpret": "Miro Žbirka",
+      "rok_vydania": "2001",
+      "vydavatelstvo": "Universal",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "87",
+      "album": "Huascaran",
+      "interpret": "Fermáta",
+      "rok_vydania": "2001",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "88",
+      "album": "Babylon Hotel",
+      "interpret": "Gladiator",
+      "rok_vydania": "2000",
+      "vydavatelstvo": "Sony Music",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "89",
+      "album": "Live",
+      "interpret": "Collegium Musicum",
+      "rok_vydania": "1973",
+      "vydavatelstvo": "Universal",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "90",
+      "album": "Dvaja (Hudba a piesne z filmu Fontána pre Zuzanu)",
+      "interpret": "V. A.",
+      "rok_vydania": "2001",
+      "vydavatelstvo": "Universal",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "91",
+      "album": "Lojzo",
+      "interpret": "Lojzo",
+      "rok_vydania": "1985",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "92",
+      "album": "Hráč",
+      "interpret": "Pavol Hammel",
+      "rok_vydania": "1973",
+      "vydavatelstvo": "OPUS",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "93",
+      "album": "Brutálna zostava",
+      "interpret": "Para",
+      "rok_vydania": "2004",
+      "vydavatelstvo": "Universal",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "94",
+      "album": "Experiment",
+      "interpret": "Peha",
+      "rok_vydania": "2003",
+      "vydavatelstvo": "Sony Music Bonton",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "95",
+      "album": "Unavení a zničení",
+      "interpret": "Slobodná Európa",
+      "rok_vydania": "1994",
+      "vydavatelstvo": "Škvrna Records",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "96",
+      "album": "Fufu",
+      "interpret": "Divná zostava",
+      "rok_vydania": "2000",
+      "vydavatelstvo": "Universal",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "97",
+      "album": "Svetlo na druhom brehu",
+      "interpret": "Metalinda",
+      "rok_vydania": "1992",
+      "vydavatelstvo": "Popron",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "98",
+      "album": "Entirely Good",
+      "interpret": "Zuzana Smatanová",
+      "rok_vydania": "2003",
+      "vydavatelstvo": "Epic",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "99",
+      "album": "Ježiš Kristus nosí krátke nohavice",
+      "interpret": "Hex",
+      "rok_vydania": "1992",
+      "vydavatelstvo": "Bonton",
+      "rebricek": "100 najlepších slovenských albumov"
+    },
+    {
+      "poradie": "100",
+      "album": "Svadba čertov",
+      "interpret": "Money Factor",
+      "rok_vydania": "1992",
+      "vydavatelstvo": "Tommü Records, Forza Music",
+      "rebricek": "100 najlepších slovenských albumov"
+    }
+  ],
+  "meta": {
+    "title": "Najlepšie slovenské albumy - Free Download",
+    "description": "Rebríčky najlepších slovenských albumov podľa ankety hudobných odborníkov: album, interpret, rok vydania a vydavateľstvo. Contains 120 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Najlepšie slovenské albumy | ListBase",
+    "seo_description": "Download Najlepšie slovenské albumy — 120 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 120 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/100_najlepších_slovenských_albumov"
+    ]
+  }
+}
