@@ -1,0 +1,352 @@
+{
+  "id": "sk-ministri-spravodlivosti",
+  "name": "Ministri spravodlivosti Slovenska",
+  "title": "Ministri spravodlivosti Slovenska",
+  "description": "Zoznam ministrov spravodlivosti na Slovensku od roku 1938 so stranou, vládou a funkčným obdobím.",
+  "category": "law",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_spravodlivosti_Slovenskej_republiky",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_spravodlivosti_Slovenskej_republiky",
+  "updated": "2026-10",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "meno",
+      "label": "Meno",
+      "type": "string"
+    },
+    {
+      "key": "strana",
+      "label": "Strana",
+      "type": "string"
+    },
+    {
+      "key": "vlada",
+      "label": "Vlada",
+      "type": "string"
+    },
+    {
+      "key": "funkcne_obdobie",
+      "label": "Funkcne Obdobie",
+      "type": "string"
+    },
+    {
+      "key": "poznamky",
+      "label": "Poznamky",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "meno": "Ferdinand Ďurčanský",
+      "strana": "HSĽS-SSNJ",
+      "vlada": "1. vláda J. Tisa",
+      "funkcne_obdobie": "7. október 1938 – 1. december 1938",
+      "poznamky": "Minister spravodlivosti, zdravotníctva a sociálnej starostlivosti."
+    },
+    {
+      "meno": "Miloš Vančo",
+      "strana": "HSĽS-SSNJ",
+      "vlada": "2. a 3. vláda J. Tisa",
+      "funkcne_obdobie": "1. december 1938 – 9. marec 1939",
+      "poznamky": "Minister spravodlivosti."
+    },
+    {
+      "meno": "Jozef Sivák",
+      "strana": "HSĽS-SSNJ",
+      "vlada": "vláda J. Siváka",
+      "funkcne_obdobie": "9. marec 1939 – 11. marec 1939",
+      "poznamky": "Predseda vlády a minister všetkých rezortov (okrem financií)."
+    },
+    {
+      "meno": "Gejza Fritz",
+      "strana": "HSĽS-SSNJ",
+      "vlada": "vláda Karola Sidora",
+      "funkcne_obdobie": "11. marec 1939 – 14. marec 1939",
+      "poznamky": "Minister spravodlivosti."
+    },
+    {
+      "meno": "Gejza Fritz",
+      "strana": "HSĽS-SSNJ",
+      "vlada": "4. vláda J. Tisa, vláda V. Tuku",
+      "funkcne_obdobie": "14. marec 1939 – 5. september 1944",
+      "poznamky": "Minister spravodlivosti."
+    },
+    {
+      "meno": "Štefan Tiso",
+      "strana": "HSĽS-SSNJ",
+      "vlada": "vláda Š. Tisa",
+      "funkcne_obdobie": "5. september 1944 – 4. apríl 1945",
+      "poznamky": "Predseda vlády, minister zahraničných vecí a minister spravodlivosti."
+    },
+    {
+      "meno": "Jozef Šoltész a Ivan Pietor",
+      "strana": "KSS DS",
+      "vlada": "ZB 1. 9. - 5. 9. 44",
+      "funkcne_obdobie": "1. september 1944 – 5. september 1944",
+      "poznamky": "Povereníci pre pravosúdie."
+    },
+    {
+      "meno": "Jozef Šoltész",
+      "strana": "KSS",
+      "vlada": "ZP 5. 9. - 23. 10. 44",
+      "funkcne_obdobie": "5. september 1944 – 23. október 1944",
+      "poznamky": "Povereník pre súdnictvo (Ivan Pietor bol zástupcom povereníka)."
+    },
+    {
+      "meno": "Ivan Štefánik",
+      "strana": "DS",
+      "vlada": "ZP 7. 2. - 21. 2. 45 ZP 21. 2. - 11. 4. 45 ZP 11. 4. - 18. 9. 45 ZP 18. 9. 45 - 16. 8. 46 ZP 16. 8. 46 - 18. 11. 47",
+      "funkcne_obdobie": "7. február 1945 – 18. november 1947",
+      "poznamky": "Povereník pre spravodlivosť, od 21. februára 1945 povereník pre súdnictvo, od 11. apríla 1945 povereník pre spravodlivosť."
+    },
+    {
+      "meno": "Andrej Búza",
+      "strana": "Československá sociálna demokracia",
+      "vlada": "ZP 18. 11. 47 - 23. 2. 48",
+      "funkcne_obdobie": "18. november 1947 – 26. február 1948",
+      "poznamky": "Povereník spravodlivosti. 26. februára 1948 bol odvolaný."
+    },
+    {
+      "meno": "Július Viktory",
+      "strana": "KSS (KSČ)",
+      "vlada": "ZP 6. 3. - 18. 6. 48 ZP 18. 6. 48 - 17. 12. 54",
+      "funkcne_obdobie": "6. marec 1948 – 20. september 1951",
+      "poznamky": "Povereník spravodlivosti."
+    },
+    {
+      "meno": "Rudolf Strechaj",
+      "strana": "KSS (KSČ)",
+      "vlada": "ZP 18. 6. 48 - 17. 12. 54",
+      "funkcne_obdobie": "20. september 1951 - 31. január 1953",
+      "poznamky": "Povereník spravodlivosti."
+    },
+    {
+      "meno": "Juraj Uhrín",
+      "strana": "KSS (KSČ)",
+      "vlada": "ZP 17. 12. 54 - 2. 8. 56 ZP 2. 8. 56 - 11. 7. 60",
+      "funkcne_obdobie": "17. december 1954 - 18. december 1956",
+      "poznamky": "Povereník spravodlivosti."
+    },
+    {
+      "meno": "Mikuláš Kapusňák",
+      "strana": "KSS (KSČ)",
+      "vlada": "ZP 2. 8. 56 - 11. 7. 60",
+      "funkcne_obdobie": "18. december 1956 - 13. marec 1959",
+      "poznamky": "Povereník spravodlivosti."
+    },
+    {
+      "meno": "Ladislav Gešo",
+      "strana": "KSS (KSČ)",
+      "vlada": "ZP 2. 8. 56 - 11. 7. 60",
+      "funkcne_obdobie": "13. marec 1959 - 11. júl 1960",
+      "poznamky": "Povereník spravodlivosti."
+    },
+    {
+      "meno": "Ladislav Gešo",
+      "strana": "KSS (KSČ)",
+      "vlada": "SNR 1960 - 1964",
+      "funkcne_obdobie": "14. júl 1960 – 27. jún 1963",
+      "poznamky": "Povereník a predseda komisie SNR pre spravodlivosť."
+    },
+    {
+      "meno": "Peter Colotka",
+      "strana": "KSS (KSČ)",
+      "vlada": "SNR 1960 - 1964 SNR 1964 - 1968",
+      "funkcne_obdobie": "27. jún 1963 – 29. december 1968",
+      "poznamky": "Povereník a predseda komisie SNR pre spravodlivosť."
+    },
+    {
+      "meno": "Felix Vašečka",
+      "strana": "KSS (KSČ)",
+      "vlada": "vláda Š. Sádovského a P. Colotku",
+      "funkcne_obdobie": "2. január 1969 – 3. december 1970",
+      "poznamky": "Minister spravodlivosti."
+    },
+    {
+      "meno": "Pavol Király",
+      "strana": "KSS (KSČ)",
+      "vlada": "vláda Š. Sádovského a P. Colotku, 1., 2. a 3. vláda P. Colotku",
+      "funkcne_obdobie": "3. december 1970 – 30. november 1982",
+      "poznamky": "Minister spravodlivosti."
+    },
+    {
+      "meno": "Ján Pješčak",
+      "strana": "KSS (KSČ)",
+      "vlada": "3. vláda P. Colotku, vláda P. Colotku, I. Knotka a P. Hrivnáka",
+      "funkcne_obdobie": "30. november 1982 – 20. apríl 1988",
+      "poznamky": "Minister spravodlivosti."
+    },
+    {
+      "meno": "Milan Čič",
+      "strana": "KSS (KSČ)",
+      "vlada": "vláda P. Colotku, I. Knotka a P. Hrivnáka",
+      "funkcne_obdobie": "20. apríl 1988 – 8. december 1989",
+      "poznamky": "Minister spravodlivosti."
+    },
+    {
+      "meno": "Ladislav Košťa",
+      "strana": "VPN",
+      "vlada": "vláda M. Čiča, 1. vláda V. Mečiara",
+      "funkcne_obdobie": "12. december 1989 – 22. apríl 1991",
+      "poznamky": "Minister spravodlivosti."
+    },
+    {
+      "meno": "Marian Posluch",
+      "strana": "VPN",
+      "vlada": "vláda J. Čarnogurského",
+      "funkcne_obdobie": "23. apríl 1991 – 24. jún 1992",
+      "poznamky": "Minister spravodlivosti."
+    },
+    {
+      "meno": "Katarína Tóthová",
+      "strana": "HZDS",
+      "vlada": "2. vláda V. Mečiara",
+      "funkcne_obdobie": "24. júna 1992 – 31. december 1992",
+      "poznamky": "Ministerka spravodlivosti. Po zániku federácie pokračovala ďalej už ako ministerka vo vláde samostatného Slovenska."
+    },
+    {
+      "meno": "Katarína Tóthová",
+      "strana": "HZDS",
+      "vlada": "2. vláda V. Mečiara",
+      "funkcne_obdobie": "1. január 1993 – 15. marec 1994",
+      "poznamky": "Ministerka spravodlivosti."
+    },
+    {
+      "meno": "Milan Hanzel",
+      "strana": "SDĽ",
+      "vlada": "vláda J. Moravčíka",
+      "funkcne_obdobie": "15. marec 1994 – 13. december 1994",
+      "poznamky": "Minister spravodlivosti."
+    },
+    {
+      "meno": "Jozef Liščák",
+      "strana": "ZRS",
+      "vlada": "3. vláda V. Mečiara",
+      "funkcne_obdobie": "13. december 1994 – 30. október 1998",
+      "poznamky": "Minister spravodlivosti."
+    },
+    {
+      "meno": "Ján Čarnogurský",
+      "strana": "SDK",
+      "vlada": "1. vláda M. Dzurindu",
+      "funkcne_obdobie": "30. október 1998 – 15. október 2002",
+      "poznamky": "Minister spravodlivosti."
+    },
+    {
+      "meno": "Daniel Lipšic",
+      "strana": "KDH",
+      "vlada": "2. vláda M. Dzurindu",
+      "funkcne_obdobie": "16. október 2002 – 8. február 2006",
+      "poznamky": "Podpredseda vlády a minister spravodlivosti."
+    },
+    {
+      "meno": "Lucia Žitňanská",
+      "strana": "SDKÚ",
+      "vlada": "2. vláda M. Dzurindu",
+      "funkcne_obdobie": "8. február 2006 – 4. júl 2006",
+      "poznamky": "Podpredsedníčka vlády a ministerka spravodlivosti."
+    },
+    {
+      "meno": "Štefan Harabin",
+      "strana": "nominant ĽS–HZDS",
+      "vlada": "1. vláda R. Fica",
+      "funkcne_obdobie": "4. júl 2006 – 23. jún 2009",
+      "poznamky": "Podpredseda vlády a minister spravodlivosti."
+    },
+    {
+      "meno": "Robert Fico",
+      "strana": "SMER-SD",
+      "vlada": "1. vláda R. Fica",
+      "funkcne_obdobie": "26. jún 2009 – 3. júl 2009",
+      "poznamky": "Dočasne poverený riadením."
+    },
+    {
+      "meno": "Viera Petríková",
+      "strana": "nominantka ĽS–HZDS",
+      "vlada": "1. vláda R. Fica",
+      "funkcne_obdobie": "3. júl 2009 – 8. júl 2010",
+      "poznamky": "Podpredsedníčka vlády a ministerka spravodlivosti."
+    },
+    {
+      "meno": "Lucia Žitňanská",
+      "strana": "SDKÚ-DS",
+      "vlada": "vláda I. Radičovej",
+      "funkcne_obdobie": "9. júl 2010 – 4. apríl 2012",
+      "poznamky": "Ministerka spravodlivosti."
+    },
+    {
+      "meno": "Tomáš Borec",
+      "strana": "nominant SMER-SD",
+      "vlada": "2. vláda R. Fica",
+      "funkcne_obdobie": "4. apríl 2012 – 23. marec 2016",
+      "poznamky": "Minister spravodlivosti."
+    },
+    {
+      "meno": "Lucia Žitňanská",
+      "strana": "MOST – HÍD",
+      "vlada": "3. vláda R. Fica",
+      "funkcne_obdobie": "23. marec 2016 – 22. marec 2018",
+      "poznamky": "Podpredsedníčka vlády a ministerka spravodlivosti."
+    },
+    {
+      "meno": "Gábor Gál",
+      "strana": "MOST – HÍD",
+      "vlada": "vláda P. Pellegriniho",
+      "funkcne_obdobie": "22. marec 2018 – 20. marec 2020",
+      "poznamky": "Minister spravodlivosti."
+    },
+    {
+      "meno": "Mária Kolíková",
+      "strana": "ZA ĽUDÍ",
+      "vlada": "vláda I. Matoviča",
+      "funkcne_obdobie": "21. marec 2020 - 23. marec 2021",
+      "poznamky": "Ministerka spravodlivosti. Pre koaličnú krízu podala demisiu."
+    },
+    {
+      "meno": "Veronika Remišová",
+      "strana": "ZA ĽUDÍ",
+      "vlada": "vláda I. Matoviča",
+      "funkcne_obdobie": "23. marec 2021 - 1. apríl 2021",
+      "poznamky": "Zastupujúca (ad interim)"
+    },
+    {
+      "meno": "Mária Kolíková",
+      "strana": "ZA ĽUDÍ",
+      "vlada": "vláda E. Hegera",
+      "funkcne_obdobie": "1. apríl 2021 – 13. september 2022",
+      "poznamky": "Ministerka spravodlivosti. Po rekonštrukcii vlády sa vrátila do úradu."
+    },
+    {
+      "meno": "Viliam Karas",
+      "strana": "nestraník",
+      "vlada": "vláda E. Hegera",
+      "funkcne_obdobie": "13. september 2022 – 15. máj 2023",
+      "poznamky": "Minister spravodlivosti."
+    },
+    {
+      "meno": "Jana Dubovcová",
+      "strana": "úradnícka vláda",
+      "vlada": "vláda Ľ. Ódora",
+      "funkcne_obdobie": "15. máj 2023 – 25. október 2023",
+      "poznamky": "Ministerka spravodlivosti."
+    },
+    {
+      "meno": "Boris Susko",
+      "strana": "SMER-SD",
+      "vlada": "4. vláda R. Fica",
+      "funkcne_obdobie": "25. október 2023",
+      "poznamky": "Minister spravodlivosti."
+    }
+  ],
+  "meta": {
+    "title": "Ministri spravodlivosti Slovenska - Free Download",
+    "description": "Zoznam ministrov spravodlivosti na Slovensku od roku 1938 so stranou, vládou a funkčným obdobím. Contains 43 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministri spravodlivosti Slovenska | ListBase",
+    "seo_description": "Download Ministri spravodlivosti Slovenska — 43 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 43 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_ministrov_spravodlivosti_Slovenskej_republiky"
+    ]
+  }
+}
