@@ -1,0 +1,289 @@
+{
+  "id": "sk-ministri-hospodarstva",
+  "name": "Ministri hospodárstva Slovenskej republiky",
+  "title": "Ministri hospodárstva Slovenskej republiky",
+  "description": "Zoznam ministrov hospodárstva Slovenska od roku 1989 s nominujúcou stranou a funkčným obdobím.",
+  "category": "economy",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_hospodárstva_Slovenskej_republiky",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_hospodárstva_Slovenskej_republiky",
+  "updated": "2026-10",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "meno",
+      "label": "Meno",
+      "type": "string"
+    },
+    {
+      "key": "nominant",
+      "label": "Nominant",
+      "type": "string"
+    },
+    {
+      "key": "od",
+      "label": "Od",
+      "type": "string"
+    },
+    {
+      "key": "do",
+      "label": "Do",
+      "type": "string"
+    },
+    {
+      "key": "poznamka",
+      "label": "Poznamka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "meno": "Ján Ducký",
+      "nominant": "KSČ",
+      "od": "12. december 1989",
+      "do": "26. jún 1990",
+      "poznamka": ""
+    },
+    {
+      "meno": "Matej Roľko",
+      "nominant": "",
+      "od": "12. december 1989",
+      "do": "26. jún 1990",
+      "poznamka": ""
+    },
+    {
+      "meno": "Jozef Belcák",
+      "nominant": "KDH",
+      "od": "27. jún 1990",
+      "do": "22. apríl 1991",
+      "poznamka": ""
+    },
+    {
+      "meno": "Jozef Chren",
+      "nominant": "KDH",
+      "od": "27. jún 1990",
+      "do": "22. apríl 1991",
+      "poznamka": ""
+    },
+    {
+      "meno": "Jozef Belcák",
+      "nominant": "KDH",
+      "od": "23. apríl 1991",
+      "do": "24. jún 1992",
+      "poznamka": ""
+    },
+    {
+      "meno": "Jozef Chren",
+      "nominant": "KDH",
+      "od": "23. apríl 1991",
+      "do": "18. február 1992",
+      "poznamka": ""
+    },
+    {
+      "meno": "Jana Kotová",
+      "nominant": "",
+      "od": "18. február 1992",
+      "do": "24. jún 1992",
+      "poznamka": ""
+    },
+    {
+      "meno": "Ľudovít Černák",
+      "nominant": "SNS",
+      "od": "24. jún 1992",
+      "do": "19. marec 1993",
+      "poznamka": ""
+    },
+    {
+      "meno": "Jaroslav Kubečka",
+      "nominant": "HZDS",
+      "od": "19. marec 1993",
+      "do": "10. november 1993",
+      "poznamka": ""
+    },
+    {
+      "meno": "Ján Ducký",
+      "nominant": "HZDS",
+      "od": "10. november 1993",
+      "do": "15. marec 1994",
+      "poznamka": ""
+    },
+    {
+      "meno": "Peter Magvaši",
+      "nominant": "SDĽ",
+      "od": "15. marec 1994",
+      "do": "13. december 1994",
+      "poznamka": ""
+    },
+    {
+      "meno": "Ján Ducký",
+      "nominant": "HZDS",
+      "od": "13. december 1994",
+      "do": "26. august 1996",
+      "poznamka": ""
+    },
+    {
+      "meno": "Karol Česnek",
+      "nominant": "HZDS",
+      "od": "27. august 1996",
+      "do": "27. február 1998",
+      "poznamka": ""
+    },
+    {
+      "meno": "Milan Cagala",
+      "nominant": "HZDS",
+      "od": "27. február 1998",
+      "do": "30. október 1998",
+      "poznamka": ""
+    },
+    {
+      "meno": "Ľudovít Černák",
+      "nominant": "SDK",
+      "od": "30. október 1998",
+      "do": "20. október 1999",
+      "poznamka": ""
+    },
+    {
+      "meno": "Ľubomír Harach",
+      "nominant": "SDKÚ",
+      "od": "21. október 1999",
+      "do": "15. október 2002",
+      "poznamka": ""
+    },
+    {
+      "meno": "Robert Nemcsics",
+      "nominant": "ANO",
+      "od": "16. október 2002",
+      "do": "10. september 2003",
+      "poznamka": ""
+    },
+    {
+      "meno": "Pavol Prokopovič",
+      "nominant": "SDKÚ",
+      "od": "10. september 2003",
+      "do": "23. september 2003",
+      "poznamka": ""
+    },
+    {
+      "meno": "Pavol Rusko",
+      "nominant": "ANO",
+      "od": "23. september 2003",
+      "do": "24. august 2005",
+      "poznamka": ""
+    },
+    {
+      "meno": "Ivan Mikloš",
+      "nominant": "SDKÚ",
+      "od": "24. august 2005",
+      "do": "4. október 2005",
+      "poznamka": ""
+    },
+    {
+      "meno": "Jirko Malchárek",
+      "nominant": "ANO",
+      "od": "4. október 2005",
+      "do": "4. júl 2006",
+      "poznamka": ""
+    },
+    {
+      "meno": "Ľubomír Jahnátek",
+      "nominant": "SMER",
+      "od": "4. júl 2006",
+      "do": "8. júl 2010",
+      "poznamka": ""
+    },
+    {
+      "meno": "Juraj Miškov",
+      "nominant": "Sloboda a Solidarita",
+      "od": "9. júl 2010",
+      "do": "3. apríl 2012",
+      "poznamka": ""
+    },
+    {
+      "meno": "Tomáš Malatinský",
+      "nominant": "nom. SMER-SD",
+      "od": "4. apríl 2012",
+      "do": "3. júl 2014",
+      "poznamka": ""
+    },
+    {
+      "meno": "Pavol Pavlis",
+      "nominant": "nom. SMER-SD",
+      "od": "3. júl 2014",
+      "do": "6. máj 2015",
+      "poznamka": ""
+    },
+    {
+      "meno": "Peter Kažimír",
+      "nominant": "SMER-SD",
+      "od": "6. máj 2015",
+      "do": "16. jún 2015",
+      "poznamka": "Ad Interim"
+    },
+    {
+      "meno": "Vazil Hudák",
+      "nominant": "SMER-SD",
+      "od": "16. jún 2015",
+      "do": "23. marec 2016",
+      "poznamka": ""
+    },
+    {
+      "meno": "Peter Žiga",
+      "nominant": "SMER-SD",
+      "od": "23. marec 2016",
+      "do": "20. marec 2020",
+      "poznamka": ""
+    },
+    {
+      "meno": "Richard Sulík",
+      "nominant": "SaS",
+      "od": "21. marec 2020",
+      "do": "23. marec 2021",
+      "poznamka": ""
+    },
+    {
+      "meno": "Andrej Doležal",
+      "nominant": "SME RODINA",
+      "od": "23. marec 2021",
+      "do": "1. apríl 2021",
+      "poznamka": "Ad interim"
+    },
+    {
+      "meno": "Richard Sulík",
+      "nominant": "SaS",
+      "od": "1. apríl 2021",
+      "do": "13. september 2022",
+      "poznamka": ""
+    },
+    {
+      "meno": "Karel Hirman",
+      "nominant": "nestraník",
+      "od": "13. september 2022",
+      "do": "15. mája 2023",
+      "poznamka": ""
+    },
+    {
+      "meno": "Peter Dovhun",
+      "nominant": "nestraník",
+      "od": "15. mája 2023",
+      "do": "25. októbra 2023",
+      "poznamka": ""
+    },
+    {
+      "meno": "Denisa Saková",
+      "nominant": "HLAS-SD",
+      "od": "25. októbra 2023",
+      "do": "",
+      "poznamka": ""
+    }
+  ],
+  "meta": {
+    "title": "Ministri hospodárstva Slovenskej republiky - Free Download",
+    "description": "Zoznam ministrov hospodárstva Slovenska od roku 1989 s nominujúcou stranou a funkčným obdobím. Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministri hospodárstva Slovenskej republiky | ListBase",
+    "seo_description": "Download Ministri hospodárstva Slovenskej republiky — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_ministrov_hospodárstva_Slovenskej_republiky"
+    ]
+  }
+}

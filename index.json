@@ -1,12 +1,16 @@
 {
   "lang": "sk",
-  "generated": "2026-10-27T02:25:54.193Z",
-  "total_datasets": 417,
-  "total_records": 279235,
+  "generated": "2026-10-27T02:25:56.624Z",
+  "total_datasets": 418,
+  "total_records": 279269,
   "categories": [
     {
       "id": "culture",
       "dataset_count": 10
+    },
+    {
+      "id": "economy",
+      "dataset_count": 1
     },
     {
       "id": "education",
@@ -1029,6 +1033,32 @@
         "xlsx": {
           "name": "sk-zahrady_SK.xlsx",
           "size": 23727
+        }
+      }
+    },
+    {
+      "id": "sk-ministri-hospodarstva",
+      "name": "Ministri hospodárstva Slovenskej republiky",
+      "category": "economy",
+      "record_count": 34,
+      "columns": [
+        "meno",
+        "nominant",
+        "od",
+        "do",
+        "poznamka"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_hospodárstva_Slovenskej_republiky",
+      "updated": "2026-10",
+      "size": 6987,
+      "files": {
+        "csv": {
+          "name": "sk-ministri-hospodarstva_SK.csv",
+          "size": 2222
+        },
+        "xlsx": {
+          "name": "sk-ministri-hospodarstva_SK.xlsx",
+          "size": 8208
         }
       }
     },
