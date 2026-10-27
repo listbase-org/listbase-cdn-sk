@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-27T02:26:09.074Z",
-  "total_datasets": 423,
-  "total_records": 279696,
+  "generated": "2026-10-27T02:26:11.529Z",
+  "total_datasets": 424,
+  "total_records": 279892,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "politics",
@@ -4134,6 +4134,30 @@
         "xlsx": {
           "name": "sk-najlepsie-slovenske-albumy_SK.xlsx",
           "size": 12221
+        }
+      }
+    },
+    {
+      "id": "sk-operni-speaci",
+      "name": "Operní speváci a speváčky na Slovensku",
+      "category": "music",
+      "record_count": 196,
+      "columns": [
+        "meno",
+        "roky",
+        "hlasovy_odbor"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_operných_spevákov_a_speváčok_na_Slovensku",
+      "updated": "2026-10",
+      "size": 21958,
+      "files": {
+        "csv": {
+          "name": "sk-operni-speaci_SK.csv",
+          "size": 7494
+        },
+        "xlsx": {
+          "name": "sk-operni-speaci_SK.xlsx",
+          "size": 12305
         }
       }
     },
