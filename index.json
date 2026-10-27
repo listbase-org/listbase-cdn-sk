@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-27T02:26:06.369Z",
-  "total_datasets": 422,
-  "total_records": 279617,
+  "generated": "2026-10-27T02:26:09.074Z",
+  "total_datasets": 423,
+  "total_records": 279696,
   "categories": [
     {
       "id": "agriculture",
@@ -67,6 +67,10 @@
     {
       "id": "reference",
       "dataset_count": 265
+    },
+    {
+      "id": "society",
+      "dataset_count": 1
     },
     {
       "id": "sports",
@@ -11421,6 +11425,37 @@
         "xlsx": {
           "name": "sk-zvolen-obce_SK.xlsx",
           "size": 8838
+        }
+      }
+    },
+    {
+      "id": "sk-okresy-obyvatelstvo",
+      "name": "Okresy Slovenska – obyvateľstvo a rozloha",
+      "category": "society",
+      "record_count": 79,
+      "columns": [
+        "okres",
+        "ecv",
+        "kod",
+        "kraj",
+        "obyvatelia",
+        "zeny_pct",
+        "rozloha_km2",
+        "hustota",
+        "pocet_obci",
+        "z_toho_miest"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_okresov_na_Slovensku",
+      "updated": "2026-10",
+      "size": 22819,
+      "files": {
+        "csv": {
+          "name": "sk-okresy-obyvatelstvo_SK.csv",
+          "size": 6293
+        },
+        "xlsx": {
+          "name": "sk-okresy-obyvatelstvo_SK.xlsx",
+          "size": 11969
         }
       }
     },
