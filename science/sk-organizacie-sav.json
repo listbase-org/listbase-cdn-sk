@@ -1,0 +1,676 @@
+{
+  "id": "sk-organizacie-sav",
+  "name": "Organizácie Slovenskej akadémie vied",
+  "title": "Organizácie Slovenskej akadémie vied",
+  "description": "Zoznam ústavov a pracovísk Slovenskej akadémie vied podľa oddelení vied.",
+  "category": "science",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_organizácií_Slovenskej_akadémie_vied",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_organizácií_Slovenskej_akadémie_vied",
+  "updated": "2026-10",
+  "record_count": 127,
+  "columns": [
+    {
+      "key": "organizacia",
+      "label": "Organizacia",
+      "type": "string"
+    },
+    {
+      "key": "typ",
+      "label": "Typ",
+      "type": "string"
+    },
+    {
+      "key": "oddelenie_vied",
+      "label": "Oddelenie Vied",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "organizacia": "Astronomický ústav SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o neživej prírode"
+    },
+    {
+      "organizacia": "Geografický ústav SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o neživej prírode"
+    },
+    {
+      "organizacia": "Ústav hydrológie SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o neživej prírode"
+    },
+    {
+      "organizacia": "Ústav vied o Zemi SAV (spojený Geofyzikálny ústav SAV a Geologický ústav SAV), v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o neživej prírode"
+    },
+    {
+      "organizacia": "Centrum pre využitie pokročilých materiálov SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o neživej prírode"
+    },
+    {
+      "organizacia": "Fyzikálny ústav SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o neživej prírode"
+    },
+    {
+      "organizacia": "Matematický ústav SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o neživej prírode"
+    },
+    {
+      "organizacia": "Ústav experimentálnej fyziky SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o neživej prírode"
+    },
+    {
+      "organizacia": "Elektrotechnický ústav SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o neživej prírode"
+    },
+    {
+      "organizacia": "Ústav geotechniky SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o neživej prírode"
+    },
+    {
+      "organizacia": "Ústav informatiky SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o neživej prírode"
+    },
+    {
+      "organizacia": "Ústav materiálov a mechaniky strojov SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o neživej prírode"
+    },
+    {
+      "organizacia": "Ústav materiálového výskumu SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o neživej prírode"
+    },
+    {
+      "organizacia": "Ústav merania SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o neživej prírode"
+    },
+    {
+      "organizacia": "Ústav stavebníctva a architektúry SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o neživej prírode"
+    },
+    {
+      "organizacia": "Biomedicínske centrum SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o živej prírode a chemických vedách"
+    },
+    {
+      "organizacia": "Centrum experimentálnej medicíny SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o živej prírode a chemických vedách"
+    },
+    {
+      "organizacia": "Neuroimunologický ústav SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o živej prírode a chemických vedách"
+    },
+    {
+      "organizacia": "Centrum biovied SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o živej prírode a chemických vedách"
+    },
+    {
+      "organizacia": "Chemický ústav SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o živej prírode a chemických vedách"
+    },
+    {
+      "organizacia": "Ústav anorganickej chémie SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o živej prírode a chemických vedách"
+    },
+    {
+      "organizacia": "Ústav molekulárnej biológie SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o živej prírode a chemických vedách"
+    },
+    {
+      "organizacia": "Ústav polymérov SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o živej prírode a chemických vedách"
+    },
+    {
+      "organizacia": "Ústav zoológie SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o živej prírode a chemických vedách"
+    },
+    {
+      "organizacia": "Centrum biológie rastlín a biodiverzity SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o živej prírode a chemických vedách"
+    },
+    {
+      "organizacia": "Parazitologický ústav SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o živej prírode a chemických vedách"
+    },
+    {
+      "organizacia": "Ústav ekológie lesa SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o živej prírode a chemických vedách"
+    },
+    {
+      "organizacia": "Ústav krajinnej ekológie SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o živej prírode a chemických vedách"
+    },
+    {
+      "organizacia": "Archeologický ústav SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o spoločnosti a kultúre"
+    },
+    {
+      "organizacia": "Historický ústav SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o spoločnosti a kultúre"
+    },
+    {
+      "organizacia": "Ústav etnológie a sociálnej antropológie SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o spoločnosti a kultúre"
+    },
+    {
+      "organizacia": "Centrum spoločenských a psychologických vied SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o spoločnosti a kultúre"
+    },
+    {
+      "organizacia": "Ekonomický ústav SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o spoločnosti a kultúre"
+    },
+    {
+      "organizacia": "Filozofický ústav SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o spoločnosti a kultúre"
+    },
+    {
+      "organizacia": "Sociologický ústav SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o spoločnosti a kultúre"
+    },
+    {
+      "organizacia": "Ústav politických vied SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o spoločnosti a kultúre"
+    },
+    {
+      "organizacia": "Ústav štátu a práva SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o spoločnosti a kultúre"
+    },
+    {
+      "organizacia": "Ústav výskumu sociálnej komunikácie SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o spoločnosti a kultúre"
+    },
+    {
+      "organizacia": "Centrum vied o umení SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o spoločnosti a kultúre"
+    },
+    {
+      "organizacia": "Jazykovedný ústav Ľudovíta Štúra SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o spoločnosti a kultúre"
+    },
+    {
+      "organizacia": "Slavistický ústav Jána Stanislava SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o spoločnosti a kultúre"
+    },
+    {
+      "organizacia": "Ústav hudobnej vedy SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o spoločnosti a kultúre"
+    },
+    {
+      "organizacia": "Ústav orientalistiky SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o spoločnosti a kultúre"
+    },
+    {
+      "organizacia": "Ústav slovenskej literatúry SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o spoločnosti a kultúre"
+    },
+    {
+      "organizacia": "Ústav svetovej literatúry SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Oddelenie vied o spoločnosti a kultúre"
+    },
+    {
+      "organizacia": "Centrum spoločných činností SAV, v. v. i.",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Špecializované pracoviská"
+    },
+    {
+      "organizacia": "Archív SAV",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Špecializované pracoviská"
+    },
+    {
+      "organizacia": "Encyklopedický ústav SAV",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Špecializované pracoviská"
+    },
+    {
+      "organizacia": "Kongresové centrum SAV Academia, Stará Lesná",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Špecializované pracoviská"
+    },
+    {
+      "organizacia": "Kongresové centrum SAV Smolenice",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Špecializované pracoviská"
+    },
+    {
+      "organizacia": "Správa účelových zariadení SAV",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Špecializované pracoviská"
+    },
+    {
+      "organizacia": "Technicko-hospodárska správa ústavov spoločenských vied v Bratislave",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Špecializované pracoviská"
+    },
+    {
+      "organizacia": "VEDA, vydavateľstvo SAV",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Špecializované pracoviská"
+    },
+    {
+      "organizacia": "Výpočtové stredisko SAV",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Špecializované pracoviská"
+    },
+    {
+      "organizacia": "Arborétum Mlyňany SAV",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Špecializované pracoviská"
+    },
+    {
+      "organizacia": "Ústredná knižnica SAV",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Špecializované pracoviská"
+    },
+    {
+      "organizacia": "THS ústavov SAV Košice",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Servisné pracoviská"
+    },
+    {
+      "organizacia": "THS USV SAV",
+      "typ": "Ústavy a pracoviská",
+      "oddelenie_vied": "Servisné pracoviská"
+    },
+    {
+      "organizacia": "Vedecké kolégium SAV pre matematiku, fyziku a informatiku",
+      "typ": "Vedecké kolégiá",
+      "oddelenie_vied": ""
+    },
+    {
+      "organizacia": "Vedecké kolégium SAV pre vedy o Zemi a vesmíre",
+      "typ": "Vedecké kolégiá",
+      "oddelenie_vied": ""
+    },
+    {
+      "organizacia": "Vedecké kolégium SAV pre elektroniku, materiálový výskum a technológie",
+      "typ": "Vedecké kolégiá",
+      "oddelenie_vied": ""
+    },
+    {
+      "organizacia": "Vedecké kolégium SAV pre lekárske vedy",
+      "typ": "Vedecké kolégiá",
+      "oddelenie_vied": ""
+    },
+    {
+      "organizacia": "Vedecké kolégium SAV pre molekulárnu biológiu a genetiku",
+      "typ": "Vedecké kolégiá",
+      "oddelenie_vied": ""
+    },
+    {
+      "organizacia": "Vedecké kolégium SAV pre biologicko-ekologické vedy",
+      "typ": "Vedecké kolégiá",
+      "oddelenie_vied": ""
+    },
+    {
+      "organizacia": "Vedecké kolégium SAV pre chemické vedy",
+      "typ": "Vedecké kolégiá",
+      "oddelenie_vied": ""
+    },
+    {
+      "organizacia": "Vedecké kolégium SAV pre kultúrnohistorické vedy",
+      "typ": "Vedecké kolégiá",
+      "oddelenie_vied": ""
+    },
+    {
+      "organizacia": "Vedecké kolégium SAV pre vedu o jazyku, literatúre a umeniach",
+      "typ": "Vedecké kolégiá",
+      "oddelenie_vied": ""
+    },
+    {
+      "organizacia": "Vedecké kolégium SAV pre vedy o človeku a spoločnosti",
+      "typ": "Vedecké kolégiá",
+      "oddelenie_vied": ""
+    },
+    {
+      "organizacia": "Rada Slovenských vedeckých spoločností pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": ""
+    },
+    {
+      "organizacia": "Asociácia slovenských geomorfológov pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o Zemi a vesmíre"
+    },
+    {
+      "organizacia": "Slovenská astronomická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o Zemi a vesmíre"
+    },
+    {
+      "organizacia": "Slovenská bioklimatologická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o Zemi a vesmíre"
+    },
+    {
+      "organizacia": "Slovenská geografická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o Zemi a vesmíre"
+    },
+    {
+      "organizacia": "Slovenská geologická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o Zemi a vesmíre"
+    },
+    {
+      "organizacia": "Slovenská meteorologická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o Zemi a vesmíre"
+    },
+    {
+      "organizacia": "Jednota slovenských matematikov a fyzikov pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Matematicko-fyzikálne vedy a informatika"
+    },
+    {
+      "organizacia": "Slovenská fyzikálna spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Matematicko-fyzikálne vedy a informatika"
+    },
+    {
+      "organizacia": "Slovenská spoločnosť pre kybernetiku a informatiku pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Matematicko-fyzikálne vedy a informatika"
+    },
+    {
+      "organizacia": "Slovenská štatistická a demografická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Matematicko-fyzikálne vedy a informatika"
+    },
+    {
+      "organizacia": "Slovenská akustická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Technické vedy"
+    },
+    {
+      "organizacia": "Slovenská dopravná spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Technické vedy"
+    },
+    {
+      "organizacia": "Slovenská spoločnosť pre mechaniku pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Technické vedy"
+    },
+    {
+      "organizacia": "Vedecká spoločnosť pre náuku o kovoch pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Technické vedy"
+    },
+    {
+      "organizacia": "Slovenská Alzheimerova spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Lekárske vedy"
+    },
+    {
+      "organizacia": "Slovenská histo a cytochemická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Lekárske vedy"
+    },
+    {
+      "organizacia": "Slovenská imunologická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Lekárske vedy"
+    },
+    {
+      "organizacia": "Slovenská spoločnosť pre neurovedy pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Lekárske vedy"
+    },
+    {
+      "organizacia": "Slovenská biologická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Biologické a chemické vedy"
+    },
+    {
+      "organizacia": "Slovenská botanická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Biologické a chemické vedy"
+    },
+    {
+      "organizacia": "Slovenská chemická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Biologické a chemické vedy"
+    },
+    {
+      "organizacia": "Slovenská ekologická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Biologické a chemické vedy"
+    },
+    {
+      "organizacia": "Slovenská entomologická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Biologické a chemické vedy"
+    },
+    {
+      "organizacia": "Slovenská mykologická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Biologické a chemické vedy"
+    },
+    {
+      "organizacia": "Slovenská spoločnosť pre biochémiu a molekulárnu biológiu pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Biologické a chemické vedy"
+    },
+    {
+      "organizacia": "Slovenská zoologická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Biologické a chemické vedy"
+    },
+    {
+      "organizacia": "Slovenská parazitologická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Poľnohospodárske a veterinárne vedy"
+    },
+    {
+      "organizacia": "Slovenská spoločnosť pre poľnohospodárske, lesnícke, potravinárske a veterinárne vedy pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Poľnohospodárske a veterinárne vedy"
+    },
+    {
+      "organizacia": "Slovenská antropologická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o dejinách"
+    },
+    {
+      "organizacia": "Slovenská archeologická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o dejinách"
+    },
+    {
+      "organizacia": "Slovenská historická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o dejinách"
+    },
+    {
+      "organizacia": "Slovenská orientalistická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o dejinách"
+    },
+    {
+      "organizacia": "Slovenská spoločnosť pre dejiny vied a techniky pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o dejinách"
+    },
+    {
+      "organizacia": "Umeleckohistorická spoločnosť Slovenska pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o dejinách"
+    },
+    {
+      "organizacia": "Nezávislé združenie ekonómov Slovenska pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o človeku a spoločnosti"
+    },
+    {
+      "organizacia": "Slovenská jazykovedná spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o človeku a spoločnosti"
+    },
+    {
+      "organizacia": "Slovenská jednota klasických filológov pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o človeku a spoločnosti"
+    },
+    {
+      "organizacia": "Slovenská kriminologická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o človeku a spoločnosti"
+    },
+    {
+      "organizacia": "Slovenská limnologická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o človeku a spoločnosti"
+    },
+    {
+      "organizacia": "Slovenská literárnovedná spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o človeku a spoločnosti"
+    },
+    {
+      "organizacia": "Slovenská národopisná spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o človeku a spoločnosti"
+    },
+    {
+      "organizacia": "Slovenská pedagogická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o človeku a spoločnosti"
+    },
+    {
+      "organizacia": "Slovenská psychologická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o človeku a spoločnosti"
+    },
+    {
+      "organizacia": "Slovenská sociologická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o človeku a spoločnosti"
+    },
+    {
+      "organizacia": "Slovenská spoločnosť pre medzinárodné právo pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o človeku a spoločnosti"
+    },
+    {
+      "organizacia": "Slovenská spoločnosť pre regionálnu politiku pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o človeku a spoločnosti"
+    },
+    {
+      "organizacia": "Slovenská spoločnosť pre štúdium náboženstiev pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o človeku a spoločnosti"
+    },
+    {
+      "organizacia": "Slovenská teatrologická spoločnosť pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o človeku a spoločnosti"
+    },
+    {
+      "organizacia": "Slovenské filozofické združenie pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o človeku a spoločnosti"
+    },
+    {
+      "organizacia": "Slovenské združenie pre politické vedy pri SAV",
+      "typ": "Vedecké spoločnosti pri SAV",
+      "oddelenie_vied": "Vedy o človeku a spoločnosti"
+    },
+    {
+      "organizacia": "Učená spoločnosť SAV",
+      "typ": "Iné",
+      "oddelenie_vied": ""
+    },
+    {
+      "organizacia": "Odborový zväz SAV",
+      "typ": "Iné",
+      "oddelenie_vied": ""
+    },
+    {
+      "organizacia": "Nadácia Výskum rakoviny",
+      "typ": "Neziskové mimovládne organizácie pôsobiacich pri SAV",
+      "oddelenie_vied": ""
+    },
+    {
+      "organizacia": "Dr. Štefan Ambrózy Migazzi, n.f.",
+      "typ": "Neziskové mimovládne organizácie pôsobiacich pri SAV",
+      "oddelenie_vied": ""
+    },
+    {
+      "organizacia": "Spoločnosť PRO HISTORIA",
+      "typ": "Neziskové mimovládne organizácie pôsobiacich pri SAV",
+      "oddelenie_vied": ""
+    },
+    {
+      "organizacia": "Nadácia \"PRO NATURA\"",
+      "typ": "Neziskové mimovládne organizácie pôsobiacich pri SAV",
+      "oddelenie_vied": ""
+    },
+    {
+      "organizacia": "Slovenská národopisná spoločnosť pri SAV",
+      "typ": "Neziskové mimovládne organizácie pôsobiacich pri SAV",
+      "oddelenie_vied": ""
+    },
+    {
+      "organizacia": "Nadácia Dionýza Blaškoviča pre rozvoj virológie",
+      "typ": "Neziskové mimovládne organizácie pôsobiacich pri SAV",
+      "oddelenie_vied": ""
+    }
+  ],
+  "meta": {
+    "title": "Organizácie Slovenskej akadémie vied - Free Download",
+    "description": "Zoznam ústavov a pracovísk Slovenskej akadémie vied podľa oddelení vied. Contains 127 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Organizácie Slovenskej akadémie vied | ListBase",
+    "seo_description": "Download Organizácie Slovenskej akadémie vied — 127 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 127 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_organizácií_Slovenskej_akadémie_vied"
+    ]
+  }
+}
