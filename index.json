@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-27T02:26:16.908Z",
-  "total_datasets": 426,
-  "total_records": 280072,
+  "generated": "2026-10-27T02:26:19.495Z",
+  "total_datasets": 427,
+  "total_records": 280295,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "finance",
@@ -1726,6 +1726,30 @@
         "xlsx": {
           "name": "sk-merne-jednotky-temperature_SK.xlsx",
           "size": 7009
+        }
+      }
+    },
+    {
+      "id": "sk-prirodne-pamiatky",
+      "name": "Prírodné pamiatky na Slovensku",
+      "category": "environment",
+      "record_count": 223,
+      "columns": [
+        "poradove_cislo",
+        "nazov",
+        "okres"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_prírodných_pamiatok_na_Slovensku",
+      "updated": "2026-10",
+      "size": 26592,
+      "files": {
+        "csv": {
+          "name": "sk-prirodne-pamiatky_SK.csv",
+          "size": 9801
+        },
+        "xlsx": {
+          "name": "sk-prirodne-pamiatky_SK.xlsx",
+          "size": 13885
         }
       }
     },

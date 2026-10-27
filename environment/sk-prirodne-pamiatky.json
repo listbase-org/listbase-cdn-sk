@@ -1,0 +1,1156 @@
+{
+  "id": "sk-prirodne-pamiatky",
+  "name": "Prírodné pamiatky na Slovensku",
+  "title": "Prírodné pamiatky na Slovensku",
+  "description": "Zoznam prírodných pamiatok (chránených území) na Slovensku s okresom.",
+  "category": "environment",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_prírodných_pamiatok_na_Slovensku",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_prírodných_pamiatok_na_Slovensku",
+  "updated": "2026-10",
+  "record_count": 223,
+  "columns": [
+    {
+      "key": "poradove_cislo",
+      "label": "Poradove Cislo",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradove_cislo": "1.",
+      "nazov": "Babiná",
+      "okres": "Ilava"
+    },
+    {
+      "poradove_cislo": "2.",
+      "nazov": "Babirátka",
+      "okres": "Považská Bystrica"
+    },
+    {
+      "poradove_cislo": "3.",
+      "nazov": "Bábske jazierko (Babské jazero)",
+      "okres": "Šaľa"
+    },
+    {
+      "poradove_cislo": "4.",
+      "nazov": "Baricovie lúky (Baricech lúky)",
+      "okres": "Nové Mesto nad Váhom"
+    },
+    {
+      "poradove_cislo": "5.",
+      "nazov": "Bátovský balvan",
+      "okres": "Banská Bystrica"
+    },
+    {
+      "poradove_cislo": "6.",
+      "nazov": "Beckovské hradné bralo",
+      "okres": "Nové Mesto nad Váhom"
+    },
+    {
+      "poradove_cislo": "7.",
+      "nazov": "Belanov kút",
+      "okres": "Topoľčany"
+    },
+    {
+      "poradove_cislo": "8.",
+      "nazov": "Beliansky potok",
+      "okres": "Kežmarok"
+    },
+    {
+      "poradove_cislo": "9.",
+      "nazov": "Belinské skaly",
+      "okres": "Lučenec"
+    },
+    {
+      "poradove_cislo": "10.",
+      "nazov": "Beňatinský travertín",
+      "okres": "Sobrance"
+    },
+    {
+      "poradove_cislo": "11.",
+      "nazov": "Bestinné (Bestiné)",
+      "okres": "Nové Mesto nad Váhom"
+    },
+    {
+      "poradove_cislo": "12.",
+      "nazov": "Bešeňovské travertíny",
+      "okres": "Ružomberok"
+    },
+    {
+      "poradove_cislo": "13.",
+      "nazov": "Biela jaskyňa",
+      "okres": "Spišská Nová Ves"
+    },
+    {
+      "poradove_cislo": "14.",
+      "nazov": "Biely vrch",
+      "okres": "Ilava"
+    },
+    {
+      "poradove_cislo": "15.",
+      "nazov": "Bíňanský sprašový profil",
+      "okres": "Nové Zámky"
+    },
+    {
+      "poradove_cislo": "16.",
+      "nazov": "Blatné",
+      "okres": "Ružomberok"
+    },
+    {
+      "poradove_cislo": "17.",
+      "nazov": "Blažejová",
+      "okres": "Nové Mesto nad Váhom"
+    },
+    {
+      "poradove_cislo": "18.",
+      "nazov": "Borotová",
+      "okres": "Nové Mesto nad Váhom"
+    },
+    {
+      "poradove_cislo": "19.",
+      "nazov": "Bôrická mláka (Bôriková mláka)",
+      "okres": "Dolný Kubín"
+    },
+    {
+      "poradove_cislo": "20.",
+      "nazov": "Bosmany",
+      "okres": "Považská Bystrica"
+    },
+    {
+      "poradove_cislo": "21.",
+      "nazov": "Bradlové pásmo",
+      "okres": "Sabinov"
+    },
+    {
+      "poradove_cislo": "22.",
+      "nazov": "Brehové porasty Dubovej (Brehové porasty potoka Dubová)",
+      "okres": "Nové Mesto nad Váhom"
+    },
+    {
+      "poradove_cislo": "23.",
+      "nazov": "Brekovská jaskyňa",
+      "okres": "Humenné"
+    },
+    {
+      "poradove_cislo": "24.",
+      "nazov": "Brezovská dolina",
+      "okres": "Ilava"
+    },
+    {
+      "poradove_cislo": "25.",
+      "nazov": "Briestenské skaly",
+      "okres": "Považská Bystrica"
+    },
+    {
+      "poradove_cislo": "26.",
+      "nazov": "Briežky (Gánovské travertíny II)",
+      "okres": "Poprad"
+    },
+    {
+      "poradove_cislo": "27.",
+      "nazov": "Brloh",
+      "okres": "Prievidza"
+    },
+    {
+      "poradove_cislo": "28.",
+      "nazov": "Bučkova jama",
+      "okres": "Myjava"
+    },
+    {
+      "poradove_cislo": "29.",
+      "nazov": "Bukovina",
+      "okres": "Malacky"
+    },
+    {
+      "poradove_cislo": "30.",
+      "nazov": "Bukovinka (Travertínové terasy Bukovinka)",
+      "okres": "Ružomberok"
+    },
+    {
+      "poradove_cislo": "31.",
+      "nazov": "Bukovský prameň",
+      "okres": "Čadca"
+    },
+    {
+      "poradove_cislo": "32.",
+      "nazov": "Bystré jazierko",
+      "okres": "Šaľa"
+    },
+    {
+      "poradove_cislo": "33.",
+      "nazov": "Cetuna",
+      "okres": "Nové Mesto nad Váhom"
+    },
+    {
+      "poradove_cislo": "34.",
+      "nazov": "Čakanovský profil",
+      "okres": "Lučenec"
+    },
+    {
+      "poradove_cislo": "35.",
+      "nazov": "Čermiansky močiar",
+      "okres": "Topoľčany"
+    },
+    {
+      "poradove_cislo": "36.",
+      "nazov": "Čertov žľab",
+      "okres": "Trnava"
+    },
+    {
+      "poradove_cislo": "37.",
+      "nazov": "Čertova skala (Biela skala)",
+      "okres": "Košice-okolie"
+    },
+    {
+      "poradove_cislo": "38.",
+      "nazov": "Čierne jazierko",
+      "okres": "Šaľa"
+    },
+    {
+      "poradove_cislo": "39.",
+      "nazov": "Čierny potok",
+      "okres": "Humenné"
+    },
+    {
+      "poradove_cislo": "40.",
+      "nazov": "Devínska lesostep",
+      "okres": "Bratislava IV"
+    },
+    {
+      "poradove_cislo": "41.",
+      "nazov": "Dogerské skaly",
+      "okres": "Ružomberok"
+    },
+    {
+      "poradove_cislo": "42.",
+      "nazov": "Domašínsky meander",
+      "okres": "Žilina"
+    },
+    {
+      "poradove_cislo": "43.",
+      "nazov": "Dračia studňa",
+      "okres": "Ilava"
+    },
+    {
+      "poradove_cislo": "44.",
+      "nazov": "Drietomské bradlo (Ostrá Hôrka)",
+      "okres": "Trenčín"
+    },
+    {
+      "poradove_cislo": "45.",
+      "nazov": "Dudinské travertíny",
+      "okres": "Krupina"
+    },
+    {
+      "poradove_cislo": "46.",
+      "nazov": "Farská skala",
+      "okres": "Spišská Nová Ves"
+    },
+    {
+      "poradove_cislo": "47.",
+      "nazov": "Grúň",
+      "okres": "Nové Mesto nad Váhom"
+    },
+    {
+      "poradove_cislo": "48.",
+      "nazov": "Háje",
+      "okres": "Liptovský Mikuláš"
+    },
+    {
+      "poradove_cislo": "49.",
+      "nazov": "Haluzická tiesňava (Haluzická súteska)",
+      "okres": "Nové Mesto nad Váhom"
+    },
+    {
+      "poradove_cislo": "50.",
+      "nazov": "Havranka",
+      "okres": "Brezno"
+    },
+    {
+      "poradove_cislo": "51.",
+      "nazov": "Horná Roveň (Horná roveň)",
+      "okres": "Banská Bystrica"
+    },
+    {
+      "poradove_cislo": "52.",
+      "nazov": "Hrabkovské zlepence",
+      "okres": "Prešov"
+    },
+    {
+      "poradove_cislo": "53.",
+      "nazov": "Blatné",
+      "okres": "Ružomberok"
+    },
+    {
+      "poradove_cislo": "54.",
+      "nazov": "Hradisko",
+      "okres": "Prievidza"
+    },
+    {
+      "poradove_cislo": "55.",
+      "nazov": "Hranovnické pleso (Hranovnícke pleso)",
+      "okres": "Poprad"
+    },
+    {
+      "poradove_cislo": "56.",
+      "nazov": "Hričovská skalná ihla",
+      "okres": "Žilina"
+    },
+    {
+      "poradove_cislo": "57.",
+      "nazov": "Hričovské rífy",
+      "okres": "Žilina"
+    },
+    {
+      "poradove_cislo": "58.",
+      "nazov": "Hybická tiesňava",
+      "okres": "Liptovský Mikuláš"
+    },
+    {
+      "poradove_cislo": "59.",
+      "nazov": "Chropovská strž",
+      "okres": "Skalica"
+    },
+    {
+      "poradove_cislo": "60.",
+      "nazov": "Chvojnica",
+      "okres": "Skalica"
+    },
+    {
+      "poradove_cislo": "61.",
+      "nazov": "Ihráčske kamenné more",
+      "okres": "Žiar nad Hronom"
+    },
+    {
+      "poradove_cislo": "62.",
+      "nazov": "Ivanské rameno (pôvodne Ivánek)",
+      "okres": "Skalica"
+    },
+    {
+      "poradove_cislo": "63.",
+      "nazov": "Jahodnianske jazierka (Jahodnianske jazierko)",
+      "okres": "Šaľa"
+    },
+    {
+      "poradove_cislo": "64.",
+      "nazov": "Jalovské vrstvy",
+      "okres": "Rimavská Sobota"
+    },
+    {
+      "poradove_cislo": "65.",
+      "nazov": "Jánošíkova skala",
+      "okres": "Banská Bystrica"
+    },
+    {
+      "poradove_cislo": "66.",
+      "nazov": "Jastrabská skala",
+      "okres": "Žiar nad Hronom"
+    },
+    {
+      "poradove_cislo": "67.",
+      "nazov": "Jazerec",
+      "okres": "Levoča"
+    },
+    {
+      "poradove_cislo": "68.",
+      "nazov": "Jazero (Ozero)",
+      "okres": "Kežmarok"
+    },
+    {
+      "poradove_cislo": "69.",
+      "nazov": "Jazierko na Pažiti",
+      "okres": "Levoča"
+    },
+    {
+      "poradove_cislo": "70.",
+      "nazov": "Jazierske travertíny",
+      "okres": "Ružomberok"
+    },
+    {
+      "poradove_cislo": "71.",
+      "nazov": "Jovické rašelinisko",
+      "okres": "Rožňava"
+    },
+    {
+      "poradove_cislo": "72.",
+      "nazov": "Kalamárka",
+      "okres": "Detva"
+    },
+    {
+      "poradove_cislo": "73.",
+      "nazov": "Kamenický sprašový profil",
+      "okres": "Nové Zániky"
+    },
+    {
+      "poradove_cislo": "74.",
+      "nazov": "Kamenná žena",
+      "okres": "Veľký Krtíš"
+    },
+    {
+      "poradove_cislo": "75.",
+      "nazov": "Kamienka",
+      "okres": "Humenné"
+    },
+    {
+      "poradove_cislo": "76.",
+      "nazov": "Kapitulské bralá",
+      "okres": "Žiar nad Hronom"
+    },
+    {
+      "poradove_cislo": "77.",
+      "nazov": "Kátovské rameno",
+      "okres": "Skalica"
+    },
+    {
+      "poradove_cislo": "78.",
+      "nazov": "Kobylince",
+      "okres": "Prievidza"
+    },
+    {
+      "poradove_cislo": "79.",
+      "nazov": "Kohútová",
+      "okres": "Nové Mesto nad Váhom"
+    },
+    {
+      "poradove_cislo": "80.",
+      "nazov": "Končitá",
+      "okres": "Prievidza"
+    },
+    {
+      "poradove_cislo": "81.",
+      "nazov": "Korniansky ropný prameň (Korňanský ropný prameň)",
+      "okres": "Čadca"
+    },
+    {
+      "poradove_cislo": "82.",
+      "nazov": "Kosihovský Kamenný vrch",
+      "okres": "Veľký Krtíš"
+    },
+    {
+      "poradove_cislo": "83.",
+      "nazov": "Kožíkov vrch",
+      "okres": "Myjava"
+    },
+    {
+      "poradove_cislo": "84.",
+      "nazov": "Králická tiesňava",
+      "okres": "Banská Bystrica"
+    },
+    {
+      "poradove_cislo": "85.",
+      "nazov": "Kraľoviansky meander",
+      "okres": "Dolný Kubín"
+    },
+    {
+      "poradove_cislo": "86.",
+      "nazov": "Kráľovská lúka",
+      "okres": "Dunajská Streda"
+    },
+    {
+      "poradove_cislo": "87.",
+      "nazov": "Krasniansky luh (Krasňanský luh)",
+      "okres": "Žilina"
+    },
+    {
+      "poradove_cislo": "88.",
+      "nazov": "Kráter (Travertínové jazierko Kráter)",
+      "okres": "Stará Ľubovňa"
+    },
+    {
+      "poradove_cislo": "89.",
+      "nazov": "Krehora",
+      "okres": "Veľký Krtíš"
+    },
+    {
+      "poradove_cislo": "90.",
+      "nazov": "Krivánsky potok",
+      "okres": "Detva, Lučenec"
+    },
+    {
+      "poradove_cislo": "91.",
+      "nazov": "Krivoklátska tiesňava",
+      "okres": "Ilava"
+    },
+    {
+      "poradove_cislo": "92.",
+      "nazov": "Krivoklátske lúky",
+      "okres": "Ilava"
+    },
+    {
+      "poradove_cislo": "93.",
+      "nazov": "Krkavá skala",
+      "okres": "Ružomberok"
+    },
+    {
+      "poradove_cislo": "94.",
+      "nazov": "Krupinské bralce (Štangarígel)",
+      "okres": "Krupina"
+    },
+    {
+      "poradove_cislo": "95.",
+      "nazov": "Kurinov vrch",
+      "okres": "Trenčín"
+    },
+    {
+      "poradove_cislo": "96.",
+      "nazov": "Kyjovské bradielko",
+      "okres": "Stará Ľubovňa"
+    },
+    {
+      "poradove_cislo": "97.",
+      "nazov": "Kyseľová",
+      "okres": "Senica"
+    },
+    {
+      "poradove_cislo": "98.",
+      "nazov": "Kysucká brána",
+      "okres": "Kysucké Nové Mesto, Žilina"
+    },
+    {
+      "poradove_cislo": "99.",
+      "nazov": "Lednické skalky",
+      "okres": "Puchov"
+    },
+    {
+      "poradove_cislo": "100.",
+      "nazov": "Limbašská vyvieračka",
+      "okres": "Pezinok"
+    },
+    {
+      "poradove_cislo": "101.",
+      "nazov": "Lipovianske pieskovce",
+      "okres": "Lučenec"
+    },
+    {
+      "poradove_cislo": "102.",
+      "nazov": "Litmanovský potok",
+      "okres": "Stará Ľubovňa"
+    },
+    {
+      "poradove_cislo": "103.",
+      "nazov": "Lúčanské travertíny (Travertíny na Lúčkach)",
+      "okres": "Ružomberok"
+    },
+    {
+      "poradove_cislo": "104.",
+      "nazov": "Ľupčiansky skalný hríb",
+      "okres": "Banská Bystrica"
+    },
+    {
+      "poradove_cislo": "105.",
+      "nazov": "Lysá hora",
+      "okres": "Stará Ľubovňa"
+    },
+    {
+      "poradove_cislo": "106.",
+      "nazov": "Mačiansky presyp",
+      "okres": "Galanta"
+    },
+    {
+      "poradove_cislo": "107.",
+      "nazov": "Majerova skala",
+      "okres": "Banská Bystrica"
+    },
+    {
+      "poradove_cislo": "108.",
+      "nazov": "Malachovské skalky",
+      "okres": "Banská Bystrica"
+    },
+    {
+      "poradove_cislo": "109.",
+      "nazov": "Malejov",
+      "okres": "Myjava"
+    },
+    {
+      "poradove_cislo": "110.",
+      "nazov": "Malé Morské oko",
+      "okres": "Sobrance"
+    },
+    {
+      "poradove_cislo": "111.",
+      "nazov": "Malostankovské vresovisko",
+      "okres": "Trenčín"
+    },
+    {
+      "poradove_cislo": "112.",
+      "nazov": "Margecianska línia",
+      "okres": "Gelnica"
+    },
+    {
+      "poradove_cislo": "113.",
+      "nazov": "Mašiansky balvan (Balvan pri Maši)",
+      "okres": "Liptovský Mikuláš"
+    },
+    {
+      "poradove_cislo": "114.",
+      "nazov": "Matejkovský kamenný prúd",
+      "okres": "Ružomberok"
+    },
+    {
+      "poradove_cislo": "115.",
+      "nazov": "Meander Chrenovky",
+      "okres": "Nové Zámky"
+    },
+    {
+      "poradove_cislo": "116.",
+      "nazov": "Meandre Lúžňanky (Meandre Lúžňanky)",
+      "okres": "Ružomberok"
+    },
+    {
+      "poradove_cislo": "117.",
+      "nazov": "Meliatsky profil",
+      "okres": "Rožňava"
+    },
+    {
+      "poradove_cislo": "118.",
+      "nazov": "Melichova skala",
+      "okres": "Detva"
+    },
+    {
+      "poradove_cislo": "119.",
+      "nazov": "Miličská skala",
+      "okres": "Košice-okolie"
+    },
+    {
+      "poradove_cislo": "120.",
+      "nazov": "Mitická slatina",
+      "okres": "Trenčín"
+    },
+    {
+      "poradove_cislo": "121.",
+      "nazov": "Mníchova úboč",
+      "okres": "Senica"
+    },
+    {
+      "poradove_cislo": "122.",
+      "nazov": "Mokvavý prameň",
+      "okres": "Nové Mesto nad Váhom"
+    },
+    {
+      "poradove_cislo": "123.",
+      "nazov": "Mostovské presypy (Mostovianske presypy)",
+      "okres": "Galanta"
+    },
+    {
+      "poradove_cislo": "124.",
+      "nazov": "Moštenické travertíny",
+      "okres": "Banská Bystrica"
+    },
+    {
+      "poradove_cislo": "125.",
+      "nazov": "Mužliansky potok",
+      "okres": "Nové Zámky"
+    },
+    {
+      "poradove_cislo": "126.",
+      "nazov": "Nitriansky dolomitový lom (Triasový dolomitový útvar)",
+      "okres": "Nitra"
+    },
+    {
+      "poradove_cislo": "127.",
+      "nazov": "Nitrica",
+      "okres": "Partizánske"
+    },
+    {
+      "poradove_cislo": "128.",
+      "nazov": "Hutianske (Novoveská huta → Hutianske)",
+      "okres": "Spišská Nová Ves"
+    },
+    {
+      "poradove_cislo": "129.",
+      "nazov": "Obtočník Váhu",
+      "okres": "Nové Mesto nad Váhom"
+    },
+    {
+      "poradove_cislo": "130.",
+      "nazov": "Ochodnický prameň",
+      "okres": "Kysucké Nové Mesto"
+    },
+    {
+      "poradove_cislo": "131.",
+      "nazov": "Okrúhly kopec",
+      "okres": "Stará Ľubovňa"
+    },
+    {
+      "poradove_cislo": "132.",
+      "nazov": "Opičia skala",
+      "okres": "Rožňava"
+    },
+    {
+      "poradove_cislo": "133.",
+      "nazov": "Oravské hradné bralo (Hradné bralo)",
+      "okres": "Dolný Kubín"
+    },
+    {
+      "poradove_cislo": "134.",
+      "nazov": "Ostrá hora",
+      "okres": "Levoča, Spišská Nová Ves"
+    },
+    {
+      "poradove_cislo": "135.",
+      "nazov": "Ostrovica",
+      "okres": "Žarnovica"
+    },
+    {
+      "poradove_cislo": "136.",
+      "nazov": "Panský diel (Pánsky diel)",
+      "okres": "Bratislava II"
+    },
+    {
+      "poradove_cislo": "137.",
+      "nazov": "Pavúkov jarok",
+      "okres": "Nové Mesto nad Váhom"
+    },
+    {
+      "poradove_cislo": "138.",
+      "nazov": "Petkovský potok",
+      "okres": "Vranov nad Topľou"
+    },
+    {
+      "poradove_cislo": "139.",
+      "nazov": "Petrová (Petrova)",
+      "okres": "Trenčín"
+    },
+    {
+      "poradove_cislo": "140.",
+      "nazov": "Podhorodský hradný vrch (Hradný vrch Podhoroď)",
+      "okres": "Sobrance"
+    },
+    {
+      "poradove_cislo": "141.",
+      "nazov": "Podhorské (Podhoranské)",
+      "okres": "Levoča"
+    },
+    {
+      "poradove_cislo": "142.",
+      "nazov": "Podmorský zosuv",
+      "okres": "Prešov"
+    },
+    {
+      "poradove_cislo": "143.",
+      "nazov": "Poluvsianska skalná ihla",
+      "okres": "Žilina"
+    },
+    {
+      "poradove_cislo": "144.",
+      "nazov": "Potok Chrenovka",
+      "okres": "Nové Zániky"
+    },
+    {
+      "poradove_cislo": "145.",
+      "nazov": "Potok Machnáč",
+      "okres": "Trenčín"
+    },
+    {
+      "poradove_cislo": "146.",
+      "nazov": "Potok v Havránkovej doline",
+      "okres": "Trenčín"
+    },
+    {
+      "poradove_cislo": "147.",
+      "nazov": "Prečínska skalka",
+      "okres": "Považská Bystrica"
+    },
+    {
+      "poradove_cislo": "148.",
+      "nazov": "Predajnianske vodopády",
+      "okres": "Brezno"
+    },
+    {
+      "poradove_cislo": "149.",
+      "nazov": "Prielom Muráňa (Prielom Muráňky)",
+      "okres": "Rožňava"
+    },
+    {
+      "poradove_cislo": "150.",
+      "nazov": "Prielom Nitrice (Prielom Belánky)",
+      "okres": "Prievidza"
+    },
+    {
+      "poradove_cislo": "151.",
+      "nazov": "Prielom Teplého potoka",
+      "okres": "Ružomberok"
+    },
+    {
+      "poradove_cislo": "152.",
+      "nazov": "Pseudoterasa Váhu",
+      "okres": "Nové Mesto nad Váhom"
+    },
+    {
+      "poradove_cislo": "153.",
+      "nazov": "Pucovské zlepence",
+      "okres": "Dolný Kubín"
+    },
+    {
+      "poradove_cislo": "154.",
+      "nazov": "Puchmajerovej jazierko",
+      "okres": "Námestovo"
+    },
+    {
+      "poradove_cislo": "155.",
+      "nazov": "Putikov vŕšok",
+      "okres": "Žarnovica"
+    },
+    {
+      "poradove_cislo": "156.",
+      "nazov": "Rajkovec",
+      "okres": "Trenčín"
+    },
+    {
+      "poradove_cislo": "157.",
+      "nazov": "Raková",
+      "okres": "Skalica"
+    },
+    {
+      "poradove_cislo": "158.",
+      "nazov": "Rebrá",
+      "okres": "Stará Ľubovňa"
+    },
+    {
+      "poradove_cislo": "159.",
+      "nazov": "Rojkovská travertínová kopa",
+      "okres": "Ružomberok"
+    },
+    {
+      "poradove_cislo": "160.",
+      "nazov": "Rösslerov lom",
+      "okres": "Bratislava III"
+    },
+    {
+      "poradove_cislo": "161.",
+      "nazov": "Selecké kamenné more",
+      "okres": "Trenčín"
+    },
+    {
+      "poradove_cislo": "162.",
+      "nazov": "Selecký potok",
+      "okres": "Trenčín"
+    },
+    {
+      "poradove_cislo": "163.",
+      "nazov": "Sivý kameň",
+      "okres": "Prievidza, Žarnovica"
+    },
+    {
+      "poradove_cislo": "164.",
+      "nazov": "Sixova stráň",
+      "okres": "Krupina"
+    },
+    {
+      "poradove_cislo": "165.",
+      "nazov": "Skalice",
+      "okres": "Ilava"
+    },
+    {
+      "poradove_cislo": "166.",
+      "nazov": "Skalka pri Beckove",
+      "okres": "Nové Mesto nad Váhom"
+    },
+    {
+      "poradove_cislo": "167.",
+      "nazov": "Skalky pri Údole",
+      "okres": "Stará Ľubovňa"
+    },
+    {
+      "poradove_cislo": "168.",
+      "nazov": "Skalná ihla",
+      "okres": "Stará Ľubovňa"
+    },
+    {
+      "poradove_cislo": "169.",
+      "nazov": "Skalná päsť",
+      "okres": "Ružomberok"
+    },
+    {
+      "poradove_cislo": "170.",
+      "nazov": "Skaly pod Pariakovou",
+      "okres": "Vranov nad Topľou"
+    },
+    {
+      "poradove_cislo": "171.",
+      "nazov": "Slanický ostrov",
+      "okres": "Námestovo"
+    },
+    {
+      "poradove_cislo": "172.",
+      "nazov": "Sninský kameň",
+      "okres": "Snina"
+    },
+    {
+      "poradove_cislo": "173.",
+      "nazov": "Soví hrad",
+      "okres": "Lučenec"
+    },
+    {
+      "poradove_cislo": "174.",
+      "nazov": "Spády",
+      "okres": "Brezno"
+    },
+    {
+      "poradove_cislo": "175.",
+      "nazov": "Stará Bebrava",
+      "okres": "Bánovce nad Bebravou"
+    },
+    {
+      "poradove_cislo": "176.",
+      "nazov": "Stará Žitavá",
+      "okres": "Nové Zániky"
+    },
+    {
+      "poradove_cislo": "177.",
+      "nazov": "Strošovský močiar",
+      "okres": "Ilava"
+    },
+    {
+      "poradove_cislo": "178.",
+      "nazov": "Strž (Triasový ríf pri Liptovskej Osade)",
+      "okres": "Ružomberok"
+    },
+    {
+      "poradove_cislo": "179.",
+      "nazov": "Súčanka",
+      "okres": "Trenčín"
+    },
+    {
+      "poradove_cislo": "180.",
+      "nazov": "Svinica",
+      "okres": "Trenčín"
+    },
+    {
+      "poradove_cislo": "181.",
+      "nazov": "Šašnatá (Šášnatá)",
+      "okres": "Nové Mesto nad Váhom"
+    },
+    {
+      "poradove_cislo": "182.",
+      "nazov": "Šifflovské (U Šifflov)",
+      "okres": "Myjava"
+    },
+    {
+      "poradove_cislo": "183.",
+      "nazov": "Štefanová",
+      "okres": "Myjava"
+    },
+    {
+      "poradove_cislo": "184.",
+      "nazov": "Štrkovské presypy (Štrkovecké presypy)",
+      "okres": "Galanta"
+    },
+    {
+      "poradove_cislo": "185.",
+      "nazov": "Šútovská epigenéza",
+      "okres": "Martin"
+    },
+    {
+      "poradove_cislo": "186.",
+      "nazov": "Tajovská kopa",
+      "okres": "Banská Bystrica"
+    },
+    {
+      "poradove_cislo": "187.",
+      "nazov": "Tisové skaly",
+      "okres": "Pezinok"
+    },
+    {
+      "poradove_cislo": "188.",
+      "nazov": "Tomášikovský presyp",
+      "okres": "Galanta"
+    },
+    {
+      "poradove_cislo": "189.",
+      "nazov": "Transgresia paleogénu pri Markušovciach",
+      "okres": "Spišská Nová Ves"
+    },
+    {
+      "poradove_cislo": "190.",
+      "nazov": "Travertínová kopa (Tufová kopa)",
+      "okres": "Levice"
+    },
+    {
+      "poradove_cislo": "191.",
+      "nazov": "Travertínová kopa Sobotisko",
+      "okres": "Levoča, Spišská Nová Ves"
+    },
+    {
+      "poradove_cislo": "192.",
+      "nazov": "Trnovské rameno (Trnovecké mŕtve rameno)",
+      "okres": "Šaľa"
+    },
+    {
+      "poradove_cislo": "193.",
+      "nazov": "Trstinové jazero",
+      "okres": "Košice-okolie"
+    },
+    {
+      "poradove_cislo": "194.",
+      "nazov": "Turská skala",
+      "okres": "Žilina"
+    },
+    {
+      "poradove_cislo": "195.",
+      "nazov": "Ulička",
+      "okres": "Snina"
+    },
+    {
+      "poradove_cislo": "196.",
+      "nazov": "Včelíny",
+      "okres": "Trenčín"
+    },
+    {
+      "poradove_cislo": "197.",
+      "nazov": "Veľké Ostré",
+      "okres": "Kysucké Nové Mesto"
+    },
+    {
+      "poradove_cislo": "198.",
+      "nazov": "Veľký Inovec",
+      "okres": "Zlaté Moravce"
+    },
+    {
+      "poradove_cislo": "199.",
+      "nazov": "Veľký jarok",
+      "okres": "Piešťany"
+    },
+    {
+      "poradove_cislo": "200.",
+      "nazov": "Veporské skalky",
+      "okres": "Banská Bystrica"
+    },
+    {
+      "poradove_cislo": "201.",
+      "nazov": "Visiace skaly",
+      "okres": "Piešťany"
+    },
+    {
+      "poradove_cislo": "202.",
+      "nazov": "Vlčianske mŕtve rameno",
+      "okres": "Šaľa"
+    },
+    {
+      "poradove_cislo": "203.",
+      "nazov": "Vlčia skala",
+      "okres": "Ružomberok"
+    },
+    {
+      "poradove_cislo": "204.",
+      "nazov": "Vojtovský prameň",
+      "okres": "Čadca"
+    },
+    {
+      "poradove_cislo": "205.",
+      "nazov": "Voniarsky jarok (Voňarský jarok)",
+      "okres": "Humenné"
+    },
+    {
+      "poradove_cislo": "206.",
+      "nazov": "Vyhniansky travertín",
+      "okres": "Žiar nad Hronom"
+    },
+    {
+      "poradove_cislo": "207.",
+      "nazov": "Vychylovské prahy",
+      "okres": "Čadca"
+    },
+    {
+      "poradove_cislo": "208.",
+      "nazov": "Vychylovské skálie",
+      "okres": "Čadca"
+    },
+    {
+      "poradove_cislo": "209.",
+      "nazov": "Vyvieračka pod Bachárkou (Občasná vyvieračka pod Bacharkou)",
+      "okres": "Trnava"
+    },
+    {
+      "poradove_cislo": "210.",
+      "nazov": "Zapikan",
+      "okres": "Vranov nad Topľou"
+    },
+    {
+      "poradove_cislo": "211.",
+      "nazov": "Zárez Stravného potoka",
+      "okres": "Vranov nad Topľou"
+    },
+    {
+      "poradove_cislo": "212.",
+      "nazov": "Závadské skalky",
+      "okres": "Gelnica"
+    },
+    {
+      "poradove_cislo": "213.",
+      "nazov": "Zlatá brázda",
+      "okres": "Levoča"
+    },
+    {
+      "poradove_cislo": "214.",
+      "nazov": "Zolná",
+      "okres": "Banská Bystrica, Zvolen"
+    },
+    {
+      "poradove_cislo": "215.",
+      "nazov": "Zrubárka",
+      "okres": "Senica"
+    },
+    {
+      "poradove_cislo": "216.",
+      "nazov": "Žakýlske pleso",
+      "okres": "Banská Štiavnica"
+    },
+    {
+      "poradove_cislo": "217.",
+      "nazov": "Žalostiná",
+      "okres": "Myjava"
+    },
+    {
+      "poradove_cislo": "218.",
+      "nazov": "Žiar",
+      "okres": "Ružomberok"
+    },
+    {
+      "poradove_cislo": "219.",
+      "nazov": "Žipovské mŕtve rameno",
+      "okres": "Vranov nad Topľou"
+    },
+    {
+      "poradove_cislo": "220.",
+      "nazov": "Čertova pec",
+      "okres": "Topoľčany"
+    },
+    {
+      "poradove_cislo": "221.",
+      "nazov": "Veľká a Malá dolnosokolská jaskyňa",
+      "okres": "Piešťany"
+    },
+    {
+      "poradove_cislo": "222.",
+      "nazov": "Dekretova jaskyňa",
+      "okres": "Banská Bystrica"
+    },
+    {
+      "poradove_cislo": "223.",
+      "nazov": "Mníchova diera 1",
+      "okres": "Trnava"
+    }
+  ],
+  "meta": {
+    "title": "Prírodné pamiatky na Slovensku - Free Download",
+    "description": "Zoznam prírodných pamiatok (chránených území) na Slovensku s okresom. Contains 223 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Prírodné pamiatky na Slovensku | ListBase",
+    "seo_description": "Download Prírodné pamiatky na Slovensku — 223 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 223 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_prírodných_pamiatok_na_Slovensku"
+    ]
+  }
+}
