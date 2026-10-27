@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-27T02:26:24.650Z",
-  "total_datasets": 429,
-  "total_records": 280488,
+  "generated": "2026-10-27T02:26:27.245Z",
+  "total_datasets": 430,
+  "total_records": 280506,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "music",
@@ -4128,6 +4128,28 @@
         "xlsx": {
           "name": "sk-ministri-spravodlivosti_SK.xlsx",
           "size": 9663
+        }
+      }
+    },
+    {
+      "id": "sk-vaznice",
+      "name": "Väznice na Slovensku",
+      "category": "law",
+      "record_count": 18,
+      "columns": [
+        "ustav"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_väzníc_na_Slovensku",
+      "updated": "2026-10",
+      "size": 2944,
+      "files": {
+        "csv": {
+          "name": "sk-vaznice_SK.csv",
+          "size": 1277
+        },
+        "xlsx": {
+          "name": "sk-vaznice_SK.xlsx",
+          "size": 7060
         }
       }
     },
