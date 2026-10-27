@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-27T02:25:49.084Z",
-  "total_datasets": 415,
-  "total_records": 279190,
+  "generated": "2026-10-27T02:25:51.588Z",
+  "total_datasets": 416,
+  "total_records": 279213,
   "categories": [
     {
       "id": "culture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "history",
@@ -3720,6 +3720,28 @@
         "xlsx": {
           "name": "sk-lekarne_SK.xlsx",
           "size": 46511
+        }
+      }
+    },
+    {
+      "id": "sk-liecebne-kupele",
+      "name": "Liečebné kúpele na Slovensku",
+      "category": "health",
+      "record_count": 23,
+      "columns": [
+        "kupele"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Liečebné_kúpele",
+      "updated": "2026-10",
+      "size": 2172,
+      "files": {
+        "csv": {
+          "name": "sk-liecebne-kupele_SK.csv",
+          "size": 364
+        },
+        "xlsx": {
+          "name": "sk-liecebne-kupele_SK.xlsx",
+          "size": 7067
         }
       }
     },
