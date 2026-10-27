@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-20T04:01:49.014Z",
-  "total_datasets": 411,
-  "total_records": 277884,
+  "generated": "2026-10-27T02:25:40.666Z",
+  "total_datasets": 412,
+  "total_records": 279006,
   "categories": [
     {
       "id": "culture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "finance",
@@ -1491,6 +1491,36 @@
         "xlsx": {
           "name": "sk-knihkupectva_SK.xlsx",
           "size": 12581
+        }
+      }
+    },
+    {
+      "id": "sk-chranene-uzemia",
+      "name": "Chránené územia na Slovensku",
+      "category": "environment",
+      "record_count": 1122,
+      "columns": [
+        "evidencne_cislo",
+        "nazov",
+        "typ",
+        "rozloha_m2",
+        "rok_vyhlasenia",
+        "spravca",
+        "europska_siet",
+        "vyssie_chu",
+        "geomorfologicky_celok"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_chránených_území_na_Slovensku",
+      "updated": "2026-10",
+      "size": 335189,
+      "files": {
+        "csv": {
+          "name": "sk-chranene-uzemia_SK.csv",
+          "size": 100759
+        },
+        "xlsx": {
+          "name": "sk-chranene-uzemia_SK.xlsx",
+          "size": 63526
         }
       }
     },
