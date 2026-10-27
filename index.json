@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-27T02:26:27.245Z",
-  "total_datasets": 430,
-  "total_records": 280506,
+  "generated": "2026-10-27T02:26:29.669Z",
+  "total_datasets": 431,
+  "total_records": 280519,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "language",
@@ -3961,6 +3961,29 @@
         "xlsx": {
           "name": "sk-archeologicke-lokality_SK.xlsx",
           "size": 25365
+        }
+      }
+    },
+    {
+      "id": "sk-vladcovia-slovenska",
+      "name": "Vládcovia Slovenska",
+      "category": "history",
+      "record_count": 13,
+      "columns": [
+        "vladca",
+        "obdobie_ritsa"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_vládcov_Slovenska",
+      "updated": "2026-10",
+      "size": 3887,
+      "files": {
+        "csv": {
+          "name": "sk-vladcovia-slovenska_SK.csv",
+          "size": 1924
+        },
+        "xlsx": {
+          "name": "sk-vladcovia-slovenska_SK.xlsx",
+          "size": 7622
         }
       }
     },

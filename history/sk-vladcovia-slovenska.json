@@ -1,0 +1,88 @@
+{
+  "id": "sk-vladcovia-slovenska",
+  "name": "Vládcovia Slovenska",
+  "title": "Vládcovia Slovenska",
+  "description": "Prehľad vládcov a hláv štátov na území Slovenska od Kvádov a Samovej ríše až po súčasnosť.",
+  "category": "history",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_vládcov_Slovenska",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_vládcov_Slovenska",
+  "updated": "2026-10",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "vladca",
+      "label": "Vladca",
+      "type": "string"
+    },
+    {
+      "key": "obdobie_ritsa",
+      "label": "Obdobie Ritsa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "vladca": "Vannius (21-50)",
+      "obdobie_ritsa": "Kvádi (Svébi) (západné Slovensko, cca. 1/20 po Kr. - 470/473)"
+    },
+    {
+      "vladca": "Gaiobomar (Gaiobomarus) (?-214/215)",
+      "obdobie_ritsa": "Kvádi (Svébi) (západné Slovensko, cca. 1/20 po Kr. - 470/473)"
+    },
+    {
+      "vladca": "Vidauri (Vidaurius) (okolo 358)",
+      "obdobie_ritsa": "Kvádi (Svébi) (západné Slovensko, cca. 1/20 po Kr. - 470/473)"
+    },
+    {
+      "vladca": "Gabinius (okolo 374)",
+      "obdobie_ritsa": "Kvádi (Svébi) (západné Slovensko, cca. 1/20 po Kr. - 470/473)"
+    },
+    {
+      "vladca": "Hunimund (Hunimundus) (pred 454-470)",
+      "obdobie_ritsa": "Kvádi (Svébi) (západné Slovensko, cca. 1/20 po Kr. - 470/473)"
+    },
+    {
+      "vladca": "Edekon (454 - 469)",
+      "obdobie_ritsa": "Skírska ríša (podľa niektorých názorov juhozápadné Slovensko, cca. 454 - 469)"
+    },
+    {
+      "vladca": "Marobud (cca. 8 pred Kr. - 19 po Kr.)",
+      "obdobie_ritsa": "Útvary neslovanských etník zasahujúce okrajovo na územie Slovenska od 1. do 8. storočia"
+    },
+    {
+      "vladca": "Katvald (19. po Kr. - 21 po Kr.)",
+      "obdobie_ritsa": "Útvary neslovanských etník zasahujúce okrajovo na územie Slovenska od 1. do 8. storočia"
+    },
+    {
+      "vladca": "Samo (623-658) [vládca slovanského (nad)kmeňového zväzu]",
+      "obdobie_ritsa": "Samova ríša (623 - 658)"
+    },
+    {
+      "vladca": "Imrich Tököli (1682-1685) - protikráľ uhorského kráľa s podporou Osmanskej ríše, pôvodne len na východnom a strednom Slovensku a okolí, neskôr na celom Slovensku",
+      "obdobie_ritsa": "Súčasť Uhorska (10. stor. - 1918 [okrem 1001-1018/1029], z toho integrálna súčasť 1108/1110-1918) a tým aj Habsburskej monarchie (1526-1918)"
+    },
+    {
+      "vladca": "Slovenská národná rada, t. j. Ľudovít Štúr, Jozef Miloslav Hurban, Michal Miloslav Hodža (19. september 1848 - 28. september 1848) - vyhlásenie samostatnosti Slovenska s počiatočnou podporou Viedne, de facto len okolie Myjavy",
+      "obdobie_ritsa": "Súčasť Uhorska (10. stor. - 1918 [okrem 1001-1018/1029], z toho integrálna súčasť 1108/1110-1918) a tým aj Habsburskej monarchie (1526-1918)"
+    },
+    {
+      "vladca": "Viktor Dvorčák (11. december 1918 - 29. december 1918)",
+      "obdobie_ritsa": "Súčasť Česko-Slovenska (1918-1939 a 1945-1992)"
+    },
+    {
+      "vladca": "Antonín Janoušek (20. jún 1919 – 7. júl 1919)",
+      "obdobie_ritsa": "Súčasť Česko-Slovenska (1918-1939 a 1945-1992)"
+    }
+  ],
+  "meta": {
+    "title": "Vládcovia Slovenska - Free Download",
+    "description": "Prehľad vládcov a hláv štátov na území Slovenska od Kvádov a Samovej ríše až po súčasnosť. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vládcovia Slovenska | ListBase",
+    "seo_description": "Download Vládcovia Slovenska — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_vládcov_Slovenska"
+    ]
+  }
+}
