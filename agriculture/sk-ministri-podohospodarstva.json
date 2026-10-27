@@ -1,0 +1,198 @@
+{
+  "id": "sk-ministri-podohospodarstva",
+  "name": "Ministri pôdohospodárstva Slovenskej republiky",
+  "title": "Ministri pôdohospodárstva Slovenskej republiky",
+  "description": "Zoznam ministrov pôdohospodárstva (poľnohospodárstva) a rozvoja vidieka Slovenska od roku 1989.",
+  "category": "agriculture",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_pôdohospodárstva_a_rozvoja_vidieka_Slovenskej_republiky",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_pôdohospodárstva_a_rozvoja_vidieka_Slovenskej_republiky",
+  "updated": "2026-10",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "meno",
+      "label": "Meno",
+      "type": "string"
+    },
+    {
+      "key": "nominant",
+      "label": "Nominant",
+      "type": "string"
+    },
+    {
+      "key": "od",
+      "label": "Od",
+      "type": "string"
+    },
+    {
+      "key": "do",
+      "label": "Do",
+      "type": "string"
+    },
+    {
+      "key": "poznamka",
+      "label": "Poznamka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "meno": "Miroslav Belanský",
+      "nominant": "",
+      "od": "12. decembra 1989",
+      "do": "26. júna 1990",
+      "poznamka": "Ministerstvo poľnohospodárstva a výživy"
+    },
+    {
+      "meno": "Michal Džatko",
+      "nominant": "KDH",
+      "od": "27. júna 1990",
+      "do": "22. apríla 1991",
+      "poznamka": "Ministerstvo poľnohospodárstva a výživy"
+    },
+    {
+      "meno": "Viliam Oberhauser",
+      "nominant": "KDH",
+      "od": "23. apríla 1991",
+      "do": "6. mája 1991",
+      "poznamka": "Ministerstvo poľnohospodárstva a výživy (ad interim)"
+    },
+    {
+      "meno": "Jozef Kršek",
+      "nominant": "KDH",
+      "od": "6. mája 1991",
+      "do": "24. júna 1992",
+      "poznamka": "Ministerstvo poľnohospodárstva a výživy"
+    },
+    {
+      "meno": "Peter Baco",
+      "nominant": "HZDS",
+      "od": "24. júna 1992",
+      "do": "15. marca 1994",
+      "poznamka": "Ministerstvo poľnohospodárstva a výživy"
+    },
+    {
+      "meno": "Pavel Koncoš",
+      "nominant": "SDĽ",
+      "od": "15. marca 1994",
+      "do": "13. decembra 1994",
+      "poznamka": ""
+    },
+    {
+      "meno": "Peter Baco",
+      "nominant": "HZDS",
+      "od": "13. decembra 1994",
+      "do": "30. októbra 1998",
+      "poznamka": ""
+    },
+    {
+      "meno": "Pavel Koncoš",
+      "nominant": "SDĽ",
+      "od": "30. októbra 1998",
+      "do": "15. októbra 2002",
+      "poznamka": ""
+    },
+    {
+      "meno": "Zsolt Simon",
+      "nominant": "SMK",
+      "od": "16. októbra 2002",
+      "do": "4. júla 2006",
+      "poznamka": ""
+    },
+    {
+      "meno": "Miroslav Jureňa",
+      "nominant": "ĽS-HZDS",
+      "od": "4. júla 2006",
+      "do": "27. novembra 2007",
+      "poznamka": ""
+    },
+    {
+      "meno": "Zdenka Kramplová",
+      "nominant": "ĽS-HZDS",
+      "od": "27. novembra 2007",
+      "do": "18. augusta 2008",
+      "poznamka": ""
+    },
+    {
+      "meno": "Stanislav Becík",
+      "nominant": "ĽS-HZDS",
+      "od": "18. augusta 2008",
+      "do": "16. septembra 2009",
+      "poznamka": ""
+    },
+    {
+      "meno": "Vladimír Chovan",
+      "nominant": "ĽS-HZDS",
+      "od": "16. septembra 2009",
+      "do": "8. júla 2010",
+      "poznamka": ""
+    },
+    {
+      "meno": "Zsolt Simon",
+      "nominant": "MOST-HÍD",
+      "od": "9. júla 2010",
+      "do": "3. apríla 2012",
+      "poznamka": "Ministerstvo pôdohospodárstva a rozvoja vidieka"
+    },
+    {
+      "meno": "Ľubomír Jahnátek",
+      "nominant": "SMER-SD",
+      "od": "4. apríla 2012",
+      "do": "23. marca 2016",
+      "poznamka": "Vláda pod vedením Roberta Fica"
+    },
+    {
+      "meno": "Gabriela Matečná",
+      "nominant": "SNS",
+      "od": "23. marca 2016",
+      "do": "20. marca 2020",
+      "poznamka": "Vláda pod vedením Roberta Fica / Petra Pellegriniho"
+    },
+    {
+      "meno": "Ján Mičovský",
+      "nominant": "OĽaNO",
+      "od": "21. marca 2020",
+      "do": "1. apríla 2021",
+      "poznamka": "Demisia predsedu vlády Igora Matoviča a teda aj demisia vlády SR"
+    },
+    {
+      "meno": "Ján Mičovský",
+      "nominant": "OĽaNO",
+      "od": "1. apríla 2021",
+      "do": "8. júna 2021",
+      "poznamka": "Vláda pod vedením Eduarda Hegera"
+    },
+    {
+      "meno": "Samuel Vlčan",
+      "nominant": "OĽaNO",
+      "od": "8. júna 2021",
+      "do": "4. mája 2023",
+      "poznamka": "Vláda pod vedením Eduarda Hegera"
+    },
+    {
+      "meno": "Jozef Bíreš",
+      "nominant": "nestraník",
+      "od": "15. mája 2023",
+      "do": "25. októbra 2023",
+      "poznamka": "Vláda pod vedením Ľudovíta Ódora"
+    },
+    {
+      "meno": "Richard Takáč",
+      "nominant": "SMER-SD",
+      "od": "25. októbra 2023",
+      "do": "",
+      "poznamka": "Vláda pod vedením Roberta Fica"
+    }
+  ],
+  "meta": {
+    "title": "Ministri pôdohospodárstva Slovenskej republiky - Free Download",
+    "description": "Zoznam ministrov pôdohospodárstva (poľnohospodárstva) a rozvoja vidieka Slovenska od roku 1989. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministri pôdohospodárstva Slovenskej republiky | ListBase",
+    "seo_description": "Download Ministri pôdohospodárstva Slovenskej republiky — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_ministrov_pôdohospodárstva_a_rozvoja_vidieka_Slovenskej_republiky"
+    ]
+  }
+}
