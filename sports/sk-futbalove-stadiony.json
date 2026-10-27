@@ -1,0 +1,223 @@
+{
+  "id": "sk-futbalove-stadiony",
+  "name": "Najväčšie futbalové štadióny na Slovensku",
+  "title": "Najväčšie futbalové štadióny na Slovensku",
+  "description": "Najväčšie futbalové štadióny na Slovensku s mestom, klubom, kapacitou, kategóriou UEFA a rokom otvorenia.",
+  "category": "sports",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_najväčších_futbalových_štadiónov_na_Slovensku",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_najväčších_futbalových_štadiónov_na_Slovensku",
+  "updated": "2026-10",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "poradie",
+      "label": "Poradie",
+      "type": "string"
+    },
+    {
+      "key": "stadion",
+      "label": "Stadion",
+      "type": "string"
+    },
+    {
+      "key": "mesto",
+      "label": "Mesto",
+      "type": "string"
+    },
+    {
+      "key": "klub",
+      "label": "Klub",
+      "type": "string"
+    },
+    {
+      "key": "kapacita",
+      "label": "Kapacita",
+      "type": "number"
+    },
+    {
+      "key": "uefa_kategoria",
+      "label": "Uefa Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "otvoreny",
+      "label": "Otvoreny",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "poradie": "1.",
+      "stadion": "Národný futbalový štadión",
+      "mesto": "Bratislava",
+      "klub": "ŠK Slovan Bratislava",
+      "kapacita": 22500,
+      "uefa_kategoria": "Kategória 4",
+      "otvoreny": "2019"
+    },
+    {
+      "poradie": "2.",
+      "stadion": "Štadión Antona Malatinského",
+      "mesto": "Trnava",
+      "klub": "FC Spartak Trnava",
+      "kapacita": 19460,
+      "uefa_kategoria": "Kategória 4",
+      "otvoreny": "2015"
+    },
+    {
+      "poradie": "3.",
+      "stadion": "MOL Aréna",
+      "mesto": "Dunajská Streda",
+      "klub": "FK DAC 1904 Dunajská Streda",
+      "kapacita": 12700,
+      "uefa_kategoria": "Kategória 4",
+      "otvoreny": "2018"
+    },
+    {
+      "poradie": "4.",
+      "stadion": "Košická futbalová aréna",
+      "mesto": "Košice",
+      "klub": "FC Košice",
+      "kapacita": 12555,
+      "uefa_kategoria": "Kategória 4",
+      "otvoreny": "2022"
+    },
+    {
+      "poradie": "5.",
+      "stadion": "Štadión Pasienky",
+      "mesto": "Bratislava",
+      "klub": "ŠK Slovan Bratislava / FK Inter Bratislava",
+      "kapacita": 11591,
+      "uefa_kategoria": "Kategória 4",
+      "otvoreny": "1962"
+    },
+    {
+      "poradie": "6.",
+      "stadion": "Štadión MŠK Žilina",
+      "mesto": "Žilina",
+      "klub": "MŠK Žilina",
+      "kapacita": 11253,
+      "uefa_kategoria": "Kategória 4",
+      "otvoreny": "1941"
+    },
+    {
+      "poradie": "7.",
+      "stadion": "Štadión Lokomotíva",
+      "mesto": "Košice",
+      "klub": "FK Lokomotíva Košice",
+      "kapacita": 10787,
+      "uefa_kategoria": "Kategória ?",
+      "otvoreny": "1959"
+    },
+    {
+      "poradie": "",
+      "stadion": "Štadión Prievidza",
+      "mesto": "Prievidza",
+      "klub": "FC Baník Prievidza",
+      "kapacita": 7500,
+      "uefa_kategoria": "Kategória 2",
+      "otvoreny": "2016"
+    },
+    {
+      "poradie": "8.",
+      "stadion": "Štadión pod Zoborom",
+      "mesto": "Nitra",
+      "klub": "FC Nitra",
+      "kapacita": 7480,
+      "uefa_kategoria": "Kategória 3",
+      "otvoreny": "2018"
+    },
+    {
+      "poradie": "9.",
+      "stadion": "Štadión SNP",
+      "mesto": "Banská Bystrica",
+      "klub": "MFK Dukla Banská Bystrica",
+      "kapacita": 7381,
+      "uefa_kategoria": "Kategória 2",
+      "otvoreny": "2021"
+    },
+    {
+      "poradie": "10.",
+      "stadion": "Futbal Tatran Aréna",
+      "mesto": "Prešov",
+      "klub": "FC Tatran Prešov",
+      "kapacita": 6500,
+      "uefa_kategoria": "Kategória 3",
+      "otvoreny": "2025"
+    },
+    {
+      "poradie": "11.",
+      "stadion": "Štadión na Sihoti",
+      "mesto": "Trenčín",
+      "klub": "AS Trenčín",
+      "kapacita": 6366,
+      "uefa_kategoria": "Kategória 4",
+      "otvoreny": "2021"
+    },
+    {
+      "poradie": "12.",
+      "stadion": "Národné tréningové centrum Poprad",
+      "mesto": "Poprad",
+      "klub": "FK Poprad",
+      "kapacita": 5700,
+      "uefa_kategoria": "Kategória 3",
+      "otvoreny": "2013"
+    },
+    {
+      "poradie": "13.",
+      "stadion": "Mestský futbalový štadión Komárno",
+      "mesto": "Komárno",
+      "klub": "KFC Komárno",
+      "kapacita": 5150,
+      "uefa_kategoria": "Kategória 3",
+      "otvoreny": "2026"
+    },
+    {
+      "poradie": "14.",
+      "stadion": "Štadión MFK Ružomberok",
+      "mesto": "Ružomberok",
+      "klub": "MFK Ružomberok",
+      "kapacita": 4876,
+      "uefa_kategoria": "Kategória 3",
+      "otvoreny": "2016"
+    },
+    {
+      "poradie": "15.",
+      "stadion": "Mestský futbalový štadión Michalovce",
+      "mesto": "Michalovce",
+      "klub": "MFK Zemplín Michalovce",
+      "kapacita": 4400,
+      "uefa_kategoria": "Kategória 2",
+      "otvoreny": "1953"
+    },
+    {
+      "poradie": "16.",
+      "stadion": "Štadión FC ViOn",
+      "mesto": "Zlaté Moravce",
+      "klub": "FC ViOn Zlaté Moravce",
+      "kapacita": 4006,
+      "uefa_kategoria": "Kategória 2",
+      "otvoreny": "2014"
+    },
+    {
+      "poradie": "17.",
+      "stadion": "Mestský futbalový štadión Bardejov",
+      "mesto": "Bardejov",
+      "klub": "Partizán Bardejov",
+      "kapacita": 3435,
+      "uefa_kategoria": "Kategória 2",
+      "otvoreny": "2015"
+    }
+  ],
+  "meta": {
+    "title": "Najväčšie futbalové štadióny na Slovensku - Free Download",
+    "description": "Najväčšie futbalové štadióny na Slovensku s mestom, klubom, kapacitou, kategóriou UEFA a rokom otvorenia. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Najväčšie futbalové štadióny na Slovensku | ListBase",
+    "seo_description": "Download Najväčšie futbalové štadióny na Slovensku — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_najväčších_futbalových_štadiónov_na_Slovensku"
+    ]
+  }
+}

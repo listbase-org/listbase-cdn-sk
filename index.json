@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-27T02:25:46.507Z",
-  "total_datasets": 414,
-  "total_records": 279172,
+  "generated": "2026-10-27T02:25:49.084Z",
+  "total_datasets": 415,
+  "total_records": 279190,
   "categories": [
     {
       "id": "culture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tech",
@@ -11230,6 +11230,34 @@
         "xlsx": {
           "name": "sk-zvolen-obce_SK.xlsx",
           "size": 8838
+        }
+      }
+    },
+    {
+      "id": "sk-futbalove-stadiony",
+      "name": "Najväčšie futbalové štadióny na Slovensku",
+      "category": "sports",
+      "record_count": 18,
+      "columns": [
+        "poradie",
+        "stadion",
+        "mesto",
+        "klub",
+        "kapacita",
+        "uefa_kategoria",
+        "otvoreny"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_najväčších_futbalových_štadiónov_na_Slovensku",
+      "updated": "2026-10",
+      "size": 6232,
+      "files": {
+        "csv": {
+          "name": "sk-futbalove-stadiony_SK.csv",
+          "size": 1808
+        },
+        "xlsx": {
+          "name": "sk-futbalove-stadiony_SK.xlsx",
+          "size": 7981
         }
       }
     },
