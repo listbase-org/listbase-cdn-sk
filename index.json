@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-27T02:26:22.113Z",
-  "total_datasets": 428,
-  "total_records": 280375,
+  "generated": "2026-10-27T02:26:24.650Z",
+  "total_datasets": 429,
+  "total_records": 280488,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tech",
@@ -11715,6 +11715,33 @@
         "xlsx": {
           "name": "sk-sportove-predajne_SK.xlsx",
           "size": 16494
+        }
+      }
+    },
+    {
+      "id": "sk-uspechy-kanoistika-vodny-slalom",
+      "name": "Úspechy slovenskej kanoistiky a vodného slalomu",
+      "category": "sports",
+      "record_count": 113,
+      "columns": [
+        "rok",
+        "dejisko",
+        "medailisti",
+        "disciplina",
+        "sport",
+        "podujatie"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_úspechov_slovenskej_kanoistiky",
+      "updated": "2026-10",
+      "size": 30735,
+      "files": {
+        "csv": {
+          "name": "sk-uspechy-kanoistika-vodny-slalom_SK.csv",
+          "size": 15075
+        },
+        "xlsx": {
+          "name": "sk-uspechy-kanoistika-vodny-slalom_SK.xlsx",
+          "size": 10709
         }
       }
     },

@@ -1,0 +1,960 @@
+{
+  "id": "sk-uspechy-kanoistika-vodny-slalom",
+  "name": "Úspechy slovenskej kanoistiky a vodného slalomu",
+  "title": "Úspechy slovenskej kanoistiky a vodného slalomu",
+  "description": "Medailové úspechy slovenských kanoistov a vodných slalomárov na olympijských hrách a majstrovstvách sveta: rok, dejisko, medailisti a disciplína.",
+  "category": "sports",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_úspechov_slovenskej_kanoistiky",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_úspechov_slovenskej_kanoistiky",
+  "updated": "2026-10",
+  "record_count": 113,
+  "columns": [
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "dejisko",
+      "label": "Dejisko",
+      "type": "string"
+    },
+    {
+      "key": "medailisti",
+      "label": "Medailisti",
+      "type": "string"
+    },
+    {
+      "key": "disciplina",
+      "label": "Disciplina",
+      "type": "string"
+    },
+    {
+      "key": "sport",
+      "label": "Sport",
+      "type": "string"
+    },
+    {
+      "key": "podujatie",
+      "label": "Podujatie",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rok": "1996",
+      "dejisko": "Atlanta",
+      "medailisti": "Slavomír Kňazovický",
+      "disciplina": "C-1 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z olympijských hier"
+    },
+    {
+      "rok": "2004",
+      "dejisko": "Atény",
+      "medailisti": "Juraj Bača, Michal Riszdorfer, Richard Riszdorfer, Erik Vlček",
+      "disciplina": "K-4 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z olympijských hier"
+    },
+    {
+      "rok": "2008",
+      "dejisko": "Peking",
+      "medailisti": "Michal Riszdorfer, Richard Riszdorfer, Erik Vlček, Juraj Tarr",
+      "disciplina": "K-4 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z olympijských hier"
+    },
+    {
+      "rok": "2016",
+      "dejisko": "Rio de Janeiro",
+      "medailisti": "Erik Vlček, Juraj Tarr, Denis Myšák, Tibor Linka",
+      "disciplina": "K-4 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z olympijských hier"
+    },
+    {
+      "rok": "2020",
+      "dejisko": "Tokio",
+      "medailisti": "Erik Vlček, Samuel Baláž, Denis Myšák, Adam Botek",
+      "disciplina": "K-4 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z olympijských hier"
+    },
+    {
+      "rok": "1958",
+      "dejisko": "Praha",
+      "medailisti": "Ladislav Čepčiansky",
+      "disciplina": "K-1 10 km",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "1979",
+      "dejisko": "Duisburg",
+      "medailisti": "Felix Masár",
+      "disciplina": "K-1 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "1987",
+      "dejisko": "Duisburg",
+      "medailisti": "Attila Szabó",
+      "disciplina": "K-1 10 km",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "1987",
+      "dejisko": "Duisburg",
+      "medailisti": "Attila Szabó",
+      "disciplina": "K-1 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "1989",
+      "dejisko": "Plovdiv",
+      "medailisti": "Attila Szabó",
+      "disciplina": "K-1 10 km",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "1991",
+      "dejisko": "Paríž",
+      "medailisti": "Róbert Erban, Juraj Kadnár",
+      "disciplina": "K-2 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "1991",
+      "dejisko": "Paríž",
+      "medailisti": "Richard Botló, Michal Matúš, Karol Becker, Karel Hrudík",
+      "disciplina": "K-4 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "1993",
+      "dejisko": "Kodaň",
+      "medailisti": "Attila Szabó",
+      "disciplina": "K-1 10 km",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "1994",
+      "dejisko": "Mexiko",
+      "medailisti": "Slavomír Kňazovický, Csaba Orosz, Peter Páleš, Juraj Filip",
+      "disciplina": "C-4 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "1998",
+      "dejisko": "Segedín",
+      "medailisti": "Michal Riszdorfer, Juraj Bača",
+      "disciplina": "K-2 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "1998",
+      "dejisko": "Segedín",
+      "medailisti": "Slavomír Kňazovický",
+      "disciplina": "C-1 200 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "1999",
+      "dejisko": "Miláno",
+      "medailisti": "Michal Riszdorfer, Juraj Bača",
+      "disciplina": "K-2 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "1999",
+      "dejisko": "Miláno",
+      "medailisti": "Slavomír Kňazovický",
+      "disciplina": "C-1 200 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2001",
+      "dejisko": "Poznaň",
+      "medailisti": "Michal Riszdorfer, Richard Riszdorfer, Erik Vlček, Juraj Bača",
+      "disciplina": "K-4 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2002",
+      "dejisko": "Sevilla",
+      "medailisti": "Michal Riszdorfer, Richard Riszdorfer, Erik Vlček, Juraj Bača",
+      "disciplina": "K-4 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2002",
+      "dejisko": "Sevilla",
+      "medailisti": "Michal Riszdorfer, Richard Riszdorfer, Erik Vlček, Juraj Bača",
+      "disciplina": "K-4 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2002",
+      "dejisko": "Sevilla",
+      "medailisti": "Rastislav Kužel, Ladislav Belovič, Martin Chorváth, Juraj Lipták",
+      "disciplina": "K-4 200 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2003",
+      "dejisko": "Gainesville",
+      "medailisti": "Michal Riszdorfer, Richard Riszdorfer, Erik Vlček, Juraj Bača",
+      "disciplina": "K-4 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2003",
+      "dejisko": "Gainesville",
+      "medailisti": "Michal Riszdorfer, Richard Riszdorfer, Erik Vlček, Juraj Bača",
+      "disciplina": "K-4 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2005",
+      "dejisko": "Záhreb",
+      "medailisti": "Michal Riszdorfer, Richard Riszdorfer, Erik Vlček, Róbert Erban",
+      "disciplina": "K-4 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2005",
+      "dejisko": "Záhreb",
+      "medailisti": "Michal Riszdorfer, Juraj Tarr, Andrej Wiebauer, Róbert Erban",
+      "disciplina": "K-4 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2006",
+      "dejisko": "Segedín",
+      "medailisti": "Michal Riszdorfer, Richard Riszdorfer, Erik Vlček, Róbert Erban",
+      "disciplina": "K-4 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2007",
+      "dejisko": "Duisburg",
+      "medailisti": "Michal Riszdorfer, Richard Riszdorfer, Juraj Tarr, Erik Vlček",
+      "disciplina": "K-4 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2007",
+      "dejisko": "Duisburg",
+      "medailisti": "Marián Ostrčil",
+      "disciplina": "C-1 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2007",
+      "dejisko": "Duisburg",
+      "medailisti": "Ivana Kmeťová, Martina Kohlová",
+      "disciplina": "K-2 200 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2007",
+      "dejisko": "Duisburg",
+      "medailisti": "Michal Riszdorfer, Richard Riszdorfer, Juraj Tarr, Róbert Erban",
+      "disciplina": "K-4 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2009",
+      "dejisko": "Dartmouth",
+      "medailisti": "Michal Riszdorfer, Richard Riszdorfer, Erik Vlček, Juraj Tarr",
+      "disciplina": "K-4 200 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2009",
+      "dejisko": "Dartmouth",
+      "medailisti": "Michal Riszdorfer, Richard Riszdorfer, Erik Vlček, Juraj Tarr",
+      "disciplina": "K-4 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2009",
+      "dejisko": "Dartmouth",
+      "medailisti": "Ivana Kmeťová, Martina Kohlová",
+      "disciplina": "K-2 200 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2010",
+      "dejisko": "Poznaň",
+      "medailisti": "Peter Gelle",
+      "disciplina": "K-1 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2010",
+      "dejisko": "Poznaň",
+      "medailisti": "Marián Ostrčil",
+      "disciplina": "C-1 5 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2010",
+      "dejisko": "Poznaň",
+      "medailisti": "Ivana Kmeťová, Martina Kohlová",
+      "disciplina": "K-2 200 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2011",
+      "dejisko": "Segedín",
+      "medailisti": "Peter Gelle, Erik Vlček",
+      "disciplina": "K-2 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2014",
+      "dejisko": "Moskva",
+      "medailisti": "Erik Vlček, Juraj Tarr",
+      "disciplina": "K-2 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2014",
+      "dejisko": "Moskva",
+      "medailisti": "Erik Vlček, Juraj Tarr",
+      "disciplina": "K-2 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2015",
+      "dejisko": "Miláno",
+      "medailisti": "Erik Vlček, Juraj Tarr, Denis Myšák, Tibor Linka",
+      "disciplina": "K-4 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2017",
+      "dejisko": "Račice",
+      "medailisti": "Peter Gelle, Adam Botek",
+      "disciplina": "K-2 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2018",
+      "dejisko": "Montemor-o-Velho",
+      "medailisti": "Samuel Baláž, Juraj Tarr, Erik Vlček, Gábor Jakubík",
+      "disciplina": "K-4 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2019",
+      "dejisko": "Segedín",
+      "medailisti": "Erik Vlček, Adam Botek, Csaba Zalka, Samuel Baláž",
+      "disciplina": "K-4 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2019",
+      "dejisko": "Segedín",
+      "medailisti": "Gábor Jakubík, Juraj Tarr, Denis Myšák, Ákos Gacsal",
+      "disciplina": "K-4 1000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2021",
+      "dejisko": "Kodaň",
+      "medailisti": "Samuel Baláž, Adam Botek, Csaba Zalka, Denis Myšák",
+      "disciplina": "K-4 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "2021",
+      "dejisko": "Kodaň",
+      "medailisti": "Samuel Baláž, Denis Myšák",
+      "disciplina": "K-2 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev sveta"
+    },
+    {
+      "rok": "1961",
+      "dejisko": "Poznaň",
+      "medailisti": "Tibor Polakovič",
+      "disciplina": "C-1 10 km",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "1997",
+      "dejisko": "Plovdiv",
+      "medailisti": "Slavomír Kňazovický",
+      "disciplina": "C-1 200 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "1997",
+      "dejisko": "Plovdiv",
+      "medailisti": "Slavomír Kňazovický, Csaba Orosz, Peter Páleš, Juraj Filip",
+      "disciplina": "C-4 200 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "1997",
+      "dejisko": "Plovdiv",
+      "medailisti": "Juraj Bača, Michal Riszdorfer, Martin Hluško, Zsolt Bogdány",
+      "disciplina": "K-4 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "1999",
+      "dejisko": "Záhreb",
+      "medailisti": "Juraj Bača, Michal Riszdorfer",
+      "disciplina": "K-2 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "1999",
+      "dejisko": "Záhreb",
+      "medailisti": "Juraj Bača, Michal Riszdorfer",
+      "disciplina": "K-2 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "1999",
+      "dejisko": "Záhreb",
+      "medailisti": "Slavomír Kňazovický",
+      "disciplina": "C-1 200 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "1999",
+      "dejisko": "Záhreb",
+      "medailisti": "Rastislav Kužel, Andrej Wiebauer, Martin Chorváth, Ján Divinec",
+      "disciplina": "K-4 200 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "1999",
+      "dejisko": "Záhreb",
+      "medailisti": "Rastislav Kužel, Andrej Wiebauer, Martin Chorváth, Juraj Kadnár",
+      "disciplina": "K-4 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2000",
+      "dejisko": "Poznaň",
+      "medailisti": "Rastislav Kužel, Andrej Wiebauer, Martin Chorváth, Juraj Kadnár",
+      "disciplina": "K-4 200 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2000",
+      "dejisko": "Poznaň",
+      "medailisti": "Richard Riszdorfer, Erik Vlček, Juraj Tarr, Róbert Erban",
+      "disciplina": "K-4 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2000",
+      "dejisko": "Poznaň",
+      "medailisti": "Rastislav Kužel, Martin Chorváth",
+      "disciplina": "K-2 200 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2001",
+      "dejisko": "Miláno",
+      "medailisti": "Michal Riszdorfer, Richard Riszdorfer, Erik Vlček, Juraj Bača",
+      "disciplina": "K-4 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2001",
+      "dejisko": "Miláno",
+      "medailisti": "Michal Riszdorfer, Richard Riszdorfer, Erik Vlček, Juraj Bača",
+      "disciplina": "K-4 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2002",
+      "dejisko": "Segedín",
+      "medailisti": "Michal Riszdorfer, Richard Riszdorfer, Erik Vlček, Juraj Bača",
+      "disciplina": "K-4 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2002",
+      "dejisko": "Segedín",
+      "medailisti": "Michal Riszdorfer, Richard Riszdorfer, Erik Vlček, Juraj Bača",
+      "disciplina": "K-4 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2002",
+      "dejisko": "Segedín",
+      "medailisti": "Rastislav Kužel, Ladislav Belovič, Martin Chorváth, Juraj Lipták",
+      "disciplina": "K-4 200 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2002",
+      "dejisko": "Segedín",
+      "medailisti": "Juraj Kadnár, Róbert Erban",
+      "disciplina": "K-2 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2005",
+      "dejisko": "Poznaň",
+      "medailisti": "Michal Riszdorfer, Richard Riszdorfer, Erik Vlček, Róbert Erban",
+      "disciplina": "K-4 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2005",
+      "dejisko": "Poznaň",
+      "medailisti": "Michal Riszdorfer, Juraj Tarr, Andrej Wiebauer, Róbert Erban",
+      "disciplina": "K-4 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2005",
+      "dejisko": "Poznaň",
+      "medailisti": "Ivana Kmeťová, Martina Kohlová",
+      "disciplina": "K-2 200 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2006",
+      "dejisko": "Račice",
+      "medailisti": "Michal Riszdorfer, Richard Riszdorfer, Erik Vlček, Róbert Erban",
+      "disciplina": "K-4 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2006",
+      "dejisko": "Račice",
+      "medailisti": "Michal Riszdorfer, Richard Riszdorfer, Erik Vlček, Róbert Erban",
+      "disciplina": "K-4 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2007",
+      "dejisko": "Pontevedra",
+      "medailisti": "Michal Riszdorfer, Richard Riszdorfer, Erik Vlček, Juraj Tarr",
+      "disciplina": "K-4 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2007",
+      "dejisko": "Pontevedra",
+      "medailisti": "Michal Riszdorfer, Richard Riszdorfer, Erik Vlček, Juraj Tarr",
+      "disciplina": "K-4 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2007",
+      "dejisko": "Pontevedra",
+      "medailisti": "Ivana Kmeťová, Martina Kohlová",
+      "disciplina": "K-2 200 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2008",
+      "dejisko": "Miláno",
+      "medailisti": "Michal Riszdorfer, Richard Riszdorfer, Erik Vlček, Juraj Tarr",
+      "disciplina": "K-4 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2008",
+      "dejisko": "Miláno",
+      "medailisti": "Michal Riszdorfer, Richard Riszdorfer, Erik Vlček, Juraj Tarr",
+      "disciplina": "K-4 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2008",
+      "dejisko": "Miláno",
+      "medailisti": "Ivana Kmeťová, Martina Kohlová",
+      "disciplina": "K-2 200 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2009",
+      "dejisko": "Brandenburg",
+      "medailisti": "Michal Riszdorfer, Richard Riszdorfer, Erik Vlček, Juraj Tarr",
+      "disciplina": "K-4 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2009",
+      "dejisko": "Brandenburg",
+      "medailisti": "Ivana Kmeťová, Martina Kohlová",
+      "disciplina": "K-2 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2009",
+      "dejisko": "Brandenburg",
+      "medailisti": "Ivana Kmeťová, Martina Kohlová",
+      "disciplina": "K-2 200 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2010",
+      "dejisko": "Trasona",
+      "medailisti": "Ivana Kmeťová, Martina Kohlová",
+      "disciplina": "K-2 200 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2010",
+      "dejisko": "Trasona",
+      "medailisti": "Marián Ostrčil",
+      "disciplina": "C-1 5 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2011",
+      "dejisko": "Belehrad",
+      "medailisti": "Peter Gelle, Erik Vlček",
+      "disciplina": "K-2 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2012",
+      "dejisko": "Záhreb",
+      "medailisti": "Peter Gelle, Erik Vlček",
+      "disciplina": "K-2 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2012",
+      "dejisko": "Záhreb",
+      "medailisti": "Matej Rusnák",
+      "disciplina": "C-1 5 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2014",
+      "dejisko": "Brandenburg",
+      "medailisti": "Marek Krajčovič, Matej Michálek, Gábor Jakubík, Viktor Demin",
+      "disciplina": "K-4 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2014",
+      "dejisko": "Brandenburg",
+      "medailisti": "Erik Vlček, Juraj Tarr",
+      "disciplina": "K-2 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2015",
+      "dejisko": "Račice",
+      "medailisti": "Erik Vlček, Juraj Tarr",
+      "disciplina": "K-2 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2016",
+      "dejisko": "Moskva",
+      "medailisti": "Erik Vlček, Juraj Tarr, Denis Myšák, Tibor Linka",
+      "disciplina": "K-4 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2016",
+      "dejisko": "Moskva",
+      "medailisti": "Martin Jankovec, Gábor Jakubík",
+      "disciplina": "K-2 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2016",
+      "dejisko": "Moskva",
+      "medailisti": "Erik Vlček, Juraj Tarr, Denis Myšák, Tibor Linka",
+      "disciplina": "K-4 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2016",
+      "dejisko": "Moskva",
+      "medailisti": "Ivana Kmeťová",
+      "disciplina": "K-1 200 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2017",
+      "dejisko": "Plovdiv",
+      "medailisti": "Erik Vlček, Juraj Tarr, Denis Myšák, Tibor Linka",
+      "disciplina": "K-4 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2017",
+      "dejisko": "Plovdiv",
+      "medailisti": "Erik Vlček, Juraj Tarr, Denis Myšák, Tibor Linka",
+      "disciplina": "K-4 1 000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2021",
+      "dejisko": "Poznaň",
+      "medailisti": "Samuel Baláž, Adam Botek",
+      "disciplina": "K-2 1000 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2021",
+      "dejisko": "Poznaň",
+      "medailisti": "Samuel Baláž, Adam Botek, Csaba Zalka, Denis Myšák",
+      "disciplina": "K-4 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2021",
+      "dejisko": "Poznaň",
+      "medailisti": "Mariana Petrušová",
+      "disciplina": "K-1 1000m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "2022",
+      "dejisko": "Mníchov",
+      "medailisti": "Samuel Baláž, Adam Botek, Csaba Zalka, Denis Myšák",
+      "disciplina": "K-4 500 m",
+      "sport": "rýchlostná kanoistika",
+      "podujatie": "Medailisti z majstrovstiev Európy"
+    },
+    {
+      "rok": "1996",
+      "dejisko": "Atlanta",
+      "medailisti": "Michal Martikán",
+      "disciplina": "C-1",
+      "sport": "vodný slalom",
+      "podujatie": "Medailisti z olympijských hier"
+    },
+    {
+      "rok": "2000",
+      "dejisko": "Sydney",
+      "medailisti": "Peter Hochschorner a Pavol Hochschorner",
+      "disciplina": "C-2",
+      "sport": "vodný slalom",
+      "podujatie": "Medailisti z olympijských hier"
+    },
+    {
+      "rok": "2000",
+      "dejisko": "Sydney",
+      "medailisti": "Michal Martikán",
+      "disciplina": "C-1",
+      "sport": "vodný slalom",
+      "podujatie": "Medailisti z olympijských hier"
+    },
+    {
+      "rok": "2000",
+      "dejisko": "Sydney",
+      "medailisti": "Juraj Minčík",
+      "disciplina": "C-1",
+      "sport": "vodný slalom",
+      "podujatie": "Medailisti z olympijských hier"
+    },
+    {
+      "rok": "2004",
+      "dejisko": "Atény",
+      "medailisti": "Peter Hochschorner a Pavol Hochschorner",
+      "disciplina": "C-2",
+      "sport": "vodný slalom",
+      "podujatie": "Medailisti z olympijských hier"
+    },
+    {
+      "rok": "2004",
+      "dejisko": "Atény",
+      "medailisti": "Elena Kaliská",
+      "disciplina": "K-1",
+      "sport": "vodný slalom",
+      "podujatie": "Medailisti z olympijských hier"
+    },
+    {
+      "rok": "2004",
+      "dejisko": "Atény",
+      "medailisti": "Michal Martikán",
+      "disciplina": "C-1",
+      "sport": "vodný slalom",
+      "podujatie": "Medailisti z olympijských hier"
+    },
+    {
+      "rok": "2008",
+      "dejisko": "Peking",
+      "medailisti": "Peter Hochschorner a Pavol Hochschorner",
+      "disciplina": "C-2",
+      "sport": "vodný slalom",
+      "podujatie": "Medailisti z olympijských hier"
+    },
+    {
+      "rok": "2008",
+      "dejisko": "Peking",
+      "medailisti": "Michal Martikán",
+      "disciplina": "C-1",
+      "sport": "vodný slalom",
+      "podujatie": "Medailisti z olympijských hier"
+    },
+    {
+      "rok": "2008",
+      "dejisko": "Peking",
+      "medailisti": "Elena Kaliská",
+      "disciplina": "K-1",
+      "sport": "vodný slalom",
+      "podujatie": "Medailisti z olympijských hier"
+    },
+    {
+      "rok": "2012",
+      "dejisko": "Londýn",
+      "medailisti": "Peter Hochschorner a Pavol Hochschorner",
+      "disciplina": "C-2",
+      "sport": "vodný slalom",
+      "podujatie": "Medailisti z olympijských hier"
+    },
+    {
+      "rok": "2012",
+      "dejisko": "Londýn",
+      "medailisti": "Michal Martikán",
+      "disciplina": "C-1",
+      "sport": "vodný slalom",
+      "podujatie": "Medailisti z olympijských hier"
+    },
+    {
+      "rok": "2016",
+      "dejisko": "Rio de Janeiro",
+      "medailisti": "Ladislav Škantár a Peter Škantár",
+      "disciplina": "C-2",
+      "sport": "vodný slalom",
+      "podujatie": "Medailisti z olympijských hier"
+    },
+    {
+      "rok": "2016",
+      "dejisko": "Rio de Janeiro",
+      "medailisti": "Matej Beňuš",
+      "disciplina": "C-1",
+      "sport": "vodný slalom",
+      "podujatie": "Medailisti z olympijských hier"
+    },
+    {
+      "rok": "2020",
+      "dejisko": "Tokio",
+      "medailisti": "Jakub Grigar",
+      "disciplina": "K-1",
+      "sport": "vodný slalom",
+      "podujatie": "Medailisti z olympijských hier"
+    },
+    {
+      "rok": "2024",
+      "dejisko": "Paríž",
+      "medailisti": "Matej Beňuš",
+      "disciplina": "C-1",
+      "sport": "vodný slalom",
+      "podujatie": "Medailisti z olympijských hier"
+    }
+  ],
+  "meta": {
+    "title": "Úspechy slovenskej kanoistiky a vodného slalomu - Free Download",
+    "description": "Medailové úspechy slovenských kanoistov a vodných slalomárov na olympijských hrách a majstrovstvách sveta: rok, dejisko, medailisti a disciplína. Contains 113 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Úspechy slovenskej kanoistiky a vodného slalomu | ListBase",
+    "seo_description": "Download Úspechy slovenskej kanoistiky a vodného slalomu — 113 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 113 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_úspechov_slovenskej_kanoistiky"
+    ]
+  }
+}
