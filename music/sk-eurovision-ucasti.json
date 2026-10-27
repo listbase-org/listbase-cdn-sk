@@ -1,0 +1,159 @@
+{
+  "id": "sk-eurovision-ucasti",
+  "name": "Slovensko na Eurovision Song Contest",
+  "title": "Slovensko na Eurovision Song Contest",
+  "description": "Účasti Slovenska na Eurovision Song Contest: rok, miesto konania, interpret, pieseň, umiestnenie a body.",
+  "category": "music",
+  "source": "https://sk.wikipedia.org/wiki/Slovensko_na_Eurovision_Song_Contest",
+  "source_url": "https://sk.wikipedia.org/wiki/Slovensko_na_Eurovision_Song_Contest",
+  "updated": "2026-10",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "miesto_konania",
+      "label": "Miesto Konania",
+      "type": "string"
+    },
+    {
+      "key": "interpret",
+      "label": "Interpret",
+      "type": "string"
+    },
+    {
+      "key": "piesen",
+      "label": "Piesen",
+      "type": "string"
+    },
+    {
+      "key": "dirigent",
+      "label": "Dirigent",
+      "type": "string"
+    },
+    {
+      "key": "komentator",
+      "label": "Komentator",
+      "type": "string"
+    },
+    {
+      "key": "hlasatel_bodov",
+      "label": "Hlasatel Bodov",
+      "type": "string"
+    },
+    {
+      "key": "umiestnenie_finale",
+      "label": "Umiestnenie Finale",
+      "type": "string"
+    },
+    {
+      "key": "body",
+      "label": "Body",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rok": "1993",
+      "miesto_konania": "Millstreet, Írsko",
+      "interpret": "Elán",
+      "piesen": "Amnestia na neveru",
+      "dirigent": "Vladimír Valovič",
+      "komentator": "Juraj Čurný",
+      "hlasatel_bodov": "—",
+      "umiestnenie_finale": "—",
+      "body": "—"
+    },
+    {
+      "rok": "1994",
+      "miesto_konania": "Dublin, Írsko",
+      "interpret": "Tublatanka",
+      "piesen": "Nekonečná pieseň",
+      "dirigent": "Vladimír Valovič",
+      "komentator": "Martin Sarvaš",
+      "hlasatel_bodov": "Juraj Čurný",
+      "umiestnenie_finale": "19. miesto",
+      "body": "15 bodov"
+    },
+    {
+      "rok": "1996",
+      "miesto_konania": "Oslo, Nórsko",
+      "interpret": "Marcel Palonder",
+      "piesen": "Kým nás máš",
+      "dirigent": "Juraj Burian",
+      "komentator": "Stanislav Ščepán",
+      "hlasatel_bodov": "Alena Heribanová",
+      "umiestnenie_finale": "18. miesto",
+      "body": "19 bodov"
+    },
+    {
+      "rok": "1998",
+      "miesto_konania": "Birmingham, Spojené kráľovstvo",
+      "interpret": "Katarína Hasprová",
+      "piesen": "Modlitba",
+      "dirigent": "Vladimír Valovič",
+      "komentator": "Rastislav Sokol",
+      "hlasatel_bodov": "Alena Heribanová",
+      "umiestnenie_finale": "21. miesto",
+      "body": "8 bodov"
+    },
+    {
+      "rok": "2009",
+      "miesto_konania": "Moskva, Rusko",
+      "interpret": "Nela Pocisková, Kamil Mikulčík",
+      "piesen": "Leť tmou",
+      "dirigent": "—",
+      "komentator": "Roman Bomboš",
+      "hlasatel_bodov": "Ľubomír Bajaník",
+      "umiestnenie_finale": "—",
+      "body": "—"
+    },
+    {
+      "rok": "2010",
+      "miesto_konania": "Oslo, Nórsko",
+      "interpret": "Kristína",
+      "piesen": "Horehronie",
+      "dirigent": "—",
+      "komentator": "Roman Bomboš",
+      "hlasatel_bodov": "Ľubomír Bajaník",
+      "umiestnenie_finale": "—",
+      "body": "—"
+    },
+    {
+      "rok": "2011",
+      "miesto_konania": "Düsseldorf, Nemecko",
+      "interpret": "TWIINS",
+      "piesen": "I'm Still Alive",
+      "dirigent": "—",
+      "komentator": "Roman Bomboš",
+      "hlasatel_bodov": "Mária Pietrová",
+      "umiestnenie_finale": "—",
+      "body": "—"
+    },
+    {
+      "rok": "2012",
+      "miesto_konania": "Baku, Azerbajdžan",
+      "interpret": "Max Jason Mai",
+      "piesen": "Don't Close Your Eyes",
+      "dirigent": "—",
+      "komentator": "Roman Bomboš",
+      "hlasatel_bodov": "Mária Pietrová",
+      "umiestnenie_finale": "—",
+      "body": "—"
+    }
+  ],
+  "meta": {
+    "title": "Slovensko na Eurovision Song Contest - Free Download",
+    "description": "Účasti Slovenska na Eurovision Song Contest: rok, miesto konania, interpret, pieseň, umiestnenie a body. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Slovensko na Eurovision Song Contest | ListBase",
+    "seo_description": "Download Slovensko na Eurovision Song Contest — 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Slovensko_na_Eurovision_Song_Contest"
+    ]
+  }
+}

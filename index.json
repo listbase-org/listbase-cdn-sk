@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-27T02:25:43.942Z",
-  "total_datasets": 413,
-  "total_records": 279164,
+  "generated": "2026-10-27T02:25:46.507Z",
+  "total_datasets": 414,
+  "total_records": 279172,
   "categories": [
     {
       "id": "culture",
@@ -43,6 +43,10 @@
     {
       "id": "language",
       "dataset_count": 6
+    },
+    {
+      "id": "music",
+      "dataset_count": 1
     },
     {
       "id": "politics",
@@ -3928,6 +3932,36 @@
         "xlsx": {
           "name": "sk-systemy-pisma_SK.xlsx",
           "size": 8720
+        }
+      }
+    },
+    {
+      "id": "sk-eurovision-ucasti",
+      "name": "Slovensko na Eurovision Song Contest",
+      "category": "music",
+      "record_count": 8,
+      "columns": [
+        "rok",
+        "miesto_konania",
+        "interpret",
+        "piesen",
+        "dirigent",
+        "komentator",
+        "hlasatel_bodov",
+        "umiestnenie_finale",
+        "body"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Slovensko_na_Eurovision_Song_Contest",
+      "updated": "2026-10",
+      "size": 4633,
+      "files": {
+        "csv": {
+          "name": "sk-eurovision-ucasti_SK.csv",
+          "size": 1122
+        },
+        "xlsx": {
+          "name": "sk-eurovision-ucasti_SK.xlsx",
+          "size": 7638
         }
       }
     },
