@@ -1,0 +1,422 @@
+{
+  "id": "sk-politicke-strany",
+  "name": "Politické strany a hnutia na Slovensku",
+  "title": "Politické strany a hnutia na Slovensku",
+  "description": "Zoznam registrovaných politických strán a hnutí na Slovensku so skratkou, dátumom registrácie, štatutárnym orgánom a staršími názvami.",
+  "category": "politics",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_politických_strán_a_politických_hnutí_na_Slovensku",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_politických_strán_a_politických_hnutí_na_Slovensku",
+  "updated": "2026-10",
+  "record_count": 53,
+  "columns": [
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "skratka",
+      "label": "Skratka",
+      "type": "string"
+    },
+    {
+      "key": "datum_registracie",
+      "label": "Datum Registracie",
+      "type": "string"
+    },
+    {
+      "key": "statutarny_organ",
+      "label": "Statutarny Organ",
+      "type": "string"
+    },
+    {
+      "key": "starsie_nazvy",
+      "label": "Starsie Nazvy",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazov": "Alternatíva pre Slovensko",
+      "skratka": "ApS",
+      "datum_registracie": "18. 10. 2011",
+      "statutarny_organ": "Anna Belousovová [P], Anton Železník",
+      "starsie_nazvy": "Národ a Spravodlivosť, Národ a Spravodlivosť – naša strana"
+    },
+    {
+      "nazov": "Bratia Slovenska",
+      "skratka": "",
+      "datum_registracie": "14. 01. 1991",
+      "statutarny_organ": "Peter Pčolinský [P]",
+      "starsie_nazvy": "SLOVENSKÁ NÁRODNÁ JEDNOTA, Kresťanská SLOVENSKÁ NÁRODNÁ STRANA, SLOVENSKÁ NÁRODNÁ JEDNOTA – strana vlastencov, SRDCE – SLOVENSKÁ NÁRODNÁ JEDNOTA – strana vlastencov, SRDCE vlastenci a dôchodcovia – SLOVENSKÁ NÁRODNÁ JEDNOTA"
+    },
+    {
+      "nazov": "Demokrati",
+      "skratka": "",
+      "datum_registracie": "25. 01. 2018",
+      "statutarny_organ": "Jaroslav Naď [P]",
+      "starsie_nazvy": "SPOLU – občianska demokracia, Modrá koalícia"
+    },
+    {
+      "nazov": "Demokrati Slovenska",
+      "skratka": "",
+      "datum_registracie": "23. 05. 2005",
+      "statutarny_organ": "Ľudovít Kaník [P]",
+      "starsie_nazvy": "Prosperita Slovenska, Demokrati Slovenska – Ľudo Kaník"
+    },
+    {
+      "nazov": "Demokratická strana – Občianski demokrati Slovenska",
+      "skratka": "DS-ODS",
+      "datum_registracie": "04. 08. 2014",
+      "statutarny_organ": "Pavel Macko [P]",
+      "starsie_nazvy": "TREBIŠOV NAHLAS, ODS – Občianski demokrati Slovenska"
+    },
+    {
+      "nazov": "DOMOV národná strana",
+      "skratka": "DOMOV-NS",
+      "datum_registracie": "01. 07. 2005",
+      "statutarny_organ": "Pavol Slota [P]",
+      "starsie_nazvy": "Pravá Slovenská národná strana, Slovenská národná koalícia – Slovenská vzájomnosť, Obyčajní ľudia"
+    },
+    {
+      "nazov": "Dunaj",
+      "skratka": "",
+      "datum_registracie": "17. 11. 2025",
+      "statutarny_organ": "Martin Winkler [P]",
+      "starsie_nazvy": ""
+    },
+    {
+      "nazov": "HLAS – sociálna demokracia",
+      "skratka": "",
+      "datum_registracie": "11. 09. 2020",
+      "statutarny_organ": "Matúš Šutaj Eštok [P]",
+      "starsie_nazvy": ""
+    },
+    {
+      "nazov": "Hnutie SLOVENSKO",
+      "skratka": "SLOVENSKO",
+      "datum_registracie": "11. 11. 2011",
+      "statutarny_organ": "Igor Matovič [P]",
+      "starsie_nazvy": "OBYČAJNÍ ĽUDIA a nezávislé osobnosti, OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO – NOVA), OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), NOVA, Kresťanská únia (KÚ), ZMENA ZDOLA, OBYČAJNÍ ĽUDIA a nezávislé osobnosti – OĽANO, OBYČAJNÍ ĽUDIA (OĽANO), NEZÁVISLÍ KANDIDÁTI (NEKA), NOVA, SLOBODNÍ A ZODPOVEDNÍ, PAČIVALE ROMA, MAGYAR SZÍVEK, OĽANO A PRIATELIA: OBYČAJNÍ ĽUDIA (OĽANO), NEZÁVISLÍ KANDIDÁTI (NEKA), NOVA, SLOBODNÍ A ZODPOVEDNÍ, PAČIVALE ROMA, MAGYAR SZÍVEK, SLOVENSKO"
+    },
+    {
+      "nazov": "Jednota Slovanov",
+      "skratka": "",
+      "datum_registracie": "17. 05. 2023",
+      "statutarny_organ": "Peter Marček [P], Ľudovít Líška, Patrik Kraus",
+      "starsie_nazvy": "KARMA"
+    },
+    {
+      "nazov": "KDH – Kresťanskodemokratické hnutie",
+      "skratka": "KDH",
+      "datum_registracie": "23. 02. 1990",
+      "statutarny_organ": "Milan Majerský [P]",
+      "starsie_nazvy": "Kresťanskodemokratické hnutie"
+    },
+    {
+      "nazov": "Komunistická strana Slovenska",
+      "skratka": "KSS",
+      "datum_registracie": "19. 03. 1991",
+      "statutarny_organ": "Jozef Hrdlička [P]",
+      "starsie_nazvy": "Zväz komunistov Slovenska"
+    },
+    {
+      "nazov": "Konzervatívci – Kresťanská únia",
+      "skratka": "Konzervatívci",
+      "datum_registracie": "27. 08. 1998",
+      "statutarny_organ": "Milan Krajniak [P]",
+      "starsie_nazvy": "Nezávislé fórum, Kresťanská únia"
+    },
+    {
+      "nazov": "Košická strana",
+      "skratka": "",
+      "datum_registracie": "19. 01. 2023",
+      "statutarny_organ": "Ladislav Lörinc [P]",
+      "starsie_nazvy": ""
+    },
+    {
+      "nazov": "Kotlebovci – Ľudová strana Naše Slovensko",
+      "skratka": "ĽS Naše Slovensko",
+      "datum_registracie": "20. 10. 2000",
+      "statutarny_organ": "Marian Kotleba [P]",
+      "starsie_nazvy": "Strana priateľov vína, Ľudová strana sociálnej solidarity, Ľudová strana Naše Slovensko, Kotleba – Ľudová strana Naše Slovensko"
+    },
+    {
+      "nazov": "KRAJINA",
+      "skratka": "",
+      "datum_registracie": "20. 06. 2023",
+      "statutarny_organ": "Ivan Lacho [P]",
+      "starsie_nazvy": "JABLKO"
+    },
+    {
+      "nazov": "Maďarské fórum",
+      "skratka": "",
+      "datum_registracie": "28. 02. 2019",
+      "statutarny_organ": "Zsolt Simon [P]",
+      "starsie_nazvy": "Magyar Fórum – Maďarské fórum, Maďarské fórum, Občianski demokrati Slovenska, Za regióny, Rómska koalícia, Demokratická strana, FÓRUM"
+    },
+    {
+      "nazov": "Magyar Szövetség – Maďarská aliancia",
+      "skratka": "",
+      "datum_registracie": "22. 10. 2019",
+      "statutarny_organ": "László Gubík [P]",
+      "starsie_nazvy": "Összefogás-Spolupatričnosť, Magyar Közösségi Összefogás – Maďarská komunitná spolupatričnosť, SZÖVETSÉG – Magyarok. Nemzetiségek. Regiók. | ALIANCIA – Maďari. Národnosti. Regióny"
+    },
+    {
+      "nazov": "MySlovensko",
+      "skratka": "",
+      "datum_registracie": "05. 03. 2015",
+      "statutarny_organ": "Štefan Panenka [P]",
+      "starsie_nazvy": "Slovenská občianska koalícia, SKOK – Európski liberálni demokrati, SOLIDARITA – Hnutie pracujúcej chudoby, Dôstojný život"
+    },
+    {
+      "nazov": "NOVA",
+      "skratka": "NOVA",
+      "datum_registracie": "25. 10. 2012",
+      "statutarny_organ": "Gábor Grendel [P]",
+      "starsie_nazvy": "Nová väčšina, Nová väčšina (Daniel Lipšic), Nová väčšina – Dohoda (D. Lipšic)"
+    },
+    {
+      "nazov": "Občianska konzervatívna strana",
+      "skratka": "OKS",
+      "datum_registracie": "07. 12. 2001",
+      "statutarny_organ": "Ondrej Dostál [P]",
+      "starsie_nazvy": ""
+    },
+    {
+      "nazov": "Pirátska strana – Slovensko",
+      "skratka": "Piráti",
+      "datum_registracie": "02. 09. 2010",
+      "statutarny_organ": "Zuzana Šubová [P], Michal Pírek",
+      "starsie_nazvy": "NÁŠ KRAJ, SME RODINA, VÁŠ KRAJ, KOREKTÚRA – Andrej Hryc"
+    },
+    {
+      "nazov": "Práca slovenského národa",
+      "skratka": "PSN",
+      "datum_registracie": "06. 04. 2010",
+      "statutarny_organ": "Roman Stopka [P]",
+      "starsie_nazvy": "Demokratická aliancia Slovenska, HLAS – Demokratická aliancia Slovenska"
+    },
+    {
+      "nazov": "Právo na pravdu",
+      "skratka": "PRAVDA",
+      "datum_registracie": "03. 11. 2025",
+      "statutarny_organ": "Zoroslav Kollár [P]",
+      "starsie_nazvy": ""
+    },
+    {
+      "nazov": "Progresívne Slovensko",
+      "skratka": "",
+      "datum_registracie": "27. 11. 2017",
+      "statutarny_organ": "Michal Truban, Michal Šimečka [P], Tomáš Valášek, Ivan Štefunko, Simona Petrík, Ivan Korčok, Irena Bihariová, Beáta Jurík",
+      "starsie_nazvy": ""
+    },
+    {
+      "nazov": "REPUBLIKA",
+      "skratka": "",
+      "datum_registracie": "12. 07. 2002",
+      "statutarny_organ": "Milan Uhrík [P]",
+      "starsie_nazvy": "Hnutie za demokraciu, HLAS ĽUDU"
+    },
+    {
+      "nazov": "SDKÚ – DS – Slovenská demokratická a kresťanská únia – Demokratická strana",
+      "skratka": "SDKÚ – DS",
+      "datum_registracie": "18. 02. 2000",
+      "statutarny_organ": "Jozef Sobčák",
+      "starsie_nazvy": "Slovenská demokratická a kresťanská únia, Slovenská demokratická a kresťanská únia – Demokratická strana"
+    },
+    {
+      "nazov": "Sloboda a Solidarita",
+      "skratka": "SaS",
+      "datum_registracie": "27. 02. 2009",
+      "statutarny_organ": "Branislav Gröhling [P]",
+      "starsie_nazvy": ""
+    },
+    {
+      "nazov": "Slovenská národná strana",
+      "skratka": "SNS",
+      "datum_registracie": "07. 03. 1990",
+      "statutarny_organ": "Andrej Danko [P]",
+      "starsie_nazvy": ""
+    },
+    {
+      "nazov": "Slovenské Hnutie Obrody",
+      "skratka": "",
+      "datum_registracie": "15. 05. 2019",
+      "statutarny_organ": "Róbert Švec [P], Štefan Polačik",
+      "starsie_nazvy": ""
+    },
+    {
+      "nazov": "SLOVEXIT",
+      "skratka": "SLOVEXIT",
+      "datum_registracie": "07. 03. 1995",
+      "statutarny_organ": "Martin Beluský [P], Rastislav Kysel",
+      "starsie_nazvy": "Ľudová strana, Ľudová strana Pevnosť Slovensko"
+    },
+    {
+      "nazov": "SME RODINA",
+      "skratka": "",
+      "datum_registracie": "06. 07. 2011",
+      "statutarny_organ": "Boris Kollár [P]",
+      "starsie_nazvy": "Strana občanov Slovenska, SME RODINA – Boris Kollár"
+    },
+    {
+      "nazov": "SMER – sociálna demokracia",
+      "skratka": "SMER – SD",
+      "datum_registracie": "08. 11. 1999",
+      "statutarny_organ": "Robert Fico [P]",
+      "starsie_nazvy": "SMER, SMER (tretia cesta)"
+    },
+    {
+      "nazov": "Socialisti.sk",
+      "skratka": "",
+      "datum_registracie": "08. 10. 2019",
+      "statutarny_organ": "Artúr Bekmatov [P], Jaroslav Císar, Miroslav Pomajdík, Lucia Hubinská, Sely Papanová",
+      "starsie_nazvy": ""
+    },
+    {
+      "nazov": "SOM SLOVENSKO – Strana obcí a miest",
+      "skratka": "SOM SLOVENSKO",
+      "datum_registracie": "10. 08. 2022",
+      "statutarny_organ": "Jozef Krúpa [P]",
+      "starsie_nazvy": "Strana obcí a miest – SOM SLOVENSKO"
+    },
+    {
+      "nazov": "Spájame Občanov Slovenska – SOSK",
+      "skratka": "SOSK",
+      "datum_registracie": "26. 06. 2023",
+      "statutarny_organ": "Marian Kollár [P]",
+      "starsie_nazvy": ""
+    },
+    {
+      "nazov": "SPOLOČNE OBČANIA SLOVENSKA",
+      "skratka": "SPOLOČNE OBČANIA SLOVENSKA",
+      "datum_registracie": "16. 02. 1998",
+      "statutarny_organ": "Tibor Hanuliak [P]",
+      "starsie_nazvy": "Béčko-Revolučná robotnícka strana, Živnostenská strana SR, Živnostenská strana, Socialistická strana občianskej slobody, SLOBODA, VZDOR – strana práce"
+    },
+    {
+      "nazov": "Spoločný Cieľ",
+      "skratka": "",
+      "datum_registracie": "17. 08. 2026",
+      "statutarny_organ": "Ján Polakovič [P]",
+      "starsie_nazvy": ""
+    },
+    {
+      "nazov": "SPRAVODLIVOSŤ",
+      "skratka": "",
+      "datum_registracie": "06. 12. 2011",
+      "statutarny_organ": "Vladimír Chlebo, Soňa Gosťová, Miroslava Šuttová [P]",
+      "starsie_nazvy": "99 % – občiansky hlas"
+    },
+    {
+      "nazov": "STAROSTOVIA A NEZÁVISLÍ KANDIDÁTI",
+      "skratka": "",
+      "datum_registracie": "22. 09. 2009",
+      "statutarny_organ": "František Gőgh [P]",
+      "starsie_nazvy": "OBČIANSKI KANDIDÁTI, Únia – Strana pre Slovensko, STRANA +1 HLAS, LEPŠIA ŠTVRŤ"
+    },
+    {
+      "nazov": "Strana rómskej koalície – SRK",
+      "skratka": "SRK",
+      "datum_registracie": "19. 06. 2009",
+      "statutarny_organ": "Gejza Adam [P]",
+      "starsie_nazvy": ""
+    },
+    {
+      "nazov": "STRANA VIDIEKA",
+      "skratka": "SV",
+      "datum_registracie": "05. 03. 2014",
+      "statutarny_organ": "Rudolf Huliak [P], Pavel Zacharovský",
+      "starsie_nazvy": "Strana demokratického Slovenska, NÁRODNÁ KOALÍCIA, NÁRODNÁ KOALÍCIA / NEZÁVISLÍ KANDIDÁTI"
+    },
+    {
+      "nazov": "Team Bratislava",
+      "skratka": "",
+      "datum_registracie": "29. 04. 2022",
+      "statutarny_organ": "Matúš Vallo [P]",
+      "starsie_nazvy": ""
+    },
+    {
+      "nazov": "TÍM KOŠICE",
+      "skratka": "",
+      "datum_registracie": "19. 02. 2008",
+      "statutarny_organ": "Vladimír Chlebo",
+      "starsie_nazvy": "Demokrati a Vlastenci, Strana moderného Slovenska, Strana moderného Slovenska – SMS, STRANA MODERNÉHO SLOVENSKA (SMS)"
+    },
+    {
+      "nazov": "Tím Kraj Nitra – Združenie kandidátov Nitrianskeho kraja",
+      "skratka": "Tím Kraj Nitra",
+      "datum_registracie": "21. 07. 2022",
+      "statutarny_organ": "Marek Hattas [P]",
+      "starsie_nazvy": ""
+    },
+    {
+      "nazov": "TÍM RUŽINOV",
+      "skratka": "",
+      "datum_registracie": "06. 08. 2014",
+      "statutarny_organ": "Martin Chren [P]",
+      "starsie_nazvy": "MLADÁ PETRŽALKA, MLADÁ BRATISLAVA, MLADÁ PETRŽALKA – lokálna strana"
+    },
+    {
+      "nazov": "Trnava pre každého",
+      "skratka": "TPK",
+      "datum_registracie": "24. 01. 2019",
+      "statutarny_organ": "Miloš Krištofík [P]",
+      "starsie_nazvy": "DOPRAVA, Hlas pravice, Skúsme to inak"
+    },
+    {
+      "nazov": "ÚSVIT",
+      "skratka": "ÚSVIT",
+      "datum_registracie": "25. 05. 2005",
+      "statutarny_organ": "Luciána Hoptová [P]",
+      "starsie_nazvy": ""
+    },
+    {
+      "nazov": "Vlastenecký blok",
+      "skratka": "VLASTENCI SK",
+      "datum_registracie": "13. 08. 2014",
+      "statutarny_organ": "Ivan Stanovič [P]",
+      "starsie_nazvy": "JEDNOTA – ľavicová strana Slovenska, Hnutie Občan Národ Spravodlivosť"
+    },
+    {
+      "nazov": "Volt Slovensko",
+      "skratka": "Volt SK",
+      "datum_registracie": "12. 02. 2024",
+      "statutarny_organ": "Richard Edward Zednik, Lucia Kleštincová",
+      "starsie_nazvy": ""
+    },
+    {
+      "nazov": "ZA ĽUDÍ",
+      "skratka": "",
+      "datum_registracie": "02. 09. 2019",
+      "statutarny_organ": "Veronika Remišová [P]",
+      "starsie_nazvy": ""
+    },
+    {
+      "nazov": "Zmena zdola, Demokratická únia Slovenska",
+      "skratka": "Zmena zdola, DÚ",
+      "datum_registracie": "07. 09. 2000",
+      "statutarny_organ": "Ján Budaj [P]",
+      "starsie_nazvy": "Liberálnodemokratická únia, Demokratická únia Slovenska"
+    },
+    {
+      "nazov": "ŽIVOT – národná strana",
+      "skratka": "ŽIVOT",
+      "datum_registracie": "04. 02. 2019",
+      "statutarny_organ": "Tibor Pénzeš [P]",
+      "starsie_nazvy": "Kresťanská demokracia – Život a prosperita, KDŽP – Aliancia za Slovensko"
+    }
+  ],
+  "meta": {
+    "title": "Politické strany a hnutia na Slovensku - Free Download",
+    "description": "Zoznam registrovaných politických strán a hnutí na Slovensku so skratkou, dátumom registrácie, štatutárnym orgánom a staršími názvami. Contains 53 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Politické strany a hnutia na Slovensku | ListBase",
+    "seo_description": "Download Politické strany a hnutia na Slovensku — 53 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 53 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_politických_strán_a_politických_hnutí_na_Slovensku"
+    ]
+  }
+}

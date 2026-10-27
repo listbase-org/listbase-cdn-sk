@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-27T02:26:14.272Z",
-  "total_datasets": 425,
-  "total_records": 280019,
+  "generated": "2026-10-27T02:26:16.908Z",
+  "total_datasets": 426,
+  "total_records": 280072,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "reference",
@@ -4185,6 +4185,32 @@
         "xlsx": {
           "name": "sk-ministerstva_SK.xlsx",
           "size": 7295
+        }
+      }
+    },
+    {
+      "id": "sk-politicke-strany",
+      "name": "Politické strany a hnutia na Slovensku",
+      "category": "politics",
+      "record_count": 53,
+      "columns": [
+        "nazov",
+        "skratka",
+        "datum_registracie",
+        "statutarny_organ",
+        "starsie_nazvy"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_politických_strán_a_politických_hnutí_na_Slovensku",
+      "updated": "2026-10",
+      "size": 16039,
+      "files": {
+        "csv": {
+          "name": "sk-politicke-strany_SK.csv",
+          "size": 7609
+        },
+        "xlsx": {
+          "name": "sk-politicke-strany_SK.xlsx",
+          "size": 11161
         }
       }
     },
