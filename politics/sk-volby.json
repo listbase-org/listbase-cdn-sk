@@ -1,0 +1,476 @@
+{
+  "id": "sk-volby",
+  "name": "Voľby na Slovensku",
+  "title": "Voľby na Slovensku",
+  "description": "Prehľad volieb na území Slovenska od roku 1918: prezidentské, parlamentné, do Európskeho parlamentu a komunálne/regionálne.",
+  "category": "politics",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_volieb_na_Slovensku",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_volieb_na_Slovensku",
+  "updated": "2026-10",
+  "record_count": 110,
+  "columns": [
+    {
+      "key": "volby",
+      "label": "Volby",
+      "type": "string"
+    },
+    {
+      "key": "typ",
+      "label": "Typ",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "volby": "Voľba prezidenta ČSR v roku 1918",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľby prezidenta ČSR v roku 1920",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta ČSR v roku 1927",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta ČSR v roku 1934",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta ČSR v roku 1935",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta Č-SR v roku 1938",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta Slovenskej republiky v roku 1939",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta ČSR v roku 1945",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta ČSR v roku 1946",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta ČSR v roku 1948",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta ČSR v roku 1953",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta ČSR v roku 1957",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta ČSSR v roku 1964",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta ČSSR v roku 1968",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta ČSSR v roku 1973",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta ČSSR v roku 1975",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta ČSSR v roku 1980",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta ČSSR v roku 1985",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta ČSSR v roku 1989",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta ČSFR v roku 1990",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta ČSFR v roku 1992",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta Slovenskej republiky v roku 1993",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta Slovenskej republiky v roku 1998",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta Slovenskej republiky v roku 1999",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta Slovenskej republiky v roku 2004",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta Slovenskej republiky v roku 2009",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta Slovenskej republiky v roku 2014",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta Slovenskej republiky v roku 2019",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľba prezidenta Slovenskej republiky v roku 2024",
+      "typ": "Prezident"
+    },
+    {
+      "volby": "Voľby do Európskeho parlamentu na Slovensku v roku 2004",
+      "typ": "Európsky parlament"
+    },
+    {
+      "volby": "Voľby do Európskeho parlamentu na Slovensku v roku 2009",
+      "typ": "Európsky parlament"
+    },
+    {
+      "volby": "Voľby do Európskeho parlamentu na Slovensku v roku 2014",
+      "typ": "Európsky parlament"
+    },
+    {
+      "volby": "Voľby do Európskeho parlamentu na Slovensku v roku 2019",
+      "typ": "Európsky parlament"
+    },
+    {
+      "volby": "Voľby do Európskeho parlamentu na Slovensku v roku 2024",
+      "typ": "Európsky parlament"
+    },
+    {
+      "volby": "Voľby do Uhorského snemu v roku 1848",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Uhorského snemu v roku 1861",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Ríšskej rady v Rakúskej monarchii v roku 1861",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Uhorského snemu v roku 1865",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Uhorského snemu v roku 1869",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Uhorského snemu v roku 1872",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Uhorského snemu v roku 1875",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Uhorského snemu v roku 1878",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Uhorského snemu v roku 1881",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Uhorského snemu v roku 1887",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Uhorského snemu v roku 1892",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Uhorského snemu v roku 1896",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Uhorského snemu v roku 1901",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Uhorského snemu v roku 1905",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Uhorského snemu v roku 1906",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Uhorského snemu v roku 1910",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Poslaneckej snemovne Národného zhromaždenia v roku 1920",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Senátu Národného zhromaždenia v roku 1920",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Národného zhromaždenia v roku 1925",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Národného zhromaždenia v roku 1929",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Národného zhromaždenia v roku 1935",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Snemu Slovenskej krajiny v roku 1938",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Ústavodarného národného zhromaždenia v roku 1946 (SNR bola zostavená podľa výsledkov týchto volieb)",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Národného zhromaždenia v roku 1948 (SNR bola zostavená podľa výsledkov týchto volieb)",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Národného zhromaždenia v roku 1954 + Voľby do Slovenskej národnej rady v roku 1954",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Národného zhromaždenia v roku 1960 + Voľby do Slovenskej národnej rady v roku 1960",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Národného zhromaždenia v roku 1964 + Voľby do Slovenskej národnej rady v roku 1964",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Federálneho zhromaždenia v roku 1971 + Voľby do Slovenskej národnej rady v roku 1971",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Federálneho zhromaždenia v roku 1976 + Voľby do Slovenskej národnej rady v roku 1976",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Federálneho zhromaždenia v roku 1981 + Voľby do Slovenskej národnej rady v roku 1981",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Federálneho zhromaždenia v roku 1986 + Voľby do Slovenskej národnej rady v roku 1986",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Federálneho zhromaždenia v Česko-Slovensku v roku 1990 + Voľby do Slovenskej národnej rady v roku 1990",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Federálneho zhromaždenia v Česko-Slovensku v roku 1992 + Voľby do Slovenskej národnej rady v roku 1992",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Národnej rady Slovenskej republiky v roku 1994",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Národnej rady Slovenskej republiky v roku 1998",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Národnej rady Slovenskej republiky v roku 2002",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Národnej rady Slovenskej republiky v roku 2006",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Národnej rady Slovenskej republiky v roku 2010",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Národnej rady Slovenskej republiky v roku 2012",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Národnej rady Slovenskej republiky v roku 2016",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Národnej rady Slovenskej republiky v roku 2020",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do Národnej rady Slovenskej republiky v roku 2023",
+      "typ": "Parlamentné voľby"
+    },
+    {
+      "volby": "Voľby do obecných zastupiteľstiev v roku 1923",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do obecných zastupiteľstiev v roku 1927",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do obecných zastupiteľstiev v roku 1931",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do obecných zastupiteľstiev v roku 1938",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "1945 – 1989: pozri Národné výbory",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do orgánov samosprávy obcí na Slovensku v roku 1990",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do orgánov samosprávy obcí na Slovensku v roku 1994",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do orgánov samosprávy obcí na Slovensku v roku 1998",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do orgánov samosprávy obcí na Slovensku v roku 2002",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do orgánov samosprávy obcí na Slovensku v roku 2006",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do orgánov samosprávy obcí na Slovensku v roku 2010",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do orgánov samosprávy obcí na Slovensku v roku 2014",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do orgánov samosprávy obcí na Slovensku v roku 2018",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do orgánov samosprávy obcí na Slovensku v roku 2022",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do orgánov samosprávy obcí na Slovensku v roku 2026",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do župných zastupiteľstiev na Slovensku v roku 1923 + Voľby do okresných zastupiteľstiev v roku 1923",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do Krajinského zastupiteľstva Slovenskej krajiny v roku 1928 + Voľby do okresných zastupiteľstiev v roku 1928",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do Krajinského zastupiteľstva Slovenskej krajiny v roku 1935 + Voľby do okresných zastupiteľstiev v roku 1935",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "1945 – 1989: pozri Národné výbory",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do orgánov samosprávnych krajov na Slovensku v roku 2001",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do orgánov samosprávnych krajov na Slovensku v roku 2005",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do orgánov samosprávnych krajov na Slovensku v roku 2009",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do orgánov samosprávnych krajov na Slovensku v roku 2013",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do orgánov samosprávnych krajov na Slovensku v roku 2017",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do orgánov samosprávnych krajov na Slovensku v roku 2022",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "1946: národné výbory boli obsadené podľa výsledkov parlamentných volieb",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "1948: národné výbory boli obsadené podľa výsledkov parlamentných volieb",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do národných výborov v Česko-Slovensku v roku 1954 – konané spolu s parlamentnými voľbami",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do národných výborov v Česko-Slovensku v roku 1960 – konané spolu s parlamentnými voľbami",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do národných výborov v Česko-Slovensku v roku 1964 – konané spolu s parlamentnými voľbami",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do národných výborov v Česko-Slovensku v roku 1971 – konané spolu s parlamentnými voľbami",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do národných výborov v Česko-Slovensku v roku 1976 – konané spolu s parlamentnými voľbami",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do národných výborov v Česko-Slovensku v roku 1981 – konané spolu s parlamentnými voľbami",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    },
+    {
+      "volby": "Voľby do národných výborov v Česko-Slovensku v roku 1986 – konané spolu s parlamentnými voľbami",
+      "typ": "Regionálne, okresné a komunálne orgány (od roku 1918)"
+    }
+  ],
+  "meta": {
+    "title": "Voľby na Slovensku - Free Download",
+    "description": "Prehľad volieb na území Slovenska od roku 1918: prezidentské, parlamentné, do Európskeho parlamentu a komunálne/regionálne. Contains 110 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Voľby na Slovensku | ListBase",
+    "seo_description": "Download Voľby na Slovensku — 110 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 110 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_volieb_na_Slovensku"
+    ]
+  }
+}

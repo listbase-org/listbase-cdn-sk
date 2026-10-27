@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-27T02:26:29.669Z",
-  "total_datasets": 431,
-  "total_records": 280519,
+  "generated": "2026-10-27T02:26:32.225Z",
+  "total_datasets": 432,
+  "total_records": 280629,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "reference",
@@ -4375,6 +4375,29 @@
         "xlsx": {
           "name": "sk-prezidenti_SK.xlsx",
           "size": 8742
+        }
+      }
+    },
+    {
+      "id": "sk-volby",
+      "name": "Voľby na Slovensku",
+      "category": "politics",
+      "record_count": 110,
+      "columns": [
+        "volby",
+        "typ"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_volieb_na_Slovensku",
+      "updated": "2026-10",
+      "size": 16221,
+      "files": {
+        "csv": {
+          "name": "sk-volby_SK.csv",
+          "size": 10295
+        },
+        "xlsx": {
+          "name": "sk-volby_SK.xlsx",
+          "size": 8943
         }
       }
     },
