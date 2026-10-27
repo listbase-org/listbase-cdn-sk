@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-27T02:26:19.495Z",
-  "total_datasets": 427,
-  "total_records": 280295,
+  "generated": "2026-10-27T02:26:22.113Z",
+  "total_datasets": 428,
+  "total_records": 280375,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "geography",
@@ -2027,6 +2027,29 @@
         "xlsx": {
           "name": "sk-restauracie_SK.xlsx",
           "size": 148530
+        }
+      }
+    },
+    {
+      "id": "sk-slovenske-jedla",
+      "name": "Jedlá slovenskej kuchyne",
+      "category": "food",
+      "record_count": 80,
+      "columns": [
+        "jedlo",
+        "kategoria"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Slovenská_kuchyňa",
+      "updated": "2026-10",
+      "size": 9271,
+      "files": {
+        "csv": {
+          "name": "sk-slovenske-jedla_SK.csv",
+          "size": 4106
+        },
+        "xlsx": {
+          "name": "sk-slovenske-jedla_SK.xlsx",
+          "size": 8973
         }
       }
     },

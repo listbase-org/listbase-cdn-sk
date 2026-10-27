@@ -1,0 +1,356 @@
+{
+  "id": "sk-slovenske-jedla",
+  "name": "Jedlá slovenskej kuchyne",
+  "title": "Jedlá slovenskej kuchyne",
+  "description": "Tradičné jedlá slovenskej kuchyne podľa kategórií: polievky, hlavné jedlá, prívarky, múčniky, vianočné menu a ďalšie.",
+  "category": "food",
+  "source": "https://sk.wikipedia.org/wiki/Slovenská_kuchyňa",
+  "source_url": "https://sk.wikipedia.org/wiki/Slovenská_kuchyňa",
+  "updated": "2026-10",
+  "record_count": 80,
+  "columns": [
+    {
+      "key": "jedlo",
+      "label": "Jedlo",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "jedlo": "kapustnica (polievka z kyslej kapusty)",
+      "kategoria": "Polievky"
+    },
+    {
+      "jedlo": "fazuľová polievka",
+      "kategoria": "Polievky"
+    },
+    {
+      "jedlo": "šošovicová polievka",
+      "kategoria": "Polievky"
+    },
+    {
+      "jedlo": "gulášová polievka",
+      "kategoria": "Polievky"
+    },
+    {
+      "jedlo": "hubová na kyslo",
+      "kategoria": "Polievky"
+    },
+    {
+      "jedlo": "hubová so zeleninou",
+      "kategoria": "Polievky"
+    },
+    {
+      "jedlo": "demikát",
+      "kategoria": "Polievky"
+    },
+    {
+      "jedlo": "kysliare",
+      "kategoria": "Polievky"
+    },
+    {
+      "jedlo": "paradajková polievka",
+      "kategoria": "Polievky"
+    },
+    {
+      "jedlo": "tekvicový prívarok",
+      "kategoria": "Prívarky"
+    },
+    {
+      "jedlo": "šošovicový prívarok",
+      "kategoria": "Prívarky"
+    },
+    {
+      "jedlo": "fazuľový prívarok",
+      "kategoria": "Prívarky"
+    },
+    {
+      "jedlo": "karfiolový prívarok",
+      "kategoria": "Prívarky"
+    },
+    {
+      "jedlo": "kapustový prívarok",
+      "kategoria": "Prívarky"
+    },
+    {
+      "jedlo": "zemiakový prívarok",
+      "kategoria": "Prívarky"
+    },
+    {
+      "jedlo": "hrachový prívarok",
+      "kategoria": "Prívarky"
+    },
+    {
+      "jedlo": "špenátový prívarok",
+      "kategoria": "Prívarky"
+    },
+    {
+      "jedlo": "halušky",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "bryndzové halušky",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "pirohy (napr. bryndzové)",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "strapačky",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "zlaté halušky",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "chľustačky",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "liptovské droby – zemiakové jaternice",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "široké rezance s tvarohom a slaninou",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "zemiakové placky (v regióne Horehronie sa nazývajú haruľa, na Kysuciach polesníky)",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "žemľovka",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "granatiersky pochod alebo granadír",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "kuracie prsia s broskyňou",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "ryžový nákyp",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "demikát",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "lokše",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "živánska",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "plnená paprika",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "huspenina",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "fučka – zemiaková kaša",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "praženica z hríbov a vajec",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "hríby na smotane",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "veľkonočná plnka",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "domáca údená klobása",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "údené výrobky z bravčoviny",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "pečené prasiatko (väčšie hostiny)",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "sedliacke rebierko",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "vyprážaný syr",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "cigánska pečienka",
+      "kategoria": "Hlavný chod"
+    },
+    {
+      "jedlo": "orechovník – orechový závin",
+      "kategoria": "Múčniky, slané koláče"
+    },
+    {
+      "jedlo": "makovník – makový závin",
+      "kategoria": "Múčniky, slané koláče"
+    },
+    {
+      "jedlo": "tvarohovník – tvarohový závin",
+      "kategoria": "Múčniky, slané koláče"
+    },
+    {
+      "jedlo": "štrúdľa – závin, väčšinou jablkový",
+      "kategoria": "Múčniky, slané koláče"
+    },
+    {
+      "jedlo": "parené buchty",
+      "kategoria": "Múčniky, slané koláče"
+    },
+    {
+      "jedlo": "Bratislavské rožky",
+      "kategoria": "Múčniky, slané koláče"
+    },
+    {
+      "jedlo": "bábovka",
+      "kategoria": "Múčniky, slané koláče"
+    },
+    {
+      "jedlo": "Skalický trdelník",
+      "kategoria": "Múčniky, slané koláče"
+    },
+    {
+      "jedlo": "laskonky",
+      "kategoria": "Múčniky, slané koláče"
+    },
+    {
+      "jedlo": "perník",
+      "kategoria": "Múčniky, slané koláče"
+    },
+    {
+      "jedlo": "mačacie oči",
+      "kategoria": "Múčniky, slané koláče"
+    },
+    {
+      "jedlo": "medovníčky",
+      "kategoria": "Múčniky, slané koláče"
+    },
+    {
+      "jedlo": "medvedie labky",
+      "kategoria": "Múčniky, slané koláče"
+    },
+    {
+      "jedlo": "opekance tiež bobaľky (na východe) alebo aj pupáky (Záhorie)",
+      "kategoria": "Múčniky, slané koláče"
+    },
+    {
+      "jedlo": "osie hniezda",
+      "kategoria": "Múčniky, slané koláče"
+    },
+    {
+      "jedlo": "šúľance",
+      "kategoria": "Múčniky, slané koláče"
+    },
+    {
+      "jedlo": "pagáče",
+      "kategoria": "Múčniky, slané koláče"
+    },
+    {
+      "jedlo": "kapustník",
+      "kategoria": "Múčniky, slané koláče"
+    },
+    {
+      "jedlo": "fánky – na Záhorí a Myjave na Troch kráľov",
+      "kategoria": "Múčniky, slané koláče"
+    },
+    {
+      "jedlo": "bryndzové a syrové tyčinky",
+      "kategoria": "Múčniky, slané koláče"
+    },
+    {
+      "jedlo": "oblátky s medom",
+      "kategoria": "Vianočné menu"
+    },
+    {
+      "jedlo": "ovocie a orechy",
+      "kategoria": "Vianočné menu"
+    },
+    {
+      "jedlo": "aperitív, víno",
+      "kategoria": "Vianočné menu"
+    },
+    {
+      "jedlo": "kapustnica alebo hrachová, príp. rybacia polievka (skôr maďarský zvyk)",
+      "kategoria": "Vianočné menu"
+    },
+    {
+      "jedlo": "biele víno suché",
+      "kategoria": "Vianočné menu"
+    },
+    {
+      "jedlo": "vyprážaný kapor alebo filé so zemiakovým šalátom (s cibuľou na sladkokyslo, väčšinou aj s majonézou).",
+      "kategoria": "Vianočné menu"
+    },
+    {
+      "jedlo": "Na východe Slovenska je niekde tradičná aj mačanka (alebo niekde hubová – kyslá polievka), niekde aj pirohy. Typické východniarske vianočné jedlo – dezert – sú bobaľky, a tiež sú tradičné oblátky s medom a cesnakom, väčšinou podávané na začiatku stolovania.",
+      "kategoria": "Vianočné menu"
+    },
+    {
+      "jedlo": "vianočné drobné zákusky: medovníky, vanilkové rožteky, orechové tyčinky, plnené rožky – obyčajne makom alebo orechmi, medvedie labky a koláč vianočka – pletenec z kysnutého cesta. Niekde aj šuhajdy – domáce čokoládové bonbóny.",
+      "kategoria": "Vianočné menu"
+    },
+    {
+      "jedlo": "živánska",
+      "kategoria": "Chatárske jedlá"
+    },
+    {
+      "jedlo": "kastrólová roštenka",
+      "kategoria": "Chatárske jedlá"
+    },
+    {
+      "jedlo": "ražniči v alobale",
+      "kategoria": "Chatárske jedlá"
+    },
+    {
+      "jedlo": "rôzne grilované mäso a zelenina",
+      "kategoria": "Chatárske jedlá"
+    },
+    {
+      "jedlo": "jahňa alebo prasiatko na ražni",
+      "kategoria": "Chatárske jedlá"
+    },
+    {
+      "jedlo": "guláš",
+      "kategoria": "Chatárske jedlá"
+    },
+    {
+      "jedlo": "špekáčiky (tučné klobásky) opekané na ohni",
+      "kategoria": "Chatárske jedlá"
+    }
+  ],
+  "meta": {
+    "title": "Jedlá slovenskej kuchyne - Free Download",
+    "description": "Tradičné jedlá slovenskej kuchyne podľa kategórií: polievky, hlavné jedlá, prívarky, múčniky, vianočné menu a ďalšie. Contains 80 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Jedlá slovenskej kuchyne | ListBase",
+    "seo_description": "Download Jedlá slovenskej kuchyne — 80 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 80 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Slovenská_kuchyňa"
+    ]
+  }
+}
