@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-27T02:26:03.821Z",
-  "total_datasets": 421,
-  "total_records": 279453,
+  "generated": "2026-10-27T02:26:06.369Z",
+  "total_datasets": 422,
+  "total_records": 279617,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 47
+      "dataset_count": 48
     },
     {
       "id": "health",
@@ -2831,6 +2831,35 @@
         "xlsx": {
           "name": "sk-mesta_SK.xlsx",
           "size": 28665
+        }
+      }
+    },
+    {
+      "id": "sk-najvyssie-stavby",
+      "name": "Najvyššie stavby na Slovensku",
+      "category": "geography",
+      "record_count": 164,
+      "columns": [
+        "poradie",
+        "typ",
+        "nazov",
+        "vyska_m",
+        "rok_dokoncenia",
+        "typ_stavby",
+        "miesto",
+        "poznamka"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_najvyšších_stavieb_na_Slovensku",
+      "updated": "2026-10",
+      "size": 39793,
+      "files": {
+        "csv": {
+          "name": "sk-najvyssie-stavby_SK.csv",
+          "size": 12022
+        },
+        "xlsx": {
+          "name": "sk-najvyssie-stavby_SK.xlsx",
+          "size": 14978
         }
       }
     },

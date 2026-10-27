@@ -1,0 +1,1706 @@
+{
+  "id": "sk-najvyssie-stavby",
+  "name": "Najvyššie stavby na Slovensku",
+  "title": "Najvyššie stavby na Slovensku",
+  "description": "Najvyššie stavby na Slovensku (vysielače, komíny, budovy, veže) s výškou, rokom dokončenia, typom a miestom.",
+  "category": "geography",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_najvyšších_stavieb_na_Slovensku",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_najvyšších_stavieb_na_Slovensku",
+  "updated": "2026-10",
+  "record_count": 164,
+  "columns": [
+    {
+      "key": "poradie",
+      "label": "Poradie",
+      "type": "number"
+    },
+    {
+      "key": "typ",
+      "label": "Typ",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "vyska_m",
+      "label": "Vyska M",
+      "type": "number"
+    },
+    {
+      "key": "rok_dokoncenia",
+      "label": "Rok Dokoncenia",
+      "type": "number"
+    },
+    {
+      "key": "typ_stavby",
+      "label": "Typ Stavby",
+      "type": "string"
+    },
+    {
+      "key": "miesto",
+      "label": "Miesto",
+      "type": "string"
+    },
+    {
+      "key": "poznamka",
+      "label": "Poznamka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradie": "1",
+      "typ": "IS",
+      "nazov": "Vysielač Dubník",
+      "vyska_m": 318,
+      "rok_dokoncenia": "1961",
+      "typ_stavby": "stožiar",
+      "miesto": "Zlatá Baňa",
+      "poznamka": ""
+    },
+    {
+      "poradie": "2",
+      "typ": "IS",
+      "nazov": "Vysielač Suchá hora",
+      "vyska_m": 312,
+      "rok_dokoncenia": "1960",
+      "typ_stavby": "stožiar",
+      "miesto": "Kremnica",
+      "poznamka": ""
+    },
+    {
+      "poradie": "3",
+      "typ": "IS",
+      "nazov": "Komín Elektrárne Nováky",
+      "vyska_m": 300,
+      "rok_dokoncenia": "1976",
+      "typ_stavby": "komín",
+      "miesto": "Zemianske Kostoľany",
+      "poznamka": ""
+    },
+    {
+      "poradie": "4",
+      "typ": "IS",
+      "nazov": "Komín Duslo Šaľa, a. s.",
+      "vyska_m": 240.4,
+      "rok_dokoncenia": "1992",
+      "typ_stavby": "komín",
+      "miesto": "Šaľa",
+      "poznamka": ""
+    },
+    {
+      "poradie": "5",
+      "typ": "IS",
+      "nazov": "Vysielač Laskomer",
+      "vyska_m": 220,
+      "rok_dokoncenia": "",
+      "typ_stavby": "stožiar",
+      "miesto": "Banská Bystrica",
+      "poznamka": ""
+    },
+    {
+      "poradie": "6",
+      "typ": "IS",
+      "nazov": "Meteorologická stanica v Jaslovských Bohuniciach",
+      "vyska_m": 212.5,
+      "rok_dokoncenia": "1986",
+      "typ_stavby": "stožiar",
+      "miesto": "Jaslovské Bohunice",
+      "poznamka": ""
+    },
+    {
+      "poradie": "7",
+      "typ": "IS",
+      "nazov": "Komín Mondi SCP",
+      "vyska_m": 204,
+      "rok_dokoncenia": "1981",
+      "typ_stavby": "komín",
+      "miesto": "Ružomberok",
+      "poznamka": ""
+    },
+    {
+      "poradie": "8",
+      "typ": "IS",
+      "nazov": "Komín ZSNP",
+      "vyska_m": 202,
+      "rok_dokoncenia": "1985",
+      "typ_stavby": "komín",
+      "miesto": "Žiar nad Hronom",
+      "poznamka": ""
+    },
+    {
+      "poradie": "10",
+      "typ": "IS",
+      "nazov": "Komín Kovohuty",
+      "vyska_m": 200,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Krompachy",
+      "poznamka": ""
+    },
+    {
+      "poradie": "10",
+      "typ": "IS",
+      "nazov": "Komín Chemko",
+      "vyska_m": 200,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Strážske",
+      "poznamka": ""
+    },
+    {
+      "poradie": "10",
+      "typ": "IS",
+      "nazov": "Komín Elektrární Vojany",
+      "vyska_m": 200,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Vojany",
+      "poznamka": ""
+    },
+    {
+      "poradie": "13",
+      "typ": "IS",
+      "nazov": "Komín Bukóza Vranov nad Topľou",
+      "vyska_m": 197,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Vranov nad Topľou",
+      "poznamka": ""
+    },
+    {
+      "poradie": "14",
+      "typ": "IS",
+      "nazov": "Televízna veža na Kamzíku",
+      "vyska_m": 194,
+      "rok_dokoncenia": "1975",
+      "typ_stavby": "televízna veža",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "15",
+      "typ": "IS",
+      "nazov": "Komín Žilinskej teplárne",
+      "vyska_m": 192,
+      "rok_dokoncenia": "1982",
+      "typ_stavby": "komín",
+      "miesto": "Žilina",
+      "poznamka": ""
+    },
+    {
+      "poradie": "16",
+      "typ": "IS",
+      "nazov": "Komín Zvolenskej teplárne",
+      "vyska_m": 190,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Zvolen",
+      "poznamka": ""
+    },
+    {
+      "poradie": "17",
+      "typ": "IS",
+      "nazov": "Komín Elektrární Vojany",
+      "vyska_m": 175,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Vojany",
+      "poznamka": "do roku 1998 výška 300 m"
+    },
+    {
+      "poradie": "18",
+      "typ": "IS",
+      "nazov": "Komín Považských strojární",
+      "vyska_m": 170,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Považská Bystrica",
+      "poznamka": ""
+    },
+    {
+      "poradie": "19",
+      "typ": "B",
+      "nazov": "Eurovea Tower",
+      "vyska_m": 168,
+      "rok_dokoncenia": "2023",
+      "typ_stavby": "budova",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "20",
+      "typ": "IS",
+      "nazov": "Komín Martinskej teplárne",
+      "vyska_m": 165,
+      "rok_dokoncenia": "1980?",
+      "typ_stavby": "komín",
+      "miesto": "Martin",
+      "poznamka": ""
+    },
+    {
+      "poradie": "21",
+      "typ": "IS",
+      "nazov": "Komín Petrochema",
+      "vyska_m": 160,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Nemecká",
+      "poznamka": ""
+    },
+    {
+      "poradie": "21",
+      "typ": "IS",
+      "nazov": "Komín Sninskej teplárne",
+      "vyska_m": 160,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Snina",
+      "poznamka": ""
+    },
+    {
+      "poradie": "21",
+      "typ": "IS",
+      "nazov": "Komín v Priemyselnom parku Štúrovo",
+      "vyska_m": 160,
+      "rok_dokoncenia": "1965",
+      "typ_stavby": "komín",
+      "miesto": "Štúrovo",
+      "poznamka": ""
+    },
+    {
+      "poradie": "24",
+      "typ": "IS",
+      "nazov": "Komíny elektrární Mochovce",
+      "vyska_m": 150,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Kalná nad Hronom",
+      "poznamka": ""
+    },
+    {
+      "poradie": "24",
+      "typ": "IS",
+      "nazov": "Komín elektrárne Nováky",
+      "vyska_m": 150,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Zemianske Kostoľany",
+      "poznamka": ""
+    },
+    {
+      "poradie": "24",
+      "typ": "IS",
+      "nazov": "Oceľový komín Mondi SCP",
+      "vyska_m": 150,
+      "rok_dokoncenia": "2026",
+      "typ_stavby": "komín",
+      "miesto": "Ružomberok",
+      "poznamka": ""
+    },
+    {
+      "poradie": "26",
+      "typ": "IS",
+      "nazov": "Komín Volkswagenu",
+      "vyska_m": 149,
+      "rok_dokoncenia": "1971",
+      "typ_stavby": "komín",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "27",
+      "typ": "IS",
+      "nazov": "Komín Tatra Bánovce nad Bebravou",
+      "vyska_m": 143,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Bánovce nad Bebravou",
+      "poznamka": ""
+    },
+    {
+      "poradie": "28",
+      "typ": "IS",
+      "nazov": "Komín Myjavskej teplárne",
+      "vyska_m": 140,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Myjava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "28",
+      "typ": "IS",
+      "nazov": "Komín ZDA",
+      "vyska_m": 140,
+      "rok_dokoncenia": "1967?",
+      "typ_stavby": "komín",
+      "miesto": "Partizánske",
+      "poznamka": ""
+    },
+    {
+      "poradie": "30",
+      "typ": "IS",
+      "nazov": "Vysielač Kráľova hoľa",
+      "vyska_m": 137.5,
+      "rok_dokoncenia": "1960",
+      "typ_stavby": "stožiar",
+      "miesto": "Šumiac",
+      "poznamka": ""
+    },
+    {
+      "poradie": "31",
+      "typ": "IS",
+      "nazov": "Komín býv. Cukrovaru",
+      "vyska_m": 135,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Trebišov",
+      "poznamka": ""
+    },
+    {
+      "poradie": "32",
+      "typ": "IS",
+      "nazov": "Vysielač Jarok",
+      "vyska_m": 133,
+      "rok_dokoncenia": "1989",
+      "typ_stavby": "stožiar",
+      "miesto": "Jarok",
+      "poznamka": ""
+    },
+    {
+      "poradie": "33",
+      "typ": "IS",
+      "nazov": "Komín Slovenských Lučobných Závodov",
+      "vyska_m": 130,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Hnúšťa",
+      "poznamka": ""
+    },
+    {
+      "poradie": "33",
+      "typ": "IS",
+      "nazov": "Komín Chemes",
+      "vyska_m": 130,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Humenné",
+      "poznamka": ""
+    },
+    {
+      "poradie": "33",
+      "typ": "IS",
+      "nazov": "Komín spaľovne",
+      "vyska_m": 130,
+      "rok_dokoncenia": "1981",
+      "typ_stavby": "komín",
+      "miesto": "Komárno",
+      "poznamka": ""
+    },
+    {
+      "poradie": "33",
+      "typ": "IS",
+      "nazov": "Komín Knauf Insulation",
+      "vyska_m": 130,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Nová Baňa",
+      "poznamka": ""
+    },
+    {
+      "poradie": "33",
+      "typ": "IS",
+      "nazov": "Komín Elektrárne Nováky",
+      "vyska_m": 130,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Zemianske Kostoľany",
+      "poznamka": ""
+    },
+    {
+      "poradie": "33",
+      "typ": "IS",
+      "nazov": "Komín Elektrární Vojany",
+      "vyska_m": 130,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Vojany",
+      "poznamka": ""
+    },
+    {
+      "poradie": "39",
+      "typ": "IS",
+      "nazov": "Komín cementárne",
+      "vyska_m": 129,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Rohožník",
+      "poznamka": ""
+    },
+    {
+      "poradie": "39",
+      "typ": "IS",
+      "nazov": "Komín býv. teplárne",
+      "vyska_m": 129,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Trenčín",
+      "poznamka": ""
+    },
+    {
+      "poradie": "41",
+      "typ": "IS",
+      "nazov": "Komín Elektrární Bohunice",
+      "vyska_m": 125,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Jaslovské Bohunice",
+      "poznamka": ""
+    },
+    {
+      "poradie": "41",
+      "typ": "IS",
+      "nazov": "Chladiace veže Elektrární Mochovce",
+      "vyska_m": 125,
+      "rok_dokoncenia": "",
+      "typ_stavby": "chladiace veže",
+      "miesto": "Kalná nad Hronom",
+      "poznamka": ""
+    },
+    {
+      "poradie": "41",
+      "typ": "IS",
+      "nazov": "Komín Rettenmeier",
+      "vyska_m": 125,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Polomka",
+      "poznamka": ""
+    },
+    {
+      "poradie": "44",
+      "typ": "IS",
+      "nazov": "Komín spaľovne Slovnaftu",
+      "vyska_m": 124,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "44",
+      "typ": "IS",
+      "nazov": "Komín Elektrární Bohunice",
+      "vyska_m": 124,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Jaslovské Bohunice",
+      "poznamka": ""
+    },
+    {
+      "poradie": "44",
+      "typ": "IS",
+      "nazov": "Komín Duslo Šaľa, a. s.",
+      "vyska_m": 124,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Šaľa",
+      "poznamka": ""
+    },
+    {
+      "poradie": "47",
+      "typ": "IS",
+      "nazov": "Komín teplárne v Dúbravke",
+      "vyska_m": 122,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "48",
+      "typ": "IS",
+      "nazov": "Komín Levickej teplárne",
+      "vyska_m": 121,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Levice",
+      "poznamka": ""
+    },
+    {
+      "poradie": "48",
+      "typ": "IS",
+      "nazov": "Komín Sideritu",
+      "vyska_m": 121,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Nižná Slaná",
+      "poznamka": ""
+    },
+    {
+      "poradie": "48",
+      "typ": "IS",
+      "nazov": "Komín strojární",
+      "vyska_m": 121,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Tlmače",
+      "poznamka": ""
+    },
+    {
+      "poradie": "51",
+      "typ": "IS",
+      "nazov": "Komín etylénovej jednotky",
+      "vyska_m": 120,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "51",
+      "typ": "IS",
+      "nazov": "Komín Mostárne Brezno",
+      "vyska_m": 120,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Brezno",
+      "poznamka": ""
+    },
+    {
+      "poradie": "51",
+      "typ": "IS",
+      "nazov": "Chladiace veže Elektrární Bohunice",
+      "vyska_m": 120,
+      "rok_dokoncenia": "",
+      "typ_stavby": "chladiace veže",
+      "miesto": "Jaslovské Bohunice",
+      "poznamka": ""
+    },
+    {
+      "poradie": "51",
+      "typ": "IS",
+      "nazov": "Komín Slovenských Magnezitových Závodov",
+      "vyska_m": 120,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Jelšava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "51",
+      "typ": "IS",
+      "nazov": "Vysielač Kecerovce - Čižatice",
+      "vyska_m": 120,
+      "rok_dokoncenia": "1977",
+      "typ_stavby": "stožiar",
+      "miesto": "Čižatice",
+      "poznamka": ""
+    },
+    {
+      "poradie": "51",
+      "typ": "IS",
+      "nazov": "Komín strojární",
+      "vyska_m": 120,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Liptovský Mikuláš",
+      "poznamka": ""
+    },
+    {
+      "poradie": "51",
+      "typ": "IS",
+      "nazov": "Komín Tatravagónky",
+      "vyska_m": 120,
+      "rok_dokoncenia": "1985",
+      "typ_stavby": "komín",
+      "miesto": "Poprad",
+      "poznamka": ""
+    },
+    {
+      "poradie": "51",
+      "typ": "IS",
+      "nazov": "Komín Mondi SCP",
+      "vyska_m": 120,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Ružomberok",
+      "poznamka": ""
+    },
+    {
+      "poradie": "51",
+      "typ": "IS",
+      "nazov": "Komín Texicomu",
+      "vyska_m": 120,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Ružomberok",
+      "poznamka": ""
+    },
+    {
+      "poradie": "51",
+      "typ": "IS",
+      "nazov": "Komín Bukóza Vranov nad Topľou",
+      "vyska_m": 120,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Vranov nad Topľou",
+      "poznamka": ""
+    },
+    {
+      "poradie": "51",
+      "typ": "IS",
+      "nazov": "Komín Zvolenskej teplárne",
+      "vyska_m": 120,
+      "rok_dokoncenia": "197?",
+      "typ_stavby": "komín",
+      "miesto": "Zvolen",
+      "poznamka": ""
+    },
+    {
+      "poradie": "51",
+      "typ": "IS",
+      "nazov": "Komín Žilinskej teplárne",
+      "vyska_m": 120,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Žilina",
+      "poznamka": ""
+    },
+    {
+      "poradie": "63",
+      "typ": "IS",
+      "nazov": "Teplárenský komín",
+      "vyska_m": 119,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "63",
+      "typ": "IS",
+      "nazov": "Komín Železiarní Podbrezová",
+      "vyska_m": 119,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Podbrezová",
+      "poznamka": ""
+    },
+    {
+      "poradie": "63",
+      "typ": "IS",
+      "nazov": "Komín Trnavskej teplárne",
+      "vyska_m": 119,
+      "rok_dokoncenia": "1972",
+      "typ_stavby": "komín",
+      "miesto": "Trnava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "66",
+      "typ": "IS",
+      "nazov": "Komín Matadoru",
+      "vyska_m": 118,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "66",
+      "typ": "IS",
+      "nazov": "Komín spaľovne Slovnaftu",
+      "vyska_m": 118,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "68",
+      "typ": "B",
+      "nazov": "Panorama City",
+      "vyska_m": 117.2,
+      "rok_dokoncenia": "2014",
+      "typ_stavby": "budovy",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "69",
+      "typ": "IS",
+      "nazov": "Vysielač Krížava",
+      "vyska_m": 116,
+      "rok_dokoncenia": "1970",
+      "typ_stavby": "stožiar",
+      "miesto": "Martin",
+      "poznamka": ""
+    },
+    {
+      "poradie": "70",
+      "typ": "B",
+      "nazov": "Tower 115",
+      "vyska_m": 115,
+      "rok_dokoncenia": "2006",
+      "typ_stavby": "budova",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "70",
+      "typ": "IS",
+      "nazov": "Komín Elektrárne Handlová",
+      "vyska_m": 115,
+      "rok_dokoncenia": "1987",
+      "typ_stavby": "komín",
+      "miesto": "Handlová",
+      "poznamka": ""
+    },
+    {
+      "poradie": "70",
+      "typ": "IS",
+      "nazov": "Komín magnezitky v Ťahanovciach",
+      "vyska_m": 115,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Košice",
+      "poznamka": ""
+    },
+    {
+      "poradie": "73",
+      "typ": "IS",
+      "nazov": "Plynojem U. S. Steel Košice",
+      "vyska_m": 112,
+      "rok_dokoncenia": "",
+      "typ_stavby": "plynojem",
+      "miesto": "Košice",
+      "poznamka": ""
+    },
+    {
+      "poradie": "73",
+      "typ": "IS",
+      "nazov": "Komín VSŽ Unicorn Tornaľa",
+      "vyska_m": 112,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Tornaľa",
+      "poznamka": ""
+    },
+    {
+      "poradie": "73",
+      "typ": "IS",
+      "nazov": "Komín býv. Cukrovaru",
+      "vyska_m": 112,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Trnava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "73",
+      "typ": "IS",
+      "nazov": "Silo Východoslovenské Stavebné Hmoty",
+      "vyska_m": 112,
+      "rok_dokoncenia": "",
+      "typ_stavby": "silo",
+      "miesto": "Turňa nad Bodvou",
+      "poznamka": ""
+    },
+    {
+      "poradie": "77",
+      "typ": "B",
+      "nazov": "Národná banka Slovenska",
+      "vyska_m": 111.6,
+      "rok_dokoncenia": "2002",
+      "typ_stavby": "budova",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "78",
+      "typ": "IS",
+      "nazov": "Komín U. S. Steel Košice",
+      "vyska_m": 111,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Košice",
+      "poznamka": ""
+    },
+    {
+      "poradie": "79",
+      "typ": "IS",
+      "nazov": "Komín býv. Garbiarne",
+      "vyska_m": 110,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Bošany",
+      "poznamka": ""
+    },
+    {
+      "poradie": "79",
+      "typ": "IS",
+      "nazov": "Komín Slovnaftu 19",
+      "vyska_m": 110,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "79",
+      "typ": "IS",
+      "nazov": "Komín Podpolianskych strojární",
+      "vyska_m": 110,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Hriňová",
+      "poznamka": ""
+    },
+    {
+      "poradie": "79",
+      "typ": "IS",
+      "nazov": "Komín Novozámockej teplárne",
+      "vyska_m": 110,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Nové Zámky",
+      "poznamka": ""
+    },
+    {
+      "poradie": "79",
+      "typ": "IS",
+      "nazov": "Komín Elektrosvitu",
+      "vyska_m": 110,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Nové Zámky",
+      "poznamka": ""
+    },
+    {
+      "poradie": "79",
+      "typ": "IS",
+      "nazov": "Komín Merina",
+      "vyska_m": 110,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Trenčín",
+      "poznamka": ""
+    },
+    {
+      "poradie": "79",
+      "typ": "IS",
+      "nazov": "Komín Železničných opravovní a strojární",
+      "vyska_m": 110,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Trnava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "79",
+      "typ": "IS",
+      "nazov": "Komín v Turanoch",
+      "vyska_m": 110,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Turany",
+      "poznamka": ""
+    },
+    {
+      "poradie": "88",
+      "typ": "IS",
+      "nazov": "Komín kotoľne",
+      "vyska_m": 109,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Dunajská Streda",
+      "poznamka": ""
+    },
+    {
+      "poradie": "88",
+      "typ": "IS",
+      "nazov": "Komín Zlatomoravskej teplárne",
+      "vyska_m": 109,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Zlaté Moravce",
+      "poznamka": ""
+    },
+    {
+      "poradie": "90",
+      "typ": "B",
+      "nazov": "Budova Slovenskej televízie",
+      "vyska_m": 108,
+      "rok_dokoncenia": "1975",
+      "typ_stavby": "budova",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "91",
+      "typ": "B",
+      "nazov": "City Business Center I",
+      "vyska_m": 107,
+      "rok_dokoncenia": "2006",
+      "typ_stavby": "budova",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "92",
+      "typ": "IS",
+      "nazov": "Komín Slovnaftu 24",
+      "vyska_m": 106,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "92",
+      "typ": "IS",
+      "nazov": "Komín PPS Detva",
+      "vyska_m": 106,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Detva",
+      "poznamka": ""
+    },
+    {
+      "poradie": "94",
+      "typ": "IS",
+      "nazov": "Komín Slovnaftu 25",
+      "vyska_m": 105,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "94",
+      "typ": "IS",
+      "nazov": "Komín býv. Cukrovaru",
+      "vyska_m": 105,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Rimavská Sobota",
+      "poznamka": ""
+    },
+    {
+      "poradie": "94",
+      "typ": "IS",
+      "nazov": "Komín býv. Cukrovaru",
+      "vyska_m": 105,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Šurany",
+      "poznamka": ""
+    },
+    {
+      "poradie": "94",
+      "typ": "IS",
+      "nazov": "Komín Východoslovenské Stavebné Hmoty",
+      "vyska_m": 105,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Turňa nad Bodvou",
+      "poznamka": ""
+    },
+    {
+      "poradie": "98",
+      "typ": "IS",
+      "nazov": "Komín Drôtovne",
+      "vyska_m": 104,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Hlohovec",
+      "poznamka": ""
+    },
+    {
+      "poradie": "98",
+      "typ": "IS",
+      "nazov": "Komín býv. OTF",
+      "vyska_m": 104,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Nižná na Orave",
+      "poznamka": ""
+    },
+    {
+      "poradie": "98",
+      "typ": "IS",
+      "nazov": "Komín Železničných opravovní a strojární",
+      "vyska_m": 104,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Vrútky",
+      "poznamka": ""
+    },
+    {
+      "poradie": "98",
+      "typ": "IS",
+      "nazov": "Komín Slovalco",
+      "vyska_m": 104,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Žiar nad Hronom",
+      "poznamka": ""
+    },
+    {
+      "poradie": "102",
+      "typ": "IS",
+      "nazov": "Komín teplárne II",
+      "vyska_m": 103,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "103",
+      "typ": "IS",
+      "nazov": "Komíny U. S. Steel Košice",
+      "vyska_m": 102,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komíny",
+      "miesto": "Košice",
+      "poznamka": ""
+    },
+    {
+      "poradie": "103",
+      "typ": "IS",
+      "nazov": "Komín Glejovky",
+      "vyska_m": 102,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Pezinok",
+      "poznamka": ""
+    },
+    {
+      "poradie": "103",
+      "typ": "IS",
+      "nazov": "Komín Embraco",
+      "vyska_m": 102,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Spišská Nová Ves",
+      "poznamka": ""
+    },
+    {
+      "poradie": "106",
+      "typ": "IS",
+      "nazov": "Komín U. S. Steel Košice",
+      "vyska_m": 101,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Košice",
+      "poznamka": ""
+    },
+    {
+      "poradie": "107",
+      "typ": "IS",
+      "nazov": "Komín ZVL Slovakia",
+      "vyska_m": 101,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Kysucké Nové Mesto",
+      "poznamka": ""
+    },
+    {
+      "poradie": "108",
+      "typ": "IS",
+      "nazov": "Veterný park Cerová",
+      "vyska_m": 100,
+      "rok_dokoncenia": "2003",
+      "typ_stavby": "veterné turbíny",
+      "miesto": "Cerová",
+      "poznamka": ""
+    },
+    {
+      "poradie": "108",
+      "typ": "IS",
+      "nazov": "Veže strelnice",
+      "vyska_m": 100,
+      "rok_dokoncenia": "",
+      "typ_stavby": "priehradové veže",
+      "miesto": "VO Záhorie",
+      "poznamka": ""
+    },
+    {
+      "poradie": "108",
+      "typ": "IS",
+      "nazov": "Komín Elektrární Bohunice",
+      "vyska_m": 100,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Jaslovské Bohunice",
+      "poznamka": ""
+    },
+    {
+      "poradie": "108",
+      "typ": "IS",
+      "nazov": "Komín teplárne v Krásnej nad Hornádom",
+      "vyska_m": 100,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Košice",
+      "poznamka": ""
+    },
+    {
+      "poradie": "108",
+      "typ": "IS",
+      "nazov": "Komíny Teko, a. s.",
+      "vyska_m": 100,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komíny",
+      "miesto": "Košice",
+      "poznamka": ""
+    },
+    {
+      "poradie": "108",
+      "typ": "IS",
+      "nazov": "Komín väznice v Leopoldove",
+      "vyska_m": 100,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Leopoldov",
+      "poznamka": ""
+    },
+    {
+      "poradie": "108",
+      "typ": "IS",
+      "nazov": "Komín Niklovej huty",
+      "vyska_m": 100,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Sereď",
+      "poznamka": ""
+    },
+    {
+      "poradie": "108",
+      "typ": "IS",
+      "nazov": "Komín Toma",
+      "vyska_m": 100,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Topoľčany",
+      "poznamka": ""
+    },
+    {
+      "poradie": "108",
+      "typ": "IS",
+      "nazov": "Chladiace veže Elektrární Vojany",
+      "vyska_m": 100,
+      "rok_dokoncenia": "",
+      "typ_stavby": "chladiace veže",
+      "miesto": "Vojany",
+      "poznamka": ""
+    },
+    {
+      "poradie": "108",
+      "typ": "IS",
+      "nazov": "Komín A.N.B.",
+      "vyska_m": 100,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Žarnovica",
+      "poznamka": ""
+    },
+    {
+      "poradie": "108",
+      "typ": "IS",
+      "nazov": "Komíny Slovalco",
+      "vyska_m": 100,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komíny",
+      "miesto": "Žiar nad Hronom",
+      "poznamka": ""
+    },
+    {
+      "poradie": "108",
+      "typ": "B",
+      "nazov": "Obytný dom Glória",
+      "vyska_m": 100,
+      "rok_dokoncenia": "2005",
+      "typ_stavby": "budova",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "108",
+      "typ": "IS",
+      "nazov": "Chladiaca veža Elektrárne Nováky",
+      "vyska_m": 100,
+      "rok_dokoncenia": "",
+      "typ_stavby": "chladiaca veža",
+      "miesto": "Zemianske Kostoľany",
+      "poznamka": ""
+    },
+    {
+      "poradie": "121",
+      "typ": "IS",
+      "nazov": "Vysielač Magurica",
+      "vyska_m": 98,
+      "rok_dokoncenia": "1988",
+      "typ_stavby": "stožiar",
+      "miesto": "Snina",
+      "poznamka": ""
+    },
+    {
+      "poradie": "122",
+      "typ": "B",
+      "nazov": "Aupark Tower",
+      "vyska_m": 96,
+      "rok_dokoncenia": "2007",
+      "typ_stavby": "budova",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "122",
+      "typ": "IS",
+      "nazov": "Komín Službyt Zlaté Moravce",
+      "vyska_m": 96,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Zlaté Moravce",
+      "poznamka": ""
+    },
+    {
+      "poradie": "124",
+      "typ": "IS",
+      "nazov": "Pylón Mostu SNP",
+      "vyska_m": 95,
+      "rok_dokoncenia": "1972",
+      "typ_stavby": "mostný pylón",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "125",
+      "typ": "IS",
+      "nazov": "Komín býv. teplárne",
+      "vyska_m": 92,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Nové Mesto nad Váhom",
+      "poznamka": ""
+    },
+    {
+      "poradie": "126",
+      "typ": "B",
+      "nazov": "Technopol",
+      "vyska_m": 90,
+      "rok_dokoncenia": "1984",
+      "typ_stavby": "budovy",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "126",
+      "typ": "IS",
+      "nazov": "Komín ZLH Plus",
+      "vyska_m": 90,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Hronec",
+      "poznamka": ""
+    },
+    {
+      "poradie": "128",
+      "typ": "B",
+      "nazov": "VÚB centrála",
+      "vyska_m": 88,
+      "rok_dokoncenia": "1996",
+      "typ_stavby": "budova",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "129",
+      "typ": "B",
+      "nazov": "Kostol Nanebovzatia Panny Márie",
+      "vyska_m": 87,
+      "rok_dokoncenia": "1893",
+      "typ_stavby": "kostol",
+      "miesto": "Spišská Nová Ves",
+      "poznamka": ""
+    },
+    {
+      "poradie": "129",
+      "typ": "B",
+      "nazov": "Katedrála sv. Martina",
+      "vyska_m": 87,
+      "rok_dokoncenia": "1510",
+      "typ_stavby": "kostol",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "129",
+      "typ": "B",
+      "nazov": "Europa Business Center",
+      "vyska_m": 87,
+      "rok_dokoncenia": "2008",
+      "typ_stavby": "budova",
+      "miesto": "Banská Bystrica",
+      "poznamka": ""
+    },
+    {
+      "poradie": "132",
+      "typ": "B",
+      "nazov": "Manhattan",
+      "vyska_m": 86,
+      "rok_dokoncenia": "2009",
+      "typ_stavby": "budova",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "133",
+      "typ": "B",
+      "nazov": "Incheba",
+      "vyska_m": 85.6,
+      "rok_dokoncenia": "1985",
+      "typ_stavby": "budova",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "134",
+      "typ": "B",
+      "nazov": "Lakeside Park",
+      "vyska_m": 85,
+      "rok_dokoncenia": "2008",
+      "typ_stavby": "budova",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "134",
+      "typ": "B",
+      "nazov": "Millennium Tower II",
+      "vyska_m": 85,
+      "rok_dokoncenia": "2003",
+      "typ_stavby": "budova",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "134",
+      "typ": "B",
+      "nazov": "Bazilika Sedembolestnej Panny Márie",
+      "vyska_m": 85,
+      "rok_dokoncenia": "1776",
+      "typ_stavby": "kostol",
+      "miesto": "Šaštín-Stráže",
+      "poznamka": ""
+    },
+    {
+      "poradie": "134",
+      "typ": "IS",
+      "nazov": "Komín Malouherskej teplárne",
+      "vyska_m": 85,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Malé Uherce",
+      "poznamka": ""
+    },
+    {
+      "poradie": "138",
+      "typ": "IS",
+      "nazov": "Komín Paroplynovej elektrárne Malženice",
+      "vyska_m": 84,
+      "rok_dokoncenia": "2010",
+      "typ_stavby": "komín",
+      "miesto": "Trakovice",
+      "poznamka": ""
+    },
+    {
+      "poradie": "139",
+      "typ": "B",
+      "nazov": "Centrál",
+      "vyska_m": 83.5,
+      "rok_dokoncenia": "2012",
+      "typ_stavby": "budova",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "140",
+      "typ": "B",
+      "nazov": "Univerzitná nemocnica Louisa Pasteura",
+      "vyska_m": 83,
+      "rok_dokoncenia": "1979",
+      "typ_stavby": "budova",
+      "miesto": "Košice",
+      "poznamka": ""
+    },
+    {
+      "poradie": "141",
+      "typ": "B",
+      "nazov": "Hviezda",
+      "vyska_m": 82,
+      "rok_dokoncenia": "1977",
+      "typ_stavby": "budova",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "141",
+      "typ": "B",
+      "nazov": "Rozadol",
+      "vyska_m": 82,
+      "rok_dokoncenia": "2006",
+      "typ_stavby": "budova",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "143",
+      "typ": "",
+      "nazov": "Komín Považských strojární",
+      "vyska_m": 81,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Považská Bystrica",
+      "poznamka": ""
+    },
+    {
+      "poradie": "144",
+      "typ": "IS",
+      "nazov": "Vysielač Nad oborou",
+      "vyska_m": 81,
+      "rok_dokoncenia": "1976",
+      "typ_stavby": "stožiar",
+      "miesto": "Dolná Súča",
+      "poznamka": ""
+    },
+    {
+      "poradie": "144",
+      "typ": "IS",
+      "nazov": "Vysielač Stebnícka Magura",
+      "vyska_m": 81,
+      "rok_dokoncenia": "1975",
+      "typ_stavby": "stožiar",
+      "miesto": "Bardejov",
+      "poznamka": ""
+    },
+    {
+      "poradie": "146",
+      "typ": "B",
+      "nazov": "RETRO",
+      "vyska_m": 80,
+      "rok_dokoncenia": "2011",
+      "typ_stavby": "budova",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "146",
+      "typ": "B",
+      "nazov": "Dominant",
+      "vyska_m": 80,
+      "rok_dokoncenia": "2008",
+      "typ_stavby": "budova",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "146",
+      "typ": "B",
+      "nazov": "Millennium Tower I",
+      "vyska_m": 80,
+      "rok_dokoncenia": "2001",
+      "typ_stavby": "budova",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "146",
+      "typ": "B",
+      "nazov": "Budova Slovenského rozhlasu",
+      "vyska_m": 80,
+      "rok_dokoncenia": "1985",
+      "typ_stavby": "budova",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "146",
+      "typ": "IS",
+      "nazov": "Komín Tatravagónky",
+      "vyska_m": 80,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Poprad",
+      "poznamka": ""
+    },
+    {
+      "poradie": "146",
+      "typ": "IS",
+      "nazov": "Vysielač Veľká Javorina",
+      "vyska_m": 80,
+      "rok_dokoncenia": "1994",
+      "typ_stavby": "stožiar",
+      "miesto": "Bzince pod Javorinou",
+      "poznamka": ""
+    },
+    {
+      "poradie": "146",
+      "typ": "IS",
+      "nazov": "Vysielač Magurka",
+      "vyska_m": 80,
+      "rok_dokoncenia": "",
+      "typ_stavby": "veža",
+      "miesto": "Vavrečka",
+      "poznamka": ""
+    },
+    {
+      "poradie": "146",
+      "typ": "IS",
+      "nazov": "Komín Železiarne Podbrezová",
+      "vyska_m": 80,
+      "rok_dokoncenia": "1967?",
+      "typ_stavby": "komín",
+      "miesto": "Podbrezová",
+      "poznamka": ""
+    },
+    {
+      "poradie": "146",
+      "typ": "IS",
+      "nazov": "Komín Matadoru",
+      "vyska_m": 80,
+      "rok_dokoncenia": "1974",
+      "typ_stavby": "komín",
+      "miesto": "Púchov",
+      "poznamka": "do roku 2009 120 m"
+    },
+    {
+      "poradie": "155",
+      "typ": "B",
+      "nazov": "Vienna Gate",
+      "vyska_m": 78,
+      "rok_dokoncenia": "2008",
+      "typ_stavby": "budova",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "155",
+      "typ": "B",
+      "nazov": "Stavebná fakulta STU",
+      "vyska_m": 78,
+      "rok_dokoncenia": "1977?",
+      "typ_stavby": "budova",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "155",
+      "typ": "B",
+      "nazov": "Kostol Nanebovzatia Panny Márie",
+      "vyska_m": 78,
+      "rok_dokoncenia": "1888",
+      "typ_stavby": "kostol",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "158",
+      "typ": "B",
+      "nazov": "Amfiteater",
+      "vyska_m": 77.8,
+      "rok_dokoncenia": "2010",
+      "typ_stavby": "budova",
+      "miesto": "Žilina",
+      "poznamka": ""
+    },
+    {
+      "poradie": "159",
+      "typ": "B",
+      "nazov": "Jégého alej",
+      "vyska_m": 77,
+      "rok_dokoncenia": "2009",
+      "typ_stavby": "budova",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "159",
+      "typ": "B",
+      "nazov": "Chrám sv. Jakuba",
+      "vyska_m": 77,
+      "rok_dokoncenia": "1858",
+      "typ_stavby": "kostol",
+      "miesto": "Levoča",
+      "poznamka": ""
+    },
+    {
+      "poradie": "159",
+      "typ": "IS",
+      "nazov": "Vysielač Trebišov",
+      "vyska_m": 77,
+      "rok_dokoncenia": "",
+      "typ_stavby": "silo",
+      "miesto": "Bánovce nad Ondavou",
+      "poznamka": ""
+    },
+    {
+      "poradie": "159",
+      "typ": "B",
+      "nazov": "ESO",
+      "vyska_m": 77,
+      "rok_dokoncenia": "2003",
+      "typ_stavby": "budova",
+      "miesto": "Lučenec",
+      "poznamka": ""
+    },
+    {
+      "poradie": "162",
+      "typ": "B",
+      "nazov": "Apollo Business Center II",
+      "vyska_m": 76.5,
+      "rok_dokoncenia": "2008",
+      "typ_stavby": "budova",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "163",
+      "typ": "B",
+      "nazov": "Universo",
+      "vyska_m": 75,
+      "rok_dokoncenia": "2008",
+      "typ_stavby": "budova",
+      "miesto": "Bratislava",
+      "poznamka": ""
+    },
+    {
+      "poradie": "163",
+      "typ": "IS",
+      "nazov": "Komín Plastika Nitra",
+      "vyska_m": 75,
+      "rok_dokoncenia": "",
+      "typ_stavby": "komín",
+      "miesto": "Nitra",
+      "poznamka": ""
+    }
+  ],
+  "meta": {
+    "title": "Najvyššie stavby na Slovensku - Free Download",
+    "description": "Najvyššie stavby na Slovensku (vysielače, komíny, budovy, veže) s výškou, rokom dokončenia, typom a miestom. Contains 164 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Najvyššie stavby na Slovensku | ListBase",
+    "seo_description": "Download Najvyššie stavby na Slovensku — 164 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 164 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_najvyšších_stavieb_na_Slovensku"
+    ]
+  }
+}
