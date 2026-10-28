@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-28T02:19:10.960Z",
-  "total_datasets": 436,
-  "total_records": 280826,
+  "generated": "2026-10-28T02:19:13.371Z",
+  "total_datasets": 437,
+  "total_records": 280835,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "music",
@@ -4176,6 +4176,31 @@
         "xlsx": {
           "name": "sk-systemy-pisma_SK.xlsx",
           "size": 8720
+        }
+      }
+    },
+    {
+      "id": "sk-generalni-prokuratori",
+      "name": "Generálni prokurátori Slovenskej republiky",
+      "category": "law",
+      "record_count": 9,
+      "columns": [
+        "poradie",
+        "generalny_prokurator",
+        "trvanie_uradu",
+        "volba_v_nr_sr"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Generálna_prokuratúra_Slovenskej_republiky",
+      "updated": "2026-10",
+      "size": 3199,
+      "files": {
+        "csv": {
+          "name": "sk-generalni-prokuratori_SK.csv",
+          "size": 611
+        },
+        "xlsx": {
+          "name": "sk-generalni-prokuratori_SK.xlsx",
+          "size": 7235
         }
       }
     },

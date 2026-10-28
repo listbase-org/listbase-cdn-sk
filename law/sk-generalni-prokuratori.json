@@ -1,0 +1,100 @@
+{
+  "id": "sk-generalni-prokuratori",
+  "name": "Generálni prokurátori Slovenskej republiky",
+  "title": "Generálni prokurátori Slovenskej republiky",
+  "description": "Zoznam generálnych prokurátorov Slovenskej republiky s obdobím trvania úradu a voľbou v NR SR.",
+  "category": "law",
+  "source": "https://sk.wikipedia.org/wiki/Generálna_prokuratúra_Slovenskej_republiky",
+  "source_url": "https://sk.wikipedia.org/wiki/Generálna_prokuratúra_Slovenskej_republiky",
+  "updated": "2026-10",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "poradie",
+      "label": "Poradie",
+      "type": "string"
+    },
+    {
+      "key": "generalny_prokurator",
+      "label": "Generalny Prokurator",
+      "type": "string"
+    },
+    {
+      "key": "trvanie_uradu",
+      "label": "Trvanie Uradu",
+      "type": "string"
+    },
+    {
+      "key": "volba_v_nr_sr",
+      "label": "Volba V Nr Sr",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "poradie": "1.",
+      "generalny_prokurator": "Vojtech Bacho",
+      "trvanie_uradu": "28.08.1990 – 09.11.1994",
+      "volba_v_nr_sr": "1990"
+    },
+    {
+      "poradie": "2.",
+      "generalny_prokurator": "Ľudovít Hudek",
+      "trvanie_uradu": "16.11.1994 – 13.12.1994",
+      "volba_v_nr_sr": "1994"
+    },
+    {
+      "poradie": "3.",
+      "generalny_prokurator": "Michal Vaľo",
+      "trvanie_uradu": "31.01.1995 – 31.01.1999",
+      "volba_v_nr_sr": "1995"
+    },
+    {
+      "poradie": "4.",
+      "generalny_prokurator": "Milan Hanzel",
+      "trvanie_uradu": "01.02.1999 – 31.01.2004",
+      "volba_v_nr_sr": "1999"
+    },
+    {
+      "poradie": "5.",
+      "generalny_prokurator": "Dobroslav Trnka",
+      "trvanie_uradu": "01.02.2004 – 02.02.2011",
+      "volba_v_nr_sr": "2003"
+    },
+    {
+      "poradie": "",
+      "generalny_prokurator": "Ladislav Tichý, (zastupujúci)",
+      "trvanie_uradu": "03.02.2011 – 16.07.2013",
+      "volba_v_nr_sr": ""
+    },
+    {
+      "poradie": "6.",
+      "generalny_prokurator": "Jaromír Čižnár",
+      "trvanie_uradu": "17.07.2013 – 10.08.2020",
+      "volba_v_nr_sr": "2013"
+    },
+    {
+      "poradie": "",
+      "generalny_prokurator": "Viera Kováčiková, (zastupujúca)",
+      "trvanie_uradu": "11.08.2020 – 09.12.2020",
+      "volba_v_nr_sr": ""
+    },
+    {
+      "poradie": "7.",
+      "generalny_prokurator": "Maroš Žilinka",
+      "trvanie_uradu": "10.12.2020 – súčasnosť",
+      "volba_v_nr_sr": "2020"
+    }
+  ],
+  "meta": {
+    "title": "Generálni prokurátori Slovenskej republiky - Free Download",
+    "description": "Zoznam generálnych prokurátorov Slovenskej republiky s obdobím trvania úradu a voľbou v NR SR. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Generálni prokurátori Slovenskej republiky | ListBase",
+    "seo_description": "Download Generálni prokurátori Slovenskej republiky — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Generálna_prokuratúra_Slovenskej_republiky"
+    ]
+  }
+}
