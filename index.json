@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-28T02:19:03.355Z",
-  "total_datasets": 433,
-  "total_records": 280735,
+  "generated": "2026-10-28T02:19:06.202Z",
+  "total_datasets": 434,
+  "total_records": 280768,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -11618,6 +11618,33 @@
         "xlsx": {
           "name": "sk-organizacie-sav_SK.xlsx",
           "size": 10402
+        }
+      }
+    },
+    {
+      "id": "sk-nabozenske-vyznanie-scitanie",
+      "name": "Náboženské vyznanie obyvateľov Slovenska podľa sčítaní (1930–2021)",
+      "category": "society",
+      "record_count": 33,
+      "columns": [
+        "vyznanie",
+        "r2021",
+        "r2011",
+        "r2001",
+        "r1991",
+        "r1930"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Demografia_Slovenska",
+      "updated": "2026-10",
+      "size": 7196,
+      "files": {
+        "csv": {
+          "name": "sk-nabozenske-vyznanie-scitanie_SK.csv",
+          "size": 1937
+        },
+        "xlsx": {
+          "name": "sk-nabozenske-vyznanie-scitanie_SK.xlsx",
+          "size": 8366
         }
       }
     },

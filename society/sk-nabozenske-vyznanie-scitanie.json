@@ -1,0 +1,320 @@
+{
+  "id": "sk-nabozenske-vyznanie-scitanie",
+  "name": "Náboženské vyznanie obyvateľov Slovenska podľa sčítaní (1930–2021)",
+  "title": "Náboženské vyznanie obyvateľov Slovenska podľa sčítaní (1930–2021)",
+  "description": "Počet obyvateľov Slovenska podľa náboženského vyznania v sčítaniach 1930, 1991, 2001, 2011 a 2021.",
+  "category": "society",
+  "source": "https://sk.wikipedia.org/wiki/Demografia_Slovenska",
+  "source_url": "https://sk.wikipedia.org/wiki/Demografia_Slovenska",
+  "updated": "2026-10",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "vyznanie",
+      "label": "Vyznanie",
+      "type": "string"
+    },
+    {
+      "key": "r2021",
+      "label": "R2021",
+      "type": "number"
+    },
+    {
+      "key": "r2011",
+      "label": "R2011",
+      "type": "number"
+    },
+    {
+      "key": "r2001",
+      "label": "R2001",
+      "type": "number"
+    },
+    {
+      "key": "r1991",
+      "label": "R1991",
+      "type": "number"
+    },
+    {
+      "key": "r1930",
+      "label": "R1930",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "vyznanie": "Rímskokatolícka cirkev",
+      "r2021": 3038511,
+      "r2011": 3347277,
+      "r2001": 3708120,
+      "r1991": 3187383,
+      "r1930": 2384355
+    },
+    {
+      "vyznanie": "Evanjelická cirkev a.v",
+      "r2021": 286907,
+      "r2011": 316250,
+      "r2001": 372858,
+      "r1991": 326397,
+      "r1930": 400258
+    },
+    {
+      "vyznanie": "Gréckokatolícka cirkev",
+      "r2021": 218235,
+      "r2011": 206871,
+      "r2001": 219831,
+      "r1991": 178733,
+      "r1930": 214725
+    },
+    {
+      "vyznanie": "Reformovaná kresťanská cirkev",
+      "r2021": 85271,
+      "r2011": 98797,
+      "r2001": 109735,
+      "r1991": 82545,
+      "r1930": 145829
+    },
+    {
+      "vyznanie": "Pravoslávna cirkev",
+      "r2021": 50677,
+      "r2011": 49133,
+      "r2001": 50363,
+      "r1991": 34376,
+      "r1930": 9076
+    },
+    {
+      "vyznanie": "Jehovovi svedkovia",
+      "r2021": 16416,
+      "r2011": 17222,
+      "r2001": 20630,
+      "r1991": 10501,
+      "r1930": ""
+    },
+    {
+      "vyznanie": "Evanjelická cirkev metodistická",
+      "r2021": 3018,
+      "r2011": 10328,
+      "r2001": 7347,
+      "r1991": 4359,
+      "r1930": 152
+    },
+    {
+      "vyznanie": "Kresťanské zbory",
+      "r2021": 18553,
+      "r2011": 7720,
+      "r2001": 6519,
+      "r1991": 700,
+      "r1930": ""
+    },
+    {
+      "vyznanie": "Apoštolská cirkev",
+      "r2021": 9044,
+      "r2011": 5831,
+      "r2001": 3905,
+      "r1991": 1116,
+      "r1930": ""
+    },
+    {
+      "vyznanie": "ostatné nekresťanské cirkvi",
+      "r2021": 4007,
+      "r2011": 3728,
+      "r2001": 812,
+      "r1991": 1220,
+      "r1930": ""
+    },
+    {
+      "vyznanie": "Bratská jednota baptistov",
+      "r2021": 3883,
+      "r2011": 3486,
+      "r2001": 3562,
+      "r1991": 2465,
+      "r1930": 1745
+    },
+    {
+      "vyznanie": "Cirkev bratská",
+      "r2021": 3440,
+      "r2011": 3396,
+      "r2001": 3217,
+      "r1991": 1861,
+      "r1930": 29
+    },
+    {
+      "vyznanie": "Cirkev adventistov siedmeho dňa",
+      "r2021": 3001,
+      "r2011": 2915,
+      "r2001": 3429,
+      "r1991": 1721,
+      "r1930": ""
+    },
+    {
+      "vyznanie": "ostatné kresťanské cirkvi",
+      "r2021": 10811,
+      "r2011": 2703,
+      "r2001": 2030,
+      "r1991": 3625,
+      "r1930": ""
+    },
+    {
+      "vyznanie": "budhizmus",
+      "r2021": 6722,
+      "r2011": 2530,
+      "r2001": 1663,
+      "r1991": "",
+      "r1930": ""
+    },
+    {
+      "vyznanie": "Židovské náboženské obce",
+      "r2021": 2007,
+      "r2011": 1999,
+      "r2001": 2310,
+      "r1991": 912,
+      "r1930": 136737
+    },
+    {
+      "vyznanie": "islam",
+      "r2021": 3862,
+      "r2011": 1934,
+      "r2001": 1212,
+      "r1991": 180,
+      "r1930": ""
+    },
+    {
+      "vyznanie": "Starokatolícka cirkev",
+      "r2021": 1778,
+      "r2011": 1687,
+      "r2001": 1733,
+      "r1991": 882,
+      "r1930": ""
+    },
+    {
+      "vyznanie": "Cirkev československá husitská",
+      "r2021": 581,
+      "r2011": 1782,
+      "r2001": 1696,
+      "r1991": 625,
+      "r1930": 11495
+    },
+    {
+      "vyznanie": "Bahájske spoločenstvo",
+      "r2021": 311,
+      "r2011": 1065,
+      "r2001": "",
+      "r1991": "",
+      "r1930": ""
+    },
+    {
+      "vyznanie": "Cirkev Ježiša Krista Svätých neskorších dní (Mormóni)",
+      "r2021": 377,
+      "r2011": 972,
+      "r2001": 58,
+      "r1991": 91,
+      "r1930": ""
+    },
+    {
+      "vyznanie": "hinduizmus",
+      "r2021": 975,
+      "r2011": 255,
+      "r2001": 193,
+      "r1991": "",
+      "r1930": ""
+    },
+    {
+      "vyznanie": "Novoapoštolská cirkev",
+      "r2021": 73,
+      "r2011": 166,
+      "r2001": 22,
+      "r1991": 188,
+      "r1930": ""
+    },
+    {
+      "vyznanie": "scientologizmus",
+      "r2021": "",
+      "r2011": 134,
+      "r2001": 15,
+      "r1991": "",
+      "r1930": ""
+    },
+    {
+      "vyznanie": "Hnutie zjednotenia",
+      "r2021": "",
+      "r2011": 63,
+      "r2001": 73,
+      "r1991": "",
+      "r1930": ""
+    },
+    {
+      "vyznanie": "Českobratská cirkev evanjelická",
+      "r2021": "",
+      "r2011": 45,
+      "r2001": 169,
+      "r1991": 813,
+      "r1930": ""
+    },
+    {
+      "vyznanie": "Sliezska evanjelická cirkev augsburského vyznania",
+      "r2021": "",
+      "r2011": 7,
+      "r2001": "",
+      "r1991": 127,
+      "r1930": ""
+    },
+    {
+      "vyznanie": "Náboženská spoločnosť čs. unitárov",
+      "r2021": "",
+      "r2011": "",
+      "r2001": 43,
+      "r1991": 13,
+      "r1930": ""
+    },
+    {
+      "vyznanie": "Jednota bratská",
+      "r2021": "",
+      "r2011": "",
+      "r2001": 4,
+      "r1991": 113,
+      "r1930": ""
+    },
+    {
+      "vyznanie": "ad hoc hnutia",
+      "r2021": 16186,
+      "r2011": "",
+      "r2001": "",
+      "r1991": "",
+      "r1930": ""
+    },
+    {
+      "vyznanie": "iné",
+      "r2021": 14685,
+      "r2011": 11941,
+      "r2001": "",
+      "r1991": "",
+      "r1930": ""
+    },
+    {
+      "vyznanie": "bez vyznania",
+      "r2021": 1296142,
+      "r2011": 725362,
+      "r2001": 697308,
+      "r1991": 515551,
+      "r1930": 16890
+    },
+    {
+      "vyznanie": "nezistené",
+      "r2021": 353797,
+      "r2011": 571437,
+      "r2001": 160598,
+      "r1991": 917835,
+      "r1930": ""
+    }
+  ],
+  "meta": {
+    "title": "Náboženské vyznanie obyvateľov Slovenska podľa sčítaní (1930–2021) - Free Download",
+    "description": "Počet obyvateľov Slovenska podľa náboženského vyznania v sčítaniach 1930, 1991, 2001, 2011 a 2021. Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Náboženské vyznanie obyvateľov Slovenska podľa sčítaní (1930–2021) | ListBase",
+    "seo_description": "Download Náboženské vyznanie obyvateľov Slovenska podľa sčítaní (1930–2021) — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Demografia_Slovenska"
+    ]
+  }
+}
