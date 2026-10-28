@@ -1,0 +1,295 @@
+{
+  "id": "sk-materinsky-jazyk-scitanie",
+  "name": "Materinský jazyk obyvateľov Slovenska podľa sčítaní",
+  "title": "Materinský jazyk obyvateľov Slovenska podľa sčítaní",
+  "description": "Počet obyvateľov Slovenska podľa materinského jazyka v sčítaniach 1880–2011.",
+  "category": "language",
+  "source": "https://sk.wikipedia.org/wiki/Demografia_Slovenska",
+  "source_url": "https://sk.wikipedia.org/wiki/Demografia_Slovenska",
+  "updated": "2026-10",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "materinsky_jazyk",
+      "label": "Materinsky Jazyk",
+      "type": "string"
+    },
+    {
+      "key": "r2011",
+      "label": "R2011",
+      "type": "number"
+    },
+    {
+      "key": "r2001",
+      "label": "R2001",
+      "type": "number"
+    },
+    {
+      "key": "r1910",
+      "label": "R1910",
+      "type": "number"
+    },
+    {
+      "key": "r1900",
+      "label": "R1900",
+      "type": "number"
+    },
+    {
+      "key": "r1890",
+      "label": "R1890",
+      "type": "number"
+    },
+    {
+      "key": "r1880",
+      "label": "R1880",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "materinsky_jazyk": "slovenský",
+      "r2011": 4240453,
+      "r2001": 4512217,
+      "r1910": 1688152,
+      "r1900": 1702349,
+      "r1890": 1603642,
+      "r1880": 1502571
+    },
+    {
+      "materinsky_jazyk": "maďarský",
+      "r2011": 508714,
+      "r2001": 572929,
+      "r1910": 885646,
+      "r1900": 749556,
+      "r1890": 633422,
+      "r1880": 546458
+    },
+    {
+      "materinsky_jazyk": "rómsky",
+      "r2011": 122518,
+      "r2001": 99448,
+      "r1910": "",
+      "r1900": "",
+      "r1890": "",
+      "r1880": ""
+    },
+    {
+      "materinsky_jazyk": "rusínsky",
+      "r2011": 55469,
+      "r2001": 54907,
+      "r1910": 97047,
+      "r1900": 84559,
+      "r1890": 84335,
+      "r1880": 78402
+    },
+    {
+      "materinsky_jazyk": "ukrajinský",
+      "r2011": 5689,
+      "r2001": 7879,
+      "r1910": "",
+      "r1900": "",
+      "r1890": "",
+      "r1880": ""
+    },
+    {
+      "materinsky_jazyk": "český",
+      "r2011": 35216,
+      "r2001": 48201,
+      "r1910": 7947,
+      "r1900": "",
+      "r1890": "",
+      "r1880": ""
+    },
+    {
+      "materinsky_jazyk": "nemecký",
+      "r2011": 5186,
+      "r2001": 6343,
+      "r1910": 198387,
+      "r1900": 215816,
+      "r1890": 228860,
+      "r1880": 228584
+    },
+    {
+      "materinsky_jazyk": "poľský",
+      "r2011": 3119,
+      "r2001": 2731,
+      "r1910": "",
+      "r1900": "",
+      "r1890": "",
+      "r1880": ""
+    },
+    {
+      "materinsky_jazyk": "chorvátsky",
+      "r2011": 1234,
+      "r2001": 988,
+      "r1910": 3480,
+      "r1900": 4023,
+      "r1890": 2787,
+      "r1880": 3431
+    },
+    {
+      "materinsky_jazyk": "srbský",
+      "r2011": 834,
+      "r2001": "",
+      "r1910": 722,
+      "r1900": 180,
+      "r1890": 136,
+      "r1880": ""
+    },
+    {
+      "materinsky_jazyk": "rumunský",
+      "r2011": 414,
+      "r2001": "",
+      "r1910": 1905,
+      "r1900": 896,
+      "r1890": 281,
+      "r1880": 259
+    },
+    {
+      "materinsky_jazyk": "slovinský",
+      "r2011": "",
+      "r2001": "",
+      "r1910": 54,
+      "r1900": "",
+      "r1890": 94,
+      "r1880": ""
+    },
+    {
+      "materinsky_jazyk": "jidiš",
+      "r2011": 460,
+      "r2001": 17,
+      "r1910": "",
+      "r1900": "",
+      "r1890": "",
+      "r1880": ""
+    },
+    {
+      "materinsky_jazyk": "bulharský",
+      "r2011": 132,
+      "r2001": "",
+      "r1910": 50,
+      "r1900": "",
+      "r1890": "",
+      "r1880": ""
+    },
+    {
+      "materinsky_jazyk": "ruský",
+      "r2011": 2909,
+      "r2001": "",
+      "r1910": "",
+      "r1900": "",
+      "r1890": "",
+      "r1880": ""
+    },
+    {
+      "materinsky_jazyk": "vietnamský",
+      "r2011": 1562,
+      "r2001": "",
+      "r1910": "",
+      "r1900": "",
+      "r1890": "",
+      "r1880": ""
+    },
+    {
+      "materinsky_jazyk": "anglický",
+      "r2011": 1447,
+      "r2001": "",
+      "r1910": "",
+      "r1900": "",
+      "r1890": "",
+      "r1880": ""
+    },
+    {
+      "materinsky_jazyk": "posunková reč",
+      "r2011": 693,
+      "r2001": "",
+      "r1910": "",
+      "r1900": "",
+      "r1890": "",
+      "r1880": ""
+    },
+    {
+      "materinsky_jazyk": "taliansky",
+      "r2011": 551,
+      "r2001": "",
+      "r1910": 213,
+      "r1900": "",
+      "r1890": "",
+      "r1880": ""
+    },
+    {
+      "materinsky_jazyk": "arabský",
+      "r2011": 434,
+      "r2001": "",
+      "r1910": "",
+      "r1900": "",
+      "r1890": "",
+      "r1880": ""
+    },
+    {
+      "materinsky_jazyk": "francúzsky",
+      "r2011": 433,
+      "r2001": "",
+      "r1910": "",
+      "r1900": "",
+      "r1890": "",
+      "r1880": ""
+    },
+    {
+      "materinsky_jazyk": "albánsky",
+      "r2011": 382,
+      "r2001": "",
+      "r1910": "",
+      "r1900": "",
+      "r1890": "",
+      "r1880": ""
+    },
+    {
+      "materinsky_jazyk": "španielsky",
+      "r2011": 372,
+      "r2001": "",
+      "r1910": "",
+      "r1900": "",
+      "r1890": "",
+      "r1880": ""
+    },
+    {
+      "materinsky_jazyk": "grécky",
+      "r2011": 115,
+      "r2001": "",
+      "r1910": "",
+      "r1900": "",
+      "r1890": "",
+      "r1880": ""
+    },
+    {
+      "materinsky_jazyk": "ostatné",
+      "r2011": 3439,
+      "r2001": 6735,
+      "r1910": 35704,
+      "r1900": 29209,
+      "r1890": 24494,
+      "r1880": 18455
+    },
+    {
+      "materinsky_jazyk": "nezistené",
+      "r2011": 405261,
+      "r2001": 66056,
+      "r1910": "",
+      "r1900": "",
+      "r1890": "",
+      "r1880": 83300
+    }
+  ],
+  "meta": {
+    "title": "Materinský jazyk obyvateľov Slovenska podľa sčítaní - Free Download",
+    "description": "Počet obyvateľov Slovenska podľa materinského jazyka v sčítaniach 1880–2011. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Materinský jazyk obyvateľov Slovenska podľa sčítaní | ListBase",
+    "seo_description": "Download Materinský jazyk obyvateľov Slovenska podľa sčítaní — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Demografia_Slovenska"
+    ]
+  }
+}
