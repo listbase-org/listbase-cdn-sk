@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-28T02:19:08.482Z",
-  "total_datasets": 435,
-  "total_records": 280794,
+  "generated": "2026-10-28T02:19:10.960Z",
+  "total_datasets": 436,
+  "total_records": 280826,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -1075,6 +1075,29 @@
         "xlsx": {
           "name": "sk-zahrady_SK.xlsx",
           "size": 23727
+        }
+      }
+    },
+    {
+      "id": "sk-minimalna-mzda",
+      "name": "Minimálna mzda na Slovensku — vývoj",
+      "category": "economy",
+      "record_count": 32,
+      "columns": [
+        "datum",
+        "minimalna_mzda"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Minimálna_mzda_na_Slovensku",
+      "updated": "2026-10",
+      "size": 4321,
+      "files": {
+        "csv": {
+          "name": "sk-minimalna-mzda_SK.csv",
+          "size": 1276
+        },
+        "xlsx": {
+          "name": "sk-minimalna-mzda_SK.xlsx",
+          "size": 7453
         }
       }
     },
