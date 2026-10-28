@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-27T02:26:32.225Z",
-  "total_datasets": 432,
-  "total_records": 280629,
+  "generated": "2026-10-28T02:19:03.355Z",
+  "total_datasets": 433,
+  "total_records": 280735,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "sports",
@@ -11649,6 +11649,37 @@
         "xlsx": {
           "name": "sk-okresy-obyvatelstvo_SK.xlsx",
           "size": 11969
+        }
+      }
+    },
+    {
+      "id": "sk-prirodzeny-pohyb-obyvatelstva",
+      "name": "Prirodzený pohyb obyvateľstva Slovenska od roku 1919",
+      "category": "society",
+      "record_count": 106,
+      "columns": [
+        "rok",
+        "stredny_stav_tis",
+        "zivonarodeni",
+        "umrtia",
+        "prirodzeny_prirastok",
+        "miera_zivorodenosti_na_1000",
+        "miera_umrtnosti_na_1000",
+        "prirastok_na_1000",
+        "uhrnna_plodnost",
+        "umele_prerusenia_tehotenstva"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Demografia_Slovenska",
+      "updated": "2026-10",
+      "size": 38497,
+      "files": {
+        "csv": {
+          "name": "sk-prirodzeny-pohyb-obyvatelstva_SK.csv",
+          "size": 7645
+        },
+        "xlsx": {
+          "name": "sk-prirodzeny-pohyb-obyvatelstva_SK.xlsx",
+          "size": 13001
         }
       }
     },
