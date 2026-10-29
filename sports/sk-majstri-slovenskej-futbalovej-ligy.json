@@ -1,0 +1,244 @@
+{
+  "id": "sk-majstri-slovenskej-futbalovej-ligy",
+  "name": "Majstri slovenskej futbalovej ligy (od 1993)",
+  "title": "Majstri slovenskej futbalovej ligy (od 1993)",
+  "description": "Prví traja v najvyššej slovenskej futbalovej súťaži (dnes Niké liga) v každej sezóne od roku 1993/94.",
+  "category": "sports",
+  "source": "https://sk.wikipedia.org/wiki/Niké_liga",
+  "source_url": "https://sk.wikipedia.org/wiki/Niké_liga",
+  "updated": "2026-10",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "sezona",
+      "label": "Sezona",
+      "type": "string"
+    },
+    {
+      "key": "majster",
+      "label": "Majster",
+      "type": "string"
+    },
+    {
+      "key": "druhy",
+      "label": "Druhy",
+      "type": "string"
+    },
+    {
+      "key": "treti",
+      "label": "Treti",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sezona": "1993/94",
+      "majster": "ŠK Slovan Bratislava (1)",
+      "druhy": "FK Inter Bratislava",
+      "treti": "DAC Dunajská Streda"
+    },
+    {
+      "sezona": "1994/95",
+      "majster": "ŠK Slovan Bratislava (2)",
+      "druhy": "1. FC Košice",
+      "treti": "FK Inter Bratislava"
+    },
+    {
+      "sezona": "1995/96",
+      "majster": "ŠK Slovan Bratislava (3)",
+      "druhy": "1. FC Košice",
+      "treti": "FC Spartak Trnava"
+    },
+    {
+      "sezona": "1996/97",
+      "majster": "1. FC Košice (1)",
+      "druhy": "FC Spartak Trnava",
+      "treti": "ŠK Slovan Bratislava"
+    },
+    {
+      "sezona": "1997/98",
+      "majster": "1. FC Košice (2)",
+      "druhy": "FC Spartak Trnava",
+      "treti": "FK Inter Bratislava"
+    },
+    {
+      "sezona": "1998/99",
+      "majster": "ŠK Slovan Bratislava (4)",
+      "druhy": "FK Inter Bratislava",
+      "treti": "FC Spartak Trnava"
+    },
+    {
+      "sezona": "1999/00",
+      "majster": "FK Inter Bratislava (1)",
+      "druhy": "1. FC Košice",
+      "treti": "ŠK Slovan Bratislava"
+    },
+    {
+      "sezona": "2000/01",
+      "majster": "FK Inter Bratislava (2)",
+      "druhy": "ŠK Slovan Bratislava",
+      "treti": "MFK Ružomberok"
+    },
+    {
+      "sezona": "2001/02",
+      "majster": "MŠK Žilina (1)",
+      "druhy": "FK Matador Púchov",
+      "treti": "FK Inter Bratislava"
+    },
+    {
+      "sezona": "2002/03",
+      "majster": "MŠK Žilina (2)",
+      "druhy": "Artmedia Petržalka",
+      "treti": "ŠK Slovan Bratislava"
+    },
+    {
+      "sezona": "2003/04",
+      "majster": "MŠK Žilina (3)",
+      "druhy": "FK Dukla Banská Bystrica",
+      "treti": "MFK Ružomberok"
+    },
+    {
+      "sezona": "2004/05",
+      "majster": "Artmedia Bratislava (1)",
+      "druhy": "MŠK Žilina",
+      "treti": "FK Dukla Banská Bystrica"
+    },
+    {
+      "sezona": "2005/06",
+      "majster": "MFK Ružomberok (1)",
+      "druhy": "Artmedia Bratislava",
+      "treti": "FC Spartak Trnava"
+    },
+    {
+      "sezona": "2006/07",
+      "majster": "MŠK Žilina (4)",
+      "druhy": "Artmedia Bratislava",
+      "treti": "ŠK Slovan Bratislava"
+    },
+    {
+      "sezona": "2007/08",
+      "majster": "Artmedia Bratislava (2)",
+      "druhy": "MŠK Žilina",
+      "treti": "FC Nitra"
+    },
+    {
+      "sezona": "2008/09",
+      "majster": "ŠK Slovan Bratislava (5)",
+      "druhy": "MŠK Žilina",
+      "treti": "FC Spartak Trnava"
+    },
+    {
+      "sezona": "2009/10",
+      "majster": "MŠK Žilina (5)",
+      "druhy": "ŠK Slovan Bratislava",
+      "treti": "FK Dukla Banská Bystrica"
+    },
+    {
+      "sezona": "2010/11",
+      "majster": "ŠK Slovan Bratislava (6)",
+      "druhy": "FK Senica",
+      "treti": "MŠK Žilina"
+    },
+    {
+      "sezona": "2011/12",
+      "majster": "MŠK Žilina (6)",
+      "druhy": "FC Spartak Trnava",
+      "treti": "ŠK Slovan Bratislava"
+    },
+    {
+      "sezona": "2012/13",
+      "majster": "ŠK Slovan Bratislava (7)",
+      "druhy": "FK Senica",
+      "treti": "AS Trenčín"
+    },
+    {
+      "sezona": "2013/14",
+      "majster": "ŠK Slovan Bratislava (8)",
+      "druhy": "AS Trenčín",
+      "treti": "FC Spartak Trnava"
+    },
+    {
+      "sezona": "2014/15",
+      "majster": "AS Trenčín (1)",
+      "druhy": "MŠK Žilina",
+      "treti": "ŠK Slovan Bratislava"
+    },
+    {
+      "sezona": "2015/16",
+      "majster": "AS Trenčín (2)",
+      "druhy": "ŠK Slovan Bratislava",
+      "treti": "TJ Spartak Myjava"
+    },
+    {
+      "sezona": "2016/17",
+      "majster": "MŠK Žilina (7)",
+      "druhy": "ŠK Slovan Bratislava",
+      "treti": "MFK Ružomberok"
+    },
+    {
+      "sezona": "2017/18",
+      "majster": "FC Spartak Trnava (1)",
+      "druhy": "ŠK Slovan Bratislava",
+      "treti": "DAC Dunajská Streda"
+    },
+    {
+      "sezona": "2018/19",
+      "majster": "ŠK Slovan Bratislava (9)",
+      "druhy": "DAC Dunajská Streda",
+      "treti": "MFK Ružomberok"
+    },
+    {
+      "sezona": "2019/20",
+      "majster": "ŠK Slovan Bratislava (10)",
+      "druhy": "MŠK Žilina",
+      "treti": "DAC Dunajská Streda"
+    },
+    {
+      "sezona": "2020/21",
+      "majster": "ŠK Slovan Bratislava (11)",
+      "druhy": "DAC Dunajská Streda",
+      "treti": "FC Spartak Trnava"
+    },
+    {
+      "sezona": "2021/22",
+      "majster": "ŠK Slovan Bratislava (12)",
+      "druhy": "MFK Ružomberok",
+      "treti": "FC Spartak Trnava"
+    },
+    {
+      "sezona": "2022/23",
+      "majster": "ŠK Slovan Bratislava (13)",
+      "druhy": "DAC Dunajská Streda",
+      "treti": "FC Spartak Trnava"
+    },
+    {
+      "sezona": "2023/24",
+      "majster": "ŠK Slovan Bratislava (14)",
+      "druhy": "DAC Dunajská Streda",
+      "treti": "FC Spartak Trnava"
+    },
+    {
+      "sezona": "2024/25",
+      "majster": "ŠK Slovan Bratislava (15)",
+      "druhy": "MŠK Žilina",
+      "treti": "FC Spartak Trnava"
+    },
+    {
+      "sezona": "2025/26",
+      "majster": "ŠK Slovan Bratislava (16)",
+      "druhy": "DAC Dunajská Streda",
+      "treti": "FC Spartak Trnava"
+    }
+  ],
+  "meta": {
+    "title": "Majstri slovenskej futbalovej ligy (od 1993) - Free Download",
+    "description": "Prví traja v najvyššej slovenskej futbalovej súťaži (dnes Niké liga) v každej sezóne od roku 1993/94. Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Majstri slovenskej futbalovej ligy (od 1993) | ListBase",
+    "seo_description": "Download Majstri slovenskej futbalovej ligy (od 1993) — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Niké_liga"
+    ]
+  }
+}

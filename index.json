@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-29T02:15:36.749Z",
-  "total_datasets": 438,
-  "total_records": 280882,
+  "generated": "2026-10-29T02:15:39.564Z",
+  "total_datasets": 439,
+  "total_records": 280915,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tech",
@@ -11876,6 +11876,31 @@
         "xlsx": {
           "name": "sk-majstri-slovenska-hokej_SK.xlsx",
           "size": 7883
+        }
+      }
+    },
+    {
+      "id": "sk-majstri-slovenskej-futbalovej-ligy",
+      "name": "Majstri slovenskej futbalovej ligy (od 1993)",
+      "category": "sports",
+      "record_count": 33,
+      "columns": [
+        "sezona",
+        "majster",
+        "druhy",
+        "treti"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Niké_liga",
+      "updated": "2026-10",
+      "size": 6644,
+      "files": {
+        "csv": {
+          "name": "sk-majstri-slovenskej-futbalovej-ligy_SK.csv",
+          "size": 2520
+        },
+        "xlsx": {
+          "name": "sk-majstri-slovenskej-futbalovej-ligy_SK.xlsx",
+          "size": 7880
         }
       }
     },
