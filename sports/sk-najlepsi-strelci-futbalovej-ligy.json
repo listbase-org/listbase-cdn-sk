@@ -1,0 +1,280 @@
+{
+  "id": "sk-najlepsi-strelci-futbalovej-ligy",
+  "name": "Najlepší strelci slovenskej futbalovej ligy",
+  "title": "Najlepší strelci slovenskej futbalovej ligy",
+  "description": "Kanonieri najvyššej slovenskej futbalovej súťaže v jednotlivých sezónach od roku 1994 s klubom a počtom gólov.",
+  "category": "sports",
+  "source": "https://sk.wikipedia.org/wiki/Niké_liga",
+  "source_url": "https://sk.wikipedia.org/wiki/Niké_liga",
+  "updated": "2026-10",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "sezona",
+      "label": "Sezona",
+      "type": "number"
+    },
+    {
+      "key": "strelec",
+      "label": "Strelec",
+      "type": "string"
+    },
+    {
+      "key": "klub",
+      "label": "Klub",
+      "type": "string"
+    },
+    {
+      "key": "goly",
+      "label": "Goly",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "sezona": "1994",
+      "strelec": "Pavol Diňa",
+      "klub": "DAC Dunajská Streda",
+      "goly": 19
+    },
+    {
+      "sezona": "1995",
+      "strelec": "Róbert Semeník",
+      "klub": "Dukla Banská Bystrica",
+      "goly": 18
+    },
+    {
+      "sezona": "1996",
+      "strelec": "Róbert Semeník",
+      "klub": "1. FC Košice",
+      "goly": 29
+    },
+    {
+      "sezona": "1997",
+      "strelec": "Jozef Kožlej",
+      "klub": "1. FC Košice",
+      "goly": 22
+    },
+    {
+      "sezona": "1998",
+      "strelec": "Ľubomír Luhový",
+      "klub": "Spartak Trnava",
+      "goly": 17
+    },
+    {
+      "sezona": "1999",
+      "strelec": "Martin Fabuš",
+      "klub": "Ozeta Dukla Trenčín",
+      "goly": 19
+    },
+    {
+      "sezona": "2000",
+      "strelec": "Szilárd Németh",
+      "klub": "FK Inter Bratislava",
+      "goly": 16
+    },
+    {
+      "sezona": "2001",
+      "strelec": "Szilárd Németh",
+      "klub": "FK Inter Bratislava",
+      "goly": 23
+    },
+    {
+      "sezona": "2002",
+      "strelec": "Marek Mintál",
+      "klub": "MŠK Žilina",
+      "goly": 21
+    },
+    {
+      "sezona": "2003",
+      "strelec": "Marek Mintál",
+      "klub": "MŠK Žilina",
+      "goly": 20
+    },
+    {
+      "sezona": "2003",
+      "strelec": "Martin Fabuš",
+      "klub": "Laugaricio Trenčín / MŠK Žilina",
+      "goly": 20
+    },
+    {
+      "sezona": "2004",
+      "strelec": "Roland Števko",
+      "klub": "MFK Ružomberok",
+      "goly": 17
+    },
+    {
+      "sezona": "2005",
+      "strelec": "Filip Šebo",
+      "klub": "Artmedia Petržalka",
+      "goly": 22
+    },
+    {
+      "sezona": "2006",
+      "strelec": "Erik Jendrišek",
+      "klub": "MFK Ružomberok",
+      "goly": 21
+    },
+    {
+      "sezona": "2006",
+      "strelec": "Róbert Rák",
+      "klub": "FC Nitra",
+      "goly": 21
+    },
+    {
+      "sezona": "2007",
+      "strelec": "Tomáš Oravec",
+      "klub": "Artmedia Petržalka",
+      "goly": 16
+    },
+    {
+      "sezona": "2008",
+      "strelec": "Ján Novák",
+      "klub": "MFK Košice",
+      "goly": 17
+    },
+    {
+      "sezona": "2009",
+      "strelec": "Pavol Masaryk",
+      "klub": "ŠK Slovan Bratislava",
+      "goly": 15
+    },
+    {
+      "sezona": "2010",
+      "strelec": "Róbert Rák",
+      "klub": "FC Nitra",
+      "goly": 18
+    },
+    {
+      "sezona": "2011",
+      "strelec": "Filip Šebo",
+      "klub": "ŠK Slovan Bratislava",
+      "goly": 22
+    },
+    {
+      "sezona": "2012",
+      "strelec": "Pavol Masaryk",
+      "klub": "MFK Ružomberok",
+      "goly": 18
+    },
+    {
+      "sezona": "2013",
+      "strelec": "/ David Depetris",
+      "klub": "AS Trenčín",
+      "goly": 16
+    },
+    {
+      "sezona": "2014",
+      "strelec": "Tomáš Malec",
+      "klub": "AS Trenčín",
+      "goly": 14
+    },
+    {
+      "sezona": "2015",
+      "strelec": "Jan Kalabiška",
+      "klub": "FK Senica",
+      "goly": 19
+    },
+    {
+      "sezona": "2015",
+      "strelec": "Matej Jelič",
+      "klub": "MŠK Žilina",
+      "goly": 19
+    },
+    {
+      "sezona": "2016",
+      "strelec": "Gino van Kessel",
+      "klub": "AS Trenčín",
+      "goly": 17
+    },
+    {
+      "sezona": "2017",
+      "strelec": "Seydouba Soumah",
+      "klub": "ŠK Slovan Bratislava",
+      "goly": 20
+    },
+    {
+      "sezona": "2017",
+      "strelec": "Filip Hlohovský",
+      "klub": "MŠK Žilina",
+      "goly": 20
+    },
+    {
+      "sezona": "2018",
+      "strelec": "Samuel Mráz",
+      "klub": "MŠK Žilina",
+      "goly": 19
+    },
+    {
+      "sezona": "2019",
+      "strelec": "Andraž Šporar",
+      "klub": "ŠK Slovan Bratislava",
+      "goly": 29
+    },
+    {
+      "sezona": "2020",
+      "strelec": "Andraž Šporar",
+      "klub": "ŠK Slovan Bratislava",
+      "goly": 12
+    },
+    {
+      "sezona": "2021",
+      "strelec": "Dawid Kurminowski",
+      "klub": "MŠK Žilina",
+      "goly": 19
+    },
+    {
+      "sezona": "2022",
+      "strelec": "Jakub Kadák",
+      "klub": "AS Trenčín",
+      "goly": 13
+    },
+    {
+      "sezona": "2023",
+      "strelec": "Nikola Krstović",
+      "klub": "DAC Dunajská Streda",
+      "goly": 18
+    },
+    {
+      "sezona": "2024",
+      "strelec": "Tigran Barseghjan",
+      "klub": "ŠK Slovan Bratislava",
+      "goly": 13
+    },
+    {
+      "sezona": "2024",
+      "strelec": "Róbert Polievka",
+      "klub": "FK Dukla Banská Bystrica",
+      "goly": 13
+    },
+    {
+      "sezona": "2025",
+      "strelec": "David Strelec",
+      "klub": "ŠK Slovan Bratislava",
+      "goly": 20
+    },
+    {
+      "sezona": "2025",
+      "strelec": "Tigran Barseghjan",
+      "klub": "ŠK Slovan Bratislava",
+      "goly": 20
+    },
+    {
+      "sezona": "2026",
+      "strelec": "Michal Faško",
+      "klub": "MŠK Žilina",
+      "goly": 14
+    }
+  ],
+  "meta": {
+    "title": "Najlepší strelci slovenskej futbalovej ligy - Free Download",
+    "description": "Kanonieri najvyššej slovenskej futbalovej súťaže v jednotlivých sezónach od roku 1994 s klubom a počtom gólov. Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Najlepší strelci slovenskej futbalovej ligy | ListBase",
+    "seo_description": "Download Najlepší strelci slovenskej futbalovej ligy — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Niké_liga"
+    ]
+  }
+}

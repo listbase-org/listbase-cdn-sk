@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-29T02:15:39.564Z",
-  "total_datasets": 439,
-  "total_records": 280915,
+  "generated": "2026-10-29T02:15:41.904Z",
+  "total_datasets": 440,
+  "total_records": 280954,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tech",
@@ -11901,6 +11901,31 @@
         "xlsx": {
           "name": "sk-majstri-slovenskej-futbalovej-ligy_SK.xlsx",
           "size": 7880
+        }
+      }
+    },
+    {
+      "id": "sk-najlepsi-strelci-futbalovej-ligy",
+      "name": "Najlepší strelci slovenskej futbalovej ligy",
+      "category": "sports",
+      "record_count": 39,
+      "columns": [
+        "sezona",
+        "strelec",
+        "klub",
+        "goly"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Niké_liga",
+      "updated": "2026-10",
+      "size": 6385,
+      "files": {
+        "csv": {
+          "name": "sk-najlepsi-strelci-futbalovej-ligy_SK.csv",
+          "size": 1924
+        },
+        "xlsx": {
+          "name": "sk-najlepsi-strelci-futbalovej-ligy_SK.xlsx",
+          "size": 8107
         }
       }
     },
