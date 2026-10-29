@@ -1,0 +1,511 @@
+{
+  "id": "sk-dvojtisicovky",
+  "name": "Dvojtisícovky na Slovensku",
+  "title": "Dvojtisícovky na Slovensku",
+  "description": "Vrchy na Slovensku s nadmorskou výškou nad 2 000 m – výška, relatívna výška, pohorie a turistická prístupnosť.",
+  "category": "geography",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_dvojtisícoviek_na_Slovensku",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_dvojtisícoviek_na_Slovensku",
+  "updated": "2026-10",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "poradie",
+      "label": "Poradie",
+      "type": "number"
+    },
+    {
+      "key": "vrch",
+      "label": "Vrch",
+      "type": "string"
+    },
+    {
+      "key": "vyska_m",
+      "label": "Vyska M",
+      "type": "number"
+    },
+    {
+      "key": "relativna_vyska_m",
+      "label": "Relativna Vyska M",
+      "type": "number"
+    },
+    {
+      "key": "materky_vrch",
+      "label": "Materky Vrch",
+      "type": "string"
+    },
+    {
+      "key": "pohorie",
+      "label": "Pohorie",
+      "type": "string"
+    },
+    {
+      "key": "pristup",
+      "label": "Pristup",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradie": 1,
+      "vrch": "Gerlachovský štít",
+      "vyska_m": 2655,
+      "relativna_vyska_m": 2355,
+      "materky_vrch": "Mont Blanc",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 2,
+      "vrch": "Lomnický štít",
+      "vyska_m": 2634,
+      "relativna_vyska_m": 442,
+      "materky_vrch": "Gerlachovský štít",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "lanovkou"
+    },
+    {
+      "poradie": 3,
+      "vrch": "Ľadový štít",
+      "vyska_m": 2627,
+      "relativna_vyska_m": 286,
+      "materky_vrch": "Lomnický štít",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 4,
+      "vrch": "Pyšný štít",
+      "vyska_m": 2623,
+      "relativna_vyska_m": 111,
+      "materky_vrch": "Lomnický štít",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 5,
+      "vrch": "Kežmarský štít",
+      "vyska_m": 2556,
+      "relativna_vyska_m": 143,
+      "materky_vrch": "Lomnický štít",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 6,
+      "vrch": "Vysoká",
+      "vyska_m": 2547,
+      "relativna_vyska_m": 292,
+      "materky_vrch": "Gerlachovský štít",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 7,
+      "vrch": "Končistá",
+      "vyska_m": 2538,
+      "relativna_vyska_m": 205,
+      "materky_vrch": "Gerlachovský štít",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 8,
+      "vrch": "Baranie rohy",
+      "vyska_m": 2526,
+      "relativna_vyska_m": 137,
+      "materky_vrch": "Pyšný štít",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 9,
+      "vrch": "Rysy",
+      "vyska_m": 2503,
+      "relativna_vyska_m": 163,
+      "materky_vrch": "Vysoká",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "áno"
+    },
+    {
+      "poradie": 10,
+      "vrch": "Kriváň",
+      "vyska_m": 2495,
+      "relativna_vyska_m": 400,
+      "materky_vrch": "Gerlachovský štít",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "áno"
+    },
+    {
+      "poradie": 11,
+      "vrch": "Bradavica",
+      "vyska_m": 2476,
+      "relativna_vyska_m": 276,
+      "materky_vrch": "Gerlachovský štít",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 12,
+      "vrch": "Gánok",
+      "vyska_m": 2462,
+      "relativna_vyska_m": 182,
+      "materky_vrch": "Vysoká",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 13,
+      "vrch": "Slavkovský štít",
+      "vyska_m": 2452,
+      "relativna_vyska_m": 178,
+      "materky_vrch": "Bradavica",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "áno"
+    },
+    {
+      "poradie": 14,
+      "vrch": "Prostredný hrot",
+      "vyska_m": 2441,
+      "relativna_vyska_m": 131,
+      "materky_vrch": "Ľadový štít",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 15,
+      "vrch": "Hrubý vrch",
+      "vyska_m": 2428,
+      "relativna_vyska_m": 252,
+      "materky_vrch": "Kriváň",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 16,
+      "vrch": "Mengusovský štít",
+      "vyska_m": 2424,
+      "relativna_vyska_m": 207,
+      "materky_vrch": "Vysoká",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 17,
+      "vrch": "Satan",
+      "vyska_m": 2421,
+      "relativna_vyska_m": 182,
+      "materky_vrch": "Hrubý vrch",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 18,
+      "vrch": "Kolový štít",
+      "vyska_m": 2418,
+      "relativna_vyska_m": 161,
+      "materky_vrch": "Lomnický štít",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 19,
+      "vrch": "Javorový štít",
+      "vyska_m": 2417,
+      "relativna_vyska_m": 168,
+      "materky_vrch": "Ľadový štít",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 20,
+      "vrch": "Veľké Solisko",
+      "vyska_m": 2413,
+      "relativna_vyska_m": 113,
+      "materky_vrch": "Hrubý vrch",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 21,
+      "vrch": "Štrbský štít",
+      "vyska_m": 2381,
+      "relativna_vyska_m": 131,
+      "materky_vrch": "Satan",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 22,
+      "vrch": "Krátka",
+      "vyska_m": 2374,
+      "relativna_vyska_m": 105,
+      "materky_vrch": "Hrubý vrch",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 23,
+      "vrch": "Kôprovský štít",
+      "vyska_m": 2363,
+      "relativna_vyska_m": 113,
+      "materky_vrch": "Mengusovský štít",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "áno"
+    },
+    {
+      "poradie": 24,
+      "vrch": "Svinica",
+      "vyska_m": 2301,
+      "relativna_vyska_m": 351,
+      "materky_vrch": "Gerlachovský štít",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "áno"
+    },
+    {
+      "poradie": 25,
+      "vrch": "Tupá",
+      "vyska_m": 2284,
+      "relativna_vyska_m": 117,
+      "materky_vrch": "Končistá",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 26,
+      "vrch": "Bystrá",
+      "vyska_m": 2248,
+      "relativna_vyska_m": 562,
+      "materky_vrch": "Gerlachovský štít",
+      "pohorie": "Západné Tatry",
+      "pristup": "áno"
+    },
+    {
+      "poradie": 27,
+      "vrch": "Jahňací štít",
+      "vyska_m": 2230,
+      "relativna_vyska_m": 140,
+      "materky_vrch": "Kolový štít",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "áno"
+    },
+    {
+      "poradie": 28,
+      "vrch": "Široká",
+      "vyska_m": 2210,
+      "relativna_vyska_m": 172,
+      "materky_vrch": "Javorový štít",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 29,
+      "vrch": "Jakubina",
+      "vyska_m": 2194,
+      "relativna_vyska_m": 256,
+      "materky_vrch": "Bystrá",
+      "pohorie": "Západné Tatry",
+      "pristup": "áno"
+    },
+    {
+      "poradie": 30,
+      "vrch": "Baranec",
+      "vyska_m": 2184,
+      "relativna_vyska_m": 362,
+      "materky_vrch": "Bystrá",
+      "pohorie": "Západné Tatry",
+      "pristup": "áno"
+    },
+    {
+      "poradie": 31,
+      "vrch": "Baníkov",
+      "vyska_m": 2178,
+      "relativna_vyska_m": 261,
+      "materky_vrch": "Baranec",
+      "pohorie": "Západné Tatry",
+      "pristup": "áno"
+    },
+    {
+      "poradie": 32,
+      "vrch": "Klin",
+      "vyska_m": 2173,
+      "relativna_vyska_m": 219,
+      "materky_vrch": "Jakubina",
+      "pohorie": "Západné Tatry",
+      "pristup": "áno"
+    },
+    {
+      "poradie": 33,
+      "vrch": "Pachoľa",
+      "vyska_m": 2167,
+      "relativna_vyska_m": 128,
+      "materky_vrch": "Baníkov",
+      "pohorie": "Západné Tatry",
+      "pristup": "áno"
+    },
+    {
+      "poradie": 34,
+      "vrch": "Hrubá kopa",
+      "vyska_m": 2166,
+      "relativna_vyska_m": 101,
+      "materky_vrch": "Baníkov",
+      "pohorie": "Západné Tatry",
+      "pristup": "áno"
+    },
+    {
+      "poradie": 35,
+      "vrch": "Nižná Bystrá",
+      "vyska_m": 2162,
+      "relativna_vyska_m": 137,
+      "materky_vrch": "Bystrá",
+      "pohorie": "Západné Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 36,
+      "vrch": "Havran",
+      "vyska_m": 2152,
+      "relativna_vyska_m": 402,
+      "materky_vrch": "Lomnický štít",
+      "pohorie": "Belianske Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 37,
+      "vrch": "Ždiarska vidla",
+      "vyska_m": 2142,
+      "relativna_vyska_m": 167,
+      "materky_vrch": "Havran",
+      "pohorie": "Belianske Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 38,
+      "vrch": "Veľká Kamenistá",
+      "vyska_m": 2127,
+      "relativna_vyska_m": 335,
+      "materky_vrch": "Bystrá",
+      "pohorie": "Západné Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 39,
+      "vrch": "Plačlivé",
+      "vyska_m": 2125,
+      "relativna_vyska_m": 160,
+      "materky_vrch": "Baníkov",
+      "pohorie": "Západné Tatry",
+      "pristup": "áno"
+    },
+    {
+      "poradie": 40,
+      "vrch": "Kresanica",
+      "vyska_m": 2122,
+      "relativna_vyska_m": 323,
+      "materky_vrch": "Svinica",
+      "pohorie": "Západné Tatry",
+      "pristup": "áno"
+    },
+    {
+      "poradie": 41,
+      "vrch": "Ostrý Roháč",
+      "vyska_m": 2088,
+      "relativna_vyska_m": 123,
+      "materky_vrch": "Plačlivé",
+      "pohorie": "Západné Tatry",
+      "pristup": "áno"
+    },
+    {
+      "poradie": 42,
+      "vrch": "Smrek",
+      "vyska_m": 2072,
+      "relativna_vyska_m": 127,
+      "materky_vrch": "Baranec",
+      "pohorie": "Západné Tatry",
+      "pristup": "áno"
+    },
+    {
+      "poradie": 43,
+      "vrch": "Smrečiny",
+      "vyska_m": 2068,
+      "relativna_vyska_m": 155,
+      "materky_vrch": "Veľká Kamenistá",
+      "pohorie": "Západné Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 44,
+      "vrch": "Volovec",
+      "vyska_m": 2063,
+      "relativna_vyska_m": 153,
+      "materky_vrch": "Plačlivé",
+      "pohorie": "Západné Tatry",
+      "pristup": "áno"
+    },
+    {
+      "poradie": 45,
+      "vrch": "Hlúpy",
+      "vyska_m": 2061,
+      "relativna_vyska_m": 235,
+      "materky_vrch": "Havran",
+      "pohorie": "Belianske Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 46,
+      "vrch": "Veľká kopa",
+      "vyska_m": 2052,
+      "relativna_vyska_m": 175,
+      "materky_vrch": "Svinica",
+      "pohorie": "Západné Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 47,
+      "vrch": "Salatín",
+      "vyska_m": 2048,
+      "relativna_vyska_m": 133,
+      "materky_vrch": "Baníkov",
+      "pohorie": "Západné Tatry",
+      "pristup": "áno"
+    },
+    {
+      "poradie": 48,
+      "vrch": "Ďumbier",
+      "vyska_m": 2043,
+      "relativna_vyska_m": 1143,
+      "materky_vrch": "Gerlachovský štít",
+      "pohorie": "Nízke Tatry",
+      "pristup": "áno"
+    },
+    {
+      "poradie": 49,
+      "vrch": "Krížna",
+      "vyska_m": 2039,
+      "relativna_vyska_m": 144,
+      "materky_vrch": "Veľká kopa",
+      "pohorie": "Vysoké Tatry",
+      "pristup": "nie"
+    },
+    {
+      "poradie": 50,
+      "vrch": "Chopok",
+      "vyska_m": 2024,
+      "relativna_vyska_m": 268,
+      "materky_vrch": "Ďumbier",
+      "pohorie": "Nízke Tatry",
+      "pristup": "áno"
+    }
+  ],
+  "meta": {
+    "title": "Dvojtisícovky na Slovensku - Free Download",
+    "description": "Vrchy na Slovensku s nadmorskou výškou nad 2 000 m – výška, relatívna výška, pohorie a turistická prístupnosť. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Dvojtisícovky na Slovensku | ListBase",
+    "seo_description": "Download Dvojtisícovky na Slovensku — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_dvojtisícoviek_na_Slovensku"
+    ]
+  }
+}

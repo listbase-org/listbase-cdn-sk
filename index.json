@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-29T02:15:44.070Z",
-  "total_datasets": 441,
-  "total_records": 280995,
+  "generated": "2026-10-29T02:15:46.509Z",
+  "total_datasets": 442,
+  "total_records": 281045,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 48
+      "dataset_count": 49
     },
     {
       "id": "health",
@@ -2392,6 +2392,34 @@
         "xlsx": {
           "name": "sk-bratislavsky-obce-rozsirene_SK.xlsx",
           "size": 12549
+        }
+      }
+    },
+    {
+      "id": "sk-dvojtisicovky",
+      "name": "Dvojtisícovky na Slovensku",
+      "category": "geography",
+      "record_count": 50,
+      "columns": [
+        "poradie",
+        "vrch",
+        "vyska_m",
+        "relativna_vyska_m",
+        "materky_vrch",
+        "pohorie",
+        "pristup"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_dvojtisícoviek_na_Slovensku",
+      "updated": "2026-10",
+      "size": 12533,
+      "files": {
+        "csv": {
+          "name": "sk-dvojtisicovky_SK.csv",
+          "size": 3575
+        },
+        "xlsx": {
+          "name": "sk-dvojtisicovky_SK.xlsx",
+          "size": 8963
         }
       }
     },
