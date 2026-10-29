@@ -1,0 +1,338 @@
+{
+  "id": "sk-synagogy",
+  "name": "Synagógy na Slovensku",
+  "title": "Synagógy na Slovensku",
+  "description": "Zoznam zachovaných synagóg na Slovensku s mestom, krajom, rokom dokončenia a súčasným využitím.",
+  "category": "culture",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_synagóg_na_Slovensku",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_synagóg_na_Slovensku",
+  "updated": "2026-10",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "mesto",
+      "label": "Mesto",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "rok_dokoncenia",
+      "label": "Rok Dokoncenia",
+      "type": "number"
+    },
+    {
+      "key": "poznamka",
+      "label": "Poznamka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "mesto": "Bánovce nad Bebravou",
+      "kraj": "Trenčiansky",
+      "nazov": "Synagóga",
+      "rok_dokoncenia": "1862",
+      "poznamka": "Obnovená; slúži evanjelickému a.v. zboru"
+    },
+    {
+      "mesto": "Banská Štiavnica",
+      "kraj": "Banskobystrický",
+      "nazov": "Synagóga",
+      "rok_dokoncenia": "1893",
+      "poznamka": "Obnovená; slúži ako pivovar"
+    },
+    {
+      "mesto": "Bardejov",
+      "kraj": "Prešovský",
+      "nazov": "Stará synagóga",
+      "rok_dokoncenia": "1836",
+      "poznamka": "Obnovená"
+    },
+    {
+      "mesto": "Bardejov",
+      "kraj": "Prešovský",
+      "nazov": "Synagóga Chevra Bikur Cholim",
+      "rok_dokoncenia": "1929",
+      "poznamka": "Obnovená so zachovaným vnútorným vybavením"
+    },
+    {
+      "mesto": "Bratislava",
+      "kraj": "Bratislavský",
+      "nazov": "Ortodoxná synagóga",
+      "rok_dokoncenia": "1923",
+      "poznamka": "Dodnes využívaná na náboženské účely"
+    },
+    {
+      "mesto": "Bytča",
+      "kraj": "Žilinský",
+      "nazov": "Synagóga",
+      "rok_dokoncenia": "1886",
+      "poznamka": "V zlom stave; pripravuje sa obnova"
+    },
+    {
+      "mesto": "Halič",
+      "kraj": "Banskobystrický",
+      "nazov": "Synagóga",
+      "rok_dokoncenia": "2. polovica 19. stor. (cca. 1875)",
+      "poznamka": "Obnovená, slúži evanjelickému a.v. zboru"
+    },
+    {
+      "mesto": "Kokava nad Rimavicou",
+      "kraj": "Banskobystrický",
+      "nazov": "Synagóga",
+      "rok_dokoncenia": "1900",
+      "poznamka": ""
+    },
+    {
+      "mesto": "Košice",
+      "kraj": "Košický",
+      "nazov": "Stará ortodoxná synagóga",
+      "rok_dokoncenia": "1899",
+      "poznamka": "Postupná obnova; využívaná na príležitostné kultúrne podujatia"
+    },
+    {
+      "mesto": "Košice",
+      "kraj": "Košický",
+      "nazov": "Synagóga chasidov",
+      "rok_dokoncenia": "1920",
+      "poznamka": "Radikálne prestavaná; slúži ako vedecké pracovisko"
+    },
+    {
+      "mesto": "Košice",
+      "kraj": "Košický",
+      "nazov": "Nová ortodoxná synagóga",
+      "rok_dokoncenia": "1927",
+      "poznamka": "Dodnes využívaná na náboženské účely"
+    },
+    {
+      "mesto": "Košice",
+      "kraj": "Košický",
+      "nazov": "Neologická synagóga",
+      "rok_dokoncenia": "1927",
+      "poznamka": "Sídlo Štátnej filharmónie Košice"
+    },
+    {
+      "mesto": "Kráľovský Chlmec",
+      "kraj": "Košický",
+      "nazov": "Synagóga",
+      "rok_dokoncenia": "1850",
+      "poznamka": "Opustená, chátra"
+    },
+    {
+      "mesto": "Levice",
+      "kraj": "Nitriansky",
+      "nazov": "Synagóga",
+      "rok_dokoncenia": "1853",
+      "poznamka": "Obnovená; slúži ako kultúrny dom"
+    },
+    {
+      "mesto": "Liptovský Mikuláš",
+      "kraj": "Žilinský",
+      "nazov": "Synagóga",
+      "rok_dokoncenia": "1846",
+      "poznamka": "Obnovená; slúži ako výstavný priestor"
+    },
+    {
+      "mesto": "Lučenec",
+      "kraj": "Banskobystrický",
+      "nazov": "Neologická synagóga",
+      "rok_dokoncenia": "1925",
+      "poznamka": "Obnovená; slúži na kultúrne podujatia"
+    },
+    {
+      "mesto": "Malacky",
+      "kraj": "Bratislavský",
+      "nazov": "Synagóga",
+      "rok_dokoncenia": "1886",
+      "poznamka": "Slúži ZUŠ"
+    },
+    {
+      "mesto": "Modra",
+      "kraj": "Bratislavský",
+      "nazov": "Synagóga",
+      "rok_dokoncenia": "1902",
+      "poznamka": "V súkromnom vlastníctve; slúži ako ateliér"
+    },
+    {
+      "mesto": "Nitra",
+      "kraj": "Nitriansky",
+      "nazov": "Synagóga",
+      "rok_dokoncenia": "1911",
+      "poznamka": "Obnovená; slúži na kultúrne podujatia"
+    },
+    {
+      "mesto": "Nové Zámky",
+      "kraj": "Nitriansky",
+      "nazov": "Synagóga",
+      "rok_dokoncenia": "1880",
+      "poznamka": "Dodnes slúži na náboženské účely"
+    },
+    {
+      "mesto": "Prešov",
+      "kraj": "Prešovský",
+      "nazov": "Neologická synagóga",
+      "rok_dokoncenia": "1887",
+      "poznamka": "Slúži ako obchod"
+    },
+    {
+      "mesto": "Prešov",
+      "kraj": "Prešovský",
+      "nazov": "Ortodoxná synagóga",
+      "rok_dokoncenia": "1898",
+      "poznamka": "Dodnes slúži na náboženské účely"
+    },
+    {
+      "mesto": "Prešov",
+      "kraj": "Prešovský",
+      "nazov": "Klaus-synagóga",
+      "rok_dokoncenia": "1935",
+      "poznamka": "Obnovená; vo vlastníctve ŽNO Prešov"
+    },
+    {
+      "mesto": "Raslavice",
+      "kraj": "Prešovský",
+      "nazov": "Synagóga",
+      "rok_dokoncenia": "1937",
+      "poznamka": "Obnovená; slúži ako infocentrum a galéria"
+    },
+    {
+      "mesto": "Rohožník",
+      "kraj": "Bratislavský",
+      "nazov": "Synagóga",
+      "rok_dokoncenia": "cca. 1850",
+      "poznamka": "Obnovená; slúži ako kultúrny a výstavný priestor"
+    },
+    {
+      "mesto": "Ružomberok",
+      "kraj": "Žilinský",
+      "nazov": "Synagóga",
+      "rok_dokoncenia": "1880",
+      "poznamka": "Obnovená; slúži ako kultúrny priestor"
+    },
+    {
+      "mesto": "Šahy",
+      "kraj": "Nitriansky",
+      "nazov": "Synagóga status quo ante",
+      "rok_dokoncenia": "1852",
+      "poznamka": "Obnovená; slúži ako galéria"
+    },
+    {
+      "mesto": "Šahy",
+      "kraj": "Nitriansky",
+      "nazov": "Ortodoxná synagóga",
+      "rok_dokoncenia": "1929",
+      "poznamka": "Obnovená"
+    },
+    {
+      "mesto": "Šamorín",
+      "kraj": "Trnavský",
+      "nazov": "Synagóga",
+      "rok_dokoncenia": "1912",
+      "poznamka": "Obnovená; slúži ako galéria"
+    },
+    {
+      "mesto": "Šaštín-Stráže",
+      "kraj": "Trnavský",
+      "nazov": "Synagóga",
+      "rok_dokoncenia": "1852",
+      "poznamka": "Vo veľmi zlom stave; existujú plány na jej obnovu"
+    },
+    {
+      "mesto": "Senec",
+      "kraj": "Bratislavský",
+      "nazov": "Synagóga",
+      "rok_dokoncenia": "cca 1875",
+      "poznamka": "Obnovená; slúži na kultúrno-spoločenské účely"
+    },
+    {
+      "mesto": "Spišské Podhradie",
+      "kraj": "Prešovský",
+      "nazov": "Synagóga",
+      "rok_dokoncenia": "1875",
+      "poznamka": "Obnovená; slúži na kultúrne podujatia"
+    },
+    {
+      "mesto": "Stupava",
+      "kraj": "Bratislavský",
+      "nazov": "Synagóga",
+      "rok_dokoncenia": "1803",
+      "poznamka": "Obnovená; slúži na kultúrne podujatia"
+    },
+    {
+      "mesto": "Šurany",
+      "kraj": "Nitriansky",
+      "nazov": "Synagóga",
+      "rok_dokoncenia": "1916",
+      "poznamka": "Sídlo mestského múzea"
+    },
+    {
+      "mesto": "Svätý Jur",
+      "kraj": "Bratislavský",
+      "nazov": "Synagóga",
+      "rok_dokoncenia": "cca 1790",
+      "poznamka": "Vo veľmi zlom stave; plánuje sa rekonštrukcia"
+    },
+    {
+      "mesto": "Trenčín",
+      "kraj": "Trenčín",
+      "nazov": "Neologická synagóga",
+      "rok_dokoncenia": "1913",
+      "poznamka": "Slúži ako kultúrne stredisko"
+    },
+    {
+      "mesto": "Trnava",
+      "kraj": "Trnavský",
+      "nazov": "Ortodoxná synagóga",
+      "rok_dokoncenia": "1892",
+      "poznamka": "Slúži ako kaviareň a kultúrne stredisko"
+    },
+    {
+      "mesto": "Trnava",
+      "kraj": "Trnavský",
+      "nazov": "Synagóga status quo ante",
+      "rok_dokoncenia": "1897",
+      "poznamka": "Slúži ako kultúrne stredisko s výstavou JUDAICA"
+    },
+    {
+      "mesto": "Trstená",
+      "kraj": "Žilinský",
+      "nazov": "Synagóga",
+      "rok_dokoncenia": "1839",
+      "poznamka": "Slúži ako obchod"
+    },
+    {
+      "mesto": "Vrbové",
+      "kraj": "Trnavský",
+      "nazov": "Synagóga",
+      "rok_dokoncenia": "1883",
+      "poznamka": "Chátra; pripravuje sa rekonštrukcia"
+    },
+    {
+      "mesto": "Žilina",
+      "kraj": "Žilinský",
+      "nazov": "Neologická synagóga",
+      "rok_dokoncenia": "1931",
+      "poznamka": "Slúži ako kultúrny a výstavný priestor"
+    }
+  ],
+  "meta": {
+    "title": "Synagógy na Slovensku - Free Download",
+    "description": "Zoznam zachovaných synagóg na Slovensku s mestom, krajom, rokom dokončenia a súčasným využitím. Contains 41 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Synagógy na Slovensku | ListBase",
+    "seo_description": "Download Synagógy na Slovensku — 41 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 41 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_synagóg_na_Slovensku"
+    ]
+  }
+}

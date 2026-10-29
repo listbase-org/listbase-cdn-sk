@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-29T02:15:41.904Z",
-  "total_datasets": 440,
-  "total_records": 280954,
+  "generated": "2026-10-29T02:15:44.070Z",
+  "total_datasets": 441,
+  "total_records": 280995,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "economy",
@@ -1015,6 +1015,32 @@
         "xlsx": {
           "name": "sk-svetove-dedicstvo-unesco_SK.xlsx",
           "size": 9303
+        }
+      }
+    },
+    {
+      "id": "sk-synagogy",
+      "name": "Synagógy na Slovensku",
+      "category": "culture",
+      "record_count": 41,
+      "columns": [
+        "mesto",
+        "kraj",
+        "nazov",
+        "rok_dokoncenia",
+        "poznamka"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_synagóg_na_Slovensku",
+      "updated": "2026-10",
+      "size": 9546,
+      "files": {
+        "csv": {
+          "name": "sk-synagogy_SK.csv",
+          "size": 3819
+        },
+        "xlsx": {
+          "name": "sk-synagogy_SK.xlsx",
+          "size": 8802
         }
       }
     },
