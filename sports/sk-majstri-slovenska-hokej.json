@@ -1,0 +1,276 @@
+{
+  "id": "sk-majstri-slovenska-hokej",
+  "name": "Majstri Slovenska v ľadovom hokeji",
+  "title": "Majstri Slovenska v ľadovom hokeji",
+  "description": "Víťazi slovenských majstrovstiev v ľadovom hokeji mužov v rokoch 1930–1945 a víťazi slovenskej extraligy od roku 1993.",
+  "category": "sports",
+  "source": "https://sk.wikipedia.org/wiki/Majstri_Slovenska_v_ľadovom_hokeji",
+  "source_url": "https://sk.wikipedia.org/wiki/Majstri_Slovenska_v_ľadovom_hokeji",
+  "updated": "2026-10",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "sezona",
+      "label": "Sezona",
+      "type": "string"
+    },
+    {
+      "key": "majster",
+      "label": "Majster",
+      "type": "string"
+    },
+    {
+      "key": "obdobie",
+      "label": "Obdobie",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sezona": "1929/30",
+      "majster": "Ski Klub Bratislava",
+      "obdobie": "V rokoch 1930 - 1945"
+    },
+    {
+      "sezona": "1930/31",
+      "majster": "1. ČsŠK Košice",
+      "obdobie": "V rokoch 1930 - 1945"
+    },
+    {
+      "sezona": "1931/32",
+      "majster": "Slávia Prešov",
+      "obdobie": "V rokoch 1930 - 1945"
+    },
+    {
+      "sezona": "1932/33",
+      "majster": "HC Poprad",
+      "obdobie": "V rokoch 1930 - 1945"
+    },
+    {
+      "sezona": "1933/34",
+      "majster": "HC Poprad",
+      "obdobie": "V rokoch 1930 - 1945"
+    },
+    {
+      "sezona": "1934/35",
+      "majster": "HC Poprad",
+      "obdobie": "V rokoch 1930 - 1945"
+    },
+    {
+      "sezona": "1935/36",
+      "majster": "HC Tatry",
+      "obdobie": "V rokoch 1930 - 1945"
+    },
+    {
+      "sezona": "1936/37",
+      "majster": "VŠ Bratislava",
+      "obdobie": "V rokoch 1930 - 1945"
+    },
+    {
+      "sezona": "1939/40",
+      "majster": "VŠ Bratislava",
+      "obdobie": "V rokoch 1930 - 1945"
+    },
+    {
+      "sezona": "1940/41",
+      "majster": "ŠK Bratislava",
+      "obdobie": "V rokoch 1930 - 1945"
+    },
+    {
+      "sezona": "1941/42",
+      "majster": "ŠK Bratislava",
+      "obdobie": "V rokoch 1930 - 1945"
+    },
+    {
+      "sezona": "1942/43",
+      "majster": "OAP Bratislava",
+      "obdobie": "V rokoch 1930 - 1945"
+    },
+    {
+      "sezona": "1943/44",
+      "majster": "OAP Bratislava",
+      "obdobie": "V rokoch 1930 - 1945"
+    },
+    {
+      "sezona": "1944/45",
+      "majster": "HC Bratislava",
+      "obdobie": "V rokoch 1930 - 1945"
+    },
+    {
+      "sezona": "1992/93",
+      "majster": "Dukla Trenčín",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "1993/94",
+      "majster": "Dukla Trenčín",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "1994/95",
+      "majster": "HC Košice",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "1995/96",
+      "majster": "HC Košice",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "1996/97",
+      "majster": "Dukla Trenčín",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "1997/98",
+      "majster": "HC Slovan Harvard Bratislava",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "1998/99",
+      "majster": "HC VSŽ Košice",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "1999/00",
+      "majster": "HC Slovan Harvard Bratislava",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2000/01",
+      "majster": "HKm Zvolen",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2001/02",
+      "majster": "HC Slovan Harvard Bratislava",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2002/03",
+      "majster": "HC Slovan Harvard Bratislava",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2003/04",
+      "majster": "Dukla Trenčín",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2004/05",
+      "majster": "HC Slovan Slovnaft Bratislava",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2005/06",
+      "majster": "MsHK Žilina",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2006/07",
+      "majster": "HC Slovan Bratislava",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2007/08",
+      "majster": "HC Slovan Bratislava",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2008/09",
+      "majster": "HC Košice",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2009/10",
+      "majster": "HC Košice",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2010/11",
+      "majster": "HC Košice",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2011/12",
+      "majster": "HC Slovan Bratislava",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2012/13",
+      "majster": "HKM Zvolen",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2013/14",
+      "majster": "HC Košice",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2014/15",
+      "majster": "HC Košice",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2015/16",
+      "majster": "HK Nitra",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2016/17",
+      "majster": "HC ’05 iClinic Banská Bystrica",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2017/18",
+      "majster": "HC ’05 iClinic Banská Bystrica",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2018/19",
+      "majster": "HC ’05 iClinic Banská Bystrica",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2020/21",
+      "majster": "HKM Zvolen",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2021/22",
+      "majster": "HC Slovan Bratislava",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2022/23",
+      "majster": "HC Košice",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2023/24",
+      "majster": "HK Nitra",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2024/25",
+      "majster": "HC Košice",
+      "obdobie": "Od roku 1993"
+    },
+    {
+      "sezona": "2025/26",
+      "majster": "HK Nitra",
+      "obdobie": "Od roku 1993"
+    }
+  ],
+  "meta": {
+    "title": "Majstri Slovenska v ľadovom hokeji - Free Download",
+    "description": "Víťazi slovenských majstrovstiev v ľadovom hokeji mužov v rokoch 1930–1945 a víťazi slovenskej extraligy od roku 1993. Contains 47 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Majstri Slovenska v ľadovom hokeji | ListBase",
+    "seo_description": "Download Majstri Slovenska v ľadovom hokeji — 47 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 47 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Majstri_Slovenska_v_ľadovom_hokeji"
+    ]
+  }
+}
