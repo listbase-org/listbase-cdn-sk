@@ -1,0 +1,328 @@
+{
+  "id": "sk-najodoberanejsi-youtuberi",
+  "name": "Najodoberanejší slovenskí youtuberi",
+  "title": "Najodoberanejší slovenskí youtuberi",
+  "description": "Rebríček slovenských YouTube kanálov s najväčším počtom odberateľov, s počtom zhliadnutí a dátumom vytvorenia kanála.",
+  "category": "entertainment",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_najodoberanejších_slovenských_youtuberov",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_najodoberanejších_slovenských_youtuberov",
+  "updated": "2026-10",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "poradie",
+      "label": "Poradie",
+      "type": "number"
+    },
+    {
+      "key": "kanal",
+      "label": "Kanal",
+      "type": "string"
+    },
+    {
+      "key": "youtuber",
+      "label": "Youtuber",
+      "type": "string"
+    },
+    {
+      "key": "pocet_odberatelov",
+      "label": "Pocet Odberatelov",
+      "type": "string"
+    },
+    {
+      "key": "pocet_zhliadnuti",
+      "label": "Pocet Zhliadnuti",
+      "type": "string"
+    },
+    {
+      "key": "datum_vytvorenia",
+      "label": "Datum Vytvorenia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradie": 1,
+      "kanal": "Peter PlutaX",
+      "youtuber": "Peter PlutaX",
+      "pocet_odberatelov": "3,2 milióna",
+      "pocet_zhliadnuti": "1,897 miliardy",
+      "datum_vytvorenia": "28. apríl 2010"
+    },
+    {
+      "poradie": 2,
+      "kanal": "ANGRY EARTH",
+      "youtuber": "František Czanner",
+      "pocet_odberatelov": "1,9 milióna",
+      "pocet_zhliadnuti": "1,541 miliardy",
+      "datum_vytvorenia": "15. marec 2008"
+    },
+    {
+      "poradie": 3,
+      "kanal": "FCK THEM",
+      "youtuber": "",
+      "pocet_odberatelov": "1,83 milióna",
+      "pocet_zhliadnuti": "1,049 miliardy",
+      "datum_vytvorenia": "3. apríl 2012"
+    },
+    {
+      "poradie": 4,
+      "kanal": "GoGoManTV",
+      "youtuber": "GoGo",
+      "pocet_odberatelov": "1,77 milióna",
+      "pocet_zhliadnuti": "628 miliónov",
+      "datum_vytvorenia": "11. júl 2010"
+    },
+    {
+      "poradie": 5,
+      "kanal": "StudioMoonTV",
+      "youtuber": "Moon",
+      "pocet_odberatelov": "1,21 milióna",
+      "pocet_zhliadnuti": "549 miliónov",
+      "datum_vytvorenia": "2. január 2014"
+    },
+    {
+      "poradie": 6,
+      "kanal": "Asimister",
+      "youtuber": "Asimister",
+      "pocet_odberatelov": "1,1 milióna",
+      "pocet_zhliadnuti": "876 miliónov",
+      "datum_vytvorenia": "14. august 2008"
+    },
+    {
+      "poradie": 7,
+      "kanal": "Expl0ited",
+      "youtuber": "Expl0ited",
+      "pocet_odberatelov": "981 tisíc",
+      "pocet_zhliadnuti": "302 miliónov",
+      "datum_vytvorenia": "10. január 2013"
+    },
+    {
+      "poradie": 8,
+      "kanal": "Duklock",
+      "youtuber": "Duklock",
+      "pocet_odberatelov": "970 tisíc",
+      "pocet_zhliadnuti": "446 miliónov",
+      "datum_vytvorenia": "29. október 2013"
+    },
+    {
+      "poradie": 9,
+      "kanal": "menameselassie",
+      "youtuber": "Selassie",
+      "pocet_odberatelov": "818 tisíc",
+      "pocet_zhliadnuti": "320 miliónov",
+      "datum_vytvorenia": "3. november 2012"
+    },
+    {
+      "poradie": 10,
+      "kanal": "Silvia Solymosyová",
+      "youtuber": "Silvia Solymosyová",
+      "pocet_odberatelov": "759 tisíc",
+      "pocet_zhliadnuti": "1,116 miliardy",
+      "datum_vytvorenia": "12. júl 2016"
+    },
+    {
+      "poradie": 11,
+      "kanal": "Lucia Mikušová",
+      "youtuber": "Lucia Mikušová",
+      "pocet_odberatelov": "715 tisíc",
+      "pocet_zhliadnuti": "382 miliónov",
+      "datum_vytvorenia": "3. august 2023"
+    },
+    {
+      "poradie": 12,
+      "kanal": "Klarisa",
+      "youtuber": "Klarisa",
+      "pocet_odberatelov": "502 tisíc",
+      "pocet_zhliadnuti": "146 miliónov",
+      "datum_vytvorenia": "19. august 2015"
+    },
+    {
+      "poradie": 13,
+      "kanal": "Naked Bananas",
+      "youtuber": "Naked Bananas",
+      "pocet_odberatelov": "487 tisíc",
+      "pocet_zhliadnuti": "241 miliónov",
+      "datum_vytvorenia": "31. marec 2016"
+    },
+    {
+      "poradie": 14,
+      "kanal": "DuklockPlus",
+      "youtuber": "Duklock",
+      "pocet_odberatelov": "478 tisíc",
+      "pocet_zhliadnuti": "166 miliónov",
+      "datum_vytvorenia": "2. máj 2015"
+    },
+    {
+      "poradie": 15,
+      "kanal": "Martina Horňáková",
+      "youtuber": "Martina Horňáková",
+      "pocet_odberatelov": "453 tisíc",
+      "pocet_zhliadnuti": "97 miliónov",
+      "datum_vytvorenia": "16. augusta 2012"
+    },
+    {
+      "poradie": 16,
+      "kanal": "Mesiac",
+      "youtuber": "Moon",
+      "pocet_odberatelov": "437 tisíc",
+      "pocet_zhliadnuti": "67 miliónov",
+      "datum_vytvorenia": "27. jún 2014"
+    },
+    {
+      "poradie": 17,
+      "kanal": "tomigains",
+      "youtuber": "tomigains",
+      "pocet_odberatelov": "394 tisíc",
+      "pocet_zhliadnuti": "2 milióny",
+      "datum_vytvorenia": "1. decembra 2018"
+    },
+    {
+      "poradie": 18,
+      "kanal": "Zrebny & Frlajs & Mojmir",
+      "youtuber": "Zrebny, Frlajs, Mojmir",
+      "pocet_odberatelov": "358 tisíc",
+      "pocet_zhliadnuti": "155 miliónov",
+      "datum_vytvorenia": "14. február 2016"
+    },
+    {
+      "poradie": 19,
+      "kanal": "To je ten náš Matúš",
+      "youtuber": "TJTN Matúš/To je ten náš Matúš",
+      "pocet_odberatelov": "349 tisíc",
+      "pocet_zhliadnuti": "46 miliónov",
+      "datum_vytvorenia": "26. august 2014"
+    },
+    {
+      "poradie": 20,
+      "kanal": "Zitron_Citron",
+      "youtuber": "Zitron_Citron",
+      "pocet_odberatelov": "321 tisíc",
+      "pocet_zhliadnuti": "57 miliónov",
+      "datum_vytvorenia": "24. marec 2020"
+    },
+    {
+      "poradie": 21,
+      "kanal": "FiFqo",
+      "youtuber": "FiFqo",
+      "pocet_odberatelov": "305 tisíc",
+      "pocet_zhliadnuti": "225 miliónov",
+      "datum_vytvorenia": "5. novembra 2014"
+    },
+    {
+      "poradie": 22,
+      "kanal": "Lady Zika",
+      "youtuber": "Lady Zika",
+      "pocet_odberatelov": "304 tisíc",
+      "pocet_zhliadnuti": "106 miliónov",
+      "datum_vytvorenia": "26. máj 2015"
+    },
+    {
+      "poradie": 23,
+      "kanal": "SK Adventures",
+      "youtuber": "Peťo",
+      "pocet_odberatelov": "294 tisíc",
+      "pocet_zhliadnuti": "56 miliónov",
+      "datum_vytvorenia": "8. marec 2019"
+    },
+    {
+      "poradie": 24,
+      "kanal": "Basta Fix",
+      "youtuber": "Basta Fix",
+      "pocet_odberatelov": "295 tisíc",
+      "pocet_zhliadnuti": "269 miliónov",
+      "datum_vytvorenia": "3. december 2012"
+    },
+    {
+      "poradie": 25,
+      "kanal": "PPPíter",
+      "youtuber": "PPPíter",
+      "pocet_odberatelov": "290 tisíc",
+      "pocet_zhliadnuti": "53 miliónov",
+      "datum_vytvorenia": "30. december 2017"
+    },
+    {
+      "poradie": 26,
+      "kanal": "Denisa Vyšňovská",
+      "youtuber": "Denisa Vyšňovská",
+      "pocet_odberatelov": "286 tisíc",
+      "pocet_zhliadnuti": "541 miliónov",
+      "datum_vytvorenia": "14. mája 2015"
+    },
+    {
+      "poradie": 27,
+      "kanal": "JurajVie",
+      "youtuber": "Juraj Šlauka",
+      "pocet_odberatelov": "238 tisíc",
+      "pocet_zhliadnuti": "47 miliónov",
+      "datum_vytvorenia": "5. marec 2017"
+    },
+    {
+      "poradie": 28,
+      "kanal": "Evžen",
+      "youtuber": "Evžen",
+      "pocet_odberatelov": "231 tisíc",
+      "pocet_zhliadnuti": "65 miliónov",
+      "datum_vytvorenia": "31. august 2011"
+    },
+    {
+      "poradie": 29,
+      "kanal": "Dejepis Inak",
+      "youtuber": "Sandra Sviteková",
+      "pocet_odberatelov": "229 tisíc",
+      "pocet_zhliadnuti": "28 miliónov",
+      "datum_vytvorenia": "27. jún 2016"
+    },
+    {
+      "poradie": 30,
+      "kanal": "Mačka Jackie",
+      "youtuber": "Moon",
+      "pocet_odberatelov": "213 tisíc",
+      "pocet_zhliadnuti": "6 miliónov",
+      "datum_vytvorenia": "24. augusta 2017"
+    },
+    {
+      "poradie": 31,
+      "kanal": "2SekundovyMato",
+      "youtuber": "2SekundovyMato",
+      "pocet_odberatelov": "190 tisíc",
+      "pocet_zhliadnuti": "32 miliónov",
+      "datum_vytvorenia": "29. máj 2019"
+    },
+    {
+      "poradie": 32,
+      "kanal": "SelassieExtra",
+      "youtuber": "Selassie",
+      "pocet_odberatelov": "189 tisíc",
+      "pocet_zhliadnuti": "26 miliónov",
+      "datum_vytvorenia": "20. novembra 2013"
+    },
+    {
+      "poradie": 33,
+      "kanal": "Matej Zrebny",
+      "youtuber": "Matej Zrebny",
+      "pocet_odberatelov": "174 tisíc",
+      "pocet_zhliadnuti": "141 miliónov",
+      "datum_vytvorenia": "13. september 2021"
+    },
+    {
+      "poradie": 34,
+      "kanal": "Mountain General",
+      "youtuber": "Mountain General",
+      "pocet_odberatelov": "145 tisíc",
+      "pocet_zhliadnuti": "39 miliónov",
+      "datum_vytvorenia": "5. Október 2018"
+    }
+  ],
+  "meta": {
+    "title": "Najodoberanejší slovenskí youtuberi - Free Download",
+    "description": "Rebríček slovenských YouTube kanálov s najväčším počtom odberateľov, s počtom zhliadnutí a dátumom vytvorenia kanála. Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Najodoberanejší slovenskí youtuberi | ListBase",
+    "seo_description": "Download Najodoberanejší slovenskí youtuberi — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_najodoberanejších_slovenských_youtuberov"
+    ]
+  }
+}

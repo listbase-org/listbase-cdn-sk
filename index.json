@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-29T02:15:46.509Z",
-  "total_datasets": 442,
-  "total_records": 281045,
+  "generated": "2026-10-30T02:13:55.532Z",
+  "total_datasets": 443,
+  "total_records": 281079,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "environment",
@@ -1616,6 +1616,33 @@
         "xlsx": {
           "name": "sk-knihkupectva_SK.xlsx",
           "size": 12581
+        }
+      }
+    },
+    {
+      "id": "sk-najodoberanejsi-youtuberi",
+      "name": "Najodoberanejší slovenskí youtuberi",
+      "category": "entertainment",
+      "record_count": 34,
+      "columns": [
+        "poradie",
+        "kanal",
+        "youtuber",
+        "pocet_odberatelov",
+        "pocet_zhliadnuti",
+        "datum_vytvorenia"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_najodoberanejších_slovenských_youtuberov",
+      "updated": "2026-10",
+      "size": 9600,
+      "files": {
+        "csv": {
+          "name": "sk-najodoberanejsi-youtuberi_SK.csv",
+          "size": 2839
+        },
+        "xlsx": {
+          "name": "sk-najodoberanejsi-youtuberi_SK.xlsx",
+          "size": 8741
         }
       }
     },
