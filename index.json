@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-30T02:14:09.557Z",
-  "total_datasets": 445,
-  "total_records": 281205,
+  "generated": "2026-10-30T02:14:16.240Z",
+  "total_datasets": 446,
+  "total_records": 281471,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -4096,6 +4096,32 @@
         "xlsx": {
           "name": "sk-archeologicke-lokality_SK.xlsx",
           "size": 25365
+        }
+      }
+    },
+    {
+      "id": "sk-popraveni-z-politickych-dovodov",
+      "name": "Osoby popravené z politických dôvodov v komunistickom Československu",
+      "category": "history",
+      "record_count": 266,
+      "columns": [
+        "meno",
+        "datum_narodenia",
+        "datum_popravy",
+        "miesto_popravy",
+        "poznamka"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_osôb_popravených_z_politických_dôvodov_v_komunistickom_Československu",
+      "updated": "2026-10",
+      "size": 50919,
+      "files": {
+        "csv": {
+          "name": "sk-popraveni-z-politickych-dovodov_SK.csv",
+          "size": 16681
+        },
+        "xlsx": {
+          "name": "sk-popraveni-z-politickych-dovodov_SK.xlsx",
+          "size": 17168
         }
       }
     },
