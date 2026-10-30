@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-30T02:14:16.240Z",
-  "total_datasets": 446,
-  "total_records": 281471,
+  "generated": "2026-10-30T02:14:24.307Z",
+  "total_datasets": 447,
+  "total_records": 281624,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "transport",
@@ -12735,6 +12735,40 @@
         "xlsx": {
           "name": "sk-hotely_SK.xlsx",
           "size": 39779
+        }
+      }
+    },
+    {
+      "id": "sk-rozhladne",
+      "name": "Rozhľadne na Slovensku",
+      "category": "tourism",
+      "record_count": 153,
+      "columns": [
+        "rozhladna",
+        "oblast",
+        "nadmorska_vyska_m",
+        "vyska_m",
+        "vznik",
+        "povodny_ucel",
+        "material",
+        "obec",
+        "okres",
+        "kraj",
+        "lat",
+        "lon",
+        "stav"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_rozhľadní_na_Slovensku",
+      "updated": "2026-10",
+      "size": 62740,
+      "files": {
+        "csv": {
+          "name": "sk-rozhladne_SK.csv",
+          "size": 24633
+        },
+        "xlsx": {
+          "name": "sk-rozhladne_SK.xlsx",
+          "size": 20508
         }
       }
     },
