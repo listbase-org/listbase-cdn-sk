@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-30T02:14:02.362Z",
-  "total_datasets": 444,
-  "total_records": 281129,
+  "generated": "2026-10-30T02:14:09.557Z",
+  "total_datasets": 445,
+  "total_records": 281205,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -1150,6 +1150,37 @@
         "xlsx": {
           "name": "sk-ministri-hospodarstva_SK.xlsx",
           "size": 8208
+        }
+      }
+    },
+    {
+      "id": "sk-obchodne-retazce",
+      "name": "Obchodné reťazce pôsobiace na Slovensku",
+      "category": "economy",
+      "record_count": 76,
+      "columns": [
+        "nazov",
+        "segment",
+        "format",
+        "pocet_predajni",
+        "k_datumu",
+        "trzby_mil_eur",
+        "zisk_mil_eur",
+        "obdobie",
+        "majitel",
+        "povod"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_obchodných_reťazcov_pôsobiacich_na_Slovensku",
+      "updated": "2026-10",
+      "size": 25708,
+      "files": {
+        "csv": {
+          "name": "sk-obchodne-retazce_SK.csv",
+          "size": 8350
+        },
+        "xlsx": {
+          "name": "sk-obchodne-retazce_SK.xlsx",
+          "size": 11662
         }
       }
     },
