@@ -1,0 +1,456 @@
+{
+  "id": "sk-najsledovanejsie-hudobne-videa-youtube",
+  "name": "Najsledovanejšie slovenské hudobné videá na YouTube",
+  "title": "Najsledovanejšie slovenské hudobné videá na YouTube",
+  "description": "Rebríček 50 najsledovanejších slovenských hudobných videí na YouTube s interpretom, počtom zhliadnutí (v miliónoch), kanálom a dátumom zverejnenia.",
+  "category": "music",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_najsledovanejších_slovenských_hudobných_videí_na_YouTube",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_najsledovanejších_slovenských_hudobných_videí_na_YouTube",
+  "updated": "2026-10",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "poradie",
+      "label": "Poradie",
+      "type": "number"
+    },
+    {
+      "key": "nazov_videa",
+      "label": "Nazov Videa",
+      "type": "string"
+    },
+    {
+      "key": "interpret",
+      "label": "Interpret",
+      "type": "string"
+    },
+    {
+      "key": "zhliadnutia_mil",
+      "label": "Zhliadnutia Mil",
+      "type": "number"
+    },
+    {
+      "key": "youtube_kanal",
+      "label": "Youtube Kanal",
+      "type": "string"
+    },
+    {
+      "key": "datum_zverejnenia",
+      "label": "Datum Zverejnenia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradie": 1,
+      "nazov_videa": "Na hada",
+      "interpret": "Spievankovo",
+      "zhliadnutia_mil": 197.8,
+      "youtube_kanal": "SPIEVANKOVO",
+      "datum_zverejnenia": "2. marec 2018"
+    },
+    {
+      "poradie": 2,
+      "nazov_videa": "Poník",
+      "interpret": "FÍHA tralala",
+      "zhliadnutia_mil": 193.5,
+      "youtube_kanal": "FÍHA tralala",
+      "datum_zverejnenia": "19. september 2016"
+    },
+    {
+      "poradie": 3,
+      "nazov_videa": "Slon",
+      "interpret": "PACI PAC",
+      "zhliadnutia_mil": 140,
+      "youtube_kanal": "PACI PAC",
+      "datum_zverejnenia": "4. november 2016"
+    },
+    {
+      "poradie": 4,
+      "nazov_videa": "Bum bác",
+      "interpret": "FÍHA tralala",
+      "zhliadnutia_mil": 133.7,
+      "youtube_kanal": "FÍHA tralala",
+      "datum_zverejnenia": "27. október 2012"
+    },
+    {
+      "poradie": 5,
+      "nazov_videa": "Balón",
+      "interpret": "Miro Jaroš",
+      "zhliadnutia_mil": 115.8,
+      "youtube_kanal": "Galgan Music",
+      "datum_zverejnenia": "1. október 2018"
+    },
+    {
+      "poradie": 6,
+      "nazov_videa": "Žijeme len raz",
+      "interpret": "Ego & Robert Burian",
+      "zhliadnutia_mil": 103,
+      "youtube_kanal": "Ruka Hore",
+      "datum_zverejnenia": "21. jún 2012"
+    },
+    {
+      "poradie": 7,
+      "nazov_videa": "Vlk a kozliatka",
+      "interpret": "Smejko a Tanculienka",
+      "zhliadnutia_mil": 82.2,
+      "youtube_kanal": "Smejko a Tanculienka",
+      "datum_zverejnenia": "17. november 2014"
+    },
+    {
+      "poradie": 8,
+      "nazov_videa": "Aj ja rád papám",
+      "interpret": "FÍHA tralala",
+      "zhliadnutia_mil": 68.1,
+      "youtube_kanal": "FÍHA tralala",
+      "datum_zverejnenia": "3. september 2015"
+    },
+    {
+      "poradie": 9,
+      "nazov_videa": "Vlk a zajačik",
+      "interpret": "Smejko a Tanculienka",
+      "zhliadnutia_mil": 60.2,
+      "youtube_kanal": "Smejko a Tanculienka",
+      "datum_zverejnenia": "29. júl 2018"
+    },
+    {
+      "poradie": 10,
+      "nazov_videa": "Ta ne",
+      "interpret": "Kristína",
+      "zhliadnutia_mil": 52.9,
+      "youtube_kanal": "Kristína Peláková",
+      "datum_zverejnenia": "6. júl 2015"
+    },
+    {
+      "poradie": 11,
+      "nazov_videa": "Bim Bam Bom",
+      "interpret": "Smejko a Tanculienka",
+      "zhliadnutia_mil": 48.1,
+      "youtube_kanal": "Smejko a Tanculienka",
+      "datum_zverejnenia": "23. marec 2019"
+    },
+    {
+      "poradie": 12,
+      "nazov_videa": "Tri prasiatka",
+      "interpret": "Smejko a Tanculienka",
+      "zhliadnutia_mil": 46.9,
+      "youtube_kanal": "Smejko a Tanculienka",
+      "datum_zverejnenia": "8. september 2017"
+    },
+    {
+      "poradie": 13,
+      "nazov_videa": "Primetime",
+      "interpret": "Majk Spirit",
+      "zhliadnutia_mil": 45.9,
+      "youtube_kanal": "Majk Spirit",
+      "datum_zverejnenia": "5. máj 2015"
+    },
+    {
+      "poradie": 14,
+      "nazov_videa": "Štefan / Stephen / Штефан",
+      "interpret": "Hrdza",
+      "zhliadnutia_mil": 44.3,
+      "youtube_kanal": "Hrdza",
+      "datum_zverejnenia": "7. december 2018"
+    },
+    {
+      "poradie": 15,
+      "nazov_videa": "Cardas Mix - Selen selen / Narov mamo narov ( covers )",
+      "interpret": "Kotlar band",
+      "zhliadnutia_mil": 42.6,
+      "youtube_kanal": "Milos Juriga",
+      "datum_zverejnenia": "13. apríl 2023"
+    },
+    {
+      "poradie": 16,
+      "nazov_videa": "Ahoj Ahoj",
+      "interpret": "Smejko a Tanculienka",
+      "zhliadnutia_mil": 41.5,
+      "youtube_kanal": "Smejko a Tanculienka",
+      "datum_zverejnenia": "17. november 2017"
+    },
+    {
+      "poradie": 17,
+      "nazov_videa": "Spolu",
+      "interpret": "Sima",
+      "zhliadnutia_mil": 41,
+      "youtube_kanal": "SIMA Official",
+      "datum_zverejnenia": "6. jún 2018"
+    },
+    {
+      "poradie": 18,
+      "nazov_videa": "Nikto",
+      "interpret": "Kali a Peter Pann",
+      "zhliadnutia_mil": 39.4,
+      "youtube_kanal": "KALI RECORDS",
+      "datum_zverejnenia": "14. december 2014"
+    },
+    {
+      "poradie": 19,
+      "nazov_videa": "Cítim vôňu lesa (Borovička)",
+      "interpret": "Emily & Justice",
+      "zhliadnutia_mil": 39.2,
+      "youtube_kanal": "B RECORDS",
+      "datum_zverejnenia": "1. júl 2016"
+    },
+    {
+      "poradie": 20,
+      "nazov_videa": "Šteniatko",
+      "interpret": "Miro Jaroš",
+      "zhliadnutia_mil": 38,
+      "youtube_kanal": "Galgan Music",
+      "datum_zverejnenia": "19. jún 2016"
+    },
+    {
+      "poradie": 21,
+      "nazov_videa": "Padam",
+      "interpret": "Ben Cristovao feat. Mária Čírová",
+      "zhliadnutia_mil": 37.5,
+      "youtube_kanal": "Ben Cristovao",
+      "datum_zverejnenia": "22. február 2018"
+    },
+    {
+      "poradie": 22,
+      "nazov_videa": "Ve Frontě Na Sny",
+      "interpret": "Tereza Kerndlová feat. Kali",
+      "zhliadnutia_mil": 36.1,
+      "youtube_kanal": "Tereza Kerndlova Official",
+      "datum_zverejnenia": "13. september 2019"
+    },
+    {
+      "poradie": 23,
+      "nazov_videa": "Dosnívané [Nový začiatok]",
+      "interpret": "Kali",
+      "zhliadnutia_mil": 35.8,
+      "youtube_kanal": "KALI RECORDS",
+      "datum_zverejnenia": "6. september 2015"
+    },
+    {
+      "poradie": 24,
+      "nazov_videa": "Sestričky Farbičky",
+      "interpret": "Smejko a Tanculienka",
+      "zhliadnutia_mil": 35.8,
+      "youtube_kanal": "Smejko a Tanculienka",
+      "datum_zverejnenia": "21. október 2017"
+    },
+    {
+      "poradie": 25,
+      "nazov_videa": "Klbko ide do sveta",
+      "interpret": "Smejko a Tanculienka",
+      "zhliadnutia_mil": 35.1,
+      "youtube_kanal": "Smejko a Tanculienka",
+      "datum_zverejnenia": "29. december 2018"
+    },
+    {
+      "poradie": 26,
+      "nazov_videa": "Moje telo",
+      "interpret": "Miro Jaroš",
+      "zhliadnutia_mil": 34.9,
+      "youtube_kanal": "Galgan Music",
+      "datum_zverejnenia": "14. august 2017"
+    },
+    {
+      "poradie": 27,
+      "nazov_videa": "Poď cvičiť!",
+      "interpret": "Miro Jaroš",
+      "zhliadnutia_mil": 34.5,
+      "youtube_kanal": "Galgan Music",
+      "datum_zverejnenia": "22. november 2015"
+    },
+    {
+      "poradie": 28,
+      "nazov_videa": "Je koniec",
+      "interpret": "Dominika Mirgová & Kali",
+      "zhliadnutia_mil": 34,
+      "youtube_kanal": "Galgan Videos",
+      "datum_zverejnenia": "6. november 2013"
+    },
+    {
+      "poradie": 30,
+      "nazov_videa": "Nejsom ten pravý",
+      "interpret": "Kali",
+      "zhliadnutia_mil": 34.3,
+      "youtube_kanal": "KALI RECORDS",
+      "datum_zverejnenia": "25. marec 2018"
+    },
+    {
+      "poradie": 31,
+      "nazov_videa": "Fúľa Bakaná",
+      "interpret": "Smejko a Tanculienka",
+      "zhliadnutia_mil": 34,
+      "youtube_kanal": "Smejko a Tanculienka",
+      "datum_zverejnenia": "1. september 2018"
+    },
+    {
+      "poradie": 32,
+      "nazov_videa": "Idem kva kva kvám",
+      "interpret": "FÍHA tralala",
+      "zhliadnutia_mil": 33.5,
+      "youtube_kanal": "FÍHA tralala",
+      "datum_zverejnenia": "27. október 2012"
+    },
+    {
+      "poradie": 33,
+      "nazov_videa": "Deti Stratenej Generácie",
+      "interpret": "Rytmus feat. Ego",
+      "zhliadnutia_mil": 33.2,
+      "youtube_kanal": "DONFANTASTICKYPESS",
+      "datum_zverejnenia": "5. august 2010"
+    },
+    {
+      "poradie": 33,
+      "nazov_videa": "Mňamiky mňam",
+      "interpret": "Smejko a Tanculienka",
+      "zhliadnutia_mil": 33.1,
+      "youtube_kanal": "Smejko a Tanculienka",
+      "datum_zverejnenia": "2. september 2016"
+    },
+    {
+      "poradie": 34,
+      "nazov_videa": "Hej rup, do toho!",
+      "interpret": "Smejko a Tanculienka",
+      "zhliadnutia_mil": 32.5,
+      "youtube_kanal": "Smejko a Tanculienka",
+      "datum_zverejnenia": "6. september 2014"
+    },
+    {
+      "poradie": 35,
+      "nazov_videa": "Slivková pesnička",
+      "interpret": "FÍHA tralala",
+      "zhliadnutia_mil": 32,
+      "youtube_kanal": "FÍHA tralala",
+      "datum_zverejnenia": "4. október 2013"
+    },
+    {
+      "poradie": 36,
+      "nazov_videa": "Hlava, ramená...",
+      "interpret": "Smejko a Tanculienka",
+      "zhliadnutia_mil": 31.8,
+      "youtube_kanal": "Smejko a Tanculienka",
+      "datum_zverejnenia": "28. január 2017"
+    },
+    {
+      "poradie": 37,
+      "nazov_videa": "Zlatokopky",
+      "interpret": "Rytmus",
+      "zhliadnutia_mil": 31.3,
+      "youtube_kanal": "DONFANTASTICKYPESS",
+      "datum_zverejnenia": "5. august 2010"
+    },
+    {
+      "poradie": 38,
+      "nazov_videa": "Cesta do rozprávky",
+      "interpret": "Miro Jaroš",
+      "zhliadnutia_mil": 31.2,
+      "youtube_kanal": "Galgan Music",
+      "datum_zverejnenia": "10. november 2016"
+    },
+    {
+      "poradie": 39,
+      "nazov_videa": "Dospelý",
+      "interpret": "Miro Jaroš",
+      "zhliadnutia_mil": 30.3,
+      "youtube_kanal": "Galgan Music",
+      "datum_zverejnenia": "1. september 2019"
+    },
+    {
+      "poradie": 40,
+      "nazov_videa": "Ona Má Štýl",
+      "interpret": "Igor Kmeťo feat. Anita Soul & Rytmus",
+      "zhliadnutia_mil": 29.9,
+      "youtube_kanal": "DONFANTASTICKYPESS",
+      "datum_zverejnenia": "6. august 2012"
+    },
+    {
+      "poradie": 41,
+      "nazov_videa": "Ťapy ťap",
+      "interpret": "PACI PAC",
+      "zhliadnutia_mil": 29.1,
+      "youtube_kanal": "PACI PAC",
+      "datum_zverejnenia": "22. apríl 2015"
+    },
+    {
+      "poradie": 42,
+      "nazov_videa": "Papagáj",
+      "interpret": "Smejko a Tanculienka",
+      "zhliadnutia_mil": 28.6,
+      "youtube_kanal": "Smejko a Tanculienka",
+      "datum_zverejnenia": "17. september 2016"
+    },
+    {
+      "poradie": 43,
+      "nazov_videa": "Mám v piči na lehátku",
+      "interpret": "Horkýže Slíže",
+      "zhliadnutia_mil": 28.3,
+      "youtube_kanal": "noex pictures",
+      "datum_zverejnenia": "28. apríl 2011"
+    },
+    {
+      "poradie": 44,
+      "nazov_videa": "Motáčik Popletáčik",
+      "interpret": "Smejko a Tanculienka",
+      "zhliadnutia_mil": 28.1,
+      "youtube_kanal": "Smejko a Tanculienka",
+      "datum_zverejnenia": "14. september 2017"
+    },
+    {
+      "poradie": 45,
+      "nazov_videa": "Pápá",
+      "interpret": "Smejko a Tanculienka",
+      "zhliadnutia_mil": 27.8,
+      "youtube_kanal": "Smejko a Tanculienka",
+      "datum_zverejnenia": "26. marec 2017"
+    },
+    {
+      "poradie": 46,
+      "nazov_videa": "Kolovrátok",
+      "interpret": "FÍHA tralala",
+      "zhliadnutia_mil": 27.8,
+      "youtube_kanal": "FÍHA tralala",
+      "datum_zverejnenia": "20. september 2015"
+    },
+    {
+      "poradie": 47,
+      "nazov_videa": "Kameň, papier, nožnice",
+      "interpret": "Smejko a Tanculienka",
+      "zhliadnutia_mil": 27.8,
+      "youtube_kanal": "Smejko a Tanculienka",
+      "datum_zverejnenia": "20. máj 2017"
+    },
+    {
+      "poradie": 48,
+      "nazov_videa": "Mariša",
+      "interpret": "Kollárovci",
+      "zhliadnutia_mil": 27.7,
+      "youtube_kanal": "KOLLÁROVCI",
+      "datum_zverejnenia": "23. júl 2015"
+    },
+    {
+      "poradie": 49,
+      "nazov_videa": "Hej, Sokoly!",
+      "interpret": "IMT Smile feat. Ondrej Kandráč",
+      "zhliadnutia_mil": 27.7,
+      "youtube_kanal": "IMT Smile",
+      "datum_zverejnenia": "20. jún 2017"
+    },
+    {
+      "poradie": 50,
+      "nazov_videa": "Poobedný spánok",
+      "interpret": "Spievankovo",
+      "zhliadnutia_mil": 27.7,
+      "youtube_kanal": "SPIEVANKOVO",
+      "datum_zverejnenia": "29. január 2018"
+    }
+  ],
+  "meta": {
+    "title": "Najsledovanejšie slovenské hudobné videá na YouTube - Free Download",
+    "description": "Rebríček 50 najsledovanejších slovenských hudobných videí na YouTube s interpretom, počtom zhliadnutí (v miliónoch), kanálom a dátumom zverejnenia. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Najsledovanejšie slovenské hudobné videá na YouTube | ListBase",
+    "seo_description": "Download Najsledovanejšie slovenské hudobné videá na YouTube — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_najsledovanejších_slovenských_hudobných_videí_na_YouTube"
+    ]
+  }
+}

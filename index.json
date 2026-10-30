@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-30T02:13:55.532Z",
-  "total_datasets": 443,
-  "total_records": 281079,
+  "generated": "2026-10-30T02:14:02.362Z",
+  "total_datasets": 444,
+  "total_records": 281129,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "politics",
@@ -4387,6 +4387,33 @@
         "xlsx": {
           "name": "sk-najlepsie-slovenske-albumy_SK.xlsx",
           "size": 12221
+        }
+      }
+    },
+    {
+      "id": "sk-najsledovanejsie-hudobne-videa-youtube",
+      "name": "Najsledovanejšie slovenské hudobné videá na YouTube",
+      "category": "music",
+      "record_count": 50,
+      "columns": [
+        "poradie",
+        "nazov_videa",
+        "interpret",
+        "zhliadnutia_mil",
+        "youtube_kanal",
+        "datum_zverejnenia"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_najsledovanejších_slovenských_hudobných_videí_na_YouTube",
+      "updated": "2026-10",
+      "size": 13642,
+      "files": {
+        "csv": {
+          "name": "sk-najsledovanejsie-hudobne-videa-youtube_SK.csv",
+          "size": 4308
+        },
+        "xlsx": {
+          "name": "sk-najsledovanejsie-hudobne-videa-youtube_SK.xlsx",
+          "size": 9690
         }
       }
     },
