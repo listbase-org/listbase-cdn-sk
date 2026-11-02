@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-02T02:17:22.559Z",
-  "total_datasets": 448,
-  "total_records": 282066,
+  "generated": "2026-11-02T02:17:29.057Z",
+  "total_datasets": 449,
+  "total_records": 282096,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "society",
@@ -11864,6 +11864,29 @@
         "xlsx": {
           "name": "sk-zvolen-obce_SK.xlsx",
           "size": 8838
+        }
+      }
+    },
+    {
+      "id": "sk-hvezdarne-a-planetaria",
+      "name": "Hvezdárne a planetáriá na Slovensku",
+      "category": "science",
+      "record_count": 30,
+      "columns": [
+        "nazov_lokalita",
+        "typ"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_hvezdární_a_planetárií_na_Slovensku",
+      "updated": "2026-11",
+      "size": 4164,
+      "files": {
+        "csv": {
+          "name": "sk-hvezdarne-a-planetaria_SK.csv",
+          "size": 1188
+        },
+        "xlsx": {
+          "name": "sk-hvezdarne-a-planetaria_SK.xlsx",
+          "size": 7442
         }
       }
     },
