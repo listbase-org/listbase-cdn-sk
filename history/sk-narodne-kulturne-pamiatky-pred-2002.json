@@ -1,0 +1,632 @@
+{
+  "id": "sk-narodne-kulturne-pamiatky-pred-2002",
+  "name": "Národné kultúrne pamiatky Slovenska vyhlásené pred rokom 2002",
+  "title": "Národné kultúrne pamiatky Slovenska vyhlásené pred rokom 2002",
+  "description": "Zoznam národných kultúrnych pamiatok (NKP) na Slovensku vyhlásených pred rokom 2002: názov, obec, okres a rok vyhlásenia.",
+  "category": "history",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_národných_kultúrnych_pamiatok_na_Slovensku_vyhlásených_pred_rokom_2002",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_národných_kultúrnych_pamiatok_na_Slovensku_vyhlásených_pred_rokom_2002",
+  "updated": "2026-11",
+  "record_count": 72,
+  "columns": [
+    {
+      "key": "poradie",
+      "label": "Poradie",
+      "type": "number"
+    },
+    {
+      "key": "nazov_nkp",
+      "label": "Nazov Nkp",
+      "type": "string"
+    },
+    {
+      "key": "obec",
+      "label": "Obec",
+      "type": "string"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "rok_vyhlasenia",
+      "label": "Rok Vyhlasenia",
+      "type": "number"
+    },
+    {
+      "key": "poznamka",
+      "label": "Poznamka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradie": 1,
+      "nazov_nkp": "Kaštieľ vo Svätom Antone kaštieľ s areálom",
+      "obec": "Svätý Anton",
+      "okres": "Banská Štiavnica",
+      "rok_vyhlasenia": 1985,
+      "poznamka": ""
+    },
+    {
+      "poradie": 2,
+      "nazov_nkp": "Mestský hrad v Banskej Bystrici",
+      "obec": "Banská Bystrica",
+      "okres": "Banská Bystrica",
+      "rok_vyhlasenia": 1970,
+      "poznamka": ""
+    },
+    {
+      "poradie": 3,
+      "nazov_nkp": "Pamätné budovy SNP",
+      "obec": "Banská Bystrica",
+      "okres": "Banská Bystrica",
+      "rok_vyhlasenia": 1982,
+      "poznamka": ""
+    },
+    {
+      "poradie": 4,
+      "nazov_nkp": "Mestský hrad v Banskej Štiavnici",
+      "obec": "Banská Štiavnica",
+      "okres": "Banská Štiavnica",
+      "rok_vyhlasenia": 1970,
+      "poznamka": ""
+    },
+    {
+      "poradie": 5,
+      "nazov_nkp": "Banícka a lesnícka akadémia",
+      "obec": "Banská Štiavnica",
+      "okres": "Banská Štiavnica",
+      "rok_vyhlasenia": 1961,
+      "poznamka": ""
+    },
+    {
+      "poradie": 6,
+      "nazov_nkp": "Farský kostol svätého Egídia",
+      "obec": "Bardejov",
+      "okres": "Bardejov",
+      "rok_vyhlasenia": 1970,
+      "poznamka": "ako súčasť historického centra mesta zapísaný v Zozname Svetového dedičstva UNESCO"
+    },
+    {
+      "poradie": 7,
+      "nazov_nkp": "Mestská radnica",
+      "obec": "Bardejov",
+      "okres": "Bardejov",
+      "rok_vyhlasenia": 1985,
+      "poznamka": "ako súčasť historického centra mesta zapísaná v Zozname Svetového dedičstva UNESCO"
+    },
+    {
+      "poradie": 8,
+      "nazov_nkp": "Beckovský hrad",
+      "obec": "Beckov",
+      "okres": "Nové Mesto nad Váhom",
+      "rok_vyhlasenia": 1970,
+      "poznamka": ""
+    },
+    {
+      "poradie": 9,
+      "nazov_nkp": "Kaštieľ v Betliari kaštieľ s areálom",
+      "obec": "Betliar",
+      "okres": "Rožňava",
+      "rok_vyhlasenia": 1985,
+      "poznamka": ""
+    },
+    {
+      "poradie": 10,
+      "nazov_nkp": "Havránok keltské hradisko",
+      "obec": "Bobrovník",
+      "okres": "Liptovský Mikuláš",
+      "rok_vyhlasenia": 1990,
+      "poznamka": ""
+    },
+    {
+      "poradie": 11,
+      "nazov_nkp": "Bojnický zámok",
+      "obec": "Bojnice",
+      "okres": "Prievidza",
+      "rok_vyhlasenia": 1970,
+      "poznamka": ""
+    },
+    {
+      "poradie": 12,
+      "nazov_nkp": "Bratislavský hrad hrad s areálom",
+      "obec": "Bratislava",
+      "okres": "Bratislava I",
+      "rok_vyhlasenia": 1961,
+      "poznamka": ""
+    },
+    {
+      "poradie": 13,
+      "nazov_nkp": "Slavín pamätník s areálom",
+      "obec": "Bratislava",
+      "okres": "Bratislava III",
+      "rok_vyhlasenia": 1961,
+      "poznamka": ""
+    },
+    {
+      "poradie": 14,
+      "nazov_nkp": "Devínsky hrad hrad a slovanské hradisko",
+      "obec": "Bratislava-Devín",
+      "okres": "Bratislava IV",
+      "rok_vyhlasenia": 1961,
+      "poznamka": ""
+    },
+    {
+      "poradie": 15,
+      "nazov_nkp": "Academia Istropolitana budova prvej univerzity v Uhorsku",
+      "obec": "Bratislava",
+      "okres": "Bratislava I",
+      "rok_vyhlasenia": 1961,
+      "poznamka": ""
+    },
+    {
+      "poradie": 16,
+      "nazov_nkp": "Evanjelické lýceum",
+      "obec": "Bratislava",
+      "okres": "Bratislava I",
+      "rok_vyhlasenia": 1961,
+      "poznamka": ""
+    },
+    {
+      "poradie": 17,
+      "nazov_nkp": "Katedrála svätého Martina",
+      "obec": "Bratislava",
+      "okres": "Bratislava I",
+      "rok_vyhlasenia": 1990,
+      "poznamka": ""
+    },
+    {
+      "poradie": 18,
+      "nazov_nkp": "Villa rustica archeologická lokalita",
+      "obec": "Bratislava-Dúbravka",
+      "okres": "Bratislava IV",
+      "rok_vyhlasenia": 1990,
+      "poznamka": ""
+    },
+    {
+      "poradie": 19,
+      "nazov_nkp": "Mohyla Milana Rastislava Štefánika",
+      "obec": "Brezová pod Bradlom",
+      "okres": "Myjava",
+      "rok_vyhlasenia": 1968,
+      "poznamka": ""
+    },
+    {
+      "poradie": 20,
+      "nazov_nkp": "Bytčiansky zámok zámok a Sobášny palác",
+      "obec": "Bytča",
+      "okres": "Bytča",
+      "rok_vyhlasenia": 1970,
+      "poznamka": ""
+    },
+    {
+      "poradie": 21,
+      "nazov_nkp": "Červený Kameň hrad s areálom",
+      "obec": "Častá",
+      "okres": "Pezinok",
+      "rok_vyhlasenia": 1970,
+      "poznamka": ""
+    },
+    {
+      "poradie": 22,
+      "nazov_nkp": "Červený kláštor kláštor kartuziánov",
+      "obec": "Červený Kláštor",
+      "okres": "Kežmarok",
+      "rok_vyhlasenia": 1970,
+      "poznamka": ""
+    },
+    {
+      "poradie": 23,
+      "nazov_nkp": "Ducové veľkomoravský dvorec",
+      "obec": "Ducové",
+      "okres": "Piešťany",
+      "rok_vyhlasenia": 1990,
+      "poznamka": ""
+    },
+    {
+      "poradie": 24,
+      "nazov_nkp": "Pamätník Východoslovenského roľníckeho povstania",
+      "obec": "Haniska",
+      "okres": "Prešov",
+      "rok_vyhlasenia": 1961,
+      "poznamka": ""
+    },
+    {
+      "poradie": 25,
+      "nazov_nkp": "Kaštieľ v Holíči kaštieľ s areálom",
+      "obec": "Holíč",
+      "okres": "Skalica",
+      "rok_vyhlasenia": 1970,
+      "poznamka": ""
+    },
+    {
+      "poradie": 26,
+      "nazov_nkp": "Kláštor Benediktínskeho opátstva kláštor benediktínskeho opátstva",
+      "obec": "Hronský Beňadik",
+      "okres": "Žarnovica",
+      "rok_vyhlasenia": 1970,
+      "poznamka": ""
+    },
+    {
+      "poradie": 27,
+      "nazov_nkp": "Rímsky vojenský tábor Leányvár",
+      "obec": "Iža",
+      "okres": "Komárno",
+      "rok_vyhlasenia": 1990,
+      "poznamka": ""
+    },
+    {
+      "poradie": 28,
+      "nazov_nkp": "Kláštor Premonštrátskeho konventu",
+      "obec": "Jasov",
+      "okres": "Košice-okolie",
+      "rok_vyhlasenia": 1970,
+      "poznamka": ""
+    },
+    {
+      "poradie": 29,
+      "nazov_nkp": "Kalište pamätné miesto SNP",
+      "obec": "Baláže",
+      "okres": "Banská Bystrica",
+      "rok_vyhlasenia": 1961,
+      "poznamka": ""
+    },
+    {
+      "poradie": 30,
+      "nazov_nkp": "Budova evanjelického lýcea",
+      "obec": "Kežmarok",
+      "okres": "Kežmarok",
+      "rok_vyhlasenia": 1985,
+      "poznamka": ""
+    },
+    {
+      "poradie": 31,
+      "nazov_nkp": "Kostol Najsvätejšej Trojice drevený artikulárny kostol",
+      "obec": "Kežmarok",
+      "okres": "Kežmarok",
+      "rok_vyhlasenia": 1985,
+      "poznamka": "zapísaný v Zozname Svetového dedičstva UNESCO ako súčasť súboru Drevené chrámy v slovenskej časti Karpatského oblúka"
+    },
+    {
+      "poradie": 32,
+      "nazov_nkp": "Protiturecká pevnosť",
+      "obec": "Komárno",
+      "okres": "Komárno",
+      "rok_vyhlasenia": 1970,
+      "poznamka": ""
+    },
+    {
+      "poradie": 33,
+      "nazov_nkp": "Fortifikačný systém",
+      "obec": "Komárno",
+      "okres": "Komárno",
+      "rok_vyhlasenia": 1985,
+      "poznamka": ""
+    },
+    {
+      "poradie": 34,
+      "nazov_nkp": "Kostolík svätého Juraja",
+      "obec": "Kostoľany pod Tribečom",
+      "okres": "Zlaté Moravce",
+      "rok_vyhlasenia": 1970,
+      "poznamka": ""
+    },
+    {
+      "poradie": 35,
+      "nazov_nkp": "Budova vyhlásenia Košického vládneho programu",
+      "obec": "Košice",
+      "okres": "Košice",
+      "rok_vyhlasenia": 1961,
+      "poznamka": ""
+    },
+    {
+      "poradie": 36,
+      "nazov_nkp": "Dóm svätej Alžbety",
+      "obec": "Košice",
+      "okres": "Košice",
+      "rok_vyhlasenia": 1970,
+      "poznamka": ""
+    },
+    {
+      "poradie": 37,
+      "nazov_nkp": "Krásna Hôrka hrad",
+      "obec": "Krásnohorské Podhradie",
+      "okres": "Rožňava",
+      "rok_vyhlasenia": 1970,
+      "poznamka": ""
+    },
+    {
+      "poradie": 38,
+      "nazov_nkp": "Mestský hrad v Kremnici hrad s areálom",
+      "obec": "Kremnica",
+      "okres": "Žiar nad Hronom",
+      "rok_vyhlasenia": 1970,
+      "poznamka": ""
+    },
+    {
+      "poradie": 39,
+      "nazov_nkp": "Chrám svätého Jakuba",
+      "obec": "Levoča",
+      "okres": "Levoča",
+      "rok_vyhlasenia": 1970,
+      "poznamka": "zapísaný v Zozname Svetového dedičstva UNESCO ako súčasť súboru Levoča, Spišský hrad a pamiatky okolia"
+    },
+    {
+      "poradie": 40,
+      "nazov_nkp": "Pamätný dom Čierny orol",
+      "obec": "Liptovský Mikuláš",
+      "okres": "Liptovský Mikuláš",
+      "rok_vyhlasenia": 1961,
+      "poznamka": ""
+    },
+    {
+      "poradie": 41,
+      "nazov_nkp": "Budova Matice slovenskej",
+      "obec": "Martin",
+      "okres": "Martin",
+      "rok_vyhlasenia": 1961,
+      "poznamka": ""
+    },
+    {
+      "poradie": 42,
+      "nazov_nkp": "Národný cintorín v Martine",
+      "obec": "Martin",
+      "okres": "Martin",
+      "rok_vyhlasenia": 1967,
+      "poznamka": ""
+    },
+    {
+      "poradie": 43,
+      "nazov_nkp": "Budova Slovenského národného múzea",
+      "obec": "Martin",
+      "okres": "Martin",
+      "rok_vyhlasenia": 1993,
+      "poznamka": ""
+    },
+    {
+      "poradie": 44,
+      "nazov_nkp": "Súbor pamiatok k osobnosti Ľudovíta Štúra",
+      "obec": "Modra",
+      "okres": "Pezinok",
+      "rok_vyhlasenia": 1993,
+      "poznamka": ""
+    },
+    {
+      "poradie": 45,
+      "nazov_nkp": "Pamätný dom Slovenskej národnej rady",
+      "obec": "Myjava",
+      "okres": "Myjava",
+      "rok_vyhlasenia": 1970,
+      "poznamka": ""
+    },
+    {
+      "poradie": 46,
+      "nazov_nkp": "Nitriansky hrad hrad a nálezisko staroslovanského osídlenia",
+      "obec": "Nitra",
+      "okres": "Nitra",
+      "rok_vyhlasenia": 1961,
+      "poznamka": ""
+    },
+    {
+      "poradie": 47,
+      "nazov_nkp": "Historická lesná úvraťová železnica lesná železnica vo Vychylovke",
+      "obec": "Nová Bystrica",
+      "okres": "Čadca",
+      "rok_vyhlasenia": 1991,
+      "poznamka": ""
+    },
+    {
+      "poradie": 48,
+      "nazov_nkp": "Oravský hrad",
+      "obec": "Oravský Podzámok",
+      "okres": "Dolný Kubín",
+      "rok_vyhlasenia": 1961,
+      "poznamka": ""
+    },
+    {
+      "poradie": 49,
+      "nazov_nkp": "Solivar",
+      "obec": "Prešov",
+      "okres": "Prešov",
+      "rok_vyhlasenia": 1970,
+      "poznamka": ""
+    },
+    {
+      "poradie": 50,
+      "nazov_nkp": "Evanjelické kolégium",
+      "obec": "Prešov",
+      "okres": "Prešov",
+      "rok_vyhlasenia": 1990,
+      "poznamka": ""
+    },
+    {
+      "poradie": 51,
+      "nazov_nkp": "Pamiatky černovskej masakry",
+      "obec": "Ružomberok-Černová",
+      "okres": "Ružomberok",
+      "rok_vyhlasenia": 1991,
+      "poznamka": ""
+    },
+    {
+      "poradie": 52,
+      "nazov_nkp": "Súbor pamiatok k osobnosti Andreja Hlinku",
+      "obec": "Ružomberok",
+      "okres": "Ružomberok",
+      "rok_vyhlasenia": 1993,
+      "poznamka": ""
+    },
+    {
+      "poradie": 53,
+      "nazov_nkp": "Rotunda svätého Juraja",
+      "obec": "Skalica",
+      "okres": "Skalica",
+      "rok_vyhlasenia": 1970,
+      "poznamka": ""
+    },
+    {
+      "poradie": 54,
+      "nazov_nkp": "Molpír hradisko zo staršej železnej doby",
+      "obec": "Smolenice",
+      "okres": "Trnava",
+      "rok_vyhlasenia": 1990,
+      "poznamka": ""
+    },
+    {
+      "poradie": 55,
+      "nazov_nkp": "Spišský hrad",
+      "obec": "Žehra",
+      "okres": "Spišská Nová Ves",
+      "rok_vyhlasenia": 1961,
+      "poznamka": "zapísaný v Zozname Svetového dedičstva UNESCO ako súčasť súboru Levoča, Spišský hrad a pamiatky okolia"
+    },
+    {
+      "poradie": 56,
+      "nazov_nkp": "Kaštieľ v Strážkach kaštieľ s areálom",
+      "obec": "Spišská Belá-Strážky",
+      "okres": "Kežmarok",
+      "rok_vyhlasenia": 1970,
+      "poznamka": ""
+    },
+    {
+      "poradie": 57,
+      "nazov_nkp": "Strečniansky hrad",
+      "obec": "Strečno",
+      "okres": "Žilina",
+      "rok_vyhlasenia": 1970,
+      "poznamka": ""
+    },
+    {
+      "poradie": 58,
+      "nazov_nkp": "Kláštorný komplex pavlínov",
+      "obec": "Šaštín-Stráže",
+      "okres": "Senica",
+      "rok_vyhlasenia": 1991,
+      "poznamka": ""
+    },
+    {
+      "poradie": 59,
+      "nazov_nkp": "Evanjelický kostol",
+      "obec": "Štítnik",
+      "okres": "Rožňava",
+      "rok_vyhlasenia": 1970,
+      "poznamka": ""
+    },
+    {
+      "poradie": 60,
+      "nazov_nkp": "Kaštieľ v Topoľčiankach",
+      "obec": "Topoľčianky",
+      "okres": "Zlaté Moravce",
+      "rok_vyhlasenia": 1970,
+      "poznamka": ""
+    },
+    {
+      "poradie": 61,
+      "nazov_nkp": "Trenčiansky hrad",
+      "obec": "Trenčín",
+      "okres": "Trenčín",
+      "rok_vyhlasenia": 1961,
+      "poznamka": ""
+    },
+    {
+      "poradie": 62,
+      "nazov_nkp": "Univerzitné budovy",
+      "obec": "Trnava",
+      "okres": "Trnava",
+      "rok_vyhlasenia": 1970,
+      "poznamka": ""
+    },
+    {
+      "poradie": 63,
+      "nazov_nkp": "Rodný dom Ľudovíta Štúra",
+      "obec": "Uhrovec",
+      "okres": "Bánovce nad Bebravou",
+      "rok_vyhlasenia": 1970,
+      "poznamka": ""
+    },
+    {
+      "poradie": 64,
+      "nazov_nkp": "Dukelské bojisko a pamätníky na Dukle a vo Svidníku",
+      "obec": "Vyšný Komárnik Svidník",
+      "okres": "Svidník",
+      "rok_vyhlasenia": 1961,
+      "poznamka": ""
+    },
+    {
+      "poradie": 65,
+      "nazov_nkp": "Zvolenský zámok",
+      "obec": "Zvolen",
+      "okres": "Zvolen",
+      "rok_vyhlasenia": 1961,
+      "poznamka": ""
+    },
+    {
+      "poradie": 66,
+      "nazov_nkp": "Kostol Ducha Svätého",
+      "obec": "Žehra",
+      "okres": "Spišská Nová Ves",
+      "rok_vyhlasenia": 1985,
+      "poznamka": "zapísaný v Zozname Svetového dedičstva UNESCO ako súčasť súboru Levoča, Spišský hrad a pamiatky okolia"
+    },
+    {
+      "poradie": 67,
+      "nazov_nkp": "Východoslovenské drevené kostoly súbor 27 drevených sakrálnych stavieb",
+      "obec": "",
+      "okres": "Slovensko",
+      "rok_vyhlasenia": 1968,
+      "poznamka": "osem z nich zapísaná v Zozname Svetového dedičstva UNESCO ako súčasť súboru Drevené kostoly v slovenskej časti Karpát"
+    },
+    {
+      "poradie": 68,
+      "nazov_nkp": "Prvé slovenské patronátne gymnáziá",
+      "obec": "Martin, Kláštor pod Znievom, Revúca",
+      "okres": "Slovensko",
+      "rok_vyhlasenia": 1991,
+      "poznamka": ""
+    },
+    {
+      "poradie": 69,
+      "nazov_nkp": "Stredoveké nástenné maľby, nástenné maľby z obdobia stredoveku v 35 sakrálnych objektoch",
+      "obec": "",
+      "okres": "Slovensko",
+      "rok_vyhlasenia": 1991,
+      "poznamka": ""
+    },
+    {
+      "poradie": 70,
+      "nazov_nkp": "Dielo Majstra Pavla z Levoče",
+      "obec": "",
+      "okres": "Slovensko",
+      "rok_vyhlasenia": 1961,
+      "poznamka": ""
+    },
+    {
+      "poradie": 71,
+      "nazov_nkp": "Historický fond Diecéznej knižnice",
+      "obec": "Nitra",
+      "okres": "Nitra",
+      "rok_vyhlasenia": 1990,
+      "poznamka": "V súčasnosti chránené v zmysle zákona o knižniciach ako súčasť knižničného fondu"
+    },
+    {
+      "poradie": 72,
+      "nazov_nkp": "Dielo Jána Szilassyho 95 zlatníckych liturgických predmetov",
+      "obec": "",
+      "okres": "Slovensko",
+      "rok_vyhlasenia": 1991,
+      "poznamka": ""
+    }
+  ],
+  "meta": {
+    "title": "Národné kultúrne pamiatky Slovenska vyhlásené pred rokom 2002 - Free Download",
+    "description": "Zoznam národných kultúrnych pamiatok (NKP) na Slovensku vyhlásených pred rokom 2002: názov, obec, okres a rok vyhlásenia. Contains 72 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Národné kultúrne pamiatky Slovenska vyhlásené pred rokom 2002 | ListBase",
+    "seo_description": "Download Národné kultúrne pamiatky Slovenska vyhlásené pred rokom 2002 — 72 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 72 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_národných_kultúrnych_pamiatok_na_Slovensku_vyhlásených_pred_rokom_2002"
+    ]
+  }
+}

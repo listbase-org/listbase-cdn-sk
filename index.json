@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-02T02:17:35.335Z",
-  "total_datasets": 450,
-  "total_records": 282122,
+  "generated": "2026-11-02T02:17:41.976Z",
+  "total_datasets": 451,
+  "total_records": 282194,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -4152,6 +4152,33 @@
         "xlsx": {
           "name": "sk-archeologicke-lokality_SK.xlsx",
           "size": 25365
+        }
+      }
+    },
+    {
+      "id": "sk-narodne-kulturne-pamiatky-pred-2002",
+      "name": "Národné kultúrne pamiatky Slovenska vyhlásené pred rokom 2002",
+      "category": "history",
+      "record_count": 72,
+      "columns": [
+        "poradie",
+        "nazov_nkp",
+        "obec",
+        "okres",
+        "rok_vyhlasenia",
+        "poznamka"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_národných_kultúrnych_pamiatok_na_Slovensku_vyhlásených_pred_rokom_2002",
+      "updated": "2026-11",
+      "size": 17405,
+      "files": {
+        "csv": {
+          "name": "sk-narodne-kulturne-pamiatky-pred-2002_SK.csv",
+          "size": 6650
+        },
+        "xlsx": {
+          "name": "sk-narodne-kulturne-pamiatky-pred-2002_SK.xlsx",
+          "size": 10878
         }
       }
     },
