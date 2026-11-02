@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-10-30T02:14:24.307Z",
-  "total_datasets": 447,
-  "total_records": 281624,
+  "generated": "2026-11-02T02:17:22.559Z",
+  "total_datasets": 448,
+  "total_records": 282066,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "finance",
@@ -1674,6 +1674,35 @@
         "xlsx": {
           "name": "sk-najodoberanejsi-youtuberi_SK.xlsx",
           "size": 8741
+        }
+      }
+    },
+    {
+      "id": "sk-chranene-stromy",
+      "name": "Chránené stromy na Slovensku",
+      "category": "environment",
+      "record_count": 442,
+      "columns": [
+        "ev_cislo",
+        "nazov",
+        "slovensky_nazov_taxonu",
+        "vedecky_nazov_taxonu",
+        "kraj",
+        "okres",
+        "kataster",
+        "organizacny_utvar_sop"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_chránených_stromov_na_Slovensku",
+      "updated": "2026-11",
+      "size": 152595,
+      "files": {
+        "csv": {
+          "name": "sk-chranene-stromy_SK.csv",
+          "size": 65308
+        },
+        "xlsx": {
+          "name": "sk-chranene-stromy_SK.xlsx",
+          "size": 32453
         }
       }
     },

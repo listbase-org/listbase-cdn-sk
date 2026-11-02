@@ -1,0 +1,4486 @@
+{
+  "id": "sk-chranene-stromy",
+  "name": "Chránené stromy na Slovensku",
+  "title": "Chránené stromy na Slovensku",
+  "description": "Zoznam chránených stromov na Slovensku s evidenčným číslom, druhom (slovenský a vedecký názov), krajom, okresom, katastrom a príslušnou správou ŠOP SR.",
+  "category": "environment",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_chránených_stromov_na_Slovensku",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_chránených_stromov_na_Slovensku",
+  "updated": "2026-11",
+  "record_count": 442,
+  "columns": [
+    {
+      "key": "ev_cislo",
+      "label": "Ev Cislo",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "slovensky_nazov_taxonu",
+      "label": "Slovensky Nazov Taxonu",
+      "type": "string"
+    },
+    {
+      "key": "vedecky_nazov_taxonu",
+      "label": "Vedecky Nazov Taxonu",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "kataster",
+      "label": "Kataster",
+      "type": "string"
+    },
+    {
+      "key": "organizacny_utvar_sop",
+      "label": "Organizacny Utvar Sop",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ev_cislo": "S 372",
+      "nazov": "Baranovské duby",
+      "slovensky_nazov_taxonu": "dub cerový, dub zimný",
+      "vedecky_nazov_taxonu": "Quercus cerris L., Quercus petraea (Matt.) Liebl.",
+      "kraj": "Banskobystrický",
+      "okres": "Banská Bystrica",
+      "kataster": "Špania Dolina",
+      "organizacny_utvar_sop": "Správa NP Nízke Tatry"
+    },
+    {
+      "ev_cislo": "S 482",
+      "nazov": "Baza pri katolíckom gymnáziu",
+      "slovensky_nazov_taxonu": "baza čierna",
+      "vedecky_nazov_taxonu": "Sambucus nigra",
+      "kraj": "Banskobystrický",
+      "okres": "Banská Bystrica",
+      "kataster": "Banská Bystrica",
+      "organizacny_utvar_sop": "Správa CHKO Poľana"
+    },
+    {
+      "ev_cislo": "S 448",
+      "nazov": "Beňadická lipa",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Banskobystrický",
+      "okres": "Žarnovica",
+      "kataster": "Hronský Beňadik",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 105",
+      "nazov": "Bešiansky cer",
+      "slovensky_nazov_taxonu": "dub cerový",
+      "vedecky_nazov_taxonu": "Quercus cerris L.",
+      "kraj": "Nitriansky",
+      "okres": "Levice",
+      "kataster": "Beša",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 427",
+      "nazov": "Biela samota",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Nitriansky",
+      "okres": "Nové Zámky",
+      "kataster": "Trávnica",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 4",
+      "nazov": "Bojnická lipa",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Trenčiansky",
+      "okres": "Prievidza",
+      "kataster": "Bojnice",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 305",
+      "nazov": "Bojnické ginká",
+      "slovensky_nazov_taxonu": "ginko dvojlaločné",
+      "vedecky_nazov_taxonu": "Ginkgo biloba L.",
+      "kraj": "Trenčiansky",
+      "okres": "Prievidza",
+      "kataster": "Bojnice",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 312",
+      "nazov": "Bolešovský brest",
+      "slovensky_nazov_taxonu": "brest hrabolistý",
+      "vedecky_nazov_taxonu": "Ulmus minor Mill.",
+      "kraj": "Trenčiansky",
+      "okres": "Ilava",
+      "kataster": "Bolešov",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 217",
+      "nazov": "Borovica na ulici B. Němcovej",
+      "slovensky_nazov_taxonu": "borovica hladká",
+      "vedecky_nazov_taxonu": "Pinus strobus",
+      "kraj": "Bratislavský",
+      "okres": "Bratislava I",
+      "kataster": "Staré Mesto",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 108",
+      "nazov": "Borovica v Matiašovciach",
+      "slovensky_nazov_taxonu": "borovica limbová",
+      "vedecky_nazov_taxonu": "Pinus cembra L.",
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš",
+      "kataster": "Liptovské Matiašovce",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 501",
+      "nazov": "Borovica v Spišskom Štvrtku",
+      "slovensky_nazov_taxonu": "borovica lesná",
+      "vedecky_nazov_taxonu": "Pinus sylvestris",
+      "kraj": "Prešovský",
+      "okres": "Levoča",
+      "kataster": "Spišský Štvrtok",
+      "organizacny_utvar_sop": "Správa NP Slovenský raj"
+    },
+    {
+      "ev_cislo": "S 460",
+      "nazov": "Borovica v Zámockej záhrade v Hlohovci",
+      "slovensky_nazov_taxonu": "borovica lesná",
+      "vedecky_nazov_taxonu": "Pinus sylvestris L.",
+      "kraj": "Trnavský",
+      "okres": "Hlohovec",
+      "kataster": "Hlohovec",
+      "organizacny_utvar_sop": "Správa CHKO Malé Karpaty"
+    },
+    {
+      "ev_cislo": "S 370",
+      "nazov": "Borovica v Zámutove",
+      "slovensky_nazov_taxonu": "borovica Jeffreyova",
+      "vedecky_nazov_taxonu": "Pinus jeffreyi Grev. Et Balf.",
+      "kraj": "Prešovský",
+      "okres": "Vranov nad Topľou",
+      "kataster": "Zámutov",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 310",
+      "nazov": "Borovica Ľudmily Podjavorinskej",
+      "slovensky_nazov_taxonu": "borovica lesná",
+      "vedecky_nazov_taxonu": "Pinus sylvestris L.",
+      "kraj": "Banskobystrický",
+      "okres": "Zvolen",
+      "kataster": "Rybáre",
+      "organizacny_utvar_sop": "Správa CHKO Poľana"
+    },
+    {
+      "ev_cislo": "S 194",
+      "nazov": "Borovice v Terchovej",
+      "slovensky_nazov_taxonu": "borovica hladká",
+      "vedecky_nazov_taxonu": "Pinus strobus L.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Terchová",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 489",
+      "nazov": "Borovice čierne na ul. Francúzskych partizánov",
+      "slovensky_nazov_taxonu": "borovica čierna",
+      "vedecky_nazov_taxonu": "Pinus nigra",
+      "kraj": "Bratislavský",
+      "okres": "Bratislava I",
+      "kataster": "Staré Mesto",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 421",
+      "nazov": "Brekyňa na Sitárovom vrchu",
+      "slovensky_nazov_taxonu": "jarabina brekyňová",
+      "vedecky_nazov_taxonu": "Sorbus torminalis (L.) Crantz",
+      "kraj": "Banskobystrický",
+      "okres": "Žarnovica",
+      "kataster": "Nová Baňa",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 473",
+      "nazov": "Brest na Bakossovej ulici",
+      "slovensky_nazov_taxonu": "brest hrabolistý",
+      "vedecky_nazov_taxonu": "Ulmus minor Mill.",
+      "kraj": "Banskobystrický",
+      "okres": "Banská Bystrica",
+      "kataster": "Banská Bystrica",
+      "organizacny_utvar_sop": "Správa CHKO Poľana"
+    },
+    {
+      "ev_cislo": "S 42",
+      "nazov": "Brest na cintoríne",
+      "slovensky_nazov_taxonu": "brest horský",
+      "vedecky_nazov_taxonu": "Ulmus glabra Huds.",
+      "kraj": "Žilinský",
+      "okres": "Námestovo",
+      "kataster": "Oravské Veselé",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 269",
+      "nazov": "Brest na cintoríne",
+      "slovensky_nazov_taxonu": "brest horský",
+      "vedecky_nazov_taxonu": "Ulmus glabra Huds.",
+      "kraj": "Žilinský",
+      "okres": "Námestovo",
+      "kataster": "Krušetnica",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 44",
+      "nazov": "Brest na súkromnom pozemku",
+      "slovensky_nazov_taxonu": "brest horský",
+      "vedecky_nazov_taxonu": "Ulmus glabra L.",
+      "kraj": "Žilinský",
+      "okres": "Námestovo",
+      "kataster": "Rabčice",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 113",
+      "nazov": "Brest pri kaštieli Mitošiny",
+      "slovensky_nazov_taxonu": "brest horský",
+      "vedecky_nazov_taxonu": "Ulmus glabra Huds.",
+      "kraj": "Žilinský",
+      "okres": "Ružomberok",
+      "kataster": "Bešeňová",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 18",
+      "nazov": "Brest u Papaji",
+      "slovensky_nazov_taxonu": "brest hrabolistý",
+      "vedecky_nazov_taxonu": "Ulmus minor Mill.",
+      "kraj": "Žilinský",
+      "okres": "Čadca",
+      "kataster": "Makov",
+      "organizacny_utvar_sop": "Správa CHKO Kysuce"
+    },
+    {
+      "ev_cislo": "S 277",
+      "nazov": "Brest v Balogu nad Ipľom",
+      "slovensky_nazov_taxonu": "brest väzový",
+      "vedecky_nazov_taxonu": "Ulmus laevis Pall.",
+      "kraj": "Banskobystrický",
+      "okres": "Veľký Krtíš",
+      "kataster": "Balog nad Ipľom",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 178",
+      "nazov": "Brest v Kamennej Porube",
+      "slovensky_nazov_taxonu": "brest horský",
+      "vedecky_nazov_taxonu": "Ulmus glabra Huds.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Kamenná Poruba",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 200",
+      "nazov": "Brest v Rajeckej Lesnej",
+      "slovensky_nazov_taxonu": "brest horský",
+      "vedecky_nazov_taxonu": "Ulmus glabra Huds.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Rajecká Lesná",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 198",
+      "nazov": "Brest v Rajeckých Tepliciach",
+      "slovensky_nazov_taxonu": "brest horský",
+      "vedecky_nazov_taxonu": "Ulmus glabra Huds.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Rajecké Teplice",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 15",
+      "nazov": "Brest v kláštornej záhrade",
+      "slovensky_nazov_taxonu": "brest horský",
+      "vedecky_nazov_taxonu": "Ulmus glabra Huds.",
+      "kraj": "Žilinský",
+      "okres": "Martin",
+      "kataster": "Kláštor pod Znievom",
+      "organizacny_utvar_sop": "Správa NP Veľká Fatra"
+    },
+    {
+      "ev_cislo": "S 134",
+      "nazov": "Brest vo Veľkej doline",
+      "slovensky_nazov_taxonu": "brest väzový",
+      "vedecky_nazov_taxonu": "Ulmus laevis Pall.",
+      "kraj": "Nitriansky",
+      "okres": "Nitra",
+      "kataster": "Veľká Dolina",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 50",
+      "nazov": "Bresty pri obci Spišský Štiavnik",
+      "slovensky_nazov_taxonu": "brest horský",
+      "vedecky_nazov_taxonu": "Ulmus glabra Huds.",
+      "kraj": "Prešovský",
+      "okres": "Poprad",
+      "kataster": "Spišský Štiavnik",
+      "organizacny_utvar_sop": "Správa NP Slovenský raj"
+    },
+    {
+      "ev_cislo": "S 223",
+      "nazov": "Breza na Mišíkovej ulici",
+      "slovensky_nazov_taxonu": "breza papierovitá",
+      "vedecky_nazov_taxonu": "Betula papyrifera",
+      "kraj": "Bratislavský",
+      "okres": "Bratislava I",
+      "kataster": "Staré Mesto",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 230",
+      "nazov": "Brezy v Mlynskej doline",
+      "slovensky_nazov_taxonu": "breza previsnutá, breza previsutá",
+      "vedecky_nazov_taxonu": "Betula pendula, Betula pendukla \"Dalacarlica\"",
+      "kraj": "Bratislavský",
+      "okres": "Bratislava I",
+      "kataster": "Staré Mesto",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 332",
+      "nazov": "Brusnícka lipa",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Banskobystrický",
+      "okres": "Revúca",
+      "kataster": "Brusník",
+      "organizacny_utvar_sop": "Správa NP Muránska planina"
+    },
+    {
+      "ev_cislo": "S 283",
+      "nazov": "Buk pod Kľukou",
+      "slovensky_nazov_taxonu": "buk lesný",
+      "vedecky_nazov_taxonu": "Fagus sylvatica L.",
+      "kraj": "Banskobystrický",
+      "okres": "Detva",
+      "kataster": "Hriňová",
+      "organizacny_utvar_sop": "Správa CHKO Poľana"
+    },
+    {
+      "ev_cislo": "S 303",
+      "nazov": "Buk pod Širokou",
+      "slovensky_nazov_taxonu": "buk lesný",
+      "vedecky_nazov_taxonu": "Fagus sylvatica L.",
+      "kraj": "Banskobystrický",
+      "okres": "Banská Bystrica",
+      "kataster": "Hrochoť",
+      "organizacny_utvar_sop": "Správa CHKO Poľana"
+    },
+    {
+      "ev_cislo": "S 33",
+      "nazov": "Buk pri kaštieli",
+      "slovensky_nazov_taxonu": "buk lesný",
+      "vedecky_nazov_taxonu": "Fagus sylvatica L.",
+      "kraj": "Žilinský",
+      "okres": "Dolný Kubín",
+      "kataster": "Mokraď",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 128",
+      "nazov": "Buk v Detvianskej Hute",
+      "slovensky_nazov_taxonu": "buk lesný",
+      "vedecky_nazov_taxonu": "Fagus sylvatica L.",
+      "kraj": "Banskobystrický",
+      "okres": "Detva",
+      "kataster": "Detvianska Huta",
+      "organizacny_utvar_sop": "Správa CHKO Poľana"
+    },
+    {
+      "ev_cislo": "S 341",
+      "nazov": "Buk v Rožňave",
+      "slovensky_nazov_taxonu": "buk lesný",
+      "vedecky_nazov_taxonu": "Fagus sylvatica L.",
+      "kraj": "Košický",
+      "okres": "Rožňava",
+      "kataster": "Rožňava",
+      "organizacny_utvar_sop": "Správa NP Slovenský kras"
+    },
+    {
+      "ev_cislo": "S 14",
+      "nazov": "Buk v kláštornej záhrade",
+      "slovensky_nazov_taxonu": "buk lesný",
+      "vedecky_nazov_taxonu": "Fagus sylvatica L.",
+      "kraj": "Žilinský",
+      "okres": "Martin",
+      "kataster": "Kláštor pod Znievom",
+      "organizacny_utvar_sop": "Správa NP Veľká Fatra"
+    },
+    {
+      "ev_cislo": "S 207",
+      "nazov": "Buk v Štiavniku",
+      "slovensky_nazov_taxonu": "buk lesný",
+      "vedecky_nazov_taxonu": "Fagus sylvatica L.",
+      "kraj": "Žilinský",
+      "okres": "Bytča",
+      "kataster": "Štiavnik",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 184",
+      "nazov": "Buky v Belej",
+      "slovensky_nazov_taxonu": "buk lesný",
+      "vedecky_nazov_taxonu": "Fagus sylvatica L.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Belá",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 206",
+      "nazov": "Buky vo Veľkom Rovnom",
+      "slovensky_nazov_taxonu": "buk lesný",
+      "vedecky_nazov_taxonu": "Fagus sylvatica L.",
+      "kraj": "Žilinský",
+      "okres": "Bytča",
+      "kataster": "Veľké Rovné",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 474",
+      "nazov": "Báťkova lipa",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Banskobystrický",
+      "okres": "Detva",
+      "kataster": "Hriňová",
+      "organizacny_utvar_sop": "Správa CHKO Poľana"
+    },
+    {
+      "ev_cislo": "S 104",
+      "nazov": "Devičianska oskoruša",
+      "slovensky_nazov_taxonu": "jarabina oskorušová",
+      "vedecky_nazov_taxonu": "Sorbus domestica L.",
+      "kraj": "Nitriansky",
+      "okres": "Levice",
+      "kataster": "Horné Devičany",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 307",
+      "nazov": "Diviacka gledíčia",
+      "slovensky_nazov_taxonu": "gledíčia trojtŕňová",
+      "vedecky_nazov_taxonu": "Gleditschia triacanthos",
+      "kraj": "Trenčiansky",
+      "okres": "Prievidza",
+      "kataster": "Diviaky nad Nitricou",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 496",
+      "nazov": "Dolnolovčický brestovec",
+      "slovensky_nazov_taxonu": "brestovec západný",
+      "vedecky_nazov_taxonu": "Celtis occidentalis",
+      "kraj": "Trnavský",
+      "okres": "Trnava",
+      "kataster": "Dolné Lovčice",
+      "organizacny_utvar_sop": "Správa CHKO Malé Karpaty"
+    },
+    {
+      "ev_cislo": "S 73",
+      "nazov": "Dolnomarikovská lipa",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Trenčiansky",
+      "okres": "Považská Bystrica",
+      "kataster": "Dolná Mariková",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 441",
+      "nazov": "Domanižské lipy",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Trenčiansky",
+      "okres": "Považská Bystrica",
+      "kataster": "Domaniža",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 155",
+      "nazov": "Dub pri Dolných Strhároch",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Banskobystrický",
+      "okres": "Veľký Krtíš",
+      "kataster": "Dolné Strháre",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 284",
+      "nazov": "Dub cerový Hrušovany",
+      "slovensky_nazov_taxonu": "dub cerový",
+      "vedecky_nazov_taxonu": "Quercus cerris L.",
+      "kraj": "Nitriansky",
+      "okres": "Topoľčany",
+      "kataster": "Hrušovany",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 97",
+      "nazov": "Dub letný - Medvecké",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Nitriansky",
+      "okres": "Levice",
+      "kataster": "Tekovské Lužany",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 250",
+      "nazov": "Dub letný v Lehnicich",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Trnavský",
+      "okres": "Dunajská Streda",
+      "kataster": "Veľký Lég",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 481",
+      "nazov": "Dub letný v Dunajskej Lužnej",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur",
+      "kraj": "Bratislavský",
+      "okres": "Senec",
+      "kataster": "Jánošíková",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 251",
+      "nazov": "Dub letný v Mliečanoch",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Trnavský",
+      "okres": "Dunajská Streda",
+      "kataster": "Mliečany",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 95",
+      "nazov": "Dub letný v parku",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Nitriansky",
+      "okres": "Levice",
+      "kataster": "Vozokany nad Hronom",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 162",
+      "nazov": "Dub letný v Štrkovci",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Trnavský",
+      "okres": "Galanta",
+      "kataster": "Šoporňa",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 387",
+      "nazov": "Dub letný vo Svidníku",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Prešovský",
+      "okres": "Svidník",
+      "kataster": "Svidník",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 234",
+      "nazov": "Dub na Godrovej ulici",
+      "slovensky_nazov_taxonu": "dub",
+      "vedecky_nazov_taxonu": "Quercus L.",
+      "kraj": "Bratislavský",
+      "okres": "Bratislava I",
+      "kataster": "Staré Mesto",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 412",
+      "nazov": "Dub pri Moravskej ceste",
+      "slovensky_nazov_taxonu": "dub zimný",
+      "vedecky_nazov_taxonu": "Quercus petraea Matt.",
+      "kraj": "Trenčiansky",
+      "okres": "Myjava",
+      "kataster": "Myjava",
+      "organizacny_utvar_sop": "Správa CHKO Záhorie"
+    },
+    {
+      "ev_cislo": "S 221",
+      "nazov": "Dub na Moyzesovej ulici",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur",
+      "kraj": "Bratislavský",
+      "okres": "Bratislava I",
+      "kataster": "Staré Mesto",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 285",
+      "nazov": "Dub na Podzámskej ulici",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Nitriansky",
+      "okres": "Nové Zámky",
+      "kataster": "Nové Zámky",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 229",
+      "nazov": "Dub na Prvosienkovej ulici",
+      "slovensky_nazov_taxonu": "dub žltkastý",
+      "vedecky_nazov_taxonu": "Quercus dalechampii",
+      "kraj": "Bratislavský",
+      "okres": "Bratislava I",
+      "kataster": "Staré Mesto",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 214",
+      "nazov": "Dub na Šulekovej ulici",
+      "slovensky_nazov_taxonu": "dub jadranský",
+      "vedecky_nazov_taxonu": "Quercus virgiliana",
+      "kraj": "Bratislavský",
+      "okres": "Bratislava I",
+      "kataster": "Staré Mesto",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 147",
+      "nazov": "Dub pri Lutile",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Banskobystrický",
+      "okres": "Žiar nad Hronom",
+      "kataster": "Lutila",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 34",
+      "nazov": "Dub pri kaštieli",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Žilinský",
+      "okres": "Dolný Kubín",
+      "kataster": "Mokraď",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 297",
+      "nazov": "Dub v Brezničke",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Banskobystrický",
+      "okres": "Poltár",
+      "kataster": "Breznička",
+      "organizacny_utvar_sop": "Správa CHKO Cerová vrchovina"
+    },
+    {
+      "ev_cislo": "S 343",
+      "nazov": "Dub v Dúbrave",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Prešovský",
+      "okres": "Snina",
+      "kataster": "Dúbrava",
+      "organizacny_utvar_sop": "Správa NP Poloniny"
+    },
+    {
+      "ev_cislo": "S 248",
+      "nazov": "Dub v Hornom Mýte",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Trnavský",
+      "okres": "Dunajská Streda",
+      "kataster": "Horné Mýto",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 136",
+      "nazov": "Dub v Hostí",
+      "slovensky_nazov_taxonu": "dub cerový",
+      "vedecky_nazov_taxonu": "Quercus cerris L.",
+      "kraj": "Nitriansky",
+      "okres": "Zlaté Moravce",
+      "kataster": "Hostie",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 348",
+      "nazov": "Dub v Humennom",
+      "slovensky_nazov_taxonu": "dub sivý",
+      "vedecky_nazov_taxonu": "Quercus pedunculiflora K.Koch",
+      "kraj": "Prešovský",
+      "okres": "Humenné",
+      "kataster": "Humenné",
+      "organizacny_utvar_sop": "Správa CHKO Východné Karpaty"
+    },
+    {
+      "ev_cislo": "S 385",
+      "nazov": "Dub v Hunkovciach",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Prešovský",
+      "okres": "Svidník",
+      "kataster": "Hunkovce",
+      "organizacny_utvar_sop": "Správa CHKO Východné Karpaty"
+    },
+    {
+      "ev_cislo": "S 340",
+      "nazov": "Dub v Joviciach",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Košický",
+      "okres": "Rožňava",
+      "kataster": "Jovice",
+      "organizacny_utvar_sop": "Správa NP Slovenský kras"
+    },
+    {
+      "ev_cislo": "S 239",
+      "nazov": "Dub v Kostolnej Gale",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Trnavský",
+      "okres": "Dunajská Streda",
+      "kataster": "Kostolná Gala",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 52",
+      "nazov": "Dub v Kremnici",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Banskobystrický",
+      "okres": "Žiar nad Hronom",
+      "kataster": "Kremnica",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 249",
+      "nazov": "Dub v Michale na Ostrove",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Trnavský",
+      "okres": "Dunajská Streda",
+      "kataster": "Michal na Ostrove",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 397",
+      "nazov": "Dub v Michalovciach",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Košický",
+      "okres": "Michalovce",
+      "kataster": "Michalovce",
+      "organizacny_utvar_sop": "Správa CHKO Vihorlat"
+    },
+    {
+      "ev_cislo": "S 125",
+      "nazov": "Dub v Prosieku",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš",
+      "kataster": "Prosiek",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 459",
+      "nazov": "Dub v Pustom Mlyne",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Trnavský",
+      "okres": "Senica",
+      "kataster": "Cerová-Lieskové",
+      "organizacny_utvar_sop": "Správa CHKO Záhorie"
+    },
+    {
+      "ev_cislo": "S 395",
+      "nazov": "Dub v Rakovci n/Ondavou II.",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Košický",
+      "okres": "Michalovce",
+      "kataster": "Rakovec nad Ondavou",
+      "organizacny_utvar_sop": "Správa CHKO Vihorlat"
+    },
+    {
+      "ev_cislo": "S 367",
+      "nazov": "Dub v Rudlove",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Prešovský",
+      "okres": "Vranov nad Topľou",
+      "kataster": "Rudlov",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 159",
+      "nazov": "Dub v Sečiankach",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Banskobystrický",
+      "okres": "Veľký Krtíš",
+      "kataster": "Sečianky",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 47",
+      "nazov": "Duby na Trojačke",
+      "slovensky_nazov_taxonu": "dub zimný",
+      "vedecky_nazov_taxonu": "Quercus petrea (Matt.)Liebl.",
+      "kraj": "Žilinský",
+      "okres": "Čadca",
+      "kataster": "Makov",
+      "organizacny_utvar_sop": "Správa CHKO Kysuce"
+    },
+    {
+      "ev_cislo": "S 22",
+      "nazov": "Duby pred budovou detskej ambulancie",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Žilinský",
+      "okres": "Dolný Kubín",
+      "kataster": "Istebné",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 131",
+      "nazov": "Duby pri zámku v Slovenskej Ľupči",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Banskobystrický",
+      "okres": "Banská Bystrica",
+      "kataster": "Slovenská Ľupča",
+      "organizacny_utvar_sop": "Správa NP Nízke Tatry"
+    },
+    {
+      "ev_cislo": "S 286",
+      "nazov": "Duby v Berku",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Nitriansky",
+      "okres": "Nové Zámky",
+      "kataster": "Nové Zámky",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 49",
+      "nazov": "Duby v Bijacovciach",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Prešovský",
+      "okres": "Levoča",
+      "kataster": "Bijacovce",
+      "organizacny_utvar_sop": "Správa NP Slovenský raj"
+    },
+    {
+      "ev_cislo": "S 300",
+      "nazov": "Duby v Dobrej Nive",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Banskobystrický",
+      "okres": "Zvolen",
+      "kataster": "Dobrá Niva",
+      "organizacny_utvar_sop": "Správa CHKO Poľana"
+    },
+    {
+      "ev_cislo": "S 299",
+      "nazov": "Duby v Kováčovej",
+      "slovensky_nazov_taxonu": "dub letný, dub zimný",
+      "vedecky_nazov_taxonu": "Quercus robur L., Quercus petraea (Matt.) Liebl.",
+      "kraj": "Banskobystrický",
+      "okres": "Zvolen",
+      "kataster": "Kováčová",
+      "organizacny_utvar_sop": "Správa CHKO Poľana"
+    },
+    {
+      "ev_cislo": "S 382",
+      "nazov": "Duby v Krajnom Čiernom",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Prešovský",
+      "okres": "Svidník",
+      "kataster": "Krajné Čierno",
+      "organizacny_utvar_sop": "Správa CHKO Východné Karpaty"
+    },
+    {
+      "ev_cislo": "S 339",
+      "nazov": "Duby v Krásnohorskom Podhradí",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Košický",
+      "okres": "Rožňava",
+      "kataster": "Krásnohorské Podhradie",
+      "organizacny_utvar_sop": "Správa NP Slovenský kras"
+    },
+    {
+      "ev_cislo": "S 414",
+      "nazov": "Duby v Parchovanoch",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Košický",
+      "okres": "Trebišov",
+      "kataster": "Parchovany",
+      "organizacny_utvar_sop": "Správa CHKO Latorica"
+    },
+    {
+      "ev_cislo": "S 408",
+      "nazov": "Duby v Pečovskej Novej Vsi",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Prešovský",
+      "okres": "Sabinov",
+      "kataster": "Pečovská Nová Ves",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 488",
+      "nazov": "Duby v bažantnici",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur",
+      "kraj": "Nitriansky",
+      "okres": "Nové Zámky",
+      "kataster": "Palárikovo",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 56",
+      "nazov": "Duglaska v Starej Kremničke",
+      "slovensky_nazov_taxonu": "duglaska tisolistá",
+      "vedecky_nazov_taxonu": "Pseudotsuga menziesii (Mirb.) Franco",
+      "kraj": "Banskobystrický",
+      "okres": "Žiar nad Hronom",
+      "kataster": "Stará Kremnička",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 355",
+      "nazov": "Dve lipy malolisté v Rešici",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Košický",
+      "okres": "Košice - okolie",
+      "kataster": "Rešica",
+      "organizacny_utvar_sop": "Správa NP Slovenský kras"
+    },
+    {
+      "ev_cislo": "S 487",
+      "nazov": "Fándlyho jabloň",
+      "slovensky_nazov_taxonu": "jabloň domáca",
+      "vedecky_nazov_taxonu": "Malus domestica",
+      "kraj": "Trnavský",
+      "okres": "Trnava",
+      "kataster": "Naháč",
+      "organizacny_utvar_sop": "Správa CHKO Malé Karpaty"
+    },
+    {
+      "ev_cislo": "S 456",
+      "nazov": "Gaštan jedlý v Častej",
+      "slovensky_nazov_taxonu": "gaštan jedlý",
+      "vedecky_nazov_taxonu": "Castanea sativa Mill.",
+      "kraj": "Bratislavský",
+      "okres": "Pezinok",
+      "kataster": "Častá",
+      "organizacny_utvar_sop": "Správa CHKO Malé Karpaty"
+    },
+    {
+      "ev_cislo": "S 228",
+      "nazov": "Gaštan na Karabinského ulici",
+      "slovensky_nazov_taxonu": "gaštan jedlý",
+      "vedecky_nazov_taxonu": "Castanea sativa",
+      "kraj": "Bratislavský",
+      "okres": "Bratislava I",
+      "kataster": "Staré Mesto",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 402",
+      "nazov": "Gaštan nad Vápenkou",
+      "slovensky_nazov_taxonu": "gaštan jedlý",
+      "vedecky_nazov_taxonu": "Castanea sativa Mill.",
+      "kraj": "Trenčiansky",
+      "okres": "Nové Mesto nad Váhom",
+      "kataster": "Nové Mesto nad Váhom",
+      "organizacny_utvar_sop": "Správa CHKO Malé Karpaty"
+    },
+    {
+      "ev_cislo": "S 154",
+      "nazov": "Gaštan v Modrom Kameni",
+      "slovensky_nazov_taxonu": "gaštan jedlý",
+      "vedecky_nazov_taxonu": "Castanea sativa Mill.",
+      "kraj": "Banskobystrický",
+      "okres": "Veľký Krtíš",
+      "kataster": "Modrý Kameň",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 144",
+      "nazov": "Gaštan v Štiavnických Baniach",
+      "slovensky_nazov_taxonu": "gaštan jedlý",
+      "vedecky_nazov_taxonu": "Castanea sativa Mill.",
+      "kraj": "Banskobystrický",
+      "okres": "Banská Štiavnica",
+      "kataster": "Štiavnické Bane",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 259",
+      "nazov": "Gaštanica",
+      "slovensky_nazov_taxonu": "gaštan jedlý",
+      "vedecky_nazov_taxonu": "Castanea sativa Mill.",
+      "kraj": "Trenčiansky",
+      "okres": "Nové Mesto nad Váhom",
+      "kataster": "Zemianske Podhradie",
+      "organizacny_utvar_sop": "Správa CHKO Biele Karpaty"
+    },
+    {
+      "ev_cislo": "S 158",
+      "nazov": "Gaštany v Príbelciach",
+      "slovensky_nazov_taxonu": "gaštan jedlý",
+      "vedecky_nazov_taxonu": "Castanea sativa Mill.",
+      "kraj": "Banskobystrický",
+      "okres": "Veľký Krtíš",
+      "kataster": "Dolné Príbelce",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 331",
+      "nazov": "Gaštany a platan v Hucíne",
+      "slovensky_nazov_taxonu": "pagaštan konský, platan západný",
+      "vedecky_nazov_taxonu": "Aesculus hippocastanum L., Platanus occidentalis L.",
+      "kraj": "Banskobystrický",
+      "okres": "Revúca",
+      "kataster": "Hucín",
+      "organizacny_utvar_sop": "Správa NP Muránska planina"
+    },
+    {
+      "ev_cislo": "S 157",
+      "nazov": "Gaštany na Judinom vrchu",
+      "slovensky_nazov_taxonu": "gaštan jedlý",
+      "vedecky_nazov_taxonu": "Castanea sativa Mill.",
+      "kraj": "Banskobystrický",
+      "okres": "Veľký Krtíš",
+      "kataster": "Modrý Kameň",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 156",
+      "nazov": "Gaštany na Krakorovom vrchu",
+      "slovensky_nazov_taxonu": "gaštan jedlý",
+      "vedecky_nazov_taxonu": "Castanea sativa Mill.",
+      "kraj": "Banskobystrický",
+      "okres": "Veľký Krtíš",
+      "kataster": "Modrý Kameň",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 484",
+      "nazov": "Gaštany v Ratkovskom Bystrom",
+      "slovensky_nazov_taxonu": "gaštan jedlý",
+      "vedecky_nazov_taxonu": "Castanea sativa",
+      "kraj": "Banskobystrický",
+      "okres": "Revúca",
+      "kataster": "Ratkovské Bystré",
+      "organizacny_utvar_sop": "Správa NP Muránska planina"
+    },
+    {
+      "ev_cislo": "S 296",
+      "nazov": "Ginko dvojlaločné v Lučenci",
+      "slovensky_nazov_taxonu": "ginko dvojlaločné",
+      "vedecky_nazov_taxonu": "Ginkgo biloba L.",
+      "kraj": "Banskobystrický",
+      "okres": "Lučenec",
+      "kataster": "Lučenec",
+      "organizacny_utvar_sop": "Správa CHKO Cerová vrchovina"
+    },
+    {
+      "ev_cislo": "S 215",
+      "nazov": "Ginko na Godrovej ulici",
+      "slovensky_nazov_taxonu": "ginko dvojlaločné",
+      "vedecky_nazov_taxonu": "Ginkgo biloba",
+      "kraj": "Bratislavský",
+      "okres": "Bratislava I",
+      "kataster": "Staré Mesto",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 361",
+      "nazov": "Ginko na Masarykovej ulici",
+      "slovensky_nazov_taxonu": "ginko dvojlaločné",
+      "vedecky_nazov_taxonu": "Ginkgo biloba L.",
+      "kraj": "Košický",
+      "okres": "Košice I",
+      "kataster": "Stredné Mesto",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 8",
+      "nazov": "Ginko v Abramovej",
+      "slovensky_nazov_taxonu": "ginko dvojlaločné",
+      "vedecky_nazov_taxonu": "Ginkgo biloba L.",
+      "kraj": "Žilinský",
+      "okres": "Turčianske Teplice",
+      "kataster": "Abramová",
+      "organizacny_utvar_sop": "Správa NP Veľká Fatra"
+    },
+    {
+      "ev_cislo": "S 346",
+      "nazov": "Ginko v Humennom",
+      "slovensky_nazov_taxonu": "ginko dvojlaločné",
+      "vedecky_nazov_taxonu": "Ginkgo biloba L.",
+      "kraj": "Prešovský",
+      "okres": "Humenné",
+      "kataster": "Humenné",
+      "organizacny_utvar_sop": "Správa CHKO Východné Karpaty"
+    },
+    {
+      "ev_cislo": "S 71",
+      "nazov": "Ginko v Mednom",
+      "slovensky_nazov_taxonu": "ginko dvojlaločné",
+      "vedecky_nazov_taxonu": "Ginkgo biloba L.",
+      "kraj": "Trenčiansky",
+      "okres": "Púchov",
+      "kataster": "Medné",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 471",
+      "nazov": "Ginko v Súdovciach",
+      "slovensky_nazov_taxonu": "ginko dvojlaločné",
+      "vedecky_nazov_taxonu": "Ginkgo biloba L.",
+      "kraj": "Banskobystrický",
+      "okres": "Krupina",
+      "kataster": "Súdovce",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 499",
+      "nazov": "Grinavský topoľ",
+      "slovensky_nazov_taxonu": "topoľ čierny",
+      "vedecky_nazov_taxonu": "Populus nigra",
+      "kraj": "Bratislavský",
+      "okres": "Pezinok",
+      "kataster": "Grinava",
+      "organizacny_utvar_sop": "Správa CHKO Malé Karpaty"
+    },
+    {
+      "ev_cislo": "S 91",
+      "nazov": "Hadí smrek v Nesluši",
+      "slovensky_nazov_taxonu": "smrek obyčajný",
+      "vedecky_nazov_taxonu": "Picea abies (L.) H. Karst v. cranstonii",
+      "kraj": "Žilinský",
+      "okres": "Kysucké Nové Mesto",
+      "kataster": "Nesluša",
+      "organizacny_utvar_sop": "Správa CHKO Kysuce"
+    },
+    {
+      "ev_cislo": "S 440",
+      "nazov": "Hatnianska lipa",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Trenčiansky",
+      "okres": "Považská Bystrica",
+      "kataster": "Hatné",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 449",
+      "nazov": "Hodrušský gaštan",
+      "slovensky_nazov_taxonu": "gaštan jedlý",
+      "vedecky_nazov_taxonu": "Castanea sativa Mill.",
+      "kraj": "Banskobystrický",
+      "okres": "Žarnovica",
+      "kataster": "Banská Hodruša",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 475",
+      "nazov": "Hrab pri Lukovom",
+      "slovensky_nazov_taxonu": "hrab obyčajný",
+      "vedecky_nazov_taxonu": "Carpinus betulus L.",
+      "kraj": "Banskobystrický",
+      "okres": "Zvolen",
+      "kataster": "Lukové",
+      "organizacny_utvar_sop": "Správa CHKO Poľana"
+    },
+    {
+      "ev_cislo": "S 68",
+      "nazov": "Hrab v Bohuniciach",
+      "slovensky_nazov_taxonu": "hrab obyčajný",
+      "vedecky_nazov_taxonu": "Carpinus betulus L.",
+      "kraj": "Trenčiansky",
+      "okres": "Ilava",
+      "kataster": "Bohunice",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 364",
+      "nazov": "Hradištské gaštany",
+      "slovensky_nazov_taxonu": "gaštan jedlý",
+      "vedecky_nazov_taxonu": "Castanea sativa Mill.",
+      "kraj": "Banskobystrický",
+      "okres": "Poltár",
+      "kataster": "Hradište",
+      "organizacny_utvar_sop": "Správa CHKO Cerová vrchovina"
+    },
+    {
+      "ev_cislo": "S 2",
+      "nazov": "Hrochoťská lipa",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Banskobystrický",
+      "okres": "Banská Bystrica",
+      "kataster": "Hrochoť",
+      "organizacny_utvar_sop": "Správa CHKO Poľana"
+    },
+    {
+      "ev_cislo": "S 304",
+      "nazov": "Hruška pod Baranovom",
+      "slovensky_nazov_taxonu": "hruška planá",
+      "vedecky_nazov_taxonu": "Pyrus pyraster (L.) Burgsd.",
+      "kraj": "Banskobystrický",
+      "okres": "Banská Bystrica",
+      "kataster": "Kostiviarska",
+      "organizacny_utvar_sop": "Správa NP Nízke Tatry"
+    },
+    {
+      "ev_cislo": "S 289",
+      "nazov": "Hruška v Berku",
+      "slovensky_nazov_taxonu": "hruška obyčajná",
+      "vedecky_nazov_taxonu": "Pyrus communis L.",
+      "kraj": "Nitriansky",
+      "okres": "Nové Zámky",
+      "kataster": "Nové Zámky",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 422",
+      "nazov": "Hruška zelienka",
+      "slovensky_nazov_taxonu": "hruška obyčajná",
+      "vedecky_nazov_taxonu": "Pyrus communis L. emend Burgsd.",
+      "kraj": "Banskobystrický",
+      "okres": "Žarnovica",
+      "kataster": "Nová Baňa",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 29",
+      "nazov": "Jasen pri budove lesnej správy",
+      "slovensky_nazov_taxonu": "jaseň štíhly",
+      "vedecky_nazov_taxonu": "Fraxinus excelsior L.",
+      "kraj": "Žilinský",
+      "okres": "Dolný Kubín",
+      "kataster": "Párnica",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 433",
+      "nazov": "Jasenická lipa",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Trenčiansky",
+      "okres": "Považská Bystrica",
+      "kataster": "Jasenica",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 227",
+      "nazov": "Jaseň na Rudnayovom námestí",
+      "slovensky_nazov_taxonu": "jaseň štíhly",
+      "vedecky_nazov_taxonu": "Fraxinus excelsior",
+      "kraj": "Bratislavský",
+      "okres": "Bratislava I",
+      "kataster": "Staré Mesto",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 252",
+      "nazov": "Jaseň pod Buchlovom",
+      "slovensky_nazov_taxonu": "jaseň štíhly",
+      "vedecky_nazov_taxonu": "Fraxinus excelsior L.",
+      "kraj": "Trenčiansky",
+      "okres": "Prievidza",
+      "kataster": "Čereňany",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 359",
+      "nazov": "Jaseň pri Angeline",
+      "slovensky_nazov_taxonu": "jaseň štíhly",
+      "vedecky_nazov_taxonu": "Fraxinus excelsior L.",
+      "kraj": "Košický",
+      "okres": "Košice I",
+      "kataster": "Severné Mesto",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 25",
+      "nazov": "Jaseň pri kaštieli",
+      "slovensky_nazov_taxonu": "jaseň štíhly",
+      "vedecky_nazov_taxonu": "Fraxinus excelsior L.",
+      "kraj": "Žilinský",
+      "okres": "Dolný Kubín",
+      "kataster": "Istebné",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 67",
+      "nazov": "Jaseň v Zliechove",
+      "slovensky_nazov_taxonu": "jaseň štíhly",
+      "vedecky_nazov_taxonu": "Fraxinus excelsior L.",
+      "kraj": "Trenčiansky",
+      "okres": "Ilava",
+      "kataster": "Zliechov",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 314",
+      "nazov": "Javor v Kamienke",
+      "slovensky_nazov_taxonu": "javor horský",
+      "vedecky_nazov_taxonu": "Acer pseudoplatanus",
+      "kraj": "Prešovský",
+      "okres": "Stará Ľubovňa",
+      "kataster": "Kamienka",
+      "organizacny_utvar_sop": "Správa Pieninského NP"
+    },
+    {
+      "ev_cislo": "S 492",
+      "nazov": "Javor v Osturni",
+      "slovensky_nazov_taxonu": "javor horský",
+      "vedecky_nazov_taxonu": "Acer pseudoplatanus",
+      "kraj": "Prešovský",
+      "okres": "Kežmarok",
+      "kataster": "Osturňa",
+      "organizacny_utvar_sop": "Správa Pieninského NP"
+    },
+    {
+      "ev_cislo": "S 116",
+      "nazov": "Javor v Ružomberku pod Tichým",
+      "slovensky_nazov_taxonu": "javor mliečny",
+      "vedecky_nazov_taxonu": "Acer platanoides L.",
+      "kraj": "Žilinský",
+      "okres": "Ružomberok",
+      "kataster": "Ružomberok",
+      "organizacny_utvar_sop": "Správa NP Nízke Tatry"
+    },
+    {
+      "ev_cislo": "S 188",
+      "nazov": "Javor v Žiline",
+      "slovensky_nazov_taxonu": "javor cukrový",
+      "vedecky_nazov_taxonu": "Acer saccharinum L.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Žilina",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 197",
+      "nazov": "Javory v Stránskom",
+      "slovensky_nazov_taxonu": "javor horský",
+      "vedecky_nazov_taxonu": "Acer pseudoplatanus L.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Stránske",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 140",
+      "nazov": "Jedle na Mláčiku",
+      "slovensky_nazov_taxonu": "jedľa biela",
+      "vedecky_nazov_taxonu": "Abies alba Mill.",
+      "kraj": "Banskobystrický",
+      "okres": "Zvolen",
+      "kataster": "Železná Breznica",
+      "organizacny_utvar_sop": "Správa CHKO Poľana"
+    },
+    {
+      "ev_cislo": "S 453",
+      "nazov": "Jedľa v Hrdzavej doline",
+      "slovensky_nazov_taxonu": "jedľa biela",
+      "vedecky_nazov_taxonu": "Abies alba Mill.",
+      "kraj": "Banskobystrický",
+      "okres": "Revúca",
+      "kataster": "Muráň",
+      "organizacny_utvar_sop": "Správa NP Muránska planina"
+    },
+    {
+      "ev_cislo": "S 225",
+      "nazov": "Jedľa v Kráľovskom údolí",
+      "slovensky_nazov_taxonu": "jedľa srienistá",
+      "vedecky_nazov_taxonu": "Abies concolor",
+      "kraj": "Bratislavský",
+      "okres": "Bratislava I",
+      "kataster": "Staré Mesto",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 114",
+      "nazov": "Jedľa v L. Osade - Teplô",
+      "slovensky_nazov_taxonu": "jedľa biela",
+      "vedecky_nazov_taxonu": "Abies alba Mill.",
+      "kraj": "Žilinský",
+      "okres": "Ružomberok",
+      "kataster": "Liptovské Revúce",
+      "organizacny_utvar_sop": "Správa NP Veľká Fatra"
+    },
+    {
+      "ev_cislo": "S 101",
+      "nazov": "Kalnianske topole",
+      "slovensky_nazov_taxonu": "topoľ čierny",
+      "vedecky_nazov_taxonu": "Populus nigra L.",
+      "kraj": "Nitriansky",
+      "okres": "Levice",
+      "kataster": "Kalná",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 232",
+      "nazov": "Katalpa na Mickiewiczovej ulici",
+      "slovensky_nazov_taxonu": "katalpa bignóniovitá",
+      "vedecky_nazov_taxonu": "Catalpa bignonioides",
+      "kraj": "Bratislavský",
+      "okres": "Bratislava I",
+      "kataster": "Staré Mesto",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 149",
+      "nazov": "Katalpa v Hnúšti",
+      "slovensky_nazov_taxonu": "katalpa bignóniovitá",
+      "vedecky_nazov_taxonu": "Catalpa bignonioides Walt.",
+      "kraj": "Banskobystrický",
+      "okres": "Rimavská Sobota",
+      "kataster": "Hnúšťa",
+      "organizacny_utvar_sop": "Správa CHKO Cerová vrchovina"
+    },
+    {
+      "ev_cislo": "S 415",
+      "nazov": "Kazimírske duby",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Košický",
+      "okres": "Trebišov",
+      "kataster": "Veľký Kazimír",
+      "organizacny_utvar_sop": "Správa CHKO Latorica"
+    },
+    {
+      "ev_cislo": "S 446",
+      "nazov": "Klobušické platany",
+      "slovensky_nazov_taxonu": "platan západný",
+      "vedecky_nazov_taxonu": "Platanus occidentalis L.",
+      "kraj": "Trenčiansky",
+      "okres": "Ilava",
+      "kataster": "Klobušice",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 442",
+      "nazov": "Klobušický javor",
+      "slovensky_nazov_taxonu": "javor cukrový",
+      "vedecky_nazov_taxonu": "Acer saccharinum L.",
+      "kraj": "Trenčiansky",
+      "okres": "Ilava",
+      "kataster": "Klobušice",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 240",
+      "nazov": "Koelreuterie v Hubiciach",
+      "slovensky_nazov_taxonu": "jaseňovec metlinatý, jeseňovec metlinatý",
+      "vedecky_nazov_taxonu": "Koelreuteria paniculata Laxm., Koelreuteria paniculata",
+      "kraj": "Trnavský",
+      "okres": "Dunajská Streda",
+      "kataster": "Hubice",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 126",
+      "nazov": "Koháryho dub",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Banskobystrický",
+      "okres": "Krupina",
+      "kataster": "Krnišov",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 16",
+      "nazov": "Korvínova lipa",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Banskobystrický",
+      "okres": "Banská Bystrica",
+      "kataster": "Slovenská Ľupča",
+      "organizacny_utvar_sop": "Správa NP Nízke Tatry"
+    },
+    {
+      "ev_cislo": "S 100",
+      "nazov": "Kozárovská lipa",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop",
+      "kraj": "Nitriansky",
+      "okres": "Levice",
+      "kataster": "Kozárovce",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 444",
+      "nazov": "Kvašovská lipa",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Trenčiansky",
+      "okres": "Považská Bystrica",
+      "kataster": "Považská Bystrica",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 507",
+      "nazov": "Kľacké duglasky",
+      "slovensky_nazov_taxonu": "duglaska tisolistá",
+      "vedecky_nazov_taxonu": "Pseudotsuga menziesii",
+      "kraj": "Banskobystrický",
+      "okres": "Žarnovica",
+      "kataster": "Kľak",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 88",
+      "nazov": "Lipa v Pažitiach",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Kysucké Nové Mesto",
+      "kataster": "Lopušné Pažite",
+      "organizacny_utvar_sop": "Správa CHKO Kysuce"
+    },
+    {
+      "ev_cislo": "S 357",
+      "nazov": "Lipa malolistá v Hutníkoch",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Košický",
+      "okres": "Košice - okolie",
+      "kataster": "Sokoľany",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 392",
+      "nazov": "Lipa malolistá v Miroli",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Prešovský",
+      "okres": "Svidník",
+      "kataster": "Miroľa",
+      "organizacny_utvar_sop": "Správa CHKO Východné Karpaty"
+    },
+    {
+      "ev_cislo": "S 405",
+      "nazov": "Lipa malolistá v Suchej",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Prešovský",
+      "okres": "Stropkov",
+      "kataster": "Suchá",
+      "organizacny_utvar_sop": "Správa CHKO Východné Karpaty"
+    },
+    {
+      "ev_cislo": "S 163",
+      "nazov": "Lipa malolistá v Šali",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Nitriansky",
+      "okres": "Šaľa",
+      "kataster": "Šaľa",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 377",
+      "nazov": "Lipa malolistá vo Svidníku",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Prešovský",
+      "okres": "Svidník",
+      "kataster": "Svidník",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 356",
+      "nazov": "Lipa malolistá vo Veľkoidanskom parku",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Košický",
+      "okres": "Košice - okolie",
+      "kataster": "Veľká Ida",
+      "organizacny_utvar_sop": "Správa NP Slovenský kras"
+    },
+    {
+      "ev_cislo": "S 270",
+      "nazov": "Lipa mimo obce nad Bielou Oravou",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Námestovo",
+      "kataster": "Lomná",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 212",
+      "nazov": "Lipa na Partizánskej ulici",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata",
+      "kraj": "Bratislavský",
+      "okres": "Bratislava I",
+      "kataster": "Staré Mesto",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 17",
+      "nazov": "Lipa na Pustovci",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Prešovský",
+      "okres": "Kežmarok",
+      "kataster": "Toporec",
+      "organizacny_utvar_sop": "Správa Pieninského NP"
+    },
+    {
+      "ev_cislo": "S 28",
+      "nazov": "Lipa na cintoríne",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Dolný Kubín",
+      "kataster": "Pokryváč",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 45",
+      "nazov": "Lipa na cintoríne",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Námestovo",
+      "kataster": "Rabčice",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 272",
+      "nazov": "Lipa na cintoríne",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Námestovo",
+      "kataster": "Lomná",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 469",
+      "nazov": "Lipa na cintoríne v Dobrej Vode",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Trnavský",
+      "okres": "Trnava",
+      "kataster": "Dobrá Voda",
+      "organizacny_utvar_sop": "Správa CHKO Malé Karpaty"
+    },
+    {
+      "ev_cislo": "S 43",
+      "nazov": "Lipa na súkromnom pozemku",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Námestovo",
+      "kataster": "Oravské Veselé",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 416",
+      "nazov": "Lipa na Šajbách",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Trenčiansky",
+      "okres": "Prievidza",
+      "kataster": "Koš",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 90",
+      "nazov": "Lipa na Šindelnej",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Kysucké Nové Mesto",
+      "kataster": "Nesluša",
+      "organizacny_utvar_sop": "Správa CHKO Kysuce"
+    },
+    {
+      "ev_cislo": "S 20",
+      "nazov": "Lipa oproti budove kultúrneho strediska",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Dolný Kubín",
+      "kataster": "Dlhá nad Oravou",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 12",
+      "nazov": "Lipa pred kláštorom",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Martin",
+      "kataster": "Kláštor pod Znievom",
+      "organizacny_utvar_sop": "Správa NP Veľká Fatra"
+    },
+    {
+      "ev_cislo": "S 266",
+      "nazov": "Lipa pri Hronseckom kaštieli",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Banskobystrický",
+      "okres": "Banská Bystrica",
+      "kataster": "Hronsek",
+      "organizacny_utvar_sop": "Správa CHKO Poľana"
+    },
+    {
+      "ev_cislo": "S 19",
+      "nazov": "Lipa pri Kysuckom Novom Meste",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Kysucké Nové Mesto",
+      "kataster": "Kysucké Nové Mesto",
+      "organizacny_utvar_sop": "Správa CHKO Kysuce"
+    },
+    {
+      "ev_cislo": "S 424",
+      "nazov": "Lipa pri Múzeu Prvej SNR",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Trenčiansky",
+      "okres": "Myjava",
+      "kataster": "Myjava",
+      "organizacny_utvar_sop": "Správa CHKO Záhorie"
+    },
+    {
+      "ev_cislo": "S 30",
+      "nazov": "Lipa pri budove lesnej správy",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Dolný Kubín",
+      "kataster": "Párnica",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 37",
+      "nazov": "Lipa pri býv. pivovare",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphollos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Tvrdošín",
+      "kataster": "Podbiel",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 27",
+      "nazov": "Lipa pri evanjelickom kostole",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Dolný Kubín",
+      "kataster": "Veličná",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 112",
+      "nazov": "Lipa pri kostole",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš",
+      "kataster": "Prosiek",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 86",
+      "nazov": "Lipa pri kostole",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Kysucké Nové Mesto",
+      "kataster": "Snežnica",
+      "organizacny_utvar_sop": "Správa CHKO Kysuce"
+    },
+    {
+      "ev_cislo": "S 6",
+      "nazov": "Lipa pri kostole",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Martin",
+      "kataster": "Kláštor pod Znievom",
+      "organizacny_utvar_sop": "Správa NP Veľká Fatra"
+    },
+    {
+      "ev_cislo": "S 10",
+      "nazov": "Lipa pri kostole v Slovenskom Pravne",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Turčianske Teplice",
+      "kataster": "Slovenské Pravno",
+      "organizacny_utvar_sop": "Správa NP Veľká Fatra"
+    },
+    {
+      "ev_cislo": "S 465",
+      "nazov": "Lipa pri kostole v Smoleniciach",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Trnavský",
+      "okres": "Trnava",
+      "kataster": "Smolenice",
+      "organizacny_utvar_sop": "Správa CHKO Malé Karpaty"
+    },
+    {
+      "ev_cislo": "S 36",
+      "nazov": "Lipa pri pošte",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Tvrdošín",
+      "kataster": "Tvrdošín",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 306",
+      "nazov": "Lipa pri prameni",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Trenčiansky",
+      "okres": "Prievidza",
+      "kataster": "Diviacka Nová Ves",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 35",
+      "nazov": "Lipa pri rodinnom dome",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Dolný Kubín",
+      "kataster": "Malý Bysterec",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 445",
+      "nazov": "Lipa trinitárov v Ilave",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Trenčiansky",
+      "okres": "Ilava",
+      "kataster": "Ilava",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 401",
+      "nazov": "Lipa u Belanských",
+      "slovensky_nazov_taxonu": "lipa veľkolistá srdcovitolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos subsp. cordifolia (Besser) C.K. Schneid.",
+      "kraj": "Trenčiansky",
+      "okres": "Myjava",
+      "kataster": "Turá Lúka",
+      "organizacny_utvar_sop": "Správa CHKO Záhorie"
+    },
+    {
+      "ev_cislo": "S 381",
+      "nazov": "Lipa v Belejovciach",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Prešovský",
+      "okres": "Svidník",
+      "kataster": "Belejovce",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 74",
+      "nazov": "Lipa v Borčiciach",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Trenčiansky",
+      "okres": "Ilava",
+      "kataster": "Borčice",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 389",
+      "nazov": "Lipa v Brezničke",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Prešovský",
+      "okres": "Stropkov",
+      "kataster": "Breznička",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 129",
+      "nazov": "Lipa v Bzovíku",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Banskobystrický",
+      "okres": "Krupina",
+      "kataster": "Bzovík",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 127",
+      "nazov": "Lipa v Detvianskej Hute",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Banskobystrický",
+      "okres": "Detva",
+      "kataster": "Detvianska Huta",
+      "organizacny_utvar_sop": "Správa CHKO Poľana"
+    },
+    {
+      "ev_cislo": "S 182",
+      "nazov": "Lipa v Divinke",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Divinka",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 69",
+      "nazov": "Lipa v Dolnom Lieskovom",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Trenčiansky",
+      "okres": "Považská Bystrica",
+      "kataster": "Dolný Lieskov",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 135",
+      "nazov": "Lipa v Dolných Štitároch",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Nitriansky",
+      "okres": "Nitra",
+      "kataster": "Dolné Štitáre",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 180",
+      "nazov": "Lipa v Gbeľanoch",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Gbeľany",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 452",
+      "nazov": "Lipa v Gelnici",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Košický",
+      "okres": "Gelnica",
+      "kataster": "Gelnica",
+      "organizacny_utvar_sop": "Správa NP Slovenský raj"
+    },
+    {
+      "ev_cislo": "S 179",
+      "nazov": "Lipa v Hornom Hričove",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Horný Hričov",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 209",
+      "nazov": "Lipa v Hvozdnici",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Bytča",
+      "kataster": "Hvozdnica",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 120",
+      "nazov": "Lipa v Ivachnovej",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Ružomberok",
+      "kataster": "Ivachnová",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 119",
+      "nazov": "Lipa v Ivachnovej",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Ružomberok",
+      "kataster": "Ivachnová",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 323",
+      "nazov": "Lipa v Jamníku",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Košický",
+      "okres": "Spišská Nová Ves",
+      "kataster": "Jamník",
+      "organizacny_utvar_sop": "Správa NP Slovenský raj"
+    },
+    {
+      "ev_cislo": "S 349",
+      "nazov": "Lipa v Kamenici nad Cirochou",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Prešovský",
+      "okres": "Humenné",
+      "kataster": "Kamenica nad Cirochou",
+      "organizacny_utvar_sop": "Správa CHKO Východné Karpaty"
+    },
+    {
+      "ev_cislo": "S 177",
+      "nazov": "Lipa v Krasňanoch",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Krasňany",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 294",
+      "nazov": "Lipa v Kremnici - Leopold Šachta",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Banskobystrický",
+      "okres": "Žiar nad Hronom",
+      "kataster": "Kremnica",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 295",
+      "nazov": "Lipa v Kremnici-Staré Piargy",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Banskobystrický",
+      "okres": "Žiar nad Hronom",
+      "kataster": "Kremnické Bane",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 70",
+      "nazov": "Lipa v Lednickom Rovnom",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Trenčiansky",
+      "okres": "Púchov",
+      "kataster": "Lednické Rovne",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 176",
+      "nazov": "Lipa v Lietave",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Lietava",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 111",
+      "nazov": "Lipa v Liptovských Matiašovciach",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš",
+      "kataster": "Liptovské Matiašovce",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 110",
+      "nazov": "Lipa v Liptovských Matiašovciach",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš",
+      "kataster": "Liptovské Matiašovce",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 175",
+      "nazov": "Lipa v Lutišiach",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Lutiše",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 121",
+      "nazov": "Lipa v Madočanoch",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Ružomberok",
+      "kataster": "Madočany",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 46",
+      "nazov": "Lipa v Matiašovciach",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš",
+      "kataster": "Liptovské Matiašovce",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 388",
+      "nazov": "Lipa v Miňovciach",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Prešovský",
+      "okres": "Stropkov",
+      "kataster": "Miňovce",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 133",
+      "nazov": "Lipa v Motyčkách",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Banskobystrický",
+      "okres": "Banská Bystrica",
+      "kataster": "Motyčky",
+      "organizacny_utvar_sop": "Správa NP Nízke Tatry"
+    },
+    {
+      "ev_cislo": "S 59",
+      "nazov": "Lipa v Novej Bani",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Banskobystrický",
+      "okres": "Žarnovica",
+      "kataster": "Nová Baňa",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 109",
+      "nazov": "Lipa v Ondrašovej",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš",
+      "kataster": "Liptovská Ondrašová",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 202",
+      "nazov": "Lipa v Paštinej Závade",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Paština Závada",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 167",
+      "nazov": "Lipa v Pustých Úľanoch",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Trnavský",
+      "okres": "Galanta",
+      "kataster": "Pusté Úľany",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 201",
+      "nazov": "Lipa v Rajci",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Rajec",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 330",
+      "nazov": "Lipa v Rákoši na cintoríne",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Banskobystrický",
+      "okres": "Revúca",
+      "kataster": "Rákoš",
+      "organizacny_utvar_sop": "Správa NP Muránska planina"
+    },
+    {
+      "ev_cislo": "S 335",
+      "nazov": "Lipa v Silici",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Košický",
+      "okres": "Rožňava",
+      "kataster": "Silica",
+      "organizacny_utvar_sop": "Správa NP Slovenský kras"
+    },
+    {
+      "ev_cislo": "S 11",
+      "nazov": "Lipa v Sklenom pri kostole",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Turčianske Teplice",
+      "kataster": "Sklené",
+      "organizacny_utvar_sop": "Správa NP Veľká Fatra"
+    },
+    {
+      "ev_cislo": "S 123",
+      "nazov": "Lipa v Smrečanoch",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš",
+      "kataster": "Smrečany",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 502",
+      "nazov": "Lipa v Spišskom Bystrom",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata",
+      "kraj": "Prešovský",
+      "okres": "Poprad",
+      "kataster": "Spišské Bystré",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 117",
+      "nazov": "Lipa v Stankovanoch pri ObÚ",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Ružomberok",
+      "kataster": "Stankovany",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 118",
+      "nazov": "Lipa v Stankovanoch pri kostole",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Ružomberok",
+      "kataster": "Stankovany",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 477",
+      "nazov": "Lipa v Starej Bôrovej",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Martin",
+      "kataster": "Sklabinský Podzámok",
+      "organizacny_utvar_sop": "Správa NP Veľká Fatra"
+    },
+    {
+      "ev_cislo": "S 322",
+      "nazov": "Lipa v Stratenej",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Košický",
+      "okres": "Rožňava",
+      "kataster": "Stratená",
+      "organizacny_utvar_sop": "Správa NP Slovenský raj"
+    },
+    {
+      "ev_cislo": "S 196",
+      "nazov": "Lipa v Stránskom",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Stránske",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 193",
+      "nazov": "Lipa v Terchovej",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Terchová",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 191",
+      "nazov": "Lipa v Turí",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Turie",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 7",
+      "nazov": "Lipa v kláštornej záhrade",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Martin",
+      "kataster": "Kláštor pod Znievom",
+      "organizacny_utvar_sop": "Správa NP Veľká Fatra"
+    },
+    {
+      "ev_cislo": "S 451",
+      "nazov": "Lipa v obci Kojšov",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Košický",
+      "okres": "Gelnica",
+      "kataster": "Kojšov",
+      "organizacny_utvar_sop": "Správa NP Slovenský raj"
+    },
+    {
+      "ev_cislo": "S 315",
+      "nazov": "Lipa v obci Veľká Lesná",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Prešovský",
+      "okres": "Stará Ľubovňa",
+      "kataster": "Veľká Lesná",
+      "organizacny_utvar_sop": "Správa Pieninského NP"
+    },
+    {
+      "ev_cislo": "S 106",
+      "nazov": "Lipa v Ďuricovom sade",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš",
+      "kataster": "Liptovská Anna",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 181",
+      "nazov": "Lipa v Ďurčinej",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Ďurčiná",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 138",
+      "nazov": "Lipa v Ľubochni pri Kollárovom dome",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Ružomberok",
+      "kataster": "Ľubochňa",
+      "organizacny_utvar_sop": "Správa NP Veľká Fatra"
+    },
+    {
+      "ev_cislo": "S 204",
+      "nazov": "Lipa v Štiavniku",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphylos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Bytča",
+      "kataster": "Štiavnik",
+      "organizacny_utvar_sop": "Správa CHKO Kysuce"
+    },
+    {
+      "ev_cislo": "S 102",
+      "nazov": "Lipa veľkolistá v Tupej",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Nitriansky",
+      "okres": "Levice",
+      "kataster": "Chorvatice",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 318",
+      "nazov": "Lipanská lipa",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Prešovský",
+      "okres": "Sabinov",
+      "kataster": "Lipany",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 139",
+      "nazov": "Lipová alej",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Ružomberok",
+      "kataster": "Ľubochňa",
+      "organizacny_utvar_sop": "Správa NP Veľká Fatra"
+    },
+    {
+      "ev_cislo": "S 185",
+      "nazov": "Lipová aleja v Žiline - Bytčici",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Bytčica",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 275",
+      "nazov": "Lipského lipy",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Trenčiansky",
+      "okres": "Trenčín",
+      "kataster": "Sedličná",
+      "organizacny_utvar_sop": "Správa CHKO Biele Karpaty"
+    },
+    {
+      "ev_cislo": "S 455",
+      "nazov": "Lipy Eugena Suchoňa",
+      "slovensky_nazov_taxonu": "lipa malolistá, lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata, Tilia cordata Mill.",
+      "kraj": "Prešovský",
+      "okres": "Poprad",
+      "kataster": "Štrba",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 376",
+      "nazov": "Lipy malolisté v Radome",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Prešovský",
+      "okres": "Svidník",
+      "kataster": "Radoma",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 419",
+      "nazov": "Lipy na Hornej Rovni",
+      "slovensky_nazov_taxonu": "lipa malolistá, lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop., Tilia platyphyllos Scop.",
+      "kraj": "Banskobystrický",
+      "okres": "Banská Štiavnica",
+      "kataster": "Štiavnické Bane",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 84",
+      "nazov": "Lipy na Kopaniciach",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Kysucké Nové Mesto",
+      "kataster": "Rudinka",
+      "organizacny_utvar_sop": "Správa CHKO Kysuce"
+    },
+    {
+      "ev_cislo": "S 420",
+      "nazov": "Lipy na Kyslej",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Banskobystrický",
+      "okres": "Žarnovica",
+      "kataster": "Dolné Hámre",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 80",
+      "nazov": "Lipy na Litovelskej",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Kysucké Nové Mesto",
+      "kataster": "Kysucké Nové Mesto",
+      "organizacny_utvar_sop": "Správa CHKO Kysuce"
+    },
+    {
+      "ev_cislo": "S 39",
+      "nazov": "Lipy na cintoríne",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Tvrdošín",
+      "kataster": "Horný Štefanov",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 87",
+      "nazov": "Lipy na cintoríne",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Kysucké Nové Mesto",
+      "kataster": "Horný Vadičov",
+      "organizacny_utvar_sop": "Správa CHKO Kysuce"
+    },
+    {
+      "ev_cislo": "S 64",
+      "nazov": "Lipy na cintoríne vo Veľkej Čausi",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Trenčiansky",
+      "okres": "Prievidza",
+      "kataster": "Veľká Čausa",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 267",
+      "nazov": "Lipy na križovatke ciest Zázrivá - Žilina",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Dolný Kubín",
+      "kataster": "Zázrivá",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 81",
+      "nazov": "Lipy pod Vrchom",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Kysucké Nové Mesto",
+      "kataster": "Rudinka",
+      "organizacny_utvar_sop": "Správa CHKO Kysuce"
+    },
+    {
+      "ev_cislo": "S 3",
+      "nazov": "Lipy pri Hronseckom kostolíku",
+      "slovensky_nazov_taxonu": "lipa",
+      "vedecky_nazov_taxonu": "Tilia L.",
+      "kraj": "Banskobystrický",
+      "okres": "Banská Bystrica",
+      "kataster": "Hronsek",
+      "organizacny_utvar_sop": "Správa CHKO Poľana"
+    },
+    {
+      "ev_cislo": "S 432",
+      "nazov": "Lipy pri Kalvárii",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Trnavský",
+      "okres": "Trnava",
+      "kataster": "Trnava",
+      "organizacny_utvar_sop": "Správa CHKO Malé Karpaty"
+    },
+    {
+      "ev_cislo": "S 430",
+      "nazov": "Lipy pri Radave",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Nitriansky",
+      "okres": "Nové Zámky",
+      "kataster": "Hul",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 291",
+      "nazov": "Lipy pri bývalej mestskej strelnici v Banskej Štiavnici",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Banskobystrický",
+      "okres": "Banská Štiavnica",
+      "kataster": "Banská Štiavnica",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 21",
+      "nazov": "Lipy pri kostole",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Dolný Kubín",
+      "kataster": "Istebné",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 62",
+      "nazov": "Lipy pri kostole v Diviakoch nad Nitricou",
+      "slovensky_nazov_taxonu": "lipa malolistá, lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill., Tilia platyphyllos Scop.",
+      "kraj": "Trenčiansky",
+      "okres": "Prievidza",
+      "kataster": "Diviaky nad Nitricou",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 78",
+      "nazov": "Lipy pri kostole v Čadci",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphylos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Čadca",
+      "kataster": "Čadca",
+      "organizacny_utvar_sop": "Správa CHKO Kysuce"
+    },
+    {
+      "ev_cislo": "S 83",
+      "nazov": "Lipy u Beloni",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphylos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Čadca",
+      "kataster": "Makov",
+      "organizacny_utvar_sop": "Správa CHKO Kysuce"
+    },
+    {
+      "ev_cislo": "S 82",
+      "nazov": "Lipy u Kanderov",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphylos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Čadca",
+      "kataster": "Stará Bystrica",
+      "organizacny_utvar_sop": "Správa CHKO Kysuce"
+    },
+    {
+      "ev_cislo": "S 183",
+      "nazov": "Lipy v Belej",
+      "slovensky_nazov_taxonu": "lipa malolistá, lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill., Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Belá",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 210",
+      "nazov": "Lipy v Bytči - Hliníku",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Bytča",
+      "kataster": "Hliník nad Váhom",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 280",
+      "nazov": "Lipy v Dačovom Lome",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Banskobystrický",
+      "okres": "Veľký Krtíš",
+      "kataster": "Horný Dačov Lom",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 476",
+      "nazov": "Lipy v Doline",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Martin",
+      "kataster": "Necpaly",
+      "organizacny_utvar_sop": "Správa NP Veľká Fatra"
+    },
+    {
+      "ev_cislo": "S 143",
+      "nazov": "Lipy v Hrbôltovej",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Ružomberok",
+      "kataster": "Hrboltová",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 172",
+      "nazov": "Lipy v Kotešovej",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Bytča",
+      "kataster": "Kotešová",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 338",
+      "nazov": "Lipy v Kováčovej",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Košický",
+      "okres": "Rožňava",
+      "kataster": "Kováčová",
+      "organizacny_utvar_sop": "Správa NP Slovenský kras"
+    },
+    {
+      "ev_cislo": "S 124",
+      "nazov": "Lipy v Lipt. Matiašovciach",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš",
+      "kataster": "Liptovské Matiašovce",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 142",
+      "nazov": "Lipy v Liptovskom Trnovci",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš",
+      "kataster": "Liptovský Trnovec",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 203",
+      "nazov": "Lipy v Nezbudskej Lúčke",
+      "slovensky_nazov_taxonu": "lipa malolistá, lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill., Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Nezbudská Lúčka",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 199",
+      "nazov": "Lipy v Rajeckej Lesnej",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Rajecká Lesná",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 329",
+      "nazov": "Lipy v Revúcej pri štátnej ceste",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Banskobystrický",
+      "okres": "Revúca",
+      "kataster": "Revúca",
+      "organizacny_utvar_sop": "Správa NP Muránska planina"
+    },
+    {
+      "ev_cislo": "S 337",
+      "nazov": "Lipy v Rochovciach",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Košický",
+      "okres": "Rožňava",
+      "kataster": "Rochovce",
+      "organizacny_utvar_sop": "Správa NP Slovenský kras"
+    },
+    {
+      "ev_cislo": "S 384",
+      "nazov": "Lipy v Roztokoch",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Prešovský",
+      "okres": "Svidník",
+      "kataster": "Roztoky",
+      "organizacny_utvar_sop": "Správa CHKO Východné Karpaty"
+    },
+    {
+      "ev_cislo": "S 336",
+      "nazov": "Lipy v Rudnej",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Košický",
+      "okres": "Rožňava",
+      "kataster": "Rudná",
+      "organizacny_utvar_sop": "Správa NP Slovenský kras"
+    },
+    {
+      "ev_cislo": "S 325",
+      "nazov": "Lipy v Spišskej Novej Vsi",
+      "slovensky_nazov_taxonu": "lipa malolistá, lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill., Tilia platyphyllos Scop.",
+      "kraj": "Košický",
+      "okres": "Spišská Nová Ves",
+      "kataster": "Spišská Nová Ves",
+      "organizacny_utvar_sop": "Správa NP Slovenský raj"
+    },
+    {
+      "ev_cislo": "S 173",
+      "nazov": "Lipy v Súľove",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Bytča",
+      "kataster": "Súľov-Hradná",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 79",
+      "nazov": "Lipy v Turzovke",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Čadca",
+      "kataster": "Turzovka",
+      "organizacny_utvar_sop": "Správa CHKO Kysuce"
+    },
+    {
+      "ev_cislo": "S 205",
+      "nazov": "Lipy v Čičmanoch",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Čičmany",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 333",
+      "nazov": "Lipy v Štítniku",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Košický",
+      "okres": "Rožňava",
+      "kataster": "Štítnik",
+      "organizacny_utvar_sop": "Správa NP Slovenský kras"
+    },
+    {
+      "ev_cislo": "S 187",
+      "nazov": "Lipy v Žiline",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Žilina",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 186",
+      "nazov": "Lipy v Žiline - Žilinskej Lehote",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Žilinská Lehota",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 262",
+      "nazov": "Lipy v Župnom sirotinci",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Trenčiansky",
+      "okres": "Nové Mesto nad Váhom",
+      "kataster": "Beckov",
+      "organizacny_utvar_sop": "Správa CHKO Biele Karpaty"
+    },
+    {
+      "ev_cislo": "S 195",
+      "nazov": "Lipy vo Svederníku",
+      "slovensky_nazov_taxonu": "lipa malolistá, lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill., Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Svederník",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 190",
+      "nazov": "Lipy vo Višňovom",
+      "slovensky_nazov_taxonu": "lipa malolistá, lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill., Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Višňové",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 241",
+      "nazov": "Lipy vo Vrakúni",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Trnavský",
+      "okres": "Dunajská Streda",
+      "kataster": "Vrakúň",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 378",
+      "nazov": "Lipy vo Vyšnej Jedľovej",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Prešovský",
+      "okres": "Svidník",
+      "kataster": "Vyšná Jedľová",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 458",
+      "nazov": "Liskovská lipa",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Ružomberok",
+      "kataster": "Lisková",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 236",
+      "nazov": "Magnólia na Palisádach",
+      "slovensky_nazov_taxonu": "magnólia Soulangova",
+      "vedecky_nazov_taxonu": "Magnolia x soulangiana",
+      "kraj": "Bratislavský",
+      "okres": "Bratislava I",
+      "kataster": "Staré Mesto",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 222",
+      "nazov": "Magnólia na Somolického ulici",
+      "slovensky_nazov_taxonu": "magnólia Soulangova",
+      "vedecky_nazov_taxonu": "Magnolia x soulangiana",
+      "kraj": "Bratislavský",
+      "okres": "Bratislava I",
+      "kataster": "Staré Mesto",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 265",
+      "nazov": "Maklúra pomarančová",
+      "slovensky_nazov_taxonu": "maklura oranžová",
+      "vedecky_nazov_taxonu": "Maclura pomifera (Raf.) C.K.Schneid.",
+      "kraj": "Nitriansky",
+      "okres": "Nové Zámky",
+      "kataster": "Šurany",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 457",
+      "nazov": "Matiašovský topoľ",
+      "slovensky_nazov_taxonu": "topoľ čierny",
+      "vedecky_nazov_taxonu": "Populus nigra L.",
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš",
+      "kataster": "Liptovské Matiašovce",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 503",
+      "nazov": "Mazgalická lipa",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos",
+      "kraj": "Prešovský",
+      "okres": "Svidník",
+      "kataster": "Dlhoňa",
+      "organizacny_utvar_sop": "Správa CHKO Východné Karpaty"
+    },
+    {
+      "ev_cislo": "S 1",
+      "nazov": "Memorandové lipy v Martine",
+      "slovensky_nazov_taxonu": "lipa malolistá, lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill., Tilia plataphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Martin",
+      "kataster": "Martin",
+      "organizacny_utvar_sop": "Správa NP Veľká Fatra"
+    },
+    {
+      "ev_cislo": "S 260",
+      "nazov": "Mitické gaštany",
+      "slovensky_nazov_taxonu": "gaštan jedlý",
+      "vedecky_nazov_taxonu": "Castanea sativa Mill.",
+      "kraj": "Trenčiansky",
+      "okres": "Trenčín",
+      "kataster": "Trenčianske Mitice",
+      "organizacny_utvar_sop": "Správa CHKO Biele Karpaty"
+    },
+    {
+      "ev_cislo": "S 486",
+      "nazov": "Modranské oskoruše",
+      "slovensky_nazov_taxonu": "jarabina oskorušová",
+      "vedecky_nazov_taxonu": "Sorbus domestica",
+      "kraj": "Bratislavský",
+      "okres": "Pezinok",
+      "kataster": "Modra",
+      "organizacny_utvar_sop": "Správa CHKO Malé Karpaty"
+    },
+    {
+      "ev_cislo": "S 373",
+      "nazov": "Modrovská metasekvoja",
+      "slovensky_nazov_taxonu": "metasekvoja čínska",
+      "vedecky_nazov_taxonu": "Metasequoia glyptostroboides Hu et Cheng",
+      "kraj": "Trenčiansky",
+      "okres": "Nové Mesto nad Váhom",
+      "kataster": "Modrovka",
+      "organizacny_utvar_sop": "Správa CHKO Biele Karpaty"
+    },
+    {
+      "ev_cislo": "S 393",
+      "nazov": "Moruša v Tibave",
+      "slovensky_nazov_taxonu": "moruša biela",
+      "vedecky_nazov_taxonu": "Morus alba L.",
+      "kraj": "Košický",
+      "okres": "Sobrance",
+      "kataster": "Tibava",
+      "organizacny_utvar_sop": "Správa CHKO Vihorlat"
+    },
+    {
+      "ev_cislo": "S 409",
+      "nazov": "Myjavská lipa",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphylos Scop.",
+      "kraj": "Trenčiansky",
+      "okres": "Myjava",
+      "kataster": "Myjava",
+      "organizacny_utvar_sop": "Správa CHKO Záhorie"
+    },
+    {
+      "ev_cislo": "S 365",
+      "nazov": "Málinské maklury",
+      "slovensky_nazov_taxonu": "maklura oranžová",
+      "vedecky_nazov_taxonu": "Maclura pomifera (Raf.) C.K.Schneid.",
+      "kraj": "Banskobystrický",
+      "okres": "Poltár",
+      "kataster": "Málinec",
+      "organizacny_utvar_sop": "Správa CHKO Cerová vrchovina"
+    },
+    {
+      "ev_cislo": "S 233",
+      "nazov": "Novolipnický platan",
+      "slovensky_nazov_taxonu": "platan javorolistý",
+      "vedecky_nazov_taxonu": "Platanus hispanica Münchh.",
+      "kraj": "Bratislavský",
+      "okres": "Senec",
+      "kataster": "Nová Lipnica",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 264",
+      "nazov": "Orech čierny pri Mudroňove",
+      "slovensky_nazov_taxonu": "orech čierny",
+      "vedecky_nazov_taxonu": "Juglans nigra L.",
+      "kraj": "Nitriansky",
+      "okres": "Komárno",
+      "kataster": "Mudroňovo",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 429",
+      "nazov": "Orechy vo Veľkom lese",
+      "slovensky_nazov_taxonu": "orech čierny",
+      "vedecky_nazov_taxonu": "Juglans nigra L.",
+      "kraj": "Nitriansky",
+      "okres": "Nové Zámky",
+      "kataster": "Šurany",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 495",
+      "nazov": "Oskoruša v Devíne",
+      "slovensky_nazov_taxonu": "jarabina oskorušová",
+      "vedecky_nazov_taxonu": "Sorbus domestica",
+      "kraj": "Bratislavský",
+      "okres": "Bratislava IV",
+      "kataster": "Devín",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 278",
+      "nazov": "Oskoruša v Hrušove",
+      "slovensky_nazov_taxonu": "jarabina oskorušová",
+      "vedecky_nazov_taxonu": "Sorbus domestica L.",
+      "kraj": "Banskobystrický",
+      "okres": "Veľký Krtíš",
+      "kataster": "Hrušov",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 450",
+      "nazov": "Osuská lipa",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Trnavský",
+      "okres": "Senica",
+      "kataster": "Osuské",
+      "organizacny_utvar_sop": "Správa CHKO Záhorie"
+    },
+    {
+      "ev_cislo": "S 168",
+      "nazov": "Pagaštan konský v Gáni",
+      "slovensky_nazov_taxonu": "pagaštan konský",
+      "vedecky_nazov_taxonu": "Aesculus hippocastanum L.",
+      "kraj": "Trnavský",
+      "okres": "Galanta",
+      "kataster": "Gáň",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 353",
+      "nazov": "Pagaštan konský v Rozhanovciach",
+      "slovensky_nazov_taxonu": "pagaštan konský",
+      "vedecky_nazov_taxonu": "Aesculus hipocastanum L.",
+      "kraj": "Košický",
+      "okres": "Košice - okolie",
+      "kataster": "Rozhanovce",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 418",
+      "nazov": "Pagaštan v Božčiciach",
+      "slovensky_nazov_taxonu": "pagaštan konský",
+      "vedecky_nazov_taxonu": "Aesculus hippocastanum L.",
+      "kraj": "Košický",
+      "okres": "Trebišov",
+      "kataster": "Božčice",
+      "organizacny_utvar_sop": "Správa CHKO Latorica"
+    },
+    {
+      "ev_cislo": "S 500",
+      "nazov": "Pagaštan v Hrabušiciach",
+      "slovensky_nazov_taxonu": "pagaštan konský",
+      "vedecky_nazov_taxonu": "Aesculus hippocastanum",
+      "kraj": "Košický",
+      "okres": "Spišská Nová Ves",
+      "kataster": "Hrabušice",
+      "organizacny_utvar_sop": "Správa NP Slovenský raj"
+    },
+    {
+      "ev_cislo": "S 313",
+      "nazov": "Pagaštanová alej",
+      "slovensky_nazov_taxonu": "pagaštan konský",
+      "vedecky_nazov_taxonu": "Aesculus hippocastanum L.",
+      "kraj": "Prešovský",
+      "okres": "Stará Ľubovňa",
+      "kataster": "Stará Ľubovňa",
+      "organizacny_utvar_sop": "Správa Pieninského NP"
+    },
+    {
+      "ev_cislo": "S 211",
+      "nazov": "Paulovnia na Škarniclovej ulici",
+      "slovensky_nazov_taxonu": "paulovnia plstnatá",
+      "vedecky_nazov_taxonu": "Paulownia tomentosa",
+      "kraj": "Bratislavský",
+      "okres": "Bratislava I",
+      "kataster": "Staré Mesto",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 93",
+      "nazov": "Paulovnia plstnantá",
+      "slovensky_nazov_taxonu": "paulovnia plstnatá",
+      "vedecky_nazov_taxonu": "Paulownia tomentosa (Thunb.) Steud.",
+      "kraj": "Nitriansky",
+      "okres": "Levice",
+      "kataster": "Levice",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 497",
+      "nazov": "Piešťanské topole",
+      "slovensky_nazov_taxonu": "topoľ čierny",
+      "vedecky_nazov_taxonu": "Populus nigra",
+      "kraj": "Trnavský",
+      "okres": "Piešťany",
+      "kataster": "Piešťany",
+      "organizacny_utvar_sop": "Správa CHKO Malé Karpaty"
+    },
+    {
+      "ev_cislo": "S 231",
+      "nazov": "Platan na Kysuckej ulici",
+      "slovensky_nazov_taxonu": "platan západný",
+      "vedecky_nazov_taxonu": "Platanus occidentalis",
+      "kraj": "Bratislavský",
+      "okres": "Bratislava I",
+      "kataster": "Staré Mesto",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 394",
+      "nazov": "Platan v Bracovciach",
+      "slovensky_nazov_taxonu": "platan javorolistý",
+      "vedecky_nazov_taxonu": "Platanus hispanica Münchh.",
+      "kraj": "Košický",
+      "okres": "Michalovce",
+      "kataster": "Bracovce",
+      "organizacny_utvar_sop": "Správa CHKO Vihorlat"
+    },
+    {
+      "ev_cislo": "S 350",
+      "nazov": "Platan v Kamenici nad Cirochou",
+      "slovensky_nazov_taxonu": "platan javorolistý",
+      "vedecky_nazov_taxonu": "Platanus hispanica Münchh.",
+      "kraj": "Prešovský",
+      "okres": "Humenné",
+      "kataster": "Kamenica nad Cirochou",
+      "organizacny_utvar_sop": "Správa CHKO Východné Karpaty"
+    },
+    {
+      "ev_cislo": "S 400",
+      "nazov": "Platan v Krčave",
+      "slovensky_nazov_taxonu": "platan javorolistý",
+      "vedecky_nazov_taxonu": "Platanus hispanica Münchh.",
+      "kraj": "Košický",
+      "okres": "Sobrance",
+      "kataster": "Krčava",
+      "organizacny_utvar_sop": "Správa CHKO Vihorlat"
+    },
+    {
+      "ev_cislo": "S 371",
+      "nazov": "Platan v Nižnom Hrabovci",
+      "slovensky_nazov_taxonu": "platan západný",
+      "vedecky_nazov_taxonu": "Platanus occidentalis L.",
+      "kraj": "Prešovský",
+      "okres": "Vranov nad Topľou",
+      "kataster": "Nižný Hrabovec",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 151",
+      "nazov": "Platan v Sečiankach",
+      "slovensky_nazov_taxonu": "platan javorolistý",
+      "vedecky_nazov_taxonu": "Platanus hispanica Münchh.",
+      "kraj": "Banskobystrický",
+      "okres": "Veľký Krtíš",
+      "kataster": "Sečianky",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 399",
+      "nazov": "Platan v Tibave",
+      "slovensky_nazov_taxonu": "platan javorolistý",
+      "vedecky_nazov_taxonu": "Platanus hispanica Münchh.",
+      "kraj": "Košický",
+      "okres": "Sobrance",
+      "kataster": "Tibava",
+      "organizacny_utvar_sop": "Správa CHKO Vihorlat"
+    },
+    {
+      "ev_cislo": "S 366",
+      "nazov": "Platan v Tovarnom",
+      "slovensky_nazov_taxonu": "platan západný",
+      "vedecky_nazov_taxonu": "Platanus occidentalis L.",
+      "kraj": "Prešovský",
+      "okres": "Vranov nad Topľou",
+      "kataster": "Tovarné",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 351",
+      "nazov": "Platan v Udavskom",
+      "slovensky_nazov_taxonu": "platan javorolistý",
+      "vedecky_nazov_taxonu": "Platanus hispanica Münchh.",
+      "kraj": "Prešovský",
+      "okres": "Humenné",
+      "kataster": "Udavské",
+      "organizacny_utvar_sop": "Správa CHKO Východné Karpaty"
+    },
+    {
+      "ev_cislo": "S 137",
+      "nazov": "Platan v Zlatých Moravciach",
+      "slovensky_nazov_taxonu": "platan javorolistý",
+      "vedecky_nazov_taxonu": "Platanus hispanica Münchh.",
+      "kraj": "Nitriansky",
+      "okres": "Zlaté Moravce",
+      "kataster": "Zlaté Moravce",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 461",
+      "nazov": "Platan v Zámockej záhrade v Hlohovci",
+      "slovensky_nazov_taxonu": "platan javorolistý",
+      "vedecky_nazov_taxonu": "Platanus hispanica Münchh.",
+      "kraj": "Trnavský",
+      "okres": "Hlohovec",
+      "kataster": "Hlohovec",
+      "organizacny_utvar_sop": "Správa CHKO Malé Karpaty"
+    },
+    {
+      "ev_cislo": "S 464",
+      "nazov": "Platan v parku v Sokolovciach",
+      "slovensky_nazov_taxonu": "platan javorolistý",
+      "vedecky_nazov_taxonu": "Platanus hispanica Münchh.",
+      "kraj": "Trnavský",
+      "okres": "Piešťany",
+      "kataster": "Sokolovce",
+      "organizacny_utvar_sop": "Správa CHKO Malé Karpaty"
+    },
+    {
+      "ev_cislo": "S 411",
+      "nazov": "Platan vo Veľatoch",
+      "slovensky_nazov_taxonu": "platan západný",
+      "vedecky_nazov_taxonu": "Platanus occidentalis L.",
+      "kraj": "Košický",
+      "okres": "Trebišov",
+      "kataster": "Veľaty",
+      "organizacny_utvar_sop": "Správa CHKO Latorica"
+    },
+    {
+      "ev_cislo": "S 169",
+      "nazov": "Platan východný v Jelke",
+      "slovensky_nazov_taxonu": "platan východný",
+      "vedecky_nazov_taxonu": "Platanus orientalis L.",
+      "kraj": "Trnavský",
+      "okres": "Galanta",
+      "kataster": "Jelka",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 263",
+      "nazov": "Platanová aleja v Komárne",
+      "slovensky_nazov_taxonu": "platan javorolistý",
+      "vedecky_nazov_taxonu": "Platanus hispanica Münchh.",
+      "kraj": "Nitriansky",
+      "okres": "Komárno",
+      "kataster": "Komárno",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 99",
+      "nazov": "Platany javorolisté v parku",
+      "slovensky_nazov_taxonu": "platan javorolistý",
+      "vedecky_nazov_taxonu": "Platanus hispanica Münchh.",
+      "kraj": "Nitriansky",
+      "okres": "Levice",
+      "kataster": "Kukučínov",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 413",
+      "nazov": "Platany v Bieli",
+      "slovensky_nazov_taxonu": "platan západný",
+      "vedecky_nazov_taxonu": "Platanus occidentalis L.",
+      "kraj": "Košický",
+      "okres": "Trebišov",
+      "kataster": "Biel",
+      "organizacny_utvar_sop": "Správa CHKO Latorica"
+    },
+    {
+      "ev_cislo": "S 247",
+      "nazov": "Platany v Blatnej na Ostrove",
+      "slovensky_nazov_taxonu": "platan javorolistý",
+      "vedecky_nazov_taxonu": "Platanus hispanica Münchh.",
+      "kraj": "Trnavský",
+      "okres": "Dunajská Streda",
+      "kataster": "Blatná na Ostrove",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 298",
+      "nazov": "Platany v Lučenci pri Szilassyho kaštieli",
+      "slovensky_nazov_taxonu": "platan javorolistý",
+      "vedecky_nazov_taxonu": "Platanus hispanica Münchh.",
+      "kraj": "Banskobystrický",
+      "okres": "Lučenec",
+      "kataster": "Lučenec",
+      "organizacny_utvar_sop": "Správa CHKO Cerová vrchovina"
+    },
+    {
+      "ev_cislo": "S 246",
+      "nazov": "Platany v Nekyje na Ostrove",
+      "slovensky_nazov_taxonu": "platan javorolistý",
+      "vedecky_nazov_taxonu": "Platanus hispanica Münchh.",
+      "kraj": "Trnavský",
+      "okres": "Dunajská Streda",
+      "kataster": "Nekyje na Ostrove",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 244",
+      "nazov": "Platany v Okoči",
+      "slovensky_nazov_taxonu": "platan javorolistý",
+      "vedecky_nazov_taxonu": "Platanus hispanica Münchh.",
+      "kraj": "Trnavský",
+      "okres": "Dunajská Streda",
+      "kataster": "Okoč",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 328",
+      "nazov": "Platany v Rákoši - Bani",
+      "slovensky_nazov_taxonu": "platan západný",
+      "vedecky_nazov_taxonu": "Platanus occidentalis L.",
+      "kraj": "Banskobystrický",
+      "okres": "Revúca",
+      "kataster": "Rákoš",
+      "organizacny_utvar_sop": "Správa NP Muránska planina"
+    },
+    {
+      "ev_cislo": "S 161",
+      "nazov": "Platany v Sládkovičove",
+      "slovensky_nazov_taxonu": "platan východný",
+      "vedecky_nazov_taxonu": "Platanus orientalis L.",
+      "kraj": "Trnavský",
+      "okres": "Galanta",
+      "kataster": "Sládkovičovo",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 467",
+      "nazov": "Platany v parku vo Voderadoch",
+      "slovensky_nazov_taxonu": "platan javorolistý",
+      "vedecky_nazov_taxonu": "Platanus hispanica Münchh.",
+      "kraj": "Trnavský",
+      "okres": "Trnava",
+      "kataster": "Voderady",
+      "organizacny_utvar_sop": "Správa CHKO Malé Karpaty"
+    },
+    {
+      "ev_cislo": "S 98",
+      "nazov": "Plavovozokanská hruška",
+      "slovensky_nazov_taxonu": "hruška obyčajná",
+      "vedecky_nazov_taxonu": "Pyrus communis L.",
+      "kraj": "Nitriansky",
+      "okres": "Levice",
+      "kataster": "Plavé Vozokany",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 439",
+      "nazov": "Praznovská lipa",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Trenčiansky",
+      "okres": "Považská Bystrica",
+      "kataster": "Praznov",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 407",
+      "nazov": "Prešovský platan",
+      "slovensky_nazov_taxonu": "platan západný",
+      "vedecky_nazov_taxonu": "Platanus occidentalis L.",
+      "kraj": "Prešovský",
+      "okres": "Prešov",
+      "kataster": "Prešov",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 122",
+      "nazov": "Prosiek - lipa",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš",
+      "kataster": "Prosiek",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 435",
+      "nazov": "Pružinské stromy",
+      "slovensky_nazov_taxonu": "javor horský, lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Acer pseudoplatanus L., Tilia platyphyllos Scop.",
+      "kraj": "Trenčiansky",
+      "okres": "Považská Bystrica",
+      "kataster": "Pružina",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 438",
+      "nazov": "Pusztelnikov brečtan",
+      "slovensky_nazov_taxonu": "brečtan popínavý",
+      "vedecky_nazov_taxonu": "Hedera helix L.",
+      "kraj": "Banskobystrický",
+      "okres": "Žarnovica",
+      "kataster": "Nová Baňa",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 428",
+      "nazov": "Radimovské lipy",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Trnavský",
+      "okres": "Skalica",
+      "kataster": "Radimov",
+      "organizacny_utvar_sop": "Správa CHKO Záhorie"
+    },
+    {
+      "ev_cislo": "S 24",
+      "nazov": "Radlinského jaseň",
+      "slovensky_nazov_taxonu": "jaseň štíhly",
+      "vedecky_nazov_taxonu": "Fraxinus excelsior L.",
+      "kraj": "Žilinský",
+      "okres": "Dolný Kubín",
+      "kataster": "Dolný Kubín",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 276",
+      "nazov": "Rákociho dub",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Trenčiansky",
+      "okres": "Bánovce nad Bebravou",
+      "kataster": "Podlužany",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 94",
+      "nazov": "Santovská lipa",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Nitriansky",
+      "okres": "Levice",
+      "kataster": "Santovka",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 254",
+      "nazov": "Sekvoja Horňany",
+      "slovensky_nazov_taxonu": "sekvojovec mamutí",
+      "vedecky_nazov_taxonu": "Sequoiadendron giganteum (Lindl.) Buchholz",
+      "kraj": "Nitriansky",
+      "okres": "Topoľčany",
+      "kataster": "Práznovce",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 293",
+      "nazov": "Sekvoja obrovská v Kremnici",
+      "slovensky_nazov_taxonu": "sekvojovec mamutí",
+      "vedecky_nazov_taxonu": "Sequoiadendron giganteum (Limdl.) Buchholz",
+      "kraj": "Banskobystrický",
+      "okres": "Žiar nad Hronom",
+      "kataster": "Kremnica",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 65",
+      "nazov": "Sekvoja obrovská v Novej Lehote",
+      "slovensky_nazov_taxonu": "sekvojovec mamutí",
+      "vedecky_nazov_taxonu": "Sequoiadendron giganteum (Lindl.) Buchholz",
+      "kraj": "Trenčiansky",
+      "okres": "Prievidza",
+      "kataster": "Nová Lehota",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 321",
+      "nazov": "Sekvoja v Uzovskom Šalgove",
+      "slovensky_nazov_taxonu": "sekvojovec mamutí",
+      "vedecky_nazov_taxonu": "Sequoiadendron giganteum (Lindl.) Buchholz",
+      "kraj": "Prešovský",
+      "okres": "Sabinov",
+      "kataster": "Uzovský Šalgov",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 60",
+      "nazov": "Sekvojovce na Salašisku",
+      "slovensky_nazov_taxonu": "sekvojovec mamutí",
+      "vedecky_nazov_taxonu": "Sequoiadendron giganteum (Limdl.) Buchholz",
+      "kraj": "Banskobystrický",
+      "okres": "Žarnovica",
+      "kataster": "Nová Baňa",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 454",
+      "nazov": "Sekvojovec mamutí",
+      "slovensky_nazov_taxonu": "sekvojovec mamutí",
+      "vedecky_nazov_taxonu": "Sequoiadendron giganteum (Lindl.) Buchholz",
+      "kraj": "Banskobystrický",
+      "okres": "Rimavská Sobota",
+      "kataster": "Tisovec",
+      "organizacny_utvar_sop": "Správa NP Muránska planina"
+    },
+    {
+      "ev_cislo": "S 352",
+      "nazov": "Sekvojovec mamutí v Slanci",
+      "slovensky_nazov_taxonu": "sekvojovec mamutí",
+      "vedecky_nazov_taxonu": "Sequoiadendron giganteum (Lindl.) Buchholz",
+      "kraj": "Košický",
+      "okres": "Košice - okolie",
+      "kataster": "Slanec",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 423",
+      "nazov": "Sekvojovec na Feriancovom rígli",
+      "slovensky_nazov_taxonu": "sekvojovec mamutí",
+      "vedecky_nazov_taxonu": "Sequoiadendron giganteum (Limdl.) Buchholz",
+      "kraj": "Banskobystrický",
+      "okres": "Žarnovica",
+      "kataster": "Nová Baňa",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 58",
+      "nazov": "Sekvojovec na Voznici",
+      "slovensky_nazov_taxonu": "sekvojovec mamutí",
+      "vedecky_nazov_taxonu": "Sequoiadendron giganteum (Limdl.) Buchholz",
+      "kraj": "Banskobystrický",
+      "okres": "Žarnovica",
+      "kataster": "Voznica",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 148",
+      "nazov": "Sekvojovec na cintoríne",
+      "slovensky_nazov_taxonu": "sekvojovec mamutí",
+      "vedecky_nazov_taxonu": "Sequoiadendron giganteum (Limdl.) Buchholz",
+      "kraj": "Banskobystrický",
+      "okres": "Žarnovica",
+      "kataster": "Nová Baňa",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 57",
+      "nazov": "Sekvojovec pri Zvoničke",
+      "slovensky_nazov_taxonu": "sekvojovec mamutí",
+      "vedecky_nazov_taxonu": "Sequoiadendron giganteum (Limdl.) Buchholz",
+      "kraj": "Banskobystrický",
+      "okres": "Žarnovica",
+      "kataster": "Nová Baňa",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 468",
+      "nazov": "Sekvojovec v parku v Cíferi",
+      "slovensky_nazov_taxonu": "sekvojovec mamutí",
+      "vedecky_nazov_taxonu": "Sequoiadendron giganteum (Lindl.)Buchholz",
+      "kraj": "Trnavský",
+      "okres": "Trnava",
+      "kataster": "Cífer",
+      "organizacny_utvar_sop": "Správa CHKO Malé Karpaty"
+    },
+    {
+      "ev_cislo": "S 466",
+      "nazov": "Sekvojovec v parku v Dolnej Krupej",
+      "slovensky_nazov_taxonu": "sekvojovec mamutí",
+      "vedecky_nazov_taxonu": "Sequoiadendron giganteum (Lindl.)Buchholz",
+      "kraj": "Trnavský",
+      "okres": "Trnava",
+      "kataster": "Dolná Krupá",
+      "organizacny_utvar_sop": "Správa CHKO Malé Karpaty"
+    },
+    {
+      "ev_cislo": "S 436",
+      "nazov": "Sekvojovec za botanickou záhradou",
+      "slovensky_nazov_taxonu": "sekvojovec mamutí",
+      "vedecky_nazov_taxonu": "Sequoiadendron giganteum (Limdl.) Buchholz",
+      "kraj": "Banskobystrický",
+      "okres": "Banská Štiavnica",
+      "kataster": "Banská Štiavnica",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 504",
+      "nazov": "Skalniansky jaseň",
+      "slovensky_nazov_taxonu": "jaseň štíhly",
+      "vedecky_nazov_taxonu": "Fraxinus excelsior",
+      "kraj": "Prešovský",
+      "okres": "Svidník",
+      "kataster": "Vyšná Pisaná",
+      "organizacny_utvar_sop": "Správa CHKO Východné Karpaty"
+    },
+    {
+      "ev_cislo": "S 141",
+      "nazov": "Skupina 3 líp v Trstenom",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš",
+      "kataster": "Trstené",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 40",
+      "nazov": "Skupina líp na cintoríne v Oravskej Porube",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Dolný Kubín",
+      "kataster": "Zábrež",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 38",
+      "nazov": "Skupina líp pri budove galérie M. Medveckej",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Tvrdošín",
+      "kataster": "Medvedie pri Tvrdošíne",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 26",
+      "nazov": "Skupina líp pri kostole",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Dolný Kubín",
+      "kataster": "Leštiny",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 61",
+      "nazov": "Skupina líp pri kostole a cintoríne v Porube",
+      "slovensky_nazov_taxonu": "lipa malolistá, lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill., Tilia platyphyllos Scop.",
+      "kraj": "Trenčiansky",
+      "okres": "Prievidza",
+      "kataster": "Poruba",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 132",
+      "nazov": "Skupina líp pri kostole v Motyčkách",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Banskobystrický",
+      "okres": "Banská Bystrica",
+      "kataster": "Motyčky",
+      "organizacny_utvar_sop": "Správa NP Nízke Tatry"
+    },
+    {
+      "ev_cislo": "S 235",
+      "nazov": "Skupina stromov na Galandovej",
+      "slovensky_nazov_taxonu": "dub letný, judášovec strukový, ľáliovník tulipánokvetý",
+      "vedecky_nazov_taxonu": "Quercus robur, Cercis siliquastrum, Liriodendron tulipifera",
+      "kraj": "Bratislavský",
+      "okres": "Bratislava I",
+      "kataster": "Staré Mesto",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 403",
+      "nazov": "Sládkovičova lipa v Radvani",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Banskobystrický",
+      "okres": "Banská Bystrica",
+      "kataster": "Radvaň",
+      "organizacny_utvar_sop": "Správa CHKO Poľana"
+    },
+    {
+      "ev_cislo": "S 145",
+      "nazov": "Smrekovce na Hornej Rovni",
+      "slovensky_nazov_taxonu": "smrekovec opadavý",
+      "vedecky_nazov_taxonu": "Larix decidua Mill.",
+      "kraj": "Banskobystrický",
+      "okres": "Banská Štiavnica",
+      "kataster": "Štiavnické Bane",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 494",
+      "nazov": "Smrekovec na Slanej Vode",
+      "slovensky_nazov_taxonu": "smrekovec opadavý",
+      "vedecky_nazov_taxonu": "Larix decidua Mill.",
+      "kraj": "Žilinský",
+      "okres": "Námestovo",
+      "kataster": "Oravská Polhora",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 23",
+      "nazov": "Smrekovec na cintoríne",
+      "slovensky_nazov_taxonu": "smrekovec opadavý",
+      "vedecky_nazov_taxonu": "Larix decidua Mill.",
+      "kraj": "Žilinský",
+      "okres": "Dolný Kubín",
+      "kataster": "Chlebnice",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 480",
+      "nazov": "Sofora japonská v Devínskej Novej Vsi",
+      "slovensky_nazov_taxonu": "sofora japonská",
+      "vedecky_nazov_taxonu": "Sophora japonica",
+      "kraj": "Bratislavský",
+      "okres": "Bratislava IV",
+      "kataster": "Devínska Nová Ves",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 224",
+      "nazov": "Sofora na Vajanského nábreží",
+      "slovensky_nazov_taxonu": "sofora japonská",
+      "vedecky_nazov_taxonu": "Sophora japonica",
+      "kraj": "Bratislavský",
+      "okres": "Bratislava I",
+      "kataster": "Staré Mesto",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 505",
+      "nazov": "Spišskonovoveský javor",
+      "slovensky_nazov_taxonu": "javor horský",
+      "vedecky_nazov_taxonu": "Acer pseudoplatanus",
+      "kraj": "Košický",
+      "okres": "Spišská Nová Ves",
+      "kataster": "Spišská Nová Ves",
+      "organizacny_utvar_sop": "Správa NP Slovenský raj"
+    },
+    {
+      "ev_cislo": "S 268",
+      "nazov": "Stromoradia líp pri starom kostole",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Dolný Kubín",
+      "kataster": "Zázrivá",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 171",
+      "nazov": "Stromy v Bytči",
+      "slovensky_nazov_taxonu": "javor mliečny, lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Acer platanoides L., Tilia platyphyllos Scop.",
+      "kraj": "Žilinský",
+      "okres": "Bytča",
+      "kataster": "Veľká Bytča",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 174",
+      "nazov": "Stromy v Lutišiach",
+      "slovensky_nazov_taxonu": "borovica hladká, lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Pinus strobus L., Tilia cordata Mill.",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Lutiše",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 327",
+      "nazov": "Stromy v Revúcej",
+      "slovensky_nazov_taxonu": "pagaštan konský, smrek obyčajný",
+      "vedecky_nazov_taxonu": "Aesculus hippocastanum L., Picea abies (L.) H. Karst",
+      "kraj": "Banskobystrický",
+      "okres": "Revúca",
+      "kataster": "Revúca",
+      "organizacny_utvar_sop": "Správa NP Muránska planina"
+    },
+    {
+      "ev_cislo": "S 192",
+      "nazov": "Stromy v Terchovej",
+      "slovensky_nazov_taxonu": "brest horský, lipa malolistá, lipa veľkolistá, smrek obyčajný",
+      "vedecky_nazov_taxonu": "Ulmus glabra Huds., Tilia cordata Mill., Tilia platyphyllos Scop., Picea abies (L.) H. Karst",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Terchová",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 479",
+      "nazov": "Stromy v obci Batizovce",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata Mill.",
+      "kraj": "Prešovský",
+      "okres": "Poprad",
+      "kataster": "Batizovce",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 245",
+      "nazov": "Stromy vo Vojke",
+      "slovensky_nazov_taxonu": "dub letný, platan javorolistý",
+      "vedecky_nazov_taxonu": "Quercus robur L., Platanus hispanica Münchh.",
+      "kraj": "Trnavský",
+      "okres": "Dunajská Streda",
+      "kataster": "Vojka nad Dunajom",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 426",
+      "nazov": "Tankošský cer",
+      "slovensky_nazov_taxonu": "dub cerový",
+      "vedecky_nazov_taxonu": "Quercus cerris L.",
+      "kraj": "Nitriansky",
+      "okres": "Nové Zámky",
+      "kataster": "Pozba",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 257",
+      "nazov": "Tis na Skuteckého ulici",
+      "slovensky_nazov_taxonu": "tis obyčajný",
+      "vedecky_nazov_taxonu": "Taxus baccata L.",
+      "kraj": "Banskobystrický",
+      "okres": "Banská Bystrica",
+      "kataster": "Banská Bystrica",
+      "organizacny_utvar_sop": "Správa CHKO Poľana"
+    },
+    {
+      "ev_cislo": "S 258",
+      "nazov": "Tis na katolíckom cintoríne",
+      "slovensky_nazov_taxonu": "tis obyčajný",
+      "vedecky_nazov_taxonu": "Taxus baccata L.",
+      "kraj": "Banskobystrický",
+      "okres": "Banská Bystrica",
+      "kataster": "Banská Bystrica",
+      "organizacny_utvar_sop": "Správa CHKO Poľana"
+    },
+    {
+      "ev_cislo": "S 63",
+      "nazov": "Tis pri fare v Novej Lehote",
+      "slovensky_nazov_taxonu": "tis obyčajný",
+      "vedecky_nazov_taxonu": "Taxus baccata L.",
+      "kraj": "Trenčiansky",
+      "okres": "Prievidza",
+      "kataster": "Nová Lehota",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 281",
+      "nazov": "Tis v Modrom Kameni",
+      "slovensky_nazov_taxonu": "tis obyčajný",
+      "vedecky_nazov_taxonu": "Taxus baccata L.",
+      "kraj": "Banskobystrický",
+      "okres": "Veľký Krtíš",
+      "kataster": "Modrý Kameň",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 369",
+      "nazov": "Tis v Nižnom Hrabovci",
+      "slovensky_nazov_taxonu": "tis obyčajný",
+      "vedecky_nazov_taxonu": "Taxus baccata L.",
+      "kraj": "Prešovský",
+      "okres": "Vranov nad Topľou",
+      "kataster": "Nižný Hrabovec",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 150",
+      "nazov": "Tis v Tajove",
+      "slovensky_nazov_taxonu": "tis obyčajný",
+      "vedecky_nazov_taxonu": "Taxus baccata L.",
+      "kraj": "Banskobystrický",
+      "okres": "Banská Bystrica",
+      "kataster": "Tajov",
+      "organizacny_utvar_sop": "Správa CHKO Poľana"
+    },
+    {
+      "ev_cislo": "S 237",
+      "nazov": "Tis v nemocničnej záhrade",
+      "slovensky_nazov_taxonu": "tis obyčajný",
+      "vedecky_nazov_taxonu": "Taxus baccata",
+      "kraj": "Bratislavský",
+      "okres": "Bratislava I",
+      "kataster": "Staré Mesto",
+      "organizacny_utvar_sop": "RCOP v Bratislave"
+    },
+    {
+      "ev_cislo": "S 53",
+      "nazov": "Tisovec dvojradový",
+      "slovensky_nazov_taxonu": "tisovec dvojradový",
+      "vedecky_nazov_taxonu": "Taxodium distichum L.",
+      "kraj": "Nitriansky",
+      "okres": "Levice",
+      "kataster": "Želiezovce",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 130",
+      "nazov": "Tisovec dvojradový v Krupine",
+      "slovensky_nazov_taxonu": "tisovec dvojradový",
+      "vedecky_nazov_taxonu": "Taxodium distichum (L.) Rich.",
+      "kraj": "Banskobystrický",
+      "okres": "Krupina",
+      "kataster": "Krupina",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 374",
+      "nazov": "Tisovec na Baračke",
+      "slovensky_nazov_taxonu": "tisovec dvojradový",
+      "vedecky_nazov_taxonu": "Taxodium distichum (L.) Rich.",
+      "kraj": "Trenčiansky",
+      "okres": "Trenčín",
+      "kataster": "Omšenie",
+      "organizacny_utvar_sop": "Správa CHKO Biele Karpaty"
+    },
+    {
+      "ev_cislo": "S 302",
+      "nazov": "Tisy na Mláčiku",
+      "slovensky_nazov_taxonu": "tis obyčajný",
+      "vedecky_nazov_taxonu": "Taxus baccata L.",
+      "kraj": "Banskobystrický",
+      "okres": "Zvolen",
+      "kataster": "Železná Breznica",
+      "organizacny_utvar_sop": "Správa CHKO Poľana"
+    },
+    {
+      "ev_cislo": "S 55",
+      "nazov": "Tisy v Kremnici",
+      "slovensky_nazov_taxonu": "tis obyčajný",
+      "vedecky_nazov_taxonu": "Taxus baccata L.",
+      "kraj": "Banskobystrický",
+      "okres": "Žiar nad Hronom",
+      "kataster": "Kremnica",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 75",
+      "nazov": "Tisy v Pruskom",
+      "slovensky_nazov_taxonu": "tis obyčajný",
+      "vedecky_nazov_taxonu": "Taxus baccata L.",
+      "kraj": "Trenčiansky",
+      "okres": "Ilava",
+      "kataster": "Pruské",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 103",
+      "nazov": "Tolerančná lipa",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Nitriansky",
+      "okres": "Levice",
+      "kataster": "Horné Jabloňovce",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 483",
+      "nazov": "Topole v Dolnej Strehovej",
+      "slovensky_nazov_taxonu": "topoľ biely",
+      "vedecky_nazov_taxonu": "Populus alba",
+      "kraj": "Banskobystrický",
+      "okres": "Veľký Krtíš",
+      "kataster": "Horná Strehová",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 89",
+      "nazov": "Topole v Radoli",
+      "slovensky_nazov_taxonu": "topoľ čierny",
+      "vedecky_nazov_taxonu": "Populus nigra L.",
+      "kraj": "Žilinský",
+      "okres": "Kysucké Nové Mesto",
+      "kataster": "Radoľa",
+      "organizacny_utvar_sop": "Správa CHKO Kysuce"
+    },
+    {
+      "ev_cislo": "S 31",
+      "nazov": "Topoľ na nábreží pri parkovisku",
+      "slovensky_nazov_taxonu": "topoľ čierny",
+      "vedecky_nazov_taxonu": "Populus nigra L.",
+      "kraj": "Žilinský",
+      "okres": "Dolný Kubín",
+      "kataster": "Oravský Podzámok",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 32",
+      "nazov": "Topoľ pri SOU",
+      "slovensky_nazov_taxonu": "topoľ čierny",
+      "vedecky_nazov_taxonu": "Populus nigra L.",
+      "kraj": "Žilinský",
+      "okres": "Dolný Kubín",
+      "kataster": "Oravský Podzámok",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 485",
+      "nazov": "Topoľ sivý pod Perpešom",
+      "slovensky_nazov_taxonu": "topoľ sivý",
+      "vedecky_nazov_taxonu": "Populus x canescens",
+      "kraj": "Banskobystrický",
+      "okres": "Revúca",
+      "kataster": "Gemerská Ves",
+      "organizacny_utvar_sop": "Správa NP Muránska planina"
+    },
+    {
+      "ev_cislo": "S 85",
+      "nazov": "Topoľ u Ondruškov",
+      "slovensky_nazov_taxonu": "topoľ čierny",
+      "vedecky_nazov_taxonu": "Populus nigra L.",
+      "kraj": "Žilinský",
+      "okres": "Kysucké Nové Mesto",
+      "kataster": "Nesluša",
+      "organizacny_utvar_sop": "Správa CHKO Kysuce"
+    },
+    {
+      "ev_cislo": "S 107",
+      "nazov": "Topoľ v L. Mikuláši - na Nicovô",
+      "slovensky_nazov_taxonu": "topoľ čierny",
+      "vedecky_nazov_taxonu": "Populus nigra L.",
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš",
+      "kataster": "Liptovský Mikuláš",
+      "organizacny_utvar_sop": "Správa Tatranského NP"
+    },
+    {
+      "ev_cislo": "S 406",
+      "nazov": "Topoľ v mestskom parku",
+      "slovensky_nazov_taxonu": "topoľ biely",
+      "vedecky_nazov_taxonu": "Populus alba L.",
+      "kraj": "Košický",
+      "okres": "Košice I",
+      "kataster": "Stredné Mesto",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 368",
+      "nazov": "Topoľ v Nižnej Sitnici",
+      "slovensky_nazov_taxonu": "topoľ sivý",
+      "vedecky_nazov_taxonu": "Populus x canescens (Aiton) Sm.",
+      "kraj": "Prešovský",
+      "okres": "Humenné",
+      "kataster": "Nižná Sitnica",
+      "organizacny_utvar_sop": "Správa CHKO Východné Karpaty"
+    },
+    {
+      "ev_cislo": "S 347",
+      "nazov": "Topoľ v Oľke",
+      "slovensky_nazov_taxonu": "topoľ sivý",
+      "vedecky_nazov_taxonu": "Populus x canescens (Aiton) Sm.",
+      "kraj": "Prešovský",
+      "okres": "Medzilaborce",
+      "kataster": "Nižná Oľka",
+      "organizacny_utvar_sop": "Správa CHKO Východné Karpaty"
+    },
+    {
+      "ev_cislo": "S 279",
+      "nazov": "Topoľ v Selešťanoch",
+      "slovensky_nazov_taxonu": "topoľ čierny",
+      "vedecky_nazov_taxonu": "Populus nigra L.",
+      "kraj": "Banskobystrický",
+      "okres": "Veľký Krtíš",
+      "kataster": "Záhorce",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 170",
+      "nazov": "Topoľ čierny v Kajale",
+      "slovensky_nazov_taxonu": "topoľ čierny",
+      "vedecky_nazov_taxonu": "Populus nigra L.",
+      "kraj": "Trnavský",
+      "okres": "Galanta",
+      "kataster": "Kajal",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 164",
+      "nazov": "Topoľ čierny v Nededi",
+      "slovensky_nazov_taxonu": "topoľ čierny",
+      "vedecky_nazov_taxonu": "Populus nigra L.",
+      "kraj": "Nitriansky",
+      "okres": "Šaľa",
+      "kataster": "Neded",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 242",
+      "nazov": "Topoľ čierny v Topoľníkoch",
+      "slovensky_nazov_taxonu": "topoľ čierny",
+      "vedecky_nazov_taxonu": "Populus nigra L.",
+      "kraj": "Trnavský",
+      "okres": "Dunajská Streda",
+      "kataster": "Dolné Topoľníky",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 243",
+      "nazov": "Topoľ čierny v Šamoríne",
+      "slovensky_nazov_taxonu": "topoľ čierny",
+      "vedecky_nazov_taxonu": "Populus nigra L.",
+      "kraj": "Trnavský",
+      "okres": "Dunajská Streda",
+      "kataster": "Šamorín",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 375",
+      "nazov": "Trenčianske ginká",
+      "slovensky_nazov_taxonu": "ginko dvojlaločné",
+      "vedecky_nazov_taxonu": "Ginkgo biloba L.",
+      "kraj": "Trenčiansky",
+      "okres": "Trenčín",
+      "kataster": "Trenčín",
+      "organizacny_utvar_sop": "Správa CHKO Biele Karpaty"
+    },
+    {
+      "ev_cislo": "S 41",
+      "nazov": "Tuja pri dome č. 72, na ul. Krivô",
+      "slovensky_nazov_taxonu": "tuja západná",
+      "vedecky_nazov_taxonu": "Thuja occidentalis L.",
+      "kraj": "Žilinský",
+      "okres": "Dolný Kubín",
+      "kataster": "Krivá",
+      "organizacny_utvar_sop": "Správa CHKO Horná Orava"
+    },
+    {
+      "ev_cislo": "S 66",
+      "nazov": "Tuja v Klobušiciach",
+      "slovensky_nazov_taxonu": "tuja riasnatá",
+      "vedecky_nazov_taxonu": "Thuja plicata D.Don exL.amb",
+      "kraj": "Trenčiansky",
+      "okres": "Ilava",
+      "kataster": "Klobušice",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 72",
+      "nazov": "Tuja v Mednom",
+      "slovensky_nazov_taxonu": "tuja riasnatá",
+      "vedecky_nazov_taxonu": "Thuja plicata D.Don ex L.",
+      "kraj": "Trenčiansky",
+      "okres": "Púchov",
+      "kataster": "Medné",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 363",
+      "nazov": "Univerzitná sofora",
+      "slovensky_nazov_taxonu": "sofora japonská",
+      "vedecky_nazov_taxonu": "Sophora japonica L.",
+      "kraj": "Košický",
+      "okres": "Košice I",
+      "kataster": "Stredné Mesto",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 255",
+      "nazov": "Urpínska alej",
+      "slovensky_nazov_taxonu": "agát biely, javor poľný, lipa veľkolistá, pagaštan konský",
+      "vedecky_nazov_taxonu": "Robinia pseudoacacia L., Acer campestre L, Tilia platyphyllos Scop., Aesculus hippocastanum L.",
+      "kraj": "Banskobystrický",
+      "okres": "Banská Bystrica",
+      "kataster": "Banská Bystrica",
+      "organizacny_utvar_sop": "Správa CHKO Poľana"
+    },
+    {
+      "ev_cislo": "S 404",
+      "nazov": "Uňadovský tis",
+      "slovensky_nazov_taxonu": "tis obyčajný",
+      "vedecky_nazov_taxonu": "Taxus baccata L.",
+      "kraj": "Banskobystrický",
+      "okres": "Banská Bystrica",
+      "kataster": "Podlavice",
+      "organizacny_utvar_sop": "Správa CHKO Poľana"
+    },
+    {
+      "ev_cislo": "S 345",
+      "nazov": "Vejmutovka v Dúbrave",
+      "slovensky_nazov_taxonu": "borovica hladká",
+      "vedecky_nazov_taxonu": "Pinus strobus L.",
+      "kraj": "Prešovský",
+      "okres": "Snina",
+      "kataster": "Dúbrava",
+      "organizacny_utvar_sop": "Správa NP Poloniny"
+    },
+    {
+      "ev_cislo": "S 472",
+      "nazov": "Velčické cery",
+      "slovensky_nazov_taxonu": "dub cerový",
+      "vedecky_nazov_taxonu": "Quercus cerris L.",
+      "kraj": "Nitriansky",
+      "okres": "Zlaté Moravce",
+      "kataster": "Velčice",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 425",
+      "nazov": "Veľkouherská lipa",
+      "slovensky_nazov_taxonu": "lipa veľkolistá",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Trenčiansky",
+      "okres": "Partizánske",
+      "kataster": "Veľké Uherce",
+      "organizacny_utvar_sop": "Správa CHKO Ponitrie"
+    },
+    {
+      "ev_cislo": "S 360",
+      "nazov": "Veterinárske platany",
+      "slovensky_nazov_taxonu": "platan javorolistý",
+      "vedecky_nazov_taxonu": "Platanus hispanica Münchh.",
+      "kraj": "Košický",
+      "okres": "Košice I",
+      "kataster": "Severné Mesto",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 508",
+      "nazov": "Vyšnoorlícka lipa",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata",
+      "kraj": "Prešovský",
+      "okres": "Svidník",
+      "kataster": "Vyšný Orlík",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 354",
+      "nazov": "Vŕba biela v Čečejovciach",
+      "slovensky_nazov_taxonu": "vŕba biela",
+      "vedecky_nazov_taxonu": "Salix alba L.",
+      "kraj": "Košický",
+      "okres": "Košice - okolie",
+      "kataster": "Čečejovce",
+      "organizacny_utvar_sop": "Správa NP Slovenský kras"
+    },
+    {
+      "ev_cislo": "S 292",
+      "nazov": "Wilckensové pamätné stromy",
+      "slovensky_nazov_taxonu": "javor mliečny, smrekovec opadavý",
+      "vedecky_nazov_taxonu": "Acer platanoides L., Larix decidua Mill.",
+      "kraj": "Banskobystrický",
+      "okres": "Žiar nad Hronom",
+      "kataster": "Repište",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 434",
+      "nazov": "Zborské lipy",
+      "slovensky_nazov_taxonu": "lipa veľkolista",
+      "vedecky_nazov_taxonu": "Tilia platyphyllos Scop.",
+      "kraj": "Trenčiansky",
+      "okres": "Púchov",
+      "kataster": "Zbora",
+      "organizacny_utvar_sop": "Správa CHKO Strážovské vrchy"
+    },
+    {
+      "ev_cislo": "S 317",
+      "nazov": "Čelovský dub",
+      "slovensky_nazov_taxonu": "dub letný",
+      "vedecky_nazov_taxonu": "Quercus robur L.",
+      "kraj": "Prešovský",
+      "okres": "Prešov",
+      "kataster": "Čelovce",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 344",
+      "nazov": "Ľaliovník v Dúbrave",
+      "slovensky_nazov_taxonu": "ľáliovník tulipánokvetý",
+      "vedecky_nazov_taxonu": "Liriodendron tulipifera",
+      "kraj": "Prešovský",
+      "okres": "Snina",
+      "kataster": "Dúbrava",
+      "organizacny_utvar_sop": "Správa NP Poloniny"
+    },
+    {
+      "ev_cislo": "S 54",
+      "nazov": "Ľaliovník v Novej Bani",
+      "slovensky_nazov_taxonu": "ľáliovník tulipánokvetý",
+      "vedecky_nazov_taxonu": "Liriodendron tulipifera",
+      "kraj": "Banskobystrický",
+      "okres": "Žarnovica",
+      "kataster": "Nová Baňa",
+      "organizacny_utvar_sop": "Správa CHKO Štiavnické vrchy"
+    },
+    {
+      "ev_cislo": "S 189",
+      "nazov": "Ľaliovník v Žiline",
+      "slovensky_nazov_taxonu": "ľáliovník tulipánokvetý",
+      "vedecky_nazov_taxonu": "Liriodendron tulipifera",
+      "kraj": "Žilinský",
+      "okres": "Žilina",
+      "kataster": "Žilina",
+      "organizacny_utvar_sop": "Správa NP Malá Fatra"
+    },
+    {
+      "ev_cislo": "S 362",
+      "nazov": "Šačianske tisy",
+      "slovensky_nazov_taxonu": "tis obyčajný",
+      "vedecky_nazov_taxonu": "Taxus baccata L.",
+      "kraj": "Košický",
+      "okres": "Košice II",
+      "kataster": "Šaca",
+      "organizacny_utvar_sop": "RCOP v Prešove"
+    },
+    {
+      "ev_cislo": "S 506",
+      "nazov": "Špaňodolinské lipy",
+      "slovensky_nazov_taxonu": "lipa malolistá",
+      "vedecky_nazov_taxonu": "Tilia cordata",
+      "kraj": "Banskobystrický",
+      "okres": "Banská Bystrica",
+      "kataster": "Špania Dolina",
+      "organizacny_utvar_sop": "Správa NP Nízke Tatry"
+    },
+    {
+      "ev_cislo": "S 287",
+      "nazov": "Štúrovské platany",
+      "slovensky_nazov_taxonu": "platan javorolistý",
+      "vedecky_nazov_taxonu": "Platanus hispanica Münchh.",
+      "kraj": "Nitriansky",
+      "okres": "Nové Zámky",
+      "kataster": "Štúrovo",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    },
+    {
+      "ev_cislo": "S 288",
+      "nazov": "Šurianska paulovnia",
+      "slovensky_nazov_taxonu": "paulovnia plstnatá",
+      "vedecky_nazov_taxonu": "Paulownia tomentosa (Thunb.) Steud.",
+      "kraj": "Nitriansky",
+      "okres": "Nové Zámky",
+      "kataster": "Šurany",
+      "organizacny_utvar_sop": "Správa CHKO Dunajské luhy"
+    }
+  ],
+  "meta": {
+    "title": "Chránené stromy na Slovensku - Free Download",
+    "description": "Zoznam chránených stromov na Slovensku s evidenčným číslom, druhom (slovenský a vedecký názov), krajom, okresom, katastrom a príslušnou správou ŠOP SR. Contains 442 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Chránené stromy na Slovensku | ListBase",
+    "seo_description": "Download Chránené stromy na Slovensku — 442 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 442 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_chránených_stromov_na_Slovensku"
+    ]
+  }
+}
