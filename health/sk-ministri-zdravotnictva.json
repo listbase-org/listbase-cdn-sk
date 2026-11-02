@@ -1,0 +1,264 @@
+{
+  "id": "sk-ministri-zdravotnictva",
+  "name": "Ministri zdravotníctva Slovenskej republiky",
+  "title": "Ministri zdravotníctva Slovenskej republiky",
+  "description": "Zoznam ministrov zdravotníctva Slovenskej republiky od roku 1989 s nominujúcou stranou a obdobím vo funkcii.",
+  "category": "health",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_zdravotníctva_Slovenskej_republiky",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_zdravotníctva_Slovenskej_republiky",
+  "updated": "2026-11",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "poradie",
+      "label": "Poradie",
+      "type": "number"
+    },
+    {
+      "key": "meno",
+      "label": "Meno",
+      "type": "string"
+    },
+    {
+      "key": "nominant",
+      "label": "Nominant",
+      "type": "string"
+    },
+    {
+      "key": "od",
+      "label": "Od",
+      "type": "string"
+    },
+    {
+      "key": "do",
+      "label": "Do",
+      "type": "string"
+    },
+    {
+      "key": "poznamka",
+      "label": "Poznamka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradie": "1",
+      "meno": "Jozef Markuš",
+      "nominant": "VPN",
+      "od": "12. december 1989",
+      "do": "11. január 1990",
+      "poznamka": "ad interim"
+    },
+    {
+      "poradie": "2",
+      "meno": "Stanislav Novák",
+      "nominant": "DS",
+      "od": "11. január 1990",
+      "do": "26. jún 1990",
+      "poznamka": ""
+    },
+    {
+      "poradie": "3a",
+      "meno": "Alojz Rakús",
+      "nominant": "KDH",
+      "od": "27. jún 1990",
+      "do": "22. apríl 1991",
+      "poznamka": ""
+    },
+    {
+      "poradie": "3b",
+      "meno": "Alojz Rakús",
+      "nominant": "KDH",
+      "od": "23. apríl 1991",
+      "do": "24. jún 1992",
+      "poznamka": ""
+    },
+    {
+      "poradie": "4",
+      "meno": "Viliam Soboňa",
+      "nominant": "HZDS",
+      "od": "24. jún 1992",
+      "do": "24. november 1993",
+      "poznamka": ""
+    },
+    {
+      "poradie": "5",
+      "meno": "Irena Belohorská",
+      "nominant": "HZDS",
+      "od": "24. november 1993",
+      "do": "15. marec 1994",
+      "poznamka": ""
+    },
+    {
+      "poradie": "6",
+      "meno": "Tibor Šagát",
+      "nominant": "DEÚS",
+      "od": "15. marec 1994",
+      "do": "13. december 1994",
+      "poznamka": ""
+    },
+    {
+      "poradie": "7",
+      "meno": "Ľubomír Javorský",
+      "nominant": "HZDS",
+      "od": "13. december 1994",
+      "do": "30. október 1998",
+      "poznamka": ""
+    },
+    {
+      "poradie": "8. opakovane",
+      "meno": "Tibor Šagát",
+      "nominant": "SDK",
+      "od": "30. október 1998",
+      "do": "10. júl 2000",
+      "poznamka": "Šagát bol ministrom aj v roku 1994, vtedy sa stranu DEÚS"
+    },
+    {
+      "poradie": "9",
+      "meno": "Roman Kováč",
+      "nominant": "SDK",
+      "od": "10. júl 2000",
+      "do": "15. október 2002",
+      "poznamka": ""
+    },
+    {
+      "poradie": "10",
+      "meno": "Rudolf Zajac",
+      "nominant": "ANO",
+      "od": "16. október 2002",
+      "do": "4. júl 2006",
+      "poznamka": ""
+    },
+    {
+      "poradie": "11",
+      "meno": "Ivan Valentovič",
+      "nominant": "nom. SMER-SD",
+      "od": "4. júl 2006",
+      "do": "3. jún 2008",
+      "poznamka": ""
+    },
+    {
+      "poradie": "12",
+      "meno": "Richard Raši",
+      "nominant": "SMER-SD",
+      "od": "3. jún 2008",
+      "do": "8. júl 2010",
+      "poznamka": ""
+    },
+    {
+      "poradie": "13",
+      "meno": "Ivan Uhliarik",
+      "nominant": "KDH",
+      "od": "9. júl 2010",
+      "do": "3. apríl 2012",
+      "poznamka": ""
+    },
+    {
+      "poradie": "14",
+      "meno": "Zuzana Zvolenská",
+      "nominant": "nom. SMER-SD",
+      "od": "4. apríl 2012",
+      "do": "6. novembra 2014",
+      "poznamka": ""
+    },
+    {
+      "poradie": "15",
+      "meno": "Viliam Čislák",
+      "nominant": "nom. SMER-SD",
+      "od": "6. novembra 2014",
+      "do": "23. marec 2016",
+      "poznamka": ""
+    },
+    {
+      "poradie": "16",
+      "meno": "Tomáš Drucker",
+      "nominant": "nom. SMER-SD",
+      "od": "23. marec 2016",
+      "do": "22. marec 2018",
+      "poznamka": ""
+    },
+    {
+      "poradie": "17",
+      "meno": "Andrea Kalavská",
+      "nominant": "nom. SMER-SD",
+      "od": "22. marec 2018",
+      "do": "17. december 2019",
+      "poznamka": "Podala demisiu po rozpore s predsedom strany SMER-SD Robertom Ficom ohľadom reformy zdravotníctva. Do konca volebného obdobia 2016-2020 ju zastupoval predseda vlády Peter Pellegrini."
+    },
+    {
+      "poradie": "18",
+      "meno": "Peter Pellegrini",
+      "nominant": "SMER-SD",
+      "od": "17. december 2019",
+      "do": "21. marec 2020",
+      "poznamka": "ad interim"
+    },
+    {
+      "poradie": "19",
+      "meno": "Marek Krajčí",
+      "nominant": "OĽaNO",
+      "od": "21. marec 2020",
+      "do": "12. marec 2021",
+      "poznamka": "demisia"
+    },
+    {
+      "poradie": "20",
+      "meno": "Eduard Heger",
+      "nominant": "OĽaNO",
+      "od": "12. marec 2021",
+      "do": "31. marec 2021",
+      "poznamka": "ad interim"
+    },
+    {
+      "poradie": "21",
+      "meno": "Vladimír Lengvarský",
+      "nominant": "nestraník (nom. OĽANO)",
+      "od": "1. apríl 2021",
+      "do": "3. marec 2023",
+      "poznamka": ""
+    },
+    {
+      "poradie": "22. opakovane",
+      "meno": "Eduard Heger",
+      "nominant": "OĽaNO",
+      "od": "3. marec 2023",
+      "do": "15. máj 2023",
+      "poznamka": "ad interim"
+    },
+    {
+      "poradie": "23",
+      "meno": "Michal Palkovič",
+      "nominant": "nestraník",
+      "od": "15. máj 2023",
+      "do": "25. október 2023",
+      "poznamka": "premiér a zároveň poverený minister zdravotníctva Eduard Heger už 14. marca 2023 do funkcie š. tajomníka MZ vymenoval Palkoviča. 12. mája 2023 prezidentka Zuzana Čaputová oznámila nomináciu Palkoviča ako člena vlády Ľudovíta Ódora"
+    },
+    {
+      "poradie": "24",
+      "meno": "Zuzana Dolinková",
+      "nominant": "HLAS-SD",
+      "od": "25. október 2023",
+      "do": "10. október 2024",
+      "poznamka": "demisia"
+    },
+    {
+      "poradie": "25",
+      "meno": "Kamil Šaško",
+      "nominant": "HLAS-SD",
+      "od": "10. október 2024",
+      "do": "",
+      "poznamka": ""
+    }
+  ],
+  "meta": {
+    "title": "Ministri zdravotníctva Slovenskej republiky - Free Download",
+    "description": "Zoznam ministrov zdravotníctva Slovenskej republiky od roku 1989 s nominujúcou stranou a obdobím vo funkcii. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministri zdravotníctva Slovenskej republiky | ListBase",
+    "seo_description": "Download Ministri zdravotníctva Slovenskej republiky — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_ministrov_zdravotníctva_Slovenskej_republiky"
+    ]
+  }
+}

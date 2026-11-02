@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-02T02:17:29.057Z",
-  "total_datasets": 449,
-  "total_records": 282096,
+  "generated": "2026-11-02T02:17:35.335Z",
+  "total_datasets": 450,
+  "total_records": 282122,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "history",
@@ -4054,6 +4054,33 @@
         "xlsx": {
           "name": "sk-liecebne-kupele_SK.xlsx",
           "size": 7067
+        }
+      }
+    },
+    {
+      "id": "sk-ministri-zdravotnictva",
+      "name": "Ministri zdravotníctva Slovenskej republiky",
+      "category": "health",
+      "record_count": 26,
+      "columns": [
+        "poradie",
+        "meno",
+        "nominant",
+        "od",
+        "do",
+        "poznamka"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_zdravotníctva_Slovenskej_republiky",
+      "updated": "2026-11",
+      "size": 7054,
+      "files": {
+        "csv": {
+          "name": "sk-ministri-zdravotnictva_SK.csv",
+          "size": 2441
+        },
+        "xlsx": {
+          "name": "sk-ministri-zdravotnictva_SK.xlsx",
+          "size": 8426
         }
       }
     },
