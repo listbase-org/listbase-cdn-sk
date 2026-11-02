@@ -1,0 +1,366 @@
+{
+  "id": "sk-registrovane-odrody-vinica",
+  "name": "Registrované odrody viniča na Slovensku",
+  "title": "Registrované odrody viniča na Slovensku",
+  "description": "Muštové odrody viniča zapísané v slovenskej Listine registrovaných odrôd: skupina (biele, tokajské, modré), rok registrácie, plocha vinohradov v hektároch a klony.",
+  "category": "agriculture",
+  "source": "https://sk.wikipedia.org/wiki/Listina_registrovaných_odrôd",
+  "source_url": "https://sk.wikipedia.org/wiki/Listina_registrovaných_odrôd",
+  "updated": "2026-11",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "nazov_odrody",
+      "label": "Nazov Odrody",
+      "type": "string"
+    },
+    {
+      "key": "skupina",
+      "label": "Skupina",
+      "type": "string"
+    },
+    {
+      "key": "rok_registracie",
+      "label": "Rok Registracie",
+      "type": "number"
+    },
+    {
+      "key": "plocha_ha",
+      "label": "Plocha Ha",
+      "type": "number"
+    },
+    {
+      "key": "klony",
+      "label": "Klony",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazov_odrody": "Aurelius",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 1983,
+      "plocha_ha": 16.4,
+      "klony": ""
+    },
+    {
+      "nazov_odrody": "Bouvierovo hrozno",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 1952,
+      "plocha_ha": 32.7,
+      "klony": ""
+    },
+    {
+      "nazov_odrody": "Breslava",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 2011,
+      "plocha_ha": 0,
+      "klony": ""
+    },
+    {
+      "nazov_odrody": "Devín",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 1997,
+      "plocha_ha": 153.2,
+      "klony": ""
+    },
+    {
+      "nazov_odrody": "Dievčie hrozno",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 1952,
+      "plocha_ha": 369.6,
+      "klony": "ŠE-41/8, ŠE-45/38, ŠE-45/48, ŠE-47/29"
+    },
+    {
+      "nazov_odrody": "Feteasca regala",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 1974,
+      "plocha_ha": 312.5,
+      "klony": ""
+    },
+    {
+      "nazov_odrody": "Hetera",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 2011,
+      "plocha_ha": 0,
+      "klony": ""
+    },
+    {
+      "nazov_odrody": "Chardonnay",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 1996,
+      "plocha_ha": 341.4,
+      "klony": "VP-161/6, VP-155/6, PO-160/1, PO-158/7, PO-156/4, ŠE-49/38, ŠE-60/41"
+    },
+    {
+      "nazov_odrody": "Irsai Oliver",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 1975,
+      "plocha_ha": 364.8,
+      "klony": ""
+    },
+    {
+      "nazov_odrody": "Milia",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 2002,
+      "plocha_ha": 3,
+      "klony": ""
+    },
+    {
+      "nazov_odrody": "Muškát moravský",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 1987,
+      "plocha_ha": 177.4,
+      "klony": ""
+    },
+    {
+      "nazov_odrody": "Muškát Ottonel",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 1952,
+      "plocha_ha": 68,
+      "klony": "PE-1/10, PE-2/1, PE-4/15, PE-5/4"
+    },
+    {
+      "nazov_odrody": "Müller-Thurgau",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 1941,
+      "plocha_ha": 1488.3,
+      "klony": "PO-5/12, PO-2/15, KA-23/37, KA-25/7, KA-43/25, ŠE-34/48, ŠE-37/29, ŠE-41/3"
+    },
+    {
+      "nazov_odrody": "Neuburské",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 1941,
+      "plocha_ha": 19.5,
+      "klony": ""
+    },
+    {
+      "nazov_odrody": "Noria",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 2002,
+      "plocha_ha": 2.7,
+      "klony": ""
+    },
+    {
+      "nazov_odrody": "Pálava",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 1977,
+      "plocha_ha": 55.2,
+      "klony": ""
+    },
+    {
+      "nazov_odrody": "Rizling rýnsky",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 1941,
+      "plocha_ha": 917.3,
+      "klony": "PO-27/5, PO-89/12, PO-90/12, VP-20/9, VP-23/9"
+    },
+    {
+      "nazov_odrody": "Rizling vlašský",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 1941,
+      "plocha_ha": 2390.7,
+      "klony": "PE-5/34, PE-5/44, PE-6/65, PE-7/71, PE-7/76"
+    },
+    {
+      "nazov_odrody": "Rulandské biele",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 1941,
+      "plocha_ha": 798.1,
+      "klony": "ŠE-48/5"
+    },
+    {
+      "nazov_odrody": "Rulandské šedé",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 1941,
+      "plocha_ha": 305.6,
+      "klony": "PO-V-2, PO-49/2"
+    },
+    {
+      "nazov_odrody": "Sauvignon",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 1952,
+      "plocha_ha": 257.2,
+      "klony": "PE-6/5, PE-13/49, PE-13/67"
+    },
+    {
+      "nazov_odrody": "Silvánske zelené",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 1941,
+      "plocha_ha": 208.5,
+      "klony": "KA-38/23, KA-46/21, KA-60/25, KA-62/2, KA-64/14, ZN-1/54"
+    },
+    {
+      "nazov_odrody": "Tramín červený",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 1941,
+      "plocha_ha": 394.6,
+      "klony": "PO-202/A, ŠE-58/19, ŠE-62/23, ŠE-64/33, ŠE-69/18"
+    },
+    {
+      "nazov_odrody": "Veltlínske červené skoré",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 1952,
+      "plocha_ha": 280.4,
+      "klony": "PO-1/10, PO-2/24, PO-3/15, PO-4/15, PO-4/30"
+    },
+    {
+      "nazov_odrody": "Veltlínske zelené",
+      "skupina": "Biele muštové odrody",
+      "rok_registracie": 1941,
+      "plocha_ha": 2984.9,
+      "klony": "VP-3/6, VP-4/10, VP-6/2, ZN-1/49, ZN-10/45, ŠE-56/52, ŠE-62/39"
+    },
+    {
+      "nazov_odrody": "Furmint",
+      "skupina": "Tokajské muštové odrody",
+      "rok_registracie": 1952,
+      "plocha_ha": 310.2,
+      "klony": "ŠE 22/33, ŠE 26/88, ŠE 34/5"
+    },
+    {
+      "nazov_odrody": "Lipovina",
+      "skupina": "Tokajské muštové odrody",
+      "rok_registracie": 1952,
+      "plocha_ha": 178.6,
+      "klony": "ŠE 10/5, ŠE 22/36, ŠE 5/12"
+    },
+    {
+      "nazov_odrody": "Muškát žltý",
+      "skupina": "Tokajské muštové odrody",
+      "rok_registracie": 1941,
+      "plocha_ha": 65,
+      "klony": "ŠE 37/18, ŠE 54/21"
+    },
+    {
+      "nazov_odrody": "Alibernet",
+      "skupina": "Modré muštové odrody",
+      "rok_registracie": 1975,
+      "plocha_ha": 253,
+      "klony": ""
+    },
+    {
+      "nazov_odrody": "André",
+      "skupina": "Modré muštové odrody",
+      "rok_registracie": 1980,
+      "plocha_ha": 221.1,
+      "klony": ""
+    },
+    {
+      "nazov_odrody": "Cabernet Sauvignon",
+      "skupina": "Modré muštové odrody",
+      "rok_registracie": 1980,
+      "plocha_ha": 598.7,
+      "klony": ""
+    },
+    {
+      "nazov_odrody": "Dunaj",
+      "skupina": "Modré muštové odrody",
+      "rok_registracie": 1997,
+      "plocha_ha": 77.6,
+      "klony": ""
+    },
+    {
+      "nazov_odrody": "Frankovka modrá",
+      "skupina": "Modré muštové odrody",
+      "rok_registracie": 1941,
+      "plocha_ha": 1560.4,
+      "klony": "PO-22/4, PO-275/i, PO-281/E, VP-6/5, VP-14/4, ŠE-23/29, ŠE-25/31, ŠE-28/6, ŠE-35/30"
+    },
+    {
+      "nazov_odrody": "Hron",
+      "skupina": "Modré muštové odrody",
+      "rok_registracie": 2011,
+      "plocha_ha": 0,
+      "klony": ""
+    },
+    {
+      "nazov_odrody": "Modrý Portugal",
+      "skupina": "Modré muštové odrody",
+      "rok_registracie": 1941,
+      "plocha_ha": 118.8,
+      "klony": "KA-20/52"
+    },
+    {
+      "nazov_odrody": "Neronet",
+      "skupina": "Modré muštové odrody",
+      "rok_registracie": 1991,
+      "plocha_ha": 41.2,
+      "klony": ""
+    },
+    {
+      "nazov_odrody": "Nitria",
+      "skupina": "Modré muštové odrody",
+      "rok_registracie": 2011,
+      "plocha_ha": 0,
+      "klony": ""
+    },
+    {
+      "nazov_odrody": "Rimava",
+      "skupina": "Modré muštové odrody",
+      "rok_registracie": 2011,
+      "plocha_ha": 0,
+      "klony": ""
+    },
+    {
+      "nazov_odrody": "Rosa",
+      "skupina": "Modré muštové odrody",
+      "rok_registracie": 2011,
+      "plocha_ha": 0,
+      "klony": ""
+    },
+    {
+      "nazov_odrody": "Rudava",
+      "skupina": "Modré muštové odrody",
+      "rok_registracie": 2011,
+      "plocha_ha": 0,
+      "klony": ""
+    },
+    {
+      "nazov_odrody": "Rulandské modré",
+      "skupina": "Modré muštové odrody",
+      "rok_registracie": 1941,
+      "plocha_ha": 231.6,
+      "klony": "PO-20, PO-22"
+    },
+    {
+      "nazov_odrody": "Svätovavrinecké",
+      "skupina": "Modré muštové odrody",
+      "rok_registracie": 1941,
+      "plocha_ha": 1133.3,
+      "klony": "PO-7/5, PO-10/7, KA-4/9, KA-4/10, KA-6/12"
+    },
+    {
+      "nazov_odrody": "Torysa",
+      "skupina": "Modré muštové odrody",
+      "rok_registracie": 2011,
+      "plocha_ha": 0,
+      "klony": ""
+    },
+    {
+      "nazov_odrody": "Váh",
+      "skupina": "Modré muštové odrody",
+      "rok_registracie": 2011,
+      "plocha_ha": 0,
+      "klony": ""
+    },
+    {
+      "nazov_odrody": "Zweigeltrebe",
+      "skupina": "Modré muštové odrody",
+      "rok_registracie": 1980,
+      "plocha_ha": 135.6,
+      "klony": ""
+    }
+  ],
+  "meta": {
+    "title": "Registrované odrody viniča na Slovensku - Free Download",
+    "description": "Muštové odrody viniča zapísané v slovenskej Listine registrovaných odrôd: skupina (biele, tokajské, modré), rok registrácie, plocha vinohradov v hektároch a klony. Contains 45 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Registrované odrody viniča na Slovensku | ListBase",
+    "seo_description": "Download Registrované odrody viniča na Slovensku — 45 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 45 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Listina_registrovaných_odrôd"
+    ]
+  }
+}

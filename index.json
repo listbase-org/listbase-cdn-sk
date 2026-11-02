@@ -1,12 +1,12 @@
 {
   "lang": "sk",
-  "generated": "2026-11-02T02:17:41.976Z",
-  "total_datasets": 451,
-  "total_records": 282194,
+  "generated": "2026-11-02T02:17:49.347Z",
+  "total_datasets": 452,
+  "total_records": 282239,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -125,6 +125,32 @@
         "xlsx": {
           "name": "sk-ministri-podohospodarstva_SK.xlsx",
           "size": 7880
+        }
+      }
+    },
+    {
+      "id": "sk-registrovane-odrody-vinica",
+      "name": "Registrované odrody viniča na Slovensku",
+      "category": "agriculture",
+      "record_count": 45,
+      "columns": [
+        "nazov_odrody",
+        "skupina",
+        "rok_registracie",
+        "plocha_ha",
+        "klony"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Listina_registrovaných_odrôd",
+      "updated": "2026-11",
+      "size": 10205,
+      "files": {
+        "csv": {
+          "name": "sk-registrovane-odrody-vinica_SK.csv",
+          "size": 3429
+        },
+        "xlsx": {
+          "name": "sk-registrovane-odrody-vinica_SK.xlsx",
+          "size": 8746
         }
       }
     },
