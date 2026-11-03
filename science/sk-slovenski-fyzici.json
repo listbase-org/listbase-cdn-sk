@@ -1,0 +1,352 @@
+{
+  "id": "sk-slovenski-fyzici",
+  "name": "Slovenskí fyzici",
+  "title": "Slovenskí fyzici",
+  "description": "Zoznam slovenských fyzikov a fyzičiek s rokmi narodenia a úmrtia, povolaním a stručnou charakteristikou ich prínosu.",
+  "category": "science",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_slovenských_fyzikov",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_slovenských_fyzikov",
+  "updated": "2026-11",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "meno",
+      "label": "Meno",
+      "type": "string"
+    },
+    {
+      "key": "roky_zivota",
+      "label": "Roky Zivota",
+      "type": "string"
+    },
+    {
+      "key": "povolanie",
+      "label": "Povolanie",
+      "type": "string"
+    },
+    {
+      "key": "poznamka",
+      "label": "Poznamka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "meno": "Vojtech Alexander",
+      "roky_zivota": "1857 – 1916",
+      "povolanie": "fyzik a lekár",
+      "poznamka": "založil plastickú röntgenológiu"
+    },
+    {
+      "meno": "Karol Antolík",
+      "roky_zivota": "1843 – 1905",
+      "povolanie": "fyzik",
+      "poznamka": "venoval sa oblasti elektrostatiky a akustiky"
+    },
+    {
+      "meno": "Ivan Baník",
+      "roky_zivota": "1936 – 2017",
+      "povolanie": "fyzik",
+      "poznamka": "emeritný profesor STU"
+    },
+    {
+      "meno": "Oldrich Benda",
+      "roky_zivota": "1924 – 1999",
+      "povolanie": "fyzik",
+      "poznamka": "špecialista vo fyzike feromagnetík"
+    },
+    {
+      "meno": "Matej Butschany",
+      "roky_zivota": "1731 – 1796",
+      "povolanie": "fyzik a matematik",
+      "poznamka": "zdokonalil bleskozvod"
+    },
+    {
+      "meno": "Ján Chrapan",
+      "roky_zivota": "1908 – 1969",
+      "povolanie": "fyzik",
+      "poznamka": "zaoberal sa analytickou mechanikou a mechanikou kontinua"
+    },
+    {
+      "meno": "Juraj Daniel-Szabó",
+      "roky_zivota": "1919 – 1990",
+      "povolanie": "fyzik",
+      "poznamka": "zaoberal sa magnetickými vlastnosťami látok"
+    },
+    {
+      "meno": "Ladislav Dúbrava",
+      "roky_zivota": "1934 – 1982",
+      "povolanie": "fyzik",
+      "poznamka": "zaoberal sa turbolenciou vody v otvorených korytách"
+    },
+    {
+      "meno": "Ladislav Dutka",
+      "roky_zivota": "1912 – 1996",
+      "povolanie": "fyzik",
+      "poznamka": ""
+    },
+    {
+      "meno": "Štefan Farbaky",
+      "roky_zivota": "1837 – 1928",
+      "povolanie": "fyzik a matematik",
+      "poznamka": "patent na akumulátor typu Farbaky–Schenck"
+    },
+    {
+      "meno": "Michal Ferianc",
+      "roky_zivota": "1931 – 1998",
+      "povolanie": "fyzik",
+      "poznamka": "vyvinul technológiu pestovania monokryštálov"
+    },
+    {
+      "meno": "Ján Fischer",
+      "roky_zivota": "1905 – 1980",
+      "povolanie": "fyzik",
+      "poznamka": "zaoberal sa Comptonovým javom (fotoefekt)"
+    },
+    {
+      "meno": "Albert Fuchs",
+      "roky_zivota": "1808 – 1894",
+      "povolanie": "fyzik",
+      "poznamka": "zaoberal sa termikou"
+    },
+    {
+      "meno": "Karol Henrich Fuchs",
+      "roky_zivota": "1851 – 1916",
+      "povolanie": "fyzik, matematik a geodet",
+      "poznamka": "priekopník fotogrammetrie"
+    },
+    {
+      "meno": "Ladislav Gomolčák",
+      "roky_zivota": "1932 – 1976",
+      "povolanie": "fyzik",
+      "poznamka": "zaoberal sa kvantovou fyzikou"
+    },
+    {
+      "meno": "Andrej Grega",
+      "roky_zivota": "1920 – 1997",
+      "povolanie": "fyzik",
+      "poznamka": "zaoberal sa teóriou vyučovania fyziky"
+    },
+    {
+      "meno": "Maximilián Hell",
+      "roky_zivota": "1720 – 1792",
+      "povolanie": "fyzik, matematik a astronóm",
+      "poznamka": "priekopník vyskumu v oblasti polárnej žiary a magnetického poľa Zeme"
+    },
+    {
+      "meno": "Ľubomír Hrivnák",
+      "roky_zivota": "1930 – 1993",
+      "povolanie": "fyzik",
+      "poznamka": "zakladateľ teórie tuhých látok"
+    },
+    {
+      "meno": "Dionýz Ilkovič",
+      "roky_zivota": "1907 – 1980",
+      "povolanie": "fyzik a fyzikálny chemik",
+      "poznamka": "zriadil Fyzikálny ústav PFSU"
+    },
+    {
+      "meno": "Andrej Jaslinský",
+      "roky_zivota": "1715 – 1784",
+      "povolanie": "fyzik a filozof",
+      "poznamka": "začal prednášať Newtonovskú fyziku (namiesto Aristotelovej)"
+    },
+    {
+      "meno": "Štefan Anián Jedlík",
+      "roky_zivota": "1800 – 1895",
+      "povolanie": "fyzik",
+      "poznamka": "objavil výrobu sódovej vody"
+    },
+    {
+      "meno": "Zdeněk Juránek",
+      "roky_zivota": "1940 – 1992",
+      "povolanie": "fyzik",
+      "poznamka": "zaoberal sa premagnetizačnými procesmi feromagnetík"
+    },
+    {
+      "meno": "Štefan Jánoš",
+      "roky_zivota": "1943 –",
+      "povolanie": "fyzik",
+      "poznamka": "zaoberal sa skúmaním vlastností materiálov pri veľmi nízkach teplotách"
+    },
+    {
+      "meno": "Vincent Kavečanský",
+      "roky_zivota": "1924 – 1983",
+      "povolanie": "fyzik",
+      "poznamka": "zaoberal sa štúdiom magnetických látok"
+    },
+    {
+      "meno": "Virgil Klatt",
+      "roky_zivota": "1850 – 1935",
+      "povolanie": "fyzik",
+      "poznamka": "zaoberal sa intenzitou a zafarbením fosforescencie"
+    },
+    {
+      "meno": "Karol Klobušický",
+      "roky_zivota": "1935 – 1994",
+      "povolanie": "fyzik",
+      "poznamka": ""
+    },
+    {
+      "meno": "Tatiana Korcová",
+      "roky_zivota": "1937 – 1997",
+      "povolanie": "fyzička a astrofyzička",
+      "poznamka": "zaoberala sa dlhodobými variáciami slnečného vetra"
+    },
+    {
+      "meno": "Július Krmešský",
+      "roky_zivota": "1900 – 1984",
+      "povolanie": "fyzik",
+      "poznamka": "patent na Kvazimagnetické vektorové pole"
+    },
+    {
+      "meno": "Jozef Lánik",
+      "roky_zivota": "1941 – 1995",
+      "povolanie": "fyzik a fyzikálny chemik",
+      "poznamka": "zaoberal sa teóriou grúp vo fyzike elementárnych častí"
+    },
+    {
+      "meno": "Štefan Luscoň",
+      "roky_zivota": "1912 – 1977",
+      "povolanie": "fyzik",
+      "poznamka": "získal prvý doktorát z experimentálnej fyziky"
+    },
+    {
+      "meno": "Ján Matej Matsko",
+      "roky_zivota": "1720 – 1796",
+      "povolanie": "fyzik, matematik a astronóm",
+      "poznamka": "zaoberal sa hydrodynamikou a mechanikou"
+    },
+    {
+      "meno": "Ján Maďar",
+      "roky_zivota": "1926 – 1995",
+      "povolanie": "fyzik",
+      "poznamka": "podieľal sa na vývoji precesnej röntgenovej difrakčnej komôrky"
+    },
+    {
+      "meno": "Anton Mišík",
+      "roky_zivota": "1882 – 1947",
+      "povolanie": "fyzik a matematik",
+      "poznamka": ""
+    },
+    {
+      "meno": "Ivan Náter",
+      "roky_zivota": "1925 – 1991",
+      "povolanie": "fyzik",
+      "poznamka": "zaoberal sa vedením tepla a prúdením viskóznych kvapalín"
+    },
+    {
+      "meno": "Ján Oravec",
+      "roky_zivota": "1935 – 1996",
+      "povolanie": "fyzik",
+      "poznamka": "inicioval vývoj mnohovláknových korónových počítačov"
+    },
+    {
+      "meno": "Jozef Maximilián Petzval",
+      "roky_zivota": "1807 – 1891",
+      "povolanie": "fyzik a matematik",
+      "poznamka": "bol zakladateľom modernej fotografie"
+    },
+    {
+      "meno": "Gustáv Prokeš",
+      "roky_zivota": "1915 – 1995",
+      "povolanie": "fyzik",
+      "poznamka": "zaoberal sa experimentálnou a teoretickou elektrofyzikou"
+    },
+    {
+      "meno": "Ján Purgina",
+      "roky_zivota": "1719 – 1748",
+      "povolanie": "fyzik",
+      "poznamka": "napísal latinskú veršovanú prácu o elektrostatických javoch"
+    },
+    {
+      "meno": "Andrej Radlinský",
+      "roky_zivota": "1817 – 1879",
+      "povolanie": "fyzik",
+      "poznamka": "prispel k vytváraniu slovenskej fyzikálnej terminológie"
+    },
+    {
+      "meno": "Otto Schwartz",
+      "roky_zivota": "1847 – 1910",
+      "povolanie": "fyzik",
+      "poznamka": "zaoberal sa klimatologickými a meteorologickými pozorovaniami"
+    },
+    {
+      "meno": "Emil Sokol",
+      "roky_zivota": "1910 – 1979",
+      "povolanie": "fyzik",
+      "poznamka": "zaoberal sa oblasťou didaktiky fyziky"
+    },
+    {
+      "meno": "Aurel Stodola",
+      "roky_zivota": "1859 – 1942",
+      "povolanie": "fyzik",
+      "poznamka": "zaoberal sa teóriou automatickej regulácie strojov"
+    },
+    {
+      "meno": "Zuzana Šimkovicová",
+      "roky_zivota": "1922 – 1983",
+      "povolanie": "fyzička",
+      "poznamka": ""
+    },
+    {
+      "meno": "Július Šoltés",
+      "roky_zivota": "1935 – 1990",
+      "povolanie": "fyzik",
+      "poznamka": ""
+    },
+    {
+      "meno": "Jozef Šucha",
+      "roky_zivota": "1912 – 1997",
+      "povolanie": "fyzik",
+      "poznamka": "zaoberal sa pokusmi z elektriny a magnetizmu"
+    },
+    {
+      "meno": "Pavel Šulek",
+      "roky_zivota": "1935 – 1987",
+      "povolanie": "fyzik",
+      "poznamka": "zaoberal sa röntgenovou štruktúrnou analýzou"
+    },
+    {
+      "meno": "Sergej Usačev",
+      "roky_zivota": "1926 – 1996",
+      "povolanie": "fyzik",
+      "poznamka": "zaoberal sa štúdiom vlastností halogénových plynových GM počítačov"
+    },
+    {
+      "meno": "Ján Vanovič",
+      "roky_zivota": "1907 – 1973",
+      "povolanie": "fyzik",
+      "poznamka": "zaoberal sa teóriou relativity"
+    },
+    {
+      "meno": "Štefan Veis",
+      "roky_zivota": "1923 – 1981",
+      "povolanie": "fyzik",
+      "poznamka": "založil Vedeckú školu fyziky plazmy"
+    },
+    {
+      "meno": "Ján Veme",
+      "roky_zivota": "1934 – 1993",
+      "povolanie": "fyzik",
+      "poznamka": "zaoberal sa magnetickými vlastnosťami feromagnetických vrstiev"
+    },
+    {
+      "meno": "Vojtech Mikuláš Vikár",
+      "roky_zivota": "1903 – 1988",
+      "povolanie": "fyzik",
+      "poznamka": ""
+    }
+  ],
+  "meta": {
+    "title": "Slovenskí fyzici - Free Download",
+    "description": "Zoznam slovenských fyzikov a fyzičiek s rokmi narodenia a úmrtia, povolaním a stručnou charakteristikou ich prínosu. Contains 51 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Slovenskí fyzici | ListBase",
+    "seo_description": "Download Slovenskí fyzici — 51 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 51 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_slovenských_fyzikov"
+    ]
+  }
+}

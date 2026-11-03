@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-03T02:13:26.563Z",
-  "total_datasets": 455,
-  "total_records": 282525,
+  "generated": "2026-11-03T02:13:33.673Z",
+  "total_datasets": 456,
+  "total_records": 282576,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "society",
@@ -12018,6 +12018,31 @@
         "xlsx": {
           "name": "sk-organizacie-sav_SK.xlsx",
           "size": 10402
+        }
+      }
+    },
+    {
+      "id": "sk-slovenski-fyzici",
+      "name": "Slovenskí fyzici",
+      "category": "science",
+      "record_count": 51,
+      "columns": [
+        "meno",
+        "roky_zivota",
+        "povolanie",
+        "poznamka"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_slovenských_fyzikov",
+      "updated": "2026-11",
+      "size": 10585,
+      "files": {
+        "csv": {
+          "name": "sk-slovenski-fyzici_SK.csv",
+          "size": 4648
+        },
+        "xlsx": {
+          "name": "sk-slovenski-fyzici_SK.xlsx",
+          "size": 9777
         }
       }
     },
