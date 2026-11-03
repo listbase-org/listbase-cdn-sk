@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-02T02:17:49.347Z",
-  "total_datasets": 452,
-  "total_records": 282239,
+  "generated": "2026-11-03T02:13:13.533Z",
+  "total_datasets": 453,
+  "total_records": 282344,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 17
+      "dataset_count": 18
     },
     {
       "id": "units",
@@ -13050,6 +13050,31 @@
         "xlsx": {
           "name": "sk-historicke-mosty_SK.xlsx",
           "size": 29703
+        }
+      }
+    },
+    {
+      "id": "sk-hranicne-priechody",
+      "name": "Hraničné priechody Slovenska s Českom, Poľskom, Rakúskom a Maďarskom",
+      "category": "transport",
+      "record_count": 105,
+      "columns": [
+        "susedny_stat",
+        "komunikacia",
+        "hranicny_priechod",
+        "typ"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_hraničných_priechodov_na_Slovensku",
+      "updated": "2026-11",
+      "size": 19298,
+      "files": {
+        "csv": {
+          "name": "sk-hranicne-priechody_SK.csv",
+          "size": 6998
+        },
+        "xlsx": {
+          "name": "sk-hranicne-priechody_SK.xlsx",
+          "size": 10464
         }
       }
     },

@@ -1,0 +1,676 @@
+{
+  "id": "sk-hranicne-priechody",
+  "name": "Hraničné priechody Slovenska s Českom, Poľskom, Rakúskom a Maďarskom",
+  "title": "Hraničné priechody Slovenska s Českom, Poľskom, Rakúskom a Maďarskom",
+  "description": "Zoznam hraničných priechodov Slovenska s Českom, Poľskom, Rakúskom a Maďarskom podľa susedného štátu, s cestnou alebo železničnou komunikáciou a typom priechodu.",
+  "category": "transport",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_hraničných_priechodov_na_Slovensku",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_hraničných_priechodov_na_Slovensku",
+  "updated": "2026-11",
+  "record_count": 105,
+  "columns": [
+    {
+      "key": "susedny_stat",
+      "label": "Susedny Stat",
+      "type": "string"
+    },
+    {
+      "key": "komunikacia",
+      "label": "Komunikacia",
+      "type": "string"
+    },
+    {
+      "key": "hranicny_priechod",
+      "label": "Hranicny Priechod",
+      "type": "string"
+    },
+    {
+      "key": "typ",
+      "label": "Typ",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Miestna cesta",
+      "hranicny_priechod": "Veľké Trakany – Zemplénagárd",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Miestna cesta",
+      "hranicny_priechod": "Pribenik – Lácacséke",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Miestna cesta",
+      "hranicny_priechod": "Veľký Horeš – Nagyrozvágy",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta III/3689",
+      "hranicny_priechod": "Veľký Kamenec – Pácin",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta III/3686",
+      "hranicny_priechod": "Streda nad Bodrogom – Karos",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Trať 190",
+      "hranicny_priechod": "Slovenské Nové Mesto – Sátoraljaújhely",
+      "typ": "železničný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta III/3683",
+      "hranicny_priechod": "Slovenské Nové Mesto – Sátoraljaújhely",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta I/79",
+      "hranicny_priechod": "Slovenské Nové Mesto – Sátoraljaújhely",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta III/3416",
+      "hranicny_priechod": "Skároš – Hollóháza",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta III/3342",
+      "hranicny_priechod": "Trstené pri Hornáde – Kéked",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Miestna cesta",
+      "hranicny_priechod": "Kechnec – Abaujvár",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Trať 169",
+      "hranicny_priechod": "Milhosť – Tornyosnémeti",
+      "typ": "železničný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta I/17",
+      "hranicny_priechod": "Milhosť – Tornyosnémeti",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Rýchlostná cesta R4",
+      "hranicny_priechod": "Milhosť – Tornyosnémeti",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta III/3400",
+      "hranicny_priechod": "Buzica – Szemere",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta III/3300",
+      "hranicny_priechod": "Hosťovce – Hidvégardó",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta III/3299",
+      "hranicny_priechod": "Hosťovce – Hidvégardó",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta II/587",
+      "hranicny_priechod": "Dlhá Ves / Domica – Aggtelek",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta I/67",
+      "hranicny_priechod": "Kráľ – Bánréve",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Trať 160",
+      "hranicny_priechod": "Lenartovce – Bánréve",
+      "typ": "železničný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta III/2807",
+      "hranicny_priechod": "Lenartovce – Bánréve",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta III/2783",
+      "hranicny_priechod": "Tachty – Cered",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta I/71",
+      "hranicny_priechod": "Šiatorská Bukovinka – Somoskőújfalu",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Trať 164",
+      "hranicny_priechod": "Šiatorská Bukovinka – Somoskőújfalu",
+      "typ": "železničný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Trať 161",
+      "hranicny_priechod": "Kalonda – Ipolytarnóc",
+      "typ": "železničný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta II/594",
+      "hranicny_priechod": "Kalonda – Ipolytarnóc",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta II/585",
+      "hranicny_priechod": "Trenč -Rároš – Rárospuszta",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Trať 161",
+      "hranicny_priechod": "Bušince – Nógrádszakál",
+      "typ": "železničný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta III/2616",
+      "hranicny_priechod": "Kováčovce -Peťov – Szécsény -Pösténypuszta",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta III/2610",
+      "hranicny_priechod": "Vrbovka – Őrhalom",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta II/527",
+      "hranicny_priechod": "Slovenské Ďarmoty – Balassagyarmat",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta II/527",
+      "hranicny_priechod": "Ipeľské Predmostie – Drégelypalánk",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta I/66",
+      "hranicny_priechod": "Šahy – Parassapuszta",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta III/1583",
+      "hranicny_priechod": "Vyškovce nad Ipľom – Bernecebaráti",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta III/1518",
+      "hranicny_priechod": "Salka – Letkés",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta III/1515",
+      "hranicny_priechod": "Chľaba – Ipolydamásd",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Trať 130",
+      "hranicny_priechod": "Chľaba – Szob",
+      "typ": "železničný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta I/63",
+      "hranicny_priechod": "Štúrovo – Esztergom",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "",
+      "hranicny_priechod": "Štúrovo – Esztergom",
+      "typ": "cestný/kompa"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "",
+      "hranicny_priechod": "Radvaň nad Dunajom – Neszmély",
+      "typ": "cestný/kompa"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta I/64a",
+      "hranicny_priechod": "Komárno – Komárom",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Trať 135",
+      "hranicny_priechod": "Komárno – Komárom",
+      "typ": "železničný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta I/64",
+      "hranicny_priechod": "Komárno – Komárom",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta I/13",
+      "hranicny_priechod": "Medveďov – Vámosszabadi",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "",
+      "hranicny_priechod": "Gabčíkovo – Dunaremete",
+      "typ": "cestný/kompa"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "",
+      "hranicny_priechod": "Čunovo – Rajka",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Cesta I/2",
+      "hranicny_priechod": "Rusovce – Rajka",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Trať 132",
+      "hranicny_priechod": "Rusovce – Rajka",
+      "typ": "železničný"
+    },
+    {
+      "susedny_stat": "Maďarsko",
+      "komunikacia": "Diaľnica D2",
+      "hranicny_priechod": "Rusovce – Rajka",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Rakúsko",
+      "komunikacia": "Diaľnica D4",
+      "hranicny_priechod": "Jarovce – Kittsee",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Rakúsko",
+      "komunikacia": "Cesta III/1020",
+      "hranicny_priechod": "Jarovce – Kittsee",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Rakúsko",
+      "komunikacia": "Trať 101",
+      "hranicny_priechod": "Petržalka – Kittsee",
+      "typ": "železničný"
+    },
+    {
+      "susedny_stat": "Rakúsko",
+      "komunikacia": "Cesta I/61",
+      "hranicny_priechod": "Petržalka – Berg",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Rakúsko",
+      "komunikacia": "",
+      "hranicny_priechod": "Devínska Nová Ves – Engelhartstetten",
+      "typ": "peší, cyklistický"
+    },
+    {
+      "susedny_stat": "Rakúsko",
+      "komunikacia": "Trať 100",
+      "hranicny_priechod": "Devínska Nová Ves – Marchegg",
+      "typ": "železničný"
+    },
+    {
+      "susedny_stat": "Rakúsko",
+      "komunikacia": "",
+      "hranicny_priechod": "Vysoká pri Morave – Marchegg",
+      "typ": "peší, cyklistický"
+    },
+    {
+      "susedny_stat": "Rakúsko",
+      "komunikacia": "Cesta II/503",
+      "hranicny_priechod": "Záhorská Ves – Angern",
+      "typ": "cestný/kompa"
+    },
+    {
+      "susedny_stat": "Rakúsko",
+      "komunikacia": "Cesta III/1144",
+      "hranicny_priechod": "Moravský Svätý Ján – Hohenau",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "Diaľnica D2",
+      "hranicny_priechod": "Kúty – Břeclav",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "Cesta II/425",
+      "hranicny_priechod": "Brodské – Lanžhot",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "Trať 110",
+      "hranicny_priechod": "Kúty – Lanžhot",
+      "typ": "železničný"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "",
+      "hranicny_priechod": "Kopčany – Mikulčice",
+      "typ": "peší, cyklistický"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "Trať 115",
+      "hranicny_priechod": "Holíč – Hodonín",
+      "typ": "železničný"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "Cesta I/51",
+      "hranicny_priechod": "Holíč – Hodonín",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "Trať 114",
+      "hranicny_priechod": "Skalica – Sudoměřice",
+      "typ": "železničný"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "Cesta II/426A",
+      "hranicny_priechod": "Skalica – Sudoměřice",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "Cesta II/426",
+      "hranicny_priechod": "Skalica – Sudoměřice",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "Cesta II/499",
+      "hranicny_priechod": "Vrbovce – Velká nad Veličkou",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "Trať 121",
+      "hranicny_priechod": "Vrbovce – Velká nad Veličkou",
+      "typ": "železničný"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "Cesta I/54",
+      "hranicny_priechod": "Moravské Lieskové – Strání",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "Cesta III/1223",
+      "hranicny_priechod": "Nová Bošáca – Březová",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "Cesta I/9",
+      "hranicny_priechod": "Drietoma – Starý Hrozenkov",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "Trať 123",
+      "hranicny_priechod": "Horné Srnie – Brumov-Bylnice",
+      "typ": "železničný"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "Cesta I/57",
+      "hranicny_priechod": "Horné Srnie – Brumov-Bylnice",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "Cesta III/1922",
+      "hranicny_priechod": "Červený Kameň – Nedašova Lhota",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "Trať 125",
+      "hranicny_priechod": "Lúky pod Makytou – Horní Lideč",
+      "typ": "železničný"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "Cesta I/49",
+      "hranicny_priechod": "Lysá pod Makytou – Střelná",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "Cesta II/487",
+      "hranicny_priechod": "Makov – Velké Karlovice",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "Cesta I/10",
+      "hranicny_priechod": "Makov – Horní Bečva",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "Cesta II/484",
+      "hranicny_priechod": "Klokočov – Bílá",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "Cesta III/2016",
+      "hranicny_priechod": "Čadca - Milošová – Šance",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "Cesta I/11",
+      "hranicny_priechod": "Svrčinovec – Mosty u Jablunkova",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Česko",
+      "komunikacia": "Trať 127",
+      "hranicny_priechod": "Čadca – Mosty u Jablunkova",
+      "typ": "železničný"
+    },
+    {
+      "susedny_stat": "Poľsko",
+      "komunikacia": "Cesta I/12",
+      "hranicny_priechod": "Skalité – Zwardoń",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Poľsko",
+      "komunikacia": "Diaľnica D3",
+      "hranicny_priechod": "Skalité – Zwardoń",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Poľsko",
+      "komunikacia": "Trať 129",
+      "hranicny_priechod": "Skalité – Zwardoń",
+      "typ": "železničný"
+    },
+    {
+      "susedny_stat": "Poľsko",
+      "komunikacia": "Cesta III/2270",
+      "hranicny_priechod": "Novoť – Ujsoły",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Poľsko",
+      "komunikacia": "Cesta I/78",
+      "hranicny_priechod": "Oravská Polhora – Korbielów",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Poľsko",
+      "komunikacia": "Cesta III/2276",
+      "hranicny_priechod": "Bobrov – Lipnica Wielka",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Poľsko",
+      "komunikacia": "Cesta I/59",
+      "hranicny_priechod": "Trstená – Chyžné",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Poľsko",
+      "komunikacia": "Cesta II/520",
+      "hranicny_priechod": "Suchá Hora – Chochołów",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Poľsko",
+      "komunikacia": "Cesta I/66",
+      "hranicny_priechod": "Tatranská Javorina – Łysa Polana",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Poľsko",
+      "komunikacia": "Cesta III/3078",
+      "hranicny_priechod": "Podspády – Jurgów",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Poľsko",
+      "komunikacia": "Cesta II/543",
+      "hranicny_priechod": "Lysá nad Dunajcom – Niedzica",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Poľsko",
+      "komunikacia": "",
+      "hranicny_priechod": "Červený Kláštor – Sromowce Niżne",
+      "typ": "peší, cyklistický"
+    },
+    {
+      "susedny_stat": "Poľsko",
+      "komunikacia": "Cesta I/68",
+      "hranicny_priechod": "Mníšek nad Popradom – Piwniczna-Zdrój",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Poľsko",
+      "komunikacia": "Trať 188",
+      "hranicny_priechod": "Čirč – Leluchów",
+      "typ": "železničný"
+    },
+    {
+      "susedny_stat": "Poľsko",
+      "komunikacia": "Cesta I/77",
+      "hranicny_priechod": "Čirč – Leluchów",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Poľsko",
+      "komunikacia": "Cesta III/3483",
+      "hranicny_priechod": "Kurov – Muszynka",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Poľsko",
+      "komunikacia": "Cesta II/545",
+      "hranicny_priechod": "Becherov – Konieczna",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Poľsko",
+      "komunikacia": "Cesta III/3519",
+      "hranicny_priechod": "Nižná Polianka – Ożenna",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Poľsko",
+      "komunikacia": "Cesta I/21",
+      "hranicny_priechod": "Vyšný Komárnik – Barwinek",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Poľsko",
+      "komunikacia": "Cesta II/559",
+      "hranicny_priechod": "Čertižné – Lipowiec",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Poľsko",
+      "komunikacia": "Cesta II/575",
+      "hranicny_priechod": "Palota – Radoszyce",
+      "typ": "cestný"
+    },
+    {
+      "susedny_stat": "Poľsko",
+      "komunikacia": "Trať 191",
+      "hranicny_priechod": "Palota – Stary Łupków",
+      "typ": "železničný"
+    }
+  ],
+  "meta": {
+    "title": "Hraničné priechody Slovenska s Českom, Poľskom, Rakúskom a Maďarskom - Free Download",
+    "description": "Zoznam hraničných priechodov Slovenska s Českom, Poľskom, Rakúskom a Maďarskom podľa susedného štátu, s cestnou alebo železničnou komunikáciou a typom priechodu. Contains 105 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Hraničné priechody Slovenska s Českom, Poľskom, Rakúskom a Maďarskom | ListBase",
+    "seo_description": "Download Hraničné priechody Slovenska s Českom, Poľskom, Rakúskom a Maďarskom — 105 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 105 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_hraničných_priechodov_na_Slovensku"
+    ]
+  }
+}
