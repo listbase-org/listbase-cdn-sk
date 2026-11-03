@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-03T02:13:19.989Z",
-  "total_datasets": 454,
-  "total_records": 282369,
+  "generated": "2026-11-03T02:13:26.563Z",
+  "total_datasets": 455,
+  "total_records": 282525,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "transport",
@@ -12894,6 +12894,31 @@
         "xlsx": {
           "name": "sk-hotely_SK.xlsx",
           "size": 39779
+        }
+      }
+    },
+    {
+      "id": "sk-putnicke-miesta",
+      "name": "Pútnické miesta na Slovensku",
+      "category": "tourism",
+      "record_count": 156,
+      "columns": [
+        "miesto",
+        "dieceza_eparchia",
+        "obrad",
+        "poznamka"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_pútnických_miest_na_Slovensku",
+      "updated": "2026-11",
+      "size": 25546,
+      "files": {
+        "csv": {
+          "name": "sk-putnicke-miesta_SK.csv",
+          "size": 9773
+        },
+        "xlsx": {
+          "name": "sk-putnicke-miesta_SK.xlsx",
+          "size": 11394
         }
       }
     },

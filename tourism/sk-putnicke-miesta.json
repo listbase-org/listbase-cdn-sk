@@ -1,0 +1,982 @@
+{
+  "id": "sk-putnicke-miesta",
+  "name": "Pútnické miesta na Slovensku",
+  "title": "Pútnické miesta na Slovensku",
+  "description": "Zoznam rímskokatolíckych a gréckokatolíckych pútnických miest na Slovensku s príslušnou diecézou či eparchiou a poznámkami.",
+  "category": "tourism",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_pútnických_miest_na_Slovensku",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_pútnických_miest_na_Slovensku",
+  "updated": "2026-11",
+  "record_count": 156,
+  "columns": [
+    {
+      "key": "miesto",
+      "label": "Miesto",
+      "type": "string"
+    },
+    {
+      "key": "dieceza_eparchia",
+      "label": "Dieceza Eparchia",
+      "type": "string"
+    },
+    {
+      "key": "obrad",
+      "label": "Obrad",
+      "type": "string"
+    },
+    {
+      "key": "poznamka",
+      "label": "Poznamka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "miesto": "Banská Belá",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Banská Bystrica – Kalvária",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Banská Štiavnica – Kalvária",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Bardejov – kalvária",
+      "dieceza_eparchia": "Košická arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Bíňa",
+      "dieceza_eparchia": "Nitrianska diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Bobrov",
+      "dieceza_eparchia": "Spišská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Bôrka",
+      "dieceza_eparchia": "Rožňavská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Borský Mikuláš",
+      "dieceza_eparchia": "Bratislavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Bratislava – Kalvária",
+      "dieceza_eparchia": "Bratislavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Bratislava – Katedrálny chrám Povýšenia vznešeného a životodarného Kríža",
+      "dieceza_eparchia": "Bratislavská eparchia",
+      "obrad": "gréckokat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Bratislava – Lurdská jaskyňa, Dúbravka",
+      "dieceza_eparchia": "Bratislavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Báč",
+      "dieceza_eparchia": "Bratislavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Buková Hôrka",
+      "dieceza_eparchia": "Prešovská archieparchia",
+      "obrad": "gréckokat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Butkov",
+      "dieceza_eparchia": "Žilinská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Častá – Červený Kameň",
+      "dieceza_eparchia": "Bratislavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Čierne – Trojmedzie",
+      "dieceza_eparchia": "Žilinská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Čirč",
+      "dieceza_eparchia": "Prešovská archieparchia",
+      "obrad": "gréckokat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Dechtice – Katarínka",
+      "dieceza_eparchia": "Trnavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Detva",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Divín",
+      "dieceza_eparchia": "Rožňavská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Dolné Orešany",
+      "dieceza_eparchia": "Trnavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Dolný Ohaj",
+      "dieceza_eparchia": "Nitrianska diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Domaniža",
+      "dieceza_eparchia": "Žilinská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Dražovce",
+      "dieceza_eparchia": "Nitrianska diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Doľany",
+      "dieceza_eparchia": "Bratislavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Dubnica nad Váhom",
+      "dieceza_eparchia": "Žilinská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Ducové – Kostelec",
+      "dieceza_eparchia": "Trnavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Dudince",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Dunajská Lužná",
+      "dieceza_eparchia": "Bratislavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": "Púť do svätyne Madony Žitného ostrova, Púť k milostivej soche Madony Žitného ostrova, Pomáhajúca Madona Žitného ostrova, zakázané v období komunistického režimu, slávnostne obnovená v roku 1997, august"
+    },
+    {
+      "miesto": "Dvory nad Žitavou",
+      "dieceza_eparchia": "Nitrianska diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Gaboltov – kalvária",
+      "dieceza_eparchia": "Košická arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Hrad Gýmeš",
+      "dieceza_eparchia": "Nitrianska diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Hliník nad Hronom – Kalvária",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Hlohovec",
+      "dieceza_eparchia": "Trnavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Hontianske Nemce",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Hrabské",
+      "dieceza_eparchia": "Prešovská archieparchia",
+      "obrad": "gréckokat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Hronský Beňadik",
+      "dieceza_eparchia": "Nitrianska diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Hrušov",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Humenné – kalvária",
+      "dieceza_eparchia": "Košická arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Hrušov",
+      "dieceza_eparchia": "Rožňavská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Hybecký Majer, Demandice",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": "Výročná púť ku Kostolu sv. Heleny v Hýbeci, Hýbecká púť, august"
+    },
+    {
+      "miesto": "Chalmová",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Chrenovec-Brusno",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Ivanka pri Dunaji",
+      "dieceza_eparchia": "Bratislavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Kláštor pod Znievom",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Klokočov",
+      "dieceza_eparchia": "Košická eparchia",
+      "obrad": "gréckokat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Kluknava",
+      "dieceza_eparchia": "Spišská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Košice – kalvária",
+      "dieceza_eparchia": "Košická arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Košice",
+      "dieceza_eparchia": "Košická eparchia",
+      "obrad": "gréckokat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Kremnica",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Krásny Brod",
+      "dieceza_eparchia": "Prešovská archieparchia",
+      "obrad": "gréckokat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Krivá",
+      "dieceza_eparchia": "Spišská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Ladce – Butkov",
+      "dieceza_eparchia": "Žilinská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Lednické Rovne",
+      "dieceza_eparchia": "Žilinská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Lehota",
+      "dieceza_eparchia": "Nitrianska diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Levoča – Mariánska hora",
+      "dieceza_eparchia": "Spišská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Litava",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Litmanová",
+      "dieceza_eparchia": "Prešovská archieparchia",
+      "obrad": "gréckokat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Ľutina",
+      "dieceza_eparchia": "Prešovská archieparchia",
+      "obrad": "gréckokat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Malacky",
+      "dieceza_eparchia": "Bratislavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Malá Poľana",
+      "dieceza_eparchia": "Prešovská archieparchia",
+      "obrad": "gréckokat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Malá Vieska",
+      "dieceza_eparchia": "Košická arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Marianka",
+      "dieceza_eparchia": "Bratislavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Michalovce",
+      "dieceza_eparchia": "Košická eparchia",
+      "obrad": "gréckokat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Modrý Kameň – Kalvária",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Nadlice – Mechovička",
+      "dieceza_eparchia": "Nitrianska diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Nitra – Kalvária",
+      "dieceza_eparchia": "Nitrianska diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Nitra – Svoradová jaskyňa a prameň",
+      "dieceza_eparchia": "Nitrianska diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Nitra – Zoborský kláštor",
+      "dieceza_eparchia": "Nitrianska diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Nitrianska Blatnica",
+      "dieceza_eparchia": "Nitrianska diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Nitrianske Pravno",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Nižná Šebastová",
+      "dieceza_eparchia": "Košická arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Nová Baňa – Kohútovo",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Nová Ves nad Žitavou",
+      "dieceza_eparchia": "Nitrianska diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Obišovce",
+      "dieceza_eparchia": "Košická arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Oščadnica",
+      "dieceza_eparchia": "Žilinská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Pezinok",
+      "dieceza_eparchia": "Bratislavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Podunajské Biskupice",
+      "dieceza_eparchia": "Bratislavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": "Kostol povýšenia Svätého kríža, Pútnický kostol bl. Zdenky"
+    },
+    {
+      "miesto": "Pomínovec (Bolešov)",
+      "dieceza_eparchia": "Žilinská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Poruba",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Pozba",
+      "dieceza_eparchia": "Nitrianska diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Predajná",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Prešov – kalvária",
+      "dieceza_eparchia": "Košická arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Prešov",
+      "dieceza_eparchia": "Prešovská archieparchia",
+      "obrad": "gréckokat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Prievidza – Kostol Nanebovzatia Panny Márie",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Radvaň – Hôrka",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Rafajovce",
+      "dieceza_eparchia": "Prešovská archieparchia",
+      "obrad": "gréckokat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Rakovnica",
+      "dieceza_eparchia": "Rožňavská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Rajecká Lesná - Frivaldská krížová cesta",
+      "dieceza_eparchia": "Žilinská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Rajecké Teplice",
+      "dieceza_eparchia": "Žilinská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Rožňava",
+      "dieceza_eparchia": "Rožňavská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Rudník",
+      "dieceza_eparchia": "Rožňavská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Ruské Pekľany",
+      "dieceza_eparchia": "Prešovská archieparchia",
+      "obrad": "gréckokat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Rybany",
+      "dieceza_eparchia": "Nitrianska diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Sabinov",
+      "dieceza_eparchia": "Prešovská archieparchia",
+      "obrad": "gréckokat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Sečovce",
+      "dieceza_eparchia": "Košická eparchia",
+      "obrad": "gréckokat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Sečovská Polianka",
+      "dieceza_eparchia": "Prešovská archieparchia",
+      "obrad": "gréckokat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Selce",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Senohrad",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Sereď – Stredný Čepeň",
+      "dieceza_eparchia": "Trnavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Sivá Brada – Spišský Jeruzalem",
+      "dieceza_eparchia": "Spišská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Skalka",
+      "dieceza_eparchia": "Nitrianska diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Skorušina",
+      "dieceza_eparchia": "Spišská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Slovenský Grob",
+      "dieceza_eparchia": "Bratislavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Slovinky",
+      "dieceza_eparchia": "Košická eparchia",
+      "obrad": "gréckokat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Smižany",
+      "dieceza_eparchia": "Spišská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Smolnícka Huta",
+      "dieceza_eparchia": "Rožňavská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Smrekovica",
+      "dieceza_eparchia": "Spišská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Spišská Kapitula",
+      "dieceza_eparchia": "Spišská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Stará Turá",
+      "dieceza_eparchia": "Trnavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Staré Hory",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Starý Tekov",
+      "dieceza_eparchia": "Nitrianska diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Staškov – Jelitov",
+      "dieceza_eparchia": "Žilinská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Stropkov",
+      "dieceza_eparchia": "Košická arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Stropkov",
+      "dieceza_eparchia": "Prešovská archieparchia",
+      "obrad": "gréckokat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Sološnica",
+      "dieceza_eparchia": "Bratislavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Spišská Nová Ves",
+      "dieceza_eparchia": "Spišská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Svätý Jur",
+      "dieceza_eparchia": "Bratislavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Šahy",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Šaštín-Stráže",
+      "dieceza_eparchia": "Bratislavská arcidiecéza / Bratislavská eparchia",
+      "obrad": "rím. kat. / gréckokat.",
+      "poznamka": "Národná púť k Sedembolestnej Panne Márii, september"
+    },
+    {
+      "miesto": "Šašová",
+      "dieceza_eparchia": "Prešovská archieparchia",
+      "obrad": "gréckokat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Štefanová",
+      "dieceza_eparchia": "Bratislavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Tajov",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Terchová",
+      "dieceza_eparchia": "Žilinská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Tesárske Mlyňany",
+      "dieceza_eparchia": "Nitrianska diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Topoľčany",
+      "dieceza_eparchia": "Nitrianska diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Topoľčianky",
+      "dieceza_eparchia": "Nitrianska diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Trebišov",
+      "dieceza_eparchia": "Košická eparchia",
+      "obrad": "gréckokat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Trenčianska Závada",
+      "dieceza_eparchia": "Nitrianska diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Trnava",
+      "dieceza_eparchia": "Trnavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Trnava, Modranka",
+      "dieceza_eparchia": "Trnavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Trstená",
+      "dieceza_eparchia": "Spišská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Trstín – Hájiček",
+      "dieceza_eparchia": "Trnavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Tvrdošín",
+      "dieceza_eparchia": "Spišská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Tulčík",
+      "dieceza_eparchia": "Košická arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Turzovka – Živčáková",
+      "dieceza_eparchia": "Žilinská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Úhorná",
+      "dieceza_eparchia": "Rožňavská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Veľké Kostoľany",
+      "dieceza_eparchia": "Trnavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Veľký Šariš",
+      "dieceza_eparchia": "Košická arcidiecéza",
+      "obrad": "gréckokat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Veľké Kapušany",
+      "dieceza_eparchia": "Košická eparchia",
+      "obrad": "gréckokat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Veľké Uherce",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Vinohrady nad Váhom – Chrasť",
+      "dieceza_eparchia": "Trnavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Višňové",
+      "dieceza_eparchia": "Žilinská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Vlkolínec – Trlenská dolina",
+      "dieceza_eparchia": "Spišská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Vráble",
+      "dieceza_eparchia": "Nitrianska diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Vranov nad Topľou",
+      "dieceza_eparchia": "Košická arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Vršatské Podhradie – Brezová",
+      "dieceza_eparchia": "Žilinská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Vysoká nad Uhom",
+      "dieceza_eparchia": "Košická arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Vysoká nad Kysucou",
+      "dieceza_eparchia": "Žilinská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Vyškovce nad Ipľom",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Zákamenné",
+      "dieceza_eparchia": "Spišská diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Zlaté Klasy",
+      "dieceza_eparchia": "Bratislavská arcidiecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Zlaté Moravce",
+      "dieceza_eparchia": "Nitrianska diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Zvolen – Západ",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Žarnovica",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    },
+    {
+      "miesto": "Žiar nad Hronom",
+      "dieceza_eparchia": "Banskobystrická diecéza",
+      "obrad": "rím. kat.",
+      "poznamka": ""
+    }
+  ],
+  "meta": {
+    "title": "Pútnické miesta na Slovensku - Free Download",
+    "description": "Zoznam rímskokatolíckych a gréckokatolíckych pútnických miest na Slovensku s príslušnou diecézou či eparchiou a poznámkami. Contains 156 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Pútnické miesta na Slovensku | ListBase",
+    "seo_description": "Download Pútnické miesta na Slovensku — 156 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 156 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_pútnických_miest_na_Slovensku"
+    ]
+  }
+}
