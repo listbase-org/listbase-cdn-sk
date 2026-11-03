@@ -1,0 +1,508 @@
+{
+  "id": "sk-zaniknute-rozhlasove-stanice",
+  "name": "Zaniknuté rozhlasové stanice na Slovensku",
+  "title": "Zaniknuté rozhlasové stanice na Slovensku",
+  "description": "Rozhlasové stanice, ktoré na Slovensku ukončili vysielanie: dátum začiatku a ukončenia vysielania a poznámky (napr. čím bola stanica nahradená).",
+  "category": "entertainment",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_rozhlasových_staníc_na_Slovensku",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_rozhlasových_staníc_na_Slovensku",
+  "updated": "2026-11",
+  "record_count": 77,
+  "columns": [
+    {
+      "key": "stanica",
+      "label": "Stanica",
+      "type": "string"
+    },
+    {
+      "key": "zaciatok_vysielania",
+      "label": "Zaciatok Vysielania",
+      "type": "string"
+    },
+    {
+      "key": "ukoncenie_vysielania",
+      "label": "Ukoncenie Vysielania",
+      "type": "string"
+    },
+    {
+      "key": "poznamky",
+      "label": "Poznamky",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stanica": "Radio CDI (Radio CD International)",
+      "zaciatok_vysielania": "31. 3. 1990",
+      "ukoncenie_vysielania": "31. 12. 1993",
+      "poznamky": "stanicu nahradilo: Radio CD"
+    },
+    {
+      "stanica": "Radio CD",
+      "zaciatok_vysielania": "15. 7. 1994",
+      "ukoncenie_vysielania": "3. 9. 1996",
+      "poznamky": "medzi 31. 12. 1993 a 15. 7. 1994 nevysielalo z dôvodu sporov o frekvenciu frekvenciu získalo: Slovensko 1"
+    },
+    {
+      "stanica": "Rádio BBC Slovakia",
+      "zaciatok_vysielania": "19. 12. 1990",
+      "ukoncenie_vysielania": "20. 12. 2005",
+      "poznamky": "frekvencie získali: Rádio Lumen, Rádio Regina"
+    },
+    {
+      "stanica": "Rock FM Rádio",
+      "zaciatok_vysielania": "4. 3. 1991",
+      "ukoncenie_vysielania": "3. 11. 2004",
+      "poznamky": "stanicu nahradilo: Rádio_FM"
+    },
+    {
+      "stanica": "Rádio Tatry Európa 2",
+      "zaciatok_vysielania": "6. 2. 1992",
+      "ukoncenie_vysielania": "20. 6. 1995",
+      "poznamky": "stanicu nahradilo: Rádio Tatry"
+    },
+    {
+      "stanica": "Rádio Tatry",
+      "zaciatok_vysielania": "21. 6. 1995",
+      "ukoncenie_vysielania": "19. 4. 2001",
+      "poznamky": "frekvenciu získalo: Fun Rádio"
+    },
+    {
+      "stanica": "Rádio RMC",
+      "zaciatok_vysielania": "15. 12. 1992",
+      "ukoncenie_vysielania": "1. 10. 1997",
+      "poznamky": "frekvenciu získalo: Rádio Devín"
+    },
+    {
+      "stanica": "DCA rádio",
+      "zaciatok_vysielania": "16. 12. 1992",
+      "ukoncenie_vysielania": "14. 3. 2000",
+      "poznamky": "frekvenciu získalo: Rádio Twist"
+    },
+    {
+      "stanica": "Rádio Twist",
+      "zaciatok_vysielania": "1. 2. 1993",
+      "ukoncenie_vysielania": "2. 4. 2006",
+      "poznamky": "stanicu nahradilo: Rádio Viva"
+    },
+    {
+      "stanica": "Rádio Viva",
+      "zaciatok_vysielania": "3. 4. 2006",
+      "ukoncenie_vysielania": "21. 12. 2013",
+      "poznamky": "medzi 21. 12. 2013 a 13. 1. 2015 nevysielalo z dôvodu sporov o frekvencie frekvencie získalo: Rádio Vlna"
+    },
+    {
+      "stanica": "Rádio Mária",
+      "zaciatok_vysielania": "7. 4. 1993",
+      "ukoncenie_vysielania": "30. 11. 1994",
+      "poznamky": "stanicu nahradilo: Rádio Lumen"
+    },
+    {
+      "stanica": "Rádio Zóna (06:00-15:00) Rádio Ragtime (15:00-03:00)",
+      "zaciatok_vysielania": "1. 5. 1993",
+      "ukoncenie_vysielania": "1. 3. 1995",
+      "poznamky": "stanicu nahradilo: Rádio Ragtime"
+    },
+    {
+      "stanica": "Rádio Ragtime",
+      "zaciatok_vysielania": "1. 3. 1995",
+      "ukoncenie_vysielania": "30. 9. 1999",
+      "poznamky": "frekvenciu získalo: Rádio B1"
+    },
+    {
+      "stanica": "Rádio Family",
+      "zaciatok_vysielania": "25. 6. 1993",
+      "ukoncenie_vysielania": "09 / 1995",
+      "poznamky": "frekvencie získalo: Rádio Twist"
+    },
+    {
+      "stanica": "Top Rádio",
+      "zaciatok_vysielania": "27. 11. 1993",
+      "ukoncenie_vysielania": "1. 12. 2002",
+      "poznamky": "stanicu nahradilo: Okey Top Rádio"
+    },
+    {
+      "stanica": "Okey Top Rádio",
+      "zaciatok_vysielania": "2. 12. 2002",
+      "ukoncenie_vysielania": "11 / 2005",
+      "poznamky": "od 2. 12. 2002 začlenené pod Rádio Okey a fungujúce ako košické štúdio frekvenciu získalo: Rádio Okey"
+    },
+    {
+      "stanica": "Rádio T",
+      "zaciatok_vysielania": "1. 12. 1993",
+      "ukoncenie_vysielania": "1995",
+      "poznamky": "stanicu nahradilo: Rádio Forte"
+    },
+    {
+      "stanica": "Rádio Forte",
+      "zaciatok_vysielania": "1995",
+      "ukoncenie_vysielania": "31. 10. 2002",
+      "poznamky": "frekvencie získali: Rádio Naj, Rádio Expres, Rádio Lumen"
+    },
+    {
+      "stanica": "Rádio Flash",
+      "zaciatok_vysielania": "3. 12. 1993",
+      "ukoncenie_vysielania": "29. 12. 2005",
+      "poznamky": "frekvencie získali: Rádio Okey, Rádio Košice"
+    },
+    {
+      "stanica": "Rádio Kiks",
+      "zaciatok_vysielania": "6. 12. 1993",
+      "ukoncenie_vysielania": "31. 10. 2005",
+      "poznamky": "stanicu nahradilo: Rádio Kiss"
+    },
+    {
+      "stanica": "N Rádio",
+      "zaciatok_vysielania": "11. 12. 1993",
+      "ukoncenie_vysielania": "6. 11. 2007",
+      "poznamky": "frekvenciu získalo: Rádio Okey"
+    },
+    {
+      "stanica": "Rádio Nitra",
+      "zaciatok_vysielania": "30. 12. 1993",
+      "ukoncenie_vysielania": "1. 10. 1998",
+      "poznamky": "stanicu nahradilo: Rádio Hviezda FM"
+    },
+    {
+      "stanica": "Rádio Hviezda FM",
+      "zaciatok_vysielania": "2. 10. 1998",
+      "ukoncenie_vysielania": "20. 4. 2004",
+      "poznamky": "frekvenciu získalo: Rádio Hey!"
+    },
+    {
+      "stanica": "Rádio Local FM",
+      "zaciatok_vysielania": "19. 2. 1994",
+      "ukoncenie_vysielania": "7. 10. 2000",
+      "poznamky": ""
+    },
+    {
+      "stanica": "Rádio Rebeca",
+      "zaciatok_vysielania": "21. 6. 1994",
+      "ukoncenie_vysielania": "15. 10. 2003",
+      "poznamky": "stanicu nahradilo: Rádio Rebbeca"
+    },
+    {
+      "stanica": "Rádio Rebbeca",
+      "zaciatok_vysielania": "5. 11. 2004",
+      "ukoncenie_vysielania": "1. 2. 2006",
+      "poznamky": "frekvencie získalo: Rádio Rebeca B1"
+    },
+    {
+      "stanica": "Rádio HiT",
+      "zaciatok_vysielania": "13. 12. 1994",
+      "ukoncenie_vysielania": "11 / 1996",
+      "poznamky": "frekvenciu získalo: Rádio Lumen"
+    },
+    {
+      "stanica": "Rádio Star",
+      "zaciatok_vysielania": "7 / 1995",
+      "ukoncenie_vysielania": "6 / 1996",
+      "poznamky": "frekvenciu získalo: Rádio Expres"
+    },
+    {
+      "stanica": "Rádio City",
+      "zaciatok_vysielania": "2. 2. 1995",
+      "ukoncenie_vysielania": "16. 10. 1997",
+      "poznamky": "stanicu nahradilo: Rádio Žilina"
+    },
+    {
+      "stanica": "Rádio Žilina",
+      "zaciatok_vysielania": "17. 10. 1997",
+      "ukoncenie_vysielania": "23. 6. 2002",
+      "poznamky": "frekvenciu získalo: Rádio Zet"
+    },
+    {
+      "stanica": "Rádio Koliba",
+      "zaciatok_vysielania": "1. 4. 1997",
+      "ukoncenie_vysielania": "28. 2. 2001",
+      "poznamky": "stanicu nahradilo: Rádio Okey"
+    },
+    {
+      "stanica": "Rádio Okey",
+      "zaciatok_vysielania": "1. 3. 2001",
+      "ukoncenie_vysielania": "12. 12. 2009",
+      "poznamky": "frekvencie získalo: Europa 2"
+    },
+    {
+      "stanica": "Rádio Dúha",
+      "zaciatok_vysielania": "8. 8. 1997",
+      "ukoncenie_vysielania": "26. 3. 2008",
+      "poznamky": "frekvencie získali: Fun Rádio, Rádio Hornet"
+    },
+    {
+      "stanica": "Rádio Východ",
+      "zaciatok_vysielania": "18. 9. 1997",
+      "ukoncenie_vysielania": "30. 4. 2002",
+      "poznamky": "stanicu nahradilo: Rádio Východ B1"
+    },
+    {
+      "stanica": "Rádio Východ B1",
+      "zaciatok_vysielania": "1. 5. 2002",
+      "ukoncenie_vysielania": "8. 5. 2006",
+      "poznamky": "frekvencie získalo: Jemné Melódie"
+    },
+    {
+      "stanica": "Rádio Adut",
+      "zaciatok_vysielania": "1. 3. 1998",
+      "ukoncenie_vysielania": "10 / 2003",
+      "poznamky": "stanicu nahradilo: Rádio G3"
+    },
+    {
+      "stanica": "Rádio G3",
+      "zaciatok_vysielania": "10 / 2003",
+      "ukoncenie_vysielania": "28. 2. 2011",
+      "poznamky": "frekvencie získalo: Záhorácke rádio"
+    },
+    {
+      "stanica": "Rádio Alt",
+      "zaciatok_vysielania": "20. 12. 1998",
+      "ukoncenie_vysielania": "1999",
+      "poznamky": "stanicu nahradilo: Rádio Hit FM"
+    },
+    {
+      "stanica": "Rádio Hit FM",
+      "zaciatok_vysielania": "1999",
+      "ukoncenie_vysielania": "6. 3. 2014",
+      "poznamky": "frekvencie získalo: Rádio One Rock"
+    },
+    {
+      "stanica": "Rádio B1",
+      "zaciatok_vysielania": "1. 10. 1999",
+      "ukoncenie_vysielania": "8. 5. 2006",
+      "poznamky": "stanicu nahradilo: Jemné Melódie"
+    },
+    {
+      "stanica": "Rádio Max",
+      "zaciatok_vysielania": "15. 11. 1999",
+      "ukoncenie_vysielania": "1. 3. 2019",
+      "poznamky": "frekvencie získali: Rádio Devín, Rádio Viva (2017)"
+    },
+    {
+      "stanica": "Rádio Zet",
+      "zaciatok_vysielania": "12. 8. 2002",
+      "ukoncenie_vysielania": "15. 3. 2012",
+      "poznamky": "stanicu nahradilo: Rádio Sever"
+    },
+    {
+      "stanica": "Rádio Sever",
+      "zaciatok_vysielania": "1. 3. 2013",
+      "ukoncenie_vysielania": "28. 9. 2015",
+      "poznamky": "frekvenciu získalo: Rádio_FM"
+    },
+    {
+      "stanica": "Rádio Naj",
+      "zaciatok_vysielania": "22. 2. 2003",
+      "ukoncenie_vysielania": "1. 2. 2006",
+      "poznamky": "stanicu nahradilo: Rádio Naj B1"
+    },
+    {
+      "stanica": "Rádio Naj B1",
+      "zaciatok_vysielania": "1. 2. 2006",
+      "ukoncenie_vysielania": "8. 5. 2006",
+      "poznamky": "frekvencie získalo: Jemné Melódie"
+    },
+    {
+      "stanica": "Rádio Fajn",
+      "zaciatok_vysielania": "1. 6. 2004",
+      "ukoncenie_vysielania": "9. 1. 2008",
+      "poznamky": "frekvenciu získalo: Best FM"
+    },
+    {
+      "stanica": "Rádio RTI (Radio Tatras International)",
+      "zaciatok_vysielania": "26. 1. 2005",
+      "ukoncenie_vysielania": "25. 1. 2009",
+      "poznamky": "frekvencie získalo: Rádio Hey!"
+    },
+    {
+      "stanica": "Rádio Go DeeJay",
+      "zaciatok_vysielania": "23. 4. 2005",
+      "ukoncenie_vysielania": "4. 6. 2012",
+      "poznamky": "stanicu nahradilo: Rádio Melody FM"
+    },
+    {
+      "stanica": "Rádio Melody FM",
+      "zaciatok_vysielania": "4. 6. 2012",
+      "ukoncenie_vysielania": "4. 11. 2012",
+      "poznamky": "medzi 5. 11. 2012 a 30. 6. 2013 vysielalo na frekvenciách Best FM frekvencie získalo: Šláger Rádio"
+    },
+    {
+      "stanica": "Rádio Hey!",
+      "zaciatok_vysielania": "15. 7. 2005",
+      "ukoncenie_vysielania": "1. 9. 2012",
+      "poznamky": "stanicu nahradilo: Anténa hitrádio"
+    },
+    {
+      "stanica": "Anténa hitrádio",
+      "zaciatok_vysielania": "2. 9. 2012",
+      "ukoncenie_vysielania": "1. 10. 2014",
+      "poznamky": "frekvencie získali: Rádio Anténa Rock, Dobré rádio"
+    },
+    {
+      "stanica": "Rádio Rebeca B1",
+      "zaciatok_vysielania": "1. 2. 2006",
+      "ukoncenie_vysielania": "8. 5. 2006",
+      "poznamky": "stanicu nahradilo: Jemné Melódie"
+    },
+    {
+      "stanica": "Rádio One",
+      "zaciatok_vysielania": "13. 5. 2006",
+      "ukoncenie_vysielania": "1. 11. 2019",
+      "poznamky": "frekvencie získali: Rádio Beta, Rádio Wow, Rádio Expres"
+    },
+    {
+      "stanica": "Rádio Hornet",
+      "zaciatok_vysielania": "5/2006",
+      "ukoncenie_vysielania": "2. 2. 2012",
+      "poznamky": "stanicu nahradilo: Rádio Šport"
+    },
+    {
+      "stanica": "Rádio Šport",
+      "zaciatok_vysielania": "2. 2. 2012",
+      "ukoncenie_vysielania": "31. 1. 2020",
+      "poznamky": "frekvencie získali: Rádio Goldies, Rádio Košice, Rádio Šírava"
+    },
+    {
+      "stanica": "Rádio Tour",
+      "zaciatok_vysielania": "20. 8. 2007",
+      "ukoncenie_vysielania": "31. 7. 2011",
+      "poznamky": "frekvenciu získalo: Rádio Šport"
+    },
+    {
+      "stanica": "Rádio Yes",
+      "zaciatok_vysielania": "20. 12. 2007",
+      "ukoncenie_vysielania": "13. 4. 2020",
+      "poznamky": "stanicu nahradilo: Rádio Topoľčany"
+    },
+    {
+      "stanica": "Rádio Prešov",
+      "zaciatok_vysielania": "13. 5. 2008",
+      "ukoncenie_vysielania": "31. 5. 2016",
+      "poznamky": "stanicu nahradilo: Sky Rádio"
+    },
+    {
+      "stanica": "Rádio Metropola",
+      "zaciatok_vysielania": "3. 7. 2008",
+      "ukoncenie_vysielania": "30. 4. 2010",
+      "poznamky": "stanicu nahradilo: Rádio Aligator"
+    },
+    {
+      "stanica": "Rádio Aligator",
+      "zaciatok_vysielania": "1. 5. 2010",
+      "ukoncenie_vysielania": "1. 4. 2019",
+      "poznamky": "frekvencie získalo: Rádio The End"
+    },
+    {
+      "stanica": "Rádio The End",
+      "zaciatok_vysielania": "1. 4. 2019",
+      "ukoncenie_vysielania": "30. 5. 2022",
+      "poznamky": "stanicu nahradilo: Bratislavské rádio"
+    },
+    {
+      "stanica": "Bratislavské rádio",
+      "zaciatok_vysielania": "1. 6. 2022",
+      "ukoncenie_vysielania": "28. 1. 2024",
+      "poznamky": "frekvencie získalo: Top Rádio"
+    },
+    {
+      "stanica": "L-Rádio",
+      "zaciatok_vysielania": "1. 10. 2009",
+      "ukoncenie_vysielania": "2. 9. 2014",
+      "poznamky": "stanicu nahradilo: Rádio Liptov"
+    },
+    {
+      "stanica": "Dobré Rádio",
+      "zaciatok_vysielania": "11. 1. 2011",
+      "ukoncenie_vysielania": "12. 7. 2015",
+      "poznamky": "frekvencie získalo: Sky Rádio"
+    },
+    {
+      "stanica": "Rádio Rock",
+      "zaciatok_vysielania": "20. 5. 2011",
+      "ukoncenie_vysielania": "30. 3. 2014",
+      "poznamky": "stanicu nahradilo: Rádio One Retro"
+    },
+    {
+      "stanica": "Rádio One Retro",
+      "zaciatok_vysielania": "31. 3. 2014",
+      "ukoncenie_vysielania": "1. 11. 2019",
+      "poznamky": "frekvencie získali: BB FM Rádio, Rádio Košice"
+    },
+    {
+      "stanica": "Superádio",
+      "zaciatok_vysielania": "1. 1. 2012",
+      "ukoncenie_vysielania": "16. 2. 2014",
+      "poznamky": "stanicu nahradilo: Rádio Viva Metropol"
+    },
+    {
+      "stanica": "Rádio Viva Metropol",
+      "zaciatok_vysielania": "17. 2. 2014",
+      "ukoncenie_vysielania": "5. 6. 2017",
+      "poznamky": "frekvencie získalo: Rádio Viva (2017)"
+    },
+    {
+      "stanica": "Rocková republika",
+      "zaciatok_vysielania": "31. 12. 2012",
+      "ukoncenie_vysielania": "14. 5. 2017",
+      "poznamky": "stanicu nahradilo: Rádio Aktual"
+    },
+    {
+      "stanica": "Rádio Aktual",
+      "zaciatok_vysielania": "15. 5. 2017",
+      "ukoncenie_vysielania": "1. 6. 2018",
+      "poznamky": "frekvencie získali: Rádio Jazz, Dobré rádio"
+    },
+    {
+      "stanica": "Šláger Rádio",
+      "zaciatok_vysielania": "1. 7. 2013",
+      "ukoncenie_vysielania": "1. 9. 2016",
+      "poznamky": "stanicu nahradilo: Rádio Go DeeJay / Rádio Wow"
+    },
+    {
+      "stanica": "Rádio Go DeeJay / Rádio Wow",
+      "zaciatok_vysielania": "1. 9. 2016",
+      "ukoncenie_vysielania": "28. 2. 2018",
+      "poznamky": "frekvencie získalo: Rádio Muzika"
+    },
+    {
+      "stanica": "Rádio Jazz",
+      "zaciatok_vysielania": "1. 6. 2018",
+      "ukoncenie_vysielania": "27. 3. 2020",
+      "poznamky": "frekvencie získalo: Dobré rádio"
+    },
+    {
+      "stanica": "Rádio Pyramída",
+      "zaciatok_vysielania": "1. 2. 2016",
+      "ukoncenie_vysielania": "28. 2. 2025",
+      "poznamky": ""
+    },
+    {
+      "stanica": "Rádio Piešťany",
+      "zaciatok_vysielania": "31. 12. 2010",
+      "ukoncenie_vysielania": "11. 1. 2026",
+      "poznamky": "stanicu nahradilo: Tiché rádio"
+    },
+    {
+      "stanica": "Rádio Modra",
+      "zaciatok_vysielania": "2013",
+      "ukoncenie_vysielania": "25. 2. 2026",
+      "poznamky": ""
+    },
+    {
+      "stanica": "Rádio Goldies",
+      "zaciatok_vysielania": "2020",
+      "ukoncenie_vysielania": "17. 6. 2026",
+      "poznamky": ""
+    }
+  ],
+  "meta": {
+    "title": "Zaniknuté rozhlasové stanice na Slovensku - Free Download",
+    "description": "Rozhlasové stanice, ktoré na Slovensku ukončili vysielanie: dátum začiatku a ukončenia vysielania a poznámky (napr. čím bola stanica nahradená). Contains 77 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Zaniknuté rozhlasové stanice na Slovensku | ListBase",
+    "seo_description": "Download Zaniknuté rozhlasové stanice na Slovensku — 77 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 77 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_rozhlasových_staníc_na_Slovensku"
+    ]
+  }
+}
