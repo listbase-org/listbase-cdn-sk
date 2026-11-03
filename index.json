@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-03T02:13:13.533Z",
-  "total_datasets": 453,
-  "total_records": 282344,
+  "generated": "2026-11-03T02:13:19.989Z",
+  "total_datasets": 454,
+  "total_records": 282369,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "music",
@@ -4474,6 +4474,33 @@
         "xlsx": {
           "name": "sk-ministri-spravodlivosti_SK.xlsx",
           "size": 9663
+        }
+      }
+    },
+    {
+      "id": "sk-ministri-vnutra",
+      "name": "Ministri vnútra Slovenskej republiky",
+      "category": "law",
+      "record_count": 25,
+      "columns": [
+        "poradie",
+        "meno",
+        "nominant",
+        "od",
+        "do",
+        "poznamka"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_vnútra_Slovenskej_republiky",
+      "updated": "2026-11",
+      "size": 6261,
+      "files": {
+        "csv": {
+          "name": "sk-ministri-vnutra_SK.csv",
+          "size": 1855
+        },
+        "xlsx": {
+          "name": "sk-ministri-vnutra_SK.xlsx",
+          "size": 7993
         }
       }
     },
