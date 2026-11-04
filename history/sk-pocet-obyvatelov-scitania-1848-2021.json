@@ -1,0 +1,177 @@
+{
+  "id": "sk-pocet-obyvatelov-scitania-1848-2021",
+  "name": "Počet obyvateľov Slovenska podľa sčítaní (1848–2021)",
+  "title": "Počet obyvateľov Slovenska podľa sčítaní (1848–2021)",
+  "description": "Počet obyvateľov a hustota zaľudnenia na území Slovenska podľa jednotlivých sčítaní obyvateľstva od roku 1848 po rok 2021, s poznámkami.",
+  "category": "history",
+  "source": "https://sk.wikipedia.org/wiki/Demografia_Slovenska",
+  "source_url": "https://sk.wikipedia.org/wiki/Demografia_Slovenska",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "datum_scitania",
+      "label": "Datum Scitania",
+      "type": "date"
+    },
+    {
+      "key": "pocet_obyvatelov",
+      "label": "Pocet Obyvatelov",
+      "type": "number"
+    },
+    {
+      "key": "hustota_na_km2",
+      "label": "Hustota Na Km2",
+      "type": "number"
+    },
+    {
+      "key": "odhad",
+      "label": "Odhad",
+      "type": "string"
+    },
+    {
+      "key": "poznamka",
+      "label": "Poznamka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "datum_scitania": "1848-12-31",
+      "pocet_obyvatelov": 2442000,
+      "hustota_na_km2": 50,
+      "odhad": "áno",
+      "poznamka": ""
+    },
+    {
+      "datum_scitania": "1869-12-31",
+      "pocet_obyvatelov": 2481811,
+      "hustota_na_km2": 51,
+      "odhad": "nie",
+      "poznamka": ""
+    },
+    {
+      "datum_scitania": "1880-12-31",
+      "pocet_obyvatelov": 2477521,
+      "hustota_na_km2": 51,
+      "odhad": "nie",
+      "poznamka": ""
+    },
+    {
+      "datum_scitania": "1890-12-31",
+      "pocet_obyvatelov": 2595180,
+      "hustota_na_km2": 53,
+      "odhad": "nie",
+      "poznamka": ""
+    },
+    {
+      "datum_scitania": "1900-12-31",
+      "pocet_obyvatelov": 2782925,
+      "hustota_na_km2": 57,
+      "odhad": "nie",
+      "poznamka": ""
+    },
+    {
+      "datum_scitania": "1910-12-31",
+      "pocet_obyvatelov": 2916657,
+      "hustota_na_km2": 60,
+      "odhad": "nie",
+      "poznamka": ""
+    },
+    {
+      "datum_scitania": "okt. 1919",
+      "pocet_obyvatelov": 2923214,
+      "hustota_na_km2": 60,
+      "odhad": "nie",
+      "poznamka": "Z toho 1 940 980 Slovákov a Čechov, úradne vykazovaných len spoločne ako \"Čechoslováci“ (63 % - oproti sčítaniu z 1910 vzrástol ich počet asi o štvrť milióna), 665 703 Maďarov (22,7 %), 143 322 Nemcov (4,7 %), 134 761 Rusínov (4,5 %). Sčítanie prebehlo ako \"mimoriadne\" a len na území Slovenska, krátko po vzniku Československa. Malo sa uskutočniť od 21. do 31. augusta 1919, ale trvalo dlhšie. Napríklad pre \"neprekonateľné prekážky“ sa sčítanie neuskutočnilo ani do konca roka 1919 v piatich obciach v Šarišskej župe a jednej obci v Zemplínskej župe, v ktorých sa potom prevzali výsledky sčítania z roku 1910."
+    },
+    {
+      "datum_scitania": "1921-02-15",
+      "pocet_obyvatelov": 2993859,
+      "hustota_na_km2": 61,
+      "odhad": "nie",
+      "poznamka": "Iný zdroj: 3 000 870. Podiel obyvateľov s československou národnosťou tvoril 67,1 %"
+    },
+    {
+      "datum_scitania": "1930-12-01",
+      "pocet_obyvatelov": 3324111,
+      "hustota_na_km2": 68,
+      "odhad": "nie",
+      "poznamka": "Medzi rokmi 1900 a 1930 sa počet obyvateľov na území Slovenska zvýšil o viac ako 19 %. Početnosť obyvateľov štátotvornej národnosti narástol viacerými možnosťami: príchod českého obyvateľstva, prirodzený prírastok, ako aj prekláňanie národnosti v prospech štátotvorného národa spôsobilo nárast na 72,09% Čechov a Slovákov. Maďari tvorili 17,58% a Nemci 4,53%. Kým počet obyvateľov Československa narástol o 11 %, počet obyvateľov s československou národnosťou narástol o 18 %."
+    },
+    {
+      "datum_scitania": "1946-10-04",
+      "pocet_obyvatelov": 3327803,
+      "hustota_na_km2": 68,
+      "odhad": "nie",
+      "poznamka": ""
+    },
+    {
+      "datum_scitania": "1950-03-01",
+      "pocet_obyvatelov": 3442317,
+      "hustota_na_km2": 70,
+      "odhad": "nie",
+      "poznamka": ""
+    },
+    {
+      "datum_scitania": "1961-03-01",
+      "pocet_obyvatelov": 4174046,
+      "hustota_na_km2": 85,
+      "odhad": "nie",
+      "poznamka": ""
+    },
+    {
+      "datum_scitania": "1970-12-01",
+      "pocet_obyvatelov": 4537290,
+      "hustota_na_km2": 93,
+      "odhad": "nie",
+      "poznamka": ""
+    },
+    {
+      "datum_scitania": "1980-11-01",
+      "pocet_obyvatelov": 4991168,
+      "hustota_na_km2": 102,
+      "odhad": "nie",
+      "poznamka": ""
+    },
+    {
+      "datum_scitania": "1991-03-03",
+      "pocet_obyvatelov": 5274335,
+      "hustota_na_km2": 108,
+      "odhad": "nie",
+      "poznamka": ""
+    },
+    {
+      "datum_scitania": "2001-05-26",
+      "pocet_obyvatelov": 5379455,
+      "hustota_na_km2": 110,
+      "odhad": "nie",
+      "poznamka": ""
+    },
+    {
+      "datum_scitania": "2011-05-21",
+      "pocet_obyvatelov": 5397036,
+      "hustota_na_km2": 110,
+      "odhad": "nie",
+      "poznamka": ""
+    },
+    {
+      "datum_scitania": "2021-01-01",
+      "pocet_obyvatelov": 5449270,
+      "hustota_na_km2": "",
+      "odhad": "nie",
+      "poznamka": "Neoficiálne výsledky sčítania"
+    }
+  ],
+  "meta": {
+    "title": "Počet obyvateľov Slovenska podľa sčítaní (1848–2021) - Free Download",
+    "description": "Počet obyvateľov a hustota zaľudnenia na území Slovenska podľa jednotlivých sčítaní obyvateľstva od roku 1848 po rok 2021, s poznámkami. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Počet obyvateľov Slovenska podľa sčítaní (1848–2021) | ListBase",
+    "seo_description": "Download Počet obyvateľov Slovenska podľa sčítaní (1848–2021) — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Demografia_Slovenska"
+    ]
+  }
+}
