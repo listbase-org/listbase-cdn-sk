@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-04T02:17:51.561Z",
-  "total_datasets": 458,
-  "total_records": 282670,
+  "generated": "2026-11-04T02:18:00.648Z",
+  "total_datasets": 459,
+  "total_records": 282696,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -4351,6 +4351,34 @@
         "xlsx": {
           "name": "sk-jazyky_SK.xlsx",
           "size": 23968
+        }
+      }
+    },
+    {
+      "id": "sk-materinsky-jazyk-scitania",
+      "name": "Materinský jazyk obyvateľov Slovenska podľa sčítaní (1880–2011)",
+      "category": "language",
+      "record_count": 26,
+      "columns": [
+        "materinsky_jazyk",
+        "pocet_2011",
+        "pocet_2001",
+        "pocet_1910",
+        "pocet_1900",
+        "pocet_1890",
+        "pocet_1880"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Demografia_Slovenska",
+      "updated": "2026-11",
+      "size": 7297,
+      "files": {
+        "csv": {
+          "name": "sk-materinsky-jazyk-scitania_SK.csv",
+          "size": 1208
+        },
+        "xlsx": {
+          "name": "sk-materinsky-jazyk-scitania_SK.xlsx",
+          "size": 7891
         }
       }
     },

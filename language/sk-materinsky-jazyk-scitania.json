@@ -1,0 +1,295 @@
+{
+  "id": "sk-materinsky-jazyk-scitania",
+  "name": "Materinský jazyk obyvateľov Slovenska podľa sčítaní (1880–2011)",
+  "title": "Materinský jazyk obyvateľov Slovenska podľa sčítaní (1880–2011)",
+  "description": "Počet obyvateľov územia Slovenska podľa materinského jazyka v sčítaniach 1880, 1890, 1900, 1910, 2001 a 2011.",
+  "category": "language",
+  "source": "https://sk.wikipedia.org/wiki/Demografia_Slovenska",
+  "source_url": "https://sk.wikipedia.org/wiki/Demografia_Slovenska",
+  "updated": "2026-11",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "materinsky_jazyk",
+      "label": "Materinsky Jazyk",
+      "type": "string"
+    },
+    {
+      "key": "pocet_2011",
+      "label": "Pocet 2011",
+      "type": "number"
+    },
+    {
+      "key": "pocet_2001",
+      "label": "Pocet 2001",
+      "type": "number"
+    },
+    {
+      "key": "pocet_1910",
+      "label": "Pocet 1910",
+      "type": "number"
+    },
+    {
+      "key": "pocet_1900",
+      "label": "Pocet 1900",
+      "type": "number"
+    },
+    {
+      "key": "pocet_1890",
+      "label": "Pocet 1890",
+      "type": "number"
+    },
+    {
+      "key": "pocet_1880",
+      "label": "Pocet 1880",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "materinsky_jazyk": "slovenský",
+      "pocet_2011": 4240453,
+      "pocet_2001": 4512217,
+      "pocet_1910": 1688152,
+      "pocet_1900": 1702349,
+      "pocet_1890": 1603642,
+      "pocet_1880": 1502571
+    },
+    {
+      "materinsky_jazyk": "maďarský",
+      "pocet_2011": 508714,
+      "pocet_2001": 572929,
+      "pocet_1910": 885646,
+      "pocet_1900": 749556,
+      "pocet_1890": 633422,
+      "pocet_1880": 546458
+    },
+    {
+      "materinsky_jazyk": "rómsky",
+      "pocet_2011": 122518,
+      "pocet_2001": 99448,
+      "pocet_1910": "",
+      "pocet_1900": "",
+      "pocet_1890": "",
+      "pocet_1880": ""
+    },
+    {
+      "materinsky_jazyk": "rusínsky",
+      "pocet_2011": 55469,
+      "pocet_2001": 54907,
+      "pocet_1910": 97047,
+      "pocet_1900": 84559,
+      "pocet_1890": 84335,
+      "pocet_1880": 78402
+    },
+    {
+      "materinsky_jazyk": "ukrajinský",
+      "pocet_2011": 5689,
+      "pocet_2001": 7879,
+      "pocet_1910": "",
+      "pocet_1900": "",
+      "pocet_1890": "",
+      "pocet_1880": ""
+    },
+    {
+      "materinsky_jazyk": "český",
+      "pocet_2011": 35216,
+      "pocet_2001": 48201,
+      "pocet_1910": 7947,
+      "pocet_1900": "",
+      "pocet_1890": "",
+      "pocet_1880": ""
+    },
+    {
+      "materinsky_jazyk": "nemecký",
+      "pocet_2011": 5186,
+      "pocet_2001": 6343,
+      "pocet_1910": 198387,
+      "pocet_1900": 215816,
+      "pocet_1890": 228860,
+      "pocet_1880": 228584
+    },
+    {
+      "materinsky_jazyk": "poľský",
+      "pocet_2011": 3119,
+      "pocet_2001": 2731,
+      "pocet_1910": "",
+      "pocet_1900": "",
+      "pocet_1890": "",
+      "pocet_1880": ""
+    },
+    {
+      "materinsky_jazyk": "chorvátsky",
+      "pocet_2011": 1234,
+      "pocet_2001": 988,
+      "pocet_1910": 3480,
+      "pocet_1900": 4023,
+      "pocet_1890": 2787,
+      "pocet_1880": 3431
+    },
+    {
+      "materinsky_jazyk": "srbský",
+      "pocet_2011": 834,
+      "pocet_2001": "",
+      "pocet_1910": 722,
+      "pocet_1900": 180,
+      "pocet_1890": 136,
+      "pocet_1880": ""
+    },
+    {
+      "materinsky_jazyk": "rumunský",
+      "pocet_2011": 414,
+      "pocet_2001": "",
+      "pocet_1910": 1905,
+      "pocet_1900": 896,
+      "pocet_1890": 281,
+      "pocet_1880": 259
+    },
+    {
+      "materinsky_jazyk": "slovinský",
+      "pocet_2011": "",
+      "pocet_2001": "",
+      "pocet_1910": 54,
+      "pocet_1900": "",
+      "pocet_1890": 94,
+      "pocet_1880": ""
+    },
+    {
+      "materinsky_jazyk": "jidiš",
+      "pocet_2011": 460,
+      "pocet_2001": 17,
+      "pocet_1910": "",
+      "pocet_1900": "",
+      "pocet_1890": "",
+      "pocet_1880": ""
+    },
+    {
+      "materinsky_jazyk": "bulharský",
+      "pocet_2011": 132,
+      "pocet_2001": "",
+      "pocet_1910": 50,
+      "pocet_1900": "",
+      "pocet_1890": "",
+      "pocet_1880": ""
+    },
+    {
+      "materinsky_jazyk": "ruský",
+      "pocet_2011": 2909,
+      "pocet_2001": "",
+      "pocet_1910": "",
+      "pocet_1900": "",
+      "pocet_1890": "",
+      "pocet_1880": ""
+    },
+    {
+      "materinsky_jazyk": "vietnamský",
+      "pocet_2011": 1562,
+      "pocet_2001": "",
+      "pocet_1910": "",
+      "pocet_1900": "",
+      "pocet_1890": "",
+      "pocet_1880": ""
+    },
+    {
+      "materinsky_jazyk": "anglický",
+      "pocet_2011": 1447,
+      "pocet_2001": "",
+      "pocet_1910": "",
+      "pocet_1900": "",
+      "pocet_1890": "",
+      "pocet_1880": ""
+    },
+    {
+      "materinsky_jazyk": "posunková reč",
+      "pocet_2011": 693,
+      "pocet_2001": "",
+      "pocet_1910": "",
+      "pocet_1900": "",
+      "pocet_1890": "",
+      "pocet_1880": ""
+    },
+    {
+      "materinsky_jazyk": "taliansky",
+      "pocet_2011": 551,
+      "pocet_2001": "",
+      "pocet_1910": 213,
+      "pocet_1900": "",
+      "pocet_1890": "",
+      "pocet_1880": ""
+    },
+    {
+      "materinsky_jazyk": "arabský",
+      "pocet_2011": 434,
+      "pocet_2001": "",
+      "pocet_1910": "",
+      "pocet_1900": "",
+      "pocet_1890": "",
+      "pocet_1880": ""
+    },
+    {
+      "materinsky_jazyk": "francúzsky",
+      "pocet_2011": 433,
+      "pocet_2001": "",
+      "pocet_1910": "",
+      "pocet_1900": "",
+      "pocet_1890": "",
+      "pocet_1880": ""
+    },
+    {
+      "materinsky_jazyk": "albánsky",
+      "pocet_2011": 382,
+      "pocet_2001": "",
+      "pocet_1910": "",
+      "pocet_1900": "",
+      "pocet_1890": "",
+      "pocet_1880": ""
+    },
+    {
+      "materinsky_jazyk": "španielsky",
+      "pocet_2011": 372,
+      "pocet_2001": "",
+      "pocet_1910": "",
+      "pocet_1900": "",
+      "pocet_1890": "",
+      "pocet_1880": ""
+    },
+    {
+      "materinsky_jazyk": "grécky",
+      "pocet_2011": 115,
+      "pocet_2001": "",
+      "pocet_1910": "",
+      "pocet_1900": "",
+      "pocet_1890": "",
+      "pocet_1880": ""
+    },
+    {
+      "materinsky_jazyk": "ostatné",
+      "pocet_2011": 3439,
+      "pocet_2001": 6735,
+      "pocet_1910": 35704,
+      "pocet_1900": 29209,
+      "pocet_1890": 24494,
+      "pocet_1880": 18455
+    },
+    {
+      "materinsky_jazyk": "nezistené",
+      "pocet_2011": 405261,
+      "pocet_2001": 66056,
+      "pocet_1910": "",
+      "pocet_1900": "",
+      "pocet_1890": "",
+      "pocet_1880": 83300
+    }
+  ],
+  "meta": {
+    "title": "Materinský jazyk obyvateľov Slovenska podľa sčítaní (1880–2011) - Free Download",
+    "description": "Počet obyvateľov územia Slovenska podľa materinského jazyka v sčítaniach 1880, 1890, 1900, 1910, 2001 a 2011. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Materinský jazyk obyvateľov Slovenska podľa sčítaní (1880–2011) | ListBase",
+    "seo_description": "Download Materinský jazyk obyvateľov Slovenska podľa sčítaní (1880–2011) — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Demografia_Slovenska"
+    ]
+  }
+}
