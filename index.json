@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-04T02:18:30.662Z",
-  "total_datasets": 462,
-  "total_records": 282732,
+  "generated": "2026-11-04T02:18:39.792Z",
+  "total_datasets": 463,
+  "total_records": 283095,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "society",
@@ -12169,6 +12169,30 @@
         "xlsx": {
           "name": "sk-slovenski-fyzici_SK.xlsx",
           "size": 9777
+        }
+      }
+    },
+    {
+      "id": "sk-vtaky-slovenska-spolocenska-hodnota",
+      "name": "Vtáky na Slovensku a ich spoločenská hodnota",
+      "category": "science",
+      "record_count": 363,
+      "columns": [
+        "vedecke_meno",
+        "slovenske_meno",
+        "spolocenska_hodnota_eur"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_vtákov_na_Slovensku",
+      "updated": "2026-11",
+      "size": 55671,
+      "files": {
+        "csv": {
+          "name": "sk-vtaky-slovenska-spolocenska-hodnota_SK.csv",
+          "size": 20599
+        },
+        "xlsx": {
+          "name": "sk-vtaky-slovenska-spolocenska-hodnota_SK.xlsx",
+          "size": 19210
         }
       }
     },

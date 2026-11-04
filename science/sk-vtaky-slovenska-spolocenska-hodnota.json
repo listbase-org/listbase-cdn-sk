@@ -1,0 +1,1856 @@
+{
+  "id": "sk-vtaky-slovenska-spolocenska-hodnota",
+  "name": "Vtáky na Slovensku a ich spoločenská hodnota",
+  "title": "Vtáky na Slovensku a ich spoločenská hodnota",
+  "description": "Zoznam druhov vtákov vyskytujúcich sa na Slovensku s vedeckým a slovenským menom a spoločenskou hodnotou jedinca v eurách podľa vyhlášky k zákonu o ochrane prírody.",
+  "category": "science",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_vtákov_na_Slovensku",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_vtákov_na_Slovensku",
+  "updated": "2026-11",
+  "record_count": 363,
+  "columns": [
+    {
+      "key": "vedecke_meno",
+      "label": "Vedecke Meno",
+      "type": "string"
+    },
+    {
+      "key": "slovenske_meno",
+      "label": "Slovenske Meno",
+      "type": "string"
+    },
+    {
+      "key": "spolocenska_hodnota_eur",
+      "label": "Spolocenska Hodnota Eur",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "vedecke_meno": "Acanthis (Carduelis) cabaret",
+      "slovenske_meno": "stehlík hnedkavý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Acanthis (Carduelis) flammea",
+      "slovenske_meno": "stehlík čečetka / stehlík čečetavý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Acanthis (Carduelis) hornemanni",
+      "slovenske_meno": "stehlík polárny / stehlík belavý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Accipiter brevipes",
+      "slovenske_meno": "jastrab krátkoprstý",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Accipiter gentilis",
+      "slovenske_meno": "jastrab veľký / jastrab lesný",
+      "spolocenska_hodnota_eur": 4000
+    },
+    {
+      "vedecke_meno": "Accipiter nisus",
+      "slovenske_meno": "jastrab krahulec",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Acrocephalus agricola",
+      "slovenske_meno": "trsteniarik roľný",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Acrocephalus arundinaceus",
+      "slovenske_meno": "trsteniarik veľký / trsteniarik škriekavý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Acrocephalus dumetorum",
+      "slovenske_meno": "trsteniarik krovinový / trsteniarik krovinný",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Acrocephalus melanopogon",
+      "slovenske_meno": "trsteniarik tamariškový / šašiniarik tenkozobý",
+      "spolocenska_hodnota_eur": 10000
+    },
+    {
+      "vedecke_meno": "Acrocephalus paludicola",
+      "slovenske_meno": "trsteniarik vodný",
+      "spolocenska_hodnota_eur": 5000
+    },
+    {
+      "vedecke_meno": "Acrocephalus palustris",
+      "slovenske_meno": "trsteniarik obyčajný / trsteniarik spevavý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Acrocephalus scirpaceus",
+      "slovenske_meno": "trsteniarik bahenný",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Acrocephalus schoenobaenus",
+      "slovenske_meno": "trsteniarik malý / trsteniarik pásikový",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Actitis (Tringa) hypoleucos",
+      "slovenske_meno": "kalužiačik malý / kalužiak riečny",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Aegithalos caudatus",
+      "slovenske_meno": "mlynárka dlhochvostá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Aegolius funereus",
+      "slovenske_meno": "pôtik kapcavý / kuvik kapcavý",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Aegypius monachus",
+      "slovenske_meno": "sup tmavohnedý",
+      "spolocenska_hodnota_eur": 5000
+    },
+    {
+      "vedecke_meno": "Alauda arvensis",
+      "slovenske_meno": "škovránok poľný",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Alcedo atthis",
+      "slovenske_meno": "rybárik riečny",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Anas acuta",
+      "slovenske_meno": "kačica ostrochvostá",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Anas crecca",
+      "slovenske_meno": "kačica chrapka / kačica chrapkavá",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Anas platyrhynchos",
+      "slovenske_meno": "kačica divá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Anser albifrons",
+      "slovenske_meno": "hus bieločelá",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Anser anser",
+      "slovenske_meno": "hus divá",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Anser brachyrhynchus",
+      "slovenske_meno": "hus krátkozobá",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Anser erythropus",
+      "slovenske_meno": "hus malá / hus piskľavá",
+      "spolocenska_hodnota_eur": 5000
+    },
+    {
+      "vedecke_meno": "Anser fabalis",
+      "slovenske_meno": "hus siatinná",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Anser serrirostris",
+      "slovenske_meno": "hus tundrová",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Anthus campestris",
+      "slovenske_meno": "ľabtuška poľná",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Anthus cervinus",
+      "slovenske_meno": "ľabtuška červenohrdlá",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Anthus pratensis",
+      "slovenske_meno": "ľabtuška lúčna",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Anthus spinoletta",
+      "slovenske_meno": "ľabtuška vrchovská",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Anthus trivialis",
+      "slovenske_meno": "ľabtuška hôrna / ľabtuška lesná",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Apus apus",
+      "slovenske_meno": "dážďovník obyčajný / dážďovník tmavý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Aquila heliaca",
+      "slovenske_meno": "orol kráľovský",
+      "spolocenska_hodnota_eur": 40000
+    },
+    {
+      "vedecke_meno": "Aquila chrysaetos",
+      "slovenske_meno": "orol skalný",
+      "spolocenska_hodnota_eur": 10000
+    },
+    {
+      "vedecke_meno": "Aquila nipalensis",
+      "slovenske_meno": "orol stepný (Aquila nipalensis)",
+      "spolocenska_hodnota_eur": 4000
+    },
+    {
+      "vedecke_meno": "Ardea (Egretta) alba (Casmerodius albus)",
+      "slovenske_meno": "beluša veľká / volavka biela",
+      "spolocenska_hodnota_eur": 4000
+    },
+    {
+      "vedecke_meno": "Ardea cinerea",
+      "slovenske_meno": "volavka popolavá",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Ardea purpurea",
+      "slovenske_meno": "volavka purpurová",
+      "spolocenska_hodnota_eur": 5000
+    },
+    {
+      "vedecke_meno": "Ardeola ralloides",
+      "slovenske_meno": "čaplička vlasatá / volavka vlasatá",
+      "spolocenska_hodnota_eur": 4000
+    },
+    {
+      "vedecke_meno": "Arenaria interpres",
+      "slovenske_meno": "kamenár strakatý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Asio flammeus",
+      "slovenske_meno": "myšiarka močiarna",
+      "spolocenska_hodnota_eur": 10000
+    },
+    {
+      "vedecke_meno": "Asio otus",
+      "slovenske_meno": "myšiarka ušatá",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Athene noctua",
+      "slovenske_meno": "kuvik obyčajný / kuvik plačlivý",
+      "spolocenska_hodnota_eur": 5000
+    },
+    {
+      "vedecke_meno": "Aythya collaris",
+      "slovenske_meno": "chochlačka obojková",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Aythya ferina",
+      "slovenske_meno": "chochlačka sivá",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Aythya fuligula",
+      "slovenske_meno": "chochlačka vrkočatá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Aythya marila",
+      "slovenske_meno": "chochlačka morská",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Aythya nyroca",
+      "slovenske_meno": "chochlačka bielooká",
+      "spolocenska_hodnota_eur": 10000
+    },
+    {
+      "vedecke_meno": "Bombycilla garrulus",
+      "slovenske_meno": "chochláč severský",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Botaurus stellaris",
+      "slovenske_meno": "bučiak veľký / bučiak trsťový",
+      "spolocenska_hodnota_eur": 4000
+    },
+    {
+      "vedecke_meno": "Branta bernicla",
+      "slovenske_meno": "bernikla tmavá",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Branta leucopsis",
+      "slovenske_meno": "bernikla bielolíca",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Branta ruficollis",
+      "slovenske_meno": "bernikla červenokrká / červenokrčka pestrá",
+      "spolocenska_hodnota_eur": 5000
+    },
+    {
+      "vedecke_meno": "Bubo bubo",
+      "slovenske_meno": "výr skalný",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Bubo scandiacus (Nyctea scandiaca)",
+      "slovenske_meno": "belaňa tundrová / sova snežná",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Bubulcus ibis",
+      "slovenske_meno": "hltavka chochlatá / hltavka vlasatá",
+      "spolocenska_hodnota_eur": 4000
+    },
+    {
+      "vedecke_meno": "Bucephala clangula",
+      "slovenske_meno": "hlaholka severská",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Burhinus oedicnemus",
+      "slovenske_meno": "ležiak úhorový / ležiak obyčajný",
+      "spolocenska_hodnota_eur": 10000
+    },
+    {
+      "vedecke_meno": "Buteo buteo",
+      "slovenske_meno": "myšiak hôrny / myšiak lesný",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Buteo lagopus",
+      "slovenske_meno": "myšiak severský",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Buteo rufinus",
+      "slovenske_meno": "myšiak hrdzavý",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Calandrella brachydactyla",
+      "slovenske_meno": "škovránka krátkoprstá / škovránok krátkoprstý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Calcarius lapponicus",
+      "slovenske_meno": "ostrohárka severská / strnádka severská",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Calidris alba",
+      "slovenske_meno": "pobrežník belavý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Calidris alpina",
+      "slovenske_meno": "pobrežník čiernozobý / pobrežník obyčajný",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Calidris canutus",
+      "slovenske_meno": "pobrežník hrdzavý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Calidris ferruginea",
+      "slovenske_meno": "pobrežník krivozobý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Calidris (Limicola) falcinellus",
+      "slovenske_meno": "brehárik ploskozobý / pobrežník ploskozobý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Calidris maritima",
+      "slovenske_meno": "pobrežník morský",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Calidris melanotos",
+      "slovenske_meno": "pobrežník škvrnitý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Calidris minuta",
+      "slovenske_meno": "pobrežník malý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Calidris (Philomachus) pugnax",
+      "slovenske_meno": "bojovník bahenný / pobrežník bojovný",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Calidris temminckii",
+      "slovenske_meno": "pobrežník sivý (Calidris temminckii)",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Caprimulgus europaeus",
+      "slovenske_meno": "lelek lesný",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Carduelis carduelis",
+      "slovenske_meno": "stehlík obyčajný / stehlík pestrý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Carpodacus erythrinus",
+      "slovenske_meno": "červenák karmínový / hýľ karmínový",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Cecropis (Hirundo) daurica",
+      "slovenske_meno": "lastovička červenochrbtá / lastovička skalná",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Certhia brachydactyla",
+      "slovenske_meno": "kôrovník krátkoprstý",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Certhia familiaris",
+      "slovenske_meno": "kôrovník dlhoprstý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Ciconia ciconia",
+      "slovenske_meno": "bocian biely",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Ciconia nigra",
+      "slovenske_meno": "bocian čierny",
+      "spolocenska_hodnota_eur": 4000
+    },
+    {
+      "vedecke_meno": "Cinclus cinclus",
+      "slovenske_meno": "vodnár potočný",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Circaetus gallicus",
+      "slovenske_meno": "hadiar krátkoprstý",
+      "spolocenska_hodnota_eur": 10000
+    },
+    {
+      "vedecke_meno": "Circus aeruginosus",
+      "slovenske_meno": "kaňa močiarna",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Circus cyaneus",
+      "slovenske_meno": "kaňa sivá",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Circus macrourus",
+      "slovenske_meno": "kaňa stepná",
+      "spolocenska_hodnota_eur": 5000
+    },
+    {
+      "vedecke_meno": "Circus pygargus",
+      "slovenske_meno": "kaňa popolavá",
+      "spolocenska_hodnota_eur": 10000
+    },
+    {
+      "vedecke_meno": "Clamator glandarius",
+      "slovenske_meno": "kukavica chochlatá",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Clanga (Aquila) clanga",
+      "slovenske_meno": "orol hrubozobý",
+      "spolocenska_hodnota_eur": 5000
+    },
+    {
+      "vedecke_meno": "Clanga (Aquila) pomarina",
+      "slovenske_meno": "orol krikľavý",
+      "spolocenska_hodnota_eur": 10000
+    },
+    {
+      "vedecke_meno": "Clangula hyemalis",
+      "slovenske_meno": "ľadovka dlhochvostá / kačica ľadová",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Coccothraustes coccothraustes",
+      "slovenske_meno": "glezg obyčajný / glezg hrubozobý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Coloeus (Corvus) monedula",
+      "slovenske_meno": "kavka tmavá",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Columba oenas",
+      "slovenske_meno": "holub plúžik",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Columba palumbus",
+      "slovenske_meno": "holub hrivnák",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Coracias garrulus",
+      "slovenske_meno": "krakľa belasá",
+      "spolocenska_hodnota_eur": 30000
+    },
+    {
+      "vedecke_meno": "Corvus corax",
+      "slovenske_meno": "krkavec čierny",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Corvus corone",
+      "slovenske_meno": "vrana čierna / vrana túlavá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Corvus cornix",
+      "slovenske_meno": "vrana popolavá / vrana túlavá",
+      "spolocenska_hodnota_eur": 300
+    },
+    {
+      "vedecke_meno": "Corvus frugilegus",
+      "slovenske_meno": "havran čierny",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Coturnix coturnix",
+      "slovenske_meno": "prepelica poľná",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Crex crex",
+      "slovenske_meno": "chrapkáč poľný / chriašteľ poľný",
+      "spolocenska_hodnota_eur": 4000
+    },
+    {
+      "vedecke_meno": "Cuculus canorus",
+      "slovenske_meno": "kukučka obyčajná / kukučka jarabá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Cursorius cursor",
+      "slovenske_meno": "behavec plavý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Cyanistes (Parus) caeruleus",
+      "slovenske_meno": "sýkorka belasá",
+      "spolocenska_hodnota_eur": 300
+    },
+    {
+      "vedecke_meno": "Cyanistes (Parus) cyanus",
+      "slovenske_meno": "sýkorka lazúrová",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Cygnus columbianus (Cygnus bewickii)",
+      "slovenske_meno": "labuť malá / labuť tundrová",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Cygnus cygnus",
+      "slovenske_meno": "labuť spevavá",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Cygnus olor",
+      "slovenske_meno": "labuť veľká / labuť hrbozobá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Delichon urbicum",
+      "slovenske_meno": "belorítka obyčajná / belorítka domová",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Dendrocopos leucotos",
+      "slovenske_meno": "ďateľ bielochrbtý",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Dendrocopos major",
+      "slovenske_meno": "ďateľ veľký",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Dendrocoptes (Dendrocopos) (Leiopicus) medius",
+      "slovenske_meno": "ďateľ prostredný",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Dendrocopos syriacus",
+      "slovenske_meno": "ďateľ hnedkavý",
+      "spolocenska_hodnota_eur": 1380
+    },
+    {
+      "vedecke_meno": "Dryobates minor",
+      "slovenske_meno": "ďateľ malý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Dryocopus martius",
+      "slovenske_meno": "tesár čierny / ďateľ čierny",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Egretta garzetta",
+      "slovenske_meno": "beluša malá / volavka striebristá",
+      "spolocenska_hodnota_eur": 5000
+    },
+    {
+      "vedecke_meno": "Elanus caeruleus",
+      "slovenske_meno": "luniak sivý",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Emberiza (Miliaria) calandra",
+      "slovenske_meno": "strnádka lúčna",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Emberiza cia",
+      "slovenske_meno": "strnádka cia / strnádka ciavá",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Emberiza citrinella",
+      "slovenske_meno": "strnádka obyčajná / strnádka žltá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Emberiza hortulana",
+      "slovenske_meno": "strnádka záhradná",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Emberiza melanocephala",
+      "slovenske_meno": "strnádka čiernohlavá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Emberiza pusilla",
+      "slovenske_meno": "strnádka malá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Emberiza rustica",
+      "slovenske_meno": "strnádka roľná",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Emberiza schoeniclus",
+      "slovenske_meno": "strnádka trstinová / strnádka trsťová",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Eremophila alpestris",
+      "slovenske_meno": "uškárik vrchovský / škovránok ušatý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Erithacus rubecula",
+      "slovenske_meno": "červienka obyčajná / slávik červienka",
+      "spolocenska_hodnota_eur": 300
+    },
+    {
+      "vedecke_meno": "Eudromias (Charadrius) morinellus",
+      "slovenske_meno": "kulík vrchovský",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Falco columbarius",
+      "slovenske_meno": "sokol kobec",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Falco cherrug",
+      "slovenske_meno": "sokol rároh",
+      "spolocenska_hodnota_eur": 50000
+    },
+    {
+      "vedecke_meno": "Falco naumanni",
+      "slovenske_meno": "sokol bielopazúravý",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Falco peregrinus",
+      "slovenske_meno": "sokol sťahovavý",
+      "spolocenska_hodnota_eur": 10000
+    },
+    {
+      "vedecke_meno": "Falco subbuteo",
+      "slovenske_meno": "sokol lastovičiar",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Falco tinnunculus",
+      "slovenske_meno": "sokol myšiar",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Falco vespertinus",
+      "slovenske_meno": "sokol kobcovitý / sokol červenonohý",
+      "spolocenska_hodnota_eur": 30000
+    },
+    {
+      "vedecke_meno": "Ficedula albicollis",
+      "slovenske_meno": "muchárik bielokrký",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Ficedula hypoleuca",
+      "slovenske_meno": "muchárik čiernohlavý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Ficedula parva",
+      "slovenske_meno": "muchárik malý / muchárik červenohrdlý",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Fringilla coelebs",
+      "slovenske_meno": "pinka obyčajná / pinka lesná",
+      "spolocenska_hodnota_eur": 300
+    },
+    {
+      "vedecke_meno": "Fringilla montifringilla",
+      "slovenske_meno": "pinka severská / ikavec",
+      "spolocenska_hodnota_eur": 300
+    },
+    {
+      "vedecke_meno": "Fulica atra",
+      "slovenske_meno": "lyska čierna",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Galerida cristata",
+      "slovenske_meno": "pipíška chochlatá / pipíška obyčajná",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Gallinago gallinago",
+      "slovenske_meno": "močiarnica mekotavá",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Gallinago media",
+      "slovenske_meno": "močiarnica tichá / močiarnica lúčna",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Gallinula chloropus",
+      "slovenske_meno": "sliepočka vodná / sliepočka zelenonohá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Garrulus glandarius",
+      "slovenske_meno": "sojka obyčajná / sojka škriekavá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Gavia adamsii",
+      "slovenske_meno": "potáplica bielozobá / potáplica bledozobá",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Gavia arctica",
+      "slovenske_meno": "potáplica stredná / potáplica severská",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Gavia immer",
+      "slovenske_meno": "potáplica veľká / potáplica ľadová",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Gavia stellata",
+      "slovenske_meno": "potáplica malá / potáplica štíhlozobá",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Gelochelidon (Sterna) nilotica",
+      "slovenske_meno": "rybárka krátkozobá / rybár krátkozobý",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Glareola nordmanni",
+      "slovenske_meno": "prieložník čiernokrídly / prieložník Nordmannov",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Glareola pratincola",
+      "slovenske_meno": "prieložník stepný / prieložník obyčajný",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Glaucidium passerinum",
+      "slovenske_meno": "kuvičok vrabčí / kuvik vrabčí",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Grus grus",
+      "slovenske_meno": "žeriav popolavý",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Grus (Anthropoides) virgo",
+      "slovenske_meno": "žeriav stepný / žeriavec stepný",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Gypaetus barbatus",
+      "slovenske_meno": "bradáň žltohlavý",
+      "spolocenska_hodnota_eur": 5000
+    },
+    {
+      "vedecke_meno": "Gyps fulvus",
+      "slovenske_meno": "sup bielohlavý",
+      "spolocenska_hodnota_eur": 5000
+    },
+    {
+      "vedecke_meno": "Haematopus ostralegus",
+      "slovenske_meno": "lastúrničiar strakatý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Haliaeetus albicilla",
+      "slovenske_meno": "orliak morský",
+      "spolocenska_hodnota_eur": 10000
+    },
+    {
+      "vedecke_meno": "Hieraaetus pennatus (Aquila pennata)",
+      "slovenske_meno": "orol malý / orol myšiakovitý",
+      "spolocenska_hodnota_eur": 10000
+    },
+    {
+      "vedecke_meno": "Himantopus himantopus",
+      "slovenske_meno": "šišila bocianovitá",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Hippolais icterina",
+      "slovenske_meno": "sedmohlások obyčajný / sedmohlások hájový",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Hirundo rustica",
+      "slovenske_meno": "lastovička domová",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Histrionicus histrionicus",
+      "slovenske_meno": "kamenárka strakatá / kačica strakatá",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Hydrocoloeus (Larus) minutus",
+      "slovenske_meno": "čajka malá",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Hydroprogne (Sterna) caspia",
+      "slovenske_meno": "čegrava veľkozobá / rybár veľkozobý",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Charadrius alexandrinus",
+      "slovenske_meno": "kulík morský",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Charadrius dubius",
+      "slovenske_meno": "kulík riečny",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Charadrius hiaticula",
+      "slovenske_meno": "kulík piesočný",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Chlamydotis macqueenii (undulata)",
+      "slovenske_meno": "drop hrivnatý",
+      "spolocenska_hodnota_eur": 5000
+    },
+    {
+      "vedecke_meno": "Chlidonias hybrida",
+      "slovenske_meno": "čorík bahenný / rybár bahenný",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Chlidonias leucopterus",
+      "slovenske_meno": "čorík bielokrídly / rybár bielokrídly",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Chlidonias niger",
+      "slovenske_meno": "čorík čierny / rybár čierny",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Chloris (Carduelis) chloris",
+      "slovenske_meno": "zelienka obyčajná / stehlík zelený",
+      "spolocenska_hodnota_eur": 300
+    },
+    {
+      "vedecke_meno": "Chroicocephalus (Larus) ridibundus",
+      "slovenske_meno": "čajka smejivá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Iduna (Hippolais) pallida",
+      "slovenske_meno": "sedmohlások bledý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Ichthyaetus (Larus) melanocephalus",
+      "slovenske_meno": "čajka čiernohlavá",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Ichthyaetus (Larus) ichthyaetus",
+      "slovenske_meno": "čajka orlia",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Ixobrychus minutus",
+      "slovenske_meno": "bučiačik močiarny",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Jynx torquilla",
+      "slovenske_meno": "krutohlav hnedý / krutihlav hnedý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Lanius collurio",
+      "slovenske_meno": "strakoš obyčajný / strakoš červenochrbtý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Lanius excubitor",
+      "slovenske_meno": "strakoš veľký / strakoš sivý",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Lanius minor",
+      "slovenske_meno": "strakoš kolesár",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Lanius senator",
+      "slovenske_meno": "strakoš červenohlavý",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Larus argentatus",
+      "slovenske_meno": "čajka striebristá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Larus cachinnans",
+      "slovenske_meno": "čajka bielohlavá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Larus canus",
+      "slovenske_meno": "čajka sivá",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Larus delawarensis",
+      "slovenske_meno": "čajka obrúčkozobá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Larus fuscus",
+      "slovenske_meno": "čajka tmavá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Larus hyperboreus",
+      "slovenske_meno": "čajka bledá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Larus marinus",
+      "slovenske_meno": "čajka morská",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Larus michahellis",
+      "slovenske_meno": "čajka žltonohá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Limosa lapponica",
+      "slovenske_meno": "brehár hrdzavý",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Limosa limosa",
+      "slovenske_meno": "brehár čiernochvostý",
+      "spolocenska_hodnota_eur": 30000
+    },
+    {
+      "vedecke_meno": "Linaria (Carduelis) cannabina",
+      "slovenske_meno": "stehlík konôpka / stehlík konopiar",
+      "spolocenska_hodnota_eur": 300
+    },
+    {
+      "vedecke_meno": "Linaria (Carduelis) flavirostris",
+      "slovenske_meno": "stehlík horský",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Locustella fluviatilis",
+      "slovenske_meno": "svrčiak riečny",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Locustella luscinioides",
+      "slovenske_meno": "svrčiak slávikovitý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Locustella naevia",
+      "slovenske_meno": "svrčiak zelenkavý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Lophophanes (Parus) cristatus",
+      "slovenske_meno": "sýkorka chochlatá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Loxia curvirostra",
+      "slovenske_meno": "krivonos smrekový",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Loxia leucoptera",
+      "slovenske_meno": "krivonos bielokrídly",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Lullula arborea",
+      "slovenske_meno": "škovránik stromový / škovránok stromový",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Luscinia luscinia",
+      "slovenske_meno": "slávik veľký / slávik tmavý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Luscinia megarhynchos",
+      "slovenske_meno": "slávik obyčajný / slávik krovinový",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Luscinia (Cyanecula) svecica",
+      "slovenske_meno": "slávik modrák",
+      "spolocenska_hodnota_eur": 5000
+    },
+    {
+      "vedecke_meno": "Lymnocryptes minimus",
+      "slovenske_meno": "močiarnička tichá / sluka malá",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Lyrurus (Tetrao) tetrix",
+      "slovenske_meno": "tetrov hoľniak",
+      "spolocenska_hodnota_eur": 5000
+    },
+    {
+      "vedecke_meno": "Mareca (Anas) penelope",
+      "slovenske_meno": "kačica hvizdárka / kačica hvízdavá",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Mareca (Anas) strepera",
+      "slovenske_meno": "kačica chripľavka / kačica chripľavá",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Melanitta fusca",
+      "slovenske_meno": "turpan tmavý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Melanitta nigra",
+      "slovenske_meno": "turpan čierny",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Mergellus (Mergus) albellus",
+      "slovenske_meno": "potápač malý / potápač biely",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Mergus merganser",
+      "slovenske_meno": "potápač veľký",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Mergus serrator",
+      "slovenske_meno": "potápač prostredný / potápač dlhozobý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Merops apiaster",
+      "slovenske_meno": "včelárik zlatý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Microcarbo pygmeus (Phalacrocorax pygmeus)",
+      "slovenske_meno": "kormorán malý",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Milvus migrans",
+      "slovenske_meno": "haja tmavá",
+      "spolocenska_hodnota_eur": 30000
+    },
+    {
+      "vedecke_meno": "Milvus milvus",
+      "slovenske_meno": "haja červená",
+      "spolocenska_hodnota_eur": 30000
+    },
+    {
+      "vedecke_meno": "Monticola saxatilis",
+      "slovenske_meno": "skaliar pestrý",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Monticola solitarius",
+      "slovenske_meno": "skaliar modrý",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Montifringilla nivalis",
+      "slovenske_meno": "snehárka vrchovská",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Motacilla alba",
+      "slovenske_meno": "trasochvost biely",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Motacilla cinerea",
+      "slovenske_meno": "trasochvost horský",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Motacilla citreola",
+      "slovenske_meno": "trasochvost žltohlavý",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Motacilla flava",
+      "slovenske_meno": "trasochvost žltý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Muscicapa striata",
+      "slovenske_meno": "muchár sivý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Neophron percnopterus",
+      "slovenske_meno": "zdochlinár biely / sup biely",
+      "spolocenska_hodnota_eur": 5000
+    },
+    {
+      "vedecke_meno": "Netta rufina",
+      "slovenske_meno": "hrdzavka potápavá",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Nucifraga caryocatactes",
+      "slovenske_meno": "orešnica perlavá / orešnica perlovaná",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Numenius arquata",
+      "slovenske_meno": "hvizdák veľký",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Numenius phaeopus",
+      "slovenske_meno": "hvizdák malý / hvizdák pásavohlavý",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Numenius tenuirostris",
+      "slovenske_meno": "hvizdák tenkozobý",
+      "spolocenska_hodnota_eur": 30000
+    },
+    {
+      "vedecke_meno": "Nycticorax nycticorax",
+      "slovenske_meno": "chavkoš nočný / bučiak nočný",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Oenanthe deserti",
+      "slovenske_meno": "skaliarik púšťový",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Oenanthe hispanica",
+      "slovenske_meno": "skaliarik okrový",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Oenanthe oenanthe",
+      "slovenske_meno": "skaliarik sivý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Oenanthe pleschanka",
+      "slovenske_meno": "skaliarik belohlavý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Oriolus oriolus",
+      "slovenske_meno": "vlha obyčajná / vlha hájová",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Otis tarda",
+      "slovenske_meno": "drop veľký / drop fúzatý",
+      "spolocenska_hodnota_eur": 30000
+    },
+    {
+      "vedecke_meno": "Otus scops",
+      "slovenske_meno": "výrik lesný",
+      "spolocenska_hodnota_eur": 4000
+    },
+    {
+      "vedecke_meno": "Oxyura leucocephala",
+      "slovenske_meno": "potápnica bielohlavá",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Parus major",
+      "slovenske_meno": "sýkorka veľká / sýkorka bielolíca",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Pandion haliaetus",
+      "slovenske_meno": "kršiak rybár / kršiak rybožravý",
+      "spolocenska_hodnota_eur": 5000
+    },
+    {
+      "vedecke_meno": "Panurus biarmicus",
+      "slovenske_meno": "fúzatka trstinová / fúzatka trsťová",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Passer domesticus",
+      "slovenske_meno": "vrabec domový",
+      "spolocenska_hodnota_eur": 300
+    },
+    {
+      "vedecke_meno": "Passer montanus",
+      "slovenske_meno": "vrabec poľný",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Pastor (Sturnus) roseus",
+      "slovenske_meno": "pastier ružový / škorec ružový",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Pelecanus crispus",
+      "slovenske_meno": "pelikán kučeravý",
+      "spolocenska_hodnota_eur": 5000
+    },
+    {
+      "vedecke_meno": "Pelecanus onocrotaulus",
+      "slovenske_meno": "pelikán ružový",
+      "spolocenska_hodnota_eur": 5000
+    },
+    {
+      "vedecke_meno": "Perdix perdix",
+      "slovenske_meno": "jarabica poľná",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Periparus (Parus) ater",
+      "slovenske_meno": "sýkorka uhliarka",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Perisoreus infaustus",
+      "slovenske_meno": "škriekavec zlovestný / sojka zlovestná",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Pernis apivorus",
+      "slovenske_meno": "včelár lesný",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Phalacrocorax aristotelis",
+      "slovenske_meno": "kormorán chochlatý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Phalacrocorax carbo",
+      "slovenske_meno": "kormorán veľký",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Phalaropus fulicarius",
+      "slovenske_meno": "lyskonoh ploskozobý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Phalaropus lobatus",
+      "slovenske_meno": "lyskonoh úzkozobý",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Phoenicurus ochruros",
+      "slovenske_meno": "žltochvost domový",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Phoenicurus phoenicurus",
+      "slovenske_meno": "žltochvost hôrny / žltochvost lesný",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Phylloscopus bonelli",
+      "slovenske_meno": "kolibiarik horský / kolibkárik horský",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Phylloscopus collybita",
+      "slovenske_meno": "kolibiarik čipčavý / kolibkárik čipčavý",
+      "spolocenska_hodnota_eur": 200
+    },
+    {
+      "vedecke_meno": "Phylloscopus inornatus",
+      "slovenske_meno": "kolibiarik žltkastotemenný / kolibkárik žltkastotemenný",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Phylloscopus sibilatrix",
+      "slovenske_meno": "kolibiarik sykavý / kolibkárik sykavý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Phylloscopus schwarzi",
+      "slovenske_meno": "kolibiarik dlhochvostý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Phylloscopus proregulus",
+      "slovenske_meno": "kolibiarik králikovitý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Phylloscopus trochiloides",
+      "slovenske_meno": "kolibiarik zelený / kolibkárik zelený",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Phylloscopus trochilus",
+      "slovenske_meno": "kolibiarik spevavý / kolibkárik spevavý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Pica pica",
+      "slovenske_meno": "straka obyčajná / straka čiernozobá",
+      "spolocenska_hodnota_eur": 300
+    },
+    {
+      "vedecke_meno": "Picoides tridactylus",
+      "slovenske_meno": "ďubník trojprstý / ďateľ trojprstý",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Picus canus",
+      "slovenske_meno": "žlna sivá",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Picus viridis",
+      "slovenske_meno": "žlna zelená",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Pinicola enucleator",
+      "slovenske_meno": "smrečiar krivonosí / hýľ krivonosovitý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Platalea leucorodia",
+      "slovenske_meno": "lyžičiar biely",
+      "spolocenska_hodnota_eur": 5000
+    },
+    {
+      "vedecke_meno": "Plectrophenax nivalis",
+      "slovenske_meno": "snehuľka severská / strnádka snežná",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Plegadis falcinellus",
+      "slovenske_meno": "ibisovec hnedý / ibis hnedý",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Pluvialis apricaria",
+      "slovenske_meno": "kulík zlatý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Pluvialis fulva",
+      "slovenske_meno": "kulík krátkochvostý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Pluvialis squatarola",
+      "slovenske_meno": "kulík bledý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Podiceps auritus",
+      "slovenske_meno": "potápka ušatá",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Podiceps cristatus",
+      "slovenske_meno": "potápka chochlatá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Podiceps grisegena",
+      "slovenske_meno": "potápka červenokrká",
+      "spolocenska_hodnota_eur": 10000
+    },
+    {
+      "vedecke_meno": "Podiceps nigricollis",
+      "slovenske_meno": "potápka čiernokrká",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Poecile (Parus) montanus",
+      "slovenske_meno": "sýkorka čiernohlavá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Poecile (Parus) palustris",
+      "slovenske_meno": "sýkorka hôrna / sýkorka lesklohlavá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Porzana porzana",
+      "slovenske_meno": "chriašť bodkovaný / chriašteľ bodkovaný",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Prunella atrogularis",
+      "slovenske_meno": "vrchárka čiernohrdlá",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Prunella collaris",
+      "slovenske_meno": "vrchárka červenkavá",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Prunella modularis",
+      "slovenske_meno": "vrchárka modrá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Prunella montanella",
+      "slovenske_meno": "vrchárka okrová",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Pyrrhocorax graculus",
+      "slovenske_meno": "čavka žltozobá",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Pyrrhula pyrrhula",
+      "slovenske_meno": "hýľ obyčajný / hýľ lesný",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Rallus aquaticus",
+      "slovenske_meno": "chriašteľ vodný",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Recurvirostra avosetta",
+      "slovenske_meno": "šabliarka modronohá",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Regulus ignicapilla",
+      "slovenske_meno": "králik ohnivohlavý / králiček ohnivohlavý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Regulus regulus",
+      "slovenske_meno": "králik zlatohlavý / králiček zlatohlavý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Remiz pendulinus",
+      "slovenske_meno": "kúdeľníčka lužná",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Riparia riparia",
+      "slovenske_meno": "brehuľa hnedá",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Rissa tridactyla",
+      "slovenske_meno": "čajka trojprstá",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Saxicola rubetra",
+      "slovenske_meno": "pŕhľaviar červenkastý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Saxicola rubicola (torquata)",
+      "slovenske_meno": "pŕhľaviar čiernohlavý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Scolopax rusticola",
+      "slovenske_meno": "sluka hôrna / sluka lesná",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Serinus serinus",
+      "slovenske_meno": "kanárik poľný / kanárik záhradný",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Sitta europaea",
+      "slovenske_meno": "brhlík obyčajný / brhlík lesný",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Somateria mollissima",
+      "slovenske_meno": "kajka morská",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Spatula (Anas) clypeata",
+      "slovenske_meno": "kačica lyžičiarka",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Spatula (Anas) querquedula",
+      "slovenske_meno": "kačica chrapačka / kačica chrapľavá",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Spinus (Carduelis) spinus",
+      "slovenske_meno": "stehlík čížik / stehlík čížavý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Stercorarius longicaudus",
+      "slovenske_meno": "pomorník malý / pomorník dlhochvostý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Stercorarius parasiticus",
+      "slovenske_meno": "pomorník príživný",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Stercorarius pomarinus",
+      "slovenske_meno": "pomorník stredný / pomorník širokochvostý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Sterna hirundo",
+      "slovenske_meno": "rybár riečny",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Sterna paradisaea",
+      "slovenske_meno": "rybár dlhochvostý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Sternula (Sterna) albifrons",
+      "slovenske_meno": "rybár malý",
+      "spolocenska_hodnota_eur": 5000
+    },
+    {
+      "vedecke_meno": "Streptopelia decaocto",
+      "slovenske_meno": "hrdlička záhradná",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Streptopelia orientalis",
+      "slovenske_meno": "hrdlička stepná",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Streptopelia turtur",
+      "slovenske_meno": "hrdlička poľná",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Strix aluco",
+      "slovenske_meno": "sova obyčajná / sova lesná",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Strix uralensis",
+      "slovenske_meno": "sova dlhochvostá",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Sturnus vulgaris",
+      "slovenske_meno": "škorec obyčajný / škorec lesklý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Surnia ulula",
+      "slovenske_meno": "krahuľa hôrna / kuvik krahuľcovitý",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Sylvia atricapilla",
+      "slovenske_meno": "penica čiernohlavá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Sylvia borin",
+      "slovenske_meno": "penica slávikovitá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Sylvia communis",
+      "slovenske_meno": "penica obyčajná / penica hnedokrídla",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Sylvia curruca",
+      "slovenske_meno": "penica popolavá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Sylvia nisoria",
+      "slovenske_meno": "penica jarabá",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Syrrhaptes paradoxus",
+      "slovenske_meno": "labkáň stepný / stepiar ostrochvostý",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Tadorna ferruginea",
+      "slovenske_meno": "kazarka hrdzavá",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Tadorna tadorna",
+      "slovenske_meno": "kazarka pestrá",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Tachybaptus ruficollis",
+      "slovenske_meno": "potápka malá / potápka hnedá",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Tachymarptis melba",
+      "slovenske_meno": "dážďovník skalný",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Tarsiger cyanurus",
+      "slovenske_meno": "modravec červenoboký",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Tetrao urogallus",
+      "slovenske_meno": "hlucháň hôrny / tetrov hlucháň",
+      "spolocenska_hodnota_eur": 5000
+    },
+    {
+      "vedecke_meno": "Tetrastes (Bonasa) bonasia",
+      "slovenske_meno": "jariabok hôrny",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Tetrax tetrax",
+      "slovenske_meno": "drop malý / drop obojkový",
+      "spolocenska_hodnota_eur": 3000
+    },
+    {
+      "vedecke_meno": "Thalasseus (Sterna) sandvicensis",
+      "slovenske_meno": "rybár sivý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Tichodroma muraria",
+      "slovenske_meno": "murárik červenokrídly",
+      "spolocenska_hodnota_eur": 5000
+    },
+    {
+      "vedecke_meno": "Tringa erythropus",
+      "slovenske_meno": "kalužiak tmavý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Tringa glareola",
+      "slovenske_meno": "kalužiak močiarny",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Tringa nebularia",
+      "slovenske_meno": "kalužiak sivý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Tringa ochropus",
+      "slovenske_meno": "kalužiak perlavý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Tringa stagnatilis",
+      "slovenske_meno": "kalužiak štíhly",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Tringa totanus",
+      "slovenske_meno": "kalužiak červenonohý",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Troglodytes troglodytes",
+      "slovenske_meno": "oriešok obyčajný / oriešok hnedý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Turdus iliacus",
+      "slovenske_meno": "drozd červenkavý / drozd červenkastý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Turdus merula",
+      "slovenske_meno": "drozd čierny",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Turdus philomelos",
+      "slovenske_meno": "drozd plavý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Turdus pilaris",
+      "slovenske_meno": "drozd čvíkota / drozd čvíkotavý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Turdus torquatus",
+      "slovenske_meno": "drozd kolohrivec / drozd kolohrivý",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Turdus viscivorus",
+      "slovenske_meno": "drozd trskota / drozd trskotavý",
+      "spolocenska_hodnota_eur": 500
+    },
+    {
+      "vedecke_meno": "Tyto alba",
+      "slovenske_meno": "plamienka driemavá",
+      "spolocenska_hodnota_eur": 5000
+    },
+    {
+      "vedecke_meno": "Upupa epops",
+      "slovenske_meno": "dudok chochlatý",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Vanellus gregarius (Chettusia gregaria)",
+      "slovenske_meno": "cíbik stepný",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Vanellus vanellus",
+      "slovenske_meno": "cíbik chochlatý",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Xema (Larus) sabini",
+      "slovenske_meno": "čajka vidlochvostá",
+      "spolocenska_hodnota_eur": 1000
+    },
+    {
+      "vedecke_meno": "Xenus cinereus",
+      "slovenske_meno": "brodník sivý / kalužiak obrátenozobý",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Zapornia (Porzana) parva",
+      "slovenske_meno": "chriašť malý / chriašteľ malý",
+      "spolocenska_hodnota_eur": 2000
+    },
+    {
+      "vedecke_meno": "Zapornia (Porzana) pusilla",
+      "slovenske_meno": "chriašť najmenší / chriašteľ najmenší",
+      "spolocenska_hodnota_eur": 3000
+    }
+  ],
+  "meta": {
+    "title": "Vtáky na Slovensku a ich spoločenská hodnota - Free Download",
+    "description": "Zoznam druhov vtákov vyskytujúcich sa na Slovensku s vedeckým a slovenským menom a spoločenskou hodnotou jedinca v eurách podľa vyhlášky k zákonu o ochrane prírody. Contains 363 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vtáky na Slovensku a ich spoločenská hodnota | ListBase",
+    "seo_description": "Download Vtáky na Slovensku a ich spoločenská hodnota — 363 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 363 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_vtákov_na_Slovensku"
+    ]
+  }
+}
