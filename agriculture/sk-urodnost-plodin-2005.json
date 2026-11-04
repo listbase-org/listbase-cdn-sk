@@ -1,0 +1,72 @@
+{
+  "id": "sk-urodnost-plodin-2005",
+  "name": "Priemerná úrodnosť poľnohospodárskych plodín na Slovensku (2005)",
+  "title": "Priemerná úrodnosť poľnohospodárskych plodín na Slovensku (2005)",
+  "description": "Priemerná úrodnosť hlavných poľnohospodárskych plodín (pšenica, jačmeň, kukurica, zemiaky, cukrová repa a ďalšie) na Slovensku v roku 2005 v tonách na hektár.",
+  "category": "agriculture",
+  "source": "https://sk.wikipedia.org/wiki/Poľnohospodárstvo",
+  "source_url": "https://sk.wikipedia.org/wiki/Poľnohospodárstvo",
+  "updated": "2026-11",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "plodina",
+      "label": "Plodina",
+      "type": "string"
+    },
+    {
+      "key": "urodnost_t_ha",
+      "label": "Urodnost T Ha",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "plodina": "pšenica",
+      "urodnost_t_ha": 4.7
+    },
+    {
+      "plodina": "raž",
+      "urodnost_t_ha": 3.34
+    },
+    {
+      "plodina": "jačmeň",
+      "urodnost_t_ha": 4
+    },
+    {
+      "plodina": "ovos",
+      "urodnost_t_ha": 2.69
+    },
+    {
+      "plodina": "kukurica na zrno",
+      "urodnost_t_ha": 7.89
+    },
+    {
+      "plodina": "zemiaky",
+      "urodnost_t_ha": 22.15
+    },
+    {
+      "plodina": "slnečnica",
+      "urodnost_t_ha": 2.32
+    },
+    {
+      "plodina": "repka olejná",
+      "urodnost_t_ha": 2.44
+    },
+    {
+      "plodina": "cukrová repa",
+      "urodnost_t_ha": 54.96
+    }
+  ],
+  "meta": {
+    "title": "Priemerná úrodnosť poľnohospodárskych plodín na Slovensku (2005) - Free Download",
+    "description": "Priemerná úrodnosť hlavných poľnohospodárskych plodín (pšenica, jačmeň, kukurica, zemiaky, cukrová repa a ďalšie) na Slovensku v roku 2005 v tonách na hektár. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Priemerná úrodnosť poľnohospodárskych plodín na Slovensku (2005) | ListBase",
+    "seo_description": "Download Priemerná úrodnosť poľnohospodárskych plodín na Slovensku (2005) — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Poľnohospodárstvo"
+    ]
+  }
+}

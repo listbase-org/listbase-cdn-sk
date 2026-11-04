@@ -1,12 +1,12 @@
 {
   "lang": "sk",
-  "generated": "2026-11-04T02:18:20.761Z",
-  "total_datasets": 461,
-  "total_records": 282723,
+  "generated": "2026-11-04T02:18:30.662Z",
+  "total_datasets": 462,
+  "total_records": 282732,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -175,6 +175,29 @@
         "xlsx": {
           "name": "sk-registrovane-odrody-vinica_SK.xlsx",
           "size": 8746
+        }
+      }
+    },
+    {
+      "id": "sk-urodnost-plodin-2005",
+      "name": "Priemerná úrodnosť poľnohospodárskych plodín na Slovensku (2005)",
+      "category": "agriculture",
+      "record_count": 9,
+      "columns": [
+        "plodina",
+        "urodnost_t_ha"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Poľnohospodárstvo",
+      "updated": "2026-11",
+      "size": 2313,
+      "files": {
+        "csv": {
+          "name": "sk-urodnost-plodin-2005_SK.csv",
+          "size": 199
+        },
+        "xlsx": {
+          "name": "sk-urodnost-plodin-2005_SK.xlsx",
+          "size": 6889
         }
       }
     },
