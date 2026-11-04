@@ -1,0 +1,282 @@
+{
+  "id": "sk-narodnostne-zlozenie-scitania",
+  "name": "Národnostné zloženie obyvateľstva Slovenska podľa sčítaní (1950–2021)",
+  "title": "Národnostné zloženie obyvateľstva Slovenska podľa sčítaní (1950–2021)",
+  "description": "Počet a podiel obyvateľov Slovenska podľa národnosti (Slováci, Maďari, Rómovia, Česi, Rusíni, Ukrajinci a ďalší) v sčítaniach 1950–2021.",
+  "category": "society",
+  "source": "https://sk.wikipedia.org/wiki/Demografia_Slovenska",
+  "source_url": "https://sk.wikipedia.org/wiki/Demografia_Slovenska",
+  "updated": "2026-11",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "narodnost",
+      "label": "Narodnost",
+      "type": "string"
+    },
+    {
+      "key": "pocet_1950",
+      "label": "Pocet 1950",
+      "type": "number"
+    },
+    {
+      "key": "percento_1950",
+      "label": "Percento 1950",
+      "type": "number"
+    },
+    {
+      "key": "pocet_1961",
+      "label": "Pocet 1961",
+      "type": "number"
+    },
+    {
+      "key": "percento_1961",
+      "label": "Percento 1961",
+      "type": "number"
+    },
+    {
+      "key": "pocet_1970",
+      "label": "Pocet 1970",
+      "type": "number"
+    },
+    {
+      "key": "percento_1970",
+      "label": "Percento 1970",
+      "type": "number"
+    },
+    {
+      "key": "pocet_1980",
+      "label": "Pocet 1980",
+      "type": "number"
+    },
+    {
+      "key": "percento_1980",
+      "label": "Percento 1980",
+      "type": "number"
+    },
+    {
+      "key": "pocet_1991",
+      "label": "Pocet 1991",
+      "type": "number"
+    },
+    {
+      "key": "percento_1991",
+      "label": "Percento 1991",
+      "type": "number"
+    },
+    {
+      "key": "pocet_2001",
+      "label": "Pocet 2001",
+      "type": "number"
+    },
+    {
+      "key": "percento_2001",
+      "label": "Percento 2001",
+      "type": "number"
+    },
+    {
+      "key": "pocet_2011",
+      "label": "Pocet 2011",
+      "type": "number"
+    },
+    {
+      "key": "percento_2011",
+      "label": "Percento 2011",
+      "type": "number"
+    },
+    {
+      "key": "pocet_2021",
+      "label": "Pocet 2021",
+      "type": "number"
+    },
+    {
+      "key": "percento_2021",
+      "label": "Percento 2021",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "narodnost": "Slováci",
+      "pocet_1950": "",
+      "percento_1950": 86.6,
+      "pocet_1961": "",
+      "percento_1961": 85.3,
+      "pocet_1970": "",
+      "percento_1970": 85.5,
+      "pocet_1980": 4317008,
+      "percento_1980": 86.5,
+      "pocet_1991": 4519328,
+      "percento_1991": 85.7,
+      "pocet_2001": 4614854,
+      "percento_2001": 85.8,
+      "pocet_2011": 4352775,
+      "percento_2011": 80.7,
+      "pocet_2021": 4567547,
+      "percento_2021": 83.8
+    },
+    {
+      "narodnost": "Maďari",
+      "pocet_1950": "",
+      "percento_1950": 10.3,
+      "pocet_1961": "",
+      "percento_1961": 12.4,
+      "pocet_1970": "",
+      "percento_1970": 12.2,
+      "pocet_1980": 559490,
+      "percento_1980": 11.2,
+      "pocet_1991": 567296,
+      "percento_1991": 10.8,
+      "pocet_2001": 520528,
+      "percento_2001": 9.7,
+      "pocet_2011": 458467,
+      "percento_2011": 8.5,
+      "pocet_2021": 422065,
+      "percento_2021": 7.8
+    },
+    {
+      "narodnost": "Rómovia",
+      "pocet_1950": "",
+      "percento_1950": "",
+      "pocet_1961": "",
+      "percento_1961": "",
+      "pocet_1970": "",
+      "percento_1970": "",
+      "pocet_1980": "",
+      "percento_1980": "",
+      "pocet_1991": 75802,
+      "percento_1991": 1.4,
+      "pocet_2001": 89920,
+      "percento_2001": 1.7,
+      "pocet_2011": 105738,
+      "percento_2011": 2,
+      "pocet_2021": 67179,
+      "percento_2021": 1.2
+    },
+    {
+      "narodnost": "Česi",
+      "pocet_1950": "",
+      "percento_1950": 1.2,
+      "pocet_1961": "",
+      "percento_1961": 1.1,
+      "pocet_1970": "",
+      "percento_1970": 1,
+      "pocet_1980": 57197,
+      "percento_1980": 1.1,
+      "pocet_1991": 59326,
+      "percento_1991": 1.1,
+      "pocet_2001": 44620,
+      "percento_2001": 0.8,
+      "pocet_2011": 30367,
+      "percento_2011": 0.6,
+      "pocet_2021": 28996,
+      "percento_2021": 0.5
+    },
+    {
+      "narodnost": "Rusíni",
+      "pocet_1950": "",
+      "percento_1950": 1.4,
+      "pocet_1961": "",
+      "percento_1961": "",
+      "pocet_1970": "",
+      "percento_1970": 0.9,
+      "pocet_1980": "",
+      "percento_1980": 0.7,
+      "pocet_1991": 17197,
+      "percento_1991": 0.3,
+      "pocet_2001": 24201,
+      "percento_2001": 0.4,
+      "pocet_2011": 33482,
+      "percento_2011": 0.6,
+      "pocet_2021": 23746,
+      "percento_2021": 0.4
+    },
+    {
+      "narodnost": "Ukrajinci",
+      "pocet_1950": "",
+      "percento_1950": 1.4,
+      "pocet_1961": "",
+      "percento_1961": "",
+      "pocet_1970": "",
+      "percento_1970": 0.9,
+      "pocet_1980": "",
+      "percento_1980": 0.7,
+      "pocet_1991": 13281,
+      "percento_1991": 0.3,
+      "pocet_2001": 10814,
+      "percento_2001": 0.2,
+      "pocet_2011": 7430,
+      "percento_2011": 0.1,
+      "pocet_2021": 9451,
+      "percento_2021": 0.2
+    },
+    {
+      "narodnost": "Ostatní",
+      "pocet_1950": "",
+      "percento_1950": 0.5,
+      "pocet_1961": "",
+      "percento_1961": 1.2,
+      "pocet_1970": "",
+      "percento_1970": 0.4,
+      "pocet_1980": "",
+      "percento_1980": 0.4,
+      "pocet_1991": 13728,
+      "percento_1991": 0.3,
+      "pocet_2001": 17584,
+      "percento_2001": 0.3,
+      "pocet_2011": 22998,
+      "percento_2011": 0.4,
+      "pocet_2021": 34728,
+      "percento_2021": 0.6
+    },
+    {
+      "narodnost": "Nezistené/Odmietli",
+      "pocet_1950": "",
+      "percento_1950": 0.5,
+      "pocet_1961": "",
+      "percento_1961": 1.2,
+      "pocet_1970": "",
+      "percento_1970": 0.4,
+      "pocet_1980": "",
+      "percento_1980": 0.4,
+      "pocet_1991": 8782,
+      "percento_1991": 0.2,
+      "pocet_2001": 54502,
+      "percento_2001": 1,
+      "pocet_2011": 382493,
+      "percento_2011": 7,
+      "pocet_2021": 295558,
+      "percento_2021": 5.4
+    },
+    {
+      "narodnost": "Spolu",
+      "pocet_1950": 3442317,
+      "percento_1950": 100,
+      "pocet_1961": 4174046,
+      "percento_1961": 100,
+      "pocet_1970": 4537290,
+      "percento_1970": 100,
+      "pocet_1980": 4991168,
+      "percento_1980": 100,
+      "pocet_1991": 5274335,
+      "percento_1991": 100,
+      "pocet_2001": 5379455,
+      "percento_2001": 100,
+      "pocet_2011": 5397036,
+      "percento_2011": 100,
+      "pocet_2021": 5449270,
+      "percento_2021": 100
+    }
+  ],
+  "meta": {
+    "title": "Národnostné zloženie obyvateľstva Slovenska podľa sčítaní (1950–2021) - Free Download",
+    "description": "Počet a podiel obyvateľov Slovenska podľa národnosti (Slováci, Maďari, Rómovia, Česi, Rusíni, Ukrajinci a ďalší) v sčítaniach 1950–2021. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Národnostné zloženie obyvateľstva Slovenska podľa sčítaní (1950–2021) | ListBase",
+    "seo_description": "Download Národnostné zloženie obyvateľstva Slovenska podľa sčítaní (1950–2021) — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 17 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Demografia_Slovenska"
+    ]
+  }
+}

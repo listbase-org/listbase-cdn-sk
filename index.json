@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-04T02:18:00.648Z",
-  "total_datasets": 459,
-  "total_records": 282696,
+  "generated": "2026-11-04T02:18:11.103Z",
+  "total_datasets": 460,
+  "total_records": 282705,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -12147,6 +12147,44 @@
         "xlsx": {
           "name": "sk-nabozenske-vyznanie-scitanie_SK.xlsx",
           "size": 8366
+        }
+      }
+    },
+    {
+      "id": "sk-narodnostne-zlozenie-scitania",
+      "name": "Národnostné zloženie obyvateľstva Slovenska podľa sčítaní (1950–2021)",
+      "category": "society",
+      "record_count": 9,
+      "columns": [
+        "narodnost",
+        "pocet_1950",
+        "percento_1950",
+        "pocet_1961",
+        "percento_1961",
+        "pocet_1970",
+        "percento_1970",
+        "pocet_1980",
+        "percento_1980",
+        "pocet_1991",
+        "percento_1991",
+        "pocet_2001",
+        "percento_2001",
+        "pocet_2011",
+        "percento_2011",
+        "pocet_2021",
+        "percento_2021"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Demografia_Slovenska",
+      "updated": "2026-11",
+      "size": 7406,
+      "files": {
+        "csv": {
+          "name": "sk-narodnostne-zlozenie-scitania_SK.csv",
+          "size": 1230
+        },
+        "xlsx": {
+          "name": "sk-narodnostne-zlozenie-scitania_SK.xlsx",
+          "size": 7787
         }
       }
     },
