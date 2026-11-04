@@ -1,12 +1,12 @@
 {
   "lang": "sk",
-  "generated": "2026-11-03T02:13:41.654Z",
-  "total_datasets": 457,
-  "total_records": 282653,
+  "generated": "2026-11-04T02:17:51.561Z",
+  "total_datasets": 458,
+  "total_records": 282670,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -102,6 +102,30 @@
     }
   ],
   "datasets": [
+    {
+      "id": "sk-hruba-polnohospodarska-produkcia-2002",
+      "name": "Hrubá poľnohospodárska produkcia Slovenska (2002)",
+      "category": "agriculture",
+      "record_count": 17,
+      "columns": [
+        "polozka",
+        "skupina",
+        "produkcia_mil_sk"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Poľnohospodárstvo",
+      "updated": "2026-11",
+      "size": 3863,
+      "files": {
+        "csv": {
+          "name": "sk-hruba-polnohospodarska-produkcia-2002_SK.csv",
+          "size": 1046
+        },
+        "xlsx": {
+          "name": "sk-hruba-polnohospodarska-produkcia-2002_SK.xlsx",
+          "size": 7192
+        }
+      }
+    },
     {
       "id": "sk-ministri-podohospodarstva",
       "name": "Ministri pôdohospodárstva Slovenskej republiky",

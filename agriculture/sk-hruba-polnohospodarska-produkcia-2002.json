@@ -1,0 +1,126 @@
+{
+  "id": "sk-hruba-polnohospodarska-produkcia-2002",
+  "name": "Hrubá poľnohospodárska produkcia Slovenska (2002)",
+  "title": "Hrubá poľnohospodárska produkcia Slovenska (2002)",
+  "description": "Hrubá rastlinná a živočíšna poľnohospodárska produkcia Slovenska v bežných cenách v roku 2002 podľa komodít (v mil. Sk).",
+  "category": "agriculture",
+  "source": "https://sk.wikipedia.org/wiki/Poľnohospodárstvo",
+  "source_url": "https://sk.wikipedia.org/wiki/Poľnohospodárstvo",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "polozka",
+      "label": "Polozka",
+      "type": "string"
+    },
+    {
+      "key": "skupina",
+      "label": "Skupina",
+      "type": "string"
+    },
+    {
+      "key": "produkcia_mil_sk",
+      "label": "Produkcia Mil Sk",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "polozka": "Hrubá rastlinná produkcia",
+      "skupina": "Hrubá rastlinná produkcia",
+      "produkcia_mil_sk": 28745
+    },
+    {
+      "polozka": "obilniny",
+      "skupina": "Hrubá rastlinná produkcia",
+      "produkcia_mil_sk": 12330
+    },
+    {
+      "polozka": "obchodné plodiny",
+      "skupina": "Hrubá rastlinná produkcia",
+      "produkcia_mil_sk": 5159
+    },
+    {
+      "polozka": "krmivá",
+      "skupina": "Hrubá rastlinná produkcia",
+      "produkcia_mil_sk": 2123
+    },
+    {
+      "polozka": "zelenina",
+      "skupina": "Hrubá rastlinná produkcia",
+      "produkcia_mil_sk": 3747
+    },
+    {
+      "polozka": "zemiaky",
+      "skupina": "Hrubá rastlinná produkcia",
+      "produkcia_mil_sk": 2522
+    },
+    {
+      "polozka": "ovocie",
+      "skupina": "Hrubá rastlinná produkcia",
+      "produkcia_mil_sk": 949
+    },
+    {
+      "polozka": "hrozno",
+      "skupina": "Hrubá rastlinná produkcia",
+      "produkcia_mil_sk": 562
+    },
+    {
+      "polozka": "ostatná rastlinná výroba",
+      "skupina": "Hrubá rastlinná produkcia",
+      "produkcia_mil_sk": 1353
+    },
+    {
+      "polozka": "Hrubá živočíšna produkcia celkom",
+      "skupina": "Hrubá živočíšna produkcia celkom",
+      "produkcia_mil_sk": 34190
+    },
+    {
+      "polozka": "hovädzí dobytok",
+      "skupina": "Hrubá živočíšna produkcia celkom",
+      "produkcia_mil_sk": 4522
+    },
+    {
+      "polozka": "ošípané",
+      "skupina": "Hrubá živočíšna produkcia celkom",
+      "produkcia_mil_sk": 11378
+    },
+    {
+      "polozka": "ovce a kozy",
+      "skupina": "Hrubá živočíšna produkcia celkom",
+      "produkcia_mil_sk": 338
+    },
+    {
+      "polozka": "hydina",
+      "skupina": "Hrubá živočíšna produkcia celkom",
+      "produkcia_mil_sk": 4060
+    },
+    {
+      "polozka": "mlieko surové",
+      "skupina": "Hrubá živočíšna produkcia celkom",
+      "produkcia_mil_sk": 9946
+    },
+    {
+      "polozka": "vajcia",
+      "skupina": "Hrubá živočíšna produkcia celkom",
+      "produkcia_mil_sk": 1944
+    },
+    {
+      "polozka": "ostatná živočíšna výroba",
+      "skupina": "Hrubá živočíšna produkcia celkom",
+      "produkcia_mil_sk": 2002
+    }
+  ],
+  "meta": {
+    "title": "Hrubá poľnohospodárska produkcia Slovenska (2002) - Free Download",
+    "description": "Hrubá rastlinná a živočíšna poľnohospodárska produkcia Slovenska v bežných cenách v roku 2002 podľa komodít (v mil. Sk). Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Hrubá poľnohospodárska produkcia Slovenska (2002) | ListBase",
+    "seo_description": "Download Hrubá poľnohospodárska produkcia Slovenska (2002) — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Poľnohospodárstvo"
+    ]
+  }
+}
