@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-04T02:18:39.792Z",
-  "total_datasets": 463,
-  "total_records": 283095,
+  "generated": "2026-11-05T02:10:35.807Z",
+  "total_datasets": 464,
+  "total_records": 283404,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "politics",
@@ -4649,6 +4649,33 @@
         "xlsx": {
           "name": "sk-vaznice_SK.xlsx",
           "size": 7060
+        }
+      }
+    },
+    {
+      "id": "sk-ceny-soza-laureati",
+      "name": "Laureáti Cien SOZA",
+      "category": "music",
+      "record_count": 309,
+      "columns": [
+        "rok",
+        "kategoria",
+        "laureat",
+        "dielo",
+        "autori",
+        "vydavatel"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_laureátov_a_nominantov_Cien_SOZA",
+      "updated": "2026-11",
+      "size": 72969,
+      "files": {
+        "csv": {
+          "name": "sk-ceny-soza-laureati_SK.csv",
+          "size": 35669
+        },
+        "xlsx": {
+          "name": "sk-ceny-soza-laureati_SK.xlsx",
+          "size": 19290
         }
       }
     },
