@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-05T02:10:35.807Z",
-  "total_datasets": 464,
-  "total_records": 283404,
+  "generated": "2026-11-05T02:10:45.532Z",
+  "total_datasets": 465,
+  "total_records": 283421,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 18
+      "dataset_count": 19
     },
     {
       "id": "units",
@@ -13559,6 +13559,32 @@
         "xlsx": {
           "name": "sk-medzinarodne-letiska_SK.xlsx",
           "size": 7427
+        }
+      }
+    },
+    {
+      "id": "sk-ministri-dopravy",
+      "name": "Ministri dopravy Slovenskej republiky",
+      "category": "transport",
+      "record_count": 17,
+      "columns": [
+        "meno",
+        "nominant",
+        "od",
+        "do",
+        "poznamka"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_dopravy_Slovenskej_republiky",
+      "updated": "2026-11",
+      "size": 4559,
+      "files": {
+        "csv": {
+          "name": "sk-ministri-dopravy_SK.csv",
+          "size": 1346
+        },
+        "xlsx": {
+          "name": "sk-ministri-dopravy_SK.xlsx",
+          "size": 7681
         }
       }
     },
