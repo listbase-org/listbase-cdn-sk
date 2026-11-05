@@ -1,0 +1,205 @@
+{
+  "id": "sk-ministri-financii",
+  "name": "Ministri financií Slovenskej republiky",
+  "title": "Ministri financií Slovenskej republiky",
+  "description": "Zoznam ministrov financií Slovenska od roku 1989 s nominujúcou stranou, dátumom začiatku a konca funkcie a poznámkou.",
+  "category": "economy",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_financií_Slovenskej_republiky",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_financií_Slovenskej_republiky",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "meno",
+      "label": "Meno",
+      "type": "string"
+    },
+    {
+      "key": "nominant",
+      "label": "Nominant",
+      "type": "string"
+    },
+    {
+      "key": "od",
+      "label": "Od",
+      "type": "string"
+    },
+    {
+      "key": "do",
+      "label": "Do",
+      "type": "string"
+    },
+    {
+      "key": "poznamka",
+      "label": "Poznamka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "meno": "Michal Kováč",
+      "nominant": "VPN",
+      "od": "12. decembra 1989",
+      "do": "26. júna 1990",
+      "poznamka": "ministerstvo financií, cien a miezd"
+    },
+    {
+      "meno": "Michal Kováč",
+      "nominant": "VPN",
+      "od": "26. júna 1990",
+      "do": "22. apríla 1991",
+      "poznamka": "ministerstvo financií, cien a miezd"
+    },
+    {
+      "meno": "Michal Kováč",
+      "nominant": "VPN",
+      "od": "22. apríla 1991",
+      "do": "13. júna 1991",
+      "poznamka": ""
+    },
+    {
+      "meno": "Jozef Dančo",
+      "nominant": "VPN",
+      "od": "13. júna 1991",
+      "do": "24. júna 1992",
+      "poznamka": ""
+    },
+    {
+      "meno": "Július Tóth",
+      "nominant": "HZDS",
+      "od": "24. júna 1992",
+      "do": "15. marca 1994",
+      "poznamka": ""
+    },
+    {
+      "meno": "Rudolf Filkus",
+      "nominant": "DEÚS",
+      "od": "15. marca 1994",
+      "do": "13. decembra 1994",
+      "poznamka": ""
+    },
+    {
+      "meno": "Sergej Kozlík",
+      "nominant": "HZDS",
+      "od": "13. decembra 1994",
+      "do": "14. januára 1998",
+      "poznamka": ""
+    },
+    {
+      "meno": "Miroslav Maxon",
+      "nominant": "NAS",
+      "od": "14. januára 1998",
+      "do": "30. októbra 1998",
+      "poznamka": ""
+    },
+    {
+      "meno": "Brigita Schmögnerová",
+      "nominant": "SDĽ",
+      "od": "30. októbra 1998",
+      "do": "29. januára 2002",
+      "poznamka": ""
+    },
+    {
+      "meno": "František Hajnovič",
+      "nominant": "SDĽ",
+      "od": "29. januára 2002",
+      "do": "15. októbra 2002",
+      "poznamka": ""
+    },
+    {
+      "meno": "Ivan Mikloš",
+      "nominant": "SDKÚ",
+      "od": "15. októbra 2002",
+      "do": "4. júla 2006",
+      "poznamka": ""
+    },
+    {
+      "meno": "Ján Počiatek",
+      "nominant": "SMER-SD",
+      "od": "4. júla 2006",
+      "do": "8. júla 2010",
+      "poznamka": ""
+    },
+    {
+      "meno": "Ivan Mikloš",
+      "nominant": "SDKÚ-DS",
+      "od": "8. júla 2010",
+      "do": "4. apríla 2012",
+      "poznamka": ""
+    },
+    {
+      "meno": "Peter Kažimír",
+      "nominant": "SMER-SD",
+      "od": "4. apríla 2012",
+      "do": "23. marca 2016",
+      "poznamka": ""
+    },
+    {
+      "meno": "Peter Kažimír",
+      "nominant": "SMER-SD",
+      "od": "23. marca 2016",
+      "do": "11. apríla 2019",
+      "poznamka": ""
+    },
+    {
+      "meno": "Peter Pellegrini",
+      "nominant": "SMER-SD",
+      "od": "11. apríla 2019",
+      "do": "7. mája 2019",
+      "poznamka": "dočasne poverený riadením"
+    },
+    {
+      "meno": "Ladislav Kamenický",
+      "nominant": "SMER-SD",
+      "od": "7. mája 2019",
+      "do": "21. marca 2020",
+      "poznamka": ""
+    },
+    {
+      "meno": "Eduard Heger",
+      "nominant": "OĽANO",
+      "od": "21. marca 2020",
+      "do": "1. apríla 2021",
+      "poznamka": ""
+    },
+    {
+      "meno": "Igor Matovič",
+      "nominant": "OĽANO",
+      "od": "1. apríla 2021",
+      "do": "23. decembra 2022",
+      "poznamka": ""
+    },
+    {
+      "meno": "Eduard Heger",
+      "nominant": "OĽANO",
+      "od": "23. decembra 2022",
+      "do": "15. mája 2023",
+      "poznamka": "dočasne poverený riadením"
+    },
+    {
+      "meno": "Michal Horváth",
+      "nominant": "nestraník",
+      "od": "15. mája 2023",
+      "do": "25. októbra 2023",
+      "poznamka": ""
+    },
+    {
+      "meno": "Ladislav Kamenický",
+      "nominant": "SMER-SD",
+      "od": "25. októbra 2023",
+      "do": "",
+      "poznamka": ""
+    }
+  ],
+  "meta": {
+    "title": "Ministri financií Slovenskej republiky - Free Download",
+    "description": "Zoznam ministrov financií Slovenska od roku 1989 s nominujúcou stranou, dátumom začiatku a konca funkcie a poznámkou. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministri financií Slovenskej republiky | ListBase",
+    "seo_description": "Download Ministri financií Slovenskej republiky — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_ministrov_financií_Slovenskej_republiky"
+    ]
+  }
+}
