@@ -1,0 +1,203 @@
+{
+  "id": "sk-obehove-euromince-emisny-naklad",
+  "name": "Emisný náklad slovenských obehových euromincí podľa rokov",
+  "title": "Emisný náklad slovenských obehových euromincí podľa rokov",
+  "description": "Počet vyrazených slovenských obehových euromincí jednotlivých nominálnych hodnôt (0,01 € až 2 €) v jednotlivých rokoch od zavedenia eura v roku 2009.",
+  "category": "finance",
+  "source": "https://sk.wikipedia.org/wiki/Slovenské_euromince",
+  "source_url": "https://sk.wikipedia.org/wiki/Slovenské_euromince",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "naklad_0_01eur",
+      "label": "Naklad 0 01eur",
+      "type": "number"
+    },
+    {
+      "key": "naklad_0_02eur",
+      "label": "Naklad 0 02eur",
+      "type": "number"
+    },
+    {
+      "key": "naklad_0_05eur",
+      "label": "Naklad 0 05eur",
+      "type": "number"
+    },
+    {
+      "key": "naklad_0_10eur",
+      "label": "Naklad 0 10eur",
+      "type": "number"
+    },
+    {
+      "key": "naklad_0_20eur",
+      "label": "Naklad 0 20eur",
+      "type": "number"
+    },
+    {
+      "key": "naklad_0_50eur",
+      "label": "Naklad 0 50eur",
+      "type": "number"
+    },
+    {
+      "key": "naklad_1_00eur",
+      "label": "Naklad 1 00eur",
+      "type": "number"
+    },
+    {
+      "key": "naklad_2_00eur",
+      "label": "Naklad 2 00eur",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rok": 2009,
+      "naklad_0_01eur": 85040000,
+      "naklad_0_02eur": 74220000,
+      "naklad_0_05eur": 77950000,
+      "naklad_0_10eur": 67980000,
+      "naklad_0_20eur": 63360000,
+      "naklad_0_50eur": 54020000,
+      "naklad_1_00eur": 42730000,
+      "naklad_2_00eur": 35030000
+    },
+    {
+      "rok": 2010,
+      "naklad_0_01eur": 30000000,
+      "naklad_0_02eur": 50000000,
+      "naklad_0_05eur": "",
+      "naklad_0_10eur": "",
+      "naklad_0_20eur": "",
+      "naklad_0_50eur": "",
+      "naklad_1_00eur": "",
+      "naklad_2_00eur": ""
+    },
+    {
+      "rok": 2011,
+      "naklad_0_01eur": 20400000,
+      "naklad_0_02eur": 15000000,
+      "naklad_0_05eur": "",
+      "naklad_0_10eur": "",
+      "naklad_0_20eur": "",
+      "naklad_0_50eur": "",
+      "naklad_1_00eur": "",
+      "naklad_2_00eur": 5000000
+    },
+    {
+      "rok": 2012,
+      "naklad_0_01eur": 10500000,
+      "naklad_0_02eur": "",
+      "naklad_0_05eur": "",
+      "naklad_0_10eur": "",
+      "naklad_0_20eur": "",
+      "naklad_0_50eur": "",
+      "naklad_1_00eur": "",
+      "naklad_2_00eur": ""
+    },
+    {
+      "rok": 2013,
+      "naklad_0_01eur": 26030000,
+      "naklad_0_02eur": "",
+      "naklad_0_05eur": "",
+      "naklad_0_10eur": "",
+      "naklad_0_20eur": "",
+      "naklad_0_50eur": "",
+      "naklad_1_00eur": "",
+      "naklad_2_00eur": ""
+    },
+    {
+      "rok": 2014,
+      "naklad_0_01eur": 26000000,
+      "naklad_0_02eur": 5000000,
+      "naklad_0_05eur": "",
+      "naklad_0_10eur": "",
+      "naklad_0_20eur": "",
+      "naklad_0_50eur": "",
+      "naklad_1_00eur": "",
+      "naklad_2_00eur": ""
+    },
+    {
+      "rok": 2015,
+      "naklad_0_01eur": 22000000,
+      "naklad_0_02eur": 12000000,
+      "naklad_0_05eur": "",
+      "naklad_0_10eur": "",
+      "naklad_0_20eur": "",
+      "naklad_0_50eur": "",
+      "naklad_1_00eur": "",
+      "naklad_2_00eur": 7000000
+    },
+    {
+      "rok": 2016,
+      "naklad_0_01eur": 28000000,
+      "naklad_0_02eur": 17000000,
+      "naklad_0_05eur": "",
+      "naklad_0_10eur": "",
+      "naklad_0_20eur": "",
+      "naklad_0_50eur": "",
+      "naklad_1_00eur": "",
+      "naklad_2_00eur": 2000000
+    },
+    {
+      "rok": 2017,
+      "naklad_0_01eur": 20000000,
+      "naklad_0_02eur": 13000000,
+      "naklad_0_05eur": 3000000,
+      "naklad_0_10eur": "",
+      "naklad_0_20eur": "",
+      "naklad_0_50eur": "",
+      "naklad_1_00eur": "",
+      "naklad_2_00eur": 2000000
+    },
+    {
+      "rok": 2018,
+      "naklad_0_01eur": 20000000,
+      "naklad_0_02eur": 12000000,
+      "naklad_0_05eur": 8000000,
+      "naklad_0_10eur": "",
+      "naklad_0_20eur": "",
+      "naklad_0_50eur": "",
+      "naklad_1_00eur": "",
+      "naklad_2_00eur": ""
+    },
+    {
+      "rok": 2019,
+      "naklad_0_01eur": 32000000,
+      "naklad_0_02eur": 14000000,
+      "naklad_0_05eur": 4000000,
+      "naklad_0_10eur": 3000000,
+      "naklad_0_20eur": "",
+      "naklad_0_50eur": "",
+      "naklad_1_00eur": "",
+      "naklad_2_00eur": ""
+    },
+    {
+      "rok": 2020,
+      "naklad_0_01eur": 56000000,
+      "naklad_0_02eur": 25000000,
+      "naklad_0_05eur": 16000000,
+      "naklad_0_10eur": 12000000,
+      "naklad_0_20eur": "",
+      "naklad_0_50eur": "",
+      "naklad_1_00eur": "",
+      "naklad_2_00eur": 3000000
+    }
+  ],
+  "meta": {
+    "title": "Emisný náklad slovenských obehových euromincí podľa rokov - Free Download",
+    "description": "Počet vyrazených slovenských obehových euromincí jednotlivých nominálnych hodnôt (0,01 € až 2 €) v jednotlivých rokoch od zavedenia eura v roku 2009. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Emisný náklad slovenských obehových euromincí podľa rokov | ListBase",
+    "seo_description": "Download Emisný náklad slovenských obehových euromincí podľa rokov — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Slovenské_euromince"
+    ]
+  }
+}
