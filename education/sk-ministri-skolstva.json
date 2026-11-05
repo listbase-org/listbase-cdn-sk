@@ -1,0 +1,254 @@
+{
+  "id": "sk-ministri-skolstva",
+  "name": "Ministri školstva Slovenskej republiky",
+  "title": "Ministri školstva Slovenskej republiky",
+  "description": "Zoznam ministrov školstva (vedy, výskumu a športu) Slovenska od roku 1989 s nominujúcou stranou, obdobím vo funkcii a poznámkou.",
+  "category": "education",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_školstva,_vedy,_výskumu_a_športu_Slovenskej_republiky",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_školstva,_vedy,_výskumu_a_športu_Slovenskej_republiky",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "meno",
+      "label": "Meno",
+      "type": "string"
+    },
+    {
+      "key": "nominant",
+      "label": "Nominant",
+      "type": "string"
+    },
+    {
+      "key": "od",
+      "label": "Od",
+      "type": "string"
+    },
+    {
+      "key": "do",
+      "label": "Do",
+      "type": "string"
+    },
+    {
+      "key": "poznamka",
+      "label": "Poznamka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "meno": "Ladislav Kováč",
+      "nominant": "VPN",
+      "od": "12. december 1989",
+      "do": "26. jún 1990",
+      "poznamka": "funkčné obdobie vlády od 12. decembra 1989 do 26. júna 1990"
+    },
+    {
+      "meno": "Ladislav Kováč",
+      "nominant": "VPN",
+      "od": "27. jún 1990",
+      "do": "6. september 1990",
+      "poznamka": "funkčné obdobie prvej vlády V. Mečiara od 27. júna 1990 do 22. apríla 1991"
+    },
+    {
+      "meno": "Ján Pišút",
+      "nominant": "",
+      "od": "6. september 1990",
+      "do": "22. apríl 1991",
+      "poznamka": "v septembri 1990 nahradil Kováča, ktorý sa stal veľvyslancom, jeho prvý námestník Pišút"
+    },
+    {
+      "meno": "Ján Pišút",
+      "nominant": "",
+      "od": "23. apríl 1991",
+      "do": "24. jún 1992",
+      "poznamka": "funkčné obdobie vlády J. Čarnogurského od 23. apríla 1991 do 24. júna 1992"
+    },
+    {
+      "meno": "Dušan Slobodník",
+      "nominant": "HZDS",
+      "od": "24. jún 1992",
+      "do": "26. september 1992",
+      "poznamka": "ad interim (dočasný minister)"
+    },
+    {
+      "meno": "Matúš Kučera",
+      "nominant": "HZDS",
+      "od": "26. september 1992",
+      "do": "22. jún 1993",
+      "poznamka": "\"po nezhodách s Mečiarom som z postu dobrovoľne abdikoval\""
+    },
+    {
+      "meno": "Roman Kováč",
+      "nominant": "HZDS",
+      "od": "22. jún 1993",
+      "do": "10. november 1993",
+      "poznamka": "ad interim"
+    },
+    {
+      "meno": "Jaroslav Paška",
+      "nominant": "SNS",
+      "od": "10. november 1993",
+      "do": "15. marec 1994",
+      "poznamka": "funkčné obdobie skrátenej vlády V. Mečiara od 24. júna 1992 do 15. marca 1994"
+    },
+    {
+      "meno": "Ľubomír Harach",
+      "nominant": "DEÚS",
+      "od": "15. marec 1994",
+      "do": "13. december 1994",
+      "poznamka": "funkčné obdobie dočasnej vlády J. Moravčíka od 15. marca 1994 do 13. decembra 1994"
+    },
+    {
+      "meno": "Eva Slavkovská",
+      "nominant": "SNS",
+      "od": "13. december 1994",
+      "do": "30. október 1998",
+      "poznamka": "celé 4-ročné funkčné obdobie"
+    },
+    {
+      "meno": "Milan Ftáčnik",
+      "nominant": "SDĽ",
+      "od": "30. október 1998",
+      "do": "18. apríl 2002",
+      "poznamka": "predčasne odstúpil po vnútrostraníckych sporoch v SDĽ"
+    },
+    {
+      "meno": "Peter Ponický",
+      "nominant": "SDĽ",
+      "od": "18. apríl 2002",
+      "do": "15. október 2002",
+      "poznamka": "nahradil Ftáčnika (v úrade bol 6 mesiacov)"
+    },
+    {
+      "meno": "Martin Fronc",
+      "nominant": "KDH",
+      "od": "16. október 2002",
+      "do": "8. február 2006",
+      "poznamka": "demisia"
+    },
+    {
+      "meno": "László Szigeti",
+      "nominant": "SMK",
+      "od": "8. február 2006",
+      "do": "4. júl 2006",
+      "poznamka": "nahradil Fronca (v úrade bol 5 mesiacov)"
+    },
+    {
+      "meno": "Ján Mikolaj",
+      "nominant": "SNS",
+      "od": "4. júl 2006",
+      "do": "8. júl 2010",
+      "poznamka": "celé 4-ročné funkčné obdobie"
+    },
+    {
+      "meno": "Eugen Jurzyca",
+      "nominant": "SDKÚ-DS",
+      "od": "8. júl 2010",
+      "do": "4. apríl 2012",
+      "poznamka": "skončil po 22 mesiacoch po predčasných voľbách v marci 2012"
+    },
+    {
+      "meno": "Dušan Čaplovič",
+      "nominant": "SMER-SD",
+      "od": "4. apríl 2012",
+      "do": "3. júl 2014",
+      "poznamka": "po dvoch rokoch podal demisiu"
+    },
+    {
+      "meno": "Peter Pellegrini",
+      "nominant": "SMER-SD",
+      "od": "3. júl 2014",
+      "do": "25. november 2014",
+      "poznamka": "nahradil Čaploviča"
+    },
+    {
+      "meno": "Juraj Draxler",
+      "nominant": "SMER-SD",
+      "od": "25. november 2014",
+      "do": "23. marec 2016",
+      "poznamka": "nahradil Pellegriniho, ktorý nahradil P. Pašku vo funkcii predsedu NR SR, po jeho odstúpení v súvislosti s kauzou nákupu CT prístroja"
+    },
+    {
+      "meno": "Peter Plavčan",
+      "nominant": "SNS",
+      "od": "23. marec 2016",
+      "do": "31. august 2017",
+      "poznamka": "16. augusta 2017 premiér Fico oznámil jeho odvolanie v rámci \"zužovania priestoru pre netransparentné a korupčné správanie\". Plavčan rezignoval sám 17. augusta 2017, vo funkcii bol do 31. augusta spolu 513 dní."
+    },
+    {
+      "meno": "Gabriela Matečná",
+      "nominant": "SNS",
+      "od": "1. september 2017",
+      "do": "12. september 2017",
+      "poznamka": "ad interim"
+    },
+    {
+      "meno": "Martina Lubyová",
+      "nominant": "SNS",
+      "od": "13. september 2017",
+      "do": "20. marec 2020",
+      "poznamka": "Nahradila odvolaného Plavčana. Vo funkcii pôsobila 919 dní. Nominoval ju predseda SNS A. Danko."
+    },
+    {
+      "meno": "Branislav Gröhling",
+      "nominant": "SaS",
+      "od": "21. marec 2020",
+      "do": "24. marec 2021",
+      "poznamka": "Podal demisiu pre koaličnú krízu."
+    },
+    {
+      "meno": "Eduard Heger",
+      "nominant": "OĽaNO",
+      "od": "25. marec 2021",
+      "do": "1. apríl 2021",
+      "poznamka": "ad interim. 25.3. demisia vlády Igora Matoviča"
+    },
+    {
+      "meno": "Branislav Gröhling",
+      "nominant": "SaS",
+      "od": "1.apríl 2021",
+      "do": "13. september 2022",
+      "poznamka": "1. apríla 2021 je opätovne ministrom školstve vo vláde Eduarda Hegera."
+    },
+    {
+      "meno": "Eduard Heger",
+      "nominant": "OĽaNO",
+      "od": "13. september 2022",
+      "do": "4. október 2022",
+      "poznamka": "ad interim. Branislav Gröhling aj so svojimi stranickými kolegami kvôli opätovným nezhodám vo vláde podal demisiu."
+    },
+    {
+      "meno": "Ján Horecký",
+      "nominant": "nestraník",
+      "od": "4. október 2022",
+      "do": "15. máj 2023",
+      "poznamka": "na návrh vtedajšieho predsedu vlády SR Eduarda Hegera"
+    },
+    {
+      "meno": "Daniel Bútora",
+      "nominant": "nestraník",
+      "od": "15. máj 2023",
+      "do": "25. október 2023",
+      "poznamka": "v úradníckej vláde Ľudovíta Ódora"
+    },
+    {
+      "meno": "Tomáš Drucker",
+      "nominant": "HLAS-SD",
+      "od": "25. október 2023",
+      "do": "",
+      "poznamka": "predtým aj 16. minister zdravotníctva a 12. minister vnútra SR"
+    }
+  ],
+  "meta": {
+    "title": "Ministri školstva Slovenskej republiky - Free Download",
+    "description": "Zoznam ministrov školstva (vedy, výskumu a športu) Slovenska od roku 1989 s nominujúcou stranou, obdobím vo funkcii a poznámkou. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministri školstva Slovenskej republiky | ListBase",
+    "seo_description": "Download Ministri školstva Slovenskej republiky — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_ministrov_školstva,_vedy,_výskumu_a_športu_Slovenskej_republiky"
+    ]
+  }
+}
