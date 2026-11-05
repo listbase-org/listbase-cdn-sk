@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-05T02:11:12.343Z",
-  "total_datasets": 468,
-  "total_records": 283484,
+  "generated": "2026-11-05T02:11:21.467Z",
+  "total_datasets": 469,
+  "total_records": 283589,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "food",
@@ -2270,6 +2270,32 @@
         "xlsx": {
           "name": "sk-obehove-euromince-emisny-naklad_SK.xlsx",
           "size": 7224
+        }
+      }
+    },
+    {
+      "id": "sk-pamatne-a-zberatelske-euromince",
+      "name": "Slovenské pamätné a zberateľské euromince",
+      "category": "finance",
+      "record_count": 105,
+      "columns": [
+        "nominalna_hodnota_eur",
+        "tema",
+        "rok_vydania",
+        "naklad_proof",
+        "naklad_bezna_kvalita"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Slovenské_euromince",
+      "updated": "2026-11",
+      "size": 25088,
+      "files": {
+        "csv": {
+          "name": "sk-pamatne-a-zberatelske-euromince_SK.csv",
+          "size": 9714
+        },
+        "xlsx": {
+          "name": "sk-pamatne-a-zberatelske-euromince_SK.xlsx",
+          "size": 11654
         }
       }
     },
