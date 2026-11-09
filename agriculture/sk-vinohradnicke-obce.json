@@ -1,0 +1,3591 @@
+{
+  "id": "sk-vinohradnicke-obce",
+  "name": "Vinohradnícke obce Slovenska podľa oblastí a rajónov",
+  "title": "Vinohradnícke obce Slovenska podľa oblastí a rajónov",
+  "description": "Zoznam vinohradníckych obcí na Slovensku s príslušným vinohradníckym rajónom a vinohradníckou oblasťou (Malokarpatská, Južnoslovenská, Nitrianska, Stredoslovenská, Východoslovenská, Tokaj).",
+  "category": "agriculture",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_vinohradníckych_oblastí_Slovenska",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_vinohradníckych_oblastí_Slovenska",
+  "updated": "2026-11",
+  "record_count": 710,
+  "columns": [
+    {
+      "key": "obec",
+      "label": "Obec",
+      "type": "string"
+    },
+    {
+      "key": "vinohradnicky_rajon",
+      "label": "Vinohradnicky Rajon",
+      "type": "string"
+    },
+    {
+      "key": "vinohradnicka_oblast",
+      "label": "Vinohradnicka Oblast",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "obec": "Dubovce",
+      "vinohradnicky_rajon": "Skalický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Gbely",
+      "vinohradnicky_rajon": "Skalický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Holíč",
+      "vinohradnicky_rajon": "Skalický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Chropov",
+      "vinohradnicky_rajon": "Skalický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kopčany",
+      "vinohradnicky_rajon": "Skalický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Koválov",
+      "vinohradnicky_rajon": "Skalický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Koválovec",
+      "vinohradnicky_rajon": "Skalický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Letničie",
+      "vinohradnicky_rajon": "Skalický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Lopašov",
+      "vinohradnicky_rajon": "Skalický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Mokrý Háj",
+      "vinohradnicky_rajon": "Skalický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Oreské",
+      "vinohradnicky_rajon": "Skalický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Petrova Ves",
+      "vinohradnicky_rajon": "Skalický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Popudinské Močidľany",
+      "vinohradnicky_rajon": "Skalický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Prietržka",
+      "vinohradnicky_rajon": "Skalický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Radimov",
+      "vinohradnicky_rajon": "Skalický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Radošovce",
+      "vinohradnicky_rajon": "Skalický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Rohov",
+      "vinohradnicky_rajon": "Skalický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Rybky",
+      "vinohradnicky_rajon": "Skalický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Smolinské",
+      "vinohradnicky_rajon": "Skalický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Smrdáky",
+      "vinohradnicky_rajon": "Skalický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Štefanov",
+      "vinohradnicky_rajon": "Skalický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Trnovec",
+      "vinohradnicky_rajon": "Skalický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Unín",
+      "vinohradnicky_rajon": "Skalický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Vrádište",
+      "vinohradnicky_rajon": "Skalický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bílkove Humence",
+      "vinohradnicky_rajon": "Záhorský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Borský Mikuláš",
+      "vinohradnicky_rajon": "Záhorský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Borský Svätý Jur",
+      "vinohradnicky_rajon": "Záhorský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kuklov",
+      "vinohradnicky_rajon": "Záhorský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Lakšárska Nová Ves",
+      "vinohradnicky_rajon": "Záhorský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Malé Leváre",
+      "vinohradnicky_rajon": "Záhorský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Moravský Svätý Ján",
+      "vinohradnicky_rajon": "Záhorský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Sekule",
+      "vinohradnicky_rajon": "Záhorský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Šaštín-Stráže",
+      "vinohradnicky_rajon": "Záhorský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Závod",
+      "vinohradnicky_rajon": "Záhorský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bratislava - Devínska Nová Ves",
+      "vinohradnicky_rajon": "Stupavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bratislava - Lamač",
+      "vinohradnicky_rajon": "Stupavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bratislava - Záhorská Bystrica",
+      "vinohradnicky_rajon": "Stupavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Lozorno",
+      "vinohradnicky_rajon": "Stupavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Stupava",
+      "vinohradnicky_rajon": "Stupavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bratislava - Devín",
+      "vinohradnicky_rajon": "Bratislavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bratislava - Dúbravka",
+      "vinohradnicky_rajon": "Bratislavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bratislava - Karlova Ves",
+      "vinohradnicky_rajon": "Bratislavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bratislava - Nové Mesto",
+      "vinohradnicky_rajon": "Bratislavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bratislava - Rača",
+      "vinohradnicky_rajon": "Bratislavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bratislava - Staré Mesto",
+      "vinohradnicky_rajon": "Bratislavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bratislava - Vajnory",
+      "vinohradnicky_rajon": "Bratislavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Chorvátsky Grob",
+      "vinohradnicky_rajon": "Pezinský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Limbach",
+      "vinohradnicky_rajon": "Pezinský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Pezinok",
+      "vinohradnicky_rajon": "Pezinský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Slovenský Grob",
+      "vinohradnicky_rajon": "Pezinský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Svätý Jur",
+      "vinohradnicky_rajon": "Pezinský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Viničné",
+      "vinohradnicky_rajon": "Pezinský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dubová",
+      "vinohradnicky_rajon": "Modranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Modra",
+      "vinohradnicky_rajon": "Modranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Šenkvice",
+      "vinohradnicky_rajon": "Modranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Vinosady",
+      "vinohradnicky_rajon": "Modranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Vištuk",
+      "vinohradnicky_rajon": "Modranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Budmerice",
+      "vinohradnicky_rajon": "Doľanský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Častá",
+      "vinohradnicky_rajon": "Doľanský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Doľany",
+      "vinohradnicky_rajon": "Doľanský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Píla",
+      "vinohradnicky_rajon": "Doľanský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Štefanová",
+      "vinohradnicky_rajon": "Doľanský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Borová",
+      "vinohradnicky_rajon": "Orešanský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dlhá",
+      "vinohradnicky_rajon": "Orešanský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Košolná",
+      "vinohradnicky_rajon": "Orešanský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dolné Orešany",
+      "vinohradnicky_rajon": "Orešanský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Horné Orešany",
+      "vinohradnicky_rajon": "Orešanský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Ružindol",
+      "vinohradnicky_rajon": "Orešanský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Suchá nad Parnou",
+      "vinohradnicky_rajon": "Orešanský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Zvončín",
+      "vinohradnicky_rajon": "Orešanský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Báhoň",
+      "vinohradnicky_rajon": "Senecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bernolákovo",
+      "vinohradnicky_rajon": "Senecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľký Biel",
+      "vinohradnicky_rajon": "Senecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Blatné",
+      "vinohradnicky_rajon": "Senecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Čataj",
+      "vinohradnicky_rajon": "Senecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľký Grob",
+      "vinohradnicky_rajon": "Senecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hurbanova Ves",
+      "vinohradnicky_rajon": "Senecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Igram",
+      "vinohradnicky_rajon": "Senecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Ivanka pri Dunaji",
+      "vinohradnicky_rajon": "Senecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Jablonec",
+      "vinohradnicky_rajon": "Senecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kaplna",
+      "vinohradnicky_rajon": "Senecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kráľová pri Senci",
+      "vinohradnicky_rajon": "Senecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Malinovo",
+      "vinohradnicky_rajon": "Senecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Most pri Bratislave",
+      "vinohradnicky_rajon": "Senecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nová Dedinka",
+      "vinohradnicky_rajon": "Senecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Reca",
+      "vinohradnicky_rajon": "Senecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Senec",
+      "vinohradnicky_rajon": "Senecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Tomášov",
+      "vinohradnicky_rajon": "Senecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Boleráz",
+      "vinohradnicky_rajon": "Trnavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Brestovany",
+      "vinohradnicky_rajon": "Trnavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bučany",
+      "vinohradnicky_rajon": "Trnavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hrnčiarovce nad Parnou",
+      "vinohradnicky_rajon": "Trnavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Jaslovské Bohunice",
+      "vinohradnicky_rajon": "Trnavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dolná Krupá",
+      "vinohradnicky_rajon": "Trnavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Majcichov",
+      "vinohradnicky_rajon": "Trnavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Malženice",
+      "vinohradnicky_rajon": "Trnavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Siladice",
+      "vinohradnicky_rajon": "Trnavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Šelpice",
+      "vinohradnicky_rajon": "Trnavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Špačince",
+      "vinohradnicky_rajon": "Trnavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Šúrovce",
+      "vinohradnicky_rajon": "Trnavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Trnava",
+      "vinohradnicky_rajon": "Trnavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Vlčkovce",
+      "vinohradnicky_rajon": "Trnavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Voderady",
+      "vinohradnicky_rajon": "Trnavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Zavar",
+      "vinohradnicky_rajon": "Trnavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Zeleneč",
+      "vinohradnicky_rajon": "Trnavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bojničky",
+      "vinohradnicky_rajon": "Hlohovecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dvorníky",
+      "vinohradnicky_rajon": "Hlohovecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hlohovec",
+      "vinohradnicky_rajon": "Hlohovecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Horné Otrokovce",
+      "vinohradnicky_rajon": "Hlohovecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Jalšové",
+      "vinohradnicky_rajon": "Hlohovecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kľačany",
+      "vinohradnicky_rajon": "Hlohovecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Koplotovce",
+      "vinohradnicky_rajon": "Hlohovecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Pastuchov",
+      "vinohradnicky_rajon": "Hlohovecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Ratkovce",
+      "vinohradnicky_rajon": "Hlohovecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Sasinkovo",
+      "vinohradnicky_rajon": "Hlohovecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Sokolovce",
+      "vinohradnicky_rajon": "Hlohovecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Šalgočka",
+      "vinohradnicky_rajon": "Hlohovecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Tepličky",
+      "vinohradnicky_rajon": "Hlohovecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dolné Trhovište",
+      "vinohradnicky_rajon": "Hlohovecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Horné Trhovište",
+      "vinohradnicky_rajon": "Hlohovecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Zemianske Sady",
+      "vinohradnicky_rajon": "Hlohovecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Banka",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bíňovce",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Brestovec",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bzince pod Javorinou",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Čachtice",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Častkovce",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dechtice",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dolné Dubové",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Horné Dubové",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dolný Lopašov",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Chtelnica",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kálnica",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kátlovce",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kočín-Lančár",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Krakovany",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Moravany nad Váhom",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Moravské Lieskové",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nemšová",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nové Mesto nad Váhom",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Očkov",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Ostrov",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Pečeňady",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Piešťany",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Podolie",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Ratnovce",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Smolenice",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Šípkové",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Trstín",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľké Kostoľany",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Vrbové",
+      "vinohradnicky_rajon": "Vrbovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Malokarpatská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Blahová",
+      "vinohradnicky_rajon": "Šamorínsky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bratislava - Čunovo",
+      "vinohradnicky_rajon": "Šamorínsky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bratislava - Jarovce",
+      "vinohradnicky_rajon": "Šamorínsky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bratislava - Podunajské Biskupice",
+      "vinohradnicky_rajon": "Šamorínsky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bratislava - Rusovce",
+      "vinohradnicky_rajon": "Šamorínsky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bratislava - Vrakuňa",
+      "vinohradnicky_rajon": "Šamorínsky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Čakany",
+      "vinohradnicky_rajon": "Šamorínsky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Čenkovce",
+      "vinohradnicky_rajon": "Šamorínsky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dunajská Lužná",
+      "vinohradnicky_rajon": "Šamorínsky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hamuliakovo",
+      "vinohradnicky_rajon": "Šamorínsky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hubice",
+      "vinohradnicky_rajon": "Šamorínsky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kvetoslavov",
+      "vinohradnicky_rajon": "Šamorínsky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Lehnice",
+      "vinohradnicky_rajon": "Šamorínsky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Mierovo",
+      "vinohradnicky_rajon": "Šamorínsky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Michal na Ostrove",
+      "vinohradnicky_rajon": "Šamorínsky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Miloslavov",
+      "vinohradnicky_rajon": "Šamorínsky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Oľdza",
+      "vinohradnicky_rajon": "Šamorínsky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Rovinka",
+      "vinohradnicky_rajon": "Šamorínsky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Šamorín",
+      "vinohradnicky_rajon": "Šamorínsky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Štvrtok na Ostrove",
+      "vinohradnicky_rajon": "Šamorínsky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľká Paka",
+      "vinohradnicky_rajon": "Šamorínsky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Zlaté Klasy",
+      "vinohradnicky_rajon": "Šamorínsky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Baloň",
+      "vinohradnicky_rajon": "Dunajskostredský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Číčov",
+      "vinohradnicky_rajon": "Dunajskostredský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dolný Štál",
+      "vinohradnicky_rajon": "Dunajskostredský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dunajská Streda",
+      "vinohradnicky_rajon": "Dunajskostredský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dunajský Klátov",
+      "vinohradnicky_rajon": "Dunajskostredský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Gabčíkovo",
+      "vinohradnicky_rajon": "Dunajskostredský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Holice",
+      "vinohradnicky_rajon": "Dunajskostredský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Horná Potôň",
+      "vinohradnicky_rajon": "Dunajskostredský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Jahodná",
+      "vinohradnicky_rajon": "Dunajskostredský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Jurová",
+      "vinohradnicky_rajon": "Dunajskostredský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kostolné Kračany",
+      "vinohradnicky_rajon": "Dunajskostredský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kráľovičove Kračany",
+      "vinohradnicky_rajon": "Dunajskostredský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kútniky",
+      "vinohradnicky_rajon": "Dunajskostredský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Okoč",
+      "vinohradnicky_rajon": "Dunajskostredský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Orechová Potôň",
+      "vinohradnicky_rajon": "Dunajskostredský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Sokolce",
+      "vinohradnicky_rajon": "Dunajskostredský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľké Dvorníky",
+      "vinohradnicky_rajon": "Dunajskostredský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľký Meder",
+      "vinohradnicky_rajon": "Dunajskostredský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Vieska",
+      "vinohradnicky_rajon": "Dunajskostredský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Vydrany",
+      "vinohradnicky_rajon": "Dunajskostredský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Abrahám",
+      "vinohradnicky_rajon": "Galantský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Čierna Voda",
+      "vinohradnicky_rajon": "Galantský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Diakovce",
+      "vinohradnicky_rajon": "Galantský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dlhá nad Váhom",
+      "vinohradnicky_rajon": "Galantský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Galanta",
+      "vinohradnicky_rajon": "Galantský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Gáň",
+      "vinohradnicky_rajon": "Galantský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Jelka",
+      "vinohradnicky_rajon": "Galantský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Košúty",
+      "vinohradnicky_rajon": "Galantský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kráľov Brod",
+      "vinohradnicky_rajon": "Galantský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kráľová nad Váhom",
+      "vinohradnicky_rajon": "Galantský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Mostová",
+      "vinohradnicky_rajon": "Galantský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Pusté Úľany",
+      "vinohradnicky_rajon": "Galantský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Horné Saliby",
+      "vinohradnicky_rajon": "Galantský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Selice",
+      "vinohradnicky_rajon": "Galantský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Sládkovičovo",
+      "vinohradnicky_rajon": "Galantský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Šaľa",
+      "vinohradnicky_rajon": "Galantský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Tešedíkovo",
+      "vinohradnicky_rajon": "Galantský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Topoľnica",
+      "vinohradnicky_rajon": "Galantský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Trnovec nad Váhom",
+      "vinohradnicky_rajon": "Galantský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Trstice",
+      "vinohradnicky_rajon": "Galantský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľké Úľany",
+      "vinohradnicky_rajon": "Galantský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Vlčany",
+      "vinohradnicky_rajon": "Galantský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Vozokany",
+      "vinohradnicky_rajon": "Galantský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Žihárec",
+      "vinohradnicky_rajon": "Galantský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Andovce",
+      "vinohradnicky_rajon": "Palárikovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Jatov",
+      "vinohradnicky_rajon": "Palárikovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Neded",
+      "vinohradnicky_rajon": "Palárikovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nové Zámky",
+      "vinohradnicky_rajon": "Palárikovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Palárikovo",
+      "vinohradnicky_rajon": "Palárikovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Rastislavice",
+      "vinohradnicky_rajon": "Palárikovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Tvrdošovce",
+      "vinohradnicky_rajon": "Palárikovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Zemné",
+      "vinohradnicky_rajon": "Palárikovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Imeľ",
+      "vinohradnicky_rajon": "Komárňanský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Iža",
+      "vinohradnicky_rajon": "Komárňanský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kameničná",
+      "vinohradnicky_rajon": "Komárňanský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Komárno",
+      "vinohradnicky_rajon": "Komárňanský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Martovce",
+      "vinohradnicky_rajon": "Komárňanský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nesvady",
+      "vinohradnicky_rajon": "Komárňanský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Okoličná na Ostrove",
+      "vinohradnicky_rajon": "Komárňanský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Patince",
+      "vinohradnicky_rajon": "Komárňanský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Tôň",
+      "vinohradnicky_rajon": "Komárňanský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Zemianska Olča",
+      "vinohradnicky_rajon": "Komárňanský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Zlatná na Ostrove",
+      "vinohradnicky_rajon": "Komárňanský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bajč",
+      "vinohradnicky_rajon": "Hurbanovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bátorove Kosihy",
+      "vinohradnicky_rajon": "Hurbanovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Búč",
+      "vinohradnicky_rajon": "Hurbanovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dulovce",
+      "vinohradnicky_rajon": "Hurbanovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hurbanovo",
+      "vinohradnicky_rajon": "Hurbanovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Chotín",
+      "vinohradnicky_rajon": "Hurbanovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kravany nad Dunajom",
+      "vinohradnicky_rajon": "Hurbanovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Marcelová",
+      "vinohradnicky_rajon": "Hurbanovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Moča",
+      "vinohradnicky_rajon": "Hurbanovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Modrany",
+      "vinohradnicky_rajon": "Hurbanovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Mudroňovo",
+      "vinohradnicky_rajon": "Hurbanovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Pribeta",
+      "vinohradnicky_rajon": "Hurbanovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Radvaň nad Dunajom",
+      "vinohradnicky_rajon": "Hurbanovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Svätý Peter",
+      "vinohradnicky_rajon": "Hurbanovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Šrobárová",
+      "vinohradnicky_rajon": "Hurbanovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Virt",
+      "vinohradnicky_rajon": "Hurbanovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Belá",
+      "vinohradnicky_rajon": "Strekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Branovo",
+      "vinohradnicky_rajon": "Strekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Čechy",
+      "vinohradnicky_rajon": "Strekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dubník",
+      "vinohradnicky_rajon": "Strekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dvory nad Žitavou",
+      "vinohradnicky_rajon": "Strekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Gbelce",
+      "vinohradnicky_rajon": "Strekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Jasová",
+      "vinohradnicky_rajon": "Strekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kolta",
+      "vinohradnicky_rajon": "Strekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Ľubá",
+      "vinohradnicky_rajon": "Strekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nová Vieska",
+      "vinohradnicky_rajon": "Strekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Rúbaň",
+      "vinohradnicky_rajon": "Strekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Semerovo",
+      "vinohradnicky_rajon": "Strekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Strekov",
+      "vinohradnicky_rajon": "Strekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Svodín",
+      "vinohradnicky_rajon": "Strekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Šarkan",
+      "vinohradnicky_rajon": "Strekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bajtava",
+      "vinohradnicky_rajon": "Štúrovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bíňa",
+      "vinohradnicky_rajon": "Štúrovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Chľaba",
+      "vinohradnicky_rajon": "Štúrovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kamenica nad Hronom",
+      "vinohradnicky_rajon": "Štúrovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kamenín",
+      "vinohradnicky_rajon": "Štúrovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kamenný Most",
+      "vinohradnicky_rajon": "Štúrovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Leľa",
+      "vinohradnicky_rajon": "Štúrovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Malá nad Hronom",
+      "vinohradnicky_rajon": "Štúrovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Malé Kosihy",
+      "vinohradnicky_rajon": "Štúrovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Mužla",
+      "vinohradnicky_rajon": "Štúrovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nána",
+      "vinohradnicky_rajon": "Štúrovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Obid",
+      "vinohradnicky_rajon": "Štúrovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Pavlová",
+      "vinohradnicky_rajon": "Štúrovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Salka",
+      "vinohradnicky_rajon": "Štúrovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Sikenička",
+      "vinohradnicky_rajon": "Štúrovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Štúrovo",
+      "vinohradnicky_rajon": "Štúrovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Južnoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Balog nad Ipľom",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bielovce",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dolinka",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Drienovo",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Horné Turovce",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hrkovce",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Ipeľské Predmostie",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Ipeľské Úľany",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Ipeľský Sokolec",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kalinovo",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kosihy nad Ipľom",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kubáňovo",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Lontov",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Malá Čalomija",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Panické Dravce",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Plášťovce",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Slatina",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Šahy",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Tupá",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľká Čalomija",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľká nad Ipľom",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľká Ves",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľká Ves nad Ipľom",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľké Turovce",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Vyškovce nad Ipľom",
+      "vinohradnicky_rajon": "Ipeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dudince",
+      "vinohradnicky_rajon": "Hontiansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hontianske Moravce",
+      "vinohradnicky_rajon": "Hontiansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hontianske Nemce",
+      "vinohradnicky_rajon": "Hontiansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Krupina",
+      "vinohradnicky_rajon": "Hontiansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Ladzany",
+      "vinohradnicky_rajon": "Hontiansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Medovarce",
+      "vinohradnicky_rajon": "Hontiansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Rykynčice",
+      "vinohradnicky_rajon": "Hontiansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Sazdice",
+      "vinohradnicky_rajon": "Hontiansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Sebechleby",
+      "vinohradnicky_rajon": "Hontiansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dolné Semerovce",
+      "vinohradnicky_rajon": "Hontiansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Horné Semerovce",
+      "vinohradnicky_rajon": "Hontiansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Sudince",
+      "vinohradnicky_rajon": "Hontiansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Súdovce",
+      "vinohradnicky_rajon": "Hontiansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Terany",
+      "vinohradnicky_rajon": "Hontiansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hontianske Tesáre",
+      "vinohradnicky_rajon": "Hontiansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Ďurkovce",
+      "vinohradnicky_rajon": "Vinický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kamenné Kosihy",
+      "vinohradnicky_rajon": "Vinický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kleňany",
+      "vinohradnicky_rajon": "Vinický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kosihovce",
+      "vinohradnicky_rajon": "Vinický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Sečianky",
+      "vinohradnicky_rajon": "Vinický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Seľany",
+      "vinohradnicky_rajon": "Vinický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Širákov",
+      "vinohradnicky_rajon": "Vinický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Trebušovce",
+      "vinohradnicky_rajon": "Vinický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Vinica",
+      "vinohradnicky_rajon": "Vinický vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bátorová",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bušince",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Čebovce",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Čeláre",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Glabušovce",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Chrťany",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kiarov",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Koláre",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kováčovce",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Malé Zlievce",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Malý Krtíš",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Modrý Kameň",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nenince",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nová Ves",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Obeckov",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Olováry",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Opatovská Nová Ves",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dolné Plachtince",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Pôtor",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Príbelce",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Sklabiná",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Slovenské Ďarmoty",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Stredné Plachtince",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dolná Strehová",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Horná Strehová",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľké Zlievce",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľký Krtíš",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Vrbovka",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Záhorce",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Závada",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Zombor",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Želovce",
+      "vinohradnicky_rajon": "Modrokamenský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Blhovce",
+      "vinohradnicky_rajon": "Fiľakovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bulhary",
+      "vinohradnicky_rajon": "Fiľakovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Buzitka",
+      "vinohradnicky_rajon": "Fiľakovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Čamovce",
+      "vinohradnicky_rajon": "Fiľakovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Fiľakovo",
+      "vinohradnicky_rajon": "Fiľakovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Fiľakovské Kováče",
+      "vinohradnicky_rajon": "Fiľakovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hajnáčka",
+      "vinohradnicky_rajon": "Fiľakovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hodejov",
+      "vinohradnicky_rajon": "Fiľakovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Holiša",
+      "vinohradnicky_rajon": "Fiľakovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hrnčiarske Zalužany",
+      "vinohradnicky_rajon": "Fiľakovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nová Bašta",
+      "vinohradnicky_rajon": "Fiľakovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Ožďany",
+      "vinohradnicky_rajon": "Fiľakovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Pinciná",
+      "vinohradnicky_rajon": "Fiľakovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Prša",
+      "vinohradnicky_rajon": "Fiľakovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Radzovce",
+      "vinohradnicky_rajon": "Fiľakovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Ratka",
+      "vinohradnicky_rajon": "Fiľakovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Šávoľ",
+      "vinohradnicky_rajon": "Fiľakovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Šurice",
+      "vinohradnicky_rajon": "Fiľakovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dolné Zahorany",
+      "vinohradnicky_rajon": "Fiľakovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bátka",
+      "vinohradnicky_rajon": "Gemerský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Gemerské Dechtáre",
+      "vinohradnicky_rajon": "Gemerský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Gemerský Jablonec",
+      "vinohradnicky_rajon": "Gemerský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Chrámec",
+      "vinohradnicky_rajon": "Gemerský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Jesenské",
+      "vinohradnicky_rajon": "Gemerský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Jestice",
+      "vinohradnicky_rajon": "Gemerský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kaloša",
+      "vinohradnicky_rajon": "Gemerský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Petrovce",
+      "vinohradnicky_rajon": "Gemerský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Šimonovce",
+      "vinohradnicky_rajon": "Gemerský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Širkovce",
+      "vinohradnicky_rajon": "Gemerský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Tachty",
+      "vinohradnicky_rajon": "Gemerský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Večelkov",
+      "vinohradnicky_rajon": "Gemerský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľké Dravce",
+      "vinohradnicky_rajon": "Gemerský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Abovce",
+      "vinohradnicky_rajon": "Tornaľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Belín",
+      "vinohradnicky_rajon": "Tornaľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dulovo",
+      "vinohradnicky_rajon": "Tornaľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Gemer",
+      "vinohradnicky_rajon": "Tornaľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hubovo",
+      "vinohradnicky_rajon": "Tornaľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kráľ",
+      "vinohradnicky_rajon": "Tornaľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Pavlovce",
+      "vinohradnicky_rajon": "Tornaľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Rimavská Sobota",
+      "vinohradnicky_rajon": "Tornaľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Rimavské Janovce",
+      "vinohradnicky_rajon": "Tornaľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Sútor",
+      "vinohradnicky_rajon": "Tornaľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Štrkovec",
+      "vinohradnicky_rajon": "Tornaľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Tomášovce",
+      "vinohradnicky_rajon": "Tornaľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Tornaľa",
+      "vinohradnicky_rajon": "Tornaľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Valice",
+      "vinohradnicky_rajon": "Tornaľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Včelince",
+      "vinohradnicky_rajon": "Tornaľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľký Blh",
+      "vinohradnicky_rajon": "Tornaľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Vyšné Valice",
+      "vinohradnicky_rajon": "Tornaľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Žíp",
+      "vinohradnicky_rajon": "Tornaľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Stredoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Alekšince",
+      "vinohradnicky_rajon": "Šintavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Báb",
+      "vinohradnicky_rajon": "Šintavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hájske",
+      "vinohradnicky_rajon": "Šintavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Horná Kráľová",
+      "vinohradnicky_rajon": "Šintavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Jarok",
+      "vinohradnicky_rajon": "Šintavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Lehota",
+      "vinohradnicky_rajon": "Šintavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Lukáčovce",
+      "vinohradnicky_rajon": "Šintavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Močenok",
+      "vinohradnicky_rajon": "Šintavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Pata",
+      "vinohradnicky_rajon": "Šintavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Pusté Sady",
+      "vinohradnicky_rajon": "Šintavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Rišňovce",
+      "vinohradnicky_rajon": "Šintavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Rumanová",
+      "vinohradnicky_rajon": "Šintavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Sereď",
+      "vinohradnicky_rajon": "Šintavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Šintava",
+      "vinohradnicky_rajon": "Šintavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Šoporňa",
+      "vinohradnicky_rajon": "Šintavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľké Zálužie",
+      "vinohradnicky_rajon": "Šintavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Vinohrady nad Váhom",
+      "vinohradnicky_rajon": "Šintavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Branč",
+      "vinohradnicky_rajon": "Nitriansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Cabaj-Čápor",
+      "vinohradnicky_rajon": "Nitriansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Čakajovce",
+      "vinohradnicky_rajon": "Nitriansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hruboňovo",
+      "vinohradnicky_rajon": "Nitriansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Ivanka pri Nitre",
+      "vinohradnicky_rajon": "Nitriansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Jelenec",
+      "vinohradnicky_rajon": "Nitriansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kolíňany",
+      "vinohradnicky_rajon": "Nitriansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kostoľany pod Tribečom",
+      "vinohradnicky_rajon": "Nitriansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Ladice",
+      "vinohradnicky_rajon": "Nitriansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dolné Lefantovce",
+      "vinohradnicky_rajon": "Nitriansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Horné Lefantovce",
+      "vinohradnicky_rajon": "Nitriansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Mojmírovce",
+      "vinohradnicky_rajon": "Nitriansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nitra",
+      "vinohradnicky_rajon": "Nitriansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nitrianske Hrnčiarovce",
+      "vinohradnicky_rajon": "Nitriansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Podhorany",
+      "vinohradnicky_rajon": "Nitriansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Pohranice",
+      "vinohradnicky_rajon": "Nitriansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Svätoplukovo",
+      "vinohradnicky_rajon": "Nitriansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Štitáre",
+      "vinohradnicky_rajon": "Nitriansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Šurianky",
+      "vinohradnicky_rajon": "Nitriansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľká Dolina",
+      "vinohradnicky_rajon": "Nitriansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Výčapy-Opatovce",
+      "vinohradnicky_rajon": "Nitriansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Zbehy",
+      "vinohradnicky_rajon": "Nitriansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Žirany",
+      "vinohradnicky_rajon": "Nitriansky vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bojná",
+      "vinohradnicky_rajon": "Radošinský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Lipovník",
+      "vinohradnicky_rajon": "Radošinský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Ludanice",
+      "vinohradnicky_rajon": "Radošinský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Malé Ripňany",
+      "vinohradnicky_rajon": "Radošinský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nemčice",
+      "vinohradnicky_rajon": "Radošinský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nitrianska Blatnica",
+      "vinohradnicky_rajon": "Radošinský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nové Sady",
+      "vinohradnicky_rajon": "Radošinský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Horné Obdokovce",
+      "vinohradnicky_rajon": "Radošinský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Oponice",
+      "vinohradnicky_rajon": "Radošinský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Orešany",
+      "vinohradnicky_rajon": "Radošinský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Preseľany",
+      "vinohradnicky_rajon": "Radošinský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Radošina",
+      "vinohradnicky_rajon": "Radošinský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Súlovce",
+      "vinohradnicky_rajon": "Radošinský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Šalgovce",
+      "vinohradnicky_rajon": "Radošinský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Horné Štitáre",
+      "vinohradnicky_rajon": "Radošinský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Tesáre",
+      "vinohradnicky_rajon": "Radošinský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Urmince",
+      "vinohradnicky_rajon": "Radošinský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľké Ripňany",
+      "vinohradnicky_rajon": "Radošinský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Beladice",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Čaradice",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Čeľadice",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Čeľadince",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Červený Hrádok",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Čierne Kľačany",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hosťovce",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hronský Beňadik",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kovarce",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kozárovce",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Machulince",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Malé Chyndice",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Malé Vozokany",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Mankovce",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Neverice",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nitrianska Streda",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nemčiňany",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nevidzany",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dolné Obdokovce",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Orovnica",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Ostratice",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Skačany",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Slepčany",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Sľažany",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Tekovská Breznica",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Tekovské Nemce",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Tesárske Mlyňany",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Topoľčianky",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Velčice",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľké Chyndice",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľké Vozokany",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Vieska nad Žitavou",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Volkovce",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Vysočany",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Zlaté Moravce",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Zlatno",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Žitavany",
+      "vinohradnicky_rajon": "Zlatomoravský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Babindol",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bánov",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Beša",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Čechynce",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Čifáre",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Golianovo",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Iňa",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Klasov",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Lúčnica nad Žitavou",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Lok",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Lula",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Malý Cetín",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Malý Lapáš",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Melek",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Michal nad Žitavou",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nová Ves nad Žitavou",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Paňa",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Tajná",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Tehla",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Telince",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľký Cetín",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľký Ďur",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľký Lapáš",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Vinodol",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Vráble",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Žitavce",
+      "vinohradnicky_rajon": "Vrábeľský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bardoňovo",
+      "vinohradnicky_rajon": "Žitavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bešeňov",
+      "vinohradnicky_rajon": "Žitavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Černík",
+      "vinohradnicky_rajon": "Žitavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dedinka",
+      "vinohradnicky_rajon": "Žitavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hul",
+      "vinohradnicky_rajon": "Žitavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kmeťovo",
+      "vinohradnicky_rajon": "Žitavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Komjatice",
+      "vinohradnicky_rajon": "Žitavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Maňa",
+      "vinohradnicky_rajon": "Žitavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Mojzesovo",
+      "vinohradnicky_rajon": "Žitavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dolný Ohaj",
+      "vinohradnicky_rajon": "Žitavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Podhájska",
+      "vinohradnicky_rajon": "Žitavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Pozba",
+      "vinohradnicky_rajon": "Žitavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Radava",
+      "vinohradnicky_rajon": "Žitavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Šurany",
+      "vinohradnicky_rajon": "Žitavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Trávnica",
+      "vinohradnicky_rajon": "Žitavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľké Lovce",
+      "vinohradnicky_rajon": "Žitavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľký Kýr",
+      "vinohradnicky_rajon": "Žitavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Vlkas",
+      "vinohradnicky_rajon": "Žitavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Čaka",
+      "vinohradnicky_rajon": "Želiezovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Farná",
+      "vinohradnicky_rajon": "Želiezovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hronovce",
+      "vinohradnicky_rajon": "Želiezovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Keť",
+      "vinohradnicky_rajon": "Želiezovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kukučínov",
+      "vinohradnicky_rajon": "Želiezovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kuraľany",
+      "vinohradnicky_rajon": "Želiezovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Malé Ludince",
+      "vinohradnicky_rajon": "Želiezovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Málaš",
+      "vinohradnicky_rajon": "Želiezovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nýrovce",
+      "vinohradnicky_rajon": "Želiezovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Pastovce",
+      "vinohradnicky_rajon": "Želiezovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Plavé Vozokany",
+      "vinohradnicky_rajon": "Želiezovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Pohronský Ruskov",
+      "vinohradnicky_rajon": "Želiezovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Sikenica",
+      "vinohradnicky_rajon": "Želiezovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Šalov",
+      "vinohradnicky_rajon": "Želiezovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Šarovce",
+      "vinohradnicky_rajon": "Želiezovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Tekovské Lužany",
+      "vinohradnicky_rajon": "Želiezovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľké Ludince",
+      "vinohradnicky_rajon": "Želiezovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Zalaba",
+      "vinohradnicky_rajon": "Želiezovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Zbrojníky",
+      "vinohradnicky_rajon": "Želiezovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Želiezovce",
+      "vinohradnicky_rajon": "Želiezovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Čajkov",
+      "vinohradnicky_rajon": "Tekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hokovce",
+      "vinohradnicky_rajon": "Tekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hronské Kľačany",
+      "vinohradnicky_rajon": "Tekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Krškany",
+      "vinohradnicky_rajon": "Tekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Levice",
+      "vinohradnicky_rajon": "Tekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Malé Kozmálovce",
+      "vinohradnicky_rajon": "Tekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Mýtne Ludany",
+      "vinohradnicky_rajon": "Tekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nová Dedina",
+      "vinohradnicky_rajon": "Tekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nový Tekov",
+      "vinohradnicky_rajon": "Tekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dolný Pial",
+      "vinohradnicky_rajon": "Tekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Horný Pial",
+      "vinohradnicky_rajon": "Tekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Podlužany",
+      "vinohradnicky_rajon": "Tekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Rybník",
+      "vinohradnicky_rajon": "Tekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Starý Tekov",
+      "vinohradnicky_rajon": "Tekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Tlmače",
+      "vinohradnicky_rajon": "Tekovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bátovce",
+      "vinohradnicky_rajon": "Pukanecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bohunice",
+      "vinohradnicky_rajon": "Pukanecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bory",
+      "vinohradnicky_rajon": "Pukanecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Brhlovce",
+      "vinohradnicky_rajon": "Pukanecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Demandice",
+      "vinohradnicky_rajon": "Pukanecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Devičany",
+      "vinohradnicky_rajon": "Pukanecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Domadice",
+      "vinohradnicky_rajon": "Pukanecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Drženice",
+      "vinohradnicky_rajon": "Pukanecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hontianska Vrbica",
+      "vinohradnicky_rajon": "Pukanecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hontianske Trsťany",
+      "vinohradnicky_rajon": "Pukanecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Jabloňovce",
+      "vinohradnicky_rajon": "Pukanecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Pečenice",
+      "vinohradnicky_rajon": "Pukanecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Pukanec",
+      "vinohradnicky_rajon": "Pukanecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Santovka",
+      "vinohradnicky_rajon": "Pukanecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Žemberovce",
+      "vinohradnicky_rajon": "Pukanecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Nitrianska vinohradnícka oblasť"
+    },
+    {
+      "obec": "Čečejovce",
+      "vinohradnicky_rajon": "Moldavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Debraď",
+      "vinohradnicky_rajon": "Moldavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Drienovec",
+      "vinohradnicky_rajon": "Moldavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Dvorníky-Včeláre",
+      "vinohradnicky_rajon": "Moldavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hrhov",
+      "vinohradnicky_rajon": "Moldavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hrušov",
+      "vinohradnicky_rajon": "Moldavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Jablonov nad Turňou",
+      "vinohradnicky_rajon": "Moldavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Janík",
+      "vinohradnicky_rajon": "Moldavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Moldava nad Bodvou",
+      "vinohradnicky_rajon": "Moldavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nižný Lánec",
+      "vinohradnicky_rajon": "Moldavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Perín-Chym",
+      "vinohradnicky_rajon": "Moldavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Rešica",
+      "vinohradnicky_rajon": "Moldavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Seňa",
+      "vinohradnicky_rajon": "Moldavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Trstené pri Hornáde",
+      "vinohradnicky_rajon": "Moldavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Turňa nad Bodvou",
+      "vinohradnicky_rajon": "Moldavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Ždaňa",
+      "vinohradnicky_rajon": "Moldavský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Baškovce",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hlivištia",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Horňa",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Husák",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Choňkovce",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Jasenov",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Jenkovce",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kolibabovce",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Koňuš",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Koromľa",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Krčava",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nižné Nemecké",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Orechová",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Ostrov",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Remetské Hámre",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Sejkov",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Sobrance",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Poruba pod Vihorlatom",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Porúbka",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Priekopa",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Ruskovce",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Tibava",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Úbrež",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Vojnatina",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Vyšná Rybnica",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Vyšné Nemecké",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Závadka",
+      "vinohradnicky_rajon": "Sobranský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bracovce",
+      "vinohradnicky_rajon": "Michalovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Brekov",
+      "vinohradnicky_rajon": "Michalovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Falkušovce",
+      "vinohradnicky_rajon": "Michalovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Jovsa",
+      "vinohradnicky_rajon": "Michalovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kačanov",
+      "vinohradnicky_rajon": "Michalovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kaluža",
+      "vinohradnicky_rajon": "Michalovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Klokočov",
+      "vinohradnicky_rajon": "Michalovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kusín",
+      "vinohradnicky_rajon": "Michalovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Lesné",
+      "vinohradnicky_rajon": "Michalovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Malčice",
+      "vinohradnicky_rajon": "Michalovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Markovce",
+      "vinohradnicky_rajon": "Michalovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Michalovce",
+      "vinohradnicky_rajon": "Michalovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nacina Ves",
+      "vinohradnicky_rajon": "Michalovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Nižný Hrušov",
+      "vinohradnicky_rajon": "Michalovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Petrovce nad Laborcom",
+      "vinohradnicky_rajon": "Michalovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Pozdišovce",
+      "vinohradnicky_rajon": "Michalovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Rakovec nad Ondavou",
+      "vinohradnicky_rajon": "Michalovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Sedliská",
+      "vinohradnicky_rajon": "Michalovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Staré",
+      "vinohradnicky_rajon": "Michalovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Strážske",
+      "vinohradnicky_rajon": "Michalovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Trhovište",
+      "vinohradnicky_rajon": "Michalovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Trnava pri Laborci",
+      "vinohradnicky_rajon": "Michalovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Vinné",
+      "vinohradnicky_rajon": "Michalovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Zbudza",
+      "vinohradnicky_rajon": "Michalovský vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bačka",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Beša",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Biel",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Boľ",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Brehov",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Cejkov",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Čičarovce",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Hraň",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kašov",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Klin nad Bodrogom",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Kráľovský Chlmec",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Ladmovce",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Leles",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Luhyňa",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Malé Trakany",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Malý Horeš",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Malý Kamenec",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Poľany",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Pribeník",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Rad",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Sirník",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Somotor",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Strážne",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Streda nad Bodrogom",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Svätá Mária",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Svätuše",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Svinice",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľké Trakany",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Veľký Kamenec",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Vojka",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Zemplín",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Zemplínske Hradište",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Zemplínske Jastrabie",
+      "vinohradnicky_rajon": "Kráľovskochlmecký vinohradnícky rajón",
+      "vinohradnicka_oblast": "Východoslovenská vinohradnícka oblasť"
+    },
+    {
+      "obec": "Bara",
+      "vinohradnicky_rajon": "",
+      "vinohradnicka_oblast": "Vinohradnícka oblasť Tokaj"
+    },
+    {
+      "obec": "Čerhov",
+      "vinohradnicky_rajon": "",
+      "vinohradnicka_oblast": "Vinohradnícka oblasť Tokaj"
+    },
+    {
+      "obec": "Černochov",
+      "vinohradnicky_rajon": "",
+      "vinohradnicka_oblast": "Vinohradnícka oblasť Tokaj"
+    },
+    {
+      "obec": "Malá Tŕňa",
+      "vinohradnicky_rajon": "",
+      "vinohradnicka_oblast": "Vinohradnícka oblasť Tokaj"
+    },
+    {
+      "obec": "Slovenské Nové Mesto",
+      "vinohradnicky_rajon": "",
+      "vinohradnicka_oblast": "Vinohradnícka oblasť Tokaj"
+    },
+    {
+      "obec": "Veľká Tŕňa",
+      "vinohradnicky_rajon": "",
+      "vinohradnicka_oblast": "Vinohradnícka oblasť Tokaj"
+    },
+    {
+      "obec": "Viničky",
+      "vinohradnicky_rajon": "",
+      "vinohradnicka_oblast": "Vinohradnícka oblasť Tokaj"
+    }
+  ],
+  "meta": {
+    "title": "Vinohradnícke obce Slovenska podľa oblastí a rajónov - Free Download",
+    "description": "Zoznam vinohradníckych obcí na Slovensku s príslušným vinohradníckym rajónom a vinohradníckou oblasťou (Malokarpatská, Južnoslovenská, Nitrianska, Stredoslovenská, Východoslovenská, Tokaj). Contains 710 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vinohradnícke obce Slovenska podľa oblastí a rajónov | ListBase",
+    "seo_description": "Download Vinohradnícke obce Slovenska podľa oblastí a rajónov — 710 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 710 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_vinohradníckych_oblastí_Slovenska"
+    ]
+  }
+}

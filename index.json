@@ -1,12 +1,12 @@
 {
   "lang": "sk",
-  "generated": "2026-11-09T02:27:01.874Z",
-  "total_datasets": 472,
-  "total_records": 283695,
+  "generated": "2026-11-09T02:27:08.707Z",
+  "total_datasets": 473,
+  "total_records": 284405,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -198,6 +198,30 @@
         "xlsx": {
           "name": "sk-urodnost-plodin-2005_SK.xlsx",
           "size": 6889
+        }
+      }
+    },
+    {
+      "id": "sk-vinohradnicke-obce",
+      "name": "Vinohradnícke obce Slovenska podľa oblastí a rajónov",
+      "category": "agriculture",
+      "record_count": 710,
+      "columns": [
+        "obec",
+        "vinohradnicky_rajon",
+        "vinohradnicka_oblast"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_vinohradníckych_oblastí_Slovenska",
+      "updated": "2026-11",
+      "size": 128089,
+      "files": {
+        "csv": {
+          "name": "sk-vinohradnicke-obce_SK.csv",
+          "size": 63804
+        },
+        "xlsx": {
+          "name": "sk-vinohradnicke-obce_SK.xlsx",
+          "size": 21254
         }
       }
     },
