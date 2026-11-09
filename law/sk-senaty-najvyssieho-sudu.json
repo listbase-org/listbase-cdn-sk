@@ -1,0 +1,181 @@
+{
+  "id": "sk-senaty-najvyssieho-sudu",
+  "name": "Senáty Najvyššieho súdu Slovenskej republiky",
+  "title": "Senáty Najvyššieho súdu Slovenskej republiky",
+  "description": "Senáty občianskoprávneho, obchodnoprávneho a trestnoprávneho kolégia Najvyššieho súdu Slovenskej republiky a ich predsedovia (stav k 4. 11. 2026).",
+  "category": "law",
+  "source": "https://sk.wikipedia.org/wiki/Najvyšší_súd_Slovenskej_republiky",
+  "source_url": "https://sk.wikipedia.org/wiki/Najvyšší_súd_Slovenskej_republiky",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "kolegium",
+      "label": "Kolegium",
+      "type": "string"
+    },
+    {
+      "key": "senat",
+      "label": "Senat",
+      "type": "string"
+    },
+    {
+      "key": "predseda_senatu",
+      "label": "Predseda Senatu",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kolegium": "Občianskoprávne kolégium",
+      "senat": "1 (trojčlenný)",
+      "predseda_senatu": "Martin Vladik"
+    },
+    {
+      "kolegium": "Občianskoprávne kolégium",
+      "senat": "2 (trojčlenný)",
+      "predseda_senatu": "Mária Trubanová"
+    },
+    {
+      "kolegium": "Občianskoprávne kolégium",
+      "senat": "3 (trojčlenný)",
+      "predseda_senatu": "Renáta Gavalcová"
+    },
+    {
+      "kolegium": "Občianskoprávne kolégium",
+      "senat": "4 (trojčlenný)",
+      "predseda_senatu": "Alena Svetlovská"
+    },
+    {
+      "kolegium": "Občianskoprávne kolégium",
+      "senat": "5 (trojčlenný)",
+      "predseda_senatu": "Jozef Kolcun"
+    },
+    {
+      "kolegium": "Občianskoprávne kolégium",
+      "senat": "6 (trojčlenný)",
+      "predseda_senatu": "Dušan Čimo"
+    },
+    {
+      "kolegium": "Občianskoprávne kolégium",
+      "senat": "7 (trojčlenný)",
+      "predseda_senatu": "Martina Valentová"
+    },
+    {
+      "kolegium": "Občianskoprávne kolégium",
+      "senat": "8 (trojčlenný)",
+      "predseda_senatu": "Ivan Rumana"
+    },
+    {
+      "kolegium": "Občianskoprávne kolégium",
+      "senat": "9 (trojčlenný)",
+      "predseda_senatu": "Gabriela Klenková"
+    },
+    {
+      "kolegium": "Občianskoprávne kolégium",
+      "senat": "10 (trojčlenný)",
+      "predseda_senatu": "Mario Dubaň"
+    },
+    {
+      "kolegium": "Občianskoprávne kolégium",
+      "senat": "1 (päťčlenný)",
+      "predseda_senatu": "Martin Vladik"
+    },
+    {
+      "kolegium": "Občianskoprávne kolégium",
+      "senat": "2 (päťčlenný)",
+      "predseda_senatu": "Miroslav Šepták"
+    },
+    {
+      "kolegium": "Občianskoprávne kolégium",
+      "senat": "Veľký senát",
+      "predseda_senatu": "Martina Valentová stálymi členmi sú ďalej: Dušan Čimo, Mario Dubaň, Ivan Rumana"
+    },
+    {
+      "kolegium": "Obchodnoprávne kolégium",
+      "senat": "1 (trojčlenný)",
+      "predseda_senatu": "Jana Hullová"
+    },
+    {
+      "kolegium": "Obchodnoprávne kolégium",
+      "senat": "2 (trojčlenný)",
+      "predseda_senatu": "Soňa Pekarčíková"
+    },
+    {
+      "kolegium": "Obchodnoprávne kolégium",
+      "senat": "3 (trojčlenný)",
+      "predseda_senatu": "Katarína Pramuková"
+    },
+    {
+      "kolegium": "Obchodnoprávne kolégium",
+      "senat": "4 (trojčlenný)",
+      "predseda_senatu": "Lenka Praženková"
+    },
+    {
+      "kolegium": "Obchodnoprávne kolégium",
+      "senat": "5 (trojčlenný)",
+      "predseda_senatu": "Andrea Moravčíková"
+    },
+    {
+      "kolegium": "Obchodnoprávne kolégium",
+      "senat": "1 (päťčlenný)",
+      "predseda_senatu": "Jana Hullová"
+    },
+    {
+      "kolegium": "Obchodnoprávne kolégium",
+      "senat": "2 (päťčlenný)",
+      "predseda_senatu": "Katarína Pramuková"
+    },
+    {
+      "kolegium": "Obchodnoprávne kolégium",
+      "senat": "Veľký senát",
+      "predseda_senatu": "Katarína Pramuková stálymi členmi sú ďalej: Jana Hullová, Andrea Moravčíková, Lenka Praženková"
+    },
+    {
+      "kolegium": "Trestnoprávne kolégium",
+      "senat": "1 (trojčlenný)",
+      "predseda_senatu": "Martin Bargel"
+    },
+    {
+      "kolegium": "Trestnoprávne kolégium",
+      "senat": "2 (trojčlenný)",
+      "predseda_senatu": "Dana Wänkeová"
+    },
+    {
+      "kolegium": "Trestnoprávne kolégium",
+      "senat": "3 (trojčlenný)",
+      "predseda_senatu": "Petr Kaňa"
+    },
+    {
+      "kolegium": "Trestnoprávne kolégium",
+      "senat": "4 (trojčlenný)",
+      "predseda_senatu": "Martina Zeleňaková"
+    },
+    {
+      "kolegium": "Trestnoprávne kolégium",
+      "senat": "5 (trojčlenný)",
+      "predseda_senatu": "Juraj Kliment"
+    },
+    {
+      "kolegium": "Trestnoprávne kolégium",
+      "senat": "1 (päťčlenný)",
+      "predseda_senatu": "Martin Bargel"
+    },
+    {
+      "kolegium": "Trestnoprávne kolégium",
+      "senat": "2 (päťčlenný)",
+      "predseda_senatu": "Patrik Príbelský"
+    }
+  ],
+  "meta": {
+    "title": "Senáty Najvyššieho súdu Slovenskej republiky - Free Download",
+    "description": "Senáty občianskoprávneho, obchodnoprávneho a trestnoprávneho kolégia Najvyššieho súdu Slovenskej republiky a ich predsedovia (stav k 4. 11. 2026). Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Senáty Najvyššieho súdu Slovenskej republiky | ListBase",
+    "seo_description": "Download Senáty Najvyššieho súdu Slovenskej republiky — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Najvyšší_súd_Slovenskej_republiky"
+    ]
+  }
+}
