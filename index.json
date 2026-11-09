@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-09T02:26:47.455Z",
-  "total_datasets": 470,
-  "total_records": 283604,
+  "generated": "2026-11-09T02:26:54.639Z",
+  "total_datasets": 471,
+  "total_records": 283667,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "environment",
@@ -1799,6 +1799,29 @@
         "xlsx": {
           "name": "sk-najodoberanejsi-youtuberi_SK.xlsx",
           "size": 8741
+        }
+      }
+    },
+    {
+      "id": "sk-regionalne-televizie",
+      "name": "Regionálne a lokálne televízie na Slovensku",
+      "category": "entertainment",
+      "record_count": 63,
+      "columns": [
+        "stanica",
+        "mesto_region"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_televíznych_staníc_na_Slovensku",
+      "updated": "2026-11",
+      "size": 6505,
+      "files": {
+        "csv": {
+          "name": "sk-regionalne-televizie_SK.csv",
+          "size": 1710
+        },
+        "xlsx": {
+          "name": "sk-regionalne-televizie_SK.xlsx",
+          "size": 8267
         }
       }
     },

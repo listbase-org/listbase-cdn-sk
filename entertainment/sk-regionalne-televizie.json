@@ -1,0 +1,288 @@
+{
+  "id": "sk-regionalne-televizie",
+  "name": "Regionálne a lokálne televízie na Slovensku",
+  "title": "Regionálne a lokálne televízie na Slovensku",
+  "description": "Zoznam regionálnych a lokálnych televíznych staníc na Slovensku s mestom alebo regiónom vysielania.",
+  "category": "entertainment",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_televíznych_staníc_na_Slovensku",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_televíznych_staníc_na_Slovensku",
+  "updated": "2026-11",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "stanica",
+      "label": "Stanica",
+      "type": "string"
+    },
+    {
+      "key": "mesto_region",
+      "label": "Mesto Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stanica": "ATV",
+      "mesto_region": "Žiar nad Hronom"
+    },
+    {
+      "stanica": "AVT Nonstop",
+      "mesto_region": "Prievidza"
+    },
+    {
+      "stanica": "Bánovské televízne vysielanie",
+      "mesto_region": "Bánovce nad Bebravou"
+    },
+    {
+      "stanica": "BTV",
+      "mesto_region": "Bardejov"
+    },
+    {
+      "stanica": "CE TV",
+      "mesto_region": "Nitra"
+    },
+    {
+      "stanica": "DTV",
+      "mesto_region": "Bratislava-Devínska Nová Ves"
+    },
+    {
+      "stanica": "Dúbravská televízia",
+      "mesto_region": "Bratislava-Dúbravka"
+    },
+    {
+      "stanica": "Fenix",
+      "mesto_region": "Žilina"
+    },
+    {
+      "stanica": "Hlohovská televízia",
+      "mesto_region": "Hlohovec"
+    },
+    {
+      "stanica": "Humenská televízia",
+      "mesto_region": "Humenné"
+    },
+    {
+      "stanica": "LTS",
+      "mesto_region": "Levice"
+    },
+    {
+      "stanica": "Malacká televízia",
+      "mesto_region": "Malacky"
+    },
+    {
+      "stanica": "MsTV Komárno",
+      "mesto_region": "Komárno"
+    },
+    {
+      "stanica": "KTV",
+      "mesto_region": "Kežmarok"
+    },
+    {
+      "stanica": "KTV",
+      "mesto_region": "Kysuce"
+    },
+    {
+      "stanica": "MTR",
+      "mesto_region": "Ružomberok"
+    },
+    {
+      "stanica": "Martin TV",
+      "mesto_region": "Martin"
+    },
+    {
+      "stanica": "MTT",
+      "mesto_region": "Trnava"
+    },
+    {
+      "stanica": "NZTV",
+      "mesto_region": "Nové Zámky"
+    },
+    {
+      "stanica": "PTV",
+      "mesto_region": "Púchov"
+    },
+    {
+      "stanica": "RTV",
+      "mesto_region": "Prievidza"
+    },
+    {
+      "stanica": "RTV Banská Bystrica",
+      "mesto_region": "Banská Bystrica"
+    },
+    {
+      "stanica": "RTV Krea",
+      "mesto_region": "Galanta"
+    },
+    {
+      "stanica": "Severka",
+      "mesto_region": "Žilina"
+    },
+    {
+      "stanica": "Staromestská TV",
+      "mesto_region": "Bratislava-Staré Mesto"
+    },
+    {
+      "stanica": "Štúrovská televízia",
+      "mesto_region": "Štúrovo"
+    },
+    {
+      "stanica": "TV 56",
+      "mesto_region": "Žilina"
+    },
+    {
+      "stanica": "TV B52",
+      "mesto_region": "Vranov nad Topľou"
+    },
+    {
+      "stanica": "TV Bratislava",
+      "mesto_region": "Bratislava"
+    },
+    {
+      "stanica": "TV Hronka",
+      "mesto_region": "Banská Bystrica"
+    },
+    {
+      "stanica": "TV Karpaty",
+      "mesto_region": "Piešťany"
+    },
+    {
+      "stanica": "TV Liptov",
+      "mesto_region": "Liptovský Mikuláš"
+    },
+    {
+      "stanica": "TV Mistral",
+      "mesto_region": "Michalovce"
+    },
+    {
+      "stanica": "TV Moldava - Szepsi TV",
+      "mesto_region": "Moldava nad Bodvou"
+    },
+    {
+      "stanica": "TV Myjava",
+      "mesto_region": "Myjava"
+    },
+    {
+      "stanica": "TV Naša",
+      "mesto_region": "Košice"
+    },
+    {
+      "stanica": "TV Nitrička",
+      "mesto_region": "Nitra"
+    },
+    {
+      "stanica": "TV Nové Zámky",
+      "mesto_region": "Nové Zámky"
+    },
+    {
+      "stanica": "TV Oravia",
+      "mesto_region": "Námestovo"
+    },
+    {
+      "stanica": "TV Panoráma",
+      "mesto_region": "Žarnovica"
+    },
+    {
+      "stanica": "TV Pezinok",
+      "mesto_region": "Pezinok"
+    },
+    {
+      "stanica": "TV Pohoda",
+      "mesto_region": "Nové Mesto nad Váhom"
+    },
+    {
+      "stanica": "TV Poprad",
+      "mesto_region": "Poprad"
+    },
+    {
+      "stanica": "TV Považie",
+      "mesto_region": ""
+    },
+    {
+      "stanica": "TV Prešov",
+      "mesto_region": "Prešov"
+    },
+    {
+      "stanica": "TV7",
+      "mesto_region": "Prešov"
+    },
+    {
+      "stanica": "TV Púchov",
+      "mesto_region": "Púchov"
+    },
+    {
+      "stanica": "TV Raj",
+      "mesto_region": "Žilina"
+    },
+    {
+      "stanica": "TV Reduta",
+      "mesto_region": "Spišská Nová Ves"
+    },
+    {
+      "stanica": "TV Region",
+      "mesto_region": "Východné Slovensko"
+    },
+    {
+      "stanica": "TV Rimava",
+      "mesto_region": "Rimavská Sobota"
+    },
+    {
+      "stanica": "TVR",
+      "mesto_region": "Bratislava-Ružinov"
+    },
+    {
+      "stanica": "TV Sen",
+      "mesto_region": "Senica"
+    },
+    {
+      "stanica": "TV Skalica",
+      "mesto_region": "Skalica"
+    },
+    {
+      "stanica": "TVT",
+      "mesto_region": "Turzovka"
+    },
+    {
+      "stanica": "TV Trenčianske Teplice",
+      "mesto_region": "Trenčianske Teplice"
+    },
+    {
+      "stanica": "TV Turiec",
+      "mesto_region": "Martin"
+    },
+    {
+      "stanica": "TV Wywar",
+      "mesto_region": "Holíč"
+    },
+    {
+      "stanica": "TV Zemplín",
+      "mesto_region": "Zemplín"
+    },
+    {
+      "stanica": "Vaša TV",
+      "mesto_region": "Čadca"
+    },
+    {
+      "stanica": "Spartak.tv",
+      "mesto_region": "Trnava"
+    },
+    {
+      "stanica": "TV Romana",
+      "mesto_region": "Rómske regióny"
+    },
+    {
+      "stanica": "TV Régió",
+      "mesto_region": "Maďarské regióny"
+    }
+  ],
+  "meta": {
+    "title": "Regionálne a lokálne televízie na Slovensku - Free Download",
+    "description": "Zoznam regionálnych a lokálnych televíznych staníc na Slovensku s mestom alebo regiónom vysielania. Contains 63 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Regionálne a lokálne televízie na Slovensku | ListBase",
+    "seo_description": "Download Regionálne a lokálne televízie na Slovensku — 63 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 63 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_televíznych_staníc_na_Slovensku"
+    ]
+  }
+}
