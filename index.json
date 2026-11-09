@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-05T02:11:21.467Z",
-  "total_datasets": 469,
-  "total_records": 283589,
+  "generated": "2026-11-09T02:26:47.455Z",
+  "total_datasets": 470,
+  "total_records": 283604,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "food",
@@ -2208,6 +2208,32 @@
         "xlsx": {
           "name": "sk-banky-bic_SK.xlsx",
           "size": 15512
+        }
+      }
+    },
+    {
+      "id": "sk-guverneri-narodnej-banky",
+      "name": "Guvernéri a viceguvernéri Národnej banky Slovenska",
+      "category": "finance",
+      "record_count": 15,
+      "columns": [
+        "funkcia",
+        "meno",
+        "dlzka_funkcneho_obdobia",
+        "mandat",
+        "vymenovany"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Národná_banka_Slovenska",
+      "updated": "2026-11",
+      "size": 6210,
+      "files": {
+        "csv": {
+          "name": "sk-guverneri-narodnej-banky_SK.csv",
+          "size": 2757
+        },
+        "xlsx": {
+          "name": "sk-guverneri-narodnej-banky_SK.xlsx",
+          "size": 7821
         }
       }
     },

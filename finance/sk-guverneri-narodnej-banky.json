@@ -1,0 +1,156 @@
+{
+  "id": "sk-guverneri-narodnej-banky",
+  "name": "Guvernéri a viceguvernéri Národnej banky Slovenska",
+  "title": "Guvernéri a viceguvernéri Národnej banky Slovenska",
+  "description": "Zoznam guvernérov a viceguvernérov Národnej banky Slovenska od roku 1993 s mandátom a spôsobom vymenovania.",
+  "category": "finance",
+  "source": "https://sk.wikipedia.org/wiki/Národná_banka_Slovenska",
+  "source_url": "https://sk.wikipedia.org/wiki/Národná_banka_Slovenska",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "funkcia",
+      "label": "Funkcia",
+      "type": "string"
+    },
+    {
+      "key": "meno",
+      "label": "Meno",
+      "type": "string"
+    },
+    {
+      "key": "dlzka_funkcneho_obdobia",
+      "label": "Dlzka Funkcneho Obdobia",
+      "type": "string"
+    },
+    {
+      "key": "mandat",
+      "label": "Mandat",
+      "type": "string"
+    },
+    {
+      "key": "vymenovany",
+      "label": "Vymenovany",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "funkcia": "guvernér",
+      "meno": "Vladimír Masár",
+      "dlzka_funkcneho_obdobia": "6 rokov",
+      "mandat": "29. júl 1993 – 28. júl 1999",
+      "vymenovany": "prezidentom Slovenskej republiky Michalom Kováčom"
+    },
+    {
+      "funkcia": "guvernér",
+      "meno": "Marián Jusko",
+      "dlzka_funkcneho_obdobia": "6 rokov",
+      "mandat": "29. júl 1999 – 31. december 2004",
+      "vymenovany": "prezidentom Slovenskej republiky Rudolfom Schusterom"
+    },
+    {
+      "funkcia": "guvernér",
+      "meno": "Ivan Šramko",
+      "dlzka_funkcneho_obdobia": "I. 5 rokov; II. ad interim",
+      "mandat": "I. 1. január 2005 – 31. december 2009; II. 1. január 2010 – 11. január 2010",
+      "vymenovany": "I. prezidentom Slovenskej republiky Ivanom Gašparovičom; II. ex lege [§ 7 ods. 8 písm. a) zákona Národnej rady Slovenskej republiky č. 566/1992 Zb. o Národnej banke Slovenska v znení účinnom od 1. decembra 2009]"
+    },
+    {
+      "funkcia": "guvernér",
+      "meno": "Jozef Makúch",
+      "dlzka_funkcneho_obdobia": "I. 5 rokov; II. 6 rokov",
+      "mandat": "I. 12. január 2010 – 11. január 2015; II. 12. január 2015 – 31. máj 2019",
+      "vymenovany": "I. prezidentom Slovenskej republiky Ivanom Gašparovičom; II. prezidentom Slovenskej republiky Andrejom Kiskom"
+    },
+    {
+      "funkcia": "guvernér",
+      "meno": "Peter Kažimír",
+      "dlzka_funkcneho_obdobia": "6 rokov",
+      "mandat": "1. jún 2019 – [najneskôr] 1. jún 2025",
+      "vymenovany": "prezidentom Slovenskej republiky Andrejom Kiskom"
+    },
+    {
+      "funkcia": "viceguvernér",
+      "meno": "Marián Jusko",
+      "dlzka_funkcneho_obdobia": "I. ad interim (ako poverený člen Bankovej rady Národnej banky Slovenska); II. 6 rokov",
+      "mandat": "I. 1. január 1993 – 10. apríl 1993; II. 11. apríl 1994 – 28. júl 1999",
+      "vymenovany": "I. vládou Slovenskej republiky; II. prezidentom Slovenskej republiky Michalom Kováčom"
+    },
+    {
+      "funkcia": "viceguvernér",
+      "meno": "Marián Tkáč",
+      "dlzka_funkcneho_obdobia": "I. ad interim (ako poverený člen Bankovej rady Národnej banky Slovenska); II. 6 rokov",
+      "mandat": "I. 1. január 1993 – 28. júl 1993; II. 29. júl 1993 – 17. apríl 1994",
+      "vymenovany": "I. vládou Slovenskej republiky; II. prezidentom Slovenskej republiky Michalom Kováčom"
+    },
+    {
+      "funkcia": "viceguvernér",
+      "meno": "Jozef Mudrík",
+      "dlzka_funkcneho_obdobia": "6 rokov",
+      "mandat": "23. máj 1995 – 22. máj 2001",
+      "vymenovany": "prezidentom Slovenskej republiky Michalom Kováčom"
+    },
+    {
+      "funkcia": "viceguvernér",
+      "meno": "Elena Kohútiková",
+      "dlzka_funkcneho_obdobia": "6 rokov",
+      "mandat": "28. marec 2000 – 27. marec 2006",
+      "vymenovany": "prezidentom Slovenskej republiky Rudolfom Schusterom"
+    },
+    {
+      "funkcia": "viceguvernér",
+      "meno": "Ivan Šramko",
+      "dlzka_funkcneho_obdobia": "5 rokov",
+      "mandat": "11. január 2002 – 31. december 2004",
+      "vymenovany": "prezidentom Slovenskej republiky Rudolfom Schusterom"
+    },
+    {
+      "funkcia": "viceguvernér",
+      "meno": "Martin Barto",
+      "dlzka_funkcneho_obdobia": "5 rokov",
+      "mandat": "31. január 2005 – 30. január 2010",
+      "vymenovany": "prezidentom Slovenskej republiky Ivanom Gašparovičom"
+    },
+    {
+      "funkcia": "viceguvernér",
+      "meno": "Viliam Ostrožlík",
+      "dlzka_funkcneho_obdobia": "5 rokov",
+      "mandat": "11. júl 2007 – 10. júl 2012",
+      "vymenovany": "prezidentom Slovenskej republiky Ivanom Gašparovičom"
+    },
+    {
+      "funkcia": "viceguvernér",
+      "meno": "Ján Tóth",
+      "dlzka_funkcneho_obdobia": "5 rokov",
+      "mandat": "5. november 2012 – 5. november 2017",
+      "vymenovany": "prezidentom Slovenskej republiky Ivanom Gašparovičom"
+    },
+    {
+      "funkcia": "viceguvernér",
+      "meno": "Ľudovít Ódor",
+      "dlzka_funkcneho_obdobia": "5 rokov",
+      "mandat": "20. február 2018 – 14.máj 2023",
+      "vymenovany": "prezidentom Slovenskej republiky Andrejom Kiskom"
+    },
+    {
+      "funkcia": "viceguvernér",
+      "meno": "Dušan Keketi",
+      "dlzka_funkcneho_obdobia": "5 rokov",
+      "mandat": "9. máj 2025 – [najneskôr] 9. máj 2030",
+      "vymenovany": "prezidentom Slovenskej republiky Petrom Pellegrinim"
+    }
+  ],
+  "meta": {
+    "title": "Guvernéri a viceguvernéri Národnej banky Slovenska - Free Download",
+    "description": "Zoznam guvernérov a viceguvernérov Národnej banky Slovenska od roku 1993 s mandátom a spôsobom vymenovania. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Guvernéri a viceguvernéri Národnej banky Slovenska | ListBase",
+    "seo_description": "Download Guvernéri a viceguvernéri Národnej banky Slovenska — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Národná_banka_Slovenska"
+    ]
+  }
+}
