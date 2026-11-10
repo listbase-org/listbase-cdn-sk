@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-09T02:27:16.508Z",
-  "total_datasets": 474,
-  "total_records": 284433,
+  "generated": "2026-11-10T02:19:42.544Z",
+  "total_datasets": 475,
+  "total_records": 284471,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "transport",
@@ -13339,6 +13339,35 @@
         "xlsx": {
           "name": "sk-atrakcie_SK.xlsx",
           "size": 37169
+        }
+      }
+    },
+    {
+      "id": "sk-dialkove-turisticke-trasy",
+      "name": "Diaľkové turistické trasy na Slovensku",
+      "category": "tourism",
+      "record_count": 38,
+      "columns": [
+        "name",
+        "length_km",
+        "elevation_gain_m",
+        "time_hhmm",
+        "start",
+        "end",
+        "via",
+        "type"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_diaľkových_turistických_trás_na_Slovensku",
+      "updated": "2026-11",
+      "size": 12781,
+      "files": {
+        "csv": {
+          "name": "sk-dialkove-turisticke-trasy_SK.csv",
+          "size": 5033
+        },
+        "xlsx": {
+          "name": "sk-dialkove-turisticke-trasy_SK.xlsx",
+          "size": 9919
         }
       }
     },

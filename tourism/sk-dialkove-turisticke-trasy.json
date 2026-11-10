@@ -1,0 +1,446 @@
+{
+  "id": "sk-dialkove-turisticke-trasy",
+  "name": "Diaľkové turistické trasy na Slovensku",
+  "title": "Diaľkové turistické trasy na Slovensku",
+  "description": "Zoznam diaľkových turistických trás na Slovensku s dĺžkou, prevýšením, časom prechodu, východiskovým a cieľovým bodom a pohoriami, cez ktoré vedú.",
+  "category": "tourism",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_diaľkových_turistických_trás_na_Slovensku",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_diaľkových_turistických_trás_na_Slovensku",
+  "updated": "2026-11",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "length_km",
+      "label": "Length Km",
+      "type": "number"
+    },
+    {
+      "key": "elevation_gain_m",
+      "label": "Elevation Gain M",
+      "type": "number"
+    },
+    {
+      "key": "time_hhmm",
+      "label": "Time Hhmm",
+      "type": "string"
+    },
+    {
+      "key": "start",
+      "label": "Start",
+      "type": "string"
+    },
+    {
+      "key": "end",
+      "label": "End",
+      "type": "string"
+    },
+    {
+      "key": "via",
+      "label": "Via",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Cesta hrdinov SNP",
+      "length_km": 761.8,
+      "elevation_gain_m": 30820,
+      "time_hhmm": "221:45",
+      "start": "Devín",
+      "end": "Dukliansky priesmyk",
+      "via": "Malé Karpaty - Biele Karpaty - Strážovské vrchy - Žiar - Kremnické vrchy - Veľká Fatra - Nízke Tatry - Slovenské rudohorie - Čergov - Nízke Beskydy",
+      "type": "národná"
+    },
+    {
+      "name": "Východokarpatská magistrála",
+      "length_km": 246.7,
+      "elevation_gain_m": 10140,
+      "time_hhmm": "70:00",
+      "start": "Ubľa",
+      "end": "Minčol",
+      "via": "Bukovské vrchy - Nízke Beskydy - Čergov",
+      "type": "národná"
+    },
+    {
+      "name": "Rudná magistrála",
+      "length_km": 240,
+      "elevation_gain_m": 9786,
+      "time_hhmm": "69:05",
+      "start": "Zlaté Moravce",
+      "end": "Stolica",
+      "via": "Pohronský Inovec - Štiavnické vrchy - Slovenské rudohorie",
+      "type": "národná"
+    },
+    {
+      "name": "Štefánikova magistrála",
+      "length_km": 120,
+      "elevation_gain_m": 4759,
+      "time_hhmm": "34:40",
+      "start": "Ivanka pri Dunaji",
+      "end": "Bradlo",
+      "via": "Malé Karpaty",
+      "type": "národná"
+    },
+    {
+      "name": "Ponitrianska magistrála",
+      "length_km": 106.6,
+      "elevation_gain_m": 4067,
+      "time_hhmm": "30:10",
+      "start": "Nitra",
+      "end": "Handlová",
+      "via": "Tribeč - Vtáčnik",
+      "type": "národná"
+    },
+    {
+      "name": "Chodník P. J. Šafárika",
+      "length_km": 97.6,
+      "elevation_gain_m": 4312,
+      "time_hhmm": "28:55",
+      "start": "Nálepkovo",
+      "end": "Jelšava",
+      "via": "Volovské vrchy - Revúcka vrchovina - Stolické vrchy",
+      "type": "národná"
+    },
+    {
+      "name": "Tatranská magistrála",
+      "length_km": 82.8,
+      "elevation_gain_m": 4206,
+      "time_hhmm": "26:25",
+      "start": "Jalovecká dolina",
+      "end": "Ždiar",
+      "via": "Západné Tatry - Vysoké Tatry - Belianske Tatry",
+      "type": "národná"
+    },
+    {
+      "name": "Záhorácka magistrála",
+      "length_km": 103.6,
+      "elevation_gain_m": 1700,
+      "time_hhmm": "26:10",
+      "start": "Skalica",
+      "end": "Závod",
+      "via": "Záhorie - Biele Karpaty",
+      "type": "národná"
+    },
+    {
+      "name": "Chodník Márie Széchy",
+      "length_km": 83.1,
+      "elevation_gain_m": 2061,
+      "time_hhmm": "22:10",
+      "start": "Muráň",
+      "end": "Fiľakovský hrad",
+      "via": "Muránska planina - Cerová vrchovina",
+      "type": "národná"
+    },
+    {
+      "name": "Veľkofatranská magistrála",
+      "length_km": 43.8,
+      "elevation_gain_m": 2238,
+      "time_hhmm": "15:10",
+      "start": "Krížna",
+      "end": "Ľubochňa",
+      "via": "Veľká Fatra",
+      "type": "národná"
+    },
+    {
+      "name": "Kysucká magistrála",
+      "length_km": 44,
+      "elevation_gain_m": 1910,
+      "time_hhmm": "12:55",
+      "start": "Makov",
+      "end": "Raková",
+      "via": "Turzovská vrchovina",
+      "type": "národná"
+    },
+    {
+      "name": "Via Slovakia",
+      "length_km": 1826,
+      "elevation_gain_m": 38517,
+      "time_hhmm": "cca 560",
+      "start": "Bratislavský hrad",
+      "end": "Bratislavský hrad",
+      "via": "pohraničie Slovenska",
+      "type": "národná"
+    },
+    {
+      "name": "Chodník Andreja Kmeťa",
+      "length_km": 40.7,
+      "elevation_gain_m": 1534,
+      "time_hhmm": "11:35",
+      "start": "Bzenica",
+      "end": "Prenčov",
+      "via": "Štiavnické vrchy",
+      "type": "národná"
+    },
+    {
+      "name": "Cesta Rudolfa Mattera",
+      "length_km": 9,
+      "elevation_gain_m": 430,
+      "time_hhmm": "3:00",
+      "start": "Makov",
+      "end": "Kopanice",
+      "via": "Javorníky",
+      "type": "národná"
+    },
+    {
+      "name": "Cesta Vila Gavlánka",
+      "length_km": 15.6,
+      "elevation_gain_m": 650,
+      "time_hhmm": "5:30",
+      "start": "Kysucké Nové Mesto",
+      "end": "Zákopčie",
+      "via": "Javorníky",
+      "type": "národná"
+    },
+    {
+      "name": "Hviezdoslavova aleja",
+      "length_km": "",
+      "elevation_gain_m": "",
+      "time_hhmm": "",
+      "start": "Slaná voda",
+      "end": "Hájovňa na Rovniach",
+      "via": "Oravské Beskydy",
+      "type": "národná"
+    },
+    {
+      "name": "Chodník drotárov",
+      "length_km": 8.9,
+      "elevation_gain_m": 300,
+      "time_hhmm": "2:50",
+      "start": "Dlhé Pole",
+      "end": "Kolárovice",
+      "via": "Javorníky",
+      "type": "národná"
+    },
+    {
+      "name": "Chodník Horskej služby",
+      "length_km": "",
+      "elevation_gain_m": "",
+      "time_hhmm": "",
+      "start": "Pod Tomášovským výhľadom",
+      "end": "ústie Suchej Belej",
+      "via": "Slovenský raj",
+      "type": "národná"
+    },
+    {
+      "name": "Chodník Janka Bojmíra",
+      "length_km": 9.3,
+      "elevation_gain_m": 840,
+      "time_hhmm": "4:00",
+      "start": "Gaderská dolina - Ústie Vápennej doliny",
+      "end": "Gaderská dolina - Ústie konského dolu",
+      "via": "Veľká Fatra",
+      "type": "národná"
+    },
+    {
+      "name": "Chodník Jurka Szomolányiho",
+      "length_km": "",
+      "elevation_gain_m": "",
+      "time_hhmm": "",
+      "start": "Červený most (Bratislava)",
+      "end": "Košariská",
+      "via": "Malé Karpaty",
+      "type": "národná"
+    },
+    {
+      "name": "Chodník Kamila Linharta",
+      "length_km": "",
+      "elevation_gain_m": "",
+      "time_hhmm": "",
+      "start": "Banská Bystrica",
+      "end": "Skalka",
+      "via": "Kremnické vrchy",
+      "type": "národná"
+    },
+    {
+      "name": "Chodník Kolomana Matušku",
+      "length_km": "",
+      "elevation_gain_m": "",
+      "time_hhmm": "",
+      "start": "rázc. Horný dom",
+      "end": "Kláštorská skala",
+      "via": "Vtáčnik",
+      "type": "národná"
+    },
+    {
+      "name": "Chodník kpt. Miloša Uhra",
+      "length_km": 11.9,
+      "elevation_gain_m": -800,
+      "time_hhmm": "3:30",
+      "start": "Veľká Javorina",
+      "end": "Lubina",
+      "via": "Biele Karpaty",
+      "type": "národná"
+    },
+    {
+      "name": "Chodník Ľ. Štúra a A. Dubčeka",
+      "length_km": 33.7,
+      "elevation_gain_m": 2065,
+      "time_hhmm": "13:00",
+      "start": "Uhrovec",
+      "end": "Chata Homôľka",
+      "via": "Strážovské vrchy",
+      "type": "národná"
+    },
+    {
+      "name": "Chodník Mila Urbana",
+      "length_km": "",
+      "elevation_gain_m": "",
+      "time_hhmm": "",
+      "start": "Hájovňa na Rovniach",
+      "end": "Babia hora",
+      "via": "Oravské Beskydy",
+      "type": "národná"
+    },
+    {
+      "name": "Chodník oslobodenia",
+      "length_km": "",
+      "elevation_gain_m": "",
+      "time_hhmm": "",
+      "start": "Lipovec",
+      "end": "Chata pod Kľačianskou Magurou",
+      "via": "Malá Fatra",
+      "type": "národná"
+    },
+    {
+      "name": "Chodník Petra Školnu",
+      "length_km": "",
+      "elevation_gain_m": "",
+      "time_hhmm": "",
+      "start": "Bystričany",
+      "end": "Vtáčnik",
+      "via": "Vtáčnik",
+      "type": "národná"
+    },
+    {
+      "name": "Chodník Rudolfa Drozda",
+      "length_km": "",
+      "elevation_gain_m": "",
+      "time_hhmm": "",
+      "start": "Nové Mesto nad Váhom",
+      "end": "Čachtický hrad",
+      "via": "Malé Karpaty",
+      "type": "národná"
+    },
+    {
+      "name": "Chodník Viktora Beniaka",
+      "length_km": "",
+      "elevation_gain_m": "",
+      "time_hhmm": "",
+      "start": "Podbranč -Majer",
+      "end": "Kunov",
+      "via": "Chvojnická pahorkatina",
+      "type": "národná"
+    },
+    {
+      "name": "Chodník Zoltána Kissa",
+      "length_km": 4.5,
+      "elevation_gain_m": 560,
+      "time_hhmm": "2:30",
+      "start": "Fačkovské sedlo",
+      "end": "Kľak",
+      "via": "Malá Fatra",
+      "type": "národná"
+    },
+    {
+      "name": "Partizánska cesta",
+      "length_km": "",
+      "elevation_gain_m": "",
+      "time_hhmm": "",
+      "start": "Nemecká",
+      "end": "Mýto pod Ďumbierom",
+      "via": "Horehronské podolie – Nízke Tatry",
+      "type": "národná"
+    },
+    {
+      "name": "Partizánsky chodník",
+      "length_km": "",
+      "elevation_gain_m": "",
+      "time_hhmm": "",
+      "start": "Staré Hory",
+      "end": "Špania Dolina",
+      "via": "Starohorské vrchy",
+      "type": "národná"
+    },
+    {
+      "name": "Pieninská cesta",
+      "length_km": "",
+      "elevation_gain_m": "",
+      "time_hhmm": "",
+      "start": "Červený Kláštor",
+      "end": "ústie Lesnického potoka",
+      "via": "Pieniny",
+      "type": "národná"
+    },
+    {
+      "name": "Prievidzský okruh",
+      "length_km": "",
+      "elevation_gain_m": "",
+      "time_hhmm": "",
+      "start": "Prievidza - Kopanice",
+      "end": "Prievidza -Kopanice",
+      "via": "Hornonitrianska kotlina",
+      "type": "národná"
+    },
+    {
+      "name": "Európska diaľková trasa E8",
+      "length_km": 785.1,
+      "elevation_gain_m": 31677,
+      "time_hhmm": "228:20",
+      "start": "Bratislava",
+      "end": "Dukliansky priesmyk",
+      "via": "Malé Karpaty - Biele Karpaty - Považský Inovec - Strážovské vrchy - Malá Fatra - Žiar - Kremnické vrchy - Veľká Fatra - Starohorské vrchy - Nízke Tatry - Spišsko-gemerský kras - Volovské vrchy - Čierna hora - Šarišská vrchovina - Čergov - Ondavská vrchovina - Busov - Laborecká vrchovina",
+      "type": "medzinárodná"
+    },
+    {
+      "name": "Medzinárodná diaľková trasa I23",
+      "length_km": 563.7,
+      "elevation_gain_m": 22702,
+      "time_hhmm": "166:00",
+      "start": "Červený Kláštor",
+      "end": "Bratislava",
+      "via": "Pieniny - Slovenský raj - Nízke Tatry - Veľká Fatra - Malá Fatra - Strážovské vrchy - Považský Inovec - Biele Karpaty - Malé Karpaty",
+      "type": "medzinárodná"
+    },
+    {
+      "name": "Európska diaľková trasa E3 - 1. časť",
+      "length_km": 214.9,
+      "elevation_gain_m": 10012,
+      "time_hhmm": "67:25",
+      "start": "Bumbálka",
+      "end": "Suchá Hora",
+      "via": "Javorníky - Súľovské vrchy - Malá Fatra - Oravská Magura - Skorušinské vrchy",
+      "type": "medzinárodná"
+    },
+    {
+      "name": "Európska diaľková trasa E3 - 2. časť",
+      "length_km": 296.3,
+      "elevation_gain_m": 10255,
+      "time_hhmm": "81:50",
+      "start": "Dukliansky priesmyk",
+      "end": "Slovenské Nové Mesto",
+      "via": "Nízke Beskydy - Čergov - Slanské vrchy",
+      "type": "medzinárodná"
+    }
+  ],
+  "meta": {
+    "title": "Diaľkové turistické trasy na Slovensku - Free Download",
+    "description": "Zoznam diaľkových turistických trás na Slovensku s dĺžkou, prevýšením, časom prechodu, východiskovým a cieľovým bodom a pohoriami, cez ktoré vedú. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Diaľkové turistické trasy na Slovensku | ListBase",
+    "seo_description": "Download Diaľkové turistické trasy na Slovensku — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_diaľkových_turistických_trás_na_Slovensku"
+    ]
+  }
+}
