@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-10T02:19:42.544Z",
-  "total_datasets": 475,
-  "total_records": 284471,
+  "generated": "2026-11-10T02:19:53.134Z",
+  "total_datasets": 476,
+  "total_records": 284549,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "reference",
@@ -5013,6 +5013,31 @@
         "xlsx": {
           "name": "sk-operni-speaci_SK.xlsx",
           "size": 12305
+        }
+      }
+    },
+    {
+      "id": "sk-diplomaticke-misie-slovenska",
+      "name": "Diplomatické misie Slovenska",
+      "category": "politics",
+      "record_count": 78,
+      "columns": [
+        "continent",
+        "city",
+        "type",
+        "note"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_diplomatických_misií_Slovenska",
+      "updated": "2026-11",
+      "size": 11112,
+      "files": {
+        "csv": {
+          "name": "sk-diplomaticke-misie-slovenska_SK.csv",
+          "size": 3559
+        },
+        "xlsx": {
+          "name": "sk-diplomaticke-misie-slovenska_SK.xlsx",
+          "size": 8696
         }
       }
     },
