@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-10T02:20:03.784Z",
-  "total_datasets": 477,
-  "total_records": 284585,
+  "generated": "2026-11-10T02:23:59.959Z",
+  "total_datasets": 478,
+  "total_records": 284628,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "geography",
@@ -2442,6 +2442,36 @@
         "xlsx": {
           "name": "sk-swift-kody_SK.xlsx",
           "size": 11094
+        }
+      }
+    },
+    {
+      "id": "sk-chranene-oznacenia-povodu-produkty",
+      "name": "Slovenské produkty s chráneným označením pôvodu a zemepisným označením (EÚ)",
+      "category": "food",
+      "record_count": 43,
+      "columns": [
+        "name",
+        "other_names",
+        "gi_type",
+        "product_type",
+        "cn_heading",
+        "file_number",
+        "status",
+        "registration_date",
+        "application_date"
+      ],
+      "source": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+      "updated": "2026-11",
+      "size": 15712,
+      "files": {
+        "csv": {
+          "name": "sk-chranene-oznacenia-povodu-produkty_SK.csv",
+          "size": 4568
+        },
+        "xlsx": {
+          "name": "sk-chranene-oznacenia-povodu-produkty_SK.xlsx",
+          "size": 9639
         }
       }
     },

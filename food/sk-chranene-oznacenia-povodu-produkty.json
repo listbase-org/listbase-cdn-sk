@@ -1,0 +1,544 @@
+{
+  "id": "sk-chranene-oznacenia-povodu-produkty",
+  "name": "Slovenské produkty s chráneným označením pôvodu a zemepisným označením (EÚ)",
+  "title": "Slovenské produkty s chráneným označením pôvodu a zemepisným označením (EÚ)",
+  "description": "Slovenské potraviny, vína a liehoviny zapísané v registri zemepisných označení EÚ eAmbrosia (CHOP, CHZO, ZO) so stavom a dátumom registrácie.",
+  "category": "food",
+  "source": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+  "source_url": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+  "updated": "2026-11",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "other_names",
+      "label": "Other Names",
+      "type": "string"
+    },
+    {
+      "key": "gi_type",
+      "label": "Gi Type",
+      "type": "string"
+    },
+    {
+      "key": "product_type",
+      "label": "Product Type",
+      "type": "string"
+    },
+    {
+      "key": "cn_heading",
+      "label": "Cn Heading",
+      "type": "number"
+    },
+    {
+      "key": "file_number",
+      "label": "File Number",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "registration_date",
+      "label": "Registration Date",
+      "type": "string"
+    },
+    {
+      "key": "application_date",
+      "label": "Application Date",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Baldovská",
+      "other_names": "Baldovská minerálna voda",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "cn_heading": "2201",
+      "file_number": "PDO-SK-03400",
+      "status": "PUBLISHED",
+      "registration_date": "",
+      "application_date": "13-01-2025"
+    },
+    {
+      "name": "Bardejovský Med",
+      "other_names": "Med z Bardejova",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "cn_heading": "04",
+      "file_number": "PDO-SK-02778",
+      "status": "REGISTERED",
+      "registration_date": "30-09-2022",
+      "application_date": "28-06-2021"
+    },
+    {
+      "name": "Brhlovské podlievané buchty",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "1905",
+      "file_number": "PGI-SK-03214",
+      "status": "REGISTERED",
+      "registration_date": "26-06-2026",
+      "application_date": "19-03-2024"
+    },
+    {
+      "name": "Cigeľská prírodná minerálna voda",
+      "other_names": "Minerálna voda Cigeľka, Cigeľka",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "cn_heading": "22",
+      "file_number": "PDO-SK-03398",
+      "status": "REGISTERED",
+      "registration_date": "28-10-2026",
+      "application_date": "10-01-2025"
+    },
+    {
+      "name": "Hrušovský lepník",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "1905",
+      "file_number": "PGI-SK-02474",
+      "status": "REGISTERED",
+      "registration_date": "25-07-2022",
+      "application_date": "08-06-2018"
+    },
+    {
+      "name": "Klenovecký syrec",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "0406",
+      "file_number": "PGI-SK-1008",
+      "status": "REGISTERED",
+      "registration_date": "14-01-2015",
+      "application_date": "22-06-2012"
+    },
+    {
+      "name": "Korytnica",
+      "other_names": "Korytnická",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "cn_heading": "2201 10",
+      "file_number": "PDO-SK-03409",
+      "status": "PUBLISHED",
+      "registration_date": "",
+      "application_date": "04-03-2025"
+    },
+    {
+      "name": "Levický slad",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "1107 10 99",
+      "file_number": "PGI-SK-01181",
+      "status": "REGISTERED",
+      "registration_date": "28-04-2016",
+      "application_date": "20-11-2013"
+    },
+    {
+      "name": "Lipovská minerálna voda Salvator",
+      "other_names": "Salvator",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "cn_heading": "2201 10",
+      "file_number": "PDO-SK-03401",
+      "status": "PUBLISHED",
+      "registration_date": "",
+      "application_date": "13-01-2025"
+    },
+    {
+      "name": "Liptovská bryndza",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "cn_heading": "0406",
+      "file_number": "PDO-SK-03316",
+      "status": "REGISTERED",
+      "registration_date": "18-03-2026",
+      "application_date": "12-08-2024"
+    },
+    {
+      "name": "Liptovské droby",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "2005 20 80",
+      "file_number": "PGI-SK-02370",
+      "status": "REGISTERED",
+      "registration_date": "18-02-2021",
+      "application_date": "31-10-2017"
+    },
+    {
+      "name": "Liptovské šialence",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "2106",
+      "file_number": "PGI-SK-03317",
+      "status": "REGISTERED",
+      "registration_date": "03-03-2026",
+      "application_date": "12-08-2024"
+    },
+    {
+      "name": "Muránske buchty",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "1905",
+      "file_number": "PGI-SK-03206",
+      "status": "REGISTERED",
+      "registration_date": "12-08-2025",
+      "application_date": "15-03-2024"
+    },
+    {
+      "name": "Nitrianska",
+      "other_names": "Nitrianske, Nitriansky",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PDO-SK-A1357",
+      "status": "REGISTERED",
+      "registration_date": "17-02-2006",
+      "application_date": ""
+    },
+    {
+      "name": "Nitrianska",
+      "other_names": "Nitrianske, Nitriansky",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PDO-SK-A1357",
+      "status": "REGISTERED",
+      "registration_date": "17-02-2006",
+      "application_date": ""
+    },
+    {
+      "name": "Nitrianska",
+      "other_names": "Nitrianske, Nitriansky",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PDO-SK-A1357",
+      "status": "REGISTERED",
+      "registration_date": "17-02-2006",
+      "application_date": ""
+    },
+    {
+      "name": "Nitrianska",
+      "other_names": "Nitrianske, Nitriansky",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PDO-SK-A1357",
+      "status": "REGISTERED",
+      "registration_date": "17-02-2006",
+      "application_date": ""
+    },
+    {
+      "name": "Oravský korbáčik",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "0406",
+      "file_number": "PGI-SK-0774",
+      "status": "REGISTERED",
+      "registration_date": "12-03-2011",
+      "application_date": "04-05-2009"
+    },
+    {
+      "name": "Paprika Žitava",
+      "other_names": "Žitavská paprika",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "cn_heading": "0904 22",
+      "file_number": "PDO-SK-1024",
+      "status": "REGISTERED",
+      "registration_date": "11-02-2014",
+      "application_date": "10-08-2012"
+    },
+    {
+      "name": "Pukanská cibuľa",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "cn_heading": "0703 10",
+      "file_number": "PDO-SK-03534",
+      "status": "APPLIED",
+      "registration_date": "",
+      "application_date": "31-08-2026"
+    },
+    {
+      "name": "Pukanské párance",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "1902 30",
+      "file_number": "PGI-SK-03487",
+      "status": "APPLIED",
+      "registration_date": "",
+      "application_date": "30-12-2025"
+    },
+    {
+      "name": "Račanská frankovka",
+      "other_names": "Račianska frankovka, Frankovka z Rače",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PDO-SK-03435",
+      "status": "PUBLISHED",
+      "registration_date": "",
+      "application_date": "09-06-2025"
+    },
+    {
+      "name": "Skalický rubín",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PDO-SK-01899",
+      "status": "REGISTERED",
+      "registration_date": "15-12-2017",
+      "application_date": "17-12-2014"
+    },
+    {
+      "name": "Skalický rubín",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PDO-SK-01899",
+      "status": "REGISTERED",
+      "registration_date": "15-12-2017",
+      "application_date": "17-12-2014"
+    },
+    {
+      "name": "Skalický rubín",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PDO-SK-01899",
+      "status": "REGISTERED",
+      "registration_date": "15-12-2017",
+      "application_date": "17-12-2014"
+    },
+    {
+      "name": "Skalický rubín",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PDO-SK-01899",
+      "status": "REGISTERED",
+      "registration_date": "15-12-2017",
+      "application_date": "17-12-2014"
+    },
+    {
+      "name": "Skalický trdelník",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "1905",
+      "file_number": "PGI-SK-0489",
+      "status": "REGISTERED",
+      "registration_date": "15-12-2007",
+      "application_date": ""
+    },
+    {
+      "name": "Slovenská bryndza",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "0406",
+      "file_number": "PGI-SK-0427",
+      "status": "REGISTERED",
+      "registration_date": "17-07-2008",
+      "application_date": ""
+    },
+    {
+      "name": "Slovenská parenica",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "0406",
+      "file_number": "PGI-SK-0485",
+      "status": "REGISTERED",
+      "registration_date": "11-07-2008",
+      "application_date": ""
+    },
+    {
+      "name": "Slovenský oštiepok",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "0406",
+      "file_number": "PGI-SK-0549",
+      "status": "REGISTERED",
+      "registration_date": "26-09-2008",
+      "application_date": "30-03-2006"
+    },
+    {
+      "name": "Spišská borovička",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Spirit drink",
+      "cn_heading": "2208",
+      "file_number": "PGI-SK-01824",
+      "status": "REGISTERED",
+      "registration_date": "23-09-2003",
+      "application_date": ""
+    },
+    {
+      "name": "Spišské zemiaky",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "cn_heading": "0701",
+      "file_number": "PDO-SK-03486",
+      "status": "PUBLISHED",
+      "registration_date": "",
+      "application_date": "30-12-2025"
+    },
+    {
+      "name": "Spišský šípkový lekvár",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "cn_heading": "2007 10 10",
+      "file_number": "PDO-SK-03207",
+      "status": "REGISTERED",
+      "registration_date": "18-06-2025",
+      "application_date": "15-03-2024"
+    },
+    {
+      "name": "Stredoslovenská",
+      "other_names": "Stredoslovenský, Stredoslovenské",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PDO-SK-A1355",
+      "status": "REGISTERED",
+      "registration_date": "17-02-2006",
+      "application_date": ""
+    },
+    {
+      "name": "Stupavské zelé",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "cn_heading": "2004 90 30",
+      "file_number": "PDO-SK-02110",
+      "status": "REGISTERED",
+      "registration_date": "11-05-2017",
+      "application_date": "26-10-2015"
+    },
+    {
+      "name": "Sulinka",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "cn_heading": "2201 10",
+      "file_number": "PDO-SK-03399",
+      "status": "PUBLISHED",
+      "registration_date": "",
+      "application_date": "10-01-2025"
+    },
+    {
+      "name": "TOKAJSKÉ VÍNO zo slovenskej oblasti",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PDO-SK-02856",
+      "status": "REGISTERED",
+      "registration_date": "03-07-2025",
+      "application_date": "19-07-2022"
+    },
+    {
+      "name": "Tekovský salámový syr",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "0406",
+      "file_number": "PGI-SK-0693",
+      "status": "REGISTERED",
+      "registration_date": "12-03-2011",
+      "application_date": "14-04-2008"
+    },
+    {
+      "name": "Trenčianska borovička „JUNIPERUS“",
+      "other_names": "Trenčianska borovička „JUNIPERIERS“ – TRENČÍN DISTILLERY",
+      "gi_type": "PGI",
+      "product_type": "Spirit drink",
+      "cn_heading": "2208",
+      "file_number": "PGI-SK-02871",
+      "status": "REGISTERED",
+      "registration_date": "08-05-2024",
+      "application_date": "17-10-2022"
+    },
+    {
+      "name": "Trnavský slad",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "1107 10 99",
+      "file_number": "PGI-SK-02785",
+      "status": "REGISTERED",
+      "registration_date": "28-01-2025",
+      "application_date": "19-07-2021"
+    },
+    {
+      "name": "Vinohradnícka oblasť Tokaj",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PDO-SK-A0120",
+      "status": "REGISTERED",
+      "registration_date": "17-02-2006",
+      "application_date": ""
+    },
+    {
+      "name": "Zázrivské vojky",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "0406",
+      "file_number": "PGI-SK-1026",
+      "status": "REGISTERED",
+      "registration_date": "12-09-2014",
+      "application_date": "13-08-2012"
+    },
+    {
+      "name": "Zázrivský korbáčik",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "0406",
+      "file_number": "PGI-SK-0656",
+      "status": "REGISTERED",
+      "registration_date": "12-03-2011",
+      "application_date": "30-10-2007"
+    }
+  ],
+  "meta": {
+    "title": "Slovenské produkty s chráneným označením pôvodu a zemepisným označením (EÚ) - Free Download",
+    "description": "Slovenské potraviny, vína a liehoviny zapísané v registri zemepisných označení EÚ eAmbrosia (CHOP, CHZO, ZO) so stavom a dátumom registrácie. Contains 43 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Slovenské produkty s chráneným označením pôvodu a zemepisným označením (EÚ) | ListBase",
+    "seo_description": "Download Slovenské produkty s chráneným označením pôvodu a zemepisným označením (EÚ) — 43 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 43 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/"
+    ]
+  }
+}
