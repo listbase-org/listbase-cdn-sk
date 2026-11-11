@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-11T02:09:04.992Z",
-  "total_datasets": 480,
-  "total_records": 285035,
+  "generated": "2026-11-11T02:09:16.581Z",
+  "total_datasets": 481,
+  "total_records": 285096,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "tech",
@@ -12834,6 +12834,32 @@
         "xlsx": {
           "name": "sk-majstrovstva-sveta-a-europy-na-slovensku_SK.xlsx",
           "size": 10281
+        }
+      }
+    },
+    {
+      "id": "sk-medailisti-slovenskej-atletiky",
+      "name": "Medailisti slovenskej atletiky na OH, MS a ME",
+      "category": "sports",
+      "record_count": 61,
+      "columns": [
+        "competition",
+        "year",
+        "venue",
+        "athlete",
+        "discipline"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_úspechov_slovenskej_atletiky",
+      "updated": "2026-11",
+      "size": 12667,
+      "files": {
+        "csv": {
+          "name": "sk-medailisti-slovenskej-atletiky_SK.csv",
+          "size": 4680
+        },
+        "xlsx": {
+          "name": "sk-medailisti-slovenskej-atletiky_SK.xlsx",
+          "size": 8894
         }
       }
     },

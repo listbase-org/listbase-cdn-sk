@@ -1,0 +1,478 @@
+{
+  "id": "sk-medailisti-slovenskej-atletiky",
+  "name": "Medailisti slovenskej atletiky na OH, MS a ME",
+  "title": "Medailisti slovenskej atletiky na OH, MS a ME",
+  "description": "Slovenskí atléti, ktorí získali medaily na olympijských hrách, majstrovstvách sveta a Európy (vonku aj v hale), s rokom, dejiskom a disciplínou.",
+  "category": "sports",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_úspechov_slovenskej_atletiky",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_úspechov_slovenskej_atletiky",
+  "updated": "2026-11",
+  "record_count": 61,
+  "columns": [
+    {
+      "key": "competition",
+      "label": "Competition",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "venue",
+      "label": "Venue",
+      "type": "string"
+    },
+    {
+      "key": "athlete",
+      "label": "Athlete",
+      "type": "string"
+    },
+    {
+      "key": "discipline",
+      "label": "Discipline",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "competition": "olympijské hry",
+      "year": 1896,
+      "venue": "Atény",
+      "athlete": "Alojz Sokol",
+      "discipline": "100 m"
+    },
+    {
+      "competition": "olympijské hry",
+      "year": 1912,
+      "venue": "Štokholm",
+      "athlete": "Mór Koczán",
+      "discipline": "hod oštepom"
+    },
+    {
+      "competition": "olympijské hry",
+      "year": 1972,
+      "venue": "Mníchov",
+      "athlete": "Eva Šuranová",
+      "discipline": "skok do diaľky"
+    },
+    {
+      "competition": "olympijské hry",
+      "year": 1980,
+      "venue": "Moskva",
+      "athlete": "Imrich Bugár",
+      "discipline": "hod diskom"
+    },
+    {
+      "competition": "olympijské hry",
+      "year": 1988,
+      "venue": "Soul",
+      "athlete": "Jozef Pribilinec",
+      "discipline": "chôdza na 20 km"
+    },
+    {
+      "competition": "olympijské hry",
+      "year": 2016,
+      "venue": "Rio de Janeiro",
+      "athlete": "Matej Tóth",
+      "discipline": "chôdza na 50 km"
+    },
+    {
+      "competition": "majstrovstvá sveta",
+      "year": 1983,
+      "venue": "Helsinki",
+      "athlete": "Imrich Bugár",
+      "discipline": "hod diskom"
+    },
+    {
+      "competition": "majstrovstvá sveta",
+      "year": 1983,
+      "venue": "Helsinki",
+      "athlete": "Zuzana Moravčíková",
+      "discipline": "4×400 m"
+    },
+    {
+      "competition": "majstrovstvá sveta",
+      "year": 1983,
+      "venue": "Helsinki",
+      "athlete": "Jozef Pribilinec",
+      "discipline": "chôdza na 20 km"
+    },
+    {
+      "competition": "majstrovstvá sveta",
+      "year": 1987,
+      "venue": "Rím",
+      "athlete": "Jozef Pribilinec",
+      "discipline": "chôdza na 20 km"
+    },
+    {
+      "competition": "majstrovstvá sveta",
+      "year": 1997,
+      "venue": "Atény",
+      "athlete": "Igor Kováč",
+      "discipline": "110 m prek."
+    },
+    {
+      "competition": "majstrovstvá sveta",
+      "year": 2007,
+      "venue": "Osaka",
+      "athlete": "Libor Charfreitag",
+      "discipline": "hod kladivom"
+    },
+    {
+      "competition": "majstrovstvá sveta",
+      "year": 2009,
+      "venue": "Berlín",
+      "athlete": "Martina Hrašnová",
+      "discipline": "hod kladivom"
+    },
+    {
+      "competition": "majstrovstvá sveta",
+      "year": 2015,
+      "venue": "Peking",
+      "athlete": "Matej Tóth",
+      "discipline": "chôdza na 50 km"
+    },
+    {
+      "competition": "majstrovstvá sveta",
+      "year": 2025,
+      "venue": "Tokio",
+      "athlete": "Emma Zapletalová",
+      "discipline": "400 m prek."
+    },
+    {
+      "competition": "halové majstrovstvá sveta",
+      "year": 1987,
+      "venue": "Indianapolis",
+      "athlete": "Jozef Pribilinec",
+      "discipline": "chôdza na 5 km"
+    },
+    {
+      "competition": "halové majstrovstvá sveta",
+      "year": 1987,
+      "venue": "Indianapolis",
+      "athlete": "Gabriela Sedláková",
+      "discipline": "800 m"
+    },
+    {
+      "competition": "halové majstrovstvá sveta",
+      "year": 1987,
+      "venue": "Indianapolis",
+      "athlete": "Ján Zvara",
+      "discipline": "skok do výšky"
+    },
+    {
+      "competition": "halové majstrovstvá sveta",
+      "year": 1989,
+      "venue": "Budapešť",
+      "athlete": "Roman Mrázek",
+      "discipline": "chôdza na 5 km"
+    },
+    {
+      "competition": "majstrovstvá Európy",
+      "year": 1966,
+      "venue": "Budapešť",
+      "athlete": "Anna Chmelková",
+      "discipline": "400 m"
+    },
+    {
+      "competition": "majstrovstvá Európy",
+      "year": 1969,
+      "venue": "Atény",
+      "athlete": "Jozef Plachý",
+      "discipline": "800 m"
+    },
+    {
+      "competition": "majstrovstvá Európy",
+      "year": 1969,
+      "venue": "Atény",
+      "athlete": "Mária Mračnová",
+      "discipline": "skok do výšky"
+    },
+    {
+      "competition": "majstrovstvá Európy",
+      "year": 1969,
+      "venue": "Atény",
+      "athlete": "Dionýz Szögedi",
+      "discipline": "4x100 m"
+    },
+    {
+      "competition": "majstrovstvá Európy",
+      "year": 1971,
+      "venue": "Helsinki",
+      "athlete": "Juraj Demeč",
+      "discipline": "4x100 m"
+    },
+    {
+      "competition": "majstrovstvá Európy",
+      "year": 1971,
+      "venue": "Helsinki",
+      "athlete": "Dušan Moravčík",
+      "discipline": "3000 m prek."
+    },
+    {
+      "competition": "majstrovstvá Európy",
+      "year": 1974,
+      "venue": "Rím",
+      "athlete": "Eva Šuranová",
+      "discipline": "skok do diaľky"
+    },
+    {
+      "competition": "majstrovstvá Európy",
+      "year": 1978,
+      "venue": "Praha",
+      "athlete": "Imrich Bugár",
+      "discipline": "hod diskom"
+    },
+    {
+      "competition": "majstrovstvá Európy",
+      "year": 1982,
+      "venue": "Atény",
+      "athlete": "Imrich Bugár",
+      "discipline": "hod diskom"
+    },
+    {
+      "competition": "majstrovstvá Európy",
+      "year": 1982,
+      "venue": "Atény",
+      "athlete": "Jozef Pribilinec",
+      "discipline": "chôdza na 20 km"
+    },
+    {
+      "competition": "majstrovstvá Európy",
+      "year": 1982,
+      "venue": "Atény",
+      "athlete": "Pavol Blažek",
+      "discipline": "chôdza na 20 km"
+    },
+    {
+      "competition": "majstrovstvá Európy",
+      "year": 1986,
+      "venue": "Stuttgart",
+      "athlete": "Jozef Pribilinec",
+      "discipline": "chôdza na 20 km"
+    },
+    {
+      "competition": "majstrovstvá Európy",
+      "year": 1990,
+      "venue": "Split",
+      "athlete": "Pavol Blažek",
+      "discipline": "chôdza na 20 km"
+    },
+    {
+      "competition": "majstrovstvá Európy",
+      "year": 2010,
+      "venue": "Barcelona",
+      "athlete": "Libor Charfreitag",
+      "discipline": "hod kladivom"
+    },
+    {
+      "competition": "majstrovstvá Európy",
+      "year": 2010,
+      "venue": "Barcelona",
+      "athlete": "Lucia Klocová",
+      "discipline": "800 m"
+    },
+    {
+      "competition": "majstrovstvá Európy",
+      "year": 2012,
+      "venue": "Helsinki",
+      "athlete": "Martina Hrašnová",
+      "discipline": "hod kladivom"
+    },
+    {
+      "competition": "majstrovstvá Európy",
+      "year": 2014,
+      "venue": "Zürich",
+      "athlete": "Martina Hrašnová",
+      "discipline": "hod kladivom"
+    },
+    {
+      "competition": "majstrovstvá Európy",
+      "year": 2014,
+      "venue": "Zürich",
+      "athlete": "Matej Tóth",
+      "discipline": "chôdza na 50 km"
+    },
+    {
+      "competition": "majstrovstvá Európy",
+      "year": 2018,
+      "venue": "Berlín",
+      "athlete": "Matej Tóth",
+      "discipline": "chôdza na 50 km"
+    },
+    {
+      "competition": "majstrovstvá Európy",
+      "year": 2024,
+      "venue": "Rím",
+      "athlete": "Gabriela Gajanová",
+      "discipline": "800 m"
+    },
+    {
+      "competition": "majstrovstvá Európy",
+      "year": 2026,
+      "venue": "Birmingham",
+      "athlete": "Emma Zapletalová",
+      "discipline": "400 m prek."
+    },
+    {
+      "competition": "halové majstrovstvá Európy",
+      "year": 1972,
+      "venue": "Grenoble",
+      "athlete": "Jozef Plachý",
+      "discipline": "800 m"
+    },
+    {
+      "competition": "halové majstrovstvá Európy",
+      "year": 1973,
+      "venue": "Rotterdam",
+      "athlete": "Ivan Kováč, Jozef Samborský, Jozef Plachý, Ján Šišovský",
+      "discipline": "4 x 4 kolá"
+    },
+    {
+      "competition": "halové majstrovstvá Európy",
+      "year": 1973,
+      "venue": "Rotterdam",
+      "athlete": "Jozef Plachý",
+      "discipline": "800 m"
+    },
+    {
+      "competition": "halové majstrovstvá Európy",
+      "year": 1974,
+      "venue": "Göteborg",
+      "athlete": "Jozef Plachý",
+      "discipline": "800 m"
+    },
+    {
+      "competition": "halové majstrovstvá Európy",
+      "year": 1983,
+      "venue": "Budapešť",
+      "athlete": "Eva Murková",
+      "discipline": "skok do diaľky"
+    },
+    {
+      "competition": "halové majstrovstvá Európy",
+      "year": 1983,
+      "venue": "Budapešť",
+      "athlete": "Zuzana Moravčíková",
+      "discipline": "800 m"
+    },
+    {
+      "competition": "halové majstrovstvá Európy",
+      "year": 1984,
+      "venue": "Göteborg",
+      "athlete": "Eva Murková",
+      "discipline": "skok do diaľky"
+    },
+    {
+      "competition": "halové majstrovstvá Európy",
+      "year": 1985,
+      "venue": "Atény",
+      "athlete": "Eva Murková",
+      "discipline": "skok do diaľky"
+    },
+    {
+      "competition": "halové majstrovstvá Európy",
+      "year": 1985,
+      "venue": "Atény",
+      "athlete": "Ján Čado",
+      "discipline": "trojskok"
+    },
+    {
+      "competition": "halové majstrovstvá Európy",
+      "year": 1987,
+      "venue": "Liévin",
+      "athlete": "Jozef Pribilinec",
+      "discipline": "chôdza 5 km"
+    },
+    {
+      "competition": "halové majstrovstvá Európy",
+      "year": 1987,
+      "venue": "Liévin",
+      "athlete": "Roman Mrázek",
+      "discipline": "chôdza 5 km"
+    },
+    {
+      "competition": "halové majstrovstvá Európy",
+      "year": 1988,
+      "venue": "Budapešť",
+      "athlete": "Jozef Pribilinec",
+      "discipline": "chôdza 5 km"
+    },
+    {
+      "competition": "halové majstrovstvá Európy",
+      "year": 1988,
+      "venue": "Budapešť",
+      "athlete": "Roman Mrázek",
+      "discipline": "chôdza 5 km"
+    },
+    {
+      "competition": "halové majstrovstvá Európy",
+      "year": 1988,
+      "venue": "Haag",
+      "athlete": "Roman Mrázek",
+      "discipline": "chôdza 5 km"
+    },
+    {
+      "competition": "halové majstrovstvá Európy",
+      "year": 1988,
+      "venue": "Haag",
+      "athlete": "Milan Mikuláš",
+      "discipline": "trojskok"
+    },
+    {
+      "competition": "halové majstrovstvá Európy",
+      "year": 2007,
+      "venue": "Birmingham",
+      "athlete": "Mikuláš Konopka",
+      "discipline": "vrh guľou"
+    },
+    {
+      "competition": "halové majstrovstvá Európy",
+      "year": 2009,
+      "venue": "Turín",
+      "athlete": "Dana Velďáková",
+      "discipline": "trojskok"
+    },
+    {
+      "competition": "halové majstrovstvá Európy",
+      "year": 2011,
+      "venue": "Paríž",
+      "athlete": "Dana Velďáková",
+      "discipline": "trojskok"
+    },
+    {
+      "competition": "halové majstrovstvá Európy",
+      "year": 2017,
+      "venue": "Belehrad",
+      "athlete": "Ján Volko",
+      "discipline": "60 m"
+    },
+    {
+      "competition": "halové majstrovstvá Európy",
+      "year": 2019,
+      "venue": "Glasgow",
+      "athlete": "Ján Volko",
+      "discipline": "60 m"
+    },
+    {
+      "competition": "halové majstrovstvá Európy",
+      "year": 2021,
+      "venue": "Toruň",
+      "athlete": "Ján Volko",
+      "discipline": "60 m"
+    }
+  ],
+  "meta": {
+    "title": "Medailisti slovenskej atletiky na OH, MS a ME - Free Download",
+    "description": "Slovenskí atléti, ktorí získali medaily na olympijských hrách, majstrovstvách sveta a Európy (vonku aj v hale), s rokom, dejiskom a disciplínou. Contains 61 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Medailisti slovenskej atletiky na OH, MS a ME | ListBase",
+    "seo_description": "Download Medailisti slovenskej atletiky na OH, MS a ME — 61 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 61 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_úspechov_slovenskej_atletiky"
+    ]
+  }
+}
