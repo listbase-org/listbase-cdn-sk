@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-11T02:08:54.193Z",
-  "total_datasets": 479,
-  "total_records": 284953,
+  "generated": "2026-11-11T02:09:04.992Z",
+  "total_datasets": 480,
+  "total_records": 285035,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "tech",
@@ -12808,6 +12808,32 @@
         "xlsx": {
           "name": "sk-majstri-slovenskej-futbalovej-ligy_SK.xlsx",
           "size": 7880
+        }
+      }
+    },
+    {
+      "id": "sk-majstrovstva-sveta-a-europy-na-slovensku",
+      "name": "Majstrovstvá sveta a Európy usporiadané na Slovensku",
+      "category": "sports",
+      "record_count": 82,
+      "columns": [
+        "championship",
+        "category",
+        "sport",
+        "years",
+        "venue"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_majstrovstiev_sveta_na_Slovensku",
+      "updated": "2026-11",
+      "size": 18388,
+      "files": {
+        "csv": {
+          "name": "sk-majstrovstva-sveta-a-europy-na-slovensku_SK.csv",
+          "size": 8274
+        },
+        "xlsx": {
+          "name": "sk-majstrovstva-sveta-a-europy-na-slovensku_SK.xlsx",
+          "size": 10281
         }
       }
     },

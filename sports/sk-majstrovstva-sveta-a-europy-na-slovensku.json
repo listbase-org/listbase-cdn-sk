@@ -1,0 +1,625 @@
+{
+  "id": "sk-majstrovstva-sveta-a-europy-na-slovensku",
+  "name": "Majstrovstvá sveta a Európy usporiadané na Slovensku",
+  "title": "Majstrovstvá sveta a Európy usporiadané na Slovensku",
+  "description": "Prehľad majstrovstiev sveta a Európy v rôznych športoch, ktoré sa konali na Slovensku, s rokmi a dejiskami.",
+  "category": "sports",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_majstrovstiev_sveta_na_Slovensku",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_majstrovstiev_sveta_na_Slovensku",
+  "updated": "2026-11",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "championship",
+      "label": "Championship",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "sport",
+      "label": "Sport",
+      "type": "string"
+    },
+    {
+      "key": "years",
+      "label": "Years",
+      "type": "string"
+    },
+    {
+      "key": "venue",
+      "label": "Venue",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "klasické lyžovanie",
+      "years": "1935 1970",
+      "venue": "Vysoké Tatry Štrbské Pleso"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "šerm",
+      "years": "1938",
+      "venue": "Piešťany"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "krasokorčuľovanie",
+      "years": "1973",
+      "venue": "Bratislava"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "ľadový hokej",
+      "years": "1959 1992 1995 2011 2019",
+      "venue": "Bratislava (skupina A) Bratislava (základná časť) Bratislava (B-kategória) Bratislava, Košice Bratislava, Košice"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "basketbal",
+      "years": "1967 (ženy)",
+      "venue": "Bratislava (skupina B)"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "volejbal",
+      "years": "1966 (muži) 1986 (ženy)",
+      "venue": "Nitra (skupina B) Žilina (skupina A)"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "hádzaná",
+      "years": "1964 (muži) 1978 (ženy) 1990 (muži)",
+      "venue": "Bratislava (skupina B) Bratislava (finálová časť), Trnava (skupina B) Bratislava (semifinálová časť), Žilina (skupina B), Prešov (skupina D)"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "biatlon",
+      "years": "1997",
+      "venue": "Osrblie"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "letný biatlon",
+      "years": "2010, 2012",
+      "venue": "Osrblie"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "atletika",
+      "years": "1997 (polmaratón)",
+      "venue": "Košice"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "cyklokros",
+      "years": "1999",
+      "venue": "Poprad – Spišská Teplica"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "vodný slalom",
+      "years": "2011",
+      "venue": "Bratislava – Čunovo"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "kolky",
+      "years": "1962 1992 2007",
+      "venue": "Bratislava Bratislava Košice"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "parašutizmus",
+      "years": "1958 1982, 2008",
+      "venue": "Bratislava Lučenec – Boľkovce"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "kulturistika",
+      "years": "1997 (ženy) 1999 (muži)",
+      "venue": "Bratislava Bratislava"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "silový trojboj",
+      "years": "2002",
+      "venue": "Trenčín"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "nohejbal",
+      "years": "1994",
+      "venue": "Košice"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "hokejbal",
+      "years": "1996 1999 2011 2019",
+      "venue": "Bratislava Zvolen Bratislava Košice"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "inline hokej",
+      "years": "2008 2017",
+      "venue": "Bratislava"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "florbal",
+      "years": "2017 (ženy)",
+      "venue": "Bratislava"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "letecká akrobacia",
+      "years": "1960 1998",
+      "venue": "Bratislava Trenčín"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "lyžovanie na tráve",
+      "years": "1995",
+      "venue": "Kálnica"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "orientačná cyklistika",
+      "years": "2005",
+      "venue": "Banská Bystrica"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "zimný triatlon",
+      "years": "2005",
+      "venue": "Štrbské Pleso"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "rádio orientačný beh",
+      "years": "1990 2002",
+      "venue": "Štrbské Pleso Tatranské Matliare"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "fitnes",
+      "years": "2019",
+      "venue": "Bratislava"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "dospelí",
+      "sport": "vodné lyžovanie za vlekom",
+      "years": "2000",
+      "venue": "Piešťany"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "mládežnícke a iné",
+      "sport": "ľadový hokej",
+      "years": "1977 MS do 20 rokov 1987 MS do 20 rokov",
+      "venue": "Banská Bystrica, Zvolen Piešťany, Nitra, Trenčín, Topoľčany"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "mládežnícke a iné",
+      "sport": "ľadový hokej",
+      "years": "2002 MS do 18 rokov 2017 MS do 18 rokov 2020 MS žien do 18 rokov 2026",
+      "venue": "Piešťany, Trnava Poprad, Spišská Nová Ves Bratislava"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "mládežnícke a iné",
+      "sport": "klasické lyžovanie",
+      "years": "1990, 2000, 2009",
+      "venue": "Štrbské Pleso"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "mládežnícke a iné",
+      "sport": "alpské lyžovanie",
+      "years": "1985, 2014",
+      "venue": "Jasná"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "mládežnícke a iné",
+      "sport": "biatlon",
+      "years": "1994, 2017, 2019",
+      "venue": "Osrblie"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "mládežnícke a iné",
+      "sport": "vodný slalom",
+      "years": "2000, 2017 2013",
+      "venue": "Bratislava Liptovský Mikuláš"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "mládežnícke a iné",
+      "sport": "zápasenie",
+      "years": "1991",
+      "venue": "Prievidza"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "mládežnícke a iné",
+      "sport": "moderný päťboj",
+      "years": "1997",
+      "venue": "Banská Bystrica"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "mládežnícke a iné",
+      "sport": "nohejbal",
+      "years": "2000, 2013, 2019",
+      "venue": "Košice, Košice, Michalovce"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "mládežnícke a iné",
+      "sport": "basketbal",
+      "years": "2007 MS žien U-19",
+      "venue": "Bratislava"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "mládežnícke a iné",
+      "sport": "hádzaná",
+      "years": "MS žien do 18 rokov 2008, 2016",
+      "venue": "Bratislava"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "mládežnícke a iné",
+      "sport": "stolný tenis",
+      "years": "2010",
+      "venue": "Bratislava"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "mládežnícke a iné",
+      "sport": "vzpieranie",
+      "years": "2012 MS U-17",
+      "venue": "Košice"
+    },
+    {
+      "championship": "majstrovstvá sveta",
+      "category": "mládežnícke a iné",
+      "sport": "hokejbal",
+      "years": "2004 2014",
+      "venue": "Martin Bratislava"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "rýchlokorčuľovanie",
+      "years": "1900",
+      "venue": "Štrbské Pleso"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "ľadový hokej",
+      "years": "1925",
+      "venue": "Štrbské Pleso, Starý Smokovec"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "krasokorčuľovanie",
+      "years": "1958, 1966, 2001, 2016",
+      "venue": "Bratislava"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "zápasenie",
+      "years": "1980",
+      "venue": "Prievidza"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "basketbal",
+      "years": "1981",
+      "venue": "Bratislava (skupina A, finálová skupina v Prahe)"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "športová streľba",
+      "years": "1987 (vzduchové zbrane)",
+      "venue": "Bratislava"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "kanoistika (maratón)",
+      "years": "2007 2014",
+      "venue": "Trenčín Piešťany"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "vodný slalom",
+      "years": "2002 2007, 2016",
+      "venue": "Bratislava Liptovský Mikuláš"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "vzpieranie",
+      "years": "2001",
+      "venue": "Trenčín"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "džudo",
+      "years": "1999",
+      "venue": "Bratislava"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "stolný tenis",
+      "years": "1996",
+      "venue": "Bratislava"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "atletika",
+      "years": "1997 (polmaratón) 2017 (kros)",
+      "venue": "Košice Šamorín"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "pretláčanie rukou",
+      "years": "1997",
+      "venue": "Poprad"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "karate",
+      "years": "2007",
+      "venue": "Bratislava"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "kickbox",
+      "years": "2018",
+      "venue": "Bratislava"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "horská cyklistika",
+      "years": "2011 (cross-country) 2017 (cross-country maratón)",
+      "venue": "Dohňany Svit"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "cyklotrial",
+      "years": "2006 2007",
+      "venue": "Púchov (halové ME) Terchová (ME BIU)"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "biatlon",
+      "years": "2012",
+      "venue": "Osrblie"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "volejbal",
+      "years": "2019",
+      "venue": "Bratislava /spoluorganizátori Budapešť, Lodž, Ankara"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "hádzaná",
+      "years": "2022",
+      "venue": "Bratislava, Košice /spoluorganizátori"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "nohejbal",
+      "years": "2007 2013 (ženy) 2015 (muži)",
+      "venue": "Trenčín Košice Humenné"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "malý futbal",
+      "years": "2010",
+      "venue": "Bratislava"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "vodné lyžovanie za vlekom",
+      "years": "1989, 1993 1997",
+      "venue": "Košice Piešťany MS 2000"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "letecká akrobacia",
+      "years": "2012",
+      "venue": "Dubnica nad Váhom"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "bezmotorové lietanie",
+      "years": "2009, 2011 2019",
+      "venue": "Nitra Prievidza"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "dospelí",
+      "sport": "akvatlon",
+      "years": "2017",
+      "venue": "Bratislava"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "mládežnícke a iné",
+      "sport": "futbal",
+      "years": "2000 ME do 21 rokov 2013 ME do 17 rokov 2025 ME do 21 rokov",
+      "venue": "Bratislava, Trnava, Trenčín Žilina, Dubnica nad Váhom, Nitra, Zlaté Moravce Bratislava, Trnava, Dunajská Streda, Nitra, Trenčín, Žilina, Košice, Prešov"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "mládežnícke a iné",
+      "sport": "futbal",
+      "years": "2016 ME žien U-19",
+      "venue": "Senec, Zlaté Moravce, Senica, Myjava"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "mládežnícke a iné",
+      "sport": "ľadový hokej",
+      "years": "1971 ME do 18 rokov 1991 ME do 18 rokov",
+      "venue": "Prešov Prešov, Spišská Nová Ves"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "mládežnícke a iné",
+      "sport": "basketbal",
+      "years": "2000 ženy U-20 1996 ženy U-18 2004 ženy U-18 2008 ženy U-18 2010 ženy U-18",
+      "venue": "Ružomberok, Bardejov, Lučenec Žilina Bratislava Nitra Poprad"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "mládežnícke a iné",
+      "sport": "hádzaná",
+      "years": "2003 muži U-18 2010 muži U-20",
+      "venue": "Košice, Prešov Bratislava"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "mládežnícke a iné",
+      "sport": "hádzaná",
+      "years": "1998 ženy U-19 2007 ženy U-17 2017 ženy U-17",
+      "venue": "Bratislava, Senica, Zlatná Bratislava Michalovce"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "mládežnícke a iné",
+      "sport": "volejbal",
+      "years": "2014 muži U-20",
+      "venue": "Nitra /spoluorganizátor Brno"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "mládežnícke a iné",
+      "sport": "volejbal",
+      "years": "2004 ženy U-20 2016 ženy U-20",
+      "venue": "Prešov Nitra /spoluorganizátor Győr"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "mládežnícke a iné",
+      "sport": "vodné pólo",
+      "years": "1994, 1998",
+      "venue": "Bratislava"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "mládežnícke a iné",
+      "sport": "vodný slalom",
+      "years": "1995, 2009, 2019 2001, 2002, 2018",
+      "venue": "Liptovský Mikuláš Bratislava"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "mládežnícke a iné",
+      "sport": "vzpieranie",
+      "years": "2005",
+      "venue": "Trenčín"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "mládežnícke a iné",
+      "sport": "zápasenie",
+      "years": "2008",
+      "venue": "Košice"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "mládežnícke a iné",
+      "sport": "stolný tenis",
+      "years": "1981, 1992, 1997 2000, 2007, 2015",
+      "venue": "Topoľčany Bratislava"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "mládežnícke a iné",
+      "sport": "zjazdové lyžovanie",
+      "years": "1974",
+      "venue": "Jasná"
+    },
+    {
+      "championship": "majstrovstvá Európy",
+      "category": "mládežnícke a iné",
+      "sport": "biatlon",
+      "years": "1993, 2012",
+      "venue": "Osrblie"
+    }
+  ],
+  "meta": {
+    "title": "Majstrovstvá sveta a Európy usporiadané na Slovensku - Free Download",
+    "description": "Prehľad majstrovstiev sveta a Európy v rôznych športoch, ktoré sa konali na Slovensku, s rokmi a dejiskami. Contains 82 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Majstrovstvá sveta a Európy usporiadané na Slovensku | ListBase",
+    "seo_description": "Download Majstrovstvá sveta a Európy usporiadané na Slovensku — 82 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 82 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_majstrovstiev_sveta_na_Slovensku"
+    ]
+  }
+}
