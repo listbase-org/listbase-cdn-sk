@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-12T02:07:50.234Z",
-  "total_datasets": 484,
-  "total_records": 285139,
+  "generated": "2026-11-12T02:08:01.801Z",
+  "total_datasets": 485,
+  "total_records": 285159,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "time",
@@ -13370,6 +13370,32 @@
         "xlsx": {
           "name": "sk-nazvy-emoji_SK.xlsx",
           "size": 107638
+        }
+      }
+    },
+    {
+      "id": "sk-vysielace-zakladna-a-doplnkova-siet",
+      "name": "Vysielače na Slovensku – základná a doplnková sieť",
+      "category": "tech",
+      "record_count": 20,
+      "columns": [
+        "nazov",
+        "mesto",
+        "nadmorska_vyska_m",
+        "erp_kw_fm_dvbt_dab",
+        "siet"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_vysielačov_na_Slovensku",
+      "updated": "2026-11",
+      "size": 5859,
+      "files": {
+        "csv": {
+          "name": "sk-vysielace-zakladna-a-doplnkova-siet_SK.csv",
+          "size": 1742
+        },
+        "xlsx": {
+          "name": "sk-vysielace-zakladna-a-doplnkova-siet_SK.xlsx",
+          "size": 7756
         }
       }
     },

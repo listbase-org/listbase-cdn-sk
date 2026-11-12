@@ -1,0 +1,191 @@
+{
+  "id": "sk-vysielace-zakladna-a-doplnkova-siet",
+  "name": "Vysielače na Slovensku – základná a doplnková sieť",
+  "title": "Vysielače na Slovensku – základná a doplnková sieť",
+  "description": "Zoznam hlavných rozhlasových a televíznych vysielačov na Slovensku (základná a doplnková sieť) s mestom, nadmorskou výškou a povoleným výkonom ERP.",
+  "category": "tech",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_vysielačov_na_Slovensku",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_vysielačov_na_Slovensku",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "mesto",
+      "label": "Mesto",
+      "type": "string"
+    },
+    {
+      "key": "nadmorska_vyska_m",
+      "label": "Nadmorska Vyska M",
+      "type": "number"
+    },
+    {
+      "key": "erp_kw_fm_dvbt_dab",
+      "label": "Erp Kw Fm Dvbt Dab",
+      "type": "string"
+    },
+    {
+      "key": "siet",
+      "label": "Siet",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazov": "Kamzík",
+      "mesto": "Bratislava",
+      "nadmorska_vyska_m": 433,
+      "erp_kw_fm_dvbt_dab": "100 / 50 / 7,2",
+      "siet": "Základná sieť vysielačov"
+    },
+    {
+      "nazov": "Suchá hora",
+      "mesto": "Banská Bystrica",
+      "nadmorska_vyska_m": 1231,
+      "erp_kw_fm_dvbt_dab": "100 / nevys. / 15",
+      "siet": "Základná sieť vysielačov"
+    },
+    {
+      "nazov": "Dubník",
+      "mesto": "Košice",
+      "nadmorska_vyska_m": 874,
+      "erp_kw_fm_dvbt_dab": "100 / 31,5 / 5",
+      "siet": "Základná sieť vysielačov"
+    },
+    {
+      "nazov": "Kráľova hoľa",
+      "mesto": "Poprad",
+      "nadmorska_vyska_m": 1946,
+      "erp_kw_fm_dvbt_dab": "30 / 5 / nevys.",
+      "siet": "Základná sieť vysielačov"
+    },
+    {
+      "nazov": "Krížava",
+      "mesto": "Žilina",
+      "nadmorska_vyska_m": 1451,
+      "erp_kw_fm_dvbt_dab": "20 / 20 / 7",
+      "siet": "Základná sieť vysielačov"
+    },
+    {
+      "nazov": "Sitno",
+      "mesto": "Banská Štiavnica",
+      "nadmorska_vyska_m": 1002,
+      "erp_kw_fm_dvbt_dab": "20 / 50 / nevys.",
+      "siet": "Základná sieť vysielačov"
+    },
+    {
+      "nazov": "Veľká Javorina",
+      "mesto": "Nové Mesto n/Váhom",
+      "nadmorska_vyska_m": 969,
+      "erp_kw_fm_dvbt_dab": "10 / 50 / nevys.",
+      "siet": "Základná sieť vysielačov"
+    },
+    {
+      "nazov": "Blatný vrch",
+      "mesto": "Lučenec",
+      "nadmorska_vyska_m": 359,
+      "erp_kw_fm_dvbt_dab": "10 / 15,85 / nevys.",
+      "siet": "Sieť doplnkových vysielačov"
+    },
+    {
+      "nazov": "Dievčenská skala",
+      "mesto": "Rožňava",
+      "nadmorska_vyska_m": 660,
+      "erp_kw_fm_dvbt_dab": "1 / 10 / nevys.",
+      "siet": "Sieť doplnkových vysielačov"
+    },
+    {
+      "nazov": "Dubník",
+      "mesto": "Senica",
+      "nadmorska_vyska_m": 297,
+      "erp_kw_fm_dvbt_dab": "nevys. / 22 / 2,5",
+      "siet": "Sieť doplnkových vysielačov"
+    },
+    {
+      "nazov": "Kotník",
+      "mesto": "Stará Ľubovňa",
+      "nadmorska_vyska_m": 883,
+      "erp_kw_fm_dvbt_dab": "10 / 25 / nevys.",
+      "siet": "Sieť doplnkových vysielačov"
+    },
+    {
+      "nazov": "Magurica",
+      "mesto": "Snina",
+      "nadmorska_vyska_m": 477,
+      "erp_kw_fm_dvbt_dab": "10 / 20 / nevys.",
+      "siet": "Sieť doplnkových vysielačov"
+    },
+    {
+      "nazov": "Magurka",
+      "mesto": "Námestovo",
+      "nadmorska_vyska_m": 1107,
+      "erp_kw_fm_dvbt_dab": "10 / 20 / nevys.",
+      "siet": "Sieť doplnkových vysielačov"
+    },
+    {
+      "nazov": "Modrý vrch",
+      "mesto": "Štúrovo",
+      "nadmorska_vyska_m": 251,
+      "erp_kw_fm_dvbt_dab": "10 / 15,85 / nevys.",
+      "siet": "Sieť doplnkových vysielačov"
+    },
+    {
+      "nazov": "Nad oborou",
+      "mesto": "Trenčín",
+      "nadmorska_vyska_m": 654,
+      "erp_kw_fm_dvbt_dab": "10 / 50 / 4,7",
+      "siet": "Sieť doplnkových vysielačov"
+    },
+    {
+      "nazov": "Stebnícka Magura",
+      "mesto": "Bardejov",
+      "nadmorska_vyska_m": 896,
+      "erp_kw_fm_dvbt_dab": "10 / 15,85 / nevys.",
+      "siet": "Sieť doplnkových vysielačov"
+    },
+    {
+      "nazov": "Španí laz",
+      "mesto": "Veľký Krtíš",
+      "nadmorska_vyska_m": 643,
+      "erp_kw_fm_dvbt_dab": "10 / nevys. / nevys.",
+      "siet": "Sieť doplnkových vysielačov"
+    },
+    {
+      "nazov": "Trebišov",
+      "mesto": "Trebišov",
+      "nadmorska_vyska_m": 118,
+      "erp_kw_fm_dvbt_dab": "10 / nevys. / nevys.",
+      "siet": "Sieť doplnkových vysielačov"
+    },
+    {
+      "nazov": "Úložisko",
+      "mesto": "Ružomberok",
+      "nadmorska_vyska_m": 742,
+      "erp_kw_fm_dvbt_dab": "5 / 20 / 5",
+      "siet": "Sieť doplnkových vysielačov"
+    },
+    {
+      "nazov": "Zobor",
+      "mesto": "Nitra",
+      "nadmorska_vyska_m": 556,
+      "erp_kw_fm_dvbt_dab": "10 / 40 / nevys.",
+      "siet": "Sieť doplnkových vysielačov"
+    }
+  ],
+  "meta": {
+    "title": "Vysielače na Slovensku – základná a doplnková sieť - Free Download",
+    "description": "Zoznam hlavných rozhlasových a televíznych vysielačov na Slovensku (základná a doplnková sieť) s mestom, nadmorskou výškou a povoleným výkonom ERP. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vysielače na Slovensku – základná a doplnková sieť | ListBase",
+    "seo_description": "Download Vysielače na Slovensku – základná a doplnková sieť — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_vysielačov_na_Slovensku"
+    ]
+  }
+}
