@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-11T02:09:16.581Z",
-  "total_datasets": 481,
-  "total_records": 285096,
+  "generated": "2026-11-12T02:07:26.659Z",
+  "total_datasets": 482,
+  "total_records": 285103,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "food",
@@ -2248,6 +2248,29 @@
         "xlsx": {
           "name": "sk-vodne-elektrarne_SK.xlsx",
           "size": 11254
+        }
+      }
+    },
+    {
+      "id": "sk-bankovky-slovenskej-koruny",
+      "name": "Bankovky slovenskej koruny",
+      "category": "finance",
+      "record_count": 7,
+      "columns": [
+        "nominalna_hodnota_sk",
+        "opis"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Slovenská_koruna",
+      "updated": "2026-11",
+      "size": 5550,
+      "files": {
+        "csv": {
+          "name": "sk-bankovky-slovenskej-koruny_SK.csv",
+          "size": 3898
+        },
+        "xlsx": {
+          "name": "sk-bankovky-slovenskej-koruny_SK.xlsx",
+          "size": 8545
         }
       }
     },
