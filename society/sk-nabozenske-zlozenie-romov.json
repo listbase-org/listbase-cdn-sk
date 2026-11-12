@@ -1,0 +1,172 @@
+{
+  "id": "sk-nabozenske-zlozenie-romov",
+  "name": "Náboženské zloženie Rómov na Slovensku",
+  "title": "Náboženské zloženie Rómov na Slovensku",
+  "description": "Počet a podiel Rómov na Slovensku podľa vierovyznania v porovnaní s priemerom celého Slovenska (podľa sčítania obyvateľov).",
+  "category": "society",
+  "source": "https://sk.wikipedia.org/wiki/Rómovia_na_Slovensku",
+  "source_url": "https://sk.wikipedia.org/wiki/Rómovia_na_Slovensku",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "vierovyznanie",
+      "label": "Vierovyznanie",
+      "type": "string"
+    },
+    {
+      "key": "pocet_romov",
+      "label": "Pocet Romov",
+      "type": "number"
+    },
+    {
+      "key": "podiel_pct",
+      "label": "Podiel Pct",
+      "type": "number"
+    },
+    {
+      "key": "podiel_slovensko_pct",
+      "label": "Podiel Slovensko Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "vierovyznanie": "Rímskokatolícka cirkev",
+      "pocet_romov": 68863,
+      "podiel_pct": 65.13,
+      "podiel_slovensko_pct": 62.02
+    },
+    {
+      "vierovyznanie": "bez vyznania",
+      "pocet_romov": 10554,
+      "podiel_pct": 9.98,
+      "podiel_slovensko_pct": 13.44
+    },
+    {
+      "vierovyznanie": "nezistené",
+      "pocet_romov": 8728,
+      "podiel_pct": 8.25,
+      "podiel_slovensko_pct": 10.59
+    },
+    {
+      "vierovyznanie": "Gréckokatolícka cirkev",
+      "pocet_romov": 7833,
+      "podiel_pct": 7.41,
+      "podiel_slovensko_pct": 3.83
+    },
+    {
+      "vierovyznanie": "Pravoslávna cirkev",
+      "pocet_romov": 3019,
+      "podiel_pct": 2.86,
+      "podiel_slovensko_pct": 0.91
+    },
+    {
+      "vierovyznanie": "Reformovaná kresťanská cirkev",
+      "pocet_romov": 1343,
+      "podiel_pct": 1.27,
+      "podiel_slovensko_pct": 1.83
+    },
+    {
+      "vierovyznanie": "Svedkovia Jehovovi",
+      "pocet_romov": 1337,
+      "podiel_pct": 1.26,
+      "podiel_slovensko_pct": 0.32
+    },
+    {
+      "vierovyznanie": "Apoštolská cirkev",
+      "pocet_romov": 1134,
+      "podiel_pct": 1.07,
+      "podiel_slovensko_pct": 0.11
+    },
+    {
+      "vierovyznanie": "Evanjelická cirkev augsburského vyznania",
+      "pocet_romov": 952,
+      "podiel_pct": 0.9,
+      "podiel_slovensko_pct": 5.86
+    },
+    {
+      "vierovyznanie": "iné",
+      "pocet_romov": 753,
+      "podiel_pct": 0.71,
+      "podiel_slovensko_pct": 0.43
+    },
+    {
+      "vierovyznanie": "Kresťanské zbory",
+      "pocet_romov": 682,
+      "podiel_pct": 0.64,
+      "podiel_slovensko_pct": 0.14
+    },
+    {
+      "vierovyznanie": "Starokatolícka cirkev",
+      "pocet_romov": 140,
+      "podiel_pct": 0.13,
+      "podiel_slovensko_pct": 0.03
+    },
+    {
+      "vierovyznanie": "Evanjelická cirkev metodistická",
+      "pocet_romov": 73,
+      "podiel_pct": 0.07,
+      "podiel_slovensko_pct": 0.19
+    },
+    {
+      "vierovyznanie": "Bratská jednota baptistov",
+      "pocet_romov": 58,
+      "podiel_pct": 0.05,
+      "podiel_slovensko_pct": 0.06
+    },
+    {
+      "vierovyznanie": "Cirkev bratská",
+      "pocet_romov": 54,
+      "podiel_pct": 0.05,
+      "podiel_slovensko_pct": 0.06
+    },
+    {
+      "vierovyznanie": "Cirkev československá husitská",
+      "pocet_romov": 54,
+      "podiel_pct": 0.05,
+      "podiel_slovensko_pct": 0.03
+    },
+    {
+      "vierovyznanie": "Bahájske spoločenstvo",
+      "pocet_romov": 48,
+      "podiel_pct": 0.05,
+      "podiel_slovensko_pct": 0.02
+    },
+    {
+      "vierovyznanie": "Cirkev Ježisa Krista Svätých neskorších dní",
+      "pocet_romov": 43,
+      "podiel_pct": 0.04,
+      "podiel_slovensko_pct": 0.02
+    },
+    {
+      "vierovyznanie": "Ústredný zväz židovských náboženských obcí",
+      "pocet_romov": 33,
+      "podiel_pct": 0.03,
+      "podiel_slovensko_pct": 0.04
+    },
+    {
+      "vierovyznanie": "Cirkev adventistov siedmeho dňa",
+      "pocet_romov": 31,
+      "podiel_pct": 0.03,
+      "podiel_slovensko_pct": 0.05
+    },
+    {
+      "vierovyznanie": "Novoapoštolská cirkev",
+      "pocet_romov": 6,
+      "podiel_pct": 0.01,
+      "podiel_slovensko_pct": 0
+    }
+  ],
+  "meta": {
+    "title": "Náboženské zloženie Rómov na Slovensku - Free Download",
+    "description": "Počet a podiel Rómov na Slovensku podľa vierovyznania v porovnaní s priemerom celého Slovenska (podľa sčítania obyvateľov). Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Náboženské zloženie Rómov na Slovensku | ListBase",
+    "seo_description": "Download Náboženské zloženie Rómov na Slovensku — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Rómovia_na_Slovensku"
+    ]
+  }
+}

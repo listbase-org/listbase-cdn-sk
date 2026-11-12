@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-12T02:07:37.664Z",
-  "total_datasets": 483,
-  "total_records": 285118,
+  "generated": "2026-11-12T02:07:50.234Z",
+  "total_datasets": 484,
+  "total_records": 285139,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "sports",
@@ -12612,6 +12612,31 @@
         "xlsx": {
           "name": "sk-nabozenske-vyznanie-scitanie_SK.xlsx",
           "size": 8366
+        }
+      }
+    },
+    {
+      "id": "sk-nabozenske-zlozenie-romov",
+      "name": "Náboženské zloženie Rómov na Slovensku",
+      "category": "society",
+      "record_count": 21,
+      "columns": [
+        "vierovyznanie",
+        "pocet_romov",
+        "podiel_pct",
+        "podiel_slovensko_pct"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Rómovia_na_Slovensku",
+      "updated": "2026-11",
+      "size": 4876,
+      "files": {
+        "csv": {
+          "name": "sk-nabozenske-zlozenie-romov_SK.csv",
+          "size": 1080
+        },
+        "xlsx": {
+          "name": "sk-nabozenske-zlozenie-romov_SK.xlsx",
+          "size": 7577
         }
       }
     },
