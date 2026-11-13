@@ -1,0 +1,219 @@
+{
+  "id": "sk-ministri-zahranicnych-veci",
+  "name": "Ministri zahraničných vecí Slovenskej republiky",
+  "title": "Ministri zahraničných vecí Slovenskej republiky",
+  "description": "Ministri zahraničných vecí (a európskych záležitostí) Slovenskej republiky od roku 1990: meno, nominujúca strana a funkčné obdobie.",
+  "category": "politics",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_zahraničných_vecí_a_európskych_záležitostí_Slovenskej_republiky",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_zahraničných_vecí_a_európskych_záležitostí_Slovenskej_republiky",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "nominated_by",
+      "label": "Nominated By",
+      "type": "string"
+    },
+    {
+      "key": "from",
+      "label": "From",
+      "type": "string"
+    },
+    {
+      "key": "to",
+      "label": "To",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Milan Kňažko",
+      "nominated_by": "VPN",
+      "from": "6. septembra 1990",
+      "to": "22. apríla 1991",
+      "note": ""
+    },
+    {
+      "name": "Ján Čarnogurský",
+      "nominated_by": "KDH",
+      "from": "23. apríla 1991",
+      "to": "6. mája 1991",
+      "note": "ad interim"
+    },
+    {
+      "name": "Pavol Demeš",
+      "nominated_by": "",
+      "from": "6. mája 1991",
+      "to": "24. júna 1992",
+      "note": ""
+    },
+    {
+      "name": "Milan Kňažko",
+      "nominated_by": "HZDS",
+      "from": "24. júna 1992",
+      "to": "19. marca 1993",
+      "note": ""
+    },
+    {
+      "name": "Jozef Moravčík",
+      "nominated_by": "HZDS",
+      "from": "19. marca 1993",
+      "to": "15. marca 1994",
+      "note": ""
+    },
+    {
+      "name": "Eduard Kukan",
+      "nominated_by": "DEÚS",
+      "from": "15. marca 1994",
+      "to": "13. decembra 1994",
+      "note": ""
+    },
+    {
+      "name": "Juraj Schenk",
+      "nominated_by": "HZDS",
+      "from": "13. decembra 1994",
+      "to": "27. augusta 1996",
+      "note": ""
+    },
+    {
+      "name": "Pavol Hamžík",
+      "nominated_by": "HZDS",
+      "from": "27. augusta 1996",
+      "to": "11. júna 1997",
+      "note": ""
+    },
+    {
+      "name": "Zdenka Kramplová",
+      "nominated_by": "HZDS",
+      "from": "11. júna 1997",
+      "to": "5. októbra 1998",
+      "note": ""
+    },
+    {
+      "name": "Jozef Kalman",
+      "nominated_by": "ZRS",
+      "from": "6. októbra 1998",
+      "to": "30. októbra 1998",
+      "note": "ad interim"
+    },
+    {
+      "name": "Eduard Kukan",
+      "nominated_by": "SDK",
+      "from": "30. októbra 1998",
+      "to": "15. októbra 2002",
+      "note": ""
+    },
+    {
+      "name": "Eduard Kukan",
+      "nominated_by": "SDKÚ-DS",
+      "from": "15. októbra 2002",
+      "to": "4. júla 2006",
+      "note": ""
+    },
+    {
+      "name": "Ján Kubiš",
+      "nominated_by": "nom. SMER-SD",
+      "from": "4. júla 2006",
+      "to": "26. januára 2009",
+      "note": ""
+    },
+    {
+      "name": "Miroslav Lajčák",
+      "nominated_by": "nom. SMER-SD",
+      "from": "26. januára 2009",
+      "to": "8. júla 2010",
+      "note": ""
+    },
+    {
+      "name": "Mikuláš Dzurinda",
+      "nominated_by": "SDKÚ-DS",
+      "from": "9. júla 2010",
+      "to": "3. apríla 2012",
+      "note": ""
+    },
+    {
+      "name": "Miroslav Lajčák",
+      "nominated_by": "nom. SMER-SD",
+      "from": "4. apríla 2012",
+      "to": "23. marca 2016",
+      "note": ""
+    },
+    {
+      "name": "Miroslav Lajčák",
+      "nominated_by": "nom. SMER-SD",
+      "from": "23. marca 2016",
+      "to": "21. marca 2020",
+      "note": ""
+    },
+    {
+      "name": "Richard Sulík",
+      "nominated_by": "SaS",
+      "from": "21. marca 2020",
+      "to": "8. apríla 2020",
+      "note": "ad interim"
+    },
+    {
+      "name": "Ivan Korčok",
+      "nominated_by": "nom. SaS",
+      "from": "8. apríla 2020",
+      "to": "25. marca 2021",
+      "note": "Podal demisiu kvôli vládnej kríze."
+    },
+    {
+      "name": "Jaroslav Naď",
+      "nominated_by": "OĽANO",
+      "from": "25. marca 2021",
+      "to": "1. apríla 2021",
+      "note": "ad interim"
+    },
+    {
+      "name": "Ivan Korčok",
+      "nominated_by": "nom. SaS",
+      "from": "1. apríla 2021",
+      "to": "13. septembra 2022",
+      "note": "Po demisii vlády Igora Matoviča sa vrátil do svojej predchádzajúcej funkcie. Spolu s ďalšími ministrami - nominantmi SaS - podal 13. septembra 2022 znova demisiu."
+    },
+    {
+      "name": "Rastislav Káčer",
+      "nominated_by": "nestraník",
+      "from": "13. september 2022",
+      "to": "15. mája 2023",
+      "note": ""
+    },
+    {
+      "name": "Miroslav Wlachovský",
+      "nominated_by": "nestraník",
+      "from": "15. mája 2023",
+      "to": "25. októbra 2023",
+      "note": ""
+    },
+    {
+      "name": "Juraj Blanár",
+      "nominated_by": "SMER-SD",
+      "from": "25. októbra 2023",
+      "to": "",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Ministri zahraničných vecí Slovenskej republiky - Free Download",
+    "description": "Ministri zahraničných vecí (a európskych záležitostí) Slovenskej republiky od roku 1990: meno, nominujúca strana a funkčné obdobie. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministri zahraničných vecí Slovenskej republiky | ListBase",
+    "seo_description": "Download Ministri zahraničných vecí Slovenskej republiky — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_ministrov_zahraničných_vecí_a_európskych_záležitostí_Slovenskej_republiky"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-13T02:15:17.039Z",
-  "total_datasets": 487,
-  "total_records": 285206,
+  "generated": "2026-11-13T02:15:25.027Z",
+  "total_datasets": 488,
+  "total_records": 285230,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "reference",
@@ -5225,6 +5225,32 @@
         "xlsx": {
           "name": "sk-ministri-obrany_SK.xlsx",
           "size": 7673
+        }
+      }
+    },
+    {
+      "id": "sk-ministri-zahranicnych-veci",
+      "name": "Ministri zahraničných vecí Slovenskej republiky",
+      "category": "politics",
+      "record_count": 24,
+      "columns": [
+        "name",
+        "nominated_by",
+        "from",
+        "to",
+        "note"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_zahraničných_vecí_a_európskych_záležitostí_Slovenskej_republiky",
+      "updated": "2026-11",
+      "size": 5998,
+      "files": {
+        "csv": {
+          "name": "sk-ministri-zahranicnych-veci_SK.csv",
+          "size": 1860
+        },
+        "xlsx": {
+          "name": "sk-ministri-zahranicnych-veci_SK.xlsx",
+          "size": 7948
         }
       }
     },
