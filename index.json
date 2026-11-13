@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-13T02:15:25.027Z",
-  "total_datasets": 488,
-  "total_records": 285230,
+  "generated": "2026-11-13T02:15:32.910Z",
+  "total_datasets": 489,
+  "total_records": 285251,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "finance",
@@ -2136,6 +2136,32 @@
         "xlsx": {
           "name": "sk-merne-jednotky-temperature_SK.xlsx",
           "size": 7009
+        }
+      }
+    },
+    {
+      "id": "sk-ministri-zivotneho-prostredia",
+      "name": "Ministri životného prostredia Slovenskej republiky",
+      "category": "environment",
+      "record_count": 21,
+      "columns": [
+        "name",
+        "nominated_by",
+        "from",
+        "to",
+        "note"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_životného_prostredia_Slovenskej_republiky",
+      "updated": "2026-11",
+      "size": 5805,
+      "files": {
+        "csv": {
+          "name": "sk-ministri-zivotneho-prostredia_SK.csv",
+          "size": 1995
+        },
+        "xlsx": {
+          "name": "sk-ministri-zivotneho-prostredia_SK.xlsx",
+          "size": 7927
         }
       }
     },

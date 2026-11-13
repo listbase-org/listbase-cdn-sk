@@ -1,0 +1,198 @@
+{
+  "id": "sk-ministri-zivotneho-prostredia",
+  "name": "Ministri životného prostredia Slovenskej republiky",
+  "title": "Ministri životného prostredia Slovenskej republiky",
+  "description": "Ministri životného prostredia a predsedovia Slovenskej komisie pre životné prostredie od roku 1990: meno, nominujúca strana a funkčné obdobie.",
+  "category": "environment",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_životného_prostredia_Slovenskej_republiky",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_životného_prostredia_Slovenskej_republiky",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "nominated_by",
+      "label": "Nominated By",
+      "type": "string"
+    },
+    {
+      "key": "from",
+      "label": "From",
+      "type": "string"
+    },
+    {
+      "key": "to",
+      "label": "To",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ivan Tirpák",
+      "nominated_by": "KDH",
+      "from": "27. jún 1990",
+      "to": "22. apríl 1991",
+      "note": "ako predseda Slovenskej komisie pre životné prostredie"
+    },
+    {
+      "name": "Ivan Tirpák",
+      "nominated_by": "KDH",
+      "from": "23. apríl 1991",
+      "to": "24. jún 1992",
+      "note": "ako predseda Slovenskej komisie pre životné prostredie"
+    },
+    {
+      "name": "Jozef Zlocha",
+      "nominated_by": "HZDS",
+      "from": "24. jún 1992",
+      "to": "15. marec 1994",
+      "note": "do 1993 ako predseda Slovenskej komisie pre životné prostredie"
+    },
+    {
+      "name": "Juraj Hraško",
+      "nominated_by": "SDĽ",
+      "from": "15. marec 1994",
+      "to": "13. december 1994",
+      "note": "ako minister životného prostredia"
+    },
+    {
+      "name": "Jozef Zlocha",
+      "nominated_by": "HZDS",
+      "from": "13. december 1994",
+      "to": "30. október 1998",
+      "note": ""
+    },
+    {
+      "name": "László Miklós",
+      "nominated_by": "SMK",
+      "from": "30. október 1998",
+      "to": "15. október 2002",
+      "note": ""
+    },
+    {
+      "name": "László Miklós",
+      "nominated_by": "SMK",
+      "from": "16. október 2002",
+      "to": "4. júl 2006",
+      "note": ""
+    },
+    {
+      "name": "Jaroslav Izák",
+      "nominated_by": "SNS",
+      "from": "4. júl 2006",
+      "to": "18. august 2008",
+      "note": ""
+    },
+    {
+      "name": "Ján Chrbet",
+      "nominated_by": "SNS",
+      "from": "18. august 2008",
+      "to": "5. máj 2009",
+      "note": ""
+    },
+    {
+      "name": "Ján Mikolaj",
+      "nominated_by": "SNS",
+      "from": "6. máj 2009",
+      "to": "20. máj 2009",
+      "note": "dočasne poverený riadením ministerstva"
+    },
+    {
+      "name": "Viliam Turský",
+      "nominated_by": "SNS",
+      "from": "20. máj 2009",
+      "to": "28. august 2009",
+      "note": ""
+    },
+    {
+      "name": "Dušan Čaplovič",
+      "nominated_by": "SMER-SD",
+      "from": "28. august 2009",
+      "to": "28. október 2009",
+      "note": "dočasne poverený riadením ministerstva"
+    },
+    {
+      "name": "Jozef Medveď",
+      "nominated_by": "SMER-SD",
+      "from": "29. október 2009",
+      "to": "30. jún 2010",
+      "note": "od 1. júla 2010 ministerstvo zrušené a stalo sa súčasťou Ministerstva pôdohospodárstva, životného prostredia a regionálneho rozvoja Slovenskej republiky (zákon č. 37/2010 Z. z.)"
+    },
+    {
+      "name": "József Nagy",
+      "nominated_by": "Most-Híd",
+      "from": "2. november 2010",
+      "to": "3. apríl 2012",
+      "note": "od 1. novembra 2010 ministerstvo znovu zriadené (zákon č. 372/2010 Z. z.)"
+    },
+    {
+      "name": "Peter Žiga",
+      "nominated_by": "SMER-SD",
+      "from": "4. apríl 2012",
+      "to": "23. marec 2016",
+      "note": ""
+    },
+    {
+      "name": "László Sólymos",
+      "nominated_by": "Most-Híd",
+      "from": "23. marec 2016",
+      "to": "28. január 2020",
+      "note": ""
+    },
+    {
+      "name": "Árpád Érsek",
+      "nominated_by": "Most-Híd",
+      "from": "29. január 2020",
+      "to": "20. marec 2020",
+      "note": "dočasne poverený riadením ministerstva"
+    },
+    {
+      "name": "Ján Budaj",
+      "nominated_by": "OĽaNO",
+      "from": "20. marec 2020",
+      "to": "15. mája 2023",
+      "note": ""
+    },
+    {
+      "name": "Milan Chrenko",
+      "nominated_by": "nestraník",
+      "from": "15. mája 2023",
+      "to": "25. októbra 2023",
+      "note": ""
+    },
+    {
+      "name": "Tomáš Taraba",
+      "nominated_by": "SNS",
+      "from": "25. októbra 2023",
+      "to": "30. septembra 2026",
+      "note": ""
+    },
+    {
+      "name": "Robert Fico",
+      "nominated_by": "SMER-SD",
+      "from": "30. septembra 2026",
+      "to": "",
+      "note": "dočasne poverený riadením ministerstva"
+    }
+  ],
+  "meta": {
+    "title": "Ministri životného prostredia Slovenskej republiky - Free Download",
+    "description": "Ministri životného prostredia a predsedovia Slovenskej komisie pre životné prostredie od roku 1990: meno, nominujúca strana a funkčné obdobie. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministri životného prostredia Slovenskej republiky | ListBase",
+    "seo_description": "Download Ministri životného prostredia Slovenskej republiky — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_ministrov_životného_prostredia_Slovenskej_republiky"
+    ]
+  }
+}
