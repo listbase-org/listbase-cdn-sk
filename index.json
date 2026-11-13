@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-13T02:15:08.890Z",
-  "total_datasets": 486,
-  "total_records": 285187,
+  "generated": "2026-11-13T02:15:17.039Z",
+  "total_datasets": 487,
+  "total_records": 285206,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "reference",
@@ -5199,6 +5199,32 @@
         "xlsx": {
           "name": "sk-ministerstva_SK.xlsx",
           "size": 7295
+        }
+      }
+    },
+    {
+      "id": "sk-ministri-obrany",
+      "name": "Ministri obrany Slovenskej republiky",
+      "category": "politics",
+      "record_count": 19,
+      "columns": [
+        "name",
+        "nominated_by",
+        "from",
+        "to",
+        "note"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_obrany_Slovenskej_republiky",
+      "updated": "2026-11",
+      "size": 4730,
+      "files": {
+        "csv": {
+          "name": "sk-ministri-obrany_SK.csv",
+          "size": 1357
+        },
+        "xlsx": {
+          "name": "sk-ministri-obrany_SK.xlsx",
+          "size": 7673
         }
       }
     },
