@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-12T02:08:01.801Z",
-  "total_datasets": 485,
-  "total_records": 285159,
+  "generated": "2026-11-13T02:15:08.890Z",
+  "total_datasets": 486,
+  "total_records": 285187,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "economy",
@@ -1002,6 +1002,33 @@
         "xlsx": {
           "name": "sk-kostoly_SK.xlsx",
           "size": 334357
+        }
+      }
+    },
+    {
+      "id": "sk-ministri-kultury",
+      "name": "Ministri kultúry Slovenskej republiky",
+      "category": "culture",
+      "record_count": 28,
+      "columns": [
+        "name",
+        "nominated_by",
+        "from",
+        "to",
+        "note",
+        "period"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_kultúry_Slovenskej_republiky",
+      "updated": "2026-11",
+      "size": 8002,
+      "files": {
+        "csv": {
+          "name": "sk-ministri-kultury_SK.csv",
+          "size": 3103
+        },
+        "xlsx": {
+          "name": "sk-ministri-kultury_SK.xlsx",
+          "size": 8351
         }
       }
     },

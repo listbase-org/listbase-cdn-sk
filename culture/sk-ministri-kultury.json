@@ -1,0 +1,280 @@
+{
+  "id": "sk-ministri-kultury",
+  "name": "Ministri kultúry Slovenskej republiky",
+  "title": "Ministri kultúry Slovenskej republiky",
+  "description": "Povereníci a ministri kultúry na Slovensku od roku 1945 vrátane ministrov Slovenskej republiky od roku 1989: meno, nominujúca strana a funkčné obdobie.",
+  "category": "culture",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_kultúry_Slovenskej_republiky",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_kultúry_Slovenskej_republiky",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "nominated_by",
+      "label": "Nominated By",
+      "type": "string"
+    },
+    {
+      "key": "from",
+      "label": "From",
+      "type": "number"
+    },
+    {
+      "key": "to",
+      "label": "To",
+      "type": "number"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ladislav Novomeský",
+      "nominated_by": "KSS",
+      "from": "1945",
+      "to": "1950",
+      "note": "",
+      "period": "povereníci (1945–1960)"
+    },
+    {
+      "name": "Ernest Sýkora",
+      "nominated_by": "KSS",
+      "from": "1950",
+      "to": "1958",
+      "note": "povereník školstva a kultúry a niekoľko mesiacov aj v roku 1953 aj federálny minister",
+      "period": "povereníci (1945–1960)"
+    },
+    {
+      "name": "Vasiľ Biľak",
+      "nominated_by": "KSS",
+      "from": "8. decembra 1958",
+      "to": "11. júla 1960",
+      "note": "povereník v 12. Zbore povereníkov",
+      "period": "povereníci (1945–1960)"
+    },
+    {
+      "name": "Vasiľ Biľak",
+      "nominated_by": "KSS",
+      "from": "po prijatí novej Ústavy ČSSR 12. júla 1960",
+      "to": "do júla 1963",
+      "note": "povereník a predseda Komisie SNR pre školstvo a kultúru",
+      "period": "povereníci (1945–1960)"
+    },
+    {
+      "name": "Matej Lúčan",
+      "nominated_by": "KSS",
+      "from": "1963",
+      "to": "17. februára 1967",
+      "note": "povereník SNR pre školstvo a kultúru = predseda Komisie SNR pre školstvo a kultúru",
+      "period": "povereníci (1945–1960)"
+    },
+    {
+      "name": "Štefan Brenčič",
+      "nominated_by": "KSS",
+      "from": "21. júla 1967",
+      "to": "do 31. decembra 1968",
+      "note": "povereník SNR pre kultúru a informácie je predsedom Komisie SNR pre kultúru a informácie",
+      "period": "povereníci (1945–1960)"
+    },
+    {
+      "name": "Miroslav Válek",
+      "nominated_by": "KSS",
+      "from": "2. január 1969 (v platnosti Ústavný zákon o československej federácii)",
+      "to": "december 1988",
+      "note": "",
+      "period": "povereníci (1945–1960)"
+    },
+    {
+      "name": "Pavel Koyš",
+      "nominated_by": "KSS",
+      "from": "1988",
+      "to": "1989",
+      "note": "",
+      "period": "povereníci (1945–1960)"
+    },
+    {
+      "name": "Ladislav Chudík",
+      "nominated_by": "VPN",
+      "from": "12. december 1989",
+      "to": "29. marec 1990",
+      "note": "",
+      "period": "ministri kultúry SR (od 1989)"
+    },
+    {
+      "name": "Ladislav Snopko",
+      "nominated_by": "VPN",
+      "from": "29. marec 1990",
+      "to": "26. jún 1990",
+      "note": "",
+      "period": "ministri kultúry SR (od 1989)"
+    },
+    {
+      "name": "Ladislav Snopko",
+      "nominated_by": "VPN",
+      "from": "27. jún 1990",
+      "to": "22. apríl 1991",
+      "note": "",
+      "period": "ministri kultúry SR (od 1989)"
+    },
+    {
+      "name": "Ladislav Snopko",
+      "nominated_by": "VPN",
+      "from": "23. apríl 1991",
+      "to": "24. jún 1992",
+      "note": "",
+      "period": "ministri kultúry SR (od 1989)"
+    },
+    {
+      "name": "Dušan Slobodník",
+      "nominated_by": "HZDS",
+      "from": "24. jún 1992",
+      "to": "15. marec 1994",
+      "note": "",
+      "period": "ministri kultúry SR (od 1989)"
+    },
+    {
+      "name": "Ľubo Roman",
+      "nominated_by": "KDH",
+      "from": "15. marec 1994",
+      "to": "13. december 1994",
+      "note": "",
+      "period": "ministri kultúry SR (od 1989)"
+    },
+    {
+      "name": "Ivan Hudec",
+      "nominated_by": "HZDS",
+      "from": "13. december 1994",
+      "to": "30. október 1998",
+      "note": "",
+      "period": "ministri kultúry SR (od 1989)"
+    },
+    {
+      "name": "Milan Kňažko",
+      "nominated_by": "SDK",
+      "from": "30. október 1998",
+      "to": "15. október 2002",
+      "note": "",
+      "period": "ministri kultúry SR (od 1989)"
+    },
+    {
+      "name": "Rudolf Chmel",
+      "nominated_by": "ANO",
+      "from": "16. október 2002",
+      "to": "24. máj 2005",
+      "note": "",
+      "period": "ministri kultúry SR (od 1989)"
+    },
+    {
+      "name": "František Tóth",
+      "nominated_by": "ANO",
+      "from": "25. máj 2005",
+      "to": "5. apríl 2006",
+      "note": "",
+      "period": "ministri kultúry SR (od 1989)"
+    },
+    {
+      "name": "Rudolf Chmel",
+      "nominated_by": "ANO",
+      "from": "5. apríl 2006",
+      "to": "4. júl 2006",
+      "note": "",
+      "period": "ministri kultúry SR (od 1989)"
+    },
+    {
+      "name": "Marek Maďarič",
+      "nominated_by": "SMER-SD",
+      "from": "4. júl 2006",
+      "to": "8. júl 2010",
+      "note": "",
+      "period": "ministri kultúry SR (od 1989)"
+    },
+    {
+      "name": "Daniel Krajcer",
+      "nominated_by": "SaS",
+      "from": "9. júl 2010",
+      "to": "3. apríl 2012",
+      "note": "",
+      "period": "ministri kultúry SR (od 1989)"
+    },
+    {
+      "name": "Marek Maďarič",
+      "nominated_by": "SMER-SD",
+      "from": "4. apríl 2012",
+      "to": "23. marec 2016",
+      "note": "",
+      "period": "ministri kultúry SR (od 1989)"
+    },
+    {
+      "name": "Marek Maďarič",
+      "nominated_by": "SMER-SD",
+      "from": "23. marec 2016",
+      "to": "7. marec 2018",
+      "note": "",
+      "period": "ministri kultúry SR (od 1989)"
+    },
+    {
+      "name": "Peter Pellegrini",
+      "nominated_by": "SMER-SD",
+      "from": "7. marec 2018",
+      "to": "22. marec 2018",
+      "note": "ad interim",
+      "period": "ministri kultúry SR (od 1989)"
+    },
+    {
+      "name": "Ľubica Laššáková",
+      "nominated_by": "SMER-SD",
+      "from": "22. marec 2018",
+      "to": "20. marec 2020",
+      "note": "",
+      "period": "ministri kultúry SR (od 1989)"
+    },
+    {
+      "name": "Natália Milanová",
+      "nominated_by": "OĽaNO",
+      "from": "21. marec 2020",
+      "to": "14. máj 2023",
+      "note": "",
+      "period": "ministri kultúry SR (od 1989)"
+    },
+    {
+      "name": "Silvia Hroncová",
+      "nominated_by": "nestraníčka",
+      "from": "15. máj 2023",
+      "to": "25. október 2023",
+      "note": "",
+      "period": "ministri kultúry SR (od 1989)"
+    },
+    {
+      "name": "Martina Šimkovičová",
+      "nominated_by": "nestraníčka, nom. SNS",
+      "from": "25. október 2023",
+      "to": "",
+      "note": "",
+      "period": "ministri kultúry SR (od 1989)"
+    }
+  ],
+  "meta": {
+    "title": "Ministri kultúry Slovenskej republiky - Free Download",
+    "description": "Povereníci a ministri kultúry na Slovensku od roku 1945 vrátane ministrov Slovenskej republiky od roku 1989: meno, nominujúca strana a funkčné obdobie. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministri kultúry Slovenskej republiky | ListBase",
+    "seo_description": "Download Ministri kultúry Slovenskej republiky — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_ministrov_kultúry_Slovenskej_republiky"
+    ]
+  }
+}
