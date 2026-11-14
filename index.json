@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-13T02:16:03.930Z",
-  "total_datasets": 489,
-  "total_records": 285251,
+  "generated": "2026-11-14T02:07:22.909Z",
+  "total_datasets": 490,
+  "total_records": 285337,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "geography",
@@ -2574,6 +2574,36 @@
         "xlsx": {
           "name": "sk-chranene-oznacenia-povodu-produkty_SK.xlsx",
           "size": 9639
+        }
+      }
+    },
+    {
+      "id": "sk-pivovary-a-minipivovary",
+      "name": "Pivovary a minipivovary na Slovensku",
+      "category": "food",
+      "record_count": 86,
+      "columns": [
+        "name",
+        "type",
+        "amenity",
+        "municipality",
+        "lat",
+        "lon",
+        "website",
+        "opening_hours",
+        "osm_id"
+      ],
+      "source": "https://www.openstreetmap.org/",
+      "updated": "2026-11",
+      "size": 28526,
+      "files": {
+        "csv": {
+          "name": "sk-pivovary-a-minipivovary_SK.csv",
+          "size": 12397
+        },
+        "xlsx": {
+          "name": "sk-pivovary-a-minipivovary_SK.xlsx",
+          "size": 14180
         }
       }
     },
