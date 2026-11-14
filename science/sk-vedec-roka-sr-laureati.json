@@ -1,0 +1,1000 @@
+{
+  "id": "sk-vedec-roka-sr-laureati",
+  "name": "Vedec roka SR – ocenení vedci",
+  "title": "Vedec roka SR – ocenení vedci",
+  "description": "Laureáti ocenenia Vedec roka Slovenskej republiky podľa ročníka a kategórie (vedec, technológ, mladý výskumník a ďalšie): meno, pracovisko a zdôvodnenie ocenenia.",
+  "category": "science",
+  "source": "https://sk.wikipedia.org/wiki/Vedec_roka_SR",
+  "source_url": "https://sk.wikipedia.org/wiki/Vedec_roka_SR",
+  "updated": "2026-11",
+  "record_count": 118,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "edition",
+      "label": "Edition",
+      "type": "number"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "laureate",
+      "label": "Laureate",
+      "type": "string"
+    },
+    {
+      "key": "institution",
+      "label": "Institution",
+      "type": "string"
+    },
+    {
+      "key": "citation",
+      "label": "Citation",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1997,
+      "edition": 1,
+      "category": "Vedec roka SR",
+      "laureate": "prof. RNDr. Vladimír Bužek, DrSc.",
+      "institution": "Fyzikálny ústav SAV",
+      "citation": "za: Univerzálne kvantové klonovanie a rekonštrukcia stavov kvantových systémov"
+    },
+    {
+      "year": 1997,
+      "edition": 1,
+      "category": "Technológ roka SR",
+      "laureate": "Ing. Vladimír Farkaš, DrSc.",
+      "institution": "Chemický ústav SAV",
+      "citation": "za vývoj technológie výroby celulázy a biotechnologický spôsob výroby celobiózy."
+    },
+    {
+      "year": 1997,
+      "edition": 1,
+      "category": "Mladý výskumník roka SR",
+      "laureate": "Ing. Peter Rapta, CSc.",
+      "institution": "Chemickotechnologická fakulta STU v Bratislave",
+      "citation": "za: Vypracovanie a aplikácia modernej multidimenzionálnej spektroelektrochemickej in situ techniky na sledovanie a určenie štruktúry reaktívnych medziproduktov a mechanizmov radikálových reakcií (v rámci grantu VEGA 1/4206/97)"
+    },
+    {
+      "year": 1997,
+      "edition": 1,
+      "category": "Uznanie za výskum v SR",
+      "laureate": "prof. Ing. Vladimír Krajčovič",
+      "institution": "Výskumný ústav trávnych porastov a horského poľnohospodárstva, Banská Bystrica",
+      "citation": "za päťdesiatročnú aktívnu vedecko-výskumnú činnosť v oblasti lúkarstva, pasienkárstva a horského poľnohospodárstva, za komplexné spracovanie syntetickej záverečnej správy Poľnohospodárske sústavy na báze trávnych porastov v podhorských a horských oblastiach; k životnému jubileu 75 rokov pri stálej aktívnej práci."
+    },
+    {
+      "year": 1998,
+      "edition": 2,
+      "category": "Vedec roka SR",
+      "laureate": "prof. MUDr. Vladimír Krčméry, DrSc.",
+      "institution": "Fakulta zdravotníctva a sociálnej práce TU v Trnave",
+      "citation": "za zavedenie plánovanej progresívnej antiinfekčnej liečby u onkologických pacientov s komplikáciami po cystostatickej chemoterapii. Menovaný navrhol algoritmy, ktoré sa stali súčasťou európskych odporúčaní (EORTC)."
+    },
+    {
+      "year": 1998,
+      "edition": 2,
+      "category": "Technológ roka SR",
+      "laureate": "Dr. Ing. František Simančík",
+      "institution": "Ústav materiálov a mechaniky strojov SAV",
+      "citation": "za mimoriadny prínos v oblasti vývoja nových progresívnych technológií, konkrétne za vývoj technológie výroby penového hliníka"
+    },
+    {
+      "year": 1998,
+      "edition": 2,
+      "category": "Mladý výskumník roka SR",
+      "laureate": "PhDr. Monika Vrzgulová, CSc.",
+      "institution": "Ústav etnológie SAV",
+      "citation": "za viacročnú výskumnú prácu na originálnej, doteraz nespracovanej téme Živnostníci – kultúrotvorný prvok v mestskom prostredí (na príklade mesta Trenčín 1918 – 1948), ktorá vrcholila v kandidátskej práci, knižnej publikácii (obe roku 1997) a roku 1998 v zahraničnej mutácii téz obhájenej práce, ktoré roku 1998 odovzdala do súťaže mladých vedcov UNESCO MOST INTERNATIONAL AWARD."
+    },
+    {
+      "year": 1998,
+      "edition": 2,
+      "category": "Uznanie za výskum v SR",
+      "laureate": "prof. RNDr. Štefan Šáro, DrSc.",
+      "institution": "Matematicko-fyzikálna fakulta UK v Bratislave",
+      "citation": "za spoluúčasť na objavení troch nových chemických prvkov a najťažšieho atómového jadra."
+    },
+    {
+      "year": 1999,
+      "edition": 3,
+      "category": "Vedec roka SR",
+      "laureate": "Doc. Ing. Dušan Berek, PhD., DrSc.",
+      "institution": "Ústav polymérov SAV",
+      "citation": "za návrh originálnych metód kvapalinovej chromatografie, vypracovanie ich teórie, ich overenie a aplikácie. Dopad na rozvoj poznania i na praktické aplikácie v technológii (charakterizácia zmesí polymérov a kopolymérov) a v analýze životného prostredia."
+    },
+    {
+      "year": 1999,
+      "edition": 3,
+      "category": "Mladý výskumník roka SR",
+      "laureate": "RNDr. Jozef Nosek, CSc.",
+      "institution": "Prírodovedecká fakulta UK v Bratislave",
+      "citation": "za molekulárnu charakterizáciu modulov pre alternatívne mechanizmy replikácie lineárnych molekúl DNA"
+    },
+    {
+      "year": 1999,
+      "edition": 3,
+      "category": "Uznanie za výskum v SR",
+      "laureate": "prof. Ing. Alexander Sommer, DrSc., Phd.",
+      "institution": "Výskumný ústav živočíšnej výroby, Nitra",
+      "citation": "za experimentálne výsledky v oblasti metabolizmu dusíkatých látok a energie u zvierat a vybudovanie experimentálneho pracoviska v Nitre, na ktorom sa aj v roku 1999 uskutočnili rozsiahle experimentálne práce za účasti výskumných pracovníkov z Nemecka pri sledovaní metabolizmu neštrukturálnych sacharidov u prežúvavcov a pracovníkov z Rakúska pri sledovaní trávenia živín u raticovej zveri."
+    },
+    {
+      "year": 1999,
+      "edition": 3,
+      "category": "Skúšobňa roka SR",
+      "laureate": "Technický skúšobný ústav Piešťany, š.p.",
+      "institution": "",
+      "citation": "za dlhodobý národný a medzinárodný prínos v oblasti skúšobníctva SR. Od roku 1999 celý ústav je certifikovaný na systém kvality podľa normy STN EN ISO 9002. Pracovníci ústavu aktívne a úspešne pracujú v technických normalizačných komisiách (ôsmi sú predsedami TNK a pätnásti členmi TNK). Dvojstranné dohovory o vzájomnej spolupráci pre oblasti skúšobníctva, metrológie a poradenstvo s RV TUV Essen, TCL Velenje Slovinsko, VdS Kolín, Nemecko, CIMTO Praha, LGA Norimberk, Nmi Delft, Holandsko"
+    },
+    {
+      "year": 2000,
+      "edition": 4,
+      "category": "Vedec roka SR",
+      "laureate": "prof. Ing. Vendelín Macho, DrSc.",
+      "institution": "Fakulta priemyselných technológií TnUAD v Trenčíne",
+      "citation": "za vynikajúce celoživotné vedecké i technické dielo v oblasti chémie a chemickej technológie “ Doc. PhDr. Imrich Ruisel, DrSc. (Ústav experimentálnej psychológie SAV) „ za súbor prác prinášajúcich významné inovácie nielen v teoretických koncepciách, ale aj v psychodiagnostických aplikáciách výskumu inteligencie"
+    },
+    {
+      "year": 2000,
+      "edition": 4,
+      "category": "Technológ roka SR",
+      "laureate": "Ing. Bartolomej Janek, CSC.",
+      "institution": "Spinea, s. r. o., Prešov",
+      "citation": "za pôvodcovstvo konštrukcie a technologický vývoj nového princípu mechanického reduktora (prevodovky). Princíp (je patentovaný v mnohých krajinách) sa začal široko aplikovať v celosvetovom meradle v robotike, stavbe obrábacích strojov, transportných a manipulačných zariadení a pod. Vyrábaná produkcia sa exportuje do mnohých krajín na celom svete."
+    },
+    {
+      "year": 2000,
+      "edition": 4,
+      "category": "Mladý výskumník roka SR",
+      "laureate": "RNDr. Viktor Víglaský, PhD.",
+      "institution": "Prírodovedecká fakulta UPJŠ v Košiciach",
+      "citation": "za zavedenie dvojdimenzionálnej a teplotnej gradientovej elektroforézy na štúdium konformačnej stability proteínov a nukleových kyselín na Katedre biochémie PF UPJŠ v Košiciach."
+    },
+    {
+      "year": 2000,
+      "edition": 4,
+      "category": "Osobitné uznanie za výskum v SR",
+      "laureate": "prof. PhDr. Oskár Elschek, DrSc.",
+      "institution": "Ústav hudobnej výchovy SAV",
+      "citation": "za celoživotné dielo – 70 ročné životné jubileum."
+    },
+    {
+      "year": 2000,
+      "edition": 4,
+      "category": "Osobitné uznanie za úspešnú publicistiku o vede a technike v SR",
+      "laureate": "Hospodárske noviny – Copernicus, denník, Bratislava Quark, magazín o vede a technike, Bratislava",
+      "institution": "",
+      "citation": ""
+    },
+    {
+      "year": 2001,
+      "edition": 5,
+      "category": "Vedec roka SR",
+      "laureate": "RNDr. Imrich Barák, CSc.",
+      "institution": "Ústav molekulárnej biológie SAV",
+      "citation": "za objasnenie iniciácie sporulácie, priestorovo špecifickej aktivácie transkripčných faktorov a delenia buniek Bacillus subtilis. Výsledky boli dosiahnuté vďaka grantom: VEGA, Copernicus z EÚ, The Wellcome Trust z Veľkej Británie, 5. rámcový program EÚ. “ Doc. RNDr. Dušan Kaniansky, CSc. (Prírodovedecká fakulta UK v Bratislave) „ za výskumné, vývojové a aplikačné práce v oblasti novej koncepcie analytických prístrojov nazvanej laboratórium na čipe (lab-on-chip) so zameraním sa na elektroseparácie širokej škály klinicky, potravinársky a environmentálne významných látok na planárnych čipoch “ Doc. RNDr. Jaromír Pastorek, DrSc. (Virologický ústav SAV) „ za: V polovici 90-tych rokov identifikovali proteín MN s neznámou funkciou. Určili jeho primárnu štruktúru génu a jednotlivé domény proteínu. Štúdium expresie poukázalo na koreláciu so skorým štádiom viacerých typov nádorov. Proteín bol neskôr zaradený do rodiny anhydráz kyseliny uhličitej (CA IX), ktorý je jediný asociovaný s nádormi."
+    },
+    {
+      "year": 2001,
+      "edition": 5,
+      "category": "Mladý výskumník roka SR",
+      "laureate": "Mgr. Juraj Kronek, PhD.",
+      "institution": "Ústav polymérov SAV",
+      "citation": "za: Príprava polymérov na báze cyklických iminoéterov; príprava reaktívnych polymérov modifikačnými reakciami 2-oxazolínov; projekt VEGA 2/7038/20 a projekt SLA-004-99 (slovensko-nemecká spolupráca)"
+    },
+    {
+      "year": 2001,
+      "edition": 5,
+      "category": "Osobitné uznanie za výskum v SR",
+      "laureate": "prof. MUDr. Dagmar Michalková, DrSc.",
+      "institution": "I. Detská klinika – Diabetologické centrum pediatrické SR, LF UK v Bratislave",
+      "citation": "za: výsledky v rámcovom programe EÚ 2001/Eurodiab ACE od roku 1999, Eurodiab Tiger do roku 2002, HO DIAMOND od roku 1990 (navyše: za vedeckú výskumnú prácu a aplikáciu pediatrickej diabetológie na celé Slovensko; za medzinárodnú spoluprácu v rámci EÚ a WHO – zahraničný grant EÚ roku 1995, atď.)."
+    },
+    {
+      "year": 2001,
+      "edition": 5,
+      "category": "Za výsledky v rámcovom programe EÚ",
+      "laureate": "prof. RNDr. Vladimír Bužek, DrSc.",
+      "institution": "Fyzikálny ústav SAV",
+      "citation": "za trojnásobnú aktívnu účasť v projektoch 5. rámcového programu EÚ"
+    },
+    {
+      "year": 2002,
+      "edition": 6,
+      "category": "Vedec roka SR",
+      "laureate": "prof. RNDr. Milan Melník, DrSc.",
+      "institution": "Fakulta chemickej a potravinárskej technológie STU v Bratislave",
+      "citation": "za rozvoj a prínos do svetovej koordinačnej a bioanorganickej chémie. Je jedným zo zakladateľov bioorganickej chémie"
+    },
+    {
+      "year": 2002,
+      "edition": 6,
+      "category": "Technológ roka SR",
+      "laureate": "Doc. Ing. Dušan Berek, DrSc.",
+      "institution": "Ústav polymérov SAV",
+      "citation": "za vypracovanie technológie prípravy ultra-čistého, širokopórovitého silikagélu pre vysokoúčinnú kvapalinovú chromatografiu “ Ing. Dana Baricová, PhD. (Hutnícka fakulta TU v Košiciach) „ za zužitkovanie prídavkov briketovaných konvertorových úletov a demetalizovanej oceliarskej trosky vo vsádzke kyslíkového,konvertora"
+    },
+    {
+      "year": 2002,
+      "edition": 6,
+      "category": "Mladý výskumník roka SR",
+      "laureate": "Mgr. Pavol Szabó",
+      "institution": "Ústav experimentálnej fyziky SAV",
+      "citation": "za významný príspevok k objavu nového typu tzv. dvojmedzerovej supravodivosti v MgB 2 a ďalšie originálne práce v oblasti nových typov supravodičov “ Mgr. Miroslav Chovanec (Ústav experimentálnej onkológie SAV) „ za štúdium opravných procesov genetického materiálu DNA v eukaryotických bunkách. Chyby v oprave DNA sú priamo zodpovedné za vznik nádorového ochorenia. Mechanizmy zodpovedné za opravu DNA vo významnej miere ovplyvňujú terapiu nádorov. Výsledky sú uznávané svetovou vedeckou komunitou."
+    },
+    {
+      "year": 2002,
+      "edition": 6,
+      "category": "Osobitné uznanie za výskum v SR",
+      "laureate": "prof. MUDr. Viktor Bauer, DrSc.",
+      "institution": "Ústav experimentálnej farmakológie a toxikológie SAV",
+      "citation": "za celoživotné dielo v oblasti farmakológie hladkého svalu zažívacieho traktu so zameraním na neadrenergicko-necholínergickú inerváciu čriev. Ďalej za štúdium účinku voľných kyslíkových radikálov a účasť na vývoji a výskume účinných látok pôsobiacich proti negatívnemu vplyvu voľných kyslíkových radikálov na ľudský organizmus."
+    },
+    {
+      "year": 2002,
+      "edition": 6,
+      "category": "Za výsledky v 5. rámcovom programe EÚ",
+      "laureate": "RNDr. Zdena Bartošová, CSc.",
+      "institution": "Ústav experimentálnej onkológie SAV",
+      "citation": "za nové prístupy pri diagnostike a terapii nádorov s mikrosatelitovou instabilitou"
+    },
+    {
+      "year": 2002,
+      "edition": 6,
+      "category": "Za podporovanie vedy a techniky v SR",
+      "laureate": "Ing. Slavomír Hatina",
+      "institution": "Slovnaft, Bratislava",
+      "citation": "za to, že je nielen priaznivcom výskumného bádania a zavádzania najnovších technológií do výrobných procesov, patrí medzi špičku slovenských manažérov vo výrobnej sfére, ale i za to, že petrochemický kombinát Slovnaft je už šesť rokov sponzorom akcie „Vedec roka SR“"
+    },
+    {
+      "year": 2003,
+      "edition": 7,
+      "category": "Vedec roka SR",
+      "laureate": "RNDr. Peter Biely, DrSc.",
+      "institution": "Chemický ústav SAV",
+      "citation": "za celosvetovo akceptované originálne výsledky v oblasti mikrobiálnej degradácie bunkových stien rastlín s významným dosahom na rozvoj moderných environmentálne orientovaných technológií"
+    },
+    {
+      "year": 2003,
+      "edition": 7,
+      "category": "Technológ roka SR",
+      "laureate": "Ing. Jozef Barborka, PhD.",
+      "institution": "Výskumný ústav zváračský – Priemyselný inštitút SR",
+      "citation": "za návrh a vypracovanie postupu opravy tesniacich drážok hlavnej deliacej roviny a veka reaktorov VVER 440 zváraním špeciálnym zariadením"
+    },
+    {
+      "year": 2003,
+      "edition": 7,
+      "category": "Mladý výskumník roka SR",
+      "laureate": "Ing. Beáta Meričková, PhD.",
+      "institution": "Ekonomická fakulta UMB v Banskej Bystrici",
+      "citation": "za výskum v oblasti implementácie nových prístupov k riadeniu vo verejnej správe v podmienkach Slovenska a návrh modelu systémového rozhodovania samosprávy"
+    },
+    {
+      "year": 2003,
+      "edition": 7,
+      "category": "Osobitné uznanie za výskum v SR",
+      "laureate": "prof. MUDr. František Makai, DrSc.,",
+      "institution": "prednosta I. Ortopedickej kliniky Fakultnej nemocnice s poliklinikou LF UK v Bratislave",
+      "citation": "Osobitné uznanie za výskum v SR 2003. Je ocenením jeho celoživotného diela vo vedeckovýskumnej, publikačnej a pedagogickej činnosti v odbore ortopédia a traumatológia pohybového ústrojenstva"
+    },
+    {
+      "year": 2004,
+      "edition": 8,
+      "category": "Vedec roka SR",
+      "laureate": "RNDr. Ján Kormanec, DrSc.",
+      "institution": "Ústav molekulárnej biológie SAV",
+      "citation": "za objav systému pre identifikáciu génov riadených sigma faktormi RNA polymerázy a jeho zavedenie pre identifikáciu týchto génov, ktoré hrajú dôležitú úlohu v patogenicite a virulencii dvoch vybraných patogénnych baktérií, Salmonella typhimurium a Staphylococcus aureus"
+    },
+    {
+      "year": 2004,
+      "edition": 8,
+      "category": "Technológ roka SR",
+      "laureate": "Doc. Ing. Daniela Ďuračková, PhD.",
+      "institution": "Fakulta elektrotechniky a informatiky STU v Bratislave",
+      "citation": "za priekopnícku výskumno-vedeckú činnosť na Slovensku v oblasti implementácie neurónových sietí na čipe – pod jej vedením boli navrhnuté a realizované prvé dva neuročipy na Slovensku"
+    },
+    {
+      "year": 2004,
+      "edition": 8,
+      "category": "Mladý výskumník roka SR",
+      "laureate": "Mgr. Jaroslav Mosnáček, PhD.",
+      "institution": "Ústav polymérov SAV",
+      "citation": "za prípravu fotoreaktívnych látok, monomérov a polymérov a za modifikáciu a stabilizáciu polymérov"
+    },
+    {
+      "year": 2004,
+      "edition": 8,
+      "category": "Uznanie za celoživotné dielo v SR",
+      "laureate": "prof. Ing. Elemír Kossaczký, CSc.",
+      "institution": "Fakulta chemickej a potravinárskej technológie STU v Bratislave",
+      "citation": "za to, že je zakladateľom odboru Chemické inžinierstvo – Teória chemickej techniky – v škole, vedeckovýskumnej základni a vo výrobe"
+    },
+    {
+      "year": 2004,
+      "edition": 8,
+      "category": "Za výsledky v rámcovom programe EÚ",
+      "laureate": "prof. Ing. Arch. Maroš Finka, PhD.",
+      "institution": "Fakulta architektúry STU v Bratislave",
+      "citation": "za prínos k rozvoju urbanistickej vedy a,jej integrácii do európskeho priestoru Stredoeurópskeho školiaceho a výskumného centra v oblasti priestorového plánovania SPECTRA na „Centre of Excellence EÚ“"
+    },
+    {
+      "year": 2005,
+      "edition": 9,
+      "category": "Vedec roka SR",
+      "laureate": "prof. RNDr. Anatolij Dvurečenskij, DrSc.",
+      "institution": "Matematický ústav SAV",
+      "citation": "za súbor výsledkov z oblasti matematiky publikovaných v popredných svetových časopisoch roku 2005"
+    },
+    {
+      "year": 2005,
+      "edition": 9,
+      "category": "Technológ roka SR",
+      "laureate": "Ing. Ján Baláž, PhD.",
+      "institution": "Ústav experimentálnej fyziky SAV",
+      "citation": "za vývoj a realizáciu detektora energetických neutrálnych atómov NUADU pre čínsko-európsky vedecký satelit Double Star TC-2"
+    },
+    {
+      "year": 2005,
+      "edition": 9,
+      "category": "Mladý výskumník roka SR",
+      "laureate": "RNDr. Jana Jakubíková, PhD.",
+      "institution": "Ústav experimentálnej onkológie SAV",
+      "citation": "za príspevok k objasneniu úlohy izotiokyanátov a organických sulfidov v regulácii vnútrobunkových signálnych dráh ľudských nádorových buniek publikovaný roku 2005"
+    },
+    {
+      "year": 2005,
+      "edition": 9,
+      "category": "Uznanie za celoživotné dielo v SR",
+      "laureate": "prof. RNDr. Jozef Čižmárik, PhD.",
+      "institution": "Farmaceutická fakulta UK v Bratislave",
+      "citation": "za celoživotný prínos do vedného odboru farmaceutická chémia výskumom farmaceuticko-chemických aspektov niektorých potenciálnych liečiv na báze esterov substituovanej kyseliny fenylkarbámovej"
+    },
+    {
+      "year": 2005,
+      "edition": 9,
+      "category": "Za výsledky v programoch EÚ",
+      "laureate": "Doc. Ing. Ján Gaduš, PhD.",
+      "institution": "Mechanizačná fakulta SPU v Nitre",
+      "citation": "za výsledky dosiahnuté počas riešenia projektov Rámcového programu EÚ v oblasti využívania poľnohospodárskej živočíšnej a rastlinnej biomasy na energetické účely"
+    },
+    {
+      "year": 2006,
+      "edition": 10,
+      "category": "Vedec roka SR",
+      "laureate": "prof. RNDr. Pavol Šajgalík, DrSc.",
+      "institution": "Ústav anorganickej chémie SAV",
+      "citation": "za výsledky vedeckého výskumu, ktoré boli publikované v roku 2006 v 9 CC publikáciách a boli predmetom prihlášky vynálezu"
+    },
+    {
+      "year": 2006,
+      "edition": 10,
+      "category": "Technológ roka SR",
+      "laureate": "Ing. Dušan Čáni",
+      "institution": "ZTS VVÚ Košice",
+      "citation": "za návrh obzvlášť presných pohonov pre nasmerovanie lúča hadrónov na urýchlovači LHC v CERN v Ženeve"
+    },
+    {
+      "year": 2006,
+      "edition": 10,
+      "category": "Mladý výskumník roka SR",
+      "laureate": "MUDr. Mária Pallayová, PhD.",
+      "institution": "Lekárska fakulta UPJŠ v Košiciach",
+      "citation": "za nové poznatky o vplyve a následkoch spánkového apnoe na glykémiu u pacientov so súčasným diabetes mellitus (DM), typu 2"
+    },
+    {
+      "year": 2006,
+      "edition": 10,
+      "category": "Za výsledky v medzinárodných projektoch",
+      "laureate": "RNDr. Jozef Kačmarčík, PhD.",
+      "institution": "Ústav experimentálnej fyziky SAV",
+      "citation": "za významný príspevok pri dosiahnutí supravodivosti v kremíku a za výsledky výskumu v oblasti nových typov supravodičov"
+    },
+    {
+      "year": 2006,
+      "edition": 10,
+      "category": "Uznanie za celoživotné dielo v SR",
+      "laureate": "prof. Ing. Michal Uher, DrSc.",
+      "institution": "Fakulta chemickej a potravinárskej technológie STU v Bratislave",
+      "citation": "za významný prínos pri objasnení vlastností a využitia prírodných a syntetických sladidiel a za založenie školy bioorganickej chémie."
+    },
+    {
+      "year": 2006,
+      "edition": 10,
+      "category": "Osobitné čestné uznanie",
+      "laureate": "prof. ThDr. PaedDr. ICLic. Ján Duda, PhD.",
+      "institution": "Pedagogická fakulta KU v Ružomberku",
+      "citation": "za priekopnícku prácu v oblasti stabilizácie rodín a manželstiev v multikultúrnej a multireligióznej spoločnosti a za výsledky výskumu zameraného na zachovanie slovenskej národnej identity v kontexte rastúceho tlaku globalizácie"
+    },
+    {
+      "year": 2007,
+      "edition": 11,
+      "category": "Vedec roka SR",
+      "laureate": "Ing. Ladislav Šoltés, DrSc.",
+      "institution": "Ústav experimentálnej farmakológie a toxikológie SAV",
+      "citation": "za úspešný výskum poškodenia zložiek synoviálnej tekutiny v kĺboch, a to konkrétne vysokomolekulového hyaluronanu"
+    },
+    {
+      "year": 2007,
+      "edition": 11,
+      "category": "Technológ roka SR",
+      "laureate": "Ing. Rudolf Toman, DrSc.",
+      "institution": "Virologický ústav SAV",
+      "citation": "za významný prínos vo výskume patogenézy a imunity Q horúčky a chlamýdiových infekcií a vo vývoji a výrobe prípravkov na ich včasnú diagnostiku"
+    },
+    {
+      "year": 2007,
+      "edition": 11,
+      "category": "Mladý výskumník roka SR",
+      "laureate": "RNDr. Viktória Majláthová, PhD.",
+      "institution": "Parazitologický ústav SAV",
+      "citation": "za významné a originálne výsledky v oblasti parazitológie so zameraním na nové vynárajúce sa parazitárne a kliešťami prenášané infekčné choroby ľudí a zvierat a cirkuláciu ich pôvodcov v prírodných ohniskách"
+    },
+    {
+      "year": 2007,
+      "edition": 11,
+      "category": "Uznanie za celoživotné dielo v SR",
+      "laureate": "Ing. Ladislav Komora, CSc.",
+      "institution": "VUP, a. s. Prievidza",
+      "citation": "za celoživotnú výskumnú prácu v oblasti aplikovanej organickej technológie zameranej na rozvoj chemického priemyslu na Slovensku – k životnému jubileu 70 rokov"
+    },
+    {
+      "year": 2007,
+      "edition": 11,
+      "category": "Za výsledky v programoch EÚ",
+      "laureate": "prof. Ing. Karel Kovářík, CSc.",
+      "institution": "Stavebná fakulta ŽU v Žiline",
+      "citation": "za vybudovanie rozsiahleho viacjazyčného informačného systému výskumných dopravných zariadení v EÚ"
+    },
+    {
+      "year": 2008,
+      "edition": 12,
+      "category": "Vedec roka SR",
+      "laureate": "prof. MUDr. Fedor Šimko, CSc.",
+      "institution": "Lekárska fakulta UK v Bratislave",
+      "citation": "za mimoriadny, medzinárodne uznávaný prínos v oblasti nových prístupov k liečbe esenciálnej hypertenzie, za originálne experimentálne práce z oblasti terapie hypertenzného a zlyhávajúceho srdca a za vynikajúcu reprezentáciu slovenskej vedy v zahraničí"
+    },
+    {
+      "year": 2008,
+      "edition": 12,
+      "category": "Technológ roka SR",
+      "laureate": "Doc. Ing. Ladislav Janoušek, PhD.",
+      "institution": "Elektrotechnická fakulta ŽU v Žiline",
+      "citation": "za vedecko-výskumnú činnosť v oblasti nedeštruktívneho vyšetrovania vodivých materiálov použitím elektromagnetických metód, hlavne metódou vírivých prúdov"
+    },
+    {
+      "year": 2008,
+      "edition": 12,
+      "category": "Mladý výskumník roka SR",
+      "laureate": "Dr. Monika Gullerová, PhD.",
+      "institution": "Sir William Dunn School of Pathology University of Oxford",
+      "citation": "za unikátny objav regulácie transkripcie kohezinom (spoluúčasť)"
+    },
+    {
+      "year": 2008,
+      "edition": 12,
+      "category": "Uznanie za celoživotné dielo v SR",
+      "laureate": "prof. PhDr. Ondrej R. Halaga, Dr. Sc. h.",
+      "institution": "Spoločenskovedný ústav SAV",
+      "citation": "za celoživotné dielo jedného z najstarších slovenských v súčasnosti tvorivých historikov a autorstvo viac ako 500 vedeckých a odborných prác. Ohlas na jeho práce publikovaný v slovenskej a v zahraničnej tlači"
+    },
+    {
+      "year": 2008,
+      "edition": 12,
+      "category": "Za výsledky v programoch EÚ",
+      "laureate": "prof. RNDr. Ján Dusza, DrSc.",
+      "institution": "Ústav materiálového výskumu SAV",
+      "citation": "za vynikajúce výsledky v rámci vedecko-výskumnej celoeurópskej spolupráce v rámci projektu 6RP Knowledge based multicomponent materials, Network of excellence a projektu INTERREG IIIA: Podkarpatské virtuálne výskumné a inovačné centrum., ďalej za vývoj nových keramických nanokompozitov s výbornými vlastnosťami, za upevnenie postavenia slovenskej vedy v európskom výskumnom priestore"
+    },
+    {
+      "year": 2009,
+      "edition": 13,
+      "category": "Vedec roka SR",
+      "laureate": "prof. RNDr. Jozef Masarik, DrSc.",
+      "institution": "Fakulta matematiky, fyziky a informatiky UK v Bratislave",
+      "citation": "za vytvorenie doteraz najúplnejšieho modelu interakcií kozmického žiarenia s látkou"
+    },
+    {
+      "year": 2009,
+      "edition": 13,
+      "category": "Technológ roka SR",
+      "laureate": "RNDr. Tibor Žáčik, CSc.",
+      "institution": "Matematický ústav SAV",
+      "citation": "za návrh, rozvinutie a počítačovú implementáciu nových metód detekcie a lokalizácie únikov plynov z plynovodných potrubí"
+    },
+    {
+      "year": 2009,
+      "edition": 13,
+      "category": "Mladý výskumník roka SR",
+      "laureate": "Ing. Vlasta Ondrejka Harbuľáková, PhD.",
+      "institution": "Stavebná fakulta TU v Košiciach",
+      "citation": "za výsledky štúdia vplyvu pôsobenia mikroorganizmov v biofilmoch na betón ako na základný stavebný materiál"
+    },
+    {
+      "year": 2009,
+      "edition": 13,
+      "category": "Uznanie za celoživotné dielo v SR",
+      "laureate": "prof. MUDr. Ján Slezák, DrSc., D.h.c., FIACS",
+      "institution": "Ústav pre výskum srdca SAV",
+      "citation": "za mimoriadne aktívnu vedeckú a manažerskú prácu pre vedu a výskum na Slovensku a za vynikajúce vedecké výsledky v oblasti experimentálnej kardiológie"
+    },
+    {
+      "year": 2009,
+      "edition": 13,
+      "category": "Za výsledky v programoch EÚ",
+      "laureate": "RNDr. Katarína Bíliková, PhD.",
+      "institution": "Ústav molekulárnej biológie SAV",
+      "citation": "za prínos k objasneniu antimikrobiálnych vlastností bielkovín včelej materskej kašičky ako výsledku modifikácie minoritných bielkovín a za vypracovanie nového kritéria pre hodnotenie pravosti a fyziologických vlastností včelieho medu, ktoré boli dosiahnuté počas riešenia rámcových programov EÚ"
+    },
+    {
+      "year": 2010,
+      "edition": 14,
+      "category": "Vedec roka SR",
+      "laureate": "RNDr. Stanislav Dubnička, DrSc.",
+      "institution": "Fyzikálny ústav SAV",
+      "citation": "za vybudovanie univerzálneho unitárneho a analytického modelu elektro-slabej štruktúry silno interagujúcich častíc a jeho využitie v rade rôznych nových teoretických predpovedí, ktoré sa plánujú overiť experimentálne v Darmstadte (Nemecko), vo Frascati (Taliansko), v Jefferson Labe (USA) a Pekingu (Čína)."
+    },
+    {
+      "year": 2010,
+      "edition": 14,
+      "category": "Technológ roka SR",
+      "laureate": "prof. Ing. Jaroslav Homišin, CSc.",
+      "institution": "Strojnícka fakulta TU v Košiciach",
+      "citation": "za mimoriadnu patentovú činnosť v rokoch 2008 – 2010 v oblasti vývoja pneumatických pružných hriadeľových spojok, regulačných a riadiacich systémov za účelom realizácie plynulého ladenia torzne kmitajúcich mechanických sústav..."
+    },
+    {
+      "year": 2010,
+      "edition": 14,
+      "category": "Mladý výskumník roka SR",
+      "laureate": "Ing. Marián Sýkora, PhD.",
+      "institution": "Stavebná fakulta ŽU v Žiline",
+      "citation": "za vypracovanie metodiky predikcie zvyškovej životnosti konštrukčných prvkov kovových stavebných konštrukcií a mostov s dôrazom na oceľové mosty s ortotropnými doskovými mostovkami v rámci dizertačnej práce na tému „Zvyšková životnosť doskových mostoviek mostov s priebežným koľajovým lôžkom“."
+    },
+    {
+      "year": 2010,
+      "edition": 14,
+      "category": "Mladý výskumník roka SR – B",
+      "laureate": "RNDr. Katarína Valachová, PhD.",
+      "institution": "Ústav experimentálnej farmakológie a toxikológie SAV",
+      "citation": "za skúmanie chemických a biochemických parametrov polysacharidu hyalurónanu – hlavnej zložky synoviálnej tekutiny kĺbu zodpovednej za jeho správnu činnosť...."
+    },
+    {
+      "year": 2010,
+      "edition": 14,
+      "category": "Uznanie za celoživotné dielo v SR",
+      "laureate": "Dr.h.c. prof. Ing. Štefan Luby, DrSc. (Fyzikálny ústav SAV)",
+      "institution": "",
+      "citation": ""
+    },
+    {
+      "year": 2010,
+      "edition": 14,
+      "category": "Za výsledky v programoch EÚ",
+      "laureate": "prof. Ing. Dušan Šimšík, PhD.",
+      "institution": "Strojnícka fakulta TU v Košiciach",
+      "citation": "za získanie a úspešné riešenie projektov EÚ v oblasti IKT – e-Inklúzia v rámci 6. a 7. rámcového programu: Integrovaný projekt „Mainstreaming on Ambient Intelligence“ – MonAMI – IST-5-0535147 (Inteligentné prostredie v službách hlavného prúdu)."
+    },
+    {
+      "year": 2011,
+      "edition": 15,
+      "category": "Vedec roka SR",
+      "laureate": "prof. Ing. Roman Boča, DrSc.",
+      "institution": "Fakulta prírodných vied UCM v Trnave",
+      "citation": "za mimoriadnu publikačnú aktivitu v oblasti experimentálnej a teoretickej magnetochémie s vyústením do formulácie magnetoštruktúrnych D-korelácií umožňujúcich ladiť magnetickú anizotropiu, a tak vytvoriť podmienky pre racionálnu syntézu jednomolekulových magnetov, ako aj za a úspešné vedenie projektu Centra excelentnosti „Magnetoaktivita, elektroaktivita a fotoaktivita koordinačných zlúčenín"
+    },
+    {
+      "year": 2011,
+      "edition": 15,
+      "category": "Technológ roka SR",
+      "laureate": "Mgr. Martin Sabo, PhD.",
+      "institution": "Fakulta matematiky, fyziky a informatiky UK v Bratislave",
+      "citation": "za konštrukciu vysoko citlivého spektrometra „Tandemový iónový pohyblivostný spektrometer s hmotnostným spektrometrom“, ktorý možno využiť v oblasti výskumu iónových procesov prebiehajúcich v elektrických výbojoch a v plynoch pri atmosférickom tlaku a na výskum transportných procesov iónov v plynoch"
+    },
+    {
+      "year": 2011,
+      "edition": 15,
+      "category": "Mladý výskumník roka SR",
+      "laureate": "RNDr. Jaromír Mikeš, PhD",
+      "institution": "Prírodovedecká fakulta UPJŠ v Košiciach",
+      "citation": "za objasnenie niektorých aspektov protinádorového účinku fotodynamickej terapie navodenej hypericínom na celulárnej úrovni s výrazným medzinárodným ohlasom vo vedeckej komunite. Za veľký podiel na implementácii metód analytickej cytometrie a za prínos vo vedecko-výskumnom formovaní študentov Prírodovedeckej fakulty Univerzity Pavla Jozefa Šafárika v Košiciach."
+    },
+    {
+      "year": 2011,
+      "edition": 15,
+      "category": "Uznanie za celoživotné dielo v SR",
+      "laureate": "PhDr. Karol Pieta, DrSc.",
+      "institution": "Archeologický ústav SAV",
+      "citation": "Svojim výnimočným podielom na odhaľovaní a poznaní včasnohistorického a včasnostredovekého obdobia na území Slovenska prispel k zviditeľneniu našej dávnej minulosti v európskom priestore. Mnohé jeho archeologické výskumy doma i v zahraničí priniesli významné objavy, ktoré pomohli prehodnotiť a doplniť doteraz písané dejiny."
+    },
+    {
+      "year": 2011,
+      "edition": 15,
+      "category": "Za výsledky v programoch EÚ",
+      "laureate": "prof. RNDr. Karol Mikula, DrSc.",
+      "institution": "Stavebná fakulta STU v Bratislave",
+      "citation": "za úspešné riešenie európskych projektov, ktorých výsledkom sú svetovo unikátne postupy na počítačovú analýzu časovo-priestorových štvordimenzionálnych obrazov embryogenézy jednoduchých stavovcov s aplikáciami vo vývojovej biológii a medicíne, založené na efektívnych paralelných implementáciách originálnych numerických metód na riešenie nelineárnych parciálnych diferenciálnych rovníc."
+    },
+    {
+      "year": 2012,
+      "edition": 16,
+      "category": "Vedec roka SR",
+      "laureate": "prof. RNDr. Igor Podlubný, DrSc.",
+      "institution": "Fakulta baníctva, ekológie, riadenia a geotechnológií TU v Košiciach",
+      "citation": "za práce v oblasti teórie a aplikácií diferenciálnych rovníc neceločíselného rádu a za mimoriadny citačný ohlas vo svete za rok 2012"
+    },
+    {
+      "year": 2012,
+      "edition": 16,
+      "category": "Technológ roka SR",
+      "laureate": "Doc. Ing. Pavol Alexy, PhD.",
+      "institution": "Fakulta chemickej a potravinárskej technológie STU v Bratislave",
+      "citation": "za vývoj receptúry a technológie prípravy zmesových materiálov s vysokou húževnatosťou na báze biodegradovateľných polymérov pochádzajúcich z obnoviteľných zdrojov."
+    },
+    {
+      "year": 2012,
+      "edition": 16,
+      "category": "Mladý výskumník roka SR",
+      "laureate": "Mgr. Zuzana Benková, PhD.",
+      "institution": "Ústav polymérov SAV",
+      "citation": "za významný príspevok v oblasti počítačových simulácií polyetylénoxidových reťazcov chemicky naviazaných na pevnom povrchu, ako i modelovanie konformačných zmien, vyvolaných geometrickým obmedzením cyklických makromolekúl s aplikáciou na molekuly DNA."
+    },
+    {
+      "year": 2012,
+      "edition": 16,
+      "category": "Uznanie za celoživotné dielo v SR",
+      "laureate": "PhDr. Ivan Kamenec, CSc.,",
+      "institution": "Historický ústav SAV",
+      "citation": "za vysoko erudovanú odbornú činnosť a angažovanie sa pri prehlbovaní historického povedomia širokej slovenskej verejnosti."
+    },
+    {
+      "year": 2012,
+      "edition": 16,
+      "category": "Za výsledky v programoch EÚ",
+      "laureate": "prof. RNDr. Peter Kúš, DrSc.,",
+      "institution": "Fakulta matematiky, fyziky a informatiky UK v Bratislave",
+      "citation": "za významný prínos k budovaniu vedeckovýskumnej infraštruktúry fakulty s využitím fondov Európskej únie."
+    },
+    {
+      "year": 2013,
+      "edition": 17,
+      "category": "Vedec roka SR",
+      "laureate": "Doc. RNDr. Stanislav Tokár, CSc.",
+      "institution": "Fakulta matematiky, fyziky a informatiky UK v Bratislave",
+      "citation": "za významný a originálny príspevok vo fyzike vysokých energií, predovšetkým v oblasti hľadania Higgsovho bozónu a určenia náboja top-kvarku."
+    },
+    {
+      "year": 2013,
+      "edition": 17,
+      "category": "Technológ roka SR",
+      "laureate": "Ing. Michal Krajčík, PhD.",
+      "institution": "Stavebná fakulta STU v Bratislave",
+      "citation": "za dosiahnuté významné výsledky v oblasti vnútornej klímy budov."
+    },
+    {
+      "year": 2013,
+      "edition": 17,
+      "category": "Osobnosť roka v oblasti technológií",
+      "laureate": "RNDr. Michal Pitoňák, PhD.",
+      "institution": "Prírodovedecká fakulta UK v Bratislave",
+      "citation": "za presný, kvantovochemický výpočet nekovalentných komplexov, so zameraním na biologicky významné molekuly, akými sú napríklad DNA alebo proteíny."
+    },
+    {
+      "year": 2013,
+      "edition": 17,
+      "category": "Za výsledky v programoch EÚ",
+      "laureate": "prof. Ing. Tomáš Sabol, CSc.,",
+      "institution": "Ekonomická fakulta TU v Košiciach",
+      "citation": "za výsledky v oblasti znalostných technológií s podporou informačných a komunikačných technológií a za medzinárodné uznanie v európskej výskumnej komunite v predmetnej oblasti."
+    },
+    {
+      "year": 2013,
+      "edition": 17,
+      "category": "Uznanie za celoživotné dielo v SR",
+      "laureate": "prof. MUDr. Jozef Rovenský, DrSc., FRCP,",
+      "institution": "Národný ústav reumatických chorôb",
+      "citation": "za vynikajúce výsledky medzinárodnej spolupráce v oblasti výskumu reumatologických ochorení vo vyššom veku, úspešné riešenie projektu Polymyalgia reumatika a temporálna artritída – význam faktorov podieľajúcich sa na závažnosti priebehu ochorení."
+    },
+    {
+      "year": 2014,
+      "edition": 18,
+      "category": "Vedec roka SR",
+      "laureate": "Doc. Ing. Fedor Gömöry, DrSc.",
+      "institution": "Elektrotechnický ústav SAV",
+      "citation": "za výskum vedúci k novým poznatkom o správaní kompozitov supravodič / feromagnetikum v jednosmerných a striedavých magnetických poliach."
+    },
+    {
+      "year": 2014,
+      "edition": 18,
+      "category": "Vedkyňa roka SR",
+      "laureate": "Mgr. Lucia Kučerová, PhD.",
+      "institution": "Ústav experimentálnej onkológie SAV",
+      "citation": "za výsledky vo výskume vlastností nádorových kmeňových buniek a bunkovej terapii agresívnych ľudských metastatických nádorov."
+    },
+    {
+      "year": 2014,
+      "edition": 18,
+      "category": "Osobnosť roka v oblasti technológií",
+      "laureate": "Doc. Ing. Sergej Hloch, PhD.",
+      "institution": "Fakulta výrobných technológií TU v Košiciach",
+      "citation": "za vynikajúce výsledky dosiahnuté v rámci riešenia projektov výskumu technológie vodného prúdu a mimoriadny prínos pre interdisciplinárnu medzinárodnú vedeckú spoluprácu v oblasti progresívnych výrobných technológií."
+    },
+    {
+      "year": 2014,
+      "edition": 18,
+      "category": "Osobnosť roka v programoch EÚ",
+      "laureate": "prof. RNDr. Pavol Miškovský, DrSc.",
+      "institution": "Prírodovedecká fakulta UPJŠ v Košiciach",
+      "citation": "za významný podiel na príprave a koordinácii úspešného projektu 7. RP EÚ získaného na Slovensku (Fostering excellence in multiscale cell imaging) v pozícii zodpovedného riešiteľa a za významný podiel na zapojení sa Slovenska do pan-európskej siete pre biologické zobrazovanie – EuroBioImaging."
+    },
+    {
+      "year": 2014,
+      "edition": 18,
+      "category": "Mladá osobnosť vedy",
+      "laureate": "Doc. Ing. Ľubomír Švorc, PhD.",
+      "institution": "Fakulta chemickej a potravinárskej technológie STU v Bratislave",
+      "citation": "za vysokú vedeckovýskumnú a publikačnú aktivitu v oblasti elektrotechnickej charakterizácie biologicky aktívnych látok a využitia nových elektródových materiálov v klinickej, environmentálnej a potravinárskej stopovej analýze."
+    },
+    {
+      "year": 2015,
+      "edition": 19,
+      "category": "Vedec roka SR",
+      "laureate": "Ing. Ján Tkáč, DrSc.",
+      "institution": "Chemický ústav SAV",
+      "citation": "za využitie nanotechnológií pri konštrukcii rôznych zariadení aplikovateľných v oblasti glykomiky a diagnostiky rozličných ochorení vrátane rakoviny prostaty."
+    },
+    {
+      "year": 2015,
+      "edition": 19,
+      "category": "Vedkyňa roka SR",
+      "laureate": "Doc. Ing. Monika Rychtáriková, PhD.",
+      "institution": "Stavebná fakulta STU v Bratislave",
+      "citation": "za aplikáciu znalostí stavebnej a priestorovej akustiky v medzipredmetnom kontexte, najmä v oblasti virtuálnej akustiky, pri výskume akustickej orientácie slepých ľudí v interiéri budov a poznatkov psychoakustiky pri overovaní akustických veličín."
+    },
+    {
+      "year": 2015,
+      "edition": 19,
+      "category": "Osobnosť roka v oblasti technológií",
+      "laureate": "Ing. Daniel Šlosár",
+      "institution": "Fakulta baníctva, ekológie, riadenia a geotechnológií TU v Košiciach",
+      "citation": "za vývoj prenosného generátora elektrickej energie – Chargebrella, ktorý dokáže nabiť rôzne mobilné zariadenia."
+    },
+    {
+      "year": 2015,
+      "edition": 19,
+      "category": "Osobnosť roka v programoch EÚ",
+      "laureate": "prof. RNDr. Tibor Hianik, DrSc.",
+      "institution": "Fakulta matematiky, fyziky a informatiky UK v Bratislave",
+      "citation": "za významný prínos a výsledky v oblasti vývoja biosenzorov určených na diagnostiku priónových ochorení, na monitorovanie kvality a kontaminácie potravín a znečistenia životného prostredia získaných v programoch EÚ."
+    },
+    {
+      "year": 2015,
+      "edition": 19,
+      "category": "Mladá osobnosť vedy",
+      "laureate": "Doc. RNDr. Tomáš Plecenik, PhD.",
+      "institution": "Fakulta matematiky, fyziky a informatiky UK v Bratislave",
+      "citation": "za vynikajúcu vedeckovýskumnú a publikačnú činnosť vo fyzike tuhých látok súvisiacu s využitím nanotechnológií v senzorike, biomateriáloch a supravodivých materiáloch."
+    },
+    {
+      "year": 2016,
+      "edition": 20,
+      "category": "Vedec roka SR",
+      "laureate": "prof. RNDr. Pavel Povinec, DrSc.",
+      "institution": "Fakulta matematiky, fyziky a informatiky UK v Bratislave",
+      "citation": "za významný prínos a dosiahnuté výsledky v oblasti vývoja ultrasenzitívnych urýchľovačových a rádiometrických analytických metód a ich využitie vo výskume zriedkavých jadrových procesov a environmentálnej rádioaktivity."
+    },
+    {
+      "year": 2016,
+      "edition": 20,
+      "category": "Vedkyňa roka SR",
+      "laureate": "Ing. Mária Omastová, DrSc.",
+      "institution": "Ústav polymérov SAV",
+      "citation": "za aplikáciu nanotechnológií v interdisciplinárnom výskume polymérnych kompozitov a nanokompozitov so zameraním na senzory, biosenzory, aktuátory a solárne články."
+    },
+    {
+      "year": 2016,
+      "edition": 20,
+      "category": "Osobnosť roka v oblasti technológií",
+      "laureate": "Doc. Ing. Radovan Hudák, PhD.",
+      "institution": "Strojnícka fakulta TU v Košiciach",
+      "citation": "za výskum, vývoj a aditívnu výrobu implantátov na mieru s poréznou štruktúrou a prípravu procesu ich implementácie do klinickej praxe"
+    },
+    {
+      "year": 2016,
+      "edition": 20,
+      "category": "Osobnosť roka v programoch EÚ",
+      "laureate": "prof. Ing. Daniel Donoval, DrSc.",
+      "institution": "Fakulta elektrotechniky a informatiky STU v Bratislave",
+      "citation": "za mimoriadnu aktivitu a úspešnosť v získavaní a riešení medzinárodných výskumných projektov, hlavne v EÚ programoch FP5 – FP7, Horizont 2020, najmä v ECSEL JU. Aktuálne vedie projekty e-Ramp a loSense a podieľa sa na riešení ďalších 4 projektov v rámci Horizont 2020."
+    },
+    {
+      "year": 2016,
+      "edition": 20,
+      "category": "Mladá osobnosť vedy",
+      "laureate": "Ing. Tomáš Bertók, PhD., EUR ING",
+      "institution": "Chemický ústav SAV",
+      "citation": "za výskumnú a popularizačnú činnosť v oblasti aplikácie nanoštruktúr pre zariadenia určené pre vysokocitlivú medicínsku diagnostiku nádorových a iných ochorení a analýzu komplexných sacharidov"
+    },
+    {
+      "year": 2017,
+      "edition": 21,
+      "category": "Vedec roka",
+      "laureate": "prof. RNDr. Michal Fečkan DrSc.",
+      "institution": "Fakulta matematiky, fyziky a informatiky UK v Bratislave",
+      "citation": "za mimoriadnu publikačnú aktivitu v roku 2017 zahrňujúcu monografiu a ďalších 18 článkov publikovaných v prestížnych matematických časopisoch, ako aj za výsledky dosiahnuté v predchádzajúcich rokoch."
+    },
+    {
+      "year": 2017,
+      "edition": 21,
+      "category": "Mladý vedecký pracovník",
+      "laureate": "RNDr. Daniel Reitzner, PhD.",
+      "institution": "Fyzikálny ústav SAV",
+      "citation": "za prácu v oblasti kvantových kráčaní a ich využitia pre efektívne kvantové vyhľadávania v grafoch, ako aj v oblasti kvantových meraní a ich nekompatibility."
+    },
+    {
+      "year": 2017,
+      "edition": 21,
+      "category": "Inovátor roka",
+      "laureate": "prof. Ing. Ľubomír Šooš, PhD.",
+      "institution": "Strojnícka fakulta STU v Bratislave",
+      "citation": "za vynikajúce výsledky a prínosy vo výskume, vývoji a v návrhu nových progresívnych riešení konštrukčných uzlov, strojov, zariadení a technologických liniek vo výrobnej technike a pri zhodnocovaní odpadov."
+    },
+    {
+      "year": 2017,
+      "edition": 21,
+      "category": "Technológ roka",
+      "laureate": "prof. RNDr. Pavol Miškovský, DrSc.",
+      "institution": "Technologický a inovačný park UPJŠ, Centrum interdisciplinárnych biovied",
+      "citation": "za vývoj nanotechnológie na selektívnu a citlivú detekciu perzistentných organických polutantov vo vodnom prostredí a potravinách potvrdenú ziskom prestížneho medzinárodného grantu v rámci schémy H2020 SME-instrument."
+    },
+    {
+      "year": 2017,
+      "edition": 21,
+      "category": "Osobnosť medzinárodnej spolupráce",
+      "laureate": "prof. Ing. Milan Dado, PhD.",
+      "institution": "Žilinská univerzita v Žiline",
+      "citation": "za zásluhy v oblasti rozvoja vedy a techniky na báze medzinárodnej spolupráce a za šírenie dobrého mena Slovenskej republiky v zahraničí cez projekty medzinárodnej vedecko-technickej spolupráce."
+    },
+    {
+      "year": 2018,
+      "edition": 22,
+      "category": "Vedec roka",
+      "laureate": "doc. RNDr. Vladimír Zeleňák",
+      "institution": "Prírodovedecká fakulta UPJŠ v Košiciach",
+      "citation": "za prínos k zavedeniu a rozvoju unikátnej problematiky usporiadaných nanopórovitých materiálov typu metaloorganických sietí a usporiadanej mezopórovitej siliky v rámci Slovenska a štúdium ich aplikácie ako sorbentov, inteligentných nosičov liečiv a magnetických materiálov"
+    },
+    {
+      "year": 2018,
+      "edition": 22,
+      "category": "Mladý vedecký pracovník",
+      "laureate": "RNDr. Matej Baláž, PhD.",
+      "institution": "Ústav geotechniky SAV v Košiciach",
+      "citation": "za významný inovačný prínos a početné publikácie vo vednej oblasti „mechanochémia“ v roku 2018"
+    },
+    {
+      "year": 2018,
+      "edition": 22,
+      "category": "Inovátor roka",
+      "laureate": "prof. Ing. Ján Piteľ, PhD.",
+      "institution": "Fakulta výrobných technológií TU v Košiciach so sídlom v Prešove",
+      "citation": "za inovatívne technické riešenia v oblasti automatizácie a riadenia strojov a procesov chránené patentmi a úžitkovými vzormi"
+    },
+    {
+      "year": 2018,
+      "edition": 22,
+      "category": "Technológ roka",
+      "laureate": "Ing. Jozef Zohn",
+      "institution": "ASKOZVAR, s.r.o., Košice",
+      "citation": "za zavedenie technológie zvárania trojzložkovým plynom pri zhotovovaní oceľových konštrukcií a prínos v oblasti technológie zvárania na Slovensku"
+    },
+    {
+      "year": 2018,
+      "edition": 22,
+      "category": "Osobnosť medzinárodnej spolupráce",
+      "laureate": "prof. RNDr. Otokar Grošek, PhD.",
+      "institution": "Fakulta elektrotechniky a informatiky STU v Bratislave",
+      "citation": "za jedinečný prínos pre propagáciu slovenskej vedy na pôde Severoatlantickej aliancie, dlhodobú úspešnosť v získavaní zahraničných grantov a za získanie ocenenia vedeckého programu NATO Veda pre mier a bezpečnosť „Najlepší projekt NATO za posledných desať rokov v oblasti kybernetickej bezpečnosti"
+    },
+    {
+      "year": 2019,
+      "edition": 23,
+      "category": "Vedec roka",
+      "laureate": "RNDr. Peter Skyba, DrSc.",
+      "institution": "Ústav experimentálnej fyziky SAV, Centrum fyziky nízkych teplôt",
+      "citation": "za vedecké výsledky dosiahnuté pri štúdiu vlastností kondenzovaných látok pri veľmi nízkych teplotách, najmä supratekutého hélia-3 ako modelového systému pre kozmológiu a za rozvoj fyziky veľmi nízkych teplôt na Slovensku."
+    },
+    {
+      "year": 2019,
+      "edition": 23,
+      "category": "Mladý vedecký pracovník",
+      "laureate": "RNDr. Cyril Rajnák, PhD., PhD.",
+      "institution": "Fakulta prírodných vied UCM v Trnave, Katedra chémie",
+      "citation": "za výnimočný prínos v oblasti skúmania jednomolekulových, jednoiónových a jednoretiazkových magnetov a ich potenciálneho využitia v praxi."
+    },
+    {
+      "year": 2019,
+      "edition": 23,
+      "category": "Inovátor roka",
+      "laureate": "prof. Ing. Ján Híveš, PhD.",
+      "institution": "Fakulta chemickej a potravinárskej technológie STU v Bratislave",
+      "citation": "za výskum a vývoj technológie výroby silného „zeleného“ oxidovadla – železanu – schopného ekologicky likvidovať široké spektrum mikropolutantov v životnom prostredí, hlavne vo všetkých typoch vôd."
+    },
+    {
+      "year": 2019,
+      "edition": 23,
+      "category": "Technológ roka",
+      "laureate": "prof. Ing. Emil Spišák, CSc.",
+      "institution": "Ústav technologického a materiálového inžinierstva TU v Košiciach",
+      "citation": "za návrh a realizáciu Prototypového a inovačného centra Strojníckej fakulty Technickej univerzity v Košiciach, ako technologickej základne na realizáciu výsledkov vedeckovýskumnej činnosti zamestnancov a študentov Technickej univerzity v Košiciach a ich transfer do priemyselného zázemia Slovenska."
+    },
+    {
+      "year": 2019,
+      "edition": 23,
+      "category": "Osobnosť medzinárodnej spolupráce",
+      "laureate": "prof. Ing. Dušan Galusek, DrSc.",
+      "institution": "Centrum pre funkčné a funkcionalizované sklá Trenčianskej univerzity Alexandra Dubčeka v Trenčíne",
+      "citation": "za úspešnú mnohoročnú spoluprácu so špičkovými svetovými a európskymi pracoviskami materiálového výskumu a získanie podpory z programu Horizont 2020 na vybudovanie centra sklárskeho výskumu európskeho významu v SR."
+    },
+    {
+      "year": 2022,
+      "edition": 26,
+      "category": "Vedec roka/Vedkyňa roka",
+      "laureate": "Prof. RNDr. Martin Škoviera, PhD.",
+      "institution": "Fakulta matematiky, fyziky a informatiky, Univerzita Komenského v Bratislave",
+      "citation": "za použitie inovatívnych matematických metód a publikovanie prelomových výsledkov o niekoľkých dôležitých a dlhodobo otvorených hypotézach týkajúcich sa cyklov a pokrytí v teórii grafov."
+    },
+    {
+      "year": 2022,
+      "edition": 26,
+      "category": "Mladý vedecký pracovník/Mladá vedecká pracovníčka",
+      "laureate": "Ing. Michal Májek, Dr. rer. nat.",
+      "institution": "Prírodovedecká fakulta, Univerzita Komenského v Bratislave",
+      "citation": "za významné medzinárodné uznanie a potenciálny prínos výskumu v oblasti chemickej katalýzy s piezoelektrickými materiálmi."
+    },
+    {
+      "year": 2022,
+      "edition": 26,
+      "category": "Inovátor roka/Inovátorka roka",
+      "laureate": "Doc. Ing. Vladimír Cviklovič, PhD.",
+      "institution": "Technická fakulta, Slovenská poľnohospodárska univerzita v Nitre",
+      "citation": "za významný prínos v riadiacich a navigačných algoritmoch pre oblasť autonómnej mobilnej robotiky pretavený do dvoch funkčných prototypov autonómnych mobilných robotov."
+    },
+    {
+      "year": 2022,
+      "edition": 26,
+      "category": "Technológ roka/Technologička roka",
+      "laureate": "Doc. Ing. Marek Vrabeľ, PhD.",
+      "institution": "Strojnícka fakulta, Technická univerzita v Košiciach",
+      "citation": "za zabezpečenie komplexnej technologickej prípravy výroby a samotnej výroby jedinečných dielcov pre letecký, vesmírny a jadrový priemysel."
+    },
+    {
+      "year": 2022,
+      "edition": 26,
+      "category": "Osobnosť medzinárodnej spolupráce",
+      "laureate": "Prof. Ing. Mária Bieliková, PhD.",
+      "institution": "Kempelenov inštitút inteligentných technológií",
+      "citation": "za jedinečný prínos k rozvoju a zviditeľneniu slovenskej vedy na medzinárodnej úrovni v oblasti umelej inteligencie, zapájanie sa do vedeckých projektov Horizontu Európa a založenie Kempelenovho inštitútu inteligentných technológií s medzinárodným presahom."
+    }
+  ],
+  "meta": {
+    "title": "Vedec roka SR – ocenení vedci - Free Download",
+    "description": "Laureáti ocenenia Vedec roka Slovenskej republiky podľa ročníka a kategórie (vedec, technológ, mladý výskumník a ďalšie): meno, pracovisko a zdôvodnenie ocenenia. Contains 118 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vedec roka SR – ocenení vedci | ListBase",
+    "seo_description": "Download Vedec roka SR – ocenení vedci — 118 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 118 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Vedec_roka_SR"
+    ]
+  }
+}
