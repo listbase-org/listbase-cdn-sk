@@ -1,0 +1,154 @@
+{
+  "id": "sk-slovenske-letecke-esa",
+  "name": "Slovenské letecké esá",
+  "title": "Slovenské letecké esá",
+  "description": "Slovenskí stíhací piloti – letecké esá (najmä z 2. svetovej vojny): meno, letectvo, v ktorom slúžili, a počet zostrelov.",
+  "category": "history",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_slovenských_leteckých_es",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_slovenských_leteckých_es",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "air_force",
+      "label": "Air Force",
+      "type": "string"
+    },
+    {
+      "key": "victories",
+      "label": "Victories",
+      "type": "number"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ján Režňák",
+      "air_force": "SVZ",
+      "victories": 32,
+      "note": "5 (?)"
+    },
+    {
+      "name": "Izidor Kovárik",
+      "air_force": "SVZ",
+      "victories": 28,
+      "note": ""
+    },
+    {
+      "name": "Ján Gerthofer",
+      "air_force": "SVZ",
+      "victories": 26,
+      "note": ""
+    },
+    {
+      "name": "František Cyprich",
+      "air_force": "SVZ",
+      "victories": 15,
+      "note": "3 (?)"
+    },
+    {
+      "name": "František Brezina",
+      "air_force": "SVZ",
+      "victories": 14,
+      "note": ""
+    },
+    {
+      "name": "Anton Matúšek",
+      "air_force": "SVZ",
+      "victories": 12,
+      "note": ""
+    },
+    {
+      "name": "Jozef Štauder",
+      "air_force": "SVZ",
+      "victories": 12,
+      "note": ""
+    },
+    {
+      "name": "Pavel Zeleňák",
+      "air_force": "SVZ",
+      "victories": 12,
+      "note": ""
+    },
+    {
+      "name": "Rudolf Božik",
+      "air_force": "SVZ",
+      "victories": 11,
+      "note": "9 (?)"
+    },
+    {
+      "name": "Otto Smik",
+      "air_force": "RAF",
+      "victories": 11,
+      "note": "2 (?)"
+    },
+    {
+      "name": "Vladimír Kriško",
+      "air_force": "SVZ",
+      "victories": 9,
+      "note": "1 (?)"
+    },
+    {
+      "name": "Alexander Gerič",
+      "air_force": "SVZ",
+      "victories": 9,
+      "note": ""
+    },
+    {
+      "name": "Jozef Jančovič",
+      "air_force": "SVZ",
+      "victories": 7,
+      "note": "2 (?)"
+    },
+    {
+      "name": "František Hanovec",
+      "air_force": "SVZ",
+      "victories": 6,
+      "note": "2 (?)"
+    },
+    {
+      "name": "Rudolf Palatický",
+      "air_force": "SVZ",
+      "victories": 6,
+      "note": "1 (?)"
+    },
+    {
+      "name": "Štefan Martiš",
+      "air_force": "SVZ",
+      "victories": 5,
+      "note": "1 (?)"
+    },
+    {
+      "name": "Juraj Puškár",
+      "air_force": "SVZ",
+      "victories": 5,
+      "note": ""
+    },
+    {
+      "name": "Štefan Ocvirk",
+      "air_force": "SVZ",
+      "victories": 5,
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Slovenské letecké esá - Free Download",
+    "description": "Slovenskí stíhací piloti – letecké esá (najmä z 2. svetovej vojny): meno, letectvo, v ktorom slúžili, a počet zostrelov. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Slovenské letecké esá | ListBase",
+    "seo_description": "Download Slovenské letecké esá — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_slovenských_leteckých_es"
+    ]
+  }
+}
