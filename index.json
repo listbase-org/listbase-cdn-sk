@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-15T02:08:35.963Z",
-  "total_datasets": 493,
-  "total_records": 285498,
+  "generated": "2026-11-15T02:08:44.870Z",
+  "total_datasets": 494,
+  "total_records": 285543,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "entertainment",
@@ -1431,6 +1431,30 @@
         "xlsx": {
           "name": "sk-osm-skoly_SK.xlsx",
           "size": 73420
+        }
+      }
+    },
+    {
+      "id": "sk-rektori-univerzity-komenskeho",
+      "name": "Rektori Univerzity Komenského v Bratislave",
+      "category": "education",
+      "record_count": 45,
+      "columns": [
+        "rector",
+        "term_from",
+        "term_to"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_rektorov_Univerzity_Komenského_v_Bratislave",
+      "updated": "2026-11",
+      "size": 5865,
+      "files": {
+        "csv": {
+          "name": "sk-rektori-univerzity-komenskeho_SK.csv",
+          "size": 1459
+        },
+        "xlsx": {
+          "name": "sk-rektori-univerzity-komenskeho_SK.xlsx",
+          "size": 7976
         }
       }
     },
