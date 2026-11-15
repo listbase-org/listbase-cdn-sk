@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-15T02:08:54.117Z",
-  "total_datasets": 495,
-  "total_records": 285575,
+  "generated": "2026-11-15T02:09:03.486Z",
+  "total_datasets": 496,
+  "total_records": 285598,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "finance",
@@ -2343,6 +2343,34 @@
         "xlsx": {
           "name": "sk-prirodne-rezervacie_SK.xlsx",
           "size": 185106
+        }
+      }
+    },
+    {
+      "id": "sk-strom-roka-vitazi",
+      "name": "Strom roka – víťazi ankety na Slovensku",
+      "category": "environment",
+      "record_count": 23,
+      "columns": [
+        "year",
+        "tree",
+        "latin_name",
+        "trunk_girth_cm",
+        "height_m",
+        "age_years",
+        "location"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Strom_roka",
+      "updated": "2026-11",
+      "size": 7365,
+      "files": {
+        "csv": {
+          "name": "sk-strom-roka-vitazi_SK.csv",
+          "size": 2366
+        },
+        "xlsx": {
+          "name": "sk-strom-roka-vitazi_SK.xlsx",
+          "size": 8426
         }
       }
     },

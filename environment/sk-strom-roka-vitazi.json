@@ -1,0 +1,268 @@
+{
+  "id": "sk-strom-roka-vitazi",
+  "name": "Strom roka – víťazi ankety na Slovensku",
+  "title": "Strom roka – víťazi ankety na Slovensku",
+  "description": "Víťazné stromy ankety Strom roka na Slovensku od roku 2003: druh, latinský názov, obvod kmeňa, výška, vek a lokalita.",
+  "category": "environment",
+  "source": "https://sk.wikipedia.org/wiki/Strom_roka",
+  "source_url": "https://sk.wikipedia.org/wiki/Strom_roka",
+  "updated": "2026-11",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "tree",
+      "label": "Tree",
+      "type": "string"
+    },
+    {
+      "key": "latin_name",
+      "label": "Latin Name",
+      "type": "string"
+    },
+    {
+      "key": "trunk_girth_cm",
+      "label": "Trunk Girth Cm",
+      "type": "number"
+    },
+    {
+      "key": "height_m",
+      "label": "Height M",
+      "type": "number"
+    },
+    {
+      "key": "age_years",
+      "label": "Age Years",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2003,
+      "tree": "Pagaštan konský",
+      "latin_name": "Aesculus hippocastanum",
+      "trunk_girth_cm": 274,
+      "height_m": "",
+      "age_years": "cca 150",
+      "location": "Trenčín, okres Trenčín"
+    },
+    {
+      "year": 2004,
+      "tree": "Borovica lesná",
+      "latin_name": "Pinus sylvestris",
+      "trunk_girth_cm": 460,
+      "height_m": "",
+      "age_years": "250 – 350",
+      "location": "Veľké Borové, okres Liptovský Mikuláš"
+    },
+    {
+      "year": 2006,
+      "tree": "Hruška planá",
+      "latin_name": "Pyrus pyraster",
+      "trunk_girth_cm": 376,
+      "height_m": "",
+      "age_years": "cca 300",
+      "location": "Bošáca, časť Zabudišová, okres Nové Mesto nad Váhom"
+    },
+    {
+      "year": 2007,
+      "tree": "Hruška planá",
+      "latin_name": "Pyrus pyraster",
+      "trunk_girth_cm": 302,
+      "height_m": "",
+      "age_years": "",
+      "location": "Zvolenská Slatina, okres Zvolen"
+    },
+    {
+      "year": 2008,
+      "tree": "Javor horský",
+      "latin_name": "Acer pseudoplatanus",
+      "trunk_girth_cm": 590,
+      "height_m": 22,
+      "age_years": "180",
+      "location": "Drietoma, okres Trenčín"
+    },
+    {
+      "year": 2009,
+      "tree": "Topoľ čierny",
+      "latin_name": "Populus nigra",
+      "trunk_girth_cm": 430,
+      "height_m": 40,
+      "age_years": "84",
+      "location": "Bratislava-Petržalka, areál Ekonomickej univerzity"
+    },
+    {
+      "year": 2010,
+      "tree": "Dub letný",
+      "latin_name": "Quercus robur",
+      "trunk_girth_cm": 733,
+      "height_m": 25,
+      "age_years": "850",
+      "location": "Dubinné, okres Bardejov"
+    },
+    {
+      "year": 2011,
+      "tree": "Lipa malolistá",
+      "latin_name": "Tilia cordata",
+      "trunk_girth_cm": 536,
+      "height_m": 23,
+      "age_years": "320",
+      "location": "Lipany, okres Sabinov"
+    },
+    {
+      "year": 2012,
+      "tree": "Platan javorolistý",
+      "latin_name": "Platanus × acerifolia",
+      "trunk_girth_cm": 930,
+      "height_m": 28,
+      "age_years": "138",
+      "location": "Komjatice, okres Nové Zámky"
+    },
+    {
+      "year": 2013,
+      "tree": "Dub letný",
+      "latin_name": "Quercus robur",
+      "trunk_girth_cm": 537,
+      "height_m": 21,
+      "age_years": "350",
+      "location": "Kremnica, okres Žiar nad Hronom"
+    },
+    {
+      "year": 2014,
+      "tree": "Moruša biela",
+      "latin_name": "Morus alba",
+      "trunk_girth_cm": 355,
+      "height_m": 20,
+      "age_years": "200",
+      "location": "Senica, okres Senica"
+    },
+    {
+      "year": 2015,
+      "tree": "Hruška obyčajná odroda 'Bošácka rúžová'",
+      "latin_name": "Pyrus communis",
+      "trunk_girth_cm": 231,
+      "height_m": 14,
+      "age_years": "200",
+      "location": "Bošáca, okres Nové Mesto nad Váhom"
+    },
+    {
+      "year": 2016,
+      "tree": "Platan javorolistý",
+      "latin_name": "Platanus hispanica",
+      "trunk_girth_cm": 603,
+      "height_m": 27,
+      "age_years": "270",
+      "location": "Budatín, okres Žilina"
+    },
+    {
+      "year": 2017,
+      "tree": "Jabloň domáca",
+      "latin_name": "Malus domestica",
+      "trunk_girth_cm": 251,
+      "height_m": 13,
+      "age_years": "120",
+      "location": "Bošáca, časť Zabudišová, okres Nové Mesto nad Váhom"
+    },
+    {
+      "year": 2018,
+      "tree": "Lipa veľkolistá",
+      "latin_name": "Tilia platyphyllos",
+      "trunk_girth_cm": 210,
+      "height_m": 20,
+      "age_years": "235",
+      "location": "Kopčany, okres Skalica, pri kostole sv. Margity A."
+    },
+    {
+      "year": 2019,
+      "tree": "Jarabina oskorušová / oskoruša domáca",
+      "latin_name": "Sorbus domestica",
+      "trunk_girth_cm": 295,
+      "height_m": 14,
+      "age_years": "250",
+      "location": "Uzovská Panica, časť Lapoňa, okres Rimavská Sobota"
+    },
+    {
+      "year": 2020,
+      "tree": "Dub letný",
+      "latin_name": "Quercus robur",
+      "trunk_girth_cm": 528,
+      "height_m": 14,
+      "age_years": "700",
+      "location": "Drnava, okres Rožňava"
+    },
+    {
+      "year": 2021,
+      "tree": "Buk lesný previsnutý",
+      "latin_name": "Fagus sylvatica 'Pendula'",
+      "trunk_girth_cm": 250,
+      "height_m": 13,
+      "age_years": "70",
+      "location": "Starý Smokovec, okres Poprad"
+    },
+    {
+      "year": 2022,
+      "tree": "Dub letný",
+      "latin_name": "Quercus robur",
+      "trunk_girth_cm": 677,
+      "height_m": 18,
+      "age_years": "700",
+      "location": "Lozorno, okres Malacky"
+    },
+    {
+      "year": 2023,
+      "tree": "Dub letný",
+      "latin_name": "Quercus robur",
+      "trunk_girth_cm": 660,
+      "height_m": 20,
+      "age_years": "500",
+      "location": "Malacky, okres Malacky"
+    },
+    {
+      "year": 2024,
+      "tree": "Hruška planá",
+      "latin_name": "Pyrus pyraster",
+      "trunk_girth_cm": 195,
+      "height_m": 10,
+      "age_years": "150",
+      "location": "Bošáca, okres Nové Mesto nad Váhom"
+    },
+    {
+      "year": 2025,
+      "tree": "Jabloň planá",
+      "latin_name": "Malus sylvestris",
+      "trunk_girth_cm": 242,
+      "height_m": 8,
+      "age_years": "150",
+      "location": "Žiar, okres Liptovský Mikuláš"
+    },
+    {
+      "year": 2026,
+      "tree": "Lipa malolistá",
+      "latin_name": "Tilia cordata",
+      "trunk_girth_cm": 560,
+      "height_m": 20,
+      "age_years": "570",
+      "location": "Zaježová, okres Zvolen"
+    }
+  ],
+  "meta": {
+    "title": "Strom roka – víťazi ankety na Slovensku - Free Download",
+    "description": "Víťazné stromy ankety Strom roka na Slovensku od roku 2003: druh, latinský názov, obvod kmeňa, výška, vek a lokalita. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Strom roka – víťazi ankety na Slovensku | ListBase",
+    "seo_description": "Download Strom roka – víťazi ankety na Slovensku — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Strom_roka"
+    ]
+  }
+}
