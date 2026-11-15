@@ -1,0 +1,166 @@
+{
+  "id": "sk-narodne-plemena-zvierat",
+  "name": "Národné plemená hospodárskych a domácich zvierat Slovenska",
+  "title": "Národné plemená hospodárskych a domácich zvierat Slovenska",
+  "description": "Zoznam slovenských národných plemien sliepok, husí, holubov, králikov, oviec, kôz, koní a psov s krátkym opisom.",
+  "category": "agriculture",
+  "source": "https://sk.wikipedia.org/wiki/Národné_plemená_Slovenska",
+  "source_url": "https://sk.wikipedia.org/wiki/Národné_plemená_Slovenska",
+  "updated": "2026-11",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "breed",
+      "label": "Breed",
+      "type": "string"
+    },
+    {
+      "key": "animal",
+      "label": "Animal",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "breed": "Oravka",
+      "animal": "sliepok",
+      "description": "Patrí medzi kombinované plemená sliepok. Vznik na Orave. Má stredný rámec tela. Znáša v priemere 180 vajec, hmotnosť jedného vajca je 57 g. Hmotnosť kohúta je 2,70 – 3,30 kg, sliepky je 2 – 2,60 kg"
+    },
+    {
+      "breed": "Suchovská hus",
+      "animal": "husí",
+      "description": "Suchovská hus je stredného telesného rámca, tvrdej konštitúcie kompaktného pevne stavaného, skoro vodorovne držaného tela, pastevného typu, nenáročná, sedavá vhodná pre drobnochovatelov zo znáškou 14 – 16 vajec a velmi dobrým pudom kvokavosti. Je to hus žltodivokého sfarbenia stredneho skôr menšieho typu, so stredne hrubým krkom, kompaktným hlbokým trupom s výrazným dvojitým podbruškom."
+    },
+    {
+      "breed": "Slovenská biela hus",
+      "animal": "husí",
+      "description": "Slovenská biela hus predstavuje stredne ťažké plemeno, vhodné na produkciu mäsa, pečene a peria. Vyznačuje sa kompaktným, mierne zošikmené držaným telom, ušľachtilého vzhľadu a pevnej konštitúcie. Je to plemeno otužilé s dobrým zužitkovaním pastvy so zachovaným pudom kvokavosti."
+    },
+    {
+      "breed": "Komárňanský kotrmeliak",
+      "animal": "holubov",
+      "description": "Najstaršie slovenské plemeno vyšľachtené v Komárne z plemien pochádzajúcich z Orientu, ktoré boli dovezené na naše územie vojenskými výpravami Turkov v 17. storočí."
+    },
+    {
+      "breed": "Košický kotrmeliak",
+      "animal": "holubov",
+      "description": "Športové plemeno holuba, ktoré bolo šľachtené v Košiciach v roku 1913."
+    },
+    {
+      "breed": "Košický letún",
+      "animal": "holubov",
+      "description": "Je mladým plemenom letúnov, ktoré vyšľachtil Ladislav Frenák z Košíc krížením týchto plemien – segedínsky letún, ploeštský letún čung, budapeštiansky sivko, budapeštiansky modrý letún a budapeštiansky bocianik. Za národné plemeno bol uznaný v roku 1977 v Žiline a začiatkom 90-tych rokov bolo plemeno premenované na Košický Vysokoletún."
+    },
+    {
+      "breed": "Piešťanský obor",
+      "animal": "holubov",
+      "description": "Je najmladším slovenským národným plemenom holuba. Vyšľachtil ho v rokoch 1970 – 1980 Andrej Boďa z Piešťan krížením plemien Mondén, Riman, Kinga, Texan, Maďarský obor, Moravský pštros, Gigant homér, ako aj niektoré hrvoliaky najmä Hanácky a Staronemecký. Za samostatné slovenské národné plemeno bol Piešťanský obor uznaný dňa 18. novembra 1987. V rokoch 1995 – 2005 došlo k útlmu Piešťanského obra. V súčasnosti sa o udržanie plemena snaží Klub chovateľov piešťanských obrov, ktorý dosiahol aj jeho zaradenie do vzorníka európskych plemien. Piešťanský obor sa chová najmä vo farebnom ráze čierny tiger a čierny fŕkaný, ale v súčasnosti sa šľachtia i iné farebné rázy, najmä červený tiger, červený fŕkaný, žltý tiger, žltý fŕkaný, hnedý tiger, hnedý fŕkaný a jednofarebné biely, čierny, červený, žltý a hnedý."
+    },
+    {
+      "breed": "Slovenský hrvoliak",
+      "animal": "holubov",
+      "description": "Plemeno bolo vyšľachtené na západnom Slovensku (Brezová pod Bradlom, Myjava a Stará Turá a okolité kopanice). Podľa niekdajších veľkých chovateľov Jána Čierneho a Samka Dudíka sa tam choval v hojnom počte na roľníckych a mlynárskych usadlostiach už v 2. polovici 19. storočia. Osobne ich chovali v rokoch 1860 až 1890. Po vzniku prvej ČSR v roku 1918 sa objavovali i písomné dokumenty o tomto plemene vo vtedajších chovateľských časopisoch. Prvýkrát ho vystavoval Koloman Slimák na výstave v roku 1926 v Bratislave a v Prahe. V 1930 na západnom Slovensku sa chovalo asi 1250 chovných párov. Na konci 2. svetovej vojny slovenský hrvoliak takmer vyhynul. Posledné chovné jedince pozbierali po brezovských a myjavských kopaniciach chovatelia z Nového Mesta nad Váhom, ktorí sa začali venovať jeho chovu a rozšíreniu. V súčasnosti je to opäť bežné plemeno."
+    },
+    {
+      "breed": "Slovenský letún",
+      "animal": "holubov",
+      "description": "Slovenský letún je športový druh holuba. Ako samostatné plemeno bol uznaný 19. februára 1977. Začiatky jeho šľachtenia však spadajú už pred 2. svetovou vojnou."
+    },
+    {
+      "breed": "Holíčsky modrý králik",
+      "animal": "králikov",
+      "description": "Vznik holičského modrého králika nadväzuje na šľachtiteľskú prácu Imricha Vaneka z Holíča, spojenú so šľachtením králika slovenského sivomodrého rexa. Holičský modrý králik je teda vzdialeným potomkom, ktorý vznikol z kríženia kasto-rexa a rysa. Ako samostatné plemeno bol uznaný 15. októbra 1975."
+    },
+    {
+      "breed": "Liptovský lysko",
+      "animal": "králikov",
+      "description": "Najmladšie slovenské národné plemeno králika. Uznané bolo na celoštátnej výstave zvierat v Nitre v roku 2005. Váži 4 – 4,25 kg. Farba srsti je sivá. Od spodnej časti pysku až po koreň ušníc má bielu srsť (lysinu). Vyšľachtený bol na Liptove. V sôčasnosti sa chová vo farebných rázoch divoky, modro-divoky a čierny."
+    },
+    {
+      "breed": "Nitriansky králik",
+      "animal": "králikov",
+      "description": "Plemeno bolo uznané v roku 1977. Podstatný podiel na jeho vzniku má J. Zelník z Nitry (v rokoch 1925 – 1986). Jeho hmotnosť je 4,25 – 5,25 kg. Telo je zavalité, široké, mohutne osvalené."
+    },
+    {
+      "breed": "Slovenský sivomodrý rex",
+      "animal": "králikov",
+      "description": "Najstaršie slovenské plemeno králika. Vyšľachtil ho Imrich Vanek z Holíča krížením králikov kastorex a rys od roku 1958. Ako samostatné plemeno bolo uznané v roku 1965."
+    },
+    {
+      "breed": "Zemplínsky pastelový králik",
+      "animal": "králikov",
+      "description": "So šľachtením začal Ing. Jozef Jonek v roku 1982. Plemeno bolo uznané 22. novembra 1987. Zemplínsky pastelový králik je stredne veľké plemeno."
+    },
+    {
+      "breed": "Cigája",
+      "animal": "oviec",
+      "description": "Hmotnosť barana 70 – 80 kg, bahnice 50 – 55 kg Jemnosť vlny C – C/D Mäsovo – mliekový úžitkový typ Produkcia mlieka za dojnú periódu 80 – 100 l Plodnosť 120 – 140 %"
+    },
+    {
+      "breed": "Slovenská merinka",
+      "animal": "oviec",
+      "description": "Hmotnosť barana 80 – 90 kg, bahnice 60 – 65 kg Jemnosť vlny A – A/B Vlnovo – mäsový úžitkový typ. Plodnosť 120 – 130 %"
+    },
+    {
+      "breed": "Zošľachtená valaška",
+      "animal": "oviec",
+      "description": "Hmotnosť barana 65 – 75 kg, bahnice 45 – 50 kg Jemnosť vlny D – D/E Mäsovo – mliekový úžitkový typ Produkcia mlieka za dojnú periódu 80 – 100 l Plodnosť 115 – 130 %"
+    },
+    {
+      "breed": "Biela krátkosrstá koza",
+      "animal": "kôz",
+      "description": "Zviera je rané, strednej veľkosti a hmotnosti, pevnej kostry, dobre vyvinutého svalstva, súmernej stavby tela, pevnej konštitúcie, s primerane širokým a hlbokým trupom, na dostatočne silných a dobre utváraných končatinách; odolné, vysoko plodné, s dobrou schopnosťou využívať krmivo. Hlava je biela, bezrohá, suchá, s výrazným okom a vztýčenými ušnicami. Krk prechádza plynulé do kohútika, ktorý je mierne znateľný. Hruď je stredne dlhá, hlboká a široká s vyklenutými rebrami. Plecia sú široké a pevné, k trupu priliehajúce. Chrbát je stredne dlhý, pevný a rovný. Zadok dlhý, široký, mierne dozadu sklonený. Bedrá pevné, široké, dobre viazané s kíbmi. Brucho je plné, s pevným brušným svalstvom. Končatiny sú mierne silné, dobre stavané s vyvinutými kíbami. Sponky pevné, paznechty tvrdé, svetložlté. Koža je jemná, ľahko odťažiteľná; srsť krátka, hustá, priľahlá, farby čisto bielej a lesklá. Kozičky nemajú znateľné hrboľky čelných kostí. Môžu byť rohaté alebo bezrohé. Capkovia majú hrboľky znateľné. Hlava je hrubšia so širokým čelom i papuľou a silnejšie vyvinutou bradou. Krk je svalnatejší, na hrdle s príveskami, tzv. zvonkami. Zvieratá oboch pohlaví v minulosti museli byť bezrohé, v súčasnosti je rohatosť prípustná. Musia mať bielu krátku srsť. Niektorí chovatelia kozy biele krátkosrsté zapájajú do kontroly úžitkovosti ako plemenné. Kozy, ktoré nespĺňajú podmienky plemenných, nie sú vhodné na reprodukciu. Špecializujú sa na mlie-kovú úžitkovosť. Vyšľachtené boli z pôvodných miestnych kôz krížením s plemennými capmi sánskymi alebo bielymi krátkosrstými bezrohými. Vyskytujú sa je-dince rohaté i bezrohé, najmä bielej farby. Produkcia mlieka za laktáciu je okolo 600 litrov, podľa chovateľských podmienok. Využiť sa dajú tiež ostrihaním srsti a podsady (0,1 až 0,2 kg podsady a 0,3 až 0,5 kg srsti), ako i na produkciu mäsa a kožiek."
+    },
+    {
+      "breed": "Muránsky norik- kone z muránskej planiny",
+      "animal": "koní",
+      "description": "Chovateľom a ošetrovateľom Norikov muránskych v Muráni je Jozef Siman. Všetky kone pozná po mene. Pán Siman dobre vie, že ošetruje výnimočný druh koní. Vari najsilnejší a najodolnejší, aký na Slovensku možno vidieť. „Sú statné, mimoriadne odolné proti počasiu a pracovité. Aj preto sú vyhľadávanými lesnými pomocníkmi,“ vysvetľuje Siman. Za obcou Muráň na Veľkej Lúke je jedna z dvoch chovných staníc, kde tieto koníky chovajú. Druhá je v Dobšinej. „Cvičené na prácu v lese sú ako 3,5-ročné, ako štvorročné sú zaraďované do lesnej prevádzky. Tu vydržia pracovať v ťažkých podmienkach pätnásť až dvadsať rokov,“ povedal veterán chovu koní. Napriek tvrdej práci v lese sa noriky muránske dožívajú aj dosť vysokého veku života. Najstarší z koníkov podľa spomienok pána Kánoša sa dožil takmer štyridsaťštyri rokov."
+    },
+    {
+      "breed": "Slovenský teplokrvník",
+      "animal": "koní",
+      "description": "Vznikol na podklade stredne mohutných teplokrvných plemien chovaných na Slovensku. Má pevnú konštitúciu, dobrý charakter a živý temperament. Najčastejšie je hnedák a ryšiak."
+    },
+    {
+      "breed": "Slovenský športový pony",
+      "animal": "koní",
+      "description": "Je to kôň viacstranne úžitkový s prevahou jazdeckého typu. Svojim exteriérom sa zhoduje s typom veľkého športového koňa. Určený je na jazdecký výcvik detí a mládeže vo veku 8 – 16 rokov."
+    },
+    {
+      "breed": "Slovenský čuvač",
+      "animal": "psov",
+      "description": "Najtradičnejším (i keď FCI ho uznala až v roku 1965) národným plemenom na Slovensku je nepochybne slovenský čuvač. Biele horské pastierske psy, známe pod menom čuvač, sa pod Tatrami chovali tradične už od dávnych čias. Čuvač je členom starej rodiny stredoeurópskych bielych pastierskych psov, do ktorej patrí napríklad poľský podhalanský ovčiak, maďarský kuvasz a taliansky maremánsko-abruzský ovčiarsky pes. Na Slovensku bol tento pes používaný (a je používaný dodnes) predovšetkým na stráženie stád oviec a hovädzieho dobytka, ale aj na stráženie ľudských obydlí. Cielené šľachtenie (obnovu) tohoto plemena začal Prof. Antonín Hrůza."
+    },
+    {
+      "breed": "Slovenský kopov",
+      "animal": "psov",
+      "description": "Ďalším známym slovenským národným plemenom je výkonný poľovný durič slovenský kopov. Prvé kopovy boli oproti dnešnému typu vyššie a silnejšie. Presadzovala sa predovšetkým hlasitosť na stope a vytrvalé prenasledovanie a blokovanie zveri. Neskôr sa začína, vzhľadom na špecifické podmienky našich lesov, presadzovať menší typ duriča, ale pri zachovaní fyzickej sily a odvahy. Kopov za používa predovšetkým ako lovecký pes na diviačiu zver, ale aj ako strážny pes. Prvé zápisy do plemennej knihy a vydávanie rodokmeňov začalo od roku 1940, kedy bola založená Slovenská plemenná kniha psov. O cieľavedomé šľachtenie plemena sa zaslúžili predovšetkým nestori slovenskej loveckej kynológie, Koloman Slimák a Andrej Renčo."
+    },
+    {
+      "breed": "Slovenský hrubosrstý stavač",
+      "animal": "psov",
+      "description": "Laickej verejnosti menej známe, ale veľmi výkonné lovecké plemeno sa začalo šľachtiť v 40. rokoch minulého storočia. Cieľom bolo vyšľachtiť kvalitného stavača na spôsob nemeckých plemien, ale odolného proti drsnému slovenskému počasiu a schopného pracovať v podmienkach našich lesov. Na jeho vyšľachtenie boli použité plemená weimarský stavač (odtiaľ zaujímavé zafarbenie), český fúzač a nemecký drôtosrstý stavač. Z potomkov boli vyberané len hrubosrsté jedince a s tými sa pokračovalo v chove. Tieto boli sprvu vedené pod názvom „hrubosrstý weimarský stavač“. Až vyjadrenie nemeckého Klubu chovateľov weimarských stavačov, že nebude uznávať hrubosrstý variant, prinútilo slovenských chovateľov o osamostatnenie plemena. Slovenský hrubosrstý stavač, ďalšie dielo pána Kolomana Slimáka, bolo uznané FCI v roku 1983"
+    },
+    {
+      "breed": "Československý vlčiak",
+      "animal": "psov",
+      "description": "Relatívne mladé plemeno vzniklo ako výsledok cieľavedomého šľachtiteľského programu Ing. Karla Hartla v druhej polovici minulého storočia. Pohraničná stráž vo vtedajšom Česko-Slovensku potrebovala výkonného strážneho psa na zabezpečenie hraníc. Pri šľachtení bolo cieľom zachovať pracovné kvality nemeckého ovčiaka a doplniť ich o ostražitosť, odolnosť a vytrvalosť karpatského vlka. Naplánované kríženie psa a vlka bolo podporené kvalitným vedeckým výskumom a šľachtiteľským plánom. Napriek tomu sa u výsledného plemena úplne nezachovala cvičiteľnosť a poslušnosť nemeckého ovčiaka. Výsledkom je však temperamentné a krásne plemeno s húževnatosťou a temperamentom vlka, ale pri zachovaní priateľskosti a spoločenskosti psa. Po rozdelení Česko-Slovenska pripadol po vzájomnej dohode patronát nad týmto plemenom Slovensku. V rokoch 1971 až 1981 pod vedením mjr. Františka Rosíka, kríženie pokračovalo iba na Slovensku. Vytvorila sa dostatočne veľká chovná základňa pre uznanie plemena. Za vznik plemena československý vlčiak, jeho uznanie a vytvorenie a organizovanie širokej chovateľskej základne na Slovensku nesie zásluhu mjr. František Rosík.Je možné zovšeobecniť, že bez Ing. Hartla by neexistovali krížence, bez mjr. Rosíka by neexistovalo plemeno."
+    }
+  ],
+  "meta": {
+    "title": "Národné plemená hospodárskych a domácich zvierat Slovenska - Free Download",
+    "description": "Zoznam slovenských národných plemien sliepok, husí, holubov, králikov, oviec, kôz, koní a psov s krátkym opisom. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Národné plemená hospodárskych a domácich zvierat Slovenska | ListBase",
+    "seo_description": "Download Národné plemená hospodárskych a domácich zvierat Slovenska — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Národné_plemená_Slovenska"
+    ]
+  }
+}
