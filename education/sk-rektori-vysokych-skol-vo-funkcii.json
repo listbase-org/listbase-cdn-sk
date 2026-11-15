@@ -1,0 +1,238 @@
+{
+  "id": "sk-rektori-vysokych-skol-vo-funkcii",
+  "name": "Rektori slovenských vysokých škôl vo funkcii",
+  "title": "Rektori slovenských vysokých škôl vo funkcii",
+  "description": "Rektori a rektorky verejných, štátnych a súkromných vysokých škôl na Slovensku (členovia Slovenskej rektorskej konferencie) s menom, titulmi a typom školy.",
+  "category": "education",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_slovenských_rektorov_aktuálne_vo_funkcii",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_slovenských_rektorov_aktuálne_vo_funkcii",
+  "updated": "2026-11",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "rector",
+      "label": "Rector",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "university",
+      "label": "University",
+      "type": "string"
+    },
+    {
+      "key": "school_type",
+      "label": "School Type",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rector": "prof. MgA. Ing. Michal Murin, ArtD.",
+      "function": "rektor",
+      "university": "Akadémie umení v Banskej Bystrici",
+      "school_type": "Verejné vysoké školy"
+    },
+    {
+      "rector": "prof. Ing. Ferdinand Daňo, PhD.",
+      "function": "rektor",
+      "university": "Ekonomickej univerzity v Bratislave",
+      "school_type": "Verejné vysoké školy"
+    },
+    {
+      "rector": "doc. Ing. Jaroslav Demko, CSc.",
+      "function": "rektor",
+      "university": "Katolíckej univerzity v Ružomberku",
+      "school_type": "Verejné vysoké školy"
+    },
+    {
+      "rector": "Dr. h. c. prof. PhDr. Peter Kónya, PhD.",
+      "function": "rektor",
+      "university": "Prešovskej univerzity v Prešove",
+      "school_type": "Verejné vysoké školy"
+    },
+    {
+      "rector": "doc. Ing. Klaudia Halászová, PhD.",
+      "function": "rektorka",
+      "university": "Slovenskej poľnohospodárskej univerzity v Nitre",
+      "school_type": "Verejné vysoké školy"
+    },
+    {
+      "rector": "Dr. h. c., prof.h.c., prof. Dr. Ing. Oliver Moravčík",
+      "function": "rektor",
+      "university": "Slovenskej technickej univerzity v Bratislave",
+      "school_type": "Verejné vysoké školy"
+    },
+    {
+      "rector": "Dr. h. c. prof. Ing. Stanislav Kmeť, CSc.",
+      "function": "rektor",
+      "university": "Technickej univerzity v Košiciach",
+      "school_type": "Verejné vysoké školy"
+    },
+    {
+      "rector": "Dr. h. c. prof. Ing. Rudolf Kropil, PhD.",
+      "function": "rektor",
+      "university": "Technickej univerzity vo Zvolene",
+      "school_type": "Verejné vysoké školy"
+    },
+    {
+      "rector": "doc. Ing. Jozef Habánik, PhD.",
+      "function": "rektor",
+      "university": "Trenčianskej univerzity Alexandra Dubčeka v Trenčíne",
+      "school_type": "Verejné vysoké školy"
+    },
+    {
+      "rector": "prof. ThLic. Miloš Lichner, D.Th.",
+      "function": "poverený rektor",
+      "university": "Trnavskej univerzity v Trnave",
+      "school_type": "Verejné vysoké školy"
+    },
+    {
+      "rector": "Dr. habil. PaedDr. György Juhász, PhD.",
+      "function": "rektor",
+      "university": "Univerzity J. Selyeho v Komárne",
+      "school_type": "Verejné vysoké školy"
+    },
+    {
+      "rector": "prof. JUDr. Marek Števček, DrSc.",
+      "function": "rektor",
+      "university": "Univerzity Komenského v Bratislave",
+      "school_type": "Verejné vysoké školy"
+    },
+    {
+      "rector": "prof. RNDr. Libor Vozár, CSc.",
+      "function": "rektor",
+      "university": "Univerzity Konštantína Filozofa v Nitre",
+      "school_type": "Verejné vysoké školy"
+    },
+    {
+      "rector": "doc. Ing. Vladimír Hiadlovský, PhD.",
+      "function": "rektor",
+      "university": "Univerzity Mateja Bela v Banskej Bystrici",
+      "school_type": "Verejné vysoké školy"
+    },
+    {
+      "rector": "prof. MUDr. Daniel Pella, PhD.",
+      "function": "rektor",
+      "university": "Univerzity Pavla Jozefa Šafárika v Košiciach",
+      "school_type": "Verejné vysoké školy"
+    },
+    {
+      "rector": "prof. Mgr. Katarína Slobodová Nováková, PhD.",
+      "function": "rektorka",
+      "university": "Univerzity sv. Cyrila a Metoda v Trnave",
+      "school_type": "Verejné vysoké školy"
+    },
+    {
+      "rector": "Dr. h. c. prof. MVDr. Jana Mojžišová, PhD.",
+      "function": "rektorka",
+      "university": "Univerzity veterinárskeho lekárstva a farmácie v Košiciach",
+      "school_type": "Verejné vysoké školy"
+    },
+    {
+      "rector": "doc. Mária Heinzová, ArtD.",
+      "function": "rektorka",
+      "university": "Vysokej školy múzických umení v Bratislave",
+      "school_type": "Verejné vysoké školy"
+    },
+    {
+      "rector": "doc. Mgr. Bohunka Koklesová, PhD.",
+      "function": "rektorka",
+      "university": "Vysokej školy výtvarných umení v Bratislave",
+      "school_type": "Verejné vysoké školy"
+    },
+    {
+      "rector": "prof. Ing. Jozef Jandačka, PhD.",
+      "function": "rektor",
+      "university": "Žilinskej univerzity v Žiline",
+      "school_type": "Verejné vysoké školy"
+    },
+    {
+      "rector": "doc. Ing. Jozef Puttera, CSc.",
+      "function": "rektor",
+      "university": "Akadémie ozbrojených síl M. R. Štefánika v Liptovskom Mikuláši",
+      "school_type": "Štátne vysoké školy"
+    },
+    {
+      "rector": "Dr. h. c. prof. JUDr. Lucia Kurilovská, PhD.",
+      "function": "rektorka",
+      "university": "Akadémie Policajného zboru v Bratislave",
+      "school_type": "Štátne vysoké školy"
+    },
+    {
+      "rector": "prof. MUDr. Peter Šimko, CSc.",
+      "function": "rektor",
+      "university": "Slovenskej zdravotníckej univerzity v Bratislave",
+      "school_type": "Štátne vysoké školy"
+    },
+    {
+      "rector": "doc. Samuel Abrahám, PhD.",
+      "function": "rektor",
+      "university": "Bratislavskej medzinárodnej školy liberálnych štúdií",
+      "school_type": "Súkromné vysoké školy"
+    },
+    {
+      "rector": "prof. PhDr. Egon Krák, ArtD.",
+      "function": "rektor",
+      "university": "Hudobnej a umeleckej akadémie Jána Albrechta v Banskej Štiavnici",
+      "school_type": "Súkromné vysoké školy"
+    },
+    {
+      "rector": "Dr. h. c. prof. Ing. Juraj Stern, PhD.",
+      "function": "rektor",
+      "university": "Paneurópskej vysokej školy",
+      "school_type": "Súkromné vysoké školy"
+    },
+    {
+      "rector": "doc. PaedDr. Tomáš Lengyelfalysy, PhD.",
+      "function": "rektor",
+      "university": "Vysokej školy Dubnický technologický inštitút v Dubnici nad Váhom",
+      "school_type": "Súkromné vysoké školy"
+    },
+    {
+      "rector": "Dr h. c. prof. Ing. Viera Cibáková, CSc.",
+      "function": "rektorka",
+      "university": "Vysokej školy ekonómie a manažmentu verejnej správy v Bratislave",
+      "school_type": "Súkromné vysoké školy"
+    },
+    {
+      "rector": "Dr.h.c. prof. Ing. Edita Hekelová, PhD.",
+      "function": "rektorka",
+      "university": "Vysokej školy manažmentu",
+      "school_type": "Súkromné vysoké školy"
+    },
+    {
+      "rector": "Dr. h. c. doc. PaedDr. Marek Storoška, PhD.",
+      "function": "rektor",
+      "university": "Vysokej školy medzinárodného podnikania ISM Slovakia v Prešove",
+      "school_type": "Súkromné vysoké školy"
+    },
+    {
+      "rector": "Dr. h. c. mult. prof. MUDr. Vladimír Krčméry, DrSc.",
+      "function": "rektor",
+      "university": "Vysokej školy zdravotníctva a sociálnej práce sv. Alžbety v Bratislave",
+      "school_type": "Súkromné vysoké školy"
+    },
+    {
+      "rector": "Dr.h.c. doc. Ing. Peter Lošonczi, PhD.",
+      "function": "rektor",
+      "university": "Vysokej školy bezpečnostného manažérstva v Košiciach",
+      "school_type": "Súkromné vysoké školy"
+    }
+  ],
+  "meta": {
+    "title": "Rektori slovenských vysokých škôl vo funkcii - Free Download",
+    "description": "Rektori a rektorky verejných, štátnych a súkromných vysokých škôl na Slovensku (členovia Slovenskej rektorskej konferencie) s menom, titulmi a typom školy. Contains 32 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Rektori slovenských vysokých škôl vo funkcii | ListBase",
+    "seo_description": "Download Rektori slovenských vysokých škôl vo funkcii — 32 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 32 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_slovenských_rektorov_aktuálne_vo_funkcii"
+    ]
+  }
+}

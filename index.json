@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-15T02:08:44.870Z",
-  "total_datasets": 494,
-  "total_records": 285543,
+  "generated": "2026-11-15T02:08:54.117Z",
+  "total_datasets": 495,
+  "total_records": 285575,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "entertainment",
@@ -1455,6 +1455,31 @@
         "xlsx": {
           "name": "sk-rektori-univerzity-komenskeho_SK.xlsx",
           "size": 7976
+        }
+      }
+    },
+    {
+      "id": "sk-rektori-vysokych-skol-vo-funkcii",
+      "name": "Rektori slovenských vysokých škôl vo funkcii",
+      "category": "education",
+      "record_count": 32,
+      "columns": [
+        "rector",
+        "function",
+        "university",
+        "school_type"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_slovenských_rektorov_aktuálne_vo_funkcii",
+      "updated": "2026-11",
+      "size": 8761,
+      "files": {
+        "csv": {
+          "name": "sk-rektori-vysokych-skol-vo-funkcii_SK.csv",
+          "size": 4072
+        },
+        "xlsx": {
+          "name": "sk-rektori-vysokych-skol-vo-funkcii_SK.xlsx",
+          "size": 8616
         }
       }
     },
