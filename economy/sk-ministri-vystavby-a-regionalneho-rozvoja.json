@@ -1,0 +1,121 @@
+{
+  "id": "sk-ministri-vystavby-a-regionalneho-rozvoja",
+  "name": "Ministri výstavby a regionálneho rozvoja SR",
+  "title": "Ministri výstavby a regionálneho rozvoja SR",
+  "description": "Ministri výstavby a regionálneho rozvoja Slovenskej republiky od roku 1989 s nominujúcou stranou a obdobím vo funkcii.",
+  "category": "economy",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_výstavby_a_regionálneho_rozvoja_Slovenskej_republiky",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_výstavby_a_regionálneho_rozvoja_Slovenskej_republiky",
+  "updated": "2026-11",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "minister",
+      "label": "Minister",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "term_from",
+      "label": "Term From",
+      "type": "string"
+    },
+    {
+      "key": "term_to",
+      "label": "Term To",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "minister": "Ivan Šteis",
+      "party": "",
+      "term_from": "12. december 1989",
+      "term_to": "26. jún 1990",
+      "note": ""
+    },
+    {
+      "minister": "Jozef Dubníček",
+      "party": "",
+      "term_from": "27. jún 1990",
+      "term_to": "22. apríl 1991",
+      "note": ""
+    },
+    {
+      "minister": "Jozef Belcák",
+      "party": "",
+      "term_from": "23. apríl 1991",
+      "term_to": "28. august 1991",
+      "note": "ad interim"
+    },
+    {
+      "minister": "Jozef Bútora",
+      "party": "",
+      "term_from": "28. august 1991",
+      "term_to": "24. jún 1992",
+      "note": ""
+    },
+    {
+      "minister": "Ján Mráz",
+      "party": "ZRS",
+      "term_from": "13. december 1994",
+      "term_to": "30. október 1998",
+      "note": "ministerstvo výstavby a verejných prác"
+    },
+    {
+      "minister": "István Harna",
+      "party": "SMK",
+      "term_from": "30. október 1998",
+      "term_to": "15. október 2002",
+      "note": ""
+    },
+    {
+      "minister": "László Gyurovszky",
+      "party": "SMK",
+      "term_from": "16. október 2002",
+      "term_to": "4. júl 2006",
+      "note": ""
+    },
+    {
+      "minister": "Marian Janušek",
+      "party": "SNS",
+      "term_from": "4. júl 2006",
+      "term_to": "15. apríl 2009",
+      "note": ""
+    },
+    {
+      "minister": "Igor Štefanov",
+      "party": "SNS",
+      "term_from": "15. apríl 2009",
+      "term_to": "11. marec 2010",
+      "note": ""
+    },
+    {
+      "minister": "Ján Mikolaj",
+      "party": "SNS",
+      "term_from": "11. marec 2010",
+      "term_to": "30. jún 2010",
+      "note": "Ministerstvo bolo k 1. júlu 2010 zrušené."
+    }
+  ],
+  "meta": {
+    "title": "Ministri výstavby a regionálneho rozvoja SR - Free Download",
+    "description": "Ministri výstavby a regionálneho rozvoja Slovenskej republiky od roku 1989 s nominujúcou stranou a obdobím vo funkcii. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministri výstavby a regionálneho rozvoja SR | ListBase",
+    "seo_description": "Download Ministri výstavby a regionálneho rozvoja SR — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_ministrov_výstavby_a_regionálneho_rozvoja_Slovenskej_republiky"
+    ]
+  }
+}
