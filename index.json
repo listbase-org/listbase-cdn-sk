@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-16T02:10:08.755Z",
-  "total_datasets": 499,
-  "total_records": 285636,
+  "generated": "2026-11-16T02:10:19.014Z",
+  "total_datasets": 500,
+  "total_records": 285828,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "politics",
@@ -5385,6 +5385,30 @@
         "xlsx": {
           "name": "sk-operni-speaci_SK.xlsx",
           "size": 12305
+        }
+      }
+    },
+    {
+      "id": "sk-slovenski-hudobni-skladatelia",
+      "name": "Slovenskí hudobní skladatelia",
+      "category": "music",
+      "record_count": 192,
+      "columns": [
+        "name",
+        "birth_year",
+        "death_year"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_slovenských_hudobných_skladateľov",
+      "updated": "2026-11",
+      "size": 19898,
+      "files": {
+        "csv": {
+          "name": "sk-slovenski-hudobni-skladatelia_SK.csv",
+          "size": 5811
+        },
+        "xlsx": {
+          "name": "sk-slovenski-hudobni-skladatelia_SK.xlsx",
+          "size": 12014
         }
       }
     },
