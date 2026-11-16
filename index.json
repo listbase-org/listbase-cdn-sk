@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-15T02:09:03.486Z",
-  "total_datasets": 496,
-  "total_records": 285598,
+  "generated": "2026-11-16T02:09:52.169Z",
+  "total_datasets": 497,
+  "total_records": 285618,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -12873,6 +12873,32 @@
         "xlsx": {
           "name": "sk-vtaky-slovenska-spolocenska-hodnota_SK.xlsx",
           "size": 19210
+        }
+      }
+    },
+    {
+      "id": "sk-ministri-prace-a-socialnych-veci",
+      "name": "Ministri práce, sociálnych vecí a rodiny SR",
+      "category": "society",
+      "record_count": 20,
+      "columns": [
+        "minister",
+        "party",
+        "term_from",
+        "term_to",
+        "note"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_ministrov_práce,_sociálnych_vecí_a_rodiny_Slovenskej_republiky",
+      "updated": "2026-11",
+      "size": 5339,
+      "files": {
+        "csv": {
+          "name": "sk-ministri-prace-a-socialnych-veci_SK.csv",
+          "size": 1488
+        },
+        "xlsx": {
+          "name": "sk-ministri-prace-a-socialnych-veci_SK.xlsx",
+          "size": 7678
         }
       }
     },
