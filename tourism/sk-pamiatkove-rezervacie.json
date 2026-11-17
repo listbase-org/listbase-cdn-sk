@@ -1,0 +1,214 @@
+{
+  "id": "sk-pamiatkove-rezervacie",
+  "name": "Pamiatkové rezervácie na Slovensku",
+  "title": "Pamiatkové rezervácie na Slovensku",
+  "description": "Mestské pamiatkové rezervácie a pamiatkové rezervácie ľudovej architektúry na Slovensku s rokom vyhlásenia a počtom pamiatok.",
+  "category": "tourism",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_pamiatkových_rezervácií_na_Slovensku",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_pamiatkových_rezervácií_na_Slovensku",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "declared",
+      "label": "Declared",
+      "type": "number"
+    },
+    {
+      "key": "monuments",
+      "label": "Monuments",
+      "type": "number"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Banská Štiavnica",
+      "declared": 1950,
+      "monuments": 215,
+      "type": "mestská pamiatková rezervácia"
+    },
+    {
+      "name": "Bardejov",
+      "declared": 1950,
+      "monuments": 131,
+      "type": "mestská pamiatková rezervácia"
+    },
+    {
+      "name": "Kežmarok",
+      "declared": 1950,
+      "monuments": 256,
+      "type": "mestská pamiatková rezervácia"
+    },
+    {
+      "name": "Kremnica",
+      "declared": 1950,
+      "monuments": 116,
+      "type": "mestská pamiatková rezervácia"
+    },
+    {
+      "name": "Levoča",
+      "declared": 1950,
+      "monuments": 363,
+      "type": "mestská pamiatková rezervácia"
+    },
+    {
+      "name": "Prešov",
+      "declared": 1950,
+      "monuments": 254,
+      "type": "mestská pamiatková rezervácia"
+    },
+    {
+      "name": "Spišská Kapitula",
+      "declared": 1950,
+      "monuments": 24,
+      "type": "mestská pamiatková rezervácia"
+    },
+    {
+      "name": "Spišská Sobota",
+      "declared": 1950,
+      "monuments": 77,
+      "type": "mestská pamiatková rezervácia"
+    },
+    {
+      "name": "Bratislava",
+      "declared": 1954,
+      "monuments": 268,
+      "type": "mestská pamiatková rezervácia"
+    },
+    {
+      "name": "Banská Bystrica",
+      "declared": 1955,
+      "monuments": 199,
+      "type": "mestská pamiatková rezervácia"
+    },
+    {
+      "name": "Nitra",
+      "declared": 1981,
+      "monuments": 23,
+      "type": "mestská pamiatková rezervácia"
+    },
+    {
+      "name": "Košice",
+      "declared": 1983,
+      "monuments": 501,
+      "type": "mestská pamiatková rezervácia"
+    },
+    {
+      "name": "Trenčín",
+      "declared": 1987,
+      "monuments": 113,
+      "type": "mestská pamiatková rezervácia"
+    },
+    {
+      "name": "Trnava",
+      "declared": 1987,
+      "monuments": 143,
+      "type": "mestská pamiatková rezervácia"
+    },
+    {
+      "name": "Žilina",
+      "declared": 1987,
+      "monuments": 57,
+      "type": "mestská pamiatková rezervácia"
+    },
+    {
+      "name": "Svätý Jur",
+      "declared": 1990,
+      "monuments": 25,
+      "type": "mestská pamiatková rezervácia"
+    },
+    {
+      "name": "Podolínec",
+      "declared": 1991,
+      "monuments": 63,
+      "type": "mestská pamiatková rezervácia"
+    },
+    {
+      "name": "Štiavnické Bane",
+      "declared": 1995,
+      "monuments": 23,
+      "type": "mestská pamiatková rezervácia"
+    },
+    {
+      "name": "Čičmany",
+      "declared": 1977,
+      "monuments": 36,
+      "type": "pamiatková rezervácia ľudovej architektúry"
+    },
+    {
+      "name": "Podbiel",
+      "declared": 1977,
+      "monuments": 56,
+      "type": "pamiatková rezervácia ľudovej architektúry"
+    },
+    {
+      "name": "Vlkolínec",
+      "declared": 1977,
+      "monuments": 75,
+      "type": "pamiatková rezervácia ľudovej architektúry"
+    },
+    {
+      "name": "Ždiar",
+      "declared": 1977,
+      "monuments": 183,
+      "type": "pamiatková rezervácia ľudovej architektúry"
+    },
+    {
+      "name": "Špania Dolina",
+      "declared": 1979,
+      "monuments": 83,
+      "type": "pamiatková rezervácia ľudovej architektúry"
+    },
+    {
+      "name": "Osturňa",
+      "declared": 1981,
+      "monuments": 157,
+      "type": "pamiatková rezervácia ľudovej architektúry"
+    },
+    {
+      "name": "Sebechleby",
+      "declared": 1981,
+      "monuments": 89,
+      "type": "pamiatková rezervácia ľudovej architektúry"
+    },
+    {
+      "name": "Veľké Leváre",
+      "declared": 1981,
+      "monuments": 25,
+      "type": "pamiatková rezervácia ľudovej architektúry"
+    },
+    {
+      "name": "Brhlovce",
+      "declared": 1983,
+      "monuments": 25,
+      "type": "pamiatková rezervácia ľudovej architektúry"
+    },
+    {
+      "name": "Plavecký Peter",
+      "declared": 1990,
+      "monuments": 28,
+      "type": "pamiatková rezervácia ľudovej architektúry"
+    }
+  ],
+  "meta": {
+    "title": "Pamiatkové rezervácie na Slovensku - Free Download",
+    "description": "Mestské pamiatkové rezervácie a pamiatkové rezervácie ľudovej architektúry na Slovensku s rokom vyhlásenia a počtom pamiatok. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Pamiatkové rezervácie na Slovensku | ListBase",
+    "seo_description": "Download Pamiatkové rezervácie na Slovensku — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_pamiatkových_rezervácií_na_Slovensku"
+    ]
+  }
+}

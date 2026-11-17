@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-17T02:13:23.126Z",
-  "total_datasets": 501,
-  "total_records": 286096,
+  "generated": "2026-11-17T02:13:31.818Z",
+  "total_datasets": 502,
+  "total_records": 286124,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "transport",
@@ -14076,6 +14076,31 @@
         "xlsx": {
           "name": "sk-hotely_SK.xlsx",
           "size": 39779
+        }
+      }
+    },
+    {
+      "id": "sk-pamiatkove-rezervacie",
+      "name": "Pamiatkové rezervácie na Slovensku",
+      "category": "tourism",
+      "record_count": 28,
+      "columns": [
+        "name",
+        "declared",
+        "monuments",
+        "type"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_pamiatkových_rezervácií_na_Slovensku",
+      "updated": "2026-11",
+      "size": 5662,
+      "files": {
+        "csv": {
+          "name": "sk-pamiatkove-rezervacie_SK.csv",
+          "size": 1883
+        },
+        "xlsx": {
+          "name": "sk-pamiatkove-rezervacie_SK.xlsx",
+          "size": 7577
         }
       }
     },
