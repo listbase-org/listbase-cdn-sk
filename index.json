@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-17T02:13:39.512Z",
-  "total_datasets": 503,
-  "total_records": 286226,
+  "generated": "2026-11-17T02:13:48.557Z",
+  "total_datasets": 504,
+  "total_records": 286253,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "music",
@@ -5255,6 +5255,34 @@
         "xlsx": {
           "name": "sk-senaty-najvyssieho-sudu_SK.xlsx",
           "size": 7537
+        }
+      }
+    },
+    {
+      "id": "sk-sudcovia-najvyssieho-spravneho-sudu",
+      "name": "Sudcovia Najvyššieho správneho súdu SR",
+      "category": "law",
+      "record_count": 27,
+      "columns": [
+        "judge",
+        "at_court_from",
+        "at_court_to",
+        "judge_since",
+        "previous_position",
+        "note",
+        "status"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Najvyšší_správny_súd_Slovenskej_republiky",
+      "updated": "2026-11",
+      "size": 11681,
+      "files": {
+        "csv": {
+          "name": "sk-sudcovia-najvyssieho-spravneho-sudu_SK.csv",
+          "size": 5497
+        },
+        "xlsx": {
+          "name": "sk-sudcovia-najvyssieho-spravneho-sudu_SK.xlsx",
+          "size": 8826
         }
       }
     },

@@ -1,0 +1,304 @@
+{
+  "id": "sk-sudcovia-najvyssieho-spravneho-sudu",
+  "name": "Sudcovia Najvyššieho správneho súdu SR",
+  "title": "Sudcovia Najvyššieho správneho súdu SR",
+  "description": "Zoznam súčasných a bývalých sudcov Najvyššieho správneho súdu Slovenskej republiky s dátumom pôsobenia na súde, predchádzajúcou funkciou a poznámkou.",
+  "category": "law",
+  "source": "https://sk.wikipedia.org/wiki/Najvyšší_správny_súd_Slovenskej_republiky",
+  "source_url": "https://sk.wikipedia.org/wiki/Najvyšší_správny_súd_Slovenskej_republiky",
+  "updated": "2026-11",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "judge",
+      "label": "Judge",
+      "type": "string"
+    },
+    {
+      "key": "at_court_from",
+      "label": "At Court From",
+      "type": "string"
+    },
+    {
+      "key": "at_court_to",
+      "label": "At Court To",
+      "type": "string"
+    },
+    {
+      "key": "judge_since",
+      "label": "Judge Since",
+      "type": "string"
+    },
+    {
+      "key": "previous_position",
+      "label": "Previous Position",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "judge": "Pavol Naď",
+      "at_court_from": "18. máj 2021",
+      "at_court_to": "",
+      "judge_since": "31. marec 2006 (vymenovaný prezidentom Ivanom Gašparovičom)",
+      "previous_position": "sudca Krajského súdu v Košiciach",
+      "note": "predseda súdu od 18. mája 2021 do 18. mája 2026 (vymenovaný prezidentkou Zuzanou Čaputovou); predseda senátu od 10. decembra 2021; prerušený výkon funkcie sudcu od 1. októbra 2026",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Kristína Babiaková",
+      "at_court_from": "20. júl 2021",
+      "at_court_to": "",
+      "judge_since": "20. júl 2021 (vymenovaná prezidentkou Zuzana Čaputovou)",
+      "previous_position": "advokátka",
+      "note": "predsedníčka senátu od 15. decembra 2022",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Marián Fečík",
+      "at_court_from": "20. júl 2021",
+      "at_court_to": "",
+      "judge_since": "20. júl 2021 (vymenovaný prezidentkou Zuzana Čaputovou)",
+      "previous_position": "prokurátor Generálnej prokuratúry",
+      "note": "predseda senátu od 1. júna 2022",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Zuzana Šabová",
+      "at_court_from": "20. júl 2021",
+      "at_court_to": "",
+      "judge_since": "20. júl 2021 (vymenovaná prezidentkou Zuzana Čaputovou)",
+      "previous_position": "štátna zamestnankyňa",
+      "note": "predsedníčka senátu od 21. júna 2024",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Juraj Vačok",
+      "at_court_from": "20. júl 2021",
+      "at_court_to": "",
+      "judge_since": "20. júl 2021 (vymenovaný prezidentkou Zuzana Čaputovou)",
+      "previous_position": "vysokoškolský profesor",
+      "note": "predseda senátu od 15. decembra 2022",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Juraj Vališ",
+      "at_court_from": "20. júl 2021",
+      "at_court_to": "",
+      "judge_since": "20. júl 2021 (vymenovaný prezidentkou Zuzana Čaputovou)",
+      "previous_position": "advokát",
+      "note": "predseda senátu od 15. decembra 2022",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Elena Berthotyová",
+      "at_court_from": "1. august 2021",
+      "at_court_to": "",
+      "judge_since": "27. apríl 1994; 18. máj 1998 (zvolená Národnou radou)",
+      "previous_position": "sudkyňa Najvyššieho súdu",
+      "note": "predsedníčka senátu ešte na Najvyššom súde od 13. marca 2015",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Katarína Benczová",
+      "at_court_from": "1. august 2021",
+      "at_court_to": "",
+      "judge_since": "20. marec 1996; 14. marec 2000 (zvolená Národnou radou)",
+      "previous_position": "sudkyňa Najvyššieho súdu",
+      "note": "predsedníčka senátu ešte na Najvyššom súde od 1. januára 2019",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Anita Filová",
+      "at_court_from": "1. august 2021",
+      "at_court_to": "",
+      "judge_since": "4. december 2017 (vymenovaná prezidentom Andrejom Kiskom)",
+      "previous_position": "sudkyňa Krajského súdu v Trnave",
+      "note": "predsedníčka senátu od 10. decembra 2021",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Jana Hatalová",
+      "at_court_from": "1. august 2021",
+      "at_court_to": "",
+      "judge_since": "24. august 1992 (vymenovaná Predsedníctvom Slovenskej národnej rady)",
+      "previous_position": "sudkyňa Najvyššieho súdu",
+      "note": "predsedníčka senátu ešte na Najvyššom súde od 1. januára 2008",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Petra Príbelská",
+      "at_court_from": "1. august 2021",
+      "at_court_to": "",
+      "judge_since": "29. október 2004 (vymenovaná prezidentom Ivanom Gašparovičom)",
+      "previous_position": "sudkyňa Najvyššieho súdu",
+      "note": "predsedníčka senátu ešte na Najvyššom súde od 15. mája 2017",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Viola Takáčová",
+      "at_court_from": "1. august 2021",
+      "at_court_to": "",
+      "judge_since": "29. apríl 1991 (zvolená Slovenskou národnou radou)",
+      "previous_position": "sudkyňa Najvyššieho súdu",
+      "note": "predsedníčka senátu ešte na Najvyššom súde od roku 2018",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Marián Trenčan",
+      "at_court_from": "1. august 2021",
+      "at_court_to": "",
+      "judge_since": "1. júl 1996; 15. jún 2000 (zvolený Národnou radou)",
+      "previous_position": "sudca Najvyššieho súdu",
+      "note": "podpredseda súdu od 12. októbra 2021 do 12. októbra 2026 (vymenovaný prezidentkou Zuzanou Čaputovou); predseda senátu ešte na Najvyššom súde od roku 2019",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Monika Valašiková",
+      "at_court_from": "1. august 2021",
+      "at_court_to": "",
+      "judge_since": "1. január 1992 (ex lege po zániku hospodárskej arbitráže)",
+      "previous_position": "sudkyňa Najvyššieho súdu",
+      "note": "predsedníčka súdu od 27. augusta 2026 (vymenovaná prezidentom Petrom Pellegrinim); predsedníčka senátu ešte na Najvyššom súde od roku 2019",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Jana Martinčeková",
+      "at_court_from": "20. august 2021",
+      "at_court_to": "",
+      "judge_since": "12. december 1996; 6. december 2000 (zvolená Národnou radou)",
+      "previous_position": "sudkyňa Krajského súdu v Žiline",
+      "note": "predsedníčka senátu od 10. decembra 2021",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Michal Novotný",
+      "at_court_from": "20. august 2021",
+      "at_court_to": "",
+      "judge_since": "26. august 2014 (vymenovaný prezidentom Andrejom Kiskom)",
+      "previous_position": "sudca Krajského súdu v Trnave",
+      "note": "predseda senátu od 1. júna 2022",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Katarína Cangárová",
+      "at_court_from": "26. august 2021",
+      "at_court_to": "",
+      "judge_since": "26. august 2021 (vymenovaná prezidentkou Zuzana Čaputovou)",
+      "previous_position": "advokátka",
+      "note": "",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Michal Matulník",
+      "at_court_from": "26. august 2021",
+      "at_court_to": "",
+      "judge_since": "26. august 2021 (vymenovaný prezidentkou Zuzana Čaputovou)",
+      "previous_position": "advokát",
+      "note": "predseda senátu od 15. decembra 2022",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Peter Potásch",
+      "at_court_from": "26. august 2021",
+      "at_court_to": "",
+      "judge_since": "26. august 2021 (vymenovaný prezidentkou Zuzana Čaputovou)",
+      "previous_position": "vysokoškolský profesor",
+      "note": "predseda senátu od 1. júna 2022",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Martin Tiso",
+      "at_court_from": "21. november 2022",
+      "at_court_to": "",
+      "judge_since": "21. november 2022 (vymenovaný prezidentkou Zuzana Čaputovou)",
+      "previous_position": "asistent sudcu Najvyššieho správneho súdu",
+      "note": "",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Michal Dzurdzík",
+      "at_court_from": "1. január 2023",
+      "at_court_to": "",
+      "judge_since": "13. máj 2013 (vymenovaný prezidentom Ivanom Gašparovičom)",
+      "previous_position": "sudca Krajského súdu v Bratislave",
+      "note": "predseda senátu od 21. júna 2024",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Rastislav Dlugoš",
+      "at_court_from": "1. jún 2023",
+      "at_court_to": "",
+      "judge_since": "15. jún 2006 (vymenovaný prezidentom Ivanom Gašparovičom)",
+      "previous_position": "sudca Krajského súdu v Trenčíne",
+      "note": "",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Peter Mach",
+      "at_court_from": "1. jún 2023",
+      "at_court_to": "",
+      "judge_since": "14. december 2022 (vymenovaný prezidentkou Zuzana Čaputovou)",
+      "previous_position": "sudca Okresného súdu Bratislava I",
+      "note": "",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Vlastimil Pavlikovský",
+      "at_court_from": "1. január 2026",
+      "at_court_to": "",
+      "judge_since": "29. október 2004 (vymenovaný prezidentom Ivanom Gašparovičom)",
+      "previous_position": "sudca Krajského súdu v Bratislave",
+      "note": "",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Eva Vékonyová",
+      "at_court_from": "1. január 2026",
+      "at_court_to": "",
+      "judge_since": "20. jún 2005 (vymenovaná prezidentom Ivanom Gašparovičom)",
+      "previous_position": "sudkyňa Krajského súdu v Trenčíne",
+      "note": "",
+      "status": "pôsobí"
+    },
+    {
+      "judge": "Zuzana Mališová",
+      "at_court_from": "1. august 2021",
+      "at_court_to": "9. február 2024",
+      "judge_since": "27. apríl 1994; 18. máj 1998 (zvolená Národnou radou)",
+      "previous_position": "sudkyňa Najvyššieho súdu",
+      "note": "predsedníčka senátu od 10. decembra 2021",
+      "status": "bývalý sudca"
+    },
+    {
+      "judge": "Zdenka Reisenauerová",
+      "at_court_from": "1. august 2021",
+      "at_court_to": "31. marec 2024",
+      "judge_since": "26. jún 1984; 21. december 1988; 13. apríl 1992 (vymenovaná Predsedníctvom Slovenskej národnej rady)",
+      "previous_position": "sudkyňa Najvyššieho súdu",
+      "note": "predsedníčka senátu ešte na Najvyššom súde od 1. januára 2009",
+      "status": "bývalý sudca"
+    }
+  ],
+  "meta": {
+    "title": "Sudcovia Najvyššieho správneho súdu SR - Free Download",
+    "description": "Zoznam súčasných a bývalých sudcov Najvyššieho správneho súdu Slovenskej republiky s dátumom pôsobenia na súde, predchádzajúcou funkciou a poznámkou. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sudcovia Najvyššieho správneho súdu SR | ListBase",
+    "seo_description": "Download Sudcovia Najvyššieho správneho súdu SR — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Najvyšší_správny_súd_Slovenskej_republiky"
+    ]
+  }
+}
