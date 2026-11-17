@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-16T02:10:19.014Z",
-  "total_datasets": 500,
-  "total_records": 285828,
+  "generated": "2026-11-17T02:13:23.126Z",
+  "total_datasets": 501,
+  "total_records": 286096,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "society",
@@ -12849,6 +12849,34 @@
         "xlsx": {
           "name": "sk-hvezdarne-a-planetaria_SK.xlsx",
           "size": 7442
+        }
+      }
+    },
+    {
+      "id": "sk-mykologicke-taxony-slovenskych-autorov",
+      "name": "Mykologické taxóny slovenských autorov",
+      "category": "science",
+      "record_count": 268,
+      "columns": [
+        "year",
+        "taxon",
+        "slovak_name",
+        "rank",
+        "type",
+        "slovak_mycologists",
+        "synonym"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_mykologických_taxónov_slovenských_autorov",
+      "updated": "2026-11",
+      "size": 74618,
+      "files": {
+        "csv": {
+          "name": "sk-mykologicke-taxony-slovenskych-autorov_SK.csv",
+          "size": 35117
+        },
+        "xlsx": {
+          "name": "sk-mykologicke-taxony-slovenskych-autorov_SK.xlsx",
+          "size": 21358
         }
       }
     },

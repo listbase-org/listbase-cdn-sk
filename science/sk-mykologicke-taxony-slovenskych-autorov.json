@@ -1,0 +1,2473 @@
+{
+  "id": "sk-mykologicke-taxony-slovenskych-autorov",
+  "name": "Mykologické taxóny slovenských autorov",
+  "title": "Mykologické taxóny slovenských autorov",
+  "description": "Taxóny húb a lišajníkov pomenované na počesť slovenských mykológov, nimi novoopísané alebo presunuté v systematike – s rokom, rangom a menom mykológa.",
+  "category": "science",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_mykologických_taxónov_slovenských_autorov",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_mykologických_taxónov_slovenských_autorov",
+  "updated": "2026-11",
+  "record_count": 268,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "taxon",
+      "label": "Taxon",
+      "type": "string"
+    },
+    {
+      "key": "slovak_name",
+      "label": "Slovak Name",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "slovak_mycologists",
+      "label": "Slovak Mycologists",
+      "type": "string"
+    },
+    {
+      "key": "synonym",
+      "label": "Synonym",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1902,
+      "taxon": "Kmetia exigua Bres. & Sacc.",
+      "slovak_name": "",
+      "rank": "rod",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Andrej Kmeť",
+      "synonym": "nie"
+    },
+    {
+      "year": 1927,
+      "taxon": "Baeumleria nothofagi (Henn.) Petr. & Syd.",
+      "slovak_name": "",
+      "rank": "rod",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1927,
+      "taxon": "Baeumleria quercina G. Arnaud ex Petr.",
+      "slovak_name": "",
+      "rank": "rod",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1942,
+      "taxon": "Kmetia fici Sawada",
+      "slovak_name": "",
+      "rank": "rod",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Andrej Kmeť",
+      "synonym": "nie"
+    },
+    {
+      "year": 1943,
+      "taxon": "Kmetia ampelopsidis Sawada",
+      "slovak_name": "",
+      "rank": "rod",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Andrej Kmeť",
+      "synonym": "nie"
+    },
+    {
+      "year": 1943,
+      "taxon": "Kmetia dioscoreae Sawada",
+      "slovak_name": "",
+      "rank": "rod",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Andrej Kmeť",
+      "synonym": "nie"
+    },
+    {
+      "year": 1952,
+      "taxon": "Kmetia corticola W.B. Cooke",
+      "slovak_name": "",
+      "rank": "rod",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Andrej Kmeť",
+      "synonym": "nie"
+    },
+    {
+      "year": 1959,
+      "taxon": "Kmetia pouzolziae Sawada",
+      "slovak_name": "",
+      "rank": "rod",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Andrej Kmeť",
+      "synonym": "nie"
+    },
+    {
+      "year": 1959,
+      "taxon": "Kmetia sesbaniae Sawada",
+      "slovak_name": "",
+      "rank": "rod",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Andrej Kmeť",
+      "synonym": "nie"
+    },
+    {
+      "year": 1960,
+      "taxon": "Kmetiopsis hymenaeae Bat. & Peres",
+      "slovak_name": "",
+      "rank": "rod",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Andrej Kmeť",
+      "synonym": "nie"
+    },
+    {
+      "year": 1966,
+      "taxon": "Chmelia slovaca (Svob.-Pol., L. Chmel & Bojan.) Svob.-Pol.",
+      "slovak_name": "",
+      "rank": "rod",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ladislav Chmel",
+      "synonym": "áno"
+    },
+    {
+      "year": 2015,
+      "taxon": "Ivanpisutia oxneri S.Y. Kondr., Lőkös & Hur",
+      "slovak_name": "lišajník",
+      "rank": "rod",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "áno"
+    },
+    {
+      "year": 2019,
+      "taxon": "Ivanpisutia hypophaea (Printzen & Tønsberg) S.Y. Kondr.",
+      "slovak_name": "lišajník",
+      "rank": "rod",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "nie"
+    },
+    {
+      "year": 2019,
+      "taxon": "Ivanpisutia ocelliformis (Nyl.) S.Y. Kondr.",
+      "slovak_name": "lišajník",
+      "rank": "rod",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "nie"
+    },
+    {
+      "year": 2020,
+      "taxon": "Pisutiella phaeothamnos (Kalb & Poelt) S.Y. Kondr., Lőkös & Farkas",
+      "slovak_name": "lišajník",
+      "rank": "rod",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "nie"
+    },
+    {
+      "year": 2020,
+      "taxon": "Pisutiella ivanpisutii S.Y. Kondr., Lőkös & Farkas",
+      "slovak_name": "lišajník",
+      "rank": "rod",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "nie"
+    },
+    {
+      "year": 2020,
+      "taxon": "Pisutiella grimmiae (Nyl.) S.Y. Kondr., Lőkös & Farkas",
+      "slovak_name": "lišajník",
+      "rank": "rod",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "nie"
+    },
+    {
+      "year": 2020,
+      "taxon": "Pisutiella furax (Egea & Llimona) S.Y. Kondr., Lőkös & Farkas",
+      "slovak_name": "lišajník",
+      "rank": "rod",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "áno"
+    },
+    {
+      "year": 2020,
+      "taxon": "Pisutiella conversa (Kremp.) S.Y. Kondr., Lőkös & Farkas",
+      "slovak_name": "lišajník",
+      "rank": "rod",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "nie"
+    },
+    {
+      "year": 2020,
+      "taxon": "Pisutiella congrediens (Nyl.) S.Y. Kondr., Lőkös & Farkas",
+      "slovak_name": "lišajník",
+      "rank": "rod",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "nie"
+    },
+    {
+      "year": 1885,
+      "taxon": "Ombrophila baeumleri Rehm",
+      "slovak_name": "vlahovka",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1888,
+      "taxon": "Tubercularia kmetiana Bäumler",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Andrej Kmeť",
+      "synonym": "nie"
+    },
+    {
+      "year": 1889,
+      "taxon": "Urocystis kmetiana Magnus",
+      "slovak_name": "sneťovec",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Andrej Kmeť",
+      "synonym": "nie"
+    },
+    {
+      "year": 1890,
+      "taxon": "Corticium greschikii Bres.",
+      "slovak_name": "kôrovka",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Viktor Greschik",
+      "synonym": "nie"
+    },
+    {
+      "year": 1890,
+      "taxon": "Puccinia baeumleri Lagerh.",
+      "slovak_name": "hrdza",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1891,
+      "taxon": "Rhabdospora greschikii Bres.",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Viktor Greschik",
+      "synonym": "nie"
+    },
+    {
+      "year": 1891,
+      "taxon": "Cytospora greschikii Bres.",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Viktor Greschik",
+      "synonym": "nie"
+    },
+    {
+      "year": 1891,
+      "taxon": "Cucurbitaria kmetii Bäumler",
+      "slovak_name": "kukurbitária",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Andrej Kmeť",
+      "synonym": "nie"
+    },
+    {
+      "year": 1891,
+      "taxon": "Radulum kmetii Bres.",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Andrej Kmeť",
+      "synonym": "nie"
+    },
+    {
+      "year": 1897,
+      "taxon": "Polyporus kmetii Bres.",
+      "slovak_name": "Tvarohovec Kmeťov",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Andrej Kmeť",
+      "synonym": "nie"
+    },
+    {
+      "year": 1897,
+      "taxon": "Tympanis kmetiana D. Sacc.",
+      "slovak_name": "tympania",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Andrej Kmeť",
+      "synonym": "nie"
+    },
+    {
+      "year": 1899,
+      "taxon": "Microsphaera baeumleri Magnus",
+      "slovak_name": "drobnomúčka",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1899,
+      "taxon": "Microglaena baeumleri Zahlbr.",
+      "slovak_name": "lišajník",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1899,
+      "taxon": "Rhabdospora baeumleri Sacc. & P. Syd.",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1903,
+      "taxon": "Lachnella kmetii Rehm",
+      "slovak_name": "lachnelka",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Andrej Kmeť",
+      "synonym": "nie"
+    },
+    {
+      "year": 1903,
+      "taxon": "Septoria holubyi Bäumler",
+      "slovak_name": "septória",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Jozef Ľudovít Holuby",
+      "synonym": "nie"
+    },
+    {
+      "year": 1903,
+      "taxon": "Rhizocarpon bollanum Zahlbr.",
+      "slovak_name": "zemepisník – lišajník",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ján Bolla",
+      "synonym": "nie"
+    },
+    {
+      "year": 1905,
+      "taxon": "Hymenobolus kmetii Rehm",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Andrej Kmeť",
+      "synonym": "nie"
+    },
+    {
+      "year": 1905,
+      "taxon": "Ombrophila kmetii Rehm",
+      "slovak_name": "vlahovka",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Andrej Kmeť",
+      "synonym": "nie"
+    },
+    {
+      "year": 1908,
+      "taxon": "Uromyces baeumlerianus Bubák",
+      "slovak_name": "hrdzovec",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1908,
+      "taxon": "Puccinia baeumleriana Bubák",
+      "slovak_name": "hrdza",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1920,
+      "taxon": "Trametes kmetii Bres.",
+      "slovak_name": "Pórovka drobnopórová",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Andrej Kmeť",
+      "synonym": "áno"
+    },
+    {
+      "year": 1920,
+      "taxon": "Poria greschikii Bres.",
+      "slovak_name": "Trúdnikovček žltý",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Viktor Greschik",
+      "synonym": "áno"
+    },
+    {
+      "year": 1920,
+      "taxon": "Septoria greschikii Bres.",
+      "slovak_name": "septória",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Viktor Greschik",
+      "synonym": "nie"
+    },
+    {
+      "year": 1922,
+      "taxon": "Polyporus holubyanus Velen.",
+      "slovak_name": "Ohňovec prisadnutý",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Jozef Ľudovít Holuby",
+      "synonym": "áno"
+    },
+    {
+      "year": 1926,
+      "taxon": "Ramularia baeumleriana Moesz",
+      "slovak_name": "konárnička",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1988,
+      "taxon": "Belonidium lizonii Svrček",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Pavel Lizoň",
+      "synonym": "nie"
+    },
+    {
+      "year": 1988,
+      "taxon": "Rhodosporidium kratochvilovae Hamam., Sugiy. & Komag.",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Anna Kocková-Kratochvílová",
+      "synonym": "nie"
+    },
+    {
+      "year": 1996,
+      "taxon": "Lecanora greschikiana Motyka",
+      "slovak_name": "lekanora – lišajník",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Viktor Greschik",
+      "synonym": "nie"
+    },
+    {
+      "year": 2008,
+      "taxon": "Alternaria jesenskae Labuda, P. Eliáš & Sterfl.",
+      "slovak_name": "alternária",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Zdenka Jesenská",
+      "synonym": "nie"
+    },
+    {
+      "year": 2010,
+      "taxon": "Phoma pisutii S.Y. Kondr., Lackovičová, Lisická & Guttová",
+      "slovak_name": "bodkovec",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "nie"
+    },
+    {
+      "year": 2013,
+      "taxon": "Antrodia kmetii Vlasák",
+      "slovak_name": "trúdnikovček",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Andrej Kmeť",
+      "synonym": "nie"
+    },
+    {
+      "year": 2015,
+      "taxon": "Russula katarinae Adamčík & Buyck",
+      "slovak_name": "plávka",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Katarína Adamčíková",
+      "synonym": "nie"
+    },
+    {
+      "year": 2016,
+      "taxon": "Biatora ivanpisutii S.Y. Kondr., Lőkös & Hur",
+      "slovak_name": "lišajník",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "nie"
+    },
+    {
+      "year": 2019,
+      "taxon": "Gyalidea pisutii J.P. Halda, S.Y. Kondr., Lőkös & Hur",
+      "slovak_name": "kryptovka – lišajník",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "nie"
+    },
+    {
+      "year": 2019,
+      "taxon": "Lichenozyma pisutiana Černajová & Škaloud",
+      "slovak_name": "druh asociovaný s lišajníkmi",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "nie"
+    },
+    {
+      "year": 2019,
+      "taxon": "Yoshimuria ivanpisutiana S.Y. Kondr., Lőkös & Hur",
+      "slovak_name": "lišajník",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "nie"
+    },
+    {
+      "year": 2020,
+      "taxon": "Pluteus keselakii Ševčíková, P.-A. Moreau & Borovička",
+      "slovak_name": "Štítovka Kešeľákova",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Pavol Kešeľák",
+      "synonym": "nie"
+    },
+    {
+      "year": 2022,
+      "taxon": "Tremella pisutiellae Diederich & W.R. Buck",
+      "slovak_name": "rôsolovka – parazit lišajníkov",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "nie"
+    },
+    {
+      "year": 2022,
+      "taxon": "Shackletonia backorii M.G. Halıcı, M. Güllü, E. Bölükbaşı, M. Kahraman Yiğit",
+      "slovak_name": "lišajník",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Martin Bačkor",
+      "synonym": "nie"
+    },
+    {
+      "year": 2024,
+      "taxon": "Metapochonia simonovicovae S. Nosalj, Kubátová, Kandemir, M. Gorfer & Labuda",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Alexandra Šimonovičová",
+      "synonym": "nie"
+    },
+    {
+      "year": 1903,
+      "taxon": "Encoelia nebulosa ß holubyana Hazsl.",
+      "slovak_name": "dutinovka",
+      "rank": "varieta",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Jozef Ľudovít Holuby",
+      "synonym": "nie"
+    },
+    {
+      "year": 1905,
+      "taxon": "Trichocladia baeumleri var. baeumleri (Magnus) Neger",
+      "slovak_name": "múčnatka",
+      "rank": "varieta",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1897,
+      "taxon": "Trametes stereoides var. kmetii Bres.",
+      "slovak_name": "Pórovka drobnopórová",
+      "rank": "varieta",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Andrej Kmeť",
+      "synonym": "nie"
+    },
+    {
+      "year": 1920,
+      "taxon": "Trametes salicina var. greschikii Bres.",
+      "slovak_name": "Trúdnikovček vŕbový",
+      "rank": "varieta",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Viktor Greschik",
+      "synonym": "nie"
+    },
+    {
+      "year": 1920,
+      "taxon": "Ramularia cylindroides var. greschikii Bres.",
+      "slovak_name": "konárnička",
+      "rank": "varieta",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Viktor Greschik",
+      "synonym": "nie"
+    },
+    {
+      "year": 1920,
+      "taxon": "Poria greschikii var. greschikii Bres.",
+      "slovak_name": "Trúdnikovček žltý",
+      "rank": "varieta",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Viktor Greschik",
+      "synonym": "nie"
+    },
+    {
+      "year": 1942,
+      "taxon": "Phellinus contiguus f. holubyanus (Velen.) Pilát",
+      "slovak_name": "Ohňovec prisadnutý",
+      "rank": "forma",
+      "type": "pomenovaný na počesť",
+      "slovak_mycologists": "Jozef Ľudovít Holuby",
+      "synonym": "nie"
+    },
+    {
+      "year": 1977,
+      "taxon": "Ascotrichosporon Kock.-Krat., E. Sláviková, Zemek & Kuniak",
+      "slovak_name": "",
+      "rank": "rod",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Anna Kocková-Kratochvílová, Elena Sláviková, Juraj Zemek, Ľudovít Kuniak",
+      "synonym": "áno"
+    },
+    {
+      "year": 1977,
+      "taxon": "Basidiotrichosporon Kock.-Krat., E. Sláviková, Zemek & Kuniak",
+      "slovak_name": "",
+      "rank": "rod",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Anna Kocková-Kratochvílová, Elena Sláviková, Juraj Zemek, Ľudovít Kuniak",
+      "synonym": "áno"
+    },
+    {
+      "year": 1998,
+      "taxon": "Zugazaea Korf, Iturr. & Lizoň",
+      "slovak_name": "",
+      "rank": "rod",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Pavel Lizoň",
+      "synonym": "nie"
+    },
+    {
+      "year": 2016,
+      "taxon": "Lamelloclavaria Birkebak & Adamčík",
+      "slovak_name": "",
+      "rank": "rod",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2019,
+      "taxon": "Chrysodisca Baral, Polhorský & G. Marson",
+      "slovak_name": "",
+      "rank": "rod",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Adam Polhorský",
+      "synonym": "nie"
+    },
+    {
+      "year": 2023,
+      "taxon": "Venturioscypha Baral, T. Kosonen & Polhorský",
+      "slovak_name": "",
+      "rank": "rod",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Adam Polhorský",
+      "synonym": "nie"
+    },
+    {
+      "year": 2025,
+      "taxon": "Neodermoloma Sánchez-García, Matheny & Adamčík",
+      "slovak_name": "",
+      "rank": "rod",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 1885,
+      "taxon": "Diplodia rehmii Bäumler",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1885,
+      "taxon": "Septoria alliicola Bäumler",
+      "slovak_name": "septória",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1885,
+      "taxon": "Septoria posoniensis Bäumler",
+      "slovak_name": "septória",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1888,
+      "taxon": "Septoria asperulae Bäumler",
+      "slovak_name": "septória",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1888,
+      "taxon": "Tubercularia kmetiana Bäumler",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1889,
+      "taxon": "Diplodia beckii Bäumler",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1891,
+      "taxon": "Cucurbitaria kmetii Bäumler",
+      "slovak_name": "kukurbitária",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1897,
+      "taxon": "Septoria pantocsekii Bäumler",
+      "slovak_name": "septória",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1902,
+      "taxon": "Septoria melandrii-albi Bäumler",
+      "slovak_name": "septória",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1902,
+      "taxon": "Diplodia auerswaldii Bäumler",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1903,
+      "taxon": "Septoria holubyi Bäumler",
+      "slovak_name": "septória",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1959,
+      "taxon": "Nadsonia slovaca Kock.-Krat. & Svob.-Pol.",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Anna Kocková-Kratochvílová, Yvonna Svobodová-Poláková",
+      "synonym": "nie"
+    },
+    {
+      "year": 1959,
+      "taxon": "Torulopsis armenti Kock.-Krat., E. Sláviková & Beránek",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Anna Kocková-Kratochvílová, Elena Sláviková, Ján Beránek",
+      "synonym": "áno"
+    },
+    {
+      "year": 1966,
+      "taxon": "Aureobasidium slovacum Svob.-Pol., L. Chmel & Bojan.",
+      "slovak_name": "alternária",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Yvonna Svobodová-Poláková, Ladislav Chmel, Anna Bojanovská",
+      "synonym": "áno"
+    },
+    {
+      "year": 1970,
+      "taxon": "Solenopsora carpathica Pišút & Vězda",
+      "slovak_name": "Solenopsóra karpatská – lišajník",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "nie"
+    },
+    {
+      "year": 1973,
+      "taxon": "Boletus pinophilus Pilát & Dermek",
+      "slovak_name": "Hríb sosnový",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Aurel Dermek",
+      "synonym": "nie"
+    },
+    {
+      "year": 1974,
+      "taxon": "Leccinum piceinum Pilát & Dermek",
+      "slovak_name": "Kozák smrekový",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Aurel Dermek",
+      "synonym": "nie"
+    },
+    {
+      "year": 1974,
+      "taxon": "Leccinum subcinnamomeum Pilát & Dermek",
+      "slovak_name": "kozák škoricovohnedý",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Aurel Dermek",
+      "synonym": "áno"
+    },
+    {
+      "year": 1974,
+      "taxon": "Leccinum thalassinum Pilát & Dermek",
+      "slovak_name": "Kozák sivozelený",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Aurel Dermek",
+      "synonym": "nie"
+    },
+    {
+      "year": 1977,
+      "taxon": "Absconditella fossarum Vězda & Pišút",
+      "slovak_name": "lišajník",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "nie"
+    },
+    {
+      "year": 1978,
+      "taxon": "Aspicilia caesiascens Pišút",
+      "slovak_name": "manovník – lišajník",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "nie"
+    },
+    {
+      "year": 1979,
+      "taxon": "Boletus subappendiculatus Dermek, Lazebn. & J. Veselský",
+      "slovak_name": "Hríb horský",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Aurel Dermek",
+      "synonym": "nie"
+    },
+    {
+      "year": 1981,
+      "taxon": "Leccinum crocistipidosum H. Engel & Dermek",
+      "slovak_name": "Kozák žltohlúbikový",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Aurel Dermek",
+      "synonym": "nie"
+    },
+    {
+      "year": 1984,
+      "taxon": "Absconditella lignicola Vězda & Pišút",
+      "slovak_name": "lišajník",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "nie"
+    },
+    {
+      "year": 1988,
+      "taxon": "Candida mucifera Kock.-Krat. & E. Sláviková",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Anna Kocková-Kratochvílová, Elena Sláviková",
+      "synonym": "áno"
+    },
+    {
+      "year": 1992,
+      "taxon": "Sporobolomyces lactosus E. Sláviková & Grab.-Łon.",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Elena Sláviková",
+      "synonym": "áno"
+    },
+    {
+      "year": 1994,
+      "taxon": "Lambertellinia scutuloides Korf & Lizon",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Pavel Lizoň",
+      "synonym": "áno"
+    },
+    {
+      "year": 1998,
+      "taxon": "Pezoloma iodopedis Korf, Lizoň & Iturr.",
+      "slovak_name": "slizočiaška",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Pavel Lizoň",
+      "synonym": "nie"
+    },
+    {
+      "year": 1998,
+      "taxon": "Zugazaea agyrioides Korf, Iturr. & Lizoň",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Pavel Lizoň",
+      "synonym": "nie"
+    },
+    {
+      "year": 2000,
+      "taxon": "Pluteus favrei Antonín & Škubla",
+      "slovak_name": "štítovka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Pavol Škubla",
+      "synonym": "nie"
+    },
+    {
+      "year": 2002,
+      "taxon": "Pseudobaeospora mutabilis Bas & Adamčík",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2004,
+      "taxon": "Pseudobaeospora basii Adamčík & Ripková",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík, Soňa Ripková",
+      "synonym": "nie"
+    },
+    {
+      "year": 2005,
+      "taxon": "Pseudocercosporella tatrensis Mułenko & Bacigálová",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Kamila Bacigálová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2006,
+      "taxon": "Lactarius hrdovensis Škubla",
+      "slovak_name": "Rýdzik hrdovský",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Pavol Škubla",
+      "synonym": "nie"
+    },
+    {
+      "year": 2008,
+      "taxon": "Alternaria jesenskae Labuda, P. Eliáš & Sterfl.",
+      "slovak_name": "alternária",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Roman Labuda",
+      "synonym": "nie"
+    },
+    {
+      "year": 2008,
+      "taxon": "Russula texensis Buyck, Adamcík & D.P. Lewis",
+      "slovak_name": "plávka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2009,
+      "taxon": "Geotrichum bryndzae Sulo, Laurenčík, Poláková, Minárik & E. Sláviková",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Pavol Sulo, Michal Laurenčík, Silvia Poláková, Gabriel Minárik, Elena Sláviková",
+      "synonym": "áno"
+    },
+    {
+      "year": 2010,
+      "taxon": "Phoma pisutii S.Y. Kondr., Lackovičová, Lisická & Guttová",
+      "slovak_name": "bodkovec",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Anna Lackovičová, Eva Lisická, Anna Guttová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2010,
+      "taxon": "Russula ochrifloridana Buyck & Adamčík",
+      "slovak_name": "plávka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2011,
+      "taxon": "Pseudobaeospora terrayi Adamčík & Jančovič.",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík, Soňa Jančovičová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2013,
+      "taxon": "Lepiota coloratipes Vizzini, J.F. Liang, Jančovičová & Zhu L. Yang",
+      "slovak_name": "bedlička",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Soňa Jančovičová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2014,
+      "taxon": "Microglossum griseoviride V. Kučera, Lizoň & Tomšovský",
+      "slovak_name": "Drobnojazýček sivozelený",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Viktor Kučera, Pavel Lizoň",
+      "synonym": "nie"
+    },
+    {
+      "year": 2014,
+      "taxon": "Microglossum parvisporum V. Kučera, Lizoň & Tomšovský",
+      "slovak_name": "drobnojazýček",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Viktor Kučera, Pavel Lizoň",
+      "synonym": "nie"
+    },
+    {
+      "year": 2015,
+      "taxon": "Pseudoplectania lignicola Glejdura, V. Kučera, Lizoň & Kunca",
+      "slovak_name": "Misôčka drevná",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Stanislav Glejdura, Viktor Kučera, Pavel Lizoň, Vladimír Kunca",
+      "synonym": "nie"
+    },
+    {
+      "year": 2015,
+      "taxon": "Russula cortinarioides Buyck, Adamčík, D.P. Lewis & V. Hofstetter",
+      "slovak_name": "plávka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2015,
+      "taxon": "Russula katarinae Adamčík & Buyck",
+      "slovak_name": "plávka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2016,
+      "taxon": "Taphrina gei-montani Bacigálová & Petrýdesová",
+      "slovak_name": "grmanník",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Kamila Bacigálová, Jana Petrýdesová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2016,
+      "taxon": "Hodophilus hesleri Adamčík, Birkebak & Looney",
+      "slovak_name": "oblúkovka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2016,
+      "taxon": "Hodophilus pallidus Adamčík, Jančovič. & Looney",
+      "slovak_name": "oblúkovka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík, Soňa Jančovičová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2016,
+      "taxon": "Hodophilus smithii Adamčík, Birkebak & Looney",
+      "slovak_name": "oblúkovka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2016,
+      "taxon": "Hodophilus subfoetens Adamčík, Jančovič. & Looney",
+      "slovak_name": "oblúkovka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík, Soňa Jančovičová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2016,
+      "taxon": "Hodophilus tenuicystidiatus Jančovič., Adamčík & Looney",
+      "slovak_name": "oblúkovka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Soňa Jančovičová, Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2016,
+      "taxon": "Clavaria griseobrunnea Olariaga, Salcedo, Albizu & Kautmanová",
+      "slovak_name": "kyjačik",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ivona Kautmanová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2016,
+      "taxon": "Lamelloclavaria petersenii Adamčík & Birkebak",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2017,
+      "taxon": "Hodophilus variabilipes Jančovič., Adamčík & Looney",
+      "slovak_name": "oblúkovka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Soňa Jančovičová, Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2017,
+      "taxon": "Melanoleuca griseobrunnea Antonín, Ďuriška & Tomšovský",
+      "slovak_name": "tmavuľka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ondrej Ďuriška",
+      "synonym": "nie"
+    },
+    {
+      "year": 2017,
+      "taxon": "Microglossum clavatum V. Kučera, Lizoň & Tomšovský",
+      "slovak_name": "drobnojazýček",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Viktor Kučera, Pavel Lizoň",
+      "synonym": "nie"
+    },
+    {
+      "year": 2017,
+      "taxon": "Microglossum pratense V. Kučera, Tomšovský & Lizoň",
+      "slovak_name": "drobnojazýček",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Viktor Kučera, Pavel Lizoň",
+      "synonym": "nie"
+    },
+    {
+      "year": 2017,
+      "taxon": "Microglossum tenebrosum V. Kučera, Tomšovský, Lizoň & F. Hampe",
+      "slovak_name": "drobnojazýček",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Viktor Kučera, Pavel Lizoň",
+      "synonym": "nie"
+    },
+    {
+      "year": 2017,
+      "taxon": "Microglossum truncatum V. Kučera, Tomšovský & Lizoň",
+      "slovak_name": "drobnojazýček",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Viktor Kučera, Pavel Lizoň",
+      "synonym": "nie"
+    },
+    {
+      "year": 2017,
+      "taxon": "Polycephalomyces onorei Kautman & Kautmanová",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Václav Kautman, Ivona Kautmanová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2017,
+      "taxon": "Glutinoglossum peregrinans Fedosova & V. Kučera",
+      "slovak_name": "jazýček",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Viktor Kučera",
+      "synonym": "nie"
+    },
+    {
+      "year": 2017,
+      "taxon": "Glutinoglossum proliferatum V. Kučera",
+      "slovak_name": "jazýček",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Viktor Kučera",
+      "synonym": "nie"
+    },
+    {
+      "year": 2017,
+      "taxon": "Glutinoglossum pseudoglutinosum V. Kučera",
+      "slovak_name": "jazýček",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Viktor Kučera",
+      "synonym": "nie"
+    },
+    {
+      "year": 2017,
+      "taxon": "Glutinoglossum triseptatum V. Kučera",
+      "slovak_name": "jazýček",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Viktor Kučera",
+      "synonym": "nie"
+    },
+    {
+      "year": 2017,
+      "taxon": "Hemileucoglossum pusillum V. Kučera, Fedosova & Arauzo",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Viktor Kučera",
+      "synonym": "nie"
+    },
+    {
+      "year": 2018,
+      "taxon": "Metapochonia lutea Labuda, Bernreiter, C. Schüller & J. Strauss",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Roman Labuda",
+      "synonym": "nie"
+    },
+    {
+      "year": 2018,
+      "taxon": "Leratiomyces tesquorum Adamčík & Vizzini",
+      "slovak_name": "golierovka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2018,
+      "taxon": "Russula mansehraensis Saba, Caboň & Adamčík",
+      "slovak_name": "plávka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Miroslav Caboň, Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2018,
+      "taxon": "Hodophilus anatinus Dima, Adamčík & Jančovič.",
+      "slovak_name": "oblúkovka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík, Soňa Jančovičová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2018,
+      "taxon": "Hodophilus cambriensis Adamčík & Harries",
+      "slovak_name": "oblúkovka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2019,
+      "taxon": "Chrysodisca peziculoides Baral, Polhorský & G. Marson",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Adam Polhorský",
+      "synonym": "nie"
+    },
+    {
+      "year": 2019,
+      "taxon": "Russula echidna G.M. Gates, Caboň & Jančovič.",
+      "slovak_name": "plávka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Miroslav Caboň, Soňa Jančovičová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2019,
+      "taxon": "Russula wielangtae G.M. Gates, Caboň & Jančovič.",
+      "slovak_name": "plávka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Miroslav Caboň, Soňa Jančovičová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2019,
+      "taxon": "Russula abbottabadensis Saba & Adamčík",
+      "slovak_name": "plávka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2019,
+      "taxon": "Russula quercus-floribundae M. Kiran & Adamčík",
+      "slovak_name": "plávka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2019,
+      "taxon": "Tricholomopsis badinensis Holec, M. Kolařík & V. Kunca",
+      "slovak_name": "čírovec badínsky",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Vladimír Kunca",
+      "synonym": "nie"
+    },
+    {
+      "year": 2020,
+      "taxon": "Hodophilus carpathicus Jančovič. & Adamčík",
+      "slovak_name": "oblúkovka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Soňa Jančovičová, Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2020,
+      "taxon": "Hodophilus decurrentior Adamčík, Jančovič., Læssøe & Dima",
+      "slovak_name": "oblúkovka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík, Soňa Jančovičová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2020,
+      "taxon": "Hodophilus stramineus Jančovič., Dima & Adamčík",
+      "slovak_name": "oblúkovka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Soňa Jančovičová, Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2020,
+      "taxon": "Hemileucoglossum kelabitense V. Kučera, Fedosova & Sochorová",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Viktor Kučera",
+      "synonym": "nie"
+    },
+    {
+      "year": 2020,
+      "taxon": "Geoglossum jirinae V. Kučera, Ševčíková & Slovák",
+      "slovak_name": "jazýček",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Viktor Kučera, Marek Slovák",
+      "synonym": "nie"
+    },
+    {
+      "year": 2020,
+      "taxon": "Hyalorbilia orbiliicola Baral, G. Marson, Polhorský & E. Weber",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Adam Polhorský",
+      "synonym": "nie"
+    },
+    {
+      "year": 2020,
+      "taxon": "Hyalorbilia hergiswiliana Baral, Polhorský, D. Savić & E. Weber",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Adam Polhorský",
+      "synonym": "nie"
+    },
+    {
+      "year": 2021,
+      "taxon": "Glutinoglossum persoonii S. Saitta, A. Sierra & V. Kučera",
+      "slovak_name": "jazýček",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Viktor Kučera",
+      "synonym": "nie"
+    },
+    {
+      "year": 2021,
+      "taxon": "Keratinophyton gollerae Labuda, Bernreiter, Kubátová, C. Schüller & J. Strauss",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Roman Labuda",
+      "synonym": "nie"
+    },
+    {
+      "year": 2021,
+      "taxon": "Keratinophyton lemmensii Labuda, Bernreiter, Kubátová & C. Schüller",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Roman Labuda",
+      "synonym": "nie"
+    },
+    {
+      "year": 2021,
+      "taxon": "Keratinophyton straussii Labuda, Bernreiter, Kubátová & C. Schüller",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Roman Labuda",
+      "synonym": "nie"
+    },
+    {
+      "year": 2021,
+      "taxon": "Keratinophyton wagneri Labuda, Bernreiter, Kubátová & C. Schüller",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Roman Labuda",
+      "synonym": "nie"
+    },
+    {
+      "year": 2021,
+      "taxon": "Melanoleuca acystidiata Para, Antonín, Ševčíková, Ďuriška & Tomšovský",
+      "slovak_name": "tmavuľka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ondrej Ďuriška",
+      "synonym": "nie"
+    },
+    {
+      "year": 2021,
+      "taxon": "Melanoleuca fontenlae Para, Antonín, Ďuriška, Ševčíková & Tomšovský",
+      "slovak_name": "tmavuľka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ondrej Ďuriška",
+      "synonym": "nie"
+    },
+    {
+      "year": 2021,
+      "taxon": "Melanoleuca albomarginata Antonín, Ďuriška, Jančovičová, Para & Tomšovský",
+      "slovak_name": "tmavuľka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ondrej Ďuriška, Soňa Jančovičová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2021,
+      "taxon": "Melanoleuca ammophila Antonín, Ďuriška, Jančovičová, Para & Tomšovský",
+      "slovak_name": "tmavuľka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ondrej Ďuriška, Soňa Jančovičová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2021,
+      "taxon": "Melanoleuca variabilis Antonín, Ďuriška, Jančovičová, Para & Tomšovský",
+      "slovak_name": "tmavuľka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ondrej Ďuriška, Soňa Jančovičová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2021,
+      "taxon": "Pleuroflammula pannonica Polhorský, Kautmanová & Szabóová",
+      "slovak_name": "šupinovka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Adam Polhorský, Ivona Kautmanová, Dana Szabóová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2021,
+      "taxon": "Russula ambusta De Lange, Adamčík & F. Hampe",
+      "slovak_name": "plávka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2021,
+      "taxon": "Russula nigrifacta De Lange & Adamčík",
+      "slovak_name": "plávka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2021,
+      "taxon": "Hygrocybe fulgens Fuljer, Kautmanová & Boertm.",
+      "slovak_name": "Lúčnica žiarivá",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Filip Fuljer, Ivona Kautmanová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2022,
+      "taxon": "Neohygrocybe pseudoingrata Fuljer, Zajac, Boertm. & Kautman.",
+      "slovak_name": "Lúčnica sivohnedá",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Filip Fuljer, Milan Zajac, Ivona Kautmanová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2022,
+      "taxon": "Sabuloglossum monticola V. Kučera, Slovák & Janošík",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Viktor Kučera, Marek Slovák, Lukáš Janošík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2022,
+      "taxon": "Thyronectria ulmi Polhorský, Halasů & Voglmayr",
+      "slovak_name": "trsohlívka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Adam Polhorský",
+      "synonym": "nie"
+    },
+    {
+      "year": 2022,
+      "taxon": "Crepidotus pini Jančovič.",
+      "slovak_name": "pahliva",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Soňa Jančovičová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2023,
+      "taxon": "Trichoglossum beninense De Kesel, Hustad, A.N. Mill., Fedosova & V. Kučera",
+      "slovak_name": "pajazýček",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Viktor Kučera",
+      "synonym": "nie"
+    },
+    {
+      "year": 2023,
+      "taxon": "Melanoleuca monticola Antonín, Ďuriška, Jančovičová, Para, Ševčíková & Tomšovský",
+      "slovak_name": "tmavuľka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ondrej Ďuriška, Soňa Jančovičová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2023,
+      "taxon": "Melanoleuca romanensis Antonín, Ďuriška, Jančovičová, Para, Ševčíková & Tomšovský",
+      "slovak_name": "tmavuľka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ondrej Ďuriška, Soňa Jančovičová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2023,
+      "taxon": "Pluteus flammans Polhorský, Ševčíková, Justo, Fedor & Dima",
+      "slovak_name": "štítovka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Adam Polhorský",
+      "synonym": "nie"
+    },
+    {
+      "year": 2023,
+      "taxon": "Venturioscypha nigropila Baral, T. Kosonen, Stöckli, Wergen & Polhorský",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Adam Polhorský",
+      "synonym": "nie"
+    },
+    {
+      "year": 2023,
+      "taxon": "Orbilia multiserpentina Fuljer, Polhorský & Baral",
+      "slovak_name": "orbília",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Filip Fuljer, Adam Polhorský",
+      "synonym": "nie"
+    },
+    {
+      "year": 2024,
+      "taxon": "Cerinomyces tatrensis Polhorský, Peiger & Tomka",
+      "slovak_name": "slzovec",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Adam Polhorský, Maroš Peiger, Pavol Tomka",
+      "synonym": "nie"
+    },
+    {
+      "year": 2024,
+      "taxon": "Metapochonia simonovicovae S. Nosalj, Kubátová, Kandemir, M. Gorfer & Labuda",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Roman Labuda",
+      "synonym": "nie"
+    },
+    {
+      "year": 2024,
+      "taxon": "Hygrocybe alpina Fuljer, Zajac, Boertm. & Kautman.",
+      "slovak_name": "lúčnica",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Filip Fuljer, Milan Zajac, Ivona Kautmanová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2024,
+      "taxon": "Hygrocybe amara Fuljer, Zajac, Boertm. & Kautman.",
+      "slovak_name": "lúčnica",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Filip Fuljer, Milan Zajac, Ivona Kautmanová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2025,
+      "taxon": "Balsamia microspora Glejdura, V. Kunca, Karpowicz, Mleczko, A. Ronikier, Ronikier & Rutkowski",
+      "slovak_name": "smradľavka drobnovýtrusná",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Stanislav Glejdura, Vladimír Kunca",
+      "synonym": "nie"
+    },
+    {
+      "year": 2025,
+      "taxon": "Dermoloma angustisporum Jančovič. & Karich",
+      "slovak_name": "čiruľka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Soňa Jančovičová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2025,
+      "taxon": "Dermoloma appalachianum Adamčík & Matheny",
+      "slovak_name": "čiruľka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2025,
+      "taxon": "Dermoloma carpathicum Adamčíková & Jančovič.",
+      "slovak_name": "čiruľka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Katarína Adamčíková, Soňa Jančovičová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2025,
+      "taxon": "Dermoloma fumosidiscum Adamčík & Matheny",
+      "slovak_name": "čiruľka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2025,
+      "taxon": "Dermoloma obscurum Caboň & Jančovič.",
+      "slovak_name": "čiruľka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Miroslav Caboň, Soňa Jančovičová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2025,
+      "taxon": "Dermoloma parvisporum Adamčík & Dima",
+      "slovak_name": "čiruľka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2025,
+      "taxon": "Dermoloma pruinosipes Corriol & Jančovič.",
+      "slovak_name": "čiruľka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Soňa Jančovičová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2025,
+      "taxon": "Dermoloma simile Adamčík & Jančovič.",
+      "slovak_name": "čiruľka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík, Soňa Jančovičová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2025,
+      "taxon": "Dermoloma vellingae Adamčík & Matheny",
+      "slovak_name": "čiruľka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2025,
+      "taxon": "Dermoloma vestigium Adamčík & Corriol",
+      "slovak_name": "čiruľka",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2025,
+      "taxon": "Neodermoloma campestre Sánchez-García, Matheny & Adamčík",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2025,
+      "taxon": "Pseudobaeospora deceptiva Vizzini, Cons., Setti & Adamčík",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2026,
+      "taxon": "Hymenoscyphus corni-maris Baral, Polhorský, M. Huth, Rönsch & Hensel",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Adam Polhorský",
+      "synonym": "nie"
+    },
+    {
+      "year": 2026,
+      "taxon": "Hymenoscyphus corni-sanguineae Polhorský, Baral & Omerovic",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Adam Polhorský",
+      "synonym": "nie"
+    },
+    {
+      "year": 1888,
+      "taxon": "Septoria cytisi var. genistae Bäumler",
+      "slovak_name": "septória",
+      "rank": "varieta",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1973,
+      "taxon": "Boletus pinophilus var. pinophilus Pilát & Dermek",
+      "slovak_name": "Hríb sosnový",
+      "rank": "varieta",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Aurel Dermek",
+      "synonym": "áno"
+    },
+    {
+      "year": 1973,
+      "taxon": "Xerocomus chrysenteron var. robustus Dermek",
+      "slovak_name": "Suchohríb žltomäsový",
+      "rank": "varieta",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Aurel Dermek",
+      "synonym": "nie"
+    },
+    {
+      "year": 1983,
+      "taxon": "Boletus edulis var. arenarius H. Engel, Krieglst. & Dermek",
+      "slovak_name": "Hríb smrekový šaštínsky",
+      "rank": "varieta",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Aurel Dermek",
+      "synonym": "nie"
+    },
+    {
+      "year": 1984,
+      "taxon": "Boletus erythropus var. rubropileus Dermek",
+      "slovak_name": "Hríb zrnitohlúbikový",
+      "rank": "varieta",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Aurel Dermek",
+      "synonym": "nie"
+    },
+    {
+      "year": 1985,
+      "taxon": "Macrolepiota mastoidea var. atrobrunnea Dermek",
+      "slovak_name": "Bedľa štíhla",
+      "rank": "varieta",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Aurel Dermek",
+      "synonym": "nie"
+    },
+    {
+      "year": 1990,
+      "taxon": "Clitocybe gibba var. adstringens Hagara",
+      "slovak_name": "Strmuľka lievikovitá",
+      "rank": "varieta",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ladislav Hagara",
+      "synonym": "áno"
+    },
+    {
+      "year": 2002,
+      "taxon": "Russula xerampelina var. tenuicarnosa Adamcík",
+      "slovak_name": "Plávka vínovočervená",
+      "rank": "varieta",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2023,
+      "taxon": "Pluteus notabilis var. insignis Ševčíková, Cáfal, Ferisin & Galbusera",
+      "slovak_name": "štítovka",
+      "rank": "varieta",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Rudolf Cáfal",
+      "synonym": "nie"
+    },
+    {
+      "year": 1971,
+      "taxon": "Amanita vaginata f. olivaceoviridis Fábry",
+      "slovak_name": "muchotrávka pošvatá",
+      "rank": "forma",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Igor Fábry",
+      "synonym": "nie"
+    },
+    {
+      "year": 1973,
+      "taxon": "Boletus pinophilus f. pinophilus Pilát & Dermek",
+      "slovak_name": "Hríb sosnový",
+      "rank": "forma",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Aurel Dermek",
+      "synonym": "áno"
+    },
+    {
+      "year": 2014,
+      "taxon": "Lactarius vietus f. decolorans Hagara",
+      "slovak_name": "rýdzik brezový",
+      "rank": "forma",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ladislav Hagara",
+      "synonym": "nie"
+    },
+    {
+      "year": 2014,
+      "taxon": "Psathyrella multipedata f. annulata Hagara",
+      "slovak_name": "drobuľka trsovitá",
+      "rank": "forma",
+      "type": "novoopísaný",
+      "slovak_mycologists": "Ladislav Hagara",
+      "synonym": "nie"
+    },
+    {
+      "year": 2001,
+      "taxon": "Leotiales Korf & Lizoň",
+      "slovak_name": "",
+      "rank": "rad",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Pavel Lizoň",
+      "synonym": "nie"
+    },
+    {
+      "year": 1966,
+      "taxon": "Chmelia Svob.-Pol.",
+      "slovak_name": "",
+      "rank": "rod",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Yvonna Svobodová-Poláková",
+      "synonym": "áno"
+    },
+    {
+      "year": 1994,
+      "taxon": "Lambertellinia Korf & Lizoň",
+      "slovak_name": "",
+      "rank": "rod",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Pavel Lizoň",
+      "synonym": "áno"
+    },
+    {
+      "year": 2021,
+      "taxon": "Dermoloma subgen. Amylospora Adamčík",
+      "slovak_name": "čiruľka",
+      "rank": "podrod",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2020,
+      "taxon": "Hodophilus sect. Micacei Adamčík & Dima",
+      "slovak_name": "oblúkovka",
+      "rank": "časť",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2020,
+      "taxon": "Hodophilus sect. Phaeophylli Adamčík & Dima",
+      "slovak_name": "oblúkovka",
+      "rank": "časť",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2021,
+      "taxon": "Dermoloma sect. Conica Adamčík",
+      "slovak_name": "čiruľka",
+      "rank": "časť",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2021,
+      "taxon": "Dermoloma sect. Nigrescentia S. Adamčík",
+      "slovak_name": "čiruľka",
+      "rank": "časť",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2022,
+      "taxon": "Russula subsect. Albidinae Looney, Manz & Adamčík",
+      "slovak_name": "plávka",
+      "rank": "čiastka",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 1901,
+      "taxon": "Lasiostictis fimbriata (Schwein.) Bäumler",
+      "slovak_name": "kruhospórka",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1966,
+      "taxon": "Chmelia slovaca (Svob.-Pol., L. Chmel & Bojan.) Svob.-Pol.",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Yvonna Svobodová-Poláková",
+      "synonym": "áno"
+    },
+    {
+      "year": 1967,
+      "taxon": "Peltula euploca (Ach.) Poelt ex Pišút",
+      "slovak_name": "Štítnatka šupinovitá – lišajník",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "nie"
+    },
+    {
+      "year": 1977,
+      "taxon": "Ascotrichosporon capitatum (Diddens & Lodder) Kock.-Krat., E. Sláviková, Zemek & Kuniak",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Anna Kocková-Kratochvílová, Elena Sláviková, Juraj Zemek, Ľudovít Kuniak",
+      "synonym": "áno"
+    },
+    {
+      "year": 1977,
+      "taxon": "Ascotrichosporon sericeum (Stautz) Kock.-Krat., E. Sláviková, Zemek & Kuniak",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Anna Kocková-Kratochvílová, Elena Sláviková, Juraj Zemek, Ľudovít Kuniak",
+      "synonym": "áno"
+    },
+    {
+      "year": 1977,
+      "taxon": "Basidiotrichosporon cutaneum (Beurm., Gougerot & Vaucher bis) Kock.-Krat., E. Sláviková & Zemek",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Anna Kocková-Kratochvílová, Elena Sláviková, Juraj Zemek",
+      "synonym": "áno"
+    },
+    {
+      "year": 1977,
+      "taxon": "Basidiotrichosporon proteolyticum (Negroni & Villafañe) Kock.-Krat., E. Sláviková & Zemek",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Anna Kocková-Kratochvílová, Elena Sláviková, Juraj Zemek",
+      "synonym": "áno"
+    },
+    {
+      "year": 1977,
+      "taxon": "Basidiotrichosporon pullulans (Lindner) Kock.-Krat., E. Sláviková & Zemek",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Anna Kocková-Kratochvílová, Elena Sláviková, Juraj Zemek",
+      "synonym": "áno"
+    },
+    {
+      "year": 1978,
+      "taxon": "Aspicilia schafeevii (Tomin) Pišút",
+      "slovak_name": "manovník – lišajník",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "áno"
+    },
+    {
+      "year": 1989,
+      "taxon": "Hyphopichia rhodanensis (C. Ramírez & Boidin) Kock.-Krat., E. Sláviková & J.D. Sin",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Anna Kocková-Kratochvílová, Elena Sláviková",
+      "synonym": "áno"
+    },
+    {
+      "year": 1992,
+      "taxon": "Hymenoscyphus callorioides (Rehm) Lizoň",
+      "slovak_name": "čiašočka",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Pavel Lizoň",
+      "synonym": "nie"
+    },
+    {
+      "year": 1992,
+      "taxon": "Hymenoscyphus tatrae Svrček ex Lizoň",
+      "slovak_name": "Čiašočka tatranská",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Pavel Lizoň",
+      "synonym": "nie"
+    },
+    {
+      "year": 1992,
+      "taxon": "Hymenoscyphus pallidesubolivaceus (Svrček) Lizoň",
+      "slovak_name": "čiašočka",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Pavel Lizoň",
+      "synonym": "nie"
+    },
+    {
+      "year": 1995,
+      "taxon": "Bisporella claroflava (Grev.) Lizoň & Korf",
+      "slovak_name": "okrasník",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Pavel Lizoň",
+      "synonym": "áno"
+    },
+    {
+      "year": 2000,
+      "taxon": "Peziza adae var. latispora (J. Moravec) Lizoň",
+      "slovak_name": "čiaška",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Pavel Lizoň",
+      "synonym": "nie"
+    },
+    {
+      "year": 2003,
+      "taxon": "Russula faginea Romagn. ex Adamčík",
+      "slovak_name": "Plávka statná",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2004,
+      "taxon": "Peccania cernohorskyi (Servít) Schiman-Czeika, Czeika & Guttová",
+      "slovak_name": "lišajník",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Anna Guttová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2005,
+      "taxon": "Nectriopsis tatrensis (Alstrup) Lisická & Alstrup",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Eva Lisická",
+      "synonym": "nie"
+    },
+    {
+      "year": 2005,
+      "taxon": "Ascocoryne striata (Ellis & Everh.) V. Kučera & Lizoň",
+      "slovak_name": "vrtidlovka",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Viktor Kučera, Pavel Lizoň",
+      "synonym": "nie"
+    },
+    {
+      "year": 2016,
+      "taxon": "Hodophilus albofloccipes (Kovalenko, E.F. Malysheva & O.V. Morozova) Looney & Adamčík",
+      "slovak_name": "oblúkovka",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2016,
+      "taxon": "Hodophilus atropunctus (Pers.) Birkebak & Adamčík",
+      "slovak_name": "oblúkovka",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2016,
+      "taxon": "Hodophilus foetens (W. Phillips) Birkebak & Adamčík",
+      "slovak_name": "Oblúkovka páchnúca",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2016,
+      "taxon": "Hodophilus hymenocephalus (A.H. Sm. & Hesler) Birkebak & Adamčík",
+      "slovak_name": "oblúkovka",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2016,
+      "taxon": "Hodophilus micaceus (Berk. & Broome) Birkebak & Adamčík",
+      "slovak_name": "oblúkovka",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2016,
+      "taxon": "Hodophilus paupertinus (A.H. Sm. & Hesler) Adamčík, Birkebak & Looney",
+      "slovak_name": "oblúkovka",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2016,
+      "taxon": "Hodophilus peckianus (Howe) Adamčík, Birkebak & Looney",
+      "slovak_name": "oblúkovka",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2016,
+      "taxon": "Hodophilus subfuscescens (A.H. Sm. & Hesler) Adamčík, Birkebak & Looney",
+      "slovak_name": "oblúkovka",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Slavomír Adamčík",
+      "synonym": "nie"
+    },
+    {
+      "year": 2018,
+      "taxon": "Hodophilus phaeoxanthus (Romagn.) Adamčík & Jančovič.",
+      "slovak_name": "oblúkovka",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Slavomír Adamčík, Soňa Jančovičová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2018,
+      "taxon": "Hodophilus rugulosus (A.H. Sm. & Hesler) Adamčík & Jančovič.",
+      "slovak_name": "oblúkovka",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Slavomír Adamčík, Soňa Jančovičová",
+      "synonym": "nie"
+    },
+    {
+      "year": 2018,
+      "taxon": "Metapochonia cordycipiticonsociata (H. Huang, Mu Wang & L. Cai) Labuda, Bernreiter & Kubátová",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Roman Labuda",
+      "synonym": "nie"
+    },
+    {
+      "year": 2018,
+      "taxon": "Metapochonia parasitica (G.L. Barron) Labuda, Bernreiter & Kubátová",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Roman Labuda",
+      "synonym": "nie"
+    },
+    {
+      "year": 2020,
+      "taxon": "Ascocoryne lilacina (Fr.) Baral, Helleman, Matočec, I. Kušan, Polhorský & E. Weber",
+      "slovak_name": "vrtidlovka",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Adam Polhorský",
+      "synonym": "nie"
+    },
+    {
+      "year": 2020,
+      "taxon": "Lachnellula succina (Sacc.) Polhorský & Baral",
+      "slovak_name": "vlnuška",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Adam Polhorský",
+      "synonym": "nie"
+    },
+    {
+      "year": 2021,
+      "taxon": "Keratinophyton hubeiense (Yan W. Zhang, Y.F. Han & Z.Q. Liang) Labuda & Bernreiter",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Roman Labuda",
+      "synonym": "nie"
+    },
+    {
+      "year": 2021,
+      "taxon": "Keratinophyton submersum (P. Vidal & Guarro) Labuda & Bernreiter",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Roman Labuda",
+      "synonym": "nie"
+    },
+    {
+      "year": 2021,
+      "taxon": "Keratinophyton siglerae (Cano & Guarro) Labuda & Bernreiter",
+      "slovak_name": "",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Roman Labuda",
+      "synonym": "nie"
+    },
+    {
+      "year": 2024,
+      "taxon": "Neohygrocybe citrinofusca (J. Favre) Friebes, Boertm., Fuljer, Kautman. & Voglmayr",
+      "slovak_name": "lúčnica",
+      "rank": "druh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Filip Fuljer, Ivona Kautmanová",
+      "synonym": "nie"
+    },
+    {
+      "year": 1961,
+      "taxon": "Cladonia furcata subsp. subrangiformis (L. Scriba ex Sandst.) Pišút",
+      "slovak_name": "Dutohlávka vidlicovitá – lišajník",
+      "rank": "poddruh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "nie"
+    },
+    {
+      "year": 1968,
+      "taxon": "Collema polycarpon subsp. corcyrense (Arnold) Pišút",
+      "slovak_name": "Koléma mnohoplodá – lišajník",
+      "rank": "poddruh",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "nie"
+    },
+    {
+      "year": 1968,
+      "taxon": "Collema nigrescens var. subnigrescens (Degel.) Pišút",
+      "slovak_name": "Koléma černejúca – lišajník",
+      "rank": "varieta",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "áno"
+    },
+    {
+      "year": 1975,
+      "taxon": "Squamarina gypsacea var. subcetrarioides (Zahlbr.) Pišút",
+      "slovak_name": "Skvamarína sadrovcová – lišajník",
+      "rank": "varieta",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "nie"
+    },
+    {
+      "year": 1901,
+      "taxon": "Lasiostictis fimbriata f. fimbriata (Schwein.) Bäumler",
+      "slovak_name": "kruhospórka",
+      "rank": "forma",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Ján Andrej Bäumler",
+      "synonym": "nie"
+    },
+    {
+      "year": 1961,
+      "taxon": "Cladonia furcata f. vagans (Tomin) Pišút",
+      "slovak_name": "Dutohlávka vidlicovitá – lišajník",
+      "rank": "forma",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Ivan Pišút",
+      "synonym": "nie"
+    },
+    {
+      "year": 2000,
+      "taxon": "Clitocybe gibba f. adstringens (Hagara) Lizoň",
+      "slovak_name": "Strmuľka lievikovitá",
+      "rank": "forma",
+      "type": "presunutý (nová kombinácia)",
+      "slovak_mycologists": "Pavel Lizoň",
+      "synonym": "nie"
+    }
+  ],
+  "meta": {
+    "title": "Mykologické taxóny slovenských autorov - Free Download",
+    "description": "Taxóny húb a lišajníkov pomenované na počesť slovenských mykológov, nimi novoopísané alebo presunuté v systematike – s rokom, rangom a menom mykológa. Contains 268 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mykologické taxóny slovenských autorov | ListBase",
+    "seo_description": "Download Mykologické taxóny slovenských autorov — 268 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 268 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_mykologických_taxónov_slovenských_autorov"
+    ]
+  }
+}
