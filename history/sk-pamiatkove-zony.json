@@ -1,0 +1,872 @@
+{
+  "id": "sk-pamiatkove-zony",
+  "name": "Pamiatkové zóny na Slovensku",
+  "title": "Pamiatkové zóny na Slovensku",
+  "description": "Pamiatkové zóny na Slovensku s okresom, dátumom vyhlásenia, vyhlasujúcim orgánom a právnym stavom.",
+  "category": "history",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_pamiatkových_zón_na_Slovensku",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_pamiatkových_zón_na_Slovensku",
+  "updated": "2026-11",
+  "record_count": 102,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "legal_status",
+      "label": "Legal Status",
+      "type": "string"
+    },
+    {
+      "key": "declared",
+      "label": "Declared",
+      "type": "string"
+    },
+    {
+      "key": "declared_by",
+      "label": "Declared By",
+      "type": "string"
+    },
+    {
+      "key": "effective",
+      "label": "Effective",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bratislava - Rusovce",
+      "district": "Bratislava 5",
+      "legal_status": "platná",
+      "declared": "19.09.1990",
+      "declared_by": "Plénum NVB",
+      "effective": "01.10.1990"
+    },
+    {
+      "name": "Komárno",
+      "district": "Komárno",
+      "legal_status": "platná",
+      "declared": "25.09.1990",
+      "declared_by": "R Zs KNV",
+      "effective": "25.09.1990"
+    },
+    {
+      "name": "Skalica",
+      "district": "Skalica",
+      "legal_status": "platná",
+      "declared": "25.09.1990",
+      "declared_by": "R Zs KNV",
+      "effective": "25.09.1990"
+    },
+    {
+      "name": "Bratislava - Vajnory",
+      "district": "Bratislava 3",
+      "legal_status": "platná",
+      "declared": "16.11.1990",
+      "declared_by": "Plénum NVB",
+      "effective": "01.12.1990"
+    },
+    {
+      "name": "Kysucké Nové Mesto",
+      "district": "Kysucké Nové Mesto",
+      "legal_status": "platná",
+      "declared": "11.04.1991",
+      "declared_by": "Okresný úrad Čadca",
+      "effective": "30.04.1991"
+    },
+    {
+      "name": "Zvolen",
+      "district": "Zvolen",
+      "legal_status": "platná",
+      "declared": "26.04.1991",
+      "declared_by": "Okresný úrad Zvolen",
+      "effective": "01.05.1991"
+    },
+    {
+      "name": "Bytča",
+      "district": "Bytča",
+      "legal_status": "platná",
+      "declared": "10.05.1991",
+      "declared_by": "Okresný úrad Žilina",
+      "effective": "10.05.1991"
+    },
+    {
+      "name": "Rajec",
+      "district": "Žilina",
+      "legal_status": "platná",
+      "declared": "10.05.1991",
+      "declared_by": "Okresný úrad Žilina",
+      "effective": "10.05.1991"
+    },
+    {
+      "name": "Nitrianske Pravno",
+      "district": "Prievidza",
+      "legal_status": "platná",
+      "declared": "27.05.1991",
+      "declared_by": "Okresný úrad Prievidza",
+      "effective": "01.06.1991"
+    },
+    {
+      "name": "Krupina",
+      "district": "Krupina",
+      "legal_status": "platná",
+      "declared": "29.05.1991",
+      "declared_by": "Okresný úrad Zvolen",
+      "effective": "01.06.1991"
+    },
+    {
+      "name": "Trstená",
+      "district": "Tvrdošín",
+      "legal_status": "platná",
+      "declared": "11.06.1991",
+      "declared_by": "Okresný úrad D.Kubín",
+      "effective": "01.06.1991"
+    },
+    {
+      "name": "Tvrdošín",
+      "district": "Tvrdošín",
+      "legal_status": "platná",
+      "declared": "01.06.1991",
+      "declared_by": "Okresný úrad D.Kubín",
+      "effective": "01.06.1991"
+    },
+    {
+      "name": "Jelšava",
+      "district": "Revúca",
+      "legal_status": "platná",
+      "declared": "05.06.1991",
+      "declared_by": "Okresný úrad Rožňava",
+      "effective": "01.07.1991"
+    },
+    {
+      "name": "Štítnik",
+      "district": "Rožňava",
+      "legal_status": "platná",
+      "declared": "05.06.1991",
+      "declared_by": "Okresný úrad Rožňava",
+      "effective": "15.06.1991"
+    },
+    {
+      "name": "Sirk - Železník",
+      "district": "Revúca",
+      "legal_status": "platná",
+      "declared": "17.06.1991",
+      "declared_by": "Okresný úrad Rožňava",
+      "effective": "01.07.1991"
+    },
+    {
+      "name": "Bojnice",
+      "district": "Prievidza",
+      "legal_status": "platná",
+      "declared": "19.06.1991",
+      "declared_by": "Okresný úrad Prievidza",
+      "effective": "01.07.1991"
+    },
+    {
+      "name": "Rožňava",
+      "district": "Rožňava",
+      "legal_status": "platná",
+      "declared": "21.06.1991",
+      "declared_by": "Okresný úrad Rožňava",
+      "effective": "01.08.1991"
+    },
+    {
+      "name": "Topoľčany",
+      "district": "Topoľčany",
+      "legal_status": "platná",
+      "declared": "01.07.1991",
+      "declared_by": "Okresný úrad Topoľčany",
+      "effective": "01.07.1991"
+    },
+    {
+      "name": "Liptovský Ján",
+      "district": "Liptovský Mikuláš",
+      "legal_status": "platná",
+      "declared": "20.07.1991",
+      "declared_by": "Okresný úrad L.Mikuláš",
+      "effective": "01.09.1991"
+    },
+    {
+      "name": "Partizánska Ľupča",
+      "district": "Liptovský Mikuláš",
+      "legal_status": "platná",
+      "declared": "22.08.1991",
+      "declared_by": "Okresný úrad L.Mikuláš",
+      "effective": "01.09.1991"
+    },
+    {
+      "name": "Beckov",
+      "district": "Nové Mesto nad Váhom",
+      "legal_status": "platná",
+      "declared": "01.09.1991",
+      "declared_by": "Okresný úrad Trenčín",
+      "effective": "01.09.1991"
+    },
+    {
+      "name": "Liptovský Mikuláš",
+      "district": "Liptovský Mikuláš",
+      "legal_status": "platná",
+      "declared": "16.09.1991",
+      "declared_by": "Okresný úrad L.Mikuláš",
+      "effective": "01.10.1991"
+    },
+    {
+      "name": "Ružomberok",
+      "district": "Ružomberok",
+      "legal_status": "platná",
+      "declared": "16.09.1991",
+      "declared_by": "Okresný úrad L.Mikuláš",
+      "effective": "01.10.1991"
+    },
+    {
+      "name": "Hybe",
+      "district": "Liptovský Mikuláš",
+      "legal_status": "platná",
+      "declared": "01.10.1991",
+      "declared_by": "Okresný úrad L.Mikuláš",
+      "effective": "01.10.1991"
+    },
+    {
+      "name": "Nižná Boca",
+      "district": "Liptovský Mikuláš",
+      "legal_status": "platná",
+      "declared": "01.10.1991",
+      "declared_by": "Okresný úrad L.Mikuláš",
+      "effective": "01.10.1991"
+    },
+    {
+      "name": "Stankovany - Podšíp",
+      "district": "Ružomberok",
+      "legal_status": "platná",
+      "declared": "01.10.1991",
+      "declared_by": "Okresný úrad L.Mikuláš",
+      "effective": "01.10.1991"
+    },
+    {
+      "name": "Východná",
+      "district": "Liptovský Mikuláš",
+      "legal_status": "platná",
+      "declared": "01.10.1991",
+      "declared_by": "Okresný úrad L.Mikuláš",
+      "effective": "01.10.1991"
+    },
+    {
+      "name": "Brezno",
+      "district": "Brezno",
+      "legal_status": "platná",
+      "declared": "20.11.1991",
+      "declared_by": "Okresný úrad B.Bystrica",
+      "effective": "25.11.1991"
+    },
+    {
+      "name": "Modra",
+      "district": "Pezinok",
+      "legal_status": "platná",
+      "declared": "",
+      "declared_by": "Okresný úrad Ba-vidiek.",
+      "effective": "01.12.1991"
+    },
+    {
+      "name": "Hanušovce nad Topľou",
+      "district": "Vranov nad Topľou",
+      "legal_status": "platná",
+      "declared": "15.12.1991",
+      "declared_by": "Okresný úrad Vranov n.T.",
+      "effective": "15.12.1991"
+    },
+    {
+      "name": "Hniezdne",
+      "district": "Stará Ľubovňa",
+      "legal_status": "platná",
+      "declared": "16.12.1991",
+      "declared_by": "Okresný úrad S.Ľubovňa",
+      "effective": "18.02.1992"
+    },
+    {
+      "name": "Stará Ľubovňa",
+      "district": "Stará Ľubovňa",
+      "legal_status": "platná",
+      "declared": "16.12.1991",
+      "declared_by": "Okresný úrad S.Ľubovňa",
+      "effective": "18.02.1992"
+    },
+    {
+      "name": "Spišská Nová Ves",
+      "district": "Spišská Nová Ves",
+      "legal_status": "platná",
+      "declared": "20.01.1992",
+      "declared_by": "Okresný úrad Sp.N.Ves",
+      "effective": "01.03.1992"
+    },
+    {
+      "name": "Dobrá Niva",
+      "district": "Zvolen",
+      "legal_status": "platná",
+      "declared": "24.02.1992",
+      "declared_by": "Okresný úrad Zvolen",
+      "effective": "01.03.1992"
+    },
+    {
+      "name": "Gelnica",
+      "district": "Gelnica",
+      "legal_status": "platná",
+      "declared": "27.03.1992",
+      "declared_by": "Okresný úrad Sp.N.Ves",
+      "effective": "15.05.1992"
+    },
+    {
+      "name": "Vysoké Tatry - Tatranská Lomnica",
+      "district": "Poprad",
+      "legal_status": "platná",
+      "declared": "01.06.1992",
+      "declared_by": "Okresný úrad Poprad",
+      "effective": "01.06.1992"
+    },
+    {
+      "name": "Bratislava - CMO",
+      "district": "Bratislava 1",
+      "legal_status": "platná",
+      "declared": "18.08.1992",
+      "declared_by": "Okresný úrad Bratislava",
+      "effective": "01.12.1992"
+    },
+    {
+      "name": "Lúčka",
+      "district": "Rožňava",
+      "legal_status": "platná",
+      "declared": "15.09.1992",
+      "declared_by": "Okresný úrad Rožňava",
+      "effective": "16.06.1994"
+    },
+    {
+      "name": "Nitra -Staré Mesto",
+      "district": "Nitra",
+      "legal_status": "platná",
+      "declared": "15.09.1992",
+      "declared_by": "Okresný úrad Nitra",
+      "effective": "14.12.1994"
+    },
+    {
+      "name": "Nové Mesto nad Váhom",
+      "district": "Nové Mesto nad Váhom",
+      "legal_status": "platná",
+      "declared": "15.09.1992",
+      "declared_by": "Okresný úrad Trenčín",
+      "effective": "31.08.1994"
+    },
+    {
+      "name": "Spišské Vlachy",
+      "district": "Spišská Nová Ves",
+      "legal_status": "platná",
+      "declared": "23.10.1992",
+      "declared_by": "Okresný úrad Sp.N.Ves",
+      "effective": "31.08.1994"
+    },
+    {
+      "name": "Spišské Podhradie",
+      "district": "Levoča",
+      "legal_status": "platná",
+      "declared": "10.02.1993",
+      "declared_by": "Okresný úrad Sp.N.Ves",
+      "effective": "31.08.1994"
+    },
+    {
+      "name": "Hlohovec",
+      "district": "Hlohovec",
+      "legal_status": "platná",
+      "declared": "26.02.1993",
+      "declared_by": "Okresný úrad Trnava",
+      "effective": "16.06.1994"
+    },
+    {
+      "name": "Sabinov",
+      "district": "Sabinov",
+      "legal_status": "platná",
+      "declared": "20.04.1993",
+      "declared_by": "Okresný úrad Prešov",
+      "effective": "16.06.1994"
+    },
+    {
+      "name": "Markušovce",
+      "district": "Spišská Nová Ves",
+      "legal_status": "platná",
+      "declared": "26.04.1993",
+      "declared_by": "Okresný úrad Sp.N.Ves",
+      "effective": "31.08.1994"
+    },
+    {
+      "name": "Šahy",
+      "district": "Levice",
+      "legal_status": "platná",
+      "declared": "03.05.1993",
+      "declared_by": "Okresný úrad Levice",
+      "effective": "31.08.1994"
+    },
+    {
+      "name": "Vyšný Medzev",
+      "district": "Košice okolie",
+      "legal_status": "platná",
+      "declared": "27.09.1993",
+      "declared_by": "Okresný úrad Košice-vid.",
+      "effective": "16.06.1994"
+    },
+    {
+      "name": "Rimavská Sobota",
+      "district": "Rimavská Sobota",
+      "legal_status": "platná",
+      "declared": "22.11.1993",
+      "declared_by": "Okresný úrad Rim.Sobota",
+      "effective": "16.06.1994"
+    },
+    {
+      "name": "Nižné Repaše",
+      "district": "Levoča",
+      "legal_status": "platná",
+      "declared": "30.11.1993",
+      "declared_by": "Okresný úrad Sp.N.Ves",
+      "effective": "31.08.1994"
+    },
+    {
+      "name": "Torysky",
+      "district": "Levoča",
+      "legal_status": "platná",
+      "declared": "30.11.1993",
+      "declared_by": "Okresný úrad Sp.N.Ves",
+      "effective": "31.08.1994"
+    },
+    {
+      "name": "Zlaté Moravce",
+      "district": "Zlaté Moravce",
+      "legal_status": "platná",
+      "declared": "01.03.1994",
+      "declared_by": "Okresný úrad Nitra",
+      "effective": "14.12.1994"
+    },
+    {
+      "name": "Kremnické Bane",
+      "district": "Žiar n.Hronom",
+      "legal_status": "platná",
+      "declared": "21.03.1994",
+      "declared_by": "Okresný úrad Žiar n/Hron.",
+      "effective": "14.12.1994"
+    },
+    {
+      "name": "Marianka",
+      "district": "Malacky",
+      "legal_status": "platná",
+      "declared": "20.04.1994",
+      "declared_by": "Okresný úrad Ba-vidiek.",
+      "effective": "16.06.1994"
+    },
+    {
+      "name": "Liptovský Hrádok",
+      "district": "Liptovský Mikuláš",
+      "legal_status": "platná",
+      "declared": "17.08.1994",
+      "declared_by": "Okresný úrad L.Mikuláš",
+      "effective": "25.10.1994"
+    },
+    {
+      "name": "Ratková",
+      "district": "Revúca",
+      "legal_status": "platná",
+      "declared": "17.10.1994",
+      "declared_by": "Okresný úrad Rim.Sobota",
+      "effective": "19.07.1996"
+    },
+    {
+      "name": "Rimavské Janovce",
+      "district": "Rimavská Sobota",
+      "legal_status": "platná",
+      "declared": "17.10.1994",
+      "declared_by": "Okresný úrad Rim.Sobota",
+      "effective": "19.07.1996"
+    },
+    {
+      "name": "Martin",
+      "district": "Martin",
+      "legal_status": "platná",
+      "declared": "20.10.1994",
+      "declared_by": "Okresný úrad Martin",
+      "effective": "14.12.1994"
+    },
+    {
+      "name": "Turnianska Nová Ves",
+      "district": "Košice okolie",
+      "legal_status": "platná",
+      "declared": "01.12.1994",
+      "declared_by": "Okresný úrad Košice-vid.",
+      "effective": "19.07.1996"
+    },
+    {
+      "name": "Medzev -býv.m.č.Nižný Medzev",
+      "district": "Košice okolie",
+      "legal_status": "platná",
+      "declared": "01.02.1995",
+      "declared_by": "Okresný úrad Košice-vid.",
+      "effective": "19.07.1996"
+    },
+    {
+      "name": "Klokočov - Do Kršle",
+      "district": "Čadca",
+      "legal_status": "platná",
+      "declared": "10.04.1995",
+      "declared_by": "Okresný úrad Čadca",
+      "effective": "19.07.1996"
+    },
+    {
+      "name": "Lučenec",
+      "district": "Lučenec",
+      "legal_status": "platná",
+      "declared": "29.06.1995",
+      "declared_by": "Okresný úrad Lučenec",
+      "effective": "19.07.1996"
+    },
+    {
+      "name": "Oravský Podzámok",
+      "district": "Dolný Kubín",
+      "legal_status": "platná",
+      "declared": "03.07.1995",
+      "declared_by": "Okresný úrad D.Kubín",
+      "effective": "19.07.1996"
+    },
+    {
+      "name": "Kláštor pod Znievom",
+      "district": "Martin",
+      "legal_status": "platná",
+      "declared": "06.02.1996",
+      "declared_by": "Okresný úrad Martin",
+      "effective": "10.06.1996"
+    },
+    {
+      "name": "Horné Plachtince",
+      "district": "Veľký Krtíš",
+      "legal_status": "platná",
+      "declared": "15.10.1996",
+      "declared_by": "Krajský úrad B.Bystrica",
+      "effective": "23.01.1997"
+    },
+    {
+      "name": "Polichno",
+      "district": "Lučenec",
+      "legal_status": "platná",
+      "declared": "15.10.1996",
+      "declared_by": "Krajský úrad B.Bystrica",
+      "effective": "23.01.1997"
+    },
+    {
+      "name": "Lipovce - Lačnov",
+      "district": "Prešov",
+      "legal_status": "platná",
+      "declared": "12.11.1996",
+      "declared_by": "Krajský úrad Prešov",
+      "effective": "06.03.1998"
+    },
+    {
+      "name": "Smolník",
+      "district": "Gelnica",
+      "legal_status": "platná",
+      "declared": "31.01.1997",
+      "declared_by": "Krajský úrad Košice 1/1997",
+      "effective": "05.09.1997"
+    },
+    {
+      "name": "Piešťany",
+      "district": "Piešťany",
+      "legal_status": "platná",
+      "declared": "03.04.1997",
+      "declared_by": "Krajský úrad Trnava",
+      "effective": "05.09.1997"
+    },
+    {
+      "name": "Čelovce",
+      "district": "Veľký Krtíš",
+      "legal_status": "platná",
+      "declared": "23.06.1997",
+      "declared_by": "Krajský úrad B.Bystrica",
+      "effective": "24.10.1997"
+    },
+    {
+      "name": "Bátovce",
+      "district": "Levice",
+      "legal_status": "platná",
+      "declared": "10.10.1997",
+      "declared_by": "Krajský úrad Nitra",
+      "effective": "06.03.1998"
+    },
+    {
+      "name": "Hodruša-Hámre",
+      "district": "Žarnovica",
+      "legal_status": "platná",
+      "declared": "25.11.1998",
+      "declared_by": "Krajský úrad B.Bystrica",
+      "effective": "19.02.1999"
+    },
+    {
+      "name": "Kremnica -banské diela",
+      "district": "Žiar n.Hronom",
+      "legal_status": "platná",
+      "declared": "26.03.1999",
+      "declared_by": "Krajský úrad B.Bystrica",
+      "effective": "19.05.1999"
+    },
+    {
+      "name": "Sobotište",
+      "district": "Senica",
+      "legal_status": "platná",
+      "declared": "02.06.1999",
+      "declared_by": "Krajský úrad Trnava",
+      "effective": "24.09.1999"
+    },
+    {
+      "name": "Topoľčany - Stummerova ul.",
+      "district": "Topoľčany",
+      "legal_status": "platná",
+      "declared": "24.03.2000",
+      "declared_by": "Krajský úrad Nitra",
+      "effective": "01.05.2000"
+    },
+    {
+      "name": "Babiná",
+      "district": "Zvolen",
+      "legal_status": "platná",
+      "declared": "25.09.2000",
+      "declared_by": "Krajský úrad B.Bystrica",
+      "effective": "29.11.2000"
+    },
+    {
+      "name": "Ľubica",
+      "district": "Kežmarok",
+      "legal_status": "platná",
+      "declared": "20.09.2001",
+      "declared_by": "Krajský úrad Prešov",
+      "effective": "30.01.2002"
+    },
+    {
+      "name": "Spišská Belá",
+      "district": "Kežmarok",
+      "legal_status": "platná",
+      "declared": "17.06.2005",
+      "declared_by": "MK SR",
+      "effective": "29.07.2005"
+    },
+    {
+      "name": "Bratislava - Rača - depo, Areál rušňového depa Bratislava-východ",
+      "district": "Bratislava 3",
+      "legal_status": "platná",
+      "declared": "10.03.2008",
+      "declared_by": "MK SR",
+      "effective": "23.06.2008"
+    },
+    {
+      "name": "Kopčany",
+      "district": "Skalica",
+      "legal_status": "platná",
+      "declared": "30.04.2008",
+      "declared_by": "MK SR",
+      "effective": "08.06.2008"
+    },
+    {
+      "name": "Veľká Tŕňa",
+      "district": "Trebišov",
+      "legal_status": "platná",
+      "declared": "10.11.2008",
+      "declared_by": "MK SR",
+      "effective": "04.12.2008"
+    },
+    {
+      "name": "Prešov - Solivar, Soľná baňa",
+      "district": "Prešov",
+      "legal_status": "platná",
+      "declared": "28.04.2008",
+      "declared_by": "MK SR",
+      "effective": "19.06.2008"
+    },
+    {
+      "name": "Liptovský Mikuláš - Okoličné",
+      "district": "Liptovský Mikuláš",
+      "legal_status": "platná",
+      "declared": "10.06.2009",
+      "declared_by": "MK SR",
+      "effective": "03.07.2009"
+    },
+    {
+      "name": "Vrbov",
+      "district": "Kežmarok",
+      "legal_status": "platná, nové vyhlásenie 2010",
+      "declared": "02.12.2010",
+      "declared_by": "MK SR",
+      "effective": "15.02.2010"
+    },
+    {
+      "name": "Martin -Malá hora a Hostihora",
+      "district": "Martin",
+      "legal_status": "platná, nové vyhlásenie 2018",
+      "declared": "29.06.2018",
+      "declared_by": "MK SR",
+      "effective": "29.06.2018"
+    },
+    {
+      "name": "Pezinok",
+      "district": "Pezinok",
+      "legal_status": "platná, nové vyhlásenie 2018",
+      "declared": "30.05.2018",
+      "declared_by": "MK SR",
+      "effective": "30.05.2018"
+    },
+    {
+      "name": "Jezersko",
+      "district": "Kežmarok",
+      "legal_status": "neplatná",
+      "declared": "25.11.1992",
+      "declared_by": "Okresný úrad Poprad",
+      "effective": ""
+    },
+    {
+      "name": "Handlová (Ul. 29. augusta)",
+      "district": "Prievidza",
+      "legal_status": "neplatná, nové vyhl.(inf.02/2007)",
+      "declared": "01.10.1996",
+      "declared_by": "Krajský úrad Trenčín",
+      "effective": "neúčinná"
+    },
+    {
+      "name": "Bratislava - Devínska Nová Ves",
+      "district": "Bratislava 4",
+      "legal_status": "platná",
+      "declared": "28.02.1989",
+      "declared_by": "Plénum NVB",
+      "effective": "01.04.1990"
+    },
+    {
+      "name": "Lazany",
+      "district": "Prievidza",
+      "legal_status": "platná",
+      "declared": "19.09.1991",
+      "declared_by": "Okresný úrad Prievidza",
+      "effective": "30.09.1991"
+    },
+    {
+      "name": "Pavlovce",
+      "district": "Rimavská Sobota",
+      "legal_status": "platná",
+      "declared": "15.10.1996",
+      "declared_by": "Krajský úrad B.Bystrica",
+      "effective": "23.01.1997"
+    },
+    {
+      "name": "Povina - Tatári",
+      "district": "Kysucké Nové Mesto",
+      "legal_status": "platná",
+      "declared": "18.09.1991",
+      "declared_by": "Okresný úrad Čadca",
+      "effective": "03.10.1991"
+    },
+    {
+      "name": "Heľpa",
+      "district": "Brezno",
+      "legal_status": "platná",
+      "declared": "01.06.1992",
+      "declared_by": "Okresný úrad B.Bystrica",
+      "effective": "08.06.1992"
+    },
+    {
+      "name": "Nová Baňa",
+      "district": "Žarnovica",
+      "legal_status": "platná",
+      "declared": "03.05.1991",
+      "declared_by": "Okresný úrad Žiar n/Hron.",
+      "effective": "06.05.1991"
+    },
+    {
+      "name": "Bratislava - Dúbravka",
+      "district": "Bratislava 4",
+      "legal_status": "platná",
+      "declared": "18.08.1992",
+      "declared_by": "Okresný úrad Bratislava",
+      "effective": "01.12.1992"
+    },
+    {
+      "name": "Bratislava - Rača",
+      "district": "Bratislava 3",
+      "legal_status": "platná",
+      "declared": "16.11.1990",
+      "declared_by": "Plénum NVB",
+      "effective": "01.12.1990"
+    },
+    {
+      "name": "Michalovce",
+      "district": "Michalovce",
+      "legal_status": "platná",
+      "declared": "26.04.1993",
+      "declared_by": "Okresný úrad Michalovce",
+      "effective": "16.06.1994"
+    },
+    {
+      "name": "Šimonovce",
+      "district": "Rimavská Sobota",
+      "legal_status": "platná",
+      "declared": "15.10.1996",
+      "declared_by": "Krajský úrad B.Bystrica",
+      "effective": "23.01.1997"
+    },
+    {
+      "name": "Bratislava - Lamač",
+      "district": "Bratislava 4",
+      "legal_status": "platná",
+      "declared": "18.08.1992",
+      "declared_by": "Okresný úrad Bratislava",
+      "effective": "01.12.1992"
+    },
+    {
+      "name": "Bratislava - Záhorská Bystrica",
+      "district": "Bratislava 4",
+      "legal_status": "platná",
+      "declared": "16.11.1990",
+      "declared_by": "Plénum NVB",
+      "effective": "01.12.1990"
+    },
+    {
+      "name": "Liptovský Mikuláš - Liptovská Ondrašová",
+      "district": "Liptovský Mikuláš",
+      "legal_status": "platná",
+      "declared": "07.07.2009",
+      "declared_by": "MK SR",
+      "effective": "17.08.2009"
+    },
+    {
+      "name": "Liptovský Mikuláš - Palúdzka",
+      "district": "Liptovský Mikuláš",
+      "legal_status": "platná",
+      "declared": "07.07.2009",
+      "declared_by": "MK SR",
+      "effective": "17.08.2009"
+    },
+    {
+      "name": "Bojnice",
+      "district": "Prievidza",
+      "legal_status": "platná",
+      "declared": "19.06.1991",
+      "declared_by": "Okresný úrad Prievidza",
+      "effective": "01.07.1991"
+    }
+  ],
+  "meta": {
+    "title": "Pamiatkové zóny na Slovensku - Free Download",
+    "description": "Pamiatkové zóny na Slovensku s okresom, dátumom vyhlásenia, vyhlasujúcim orgánom a právnym stavom. Contains 102 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Pamiatkové zóny na Slovensku | ListBase",
+    "seo_description": "Download Pamiatkové zóny na Slovensku — 102 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 102 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_pamiatkových_zón_na_Slovensku"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-17T02:13:31.818Z",
-  "total_datasets": 502,
-  "total_records": 286124,
+  "generated": "2026-11-17T02:13:39.512Z",
+  "total_datasets": 503,
+  "total_records": 286226,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -4829,6 +4829,33 @@
         "xlsx": {
           "name": "sk-narodne-kulturne-pamiatky-pred-2002_SK.xlsx",
           "size": 10878
+        }
+      }
+    },
+    {
+      "id": "sk-pamiatkove-zony",
+      "name": "Pamiatkové zóny na Slovensku",
+      "category": "history",
+      "record_count": 102,
+      "columns": [
+        "name",
+        "district",
+        "legal_status",
+        "declared",
+        "declared_by",
+        "effective"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_pamiatkových_zón_na_Slovensku",
+      "updated": "2026-11",
+      "size": 24486,
+      "files": {
+        "csv": {
+          "name": "sk-pamiatkove-zony_SK.csv",
+          "size": 9552
+        },
+        "xlsx": {
+          "name": "sk-pamiatkove-zony_SK.xlsx",
+          "size": 11462
         }
       }
     },
