@@ -1,0 +1,277 @@
+{
+  "id": "sk-nemocnice-bratislava-kosice-lozka",
+  "name": "Nemocnice v Bratislave a Košiciach podľa počtu lôžok",
+  "title": "Nemocnice v Bratislave a Košiciach podľa počtu lôžok",
+  "description": "Nemocnice a špecializované ústavy v Bratislave a Košiciach s typom zariadenia, počtom lôžok, adresou a mestskou časťou.",
+  "category": "health",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_nemocníc_v_Bratislave",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_nemocníc_v_Bratislave",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "beds",
+      "label": "Beds",
+      "type": "number"
+    },
+    {
+      "key": "street",
+      "label": "Street",
+      "type": "string"
+    },
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "city_district",
+      "label": "City District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Univerzitná nemocnica Bratislava",
+      "city": "Bratislava",
+      "type": "Fakultné a univerzitné nemocnice",
+      "beds": 2577,
+      "street": "Pažítková 4",
+      "postal_code": "82101",
+      "city_district": "Ružinov"
+    },
+    {
+      "name": "Národný ústav detských chorôb",
+      "city": "Bratislava",
+      "type": "Detské fakultné nemocnice",
+      "beds": 397,
+      "street": "Limbová 1",
+      "postal_code": "83340",
+      "city_district": "Nové Mesto"
+    },
+    {
+      "name": "Národný ústav srdcových a cievnych chorôb",
+      "city": "Bratislava",
+      "type": "Srdcové a cievne ústavy",
+      "beds": 282,
+      "street": "Limbová 1",
+      "postal_code": "83348",
+      "city_district": "Nové Mesto"
+    },
+    {
+      "name": "Národný onkologický ústav",
+      "city": "Bratislava",
+      "type": "Onkologické ústavy",
+      "beds": 248,
+      "street": "Klenová 1",
+      "postal_code": "83155",
+      "city_district": "Nové Mesto"
+    },
+    {
+      "name": "Onkologický ústav sv. Alžbety",
+      "city": "Bratislava",
+      "type": "Onkologické ústavy",
+      "beds": 198,
+      "street": "Heydukova 10",
+      "postal_code": "81108",
+      "city_district": "Staré Mesto"
+    },
+    {
+      "name": "Nemocnica sv. Michala",
+      "city": "Bratislava",
+      "type": "Všeobecné nemocnice",
+      "beds": 100,
+      "street": "Satinského 1",
+      "postal_code": "81108",
+      "city_district": "Staré Mesto"
+    },
+    {
+      "name": "Nemocnica s poliklinikou Medissimo",
+      "city": "Bratislava",
+      "type": "Všeobecné nemocnice",
+      "beds": 14,
+      "street": "Tematínska 5/A",
+      "postal_code": "85105",
+      "city_district": "Petržalka"
+    },
+    {
+      "name": "Univerzitná nemocnica s poliklinikou Milosrdní bratia",
+      "city": "Bratislava",
+      "type": "Všeobecné nemocnice",
+      "beds": 121,
+      "street": "Námestie SNP 10",
+      "postal_code": "81465",
+      "city_district": "Staré Mesto"
+    },
+    {
+      "name": "Železničná nemocnica",
+      "city": "Bratislava",
+      "type": "Všeobecné nemocnice",
+      "beds": 36,
+      "street": "Šancová 110",
+      "postal_code": "83104",
+      "city_district": "Staré Mesto"
+    },
+    {
+      "name": "Centrum pre liečbu drogových závislostí",
+      "city": "Bratislava",
+      "type": "Centrá pre liečbu drogových závislostí",
+      "beds": 26,
+      "street": "Hraničná 2",
+      "postal_code": "82105",
+      "city_district": "Ružinov"
+    },
+    {
+      "name": "Sanatórium AT",
+      "city": "Bratislava",
+      "type": "Centrá pre liečbu drogových závislostí",
+      "beds": 15,
+      "street": "Osuského 10",
+      "postal_code": "85103",
+      "city_district": "Petržalka"
+    },
+    {
+      "name": "Gynekologicko-pôrodnická nemocnica KOCH",
+      "city": "Bratislava",
+      "type": "Ostatné špecializované nemocnice",
+      "beds": 42,
+      "street": "Partizánska 27",
+      "postal_code": "81103",
+      "city_district": "Staré Mesto"
+    },
+    {
+      "name": "Špecializovaná nemocnica pre ortopedickú protetiku",
+      "city": "Bratislava",
+      "type": "Ostatné špecializované nemocnice",
+      "beds": 30,
+      "street": "Záhradnícka 42",
+      "postal_code": "82108",
+      "city_district": "Staré Mesto"
+    },
+    {
+      "name": "Clinica orthopedica",
+      "city": "Bratislava",
+      "type": "Ostatné špecializované nemocnice",
+      "beds": 11,
+      "street": "Pri starej prachárni 14",
+      "postal_code": "83104",
+      "city_district": "Nové Mesto"
+    },
+    {
+      "name": "Univerzitná nemocnica Louisa Pasteura Košice",
+      "city": "Košice",
+      "type": "Fakultné a univerzitné nemocnice",
+      "beds": 2850,
+      "street": "Trieda SNP 1, Rastislavova 43",
+      "postal_code": "04166, 04190",
+      "city_district": "Západ, Juh"
+    },
+    {
+      "name": "Detská fakultná nemocnica Košice",
+      "city": "Košice",
+      "type": "Detské fakultné nemocnice",
+      "beds": 246,
+      "street": "Trieda SNP 1",
+      "postal_code": "04011",
+      "city_district": "Západ"
+    },
+    {
+      "name": "Východoslovenský ústav srdcových a cievnych chorôb",
+      "city": "Košice",
+      "type": "Srdcové a cievne ústavy",
+      "beds": 170,
+      "street": "Ondavská 8",
+      "postal_code": "04011",
+      "city_district": "Západ"
+    },
+    {
+      "name": "Východoslovenský onkologický ústav, a.s. Košice",
+      "city": "Košice",
+      "type": "Onkologické ústavy",
+      "beds": 158,
+      "street": "Rastislavova 43",
+      "postal_code": "04001",
+      "city_district": "Juh"
+    },
+    {
+      "name": "Nemocnica Košice-Šaca",
+      "city": "Košice",
+      "type": "Všeobecné nemocnice",
+      "beds": 380,
+      "street": "Lúčna 57",
+      "postal_code": "04015",
+      "city_district": "Šaca"
+    },
+    {
+      "name": "Železničná nemocnica s poliklinikou Košice",
+      "city": "Košice",
+      "type": "Všeobecné nemocnice",
+      "beds": 92,
+      "street": "Masarykova 9",
+      "postal_code": "04001",
+      "city_district": "Staré Mesto"
+    },
+    {
+      "name": "Nemocnica sv. Michala – pracovisko Košice (bývalá Letecká vojenská nemocnica)",
+      "city": "Košice",
+      "type": "Všeobecné nemocnice",
+      "beds": 170,
+      "street": "Murgašova 1",
+      "postal_code": "04086",
+      "city_district": "Staré Mesto"
+    },
+    {
+      "name": "Centrum pre liečbu drogových závislostí Košice",
+      "city": "Košice",
+      "type": "Centrá pre liečbu drogových závislostí",
+      "beds": 34,
+      "street": "Skladná 2",
+      "postal_code": "04001",
+      "city_district": "Juh"
+    },
+    {
+      "name": "Inštitút nukleárnej a molekulárnej medicíny Košice",
+      "city": "Košice",
+      "type": "Ostatné špecializované nemocnice",
+      "beds": 7,
+      "street": "Rastislavova 43",
+      "postal_code": "04001",
+      "city_district": "Juh"
+    },
+    {
+      "name": "Vysokošpecializovaný odborný ústav geriatrický sv. Lukáša v Košiciach n.o.",
+      "city": "Košice",
+      "type": "Ostatné špecializované nemocnice",
+      "beds": 127,
+      "street": "Strojárenská 13",
+      "postal_code": "04001",
+      "city_district": "Staré Mesto"
+    }
+  ],
+  "meta": {
+    "title": "Nemocnice v Bratislave a Košiciach podľa počtu lôžok - Free Download",
+    "description": "Nemocnice a špecializované ústavy v Bratislave a Košiciach s typom zariadenia, počtom lôžok, adresou a mestskou časťou. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Nemocnice v Bratislave a Košiciach podľa počtu lôžok | ListBase",
+    "seo_description": "Download Nemocnice v Bratislave a Košiciach podľa počtu lôžok — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_nemocníc_v_Bratislave"
+    ]
+  }
+}

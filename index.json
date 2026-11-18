@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-17T02:13:48.557Z",
-  "total_datasets": 504,
-  "total_records": 286253,
+  "generated": "2026-11-18T02:15:07.697Z",
+  "total_datasets": 505,
+  "total_records": 286277,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "history",
@@ -4755,6 +4755,34 @@
         "xlsx": {
           "name": "sk-nemocnice_SK.xlsx",
           "size": 11443
+        }
+      }
+    },
+    {
+      "id": "sk-nemocnice-bratislava-kosice-lozka",
+      "name": "Nemocnice v Bratislave a Košiciach podľa počtu lôžok",
+      "category": "health",
+      "record_count": 24,
+      "columns": [
+        "name",
+        "city",
+        "type",
+        "beds",
+        "street",
+        "postal_code",
+        "city_district"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_nemocníc_v_Bratislave",
+      "updated": "2026-11",
+      "size": 8319,
+      "files": {
+        "csv": {
+          "name": "sk-nemocnice-bratislava-kosice-lozka_SK.csv",
+          "size": 3223
+        },
+        "xlsx": {
+          "name": "sk-nemocnice-bratislava-kosice-lozka_SK.xlsx",
+          "size": 8453
         }
       }
     },
