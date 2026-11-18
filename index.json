@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-18T02:15:50.538Z",
-  "total_datasets": 507,
-  "total_records": 287100,
+  "generated": "2026-11-18T02:15:58.990Z",
+  "total_datasets": 508,
+  "total_records": 287139,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "transport",
@@ -14237,6 +14237,30 @@
         "xlsx": {
           "name": "sk-pamiatkove-rezervacie_SK.xlsx",
           "size": 7577
+        }
+      }
+    },
+    {
+      "id": "sk-parky-a-zahrady-bratislava",
+      "name": "Parky a záhrady v Bratislave",
+      "category": "tourism",
+      "record_count": 39,
+      "columns": [
+        "name",
+        "location",
+        "notes"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_parkov_a_záhrad_v_Bratislave",
+      "updated": "2026-11",
+      "size": 7456,
+      "files": {
+        "csv": {
+          "name": "sk-parky-a-zahrady-bratislava_SK.csv",
+          "size": 3624
+        },
+        "xlsx": {
+          "name": "sk-parky-a-zahrady-bratislava_SK.xlsx",
+          "size": 8926
         }
       }
     },

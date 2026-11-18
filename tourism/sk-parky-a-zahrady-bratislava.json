@@ -1,0 +1,236 @@
+{
+  "id": "sk-parky-a-zahrady-bratislava",
+  "name": "Parky a záhrady v Bratislave",
+  "title": "Parky a záhrady v Bratislave",
+  "description": "Zoznam verejných parkov, historických záhrad a lesoparkov v Bratislave s polohou a poznámkami.",
+  "category": "tourism",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_parkov_a_záhrad_v_Bratislave",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_parkov_a_záhrad_v_Bratislave",
+  "updated": "2026-11",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Lisztova záhrada",
+      "location": "Staré Mesto za domami na Kapitulskej, Ventúrskej, Prepoštskej a Farskej ulici pri Univerzitnej knižnici",
+      "notes": "Pokračovanie stredovekej záhrady s neskorobarokovým pavilónom postaveným v druhej polovici 18. storočia. Dnes je záhrada pomenovaná do Franzovi Lisztovi, napriek tomu, že ju umelec nikdy nenavštívil. Nie je prístupná verejnosti, prístup do záhrady je obmedzený pre hostí rôznych kultúrnych udalostí tu organizovaných."
+    },
+    {
+      "name": "Letná čitáreň U červeného raka",
+      "location": "Staré Mesto",
+      "notes": ""
+    },
+    {
+      "name": "Baroková záhrada na Bratislavskom hrade",
+      "location": "Staré Mesto",
+      "notes": ""
+    },
+    {
+      "name": "Parčík pri Avione",
+      "location": "Staré Mesto",
+      "notes": ""
+    },
+    {
+      "name": "Parčík na Belopotockého",
+      "location": "Staré Mesto",
+      "notes": ""
+    },
+    {
+      "name": "Parčík Svoradova",
+      "location": "Staré Mesto",
+      "notes": ""
+    },
+    {
+      "name": "Park Gábora Barossa",
+      "location": "Staré Mesto",
+      "notes": "Do 1. júna 2021 známy pod pracovným názvom Landererov park."
+    },
+    {
+      "name": "Kochova záhrada",
+      "location": "Staré Mesto",
+      "notes": ""
+    },
+    {
+      "name": "Prüger-Wallnerova záhrada",
+      "location": "Staré Mesto",
+      "notes": ""
+    },
+    {
+      "name": "Františkánska záhrada",
+      "location": "Staré Mesto",
+      "notes": ""
+    },
+    {
+      "name": "Slubekova záhrada",
+      "location": "Staré Mesto",
+      "notes": ""
+    },
+    {
+      "name": "Vešeléniho záhrada",
+      "location": "Staré Mesto",
+      "notes": ""
+    },
+    {
+      "name": "Lipaiovská záhrada",
+      "location": "Staré Mesto okolo Letného arcibiskupského paláca.",
+      "notes": "Záhrada je pozostatok známej Lipayovskej záhrady a nie je prístupná verejnosti."
+    },
+    {
+      "name": "Prezidentská záhrada",
+      "location": "Staré Mesto za Grasalkovičovým palácom medzi Štefánikovou a Banskobystrickou ulicou.",
+      "notes": "Záhrada je chránená bezpečnostnou službou a otvorená len počas otváracích hodín."
+    },
+    {
+      "name": "Záhrada Klarisiek",
+      "location": "Staré Mesto za stenami kláštora Klarisiek na Klariskej ulici.",
+      "notes": "N/A"
+    },
+    {
+      "name": "Medická záhrada",
+      "location": "Staré Mesto pri Ondrejskom cintoríne",
+      "notes": "Otvorená len počas otváracích hodín."
+    },
+    {
+      "name": "Horský park",
+      "location": "Staré Mesto na úpätí pri Bratislavskom Hrade a pri Slavíne",
+      "notes": "Park zaberá plochu 22 hektárov a bol založený v roku 1868 primátorom Bratislavy Henrichom Justim v oblasti \"Študentský les\". Nachádzajú sa tu chodníky, lavičky, vtáčie búdky a plakety s básňami od miestnych básnikov."
+    },
+    {
+      "name": "Vodárenská záhrada",
+      "location": "Karlova Ves, Devínska cesta, pri Bratislavskom vodárenskom múzeu v Karloveskej zátoke.",
+      "notes": "Záhrada zaberá plochu 3 hektáre a zahŕňa budovu vodárenského múzea z roku 1886 a skleník z roku 1924 a historický plavecký bazén riaditeľa vodárenskej spoločnosti. Záhrada nie je prístupná verejnosti."
+    },
+    {
+      "name": "Park Kútiky",
+      "location": "Karlova Ves, Kútiky",
+      "notes": "N/A"
+    },
+    {
+      "name": "Park SNP",
+      "location": "Karlova Ves, Líščie údolie",
+      "notes": "N/A"
+    },
+    {
+      "name": "Kukorelliho park",
+      "location": "Ružinov",
+      "notes": ""
+    },
+    {
+      "name": "Park Andreja Hlinku",
+      "location": "Ružinov, Ružinovská ulica",
+      "notes": "N/A"
+    },
+    {
+      "name": "Biopark Ostredky",
+      "location": "Ružinov, Ostredky",
+      "notes": "N/A"
+    },
+    {
+      "name": "Park Rumančekova",
+      "location": "Ružinov, Trávniky",
+      "notes": "N/A"
+    },
+    {
+      "name": "Park na Pekníkovej",
+      "location": "Dúbravka, Pekníkova ulica",
+      "notes": "N/A"
+    },
+    {
+      "name": "Park Družby",
+      "location": "Dúbravka, pred školou na Beňovského ulici",
+      "notes": "N/A"
+    },
+    {
+      "name": "Lesopark Vrakuňa",
+      "location": "Vrakuňa",
+      "notes": "N/A"
+    },
+    {
+      "name": "Rusovský park",
+      "location": "Rusovce",
+      "notes": "Založený v druhej polovici 18. storočia."
+    },
+    {
+      "name": "Rímsky parčík",
+      "location": "Rusovce",
+      "notes": "Malý park s pitnou fontánkou vybudovaný v rokoch 2006-2007."
+    },
+    {
+      "name": "Skatepark na Markovej",
+      "location": "Petržalka, Markova ulica",
+      "notes": "N/A"
+    },
+    {
+      "name": "Pečniansky les",
+      "location": "Petržalka",
+      "notes": "N/A"
+    },
+    {
+      "name": "Lesík na Krasovského",
+      "location": "Petržalka",
+      "notes": ""
+    },
+    {
+      "name": "Soví les",
+      "location": "Petržalka",
+      "notes": ""
+    },
+    {
+      "name": "Sad Janka Kráľa",
+      "location": "Petržalka, pri Dunaji, pri obchodnom centre Aupark.",
+      "notes": "Najstarší verejný park v strednej Európe, založený v rokoch 1774-1776."
+    },
+    {
+      "name": "Dunajské luhy",
+      "location": "Petržalka, Jarovce, Rusovce, Čunovo",
+      "notes": ""
+    },
+    {
+      "name": "Park Mierová kolónia",
+      "location": "Nové Mesto",
+      "notes": ""
+    },
+    {
+      "name": "Park Nová doba",
+      "location": "Nové Mesto",
+      "notes": ""
+    },
+    {
+      "name": "Park Račianske mýto",
+      "location": "Nové Mesto, Račianske mýto, Šancová ulica",
+      "notes": "N/A"
+    },
+    {
+      "name": "Bratislavský lesný park",
+      "location": "Nové Mesto, Rača a Záhorská Bystrica pri Patrónke na úpätí Malých Karpát.",
+      "notes": "Park sa rozprestiera na ploche 27,3 km², z čoho 96% je zalesnených."
+    }
+  ],
+  "meta": {
+    "title": "Parky a záhrady v Bratislave - Free Download",
+    "description": "Zoznam verejných parkov, historických záhrad a lesoparkov v Bratislave s polohou a poznámkami. Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Parky a záhrady v Bratislave | ListBase",
+    "seo_description": "Download Parky a záhrady v Bratislave — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_parkov_a_záhrad_v_Bratislave"
+    ]
+  }
+}
