@@ -1,0 +1,2584 @@
+{
+  "id": "sk-narodni-umelci-ceskoslovenska",
+  "name": "Národní umelci Československa",
+  "title": "Národní umelci Československa",
+  "description": "Zoznam osobností ocenených čestným titulom národný umelec v Československu (1945 – 1991) s činnosťou, rokom menovania a národnosťou.",
+  "category": "culture",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_československých_národných_umelcov",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_československých_národných_umelcov",
+  "updated": "2026-11",
+  "record_count": 316,
+  "columns": [
+    {
+      "key": "order",
+      "label": "Order",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "field",
+      "label": "Field",
+      "type": "string"
+    },
+    {
+      "key": "year_appointed",
+      "label": "Year Appointed",
+      "type": "number"
+    },
+    {
+      "key": "nationality",
+      "label": "Nationality",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "order": 1,
+      "name": "Josef Hora",
+      "field": "spisovateľ",
+      "year_appointed": 1945,
+      "nationality": "česká",
+      "note": "in memoriam"
+    },
+    {
+      "order": 2,
+      "name": "Petr Bezruč",
+      "field": "básnik",
+      "year_appointed": 1945,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 3,
+      "name": "Ludvík Kuba",
+      "field": "maliar",
+      "year_appointed": 1945,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 4,
+      "name": "Václav Rabas",
+      "field": "maliar",
+      "year_appointed": 1945,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 5,
+      "name": "Václav Špála",
+      "field": "maliar",
+      "year_appointed": 1945,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 6,
+      "name": "Max Švabinský",
+      "field": "maliar",
+      "year_appointed": 1945,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 7,
+      "name": "Josef Bohuslav Foerster",
+      "field": "skladateľ",
+      "year_appointed": 1945,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 8,
+      "name": "Janko Jesenský",
+      "field": "básnik",
+      "year_appointed": 1945,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 9,
+      "name": "Stanislav Kostka Neumann",
+      "field": "básnik",
+      "year_appointed": 1945,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 10,
+      "name": "Vítězslav Novák",
+      "field": "skladateľ",
+      "year_appointed": 1945,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 11,
+      "name": "Dušan Jurkovič",
+      "field": "architekt",
+      "year_appointed": 1945,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 12,
+      "name": "Fráňa Šrámek",
+      "field": "básnik",
+      "year_appointed": 1946,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 13,
+      "name": "Karel Toman",
+      "field": "básnik",
+      "year_appointed": 1946,
+      "nationality": "česká",
+      "note": "in memoriam (?)"
+    },
+    {
+      "order": 14,
+      "name": "Jaroslav Kvapil",
+      "field": "básnik",
+      "year_appointed": 1946,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 15,
+      "name": "Antonín Procházka",
+      "field": "maliar",
+      "year_appointed": 1946,
+      "nationality": "česká",
+      "note": "in memoriam"
+    },
+    {
+      "order": 16,
+      "name": "Václav Vydra",
+      "field": "herec",
+      "year_appointed": 1946,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 17,
+      "name": "Ladislav Šaloun",
+      "field": "sochár",
+      "year_appointed": 1946,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 18,
+      "name": "Vladislav Vančura",
+      "field": "spisovateľ",
+      "year_appointed": 1946,
+      "nationality": "česká",
+      "note": "in memoriam"
+    },
+    {
+      "order": 19,
+      "name": "Jan Heřman",
+      "field": "klavirista",
+      "year_appointed": 1946,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 20,
+      "name": "Ferdiš Kostka",
+      "field": "ľudový keramik",
+      "year_appointed": 1946,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 21,
+      "name": "Ivan Krasko",
+      "field": "básnik",
+      "year_appointed": 1946,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 22,
+      "name": "Vilém Zítek",
+      "field": "operný spevák",
+      "year_appointed": 1946,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 23,
+      "name": "Ľudmila Podjavorinská",
+      "field": "spisovateľka",
+      "year_appointed": 1947,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 24,
+      "name": "Leopolda Dostalová",
+      "field": "herečka",
+      "year_appointed": 1947,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 25,
+      "name": "Marie Majerová",
+      "field": "spisovateľka",
+      "year_appointed": 1947,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 26,
+      "name": "Růžena Nasková",
+      "field": "herečka",
+      "year_appointed": 1947,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 27,
+      "name": "Božena Slančíková-Timrava",
+      "field": "spisovateľka",
+      "year_appointed": 1947,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 28,
+      "name": "Josef Lada",
+      "field": "maliar",
+      "year_appointed": 1947,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 29,
+      "name": "František Langer",
+      "field": "spisovateľ",
+      "year_appointed": 1947,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 30,
+      "name": "Ivan Olbracht",
+      "field": "spisovateľ",
+      "year_appointed": 1947,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 31,
+      "name": "Anna Maria Tilschová",
+      "field": "spisovateľka",
+      "year_appointed": 1947,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 32,
+      "name": "Ladislav Zelenka",
+      "field": "violončelista",
+      "year_appointed": 1947,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 33,
+      "name": "Josef Skupa",
+      "field": "bábkoherec",
+      "year_appointed": 1948,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 34,
+      "name": "Jiří Kroha",
+      "field": "architekt",
+      "year_appointed": 1948,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 35,
+      "name": "Peter Jilemnický",
+      "field": "spisovateľ",
+      "year_appointed": 1949,
+      "nationality": "slovenská",
+      "note": "in memoriam"
+    },
+    {
+      "order": 36,
+      "name": "Otakar Jeremiáš",
+      "field": "skladateľ",
+      "year_appointed": 1950,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 37,
+      "name": "Otýlie Beníšková",
+      "field": "herečka",
+      "year_appointed": 1952,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 38,
+      "name": "Fraňo Kráľ",
+      "field": "spisovateľ",
+      "year_appointed": 1953,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 39,
+      "name": "Vítězslav Nezval",
+      "field": "spisovateľ",
+      "year_appointed": 1953,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 40,
+      "name": "Marie Pujmanová",
+      "field": "spisovateľka",
+      "year_appointed": 1953,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 41,
+      "name": "Martin Benka",
+      "field": "maliar",
+      "year_appointed": 1953,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 42,
+      "name": "Jaroslav Průcha",
+      "field": "herec",
+      "year_appointed": 1953,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 43,
+      "name": "František Smolík",
+      "field": "herec",
+      "year_appointed": 1953,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 44,
+      "name": "Zdeněk Štěpánek",
+      "field": "herec",
+      "year_appointed": 1953,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 45,
+      "name": "Emil František Burian",
+      "field": "režisér a skladateľ",
+      "year_appointed": 1954,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 46,
+      "name": "Jan Škoda",
+      "field": "režisér",
+      "year_appointed": 1954,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 47,
+      "name": "Zdenka Baldová",
+      "field": "herečka",
+      "year_appointed": 1955,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 48,
+      "name": "Andrej Bagar",
+      "field": "herec",
+      "year_appointed": 1955,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 49,
+      "name": "Ján Borodáč",
+      "field": "herec",
+      "year_appointed": 1955,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 50,
+      "name": "Karel Pokorný",
+      "field": "sochár",
+      "year_appointed": 1956,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 51,
+      "name": "Mikuláš Schneider-Trnavský",
+      "field": "skladateľ",
+      "year_appointed": 1956,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 52,
+      "name": "Václav Talich",
+      "field": "dirigent",
+      "year_appointed": 1957,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 53,
+      "name": "Jindřich Jindřich",
+      "field": "skladateľ",
+      "year_appointed": 1957,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 54,
+      "name": "Eugen Suchoň",
+      "field": "skladateľ",
+      "year_appointed": 1958,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 55,
+      "name": "Zdeněk Chalabala",
+      "field": "dirigent",
+      "year_appointed": 1958,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 56,
+      "name": "Marta Krásová",
+      "field": "operná speváčka",
+      "year_appointed": 1958,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 57,
+      "name": "Jan Lauda",
+      "field": "sochár",
+      "year_appointed": 1958,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 58,
+      "name": "Vincenc Makovský",
+      "field": "sochár",
+      "year_appointed": 1958,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 59,
+      "name": "Zdeněk Otava",
+      "field": "operný spevák",
+      "year_appointed": 1958,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 60,
+      "name": "Ladislav Pešek",
+      "field": "herec",
+      "year_appointed": 1958,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 61,
+      "name": "Vlastimil Rada",
+      "field": "maliar",
+      "year_appointed": 1958,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 62,
+      "name": "Jaroslav Vojta",
+      "field": "herec",
+      "year_appointed": 1958,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 63,
+      "name": "Jarmila Glazarová",
+      "field": "spisovateľka",
+      "year_appointed": 1959,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 64,
+      "name": "Vojtěch Sedláček",
+      "field": "maliar",
+      "year_appointed": 1959,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 65,
+      "name": "Marie Podvalová",
+      "field": "operná speváčka",
+      "year_appointed": 1960,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 66,
+      "name": "Maria Tauberová",
+      "field": "operná speváčka",
+      "year_appointed": 1960,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 67,
+      "name": "Karel Nový",
+      "field": "spisovateľ",
+      "year_appointed": 1960,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 68,
+      "name": "Karel Svolinský",
+      "field": "maliar",
+      "year_appointed": 1961,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 69,
+      "name": "Oľga Borodáčová",
+      "field": "herečka",
+      "year_appointed": 1961,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 70,
+      "name": "Hana Meličková",
+      "field": "herečka",
+      "year_appointed": 1961,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 71,
+      "name": "Jarmila Urbánková",
+      "field": "herečka",
+      "year_appointed": 1962,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 72,
+      "name": "Vincenc Beneš",
+      "field": "maliar",
+      "year_appointed": 1963,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 73,
+      "name": "Jiří Trnka",
+      "field": "maliar",
+      "year_appointed": 1963,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 74,
+      "name": "Jan Werich",
+      "field": "herec a spisovateľ",
+      "year_appointed": 1963,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 75,
+      "name": "Antonín Pelc",
+      "field": "maliar",
+      "year_appointed": 1963,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 76,
+      "name": "Ľudovít Fulla",
+      "field": "maliar",
+      "year_appointed": 1963,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 77,
+      "name": "Václav Bednář",
+      "field": "operný spevák",
+      "year_appointed": 1963,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 78,
+      "name": "Beno Blachut",
+      "field": "operný spevák",
+      "year_appointed": 1963,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 79,
+      "name": "Jan Pivec",
+      "field": "herec",
+      "year_appointed": 1963,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 80,
+      "name": "Miloš Alexander Bazovský",
+      "field": "maliar",
+      "year_appointed": 1964,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 81,
+      "name": "Janko Alexy",
+      "field": "maliar",
+      "year_appointed": 1964,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 82,
+      "name": "Eduard Haken",
+      "field": "operný spevák",
+      "year_appointed": 1964,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 83,
+      "name": "Karel Höger",
+      "field": "herec",
+      "year_appointed": 1964,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 84,
+      "name": "Josef Štefan Kubín",
+      "field": "spisovateľ",
+      "year_appointed": 1964,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 85,
+      "name": "Ladislav Novomeský",
+      "field": "básnik",
+      "year_appointed": 1964,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 86,
+      "name": "Jaroslav Fragner",
+      "field": "architekt",
+      "year_appointed": 1965,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 87,
+      "name": "Martin Frič",
+      "field": "filmový režisér",
+      "year_appointed": 1965,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 88,
+      "name": "Jiřina Šejbalová",
+      "field": "herečka",
+      "year_appointed": 1965,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 89,
+      "name": "Emil Belluš",
+      "field": "architekt",
+      "year_appointed": 1965,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 90,
+      "name": "Stanislav Neumann",
+      "field": "herec",
+      "year_appointed": 1965,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 91,
+      "name": "Vladimír Šmeral",
+      "field": "herec",
+      "year_appointed": 1965,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 92,
+      "name": "Ján Cikker",
+      "field": "skladateľ",
+      "year_appointed": 1966,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 93,
+      "name": "Jan Zrzavý",
+      "field": "maliar",
+      "year_appointed": 1966,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 94,
+      "name": "František Hrubín",
+      "field": "básnik",
+      "year_appointed": 1966,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 95,
+      "name": "Jaroslav Seifert",
+      "field": "básnik",
+      "year_appointed": 1966,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 96,
+      "name": "Vilém Závada",
+      "field": "básnik",
+      "year_appointed": 1966,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 97,
+      "name": "Jozef Budský",
+      "field": "režisér (divadelný)",
+      "year_appointed": 1966,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 98,
+      "name": "Ján Blaho",
+      "field": "operný spevák",
+      "year_appointed": 1966,
+      "nationality": "slovenská",
+      "note": "NK ČR [ nefunkčný odkaz ]"
+    },
+    {
+      "order": 99,
+      "name": "Karel Ančerl",
+      "field": "dirigent",
+      "year_appointed": 1966,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 100,
+      "name": "Jaroslav Krombholc",
+      "field": "dirigent",
+      "year_appointed": 1966,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 101,
+      "name": "Bohuš Záhorský",
+      "field": "herec",
+      "year_appointed": 1966,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 102,
+      "name": "Jozef Kostka",
+      "field": "sochár",
+      "year_appointed": 1966,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 103,
+      "name": "Alexander Moyzes",
+      "field": "skladateľ",
+      "year_appointed": 1966,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 104,
+      "name": "Ján Smrek",
+      "field": "básnik",
+      "year_appointed": 1966,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 105,
+      "name": "Vilém Nowak",
+      "field": "maliar",
+      "year_appointed": 1967,
+      "nationality": "česká",
+      "note": "Willi Nowak"
+    },
+    {
+      "order": 106,
+      "name": "Ladislav Vycpálek",
+      "field": "skladateľ",
+      "year_appointed": 1967,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 107,
+      "name": "Adolf Hoffmeister",
+      "field": "maliar a spisovateľ",
+      "year_appointed": 1967,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 108,
+      "name": "Jan Slavíček",
+      "field": "maliar",
+      "year_appointed": 1967,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 109,
+      "name": "Josef Brož",
+      "field": "maliar",
+      "year_appointed": 1967,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 110,
+      "name": "Ivan Stodola",
+      "field": "spisovateľ",
+      "year_appointed": 1967,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 111,
+      "name": "Antonín Strnadel",
+      "field": "maliar",
+      "year_appointed": 1967,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 112,
+      "name": "Vladimír Holan",
+      "field": "básnik",
+      "year_appointed": 1968,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 113,
+      "name": "Mária Hubová",
+      "field": "operná speváčka",
+      "year_appointed": 1968,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 114,
+      "name": "Miroslav Kůra",
+      "field": "tanečník a choreograf",
+      "year_appointed": 1968,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 115,
+      "name": "Karol Plicka",
+      "field": "hudobník a režisér",
+      "year_appointed": 1968,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 116,
+      "name": "Olga Scheinpflugová",
+      "field": "herečka a spisovateľka",
+      "year_appointed": 1968,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 117,
+      "name": "Josef Svoboda",
+      "field": "javiskový výtvarník",
+      "year_appointed": 1968,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 118,
+      "name": "Eduard Kohout",
+      "field": "herec",
+      "year_appointed": 1968,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 119,
+      "name": "Alfréd Radok",
+      "field": "režisér",
+      "year_appointed": 1968,
+      "nationality": "česká",
+      "note": "titul bol po emigrácii odobratý"
+    },
+    {
+      "order": 120,
+      "name": "Olga Skálová",
+      "field": "tanečnica a choreografka",
+      "year_appointed": 1968,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 121,
+      "name": "František Tröster",
+      "field": "javiskový výtvarník",
+      "year_appointed": 1968,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 122,
+      "name": "Rudolf Deyl",
+      "field": "herec",
+      "year_appointed": 1968,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 123,
+      "name": "František Stupka",
+      "field": "huslista a dirigent",
+      "year_appointed": 1968,
+      "nationality": "česká",
+      "note": "in memoriam"
+    },
+    {
+      "order": 124,
+      "name": "Vincent Hložník",
+      "field": "maliar",
+      "year_appointed": 1968,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 125,
+      "name": "Ján Mudroch",
+      "field": "maliar",
+      "year_appointed": 1968,
+      "nationality": "slovenská",
+      "note": "in memoriam"
+    },
+    {
+      "order": 126,
+      "name": "Fraňo Štefunko",
+      "field": "sochár",
+      "year_appointed": 1968,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 127,
+      "name": "Jiří Steimar",
+      "field": "herec",
+      "year_appointed": 1968,
+      "nationality": "česká",
+      "note": "zomrel v deň udelenia"
+    },
+    {
+      "order": 128,
+      "name": "Paľo Bielik",
+      "field": "filmový režisér a herec",
+      "year_appointed": 1968,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 129,
+      "name": "Ján Kadár",
+      "field": "filmový režisér",
+      "year_appointed": 1968,
+      "nationality": "slovenská",
+      "note": "titul bol po emigrácii odobratý"
+    },
+    {
+      "order": 130,
+      "name": "Elmar Klos",
+      "field": "filmový režisér",
+      "year_appointed": 1968,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 131,
+      "name": "Otakar Vávra",
+      "field": "filmový režisér",
+      "year_appointed": 1968,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 132,
+      "name": "Bohuslav Fuchs",
+      "field": "architekt",
+      "year_appointed": 1968,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 133,
+      "name": "Karel Lidický",
+      "field": "sochár",
+      "year_appointed": 1968,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 134,
+      "name": "Margita Česányiová",
+      "field": "operná speváčka",
+      "year_appointed": 1968,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 135,
+      "name": "Ján Kostra",
+      "field": "básnik",
+      "year_appointed": 1969,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 136,
+      "name": "Alexander Matuška",
+      "field": "literárny kritik",
+      "year_appointed": 1969,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 137,
+      "name": "Ján Želibský",
+      "field": "maliar",
+      "year_appointed": 1969,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 138,
+      "name": "Helena Bartošová-Schützová",
+      "field": "operná speváčka",
+      "year_appointed": 1970,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 139,
+      "name": "Ján Jamnický",
+      "field": "herec",
+      "year_appointed": 1970,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 140,
+      "name": "Karel Zeman",
+      "field": "filmový režisér",
+      "year_appointed": 1970,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 141,
+      "name": "Jaroslav Grus",
+      "field": "maliar",
+      "year_appointed": 1970,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 142,
+      "name": "Adolf Zábranský",
+      "field": "maliar",
+      "year_appointed": 1970,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 143,
+      "name": "Jiří Dohnal",
+      "field": "herec",
+      "year_appointed": 1971,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 144,
+      "name": "Jarmila Kurandová",
+      "field": "herečka",
+      "year_appointed": 1971,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 145,
+      "name": "Jaroslav Marvan",
+      "field": "herec",
+      "year_appointed": 1971,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 146,
+      "name": "Dezider Milly",
+      "field": "maliar",
+      "year_appointed": 1971,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 147,
+      "name": "Andrej Plávka",
+      "field": "spisovateľ",
+      "year_appointed": 1971,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 148,
+      "name": "Ján Poničan",
+      "field": "spisovateľ",
+      "year_appointed": 1971,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 149,
+      "name": "Rudolf Pribiš",
+      "field": "sochár",
+      "year_appointed": 1971,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 150,
+      "name": "Hermína Týrlová",
+      "field": "režisérka animovaného filmu",
+      "year_appointed": 1971,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 151,
+      "name": "Richard Wiesner",
+      "field": "maliar",
+      "year_appointed": 1971,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 152,
+      "name": "Ladislav Černý",
+      "field": "violista",
+      "year_appointed": 1971,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 153,
+      "name": "Bohumír Dvorský",
+      "field": "maliar",
+      "year_appointed": 1971,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 154,
+      "name": "František Foltýn",
+      "field": "maliar",
+      "year_appointed": 1972,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 155,
+      "name": "Jozef Kollár",
+      "field": "maliar",
+      "year_appointed": 1972,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 156,
+      "name": "Vítězslav Vejražka",
+      "field": "herec",
+      "year_appointed": 1972,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 157,
+      "name": "Pavol Horov",
+      "field": "básnik",
+      "year_appointed": 1972,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 158,
+      "name": "Július Nemčík",
+      "field": "maliar",
+      "year_appointed": 1972,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 159,
+      "name": "Břetislav Benda",
+      "field": "sochár",
+      "year_appointed": 1973,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 160,
+      "name": "Josef Rybák",
+      "field": "spisovateľ",
+      "year_appointed": 1973,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 161,
+      "name": "Mikuláš Huba",
+      "field": "herec",
+      "year_appointed": 1973,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 162,
+      "name": "Viliam Záborský",
+      "field": "herec",
+      "year_appointed": 1973,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 163,
+      "name": "Karel Steklý",
+      "field": "filmový režisér",
+      "year_appointed": 1973,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 164,
+      "name": "Mária Medvecká",
+      "field": "maliarka",
+      "year_appointed": 1974,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 165,
+      "name": "Štefan Králik",
+      "field": "dramatik",
+      "year_appointed": 1974,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 166,
+      "name": "Margita Figuli-Šusterová",
+      "field": "spisovateľka",
+      "year_appointed": 1974,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 167,
+      "name": "Libuše Domanínská-Vyčichlová",
+      "field": "operná speváčka",
+      "year_appointed": 1974,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 168,
+      "name": "Miloš Václav Kratochvíl",
+      "field": "spisovateľ",
+      "year_appointed": 1974,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 169,
+      "name": "Josef Malejovský",
+      "field": "sochár",
+      "year_appointed": 1974,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 170,
+      "name": "Karel Souček",
+      "field": "maliar",
+      "year_appointed": 1974,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 171,
+      "name": "Josef Toman",
+      "field": "spisovateľ",
+      "year_appointed": 1974,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 172,
+      "name": "Marta Drottnerová",
+      "field": "baletka a choreografka",
+      "year_appointed": 1975,
+      "nationality": "česká",
+      "note": "najmladší z národných umelcov"
+    },
+    {
+      "order": 173,
+      "name": "Otto Eckert",
+      "field": "sochár",
+      "year_appointed": 1975,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 174,
+      "name": "František Lýsek",
+      "field": "zbormajster",
+      "year_appointed": 1975,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 175,
+      "name": "Bohumil Říha",
+      "field": "spisovateľ",
+      "year_appointed": 1975,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 176,
+      "name": "Karel Štěch",
+      "field": "maliar",
+      "year_appointed": 1975,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 177,
+      "name": "Milada Šubrtová",
+      "field": "operná speváčka",
+      "year_appointed": 1975,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 178,
+      "name": "Jiří Taufer",
+      "field": "básnik",
+      "year_appointed": 1975,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 179,
+      "name": "Ladislav Čemický",
+      "field": "maliar",
+      "year_appointed": 1975,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 180,
+      "name": "Dezider Kardoš",
+      "field": "skladateľ",
+      "year_appointed": 1975,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 181,
+      "name": "Vladimír Mináč",
+      "field": "spisovateľ",
+      "year_appointed": 1975,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 182,
+      "name": "Ladislav Vychodil",
+      "field": "scénograf",
+      "year_appointed": 1975,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 183,
+      "name": "Vladimír Bahna",
+      "field": "režisér a scenárista",
+      "year_appointed": 1976,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 184,
+      "name": "Elena Holéczyová",
+      "field": "spisovateľka a textilná výtvarníčka",
+      "year_appointed": 1976,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 185,
+      "name": "Cyril Bouda",
+      "field": "maliar",
+      "year_appointed": 1976,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 186,
+      "name": "Václav Dobiáš",
+      "field": "skladateľ",
+      "year_appointed": 1976,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 187,
+      "name": "František Jiroudek",
+      "field": "maliar",
+      "year_appointed": 1976,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 188,
+      "name": "Jan Seidel",
+      "field": "skladateľ",
+      "year_appointed": 1976,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 189,
+      "name": "Václav Smetáček",
+      "field": "hudobník",
+      "year_appointed": 1976,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 190,
+      "name": "Ivo Žídek",
+      "field": "operný spevák",
+      "year_appointed": 1976,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 191,
+      "name": "František Kovářík",
+      "field": "herec",
+      "year_appointed": 1976,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 192,
+      "name": "Jan Bauch",
+      "field": "maliar a sochár",
+      "year_appointed": 1977,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 193,
+      "name": "Orest Dubay",
+      "field": "maliar",
+      "year_appointed": 1977,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 194,
+      "name": "Václav Neumann",
+      "field": "dirigent",
+      "year_appointed": 1977,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 195,
+      "name": "Vilém Přibyl",
+      "field": "operný spevák",
+      "year_appointed": 1977,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 196,
+      "name": "Ladislav Slovák",
+      "field": "dirigent",
+      "year_appointed": 1977,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 197,
+      "name": "Josef Suk",
+      "field": "skladateľ",
+      "year_appointed": 1977,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 198,
+      "name": "Miroslav Válek",
+      "field": "básnik",
+      "year_appointed": 1977,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 199,
+      "name": "František Jílek",
+      "field": "dirigent",
+      "year_appointed": 1978,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 200,
+      "name": "Václav Kaplický",
+      "field": "spisovateľ",
+      "year_appointed": 1978,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 201,
+      "name": "Jozef Kroner",
+      "field": "herec",
+      "year_appointed": 1978,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 202,
+      "name": "Vladimír Menšík",
+      "field": "herec",
+      "year_appointed": 1978,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 203,
+      "name": "Vojtech Mihálik",
+      "field": "básnik",
+      "year_appointed": 1978,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 204,
+      "name": "Andrej Očenáš",
+      "field": "skladateľ",
+      "year_appointed": 1978,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 205,
+      "name": "Jiřina Petrovická",
+      "field": "herečka",
+      "year_appointed": 1978,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 206,
+      "name": "Martin Růžek",
+      "field": "herec",
+      "year_appointed": 1978,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 207,
+      "name": "Ludvika Smrčková",
+      "field": "sklárska výtvarníčka",
+      "year_appointed": 1978,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 208,
+      "name": "František Studený",
+      "field": "maliar",
+      "year_appointed": 1978,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 209,
+      "name": "Lev Šimák",
+      "field": "maliar",
+      "year_appointed": 1978,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 210,
+      "name": "Karol L. Zachar",
+      "field": "herec a divadelný režisér",
+      "year_appointed": 1978,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 211,
+      "name": "Ladislav Fialka",
+      "field": "herec",
+      "year_appointed": 1979,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 212,
+      "name": "Alois Fišárek",
+      "field": "maliar",
+      "year_appointed": 1979,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 213,
+      "name": "Přemysl Kočí",
+      "field": "operný spevák",
+      "year_appointed": 1979,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 214,
+      "name": "Vilma Vrbová-Kotrbová",
+      "field": "maliarka",
+      "year_appointed": 1979,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 215,
+      "name": "Oldřich Lipský",
+      "field": "filmový režisér",
+      "year_appointed": 1979,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 216,
+      "name": "Vladimír Neff",
+      "field": "spisovateľ",
+      "year_appointed": 1979,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 217,
+      "name": "Josef Páleníček",
+      "field": "klavirista a skladateľ",
+      "year_appointed": 1979,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 218,
+      "name": "Jiří Pauer",
+      "field": "skladateľ",
+      "year_appointed": 1979,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 219,
+      "name": "Jiří Sequens",
+      "field": "filmový režisér",
+      "year_appointed": 1979,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 220,
+      "name": "Ivan Skála",
+      "field": "spisovateľ",
+      "year_appointed": 1979,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 221,
+      "name": "Jozef Fabini",
+      "field": "maliar",
+      "year_appointed": 1979,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 222,
+      "name": "Ján Kulich",
+      "field": "sochár",
+      "year_appointed": 1979,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 223,
+      "name": "Karol Machata",
+      "field": "herec",
+      "year_appointed": 1979,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 224,
+      "name": "Július Pántik",
+      "field": "herec",
+      "year_appointed": 1979,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 225,
+      "name": "Mária Procházková-Kráľovičová",
+      "field": "herečka",
+      "year_appointed": 1979,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 226,
+      "name": "Jan Kozák",
+      "field": "spisovateľ",
+      "year_appointed": 1980,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 227,
+      "name": "Július Lörincz",
+      "field": "maliar",
+      "year_appointed": 1980,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 228,
+      "name": "Miroslava Pešíková",
+      "field": "tanečnica",
+      "year_appointed": 1980,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 229,
+      "name": "František Rauch",
+      "field": "pianista",
+      "year_appointed": 1980,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 230,
+      "name": "Jozef Šturdík",
+      "field": "maliar",
+      "year_appointed": 1980,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 231,
+      "name": "Drahomíra Tikalová",
+      "field": "operná speváčka",
+      "year_appointed": 1980,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 232,
+      "name": "Josef Veselka",
+      "field": "zbormajster",
+      "year_appointed": 1980,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 233,
+      "name": "Miloš Axman",
+      "field": "sochár",
+      "year_appointed": 1981,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 234,
+      "name": "Václav Hilský",
+      "field": "architekt",
+      "year_appointed": 1981,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 235,
+      "name": "Emil Hlobil",
+      "field": "skladateľ",
+      "year_appointed": 1981,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 236,
+      "name": "Miloš Kirschner",
+      "field": "bábkoherec",
+      "year_appointed": 1981,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 237,
+      "name": "Elena Kittnárová",
+      "field": "operná speváčka",
+      "year_appointed": 1981,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 238,
+      "name": "Miloš Nedbal",
+      "field": "herec",
+      "year_appointed": 1981,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 239,
+      "name": "Jiří Němeček",
+      "field": "choreograf a tanečník",
+      "year_appointed": 1981,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 240,
+      "name": "Arnošt Paderlík",
+      "field": "maliar",
+      "year_appointed": 1981,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 241,
+      "name": "Karel Vacek",
+      "field": "skladateľ",
+      "year_appointed": 1981,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 242,
+      "name": "Tibor Bártfay",
+      "field": "sochár",
+      "year_appointed": 1981,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 243,
+      "name": "Karel Berman",
+      "field": "operný spevák",
+      "year_appointed": 1982,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 244,
+      "name": "Ignác Bizmayer",
+      "field": "keramikár",
+      "year_appointed": 1982,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 245,
+      "name": "Miroslav Florian",
+      "field": "spisovateľ",
+      "year_appointed": 1982,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 246,
+      "name": "Ladislav Chudík",
+      "field": "herec",
+      "year_appointed": 1982,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 247,
+      "name": "Zdeněk Kovář",
+      "field": "sochár",
+      "year_appointed": 1982,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 248,
+      "name": "Zdeněk Pluhař",
+      "field": "spisovateľ",
+      "year_appointed": 1982,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 249,
+      "name": "Jan Simota",
+      "field": "sochár",
+      "year_appointed": 1982,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 250,
+      "name": "Karel Stehlík",
+      "field": "maliar",
+      "year_appointed": 1982,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 251,
+      "name": "Václav Trojan",
+      "field": "skladateľ",
+      "year_appointed": 1982,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 252,
+      "name": "Oto Ferenczy",
+      "field": "skladateľ",
+      "year_appointed": 1983,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 253,
+      "name": "Maša Haľamová",
+      "field": "poetka",
+      "year_appointed": 1983,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 254,
+      "name": "Naděžda Kniplová-Pokorná",
+      "field": "operná speváčka",
+      "year_appointed": 1983,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 255,
+      "name": "Alois Sopr",
+      "field": "sochár",
+      "year_appointed": 1983,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 256,
+      "name": "Josef Větrovec",
+      "field": "herec",
+      "year_appointed": 1983,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 257,
+      "name": "Bohdan Warchal",
+      "field": "dirigent",
+      "year_appointed": 1983,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 258,
+      "name": "Vilém Wünsche",
+      "field": "maliar",
+      "year_appointed": 1983,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 259,
+      "name": "Jaroslav Balík",
+      "field": "filmový režisér",
+      "year_appointed": 1984,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 260,
+      "name": "Peter Dvorský",
+      "field": "operný spevák",
+      "year_appointed": 1984,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 261,
+      "name": "František Filipovský",
+      "field": "herec",
+      "year_appointed": 1984,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 262,
+      "name": "Jan Hána",
+      "field": "sochár",
+      "year_appointed": 1984,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 263,
+      "name": "Zdeněk Košler",
+      "field": "dirigent",
+      "year_appointed": 1984,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 264,
+      "name": "Rudolf Moric",
+      "field": "spisovateľ",
+      "year_appointed": 1984,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 265,
+      "name": "Jiřina Švorcová",
+      "field": "herečka",
+      "year_appointed": 1984,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 266,
+      "name": "Gabriela Beňačková-Čápová",
+      "field": "operná speváčka",
+      "year_appointed": 1985,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 267,
+      "name": "Albín Brunovský",
+      "field": "maliar",
+      "year_appointed": 1985,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 268,
+      "name": "Oldřich Flosman",
+      "field": "skladateľ",
+      "year_appointed": 1985,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 269,
+      "name": "Tibor Frešo",
+      "field": "skladateľ a dirigent",
+      "year_appointed": 1985,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 270,
+      "name": "Karel Gott",
+      "field": "spevák",
+      "year_appointed": 1985,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 271,
+      "name": "Jan Habarta",
+      "field": "sochár",
+      "year_appointed": 1985,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 272,
+      "name": "Karel Hofman",
+      "field": "maliar",
+      "year_appointed": 1985,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 273,
+      "name": "Jana Jonášová",
+      "field": "operná speváčka",
+      "year_appointed": 1985,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 274,
+      "name": "Radomír Kolář",
+      "field": "maliar",
+      "year_appointed": 1985,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 275,
+      "name": "Miloš Kopecký",
+      "field": "herec",
+      "year_appointed": 1985,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 276,
+      "name": "Július Lenko",
+      "field": "básnik",
+      "year_appointed": 1985,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 277,
+      "name": "Jan Pilař",
+      "field": "básnik",
+      "year_appointed": 1985,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 278,
+      "name": "Ladislav Snopek",
+      "field": "sochár",
+      "year_appointed": 1985,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 279,
+      "name": "Věra Soukupová",
+      "field": "speváčka",
+      "year_appointed": 1985,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 280,
+      "name": "Antonín Švorc",
+      "field": "operný spevák",
+      "year_appointed": 1985,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 281,
+      "name": "Václav Zítek",
+      "field": "operný spevák",
+      "year_appointed": 1985,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 282,
+      "name": "Vlastimil Brodský",
+      "field": "herec",
+      "year_appointed": 1988,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 283,
+      "name": "Věra Drnková-Zářecká",
+      "field": "textilná výtvarníčka",
+      "year_appointed": 1988,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 284,
+      "name": "Gejza Dusík",
+      "field": "skladateľ",
+      "year_appointed": 1988,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 285,
+      "name": "Jan Hanuš",
+      "field": "skladateľ",
+      "year_appointed": 1988,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 286,
+      "name": "Jana Hlaváčová",
+      "field": "herečka",
+      "year_appointed": 1988,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 287,
+      "name": "Miloslav Holub",
+      "field": "herec",
+      "year_appointed": 1988,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 288,
+      "name": "Rudolf Hrušínský",
+      "field": "herec",
+      "year_appointed": 1988,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 289,
+      "name": "Cyril Chramosta",
+      "field": "maliar",
+      "year_appointed": 1988,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 290,
+      "name": "Václav Kašlík",
+      "field": "skladateľ a dirigent",
+      "year_appointed": 1988,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 291,
+      "name": "František Kožík",
+      "field": "spisovateľ",
+      "year_appointed": 1988,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 292,
+      "name": "Andrej Lettrich",
+      "field": "filmový režisér",
+      "year_appointed": 1988,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 293,
+      "name": "Ondrej Malachovský",
+      "field": "operný spevák",
+      "year_appointed": 1988,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 294,
+      "name": "Lubomír Malý",
+      "field": "violista",
+      "year_appointed": 1988,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 295,
+      "name": "Milan Novák",
+      "field": "skladateľ",
+      "year_appointed": 1988,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 296,
+      "name": "Klára Patakiová",
+      "field": "sochárka",
+      "year_appointed": 1988,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 297,
+      "name": "Arpád Račko",
+      "field": "sochár",
+      "year_appointed": 1988,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 298,
+      "name": "Ludvík Ráža",
+      "field": "filmový režisér",
+      "year_appointed": 1988,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 299,
+      "name": "Ota Sklenčka",
+      "field": "herec",
+      "year_appointed": 1988,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 300,
+      "name": "Rudolf Svoboda",
+      "field": "sochár",
+      "year_appointed": 1988,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 301,
+      "name": "Jaromír Tomeček",
+      "field": "spisovateľ",
+      "year_appointed": 1988,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 302,
+      "name": "Martin Ťapák",
+      "field": "filmový režisér",
+      "year_appointed": 1988,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 303,
+      "name": "František Vláčil",
+      "field": "filmový režisér",
+      "year_appointed": 1988,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 304,
+      "name": "Vlastimil Harapes",
+      "field": "tanečný majster",
+      "year_appointed": 1989,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 305,
+      "name": "Ota Hofman",
+      "field": "spisovateľ",
+      "year_appointed": 1989,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 306,
+      "name": "Jiří Marek",
+      "field": "spisovateľ",
+      "year_appointed": 1989,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 307,
+      "name": "Otmar Mácha",
+      "field": "skladateľ",
+      "year_appointed": 1989,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 308,
+      "name": "Václav Rabas",
+      "field": "organista",
+      "year_appointed": 1989,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 309,
+      "name": "Zuzana Růžičková-Kalabisová",
+      "field": "klaviristka a čembalistka",
+      "year_appointed": 1989,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 310,
+      "name": "Jarmila Šuláková-Schmidtová",
+      "field": "speváčka",
+      "year_appointed": 1989,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 311,
+      "name": "Jindřich Wielgus",
+      "field": "sochár",
+      "year_appointed": 1989,
+      "nationality": "česká",
+      "note": ""
+    },
+    {
+      "order": 312,
+      "name": "Alfonz Bednár",
+      "field": "spisovateľ",
+      "year_appointed": 1989,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 313,
+      "name": "Štefan Nosáľ",
+      "field": "choreograf",
+      "year_appointed": 1989,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 314,
+      "name": "Ľudovít Rajter",
+      "field": "skladateľ",
+      "year_appointed": 1989,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 315,
+      "name": "Štefan Uher",
+      "field": "filmový režisér",
+      "year_appointed": 1989,
+      "nationality": "slovenská",
+      "note": ""
+    },
+    {
+      "order": 316,
+      "name": "Jindřich Praveček",
+      "field": "dirigent a skladateľ",
+      "year_appointed": 1989,
+      "nationality": "česká",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Národní umelci Československa - Free Download",
+    "description": "Zoznam osobností ocenených čestným titulom národný umelec v Československu (1945 – 1991) s činnosťou, rokom menovania a národnosťou. Contains 316 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Národní umelci Československa | ListBase",
+    "seo_description": "Download Národní umelci Československa — 316 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 316 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_československých_národných_umelcov"
+    ]
+  }
+}

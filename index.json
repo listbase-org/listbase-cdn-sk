@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-18T02:15:16.380Z",
-  "total_datasets": 506,
-  "total_records": 286784,
+  "generated": "2026-11-18T02:15:50.538Z",
+  "total_datasets": 507,
+  "total_records": 287100,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "economy",
@@ -1101,6 +1101,33 @@
         "xlsx": {
           "name": "sk-muzea_SK.xlsx",
           "size": 38089
+        }
+      }
+    },
+    {
+      "id": "sk-narodni-umelci-ceskoslovenska",
+      "name": "Národní umelci Československa",
+      "category": "culture",
+      "record_count": 316,
+      "columns": [
+        "order",
+        "name",
+        "field",
+        "year_appointed",
+        "nationality",
+        "note"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_československých_národných_umelcov",
+      "updated": "2026-11",
+      "size": 57493,
+      "files": {
+        "csv": {
+          "name": "sk-narodni-umelci-ceskoslovenska_SK.csv",
+          "size": 18731
+        },
+        "xlsx": {
+          "name": "sk-narodni-umelci-ceskoslovenska_SK.xlsx",
+          "size": 19270
         }
       }
     },
