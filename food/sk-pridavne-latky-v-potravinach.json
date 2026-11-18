@@ -1,0 +1,3600 @@
+{
+  "id": "sk-pridavne-latky-v-potravinach",
+  "name": "Prídavné látky v potravinách (éčka)",
+  "title": "Prídavné látky v potravinách (éčka)",
+  "description": "Zoznam potravinových aditív s E-kódom, slovenským názvom, ďalšími názvami, variantmi a skupinou (farbivá, konzervanty, antioxidanty, emulgátory a ďalšie).",
+  "category": "food",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_prídavných_látok_v_potravinách",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_prídavných_látok_v_potravinách",
+  "updated": "2026-11",
+  "record_count": 507,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "other_names",
+      "label": "Other Names",
+      "type": "string"
+    },
+    {
+      "key": "variants",
+      "label": "Variants",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "E 100",
+      "name": "Kurkumín",
+      "other_names": "Cl prírodná žltá 3",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 101",
+      "name": "Riboflavíny",
+      "other_names": "",
+      "variants": "E 101 (i) – Riboflavín; E 101 (ii) – Riboflavín-5'-fosforečnan",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 102",
+      "name": "Tartrazín",
+      "other_names": "Cl prírodná žltá 4",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 103",
+      "name": "Alkannín",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 104",
+      "name": "Chinolínová žltá",
+      "other_names": "Cl potravinárska žltá 13",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 105",
+      "name": "Stála žltá AB",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 106",
+      "name": "Riboflavín-5-fosforečnan sodný",
+      "other_names": "E 101a",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 107",
+      "name": "Žltá 2G",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 110",
+      "name": "Žltá SY",
+      "other_names": "Žltá FCF, pomarančovožltá S, Cl potravinárska žltá 3",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 111",
+      "name": "Oranžová GGN",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 120",
+      "name": "Karmín",
+      "other_names": "Košenila",
+      "variants": "E 120 (i) – Čistý karmín; E 120 (ii) – Surový extrakt karmínu",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 121",
+      "name": "Citrónová červená 2",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 122",
+      "name": "Azorubín",
+      "other_names": "Karmoizín, Azorubín Extra, Cl potravinárska červená 3",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 123",
+      "name": "Amarant",
+      "other_names": "Viktóriarubín O, Cl potravinárska červená 7",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 124",
+      "name": "Ponceau 4R",
+      "other_names": "Košenilová červená A, Cl potravinárska červená 10",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 125",
+      "name": "Ponceau SX",
+      "other_names": "Šarlátová GN",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 126",
+      "name": "Ponceau 6R",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 127",
+      "name": "Erytrozín",
+      "other_names": "Cl potravinárska červená 14",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 128",
+      "name": "Červená 2G",
+      "other_names": "Fast Crimson GR, Cl potravinárska červená 10",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 129",
+      "name": "Allura červená AC",
+      "other_names": "Cl potravinárska červená 17",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 130",
+      "name": "Indantronová modrá RS",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 131",
+      "name": "Patentná modrá V",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 132",
+      "name": "Indigotín",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 133",
+      "name": "Brilantná modrá FCF",
+      "other_names": "Žiarivá modrá FCF",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 140",
+      "name": "Chlorofyly a chlorofylíny",
+      "other_names": "",
+      "variants": "E 140 (i) – Chlorofyly; E 140 (ii) – Chlorofylíny",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 141",
+      "name": "Meďnaté komplexy chlorofylov a chlorofínov",
+      "other_names": "",
+      "variants": "E 141 (i) – Meďnaté komplexy chlorofylov; E 141 (ii) – Meďnaté komplexy chlorofínov",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 142",
+      "name": "Brilantná zelená BS",
+      "other_names": "Zelená S, Cl potravinárska zelená",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 143",
+      "name": "Zelená FCF",
+      "other_names": "Morská zelená",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 150 a",
+      "name": "Karamel",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 150 b",
+      "name": "Kaustický sulfitový karamel",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 150 c",
+      "name": "Amoniakový karamel",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 150 d",
+      "name": "Amoniakovo - sulfitový karamel",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 151",
+      "name": "Brilantná čierna BN",
+      "other_names": "Čierna BN",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 152",
+      "name": "Čierná 7984",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 153",
+      "name": "Aktívne uhlie",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 154",
+      "name": "Hnedá FK",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 155",
+      "name": "Hnedá HT",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 160 a",
+      "name": "Karotény",
+      "other_names": "",
+      "variants": "E 160 a (i) – Betakarotén (syntetický); E 160 a (ii) – Zmes Alfa-, Beta-, a Gamakaroténu; E 160 a (iii) – Betakarotén (prírodný)",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 160 b",
+      "name": "Annato, bixin, norbixin",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 160 c",
+      "name": "Extrakty papriky",
+      "other_names": "kapsantín, kapsorubín",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 160 d",
+      "name": "Lykopén",
+      "other_names": "psí–karotén",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 160 e",
+      "name": "Beta-apo-8’-karoténal",
+      "other_names": "C 30",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 160 f",
+      "name": "Etylester kyseliny beta-apo-8’-karoténovej",
+      "other_names": "C 30",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 161 a",
+      "name": "Flavoxantín",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 161 b",
+      "name": "Luteín",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 161 c",
+      "name": "Kryptoxantín",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 161 d",
+      "name": "Rubixantín",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 161 e",
+      "name": "Violoxantín",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 161 f",
+      "name": "Rodoxantín",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 161 g",
+      "name": "Kantaxantín",
+      "other_names": "Cl potravinárska oranžová 8",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 161 h",
+      "name": "Zeaxantín",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 161 i",
+      "name": "Citranaxantín",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 161 j",
+      "name": "Astaxantín",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 162",
+      "name": "Betalaínová červená, Betanín",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 163",
+      "name": "Antokyaníny",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 164",
+      "name": "Šafran",
+      "other_names": "Šafranová žltá",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 166",
+      "name": "Santalové drevo",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 170",
+      "name": "Uhličitany vápenaté",
+      "other_names": "",
+      "variants": "E 170 (i) – Uhličitan vápenatý (CI biely pigment 18); E 170 (ii) – Hydrogénuhličitan vápenatý",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 171",
+      "name": "Oxid titaničitý",
+      "other_names": "titánová bieloba",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 172",
+      "name": "Oxidy a hydroxidy železa",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 173",
+      "name": "Hliník v podobe pigmentu",
+      "other_names": "Cl kovový pigment",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 174",
+      "name": "Striebro v podobe pigmentu",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 175",
+      "name": "Zlato v podobe pigmentu",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 180",
+      "name": "Litolrubín BK",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 181",
+      "name": "Tanín",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 182",
+      "name": "Orceín",
+      "other_names": "",
+      "variants": "",
+      "group": "Potravinárske farbivá"
+    },
+    {
+      "code": "E 200",
+      "name": "Kyselina sorbová",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 201",
+      "name": "Sorban sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 202",
+      "name": "Sorban draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 203",
+      "name": "Sorban vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 209",
+      "name": "Heptylparahydroxybenzoát",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 210",
+      "name": "Kyselina benzoová",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 211",
+      "name": "Benzoan sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 212",
+      "name": "Benzoan draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 213",
+      "name": "Benzoan vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 214",
+      "name": "Etylparahydroxybenzoan",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 215",
+      "name": "Etylparahydroxybenzoan sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 216",
+      "name": "Propylparahydroxybenzoan",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 217",
+      "name": "Propylparahydroxybenzoan sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 218",
+      "name": "Metylparahydroxybenzoan",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 219",
+      "name": "Metylparahydroxybenzoan sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 220",
+      "name": "Oxid siričitý",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 221",
+      "name": "Siričitan sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 222",
+      "name": "Hydrogensiričitan sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 223",
+      "name": "Disiričitan sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 224",
+      "name": "Disiričitan draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 225",
+      "name": "Siričitan draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 226",
+      "name": "Siričitan vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 227",
+      "name": "Hydrogénsiričitan vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 228",
+      "name": "Hydrogénsiričitan draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 230",
+      "name": "Bifenyl",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 231",
+      "name": "Ortofenylfenol",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 232",
+      "name": "Ortofenylfenoxid sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 234",
+      "name": "Nisin",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 235",
+      "name": "Natamycín",
+      "other_names": "syn. Pimaricín",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 236",
+      "name": "Kyselina mravčia",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 237",
+      "name": "Mravčan sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 237 a",
+      "name": "Dimravčan draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 238",
+      "name": "Mravčan vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 239",
+      "name": "Hexametyléntetraamín",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 242",
+      "name": "Dimetyldikarbonát",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 249",
+      "name": "Dusitan draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 250",
+      "name": "Dusitan sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 251",
+      "name": "Dusičnan sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 252",
+      "name": "Dusičnan draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 260",
+      "name": "Kyselina octová",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 261",
+      "name": "Octan draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 262",
+      "name": "Octany sodné",
+      "other_names": "",
+      "variants": "E 262 (i) – Octan sodný; E 262 (ii) – Hydrogénoctan sodný",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 263",
+      "name": "Octan vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 264",
+      "name": "Octan amónny",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 265",
+      "name": "Acetanhydrid",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 266",
+      "name": "Anhydrid octanu sodného",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 270",
+      "name": "Kyselina mliečna",
+      "other_names": "D,DL forma",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 280",
+      "name": "Kyselina propiónová",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 281",
+      "name": "Propionát sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 282",
+      "name": "Propionát vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 283",
+      "name": "Propionát draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 284",
+      "name": "Kyselina boritá",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 285",
+      "name": "Tetraboritan sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 290",
+      "name": "Oxid uhličitý",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 295",
+      "name": "Mravčan amónny",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 296",
+      "name": "Kyselina jablčná",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 297",
+      "name": "Kyselina fumarová",
+      "other_names": "",
+      "variants": "",
+      "group": "Konzervačné látky"
+    },
+    {
+      "code": "E 300",
+      "name": "Kyselina askorbová",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 301",
+      "name": "Askorbát sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 302",
+      "name": "Askorbát vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 303",
+      "name": "Askorát draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 304",
+      "name": "Estery mastných kyselín s kyselinou askorbovou",
+      "other_names": "",
+      "variants": "E 304 (i) – Askorbylpalmitát; E 304 (ii) – Askorbylstearát",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 306",
+      "name": "Extrakt s obsahom tokoferolov",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 307",
+      "name": "Alfatokoferol",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 308",
+      "name": "Gamatokoferol",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 309",
+      "name": "Deltatokoferol",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 310",
+      "name": "Propylgallát",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 311",
+      "name": "Oktylgallát",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 312",
+      "name": "Dodecylgallát",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 313",
+      "name": "Etylgalát",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 314",
+      "name": "Guaiac Resin",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 315",
+      "name": "Kyselina erytorbová",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 316",
+      "name": "Erytorban sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 317",
+      "name": "Erytorban draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 318",
+      "name": "Erytorban vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 319",
+      "name": "Terciálny butylhydrochinon",
+      "other_names": "TBHQ",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 320",
+      "name": "Butylhydroxyanisol",
+      "other_names": "BHA",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 321",
+      "name": "Butylhydroxytoluén",
+      "other_names": "BHT",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 322",
+      "name": "Lecitíny",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 323",
+      "name": "Anoxomer",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 324",
+      "name": "Ethoxyquin",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 325",
+      "name": "Laktát sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 326",
+      "name": "Laktát draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 327",
+      "name": "Laktát vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 328",
+      "name": "Laktát amónny",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 329",
+      "name": "Laktát horečnatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 330",
+      "name": "Kyselina citrónová",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 331",
+      "name": "Citráty sodné",
+      "other_names": "",
+      "variants": "E 331 (i) – Dihydrogéncitrát sodný; E 331 (ii) – Hydrogéncitrát sodný; E 331 (iii) – Citrát trisodný",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 332",
+      "name": "Citráty draselné",
+      "other_names": "",
+      "variants": "E 332 (i) – Dihydrogéncitrát draselný; E 332 (ii) – Citrát tridraselný",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 333",
+      "name": "Citráty vápenaté",
+      "other_names": "",
+      "variants": "E 333 (i) – Hydrogéncitrát vápenatý; E 333 (ii) – Dihydrogéncitrát vápenatý; E 333 (iii) – Citrát trivápenatý",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 334",
+      "name": "Kyselina vínna",
+      "other_names": "L (+)-",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 335",
+      "name": "Vínany sodné",
+      "other_names": "",
+      "variants": "E 335 (i) – Hydrogénvínan sodný; E 335 (ii) – Vínan sodný",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 336",
+      "name": "Vínany draselné",
+      "other_names": "",
+      "variants": "E 336 (i) – Hydrogénvínan draselný; E 336 (ii) – Vínan draselný",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 337",
+      "name": "Vínan sodno-draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 338",
+      "name": "Kyselina fosforečná",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 339",
+      "name": "Fosforečnany sodné",
+      "other_names": "",
+      "variants": "E 339 (i) – Dihydrogénfosforečnan sodný; E 339 (ii) – Hydrogénfosforečnan disodný; E 339 (iii) – Fosforečnan trisodný",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 340",
+      "name": "Fosforečnany draselné",
+      "other_names": "",
+      "variants": "E 340 (i) – Dihydrogénfosforečnan draselný; E 340 (ii) – Hydrogénfosforečnan didraselný; E 340 (iii) – Fosforečnan tridraselný",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 341",
+      "name": "Fosforečnany vápenaté",
+      "other_names": "",
+      "variants": "E 341 (i) – Hydrogénfosforečnan vápenatý; E 341 (ii) – Dihydrogénfosforečnan vápenatý; E 341 (iii) – Fosforečnan trivápenatý",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 342",
+      "name": "Fosforečnan amónny",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 343",
+      "name": "Fosforečnan horečnatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 344",
+      "name": "Lecitín citrát",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 345",
+      "name": "Citrát horečnatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 350",
+      "name": "Jablčnany sodné",
+      "other_names": "",
+      "variants": "E 350 (i) – Jablčnan sodný; E 350 (ii) – Hydrogénjablčnan sodný",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 351",
+      "name": "Jablčnan draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 352",
+      "name": "Jablčnany vápenaté",
+      "other_names": "",
+      "variants": "E 352 (i) – Jablčnan vápenatý; E 352 (ii) – Hydrogénjablčnan vápenatý",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 353",
+      "name": "Kyselina metavínna",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 354",
+      "name": "Vínan vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 355",
+      "name": "Kyselina adipová",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 356",
+      "name": "Adipát sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 357",
+      "name": "Adipát draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 362",
+      "name": "Adipan amónny",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 363",
+      "name": "Kyselina jantárová",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 365",
+      "name": "Fumarát sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 366",
+      "name": "Fumarát draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 367",
+      "name": "Fumarát vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 368",
+      "name": "Fumarát amónny",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 370",
+      "name": "1,4-heptonolakton",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 375",
+      "name": "Niacín",
+      "other_names": "kyselina nikotínová",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 380",
+      "name": "Citrát amónny",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 381",
+      "name": "Citrát železnato-amónny",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 383",
+      "name": "Glycerolfosfát vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 384",
+      "name": "Citrát izopropylnatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 385",
+      "name": "Etyléndiamíntetraoctan vápenato-disodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 386",
+      "name": "Etyléndiamíntetraoctan disodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 387",
+      "name": "Oxystearín",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 388",
+      "name": "Kyselina tiopropionová",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 389",
+      "name": "Dilauryl tiodipropionát",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 390",
+      "name": "Distearyl tiodipropionát",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 391",
+      "name": "Kyselina fytová",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 399",
+      "name": "Laktobionát vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Antioxidačné látky a regulátory kyslosti"
+    },
+    {
+      "code": "E 400",
+      "name": "Kyselina algová",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 401",
+      "name": "Alginát sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 402",
+      "name": "Alginát draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 403",
+      "name": "Alginát amónny",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 404",
+      "name": "Alginát vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 405",
+      "name": "1,2-Propándiolalginát",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 406",
+      "name": "Agar",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 407",
+      "name": "Karagén",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 407 a",
+      "name": "Eucheumová guma",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 408",
+      "name": "Pekárenské droždie",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 409",
+      "name": "Arabinogalactan",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 410",
+      "name": "Karobová guma",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 411",
+      "name": "Ovsená guma",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 412",
+      "name": "Guárová guma",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 413",
+      "name": "Tragakant",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 414",
+      "name": "Arabská guma",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 415",
+      "name": "Xantánová guma",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 416",
+      "name": "Guma karaya",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 417",
+      "name": "Guma tara",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 418",
+      "name": "Guma gellan",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 419",
+      "name": "Guma ghatti",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 420",
+      "name": "Sorbitoly",
+      "other_names": "",
+      "variants": "E 420 (i) – Sorbitol; E 420 (ii) – Sorbitolový sirup",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 421",
+      "name": "Manitol",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 422",
+      "name": "Glycerol",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 424",
+      "name": "Curdlan",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 425",
+      "name": "Konjak",
+      "other_names": "",
+      "variants": "E 425 (i) – Konjaková guma; E 425 (ii) – Glukomanan konjakovej gumy",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 426",
+      "name": "Sójova hemicelulóza",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 429",
+      "name": "Peptóny",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 430",
+      "name": "Polyoxyetylénstearát",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 431",
+      "name": "Polyoxylén(40)stearát",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 432",
+      "name": "Polyoxyetylén sorbitanmonolaurát",
+      "other_names": "polysorbát 20",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 433",
+      "name": "Polyoxyetylén sorbitanmonooleát",
+      "other_names": "polysorbát 80",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 434",
+      "name": "Polyoxyetylén sorbitanmonopalmitát",
+      "other_names": "polysorbát 40",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 435",
+      "name": "Polyoxyetylén sorbitanmonostearát",
+      "other_names": "polysorbát 65",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 436",
+      "name": "Polyoxyetylén sorbitantristearát",
+      "other_names": "polysorbát 60",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 440",
+      "name": "Pektíny",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 441",
+      "name": "Jedlá želatína",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 442",
+      "name": "Fosfatidy amónne",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 443",
+      "name": "Brómovaný rastlinný olej",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 444",
+      "name": "Octanizomaselnan sacharózy",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 445",
+      "name": "Glycerínové borovicové živice",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 446",
+      "name": "Succistearin",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 450",
+      "name": "Difosforečnany",
+      "other_names": "",
+      "variants": "E 450 (i) – Dihydrogéndifosforečnan disodný; E 450 (ii) – Hydrogéndifosforečnan trisodný; E 450 (iii) – Difosforečnan tetrasodný; E 450 (iv) – Dihydrogéndifosforečnan didraselný; E 450 (v) – Difosforečnan tetradraselný; E 450 (vi) – Difosforečnan divápenatý; E 450 (vii) – Dihydrogéndifosforečnan vápenatý",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 451",
+      "name": "Trifosforečnany",
+      "other_names": "",
+      "variants": "E 451 (i) – Trifosforečnan pentasodný; E 451 (ii) – Trifosforečnan pentadraselný",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 452",
+      "name": "Polyfosforečnany",
+      "other_names": "",
+      "variants": "E 452 (i) – Polyfosforečnan sodný; E 452 (ii) – Polyfosforečnan draselný; E 452 (iii) – Polyfosforečnan sodno-vápenatý; E 452 (iv) – Polyfosforečnan vápenatý",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 459",
+      "name": "Betacyklodextrín",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 460",
+      "name": "Celulóza",
+      "other_names": "",
+      "variants": "E 460 (i) – Mikrokryštalická celulóza; E 460 (ii) – Prášková celulóza",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 461",
+      "name": "Metylcelulóza",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 462",
+      "name": "Etylcelulóza",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 463",
+      "name": "Hydroxypropylcelulóza",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 464",
+      "name": "Hydroxypropylmetylcelulóza",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 465",
+      "name": "Etylmetylcelulóza",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 466",
+      "name": "Karboxymetylcelulóza",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 467",
+      "name": "Etylhydroxyetyl celulóza",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 468",
+      "name": "Zosieťovaná sodná soľ karboxymetylcelulózy",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 469",
+      "name": "Enzymaticky hydrolyzovaná karboxymetylcelulóza",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 470",
+      "name": "Soli mastných kyselín založené na Al, Ca, Na, Mg, K a NH 4",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 470 a",
+      "name": "Sodné, draselné a vápenaté soli mastných kyselín",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 470 b",
+      "name": "Horečnaté soli mastných kyselín",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 471",
+      "name": "Mono a diglyceridy mastných kyselín",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 472 a",
+      "name": "Estery mono a diglyceridov mastných kyselín s kyselinou octovou",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 472 b",
+      "name": "Estery mono a diglyceridov mastných kyselín s kyselinou mliečnou",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 472 c",
+      "name": "Estery mono a diglyceridov mastných kyselín s kyselinou citrónovou",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 472 d",
+      "name": "Estery mono a diglyceridov mastných kyselín s kyselinou vínnou",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 472 e",
+      "name": "Estery mono a diglyceridov mastných kyselín s kyselinou mono-a diacetylvínnou",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 472 f",
+      "name": "Zmesné estery mono-a diglyceridov mastných kyselín s kyselinami octovou a vínnou",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 473",
+      "name": "Cukroestery",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 474",
+      "name": "Cukroglyceridy",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 475",
+      "name": "Estery polyglycerolu s mastnými kyselinami",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 476",
+      "name": "Polyglycerolpolyricinoleát",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 477",
+      "name": "Estery 1,2-propándiolu s mastnými kyselinami",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 478",
+      "name": "Laktylované estery glycerolu",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 479 b",
+      "name": "Oxidovaný sójový olej a jeho produkty",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 480",
+      "name": "Dioktyl sodium sulfosukcinát",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 481",
+      "name": "2-Stearoyllaktylát sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 482",
+      "name": "2-Stearoyllaktylát vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 483",
+      "name": "Stearylvínan",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 484",
+      "name": "Stearylcitrát",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 485",
+      "name": "Stearát sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 486",
+      "name": "Stearyl fumarát vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 487",
+      "name": "Laurylsulfát sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 488",
+      "name": "Etoxylované mono a diglyceridy",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 489",
+      "name": "Metylglukosidový ester kokosového oleja",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 490",
+      "name": "1,2-Propándiol",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 491",
+      "name": "Sorbitan monostearát",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 492",
+      "name": "Sorbitan tristearát",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 493",
+      "name": "Sorbitan monolaurát",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 494",
+      "name": "Sorbitan monoleát",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 495",
+      "name": "Sorbitan monopalmitát",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 496",
+      "name": "Sorbitan trioleát",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 497",
+      "name": "Polyoxypropylenovo-polyoxyetylénové polyméry",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 498",
+      "name": "Polyglycerolestery polykondenzovaných mastných kyselín ricínového oleja",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 499",
+      "name": "Guma Cassia",
+      "other_names": "",
+      "variants": "",
+      "group": "Emulgátory, zahusťovadlá a stabilizátory"
+    },
+    {
+      "code": "E 500",
+      "name": "Uhličitany sodné",
+      "other_names": "",
+      "variants": "E 500 (i) – Uhličitan sodný; E 500 (ii) – Hydrogénuhličitan sodný; E 500 (iii) – Ekvimolárna zmes uhličitanu sodného a hydrogénuhličitanu sodného (seskviuhličitan sodný)",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 501",
+      "name": "Uhličitany draselné",
+      "other_names": "",
+      "variants": "E 501 (i) – Uhličitan draselný; E 501 (ii) – Hydrogénuhličitan draselný",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 503",
+      "name": "Uhličitany amónne",
+      "other_names": "",
+      "variants": "E 503 (i) – Uhličitan amónny; E 503 (ii) – Hydrogénuhličitan amónny; E 503 (iii) – Ekvimolárna zmes uhličitanu amónného a hydrogénuhličitanu amónného (seskviuhličitan amónný)",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 504",
+      "name": "Uhličitany horečnaté",
+      "other_names": "",
+      "variants": "E 504 (i) – Uhličitan horečnatý; E 504 (ii) – Hydrogénuhličitan horečnatý",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 505",
+      "name": "Uhličitan železnatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 507",
+      "name": "Kyselina chlorovodíková",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 508",
+      "name": "Chlorid draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 509",
+      "name": "Chlorid vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 510",
+      "name": "Chlorid amónny",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 511",
+      "name": "Chlorid horečnatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 512",
+      "name": "Chlorid cínatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 513",
+      "name": "Kyselina sírová",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 514",
+      "name": "Sírany sodné",
+      "other_names": "",
+      "variants": "E 514 (i) – Síran sodný; E 514 (ii) – Hydrogénsíran sodný",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 515",
+      "name": "Sírany draselné",
+      "other_names": "",
+      "variants": "E 515 (i) – Síran draselný; E 515 (ii) – Hydrogénsíran draselný",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 516",
+      "name": "Síran vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 517",
+      "name": "Síran amónny",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 518",
+      "name": "Síran horečnatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 519",
+      "name": "Síran meďnatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 520",
+      "name": "Síran hlinitý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 521",
+      "name": "Síran sodno-hlinitý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 522",
+      "name": "Síran draselno-hlinitý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 523",
+      "name": "Síran amónno-hlinitý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 524",
+      "name": "Hydroxid sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 525",
+      "name": "Hydroxid draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 526",
+      "name": "Hydroxid vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 527",
+      "name": "Hydroxid amónny",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 528",
+      "name": "Hydroxid horečnatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 529",
+      "name": "Oxid vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 530",
+      "name": "Oxid horečnatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 535",
+      "name": "Ferokyanid sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 536",
+      "name": "Ferokyanid draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 537",
+      "name": "Hexakyanoželeznatan železnatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 538",
+      "name": "Ferokyanid vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 539",
+      "name": "Tiosíran sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 541",
+      "name": "Fosforečnan sodnohlinitý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 542",
+      "name": "Jedlá kostná múčka",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 543",
+      "name": "Polyfosforečnan vápenno-sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 544",
+      "name": "Polyfosforečnan vápenný",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 545",
+      "name": "Polyfosforečnan amónny",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 546",
+      "name": "Difosforečnan horečnatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 550",
+      "name": "Metakremičitan disodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 551",
+      "name": "Oxid kremičitý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 552",
+      "name": "Kremičitan vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 553 a",
+      "name": "Kremičitany horečnaté",
+      "other_names": "",
+      "variants": "E 553 a (i) – Kremičitan horečnatý; E 553 a (ii) – Trikremičitan horečnatý",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 553 b",
+      "name": "Mastenec",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 554",
+      "name": "Kremičitan sodno-hlinitý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 555",
+      "name": "Kremičitan draselno-hlinitý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 556",
+      "name": "Kremičitan vápenato-hlinitý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 557",
+      "name": "Kremičitan zinočnatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 558",
+      "name": "Bentonit",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 559",
+      "name": "Kremičitan hlinitý",
+      "other_names": "kaolín",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 560",
+      "name": "Kremičitan draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 561",
+      "name": "Vermikulit",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 562",
+      "name": "Sépiolit",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 563",
+      "name": "Sepiolitická hlina",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 565",
+      "name": "Lignosulfonáty",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 566",
+      "name": "Natrolit-fonolit",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 570",
+      "name": "Kyselina stearová",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 571",
+      "name": "Stearan amónny",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 572",
+      "name": "Stearan horečnatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 573",
+      "name": "Stearan hlinitý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 574",
+      "name": "Kyselina glukónová",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 575",
+      "name": "Glukonodeltalaktón",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 576",
+      "name": "Glukonát sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 577",
+      "name": "Glukonát draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 578",
+      "name": "Glukonát vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 579",
+      "name": "Glukonát železnatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 580",
+      "name": "Glukonát horečnatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 585",
+      "name": "Laktát železnatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 586",
+      "name": "4-hexylrezorcinol",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 598",
+      "name": "Hlinan vápenatý",
+      "other_names": "syntetický",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 599",
+      "name": "Perlit",
+      "other_names": "",
+      "variants": "",
+      "group": "Kypriace a protispekávacie látky"
+    },
+    {
+      "code": "E 620",
+      "name": "Kyselina glutámová",
+      "other_names": "",
+      "variants": "",
+      "group": "Zvýrazňovače chuti a vône"
+    },
+    {
+      "code": "E 621",
+      "name": "Glutaman sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Zvýrazňovače chuti a vône"
+    },
+    {
+      "code": "E 622",
+      "name": "Glutaman draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Zvýrazňovače chuti a vône"
+    },
+    {
+      "code": "E 623",
+      "name": "Glutaman vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Zvýrazňovače chuti a vône"
+    },
+    {
+      "code": "E 624",
+      "name": "Glutaman amónny",
+      "other_names": "",
+      "variants": "",
+      "group": "Zvýrazňovače chuti a vône"
+    },
+    {
+      "code": "E 625",
+      "name": "Glutaman horečnatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Zvýrazňovače chuti a vône"
+    },
+    {
+      "code": "E 626",
+      "name": "Kyselina guanylová",
+      "other_names": "",
+      "variants": "",
+      "group": "Zvýrazňovače chuti a vône"
+    },
+    {
+      "code": "E 627",
+      "name": "Guanylát draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Zvýrazňovače chuti a vône"
+    },
+    {
+      "code": "E 628",
+      "name": "Guanylát sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Zvýrazňovače chuti a vône"
+    },
+    {
+      "code": "E 629",
+      "name": "Guanylát vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Zvýrazňovače chuti a vône"
+    },
+    {
+      "code": "E 630",
+      "name": "Kyselina inozínová",
+      "other_names": "",
+      "variants": "",
+      "group": "Zvýrazňovače chuti a vône"
+    },
+    {
+      "code": "E 631",
+      "name": "Inozinát disodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Zvýrazňovače chuti a vône"
+    },
+    {
+      "code": "E 632",
+      "name": "Inozinát didraselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Zvýrazňovače chuti a vône"
+    },
+    {
+      "code": "E 633",
+      "name": "Inozinát vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Zvýrazňovače chuti a vône"
+    },
+    {
+      "code": "E 634",
+      "name": "5'-ribonukleotid vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Zvýrazňovače chuti a vône"
+    },
+    {
+      "code": "E 635",
+      "name": "5'-ribonukleotid sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Zvýrazňovače chuti a vône"
+    },
+    {
+      "code": "E 636",
+      "name": "Maltol",
+      "other_names": "",
+      "variants": "",
+      "group": "Zvýrazňovače chuti a vône"
+    },
+    {
+      "code": "E 637",
+      "name": "Etylmaltol",
+      "other_names": "",
+      "variants": "",
+      "group": "Zvýrazňovače chuti a vône"
+    },
+    {
+      "code": "E 640",
+      "name": "Glycín a jeho sodná soľ",
+      "other_names": "",
+      "variants": "",
+      "group": "Zvýrazňovače chuti a vône"
+    },
+    {
+      "code": "E 641",
+      "name": "L -leucín",
+      "other_names": "",
+      "variants": "",
+      "group": "Zvýrazňovače chuti a vône"
+    },
+    {
+      "code": "E 642",
+      "name": "Lyzín hydrochlorid",
+      "other_names": "",
+      "variants": "",
+      "group": "Zvýrazňovače chuti a vône"
+    },
+    {
+      "code": "E 650",
+      "name": "Octan zinočnatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Zvýrazňovače chuti a vône"
+    },
+    {
+      "code": "E 700",
+      "name": "Bacitracín",
+      "other_names": "",
+      "variants": "",
+      "group": "Antibiotiká"
+    },
+    {
+      "code": "E 701",
+      "name": "Tetracyklín",
+      "other_names": "",
+      "variants": "",
+      "group": "Antibiotiká"
+    },
+    {
+      "code": "E 702",
+      "name": "Chlórtetracyklín",
+      "other_names": "",
+      "variants": "",
+      "group": "Antibiotiká"
+    },
+    {
+      "code": "E 703",
+      "name": "Oxytetracyklín",
+      "other_names": "",
+      "variants": "",
+      "group": "Antibiotiká"
+    },
+    {
+      "code": "E 704",
+      "name": "Oleandomycín",
+      "other_names": "",
+      "variants": "",
+      "group": "Antibiotiká"
+    },
+    {
+      "code": "E 705",
+      "name": "Penicilín G – draselná soľ",
+      "other_names": "",
+      "variants": "",
+      "group": "Antibiotiká"
+    },
+    {
+      "code": "E 706",
+      "name": "Penicilín G – sodná soľ",
+      "other_names": "",
+      "variants": "",
+      "group": "Antibiotiká"
+    },
+    {
+      "code": "E 707",
+      "name": "Penicilín G – prokaínová soľ",
+      "other_names": "",
+      "variants": "",
+      "group": "Antibiotiká"
+    },
+    {
+      "code": "E 708",
+      "name": "Penicilín G – benzatínová soľ",
+      "other_names": "",
+      "variants": "",
+      "group": "Antibiotiká"
+    },
+    {
+      "code": "E 709",
+      "name": "Penicilín G – (sodná soľ, prokaínová soľ) — streptomycín",
+      "other_names": "",
+      "variants": "",
+      "group": "Antibiotiká"
+    },
+    {
+      "code": "E 710",
+      "name": "Spiramicín",
+      "other_names": "",
+      "variants": "",
+      "group": "Antibiotiká"
+    },
+    {
+      "code": "E 711",
+      "name": "Virginiamicín",
+      "other_names": "",
+      "variants": "",
+      "group": "Antibiotiká"
+    },
+    {
+      "code": "E 712",
+      "name": "Flavomycín",
+      "other_names": "",
+      "variants": "",
+      "group": "Antibiotiká"
+    },
+    {
+      "code": "E 713",
+      "name": "Tylozín",
+      "other_names": "",
+      "variants": "",
+      "group": "Antibiotiká"
+    },
+    {
+      "code": "E 714",
+      "name": "Monenzín",
+      "other_names": "",
+      "variants": "",
+      "group": "Antibiotiká"
+    },
+    {
+      "code": "E 715",
+      "name": "Avoparcín",
+      "other_names": "",
+      "variants": "",
+      "group": "Antibiotiká"
+    },
+    {
+      "code": "E 716",
+      "name": "Salinomycín",
+      "other_names": "",
+      "variants": "",
+      "group": "Antibiotiká"
+    },
+    {
+      "code": "E 717",
+      "name": "Avilamycín",
+      "other_names": "",
+      "variants": "",
+      "group": "Antibiotiká"
+    },
+    {
+      "code": "E 900",
+      "name": "Dimetylpolysiloxán",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 901",
+      "name": "Včelí vosk",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 902",
+      "name": "Vosk candelilla",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 903",
+      "name": "Karnaubský vosk",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 904",
+      "name": "Šelak",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 905",
+      "name": "Mikrokryštalický vosk",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 905 a",
+      "name": "Minerálne oleje",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 905 b",
+      "name": "Petrolátum",
+      "other_names": "vazelína",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 905 c",
+      "name": "Petroleový vosk",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 906",
+      "name": "Guma benzoe",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 907",
+      "name": "Hydrogenovaný 1-polydecén",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 908",
+      "name": "Vosk z ryžových otrúb",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 909",
+      "name": "Smermacetiový vosk",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 910",
+      "name": "Estery vosku",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 911",
+      "name": "Metylestery mastných kyselín",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 912",
+      "name": "Estery montanových kyselín",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 913",
+      "name": "Lanolín",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 914",
+      "name": "Oxidovaný polyetylénový vosk",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 915",
+      "name": "Glycerolmetyl",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 916",
+      "name": "Jodid vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 917",
+      "name": "Jodid draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 918",
+      "name": "Oxidy dusíka",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 919",
+      "name": "Oxychlorid dusný",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 920",
+      "name": "L-cysteín, jeho hydrochlorid a sodná a draselná soľ",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 921",
+      "name": "Bromičnan draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 922",
+      "name": "Persíran draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 923",
+      "name": "Persíran amónny",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 924",
+      "name": "Bromičnan draselný",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 924 b",
+      "name": "Bromičnan vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 925",
+      "name": "Chlór",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 926",
+      "name": "Oxid chloričitý",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 927 a",
+      "name": "Azoformamid",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 927 b",
+      "name": "Amoniak",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 928",
+      "name": "Benzoylperoxid",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 929",
+      "name": "Acetónperoxid",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 930",
+      "name": "Peroxid vápenatý",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 938",
+      "name": "Argón",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 939",
+      "name": "Hélium",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 940",
+      "name": "Dichlórdifluórmetán",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 941",
+      "name": "Dusík",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 942",
+      "name": "Oxid dusný",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 943 a",
+      "name": "Bután",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 943 b",
+      "name": "Izobután",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 944",
+      "name": "Propán",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 945",
+      "name": "Chlórpentafluóretán",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 946",
+      "name": "Cctafluórocyklobután",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 947",
+      "name": "Vodík",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 948",
+      "name": "Kyslík",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 950",
+      "name": "Acesulfam draselný",
+      "other_names": "Acesulfam K",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 951",
+      "name": "Aspartám",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 952",
+      "name": "Cyklamáty",
+      "other_names": "",
+      "variants": "E 952 (i) – Kyselina cyklamátová; E 952 (ii) – Cyklamát sodný; E 952 (iii) – Cyklamát vápenatý",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 953",
+      "name": "Isomalt",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 954",
+      "name": "Sacharíny",
+      "other_names": "",
+      "variants": "E 954 (i) – Sacharín; E 954 (ii) – Sacharín sodný; E 954 (iii) – Sacharín vápenatý; E 954 (iv) – Sacharín draselný",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 955",
+      "name": "Sukralóza",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 956",
+      "name": "Alitam",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 957",
+      "name": "Taumatín",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 958",
+      "name": "Glycyrrhizin",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 959",
+      "name": "Neohesperidín DC",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 960",
+      "name": "Steviol glykozidy",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 961",
+      "name": "Neotam",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 962",
+      "name": "Aspartam-acesulfam K",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 965",
+      "name": "Maltitoly",
+      "other_names": "",
+      "variants": "E 965 (i) – Maltitol; E 965 (ii) – Maltitolový sirup",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 966",
+      "name": "Laktitol",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 967",
+      "name": "Xylitol",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 968",
+      "name": "Erytritol",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 999",
+      "name": "Extrakt z kvilaje",
+      "other_names": "",
+      "variants": "",
+      "group": "Leštiace látky, sladidlá, baliace plyny a propelanty"
+    },
+    {
+      "code": "E 1000",
+      "name": "Kyselina cholová",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1102",
+      "name": "Glukozooxidáza",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1103",
+      "name": "Invertasa",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1104",
+      "name": "Lipázy",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1105",
+      "name": "Lyzozým",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1200",
+      "name": "Polydextróza",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1201",
+      "name": "Polyvinylpyrolidón",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1202",
+      "name": "Polyvinylpolypyrolidon",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1204",
+      "name": "Pullulán",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1400",
+      "name": "Dextríny",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1401",
+      "name": "Kyselinami modifikované škroby",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1403",
+      "name": "Bielené škroby",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1404",
+      "name": "Oxidovaný škrob",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1405",
+      "name": "Enzymaticky modifikované škroby",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1410",
+      "name": "Fosforečnanový monoester škrobu",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1411",
+      "name": "Diškrobový glycerol",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1412",
+      "name": "Fosforečnanový diester škrobu",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1413",
+      "name": "Fosforečnan škrobového difosforečnanu",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1414",
+      "name": "Acetylovaný škrobový difosforečnan",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1420",
+      "name": "Acetylovaný škrob",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1421",
+      "name": "Acetylovaný škrob esterifikovaný vinylacetátom",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1422",
+      "name": "Acetylovaný škrobový adipát",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1423",
+      "name": "Acetylovaný škrobový glycerol",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1440",
+      "name": "Hydroxypropylškrob",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1442",
+      "name": "Hydroxypropylškrobový difosforečnan",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1450",
+      "name": "Škrobový oktenyljantaran sodný",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1451",
+      "name": "Acetylovaný oxidovaný škrob",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1452",
+      "name": "Škrobový oktenylsukcinát hlinitý",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1501",
+      "name": "Benzylated hydrocarbons",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1502",
+      "name": "1,3-Butándiol",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1504",
+      "name": "Etylacetát",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1505",
+      "name": "Trietylcitrát",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1510",
+      "name": "Etanol",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1516",
+      "name": "Glycerolacetát",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1517",
+      "name": "Glyceroldiacetát",
+      "other_names": "syn. Diacetín",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1518",
+      "name": "Glyceroltriacetát",
+      "other_names": "syn. Triacetín",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1519",
+      "name": "Benzylalkohol",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1520",
+      "name": "Propylénglykol",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1521",
+      "name": "Polyetylénglycerol",
+      "other_names": "8000",
+      "variants": "",
+      "group": "Dodatočné látky"
+    },
+    {
+      "code": "E 1525",
+      "name": "Hydroxyetylcelulóza",
+      "other_names": "",
+      "variants": "",
+      "group": "Dodatočné látky"
+    }
+  ],
+  "meta": {
+    "title": "Prídavné látky v potravinách (éčka) - Free Download",
+    "description": "Zoznam potravinových aditív s E-kódom, slovenským názvom, ďalšími názvami, variantmi a skupinou (farbivá, konzervanty, antioxidanty, emulgátory a ďalšie). Contains 507 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Prídavné látky v potravinách (éčka) | ListBase",
+    "seo_description": "Download Prídavné látky v potravinách (éčka) — 507 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 507 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_prídavných_látok_v_potravinách"
+    ]
+  }
+}

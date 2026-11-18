@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-18T02:15:07.697Z",
-  "total_datasets": 505,
-  "total_records": 286277,
+  "generated": "2026-11-18T02:15:16.380Z",
+  "total_datasets": 506,
+  "total_records": 286784,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "geography",
@@ -2757,6 +2757,32 @@
         "xlsx": {
           "name": "sk-pivovary-a-minipivovary_SK.xlsx",
           "size": 14180
+        }
+      }
+    },
+    {
+      "id": "sk-pridavne-latky-v-potravinach",
+      "name": "Prídavné látky v potravinách (éčka)",
+      "category": "food",
+      "record_count": 507,
+      "columns": [
+        "code",
+        "name",
+        "other_names",
+        "variants",
+        "group"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_prídavných_látok_v_potravinách",
+      "updated": "2026-11",
+      "size": 94093,
+      "files": {
+        "csv": {
+          "name": "sk-pridavne-latky-v-potravinach_SK.csv",
+          "size": 42117
+        },
+        "xlsx": {
+          "name": "sk-pridavne-latky-v-potravinach_SK.xlsx",
+          "size": 24043
         }
       }
     },
