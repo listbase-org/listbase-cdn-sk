@@ -1,0 +1,394 @@
+{
+  "id": "sk-invazne-druhy",
+  "name": "Invázne druhy živočíchov a rastlín na Slovensku",
+  "title": "Invázne druhy živočíchov a rastlín na Slovensku",
+  "description": "Zoznam inváznych nepôvodných druhov živočíchov, bylín a drevín na Slovensku s vedeckým a slovenským menom, spôsobom odstraňovania alebo rozmnožovania.",
+  "category": "environment",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_inváznych_druhov_na_Slovensku",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_inváznych_druhov_na_Slovensku",
+  "updated": "2026-11",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "scientific_name",
+      "label": "Scientific Name",
+      "type": "string"
+    },
+    {
+      "key": "slovak_name",
+      "label": "Slovak Name",
+      "type": "string"
+    },
+    {
+      "key": "kingdom",
+      "label": "Kingdom",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "removal_method",
+      "label": "Removal Method",
+      "type": "string"
+    },
+    {
+      "key": "reproduction",
+      "label": "Reproduction",
+      "type": "string"
+    },
+    {
+      "key": "group_mark",
+      "label": "Group Mark",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "scientific_name": "Arion lusitanicus",
+      "slovak_name": "slizovec iberský",
+      "kingdom": "živočíchy",
+      "group": "Mollusca – mäkkýše",
+      "removal_method": "individuálny odchyt a likvidácia",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Sinanodonta woodiana",
+      "slovak_name": "škľabka ázijská",
+      "kingdom": "živočíchy",
+      "group": "Mollusca – mäkkýše",
+      "removal_method": "individuálny odchyt a likvidácia",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Orconectes limosus",
+      "slovak_name": "rak pruhovaný",
+      "kingdom": "živočíchy",
+      "group": "Crustacea – kôrovce",
+      "removal_method": "individuálny odchyt a nakladanie",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Pacifastacus leniusculus",
+      "slovak_name": "rak signálny",
+      "kingdom": "živočíchy",
+      "group": "Crustacea – kôrovce",
+      "removal_method": "individuálny odchyt a nakladanie",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Procambarus clarkii",
+      "slovak_name": "rak červený",
+      "kingdom": "živočíchy",
+      "group": "Crustacea – kôrovce",
+      "removal_method": "individuálny odchyt a nakladanie",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Ameiurus melas",
+      "slovak_name": "sumček čierny",
+      "kingdom": "živočíchy",
+      "group": "Pisces – ryby",
+      "removal_method": "individuálny odchyt a nakladanie",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Gasterosteus aculeatus",
+      "slovak_name": "pichľavka siná",
+      "kingdom": "živočíchy",
+      "group": "Pisces – ryby",
+      "removal_method": "individuálny odchyt a nakladanie",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Lepomis gibbosus",
+      "slovak_name": "slnečnica pestrá",
+      "kingdom": "živočíchy",
+      "group": "Pisces – ryby",
+      "removal_method": "individuálny odchyt a nakladanie",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Neogobius gymnotrachelus",
+      "slovak_name": "býčko nahotemenný",
+      "kingdom": "živočíchy",
+      "group": "Pisces – ryby",
+      "removal_method": "individuálny odchyt a nakladanie",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Neogobius fluviatilis",
+      "slovak_name": "býčko piesočný",
+      "kingdom": "živočíchy",
+      "group": "Pisces – ryby",
+      "removal_method": "individuálny odchyt a nakladanie",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Neogobius kessleri",
+      "slovak_name": "býčko hlavatý",
+      "kingdom": "živočíchy",
+      "group": "Pisces – ryby",
+      "removal_method": "individuálny odchyt a nakladanie",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Neogobius melanostomus",
+      "slovak_name": "býčko čiernoústy",
+      "kingdom": "živočíchy",
+      "group": "Pisces – ryby",
+      "removal_method": "individuálny odchyt a nakladanie",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Perccottus glenii",
+      "slovak_name": "býčkovec amurský",
+      "kingdom": "živočíchy",
+      "group": "Pisces – ryby",
+      "removal_method": "individuálny odchyt a nakladanie",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Pseudorasbora parva",
+      "slovak_name": "hrúzovec sieťovaný",
+      "kingdom": "živočíchy",
+      "group": "Pisces – ryby",
+      "removal_method": "individuálny odchyt a nakladanie",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Rana catesbeiana",
+      "slovak_name": "skokan volský",
+      "kingdom": "živočíchy",
+      "group": "Amphibia-obojživelníky",
+      "removal_method": "individuálny odchyt a nakladanie",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Chrysemys picta",
+      "slovak_name": "korytnačka maľovaná",
+      "kingdom": "živočíchy",
+      "group": "Reptilia - plazy",
+      "removal_method": "individuálny odchyt a nakladanie",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Trachemys scripta",
+      "slovak_name": "korytnačka písmenková",
+      "kingdom": "živočíchy",
+      "group": "Reptilia - plazy",
+      "removal_method": "individuálny odchyt a nakladanie",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Oxyura jamaicensis",
+      "slovak_name": "potápnica bielolíca",
+      "kingdom": "živočíchy",
+      "group": "Aves - vtáky",
+      "removal_method": "individuálny odchyt a nakladanie",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Mustela vison",
+      "slovak_name": "norok americký",
+      "kingdom": "živočíchy",
+      "group": "Mammalia – cicavce",
+      "removal_method": "individuálny odchyt alebo ulovenie a nakladanie",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Myocastor coypus",
+      "slovak_name": "nutria riečna /vodná",
+      "kingdom": "živočíchy",
+      "group": "Mammalia – cicavce",
+      "removal_method": "individuálny odchyt alebo ulovenie a nakladanie",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Nyctereutes procyonoides",
+      "slovak_name": "psík medvedíkovitý",
+      "kingdom": "živočíchy",
+      "group": "Mammalia – cicavce",
+      "removal_method": "individuálny odchyt alebo ulovenie a nakladanie",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Ondatra zibethicus",
+      "slovak_name": "ondatra pižmová",
+      "kingdom": "živočíchy",
+      "group": "Mammalia – cicavce",
+      "removal_method": "individuálny odchyt alebo ulovenie a nakladanie",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Procyon lotor",
+      "slovak_name": "medvedík čistotný",
+      "kingdom": "živočíchy",
+      "group": "Mammalia – cicavce",
+      "removal_method": "individuálny odchyt alebo ulovenie a nakladanie",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Callosciurus erythraeus",
+      "slovak_name": "veverica červenkavá",
+      "kingdom": "živočíchy",
+      "group": "Mammalia – cicavce",
+      "removal_method": "individuálny odchyt a nakladanie",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Sciurus carolinensis",
+      "slovak_name": "veverica sivá",
+      "kingdom": "živočíchy",
+      "group": "Mammalia – cicavce",
+      "removal_method": "individuálny odchyt a nakladanie",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Sciurus niger",
+      "slovak_name": "veverica líščia",
+      "kingdom": "živočíchy",
+      "group": "Mammalia – cicavce",
+      "removal_method": "individuálny odchyt a nakladanie",
+      "reproduction": "",
+      "group_mark": ""
+    },
+    {
+      "scientific_name": "Ambrosia artemisiifolia",
+      "slovak_name": "ambrózia palinolistá",
+      "kingdom": "rastliny – bylinné druhy",
+      "group": "",
+      "removal_method": "",
+      "reproduction": "generatívne",
+      "group_mark": "B"
+    },
+    {
+      "scientific_name": "Asclepias syriaca",
+      "slovak_name": "glejovka americká",
+      "kingdom": "rastliny – bylinné druhy",
+      "group": "",
+      "removal_method": "",
+      "reproduction": "generatívne vegetatívne",
+      "group_mark": "C"
+    },
+    {
+      "scientific_name": "Fallopia sp. (syn. Reynoutria)",
+      "slovak_name": "pohánkovec (krídlatka)",
+      "kingdom": "rastliny – bylinné druhy",
+      "group": "",
+      "removal_method": "",
+      "reproduction": "vegetatívne",
+      "group_mark": "A"
+    },
+    {
+      "scientific_name": "Heracleum mantegazzianum",
+      "slovak_name": "boľševník obrovský",
+      "kingdom": "rastliny – bylinné druhy",
+      "group": "",
+      "removal_method": "",
+      "reproduction": "generatívne",
+      "group_mark": "B"
+    },
+    {
+      "scientific_name": "Impatiens glandulifera",
+      "slovak_name": "netýkavka žliazkatá",
+      "kingdom": "rastliny – bylinné druhy",
+      "group": "",
+      "removal_method": "",
+      "reproduction": "generatívne vegetatívne",
+      "group_mark": "C"
+    },
+    {
+      "scientific_name": "Solidago canadensis",
+      "slovak_name": "zlatobyľ kanadská",
+      "kingdom": "rastliny – bylinné druhy",
+      "group": "",
+      "removal_method": "",
+      "reproduction": "generatívne vegetatívne",
+      "group_mark": "C"
+    },
+    {
+      "scientific_name": "Solidago gigantea",
+      "slovak_name": "zlatobyľ obrovská",
+      "kingdom": "rastliny – bylinné druhy",
+      "group": "",
+      "removal_method": "",
+      "reproduction": "generatívne vegetatívne",
+      "group_mark": "C"
+    },
+    {
+      "scientific_name": "Ailanthus altissima",
+      "slovak_name": "pajaseň žliazkatý",
+      "kingdom": "rastliny – dreviny",
+      "group": "",
+      "removal_method": "",
+      "reproduction": "generatívne vegetatívne",
+      "group_mark": "D"
+    },
+    {
+      "scientific_name": "Amorpha fruticosa",
+      "slovak_name": "beztvarec krovitý",
+      "kingdom": "rastliny – dreviny",
+      "group": "",
+      "removal_method": "",
+      "reproduction": "generatívne vegetatívne",
+      "group_mark": "C"
+    },
+    {
+      "scientific_name": "Lycium barbarum",
+      "slovak_name": "kustovnica cudzia",
+      "kingdom": "rastliny – dreviny",
+      "group": "",
+      "removal_method": "",
+      "reproduction": "generatívne vegetatívne",
+      "group_mark": "C"
+    },
+    {
+      "scientific_name": "Negundo aceroides",
+      "slovak_name": "javorovec jaseňolistý",
+      "kingdom": "rastliny – dreviny",
+      "group": "",
+      "removal_method": "",
+      "reproduction": "generatívne",
+      "group_mark": "B"
+    }
+  ],
+  "meta": {
+    "title": "Invázne druhy živočíchov a rastlín na Slovensku - Free Download",
+    "description": "Zoznam inváznych nepôvodných druhov živočíchov, bylín a drevín na Slovensku s vedeckým a slovenským menom, spôsobom odstraňovania alebo rozmnožovania. Contains 37 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Invázne druhy živočíchov a rastlín na Slovensku | ListBase",
+    "seo_description": "Download Invázne druhy živočíchov a rastlín na Slovensku — 37 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 37 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_inváznych_druhov_na_Slovensku"
+    ]
+  }
+}
