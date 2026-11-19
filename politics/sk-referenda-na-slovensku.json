@@ -1,0 +1,151 @@
+{
+  "id": "sk-referenda-na-slovensku",
+  "name": "Referendá na Slovensku (1994 – 2026)",
+  "title": "Referendá na Slovensku (1994 – 2026)",
+  "description": "Všetky referendá v samostatnej Slovenskej republike s iniciátorom, otázkami, účasťou, podielom hlasov za a proti a platnosťou.",
+  "category": "politics",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_referend_na_Slovensku",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_referend_na_Slovensku",
+  "updated": "2026-11",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "initiator",
+      "label": "Initiator",
+      "type": "string"
+    },
+    {
+      "key": "question",
+      "label": "Question",
+      "type": "string"
+    },
+    {
+      "key": "turnout",
+      "label": "Turnout",
+      "type": "string"
+    },
+    {
+      "key": "yes",
+      "label": "Yes",
+      "type": "string"
+    },
+    {
+      "key": "no",
+      "label": "No",
+      "type": "string"
+    },
+    {
+      "key": "valid",
+      "label": "Valid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1994,
+      "initiator": "Ján Ľupták",
+      "question": "Súhlasíte, aby sa prijal zákon o preukazovaní finančných prostriedkov, ktoré boli použité pri dražbách a privatizácii?",
+      "turnout": "19,96 %",
+      "yes": "N/A",
+      "no": "N/A",
+      "valid": "nie"
+    },
+    {
+      "year": 1997,
+      "initiator": "HZDS (zmarené)",
+      "question": "1. Ste za vstup SR do NATO? 2. Ste za rozmiestnenie jadrových zbraní na území SR? 3. Ste za rozmiestnenie vojenských základní na území SR? 4. Súhlasíte, aby prezidenta SR volili občania SR podľa priloženého návrhu ústavného zákona priamo?",
+      "turnout": "9,53 %",
+      "yes": "N/A",
+      "no": "N/A",
+      "valid": "nie"
+    },
+    {
+      "year": 1998,
+      "initiator": "HZDS",
+      "question": "„Ste za to, aby Národná rada Slovenskej republiky prijala ústavný zákon, ktorým sa zakáže privatizácia týchto strategických podnikov: 1. Západoslovenské energetické závody, š.p., Bratislava, 2. Stredoslovenské energetické závody, š.p., Žilina, 3. Východoslovenské energetické závody, š.p., Košice, 4. Slovenský plynárenský priemysel, š.p., Bratislava, 5. Slovenské elektrárne, a.s., Bratislava, 6. Transpetrol, a.s., Bratislava?“",
+      "turnout": "44,25 %",
+      "yes": "> 90 %",
+      "no": "< 10 %",
+      "valid": "nie"
+    },
+    {
+      "year": 2000,
+      "initiator": "HZDS a SNS",
+      "question": "„Ste za to, aby sa Národná rada Slovenskej republiky uzniesla na ústavnom zákone: Volebné obdobie NR SR, zvolenej v roku 1998, sa končí dňom volieb do Národnej rady Slovenskej republiky, ktoré sa vykonajú do 150 dní odo dňa vyhlásenia výsledkov referenda?“",
+      "turnout": "20,03 %",
+      "yes": "92,74 %",
+      "no": "4,8 %",
+      "valid": "nie"
+    },
+    {
+      "year": 2003,
+      "initiator": "Podmienka vstupu do EÚ",
+      "question": "„Súhlasíte s tým, aby sa SR stala členským štátom EÚ?“",
+      "turnout": "52,15 %",
+      "yes": "92,46 %",
+      "no": "6,2 %",
+      "valid": "áno"
+    },
+    {
+      "year": 2004,
+      "initiator": "KOZ",
+      "question": "„Ste za to, aby poslanci NR SR prijali ústavný zákon o skrátení III. volebného obdobia NR SR tak, aby sa voľby do NR SR konali v roku 2004?“",
+      "turnout": "35,86 %",
+      "yes": "86,78 %",
+      "no": "11,93 %",
+      "valid": "nie"
+    },
+    {
+      "year": 2010,
+      "initiator": "občianska iniciatíva a zakladanie SaS",
+      "question": "1. „Súhlasíte s tým, aby Národná rada Slovenskej republiky zákonom zrušila povinnosť fyzických osôb a právnických osôb platiť úhradu za služby verejnosti poskytované Slovenskou televíziou a Slovenským rozhlasom?“ 2. „Súhlasíte s tým, aby Národná rada Slovenskej republiky zákonom rozšírila možnosť prejednať konanie poslanca Národnej rady Slovenskej republiky ako priestupok na všetky priestupky podľa zákona o priestupkoch?“ 3. „Súhlasíte s tým, aby Národná rada Slovenskej republiky ústavným zákonom znížila počet poslancov Národnej rady Slovenskej republiky na 100 s účinnosťou od nasledujúceho volebného obdobia?“ 4. „Súhlasíte s tým, aby Národná rada Slovenskej republiky zákonom ustanovila, že orgány verejnej moci môžu obstarávať osobné motorové vozidlá s obstarávacou cenou maximálne 40 tisíc eur?“ 5. „Súhlasíte s tým, aby Národná rada Slovenskej republiky ustanovila možnosť voliť poslancov Národnej rady Slovenskej republiky a poslancov Európskeho parlamentu prostredníctvom internetu?“ 6. „Súhlasíte s tým, aby Národná rada Slovenskej republiky zákonom vyňala osoby poverené výkonom verejnej moci z možnosti uplatniť právo na odpoveď podľa tlačového zákona?“",
+      "turnout": "22,84 %",
+      "yes": "87,24 % 95,40 % 92,76 % 88,84 % 70,46 % 74,93 %",
+      "no": "9,02 % 1,73 % 3,85 % 6,16 % 22,22 % 13,44 %",
+      "valid": "nie"
+    },
+    {
+      "year": 2015,
+      "initiator": "Aliancia za rodinu",
+      "question": "1. „Súhlasíte s tým, aby sa manželstvom nemohlo nazývať žiadne iné spolužitie osôb okrem zväzku medzi jedným mužom a jednou ženou?“ 2. „Súhlasíte s tým, aby párom alebo skupinám osôb rovnakého pohlavia nebolo umožnené osvojenie (adopcia) detí a ich následná výchova?“ 3. „Súhlasíte s tým, aby školy nemohli vyžadovať účasť detí na vyučovaní v oblasti sexuálneho správania či eutanázie, ak ich rodičia alebo deti samy nesúhlasia s obsahom vyučovania?“",
+      "turnout": "21,41 %",
+      "yes": "94,50 % 92,43 % 90,32 %",
+      "no": "4,13 % 5,54 % 7,34 %",
+      "valid": "nie"
+    },
+    {
+      "year": 2023,
+      "initiator": "SMER-SD a ďalšie opozičné strany",
+      "question": "„Súhlasíte s tým, že predčasné skončenie volebného obdobia Národnej rady Slovenskej republiky je možné uskutočniť referendom alebo uznesením Národnej rady Slovenskej republiky, a to zmenou Ústavy Slovenskej republiky?“",
+      "turnout": "27,25 %",
+      "yes": "97,51 %",
+      "no": "1,54 %",
+      "valid": "nie"
+    },
+    {
+      "year": 2026,
+      "initiator": "Demokrati",
+      "question": "1. „Súhlasíte so zrušením tzv. doživotnej renty, napríklad, pre Roberta Fica, ustanovenej v paragrafe 24a ods. 1 písm. b) zákona č. 120/1993 Z. z. o platových pomeroch niektorých ústavných činiteľov SR v aktuálnom znení?“ 2. „Súhlasíte s tým, aby boli obnovené Úrad špeciálnej prokuratúry a Národná kriminálna agentúra?“",
+      "turnout": "16,13 %",
+      "yes": "93,43 % 92,23 %",
+      "no": "5,33 % 6,07",
+      "valid": "nie"
+    }
+  ],
+  "meta": {
+    "title": "Referendá na Slovensku (1994 – 2026) - Free Download",
+    "description": "Všetky referendá v samostatnej Slovenskej republike s iniciátorom, otázkami, účasťou, podielom hlasov za a proti a platnosťou. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Referendá na Slovensku (1994 – 2026) | ListBase",
+    "seo_description": "Download Referendá na Slovensku (1994 – 2026) — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_referend_na_Slovensku"
+    ]
+  }
+}

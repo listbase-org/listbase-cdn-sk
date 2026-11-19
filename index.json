@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-19T02:16:07.122Z",
-  "total_datasets": 510,
-  "total_records": 287328,
+  "generated": "2026-11-19T02:16:15.313Z",
+  "total_datasets": 511,
+  "total_records": 287338,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "reference",
@@ -5771,6 +5771,34 @@
         "xlsx": {
           "name": "sk-prezidenti_SK.xlsx",
           "size": 8742
+        }
+      }
+    },
+    {
+      "id": "sk-referenda-na-slovensku",
+      "name": "Referendá na Slovensku (1994 – 2026)",
+      "category": "politics",
+      "record_count": 10,
+      "columns": [
+        "year",
+        "initiator",
+        "question",
+        "turnout",
+        "yes",
+        "no",
+        "valid"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_referend_na_Slovensku",
+      "updated": "2026-11",
+      "size": 7610,
+      "files": {
+        "csv": {
+          "name": "sk-referenda-na-slovensku_SK.csv",
+          "size": 4554
+        },
+        "xlsx": {
+          "name": "sk-referenda-na-slovensku_SK.xlsx",
+          "size": 8989
         }
       }
     },
