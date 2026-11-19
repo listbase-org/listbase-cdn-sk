@@ -1,0 +1,1879 @@
+{
+  "id": "sk-slovenske-filmy-2010-2019-navstevnost",
+  "name": "Slovenské filmy 2010 – 2019 a ich návštevnosť v kinách",
+  "title": "Slovenské filmy 2010 – 2019 a ich návštevnosť v kinách",
+  "description": "Slovenské celovečerné a dokumentárne filmy z rokov 2010 – 2019 s režisérom, hercami, žánrom, koprodukciou a návštevnosťou v slovenských kinách.",
+  "category": "entertainment",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_slovenských_filmov_(2010_–_2019)",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_slovenských_filmov_(2010_–_2019)",
+  "updated": "2026-11",
+  "record_count": 202,
+  "columns": [
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "director",
+      "label": "Director",
+      "type": "string"
+    },
+    {
+      "key": "cast_notes",
+      "label": "Cast Notes",
+      "type": "string"
+    },
+    {
+      "key": "genre",
+      "label": "Genre",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "coproduction",
+      "label": "Coproduction",
+      "type": "string"
+    },
+    {
+      "key": "cinema_admissions",
+      "label": "Cinema Admissions",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "title": "Legenda o lietajúcom Cypriánovi",
+      "director": "Mariana Čengel Solčanská",
+      "cast_notes": "Marko Igonda, Pawel Malaszynski, Alexander Domogarov",
+      "genre": "Historický, dráma",
+      "year": 2010,
+      "coproduction": "",
+      "cinema_admissions": 57583
+    },
+    {
+      "title": "Mongolsko – V tieni Džingischána",
+      "director": "Pavol Barabáš",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2010,
+      "coproduction": "",
+      "cinema_admissions": ""
+    },
+    {
+      "title": "Občiansky preukaz",
+      "director": "Ondřej Trojan",
+      "cast_notes": "Libor Kovář, Matouš Vrba, Jan Vlček, Jakub Šárka",
+      "genre": "Komédia, dráma",
+      "year": 2010,
+      "coproduction": "",
+      "cinema_admissions": 145927
+    },
+    {
+      "title": "Chránené územie",
+      "director": "Adam Hanuljak",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2010,
+      "coproduction": "",
+      "cinema_admissions": ""
+    },
+    {
+      "title": "Pouta",
+      "director": "Radim Špaček",
+      "cast_notes": "Ondřej Malý, Kristína Farkašová, Lukáš Latinák, Oldřich Kaiser",
+      "genre": "Psychologický, dráma, triler",
+      "year": 2010,
+      "coproduction": "",
+      "cinema_admissions": ""
+    },
+    {
+      "title": "Devínsky masaker",
+      "director": "Gejza Dezorz, Jozef Páleník",
+      "cast_notes": "Pavel Vrabec",
+      "genre": "Dokumentárny, dráma",
+      "year": 2011,
+      "coproduction": "",
+      "cinema_admissions": ""
+    },
+    {
+      "title": "Mŕtvola musí zomrieť",
+      "director": "Jozef Paštéka",
+      "cast_notes": "Miroslav Noga, Peter Marcin, Veronika Žilková, Ľubomír Paulovič",
+      "genre": "Komédia",
+      "year": 2011,
+      "coproduction": "",
+      "cinema_admissions": ""
+    },
+    {
+      "title": "Marhuľový ostrov",
+      "director": "Peter Bebjak",
+      "cast_notes": "Szidi Tobias, Attila Mokos, Peter Nádasdi",
+      "genre": "Dráma, romantický",
+      "year": 2011,
+      "coproduction": "",
+      "cinema_admissions": "13 700+"
+    },
+    {
+      "title": "Nickyho rodina",
+      "director": "Matej Mináč",
+      "cast_notes": "Jana Kepková",
+      "genre": "Dokumentárny, historický",
+      "year": 2011,
+      "coproduction": "",
+      "cinema_admissions": ""
+    },
+    {
+      "title": "Cigán",
+      "director": "Martin Šulík",
+      "cast_notes": "Ján Mižigár, Miroslav Gulyas, Attila Mokos, Miroslava Jarábeková Slovenská nominácia na 84. Cenách Akadémie za najlepší cudzojazyčný film",
+      "genre": "Dráma",
+      "year": 2011,
+      "coproduction": "",
+      "cinema_admissions": ""
+    },
+    {
+      "title": "Lidice",
+      "director": "Petr Nikolaev",
+      "cast_notes": "Karel Roden, Zuzana Fialová, Roman Luknár, Zuzana Bydžovská",
+      "genre": "Dráma, historický",
+      "year": 2011,
+      "coproduction": "",
+      "cinema_admissions": ""
+    },
+    {
+      "title": "Dom",
+      "director": "Zuzana Liová",
+      "cast_notes": "Miroslav Krobot, Taťjana Medvecká, Judit Bárdos, Ester Geislerová Cena Slnko v sieti 2012 za najlepší hraný film",
+      "genre": "Dráma",
+      "year": 2011,
+      "coproduction": "",
+      "cinema_admissions": ""
+    },
+    {
+      "title": "Erotikon",
+      "director": "Gustav Machatý",
+      "cast_notes": "Karel Schleichert, Theodor Pištěk",
+      "genre": "Dráma",
+      "year": 2011,
+      "coproduction": "",
+      "cinema_admissions": ""
+    },
+    {
+      "title": "Lóve",
+      "director": "Jakub Kroner",
+      "cast_notes": "Michal Nemtuda, Kristína Svarinská, Jakub Gogál, Dušan Cinkota",
+      "genre": "Dráma, triler",
+      "year": 2011,
+      "coproduction": "",
+      "cinema_admissions": 122870
+    },
+    {
+      "title": "Viditeľný svet",
+      "director": "Peter Krištúfek",
+      "cast_notes": "Ivan Trojan, Jana Hlaváčová, Kristína Turjanová, Martin Mňahončák",
+      "genre": "Dráma",
+      "year": 2011,
+      "coproduction": "",
+      "cinema_admissions": ""
+    },
+    {
+      "title": "Trou de fer: Železná diera",
+      "director": "Pavol Barabáš",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2011,
+      "coproduction": "",
+      "cinema_admissions": ""
+    },
+    {
+      "title": "Muži revolúcie",
+      "director": "Zuzana Piussi",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2012,
+      "coproduction": "",
+      "cinema_admissions": 1129
+    },
+    {
+      "title": "Alois Nebel",
+      "director": "Tomáš Luňák",
+      "cast_notes": "Miroslav Krobot, Karel Roden, Václav Neužil mladší, Tereza Ramba",
+      "genre": "Animovaný, dráma",
+      "year": 2012,
+      "coproduction": "",
+      "cinema_admissions": 1903
+    },
+    {
+      "title": "Immortalitas",
+      "director": "Erik Bošnák",
+      "cast_notes": "Karol Csino, Pavel Višňovský, Lujza Garajová-Schrameková",
+      "genre": "Akčný, sci-fi",
+      "year": 2012,
+      "coproduction": "",
+      "cinema_admissions": 777
+    },
+    {
+      "title": "Modrý tiger",
+      "director": "Petr Oukropec",
+      "cast_notes": "Linda Votrubová, Jakub Wunsch, Barbora Hrzánová, Jan Hartl",
+      "genre": "Rodinný, komédia",
+      "year": 2012,
+      "coproduction": "",
+      "cinema_admissions": 6716
+    },
+    {
+      "title": "Spiknutie",
+      "director": "Gabriel Hoštaj, Roman Lazar",
+      "cast_notes": "Michaela Drotárová, Dušan Cinkota, Zuzana Kocúriková",
+      "genre": "Horor",
+      "year": 2012,
+      "coproduction": "",
+      "cinema_admissions": ""
+    },
+    {
+      "title": "Zlo",
+      "director": "Peter Bebjak",
+      "cast_notes": "Kamil Kollárik, Andrej Dúbravský, Tom Sotak",
+      "genre": "Horor",
+      "year": 2012,
+      "coproduction": "",
+      "cinema_admissions": 6852
+    },
+    {
+      "title": "eŠteBák",
+      "director": "Juraj Nvota",
+      "cast_notes": "Jiří Mádl, Michaela Majerníková, Jan Budař, Ondřej Vetchý",
+      "genre": "Dráma, historický",
+      "year": 2012,
+      "coproduction": "",
+      "cinema_admissions": 25310
+    },
+    {
+      "title": "Anjeli",
+      "director": "Róbert Šveda",
+      "cast_notes": "Peter Bebjak, Kristína Farkašová, Elena Podzámska, Ján Jackuliak",
+      "genre": "Dráma",
+      "year": 2012,
+      "coproduction": "",
+      "cinema_admissions": 956
+    },
+    {
+      "title": "Príliš mladá noc",
+      "director": "Olmo Omerzu",
+      "cast_notes": "Martin Pechlát, Jiří Černý, Natálie Řehořová",
+      "genre": "Dráma, psychologický",
+      "year": 2012,
+      "coproduction": "",
+      "cinema_admissions": ""
+    },
+    {
+      "title": "Tigre v meste",
+      "director": "Juraj Krásnohorský",
+      "cast_notes": "Kristína Tóthová, Milan Ondrík, Diana Mórová",
+      "genre": "Komédia",
+      "year": 2012,
+      "coproduction": "",
+      "cinema_admissions": 7420
+    },
+    {
+      "title": "Tanec medzi črepinami",
+      "director": "Marek Ťapák",
+      "cast_notes": "Marek Ťapák, Anna Javorková, Stanislav Marišler",
+      "genre": "Dráma",
+      "year": 2012,
+      "coproduction": "",
+      "cinema_admissions": 10281
+    },
+    {
+      "title": "Don't Stop",
+      "director": "Richard Řeřicha",
+      "cast_notes": "Patrik Děrgel, Lukáš Reichl, Jiří Kocman, Jakub Zedníček",
+      "genre": "Dráma",
+      "year": 2012,
+      "coproduction": "",
+      "cinema_admissions": 1362
+    },
+    {
+      "title": "Tak fajn!",
+      "director": "Pavol Janík ml.",
+      "cast_notes": "Marián Labuda, Tomáš Palonder, Marián Labuda ml., Zuzana Norisová",
+      "genre": "Komédia, romantický, hudobný",
+      "year": 2012,
+      "coproduction": "",
+      "cinema_admissions": 13502
+    },
+    {
+      "title": "Dozvuky",
+      "director": "Władysław Pasikowski",
+      "cast_notes": "Ireneusz Czop, Maciej Stuhr, Jerzy Radziwiłowicz, Zuzana Fialová",
+      "genre": "Dráma",
+      "year": 2012,
+      "coproduction": "",
+      "cinema_admissions": ""
+    },
+    {
+      "title": "Zvonky šťastia",
+      "director": "Marek Šulík, Jana Bučková",
+      "cast_notes": "",
+      "genre": "Dokumentárny, komédia",
+      "year": 2012,
+      "coproduction": "",
+      "cinema_admissions": 1504
+    },
+    {
+      "title": "Až do mesta Aš",
+      "director": "Iveta Grófová",
+      "cast_notes": "Dorota Billá, Silvia Halušicová, Robin Horký Slovenská nominácia na 85. Cenách Akadémie za najlepší cudzojazyčný film",
+      "genre": "Dráma",
+      "year": 2012,
+      "coproduction": "",
+      "cinema_admissions": 2409
+    },
+    {
+      "title": "V tieni",
+      "director": "David Ondříček",
+      "cast_notes": "Ivan Trojan, Soňa Norisová, Jiří Štěpnička, Marek Taclík",
+      "genre": "Kriminálny, dráma, triler",
+      "year": 2012,
+      "coproduction": "",
+      "cinema_admissions": 5371
+    },
+    {
+      "title": "7 dní hriechov",
+      "director": "Jiří Chlumský",
+      "cast_notes": "Ondřej Vetchý, Vica Kerekes, Attila Mokos, Igor Bareš",
+      "genre": "Dráma",
+      "year": 2012,
+      "coproduction": "",
+      "cinema_admissions": 4658
+    },
+    {
+      "title": "Cigáni idú do volieb",
+      "director": "Jaroslav Vojtek",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2012,
+      "coproduction": "",
+      "cinema_admissions": 378
+    },
+    {
+      "title": "Od Fica do Fica",
+      "director": "Zuzana Piussi",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2012,
+      "coproduction": "",
+      "cinema_admissions": 302
+    },
+    {
+      "title": "Krehká identita",
+      "director": "Zuzana Piussi",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2013,
+      "coproduction": "",
+      "cinema_admissions": 1483
+    },
+    {
+      "title": "Miluj ma alebo odíď",
+      "director": "Mariana Čengel Solčanská",
+      "cast_notes": "Marko Igonda, Éva Bandor, Diana Pavlačková",
+      "genre": "Dráma",
+      "year": 2013,
+      "coproduction": "",
+      "cinema_admissions": 14139
+    },
+    {
+      "title": "Ďakujem, dobre",
+      "director": "Mátyás Prikler",
+      "cast_notes": "Attila Mokos, Miroslav Krobot, Zuzana Mauréry, Jana Oľhová",
+      "genre": "Dráma",
+      "year": 2013,
+      "coproduction": "",
+      "cinema_admissions": 1649
+    },
+    {
+      "title": "Nový život",
+      "director": "Adam Oľha",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2013,
+      "coproduction": "",
+      "cinema_admissions": 2635
+    },
+    {
+      "title": "Attonitas",
+      "director": "Jaroslav Mottl",
+      "cast_notes": "Gabriela Marcinková, Petra Blesáková, Peter Brajerčík",
+      "genre": "Horor",
+      "year": 2013,
+      "coproduction": "",
+      "cinema_admissions": 1736
+    },
+    {
+      "title": "Môj pes Killer",
+      "director": "Mira Fornay",
+      "cast_notes": "neuvedení herci Slovenská nominácia na 86. Cenách Akadémie za najlepší cudzojazyčný film Cena Slnko v sieti 2014 za najlepší hraný film",
+      "genre": "Dráma",
+      "year": 2013,
+      "coproduction": "",
+      "cinema_admissions": 3329
+    },
+    {
+      "title": "Exponáty alebo príbehy z kaštieľa",
+      "director": "Eva Borušovičová",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2013,
+      "coproduction": "",
+      "cinema_admissions": 425
+    },
+    {
+      "title": "Absolventi – Sloboda nie je zadarmo",
+      "director": "Tomáš Krupa",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2013,
+      "coproduction": "",
+      "cinema_admissions": 1819
+    },
+    {
+      "title": "Intrigy",
+      "director": "Juraj Kilián",
+      "cast_notes": "Nadežda Jelušová-Vladařová, Tomáš Palonder, Michal Gazdík",
+      "genre": "Historický, komédia",
+      "year": 2013,
+      "coproduction": "",
+      "cinema_admissions": 46
+    },
+    {
+      "title": "Kauza Cervanová",
+      "director": "Robert Kirchhoff",
+      "cast_notes": "Cena Slnko v sieti 2014 za najlepší dokumentárny film",
+      "genre": "Dokumentárny",
+      "year": 2013,
+      "coproduction": "",
+      "cinema_admissions": 8565
+    },
+    {
+      "title": "Kováč z Podlesia",
+      "director": "Pavel Göbl",
+      "cast_notes": "Bolek Polívka, Josef Somr, Milan Markovič, Jiří Pecha",
+      "genre": "Rodinný, dobrodružný, animovaný",
+      "year": 2013,
+      "coproduction": "",
+      "cinema_admissions": 2354
+    },
+    {
+      "title": "Zázrak",
+      "director": "Juraj Lehotský",
+      "cast_notes": "Michaela Bendulová, Robert Roth",
+      "genre": "Dráma, psychologický",
+      "year": 2013,
+      "coproduction": "",
+      "cinema_admissions": 5153
+    },
+    {
+      "title": "Zamatoví teroristi",
+      "director": "Peter Kerekes, Ivan Ostrochovský, Pavol Pekarčík",
+      "cast_notes": "Marián Čurko",
+      "genre": "Dokumentárny",
+      "year": 2013,
+      "coproduction": "",
+      "cinema_admissions": 763
+    },
+    {
+      "title": "Ako nikdy",
+      "director": "Zdeněk Tyc",
+      "cast_notes": "Petra Špalková, Taťjana Medvecká, Jiří Schmitzer",
+      "genre": "Dráma",
+      "year": 2013,
+      "coproduction": "",
+      "cinema_admissions": 208
+    },
+    {
+      "title": "Banícky chlebíček",
+      "director": "Roman Fábian",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2013,
+      "coproduction": "",
+      "cinema_admissions": 1285
+    },
+    {
+      "title": "Colette",
+      "director": "Milan Cieslar",
+      "cast_notes": "Clémence Thioly, Jiří Mádl, Ondřej Vetchý, Petr Vaněk",
+      "genre": "Dráma, psychologický",
+      "year": 2013,
+      "coproduction": "",
+      "cinema_admissions": 17279
+    },
+    {
+      "title": "Cyril a Metod – Apoštoli Slovanov",
+      "director": "Petr Nikolaev",
+      "cast_notes": "Roman Zach, Ondřej Novák, Josef Abrhám, Milan Bahúl",
+      "genre": "Historická dráma",
+      "year": 2013,
+      "coproduction": "",
+      "cinema_admissions": ""
+    },
+    {
+      "title": "Kandidát",
+      "director": "Jonáš Karásek",
+      "cast_notes": "Marek Majeský, Roman Luknár, Michal Kubovčík, Monika Hilmerová",
+      "genre": "Triler",
+      "year": 2013,
+      "coproduction": "",
+      "cinema_admissions": 80234
+    },
+    {
+      "title": "Výstava",
+      "director": "Andrej Kolenčík, Peter Begányi",
+      "cast_notes": "Jan Budař, Dana Košická, Ján Slovák",
+      "genre": "Komédia",
+      "year": 2013,
+      "coproduction": "",
+      "cinema_admissions": ""
+    },
+    {
+      "title": "Babie leto",
+      "director": "Gejza Dezorz",
+      "cast_notes": "Alexander Bárta, Agi Gubik, Evgenij Libezňuk",
+      "genre": "Kriminálny, triler",
+      "year": 2013,
+      "coproduction": "",
+      "cinema_admissions": 5191
+    },
+    {
+      "title": "Dočkáme sa Ježiška?",
+      "director": "Lenka Kny",
+      "cast_notes": "Josef Abrhám, Libuše Šafránková, Dolores Heredia, Aislinn Derbez",
+      "genre": "Romantický",
+      "year": 2013,
+      "coproduction": "",
+      "cinema_admissions": 2368
+    },
+    {
+      "title": "Eugéniovia",
+      "director": "Pavel Štingl",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2013,
+      "coproduction": "",
+      "cinema_admissions": ""
+    },
+    {
+      "title": "Všetky moje deti",
+      "director": "Ladislav Kaboš",
+      "cast_notes": "Marián Kuffa",
+      "genre": "Dokumentárny",
+      "year": 2014,
+      "coproduction": "",
+      "cinema_admissions": 25523
+    },
+    {
+      "title": "Arcibiskup Bezák, zbohom",
+      "director": "Oľga Záblacká",
+      "cast_notes": "Róbert Bezák",
+      "genre": "Dokumentárny",
+      "year": 2014,
+      "coproduction": "",
+      "cinema_admissions": 12106
+    },
+    {
+      "title": "Štvorec v kruhu",
+      "director": "Ľubomír Štecko",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2014,
+      "coproduction": "",
+      "cinema_admissions": 300
+    },
+    {
+      "title": "Polárnik",
+      "director": "Pavol Barabáš",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2014,
+      "coproduction": "",
+      "cinema_admissions": ""
+    },
+    {
+      "title": "Slovensko 2.0",
+      "director": "Martin Šulík, Juraj Herz, Peter Krištúfek, Peter Kerekes, Ondrej Rudavský, Zuzana Liová, Viera Čákanyová, Iveta Grófová",
+      "cast_notes": "Milan Lasica, Emília Vášáryová, Juraj Herz",
+      "genre": "Dokumentárny",
+      "year": 2014,
+      "coproduction": "",
+      "cinema_admissions": 918
+    },
+    {
+      "title": "Krok do tmy",
+      "director": "Miloslav Luther",
+      "cast_notes": "Marko Igonda, Monika Haasová, Miroslav Donutil, Ady Hajdu Slovenská nominácia na 87. Cenách Akadémie za najlepší cudzojazyčný film",
+      "genre": "Dráma",
+      "year": 2014,
+      "coproduction": "",
+      "cinema_admissions": 1364
+    },
+    {
+      "title": "Zejtra napořád",
+      "director": "Rudolf Havlík",
+      "cast_notes": "Pavel Batěk, Vica Kerekes, Filip Blažek",
+      "genre": "Romantický, komédia",
+      "year": 2014,
+      "coproduction": "",
+      "cinema_admissions": 6375
+    },
+    {
+      "title": "38: Filmová pocta hokejovej legende",
+      "director": "Lukáš Zednikovič, Daniel Dangl",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2014,
+      "coproduction": "",
+      "cinema_admissions": 113930
+    },
+    {
+      "title": "V tichu",
+      "director": "Zdeněk Jiráský",
+      "cast_notes": "Judit Bárdos, Ján Gallovič, Jan Čtvrtník",
+      "genre": "Biografický, dráma",
+      "year": 2014,
+      "coproduction": "",
+      "cinema_admissions": 1006
+    },
+    {
+      "title": "Nina",
+      "director": "Veronika Obertová, Michaela Čopíková",
+      "cast_notes": "Adam Šicko, Adam Matej, Alica Šicková, Ink Midget",
+      "genre": "Animovaný",
+      "year": 2014,
+      "coproduction": "",
+      "cinema_admissions": ""
+    },
+    {
+      "title": "Láska na vlásku",
+      "director": "Mariana Čengel-Solčanská",
+      "cast_notes": "Celeste Buckingham, Samuel Spišák, Judit Bárdos",
+      "genre": "Rodinný",
+      "year": 2014,
+      "coproduction": "",
+      "cinema_admissions": 45091
+    },
+    {
+      "title": "Fair Play",
+      "director": "Andrea Sedláčková",
+      "cast_notes": "Judit Bárdos, Anna Geislerová, Roman Luknár",
+      "genre": "Dráma",
+      "year": 2014,
+      "coproduction": "",
+      "cinema_admissions": 7300
+    },
+    {
+      "title": "Žiť pre vášeň",
+      "director": "Pavol Barabáš",
+      "cast_notes": "Michal Sabovčík, Adam Kadlečík",
+      "genre": "Dokumentárny",
+      "year": 2014,
+      "coproduction": "",
+      "cinema_admissions": ""
+    },
+    {
+      "title": "Comeback",
+      "director": "Miro Remo",
+      "cast_notes": "Ivo Miko, Mário Ondriš, Jaro Vaľko",
+      "genre": "Dokumentárny",
+      "year": 2014,
+      "coproduction": "",
+      "cinema_admissions": 2597
+    },
+    {
+      "title": "Vlna vs. Breh",
+      "director": "Martin Štrba",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2014,
+      "coproduction": "",
+      "cinema_admissions": 141
+    },
+    {
+      "title": "Salto Mortale",
+      "director": "Anabela Žigová",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2014,
+      "coproduction": "",
+      "cinema_admissions": 55
+    },
+    {
+      "title": "Rukojemník",
+      "director": "Juraj Nvota",
+      "cast_notes": "Richard Labuda, Milan Lasica, Libuše Šafránková, Ondřej Vetchý",
+      "genre": "Dráma",
+      "year": 2014,
+      "coproduction": "",
+      "cinema_admissions": 17048
+    },
+    {
+      "title": "5. PLUK – Misia Afganistan",
+      "director": "Peter Kaštil",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 637
+    },
+    {
+      "title": "Návrat do horiaceho domu",
+      "director": "Anna Grusková",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 395
+    },
+    {
+      "title": "Mirage",
+      "director": "Szabolcs Hajdu",
+      "cast_notes": "Isaach De Bankolé, Răzvan Vasilescu, Orsolya Török-Illyés, Attila Mokos",
+      "genre": "Dráma, western",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 1521
+    },
+    {
+      "title": "Tak ďaleko, tak blízko",
+      "director": "Jaroslav Vojtek",
+      "cast_notes": "Cena Slnko v sieti 2016 za najlepší dokumentárny film",
+      "genre": "Dokumentárny",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 2117
+    },
+    {
+      "title": "Malý pán",
+      "director": "Radek Beran",
+      "cast_notes": "Ivan Trojan",
+      "genre": "Rodinný",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 2309
+    },
+    {
+      "title": "Milan Čorba",
+      "director": "Martin Šulík",
+      "cast_notes": "Emília Vášáryová, Jaroslav Čorba, Milan Lasica, Martin Huba",
+      "genre": "Dokumentárny, biografický",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 118
+    },
+    {
+      "title": "Suri",
+      "director": "Pavol Barabáš",
+      "cast_notes": "Ivan Bulík, Miroslav Dušek, Tomáš Lukačovič",
+      "genre": "Dokumentárny",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 4694
+    },
+    {
+      "title": "Sedem zhavranelých bratov",
+      "director": "Alice Nellis",
+      "cast_notes": "Martha Issová, Lukáš Příkazký, Václav Neužil mladší, Sabina Remundová",
+      "genre": "Rodinný, fantasy",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 45471
+    },
+    {
+      "title": "Lokalfilmis",
+      "director": "Jakub Kroner",
+      "cast_notes": "Marián Čekovský, Jakub Kroner, Denis Domaracký, Boris Bauer",
+      "genre": "Animovaný, komédia",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 47237
+    },
+    {
+      "title": "RYTMUS: Sídliskový sen",
+      "director": "Miro Drobný",
+      "cast_notes": "Patrik Vrbovský, Michal Straka, Anys, Dara Rolins",
+      "genre": "Dokumentárny, hudobný",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 95199
+    },
+    {
+      "title": "Malá z rybárne",
+      "director": "Jan Balej",
+      "cast_notes": "Oldřich Kaiser, Anežka Kubátová, Petr Forman, Ivana Chýlková",
+      "genre": "Animovaný, bábkový, romantický, dráma",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 409
+    },
+    {
+      "title": "Koza",
+      "director": "Ivan Ostrochovský",
+      "cast_notes": "Peter Baláž, Zvonko Lakčevič, Ján Franek, Stanislava Bongilajová Slovenská nominácia na 88. Cenách Akadémie za najlepší cudzojazyčný film",
+      "genre": "Dráma",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 2940
+    },
+    {
+      "title": "Farby piesku",
+      "director": "Ladislav Kaboš",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 367
+    },
+    {
+      "title": "Očami fotografky",
+      "director": "Matej Mináč",
+      "cast_notes": "Matej Mináč, Zdeněk Piškula, Julie Ondráčková",
+      "genre": "Dokumentárny, dráma",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 778
+    },
+    {
+      "title": "Zmenil tvár Šanghaka",
+      "director": "Ladislav Kaboš",
+      "cast_notes": "Ladislav Hudec",
+      "genre": "Dokumentárny",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 169
+    },
+    {
+      "title": "Wilsonov",
+      "director": "Tomáš Mašín",
+      "cast_notes": "Vojtěch Dyk, Jiří Macháček, Táňa Pauhofová, Jan Kraus",
+      "genre": "Komédia, kriminálny",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 19334
+    },
+    {
+      "title": "Anton Srholec",
+      "director": "Alena Čermáková",
+      "cast_notes": "Anton Srholec",
+      "genre": "Dokumentárny",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 6589
+    },
+    {
+      "title": "Čistič",
+      "director": "Peter Bebjak",
+      "cast_notes": "Noël Czuczor, Rebeka Poláková, Kamil Kollárik, Jana Oľhová",
+      "genre": "Dráma",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 2077
+    },
+    {
+      "title": "Domáca opatera",
+      "director": "Szabolcs Hajdu",
+      "cast_notes": "Alena Mihulová, Boleslav Polívka, Tatiana Dyková, Zuzana Kronerová",
+      "genre": "Dráma, komédia, psychologický",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 4315
+    },
+    {
+      "title": "Čakáreň",
+      "director": "Paľo Korec",
+      "cast_notes": "Zuzana Smékalová, Monika Neksová, Barbara Slamková",
+      "genre": "Dokumentárny",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 376
+    },
+    {
+      "title": "Spievankovo 5: O profesiách",
+      "director": "Diana Novotná",
+      "cast_notes": "Mária Podhradská, Richard Čanaky, Roman Pomajbo, František Kovár",
+      "genre": "Muzikál, rodinný",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 33510
+    },
+    {
+      "title": "Eva Nová",
+      "director": "Marko Škop",
+      "cast_notes": "Emília Vášáryová, Milan Ondrík Slovenská nominácia na 89. Cenách Akadémie za najlepší cudzojazyčný film Cena Slnko v sieti 2016 za najlepší hraný film",
+      "genre": "Dráma",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 9313
+    },
+    {
+      "title": "Vojtech",
+      "director": "Viktor Csudai",
+      "cast_notes": "Matej Landl, Marián Miezga, Zuzana Šebová, Zuzana Mauréry",
+      "genre": "Komediálna dráma",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 19419
+    },
+    {
+      "title": "Johankino tajomstvo",
+      "director": "Juraj Nvota",
+      "cast_notes": "Dominika Zeleníková, Emília Vášáryová, Ondřej Vetchý, Kristína Peláková",
+      "genre": "Rodinný",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 308
+    },
+    {
+      "title": "Akceptácia",
+      "director": "Jaroslav Matoušek",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2015,
+      "coproduction": "",
+      "cinema_admissions": 877
+    },
+    {
+      "title": "Červený kapitán",
+      "director": "Michal Kollár",
+      "cast_notes": "Maciej Stuhr, Oldřich Kaiser, Michal Suchánek, Marián Geišberg",
+      "genre": "Kriminálny triler, dráma",
+      "year": 2016,
+      "coproduction": "",
+      "cinema_admissions": 87224
+    },
+    {
+      "title": "Agáva",
+      "director": "Ondrej Šulaj",
+      "cast_notes": "Milan Kňažko, Katarína Šafaříková, Marek Geišberg, Milan Lasica",
+      "genre": "Dráma",
+      "year": 2016,
+      "coproduction": "",
+      "cinema_admissions": 10790
+    },
+    {
+      "title": "Stanko",
+      "director": "Rastislav Boroš",
+      "cast_notes": "Peter Kočan, Ivana Kanalošová, Marcel Bobák, Terézia Paprčková",
+      "genre": "Dráma",
+      "year": 2016,
+      "coproduction": "",
+      "cinema_admissions": 1395
+    },
+    {
+      "title": "Teória tigra",
+      "director": "Radek Bajgar",
+      "cast_notes": "Jiří Bartoška, Eliška Balzerová, Tatiana Dyková, Jiří Havelka",
+      "genre": "Komediálna dráma",
+      "year": 2016,
+      "coproduction": "",
+      "cinema_admissions": 28497
+    },
+    {
+      "title": "Já, Olga Hepnarová",
+      "director": "Tomáš Weinreb, Petr Kazda",
+      "cast_notes": "Michalina Olszańska, Marika Šoposká, Klára Melíšková, Petra Nesvačilová",
+      "genre": "Historická dráma",
+      "year": 2016,
+      "coproduction": "",
+      "cinema_admissions": 6024
+    },
+    {
+      "title": "Para nad riekou",
+      "director": "Robert Kirchhoff, Filip Remunda",
+      "cast_notes": "Cena Slnko v sieti 2017 za najlepší dokumentárny film",
+      "genre": "Dokumentárny",
+      "year": 2016,
+      "coproduction": "",
+      "cinema_admissions": 1405
+    },
+    {
+      "title": "Okhwan na ceste za slobodou",
+      "director": "Marek Mackovič",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2016,
+      "coproduction": "",
+      "cinema_admissions": 1658
+    },
+    {
+      "title": "Zem, ktorá hľadá svoje nebo",
+      "director": "Erik Praus",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2016,
+      "coproduction": "",
+      "cinema_admissions": 1925
+    },
+    {
+      "title": "Učiteľka",
+      "director": "Jan Hřebejk",
+      "cast_notes": "Zuzana Mauréry, Csongor Kassai, Peter Bebjak Cena Slnko v sieti 2017 za najlepší hraný film",
+      "genre": "Dráma",
+      "year": 2016,
+      "coproduction": "",
+      "cinema_admissions": 59292
+    },
+    {
+      "title": "Rodinný film",
+      "director": "Olmo Omerzu",
+      "cast_notes": "Daniel Kadlec, Jenovéfa Boková, Vanda Hybnerová, Karel Roden",
+      "genre": "Dráma, psychologický",
+      "year": 2016,
+      "coproduction": "",
+      "cinema_admissions": 1500
+    },
+    {
+      "title": "Sloboda pod nákladom",
+      "director": "Pavol Barabáš",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2016,
+      "coproduction": "",
+      "cinema_admissions": 15283
+    },
+    {
+      "title": "Ani vo sne!",
+      "director": "Petr Oukropec",
+      "cast_notes": "Barbora Štikařová, Klára Melíšková, Jan Vondráček, Ivan Martinka",
+      "genre": "Romantický",
+      "year": 2016,
+      "coproduction": "",
+      "cinema_admissions": 149
+    },
+    {
+      "title": "Tatry, nový príbeh",
+      "director": "Michal Romeo Dvořák",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2016,
+      "coproduction": "",
+      "cinema_admissions": 504
+    },
+    {
+      "title": "Pirko",
+      "director": "Lucia Klein Svoboda, Petr Klein Svoboda",
+      "cast_notes": "Dominika Morávková-Zeleníková, Tibor Kotlár, Martin Finger, Boleslav Polívka",
+      "genre": "Dráma",
+      "year": 2016,
+      "coproduction": "",
+      "cinema_admissions": 21724
+    },
+    {
+      "title": "5. október",
+      "director": "Martin Kollár",
+      "cast_notes": "Ján Kollár, Vladimír Kollár, Barbora Katriňáková, Ján Doboš",
+      "genre": "Dokumentárny",
+      "year": 2016,
+      "coproduction": "",
+      "cinema_admissions": 706
+    },
+    {
+      "title": "IMT Smile a Lúčnica - Made in Slovakia",
+      "director": "Paľo Janík",
+      "cast_notes": "Ján Ďurovčík, IMT Smile, Lúčnica",
+      "genre": "Hudobný, tanečný, dráma",
+      "year": 2016,
+      "coproduction": "",
+      "cinema_admissions": 7651
+    },
+    {
+      "title": "Richard Müller: Nespoznaný",
+      "director": "Miro Remo",
+      "cast_notes": "Richard Müller, Soňa Müllerová, Iva Bittová, Soňa Norisová",
+      "genre": "Životopisný, dokumentárny",
+      "year": 2016,
+      "coproduction": "",
+      "cinema_admissions": 6838
+    },
+    {
+      "title": "Tenkrát v raji",
+      "director": "Lordan Zafranović, Peter Pálka, Dan Krzywoň",
+      "cast_notes": "Vica Kerekes, Jan Budař, Miroslav Etzler, Ondřej Havelka",
+      "genre": "Dráma",
+      "year": 2016,
+      "coproduction": "",
+      "cinema_admissions": ""
+    },
+    {
+      "title": "Vlk z Královských Vinohradov",
+      "director": "Jan Němec",
+      "cast_notes": "Jiří Mádl, Lucia Gajdošík, David Bowles, Táňa Pauhofová",
+      "genre": "Komédia, dráma",
+      "year": 2016,
+      "coproduction": "",
+      "cinema_admissions": 600
+    },
+    {
+      "title": "Finále",
+      "director": "Paľo Korec, Dušan Miko",
+      "cast_notes": "",
+      "genre": "Dokumentárny, športový",
+      "year": 2016,
+      "coproduction": "",
+      "cinema_admissions": 612
+    },
+    {
+      "title": "Červený pavúk",
+      "director": "Marcin Koszałka",
+      "cast_notes": "Filip Pławiak, Adam Woronowicz, Małgorzata Foremniak",
+      "genre": "Triler",
+      "year": 2016,
+      "coproduction": "",
+      "cinema_admissions": 371
+    },
+    {
+      "title": "Anjel Pána 2",
+      "director": "Jiří Strach",
+      "cast_notes": "Ivan Trojan, Jiří Dvořák, Anna Čtvrtníčková, Vica Kerekes",
+      "genre": "Rodinný",
+      "year": 2016,
+      "coproduction": "",
+      "cinema_admissions": 11314
+    },
+    {
+      "title": "Lichožrúti",
+      "director": "Galina Miklínová",
+      "cast_notes": "Ondřej Trojan, Kryštof Hádek, Matěj Ruppert, Josef Somr",
+      "genre": "Rodinný animovaný",
+      "year": 2016,
+      "coproduction": "",
+      "cinema_admissions": 20214
+    },
+    {
+      "title": "Všetko alebo nič",
+      "director": "Marta Ferencová",
+      "cast_notes": "Táňa Pauhofová, Michał Żebrowski, Klára Issová",
+      "genre": "Romantická komédia",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 340535
+    },
+    {
+      "title": "Sprisahanie šedej rasy",
+      "director": "Maroš Berák",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 688
+    },
+    {
+      "title": "Únos",
+      "director": "Mariana Čengel Solčanská",
+      "cast_notes": "Milan Ondrík, Dano Heriban, Rebeka Poláková, Maroš Kramár",
+      "genre": "Dráma",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 278763
+    },
+    {
+      "title": "Baba z ľadu",
+      "director": "Bohdan Sláma",
+      "cast_notes": "Zuzana Kronerová, Alena Mihulová, Pavel Nový",
+      "genre": "Komediálna dráma",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 14491
+    },
+    {
+      "title": "Hotel Úsvit",
+      "director": "Mária Rumanová",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 156
+    },
+    {
+      "title": "Piata loď",
+      "director": "Iveta Grófová",
+      "cast_notes": "Vanessa Szamuhelová, Matúš Bačišin, Katarína Kamencová",
+      "genre": "Rodinná dráma",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 12027
+    },
+    {
+      "title": "Masaryk",
+      "director": "Julius Ševčík",
+      "cast_notes": "Karel Roden, Oldřich Kaiser, Arly Jover, Hanns Zischler",
+      "genre": "Historická dráma",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 55183
+    },
+    {
+      "title": "Diera v hlave",
+      "director": "Robert Kirchhoff",
+      "cast_notes": "Raymond Gurême, Fata Dedić, Nadir Dedić Cena Slnko v sieti 2018 za najlepší dokumentárny film",
+      "genre": "Dokumentárny",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 1140
+    },
+    {
+      "title": "Cez kosti mŕtvych",
+      "director": "Agnieszka Holland",
+      "cast_notes": "Agnieszka Mandat, Wiktor Zborowski, Jakub Gierszał, Miroslav Krobot",
+      "genre": "Krimi, dráma, mysteriózny triler",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 1409
+    },
+    {
+      "title": "Cuky Luky Film",
+      "director": "Lukáš Zednikovič",
+      "cast_notes": "Petra Polnišová, Zuzana Šebová, Diana Mórová, Lukáš Latinák",
+      "genre": "Komédia",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 116139
+    },
+    {
+      "title": "Záhradnictvo: Rodinný priateľ",
+      "director": "Jan Hřebejk",
+      "cast_notes": "Anna Geislerová, Ondřej Sokol, Klára Melíšková, Gabriela Míčová",
+      "genre": "Dráma",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 7494
+    },
+    {
+      "title": "Špina",
+      "director": "Tereza Nvotová",
+      "cast_notes": "Dominika Morávková Zeleníková, Anna Rakovská, Anna Šišková, Róbert Jakab",
+      "genre": "Dráma",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 50564
+    },
+    {
+      "title": "Čiara",
+      "director": "Peter Bebjak",
+      "cast_notes": "Tomáš Maštalír, Zuzana Fialová, Jevgenij Libezňuk, Andrej Hryc Slovenská nominácia na 90. Cenách Akadémie za najlepší cudzojazyčný film Cena Slnko v sieti 2018 za najlepší hraný film",
+      "genre": "Kriminálny",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 329349
+    },
+    {
+      "title": "Po strnisku bosý",
+      "director": "Jan Svěrák",
+      "cast_notes": "Ondřej Vetchý, Tereza Ramba, Alois Grec, Jan Tříska",
+      "genre": "Komédia, dráma",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 41203
+    },
+    {
+      "title": "Červená",
+      "director": "Olga Sommerová",
+      "cast_notes": "Soňa Červená, Jan Werich (a.z.), Jiří Voskovec (a.z.)",
+      "genre": "Dokumentárny",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 496
+    },
+    {
+      "title": "Out (Vychladnutie)",
+      "director": "György Kristóf",
+      "cast_notes": "Judit Bárdos, Attila Bocsárszky, Éva Bandor, Guna Zarina",
+      "genre": "Dráma",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 1529
+    },
+    {
+      "title": "Nina",
+      "director": "Juraj Lehotský",
+      "cast_notes": "Robert Roth",
+      "genre": "Dráma",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 5714
+    },
+    {
+      "title": "Křižáček",
+      "director": "Václav Kadrnka",
+      "cast_notes": "Karel Roden, Aleš Bílík, Matouš John, Jiří Soukup",
+      "genre": "Historická dráma, road movie",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 810
+    },
+    {
+      "title": "Záhradnictvo: Dezertér",
+      "director": "Jan Hřebejk",
+      "cast_notes": "Jiří Macháček, Gabriela Míčová, Anna Geislerová, Martin Finger",
+      "genre": "Dráma, komédia",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 5815
+    },
+    {
+      "title": "Ťažká duša",
+      "director": "Marek Šulík",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 96
+    },
+    {
+      "title": "Spievankovo a kráľovná Harmónia",
+      "director": "Diana Novotná",
+      "cast_notes": "Mária Podhradská, Richard Čanaky, Marián Labuda mladší",
+      "genre": "Hudobný, rodinný, komédia",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 86555
+    },
+    {
+      "title": "Mečiar",
+      "director": "Tereza Nvotová",
+      "cast_notes": "Vladimír Mečiar",
+      "genre": "Dokumentárny",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 15621
+    },
+    {
+      "title": "Vábenie výšok – 1. diel: Ivan Gálfy",
+      "director": "Pavol Barabáš",
+      "cast_notes": "Ivan Gálfy (a.z.)",
+      "genre": "Dokumentárny",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 8005
+    },
+    {
+      "title": "Vábenie výšok – 2. diel: Krutý Everest",
+      "director": "Pavol Barabáš",
+      "cast_notes": "Ivan Gálfy (a.z.)",
+      "genre": "Dokumentárny",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 8005
+    },
+    {
+      "title": "DOGG",
+      "director": "Slavomír Zrebný, Viliam Csino, Enrik Bistika, Jonáš Karásek",
+      "cast_notes": "Monika Hilmerová, Peter Oszlík, Judit Bárdos, Marián Mitaš",
+      "genre": "Psychologický, triler",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 2866
+    },
+    {
+      "title": "Záhradnictvo: Nápadník",
+      "director": "Jan Hřebejk",
+      "cast_notes": "Anna Fialová, Anna Geislerová, Martin Finger, Ivan Lupták,",
+      "genre": "Dráma, komédia, romantický",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 5707
+    },
+    {
+      "title": "Svet podľa Daliborka",
+      "director": "Vít Klusák",
+      "cast_notes": "Dalibor Krupička, Vít Klusák",
+      "genre": "Dokumentárny, komédia",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 810
+    },
+    {
+      "title": "Medzi nami",
+      "director": "Zuzana Límová",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": ""
+    },
+    {
+      "title": "Tri želania",
+      "director": "Vít Karas",
+      "cast_notes": "Martin Myšička, Jitka Čvančarová, Jan Vondráček, Simona Babčáková",
+      "genre": "Rodinný",
+      "year": 2017,
+      "coproduction": "",
+      "cinema_admissions": 10325
+    },
+    {
+      "title": "Tlmočník",
+      "director": "Martin Šulík",
+      "cast_notes": "Jiří Menzel, Peter Simonischek, Eva Kramerová, Anna Rakovská Slovenská nominácia na 91. Cenách Akadémie za najlepší cudzojazyčný film Cena Slnko v sieti 2019 za najlepší hraný film",
+      "genre": "Dráma",
+      "year": 2018,
+      "coproduction": "",
+      "cinema_admissions": 16111
+    },
+    {
+      "title": "Hmyz",
+      "director": "Jan Švankmajer",
+      "cast_notes": "Jan Budař, Jaromír Dulava, Jiří Lábus, Kamila Magálová",
+      "genre": "Komediálna dráma",
+      "year": 2018,
+      "coproduction": "",
+      "cinema_admissions": 1004
+    },
+    {
+      "title": "Backstage",
+      "director": "Andrea Sedláčková",
+      "cast_notes": "Mária Bartalos, Tony Porucha, Ondrej Hraška, Judit Bárdos",
+      "genre": "Tanečný, hudobný, romantický",
+      "year": 2018,
+      "coproduction": "",
+      "cinema_admissions": 64029
+    },
+    {
+      "title": "Kvetinárstvo",
+      "director": "Ruben Desiere",
+      "cast_notes": "Tomáš Balog, Rastislav Vaňo, Vladimír Balázs",
+      "genre": "Dráma",
+      "year": 2018,
+      "coproduction": "",
+      "cinema_admissions": 526
+    },
+    {
+      "title": "Sloboda",
+      "director": "Jan Speckenbach",
+      "cast_notes": "Johanna Wokalek, Hans-Jochen Wagner, Georg Arms",
+      "genre": "Dráma",
+      "year": 2018,
+      "coproduction": "",
+      "cinema_admissions": 796
+    },
+    {
+      "title": "Dubček",
+      "director": "Laco Halama",
+      "cast_notes": "Adrian Jastraban, Táňa Radeva, Volodymir Nečeperenko",
+      "genre": "Historická dráma",
+      "year": 2018,
+      "coproduction": "",
+      "cinema_admissions": 11809
+    },
+    {
+      "title": "Válek",
+      "director": "Patrik Lančarič",
+      "cast_notes": "Miroslav Válek (a.z.), Ľubomír Feldek, Eduard Grečner, Pavol Hammel",
+      "genre": "Dokumentárny",
+      "year": 2018,
+      "coproduction": "",
+      "cinema_admissions": 4855
+    },
+    {
+      "title": "Parralel",
+      "director": "Matyas Brich",
+      "cast_notes": "Tomáš Maštalír, Zuzana Porubjaková, Daniel Heriban",
+      "genre": "Animovaný, dráma, fantasy",
+      "year": 2018,
+      "coproduction": "",
+      "cinema_admissions": 344
+    },
+    {
+      "title": "Dôverný nepriateľ",
+      "director": "Karel Janák",
+      "cast_notes": "Gabriela Marcinková, Vojtěch Dyk, Zuzana Porubjaková, Ondřej Malý",
+      "genre": "Mysteriózny, dráma, sci-fi triler",
+      "year": 2018,
+      "coproduction": "",
+      "cinema_admissions": 45905
+    },
+    {
+      "title": "Okupácia 1968",
+      "director": "Linda Dombrovszky, Magdalena Szymków, Stephan Komandarev, Jevdokia Moskvina, Marie Elisa Scheidt",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2018,
+      "coproduction": "",
+      "cinema_admissions": 1681
+    },
+    {
+      "title": "Tieň jaguára",
+      "director": "Pavol Barabáš",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2018,
+      "coproduction": "",
+      "cinema_admissions": 4915
+    },
+    {
+      "title": "Cirkus Rwanda",
+      "director": "Michal Varga",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2018,
+      "coproduction": "",
+      "cinema_admissions": 294
+    },
+    {
+      "title": "Toman",
+      "director": "Ondřej Trojan",
+      "cast_notes": "Jiří Macháček, Kateřina Winterová, Kristýna Boková",
+      "genre": "Dráma, historický",
+      "year": 2018,
+      "coproduction": "",
+      "cinema_admissions": 17295
+    },
+    {
+      "title": "Keď draka bolí hlava",
+      "director": "Dušan Rapoš",
+      "cast_notes": "Charlotta Gottová, Karel Gott, Kamila Magálová, Ján Koleník",
+      "genre": "Rodinný",
+      "year": 2018,
+      "coproduction": "",
+      "cinema_admissions": 15899
+    },
+    {
+      "title": "Inde",
+      "director": "Juraj Nvota, Marian Urban",
+      "cast_notes": "Alex Mlynárčik",
+      "genre": "Dokumentárny",
+      "year": 2018,
+      "coproduction": "",
+      "cinema_admissions": 436
+    },
+    {
+      "title": "Niečo naviac",
+      "director": "Palo Kadlečík, Martin Šenc",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2018,
+      "coproduction": "",
+      "cinema_admissions": 1756
+    },
+    {
+      "title": "Pivnica",
+      "director": "Igor Voloshin",
+      "cast_notes": "Jean-Marc Barr, Oľga Simonova, Milan Ondrík, Jana Oľhová",
+      "genre": "Dráma",
+      "year": 2018,
+      "coproduction": "",
+      "cinema_admissions": 16602
+    },
+    {
+      "title": "Mimi a Líza: Záhada vianočného svetla",
+      "director": "Katarína Kerekesová, Ivana Šebestová",
+      "cast_notes": "Ema Mercová, Grétka Fedora Homzová, Táňa Radeva, Matej Landl",
+      "genre": "Animovaný, rodinný",
+      "year": 2018,
+      "coproduction": "",
+      "cinema_admissions": 4858
+    },
+    {
+      "title": "Čertovské pero",
+      "director": "Marek Najbrt",
+      "cast_notes": "Jan Cina, Ondřej Vetchý, Judit Bárdos, Jan Budař",
+      "genre": "Rodinný",
+      "year": 2018,
+      "coproduction": "",
+      "cinema_admissions": 9351
+    },
+    {
+      "title": "Trhlina",
+      "director": "Peter Bebjak",
+      "cast_notes": "Matej Marušín, Mária Bartalos, Tomáš Maštalír, Dávid Hartl",
+      "genre": "Triler, horor, mysteriózny",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 262588
+    },
+    {
+      "title": "Ostrým nožom",
+      "director": "Teodor Kuhn",
+      "cast_notes": "Roman Luknár, Ela Lehotská, Miroslav Krobot, Marián Mitaš",
+      "genre": "Dráma",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 39588
+    },
+    {
+      "title": "Punk je hned!",
+      "director": "Juraj Šlauka",
+      "cast_notes": "Marián Rác, Mário Fribert, Juraj Gerza, Patrícia Schürrerová",
+      "genre": "Dráma",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 3084
+    },
+    {
+      "title": "Sklenená izba",
+      "director": "Julius Ševčík",
+      "cast_notes": "Hanna Alström, Karel Roden, Carice van Houten, Claes Bang",
+      "genre": "Dráma",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 40371
+    },
+    {
+      "title": "Dobrá smrť",
+      "director": "Tomáš Krupa",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 1744
+    },
+    {
+      "title": "Mohyla",
+      "director": "Andrej Kolenčík",
+      "cast_notes": "Matej Landl, Tereza Heftyová, Pavol Plevčík",
+      "genre": "Dobrodružný, rodinný, sci-fi",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 765
+    },
+    {
+      "title": "Obliehanie mesta",
+      "director": "Vít Janeček, Zuzana Piussi",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 43
+    },
+    {
+      "title": "Chvíľky",
+      "director": "Beata Parkanová",
+      "cast_notes": "Jenovéfa Boková, Alena Mihulová, Jaroslava Pokorná",
+      "genre": "Dráma",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 2011
+    },
+    {
+      "title": "Uzly a pomaranče",
+      "director": "Ivan Pokorný",
+      "cast_notes": "Tomáš Dalecký, Emilie Neumeister, Stanislav Majer, Ewa Farna",
+      "genre": "Romantický, dráma",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 1170
+    },
+    {
+      "title": "Loli paradička",
+      "director": "Richard Staviarsky, Víťo Staviarsky",
+      "cast_notes": "Michal Iľkanin, Kamila Mitrášová, Michal Soltész, Kveta Stražanová",
+      "genre": "Komédia",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 123144
+    },
+    {
+      "title": "Kto je ďalší?",
+      "director": "Miro Drobný",
+      "cast_notes": "Alessia Caparelli, Brian Caspe, Angela Nikolau",
+      "genre": "Dokumentárny",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 63070
+    },
+    {
+      "title": "Svetozár Stračina",
+      "director": "Pavol Barabáš",
+      "cast_notes": "",
+      "genre": "Dokumentárny, folklórny",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 1635
+    },
+    {
+      "title": "Cesta do nemožna",
+      "director": "Noro Držiak",
+      "cast_notes": "Tomáš Mischura, Jana Stryková, Petr Vaněk, Kristína Svarinská",
+      "genre": "Animovaný, historický, dráma",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 2309
+    },
+    {
+      "title": "Afrika na Pionieri",
+      "director": "Marek Slobodník",
+      "cast_notes": "Marek Slobodník",
+      "genre": "Dokumentárny",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 16293
+    },
+    {
+      "title": "Skutok sa stal",
+      "director": "Barbora Berezňáková",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 15141
+    },
+    {
+      "title": "Hodinárov učeň",
+      "director": "Jitka Rudolfová",
+      "cast_notes": "Jana Plodková, Jaroslav Plesl, Václav Neužil mladší",
+      "genre": "Rodinný",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 5189
+    },
+    {
+      "title": "Pomaľované vtáča",
+      "director": "Václav Marhoul",
+      "cast_notes": "Petr Kotlár, Stellan Skarsgård, Udo Kier, Harvey Keitel",
+      "genre": "Historická dráma",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 4348
+    },
+    {
+      "title": "Casino.$k",
+      "director": "Ján Sabol",
+      "cast_notes": "Tereza Brodská, Pavel Kříž, Roman Luknár, Marek Majeský",
+      "genre": "Dráma",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 14399
+    },
+    {
+      "title": "Websterovci 2: Zo života pavúkov",
+      "director": "Katarína Kerekesová",
+      "cast_notes": "Richard Stanke, Zuzana Porubjaková, Kamil Kollárik",
+      "genre": "Animovaný, rodinný",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 6819
+    },
+    {
+      "title": "Nech je svetlo",
+      "director": "Marko Škop",
+      "cast_notes": "Slovenská nominácia na 92. Cenách Akadémie za najlepší cudzojazyčný film Milan Ondrík, František Beleš",
+      "genre": "Dráma",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 14726
+    },
+    {
+      "title": "Ukradnutý štát",
+      "director": "Zuzana Piussi",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 4838
+    },
+    {
+      "title": "Hluché dni",
+      "director": "Pavol Pekarčík",
+      "cast_notes": "Sandra Siváková",
+      "genre": "Dokumentárny, dráma",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 148
+    },
+    {
+      "title": "Stratený domov",
+      "director": "Juraj Mravec",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 212
+    },
+    {
+      "title": "Posledná aristokratka",
+      "director": "Jiří Vejdělek",
+      "cast_notes": "Hynek Čermák, Tatiana Dyková, Yvona Stolařová, Martin Pechlát",
+      "genre": "Komédia",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 43342
+    },
+    {
+      "title": "Amnestie",
+      "director": "Jonáš Karásek",
+      "cast_notes": "Juraj Bača, Natalia Germani, Marek Vašut, Anna Geislerová",
+      "genre": "Historická dráma",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 48430
+    },
+    {
+      "title": "Volanie",
+      "director": "Erik Praus",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 3278
+    },
+    {
+      "title": "Osamelí bežci: Ideme ďalej",
+      "director": "Martin Repka",
+      "cast_notes": "",
+      "genre": "Dokumentárny",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 666
+    },
+    {
+      "title": "Ženská na vrchole",
+      "director": "Lenka Kny",
+      "cast_notes": "Anna Polívková, Boleslav Polívka, Martin Dejdar, Jana Preissová",
+      "genre": "Romantická komédia",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 69894
+    },
+    {
+      "title": "Malá ríša",
+      "director": "Peter Magát",
+      "cast_notes": "Lachlan Nieboer, Brian Caspe, Mark Fleischmann",
+      "genre": "Historická dráma",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 2638
+    },
+    {
+      "title": "Nero a Seneca",
+      "director": "Marek Ťapák",
+      "cast_notes": "Richard Autner, Vladimír Jedľovský, Peter Šimun",
+      "genre": "Dráma",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 232
+    },
+    {
+      "title": "Šťastný nový rok",
+      "director": "Jakub Kroner",
+      "cast_notes": "Táňa Pauhofová, Emília Vášáryová, Jiří Bartoška",
+      "genre": "Romantická komédia",
+      "year": 2019,
+      "coproduction": "",
+      "cinema_admissions": 201858
+    }
+  ],
+  "meta": {
+    "title": "Slovenské filmy 2010 – 2019 a ich návštevnosť v kinách - Free Download",
+    "description": "Slovenské celovečerné a dokumentárne filmy z rokov 2010 – 2019 s režisérom, hercami, žánrom, koprodukciou a návštevnosťou v slovenských kinách. Contains 202 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Slovenské filmy 2010 – 2019 a ich návštevnosť v kinách | ListBase",
+    "seo_description": "Download Slovenské filmy 2010 – 2019 a ich návštevnosť v kinách — 202 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 202 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_slovenských_filmov_(2010_–_2019)"
+    ]
+  }
+}
