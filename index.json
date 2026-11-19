@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-18T02:15:58.990Z",
-  "total_datasets": 508,
-  "total_records": 287139,
+  "generated": "2026-11-19T02:15:57.342Z",
+  "total_datasets": 509,
+  "total_records": 287291,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "society",
@@ -12962,6 +12962,32 @@
         "xlsx": {
           "name": "sk-zvolen-obce_SK.xlsx",
           "size": 8838
+        }
+      }
+    },
+    {
+      "id": "sk-biotopy-slovenska",
+      "name": "Biotopy Slovenska (katalóg biotopov)",
+      "category": "science",
+      "record_count": 152,
+      "columns": [
+        "formation_group",
+        "sk_code",
+        "name",
+        "natura_code",
+        "price_eur_per_m2"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_biotopov_Slovenska",
+      "updated": "2026-11",
+      "size": 33403,
+      "files": {
+        "csv": {
+          "name": "sk-biotopy-slovenska_SK.csv",
+          "size": 13671
+        },
+        "xlsx": {
+          "name": "sk-biotopy-slovenska_SK.xlsx",
+          "size": 13875
         }
       }
     },

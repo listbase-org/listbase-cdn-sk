@@ -1,0 +1,1115 @@
+{
+  "id": "sk-biotopy-slovenska",
+  "name": "Biotopy Slovenska (katalóg biotopov)",
+  "title": "Biotopy Slovenska (katalóg biotopov)",
+  "description": "Katalóg biotopov Slovenska podľa formačných skupín so slovenským kódom, názvom, kódom biotopu Natura 2000 a spoločenskou hodnotou v eurách za m².",
+  "category": "science",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_biotopov_Slovenska",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_biotopov_Slovenska",
+  "updated": "2026-11",
+  "record_count": 152,
+  "columns": [
+    {
+      "key": "formation_group",
+      "label": "Formation Group",
+      "type": "string"
+    },
+    {
+      "key": "sk_code",
+      "label": "Sk Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "natura_code",
+      "label": "Natura Code",
+      "type": "number"
+    },
+    {
+      "key": "price_eur_per_m2",
+      "label": "Price Eur Per M2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "formation_group": "Alpínska vegetácia",
+      "sk_code": "Al 1",
+      "name": "Alpínske travinno-bylinné porasty na silikátovom podklade",
+      "natura_code": "6150",
+      "price_eur_per_m2": 87.3
+    },
+    {
+      "formation_group": "Alpínska vegetácia",
+      "sk_code": "Al 2",
+      "name": "Alpínske snehové výležiská na silikátovom podklade",
+      "natura_code": "6150",
+      "price_eur_per_m2": 87.3
+    },
+    {
+      "formation_group": "Alpínska vegetácia",
+      "sk_code": "Al 3",
+      "name": "Alpínske a subalpínske vápnomilné travinno-bylinné porasty",
+      "natura_code": "6170",
+      "price_eur_per_m2": 138.08
+    },
+    {
+      "formation_group": "Alpínska vegetácia",
+      "sk_code": "Al 3a",
+      "name": "Caricion firmae",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Alpínska vegetácia",
+      "sk_code": "Al 3b",
+      "name": "Seslerio-Asterion serpentimontani",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Alpínska vegetácia",
+      "sk_code": "Al 3c",
+      "name": "Seslerion tatrae, Carici rupestris-Kobresietea bellardii",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Alpínska vegetácia",
+      "sk_code": "Al 4",
+      "name": "Alpínske snehové výležiská na vápnitom podklade",
+      "natura_code": "6170",
+      "price_eur_per_m2": 138.08
+    },
+    {
+      "formation_group": "Alpínska vegetácia",
+      "sk_code": "Al 5",
+      "name": "Vysokobylinnné spoločenstvá alpínskeho stupňa",
+      "natura_code": "6430",
+      "price_eur_per_m2": 9.62
+    },
+    {
+      "formation_group": "Alpínska vegetácia",
+      "sk_code": "Al 6",
+      "name": "Vysokosteblové spoločenstvá horských nív na silikátovom podklade",
+      "natura_code": "",
+      "price_eur_per_m2": 59.74
+    },
+    {
+      "formation_group": "Alpínska vegetácia",
+      "sk_code": "Al 7",
+      "name": "Vysokosteblové spoločenstvá vlhkých skalnatých žľabov na karbonátovom podklade",
+      "natura_code": "",
+      "price_eur_per_m2": 48.46
+    },
+    {
+      "formation_group": "Alpínska vegetácia",
+      "sk_code": "Al 8",
+      "name": "Horské vysokosteblové spoločenstvá na suchších a teplejších svahoch",
+      "natura_code": "",
+      "price_eur_per_m2": 59.74
+    },
+    {
+      "formation_group": "Alpínska vegetácia",
+      "sk_code": "Al 9",
+      "name": "Vresoviská a spoločenstvá kríčkov v subalpínskom a alpínskom stupni",
+      "natura_code": "4060",
+      "price_eur_per_m2": 17.92
+    },
+    {
+      "formation_group": "Nelesné brehové porasty",
+      "sk_code": "Br 1",
+      "name": "Štrkové lavice bez vegetácie",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Nelesné brehové porasty",
+      "sk_code": "Br 2",
+      "name": "Horské vodné toky a bylinná vegetácia pozdĺž ich brehov",
+      "natura_code": "3220",
+      "price_eur_per_m2": 24.56
+    },
+    {
+      "formation_group": "Nelesné brehové porasty",
+      "sk_code": "Br 3",
+      "name": "Horské vodné toky a ich drevinová vegetácia s myrikovkou nemeckou (Myricaria germanica)",
+      "natura_code": "3230",
+      "price_eur_per_m2": 19.58
+    },
+    {
+      "formation_group": "Nelesné brehové porasty",
+      "sk_code": "Br 4",
+      "name": "Horské vodné toky a ich drevinová vegetácia s vŕbou sivou (Salix eleagnos)",
+      "natura_code": "3240",
+      "price_eur_per_m2": 12.28
+    },
+    {
+      "formation_group": "Nelesné brehové porasty",
+      "sk_code": "Br 5",
+      "name": "Rieky s bahnitými až piesočnatými brehmi s vegetáciou zväzov Chenopodion rubri p.p. a Bidention p.p.",
+      "natura_code": "3270",
+      "price_eur_per_m2": 9.62
+    },
+    {
+      "formation_group": "Nelesné brehové porasty",
+      "sk_code": "Br 6",
+      "name": "Brehové porasty deväťsilov",
+      "natura_code": "6430",
+      "price_eur_per_m2": 9.62
+    },
+    {
+      "formation_group": "Nelesné brehové porasty",
+      "sk_code": "Br 7",
+      "name": "Bylinné lemové spoločenstvá nížinných riek",
+      "natura_code": "6430",
+      "price_eur_per_m2": 9.62
+    },
+    {
+      "formation_group": "Nelesné brehové porasty",
+      "sk_code": "Br 8",
+      "name": "Bylinné brehové porasty tečúcich vôd",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Krovinové a kríčkové biotopy",
+      "sk_code": "Kr 1",
+      "name": "Vresoviská",
+      "natura_code": "4030",
+      "price_eur_per_m2": 15.93
+    },
+    {
+      "formation_group": "Krovinové a kríčkové biotopy",
+      "sk_code": "Kr 2",
+      "name": "Porasty borievky obyčajnej",
+      "natura_code": "5130",
+      "price_eur_per_m2": 5.31
+    },
+    {
+      "formation_group": "Krovinové a kríčkové biotopy",
+      "sk_code": "Kr 3",
+      "name": "Sukcesné štádiá s borievkou obyčajnou",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Krovinové a kríčkové biotopy",
+      "sk_code": "Kr 4",
+      "name": "Spoločenstvá subalpínskych krovín",
+      "natura_code": "4080",
+      "price_eur_per_m2": 43.81
+    },
+    {
+      "formation_group": "Krovinové a kríčkové biotopy",
+      "sk_code": "Kr 5",
+      "name": "Nízke subalpínske kroviny",
+      "natura_code": "4080",
+      "price_eur_per_m2": 43.81
+    },
+    {
+      "formation_group": "Krovinové a kríčkové biotopy",
+      "sk_code": "Kr 6",
+      "name": "Xerotermné kroviny",
+      "natura_code": "* 40A0",
+      "price_eur_per_m2": 18.58
+    },
+    {
+      "formation_group": "Krovinové a kríčkové biotopy",
+      "sk_code": "Kr 7",
+      "name": "Trnkové a lieskové kroviny",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Krovinové a kríčkové biotopy",
+      "sk_code": "Kr 8",
+      "name": "Vŕbové kroviny stojatých vôd",
+      "natura_code": "",
+      "price_eur_per_m2": 6.63
+    },
+    {
+      "formation_group": "Krovinové a kríčkové biotopy",
+      "sk_code": "Kr 9",
+      "name": "Vŕbové kroviny na zaplavovaných brehoch vôd",
+      "natura_code": "",
+      "price_eur_per_m2": 6.63
+    },
+    {
+      "formation_group": "Krovinové a kríčkové biotopy",
+      "sk_code": "Kr 10",
+      "name": "Kosodrevina",
+      "natura_code": "* 4070",
+      "price_eur_per_m2": 35.51
+    },
+    {
+      "formation_group": "Krovinové a kríčkové biotopy",
+      "sk_code": "Kr 11",
+      "name": "Vysadená kosodrevina",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Lúky a pasienky",
+      "sk_code": "Lk 1",
+      "name": "Nížinné a podhorské kosné lúky",
+      "natura_code": "6510",
+      "price_eur_per_m2": 21.24
+    },
+    {
+      "formation_group": "Lúky a pasienky",
+      "sk_code": "Lk 2",
+      "name": "Horské kosné lúky",
+      "natura_code": "6520",
+      "price_eur_per_m2": 16.26
+    },
+    {
+      "formation_group": "Lúky a pasienky",
+      "sk_code": "Lk 3",
+      "name": "Mezofilné pasienky a spásané lúky",
+      "natura_code": "",
+      "price_eur_per_m2": 3.65
+    },
+    {
+      "formation_group": "Lúky a pasienky",
+      "sk_code": "Lk 4",
+      "name": "Bezkolencové lúky",
+      "natura_code": "6410",
+      "price_eur_per_m2": 51.78
+    },
+    {
+      "formation_group": "Lúky a pasienky",
+      "sk_code": "Lk 5",
+      "name": "Vysokobylinné spoločenstvá na vlhkých lúkach",
+      "natura_code": "6430",
+      "price_eur_per_m2": 9.62
+    },
+    {
+      "formation_group": "Lúky a pasienky",
+      "sk_code": "Lk 6",
+      "name": "Podmáčané lúky horských a podhorských oblastí",
+      "natura_code": "",
+      "price_eur_per_m2": 9.62
+    },
+    {
+      "formation_group": "Lúky a pasienky",
+      "sk_code": "Lk 7",
+      "name": "Psiarkové aluviálne lúky",
+      "natura_code": "",
+      "price_eur_per_m2": 8.63
+    },
+    {
+      "formation_group": "Lúky a pasienky",
+      "sk_code": "Lk 8",
+      "name": "Aluviálne lúky zväzu Cnidion venosi",
+      "natura_code": "6440",
+      "price_eur_per_m2": 21.24
+    },
+    {
+      "formation_group": "Lúky a pasienky",
+      "sk_code": "Lk 9",
+      "name": "Zaplavované travinné spoločenstvá",
+      "natura_code": "",
+      "price_eur_per_m2": 5.31
+    },
+    {
+      "formation_group": "Lúky a pasienky",
+      "sk_code": "Lk 10",
+      "name": "Vegetácia vysokých ostríc",
+      "natura_code": "",
+      "price_eur_per_m2": 7.3
+    },
+    {
+      "formation_group": "Lúky a pasienky",
+      "sk_code": "Lk 11",
+      "name": "Trstinové spoločenstvá mokradí (Phragmition)",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Lúky a pasienky",
+      "sk_code": "Lk 12",
+      "name": "Trstinové spoločenstvá brakických a alkalických vôd",
+      "natura_code": "",
+      "price_eur_per_m2": 7.3
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 1",
+      "name": "Lužné lesy",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 1.1",
+      "name": "Vŕbovo-topoľové nížinné lužné lesy",
+      "natura_code": "* 91E0",
+      "price_eur_per_m2": 17.92
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 1.2",
+      "name": "Dubovo-brestovo-jaseňové nížinné lužné lesy",
+      "natura_code": "91F0",
+      "price_eur_per_m2": 23.23
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 1.3",
+      "name": "Jaseňovo-jelšové podhorské lužné lesy",
+      "natura_code": "* 91E0",
+      "price_eur_per_m2": 17.92
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 1.4",
+      "name": "Horské jelšové lužné lesy",
+      "natura_code": "* 91E0",
+      "price_eur_per_m2": 17.92
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 2",
+      "name": "Dubovo-hrabové lesy",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 2.1",
+      "name": "Dubovo-hrabové lesy karpatské",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 2.2",
+      "name": "Dubovo-hrabové lesy panónske",
+      "natura_code": "* 91G0",
+      "price_eur_per_m2": 20.58
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 2.31",
+      "name": "Dubovo-hrabové lesy lipové - časť A",
+      "natura_code": "9170",
+      "price_eur_per_m2": 34.85
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 2.33",
+      "name": "Dubovo-hrabové lesy lipové – časť C",
+      "natura_code": "9410",
+      "price_eur_per_m2": 9.62
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 3",
+      "name": "Dubové a zmiešané dubové lesy",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 3.1",
+      "name": "Teplomilné submediteránne dubové lesy",
+      "natura_code": "* 91H0",
+      "price_eur_per_m2": 69.04
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 3.2",
+      "name": "Teplomilné ponticko-panónske dubové lesy na spraši a piesku",
+      "natura_code": "* 91I0",
+      "price_eur_per_m2": 28.54
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 3.3",
+      "name": "Dubové nátržníkové lesy",
+      "natura_code": "* 91I0",
+      "price_eur_per_m2": 28.54
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 3.4",
+      "name": "Dubovo-cerové lesy",
+      "natura_code": "91M0",
+      "price_eur_per_m2": 20.58
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 3.52",
+      "name": "Sucho a kyslomilné dubové lesy - časť B",
+      "natura_code": "* 91I0",
+      "price_eur_per_m2": 28.54
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 3.6",
+      "name": "Vlhko- a kyslomilné brezovo-dubové lesy",
+      "natura_code": "9190",
+      "price_eur_per_m2": 28.54
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 2.1",
+      "name": "Dubovo-hrabové lesy karpatské",
+      "natura_code": "",
+      "price_eur_per_m2": 14.6
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 2.32",
+      "name": "Dubovo-hrabové lesy lipové - časť B",
+      "natura_code": "",
+      "price_eur_per_m2": 34.85
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 3.51",
+      "name": "Sucho a kyslomilné dubové lesy - časť A",
+      "natura_code": "",
+      "price_eur_per_m2": 17.92
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 4",
+      "name": "Lipovo-javorové sutinové lesy",
+      "natura_code": "* 9180",
+      "price_eur_per_m2": 17.92
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 5",
+      "name": "Bukové a zmiešané bukové lesy",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 5.1",
+      "name": "Bukové a jedľovo-bukové kvetnaté lesy",
+      "natura_code": "9130",
+      "price_eur_per_m2": 19.25
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 5.2",
+      "name": "Kyslomilné bukové lesy",
+      "natura_code": "9110",
+      "price_eur_per_m2": 19.25
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 5.3",
+      "name": "Javorovo-bukové horské lesy",
+      "natura_code": "9140",
+      "price_eur_per_m2": 13.94
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 5.4",
+      "name": "Vápnomilné bukové lesy",
+      "natura_code": "9150",
+      "price_eur_per_m2": 13.61
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 6",
+      "name": "Suchomilné borovicové a borovicové zmiešané lesy",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 6.1",
+      "name": "Kyslomilné borovicové a dubovo-borovicové lesy",
+      "natura_code": "",
+      "price_eur_per_m2": 23.23
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 6.2",
+      "name": "Reliktné vápnomilné borovicové a smrekovcové lesy",
+      "natura_code": "91Q0",
+      "price_eur_per_m2": 74.68
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 6.3",
+      "name": "Lesostepné borovicové lesy",
+      "natura_code": "",
+      "price_eur_per_m2": 28.54
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 7",
+      "name": "Rašeliniskové lesy",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 7.1",
+      "name": "Rašeliniskové brezové lesíky",
+      "natura_code": "* 91D0",
+      "price_eur_per_m2": 56.76
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 7.2",
+      "name": "Rašeliniskové borovicové lesy",
+      "natura_code": "* 91D0",
+      "price_eur_per_m2": 56.76
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 7.3",
+      "name": "Rašeliniskové smrekové lesy",
+      "natura_code": "* 91D0",
+      "price_eur_per_m2": 56.76
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 7.4",
+      "name": "Slatinné jelšové lesy",
+      "natura_code": "",
+      "price_eur_per_m2": 46.14
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 8.0",
+      "name": "Jedľové a jedľovo-smrekové lesy",
+      "natura_code": "",
+      "price_eur_per_m2": 19.25
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 9",
+      "name": "Smrekové a zmiešané smrekové lesy",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 9.1",
+      "name": "Smrekové lesy čučoriedkové",
+      "natura_code": "9410",
+      "price_eur_per_m2": 9.62
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 9.2",
+      "name": "Smrekové lesy vysokobylinné",
+      "natura_code": "9410",
+      "price_eur_per_m2": 9.62
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 9.3",
+      "name": "Podmáčané smrekové lesy",
+      "natura_code": "9410",
+      "price_eur_per_m2": 9.62
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 9.4",
+      "name": "Smrekovcovo-limbové lesy",
+      "natura_code": "9420",
+      "price_eur_per_m2": 43.81
+    },
+    {
+      "formation_group": "Lesy",
+      "sk_code": "Ls 10",
+      "name": "Panónske topoľové lesy s borievkou",
+      "natura_code": "* 91N0",
+      "price_eur_per_m2": 62.07
+    },
+    {
+      "formation_group": "Piesky a pionierske porasty",
+      "sk_code": "Pi 1",
+      "name": "Vnútrozemské panónske pieskové duny",
+      "natura_code": "* 2340",
+      "price_eur_per_m2": 143.06
+    },
+    {
+      "formation_group": "Piesky a pionierske porasty",
+      "sk_code": "Pi 2",
+      "name": "Suchomilné travinno-bylinné porasty na vápnitých pieskoch",
+      "natura_code": "* 6120",
+      "price_eur_per_m2": 77.67
+    },
+    {
+      "formation_group": "Piesky a pionierske porasty",
+      "sk_code": "Pi 3",
+      "name": "Pionierske porasty na silikátových pôdach",
+      "natura_code": "",
+      "price_eur_per_m2": 12.28
+    },
+    {
+      "formation_group": "Piesky a pionierske porasty",
+      "sk_code": "Pi 4",
+      "name": "Pionierske spoločenstvá plytkých silikátových pôd",
+      "natura_code": "8230",
+      "price_eur_per_m2": 19.58
+    },
+    {
+      "formation_group": "Piesky a pionierske porasty",
+      "sk_code": "Pi 5",
+      "name": "Pionierske porasty zväzu Alysso-Sedion albi na plytkých karbonátových a bázických substrátoch",
+      "natura_code": "* 6110",
+      "price_eur_per_m2": 14.93
+    },
+    {
+      "formation_group": "Prameniská",
+      "sk_code": "Pr 1",
+      "name": "Prameniská horského a subalpínskeho stupňa na nevápencových horninách",
+      "natura_code": "",
+      "price_eur_per_m2": 46.14
+    },
+    {
+      "formation_group": "Prameniská",
+      "sk_code": "Pr 2",
+      "name": "Prameniská nížin a pahorkatín na nevápencových horninách",
+      "natura_code": "",
+      "price_eur_per_m2": 18.92
+    },
+    {
+      "formation_group": "Prameniská",
+      "sk_code": "Pr 3",
+      "name": "Penovcové prameniská",
+      "natura_code": "* 7220",
+      "price_eur_per_m2": 139.41
+    },
+    {
+      "formation_group": "Rašeliniská a slatiny",
+      "sk_code": "Ra 1",
+      "name": "Aktívne vrchoviská",
+      "natura_code": "* 7110",
+      "price_eur_per_m2": 139.41
+    },
+    {
+      "formation_group": "Rašeliniská a slatiny",
+      "sk_code": "Ra 2",
+      "name": "Degradované vrchoviská schopné prirodzenej obnovy",
+      "natura_code": "7120",
+      "price_eur_per_m2": 117.5
+    },
+    {
+      "formation_group": "Rašeliniská a slatiny",
+      "sk_code": "Ra 3",
+      "name": "Prechodné rašeliniská a trasoviská",
+      "natura_code": "7140",
+      "price_eur_per_m2": 117.5
+    },
+    {
+      "formation_group": "Rašeliniská a slatiny",
+      "sk_code": "Ra 4",
+      "name": "Depresie na rašelinných substrátoch s Rhynchospora alba",
+      "natura_code": "7150",
+      "price_eur_per_m2": 117.5
+    },
+    {
+      "formation_group": "Rašeliniská a slatiny",
+      "sk_code": "Ra 5",
+      "name": "Vápnité slatiny s maricou pílkatou a druhmi zväzu Caricion davallianae",
+      "natura_code": "* 7210",
+      "price_eur_per_m2": 165.3
+    },
+    {
+      "formation_group": "Rašeliniská a slatiny",
+      "sk_code": "Ra 6",
+      "name": "Slatiny s vysokým obsahom báz",
+      "natura_code": "7230",
+      "price_eur_per_m2": 117.5
+    },
+    {
+      "formation_group": "Rašeliniská a slatiny",
+      "sk_code": "Ra 7",
+      "name": "Sukcesne zmenené slatiny",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Skalné a sutinové biotopy",
+      "sk_code": "Sk 1",
+      "name": "Karbonátové skalné steny a svahy so štrbinovou vegetáciou",
+      "natura_code": "8210",
+      "price_eur_per_m2": 9.62
+    },
+    {
+      "formation_group": "Skalné a sutinové biotopy",
+      "sk_code": "Sk 2",
+      "name": "Silikátové skalné steny a svahy so štrbinovou vegetáciou",
+      "natura_code": "8220",
+      "price_eur_per_m2": 9.62
+    },
+    {
+      "formation_group": "Skalné a sutinové biotopy",
+      "sk_code": "Sk 3",
+      "name": "Silikátové sutiny v montánnom až alpínskom stupni",
+      "natura_code": "8110",
+      "price_eur_per_m2": 14.93
+    },
+    {
+      "formation_group": "Skalné a sutinové biotopy",
+      "sk_code": "Sk 4",
+      "name": "Karbonátové sutiny v montánnom až alpínskom stupni",
+      "natura_code": "8120",
+      "price_eur_per_m2": 14.93
+    },
+    {
+      "formation_group": "Skalné a sutinové biotopy",
+      "sk_code": "Sk 5",
+      "name": "Nespevnené silikátové sutiny v kolínnom stupni",
+      "natura_code": "8150",
+      "price_eur_per_m2": 23.9
+    },
+    {
+      "formation_group": "Skalné a sutinové biotopy",
+      "sk_code": "Sk 6",
+      "name": "Nespevnené karbonátové skalné sutiny v montánnom až kolínnom stupni",
+      "natura_code": "* 8160",
+      "price_eur_per_m2": 14.93
+    },
+    {
+      "formation_group": "Skalné a sutinové biotopy",
+      "sk_code": "Sk 7",
+      "name": "Sekundárne sutinové a skalné biotopy",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Skalné a sutinové biotopy",
+      "sk_code": "Sk 8",
+      "name": "Nesprístupnené jaskynné útvary",
+      "natura_code": "8310",
+      "price_eur_per_m2": 113.19
+    },
+    {
+      "formation_group": "Slaniská a biotopy s výskytom halofytov",
+      "sk_code": "Sl 1",
+      "name": "Vnútrozemské slaniská a slané lúky",
+      "natura_code": "* 1340",
+      "price_eur_per_m2": 73.69
+    },
+    {
+      "formation_group": "Slaniská a biotopy s výskytom halofytov",
+      "sk_code": "Sl 2",
+      "name": "Karpatské travertínové slaniská",
+      "natura_code": "* 1340",
+      "price_eur_per_m2": 73.69
+    },
+    {
+      "formation_group": "Slaniská a biotopy s výskytom halofytov",
+      "sk_code": "Sl 3",
+      "name": "Panónske slané stepi a slaniská",
+      "natura_code": "* 1530",
+      "price_eur_per_m2": 247.95
+    },
+    {
+      "formation_group": "Slaniská a biotopy s výskytom halofytov",
+      "sk_code": "Sl 4",
+      "name": "Subhalínne travinné biotopy",
+      "natura_code": "",
+      "price_eur_per_m2": 201.48
+    },
+    {
+      "formation_group": "Teplo a suchomilné travinno-bylinné porasty",
+      "sk_code": "Tr 1",
+      "name": "Suchomilné travinno-bylinné a krovinové porasty na vápnitom substráte",
+      "natura_code": "6210",
+      "price_eur_per_m2": 24.56
+    },
+    {
+      "formation_group": "Teplo a suchomilné travinno-bylinné porasty",
+      "sk_code": "Tr 1a",
+      "name": "Festucion valesiacae",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Teplo a suchomilné travinno-bylinné porasty",
+      "sk_code": "Tr 1b",
+      "name": "Bromion erecti",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Teplo a suchomilné travinno-bylinné porasty",
+      "sk_code": "Tr 1c",
+      "name": "Cirsio-Brachypodion pinnati",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Teplo a suchomilné travinno-bylinné porasty",
+      "sk_code": "Tr 1d",
+      "name": "Koelerio-Phleion phleoidis",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Teplo a suchomilné travinno-bylinné porasty",
+      "sk_code": "Tr 1.1",
+      "name": "Suchomilné travinno-bylinné a krovinové porasty na vápnitom substráte s významným výskytom druhov čeľade Orchidaceae",
+      "natura_code": "* 6210",
+      "price_eur_per_m2": 56.76
+    },
+    {
+      "formation_group": "Teplo a suchomilné travinno-bylinné porasty",
+      "sk_code": "Tr 2",
+      "name": "Subpanónske travinno-bylinné porast",
+      "natura_code": "* 6240",
+      "price_eur_per_m2": 94.6
+    },
+    {
+      "formation_group": "Teplo a suchomilné travinno-bylinné porasty",
+      "sk_code": "Tr 3",
+      "name": "Panónske travinno-bylinné porasty na spraši",
+      "natura_code": "* 6250",
+      "price_eur_per_m2": 77.34
+    },
+    {
+      "formation_group": "Teplo a suchomilné travinno-bylinné porasty",
+      "sk_code": "Tr 4",
+      "name": "Panónske travinno-bylinné porasty na pieskoch",
+      "natura_code": "* 6260",
+      "price_eur_per_m2": 22.57
+    },
+    {
+      "formation_group": "Teplo a suchomilné travinno-bylinné porasty",
+      "sk_code": "Tr 5",
+      "name": "Suché a dealpínske travinno-bylinné porasty",
+      "natura_code": "6190",
+      "price_eur_per_m2": 12.28
+    },
+    {
+      "formation_group": "Teplo a suchomilné travinno-bylinné porasty",
+      "sk_code": "Tr 5a",
+      "name": "Bromo pannonici-Festucion pallentis",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Teplo a suchomilné travinno-bylinné porasty",
+      "sk_code": "Tr 5b",
+      "name": "Diantho lumnitzeri-Seslerion",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Teplo a suchomilné travinno-bylinné porasty",
+      "sk_code": "Tr 6",
+      "name": "Teplomilné lemy",
+      "natura_code": "",
+      "price_eur_per_m2": 11.61
+    },
+    {
+      "formation_group": "Teplo a suchomilné travinno-bylinné porasty",
+      "sk_code": "Tr 7",
+      "name": "Mezofilné lemy",
+      "natura_code": "",
+      "price_eur_per_m2": 9.62
+    },
+    {
+      "formation_group": "Teplo a suchomilné travinno-bylinné porasty",
+      "sk_code": "Tr 8",
+      "name": "Kvetnaté vysokohorské a horské psicové porasty na silikátovom substráte",
+      "natura_code": "* 6230",
+      "price_eur_per_m2": 14.93
+    },
+    {
+      "formation_group": "Vodné biotopy",
+      "sk_code": "Vo 1",
+      "name": "Oligotrofné až mezotrofné stojaté vody s vegetáciou tried Littorelletea uniflorae a/alebo Isoëto-Nanojuncetea",
+      "natura_code": "3130",
+      "price_eur_per_m2": 12.28
+    },
+    {
+      "formation_group": "Vodné biotopy",
+      "sk_code": "Vo 1a",
+      "name": "Littorellion uniflorae",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Vodné biotopy",
+      "sk_code": "Vo 1b",
+      "name": "Eleocharition acicularis",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Vodné biotopy",
+      "sk_code": "Vo 1c",
+      "name": "Eleocharition soloniensis, Radiolion linoidis, Nanocyperion flavescentis",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Vodné biotopy",
+      "sk_code": "Vo 2",
+      "name": "Prirodzené eutrofné a mezotrofné stojaté vody s vegetáciou plávajúcich a/alebo ponorených cievnatých rastlín typu Magnopotamion alebo Hydrocharion",
+      "natura_code": "3150",
+      "price_eur_per_m2": 12.28
+    },
+    {
+      "formation_group": "Vodné biotopy",
+      "sk_code": "Vo 2a",
+      "name": "Lemnion minoris, Utricularion vulgaris, Hydrocharition",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Vodné biotopy",
+      "sk_code": "Vo 2b",
+      "name": "Potamion lucentis, Potamion pusilli",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Vodné biotopy",
+      "sk_code": "Vo 2c",
+      "name": "Nymphaeion albae",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Vodné biotopy",
+      "sk_code": "Vo 3",
+      "name": "Prirodzené dystrofné stojaté vody",
+      "natura_code": "3160",
+      "price_eur_per_m2": 58.75
+    },
+    {
+      "formation_group": "Vodné biotopy",
+      "sk_code": "Vo 4",
+      "name": "Nížinné až horské vodné toky s vegetáciou zväzu Ranunculion fluitantis a Callitricho-Batrachion",
+      "natura_code": "3260",
+      "price_eur_per_m2": 19.58
+    },
+    {
+      "formation_group": "Vodné biotopy",
+      "sk_code": "Vo 5",
+      "name": "Oligotrofné až mezotrofné vody s bentickou vegetáciou chár",
+      "natura_code": "3140",
+      "price_eur_per_m2": 38.83
+    },
+    {
+      "formation_group": "Vodné biotopy",
+      "sk_code": "Vo 6",
+      "name": "Mezo- až eutrofné poloprirodzené a umelé vodné nádrže so stojatou vodou s plávajúcou a/alebo ponorenou vegetáciou",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Vodné biotopy",
+      "sk_code": "Vo 7",
+      "name": "Makrofytná vegetácia plytkých stojatých vôd (Ranunculion aquatilis)",
+      "natura_code": "",
+      "price_eur_per_m2": 23.9
+    },
+    {
+      "formation_group": "Vodné biotopy",
+      "sk_code": "Vo 8",
+      "name": "Spoločenstvá bylín a šachorín eutrofných mokradí s kolísajúcou vodnou hladinou",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Vodné biotopy",
+      "sk_code": "Vo 9",
+      "name": "Ruderalizované porasty v zamokrených depresiách na poliach a na obnažených dnách rybníkov",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Ruderálne biotopy",
+      "sk_code": "X 1",
+      "name": "Rúbaniská s prevahou bylín a tráv",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Ruderálne biotopy",
+      "sk_code": "X 2",
+      "name": "Rúbaniská s prevahou drevin",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Ruderálne biotopy",
+      "sk_code": "X 3",
+      "name": "Nitrofilná ruderálna vegetácia mimo sídiel (0/8)",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Ruderálne biotopy",
+      "sk_code": "X 4",
+      "name": "Teplomilná ruderálna vegetácia mimo sídiel (0/19)",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Ruderálne biotopy",
+      "sk_code": "X 5",
+      "name": "Úhory a extenzívne obhospodarované polia",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Ruderálne biotopy",
+      "sk_code": "X 6",
+      "name": "Úhory a burinová vegetácia na pieskoch",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Ruderálne biotopy",
+      "sk_code": "X 7",
+      "name": "Intenzívne obhospodarované polia",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Ruderálne biotopy",
+      "sk_code": "X 8",
+      "name": "Porasty inváznych neofytov",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Ruderálne biotopy",
+      "sk_code": "X 9",
+      "name": "Porasty nepôvodných drevín",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    },
+    {
+      "formation_group": "Ruderálne biotopy",
+      "sk_code": "X 10",
+      "name": "Porasty ruderalizovaných bahnitých brehov",
+      "natura_code": "",
+      "price_eur_per_m2": ""
+    }
+  ],
+  "meta": {
+    "title": "Biotopy Slovenska (katalóg biotopov) - Free Download",
+    "description": "Katalóg biotopov Slovenska podľa formačných skupín so slovenským kódom, názvom, kódom biotopu Natura 2000 a spoločenskou hodnotou v eurách za m². Contains 152 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Biotopy Slovenska (katalóg biotopov) | ListBase",
+    "seo_description": "Download Biotopy Slovenska (katalóg biotopov) — 152 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 152 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_biotopov_Slovenska"
+    ]
+  }
+}
