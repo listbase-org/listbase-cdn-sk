@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-19T02:16:24.404Z",
-  "total_datasets": 512,
-  "total_records": 287540,
+  "generated": "2026-11-20T02:15:23.345Z",
+  "total_datasets": 513,
+  "total_records": 287638,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -5577,6 +5577,32 @@
         "xlsx": {
           "name": "sk-operni-speaci_SK.xlsx",
           "size": 12305
+        }
+      }
+    },
+    {
+      "id": "sk-slovenske-hudobne-skupiny",
+      "name": "Slovenské hudobné skupiny",
+      "category": "music",
+      "record_count": 98,
+      "columns": [
+        "nazov",
+        "zaner",
+        "rok_zalozenia",
+        "miesto_vzniku",
+        "wikidata"
+      ],
+      "source": "https://www.wikidata.org/wiki/Q215380",
+      "updated": "2026-11",
+      "size": 17507,
+      "files": {
+        "csv": {
+          "name": "sk-slovenske-hudobne-skupiny_SK.csv",
+          "size": 5026
+        },
+        "xlsx": {
+          "name": "sk-slovenske-hudobne-skupiny_SK.xlsx",
+          "size": 11051
         }
       }
     },

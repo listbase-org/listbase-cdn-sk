@@ -1,0 +1,737 @@
+{
+  "id": "sk-slovenske-hudobne-skupiny",
+  "name": "Slovenské hudobné skupiny",
+  "title": "Slovenské hudobné skupiny",
+  "description": "Zoznam slovenských hudobných skupín a kapiel (napr. Elán, Horkýže Slíže, Gladiator) so žánrom, rokom založenia a miestom vzniku, ak sú uvedené. Zdroj: Wikidata (slovenské označenia).",
+  "category": "music",
+  "source": "https://www.wikidata.org/wiki/Q215380",
+  "source_url": "https://www.wikidata.org/wiki/Q215380",
+  "updated": "2026-11",
+  "record_count": 98,
+  "columns": [
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "zaner",
+      "label": "Zaner",
+      "type": "string"
+    },
+    {
+      "key": "rok_zalozenia",
+      "label": "Rok Zalozenia",
+      "type": "number"
+    },
+    {
+      "key": "miesto_vzniku",
+      "label": "Miesto Vzniku",
+      "type": "string"
+    },
+    {
+      "key": "wikidata",
+      "label": "Wikidata",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazov": "100 múch",
+      "zaner": "folk rock",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Banská Bystrica",
+      "wikidata": "Q12761521"
+    },
+    {
+      "nazov": "Anthology",
+      "zaner": "symfonický metal, power metal, heavy metal",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Nižná",
+      "wikidata": "Q20856419"
+    },
+    {
+      "nazov": "Atlanta",
+      "zaner": "pop",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q12762690"
+    },
+    {
+      "nazov": "Bad Karma Boy",
+      "zaner": "indie pop",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q53768520"
+    },
+    {
+      "nazov": "Bee M",
+      "zaner": "Eurodance",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q18534599"
+    },
+    {
+      "nazov": "Berlin Manson",
+      "zaner": "post-punk, Synthpunk",
+      "rok_zalozenia": 2020,
+      "miesto_vzniku": "",
+      "wikidata": "Q125454442"
+    },
+    {
+      "nazov": "Billy Barman",
+      "zaner": "indie pop",
+      "rok_zalozenia": 2008,
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q53768528"
+    },
+    {
+      "nazov": "Brajgel",
+      "zaner": "alternatívny rock",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Pezinok",
+      "wikidata": "Q47473047"
+    },
+    {
+      "nazov": "Bratislava Hot Serenaders",
+      "zaner": "tanečná hudba",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q11247272"
+    },
+    {
+      "nazov": "Bukasový masív",
+      "zaner": "Country",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q11362643"
+    },
+    {
+      "nazov": "Chiki liki tu-a",
+      "zaner": "alternatívny rock",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q201544"
+    },
+    {
+      "nazov": "Collegium musicum",
+      "zaner": "art rock",
+      "rok_zalozenia": 1969,
+      "miesto_vzniku": "",
+      "wikidata": "Q868296"
+    },
+    {
+      "nazov": "Concubia Nocte",
+      "zaner": "black metal",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q12764202"
+    },
+    {
+      "nazov": "D-Night",
+      "zaner": "Eurodance",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q12764300"
+    },
+    {
+      "nazov": "Dennyiah",
+      "zaner": "indie pop",
+      "rok_zalozenia": 2015,
+      "miesto_vzniku": "Košice",
+      "wikidata": "Q124823196"
+    },
+    {
+      "nazov": "Depresy",
+      "zaner": "Melodický death metal",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q13406919"
+    },
+    {
+      "nazov": "Desmod",
+      "zaner": "rock",
+      "rok_zalozenia": 1996,
+      "miesto_vzniku": "Nitra",
+      "wikidata": "Q2218009"
+    },
+    {
+      "nazov": "DMS",
+      "zaner": "hip-hop",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q21809784"
+    },
+    {
+      "nazov": "Doomas",
+      "zaner": "doom metal",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q15089116"
+    },
+    {
+      "nazov": "Dramatikz",
+      "zaner": "hip-hop",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Ružomberok",
+      "wikidata": "Q7376935"
+    },
+    {
+      "nazov": "Druhá Strana",
+      "zaner": "rep",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q13407200"
+    },
+    {
+      "nazov": "Drvivá Menšina",
+      "zaner": "hip-hop",
+      "rok_zalozenia": 1997,
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q12764941"
+    },
+    {
+      "nazov": "Elán",
+      "zaner": "rock, pop rock",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q222107"
+    },
+    {
+      "nazov": "ESPé",
+      "zaner": "Gospel",
+      "rok_zalozenia": 2003,
+      "miesto_vzniku": "",
+      "wikidata": "Q27077415"
+    },
+    {
+      "nazov": "Extasy",
+      "zaner": "Eurodance",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Košice",
+      "wikidata": "Q17542174"
+    },
+    {
+      "nazov": "Fermata",
+      "zaner": "jazz fusion",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q1000663"
+    },
+    {
+      "nazov": "Fragile",
+      "zaner": "pop",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q5068680"
+    },
+    {
+      "nazov": "Free Faces",
+      "zaner": "alternatívny rock",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q13409097"
+    },
+    {
+      "nazov": "Galadriel (slovenská hudobná skupina)",
+      "zaner": "gotický metal, doom metal",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q13409193"
+    },
+    {
+      "nazov": "Ghymes",
+      "zaner": "rock",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q638128"
+    },
+    {
+      "nazov": "Gladiator",
+      "zaner": "Hard rock, thrash metal",
+      "rok_zalozenia": 1989,
+      "miesto_vzniku": "Alekšince",
+      "wikidata": "Q3496989"
+    },
+    {
+      "nazov": "H16",
+      "zaner": "hip-hop",
+      "rok_zalozenia": 2003,
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q2368439"
+    },
+    {
+      "nazov": "HAHA Crew",
+      "zaner": "rep",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q17278860"
+    },
+    {
+      "nazov": "Heaven’s Shore",
+      "zaner": "pop",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q12766748"
+    },
+    {
+      "nazov": "Hex",
+      "zaner": "pop rock",
+      "rok_zalozenia": 1989,
+      "miesto_vzniku": "",
+      "wikidata": "Q730601"
+    },
+    {
+      "nazov": "Hromovlad",
+      "zaner": "folk",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q12767155"
+    },
+    {
+      "nazov": "IMT Smile",
+      "zaner": "rock",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Prešov",
+      "wikidata": "Q12021379"
+    },
+    {
+      "nazov": "Jednofázové kvasenie",
+      "zaner": "folk",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q12767962"
+    },
+    {
+      "nazov": "Karpathia",
+      "zaner": "black metal",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q13421866"
+    },
+    {
+      "nazov": "Karpatské chrbáty",
+      "zaner": "alternatívny rock",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q13421870"
+    },
+    {
+      "nazov": "Karpina",
+      "zaner": "rock",
+      "rok_zalozenia": 1989,
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q12028859"
+    },
+    {
+      "nazov": "Kollárovci",
+      "zaner": "Slovenská ľudová hudba",
+      "rok_zalozenia": 1997,
+      "miesto_vzniku": "",
+      "wikidata": "Q17279737"
+    },
+    {
+      "nazov": "Komajota",
+      "zaner": "pop rock",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q12769309"
+    },
+    {
+      "nazov": "Kontrafakt",
+      "zaner": "rep",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Piešťany",
+      "wikidata": "Q1473875"
+    },
+    {
+      "nazov": "Kopytovci",
+      "zaner": "Eurodance",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q12030197"
+    },
+    {
+      "nazov": "L.U.Z.A.",
+      "zaner": "hip-hop",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q12770063"
+    },
+    {
+      "nazov": "Le Payaco",
+      "zaner": "rock",
+      "rok_zalozenia": 1996,
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q12770231"
+    },
+    {
+      "nazov": "Lublau",
+      "zaner": "rock",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Stará Ľubovňa",
+      "wikidata": "Q12770563"
+    },
+    {
+      "nazov": "Majster Kat",
+      "zaner": "thrash metal",
+      "rok_zalozenia": 2001,
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q1815763"
+    },
+    {
+      "nazov": "Makar Čudra (skupina)",
+      "zaner": "heavy metal",
+      "rok_zalozenia": 1987,
+      "miesto_vzniku": "Slovensko",
+      "wikidata": "Q12770890"
+    },
+    {
+      "nazov": "Margot",
+      "zaner": "rock",
+      "rok_zalozenia": 1999,
+      "miesto_vzniku": "",
+      "wikidata": "Q111539036"
+    },
+    {
+      "nazov": "Massriot",
+      "zaner": "pop rock",
+      "rok_zalozenia": 2004,
+      "miesto_vzniku": "Rožňava",
+      "wikidata": "Q142185938"
+    },
+    {
+      "nazov": "Mater",
+      "zaner": "hip-hop",
+      "rok_zalozenia": 2002,
+      "miesto_vzniku": "",
+      "wikidata": "Q21598610"
+    },
+    {
+      "nazov": "Metalinda",
+      "zaner": "power metal",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q12036430"
+    },
+    {
+      "nazov": "Metla (skupina)",
+      "zaner": "heavy metal",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Ružomberok",
+      "wikidata": "Q12771458"
+    },
+    {
+      "nazov": "Metropolis",
+      "zaner": "rock",
+      "rok_zalozenia": 2002,
+      "miesto_vzniku": "Sereď",
+      "wikidata": "Q4315023"
+    },
+    {
+      "nazov": "Modus",
+      "zaner": "rock",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q3496927"
+    },
+    {
+      "nazov": "Moja Reč",
+      "zaner": "hip-hop",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Handlová",
+      "wikidata": "Q10588069"
+    },
+    {
+      "nazov": "Moonfog",
+      "zaner": "death metal",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Považská Bystrica",
+      "wikidata": "Q12771943"
+    },
+    {
+      "nazov": "Mordibathor",
+      "zaner": "death metal",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q12771956"
+    },
+    {
+      "nazov": "Morhotronic",
+      "zaner": "Eurodance",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Prievidza",
+      "wikidata": "Q14329393"
+    },
+    {
+      "nazov": "N3O",
+      "zaner": "Reggae, world music, Raggamuffin",
+      "rok_zalozenia": 2008,
+      "miesto_vzniku": "Prešov",
+      "wikidata": "Q142070059"
+    },
+    {
+      "nazov": "No Name",
+      "zaner": "rock",
+      "rok_zalozenia": 1996,
+      "miesto_vzniku": "Košice",
+      "wikidata": "Q1994551"
+    },
+    {
+      "nazov": "Nocadeň",
+      "zaner": "rock",
+      "rok_zalozenia": 1997,
+      "miesto_vzniku": "Košice",
+      "wikidata": "Q2224220"
+    },
+    {
+      "nazov": "Názov Stavby",
+      "zaner": "rep",
+      "rok_zalozenia": 1999,
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q12772771"
+    },
+    {
+      "nazov": "Pagan Spirit",
+      "zaner": "black metal",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q12773299"
+    },
+    {
+      "nazov": "Pathology Stench",
+      "zaner": "death metal",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q13538087"
+    },
+    {
+      "nazov": "Peha",
+      "zaner": "rock, pop",
+      "rok_zalozenia": 1997,
+      "miesto_vzniku": "Prešov",
+      "wikidata": "Q1632697"
+    },
+    {
+      "nazov": "Perterricrepus",
+      "zaner": "black metal",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q12773680"
+    },
+    {
+      "nazov": "Peter Bič Project",
+      "zaner": "pop rock",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q18536373"
+    },
+    {
+      "nazov": "Podfuck",
+      "zaner": "Hard rock",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Košice",
+      "wikidata": "Q13538314"
+    },
+    {
+      "nazov": "Polemic",
+      "zaner": "Ska",
+      "rok_zalozenia": 1989,
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q1278288"
+    },
+    {
+      "nazov": "Preßburger Klezmer Band",
+      "zaner": "klezmer",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q136674287"
+    },
+    {
+      "nazov": "Prešporok (skupina)",
+      "zaner": "folk rock",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q13538625"
+    },
+    {
+      "nazov": "Prúdy",
+      "zaner": "rock",
+      "rok_zalozenia": 1962,
+      "miesto_vzniku": "",
+      "wikidata": "Q3502661"
+    },
+    {
+      "nazov": "Puding pani Elvisovej",
+      "zaner": "pop",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Košice",
+      "wikidata": "Q1241454"
+    },
+    {
+      "nazov": "Queenshow",
+      "zaner": "rock",
+      "rok_zalozenia": 2010,
+      "miesto_vzniku": "",
+      "wikidata": "Q135472266"
+    },
+    {
+      "nazov": "Rozpor",
+      "zaner": "hardcore punk",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q4002"
+    },
+    {
+      "nazov": "Salco",
+      "zaner": "Eurodance",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q13538864"
+    },
+    {
+      "nazov": "Saténové ruky",
+      "zaner": "rock",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q114959338"
+    },
+    {
+      "nazov": "Senzus",
+      "zaner": "folk",
+      "rok_zalozenia": 1978,
+      "miesto_vzniku": "",
+      "wikidata": "Q6861876"
+    },
+    {
+      "nazov": "Sexit",
+      "zaner": "rock",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q14601896"
+    },
+    {
+      "nazov": "Signum Regis",
+      "zaner": "power metal",
+      "rok_zalozenia": 2007,
+      "miesto_vzniku": "",
+      "wikidata": "Q25095454"
+    },
+    {
+      "nazov": "Straky a nálezy",
+      "zaner": "pesničkár, folk rock, indie rock",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q139884745"
+    },
+    {
+      "nazov": "Symfonický orchester Slovenského rozhlasu",
+      "zaner": "klasická hudba",
+      "rok_zalozenia": 1929,
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q4179164"
+    },
+    {
+      "nazov": "The Backwards",
+      "zaner": "revival",
+      "rok_zalozenia": 1995,
+      "miesto_vzniku": "",
+      "wikidata": "Q12058808"
+    },
+    {
+      "nazov": "The Phantoms",
+      "zaner": "Bigbít",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q12777481"
+    },
+    {
+      "nazov": "The Players",
+      "zaner": "Bigbít",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q12777480"
+    },
+    {
+      "nazov": "The Swan Bride",
+      "zaner": "rock, indie rock",
+      "rok_zalozenia": 2006,
+      "miesto_vzniku": "",
+      "wikidata": "Q12777487"
+    },
+    {
+      "nazov": "Timothy",
+      "zaner": "pop",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q16518628"
+    },
+    {
+      "nazov": "Tretí deň",
+      "zaner": "Gospel, pop",
+      "rok_zalozenia": 1992,
+      "miesto_vzniku": "",
+      "wikidata": "Q12059630"
+    },
+    {
+      "nazov": "Tristana",
+      "zaner": "speed metal",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "",
+      "wikidata": "Q12777757"
+    },
+    {
+      "nazov": "Tublatanka",
+      "zaner": "heavy metal, rock",
+      "rok_zalozenia": 1982,
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q928401"
+    },
+    {
+      "nazov": "Twiins",
+      "zaner": "pop",
+      "rok_zalozenia": 1996,
+      "miesto_vzniku": "Hronský Beňadik",
+      "wikidata": "Q539894"
+    },
+    {
+      "nazov": "Vanilla Club",
+      "zaner": "rock",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q12778252"
+    },
+    {
+      "nazov": "Vidiek",
+      "zaner": "pop rock",
+      "rok_zalozenia": "",
+      "miesto_vzniku": "Rovinka",
+      "wikidata": "Q11895084"
+    },
+    {
+      "nazov": "WAYD",
+      "zaner": "Technický death metal",
+      "rok_zalozenia": 1994,
+      "miesto_vzniku": "",
+      "wikidata": "Q2552996"
+    },
+    {
+      "nazov": "Živé kvety",
+      "zaner": "rock",
+      "rok_zalozenia": 1994,
+      "miesto_vzniku": "Bratislava",
+      "wikidata": "Q3507820"
+    }
+  ],
+  "meta": {
+    "title": "Slovenské hudobné skupiny - Free Download",
+    "description": "Zoznam slovenských hudobných skupín a kapiel (napr. Elán, Horkýže Slíže, Gladiator) so žánrom, rokom založenia a miestom vzniku, ak sú uvedené. Zdroj: Wikidata (slovenské označenia). Contains 98 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Slovenské hudobné skupiny | ListBase",
+    "seo_description": "Download Slovenské hudobné skupiny — 98 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 98 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.wikidata.org/wiki/Q215380"
+    ]
+  }
+}
