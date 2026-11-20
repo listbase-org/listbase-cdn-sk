@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-20T02:15:23.345Z",
-  "total_datasets": 513,
-  "total_records": 287638,
+  "generated": "2026-11-20T02:15:36.313Z",
+  "total_datasets": 514,
+  "total_records": 287693,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "history",
@@ -4892,6 +4892,33 @@
         "xlsx": {
           "name": "sk-nemocnice-bratislava-kosice-lozka_SK.xlsx",
           "size": 8453
+        }
+      }
+    },
+    {
+      "id": "sk-stredna-dlzka-zivota-podla-regionov",
+      "name": "Stredná dĺžka života pri narodení podľa regiónov Slovenska (2014 – 2024)",
+      "category": "health",
+      "record_count": 55,
+      "columns": [
+        "region",
+        "kod_nuts",
+        "rok",
+        "stredna_dlzka_zivota_spolu",
+        "muzi",
+        "zeny"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table",
+      "updated": "2026-11",
+      "size": 11923,
+      "files": {
+        "csv": {
+          "name": "sk-stredna-dlzka-zivota-podla-regionov_SK.csv",
+          "size": 3040
+        },
+        "xlsx": {
+          "name": "sk-stredna-dlzka-zivota-podla-regionov_SK.xlsx",
+          "size": 8381
         }
       }
     },
