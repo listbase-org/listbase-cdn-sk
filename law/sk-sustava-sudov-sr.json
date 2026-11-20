@@ -1,0 +1,346 @@
+{
+  "id": "sk-sustava-sudov-sr",
+  "name": "Sústava súdov Slovenskej republiky",
+  "title": "Sústava súdov Slovenskej republiky",
+  "description": "Zoznam všetkých súdov Slovenskej republiky – Najvyšší súd, krajské, mestské a okresné súdy, Špecializovaný trestný súd a súdy správneho súdnictva – s typom súdu a sídlom.",
+  "category": "law",
+  "source": "https://sk.wikipedia.org/wiki/Sústava_súdov_Slovenskej_republiky",
+  "source_url": "https://sk.wikipedia.org/wiki/Sústava_súdov_Slovenskej_republiky",
+  "updated": "2026-11",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "stupen_typ",
+      "label": "Stupen Typ",
+      "type": "string"
+    },
+    {
+      "key": "sustava",
+      "label": "Sustava",
+      "type": "string"
+    },
+    {
+      "key": "sidlo",
+      "label": "Sidlo",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazov": "Najvyšší súd Slovenskej republiky",
+      "stupen_typ": "Najvyšší súd",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Bratislava"
+    },
+    {
+      "nazov": "Krajský súd v Banskej Bystrici",
+      "stupen_typ": "Krajské súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Banská Bystrica"
+    },
+    {
+      "nazov": "Krajský súd v Bratislave",
+      "stupen_typ": "Krajské súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Bratislava"
+    },
+    {
+      "nazov": "Krajský súd v Košiciach",
+      "stupen_typ": "Krajské súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Košice"
+    },
+    {
+      "nazov": "Krajský súd v Nitre",
+      "stupen_typ": "Krajské súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Nitra"
+    },
+    {
+      "nazov": "Krajský súd v Prešove",
+      "stupen_typ": "Krajské súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Prešov"
+    },
+    {
+      "nazov": "Krajský súd v Trenčíne",
+      "stupen_typ": "Krajské súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Trenčín"
+    },
+    {
+      "nazov": "Krajský súd v Trnave",
+      "stupen_typ": "Krajské súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Trnava"
+    },
+    {
+      "nazov": "Krajský súd v Žiline",
+      "stupen_typ": "Krajské súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Žilina"
+    },
+    {
+      "nazov": "Špecializovaný trestný súd",
+      "stupen_typ": "Špecializovaný trestný súd",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Pezinok"
+    },
+    {
+      "nazov": "Okresný súd Banská Bystrica",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Banská Bystrica"
+    },
+    {
+      "nazov": "Okresný súd Bardejov",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Bardejov"
+    },
+    {
+      "nazov": "Mestský súd Bratislava I",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Bratislava"
+    },
+    {
+      "nazov": "Mestský súd Bratislava II",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Bratislava"
+    },
+    {
+      "nazov": "Mestský súd Bratislava III",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Bratislava"
+    },
+    {
+      "nazov": "Mestský súd Bratislava IV",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Bratislava"
+    },
+    {
+      "nazov": "Okresný súd Dunajská Streda",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Dunajská Streda"
+    },
+    {
+      "nazov": "Okresný súd Galanta",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Galanta"
+    },
+    {
+      "nazov": "Okresný súd Humenné",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Humenné"
+    },
+    {
+      "nazov": "Okresný súd Komárno",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Komárno"
+    },
+    {
+      "nazov": "Mestský súd Košice",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Košice"
+    },
+    {
+      "nazov": "Okresný súd Levice",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Levice"
+    },
+    {
+      "nazov": "Okresný súd Liptovský Mikuláš",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Liptovský Mikuláš"
+    },
+    {
+      "nazov": "Okresný súd Lučenec",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Lučenec"
+    },
+    {
+      "nazov": "Okresný súd Malacky",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Malacky"
+    },
+    {
+      "nazov": "Okresný súd Martin",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Martin"
+    },
+    {
+      "nazov": "Okresný súd Michalovce",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Michalovce"
+    },
+    {
+      "nazov": "Okresný súd Námestovo",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Námestovo"
+    },
+    {
+      "nazov": "Okresný súd Nitra",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Nitra"
+    },
+    {
+      "nazov": "Okresný súd Nové Zámky",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Nové Zámky"
+    },
+    {
+      "nazov": "Okresný súd Pezinok",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Pezinok"
+    },
+    {
+      "nazov": "Okresný súd Poprad",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Poprad"
+    },
+    {
+      "nazov": "Okresný súd Prešov",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Prešov"
+    },
+    {
+      "nazov": "Okresný súd Prievidza",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Prievidza"
+    },
+    {
+      "nazov": "Okresný súd Rimavská Sobota",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Rimavská Sobota"
+    },
+    {
+      "nazov": "Okresný súd Rožňava",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Rožňava"
+    },
+    {
+      "nazov": "Okresný súd Senica",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Senica"
+    },
+    {
+      "nazov": "Okresný súd Spišská Nová Ves",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Spišská Nová Ves"
+    },
+    {
+      "nazov": "Okresný súd Stará Ľubovňa",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Stará Ľubovňa"
+    },
+    {
+      "nazov": "Okresný súd Trebišov",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Trebišov"
+    },
+    {
+      "nazov": "Okresný súd Trenčín",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Trenčín"
+    },
+    {
+      "nazov": "Okresný súd Trnava",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Trnava"
+    },
+    {
+      "nazov": "Okresný súd Vranov nad Topľou",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Vranov nad Topľou"
+    },
+    {
+      "nazov": "Okresný súd Zvolen",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Zvolen"
+    },
+    {
+      "nazov": "Okresný súd Žiar nad Hronom",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Žiar nad Hronom"
+    },
+    {
+      "nazov": "Okresný súd Žilina",
+      "stupen_typ": "Okresné súdy",
+      "sustava": "Súdy všeobecného súdnictva",
+      "sidlo": "Žilina"
+    },
+    {
+      "nazov": "Najvyšší správny súd Slovenskej republiky",
+      "stupen_typ": "Najvyšší správny súd",
+      "sustava": "Súdy správneho súdnictva",
+      "sidlo": "Bratislava"
+    },
+    {
+      "nazov": "Správny súd v Bratislave",
+      "stupen_typ": "Správne súdy",
+      "sustava": "Súdy správneho súdnictva",
+      "sidlo": "Bratislava"
+    },
+    {
+      "nazov": "Správny súd v Banskej Bystrici",
+      "stupen_typ": "Správne súdy",
+      "sustava": "Súdy správneho súdnictva",
+      "sidlo": "Banská Bystrica"
+    },
+    {
+      "nazov": "Správny súd v Košiciach",
+      "stupen_typ": "Správne súdy",
+      "sustava": "Súdy správneho súdnictva",
+      "sidlo": "Košice"
+    }
+  ],
+  "meta": {
+    "title": "Sústava súdov Slovenskej republiky - Free Download",
+    "description": "Zoznam všetkých súdov Slovenskej republiky – Najvyšší súd, krajské, mestské a okresné súdy, Špecializovaný trestný súd a súdy správneho súdnictva – s typom súdu a sídlom. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Sústava súdov Slovenskej republiky | ListBase",
+    "seo_description": "Download Sústava súdov Slovenskej republiky — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Sústava_súdov_Slovenskej_republiky"
+    ]
+  }
+}

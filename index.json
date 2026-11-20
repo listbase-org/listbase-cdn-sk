@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-20T02:15:36.313Z",
-  "total_datasets": 514,
-  "total_records": 287693,
+  "generated": "2026-11-20T02:15:47.753Z",
+  "total_datasets": 515,
+  "total_records": 287743,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "music",
@@ -5447,6 +5447,31 @@
         "xlsx": {
           "name": "sk-sudcovia-najvyssieho-spravneho-sudu_SK.xlsx",
           "size": 8826
+        }
+      }
+    },
+    {
+      "id": "sk-sustava-sudov-sr",
+      "name": "Sústava súdov Slovenskej republiky",
+      "category": "law",
+      "record_count": 50,
+      "columns": [
+        "nazov",
+        "stupen_typ",
+        "sustava",
+        "sidlo"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Sústava_súdov_Slovenskej_republiky",
+      "updated": "2026-11",
+      "size": 10474,
+      "files": {
+        "csv": {
+          "name": "sk-sustava-sudov-sr_SK.csv",
+          "size": 4618
+        },
+        "xlsx": {
+          "name": "sk-sustava-sudov-sr_SK.xlsx",
+          "size": 8267
         }
       }
     },
