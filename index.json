@@ -1,12 +1,12 @@
 {
   "lang": "sk",
-  "generated": "2026-11-23T02:30:19.382Z",
-  "total_datasets": 516,
-  "total_records": 287803,
+  "generated": "2026-11-23T02:30:32.363Z",
+  "total_datasets": 517,
+  "total_records": 287858,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -199,6 +199,37 @@
         "xlsx": {
           "name": "sk-registrovane-odrody-vinica_SK.xlsx",
           "size": 8746
+        }
+      }
+    },
+    {
+      "id": "sk-uroda-hlavnych-plodin-podla-regionov",
+      "name": "Úroda hlavných poľnohospodárskych plodín podľa regiónov Slovenska (2015 – 2025)",
+      "category": "agriculture",
+      "record_count": 55,
+      "columns": [
+        "kod_nuts",
+        "region",
+        "rok",
+        "psenica_obycajna_a_spalda",
+        "jacmen",
+        "kukurica_na_zrno",
+        "repka_olejna",
+        "slnecnica",
+        "cukrova_repa",
+        "zemiaky"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/apro_cpshr/default/table",
+      "updated": "2026-11",
+      "size": 19420,
+      "files": {
+        "csv": {
+          "name": "sk-uroda-hlavnych-plodin-podla-regionov_SK.csv",
+          "size": 5163
+        },
+        "xlsx": {
+          "name": "sk-uroda-hlavnych-plodin-podla-regionov_SK.xlsx",
+          "size": 10143
         }
       }
     },
