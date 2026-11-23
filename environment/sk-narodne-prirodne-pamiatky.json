@@ -1,0 +1,471 @@
+{
+  "id": "sk-narodne-prirodne-pamiatky",
+  "name": "Národné prírodné pamiatky na Slovensku",
+  "title": "Národné prírodné pamiatky na Slovensku",
+  "description": "Zoznam národných prírodných pamiatok Slovenska (najmä jaskyne, priepasti, minerálne pramene a geologické útvary) s evidenčným číslom, rokom vyhlásenia, krajom a okresom.",
+  "category": "environment",
+  "source": "https://sk.wikipedia.org/wiki/Zoznam_národných_prírodných_pamiatok_na_Slovensku",
+  "source_url": "https://sk.wikipedia.org/wiki/Zoznam_národných_prírodných_pamiatok_na_Slovensku",
+  "updated": "2026-11",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "evidencne_cislo",
+      "label": "Evidencne Cislo",
+      "type": "number"
+    },
+    {
+      "key": "rok_vyhlasenia",
+      "label": "Rok Vyhlasenia",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazov": "Aksamitka (jaskyňa)",
+      "evidencne_cislo": 566,
+      "rok_vyhlasenia": 1979,
+      "kraj": "Prešovský",
+      "okres": "Stará Ľubovňa"
+    },
+    {
+      "nazov": "Andezitové kamenné more",
+      "evidencne_cislo": 201,
+      "rok_vyhlasenia": 1975,
+      "kraj": "Banskobystrický",
+      "okres": "Žarnovica"
+    },
+    {
+      "nazov": "Ardovská jaskyňa",
+      "evidencne_cislo": 493,
+      "rok_vyhlasenia": 1972,
+      "kraj": "Košický",
+      "okres": "Rožňava"
+    },
+    {
+      "nazov": "Belianska jaskyňa",
+      "evidencne_cislo": 499,
+      "rok_vyhlasenia": 1979,
+      "kraj": "Prešovský",
+      "okres": "Poprad"
+    },
+    {
+      "nazov": "Bobačka (jaskyňa)",
+      "evidencne_cislo": 1367,
+      "rok_vyhlasenia": 2001,
+      "kraj": "Banskobystrický",
+      "okres": "Revúca"
+    },
+    {
+      "nazov": "Brankovský vodopád",
+      "evidencne_cislo": 223,
+      "rok_vyhlasenia": 1980,
+      "kraj": "Žilinský",
+      "okres": "Ružomberok"
+    },
+    {
+      "nazov": "Brázda (priepasť)",
+      "evidencne_cislo": 508,
+      "rok_vyhlasenia": 1983,
+      "kraj": "Košický",
+      "okres": "Rožňava"
+    },
+    {
+      "nazov": "Brestovská jaskyňa",
+      "evidencne_cislo": 224,
+      "rok_vyhlasenia": 1979,
+      "kraj": "Žilinský",
+      "okres": "Tvrdošín"
+    },
+    {
+      "nazov": "Bystrianska jaskyňa",
+      "evidencne_cislo": 232,
+      "rok_vyhlasenia": 1973,
+      "kraj": "Banskobystrický",
+      "okres": "Brezno"
+    },
+    {
+      "nazov": "Čachtická jaskyňa",
+      "evidencne_cislo": 19,
+      "rok_vyhlasenia": 1973,
+      "kraj": "Trenčiansky",
+      "okres": "Nové Mesto nad Váhom"
+    },
+    {
+      "nazov": "Demänovské jaskyne",
+      "evidencne_cislo": 240,
+      "rok_vyhlasenia": 1972,
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš"
+    },
+    {
+      "nazov": "Devínska hradná skala",
+      "evidencne_cislo": 31,
+      "rok_vyhlasenia": 1985,
+      "kraj": "Bratislavský",
+      "okres": "Bratislava IV"
+    },
+    {
+      "nazov": "Diviačia priepasť",
+      "evidencne_cislo": 519,
+      "rok_vyhlasenia": 1986,
+      "kraj": "Košický",
+      "okres": "Rožňava"
+    },
+    {
+      "nazov": "Dobšinská ľadová jaskyňa",
+      "evidencne_cislo": 520,
+      "rok_vyhlasenia": 1979,
+      "kraj": "Košický",
+      "okres": "Rožňava"
+    },
+    {
+      "nazov": "Domica (jaskyňa)",
+      "evidencne_cislo": 568,
+      "rok_vyhlasenia": 1972,
+      "kraj": "Košický",
+      "okres": "Rožňava"
+    },
+    {
+      "nazov": "Drienovská jaskyňa",
+      "evidencne_cislo": 1002,
+      "rok_vyhlasenia": 1996,
+      "kraj": "Košický",
+      "okres": "Košice-okolie"
+    },
+    {
+      "nazov": "Driny (jaskyňa)",
+      "evidencne_cislo": 60,
+      "rok_vyhlasenia": 1968,
+      "kraj": "Trnavský",
+      "okres": "Trnava"
+    },
+    {
+      "nazov": "Gánovské travertíny",
+      "evidencne_cislo": 532,
+      "rok_vyhlasenia": 1972,
+      "kraj": "Prešovský",
+      "okres": "Poprad"
+    },
+    {
+      "nazov": "Gombasecká jaskyňa",
+      "evidencne_cislo": 536,
+      "rok_vyhlasenia": 1972,
+      "kraj": "Košický",
+      "okres": "Rožňava"
+    },
+    {
+      "nazov": "Harmanecká jaskyňa",
+      "evidencne_cislo": 254,
+      "rok_vyhlasenia": 1968,
+      "kraj": "Banskobystrický",
+      "okres": "Banská Bystrica"
+    },
+    {
+      "nazov": "Herliansky gejzír",
+      "evidencne_cislo": 542,
+      "rok_vyhlasenia": 1987,
+      "kraj": "Košický",
+      "okres": "Košice-okolie"
+    },
+    {
+      "nazov": "Hrušovská jaskyňa",
+      "evidencne_cislo": 1003,
+      "rok_vyhlasenia": 1996,
+      "kraj": "Košický",
+      "okres": "Rožňava"
+    },
+    {
+      "nazov": "Jaskyňa mŕtvych netopierov",
+      "evidencne_cislo": 1359,
+      "rok_vyhlasenia": 2001,
+      "kraj": "Banskobystrický",
+      "okres": "Brezno"
+    },
+    {
+      "nazov": "Jaskyňa zlomísk",
+      "evidencne_cislo": 1360,
+      "rok_vyhlasenia": 2001,
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš"
+    },
+    {
+      "nazov": "Jasovská jaskyňa",
+      "evidencne_cislo": 571,
+      "rok_vyhlasenia": 1972,
+      "kraj": "Košický",
+      "okres": "Košice-okolie"
+    },
+    {
+      "nazov": "Javorinka (jaskyňa)",
+      "evidencne_cislo": 1368,
+      "rok_vyhlasenia": 2001,
+      "kraj": "Prešovský",
+      "okres": "Poprad"
+    },
+    {
+      "nazov": "Kľacký vodopád",
+      "evidencne_cislo": 773,
+      "rok_vyhlasenia": 1992,
+      "kraj": "Žilinský",
+      "okres": "Martin"
+    },
+    {
+      "nazov": "Kostná dolina",
+      "evidencne_cislo": 888,
+      "rok_vyhlasenia": 1994,
+      "kraj": "Banskobystrický",
+      "okres": "Rimavská Sobota"
+    },
+    {
+      "nazov": "Krásnohorská jaskyňa",
+      "evidencne_cislo": 590,
+      "rok_vyhlasenia": 1972,
+      "kraj": "Košický",
+      "okres": "Rožňava"
+    },
+    {
+      "nazov": "Kunia priepasť",
+      "evidencne_cislo": 1004,
+      "rok_vyhlasenia": 1996,
+      "kraj": "Košický",
+      "okres": "Košice-okolie"
+    },
+    {
+      "nazov": "Lánce (terasa)",
+      "evidencne_cislo": 88,
+      "rok_vyhlasenia": 1987,
+      "kraj": "Trenčiansky",
+      "okres": "Trenčín"
+    },
+    {
+      "nazov": "Liskovská jaskyňa",
+      "evidencne_cislo": 333,
+      "rok_vyhlasenia": 1976,
+      "kraj": "Žilinský",
+      "okres": "Ružomberok"
+    },
+    {
+      "nazov": "Lúčanský vodopád",
+      "evidencne_cislo": 334,
+      "rok_vyhlasenia": 1974,
+      "kraj": "Žilinský",
+      "okres": "Ružomberok"
+    },
+    {
+      "nazov": "Markušovské steny",
+      "evidencne_cislo": 608,
+      "rok_vyhlasenia": 1976,
+      "kraj": "Košický",
+      "okres": "Spišská Nová Ves"
+    },
+    {
+      "nazov": "Medvedia jaskyňa",
+      "evidencne_cislo": 610,
+      "rok_vyhlasenia": 1972,
+      "kraj": "Košický",
+      "okres": "Spišská Nová Ves"
+    },
+    {
+      "nazov": "Mičinské travertíny",
+      "evidencne_cislo": 355,
+      "rok_vyhlasenia": 1979,
+      "kraj": "Banskobystrický",
+      "okres": "Banská Bystrica"
+    },
+    {
+      "nazov": "Milada (jaskyňa)",
+      "evidencne_cislo": 569,
+      "rok_vyhlasenia": 1972,
+      "kraj": "Košický",
+      "okres": "Rožňava"
+    },
+    {
+      "nazov": "Obrovská priepasť",
+      "evidencne_cislo": 1005,
+      "rok_vyhlasenia": 1996,
+      "kraj": "Košický",
+      "okres": "Rožňava"
+    },
+    {
+      "nazov": "Ochtinská aragonitová jaskyňa",
+      "evidencne_cislo": 625,
+      "rok_vyhlasenia": 1972,
+      "kraj": "Košický",
+      "okres": "Rožňava"
+    },
+    {
+      "nazov": "Okno (jaskyňa)",
+      "evidencne_cislo": 1363,
+      "rok_vyhlasenia": 2001,
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš"
+    },
+    {
+      "nazov": "Oravské hradné bralo",
+      "evidencne_cislo": 264,
+      "rok_vyhlasenia": 1974,
+      "kraj": "Žilinský",
+      "okres": "Dolný Kubín"
+    },
+    {
+      "nazov": "Perlová jaskyňa",
+      "evidencne_cislo": 1358,
+      "rok_vyhlasenia": 2001,
+      "kraj": "Žilinský",
+      "okres": "Martin"
+    },
+    {
+      "nazov": "Podbanište (jaskyňa)",
+      "evidencne_cislo": 1357,
+      "rok_vyhlasenia": 2001,
+      "kraj": "Banskobystrický",
+      "okres": "Rimavská Sobota"
+    },
+    {
+      "nazov": "Prepoštská jaskyňa",
+      "evidencne_cislo": 387,
+      "rok_vyhlasenia": 1964,
+      "kraj": "Trenčiansky",
+      "okres": "Prievidza"
+    },
+    {
+      "nazov": "Silická ľadnica (jaskyňa)",
+      "evidencne_cislo": 669,
+      "rok_vyhlasenia": 1982,
+      "kraj": "Košický",
+      "okres": "Rožňava"
+    },
+    {
+      "nazov": "Skalistý potok",
+      "evidencne_cislo": 1006,
+      "rok_vyhlasenia": 1996,
+      "kraj": "Košický",
+      "okres": "Košice-okolie"
+    },
+    {
+      "nazov": "Snežná diera (jaskyňa)",
+      "evidencne_cislo": 1007,
+      "rok_vyhlasenia": 1996,
+      "kraj": "Košický",
+      "okres": "Rožňava"
+    },
+    {
+      "nazov": "Spišský hradný vrch",
+      "evidencne_cislo": 682,
+      "rok_vyhlasenia": 1990,
+      "kraj": "Košický",
+      "okres": "Spišská Nová Ves"
+    },
+    {
+      "nazov": "Stanišovská jaskyňa",
+      "evidencne_cislo": 428,
+      "rok_vyhlasenia": 1972,
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš"
+    },
+    {
+      "nazov": "Starohutiansky vodopád",
+      "evidencne_cislo": 430,
+      "rok_vyhlasenia": 1977,
+      "kraj": "Banskobystrický",
+      "okres": "Žarnovica"
+    },
+    {
+      "nazov": "Starý hrad (jaskyňa)",
+      "evidencne_cislo": 1364,
+      "rok_vyhlasenia": 2001,
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš"
+    },
+    {
+      "nazov": "Stratenská jaskyňa",
+      "evidencne_cislo": 1365,
+      "rok_vyhlasenia": 2001,
+      "kraj": "Košický",
+      "okres": "Rožňava"
+    },
+    {
+      "nazov": "Štefanová (jaskyňa)",
+      "evidencne_cislo": 1366,
+      "rok_vyhlasenia": 2001,
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš"
+    },
+    {
+      "nazov": "Važecká jaskyňa",
+      "evidencne_cislo": 463,
+      "rok_vyhlasenia": 1972,
+      "kraj": "Žilinský, Prešovský",
+      "okres": "Liptovský Mikuláš, Poprad"
+    },
+    {
+      "nazov": "Veľká ľadová priepasť",
+      "evidencne_cislo": 1361,
+      "rok_vyhlasenia": 2001,
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš"
+    },
+    {
+      "nazov": "Vodopád Bystrého potoka",
+      "evidencne_cislo": 476,
+      "rok_vyhlasenia": 1982,
+      "kraj": "Banskobystrický",
+      "okres": "Detva"
+    },
+    {
+      "nazov": "Vrbické pleso",
+      "evidencne_cislo": 478,
+      "rok_vyhlasenia": 1975,
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš"
+    },
+    {
+      "nazov": "Zápoľná (jaskyňa)",
+      "evidencne_cislo": 1369,
+      "rok_vyhlasenia": 2001,
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš"
+    },
+    {
+      "nazov": "Záskočská jaskyňa",
+      "evidencne_cislo": 1362,
+      "rok_vyhlasenia": 2001,
+      "kraj": "Žilinský",
+      "okres": "Liptovský Mikuláš"
+    },
+    {
+      "nazov": "Zvonivá jama (jaskyňa)",
+      "evidencne_cislo": 1008,
+      "rok_vyhlasenia": 1996,
+      "kraj": "Košický",
+      "okres": "Rožňava"
+    }
+  ],
+  "meta": {
+    "title": "Národné prírodné pamiatky na Slovensku - Free Download",
+    "description": "Zoznam národných prírodných pamiatok Slovenska (najmä jaskyne, priepasti, minerálne pramene a geologické útvary) s evidenčným číslom, rokom vyhlásenia, krajom a okresom. Contains 60 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Národné prírodné pamiatky na Slovensku | ListBase",
+    "seo_description": "Download Národné prírodné pamiatky na Slovensku — 60 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 60 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Zoznam_národných_prírodných_pamiatok_na_Slovensku"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-20T02:15:47.753Z",
-  "total_datasets": 515,
-  "total_records": 287743,
+  "generated": "2026-11-23T02:30:19.382Z",
+  "total_datasets": 516,
+  "total_records": 287803,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "finance",
@@ -2370,6 +2370,32 @@
         "xlsx": {
           "name": "sk-ministri-zivotneho-prostredia_SK.xlsx",
           "size": 7927
+        }
+      }
+    },
+    {
+      "id": "sk-narodne-prirodne-pamiatky",
+      "name": "Národné prírodné pamiatky na Slovensku",
+      "category": "environment",
+      "record_count": 60,
+      "columns": [
+        "nazov",
+        "evidencne_cislo",
+        "rok_vyhlasenia",
+        "kraj",
+        "okres"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Zoznam_národných_prírodných_pamiatok_na_Slovensku",
+      "updated": "2026-11",
+      "size": 12262,
+      "files": {
+        "csv": {
+          "name": "sk-narodne-prirodne-pamiatky_SK.csv",
+          "size": 4037
+        },
+        "xlsx": {
+          "name": "sk-narodne-prirodne-pamiatky_SK.xlsx",
+          "size": 9192
         }
       }
     },
