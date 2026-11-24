@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-24T02:20:41.493Z",
-  "total_datasets": 519,
-  "total_records": 287897,
+  "generated": "2026-11-24T02:20:53.233Z",
+  "total_datasets": 520,
+  "total_records": 287913,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -2994,6 +2994,39 @@
         "xlsx": {
           "name": "sk-vinoteky_SK.xlsx",
           "size": 14707
+        }
+      }
+    },
+    {
+      "id": "sk-vyroba-mliecnych-vyrobkov",
+      "name": "Výroba mliečnych výrobkov v slovenských mliekarňach (2010 – 2025)",
+      "category": "food",
+      "record_count": 16,
+      "columns": [
+        "rok",
+        "kravske_mlieko_dodane_do_mliekarni",
+        "ovcie_mlieko_dodane_do_mliekarni",
+        "konzumne_mlieko",
+        "smotana_na_priamu_spotrebu",
+        "kysle_mliecne_vyrobky_jogurty",
+        "maslo",
+        "syry_spolu",
+        "makke_syry",
+        "polomakke_syry",
+        "polotvrde_syry",
+        "cerstve_syry"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/apro_mk_pobta/default/table",
+      "updated": "2026-11",
+      "size": 9727,
+      "files": {
+        "csv": {
+          "name": "sk-vyroba-mliecnych-vyrobkov_SK.csv",
+          "size": 1697
+        },
+        "xlsx": {
+          "name": "sk-vyroba-mliecnych-vyrobkov_SK.xlsx",
+          "size": 8113
         }
       }
     },

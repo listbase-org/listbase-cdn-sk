@@ -1,0 +1,310 @@
+{
+  "id": "sk-vyroba-mliecnych-vyrobkov",
+  "name": "Výroba mliečnych výrobkov v slovenských mliekarňach (2010 – 2025)",
+  "title": "Výroba mliečnych výrobkov v slovenských mliekarňach (2010 – 2025)",
+  "description": "Ročné množstvo surového kravského a ovčieho mlieka dodaného do mliekarní a výroba konzumného mlieka, smotany, kyslých mliečnych výrobkov (jogurtov), masla, syrov podľa druhu na Slovensku v tisícoch ton. Údaje Eurostatu (apro_mk_pobta); prázdne bunky = údaj nezverejnený.",
+  "category": "food",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/apro_mk_pobta/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/apro_mk_pobta/default/table",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "kravske_mlieko_dodane_do_mliekarni",
+      "label": "Kravske Mlieko Dodane Do Mliekarni",
+      "type": "number"
+    },
+    {
+      "key": "ovcie_mlieko_dodane_do_mliekarni",
+      "label": "Ovcie Mlieko Dodane Do Mliekarni",
+      "type": "number"
+    },
+    {
+      "key": "konzumne_mlieko",
+      "label": "Konzumne Mlieko",
+      "type": "number"
+    },
+    {
+      "key": "smotana_na_priamu_spotrebu",
+      "label": "Smotana Na Priamu Spotrebu",
+      "type": "number"
+    },
+    {
+      "key": "kysle_mliecne_vyrobky_jogurty",
+      "label": "Kysle Mliecne Vyrobky Jogurty",
+      "type": "number"
+    },
+    {
+      "key": "maslo",
+      "label": "Maslo",
+      "type": "number"
+    },
+    {
+      "key": "syry_spolu",
+      "label": "Syry Spolu",
+      "type": "number"
+    },
+    {
+      "key": "makke_syry",
+      "label": "Makke Syry",
+      "type": "number"
+    },
+    {
+      "key": "polomakke_syry",
+      "label": "Polomakke Syry",
+      "type": "number"
+    },
+    {
+      "key": "polotvrde_syry",
+      "label": "Polotvrde Syry",
+      "type": "number"
+    },
+    {
+      "key": "cerstve_syry",
+      "label": "Cerstve Syry",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rok": 2010,
+      "kravske_mlieko_dodane_do_mliekarni": 799.95,
+      "ovcie_mlieko_dodane_do_mliekarni": 5.29,
+      "konzumne_mlieko": 274.75,
+      "smotana_na_priamu_spotrebu": 29.26,
+      "kysle_mliecne_vyrobky_jogurty": 48.68,
+      "maslo": 6.08,
+      "syry_spolu": 28.87,
+      "makke_syry": 8.66,
+      "polomakke_syry": 4.44,
+      "polotvrde_syry": 8.72,
+      "cerstve_syry": 7.01
+    },
+    {
+      "rok": 2011,
+      "kravske_mlieko_dodane_do_mliekarni": 811.5,
+      "ovcie_mlieko_dodane_do_mliekarni": 4.84,
+      "konzumne_mlieko": 296.17,
+      "smotana_na_priamu_spotrebu": 34.79,
+      "kysle_mliecne_vyrobky_jogurty": 54.43,
+      "maslo": 6.31,
+      "syry_spolu": 30.66,
+      "makke_syry": 9.63,
+      "polomakke_syry": 4.5,
+      "polotvrde_syry": 9.75,
+      "cerstve_syry": 6.75
+    },
+    {
+      "rok": 2012,
+      "kravske_mlieko_dodane_do_mliekarni": 851.25,
+      "ovcie_mlieko_dodane_do_mliekarni": 5.08,
+      "konzumne_mlieko": 317.2,
+      "smotana_na_priamu_spotrebu": 31.84,
+      "kysle_mliecne_vyrobky_jogurty": 62.24,
+      "maslo": 6.75,
+      "syry_spolu": 32.1,
+      "makke_syry": 10.02,
+      "polomakke_syry": 4.59,
+      "polotvrde_syry": 10.36,
+      "cerstve_syry": 7.1
+    },
+    {
+      "rok": 2013,
+      "kravske_mlieko_dodane_do_mliekarni": 826.64,
+      "ovcie_mlieko_dodane_do_mliekarni": 5.64,
+      "konzumne_mlieko": 320.19,
+      "smotana_na_priamu_spotrebu": 32.33,
+      "kysle_mliecne_vyrobky_jogurty": 63.26,
+      "maslo": 7.03,
+      "syry_spolu": 32.92,
+      "makke_syry": 10.17,
+      "polomakke_syry": 5.01,
+      "polotvrde_syry": 10.08,
+      "cerstve_syry": 7.62
+    },
+    {
+      "rok": 2014,
+      "kravske_mlieko_dodane_do_mliekarni": 843.7,
+      "ovcie_mlieko_dodane_do_mliekarni": 7.32,
+      "konzumne_mlieko": 287.26,
+      "smotana_na_priamu_spotrebu": 32.19,
+      "kysle_mliecne_vyrobky_jogurty": 62.09,
+      "maslo": 6.79,
+      "syry_spolu": 33.27,
+      "makke_syry": 10.34,
+      "polomakke_syry": 5.05,
+      "polotvrde_syry": 10.06,
+      "cerstve_syry": 7.78
+    },
+    {
+      "rok": 2015,
+      "kravske_mlieko_dodane_do_mliekarni": 864.63,
+      "ovcie_mlieko_dodane_do_mliekarni": 6.62,
+      "konzumne_mlieko": 284.26,
+      "smotana_na_priamu_spotrebu": 32.18,
+      "kysle_mliecne_vyrobky_jogurty": 65.08,
+      "maslo": 6.82,
+      "syry_spolu": 35.76,
+      "makke_syry": 10.62,
+      "polomakke_syry": 6.45,
+      "polotvrde_syry": 10.43,
+      "cerstve_syry": 8.23
+    },
+    {
+      "rok": 2016,
+      "kravske_mlieko_dodane_do_mliekarni": 822.74,
+      "ovcie_mlieko_dodane_do_mliekarni": 7.13,
+      "konzumne_mlieko": 251.16,
+      "smotana_na_priamu_spotrebu": 31.06,
+      "kysle_mliecne_vyrobky_jogurty": 66.41,
+      "maslo": 7.01,
+      "syry_spolu": 38.29,
+      "makke_syry": 10.74,
+      "polomakke_syry": 7.73,
+      "polotvrde_syry": 11.35,
+      "cerstve_syry": 8.43
+    },
+    {
+      "rok": 2017,
+      "kravske_mlieko_dodane_do_mliekarni": 825.89,
+      "ovcie_mlieko_dodane_do_mliekarni": 6.87,
+      "konzumne_mlieko": 248.43,
+      "smotana_na_priamu_spotrebu": 30.46,
+      "kysle_mliecne_vyrobky_jogurty": 66.61,
+      "maslo": "",
+      "syry_spolu": 40.31,
+      "makke_syry": 11.98,
+      "polomakke_syry": 7.79,
+      "polotvrde_syry": 11.96,
+      "cerstve_syry": 8.54
+    },
+    {
+      "rok": 2018,
+      "kravske_mlieko_dodane_do_mliekarni": 817.11,
+      "ovcie_mlieko_dodane_do_mliekarni": 8.6,
+      "konzumne_mlieko": 238.23,
+      "smotana_na_priamu_spotrebu": 28.38,
+      "kysle_mliecne_vyrobky_jogurty": 65.76,
+      "maslo": 8.21,
+      "syry_spolu": 42.72,
+      "makke_syry": 12.5,
+      "polomakke_syry": 8.7,
+      "polotvrde_syry": 12.62,
+      "cerstve_syry": 8.86
+    },
+    {
+      "rok": 2019,
+      "kravske_mlieko_dodane_do_mliekarni": 814.3,
+      "ovcie_mlieko_dodane_do_mliekarni": 7.34,
+      "konzumne_mlieko": 227.59,
+      "smotana_na_priamu_spotrebu": 27.72,
+      "kysle_mliecne_vyrobky_jogurty": 58.13,
+      "maslo": 8.2,
+      "syry_spolu": 43.3,
+      "makke_syry": 12.09,
+      "polomakke_syry": 9.88,
+      "polotvrde_syry": 12.02,
+      "cerstve_syry": 9.14
+    },
+    {
+      "rok": 2020,
+      "kravske_mlieko_dodane_do_mliekarni": 832.24,
+      "ovcie_mlieko_dodane_do_mliekarni": 7.53,
+      "konzumne_mlieko": 255.44,
+      "smotana_na_priamu_spotrebu": 29.63,
+      "kysle_mliecne_vyrobky_jogurty": 52.25,
+      "maslo": 9.33,
+      "syry_spolu": 43.29,
+      "makke_syry": 13.8,
+      "polomakke_syry": 10.04,
+      "polotvrde_syry": 9.85,
+      "cerstve_syry": 9.55
+    },
+    {
+      "rok": 2021,
+      "kravske_mlieko_dodane_do_mliekarni": 824.18,
+      "ovcie_mlieko_dodane_do_mliekarni": 7.21,
+      "konzumne_mlieko": 243.94,
+      "smotana_na_priamu_spotrebu": 32.06,
+      "kysle_mliecne_vyrobky_jogurty": 47.11,
+      "maslo": 9.09,
+      "syry_spolu": 44.34,
+      "makke_syry": 12.13,
+      "polomakke_syry": 10.92,
+      "polotvrde_syry": 11.89,
+      "cerstve_syry": 9.35
+    },
+    {
+      "rok": 2022,
+      "kravske_mlieko_dodane_do_mliekarni": 823.38,
+      "ovcie_mlieko_dodane_do_mliekarni": 7.97,
+      "konzumne_mlieko": 229.88,
+      "smotana_na_priamu_spotrebu": 32.43,
+      "kysle_mliecne_vyrobky_jogurty": 46.58,
+      "maslo": 8.48,
+      "syry_spolu": 42.28,
+      "makke_syry": 11.62,
+      "polomakke_syry": 9.26,
+      "polotvrde_syry": 12.11,
+      "cerstve_syry": 9.28
+    },
+    {
+      "rok": 2023,
+      "kravske_mlieko_dodane_do_mliekarni": 807.42,
+      "ovcie_mlieko_dodane_do_mliekarni": 8.48,
+      "konzumne_mlieko": 242.23,
+      "smotana_na_priamu_spotrebu": 34.49,
+      "kysle_mliecne_vyrobky_jogurty": 50.08,
+      "maslo": 7.28,
+      "syry_spolu": "",
+      "makke_syry": 12.03,
+      "polomakke_syry": 8.92,
+      "polotvrde_syry": 11.5,
+      "cerstve_syry": 9.58
+    },
+    {
+      "rok": 2024,
+      "kravske_mlieko_dodane_do_mliekarni": 813.45,
+      "ovcie_mlieko_dodane_do_mliekarni": 9.24,
+      "konzumne_mlieko": 250.2,
+      "smotana_na_priamu_spotrebu": 34.06,
+      "kysle_mliecne_vyrobky_jogurty": 57.21,
+      "maslo": 7.6,
+      "syry_spolu": 45.85,
+      "makke_syry": 13.96,
+      "polomakke_syry": 9.2,
+      "polotvrde_syry": 12.35,
+      "cerstve_syry": 10.27
+    },
+    {
+      "rok": 2025,
+      "kravske_mlieko_dodane_do_mliekarni": 812.66,
+      "ovcie_mlieko_dodane_do_mliekarni": 8.72,
+      "konzumne_mlieko": 253.78,
+      "smotana_na_priamu_spotrebu": 31.71,
+      "kysle_mliecne_vyrobky_jogurty": 56.44,
+      "maslo": 8.47,
+      "syry_spolu": "",
+      "makke_syry": 15.55,
+      "polomakke_syry": 9.47,
+      "polotvrde_syry": 12.8,
+      "cerstve_syry": 11.54
+    }
+  ],
+  "meta": {
+    "title": "Výroba mliečnych výrobkov v slovenských mliekarňach (2010 – 2025) - Free Download",
+    "description": "Ročné množstvo surového kravského a ovčieho mlieka dodaného do mliekarní a výroba konzumného mlieka, smotany, kyslých mliečnych výrobkov (jogurtov), masla, syrov podľa druhu na Slovensku v tisícoch ton. Údaje Eurostatu (apro_mk_pobta); prázdne bunky = údaj nezverejnený. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Výroba mliečnych výrobkov v slovenských mliekarňach (2010 – 2025) | ListBase",
+    "seo_description": "Download Výroba mliečnych výrobkov v slovenských mliekarňach (2010 – 2025) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/apro_mk_pobta/default/table"
+    ]
+  }
+}
