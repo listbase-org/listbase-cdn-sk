@@ -1,0 +1,240 @@
+{
+  "id": "sk-cirkevny-rok-ecav",
+  "name": "Cirkevný (liturgický) rok Evanjelickej cirkvi a. v. na Slovensku",
+  "title": "Cirkevný (liturgický) rok Evanjelickej cirkvi a. v. na Slovensku",
+  "description": "Obdobia, nedele a sviatky cirkevného roka Evanjelickej cirkvi augsburského vyznania na Slovensku v poradí — od adventu cez Vianoce, pôst, Veľkú noc a Svätodušné sviatky až po Pamiatku reformácie a Pamiatku zosnulých — s pevným dátumom (ak je) a stručným popisom.",
+  "category": "time",
+  "source": "https://sk.wikipedia.org/wiki/Liturgický_rok_v_Evanjelickej_cirkvi_augsburského_vyznania_na_Slovensku",
+  "source_url": "https://sk.wikipedia.org/wiki/Liturgický_rok_v_Evanjelickej_cirkvi_augsburského_vyznania_na_Slovensku",
+  "updated": "2026-11",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "poradie",
+      "label": "Poradie",
+      "type": "number"
+    },
+    {
+      "key": "cast_cirkevneho_roka",
+      "label": "Cast Cirkevneho Roka",
+      "type": "string"
+    },
+    {
+      "key": "nazov",
+      "label": "Nazov",
+      "type": "string"
+    },
+    {
+      "key": "datum",
+      "label": "Datum",
+      "type": "string"
+    },
+    {
+      "key": "popis",
+      "label": "Popis",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradie": 1,
+      "cast_cirkevneho_roka": "Slávnostná časť",
+      "nazov": "štyri adventné nedele",
+      "datum": "",
+      "popis": ""
+    },
+    {
+      "poradie": 2,
+      "cast_cirkevneho_roka": "Slávnostná časť",
+      "nazov": "Štedrý večer",
+      "datum": "24. 12.",
+      "popis": ""
+    },
+    {
+      "poradie": 3,
+      "cast_cirkevneho_roka": "Slávnostná časť",
+      "nazov": "1. slávnosť vianočná",
+      "datum": "25. 12.",
+      "popis": "pamiatka narodenia Pána Ježiša Krista"
+    },
+    {
+      "poradie": 4,
+      "cast_cirkevneho_roka": "Slávnostná časť",
+      "nazov": "2. slávnosť vianočná",
+      "datum": "26. 12.",
+      "popis": "spomienka na mučeníka diakona Štefana"
+    },
+    {
+      "poradie": 5,
+      "cast_cirkevneho_roka": "Slávnostná časť",
+      "nazov": "koniec občianskeho roku",
+      "datum": "",
+      "popis": "Silvester, ďakovné služby Božie"
+    },
+    {
+      "poradie": 6,
+      "cast_cirkevneho_roka": "Slávnostná časť",
+      "nazov": "Nový rok",
+      "datum": "1. 1.",
+      "popis": "8. deň po sviatku narodenia Pána; vtedy dostal meno Ježiš; prosíme o Božie požehnanie na nový rok"
+    },
+    {
+      "poradie": 7,
+      "cast_cirkevneho_roka": "Slávnostná časť",
+      "nazov": "Zjavenie Krista Pána mudrcom",
+      "datum": "6. 1.",
+      "popis": "posledný vianočný sviatok; nasledujú nedele po Zjavení"
+    },
+    {
+      "poradie": 8,
+      "cast_cirkevneho_roka": "Slávnostná časť",
+      "nazov": "šesť pôstnych nediel",
+      "datum": "",
+      "popis": ""
+    },
+    {
+      "poradie": 9,
+      "cast_cirkevneho_roka": "Slávnostná časť",
+      "nazov": "Smrtná nedeľa (piata pôstna nedeľa)",
+      "datum": "",
+      "popis": ""
+    },
+    {
+      "poradie": 10,
+      "cast_cirkevneho_roka": "Slávnostná časť",
+      "nazov": "Kvetná nedeľa (šiesta nedeľa)",
+      "datum": "",
+      "popis": "začína sa Tichý alebo Veľký týždeň"
+    },
+    {
+      "poradie": 11,
+      "cast_cirkevneho_roka": "Slávnostná časť",
+      "nazov": "Zelený štvrtok",
+      "datum": "",
+      "popis": "posledná večera Pána Ježiša s učeníkmi, keď Pán Ježiš ustanovil sviatosť Večere Pánovej"
+    },
+    {
+      "poradie": 12,
+      "cast_cirkevneho_roka": "Slávnostná časť",
+      "nazov": "Veľký piatok",
+      "datum": "",
+      "popis": "deň utrpenia a smrti Pána Ježiša"
+    },
+    {
+      "poradie": 13,
+      "cast_cirkevneho_roka": "Slávnostná časť",
+      "nazov": "1. slávnosť veľkonočná",
+      "datum": "",
+      "popis": "deň vzkriesenia Pána Ježiša Krista"
+    },
+    {
+      "poradie": 14,
+      "cast_cirkevneho_roka": "Slávnostná časť",
+      "nazov": "2. slávnosť veľkonočná",
+      "datum": "",
+      "popis": ""
+    },
+    {
+      "poradie": 15,
+      "cast_cirkevneho_roka": "Slávnostná časť",
+      "nazov": "päť nedieľ po Veľkej noci",
+      "datum": "",
+      "popis": ""
+    },
+    {
+      "poradie": 16,
+      "cast_cirkevneho_roka": "Slávnostná časť",
+      "nazov": "Vstúpenie Krista Pána na nebo",
+      "datum": "",
+      "popis": "40. deň po Vzkriesení"
+    },
+    {
+      "poradie": 17,
+      "cast_cirkevneho_roka": "Slávnostná časť",
+      "nazov": "1. slávnosť svätodušná",
+      "datum": "",
+      "popis": "na 50. deň po Veľkej noci – Zoslanie Ducha Svätého; vznik kresťanskej cirkvi"
+    },
+    {
+      "poradie": 18,
+      "cast_cirkevneho_roka": "Slávnostná časť",
+      "nazov": "2. slávnosť svätodušná",
+      "datum": "",
+      "popis": ""
+    },
+    {
+      "poradie": 19,
+      "cast_cirkevneho_roka": "Slávnostná časť",
+      "nazov": "Sviatok Svätej Trojice",
+      "datum": "",
+      "popis": "oslava Trojjediného Pána Boha"
+    },
+    {
+      "poradie": 20,
+      "cast_cirkevneho_roka": "Bezslávnostná časť",
+      "nazov": "nedele po Svätej Trojici",
+      "datum": "",
+      "popis": ""
+    },
+    {
+      "poradie": 21,
+      "cast_cirkevneho_roka": "Bezslávnostná časť",
+      "nazov": "Sviatok apoštolov Petra a Pavla",
+      "datum": "29. 6.",
+      "popis": ""
+    },
+    {
+      "poradie": 22,
+      "cast_cirkevneho_roka": "Bezslávnostná časť",
+      "nazov": "Sviatok slovanských vierozvestov Cyrila a Metoda",
+      "datum": "5. 7.",
+      "popis": ""
+    },
+    {
+      "poradie": 23,
+      "cast_cirkevneho_roka": "Bezslávnostná časť",
+      "nazov": "Pamätný deň upálenia Majstra Jána Husa roku 1415",
+      "datum": "6. 7.",
+      "popis": ""
+    },
+    {
+      "poradie": 24,
+      "cast_cirkevneho_roka": "Bezslávnostná časť",
+      "nazov": "Kajúca nedeľa",
+      "datum": "",
+      "popis": "spomienka na skazu mesta Jeruzalem"
+    },
+    {
+      "poradie": 25,
+      "cast_cirkevneho_roka": "Bezslávnostná časť",
+      "nazov": "Poďakovanie za úrody zeme",
+      "datum": "",
+      "popis": ""
+    },
+    {
+      "poradie": 26,
+      "cast_cirkevneho_roka": "Bezslávnostná časť",
+      "nazov": "Pamiatka reformácie",
+      "datum": "31. 10.",
+      "popis": ""
+    },
+    {
+      "poradie": 27,
+      "cast_cirkevneho_roka": "Bezslávnostná časť",
+      "nazov": "Pamiatka zosnulých",
+      "datum": "2. 11.",
+      "popis": ""
+    }
+  ],
+  "meta": {
+    "title": "Cirkevný (liturgický) rok Evanjelickej cirkvi a. v. na Slovensku - Free Download",
+    "description": "Obdobia, nedele a sviatky cirkevného roka Evanjelickej cirkvi augsburského vyznania na Slovensku v poradí — od adventu cez Vianoce, pôst, Veľkú noc a Svätodušné sviatky až po Pamiatku reformácie a Pamiatku zosnulých — s pevným dátumom (ak je) a stručným popisom. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cirkevný (liturgický) rok Evanjelickej cirkvi a. v. na Slovensku | ListBase",
+    "seo_description": "Download Cirkevný (liturgický) rok Evanjelickej cirkvi a. v. na Slovensku — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Liturgický_rok_v_Evanjelickej_cirkvi_augsburského_vyznania_na_Slovensku"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-23T02:30:32.363Z",
-  "total_datasets": 517,
-  "total_records": 287858,
+  "generated": "2026-11-24T02:20:30.360Z",
+  "total_datasets": 518,
+  "total_records": 287885,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tourism",
@@ -14195,6 +14195,32 @@
         "xlsx": {
           "name": "sk-vysielace-zakladna-a-doplnkova-siet_SK.xlsx",
           "size": 7756
+        }
+      }
+    },
+    {
+      "id": "sk-cirkevny-rok-ecav",
+      "name": "Cirkevný (liturgický) rok Evanjelickej cirkvi a. v. na Slovensku",
+      "category": "time",
+      "record_count": 27,
+      "columns": [
+        "poradie",
+        "cast_cirkevneho_roka",
+        "nazov",
+        "datum",
+        "popis"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Liturgický_rok_v_Evanjelickej_cirkvi_augsburského_vyznania_na_Slovensku",
+      "updated": "2026-11",
+      "size": 7595,
+      "files": {
+        "csv": {
+          "name": "sk-cirkevny-rok-ecav_SK.csv",
+          "size": 2477
+        },
+        "xlsx": {
+          "name": "sk-cirkevny-rok-ecav_SK.xlsx",
+          "size": 8193
         }
       }
     },
