@@ -1,0 +1,101 @@
+{
+  "id": "sk-slovanske-nazvy-mesiacov",
+  "name": "Staroslovanské názvy mesiacov",
+  "title": "Staroslovanské názvy mesiacov",
+  "description": "Tradičné slovanské názvy dvanástich mesiacov podľa slovanského kalendára — samostatne pre východných a západných Slovanov (napr. sečeň, lipec, žniveň, listopad, prosinec).",
+  "category": "time",
+  "source": "https://sk.wikipedia.org/wiki/Slovanský_kalendár",
+  "source_url": "https://sk.wikipedia.org/wiki/Slovanský_kalendár",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "mesiac",
+      "label": "Mesiac",
+      "type": "string"
+    },
+    {
+      "key": "vychodoslovanske_nazvy",
+      "label": "Vychodoslovanske Nazvy",
+      "type": "string"
+    },
+    {
+      "key": "zapadoslovanske_nazvy",
+      "label": "Zapadoslovanske Nazvy",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "mesiac": "január",
+      "vychodoslovanske_nazvy": "sečeň, prosinec, studeň",
+      "zapadoslovanske_nazvy": "leden, styczeń, vezimský"
+    },
+    {
+      "mesiac": "február",
+      "vychodoslovanske_nazvy": "ljuty, sečeň, snežeň",
+      "zapadoslovanske_nazvy": "únor, luty"
+    },
+    {
+      "mesiac": "marec",
+      "vychodoslovanske_nazvy": "berezozol, suchij, sokovik",
+      "zapadoslovanske_nazvy": "brezeň, pozimský"
+    },
+    {
+      "mesiac": "apríl",
+      "vychodoslovanske_nazvy": "cveteň, kviteň, dubeň, brezeň",
+      "zapadoslovanske_nazvy": "dubeň, kwiecień, naljetny"
+    },
+    {
+      "mesiac": "máj",
+      "vychodoslovanske_nazvy": "traveň, leteň, cveteň",
+      "zapadoslovanske_nazvy": "kveteň, rozzelony, traven, izok"
+    },
+    {
+      "mesiac": "jún",
+      "vychodoslovanske_nazvy": "červeň, izok, mlečeň",
+      "zapadoslovanske_nazvy": "červen, czerwiec, smažski"
+    },
+    {
+      "mesiac": "júl",
+      "vychodoslovanske_nazvy": "lipec, červeň, serpeň",
+      "zapadoslovanske_nazvy": "červenec, lipiec, pražnik, ružeň"
+    },
+    {
+      "mesiac": "august",
+      "vychodoslovanske_nazvy": "žniveň, zarev",
+      "zapadoslovanske_nazvy": "srpen, sierpień, jačmenski, vreseň"
+    },
+    {
+      "mesiac": "september",
+      "vychodoslovanske_nazvy": "vreseň, rujeň",
+      "zapadoslovanske_nazvy": "září, wrzesień, nazimský, hrudeň"
+    },
+    {
+      "mesiac": "október",
+      "vychodoslovanske_nazvy": "listopad",
+      "zapadoslovanske_nazvy": "rujeň, październik, ženc"
+    },
+    {
+      "mesiac": "november",
+      "vychodoslovanske_nazvy": "grudeň",
+      "zapadoslovanske_nazvy": "listopad, pazdiernik, mločny"
+    },
+    {
+      "mesiac": "december",
+      "vychodoslovanske_nazvy": "studeň, grudeň, prosinec",
+      "zapadoslovanske_nazvy": "prosinec, grudzień, hodovnik"
+    }
+  ],
+  "meta": {
+    "title": "Staroslovanské názvy mesiacov - Free Download",
+    "description": "Tradičné slovanské názvy dvanástich mesiacov podľa slovanského kalendára — samostatne pre východných a západných Slovanov (napr. sečeň, lipec, žniveň, listopad, prosinec). Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Staroslovanské názvy mesiacov | ListBase",
+    "seo_description": "Download Staroslovanské názvy mesiacov — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Slovanský_kalendár"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-24T02:20:30.360Z",
-  "total_datasets": 518,
-  "total_records": 287885,
+  "generated": "2026-11-24T02:20:41.493Z",
+  "total_datasets": 519,
+  "total_records": 287897,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tourism",
@@ -14304,6 +14304,30 @@
         "xlsx": {
           "name": "sk-mesiace-kalendara_SK.xlsx",
           "size": 9181
+        }
+      }
+    },
+    {
+      "id": "sk-slovanske-nazvy-mesiacov",
+      "name": "Staroslovanské názvy mesiacov",
+      "category": "time",
+      "record_count": 12,
+      "columns": [
+        "mesiac",
+        "vychodoslovanske_nazvy",
+        "zapadoslovanske_nazvy"
+      ],
+      "source": "https://sk.wikipedia.org/wiki/Slovanský_kalendár",
+      "updated": "2026-11",
+      "size": 3547,
+      "files": {
+        "csv": {
+          "name": "sk-slovanske-nazvy-mesiacov_SK.csv",
+          "size": 834
+        },
+        "xlsx": {
+          "name": "sk-slovanske-nazvy-mesiacov_SK.xlsx",
+          "size": 7327
         }
       }
     },
