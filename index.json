@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-24T02:20:53.233Z",
-  "total_datasets": 520,
-  "total_records": 287913,
+  "generated": "2026-11-25T02:22:41.211Z",
+  "total_datasets": 521,
+  "total_records": 287922,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -1333,6 +1333,41 @@
         "xlsx": {
           "name": "sk-guverneri-a-viceguverneri-nbs_SK.xlsx",
           "size": 7826
+        }
+      }
+    },
+    {
+      "id": "sk-hdp-na-obyvatela-podla-krajov",
+      "name": "HDP na obyvateľa podľa krajov Slovenska (2015–2024)",
+      "category": "economy",
+      "record_count": 9,
+      "columns": [
+        "kraj",
+        "kod_nuts",
+        "hdp_na_obyvatela_eur_2015",
+        "hdp_na_obyvatela_eur_2016",
+        "hdp_na_obyvatela_eur_2017",
+        "hdp_na_obyvatela_eur_2018",
+        "hdp_na_obyvatela_eur_2019",
+        "hdp_na_obyvatela_eur_2020",
+        "hdp_na_obyvatela_eur_2021",
+        "hdp_na_obyvatela_eur_2022",
+        "hdp_na_obyvatela_eur_2023",
+        "hdp_na_obyvatela_eur_2024",
+        "hdp_mil_eur_2024",
+        "hdp_na_obyvatela_v_pps_percent_priemeru_eu_2024"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3gdp/default/table",
+      "updated": "2026-11",
+      "size": 8756,
+      "files": {
+        "csv": {
+          "name": "sk-hdp-na-obyvatela-podla-krajov_SK.csv",
+          "size": 1498
+        },
+        "xlsx": {
+          "name": "sk-hdp-na-obyvatela-podla-krajov_SK.xlsx",
+          "size": 7640
         }
       }
     },

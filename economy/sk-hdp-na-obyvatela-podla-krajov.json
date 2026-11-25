@@ -1,0 +1,240 @@
+{
+  "id": "sk-hdp-na-obyvatela-podla-krajov",
+  "name": "HDP na obyvateľa podľa krajov Slovenska (2015–2024)",
+  "title": "HDP na obyvateľa podľa krajov Slovenska (2015–2024)",
+  "description": "Hrubý domáci produkt na obyvateľa v bežných cenách (EUR) za Slovensko a jednotlivé kraje v rokoch 2015–2024, spolu s celkovým HDP krajov v miliónoch EUR a HDP na obyvateľa v paritách kúpnej sily ako percento priemeru EÚ v roku 2024. Zdroj: Eurostat (nama_10r_3gdp), regionálne účty ŠÚ SR.",
+  "category": "economy",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3gdp/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3gdp/default/table",
+  "updated": "2026-11",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kod_nuts",
+      "label": "Kod Nuts",
+      "type": "string"
+    },
+    {
+      "key": "hdp_na_obyvatela_eur_2015",
+      "label": "Hdp Na Obyvatela Eur 2015",
+      "type": "number"
+    },
+    {
+      "key": "hdp_na_obyvatela_eur_2016",
+      "label": "Hdp Na Obyvatela Eur 2016",
+      "type": "number"
+    },
+    {
+      "key": "hdp_na_obyvatela_eur_2017",
+      "label": "Hdp Na Obyvatela Eur 2017",
+      "type": "number"
+    },
+    {
+      "key": "hdp_na_obyvatela_eur_2018",
+      "label": "Hdp Na Obyvatela Eur 2018",
+      "type": "number"
+    },
+    {
+      "key": "hdp_na_obyvatela_eur_2019",
+      "label": "Hdp Na Obyvatela Eur 2019",
+      "type": "number"
+    },
+    {
+      "key": "hdp_na_obyvatela_eur_2020",
+      "label": "Hdp Na Obyvatela Eur 2020",
+      "type": "number"
+    },
+    {
+      "key": "hdp_na_obyvatela_eur_2021",
+      "label": "Hdp Na Obyvatela Eur 2021",
+      "type": "number"
+    },
+    {
+      "key": "hdp_na_obyvatela_eur_2022",
+      "label": "Hdp Na Obyvatela Eur 2022",
+      "type": "number"
+    },
+    {
+      "key": "hdp_na_obyvatela_eur_2023",
+      "label": "Hdp Na Obyvatela Eur 2023",
+      "type": "number"
+    },
+    {
+      "key": "hdp_na_obyvatela_eur_2024",
+      "label": "Hdp Na Obyvatela Eur 2024",
+      "type": "number"
+    },
+    {
+      "key": "hdp_mil_eur_2024",
+      "label": "Hdp Mil Eur 2024",
+      "type": "number"
+    },
+    {
+      "key": "hdp_na_obyvatela_v_pps_percent_priemeru_eu_2024",
+      "label": "Hdp Na Obyvatela V Pps Percent Priemeru Eu 2024",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kraj": "Slovensko (spolu)",
+      "kod_nuts": "SK",
+      "hdp_na_obyvatela_eur_2015": 14800,
+      "hdp_na_obyvatela_eur_2016": 15000,
+      "hdp_na_obyvatela_eur_2017": 15600,
+      "hdp_na_obyvatela_eur_2018": 16600,
+      "hdp_na_obyvatela_eur_2019": 17300,
+      "hdp_na_obyvatela_eur_2020": 17300,
+      "hdp_na_obyvatela_eur_2021": 18700,
+      "hdp_na_obyvatela_eur_2022": 20100,
+      "hdp_na_obyvatela_eur_2023": 22600,
+      "hdp_na_obyvatela_eur_2024": 23900,
+      "hdp_mil_eur_2024": 130207.52,
+      "hdp_na_obyvatela_v_pps_percent_priemeru_eu_2024": 29800
+    },
+    {
+      "kraj": "Bratislavský kraj",
+      "kod_nuts": "SK010",
+      "hdp_na_obyvatela_eur_2015": 36900,
+      "hdp_na_obyvatela_eur_2016": 37400,
+      "hdp_na_obyvatela_eur_2017": 38200,
+      "hdp_na_obyvatela_eur_2018": 39800,
+      "hdp_na_obyvatela_eur_2019": 40300,
+      "hdp_na_obyvatela_eur_2020": 39600,
+      "hdp_na_obyvatela_eur_2021": 40300,
+      "hdp_na_obyvatela_eur_2022": 42400,
+      "hdp_na_obyvatela_eur_2023": 46100,
+      "hdp_na_obyvatela_eur_2024": 48800,
+      "hdp_mil_eur_2024": 36496.5,
+      "hdp_na_obyvatela_v_pps_percent_priemeru_eu_2024": 61000
+    },
+    {
+      "kraj": "Trnavský kraj",
+      "kod_nuts": "SK021",
+      "hdp_na_obyvatela_eur_2015": 15700,
+      "hdp_na_obyvatela_eur_2016": 16300,
+      "hdp_na_obyvatela_eur_2017": 16700,
+      "hdp_na_obyvatela_eur_2018": 17800,
+      "hdp_na_obyvatela_eur_2019": 19500,
+      "hdp_na_obyvatela_eur_2020": 18900,
+      "hdp_na_obyvatela_eur_2021": 19700,
+      "hdp_na_obyvatela_eur_2022": 20700,
+      "hdp_na_obyvatela_eur_2023": 24500,
+      "hdp_na_obyvatela_eur_2024": 26300,
+      "hdp_mil_eur_2024": 14997.09,
+      "hdp_na_obyvatela_v_pps_percent_priemeru_eu_2024": 32900
+    },
+    {
+      "kraj": "Trenčiansky kraj",
+      "kod_nuts": "SK022",
+      "hdp_na_obyvatela_eur_2015": 12400,
+      "hdp_na_obyvatela_eur_2016": 12300,
+      "hdp_na_obyvatela_eur_2017": 12500,
+      "hdp_na_obyvatela_eur_2018": 13600,
+      "hdp_na_obyvatela_eur_2019": 14000,
+      "hdp_na_obyvatela_eur_2020": 14300,
+      "hdp_na_obyvatela_eur_2021": 15700,
+      "hdp_na_obyvatela_eur_2022": 17400,
+      "hdp_na_obyvatela_eur_2023": 19200,
+      "hdp_na_obyvatela_eur_2024": 19400,
+      "hdp_mil_eur_2024": 11063.48,
+      "hdp_na_obyvatela_v_pps_percent_priemeru_eu_2024": 24200
+    },
+    {
+      "kraj": "Nitriansky kraj",
+      "kod_nuts": "SK023",
+      "hdp_na_obyvatela_eur_2015": 12200,
+      "hdp_na_obyvatela_eur_2016": 12500,
+      "hdp_na_obyvatela_eur_2017": 13100,
+      "hdp_na_obyvatela_eur_2018": 13400,
+      "hdp_na_obyvatela_eur_2019": 14700,
+      "hdp_na_obyvatela_eur_2020": 14900,
+      "hdp_na_obyvatela_eur_2021": 15200,
+      "hdp_na_obyvatela_eur_2022": 16200,
+      "hdp_na_obyvatela_eur_2023": 20000,
+      "hdp_na_obyvatela_eur_2024": 21600,
+      "hdp_mil_eur_2024": 14512.67,
+      "hdp_na_obyvatela_v_pps_percent_priemeru_eu_2024": 27000
+    },
+    {
+      "kraj": "Žilinský kraj",
+      "kod_nuts": "SK031",
+      "hdp_na_obyvatela_eur_2015": 13100,
+      "hdp_na_obyvatela_eur_2016": 13100,
+      "hdp_na_obyvatela_eur_2017": 13500,
+      "hdp_na_obyvatela_eur_2018": 14300,
+      "hdp_na_obyvatela_eur_2019": 15500,
+      "hdp_na_obyvatela_eur_2020": 15000,
+      "hdp_na_obyvatela_eur_2021": 16700,
+      "hdp_na_obyvatela_eur_2022": 18100,
+      "hdp_na_obyvatela_eur_2023": 19900,
+      "hdp_na_obyvatela_eur_2024": 21300,
+      "hdp_mil_eur_2024": 14715.45,
+      "hdp_na_obyvatela_v_pps_percent_priemeru_eu_2024": 26600
+    },
+    {
+      "kraj": "Banskobystrický kraj",
+      "kod_nuts": "SK032",
+      "hdp_na_obyvatela_eur_2015": 10600,
+      "hdp_na_obyvatela_eur_2016": 10700,
+      "hdp_na_obyvatela_eur_2017": 11300,
+      "hdp_na_obyvatela_eur_2018": 12100,
+      "hdp_na_obyvatela_eur_2019": 12600,
+      "hdp_na_obyvatela_eur_2020": 12500,
+      "hdp_na_obyvatela_eur_2021": 14600,
+      "hdp_na_obyvatela_eur_2022": 16100,
+      "hdp_na_obyvatela_eur_2023": 17500,
+      "hdp_na_obyvatela_eur_2024": 18100,
+      "hdp_mil_eur_2024": 11112.5,
+      "hdp_na_obyvatela_v_pps_percent_priemeru_eu_2024": 22600
+    },
+    {
+      "kraj": "Prešovský kraj",
+      "kod_nuts": "SK041",
+      "hdp_na_obyvatela_eur_2015": 8900,
+      "hdp_na_obyvatela_eur_2016": 9100,
+      "hdp_na_obyvatela_eur_2017": 9300,
+      "hdp_na_obyvatela_eur_2018": 10500,
+      "hdp_na_obyvatela_eur_2019": 10600,
+      "hdp_na_obyvatela_eur_2020": 10600,
+      "hdp_na_obyvatela_eur_2021": 11600,
+      "hdp_na_obyvatela_eur_2022": 12700,
+      "hdp_na_obyvatela_eur_2023": 14300,
+      "hdp_na_obyvatela_eur_2024": 14500,
+      "hdp_mil_eur_2024": 11802.33,
+      "hdp_na_obyvatela_v_pps_percent_priemeru_eu_2024": 18200
+    },
+    {
+      "kraj": "Košický kraj",
+      "kod_nuts": "SK042",
+      "hdp_na_obyvatela_eur_2015": 12000,
+      "hdp_na_obyvatela_eur_2016": 11800,
+      "hdp_na_obyvatela_eur_2017": 13000,
+      "hdp_na_obyvatela_eur_2018": 13400,
+      "hdp_na_obyvatela_eur_2019": 13800,
+      "hdp_na_obyvatela_eur_2020": 14200,
+      "hdp_na_obyvatela_eur_2021": 15900,
+      "hdp_na_obyvatela_eur_2022": 17100,
+      "hdp_na_obyvatela_eur_2023": 19000,
+      "hdp_na_obyvatela_eur_2024": 19800,
+      "hdp_mil_eur_2024": 15507.5,
+      "hdp_na_obyvatela_v_pps_percent_priemeru_eu_2024": 24800
+    }
+  ],
+  "meta": {
+    "title": "HDP na obyvateľa podľa krajov Slovenska (2015–2024) - Free Download",
+    "description": "Hrubý domáci produkt na obyvateľa v bežných cenách (EUR) za Slovensko a jednotlivé kraje v rokoch 2015–2024, spolu s celkovým HDP krajov v miliónoch EUR a HDP na obyvateľa v paritách kúpnej sily ako percento priemeru EÚ v roku 2024. Zdroj: Eurostat (nama_10r_3gdp), regionálne účty ŠÚ SR. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "HDP na obyvateľa podľa krajov Slovenska (2015–2024) | ListBase",
+    "seo_description": "Download HDP na obyvateľa podľa krajov Slovenska (2015–2024) — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 14 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3gdp/default/table"
+    ]
+  }
+}
