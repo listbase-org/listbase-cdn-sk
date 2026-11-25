@@ -1,0 +1,184 @@
+{
+  "id": "sk-prenocovania-v-ubytovacich-zariadeniach-podla-krajov",
+  "name": "Prenocovania v ubytovacích zariadeniach podľa krajov (2020–2025)",
+  "title": "Prenocovania v ubytovacích zariadeniach podľa krajov (2020–2025)",
+  "description": "Počet prenocovaní hostí v ubytovacích zariadeniach cestovného ruchu (hotely, kempy a iné krátkodobé ubytovanie) na Slovensku a v jednotlivých krajoch za roky 2020–2025, vrátane prenocovaní zahraničných hostí a ich podielu v roku 2025. Zdroj: Eurostat (tour_occ_nin2), údaje ŠÚ SR.",
+  "category": "tourism",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nin2/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nin2/default/table",
+  "updated": "2026-11",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kod_nuts",
+      "label": "Kod Nuts",
+      "type": "string"
+    },
+    {
+      "key": "prenocovania_2020",
+      "label": "Prenocovania 2020",
+      "type": "number"
+    },
+    {
+      "key": "prenocovania_2021",
+      "label": "Prenocovania 2021",
+      "type": "number"
+    },
+    {
+      "key": "prenocovania_2022",
+      "label": "Prenocovania 2022",
+      "type": "number"
+    },
+    {
+      "key": "prenocovania_2023",
+      "label": "Prenocovania 2023",
+      "type": "number"
+    },
+    {
+      "key": "prenocovania_2024",
+      "label": "Prenocovania 2024",
+      "type": "number"
+    },
+    {
+      "key": "prenocovania_2025",
+      "label": "Prenocovania 2025",
+      "type": "number"
+    },
+    {
+      "key": "prenocovania_zahranicnych_2025",
+      "label": "Prenocovania Zahranicnych 2025",
+      "type": "number"
+    },
+    {
+      "key": "podiel_zahranicnych_2025_percent",
+      "label": "Podiel Zahranicnych 2025 Percent",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kraj": "Slovensko (spolu)",
+      "kod_nuts": "SK",
+      "prenocovania_2020": 9437786,
+      "prenocovania_2021": 7915947,
+      "prenocovania_2022": 12348809,
+      "prenocovania_2023": 14359854,
+      "prenocovania_2024": 14666864,
+      "prenocovania_2025": 15579729,
+      "prenocovania_zahranicnych_2025": 5407029,
+      "podiel_zahranicnych_2025_percent": 34.7
+    },
+    {
+      "kraj": "Bratislavský kraj",
+      "kod_nuts": "SK010",
+      "prenocovania_2020": 1121355,
+      "prenocovania_2021": 993146,
+      "prenocovania_2022": 2008967,
+      "prenocovania_2023": 2548871,
+      "prenocovania_2024": 2607211,
+      "prenocovania_2025": 2789600,
+      "prenocovania_zahranicnych_2025": 1751594,
+      "podiel_zahranicnych_2025_percent": 62.8
+    },
+    {
+      "kraj": "Trnavský kraj",
+      "kod_nuts": "SK021",
+      "prenocovania_2020": 779213,
+      "prenocovania_2021": 842850,
+      "prenocovania_2022": 1168643,
+      "prenocovania_2023": 1289988,
+      "prenocovania_2024": 1336477,
+      "prenocovania_2025": 1376316,
+      "prenocovania_zahranicnych_2025": 590150,
+      "podiel_zahranicnych_2025_percent": 42.9
+    },
+    {
+      "kraj": "Trenčiansky kraj",
+      "kod_nuts": "SK022",
+      "prenocovania_2020": 825605,
+      "prenocovania_2021": 769899,
+      "prenocovania_2022": 1079638,
+      "prenocovania_2023": 1221774,
+      "prenocovania_2024": 1236637,
+      "prenocovania_2025": 1273959,
+      "prenocovania_zahranicnych_2025": 224907,
+      "podiel_zahranicnych_2025_percent": 17.7
+    },
+    {
+      "kraj": "Nitriansky kraj",
+      "kod_nuts": "SK023",
+      "prenocovania_2020": 540232,
+      "prenocovania_2021": 416443,
+      "prenocovania_2022": 623746,
+      "prenocovania_2023": 740032,
+      "prenocovania_2024": 730499,
+      "prenocovania_2025": 756725,
+      "prenocovania_zahranicnych_2025": 251094,
+      "podiel_zahranicnych_2025_percent": 33.2
+    },
+    {
+      "kraj": "Žilinský kraj",
+      "kod_nuts": "SK031",
+      "prenocovania_2020": 2282709,
+      "prenocovania_2021": 1714001,
+      "prenocovania_2022": 2679441,
+      "prenocovania_2023": 3133382,
+      "prenocovania_2024": 3113975,
+      "prenocovania_2025": 3506892,
+      "prenocovania_zahranicnych_2025": 1251801,
+      "podiel_zahranicnych_2025_percent": 35.7
+    },
+    {
+      "kraj": "Banskobystrický kraj",
+      "kod_nuts": "SK032",
+      "prenocovania_2020": 1299390,
+      "prenocovania_2021": 1112545,
+      "prenocovania_2022": 1556783,
+      "prenocovania_2023": 1746737,
+      "prenocovania_2024": 1851391,
+      "prenocovania_2025": 1921660,
+      "prenocovania_zahranicnych_2025": 223619,
+      "podiel_zahranicnych_2025_percent": 11.6
+    },
+    {
+      "kraj": "Prešovský kraj",
+      "kod_nuts": "SK041",
+      "prenocovania_2020": 2063287,
+      "prenocovania_2021": 1640660,
+      "prenocovania_2022": 2515353,
+      "prenocovania_2023": 2851237,
+      "prenocovania_2024": 2923584,
+      "prenocovania_2025": 3051660,
+      "prenocovania_zahranicnych_2025": 795437,
+      "podiel_zahranicnych_2025_percent": 26.1
+    },
+    {
+      "kraj": "Košický kraj",
+      "kod_nuts": "SK042",
+      "prenocovania_2020": 525995,
+      "prenocovania_2021": 426403,
+      "prenocovania_2022": 716238,
+      "prenocovania_2023": 827833,
+      "prenocovania_2024": 867090,
+      "prenocovania_2025": 902917,
+      "prenocovania_zahranicnych_2025": 318427,
+      "podiel_zahranicnych_2025_percent": 35.3
+    }
+  ],
+  "meta": {
+    "title": "Prenocovania v ubytovacích zariadeniach podľa krajov (2020–2025) - Free Download",
+    "description": "Počet prenocovaní hostí v ubytovacích zariadeniach cestovného ruchu (hotely, kempy a iné krátkodobé ubytovanie) na Slovensku a v jednotlivých krajoch za roky 2020–2025, vrátane prenocovaní zahraničných hostí a ich podielu v roku 2025. Zdroj: Eurostat (tour_occ_nin2), údaje ŠÚ SR. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Prenocovania v ubytovacích zariadeniach podľa krajov (2020–2025) | ListBase",
+    "seo_description": "Download Prenocovania v ubytovacích zariadeniach podľa krajov (2020–2025) — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nin2/default/table"
+    ]
+  }
+}

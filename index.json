@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-25T02:22:41.211Z",
-  "total_datasets": 521,
-  "total_records": 287922,
+  "generated": "2026-11-25T02:22:52.093Z",
+  "total_datasets": 522,
+  "total_records": 287931,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "transport",
@@ -14624,6 +14624,37 @@
         "xlsx": {
           "name": "sk-parky-a-zahrady-bratislava_SK.xlsx",
           "size": 8926
+        }
+      }
+    },
+    {
+      "id": "sk-prenocovania-v-ubytovacich-zariadeniach-podla-krajov",
+      "name": "Prenocovania v ubytovacích zariadeniach podľa krajov (2020–2025)",
+      "category": "tourism",
+      "record_count": 9,
+      "columns": [
+        "kraj",
+        "kod_nuts",
+        "prenocovania_2020",
+        "prenocovania_2021",
+        "prenocovania_2022",
+        "prenocovania_2023",
+        "prenocovania_2024",
+        "prenocovania_2025",
+        "prenocovania_zahranicnych_2025",
+        "podiel_zahranicnych_2025_percent"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nin2/default/table",
+      "updated": "2026-11",
+      "size": 6363,
+      "files": {
+        "csv": {
+          "name": "sk-prenocovania-v-ubytovacich-zariadeniach-podla-krajov_SK.csv",
+          "size": 1125
+        },
+        "xlsx": {
+          "name": "sk-prenocovania-v-ubytovacich-zariadeniach-podla-krajov_SK.xlsx",
+          "size": 7569
         }
       }
     },
