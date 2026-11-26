@@ -1,0 +1,191 @@
+{
+  "id": "sk-lekari-zubari-lekarnici-a-nemocnicne-lozka",
+  "name": "Lekári, zubní lekári, lekárnici a nemocničné lôžka na 100 000 obyvateľov na Slovensku (2005 – 2024)",
+  "title": "Lekári, zubní lekári, lekárnici a nemocničné lôžka na 100 000 obyvateľov na Slovensku (2005 – 2024)",
+  "description": "Počet profesionálne aktívnych lekárov, zubných lekárov a farmaceutov a počet nemocničných lôžok na 100 000 obyvateľov Slovenska v jednotlivých rokoch 2005 – 2024. Zdroj: Eurostat (hlth_rs_prs2, hlth_rs_bds1).",
+  "category": "health",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/hlth_rs_prs2/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/hlth_rs_prs2/default/table",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "physicians_per_100k",
+      "label": "Physicians Per 100k",
+      "type": "number"
+    },
+    {
+      "key": "dentists_per_100k",
+      "label": "Dentists Per 100k",
+      "type": "number"
+    },
+    {
+      "key": "pharmacists_per_100k",
+      "label": "Pharmacists Per 100k",
+      "type": "number"
+    },
+    {
+      "key": "hospital_beds_per_100k",
+      "label": "Hospital Beds Per 100k",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2005,
+      "physicians_per_100k": 303.71,
+      "dentists_per_100k": 54.33,
+      "pharmacists_per_100k": 49.99,
+      "hospital_beds_per_100k": 678.81
+    },
+    {
+      "year": 2006,
+      "physicians_per_100k": 317.14,
+      "dentists_per_100k": 50.51,
+      "pharmacists_per_100k": 56.43,
+      "hospital_beds_per_100k": 673.45
+    },
+    {
+      "year": 2007,
+      "physicians_per_100k": 338.98,
+      "dentists_per_100k": 53.25,
+      "pharmacists_per_100k": 60.3,
+      "hospital_beds_per_100k": 678.17
+    },
+    {
+      "year": 2008,
+      "physicians_per_100k": 336.87,
+      "dentists_per_100k": 51.03,
+      "pharmacists_per_100k": 51.62,
+      "hospital_beds_per_100k": 659.05
+    },
+    {
+      "year": 2009,
+      "physicians_per_100k": 330.42,
+      "dentists_per_100k": 48.88,
+      "pharmacists_per_100k": 54.15,
+      "hospital_beds_per_100k": 654.39
+    },
+    {
+      "year": 2010,
+      "physicians_per_100k": 335.9,
+      "dentists_per_100k": 49.39,
+      "pharmacists_per_100k": 60.6,
+      "hospital_beds_per_100k": 646.4
+    },
+    {
+      "year": 2011,
+      "physicians_per_100k": 330.64,
+      "dentists_per_100k": 48.5,
+      "pharmacists_per_100k": 62.65,
+      "hospital_beds_per_100k": 605.05
+    },
+    {
+      "year": 2012,
+      "physicians_per_100k": 336.44,
+      "dentists_per_100k": 49.28,
+      "pharmacists_per_100k": 65.13,
+      "hospital_beds_per_100k": 591.08
+    },
+    {
+      "year": 2013,
+      "physicians_per_100k": 339.07,
+      "dentists_per_100k": 47.77,
+      "pharmacists_per_100k": 61.57,
+      "hospital_beds_per_100k": 580.34
+    },
+    {
+      "year": 2014,
+      "physicians_per_100k": 342.78,
+      "dentists_per_100k": 48.76,
+      "pharmacists_per_100k": 67.25,
+      "hospital_beds_per_100k": 578.52
+    },
+    {
+      "year": 2015,
+      "physicians_per_100k": 345.13,
+      "dentists_per_100k": 48.8,
+      "pharmacists_per_100k": 70.54,
+      "hospital_beds_per_100k": 574.73
+    },
+    {
+      "year": 2016,
+      "physicians_per_100k": 347.35,
+      "dentists_per_100k": 49.73,
+      "pharmacists_per_100k": 77.02,
+      "hospital_beds_per_100k": 578.4
+    },
+    {
+      "year": 2017,
+      "physicians_per_100k": 342.11,
+      "dentists_per_100k": 50.06,
+      "pharmacists_per_100k": 78.01,
+      "hospital_beds_per_100k": 582.05
+    },
+    {
+      "year": 2018,
+      "physicians_per_100k": 352.1,
+      "dentists_per_100k": 51.02,
+      "pharmacists_per_100k": 79.94,
+      "hospital_beds_per_100k": 569.62
+    },
+    {
+      "year": 2019,
+      "physicians_per_100k": 356.68,
+      "dentists_per_100k": 52.29,
+      "pharmacists_per_100k": 81.79,
+      "hospital_beds_per_100k": 576.11
+    },
+    {
+      "year": 2020,
+      "physicians_per_100k": 366.86,
+      "dentists_per_100k": 52.89,
+      "pharmacists_per_100k": 83.72,
+      "hospital_beds_per_100k": 568.18
+    },
+    {
+      "year": 2021,
+      "physicians_per_100k": 368.02,
+      "dentists_per_100k": 52.78,
+      "pharmacists_per_100k": 84.78,
+      "hospital_beds_per_100k": 567.46
+    },
+    {
+      "year": 2022,
+      "physicians_per_100k": 372.51,
+      "dentists_per_100k": 54.72,
+      "pharmacists_per_100k": 85.29,
+      "hospital_beds_per_100k": 569.13
+    },
+    {
+      "year": 2023,
+      "physicians_per_100k": 382.42,
+      "dentists_per_100k": 54.56,
+      "pharmacists_per_100k": 86.31,
+      "hospital_beds_per_100k": 566.05
+    },
+    {
+      "year": 2024,
+      "physicians_per_100k": 394.74,
+      "dentists_per_100k": 54.7,
+      "pharmacists_per_100k": 88.08,
+      "hospital_beds_per_100k": 557.67
+    }
+  ],
+  "meta": {
+    "title": "Lekári, zubní lekári, lekárnici a nemocničné lôžka na 100 000 obyvateľov na Slovensku (2005 – 2024) - Free Download",
+    "description": "Počet profesionálne aktívnych lekárov, zubných lekárov a farmaceutov a počet nemocničných lôžok na 100 000 obyvateľov Slovenska v jednotlivých rokoch 2005 – 2024. Zdroj: Eurostat (hlth_rs_prs2, hlth_rs_bds1). Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Lekári, zubní lekári, lekárnici a nemocničné lôžka na 100 000 obyvateľov na Slovensku (2005 – 2024) | ListBase",
+    "seo_description": "Download Lekári, zubní lekári, lekárnici a nemocničné lôžka na 100 000 obyvateľov na Slovensku (2005 – 2024) — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/hlth_rs_prs2/default/table"
+    ]
+  }
+}

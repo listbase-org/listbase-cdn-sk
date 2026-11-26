@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-25T02:22:52.093Z",
-  "total_datasets": 522,
-  "total_records": 287931,
+  "generated": "2026-11-26T02:20:51.763Z",
+  "total_datasets": 523,
+  "total_records": 287951,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "history",
@@ -4892,6 +4892,32 @@
         "xlsx": {
           "name": "sk-covid-19-denny-vyvoj-2020-2021_SK.xlsx",
           "size": 26867
+        }
+      }
+    },
+    {
+      "id": "sk-lekari-zubari-lekarnici-a-nemocnicne-lozka",
+      "name": "Lekári, zubní lekári, lekárnici a nemocničné lôžka na 100 000 obyvateľov na Slovensku (2005 – 2024)",
+      "category": "health",
+      "record_count": 20,
+      "columns": [
+        "year",
+        "physicians_per_100k",
+        "dentists_per_100k",
+        "pharmacists_per_100k",
+        "hospital_beds_per_100k"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/hlth_rs_prs2/default/table",
+      "updated": "2026-11",
+      "size": 5998,
+      "files": {
+        "csv": {
+          "name": "sk-lekari-zubari-lekarnici-a-nemocnicne-lozka_SK.csv",
+          "size": 910
+        },
+        "xlsx": {
+          "name": "sk-lekari-zubari-lekarnici-a-nemocnicne-lozka_SK.xlsx",
+          "size": 7470
         }
       }
     },
