@@ -1,0 +1,331 @@
+{
+  "id": "sk-miss-slovensko-vitazky",
+  "name": "Miss Slovensko – víťazky a vicemiss",
+  "title": "Miss Slovensko – víťazky a vicemiss",
+  "description": "Víťazky súťaže krásy Miss Slovensko od roku 1993 spolu s I. a II. vicemiss a mestami, z ktorých pochádzajú.",
+  "category": "entertainment",
+  "source": "https://sk.wikipedia.org/wiki/Miss_Slovensko",
+  "source_url": "https://sk.wikipedia.org/wiki/Miss_Slovensko",
+  "updated": "2026-11",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "miss",
+      "label": "Miss",
+      "type": "string"
+    },
+    {
+      "key": "miss_town",
+      "label": "Miss Town",
+      "type": "string"
+    },
+    {
+      "key": "first_runner_up",
+      "label": "First Runner Up",
+      "type": "string"
+    },
+    {
+      "key": "first_runner_up_town",
+      "label": "First Runner Up Town",
+      "type": "string"
+    },
+    {
+      "key": "second_runner_up",
+      "label": "Second Runner Up",
+      "type": "string"
+    },
+    {
+      "key": "second_runner_up_town",
+      "label": "Second Runner Up Town",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1993,
+      "miss": "Karin Majtánová",
+      "miss_town": "Trenčín",
+      "first_runner_up": "Silvia Lakatošová",
+      "first_runner_up_town": "Bratislava",
+      "second_runner_up": "",
+      "second_runner_up_town": ""
+    },
+    {
+      "year": 1994,
+      "miss": "Nikoleta Meszárošová",
+      "miss_town": "",
+      "first_runner_up": "",
+      "first_runner_up_town": "",
+      "second_runner_up": "",
+      "second_runner_up_town": ""
+    },
+    {
+      "year": 1995,
+      "miss": "Iveta Jankulárová",
+      "miss_town": "Šaľa",
+      "first_runner_up": "Zuzana Špatinová",
+      "first_runner_up_town": "Bratislava",
+      "second_runner_up": "Denisa Vanyová",
+      "second_runner_up_town": "Nové Zámky"
+    },
+    {
+      "year": 1996,
+      "miss": "Vladimíra Hreňovčíková",
+      "miss_town": "Zvolen",
+      "first_runner_up": "Slávka Popíková",
+      "first_runner_up_town": "Košice",
+      "second_runner_up": "Adrianna Varigová",
+      "second_runner_up_town": "Bardejov"
+    },
+    {
+      "year": 1997,
+      "miss": "Lucia Povrazniková",
+      "miss_town": "Banská Bystrica",
+      "first_runner_up": "Barbora Vargová",
+      "first_runner_up_town": "Komárno",
+      "second_runner_up": "Simona Santnerová",
+      "second_runner_up_town": "Bratislava"
+    },
+    {
+      "year": 1998,
+      "miss": "Karolína Čičátková",
+      "miss_town": "Nové Zámky",
+      "first_runner_up": "Jana Kusovská",
+      "first_runner_up_town": "Trnava",
+      "second_runner_up": "Monika Tichá",
+      "second_runner_up_town": "Spišská Nová Ves"
+    },
+    {
+      "year": 1999,
+      "miss": "Andrea Verešová",
+      "miss_town": "Žilina",
+      "first_runner_up": "Adela Bartková",
+      "first_runner_up_town": "Trebišov",
+      "second_runner_up": "Dušana Fridrichová",
+      "second_runner_up_town": "Nitra"
+    },
+    {
+      "year": 2000,
+      "miss": "Janka Horečná",
+      "miss_town": "Žilina",
+      "first_runner_up": "Martina Hodruská",
+      "first_runner_up_town": "Partizánske",
+      "second_runner_up": "Michaela Strählová",
+      "second_runner_up_town": "Žilina"
+    },
+    {
+      "year": 2001,
+      "miss": "Jana Ivanová",
+      "miss_town": "Nemšová",
+      "first_runner_up": "Lucia Pilková",
+      "first_runner_up_town": "Nitra",
+      "second_runner_up": "Barbara Pappová",
+      "second_runner_up_town": "Šaľa"
+    },
+    {
+      "year": 2002,
+      "miss": "Eva Verešová",
+      "miss_town": "Veľké Zálužie",
+      "first_runner_up": "Hana Burianová",
+      "first_runner_up_town": "Bratislava",
+      "second_runner_up": "Zuzana Gunišová",
+      "second_runner_up_town": "Púchov"
+    },
+    {
+      "year": 2003,
+      "miss": "Adriana Pospíšilová",
+      "miss_town": "Bratislava",
+      "first_runner_up": "Miroslava Luberdová",
+      "first_runner_up_town": "Košice",
+      "second_runner_up": "Simona Slobodníková",
+      "second_runner_up_town": "Banská Bystrica"
+    },
+    {
+      "year": 2004,
+      "miss": "Mária Sándorová",
+      "miss_town": "Čaňa",
+      "first_runner_up": "Tatiana Krčméryová",
+      "first_runner_up_town": "Dolný Kubín",
+      "second_runner_up": "Aneta Kailingová",
+      "second_runner_up_town": "Kežmarok"
+    },
+    {
+      "year": 2005,
+      "miss": "Ivica Sláviková",
+      "miss_town": "Bratislava",
+      "first_runner_up": "Katarína Holáňová",
+      "first_runner_up_town": "Žilina",
+      "second_runner_up": "Lucia Debnárová",
+      "second_runner_up_town": "Liptovský Hrádok"
+    },
+    {
+      "year": 2006,
+      "miss": "Magdaléna Šebestová",
+      "miss_town": "Bílkove Humence",
+      "first_runner_up": "Zuzana Lazová",
+      "first_runner_up_town": "Trenčianska Turná",
+      "second_runner_up": "Dagmar Ivanová",
+      "second_runner_up_town": "Čadca"
+    },
+    {
+      "year": 2007,
+      "miss": "Veronika Husárová",
+      "miss_town": "Komárno",
+      "first_runner_up": "Romana Škamlová",
+      "first_runner_up_town": "Banská Bystrica",
+      "second_runner_up": "Kristína Valušková",
+      "second_runner_up_town": "Banská Bystrica"
+    },
+    {
+      "year": 2008,
+      "miss": "Edita Krešáková",
+      "miss_town": "Seňa",
+      "first_runner_up": "Kristína Vlková",
+      "first_runner_up_town": "Trenčianska Turná",
+      "second_runner_up": "Lenka Sýkorová",
+      "second_runner_up_town": "Bratislava"
+    },
+    {
+      "year": 2009,
+      "miss": "Barbora Franeková",
+      "miss_town": "Žilina",
+      "first_runner_up": "Soňa Skoncová",
+      "first_runner_up_town": "Prievidza",
+      "second_runner_up": "Aneta Valentová",
+      "second_runner_up_town": "Lozorno"
+    },
+    {
+      "year": 2010,
+      "miss": "Marína Georgievová",
+      "miss_town": "Banská Bystrica",
+      "first_runner_up": "Martina Dávidová",
+      "first_runner_up_town": "Banská Bystrica",
+      "second_runner_up": "Tatiana Kohútová",
+      "second_runner_up_town": "Zvolen"
+    },
+    {
+      "year": 2011,
+      "miss": "Michaela Ňurciková",
+      "miss_town": "Nové Zámky",
+      "first_runner_up": "Dušana Lukáčová",
+      "first_runner_up_town": "Veľký Šariš",
+      "second_runner_up": "Ľubica Kvasnicová",
+      "second_runner_up_town": "Zvolen"
+    },
+    {
+      "year": 2012,
+      "miss": "Kristína Krajčírová",
+      "miss_town": "Bratislava",
+      "first_runner_up": "Denisa Krajčovičová",
+      "first_runner_up_town": "Bratislava",
+      "second_runner_up": "Silvia Kimličková",
+      "second_runner_up_town": "Bratislava"
+    },
+    {
+      "year": 2013,
+      "miss": "Karolína Chomisteková",
+      "miss_town": "Oravský Podzámok",
+      "first_runner_up": "Nikoleta Duchoňová",
+      "first_runner_up_town": "Trebatice",
+      "second_runner_up": "Luciána Čvirková",
+      "second_runner_up_town": "Trebišov"
+    },
+    {
+      "year": 2014,
+      "miss": "Laura Longauerová",
+      "miss_town": "Detva",
+      "first_runner_up": "Lucia Semanková",
+      "first_runner_up_town": "Bardejov",
+      "second_runner_up": "Michaela Nguyenová",
+      "second_runner_up_town": "Žiar nad Hronom"
+    },
+    {
+      "year": 2015,
+      "miss": "Lujza Straková",
+      "miss_town": "Banská Bystrica",
+      "first_runner_up": "Barbora Bakošová",
+      "first_runner_up_town": "Bratislava",
+      "second_runner_up": "Petra Denková",
+      "second_runner_up_town": "Uhorské"
+    },
+    {
+      "year": 2016,
+      "miss": "Kristína Činčurová",
+      "miss_town": "Lučenec",
+      "first_runner_up": "Michaela Meňkyová",
+      "first_runner_up_town": "Nitra",
+      "second_runner_up": "Lenka Tekeljaková",
+      "second_runner_up_town": "Žilina"
+    },
+    {
+      "year": 2017,
+      "miss": "Hanka Závodná",
+      "miss_town": "Bratislava",
+      "first_runner_up": "Petra Varaliová",
+      "first_runner_up_town": "Bardejov",
+      "second_runner_up": "Michaela Cmarková",
+      "second_runner_up_town": "Kanianka"
+    },
+    {
+      "year": 2018,
+      "miss": "Dominika Grecová",
+      "miss_town": "Humenné",
+      "first_runner_up": "Radka Grendová",
+      "first_runner_up_town": "Revúca",
+      "second_runner_up": "Jasmina Tatyová",
+      "second_runner_up_town": "Trnava"
+    },
+    {
+      "year": 2019,
+      "miss": "Frederika Kurtulíková",
+      "miss_town": "Bratislava",
+      "first_runner_up": "Alica Ondrášová",
+      "first_runner_up_town": "Unín",
+      "second_runner_up": "Natália Hrušovská",
+      "second_runner_up_town": "Nitra"
+    },
+    {
+      "year": 2020,
+      "miss": "Leona Novoberdaliu",
+      "miss_town": "Bratislava",
+      "first_runner_up": "Viktória Podmanická",
+      "first_runner_up_town": "Banská Bystrica",
+      "second_runner_up": "Kristína Víglaská",
+      "second_runner_up_town": "Zvolen"
+    },
+    {
+      "year": 2021,
+      "miss": "Sophia Hrivňáková",
+      "miss_town": "Banská Štiavnica",
+      "first_runner_up": "Sylvia Šulíková",
+      "first_runner_up_town": "Snina",
+      "second_runner_up": "Jana Vozárová",
+      "second_runner_up_town": "Púchov"
+    },
+    {
+      "year": 2023,
+      "miss": "Daniela Vojtasová",
+      "miss_town": "Dolný Kubín",
+      "first_runner_up": "Petra Siváková",
+      "first_runner_up_town": "Humenné",
+      "second_runner_up": "Sonja Kopčanová",
+      "second_runner_up_town": "Banská Bystrica"
+    }
+  ],
+  "meta": {
+    "title": "Miss Slovensko – víťazky a vicemiss - Free Download",
+    "description": "Víťazky súťaže krásy Miss Slovensko od roku 1993 spolu s I. a II. vicemiss a mestami, z ktorých pochádzajú. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Miss Slovensko – víťazky a vicemiss | ListBase",
+    "seo_description": "Download Miss Slovensko – víťazky a vicemiss — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://sk.wikipedia.org/wiki/Miss_Slovensko"
+    ]
+  }
+}
