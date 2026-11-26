@@ -1,0 +1,268 @@
+{
+  "id": "sk-policiou-zaznamenane-trestne-ciny-podla-druhu",
+  "name": "Trestné činy zaznamenané políciou na Slovensku podľa druhu (2016 – 2024)",
+  "title": "Trestné činy zaznamenané políciou na Slovensku podľa druhu (2016 – 2024)",
+  "description": "Ročný počet trestných činov zaznamenaných políciou na Slovensku podľa druhu v zmysle Medzinárodnej klasifikácie trestných činov na štatistické účely (ICCS): úmyselné vraždy, závažné ublíženia na zdraví, únosy, sexuálne násilie, znásilnenia, lúpeže, vlámania, krádeže, krádeže motorových vozidiel, drogová trestná činnosť, podvody, korupcia, úplatkárstvo, legalizácia príjmov z trestnej činnosti a počítačová kriminalita, 2016 – 2024. Zdroj: Eurostat (crim_off_cat).",
+  "category": "law",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/crim_off_cat/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/crim_off_cat/default/table",
+  "updated": "2026-11",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "intentional_homicide",
+      "label": "Intentional Homicide",
+      "type": "number"
+    },
+    {
+      "key": "serious_assault",
+      "label": "Serious Assault",
+      "type": "number"
+    },
+    {
+      "key": "kidnapping",
+      "label": "Kidnapping",
+      "type": "number"
+    },
+    {
+      "key": "sexual_violence",
+      "label": "Sexual Violence",
+      "type": "number"
+    },
+    {
+      "key": "rape",
+      "label": "Rape",
+      "type": "number"
+    },
+    {
+      "key": "robbery",
+      "label": "Robbery",
+      "type": "number"
+    },
+    {
+      "key": "burglary",
+      "label": "Burglary",
+      "type": "number"
+    },
+    {
+      "key": "theft",
+      "label": "Theft",
+      "type": "number"
+    },
+    {
+      "key": "motor_vehicle_theft",
+      "label": "Motor Vehicle Theft",
+      "type": "number"
+    },
+    {
+      "key": "drug_offences",
+      "label": "Drug Offences",
+      "type": "number"
+    },
+    {
+      "key": "fraud",
+      "label": "Fraud",
+      "type": "number"
+    },
+    {
+      "key": "corruption",
+      "label": "Corruption",
+      "type": "number"
+    },
+    {
+      "key": "bribery",
+      "label": "Bribery",
+      "type": "number"
+    },
+    {
+      "key": "money_laundering",
+      "label": "Money Laundering",
+      "type": "number"
+    },
+    {
+      "key": "cybercrime",
+      "label": "Cybercrime",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2016,
+      "intentional_homicide": 60,
+      "serious_assault": 1632,
+      "kidnapping": 102,
+      "sexual_violence": 656,
+      "rape": 82,
+      "robbery": 526,
+      "burglary": 6260,
+      "theft": 22130,
+      "motor_vehicle_theft": 1671,
+      "drug_offences": 1493,
+      "fraud": 2312,
+      "corruption": 105,
+      "bribery": 71,
+      "money_laundering": 116,
+      "cybercrime": 243
+    },
+    {
+      "year": 2017,
+      "intentional_homicide": 80,
+      "serious_assault": 1619,
+      "kidnapping": 89,
+      "sexual_violence": 705,
+      "rape": 96,
+      "robbery": 468,
+      "burglary": 5720,
+      "theft": 20295,
+      "motor_vehicle_theft": 1524,
+      "drug_offences": 1480,
+      "fraud": 2863,
+      "corruption": 167,
+      "bribery": 128,
+      "money_laundering": 117,
+      "cybercrime": 26
+    },
+    {
+      "year": 2018,
+      "intentional_homicide": 67,
+      "serious_assault": 1597,
+      "kidnapping": 92,
+      "sexual_violence": 667,
+      "rape": 99,
+      "robbery": 475,
+      "burglary": 4528,
+      "theft": 17232,
+      "motor_vehicle_theft": 1339,
+      "drug_offences": 1573,
+      "fraud": 2633,
+      "corruption": 151,
+      "bribery": 67,
+      "money_laundering": 111,
+      "cybercrime": 57
+    },
+    {
+      "year": 2019,
+      "intentional_homicide": 76,
+      "serious_assault": 1527,
+      "kidnapping": 95,
+      "sexual_violence": 698,
+      "rape": 97,
+      "robbery": 410,
+      "burglary": 3695,
+      "theft": 14796,
+      "motor_vehicle_theft": 1042,
+      "drug_offences": 1723,
+      "fraud": 2264,
+      "corruption": 136,
+      "bribery": 62,
+      "money_laundering": 62,
+      "cybercrime": 71
+    },
+    {
+      "year": 2020,
+      "intentional_homicide": 63,
+      "serious_assault": 1271,
+      "kidnapping": 53,
+      "sexual_violence": 619,
+      "rape": 92,
+      "robbery": 325,
+      "burglary": 3725,
+      "theft": 14003,
+      "motor_vehicle_theft": 982,
+      "drug_offences": 1493,
+      "fraud": 1984,
+      "corruption": 131,
+      "bribery": 66,
+      "money_laundering": 77,
+      "cybercrime": 62
+    },
+    {
+      "year": 2021,
+      "intentional_homicide": 55,
+      "serious_assault": 1131,
+      "kidnapping": 54,
+      "sexual_violence": 591,
+      "rape": 92,
+      "robbery": 289,
+      "burglary": 3247,
+      "theft": 9799,
+      "motor_vehicle_theft": 1018,
+      "drug_offences": 1806,
+      "fraud": 1911,
+      "corruption": 186,
+      "bribery": 181,
+      "money_laundering": 82,
+      "cybercrime": 72
+    },
+    {
+      "year": 2022,
+      "intentional_homicide": 42,
+      "serious_assault": 1295,
+      "kidnapping": 48,
+      "sexual_violence": 600,
+      "rape": 107,
+      "robbery": 313,
+      "burglary": 3521,
+      "theft": 11217,
+      "motor_vehicle_theft": 1061,
+      "drug_offences": 1540,
+      "fraud": 2423,
+      "corruption": 137,
+      "bribery": 122,
+      "money_laundering": 126,
+      "cybercrime": 44
+    },
+    {
+      "year": 2023,
+      "intentional_homicide": 62,
+      "serious_assault": 1272,
+      "kidnapping": 46,
+      "sexual_violence": 588,
+      "rape": 100,
+      "robbery": 333,
+      "burglary": 3667,
+      "theft": 11826,
+      "motor_vehicle_theft": 987,
+      "drug_offences": 1392,
+      "fraud": 2459,
+      "corruption": 82,
+      "bribery": 76,
+      "money_laundering": 56,
+      "cybercrime": 38
+    },
+    {
+      "year": 2024,
+      "intentional_homicide": 59,
+      "serious_assault": 1168,
+      "kidnapping": 38,
+      "sexual_violence": 587,
+      "rape": 131,
+      "robbery": 310,
+      "burglary": 3328,
+      "theft": 7749,
+      "motor_vehicle_theft": 786,
+      "drug_offences": 1287,
+      "fraud": 1449,
+      "corruption": 49,
+      "bribery": 42,
+      "money_laundering": 66,
+      "cybercrime": 45
+    }
+  ],
+  "meta": {
+    "title": "Trestné činy zaznamenané políciou na Slovensku podľa druhu (2016 – 2024) - Free Download",
+    "description": "Ročný počet trestných činov zaznamenaných políciou na Slovensku podľa druhu v zmysle Medzinárodnej klasifikácie trestných činov na štatistické účely (ICCS): úmyselné vraždy, závažné ublíženia na zdraví, únosy, sexuálne násilie, znásilnenia, lúpeže, vlámania, krádeže, krádeže motorových vozidiel, drogová trestná činnosť, podvody, korupcia, úplatkárstvo, legalizácia príjmov z trestnej činnosti a počítačová kriminalita, 2016 – 2024. Zdroj: Eurostat (crim_off_cat). Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Trestné činy zaznamenané políciou na Slovensku podľa druhu (2016 – 2024) | ListBase",
+    "seo_description": "Download Trestné činy zaznamenané políciou na Slovensku podľa druhu (2016 – 2024) — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/crim_off_cat/default/table"
+    ]
+  }
+}

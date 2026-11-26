@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-26T02:21:03.394Z",
-  "total_datasets": 524,
-  "total_records": 287981,
+  "generated": "2026-11-26T02:21:13.595Z",
+  "total_datasets": 525,
+  "total_records": 287990,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "music",
@@ -5574,6 +5574,43 @@
         "xlsx": {
           "name": "sk-ministri-vnutra_SK.xlsx",
           "size": 7993
+        }
+      }
+    },
+    {
+      "id": "sk-policiou-zaznamenane-trestne-ciny-podla-druhu",
+      "name": "Trestné činy zaznamenané políciou na Slovensku podľa druhu (2016 – 2024)",
+      "category": "law",
+      "record_count": 9,
+      "columns": [
+        "year",
+        "intentional_homicide",
+        "serious_assault",
+        "kidnapping",
+        "sexual_violence",
+        "rape",
+        "robbery",
+        "burglary",
+        "theft",
+        "motor_vehicle_theft",
+        "drug_offences",
+        "fraud",
+        "corruption",
+        "bribery",
+        "money_laundering",
+        "cybercrime"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/crim_off_cat/default/table",
+      "updated": "2026-11",
+      "size": 7604,
+      "files": {
+        "csv": {
+          "name": "sk-policiou-zaznamenane-trestne-ciny-podla-druhu_SK.csv",
+          "size": 1105
+        },
+        "xlsx": {
+          "name": "sk-policiou-zaznamenane-trestne-ciny-podla-druhu_SK.xlsx",
+          "size": 7731
         }
       }
     },
