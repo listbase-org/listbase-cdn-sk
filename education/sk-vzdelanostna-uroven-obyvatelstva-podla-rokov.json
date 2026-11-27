@@ -1,0 +1,248 @@
+{
+  "id": "sk-vzdelanostna-uroven-obyvatelstva-podla-rokov",
+  "name": "Vzdelanostná úroveň obyvateľstva Slovenska podľa rokov",
+  "title": "Vzdelanostná úroveň obyvateľstva Slovenska podľa rokov",
+  "description": "Podiel obyvateľov vo veku 25–64 rokov podľa najvyššieho dosiahnutého vzdelania (najviac nižšie stredné, stredné, terciárne), podiel osôb 25–34 s terciárnym vzdelaním a miera predčasného ukončenia školskej dochádzky (18–24) podľa rokov (Eurostat).",
+  "category": "education",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_03/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_03/default/table",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "pop_25_64_lower_secondary_or_less_pct",
+      "label": "Pop 25 64 Lower Secondary Or Less Pct",
+      "type": "number"
+    },
+    {
+      "key": "pop_25_64_upper_secondary_pct",
+      "label": "Pop 25 64 Upper Secondary Pct",
+      "type": "number"
+    },
+    {
+      "key": "pop_25_64_tertiary_pct",
+      "label": "Pop 25 64 Tertiary Pct",
+      "type": "number"
+    },
+    {
+      "key": "pop_25_34_tertiary_pct",
+      "label": "Pop 25 34 Tertiary Pct",
+      "type": "number"
+    },
+    {
+      "key": "early_leavers_18_24_pct",
+      "label": "Early Leavers 18 24 Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2002,
+      "pop_25_64_lower_secondary_or_less_pct": 14,
+      "pop_25_64_upper_secondary_pct": 75.1,
+      "pop_25_64_tertiary_pct": 10.9,
+      "pop_25_34_tertiary_pct": 11.9,
+      "early_leavers_18_24_pct": 6.7
+    },
+    {
+      "year": 2003,
+      "pop_25_64_lower_secondary_or_less_pct": 13.3,
+      "pop_25_64_upper_secondary_pct": 74.9,
+      "pop_25_64_tertiary_pct": 11.8,
+      "pop_25_34_tertiary_pct": 13.2,
+      "early_leavers_18_24_pct": 5.3
+    },
+    {
+      "year": 2004,
+      "pop_25_64_lower_secondary_or_less_pct": 13,
+      "pop_25_64_upper_secondary_pct": 74.2,
+      "pop_25_64_tertiary_pct": 12.8,
+      "pop_25_34_tertiary_pct": 14.3,
+      "early_leavers_18_24_pct": 6.8
+    },
+    {
+      "year": 2005,
+      "pop_25_64_lower_secondary_or_less_pct": 12.1,
+      "pop_25_64_upper_secondary_pct": 73.9,
+      "pop_25_64_tertiary_pct": 14,
+      "pop_25_34_tertiary_pct": 16.2,
+      "early_leavers_18_24_pct": 6.3
+    },
+    {
+      "year": 2006,
+      "pop_25_64_lower_secondary_or_less_pct": 11.2,
+      "pop_25_64_upper_secondary_pct": 74.2,
+      "pop_25_64_tertiary_pct": 14.5,
+      "pop_25_34_tertiary_pct": 16.6,
+      "early_leavers_18_24_pct": 6.6
+    },
+    {
+      "year": 2007,
+      "pop_25_64_lower_secondary_or_less_pct": 10.9,
+      "pop_25_64_upper_secondary_pct": 74.7,
+      "pop_25_64_tertiary_pct": 14.4,
+      "pop_25_34_tertiary_pct": 17.5,
+      "early_leavers_18_24_pct": 6.5
+    },
+    {
+      "year": 2008,
+      "pop_25_64_lower_secondary_or_less_pct": 10.1,
+      "pop_25_64_upper_secondary_pct": 75.2,
+      "pop_25_64_tertiary_pct": 14.8,
+      "pop_25_34_tertiary_pct": 18.4,
+      "early_leavers_18_24_pct": 6
+    },
+    {
+      "year": 2009,
+      "pop_25_64_lower_secondary_or_less_pct": 9.1,
+      "pop_25_64_upper_secondary_pct": 75.2,
+      "pop_25_64_tertiary_pct": 15.8,
+      "pop_25_34_tertiary_pct": 20.6,
+      "early_leavers_18_24_pct": 4.9
+    },
+    {
+      "year": 2010,
+      "pop_25_64_lower_secondary_or_less_pct": 9,
+      "pop_25_64_upper_secondary_pct": 73.6,
+      "pop_25_64_tertiary_pct": 17.3,
+      "pop_25_34_tertiary_pct": 24,
+      "early_leavers_18_24_pct": 4.7
+    },
+    {
+      "year": 2011,
+      "pop_25_64_lower_secondary_or_less_pct": 8.7,
+      "pop_25_64_upper_secondary_pct": 72.6,
+      "pop_25_64_tertiary_pct": 18.6,
+      "pop_25_34_tertiary_pct": 25.5,
+      "early_leavers_18_24_pct": 5.1
+    },
+    {
+      "year": 2012,
+      "pop_25_64_lower_secondary_or_less_pct": 8.3,
+      "pop_25_64_upper_secondary_pct": 72.7,
+      "pop_25_64_tertiary_pct": 19,
+      "pop_25_34_tertiary_pct": 27,
+      "early_leavers_18_24_pct": 5.3
+    },
+    {
+      "year": 2013,
+      "pop_25_64_lower_secondary_or_less_pct": 8.1,
+      "pop_25_64_upper_secondary_pct": 72,
+      "pop_25_64_tertiary_pct": 19.9,
+      "pop_25_34_tertiary_pct": 29.7,
+      "early_leavers_18_24_pct": 6.4
+    },
+    {
+      "year": 2014,
+      "pop_25_64_lower_secondary_or_less_pct": 9,
+      "pop_25_64_upper_secondary_pct": 70.6,
+      "pop_25_64_tertiary_pct": 20.4,
+      "pop_25_34_tertiary_pct": 29.8,
+      "early_leavers_18_24_pct": 6.7
+    },
+    {
+      "year": 2015,
+      "pop_25_64_lower_secondary_or_less_pct": 8.6,
+      "pop_25_64_upper_secondary_pct": 70.2,
+      "pop_25_64_tertiary_pct": 21.1,
+      "pop_25_34_tertiary_pct": 31.3,
+      "early_leavers_18_24_pct": 6.9
+    },
+    {
+      "year": 2016,
+      "pop_25_64_lower_secondary_or_less_pct": 8.1,
+      "pop_25_64_upper_secondary_pct": 69.9,
+      "pop_25_64_tertiary_pct": 22,
+      "pop_25_34_tertiary_pct": 33.4,
+      "early_leavers_18_24_pct": 7.4
+    },
+    {
+      "year": 2017,
+      "pop_25_64_lower_secondary_or_less_pct": 8.6,
+      "pop_25_64_upper_secondary_pct": 68.3,
+      "pop_25_64_tertiary_pct": 23.1,
+      "pop_25_34_tertiary_pct": 35.1,
+      "early_leavers_18_24_pct": 9.3
+    },
+    {
+      "year": 2018,
+      "pop_25_64_lower_secondary_or_less_pct": 8.3,
+      "pop_25_64_upper_secondary_pct": 67.1,
+      "pop_25_64_tertiary_pct": 24.6,
+      "pop_25_34_tertiary_pct": 37.2,
+      "early_leavers_18_24_pct": 8.6
+    },
+    {
+      "year": 2019,
+      "pop_25_64_lower_secondary_or_less_pct": 8.6,
+      "pop_25_64_upper_secondary_pct": 65.6,
+      "pop_25_64_tertiary_pct": 25.8,
+      "pop_25_34_tertiary_pct": 39.2,
+      "early_leavers_18_24_pct": 8.3
+    },
+    {
+      "year": 2020,
+      "pop_25_64_lower_secondary_or_less_pct": 7.3,
+      "pop_25_64_upper_secondary_pct": 65.9,
+      "pop_25_64_tertiary_pct": 26.8,
+      "pop_25_34_tertiary_pct": 39,
+      "early_leavers_18_24_pct": 7.6
+    },
+    {
+      "year": 2021,
+      "pop_25_64_lower_secondary_or_less_pct": 6.7,
+      "pop_25_64_upper_secondary_pct": 65.4,
+      "pop_25_64_tertiary_pct": 27.9,
+      "pop_25_34_tertiary_pct": 39.5,
+      "early_leavers_18_24_pct": 7.8
+    },
+    {
+      "year": 2022,
+      "pop_25_64_lower_secondary_or_less_pct": 6.3,
+      "pop_25_64_upper_secondary_pct": 64.5,
+      "pop_25_64_tertiary_pct": 29.2,
+      "pop_25_34_tertiary_pct": 39.1,
+      "early_leavers_18_24_pct": 7.4
+    },
+    {
+      "year": 2023,
+      "pop_25_64_lower_secondary_or_less_pct": 6.2,
+      "pop_25_64_upper_secondary_pct": 65,
+      "pop_25_64_tertiary_pct": 28.8,
+      "pop_25_34_tertiary_pct": 39.8,
+      "early_leavers_18_24_pct": 6.4
+    },
+    {
+      "year": 2024,
+      "pop_25_64_lower_secondary_or_less_pct": 6.1,
+      "pop_25_64_upper_secondary_pct": 64.9,
+      "pop_25_64_tertiary_pct": 29,
+      "pop_25_34_tertiary_pct": 37.2,
+      "early_leavers_18_24_pct": 7.5
+    },
+    {
+      "year": 2025,
+      "pop_25_64_lower_secondary_or_less_pct": 6,
+      "pop_25_64_upper_secondary_pct": 64.2,
+      "pop_25_64_tertiary_pct": 29.8,
+      "pop_25_34_tertiary_pct": 36.3,
+      "early_leavers_18_24_pct": 6.8
+    }
+  ],
+  "meta": {
+    "title": "Vzdelanostná úroveň obyvateľstva Slovenska podľa rokov - Free Download",
+    "description": "Podiel obyvateľov vo veku 25–64 rokov podľa najvyššieho dosiahnutého vzdelania (najviac nižšie stredné, stredné, terciárne), podiel osôb 25–34 s terciárnym vzdelaním a miera predčasného ukončenia školskej dochádzky (18–24) podľa rokov (Eurostat). Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vzdelanostná úroveň obyvateľstva Slovenska podľa rokov | ListBase",
+    "seo_description": "Download Vzdelanostná úroveň obyvateľstva Slovenska podľa rokov — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_03/default/table"
+    ]
+  }
+}

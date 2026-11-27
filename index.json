@@ -1,8 +1,8 @@
 {
   "lang": "sk",
-  "generated": "2026-11-27T02:21:09.468Z",
-  "total_datasets": 526,
-  "total_records": 288016,
+  "generated": "2026-11-27T02:21:20.747Z",
+  "total_datasets": 527,
+  "total_records": 288040,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "entertainment",
@@ -1733,6 +1733,33 @@
         "xlsx": {
           "name": "sk-univerzity_SK.xlsx",
           "size": 8663
+        }
+      }
+    },
+    {
+      "id": "sk-vzdelanostna-uroven-obyvatelstva-podla-rokov",
+      "name": "Vzdelanostná úroveň obyvateľstva Slovenska podľa rokov",
+      "category": "education",
+      "record_count": 24,
+      "columns": [
+        "year",
+        "pop_25_64_lower_secondary_or_less_pct",
+        "pop_25_64_upper_secondary_pct",
+        "pop_25_64_tertiary_pct",
+        "pop_25_34_tertiary_pct",
+        "early_leavers_18_24_pct"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_03/default/table",
+      "updated": "2026-11",
+      "size": 8244,
+      "files": {
+        "csv": {
+          "name": "sk-vzdelanostna-uroven-obyvatelstva-podla-rokov_SK.csv",
+          "size": 1094
+        },
+        "xlsx": {
+          "name": "sk-vzdelanostna-uroven-obyvatelstva-podla-rokov_SK.xlsx",
+          "size": 7593
         }
       }
     },
