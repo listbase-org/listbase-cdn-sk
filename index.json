@@ -1,12 +1,12 @@
 {
   "lang": "sk",
-  "generated": "2026-11-26T02:21:13.595Z",
-  "total_datasets": 525,
-  "total_records": 287990,
+  "generated": "2026-11-27T02:21:09.468Z",
+  "total_datasets": 526,
+  "total_records": 288016,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "culture",
@@ -199,6 +199,31 @@
         "xlsx": {
           "name": "sk-registrovane-odrody-vinica_SK.xlsx",
           "size": 8746
+        }
+      }
+    },
+    {
+      "id": "sk-stavy-hospodarskych-zvierat-podla-rokov",
+      "name": "Stavy hospodárskych zvierat na Slovensku podľa rokov",
+      "category": "agriculture",
+      "record_count": 26,
+      "columns": [
+        "year",
+        "cattle_thousand_heads",
+        "dairy_cows_thousand_heads",
+        "pigs_thousand_heads"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/apro_mt_lscatl/default/table",
+      "updated": "2026-11",
+      "size": 5802,
+      "files": {
+        "csv": {
+          "name": "sk-stavy-hospodarskych-zvierat-podla-rokov_SK.csv",
+          "size": 970
+        },
+        "xlsx": {
+          "name": "sk-stavy-hospodarskych-zvierat-podla-rokov_SK.xlsx",
+          "size": 7521
         }
       }
     },

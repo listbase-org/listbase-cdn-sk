@@ -1,0 +1,202 @@
+{
+  "id": "sk-stavy-hospodarskych-zvierat-podla-rokov",
+  "name": "Stavy hospodárskych zvierat na Slovensku podľa rokov",
+  "title": "Stavy hospodárskych zvierat na Slovensku podľa rokov",
+  "description": "Počet hovädzieho dobytka, dojníc a ošípaných na Slovensku (v tisícoch kusov, stav ku koncu roka) podľa rokov od roku 2000 (Eurostat).",
+  "category": "agriculture",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/apro_mt_lscatl/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/apro_mt_lscatl/default/table",
+  "updated": "2026-11",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "cattle_thousand_heads",
+      "label": "Cattle Thousand Heads",
+      "type": "number"
+    },
+    {
+      "key": "dairy_cows_thousand_heads",
+      "label": "Dairy Cows Thousand Heads",
+      "type": "number"
+    },
+    {
+      "key": "pigs_thousand_heads",
+      "label": "Pigs Thousand Heads",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2000,
+      "cattle_thousand_heads": 646.15,
+      "dairy_cows_thousand_heads": 242.5,
+      "pigs_thousand_heads": 1488.44
+    },
+    {
+      "year": 2001,
+      "cattle_thousand_heads": 625.19,
+      "dairy_cows_thousand_heads": 230.38,
+      "pigs_thousand_heads": 1517.29
+    },
+    {
+      "year": 2002,
+      "cattle_thousand_heads": 607.84,
+      "dairy_cows_thousand_heads": 230.18,
+      "pigs_thousand_heads": 1553.88
+    },
+    {
+      "year": 2003,
+      "cattle_thousand_heads": 593.18,
+      "dairy_cows_thousand_heads": 214.47,
+      "pigs_thousand_heads": 1443.01
+    },
+    {
+      "year": 2004,
+      "cattle_thousand_heads": 540.15,
+      "dairy_cows_thousand_heads": 201.73,
+      "pigs_thousand_heads": 1149.28
+    },
+    {
+      "year": 2005,
+      "cattle_thousand_heads": 527.89,
+      "dairy_cows_thousand_heads": 198.58,
+      "pigs_thousand_heads": 1108.27
+    },
+    {
+      "year": 2006,
+      "cattle_thousand_heads": 507.82,
+      "dairy_cows_thousand_heads": 184.95,
+      "pigs_thousand_heads": 1104.83
+    },
+    {
+      "year": 2007,
+      "cattle_thousand_heads": 501.82,
+      "dairy_cows_thousand_heads": 180.21,
+      "pigs_thousand_heads": 951.93
+    },
+    {
+      "year": 2008,
+      "cattle_thousand_heads": 488.38,
+      "dairy_cows_thousand_heads": 173.85,
+      "pigs_thousand_heads": 748.52
+    },
+    {
+      "year": 2009,
+      "cattle_thousand_heads": 471.97,
+      "dairy_cows_thousand_heads": 162.5,
+      "pigs_thousand_heads": 740.86
+    },
+    {
+      "year": 2010,
+      "cattle_thousand_heads": 467.13,
+      "dairy_cows_thousand_heads": 159.26,
+      "pigs_thousand_heads": 687.26
+    },
+    {
+      "year": 2011,
+      "cattle_thousand_heads": 463.36,
+      "dairy_cows_thousand_heads": 154.11,
+      "pigs_thousand_heads": 580.39
+    },
+    {
+      "year": 2012,
+      "cattle_thousand_heads": 471.08,
+      "dairy_cows_thousand_heads": 149.79,
+      "pigs_thousand_heads": 631.44
+    },
+    {
+      "year": 2013,
+      "cattle_thousand_heads": 467.82,
+      "dairy_cows_thousand_heads": 144.88,
+      "pigs_thousand_heads": 637.17
+    },
+    {
+      "year": 2014,
+      "cattle_thousand_heads": 465.54,
+      "dairy_cows_thousand_heads": 143.08,
+      "pigs_thousand_heads": 641.83
+    },
+    {
+      "year": 2015,
+      "cattle_thousand_heads": 457.46,
+      "dairy_cows_thousand_heads": 139.26,
+      "pigs_thousand_heads": 633.11
+    },
+    {
+      "year": 2016,
+      "cattle_thousand_heads": 446.11,
+      "dairy_cows_thousand_heads": 132.61,
+      "pigs_thousand_heads": 585.84
+    },
+    {
+      "year": 2017,
+      "cattle_thousand_heads": 439.83,
+      "dairy_cows_thousand_heads": 129.86,
+      "pigs_thousand_heads": 614.38
+    },
+    {
+      "year": 2018,
+      "cattle_thousand_heads": 438.86,
+      "dairy_cows_thousand_heads": 127.87,
+      "pigs_thousand_heads": 627.02
+    },
+    {
+      "year": 2019,
+      "cattle_thousand_heads": 432.25,
+      "dairy_cows_thousand_heads": 125.85,
+      "pigs_thousand_heads": 589.23
+    },
+    {
+      "year": 2020,
+      "cattle_thousand_heads": 442.29,
+      "dairy_cows_thousand_heads": 122.05,
+      "pigs_thousand_heads": 538.31
+    },
+    {
+      "year": 2021,
+      "cattle_thousand_heads": 434.09,
+      "dairy_cows_thousand_heads": 120.07,
+      "pigs_thousand_heads": 453.08
+    },
+    {
+      "year": 2022,
+      "cattle_thousand_heads": 433.18,
+      "dairy_cows_thousand_heads": 116.91,
+      "pigs_thousand_heads": 380.9
+    },
+    {
+      "year": 2023,
+      "cattle_thousand_heads": 429.72,
+      "dairy_cows_thousand_heads": 114.9,
+      "pigs_thousand_heads": 403.04
+    },
+    {
+      "year": 2024,
+      "cattle_thousand_heads": 416.68,
+      "dairy_cows_thousand_heads": 114.14,
+      "pigs_thousand_heads": 412.31
+    },
+    {
+      "year": 2025,
+      "cattle_thousand_heads": 413.47,
+      "dairy_cows_thousand_heads": 111.25,
+      "pigs_thousand_heads": 446.69
+    }
+  ],
+  "meta": {
+    "title": "Stavy hospodárskych zvierat na Slovensku podľa rokov - Free Download",
+    "description": "Počet hovädzieho dobytka, dojníc a ošípaných na Slovensku (v tisícoch kusov, stav ku koncu roka) podľa rokov od roku 2000 (Eurostat). Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Stavy hospodárskych zvierat na Slovensku podľa rokov | ListBase",
+    "seo_description": "Download Stavy hospodárskych zvierat na Slovensku podľa rokov — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/apro_mt_lscatl/default/table"
+    ]
+  }
+}
